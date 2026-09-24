@@ -1,0 +1,82 @@
+{
+  "guideTitle": "The Best Mini PCs Under $500 for a Compact Desk",
+  "breadcrumbLabel": "Best Mini PCs Under $500",
+  "metaTitle": "Best Mini PCs Under $500 for Home Offices (2026)",
+  "metaDescription": "We compared mini PCs under $500 on processor class, memory, storage and networking to show which suits everyday office work and which suits heavier multitasking.",
+  "introParagraphs": [
+    "A mini PC can replace a tower on a small desk, but under $500 the processor matters more than the brand or the \"gaming\" label on the listing. AMD's U-series chips are built for efficiency; HS-series chips run at higher power for heavier work, typically with more fan noise under load.",
+    "Configurations also vary between listings for the same model, so the RAM, storage and price you see here may differ from the listing you open. Check the exact variant before buying.",
+    "The four mini PCs below were between about $400 and $460 at the time of writing. Our comparison is based on published specifications, not hands-on testing or benchmarks."
+  ],
+  "products": {
+    "gch917sw-under500": {
+      "badge": "Best for Everyday Work",
+      "summary": "An efficient Ryzen 7 7730U with 16GB of RAM and a 1TB SSD.",
+      "description": "The BOSGAME P4 Ultra is the sensible pick for everyday office work: its Ryzen 7 7730U is an efficient U-series chip, and this configuration pairs it with 16GB of RAM and a 1TB SSD.\n\nThat is generous storage for the price and enough memory for browsers, office apps and video calls running together. U-series chips are designed for lower power draw, which suits a machine left on most of the day.\n\nThe gaming branding says little about what it is good at, and configurations vary by listing, so confirm the RAM and storage on the page you buy from.",
+      "specs": ["CPU: AMD Ryzen 7 7730U", "Memory: 16GB", "Storage: 1TB PCIe SSD"],
+      "pros": ["Efficient U-series processor", "1TB of storage", "16GB of memory"],
+      "cons": ["Configuration varies by listing", "Less processing headroom than the HS-series picks", "Ports and cooling aren't detailed in the listing summary"],
+      "bestFor": "A compact home-office PC for everyday apps, browsing and video calls.",
+      "skipIf": "You run heavy multithreaded work like video exports; the AOOSTAR's Ryzen 9 8945HS offers more on paper."
+    },
+    "fldc98gc-under500": {
+      "badge": "Best for Dual Networking",
+      "summary": "An HS-series Ryzen 7640HS with DDR5 memory and two network ports.",
+      "description": "The GMKtec's distinguishing feature is networking: it has two network ports, useful if you want the machine to double as a small home server or firewall, and it uses a higher-power HS-series Ryzen 7640HS with 16GB of DDR5.\n\nHS-series chips can sustain heavier workloads than U-series chips, at the cost of more power draw and fan noise. Storage is 512GB, half the BOSGAME's.\n\nIt is the most expensive mini PC here at the time of writing, and the AOOSTAR offers a higher-tier HS chip for less, so the dual network ports are the main reason to choose it.",
+      "specs": ["CPU: AMD Ryzen 7640HS (HS-series)", "Memory: 16GB DDR5", "Storage: 512GB NVMe SSD", "Networking: dual NIC"],
+      "pros": ["Two network ports", "DDR5 memory", "HS-series processor for heavier work"],
+      "cons": ["Most expensive here at the time of writing", "Half the storage of the BOSGAME", "AOOSTAR offers a higher-tier chip for less"],
+      "bestFor": "A mini PC that also handles home networking or server duties.",
+      "skipIf": "You don't need two network ports; the AOOSTAR or BOSGAME is the better value."
+    },
+    "dbyb71gj-under500": {
+      "badge": "Alternate BOSGAME Listing",
+      "summary": "The same Ryzen 7 7730U, 16GB and 1TB configuration, with a larger review base.",
+      "description": "This is another listing for the BOSGAME P4 Ultra with the same Ryzen 7 7730U, 16GB of DDR4 and a 1TB SSD. Its main difference is a larger base of buyer reviews, which gives you more feedback to read, though its average rating is lower than the other BOSGAME listing's.\n\nIn practice, buy whichever BOSGAME listing is cheaper and matches the configuration you want at the time you shop.",
+      "specs": ["CPU: AMD Ryzen 7 7730U", "Memory: 16GB DDR4", "Storage: 1TB PCIe SSD"],
+      "pros": ["Same efficient configuration as the top pick", "Larger base of buyer feedback", "1TB of storage"],
+      "cons": ["Effectively duplicates the top pick", "Lower average rating than the other listing", "Configuration varies by listing"],
+      "bestFor": "Readers who prefer a listing with more buyer feedback for the BOSGAME P4 Ultra.",
+      "skipIf": "The other BOSGAME listing is cheaper when you shop; they are the same machine on paper."
+    },
+    "g6jjl7hz-under500": {
+      "badge": "Best for Heavier Work",
+      "summary": "An 8-core, 16-thread Ryzen 9 8945HS reaching 5.2GHz, the strongest chip here on paper.",
+      "description": "The AOOSTAR MACO has the most capable processor in this guide on paper: a Ryzen 9 8945HS with 8 cores, 16 threads and a boost clock of up to 5.2GHz, at the lowest price here at the time of writing.\n\nThat makes it the better fit for heavier multitasking, such as photo and video work or many applications at once. As an HS-series chip, it draws more power and is likely to be louder under load than the U-series BOSGAME.\n\nIt is a newer listing with less buyer feedback, and the listing summary doesn't state RAM or storage, so confirm the configuration before buying.",
+      "specs": ["CPU: AMD Ryzen 9 8945HS (8 cores / 16 threads)", "Boost clock: up to 5.2GHz", "Memory and storage: check the listing"],
+      "pros": ["Most capable processor here on paper", "Lowest price here at the time of writing", "8 cores and 16 threads"],
+      "cons": ["RAM and storage aren't stated in the listing summary", "Newer listing with less buyer feedback", "Higher power draw than U-series chips"],
+      "bestFor": "Heavier multitasking, photo work or light video editing on a small desk.",
+      "skipIf": "You want a quiet, efficient machine for office apps; the BOSGAME P4 Ultra is the better fit."
+    }
+  },
+  "buyingCriteria": [
+    { "criterion": "Look at the processor class, not the label", "explanation": "AMD U-series chips, like the Ryzen 7 7730U, prioritize efficiency; HS-series chips, like the 7640HS and 8945HS, run at higher power for sustained work. For office apps and browsing, U-series is usually sufficient; for heavier multitasking, HS-series has more headroom." },
+    { "criterion": "Confirm the exact configuration", "explanation": "The same model can be sold with different RAM and storage. Check the listing you buy from, and aim for at least 16GB of RAM for comfortable multitasking." },
+    { "criterion": "Check ports for your desk setup", "explanation": "Count the display outputs you need for your monitors, and the USB ports for your peripherals. The listing summaries here don't detail every port, so check the full specifications." },
+    { "criterion": "Consider noise", "explanation": "Higher-power chips generally need more cooling. If the PC sits on your desk in a quiet room, an efficient U-series machine is likely to be less noticeable." }
+  ],
+  "howWeEvaluated": [
+    { "title": "Processor class", "description": "We compared the listed processors by series, core count and boost clock." },
+    { "title": "Memory and storage", "description": "We compared listed RAM and SSD capacity and flagged listings that don't state them." },
+    { "title": "Networking and extras", "description": "We noted features such as dual network ports." },
+    { "title": "Price position", "description": "We compared prices at the time of writing; they change frequently." }
+  ],
+  "howToChoose": [
+    { "subheading": "By workload", "table": { "headers": ["Workload", "Consider", "Why"], "rows": [
+      ["Office apps, browsing, video calls", "BOSGAME P4 Ultra", "Efficient Ryzen 7 7730U, 16GB, 1TB"],
+      ["Photo work and heavier multitasking", "AOOSTAR MACO", "Ryzen 9 8945HS, 8 cores / 16 threads"],
+      ["Home networking or server use", "GMKtec 7640HS", "Dual network ports"]
+    ] } }
+  ],
+  "faq": [
+    { "q": "Do mini PC prices change often?", "a": "Yes. Prices and configurations change frequently, so check the current listing before buying." },
+    { "q": "Are all mini PCs under $500 similar in performance?", "a": "No. The processor series and generation matter more than the price. Here, the Ryzen 9 8945HS has the most processing capacity on paper and the Ryzen 7 7730U is the most efficient." },
+    { "q": "Can a mini PC under $500 handle gaming?", "a": "None of the listings here confirm a dedicated or external graphics option. They rely on integrated graphics, so check the specifications if gaming matters to you." },
+    { "q": "Should I trust the RAM and storage figures in a guide?", "a": "Use them as a starting point. Configurations vary by listing, so confirm them on the page you buy from." }
+  ],
+  "bottomLine": [
+    "For a home office, the BOSGAME P4 Ultra is the sensible choice: an efficient processor, 16GB of RAM and 1TB of storage cover everyday work without much power draw.",
+    "If you need more processing power, the AOOSTAR MACO's Ryzen 9 8945HS is the strongest chip here on paper and, at the time of writing, the least expensive; confirm its memory and storage first. The GMKtec makes sense mainly for its dual network ports."
+  ]
+}

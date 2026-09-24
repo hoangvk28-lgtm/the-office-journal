@@ -17,7 +17,7 @@
       "pros": ["Highest contrast of the VA picks", "Height-adjustable stand", "Low price for a 34-inch curved panel"],
       "cons": ["165Hz is below the other VA picks", "VA smearing in dark, fast scenes", "No USB-C"],
       "bestFor": "First-time ultrawide buyers who want a capable 34-inch VA panel for as little as possible.",
-      "skipIf": "The VG34VQ3B is the same price when you buy; it adds 180Hz and USB ports."
+      "skipIf": "The VG34VQ3B is priced the same when you buy; it adds 180Hz and USB ports."
     },
     "alienware-aw3425dwm": {
       "badge": "Best VA Monitor for PC and Console",
@@ -82,7 +82,7 @@
     "asus-rog-swift-pg34wcdn": {
       "badge": "Best for Competitive Play",
       "summary": "The fastest monitor here at 360Hz, with DisplayPort 2.1 and 90W USB-C.",
-      "description": "The ASUS ROG Swift PG34WCDN is for competitive players whose GPU can push very high frame rates: at 360Hz it is the fastest monitor here.\n\nIt also lists DisplayPort 2.1, 90W USB-C, HDR500 True Black, 99 percent DCI-P3, a proximity sensor and a three-year warranty, making it the most connected monitor here.\n\nThe extra refresh rate matters mostly in fast competitive games running at very high frame rates. It is the most expensive monitor here at the time of writing and had few buyer reviews at the time of writing.",
+      "description": "The ASUS ROG Swift PG34WCDN is for competitive players whose GPU can push very high frame rates: at 360Hz it is the fastest monitor here.\n\nIt also lists DisplayPort 2.1, 90W USB-C, HDR500 True Black, 99 percent DCI-P3, a proximity sensor and a three-year warranty, making it the most connected monitor here.\n\nThe extra refresh rate matters mostly in fast competitive games running at very high frame rates. It is the most expensive monitor here at the time of writing, and it had few buyer reviews when this guide was updated.",
       "specs": ["Panel: 34\" QD-OLED, 3440 x 1440", "Refresh: 360Hz, 0.03ms", "Contrast: 1,500,000:1", "HDR500 True Black", "DisplayPort 2.1, USB-C 90W", "Warranty: 3 years"],
       "pros": ["Highest refresh rate here", "DisplayPort 2.1 and 90W USB-C", "Three-year warranty"],
       "cons": ["Most expensive monitor here", "Few buyer reviews so far", "360Hz needs a powerful GPU to use fully"],

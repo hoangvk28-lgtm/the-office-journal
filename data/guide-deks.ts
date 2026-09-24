@@ -23,4 +23,24 @@ export const guideDeks: Record<string, string> = {
     "We compared chairs rated from 330 to 500 lb on capacity, seat width, tall-user fit and upholstery, separating the needs of heavier and taller users.",
   "best-digital-notebooks-under-300":
     "We compared five Rocketbook-style reusable notebooks and three smart pen sets on how they sync, page format and what's in the box.",
+  "best-office-chair-for-tall-person":
+    "We compared eight chairs on maximum seat height, seat depth and back height, from a $120 mesh chair to configurable Steelcase models, to show which fit longer legs and torsos.",
+  "best-desk-lights-for-video-calls":
+    "We compared dedicated video lights with desk lamps that double as fill light, to show which approach fixes a shadowed face on camera and which suits a desk used all day.",
+  "best-chair-mat-for-hardwood-floors":
+    "We compared eight chair mats for hardwood, from thin clear PVC to a rigid composite, on material, backing, thickness and size, to show how much protection a given floor actually calls for.",
+  "best-ultrawide-monitor-for-gaming":
+    "We compared eight gaming ultrawides, from $280 VA panels to a 360Hz QD-OLED, on panel type, refresh rate, sync support and warranty, to show where the extra money goes.",
+  "best-office-chair-under-500":
+    "We compared eight chairs between about $330 and $500 on adjustment, fit and warranty, to show when a feature-heavy mesh chair beats a longer warranty or a more traditional executive design.",
+  "best-ergonomic-keyboards-under-100":
+    "We compared eight keyboards under $100 by layout, connection and included rest, to show when a split design is worth the adjustment and when a curved one-piece board is enough.",
+  "best-digital-notebooks-under-500":
+    "We compared an e-ink tablet, five reusable Rocketbooks and two smart pen sets, to show how each turns handwriting into digital notes and what the price difference buys.",
+  "best-ultrawide-monitor-setup":
+    "We compared a deep desk, two 49-inch-rated arms, a multi-display dock and three finishing pieces on the constraint each one solves.",
+  "best-mini-pcs-under-500":
+    "We compared four mini PCs on processor class, memory, storage and networking, and flag where listings differ by configuration.",
+  "best-curved-ultrawide-monitor":
+    "We compared seven curved ultrawides on curve radius, panel type, refresh rate and connectivity, from a budget VA panel to a 49-inch QD-OLED.",
 };

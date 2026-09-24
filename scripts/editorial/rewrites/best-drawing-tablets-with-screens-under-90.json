@@ -1,0 +1,133 @@
+{
+  "guideTitle": "The Best Drawing Tablets Under $90, and What a Screen Really Costs",
+  "breadcrumbLabel": "Best Drawing Tablets Under $90",
+  "metaTitle": "Best Drawing Tablets With Screens Under $90: Realistic Options (2026)",
+  "metaDescription": "Pen displays rarely fall under $90. We explain what the budget realistically buys, compare screenless tablets from Huion, Wacom, UGEE and XOPPOX, and show the nearest screen model.",
+  "introParagraphs": [
+    "The honest answer first: a new drawing tablet with a built-in screen is very hard to find under $90. At the time of writing, even the budget pen display in this guide, the VEIKK VK1200 V2, costs well above that, and major-brand pen displays cost considerably more.",
+    "What $90 does buy is a screenless pen tablet: you draw on a pad on the desk and watch the cursor on your monitor. It takes some getting used to, but it is how many people start, and the tablets here cost between about $25 and $50 at the time of writing, leaving room in the budget.",
+    "This guide therefore does two things: it shows the nearest screen option for anyone who can stretch the budget, and compares the screenless tablets on active area, pen, shortcut keys and compatibility. Our comparison is based on published specifications and price position, not hands-on testing."
+  ],
+  "products": {
+    "best-drawing-tablets-with-screens-under-90-1": {
+      "badge": "Nearest Screen Option (Above Budget)",
+      "summary": "An 11.6-inch pen display with a laminated anti-glare screen, priced above $90 at the time of writing.",
+      "description": "The VEIKK VK1200 V2 is the only tablet here with a screen, and it is the one to look at if drawing directly on the image matters more than staying under $90. At about $143 at the time of writing, it is over the budget.\n\nVEIKK lists an 11.6-inch fully laminated screen with anti-glare glass, a battery-free pen with 16,384 pressure levels and tilt support. Lamination reduces the gap between the pen tip and the image.\n\nA pen display also needs a computer and cable connection; check the included cables and your computer's ports before ordering.",
+      "specs": ["Screen: 11.6\", fully laminated, anti-glare glass", "Pen: battery-free, 16,384 pressure levels, tilt"],
+      "pros": ["Draw directly on the screen", "Laminated anti-glare display", "Tilt support"],
+      "cons": ["Above $90 at the time of writing", "Needs a computer connection"],
+      "bestFor": "Buyers who can stretch the budget to draw directly on a screen.",
+      "skipIf": "You must stay under $90; a screenless tablet is the realistic option."
+    },
+    "best-drawing-tablets-with-screens-under-90-2": {
+      "badge": "Best Low-Cost Starter Tablet",
+      "summary": "A small, light screenless Huion tablet with a battery-free pen for about $25.",
+      "description": "The Huion H420X is the lowest-cost way to try digital drawing: a screenless tablet with a battery-free pen offering 8,192 pressure levels.\n\nHuion lists a 7mm thickness and 167g weight, making it easy to carry, and compatibility with Windows 7 or later, macOS 10.12 or later and Android 6.0 or later.\n\nIts small size means a small drawing area, which suits sketching, signatures and photo touch-ups more than broad strokes. Larger tablets here cost only a little more.",
+      "specs": ["Type: screenless pen tablet", "Pen: battery-free, 8,192 levels", "Thickness: 7mm; weight: 167g", "Compatibility: Windows 7+, macOS 10.12+, Android 6.0+"],
+      "pros": ["Lowest price here", "Very portable", "Battery-free pen"],
+      "cons": ["Small drawing area", "No screen"],
+      "bestFor": "Beginners who want to try a pen tablet for as little as possible.",
+      "skipIf": "You want more drawing room; the UGEE M708 or the 10 x 6-inch tablet offer much more."
+    },
+    "best-drawing-tablets-with-screens-under-90-3": {
+      "badge": "Best Brand-Name Tablet",
+      "summary": "Wacom's entry-level screenless tablet with a battery-free EMR pen.",
+      "description": "The Wacom Intuos Small is the pick for buyers who want the established brand in pen tablets: a screenless tablet with Wacom's battery-free EMR pen, which Wacom says works with any software.\n\nWacom describes it as suited to drawing, painting, photo and video editing and marking up documents.\n\nAs the name says, it is small, and it costs more than similarly sized tablets from Huion. The listing does not give an active area or pressure level figure.",
+      "specs": ["Type: screenless pen tablet", "Pen: battery-free EMR", "Size: small"],
+      "pros": ["Established brand", "Battery-free pen", "Broad software compatibility"],
+      "cons": ["Small drawing area", "Active area and pressure levels not listed"],
+      "bestFor": "Buyers who prefer a well-known brand for their first tablet.",
+      "skipIf": "You want the largest drawing area for the money; the UGEE M708 costs slightly less."
+    },
+    "best-drawing-tablets-with-screens-under-90-4": {
+      "badge": "Best Large Drawing Area",
+      "summary": "A large-area UGEE tablet with a 16,384-level pen, pen holder and spare tips.",
+      "description": "The UGEE M708 is the choice if drawing room matters: UGEE lists a large active area and a battery-free pen with 16,384 pressure levels.\n\nIt is designed for left- or right-handed use and comes with a pen holder and extra pen tips. It costs a few dollars less than the Wacom Intuos Small at the time of writing.\n\nA larger tablet takes more desk space. Compatibility varies by model version, so check the listing against your operating system.",
+      "specs": ["Type: screenless pen tablet", "Active area: large (per listing)", "Pen: battery-free, 16,384 levels", "Pen holder and spare tips included"],
+      "pros": ["Large drawing area", "High listed pressure levels", "Ambidextrous design"],
+      "cons": ["Takes more desk space", "Exact active area not given in the listing"],
+      "bestFor": "Beginners who want plenty of room for broad strokes.",
+      "skipIf": "You want a tablet to carry around; the Huion H420X or H640P are smaller."
+    },
+    "best-drawing-tablets-with-screens-under-90-5": {
+      "badge": "Alternative UGEE Listing",
+      "summary": "A UGEE graphics tablet that appears to use the M708 pen, with broad Windows support.",
+      "description": "This UGEE listing appears to be closely related to the M708: its specifications reference the M708 pen and list compatibility with Windows 7, 8, 10 and 11 among other systems.\n\nThe listing gives fewer details than the M708 entry above, including no active area or pressure figure.\n\nCompare both UGEE listings side by side before ordering; if they are the same tablet, choose whichever is cheaper at the time you buy.",
+      "specs": ["Type: screenless pen tablet", "Compatibility: Windows 7/8/10/11 and other systems", "Pen: M708 (per listing)"],
+      "pros": ["Similar to the UGEE M708", "Broad Windows support"],
+      "cons": ["Few specifications listed", "May duplicate the M708"],
+      "bestFor": "Buyers comparing UGEE listings for the best current price.",
+      "skipIf": "You want full specifications; the UGEE M708 listing gives more detail."
+    },
+    "best-drawing-tablets-with-screens-under-90-6": {
+      "badge": "Best Compact Tablet With Shortcut Keys",
+      "summary": "A 6 x 4-inch Huion tablet with six customizable keys and a battery-free pen.",
+      "description": "The Huion H640P is the compact pick for people who want shortcut keys: six customizable buttons for commands such as undo, zoom or brush switching, so you can keep your hand on the tablet.\n\nIt has a 6 x 4-inch area and a battery-free PW100 pen with 8,192 pressure levels, and Huion lists support for Mac, Windows, Linux and Android 6.0 or later.\n\nThe drawing area is modest, though larger than the H420X's, for only a few dollars more.",
+      "specs": ["Type: screenless pen tablet", "Area: 6 x 4\"", "Shortcut keys: 6", "Pen: battery-free PW100, 8,192 levels", "Compatibility: Mac, Windows, Linux, Android 6.0+"],
+      "pros": ["Six shortcut keys", "Linux support listed", "Compact"],
+      "cons": ["Modest drawing area", "No screen"],
+      "bestFor": "Students and hobbyists who want shortcuts in a portable tablet.",
+      "skipIf": "You want a larger area; the 10 x 6-inch tablet or UGEE M708 give more room."
+    },
+    "best-drawing-tablets-with-screens-under-90-7": {
+      "badge": "Best for Office Software",
+      "summary": "A battery-free tablet with shortcut keys that XOPPOX says works with Word, Excel and PowerPoint.",
+      "description": "The XOPPOX tablet suits anyone who wants to annotate documents and presentations as well as draw: XOPPOX lists compatibility with Microsoft Word, Excel and PowerPoint.\n\nIt has shortcut keys and a battery-free pen with 8,192 pressure levels. XOPPOX lists support for Windows XP through 11, Android 4.4 and later and macOS 11 or later, but not iPhone, iPad or Chromebook.\n\nThe listing does not give an active area.",
+      "specs": ["Type: screenless pen tablet", "Pen: battery-free, 8,192 levels", "Shortcut keys", "Compatibility: Windows, Android 4.4+, macOS 11+; not iOS, iPadOS or ChromeOS"],
+      "pros": ["Office software support listed", "Shortcut keys", "Clear compatibility list"],
+      "cons": ["Does not work with Chromebooks or iPads", "Active area not listed"],
+      "bestFor": "Remote workers and teachers who want to mark up documents by hand.",
+      "skipIf": "You use a Chromebook; the 10 x 6-inch tablet lists ChromeOS support."
+    },
+    "best-drawing-tablets-with-screens-under-90-8": {
+      "badge": "Best Accessory Bundle",
+      "summary": "A 10 x 6-inch tablet with a tilt-supporting pen, textured surface and a full accessory kit.",
+      "description": "This graphics tablet is the most complete kit here: a 10 x 6-inch active area, a tilt-supporting pen with 8,192 pressure levels, a paper-like textured surface, and a bundle including a pen stand, eight spare nibs, a drawing glove and cleaning supplies.\n\nThe listing claims compatibility with Windows, macOS, ChromeOS 88 or later and Linux, which makes it the broadest here.\n\nIt is the most expensive screenless tablet in this guide at about $50 at the time of writing. The listing text refers to the UGEE M708, so it may be a UGEE product sold under a generic name; check the brand before ordering.",
+      "specs": ["Type: screenless pen tablet", "Active area: 10 x 6\"", "Pen: 8,192 levels, tilt", "Textured surface", "Compatibility: Windows, macOS, ChromeOS 88+, Linux", "Accessories: stand, 8 nibs, glove, cleaning kit"],
+      "pros": ["Large area with tilt support", "Broadest compatibility here, including ChromeOS", "Full accessory kit"],
+      "cons": ["Most expensive screenless tablet here", "Brand unclear in the listing"],
+      "bestFor": "Beginners who want a larger tablet with tilt support and everything in the box.",
+      "skipIf": "You want the lowest price; the Huion H420X or H640P cost about half as much."
+    }
+  },
+  "buyingCriteria": [
+    { "criterion": "Screen or screenless", "explanation": "A pen display lets you draw directly on the image, but in this guide the only one costs well above $90. A screenless tablet costs far less; you draw on the pad and watch the monitor, which takes some practice." },
+    { "criterion": "Active area", "explanation": "A larger area suits broad strokes and bigger monitors; a smaller one is more portable. Here, areas range from the compact Huion H420X to the 10 x 6-inch kit." },
+    { "criterion": "Pen", "explanation": "All the pens here are battery-free. Pressure levels range from 8,192 to 16,384; tilt support, listed on the VEIKK and the 10 x 6-inch tablet, helps with shading." },
+    { "criterion": "Compatibility", "explanation": "Check your operating system against the listing. XOPPOX excludes Chromebooks and iPads; the 10 x 6-inch tablet lists ChromeOS; the H640P lists Linux." },
+    { "criterion": "Shortcut keys and accessories", "explanation": "Programmable keys save trips to the keyboard. Spare nibs and a glove add value if they are included." }
+  ],
+  "howWeEvaluated": [
+    { "title": "Category fit", "description": "We checked whether each product has a screen. Only one does, and it is priced above $90, so we say so rather than presenting screenless tablets as pen displays." },
+    { "title": "Drawing area and pen", "description": "We compared active area, pressure levels and tilt support where listed." },
+    { "title": "Compatibility", "description": "We recorded the operating systems each listing supports and excludes." },
+    { "title": "Price position", "description": "We compared what each step up in price adds. Prices change often, so we treat them as relative position." }
+  ],
+  "howToChoose": [
+    { "subheading": "By priority", "table": { "headers": ["Priority", "Consider", "Why"], "rows": [
+      ["Drawing on a screen", "VEIKK VK1200 V2", "11.6-inch display, above $90"],
+      ["Lowest cost", "Huion H420X", "About $25"],
+      ["Shortcut keys, compact", "Huion H640P", "Six keys, 6 x 4 inches"],
+      ["A large area", "UGEE M708 or 10 x 6-inch tablet", "More room for broad strokes"],
+      ["A familiar brand", "Wacom Intuos Small", "EMR battery-free pen"],
+      ["Marking up documents", "XOPPOX", "Office software support listed"],
+      ["Chromebook", "10 x 6-inch tablet", "ChromeOS 88+ listed"]
+    ] } },
+    { "subheading": "By price at the time of writing", "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.", "table": { "headers": ["Price tier", "Tablets"], "rows": [
+      ["About $25–$30", "Huion H420X, Huion H640P"],
+      ["About $38–$50", "UGEE M708, XOPPOX, Wacom Intuos Small, UGEE graphics tablet, 10 x 6-inch tablet"],
+      ["About $143", "VEIKK VK1200 V2 (screen)"]
+    ] } }
+  ],
+  "faq": [
+    { "q": "Can I get a drawing tablet with a screen under $90?", "a": "It is unusual. In this guide, the only screen model, the VEIKK VK1200 V2, cost about $143 at the time of writing. Check for sales, but expect to pay more than $90 for a new pen display." },
+    { "q": "Is a screenless tablet hard to learn?", "a": "It takes some practice to draw while looking at the monitor rather than your hand. Many people adjust with regular use, and the low cost makes it a sensible way to find out whether digital drawing suits you." },
+    { "q": "Is a cheaper tablet always lower quality?", "a": "Not necessarily. The pens here are all battery-free, and differences are more about drawing area, shortcut keys and compatibility than basic function." },
+    { "q": "What else might I need to buy?", "a": "Check the included items. Screenless tablets usually need only a USB connection. A pen display may need specific cables or ports, and a drawing glove or spare nibs may be extra." },
+    { "q": "How often do prices change?", "a": "Often. Treat the prices here as a snapshot and check the listing before buying." }
+  ],
+  "bottomLine": [
+    "If you need a screen, budget above $90: the VEIKK VK1200 V2 is the nearest option in this guide. If $90 is a firm limit, a screenless tablet is the realistic choice and leaves money to spare.",
+    "Among those, the Huion H420X is the cheapest way to start, the H640P adds shortcut keys, and the UGEE M708 and the 10 x 6-inch kit give the most drawing room, with the kit adding tilt support and ChromeOS compatibility. Choose the Wacom for the brand, or the XOPPOX if you mainly want to mark up documents."
+  ]
+}

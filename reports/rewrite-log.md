@@ -98,3 +98,20 @@ Per-article rewrite reports (rule 37). Newest at the bottom.
 - **Facts needing verification:** Rocketbook Flip (teal) described as "compact" but listed as 8.5x11; Smart Sync / Ophayapen OCR not described.
 - **Possibly redundant (strong):** five Rocketbook variants (Core, Flip teal, Flip navy, Flip kit, Fusion) — consider consolidating to 2–3 plus "Also Considered"; Ophayapen offers no listed advantage over the cheaper SyncPen. Title "Under $300" is misleading since nothing exceeds ~$100 — consider retitling or merging with the under-$200 guide.
 - **Metadata/structured data updated:** yes · **Affiliate tag:** ok · **Manual review:** yes (redundancy, scope)
+
+---
+## best-ultrawide-monitor-setup — /guide/best-ultrawide-monitor-setup
+- **Old title:** 7 Best Gear Picks for an Ultrawide Monitor Setup in 2026 · **New SEO title:** Best Ultrawide Monitor Setup Gear: Desk, Arm and Dock (2026) · **New H1:** The Best Gear for an Ultrawide Monitor Setup
+- **Angle:** depth is the constraint; each item solves one ultrawide problem. Custom section headings set (not a "Best X" product category).
+- **Removed:** generic boilerplate criteria ("a ultrawide monitor setup"), review counts/star ratings as proof, "3 inches of cable clearance", viewing-distance ranges, "MacBook needs 90W", "gas spring may loosen faster", DeskFinds template phrases. Manufacturer claims (TitanLift 20%/30%, KTRIO waterproof) attributed.
+- **Verify:** TitanLift 5-year warranty here vs. no warranty mentioned in the monitor-arms guide listing; LIONWEI multi-display depends on host OS.
+- **Metadata/structured data:** yes · **Affiliate tag:** ok · **Manual review:** no
+
+---
+## best-mini-pcs-under-500 — /guide/best-mini-pcs-under-500
+- **Old title:** 4 Best Mini PCs Under $500 in 2026 · **New SEO title:** Best Mini PCs Under $500 for Home Offices (2026) · **New H1:** The Best Mini PCs Under $500 for a Compact Desk
+- **Angle:** processor class (U vs HS) decides fit; confirm configuration per listing.
+- **Removed:** star ratings as evidence, repeated "Worth knowing before you decide…" template, "genuine" padding; fanless/active cooling card that contradicted itself.
+- **Verify / conflicts:** GMKtec 7640HS was labeled "strongest processor tier" though the cheaper AOOSTAR Ryzen 9 8945HS is higher-tier on paper; BOSGAME was called both "actively cooled" and "fanless"; AOOSTAR RAM/storage not stated; GMKtec chip listed as "Ryzen 7640HS" without model family.
+- **Redundant:** #1 and #3 are the same BOSGAME P4 Ultra (7730U/16GB/1TB) on two listings — recommend removing one.
+- **Metadata/structured data:** yes · **Affiliate tag:** ok · **Manual review:** yes

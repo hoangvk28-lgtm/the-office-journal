@@ -1,453 +1,373 @@
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+
 export const guideSlug = "best-ultrawide-monitor-setup";
-export const guideTitle = "7 Best Gear Picks for an Ultrawide Monitor Setup in 2026";
-export const metaTitle = "Best Ultrawide Monitor Setup Gear in 2026 (Desk, Arm, Dock)";
-export const metaDescription =
-  "7 best picks for building an ultrawide monitor setup in 2026: the right desk depth, monitor arm, docking station, keyboard tray, desk mat, and cable management.";
+
+export const guideTitle = "The Best Gear for an Ultrawide Monitor Setup";
+
+export const breadcrumbLabel = "Best Gear for an Ultrawide Monitor Setup";
+
+export const metaTitle = "Best Ultrawide Monitor Setup Gear: Desk, Arm and Dock (2026)";
+
+export const metaDescription = "We compared the desk, monitor arms, dock, keyboard tray, desk mat and cable tray that make a 34- or 49-inch ultrawide work, based on depth, load ratings and ports.";
+
 export const mainKeyword = "ultrawide monitor setup";
+
 export const introParagraphs = [
-  "An ultrawide monitor setup lives or dies on the gear around the screen, not the screen itself. A 34\" curved panel and a 49\" super-ultrawide both need a desk deep enough to hold the stand base plus a keyboard and mouse pad, an arm strong enough to carry a wide, front-heavy panel without drooping, and a dock that can actually drive the extra ports a wide-format workspace demands.",
-  "Below are 7 supporting pieces we evaluated on desk depth, arm load rating, port density, and how well each one specifically solves a problem that ultrawide owners run into, from a 55\"x32\" electric desk built to fit a 49\" screen plus a second monitor, to a $10.79 desk mat wide enough to cover a full-width keyboard and mouse tray.",
+  "An ultrawide monitor changes the rest of the desk. A 34-inch curved panel, and especially a 49-inch super-ultrawide, needs a surface deep enough for its stand plus a keyboard and mouse, an arm rated for a wide and heavy screen if you mount it, and enough ports to connect everything through one cable.",
+  "Depth is the constraint people most often underestimate. Width matters, but a deep desk is what lets you sit at a comfortable distance from a very wide screen without the keyboard hanging off the edge.",
+  "The seven pieces below each solve one part of that problem, from the desk to the cable tray. Our comparison is based on published specifications, load ratings and ports, not hands-on testing."
 ];
+
 export const lastUpdated = "2026-07-18";
+
 export const readTime = "10 min";
+
 export const heroImage = "https://m.media-amazon.com/images/I/41Sdq8NEklL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string;
-  rank: number;
-  badge: string;
-  name: string;
-  price: string;
-  rating: string;
-  reviews: string;
-  imageUrl: string;
-  amazonUrl: string;
-  description: string;
-  specs: string[];
-  pros: string[];
-  cons: string[];
-  bestFor: string;
-}
-
-export interface BuyingCriterion {
-  criterion: string;
-  explanation: string;
-}
-
-export interface FaqItem {
-  q: string;
-  a: string;
-}
 
 export const products: GuideProduct[] = [
   {
-    id: "grandder-55x32-electric-standing-desk",
-    rank: 1,
-    badge: "Best Desk for a 49\" Setup",
-    name: "Grandder 55x32 Electric Standing Desk",
-    price: "$161.49",
-    rating: "4.3",
-    reviews: "109",
-    imageUrl: "https://m.media-amazon.com/images/I/41Sdq8NEklL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FM3KJV6L?tag=theofficejournal-20",
-    description:
-      "The Grandder's 55\"x32\" desktop is the deepest surface in this list, and depth is the spec that actually matters for a 49\" super-ultrawide, not width. A 32\" usable depth leaves room for the monitor's stand base, a keyboard, a mouse pad, and roughly 3 inches of clearance behind the panel for cables.\n\nThe electric lift runs 28\" to 46.5\" with 2 memory presets, and the frame holds 176 lbs, enough for a 49\" screen plus a second monitor side by side. An anti-collision sensor stops the lift automatically if it meets resistance while raising.\n\nBuilt specifically to fit a 49\" ultrawide plus a second screen. That's a real strength, but weigh it against the flip side: largest footprint requires a genuinely spacious room.",
-    specs: [
-      "55\"W x 32\"D desktop",
-      "Electric lift 28\"-46.5\"",
-      "176 lb weight capacity",
-      "2 programmable memory height presets",
-      "Anti-collision sensor",
+    "id": "grandder-55x32-electric-standing-desk",
+    "rank": 1,
+    "badge": "Best Desk for a 49-Inch Screen",
+    "name": "Grandder 55x32 Electric Standing Desk",
+    "price": "$161.49",
+    "rating": "4.3",
+    "reviews": "109",
+    "imageUrl": "https://m.media-amazon.com/images/I/41Sdq8NEklL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM3KJV6L?tag=theofficejournal-20",
+    "description": "The Grandder earns its place with depth: its 32-inch-deep top is the deepest surface here, leaving room for a 49-inch monitor's stand, a keyboard, a mouse and cables behind the screen.\n\nThe electric frame runs from 28 to 46.5 inches with two memory presets and an anti-collision sensor, and Grandder rates it for 176 lb, enough for an ultrawide and a second monitor.\n\nA 55 x 32-inch footprint needs a genuinely spacious room, and the brand has less buyer feedback than more established desk makers. If you already have a deep desk, a keyboard tray may be the cheaper way to gain space.",
+    "specs": [
+      "Top: 55 x 32\"",
+      "Height: 28–46.5\" (electric)",
+      "Capacity: 176 lb",
+      "Memory presets: 2",
+      "Anti-collision sensor"
     ],
-    pros: [
-      "Deepest desktop in this list at 32 inches",
-      "Built specifically to fit a 49\" ultrawide plus a second screen",
-      "176 lb capacity handles dual-monitor loads",
-      "Anti-collision sensor protects gear during height changes",
+    "pros": [
+      "32-inch depth, the most here",
+      "Electric sit-stand with presets",
+      "Capacity for an ultrawide plus a second screen"
     ],
-    cons: [
-      "Largest footprint requires a genuinely spacious room",
-      "Smaller review sample than more established desk brands",
-      "Electric lift adds more setup steps than a fixed-height desk",
+    "cons": [
+      "Large footprint",
+      "Less buyer feedback than established desk brands",
+      "More assembly than a fixed desk"
     ],
-    bestFor: "Buyers setting up a 49\" super-ultrawide who need real usable depth",
+    "bestFor": "Anyone setting up a 49-inch super-ultrawide who needs real usable depth.",
+    "summary": "A 55 x 32-inch electric desk; the 32-inch depth is what a super-ultrawide needs most.",
+    "skipIf": "Your room can't take a 32-inch-deep desk; a keyboard tray can free up depth on the desk you have."
   },
   {
-    id: "huanuo-titanlift-monitor-arm",
-    rank: 2,
-    badge: "Best Monitor Arm for Curved Ultrawides",
-    name: "HUANUO TitanLift Heavy Duty Monitor Arm",
-    price: "$93.98",
-    rating: "4.7",
-    reviews: "406",
-    imageUrl: "https://m.media-amazon.com/images/I/419F+Cl-4lL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQ19YC9H?tag=theofficejournal-20",
-    description:
-      "A curved ultrawide's center of gravity sits further forward than a flat monitor's, which puts extra torque on a standard arm's tilt pivot over time. The TitanLift's arm is built 20% thicker and its base 30% wider than a typical arm specifically to resist that added stress, and it's rated for screens up to 49\" at 44 lbs.\n\nConstruction is premium aluminum rather than painted steel, mounted with a dual C-clamp, and backed by a 5-year warranty, the longest coverage of any arm in this list. It's the highest-rated pick in this entire guide.\n\nWorth calling out specifically: reinforced arm and base resist curved-panel torque. The catch is pricier than the budget arm option in this list.",
-    specs: [
-      "Holds screens up to 49\" at 44 lbs",
-      "Arm 20% thicker, base 30% wider than standard",
-      "Premium aluminum construction",
-      "Dual C-clamp mount",
-      "5-year warranty",
+    "id": "huanuo-titanlift-monitor-arm",
+    "rank": 2,
+    "badge": "Best Arm for Heavy Curved Screens",
+    "name": "HUANUO TitanLift Heavy Duty Monitor Arm",
+    "price": "$93.98",
+    "rating": "4.7",
+    "reviews": "406",
+    "imageUrl": "https://m.media-amazon.com/images/I/419F+Cl-4lL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ19YC9H?tag=theofficejournal-20",
+    "description": "The TitanLift is the arm to choose for a heavy curved ultrawide: it is rated for screens up to 49 inches and 44 lb, and HUANUO says its arm is 20% thicker and its base 30% wider than a typical arm.\n\nA curved panel's weight tends to sit further forward than a flat one's, which is why that extra structure is the point. It is aluminum, mounts with a dual C-clamp and carries a five-year warranty, the longest of any arm here.\n\nIt costs more than the ARES WING, which has the same 49-inch, 44 lb rating, and it needs enough clear desk edge for two clamps. For a lighter 34-inch flat monitor, it is more arm than you need.",
+    "specs": [
+      "Screen size: up to 49\"",
+      "Weight capacity: up to 44 lb",
+      "Construction: aluminum, reinforced arm and base (per manufacturer)",
+      "Mount: dual C-clamp",
+      "Warranty: 5 years"
     ],
-    pros: [
-      "Highest-rated arm in this guide at 4.7 stars",
-      "Reinforced arm and base resist curved-panel torque",
-      "5-year warranty, longest in this list",
-      "Rated for the heaviest 49\" panels",
+    "pros": [
+      "Rated for 49-inch, 44 lb screens",
+      "Five-year warranty",
+      "Reinforced design for heavy panels"
     ],
-    cons: [
-      "Pricier than the budget arm option in this list",
-      "Dual C-clamp needs enough exposed desk edge to mount",
-      "Overkill for a lighter 27\"-34\" flat monitor",
+    "cons": [
+      "Costs more than the ARES WING",
+      "Dual clamp needs more clear desk edge",
+      "More than a light 34-inch flat monitor needs"
     ],
-    bestFor: "Buyers mounting a heavy curved 49\" ultrawide who don't want pivot droop",
+    "bestFor": "Mounting a heavy curved 34- to 49-inch ultrawide where a long warranty matters.",
+    "summary": "A reinforced aluminum arm rated for 49-inch screens up to 44 lb, with a five-year warranty.",
+    "skipIf": "You want the same rating for less or need a grommet mount; the ARES WING offers both."
   },
   {
-    id: "ares-wing-ultrawide-desk-arm",
-    rank: 3,
-    badge: "Best Budget Monitor Arm",
-    name: "ARES WING Ultrawide Monitor Desk Arm",
-    price: "$64.99",
-    rating: "4.4",
-    reviews: "610",
-    imageUrl: "https://m.media-amazon.com/images/I/41A2KAm37fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CRVB3VGL?tag=theofficejournal-20",
-    description:
-      "The ARES WING covers the same 17-49\" screen range and 44 lb weight rating as pricier arms in this list, using an industrial gas spring for smooth height and tilt adjustment. It's confirmed compatible with wide panels like the Samsung Odyssey G9 and LG's super-ultrawide lineup. Mounting is flexible with either a C-clamp or a grommet hole option, useful if your desk doesn't have a clean edge to clamp onto. at a budget-friendly price, it's the budget entry point for anyone who needs real 49\" support without paying for reinforced-torque extras. Gas spring gives smooth height and tilt movement. Set against that, standard arm thickness, less margin than the reinforced pick. Both matter when comparing it to the other picks here.",
-    specs: [
-      "Holds 17-49\" screens up to 44 lbs",
-      "Industrial gas spring adjustment",
-      "C-clamp or grommet mount",
-      "Confirmed fit for Odyssey G9 and LG super-ultrawides",
+    "id": "ares-wing-ultrawide-desk-arm",
+    "rank": 3,
+    "badge": "Best Value Arm for 49-Inch Screens",
+    "name": "ARES WING Ultrawide Monitor Desk Arm",
+    "price": "$64.99",
+    "rating": "4.4",
+    "reviews": "610",
+    "imageUrl": "https://m.media-amazon.com/images/I/41A2KAm37fL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRVB3VGL?tag=theofficejournal-20",
+    "description": "The ARES WING matches the TitanLift's 17- to 49-inch and 44 lb rating at a lower price, and its gas spring handles height and tilt.\n\nIt also offers a grommet mount as well as a C-clamp, useful if your desk has no clean edge, and ARES WING lists compatibility with wide panels such as the Samsung Odyssey G9.\n\nWhat you give up is the TitanLift's reinforced design and stated warranty; the ARES WING listing doesn't give a warranty length.",
+    "specs": [
+      "Screen size: 17–49\"",
+      "Weight capacity: up to 44 lb",
+      "Mechanism: gas spring",
+      "Mount: C-clamp or grommet",
+      "Listed compatibility: Samsung Odyssey G9"
     ],
-    pros: [
-      "Cheapest arm in this list rated for a full 49\" screen",
-      "Gas spring gives smooth height and tilt movement",
-      "Grommet mount option for desks without a clampable edge",
-      "Confirmed compatibility with major super-ultrawide models",
+    "pros": [
+      "49-inch, 44 lb rating at a lower price",
+      "Grommet mount option",
+      "Gas-spring height and tilt"
     ],
-    cons: [
-      "Standard arm thickness, less margin than the reinforced pick",
+    "cons": [
       "No stated warranty length",
-      "Gas spring tension may loosen faster under a very heavy panel",
+      "Standard rather than reinforced construction",
+      "Less margin than the TitanLift on paper"
     ],
-    bestFor: "Buyers who want full 49\" arm support without the reinforced-arm premium",
+    "bestFor": "Mounting a 49-inch ultrawide on a budget, or on a desk that needs a grommet mount.",
+    "summary": "The same 49-inch, 44 lb rating as the TitanLift, with a grommet option, for less.",
+    "skipIf": "A long warranty matters to you; the TitanLift lists five years."
   },
   {
-    id: "lionwei-13-in-1-docking-station",
-    rank: 4,
-    badge: "Best Docking Station for Dual/Triple Display",
-    name: "LIONWEI 13-in-1 USB-C Docking Station",
-    price: "$49.99",
-    rating: "4.3",
-    reviews: "13,338",
-    imageUrl: "https://m.media-amazon.com/images/I/51Tp0XdRO9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNTHWWMY?tag=theofficejournal-20",
-    description:
-      "An ultrawide setup often means running the wide panel plus a second screen from one laptop, and the LIONWEI's 2 HDMI 4K outputs plus 1 DisplayPort support exactly that dual or triple display arrangement from a single USB-C cable. It packs 13 ports total into one compact hub.\n\n100W USB-C Power Delivery charges the laptop while it drives the displays, and Gigabit Ethernet plus 2 USB-C 10Gbps and 3 USB-A 3.0 ports cover peripherals and wired networking. It's also the most-reviewed single item in this entire guide by a wide margin.\n\nA genuine advantage here is that 100W PD charges most laptops at full speed. The tradeoff is no Thunderbolt 4 for the highest-bandwidth workflows.",
-    specs: [
-      "2 HDMI 4K outputs + 1 DisplayPort",
-      "100W USB-C Power Delivery",
-      "Gigabit Ethernet",
-      "2 USB-C 10Gbps + 3 USB-A 3.0",
-      "3.5mm audio port",
+    "id": "lionwei-13-in-1-docking-station",
+    "rank": 4,
+    "badge": "Best Dock for Multiple Displays",
+    "name": "LIONWEI 13-in-1 USB-C Docking Station",
+    "price": "$49.99",
+    "rating": "4.3",
+    "reviews": "13,338",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Tp0XdRO9L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNTHWWMY?tag=theofficejournal-20",
+    "description": "The LIONWEI dock is the piece that lets a laptop run an ultrawide and a second screen over one cable: it has two 4K HDMI outputs and a DisplayPort, plus 100W USB-C Power Delivery to charge the laptop.\n\nIt adds Gigabit Ethernet, two 10Gbps USB-C ports, three USB-A 3.0 ports and an audio jack, 13 ports in all.\n\nMulti-display support depends on your laptop and operating system, so check that your machine supports the number of displays you want through a USB-C dock. There is no Thunderbolt 4, and 100W may be marginal for high-power laptops under heavy load.",
+    "specs": [
+      "Video: 2x HDMI 4K, 1x DisplayPort",
+      "Charging: 100W USB-C Power Delivery",
+      "Ethernet: Gigabit",
+      "USB: 2x USB-C 10Gbps, 3x USB-A 3.0",
+      "Audio: 3.5mm"
     ],
-    pros: [
-      "Supports dual or triple display from one dock",
-      "100W PD charges most laptops at full speed",
-      "13 total ports in one compact hub",
-      "Massive review base backing its reliability",
+    "pros": [
+      "Up to three display outputs",
+      "100W laptop charging",
+      "13 ports in one hub"
     ],
-    cons: [
-      "No Thunderbolt 4 for the highest-bandwidth workflows",
-      "100W PD may not fully power the most demanding 16\" laptops under full load",
-      "Passive cooling can get warm under sustained triple-display use",
+    "cons": [
+      "No Thunderbolt 4",
+      "Display support depends on your laptop and OS",
+      "100W may be marginal for high-power laptops"
     ],
-    bestFor: "Buyers running an ultrawide plus a second monitor off one laptop",
+    "bestFor": "Running an ultrawide plus a second monitor from one laptop cable.",
+    "summary": "Two HDMI outputs and a DisplayPort, with 100W charging, over one USB-C cable.",
+    "skipIf": "You use a desktop PC; connect monitors directly to the graphics card instead."
   },
   {
-    id: "vivo-large-keyboard-tray",
-    rank: 5,
-    badge: "Best Keyboard Tray",
-    name: "VIVO Large Keyboard Tray Under Desk Pull-Out",
-    price: "$49.99",
-    rating: "4.4",
-    reviews: "14,012",
-    imageUrl: "https://m.media-amazon.com/images/I/41DR7qY1naL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07HFDJCSL?tag=theofficejournal-20",
-    description:
-      "A deep desk is exactly what a 49\" ultrawide needs, but that depth gets eaten up fast once a keyboard and mouse sit on the same surface as the monitor stand. VIVO's steel tray moves the keyboard and mouse below the desktop, freeing up the desk depth an ultrawide setup actually needs for the screen and its base.\n\nThe platform measures 27\"x11\" (32.5\" including the clamp hardware) and slides out 8.5\" from under the desk. Mounting is a no-drill C-clamp, so it attaches without modifying the desktop itself.\n\nNo-drill mount doesn't damage the desktop. On the other hand, adds a sub-layer under the desk that some chairs may bump. Neither should be a surprise once you know to look for it.",
-    specs: [
-      "27\"x11\" platform (32.5\" with clamp hardware)",
-      "Steel construction",
-      "Slides out 8.5\"",
-      "No-drill C-clamp mount",
+    "id": "vivo-large-keyboard-tray",
+    "rank": 5,
+    "badge": "Best Keyboard Tray",
+    "name": "VIVO Large Keyboard Tray Under Desk Pull-Out",
+    "price": "$49.99",
+    "rating": "4.4",
+    "reviews": "14,012",
+    "imageUrl": "https://m.media-amazon.com/images/I/41DR7qY1naL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07HFDJCSL?tag=theofficejournal-20",
+    "description": "The VIVO tray gives back desk depth by moving the keyboard and mouse under the desktop. With an ultrawide's stand taking up the back of the desk, that can be the difference between a cramped setup and a comfortable one.\n\nThe steel platform measures 27 x 11 inches, 32.5 inches with the clamp hardware, slides out 8.5 inches and mounts with a no-drill C-clamp.\n\nIt adds a layer under the desk that chair arms may bump, the 11-inch depth is snug for a keyboard and a large mouse pad, and unusual desk edge profiles may not suit the clamp.",
+    "specs": [
+      "Platform: 27 x 11\" (32.5\" with clamps)",
+      "Slide-out: 8.5\"",
+      "Construction: steel",
+      "Mount: no-drill C-clamp"
     ],
-    pros: [
-      "Frees up desk depth needed for the monitor and stand",
-      "No-drill mount doesn't damage the desktop",
-      "Massive review base at over 14,000 ratings",
-      "Slide-out design keeps the keyboard tucked away when not in use",
+    "pros": [
+      "Frees desk depth for the monitor",
+      "No-drill mount",
+      "Slides away when not in use"
     ],
-    cons: [
-      "Adds a sub-layer under the desk that some chairs may bump",
-      "Not ideal for desks with very thin or unusual edge profiles",
-      "Platform depth of 11\" is snug for a full-size mouse pad too",
+    "cons": [
+      "Chair arms may bump it",
+      "11-inch depth is snug with a large mouse pad",
+      "Needs a compatible desk edge"
     ],
-    bestFor: "Buyers whose desk depth is tight even after upgrading to a deeper desk",
+    "bestFor": "Gaining usable depth on a desk that's a little too shallow for an ultrawide.",
+    "summary": "A 27 x 11-inch steel pull-out tray that frees desk depth for the monitor.",
+    "skipIf": "Your chair has high armrests that won't clear a tray; a deeper desk may be the better fix."
   },
   {
-    id: "ktrio-xl-extended-gaming-desk-mat",
-    rank: 6,
-    badge: "Best Desk Mat for Wide Setups",
-    name: "KTRIO XL Extended Gaming Desk Mat",
-    price: "$10.79",
-    rating: "4.7",
-    reviews: "40,618",
-    imageUrl: "https://m.media-amazon.com/images/I/31fbr5QGnDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0788LMLZL?tag=theofficejournal-20",
-    description:
-      "At 31.5\"x11.8\", the KTRIO is wide enough to cover both a keyboard and mouse together under a wide ultrawide setup, instead of using two separate small mats that leave a gap between them. The micro-weave cloth surface is waterproof and finished with stitched, anti-fray edges. A non-slip rubber base keeps the mat from sliding during regular typing and mouse movement. It's the cheapest single item in this guide and also the most-reviewed, with over 40,000 ratings. Cheapest item in this entire guide at a competitive price. That's a real strength, but weigh it against the flip side: 3mm thickness offers less cushioning than a padded wrist-rest mat.",
-    specs: [
-      "31.5\"x11.8\"x3mm",
-      "Micro-weave cloth surface",
-      "Waterproof",
-      "Stitched anti-fray edges",
-      "Non-slip rubber base",
+    "id": "ktrio-xl-extended-gaming-desk-mat",
+    "rank": 6,
+    "badge": "Best Desk Mat",
+    "name": "KTRIO XL Extended Gaming Desk Mat",
+    "price": "$10.79",
+    "rating": "4.7",
+    "reviews": "40,618",
+    "imageUrl": "https://m.media-amazon.com/images/I/31fbr5QGnDL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0788LMLZL?tag=theofficejournal-20",
+    "description": "The KTRIO mat is a small, inexpensive way to unify the space under a wide keyboard and mouse: at 31.5 x 11.8 inches, it covers both instead of leaving a gap between two small pads.\n\nThe micro-weave cloth surface is described as waterproof, with stitched edges and a non-slip rubber base. It is 3mm thick.\n\nThat thickness offers little cushioning, cloth shows wear over time, and it won't span the full width of a desk sized for a 49-inch screen.",
+    "specs": [
+      "Size: 31.5 x 11.8 x 0.12\" (3mm)",
+      "Surface: micro-weave cloth, waterproof (per listing)",
+      "Edges: stitched",
+      "Base: non-slip rubber"
     ],
-    pros: [
-      "Wide enough to cover keyboard and mouse together",
-      "Cheapest item in this entire guide at $10.79",
-      "Most-reviewed single item in this guide",
-      "Waterproof surface handles spills",
+    "pros": [
+      "Covers keyboard and mouse together",
+      "Very low price",
+      "Waterproof surface listed"
     ],
-    cons: [
-      "3mm thickness offers less cushioning than a padded wrist-rest mat",
-      "Cloth surface will show wear faster than a hard mat",
-      "Still not wide enough to span a full 49\" desk on its own",
+    "cons": [
+      "Thin, little cushioning",
+      "Cloth shows wear over time",
+      "Doesn't span a full 49-inch desk"
     ],
-    bestFor: "Buyers who want one wide mat instead of two separate small ones",
+    "bestFor": "Anyone who wants one continuous surface for keyboard and mouse.",
+    "summary": "A 31.5 x 11.8-inch cloth mat that covers keyboard and mouse together.",
+    "skipIf": "You want wrist cushioning; a padded mat or separate wrist rest is the better fit."
   },
   {
-    id: "litwaro-cable-management-tray",
-    rank: 7,
-    badge: "Best Cable Management",
-    name: "Litwaro Under Desk Cable Management Tray",
-    price: "$13.99",
-    rating: "4.7",
-    reviews: "3,207",
-    imageUrl: "https://m.media-amazon.com/images/I/41bgYVWy3IL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BZ3GHM8N?tag=theofficejournal-20",
-    description:
-      "A monitor arm and a 13-port docking station both add cable volume that a standard desk grommet can't handle cleanly, and the Litwaro tray is built to catch that overflow. Carbon steel construction holds up to 15 lbs of cables with 2 routing holes for feeding cords through to the desktop.\n\nThe no-drill clamp mount fits desks 0.4\" to 2\" thick and comes with a 1-year warranty. It's a small, low-cost addition that keeps the extra cable clutter a wide multi-device setup generates off the floor.\n\nWorth calling out specifically: no-drill mount fits most desk thicknesses. The catch is 15 lb capacity is modest if you're running many peripherals.",
-    specs: [
-      "Carbon steel construction",
-      "Holds up to 15 lbs of cables",
-      "2 routing holes",
-      "No-drill clamp, fits desks 0.4\"-2\" thick",
-      "1-year warranty",
+    "id": "litwaro-cable-management-tray",
+    "rank": 7,
+    "badge": "Best Cable Tray",
+    "name": "Litwaro Under Desk Cable Management Tray",
+    "price": "$13.99",
+    "rating": "4.7",
+    "reviews": "3,207",
+    "imageUrl": "https://m.media-amazon.com/images/I/41bgYVWy3IL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZ3GHM8N?tag=theofficejournal-20",
+    "description": "The Litwaro tray catches the extra cables an arm and a dock add: its carbon steel tray holds up to 15 lb of cables and power bricks under the desk, with two routing holes.\n\nThe no-drill clamp fits desks 0.4 to 2 inches thick, and it has a one-year warranty.\n\nTwo routing holes limit how neatly you can separate cables, and a 15 lb rating is modest if you add several power adapters.",
+    "specs": [
+      "Construction: carbon steel",
+      "Capacity: 15 lb",
+      "Routing holes: 2",
+      "Mount: no-drill clamp, 0.4–2\" desks",
+      "Warranty: 1 year"
     ],
-    pros: [
-      "Keeps dock and arm cable clutter off the floor",
-      "No-drill mount fits most desk thicknesses",
-      "Strong review base at 3,207 ratings",
-      "Cheapest cable management pick in this guide",
+    "pros": [
+      "Keeps cables off the floor",
+      "No-drill mount",
+      "Low price"
     ],
-    cons: [
-      "15 lb capacity is modest if you're running many peripherals",
-      "Only 2 routing holes limits cable organization options",
-      "Steel tray can rattle slightly if cables shift inside it",
+    "cons": [
+      "Only two routing holes",
+      "15 lb capacity is modest",
+      "Tray may rattle as cables shift"
     ],
-    bestFor: "Buyers whose dock and arm cables need somewhere to go besides the floor",
-  },
-];
-
-export interface HowWeEvaluatedItem {
-  title: string;
-  description: string;
-}
-
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  {
-    title: "Desk depth fit",
-    description: "Measured desktop depth against the roughly 28-30 inches of usable front-edge-to-wall space a 49\" ultrawide setup needs for its stand base, keyboard, and mouse pad, not just the published desktop dimension.",
-  },
-  {
-    title: "Arm load rating and torque resistance",
-    description: "Compared weight capacity and arm thickness against the extra torque a curved ultrawide's forward center of gravity places on a tilt pivot, since a standard arm can droop under a wide curved panel over time.",
-  },
-  {
-    title: "Port density and display output",
-    description: "Checked docking stations for enough video outputs to actually run a dual or triple display ultrawide setup, plus Power Delivery wattage against real laptop charging needs.",
-  },
-  {
-    title: "Desk space efficiency",
-    description: "Scored keyboard trays, desk mats, and cable management on how much usable desk depth or surface area they free up or protect, since a wide monitor already claims most of a deep desk's real estate.",
-  },
-  {
-    title: "Value for price",
-    description: "Weighed capacity, material, and included hardware against price across a range from a desk mat to a electric standing desk.",
-  },
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
-  {
-    "criterion": "Match actual size and capacity to your real need, not the category label alone",
-    "explanation": "Listings for a ultrawide monitor setup often use a size or capacity label (\"compact,\" \"large,\" \"heavy-duty\") that isn't standardized across brands, so the same label can mean meaningfully different actual dimensions or capacity from one product to the next.\n\nThis matters because buying based on the category label rather than the specific listed dimensions or capacity is a common way to end up with something that doesn't actually fit your space or handle your real load.\n\nCheck the listing for exact measurements or a stated capacity figure, and compare that directly against your actual space or need, not just the marketing size category."
-  },
-  {
-    "criterion": "Verify build material and construction quality from reviews, not just spec-sheet claims",
-    "explanation": "A product description can describe material or construction in flattering terms that don't always hold up under real, sustained use, and the gap between a listing's claimed quality and its actual durability only shows up in how the product performs after weeks or months of real use, not in day-one photos.\n\nThis matters more for anything you'll use daily or under real load, less for occasional light use where durability matters less.\n\nCheck reviews specifically for mentions of how the ultrawide monitor setup holds up over time, not just unboxing-day impressions, and treat a listing's own quality claims as a starting point to verify, not a guarantee."
-  },
-  {
-    "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this ultrawide monitor setup over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
-  },
-  {
-    "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any ultrawide monitor setup you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
-  },
-  {
-    "criterion": "Check compatibility and fit with your existing setup before ordering",
-    "explanation": "A ultrawide monitor setup that looks like a straightforward fit in photos can still have a compatibility detail, a connector type, a mounting requirement, a size threshold, that doesn't match your existing setup, and this kind of mismatch is one of the most common and avoidable reasons for a return.\n\nThis matters directly if the product needs to physically connect to, mount on, or otherwise integrate with something you already own.\n\nCheck the listing's specific compatibility details against your exact existing setup, not just the general product category, before ordering."
+    "bestFor": "Tidying the cables from a dock, arm and monitor under the desk.",
+    "summary": "A no-drill steel tray for dock and arm cables, rated for 15 lb.",
+    "skipIf": "You have many power bricks; a larger tray or cable spine may suit you better."
   }
 ];
 
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
+export const howWeEvaluated = [
+  {
+    "title": "Fit for an ultrawide",
+    "description": "We looked at how each item addresses a specific ultrawide constraint: depth, weight, ports or cables."
+  },
+  {
+    "title": "Ratings and dimensions",
+    "description": "We compared desk dimensions and lift range, arm load ratings, dock outputs and power delivery, and tray capacity as listed."
+  },
+  {
+    "title": "Mounting",
+    "description": "We noted clamp, grommet and no-drill options, since ultrawide setups often push desk edges to their limits."
+  },
+  {
+    "title": "Warranty and price position",
+    "description": "We recorded stated warranties and compared prices at the time of writing."
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "Plan desk depth before width",
+    "explanation": "A very wide screen is most comfortable when you can sit further back from it, and the stand, keyboard and mouse all compete for depth. Measure your usable depth from the front edge to the wall, and consider a monitor arm or keyboard tray if the desk is shallow."
+  },
+  {
+    "criterion": "Match the arm to the screen's weight and size",
+    "explanation": "Check the monitor's weight without its stand and its VESA pattern against the arm's rating. Both arms here are rated for 49-inch screens up to 44 lb."
+  },
+  {
+    "criterion": "Count your display outputs",
+    "explanation": "If a laptop drives an ultrawide and a second monitor through one dock, the dock needs enough video outputs, and your laptop and operating system need to support that many displays over USB-C."
+  },
+  {
+    "criterion": "Leave room for cables",
+    "explanation": "An arm and dock add power bricks and cables. An under-desk tray keeps them off the floor and away from moving parts on a sit-stand desk."
+  }
+];
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "subheading": "By the problem you're solving",
     "table": {
       "headers": [
-        "Your priority",
-        "Recommended pick"
+        "Problem",
+        "Consider"
       ],
       "rows": [
         [
-          "Highest average rating",
-          "HUANUO TitanLift Heavy Duty Monitor Arm"
+          "Desk too shallow for a 49-inch screen",
+          "Grandder 55 x 32 desk, or VIVO keyboard tray"
         ],
         [
-          "Largest review base, strongest reliability signal",
-          "KTRIO XL Extended Gaming Desk Mat"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Under $11",
-          "KTRIO XL Extended Gaming Desk Mat"
+          "Mounting a heavy curved ultrawide",
+          "HUANUO TitanLift, or ARES WING for less"
         ],
         [
-          "Up to $162",
-          "Grandder 55x32 Electric Standing Desk"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "KTRIO XL Extended Gaming Desk Mat vs Grandder 55x32 Electric Standing Desk",
-    "cards": [
-      {
-        "label": "KTRIO XL Extended Gaming Desk Mat",
-        "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
-      },
-      {
-        "label": "Grandder 55x32 Electric Standing Desk",
-        "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
-      }
-    ],
-    "note": "Default to KTRIO XL Extended Gaming Desk Mat unless your specific need genuinely calls for the pricier pick's extra headroom."
-  },
-  {
-    "subheading": "By Review Base Confidence",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
+          "Laptop with two external screens",
+          "LIONWEI 13-in-1 dock"
+        ],
         [
-          "Largest, most-established review base",
-          "KTRIO XL Extended Gaming Desk Mat"
+          "Keyboard and mouse on separate small pads",
+          "KTRIO XL desk mat"
+        ],
+        [
+          "Cables and power bricks on the floor",
+          "Litwaro cable tray"
         ]
       ]
     }
-  },
-  {
-    "subheading": "For a First-Time Buyer Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
-      },
-      {
-        "label": "In this comparison",
-        "text": "KTRIO XL Extended Gaming Desk Mat is worth checking against its listed specs before buying, given its strong review base."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need real durability and feature depth for regular use, where Grandder 55x32 Electric Standing Desk's build gives real headroom over the cheaper picks."
-      },
-      {
-        "label": "Save if",
-        "text": "You only need this for light or occasional use, where KTRIO XL Extended Gaming Desk Mat covers the same job at a lower price."
-      }
-    ]
   }
 ];
 
-export const faq: FaqItem[] = [
+export const faq = [
   {
-    q: "How deep does my desk need to be for a 49\" ultrawide setup?",
-    a: "Plan for at least 28-30 inches of usable depth, measured from the front edge to the wall, not the published desktop dimension. That leaves room for the monitor stand base, a keyboard, a mouse pad, and roughly 3 inches of cable clearance behind the display. The Grandder 55x32 Electric Standing Desk's 32\" depth was built specifically around this requirement.",
+    "q": "How deep should my desk be for a 49-inch ultrawide?",
+    "a": "Deeper than for a standard monitor. Measure usable depth from the front edge to the wall and allow room for the stand, keyboard, mouse and cables. The Grandder desk here is 32 inches deep; on a shallower desk, a monitor arm or keyboard tray can recover space."
   },
   {
-    q: "How far should I sit from a 34\" versus a 49\" ultrawide?",
-    a: "A 34\" ultrawide is comfortable at roughly 24-31 inches away, similar to a normal monitor. A 49\" super-ultrawide feels best at 35-39 inches away, noticeably further than most people instinctively sit, which is part of why the extra desk depth matters as much as the screen itself.",
+    "q": "Do I need a reinforced arm for a curved ultrawide?",
+    "a": "You need an arm rated for the screen's size and weight without its stand. The TitanLift adds reinforced construction and a five-year warranty; the ARES WING has the same 44 lb rating for less."
   },
   {
-    q: "Do I need a reinforced monitor arm for a curved ultrawide?",
-    a: "It helps. A curved panel's center of gravity sits further forward than a flat monitor's, which puts extra torque on a standard arm's tilt pivot over time. The HUANUO TitanLift is built 20% thicker and 30% wider at the base specifically to resist that, while the ARES WING covers the same 49\" weight rating at a lower price without the reinforced extras.",
+    "q": "Is a 49-inch ultrawide sharper than a 34-inch one?",
+    "a": "Not noticeably. A 34-inch 3440 x 1440 panel and a 49-inch 5120 x 1440 panel have similar pixel densities, around 108 to 110 pixels per inch. The bigger difference is the space the 49-inch screen needs."
   },
   {
-    q: "Will a 34\" or 49\" ultrawide look sharper?",
-    a: "Not really. Both a 3440x1440 34\" panel and a 5120x1440 49\" panel land around 108-110 PPI, so text sharpness feels about the same at either size. The real difference between them is desk depth and desk space required, not image sharpness.",
+    "q": "What charging wattage do I need from a dock?",
+    "a": "Check your laptop's own charger rating. A dock that supplies at least that much can charge it at full speed while driving displays; the LIONWEI supplies up to 100W."
   },
   {
-    q: "What wattage docking station do I need for my laptop?",
-    a: "65W USB-C Power Delivery is enough for most ultrabooks, but a 16\" MacBook Pro or similar high-draw laptop needs 90W or more to charge at full speed while driving external displays. The LIONWEI 13-in-1 dock's 100W PD covers both cases comfortably.",
-  },
-  {
-    q: "Can I run two monitors from one docking station with an ultrawide?",
-    a: "Yes, if the dock has enough video outputs. The LIONWEI 13-in-1 includes 2 HDMI 4K outputs plus 1 DisplayPort, enough to drive an ultrawide plus a second screen from a single USB-C cable to the laptop.",
-  },
+    "q": "Can one dock run an ultrawide and a second monitor?",
+    "a": "The LIONWEI has enough outputs for that. Whether it works depends on your laptop and operating system supporting multiple displays over USB-C, so check your laptop's specifications."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-ultrawide-monitor-for-work", title: "Best Ultrawide Monitors for Work (2026)" },
-  { href: "/guide/best-ultrawide-monitor-under-500", title: "Best Ultrawide Monitors Under $500 (2026)" },
-  { href: "/guide/best-monitor-stands-for-small-desks", title: "Best Monitor Stands for Small Desks (2026)" },
+export const bottomLine = [
+  "For a 49-inch super-ultrawide, start with depth: the Grandder desk if you can fit it, or the VIVO keyboard tray to recover space on your current desk. Mount the screen on the ARES WING for value or the TitanLift for its reinforced build and five-year warranty.",
+  "If a laptop drives the setup, the LIONWEI dock connects an ultrawide and a second screen over one cable, once you've confirmed your laptop supports it. The KTRIO mat and Litwaro tray are inexpensive finishing pieces."
+];
+
+export const sectionHeadings = {
+  "howWeChose": "How We Chose This Gear",
+  "whatToLookFor": "What to Plan for in an Ultrawide Setup",
+  "howToChoose": "How to Put the Setup Together"
+};
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-ultrawide-monitor-for-work",
+    "title": "Best Ultrawide Monitors for Work (2026)"
+  },
+  {
+    "href": "/guide/best-ultrawide-monitor-under-500",
+    "title": "Best Ultrawide Monitors Under $500 (2026)"
+  },
+  {
+    "href": "/guide/best-monitor-stands-for-small-desks",
+    "title": "Best Monitor Stands for Small Desks (2026)"
+  }
 ];

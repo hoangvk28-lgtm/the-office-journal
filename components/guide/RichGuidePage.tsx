@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { SITE_NAME, SITE_URL } from "@/lib/seo";
-import { AmazonBountyBanner } from "@/components/affiliate/AmazonBountyBanner";
 import { AMAZON_TAG } from "@/lib/affiliate";
 import { formatDate } from "@/lib/utils";
 import { getGuideBySlug } from "@/lib/helpers";
@@ -59,6 +58,8 @@ export interface RichGuidePageProps {
   howToChoose?: HowToChooseSection[];
   buyingCriteria?: { criterion: string; explanation: string }[];
   faq?: { q: string; a: string }[];
+  /** Editorial conclusion paragraphs; replaces the generated Bottom Line when present. */
+  bottomLine?: string[];
   relatedGuides?: { href: string; title: string }[];
 }
 
@@ -93,12 +94,6 @@ export function RichGuidePage(props: RichGuidePageProps) {
   const buyingCriteria = props.buyingCriteria ?? [];
   const faq = props.faq ?? [];
   const relatedGuides = props.relatedGuides ?? [];
-
-  const bountyVariant = slug.includes("dorm")
-    ? "primeYoungAdults"
-    : slug.includes("budget")
-    ? "haul"
-    : "prime";
 
   const breadcrumbTitle = props.breadcrumbLabel ?? toBreadcrumbTitle(guideTitle);
   const amazonQuery = toAmazonSearchQuery(mainKeyword, slug);
@@ -247,8 +242,6 @@ export function RichGuidePage(props: RichGuidePageProps) {
               </div>
             </section>
 
-            <AmazonBountyBanner variant={bountyVariant} className="mt-6" />
-
             {howWeEvaluated.length > 0 && (
               <section aria-labelledby="how-we-chose" className="mt-14">
                 <h2 id="how-we-chose" className={sectionTitle}>How We Evaluated These {productNounPlural}</h2>
@@ -363,25 +356,33 @@ export function RichGuidePage(props: RichGuidePageProps) {
 
             <section aria-labelledby="bottom-line" className="mt-14 border-t border-ink pt-6">
               <h2 id="bottom-line" className="text-[1.5rem]">Bottom Line</h2>
-              {products[0] && (
-                <p className="mt-3 max-w-[68ch] text-[1.0625rem] leading-relaxed">
-                  <strong className="text-ink">Best overall:</strong>{" "}
-                  <a href={`#${products[0].id}`} className="font-semibold">{products[0].name}</a>
-                  {" "}— {products[0].badge.toLowerCase()} pick in this roundup. See the full verdicts above for every pick,
-                  with pros, cons and who each one suits.
-                </p>
+              {props.bottomLine && props.bottomLine.length > 0 ? (
+                <div className="mt-3 max-w-[68ch] space-y-4 text-[1.0625rem] leading-relaxed">
+                  {props.bottomLine.map((p, i) => <p key={i}>{p}</p>)}
+                </div>
+              ) : (
+                <>
+                  {products[0] && (
+                    <p className="mt-3 max-w-[68ch] text-[1.0625rem] leading-relaxed">
+                      <strong className="text-ink">Best overall:</strong>{" "}
+                      <a href={`#${products[0].id}`} className="font-semibold">{products[0].name}</a>
+                      {" "}— {products[0].badge.toLowerCase()} pick in this roundup. See the full verdicts above for every pick,
+                      with pros, cons and who each one suits.
+                    </p>
+                  )}
+                  <p className="mt-4 text-[0.9375rem]">
+                    <a
+                      href={`https://www.amazon.com/s?k=${amazonQuery}&tag=${AMAZON_TAG}`}
+                      target="_blank"
+                      rel="noopener noreferrer sponsored"
+                      className="!text-ink underline decoration-border-dark underline-offset-4 hover:decoration-ink"
+                    >
+                      Browse all {productNounPlural.toLowerCase()} on Amazon
+                    </a>
+                    <span className="text-ink-secondary"> — Prime-eligible options with current pricing.</span>
+                  </p>
+                </>
               )}
-              <p className="mt-4 text-[0.9375rem]">
-                <a
-                  href={`https://www.amazon.com/s?k=${amazonQuery}&tag=${AMAZON_TAG}`}
-                  target="_blank"
-                  rel="noopener noreferrer sponsored"
-                  className="!text-ink underline decoration-border-dark underline-offset-4 hover:decoration-ink"
-                >
-                  Browse all {productNounPlural.toLowerCase()} on Amazon
-                </a>
-                <span className="text-ink-secondary"> — Prime-eligible options with current pricing.</span>
-              </p>
             </section>
 
             {relatedGuides.length > 0 && (

@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-budget-usb-charging-station-under-30";
+const BASE = "/images/media/guides/best-budget-usb-charging-station-under-30";
 
 export const guideSlug = "best-budget-usb-charging-station-under-30";
 export const guideTitle = "7 Best Budget USB Charging Stations Under $30 (2026)";

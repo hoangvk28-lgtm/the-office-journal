@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-charging-stations-for-multiple-devices-desk";
+const BASE = "/images/media/guides/best-charging-stations-for-multiple-devices-desk";
 
 export const guideTitle = "Best Desk Charging Stations for Multiple Devices";
 export const guideDescription =

@@ -1,4 +1,4 @@
-const B = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/desk-setup-essentials";
+const B = "/images/media/guides/desk-setup-essentials";
 
 export const guideSlug = "desk-setup-essentials";
 export const guideTitle = "Desk Setup Essentials: 15 Must-Have Items for Work, Study, and Small Desks";

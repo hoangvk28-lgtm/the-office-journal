@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/ergonomic-desk-setup";
+const BASE = "/images/media/guides/ergonomic-desk-setup";
 
 export const guideTitle = "Ergonomic Desk Setup: The Correct Way to Position Everything (2026)";
 export const guideDescription =

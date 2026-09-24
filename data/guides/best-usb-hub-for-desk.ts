@@ -1,4 +1,4 @@
-const B = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-usb-hub-for-desk";
+const B = "/images/media/guides/best-usb-hub-for-desk";
 
 export const guideSlug = "best-usb-hub-for-desk";
 export const guideTitle = "Best USB Hub for Desk (2026) -- 8 Picks for Small Desks & Compact Setups";

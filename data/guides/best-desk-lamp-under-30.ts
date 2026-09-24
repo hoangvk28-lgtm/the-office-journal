@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-desk-lamp-under-30";
+const BASE = "/images/media/guides/best-desk-lamp-under-30";
 
 export const guideTitle = "Best Desk Lamp Under $30: Bright Enough, Small Enough, Dorm-Friendly";
 export const guideDescription =

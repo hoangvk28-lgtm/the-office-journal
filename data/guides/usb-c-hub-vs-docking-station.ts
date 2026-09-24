@@ -1,6 +1,6 @@
 // ─── Compare: USB-C Hub vs Docking Station ───────────────────────────────────
 
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/usb-c-hub-vs-docking-station";
+const BASE = "/images/media/guides/usb-c-hub-vs-docking-station";
 
 export const compareSlug = "usb-c-hub-vs-docking-station";
 export const compareTitle = "USB-C Hub vs Docking Station: Which One Does Your Desk Actually Need?";

@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-budget-multi-device-charging-station-under-50";
+const BASE = "/images/media/guides/best-budget-multi-device-charging-station-under-50";
 
 export const guideSlug = "best-budget-multi-device-charging-station-under-50";
 export const guideTitle = "5 Best Budget Multi-Device Charging Stations Under $50 (2026)";

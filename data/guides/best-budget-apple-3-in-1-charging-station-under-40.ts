@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-budget-apple-3-in-1-charging-station-under-40";
+const BASE = "/images/media/guides/best-budget-apple-3-in-1-charging-station-under-40";
 
 export const guideSlug = "best-budget-apple-3-in-1-charging-station-under-40";
 export const guideTitle = "5 Best Budget Apple 3-in-1 Charging Stations Under $40 (2026)";

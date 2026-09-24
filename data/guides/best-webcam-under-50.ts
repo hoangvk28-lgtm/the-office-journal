@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-webcam-under-50";
+const BASE = "/images/media/guides/best-webcam-under-50";
 
 export const guideTitle = "Best Webcams Under $50 for Small Desks and Dorm Rooms (2026)";
 export const guideDescription =

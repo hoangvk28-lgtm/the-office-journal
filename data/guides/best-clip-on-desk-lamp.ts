@@ -1,5 +1,5 @@
 const BASE =
-  "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-clip-on-desk-lamp";
+  "/images/media/guides/best-clip-on-desk-lamp";
 
 export const guideSlug = "best-clip-on-desk-lamp";
 export const guideTitle =

@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/under-desk-charging-station";
+const BASE = "/images/media/guides/under-desk-charging-station";
 
 export const guideTitle = "Best Under-Desk Charging Stations and Mounts for Cleaner Setups";
 export const guideDescription =

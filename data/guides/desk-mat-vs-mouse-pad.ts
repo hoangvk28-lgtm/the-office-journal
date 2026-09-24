@@ -1,6 +1,6 @@
 // ─── Compare: Desk Mat vs Mouse Pad ──────────────────────────────────────────
 
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/desk-mat-vs-mouse-pad";
+const BASE = "/images/media/guides/desk-mat-vs-mouse-pad";
 
 export const compareSlug = "desk-mat-vs-mouse-pad";
 export const compareTitle = "Desk Mat vs Mouse Pad: Which One Is Right for Your Setup?";

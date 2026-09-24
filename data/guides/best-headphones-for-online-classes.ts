@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-headphones-for-online-classes";
+const BASE = "/images/media/guides/best-headphones-for-online-classes";
 
 export const guideTitle = "Top 6 Best Headphones for Online Classes: Clear Audio, Decent Mic, All-Day Comfort";
 export const guideDescription =

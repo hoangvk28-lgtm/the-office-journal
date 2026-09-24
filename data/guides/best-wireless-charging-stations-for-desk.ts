@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-wireless-charging-stations-for-desk";
+const BASE = "/images/media/guides/best-wireless-charging-stations-for-desk";
 
 export const guideTitle = "Best Wireless Charging Stations for Desk: Clean Picks for Phones, Earbuds, and Watches";
 export const guideDescription =

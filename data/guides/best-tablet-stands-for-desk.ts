@@ -1,7 +1,7 @@
 import type { ProductReviewCardProps } from "@/components/product/ProductReviewCard";
 import type { AtAGlanceItem } from "@/components/product/AtAGlance";
 
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-tablet-stands-for-desk";
+const BASE = "/images/media/guides/best-tablet-stands-for-desk";
 
 export const guideSlug = "best-tablet-stands-for-desk";
 export const guideTitle = "Best Tablet Stands for Desk: Stable Picks for Study, Work, and Video Calls";

@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-office-chair-under-100";
+const BASE = "/images/media/guides/best-office-chair-under-100";
 
 export const guideTitle = "Top 6 Best Office Chair Under $100: Picked for Desks, Dorms, and Long Study Sessions";
 export const guideDescription =

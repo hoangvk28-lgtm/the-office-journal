@@ -1,5 +1,5 @@
 import type { ReviewCon } from "@/components/product/ProductReviewCard";
-const B = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-desk-mat-for-small-desk";
+const B = "/images/media/guides/best-desk-mat-for-small-desk";
 
 export const guideSlug = "best-desk-mat-for-small-desk";
 export const guideTitle = "Best Desk Mat for Small Desk -- 8 Picks for Dorms & Compact Setups (2026)";

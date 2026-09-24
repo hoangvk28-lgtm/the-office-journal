@@ -1,6 +1,6 @@
 import type { ReviewCon } from "@/components/product/ProductReviewCard";
 
-const B = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/25-best-dorm-items-under-25";
+const B = "/images/media/guides/25-best-dorm-items-under-25";
 
 export const guideSlug = "best-dorm-items-under-25";
 export const guideTitle = "25 Best Dorm Items Under $25 (2026) -- Everything You Actually Need";

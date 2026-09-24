@@ -9,7 +9,7 @@ export const mainKeyword = "small desk organization ideas";
 export const lastUpdated = "2026-05-27";
 export const readTime = "14 min";
 export const heroImage =
-  "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/small-desk-organization-ideas-thumbnail.jpg";
+  "/images/media/guides/small-desk-organization-ideas-thumbnail.jpg";
 
 export interface OrgProduct {
   id: string;

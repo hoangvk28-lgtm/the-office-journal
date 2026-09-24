@@ -1,4 +1,4 @@
-const B = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/20-genius-small-space-hacks";
+const B = "/images/media/guides/20-genius-small-space-hacks";
 
 export const guideSlug = "20-genius-small-space-hacks";
 export const guideTitle = "20 Genius Small-Space Hacks Under $50 (2026) -- Apartments, Dorms & Studios";

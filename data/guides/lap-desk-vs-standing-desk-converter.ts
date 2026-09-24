@@ -1,6 +1,6 @@
 // ─── Compare: Lap Desk vs Standing Desk Converter ─────────────────────────────
 
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/lap-desk-vs-standing-desk-converter";
+const BASE = "/images/media/guides/lap-desk-vs-standing-desk-converter";
 
 export const compareSlug = "lap-desk-vs-standing-desk-converter";
 export const compareTitle = "Lap Desk vs Standing Desk Converter: Which Solves Your Space Problem?";

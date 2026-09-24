@@ -117,7 +117,11 @@ export async function GuideDetail({ slug, basePath, sectionLabel, sectionHref }:
       : { "@type": "Organization", name: guide.author },
     publisher: { "@id": `${SITE_URL}/#organization` },
     mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}${basePath}/${slug}` },
-    ...(guide.heroImage && guide.heroImage.startsWith("http") ? { image: guide.heroImage } : {}),
+    ...(guide.heroImage?.startsWith("http")
+      ? { image: guide.heroImage }
+      : guide.heroImage?.startsWith("/")
+      ? { image: `${SITE_URL}${guide.heroImage}` }
+      : {}),
   };
 
   const breadcrumbSchema = {

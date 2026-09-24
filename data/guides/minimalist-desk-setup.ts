@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/minimalist-desk-setup";
+const BASE = "/images/media/guides/minimalist-desk-setup";
 
 export const guideTitle = "Minimalist Desk Setup: 10 Clean, Clutter-Free Workspaces (2026)";
 export const guideDescription =

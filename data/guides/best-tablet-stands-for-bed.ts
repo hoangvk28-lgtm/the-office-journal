@@ -1,7 +1,7 @@
 import type { ProductReviewCardProps } from "@/components/product/ProductReviewCard";
 import type { AtAGlanceItem } from "@/components/product/AtAGlance";
 
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-tablet-stands-for-bed";
+const BASE = "/images/media/guides/best-tablet-stands-for-bed";
 
 export const guideSlug = "best-tablet-stands-for-bed";
 export const guideTitle = "Best Tablet Stands for Bed: Comfortable Picks for Reading and Streaming";

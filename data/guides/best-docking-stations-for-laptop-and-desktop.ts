@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-docking-stations-for-laptop-and-desktop";
+const BASE = "/images/media/guides/best-docking-stations-for-laptop-and-desktop";
 
 export const guideTitle = "Best Docking Stations for Laptop and Desktop Setups";
 export const guideDescription =

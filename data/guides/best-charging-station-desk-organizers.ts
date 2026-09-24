@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/best-charging-station-desk-organizers";
+const BASE = "/images/media/guides/best-charging-station-desk-organizers";
 
 export const guideTitle = "Best Charging Station Desk Organizers for Cleaner Workspaces";
 export const guideDescription =

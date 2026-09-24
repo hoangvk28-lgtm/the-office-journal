@@ -1,4 +1,4 @@
-const BASE = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/small-desk-setup";
+const BASE = "/images/media/guides/small-desk-setup";
 
 export const guideTitle = "Small Desk Setup Ideas: 15 Smart Ways to Build a Better Workspace";
 export const guideDescription =

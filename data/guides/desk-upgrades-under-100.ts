@@ -1,4 +1,4 @@
-const B = "https://xlipolezpdkfmneqkncd.supabase.co/storage/v1/object/public/affiliate-media/guides/desk-upgrades-under-100";
+const B = "/images/media/guides/desk-upgrades-under-100";
 
 export const guideSlug = "desk-upgrades-under-100";
 export const guideTitle = "10 Desk Upgrades Under $100 That Make a Real Difference (2026)";

@@ -18,6 +18,7 @@ function Thumb({ src, alt, size }: { src: string; alt: string; size: string }) {
  * phones/tablets. Never a squeezed multi-column table on small screens.
  */
 export function GuideQuickPicks({ products }: { products: GuideProduct[] }) {
+  const hasSummaries = products.some((p) => p.summary);
   return (
     <>
       {/* ── md and below: stacked list ── */}
@@ -30,7 +31,13 @@ export function GuideQuickPicks({ products }: { products: GuideProduct[] }) {
               <p className="mt-1 font-[family-name:var(--font-display)] text-[1.125rem] font-semibold leading-snug text-ink">
                 {p.name}
               </p>
-              {p.bestFor && <p className="mt-1.5 line-clamp-2 text-[0.9375rem] leading-snug">{p.bestFor}</p>}
+              {p.summary && <p className="mt-1.5 text-[0.9375rem] leading-snug text-ink">{p.summary}</p>}
+              {p.bestFor && (
+                <p className={`mt-1.5 text-[0.9375rem] leading-snug ${p.summary ? "" : "line-clamp-2"}`}>
+                  {p.summary && <span className="font-semibold text-ink">Best for: </span>}
+                  {p.bestFor}
+                </p>
+              )}
               <p className="mt-2.5 flex flex-wrap items-center gap-x-5 gap-y-1">
                 <a href={`#${p.id}`} className="text-[0.9375rem] font-medium focus-ring">
                   Our take <span aria-hidden>↓</span>
@@ -50,8 +57,9 @@ export function GuideQuickPicks({ products }: { products: GuideProduct[] }) {
           <thead>
             <tr className="border-b border-ink text-[0.8125rem] uppercase tracking-[0.08em] text-ink-secondary">
               <th scope="col" className="py-3 pr-4 font-semibold">Pick</th>
+              {hasSummaries && <th scope="col" className="py-3 pr-4 font-semibold">Why it’s here</th>}
               <th scope="col" className="py-3 pr-4 font-semibold">Best for</th>
-              <th scope="col" className="py-3 pr-4 font-semibold">Key spec</th>
+              {!hasSummaries && <th scope="col" className="py-3 pr-4 font-semibold">Key spec</th>}
               <th scope="col" className="py-3 font-semibold"><span className="sr-only">Price</span></th>
             </tr>
           </thead>
@@ -69,8 +77,9 @@ export function GuideQuickPicks({ products }: { products: GuideProduct[] }) {
                     </span>
                   </a>
                 </th>
+                {hasSummaries && <td className="py-4 pr-4 text-[0.9375rem] leading-snug text-ink">{p.summary ?? "—"}</td>}
                 <td className="py-4 pr-4 text-[0.9375rem] leading-snug text-ink-secondary">{p.bestFor}</td>
-                <td className="py-4 pr-4 text-[0.9375rem] leading-snug text-ink-secondary">{p.specs[0] ?? "—"}</td>
+                {!hasSummaries && <td className="py-4 pr-4 text-[0.9375rem] leading-snug text-ink-secondary">{p.specs[0] ?? "—"}</td>}
                 <td className="py-4 text-right">
                   <a href={withAmazonTag(p.amazonUrl)} target="_blank" rel="nofollow sponsored noopener noreferrer" className={priceLinkClass}>
                     Check price<span className="sr-only"> for {p.name} (opens in a new tab)</span>

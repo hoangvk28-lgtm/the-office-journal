@@ -326,6 +326,8 @@ export interface GuideBuyingCriterion {
 
 export interface Guide {
   title: string;
+  /** Optional SEO <title> when it should differ from the H1. */
+  metaTitle?: string;
   slug: string;
   categorySlug: string;
   subcategorySlug: string;
@@ -6459,7 +6461,8 @@ export const guides: Guide[] = [
     buyingCriteria: [],
   },
   {
-    title: "8 Best Monitor Arms in 2026",
+    title: "The Best Monitor Arms for a Better Desk Setup",
+    metaTitle: "Best Monitor Arms for Home Offices (2026)",
     slug: "best-monitor-arms",
     categorySlug: "desk-setup",
     subcategorySlug: "monitor-arms",

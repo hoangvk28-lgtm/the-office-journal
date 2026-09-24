@@ -31,6 +31,8 @@ export interface GuideProduct {
   bestFor: string;
   /** Optional; rendered as "Skip if" only when a guide's data provides it. */
   skipIf?: string | string[];
+  /** Optional one-sentence reason the pick is in the guide (Quick Picks). */
+  summary?: string;
 }
 
 export interface HowToChooseSection {
@@ -44,6 +46,8 @@ export interface HowToChooseSection {
 export interface RichGuidePageProps {
   slug: string;
   guideTitle: string;
+  /** Short label for breadcrumbs when the H1 is an editorial headline. */
+  breadcrumbLabel?: string;
   metaDescription: string;
   mainKeyword?: string;
   introParagraphs?: string[];
@@ -96,7 +100,7 @@ export function RichGuidePage(props: RichGuidePageProps) {
     ? "haul"
     : "prime";
 
-  const breadcrumbTitle = toBreadcrumbTitle(guideTitle);
+  const breadcrumbTitle = props.breadcrumbLabel ?? toBreadcrumbTitle(guideTitle);
   const amazonQuery = toAmazonSearchQuery(mainKeyword, slug);
   const productNoun = toProductNounSingular(breadcrumbTitle);
   const productNounPlural = breadcrumbTitle.replace(/^Best\s+/i, "").trim();

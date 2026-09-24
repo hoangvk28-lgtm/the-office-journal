@@ -11,6 +11,13 @@
 
 ---
 
+## 0.1 Editorial Rewrites (The Office Journal)
+
+- Rewriting or editing guide copy must follow `docs/editorial-guide.md` (rules 1–43). The reference articles are `/desk-setup/best-monitor-arms` and `/chairs/best-office-chair-under-300`.
+- Run `scripts/audit-editorial.ts` before and after a batch. Never change ASINs, affiliate URLs, ranking or canonical URLs during editorial work.
+
+---
+
 ## 1. Project Overview
 
 - **Site name:** WorkCocoon (`SITE_NAME = "WorkCocoon"`)

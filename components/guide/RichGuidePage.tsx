@@ -6,6 +6,7 @@ import { getGuideBySlug } from "@/lib/helpers";
 import { canonicalGuidePath, siloForGuide } from "@/lib/migrated-silos";
 import { getSiloBySlug } from "@/data/silos";
 import { guideDeks } from "@/data/guide-deks";
+import { guideSectionHeadings, type GuideSectionHeadings } from "@/lib/guide-headings";
 import { SafeImage } from "@/components/editorial/SafeImage";
 import { GuideQuickPicks } from "@/components/guide/editorial/GuideQuickPicks";
 import { GuideProductPick } from "@/components/guide/editorial/GuideProductPick";
@@ -60,12 +61,14 @@ export interface RichGuidePageProps {
   faq?: { q: string; a: string }[];
   /** Editorial conclusion paragraphs; replaces the generated Bottom Line when present. */
   bottomLine?: string[];
+  /** Per-guide overrides for generated section headings. */
+  sectionHeadings?: Partial<GuideSectionHeadings>;
   relatedGuides?: { href: string; title: string }[];
 }
 
-// Mirrors scripts/generate-guide-page.mjs's toBreadcrumbTitle/toAmazonSearchQuery/
-// toProductNounSingular helpers exactly, so demoted guides render byte-identical
-// breadcrumbs/headings/Amazon search links to their previous statically-generated page.
+// Mirrors scripts/generate-guide-page.mjs's toBreadcrumbTitle/toAmazonSearchQuery
+// helpers, so demoted guides keep their breadcrumb and Amazon search link. Section
+// headings come from lib/guide-headings.ts.
 function toBreadcrumbTitle(guideTitle: string) {
   return guideTitle.replace(/^\d+\s+/, "").replace(/\s+in\s+2026$/i, "");
 }
@@ -73,14 +76,6 @@ function toBreadcrumbTitle(guideTitle: string) {
 function toAmazonSearchQuery(mainKeyword: string | undefined, slug: string) {
   const kw = mainKeyword || slug.replace(/^best-/, "").replace(/-/g, " ");
   return kw.replace(/\s+/g, "+");
-}
-
-function toProductNounSingular(breadcrumbTitle: string) {
-  const words = breadcrumbTitle.replace(/^Best\s+/i, "").trim();
-  if (/ies$/i.test(words)) return words.replace(/ies$/i, "y");
-  if (/ches$|shes$|xes$|sses$/i.test(words)) return words.replace(/es$/i, "");
-  if (/s$/i.test(words) && !/ss$/i.test(words)) return words.replace(/s$/i, "");
-  return words;
 }
 
 export function RichGuidePage(props: RichGuidePageProps) {
@@ -97,7 +92,7 @@ export function RichGuidePage(props: RichGuidePageProps) {
 
   const breadcrumbTitle = props.breadcrumbLabel ?? toBreadcrumbTitle(guideTitle);
   const amazonQuery = toAmazonSearchQuery(mainKeyword, slug);
-  const productNoun = toProductNounSingular(breadcrumbTitle);
+  const headings = guideSectionHeadings(breadcrumbTitle, props.sectionHeadings);
   const productNounPlural = breadcrumbTitle.replace(/^Best\s+/i, "").trim();
 
   // Canonical URL + breadcrumb parent come from where the guide is actually
@@ -244,7 +239,7 @@ export function RichGuidePage(props: RichGuidePageProps) {
 
             {howWeEvaluated.length > 0 && (
               <section aria-labelledby="how-we-chose" className="mt-14">
-                <h2 id="how-we-chose" className={sectionTitle}>How We Evaluated These {productNounPlural}</h2>
+                <h2 id="how-we-chose" className={sectionTitle}>{headings.howWeChose}</h2>
                 <p className="mt-2">Each pick was assessed across {howWeEvaluated.length} criteria weighted for real-world use.</p>
                 <dl className="mt-6 divide-y divide-border border-y border-border">
                   {howWeEvaluated.map((item, i) => (
@@ -260,7 +255,7 @@ export function RichGuidePage(props: RichGuidePageProps) {
             {buyingCriteria.length > 0 && (
               <section aria-labelledby="what-to-look-for" className="mt-14">
                 <h2 id="what-to-look-for" className={sectionTitle}>
-                  {buyingCriteria.length} Criteria to Look For Before Buying a {productNoun}
+                  {headings.whatToLookFor}
                 </h2>
                 <p className="mt-2">Key buying criteria so you get the right fit the first time.</p>
                 <ol className="mt-6 divide-y divide-border border-y border-border">
@@ -281,7 +276,7 @@ export function RichGuidePage(props: RichGuidePageProps) {
 
             {howToChoose.length > 0 && (
               <section aria-labelledby="comparison" className="mt-14">
-                <h2 id="comparison" className={sectionTitle}>How to Choose the Right {productNounPlural}</h2>
+                <h2 id="comparison" className={sectionTitle}>{headings.howToChoose}</h2>
                 <div className="mt-6 space-y-10">
                   {howToChoose.map((sub, i) => (
                     <div key={i}>

@@ -7,7 +7,7 @@ export const metaDescription =
 export const mainKeyword = "monitor arm";
 export const introParagraphs = [
   "A monitor arm only works if your desk can hold it. Before comparing gas-spring tension or reach, check two things: whether the clamp or grommet base can grip your desktop, and whether the arm is rated for your monitor's weight without its factory stand.",
-  "Desk construction rules out more arms than any spec sheet does. A hollow honeycomb-core top, a glass surface, or a desk under about an inch thick can make a clamp mount unsafe no matter how well the arm itself is built. Weight is the second trap, because the figure on the monitor box usually includes a stand the arm will never carry.",
+  "Desk construction can rule out an arm before any spec comparison matters. A hollow honeycomb-core top, a glass surface, or a desk under about an inch thick can make a clamp mount unsafe no matter how well the arm itself is built. Weight is the second trap, because the figure on the monitor box often includes a stand the arm will never carry.",
   "There is no single best monitor arm for everyone. The eight picks below cover different situations, from one established gas-spring arm worth keeping through several displays to low-cost mounts for a standard 24- or 27-inch screen and a heavy-duty arm for 49-inch ultrawides. Our comparison is based on listed specifications, included mounting hardware and price position, not hands-on testing.",
 ];
 export const lastUpdated = "2026-07-23";
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     summary:
       "Ergotron's newer version of the LX, rated for lighter monitors and sold in a white finish.",
     description:
-      "The LX Pro is the better fit than the standard LX when your monitor is on the lighter side or you want a white arm, though for most people the two are close enough that price and finish should decide.\n\nIts rated range is 4–22 lb, compared with 7–25 lb for the LX. That shift helps with lighter modern panels: a monitor that weighs only 5 or 6 lb without its stand sits below the LX's minimum, where a gas spring can push the screen upward, but inside the Pro's range. The trade-off is a lower ceiling, so a heavier 34-inch ultrawide belongs on the standard LX or the TitanLift instead.\n\nScreen size and VESA support match the LX: flat, curved and ultrawide monitors up to 34 inches, on 75 or 100 mm plates. Ergotron describes the mechanism as an upgraded gas spring but does not publish how it differs from the LX's in practice.",
+      "The LX Pro is the better fit than the standard LX when your monitor is on the lighter side or you want a white arm, though for many setups the two are close enough that price and finish can decide.\n\nIts rated range is 4–22 lb, compared with 7–25 lb for the LX. That shift helps with lighter modern panels: a monitor that weighs only 5 or 6 lb without its stand sits below the LX's minimum, where a gas spring can push the screen upward, but inside the Pro's range. The trade-off is a lower ceiling, so a heavier 34-inch ultrawide belongs on the standard LX or the TitanLift instead.\n\nScreen size and VESA support match the LX: flat, curved and ultrawide monitors up to 34 inches, on 75 or 100 mm plates. Ergotron describes the mechanism as an upgraded gas spring but does not publish how it differs from the LX's in practice.",
     specs: [
       "Screen size: up to 34\" (flat, curved, ultrawide)",
       "Weight capacity: 4–22 lb",
@@ -119,7 +119,7 @@ export const products: GuideProduct[] = [
     summary:
       "An inexpensive arm that ships with both a C-clamp and a grommet base for 13- to 32-inch screens.",
     description:
-      "The FlowLift is a sensible low-cost arm for a desk where you are not yet sure which mounting method will work, because both a C-clamp and a grommet base come in the box.\n\nThat matters more than it sounds. A clamp needs a clear rear edge; a grommet mount needs a hole through the desktop. Having both means the arm will usually fit either way without a second purchase.\n\nThe 4.4–19.8 lb rating covers most 24- and 27-inch monitors once the factory stand is removed, and tilt, swivel and rotation are all included. It is less comfortable with 30-inch-plus panels near the top of that range, where the Ergotron LX or WALI leave more room. Before buying, compare it with the FlowLift Pro: the published specifications list the same screen range, the same 19.8 lb maximum and the same two mounting options, with the Pro selling for slightly less at the time of writing and adding tool-free VESA mounting.",
+      "The FlowLift is a sensible low-cost arm for a desk where you are not yet sure which mounting method will work, because both a C-clamp and a grommet base come in the box.\n\nThat matters more than it sounds. A clamp needs a clear rear edge; a grommet mount needs a hole through the desktop. Having both means the arm should fit either way without a second purchase.\n\nThe 4.4–19.8 lb rating should cover many 24- and 27-inch monitors once the factory stand is removed, and tilt, swivel and rotation are all included. It leaves less margin for 30-inch-plus panels near the top of that range, where the Ergotron LX or WALI leave more room. Before buying, compare it with the FlowLift Pro: the published specifications list the same screen range, the same 19.8 lb maximum and the same two mounting options, with the Pro selling for slightly less at the time of writing and adding tool-free VESA mounting.",
     specs: [
       "Screen size: 13–32\"",
       "Weight capacity: 4.4–19.8 lb",
@@ -128,7 +128,7 @@ export const products: GuideProduct[] = [
     ],
     pros: [
       "Clamp and grommet hardware both included",
-      "Covers most 24- and 27-inch monitors",
+      "Rated for many 24- and 27-inch monitors",
       "Full tilt, swivel and rotation",
     ],
     cons: [
@@ -154,7 +154,7 @@ export const products: GuideProduct[] = [
     summary:
       "A low-cost arm with tool-free VESA mounting and both clamp and grommet bases included.",
     description:
-      "For a standard 24- or 27-inch monitor, the FlowLift Pro is the easiest arm here to install, pairing a tool-free VESA plate with both clamp and grommet bases at one of the lowest prices in the guide.\n\nThe tool-free plate lets you attach and remove the monitor without an Allen key, which is useful if you swap displays or move the setup between rooms. HUANUO lists the mechanism as a MechaSpring rather than a gas spring. HUANUO does not publish how that design holds tension over time, so we would not treat it as equal to the Ergotron arms for a monitor that moves constantly.\n\nThe limits are the same as the standard FlowLift's: 13- to 32-inch screens and a 19.8 lb maximum. That is enough for most 24- and 27-inch monitors, but not the class of heavy ultrawide the TitanLift is built for.",
+      "For a standard 24- or 27-inch monitor, the FlowLift Pro is the easiest arm here to install, pairing a tool-free VESA plate with both clamp and grommet bases at one of the lowest prices in the guide.\n\nThe tool-free plate lets you attach and remove the monitor without an Allen key, which is useful if you swap displays or move the setup between rooms. HUANUO lists the mechanism as a MechaSpring rather than a gas spring. HUANUO does not publish how that design holds tension over time, so we would not treat it as equal to the Ergotron arms for a monitor that moves constantly.\n\nThe limits are the same as the standard FlowLift's: 13- to 32-inch screens and a 19.8 lb maximum. That should be enough for many 24- and 27-inch monitors, but not the class of heavy ultrawide the TitanLift is built for.",
     specs: [
       "Screen size: 13–32\"",
       "Weight capacity: up to 19.8 lb",
@@ -175,7 +175,7 @@ export const products: GuideProduct[] = [
     bestFor:
       "A first monitor arm for a 20- to 27-inch screen, especially if you expect to swap monitors or reinstall the arm.",
     skipIf:
-      "You adjust your screen height many times a day and want a mechanism with a longer track record; the Ergotron LX is the better fit.",
+      "You adjust your screen height frequently and want an established gas-spring design; the Ergotron LX is the better fit.",
   },
   {
     id: "ergear-single-monitor-arm",
@@ -329,7 +329,7 @@ export const howWeEvaluated: HowWeEvaluatedItem[] = [
   {
     title: "Weight without the stand",
     description:
-      "We compared each arm's stated capacity with typical monitor weights once the factory stand is removed, because the weight on most product pages includes a stand the arm never carries.",
+      "We compared each arm's stated capacity with typical monitor weights once the factory stand is removed, because the weight on many product pages includes a stand the arm never carries.",
   },
   {
     title: "Desk mounting options",
@@ -377,7 +377,7 @@ export const buyingCriteria: BuyingCriterion[] = [
   {
     criterion: "Aim for the middle of the weight range",
     explanation:
-      "Gas-spring arms are calibrated for a band of weights. Too light, and the monitor can creep upward; too heavy, and it slowly sinks. Most arms let you adjust tension, but a monitor that sits near the middle of the rated range is easier to balance and leaves room if you upgrade to a heavier screen later.\n\nThis is why the lower minimum of the Ergotron LX Pro matters for light panels, and why the TitanLift exists for heavy ones.",
+      "Gas-spring arms are calibrated for a band of weights. Too light, and the monitor can creep upward; too heavy, and it slowly sinks. Many arms let you adjust tension, but a monitor that sits near the middle of the rated range is easier to balance and leaves room if you upgrade to a heavier screen later.\n\nThis is why the lower minimum of the Ergotron LX Pro matters for light panels, and why the TitanLift exists for heavy ones.",
   },
   {
     criterion: "Check reach and height range against how you work",
@@ -401,7 +401,7 @@ export const howToChoose: HowToChooseSection[] = [
       headers: ["Monitor weight", "Consider", "Why"],
       rows: [
         ["Under about 7 lb", "Ergotron LX Pro", "Its 4 lb minimum suits light panels that fall below the LX's range"],
-        ["Up to about 20 lb", "FlowLift Pro, FlowLift, ErGear", "Rated to 19.8 lb, enough for most 24- and 27-inch monitors"],
+        ["Up to about 20 lb", "FlowLift Pro, FlowLift, ErGear", "Rated to 19.8 lb, enough for many 24- and 27-inch monitors"],
         ["Up to about 25 lb", "Ergotron LX, WALI", "Rated to 25 lb and 26.4 lb respectively"],
         ["Up to 44 lb", "HUANUO TitanLift", "The only arm here built for heavy 34- to 49-inch ultrawides"],
       ],
@@ -481,11 +481,11 @@ export interface FaqItem {
 export const faq: FaqItem[] = [
   {
     q: "How do I know if my desk can fit a monitor arm clamp?",
-    a: "Look under the rear edge. The clamp needs a flat, solid surface with no metal rail, cable tray or drawer frame in the way, and most clamps need a desktop at least an inch thick. Hollow honeycomb-core tops can look solid but dent under clamp pressure, so tighten gradually. Glass desks, and desks with no clear edge, generally need a different mounting method.",
+    a: "Look under the rear edge. The clamp needs a flat, solid surface with no metal rail, cable tray or drawer frame in the way, and many clamps need a desktop at least an inch thick. Hollow honeycomb-core tops can look solid but dent under clamp pressure, so tighten gradually. Glass desks, and desks with no clear edge, generally need a different mounting method.",
   },
   {
     q: "Should I match the arm's weight rating to my monitor's listed weight?",
-    a: "Not to the listed weight. That figure usually includes the stand, which the arm never holds. Find the monitor-only weight in the manufacturer's specification sheet and compare it with the arm's range. A monitor that looks too heavy for a budget arm on paper may fit comfortably once the stand is excluded.",
+    a: "Not to the listed weight. That figure often includes the stand, which the arm never holds. Find the monitor-only weight in the manufacturer's specification sheet and compare it with the arm's range. A monitor that looks too heavy for a budget arm on paper may fit comfortably once the stand is excluded.",
   },
   {
     q: "Why does my monitor arm droop over time?",
@@ -497,7 +497,7 @@ export const faq: FaqItem[] = [
   },
   {
     q: "Is a monitor arm worth it for a single small monitor?",
-    a: "Often not. A small monitor on a stable stand usually works fine, and an arm mainly adds flexibility. An arm becomes more worthwhile with a 24-inch or larger screen, a shallow desk where the stand takes up valuable space, or when you adjust height and angle during the day.",
+    a: "Not always. A small monitor on a stable stand may work fine, and an arm mainly adds flexibility. An arm becomes more worthwhile with a 24-inch or larger screen, a shallow desk where the stand takes up valuable space, or when you adjust height and angle during the day.",
   },
   {
     q: "Can I use a monitor arm on a standing desk?",

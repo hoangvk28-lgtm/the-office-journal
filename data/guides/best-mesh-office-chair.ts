@@ -1,237 +1,452 @@
-﻿const BASE = "/images/guides/best-mesh-office-chair";
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
 export const guideSlug = "best-mesh-office-chair";
-export const guideTitle = "8 Best Mesh Office Chairs in 2026";
-export const metaTitle = "Best Mesh Office Chairs 2026 - Breathable & Ergonomic";
-export const metaDescription =
-  "Best mesh office chairs in 2026. Breathable mesh back ergonomic chairs ranked by lumbar support, breathability, adjustability, and value for daily use.";
+
+export const guideTitle = "The Best Mesh Office Chairs for a Cooler Workspace";
+
+export const breadcrumbLabel = "Best Mesh Office Chairs";
+
+export const metaTitle = "Best Mesh Office Chairs for Home Offices (2026)";
+
+export const metaDescription = "We compared mesh office chairs on lumbar support, armrest and seat-depth adjustment, seat height, capacity and warranty, from under $40 to Steelcase's 12-year Series 1.";
+
+export const introParagraphs = [
+  "Mesh solves one problem well: it lets air move through the back of the chair, so you are less likely to feel warm against it. What it doesn't do on its own is support you. A mesh back can feel less contoured than a shaped, padded one, which is why the lumbar and adjustment features around the mesh matter more than the mesh itself.",
+  "At the low end, mesh chairs offer a lumbar cushion, basic tilt and seat height. Moving up adds adjustable lumbar and headrests, then 3D or 4D armrests, seat-depth adjustment and longer warranties.",
+  "The eight chairs below run from under $40 to about $500 at the time of writing. Our comparison is based on published specifications, adjustment ranges, stated capacity, certifications and warranty, not hands-on testing."
+];
+
 export const lastUpdated = "2026-07-11";
+
 export const readTime = "10 min";
-export const heroImage = `/images/guides/best-mesh-office-chair/hero.webp`;
 
-export interface GuideProduct {
-  id: string;
-  rank: number;
-  badge: string;
-  name: string;
-  price: string;
-  rating: string;
-  reviews: string;
-  imageUrl: string;
-  amazonUrl: string;
-  description: string;
-  specs: string[];
-  pros: string[];
-  cons: string[];
-  bestFor: string;
-}
-
-export interface BuyingCriterion {
-  criterion: string;
-  explanation: string;
-}
+export const heroImage = "/images/guides/best-mesh-office-chair/hero.webp";
 
 export const products: GuideProduct[] = [
   {
-    id: "bestoffice-mesh-budget",
-    rank: 1,
-    badge: "Best Budget Mesh",
-    name: "BestOffice Ergonomic Mesh Chair",
-    price: "$38.99",
-    rating: "4.3 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/81sLDLdB8CL._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQDM23S4?tag=theofficejournal-20",
-    description: "The BestOffice mesh chair at pricing is the most affordable mesh office chair in this guide. The breathable mesh back prevents heat buildup during long work sessions and the compact frame fits desks with limited clearance. For users who need a functional mesh chair at the absolute minimum price, the BestOffice delivers core breathability and basic adjustability at a budget-friendly price. Worth calling out specifically: breathable mesh prevents heat buildup. The catch is basic build quality at this price.",
-    specs: ["Mesh back", "Seat height: 15.7\"-19.3\"", "Adjustable armrests", "Lumbar cushion", "Basic tilt", "250 lb capacity"],
-    pros: ["$38.99 most affordable mesh", "Breathable mesh prevents heat buildup", "Compact frame", "Adjustable arms"],
-    cons: ["Basic build quality at this price", "Minimal ergonomic support", "Short lifespan expected"],
-    bestFor: "Users on the tightest budget who need a breathable mesh chair under $40.",
+    "id": "bestoffice-mesh-budget",
+    "rank": 1,
+    "badge": "Best Budget Choice",
+    "name": "BestOffice Ergonomic Mesh Chair",
+    "price": "$38.99",
+    "rating": "4.3 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/81sLDLdB8CL._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQDM23S4?tag=theofficejournal-20",
+    "description": "The BestOffice is the lowest-cost way to get a mesh chair with adjustable armrests and a stated 250 lb capacity.\n\nIts compact frame and 15.7- to 19.3-inch seat range suit a smaller desk or a shorter user. Lumbar support comes from a cushion rather than an adjustable mechanism, and tilt is basic.\n\nIt costs about the same as the NEO CHAIR. The BestOffice lists a weight capacity; the NEO lists BIFMA certification. Neither offers much adjustment, so treat both as budget or secondary chairs.",
+    "specs": [
+      "Seat height: 15.7–19.3\"",
+      "Back: mesh",
+      "Lumbar: cushion",
+      "Armrests: adjustable",
+      "Tilt: basic",
+      "Weight capacity: 250 lb"
+    ],
+    "pros": [
+      "Very low price",
+      "Adjustable armrests",
+      "Stated 250 lb capacity"
+    ],
+    "cons": [
+      "Lumbar is a cushion, not adjustable",
+      "Basic build",
+      "Only basic tilt"
+    ],
+    "bestFor": "A budget or secondary desk, or a shorter user at a compact setup.",
+    "summary": "A mesh back, adjustable arms and a 250 lb rating for under $40.",
+    "skipIf": "This is your main work chair and you want adjustable lumbar; the SIHOO M18 is the better fit."
   },
   {
-    id: "neo-chair-certified-mesh",
-    rank: 2,
-    badge: "Best Certified Budget",
-    name: "NEO CHAIR Ergonomic Mesh Chair",
-    price: "$36.98",
-    rating: "4.3 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/71YwSR6jIoL._AC_SL1250_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FXGB6L96?tag=theofficejournal-20",
-    description: "The NEO CHAIR at pricing is the lowest-priced certified mesh chair in this guide. The BIFMA certification provides a quality baseline that budget mesh chairs without certification cannot guarantee. For users who want a certified mesh chair at the minimum price, the NEO CHAIR is the value pick. BIFMA certification at this price. Set against that, minimal padding. Both matter when comparing it to the other picks here.",
-    specs: ["BIFMA certified", "Mesh back", "Seat height: 15.5\"-18.9\"", "Lumbar support", "Adjustable armrests", "Tilt function"],
-    pros: ["$35.98 lowest certified mesh", "BIFMA certification at this price", "Compact mesh design", "Budget accessible"],
-    cons: ["Minimal padding", "Limited lumbar adjustment", "Small seat fits narrow frames only"],
-    bestFor: "Budget users who want BIFMA-certified quality assurance at the lowest possible mesh chair price.",
+    "id": "neo-chair-certified-mesh",
+    "rank": 2,
+    "badge": "Best Certified Budget",
+    "name": "NEO CHAIR Ergonomic Mesh Chair",
+    "price": "$36.98",
+    "rating": "4.3 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/71YwSR6jIoL._AC_SL1250_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXGB6L96?tag=theofficejournal-20",
+    "description": "The NEO CHAIR stands out at its price for one listed credential: BIFMA certification, an industry standard for office furniture, which few chairs this inexpensive mention.\n\nOtherwise it is a simple compact chair: mesh back, lumbar support, adjustable armrests and tilt. Its 15.5- to 18.9-inch seat range is the lowest here, which suits shorter users but may be too low for taller people at a standard desk.\n\nThe seat is small, padding is minimal and lumbar adjustment is limited. Heavier or taller users should look further up the list.",
+    "specs": [
+      "Seat height: 15.5–18.9\"",
+      "Back: mesh",
+      "Lumbar: built-in support",
+      "Armrests: adjustable",
+      "BIFMA certified (per listing)"
+    ],
+    "pros": [
+      "BIFMA certification listed at a budget price",
+      "Lowest seat range here, suited to shorter users",
+      "Adjustable armrests"
+    ],
+    "cons": [
+      "Small seat",
+      "Limited lumbar adjustment",
+      "Maximum seat height may be low for taller users"
+    ],
+    "bestFor": "Shorter users on a tight budget who want a listed industry certification.",
+    "summary": "A low-cost mesh chair with BIFMA certification listed.",
+    "skipIf": "You are tall or want adjustable lumbar; the SIHOO M18 or M57 is the better fit."
   },
   {
-    id: "sihoo-m18-mid-mesh",
-    rank: 3,
-    badge: "Best Mid-Range Mesh",
-    name: "SIHOO M18 Ergonomic Mesh Chair",
-    price: "$132.99",
-    rating: "4.4 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/71-w+1c6JPL._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07GNDDNMW?tag=theofficejournal-20",
-    description: "The SIHOO M18 at pricing is the best mid-range mesh chair for users who want significant ergonomic features without exceeding a competitive price. The high-back mesh design, adjustable lumbar, and headrest provide comprehensive support that budget chairs cannot match. The M18's lumbar adjustment range and headrest angle make it well-suited for users who shift between different sitting postures throughout the day. A genuine advantage here is that adjustable lumbar range. The tradeoff is 2D armrests less adjustable than 3D.",
-    specs: ["High-back mesh", "Seat height: 17.5\"-21\"", "Adjustable lumbar", "Adjustable headrest", "2D armrests", "3-year warranty"],
-    pros: ["High-back mesh at $139", "Adjustable lumbar range", "Headrest included", "3-year warranty"],
-    cons: ["2D armrests less adjustable than 3D", "21\" max seat height"],
-    bestFor: "Mid-range buyers who want high-back mesh with adjustable lumbar and headrest under $140.",
+    "id": "sihoo-m18-mid-mesh",
+    "rank": 3,
+    "badge": "Best for Most People",
+    "name": "SIHOO M18 Ergonomic Mesh Chair",
+    "price": "$132.99",
+    "rating": "4.4 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/71-w+1c6JPL._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07GNDDNMW?tag=theofficejournal-20",
+    "description": "For most setups in this guide, we would start with the SIHOO M18: it adds the adjustable lumbar and headrest the budget chairs lack, with a stated three-year warranty, at a mid-range price.\n\nAdjustable lumbar is what makes mesh more supportive, because it lets you move support closer to where your lower back curves. The high back and adjustable headrest help when you lean back to read or take calls. The 17.5- to 21-inch seat range fits many people at a standard desk.\n\nThe compromise is the 2D armrests, which adjust in fewer directions than the M57's 3D arms. If you rely on armrests while typing, the M57 is worth the extra money.",
+    "specs": [
+      "Seat height: 17.5–21\"",
+      "Back: high-back mesh",
+      "Lumbar: adjustable",
+      "Headrest: adjustable",
+      "Armrests: 2D",
+      "Warranty: 3 years"
+    ],
+    "pros": [
+      "Adjustable lumbar and headrest",
+      "Three-year warranty",
+      "High mesh back"
+    ],
+    "cons": [
+      "2D armrests",
+      "21-inch maximum seat height",
+      "Weight capacity isn't listed"
+    ],
+    "bestFor": "Someone choosing a primary mesh work chair who wants adjustable lumbar support without a large budget.",
+    "summary": "Adjustable lumbar, an adjustable headrest and a three-year warranty at a mid-range price.",
+    "skipIf": "You rest your forearms on the armrests while typing; the SIHOO M57's 3D arms are the better fit."
   },
   {
-    id: "sihoo-m57-under200-mesh",
-    rank: 4,
-    badge: "Best Ergonomic Mesh Under $200",
-    name: "SIHOO M57 Ergonomic Mesh Chair",
-    price: "$189.97",
-    rating: "4.4 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/71YPWS91dmL._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BDFW1Y7?tag=theofficejournal-20",
-    description: "The SIHOO M57 at pricing is the best ergonomic mesh chair at a budget-friendly price, featuring 3D armrests, adjustable lumbar, and a high-back mesh design with an S-curve that matches the natural spine curvature. The 3D armrests allow height, depth, and angle adjustment that prevents arm and shoulder strain during long work sessions, a feature typically found in chairs costing more. S-curve mesh matches spine. On the other hand, 3-year warranty. Neither should be a surprise once you know to look for it.",
-    specs: ["High-back mesh S-curve", "Seat height: 17.7\"-21.7\"", "3D adjustable armrests", "Adjustable lumbar", "Headrest", "3-year warranty"],
-    pros: ["3D armrests at under $200", "S-curve mesh matches spine", "Adjustable lumbar", "Headrest"],
-    cons: ["3-year warranty", "21.7\" max seat"],
-    bestFor: "Users who want 3D armrests and ergonomic mesh support without exceeding $200.",
+    "id": "sihoo-m57-under200-mesh",
+    "rank": 4,
+    "badge": "Best Armrest Adjustment",
+    "name": "SIHOO M57 Ergonomic Mesh Chair",
+    "price": "$189.97",
+    "rating": "4.4 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/71YPWS91dmL._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07BDFW1Y7?tag=theofficejournal-20",
+    "description": "The M57 is worth the extra over the M18 mainly for its 3D armrests, which adjust in more directions and can be brought closer to your keyboard and mouse.\n\nThat helps if your keyboard sits on a tray or your screen isn't directly in front of you. SIHOO also shapes the high mesh back in an S-curve, and the chair keeps adjustable lumbar, a headrest and a three-year warranty. Its seat range is slightly higher, at 17.7 to 21.7 inches.\n\nIf you rarely use armrests, the M18 gives you most of the same chair for less.",
+    "specs": [
+      "Seat height: 17.7–21.7\"",
+      "Back: S-curve high-back mesh",
+      "Armrests: 3D",
+      "Lumbar: adjustable",
+      "Headrest: yes",
+      "Warranty: 3 years"
+    ],
+    "pros": [
+      "3D armrests",
+      "Adjustable lumbar and headrest",
+      "Three-year warranty"
+    ],
+    "cons": [
+      "Costs noticeably more than the similar M18",
+      "Weight capacity isn't listed",
+      "No seat-depth adjustment"
+    ],
+    "bestFor": "People who rest their forearms on the armrests or work with an off-center keyboard or screen.",
+    "summary": "SIHOO's step up from the M18, adding 3D armrests and an S-curve back.",
+    "skipIf": "You rarely use armrests; the SIHOO M18 is the better value."
   },
   {
-    id: "gabrylly-large-capacity-mesh",
-    rank: 5,
-    badge: "Best Large Capacity Mesh",
-    name: "GABRYLLY Ergonomic Mesh Chair",
-    price: "$212.90",
-    rating: "4.4 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/91bA1LZMqFL._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07Y8BXBX8?tag=theofficejournal-20",
-    description: "The GABRYLLY ergonomic mesh chair at a competitive price supports up to 280 lbs and features a wider seat than most mesh chairs in this price range. The high-back design with adjustable lumbar and headrest serves users who need a larger mesh chair without paying premium prices. The mesh back breathability and 280 lb capacity make the GABRYLLY the best choice for larger users who want mesh cooling at a mid-range price. Wider seat for larger frames. That's a real strength, but weigh it against the flip side: flip-up arms less adjustable.",
-    specs: ["High-back mesh", "Seat width: 20\"", "Weight capacity: 280 lbs", "Adjustable lumbar", "Headrest", "Flip-up arms"],
-    pros: ["280 lb capacity above average", "Wider seat for larger frames", "Mesh cooling", "Adjustable lumbar and headrest"],
-    cons: ["Flip-up arms less adjustable", "Slightly above $200"],
-    bestFor: "Larger users who need a mesh chair with above-average weight capacity and wider seat at a mid-range price.",
+    "id": "gabrylly-large-capacity-mesh",
+    "rank": 5,
+    "badge": "Best for Larger Users",
+    "name": "GABRYLLY Ergonomic Mesh Chair",
+    "price": "$212.90",
+    "rating": "4.4 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/91bA1LZMqFL._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y8BXBX8?tag=theofficejournal-20",
+    "description": "The GABRYLLY is the mesh chair here for larger users, with a 20-inch-wide seat and a stated 280 lb capacity.\n\nThose are the most generous listed dimensions and rating among the mesh chairs in this guide. It keeps adjustable lumbar and a headrest, so the extra size doesn't cost you the core support features.\n\nThe armrests flip up rather than adjust, which helps it tuck under a desk but gives less forearm support than the SIHOO M57's 3D arms. The listing doesn't give a seat height range, so check it against your desk.",
+    "specs": [
+      "Seat width: 20\"",
+      "Weight capacity: 280 lb",
+      "Back: high-back mesh",
+      "Lumbar: adjustable",
+      "Headrest: yes",
+      "Armrests: flip-up"
+    ],
+    "pros": [
+      "Highest listed weight capacity among these mesh chairs",
+      "Wide 20-inch seat",
+      "Adjustable lumbar and headrest"
+    ],
+    "cons": [
+      "Flip-up arms don't adjust",
+      "Seat height range isn't listed",
+      "More than an average build needs"
+    ],
+    "bestFor": "Larger users who want a wide mesh seat with adjustable lumbar.",
+    "summary": "A 20-inch-wide seat and a 280 lb rating on a high mesh back.",
+    "skipIf": "You don't need the extra width; the SIHOO M18 offers similar support for less."
   },
   {
-    id: "sihoo-doro-c300-mesh",
-    rank: 6,
-    badge: "Best Auto-Lumbar Mesh",
-    name: "SIHOO Doro C300 Ergonomic Chair",
-    price: "$299.99",
-    rating: "4.2 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/71M28wdmSpL._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C3T865C2?tag=theofficejournal-20",
-    description: "The SIHOO Doro C300 at pricing is the best auto-adaptive mesh chair in this guide. The C300's backrest follows the user's movement automatically, maintaining lumbar contact throughout posture shifts without manual readjustment. The suspended mesh back distributes pressure evenly, which benefits users who sit for extended periods and want passive lumbar support without thinking about adjustments. Worth calling out specifically: suspended mesh even pressure. The catch is a competitive price higher than most mesh options.",
-    specs: ["Auto-following backrest", "Suspended mesh", "Seat height: 17.7\"-21.7\"", "Adjustable armrests", "Seat depth adjustment", "3-year warranty"],
-    pros: ["Auto-following lumbar requires no adjustment", "Suspended mesh even pressure", "Seat depth adjustment", "Best auto-lumbar under $300"],
-    cons: ["$299 higher than most mesh options", "3-year warranty"],
-    bestFor: "Mesh chair users who want lumbar support that follows posture automatically without manual adjustment.",
+    "id": "sihoo-doro-c300-mesh",
+    "rank": 6,
+    "badge": "Best Auto-Adjusting Backrest",
+    "name": "SIHOO Doro C300 Ergonomic Chair",
+    "price": "$299.99",
+    "rating": "4.2 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/71M28wdmSpL._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3T865C2?tag=theofficejournal-20",
+    "description": "The Doro C300 is for people who don't want to keep adjusting lumbar settings: SIHOO describes its backrest as auto-following, moving with posture shifts rather than being set by hand.\n\nThe specifications don't quantify how closely it follows any individual back, so treat that as design intent. What is clearly documented is seat-depth adjustment, which none of the cheaper mesh chairs here offer, along with a suspended mesh back and a 17.7- to 21.7-inch seat range.\n\nIt costs noticeably more than the M18 and M57, and its warranty is the same three years.",
+    "specs": [
+      "Seat height: 17.7–21.7\"",
+      "Backrest: auto-following (per manufacturer)",
+      "Seat depth: adjustable",
+      "Back: suspended mesh",
+      "Armrests: adjustable",
+      "Warranty: 3 years"
+    ],
+    "pros": [
+      "Seat-depth adjustment",
+      "Backrest designed to move with you",
+      "Suspended mesh back"
+    ],
+    "cons": [
+      "Auto-following performance isn't quantified",
+      "Costs more than the SIHOO M-series",
+      "Three-year warranty"
+    ],
+    "bestFor": "People who shift position often and want seat-depth adjustment in a mesh chair.",
+    "summary": "A backrest SIHOO says follows your movement, plus seat-depth adjustment.",
+    "skipIf": "You prefer to set lumbar position yourself; the SIHOO M18 or M57 costs less."
   },
   {
-    id: "hon-ignition-pro-mesh",
-    rank: 7,
-    badge: "Best Professional Grade Mesh",
-    name: "HON Ignition 2.0 Mesh Chair",
-    price: "$467.19",
-    rating: "4.0 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/71AmEZ0N2AL._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06Y3PGPR2?tag=theofficejournal-20",
-    description: "The HON Ignition 2.0 at pricing is the best professional-grade mesh chair for commercial offices and users who need a verified corporate-quality chair. HON is the leading commercial office furniture brand and the Ignition 2.0 is BIFMA-certified for commercial use. For users who need a chair that meets corporate procurement standards, the HON Ignition 2.0 is the top certified commercial mesh option in this guide. HON corporate brand credibility. Set against that, a competitive price higher than most mesh options. Both matter when comparing it to the other picks here.",
-    specs: ["BIFMA certified mesh", "Seat height: 15.5\"-20.5\"", "4D armrests", "Seat depth adjustment", "Tilt tension adjustment", "Commercial grade frame"],
-    pros: ["BIFMA certified for commercial use", "HON corporate brand credibility", "4D adjustable arms", "Commercial build quality"],
-    cons: ["$467 higher than most mesh options", "4.0 stars lower than mid-range picks"],
-    bestFor: "Corporate users or procurement buyers who need BIFMA-certified commercial-grade mesh from a trusted office furniture brand.",
+    "id": "hon-ignition-pro-mesh",
+    "rank": 7,
+    "badge": "Best Commercial-Grade Mesh",
+    "name": "HON Ignition 2.0 Mesh Chair",
+    "price": "$467.19",
+    "rating": "4.0 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/71AmEZ0N2AL._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B06Y3PGPR2?tag=theofficejournal-20",
+    "description": "The HON Ignition 2.0 makes sense if you want a chair built to commercial office standards: HON lists BIFMA certification and a commercial-grade frame, along with 4D armrests and seat-depth adjustment.\n\nThat combination of adjustment is the most complete here short of the Steelcase. The 15.5- to 20.5-inch seat range runs low, which suits shorter users.\n\nIt costs nearly as much as the Steelcase Series 1, which adds a 12-year warranty. The listing doesn't state the HON's warranty, which is worth checking before you decide between them.",
+    "specs": [
+      "Seat height: 15.5–20.5\"",
+      "Back: mesh",
+      "Armrests: 4D",
+      "Seat depth: adjustable",
+      "Tilt tension adjustment",
+      "BIFMA certified (per listing)"
+    ],
+    "pros": [
+      "4D arms and seat-depth adjustment",
+      "BIFMA certification listed",
+      "Low minimum seat height"
+    ],
+    "cons": [
+      "Priced close to the Steelcase Series 1",
+      "Warranty isn't listed",
+      "Weight capacity isn't listed"
+    ],
+    "bestFor": "Buyers who want commercial-grade construction and full arm adjustment in a mesh chair.",
+    "summary": "4D arms, seat-depth adjustment and BIFMA certification from a commercial furniture maker.",
+    "skipIf": "A long warranty matters to you; the Steelcase Series 1 lists 12 years for a similar price."
   },
   {
-    id: "steelcase-series1-mesh",
-    rank: 8,
-    badge: "Best Corporate Standard Mesh",
-    name: "Steelcase Series 1 Mesh Chair",
-    price: "$499.00",
-    rating: "4.2 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/71elzuc7cBL._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B078HG8HWF?tag=theofficejournal-20",
-    description: "The Steelcase Series 1 at pricing is the best corporate standard mesh chair for users who want Steelcase's proven ergonomic design at the entry-level Steelcase price. The LiveBack flexible lumbar system flexes with body movement, providing dynamic support that static-back mesh chairs cannot replicate. With a 12-year warranty and Steelcase's corporate credibility, the Series 1 is the premium mesh investment for users building a long-term workstation. A genuine advantage here is that 12-year warranty. The tradeoff is a real highest mesh in guide.",
-    specs: ["LiveBack flexible lumbar", "Mesh or upholstered back", "Seat height: 15.5\"-20.5\"", "Multiple arm configurations", "12-year warranty", "BIFMA certified"],
-    pros: ["Steelcase LiveBack mesh", "12-year warranty", "BIFMA certified", "Corporate standard quality"],
-    cons: ["$499 highest mesh in guide", "Requires proper configuration"],
-    bestFor: "Users who want Steelcase's proven mesh ergonomics and 12-year warranty at the minimum Steelcase price.",
-  },
-];;
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const buyingCriteria: BuyingCriterion[] = [
-  {
-    "criterion": "Match seat height range to your actual desk height, not a generic range",
-    "explanation": "A chair's seat height range only matters relative to your specific desk: if the desk sits high and the chair's range tops out too low, your knees end up above your hips no matter how good the chair otherwise is.\n\nThis matters most for taller or shorter users and for desks that aren't standard 29\"-30\" height, where a \"universal\" seat height range can quietly rule a chair out.\n\nMeasure your desk's underside clearance and compare it directly against the chair's listed seat height range before ordering, not just its marketing category (\"tall\", \"standard\", etc.)."
-  },
-  {
-    "criterion": "Check seat depth adjustment, not just seat height",
-    "explanation": "Seat depth, how far the seat pan extends from the backrest to the front edge, determines whether your knees clear the seat edge with your back against the lumbar support, and a fixed seat depth that's wrong for your leg length forces a choice between back support and knee comfort.\n\nThis matters more for shorter and taller users than for average-height users, since seat depth is usually tuned for a middle-of-the-road leg length by default.\n\nCheck whether seat depth is adjustable (a sliding seat pan) versus fixed, and if fixed, compare the listed depth against your own thigh length measured while seated."
-  },
-  {
-    "criterion": "Confirm the weight capacity has real margin, not just enough",
-    "explanation": "A chair rated at exactly your body weight is being used at the edge of its rated capacity every day, which accelerates wear on the gas cylinder, base, and mechanism well before a chair rated with 25-30% of headroom would show the same wear.\n\nThis matters for daily, all-day use specifically; an occasional-use guest chair can run closer to its rated limit without the same long-term consequence.\n\nCompare your body weight against the chair's rated capacity and favor a chair with meaningful headroom above your weight, not one that's merely rated \"enough.\""
-  },
-  {
-    "criterion": "Understand what the material actually trades off, not just how it looks",
-    "explanation": "Mesh backs breathe better and resist long-term sagging but transmit less lumbar contour than a padded back; PU leather and bonded leather look and feel premium initially but can crack or peel years before a mesh or fabric back shows equivalent wear; fabric splits the difference at the cost of showing stains more easily.\n\nThis matters differently depending on climate and how many hours you sit daily, heat and humidity make mesh's breathability matter more, while frequent guests or pets make stain-resistant fabric or wipeable PU more relevant.\n\nWeigh material against your actual daily-use conditions rather than defaulting to whichever material looks most premium in photos."
-  },
-  {
-    "criterion": "Check what's actually adjustable versus just present",
-    "explanation": "Many chairs list \"adjustable armrests\" or \"adjustable lumbar\" without specifying how many axes of adjustment exist, a 2D armrest only moves up/down, while a 4D armrest also moves in/out and pivots, and the practical difference is significant for anyone whose desk setup isn't a standard straight-on typing position.\n\nThis matters most for users with a specific ergonomic need (a keyboard tray, a monitor arm at an angle, or an existing back condition) where generic adjustability isn't enough.\n\nCheck the specific number of adjustment axes listed for armrests and lumbar support, not just the word \"adjustable\" on its own."
+    "id": "steelcase-series1-mesh",
+    "rank": 8,
+    "badge": "Best Long-Warranty Pick",
+    "name": "Steelcase Series 1 Mesh Chair",
+    "price": "$499.00",
+    "rating": "4.2 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/71elzuc7cBL._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B078HG8HWF?tag=theofficejournal-20",
+    "description": "The Series 1 is the pick for a long-term workstation: its 12-year warranty is by far the longest in this guide, and it comes with Steelcase's LiveBack backrest, designed to flex as you move.\n\nThe 15.5- to 20.5-inch seat range suits shorter users, and Steelcase lists BIFMA certification. It is sold in several configurations, including mesh or upholstered backs and different arm options, so check that a listing is the mesh version with the arms you want.\n\nIt is the most expensive chair here. For a single chair you expect to keep for many years, the warranty is the main reason to pay more than for the SIHOO models.",
+    "specs": [
+      "Seat height: 15.5–20.5\"",
+      "Back: LiveBack (mesh or upholstered)",
+      "Armrests: multiple configurations",
+      "BIFMA certified (per listing)",
+      "Warranty: 12 years"
+    ],
+    "pros": [
+      "12-year warranty",
+      "LiveBack flexible backrest",
+      "Low minimum seat height"
+    ],
+    "cons": [
+      "Most expensive chair here",
+      "Configuration varies by listing",
+      "No headrest"
+    ],
+    "bestFor": "People setting up a long-term workstation who value a long warranty over extra features.",
+    "summary": "Steelcase's LiveBack design with a 12-year warranty, the longest here.",
+    "skipIf": "You want a headrest or the most adjustment per dollar; the SIHOO M57 is the better fit."
   }
 ];
 
-export const howWeEvaluated: { title: string; description: string }[] = [
-  { "title": "Seat height and depth range", "description": "Compared each chair's listed seat height and depth range against realistic desk heights and leg lengths, not just the manufacturer's stated \"fits most\" claim." },
-  { "title": "Weight capacity and build durability", "description": "Weighed rated weight capacity against frame materials (steel vs. reinforced plastic base) and gas cylinder class to judge realistic long-term durability under daily use." },
-  { "title": "Material and breathability", "description": "Assessed mesh, fabric, and PU leather options for breathability, long-term wear resistance, and maintenance, not just initial look and feel." },
-  { "title": "Adjustability depth", "description": "Counted the actual axes of adjustment on armrests, lumbar support, and recline/tilt mechanisms rather than crediting the word \"adjustable\" at face value." },
-  { "title": "Value for money", "description": "Compared price against the specific combination of adjustability, materials, and warranty length within each price tier, not against the entire market at once." }
+export const howWeEvaluated = [
+  {
+    "title": "Lumbar and back design",
+    "description": "We compared lumbar cushions, adjustable lumbar and flexible or auto-following backrests as the manufacturers describe them."
+  },
+  {
+    "title": "Adjustment",
+    "description": "We counted listed adjustments: armrest type, seat depth, headrest and tilt."
+  },
+  {
+    "title": "Fit",
+    "description": "We compared seat-height ranges against a standard 29- to 30-inch desk, and seat width and capacity where listed."
+  },
+  {
+    "title": "Warranty and certification",
+    "description": "We recorded stated warranties and BIFMA certification claims."
+  },
+  {
+    "title": "Price position",
+    "description": "We compared what each price step adds. Prices change often, so we treat them as relative position."
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "Lumbar support that adjusts",
+    "explanation": "Mesh can feel less contoured than a padded back, so adjustable lumbar matters more on a mesh chair. The budget chairs here use a cushion or built-in support; the SIHOO M18 and M57 and the GABRYLLY list adjustable lumbar, and the Doro C300 and Steelcase use backrests designed to move with you."
+  },
+  {
+    "criterion": "Seat height and seat depth",
+    "explanation": "A common guideline is feet flat, thighs roughly level and elbows near desk height. The NEO CHAIR, HON and Steelcase run lowest; the SIHOO M57 and Doro C300 go highest here.\n\nSeat-depth adjustment, listed on the Doro C300 and HON, lets you sit back against the lumbar without the seat edge pressing behind your knees."
+  },
+  {
+    "criterion": "Armrests",
+    "explanation": "More directions of adjustment make it easier to bring the arms to your keyboard. Here the options run from flip-up (GABRYLLY) and 2D (M18) to 3D (M57) and 4D (HON)."
+  },
+  {
+    "criterion": "Temperature, both ways",
+    "explanation": "Mesh is generally cooler than padding in a warm room. In a cold room, the same airflow can feel chilly, and a seat cushion or a chair with a padded seat may be more comfortable."
+  },
+  {
+    "criterion": "Warranty and certification",
+    "explanation": "Warranty is one of the few comparable signals in chair listings. Here it runs from none stated to three years (SIHOO) and 12 years (Steelcase). BIFMA certification is listed for the NEO CHAIR, HON and Steelcase."
+  }
 ];
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Budget",
+    "subheading": "By priority",
     "table": {
-      "headers": ["Your priority", "Recommended pick"],
+      "headers": [
+        "Priority",
+        "Consider",
+        "Why"
+      ],
       "rows": [
-        ["Lowest price in this guide", "NEO CHAIR Ergonomic Mesh Chair"],
-        ["Highest price / most features", "Steelcase Series 1 Mesh Chair"]
+        [
+          "Lowest cost",
+          "BestOffice or NEO CHAIR",
+          "Under $40; capacity or certification listed"
+        ],
+        [
+          "A primary chair on a mid-range budget",
+          "SIHOO M18",
+          "Adjustable lumbar, headrest, three-year warranty"
+        ],
+        [
+          "Forearm support while typing",
+          "SIHOO M57",
+          "3D armrests"
+        ],
+        [
+          "A larger build",
+          "GABRYLLY",
+          "20-inch seat, 280 lb capacity"
+        ],
+        [
+          "Seat-depth adjustment",
+          "SIHOO Doro C300 or HON Ignition 2.0",
+          "Adjustable seat depth at two price levels"
+        ],
+        [
+          "The longest warranty",
+          "Steelcase Series 1",
+          "12 years"
+        ]
       ]
     }
   },
   {
-    "subheading": "New to Ergonomic Chairs vs. Replacing a Known Setup",
-    "cards": [
-      { "label": "First ergonomic chair", "text": "Prioritize a wide range of basic adjustments (seat height, armrest height, lumbar) over premium materials, since you're still learning what actually matters for your body." },
-      { "label": "Replacing a chair you've outgrown", "text": "Focus on the specific adjustment your old chair lacked, whether that was seat depth, lumbar contour, or weight capacity, rather than upgrading everything at once." }
-    ]
+    "subheading": "By price at the time of writing",
+    "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.",
+    "table": {
+      "headers": [
+        "Price tier",
+        "Chairs"
+      ],
+      "rows": [
+        [
+          "Under $40",
+          "NEO CHAIR, BestOffice"
+        ],
+        [
+          "About $130–$215",
+          "SIHOO M18, SIHOO M57, GABRYLLY"
+        ],
+        [
+          "About $300",
+          "SIHOO Doro C300"
+        ],
+        [
+          "About $470–$500",
+          "HON Ignition 2.0, Steelcase Series 1"
+        ]
+      ]
+    }
   }
 ];
 
-export const faq: { q: string; a: string }[] = [
-  { q: "Is a mesh office chair better than a leather chair?", a: "Mesh is better for breathability and all-day temperature comfort. Leather is better for traditional executive aesthetics and durability of the surface material. For users in warm offices or who sit 6-plus hours daily, mesh significantly reduces back and seat heat buildup. For users in consistently cool air-conditioned offices who value traditional aesthetics, leather is equally comfortable. Ergonomic adjustability is the same issue in both - it depends on the specific chair, not the material." },
-  { q: "Does a mesh office chair last as long as a padded chair?", a: "Premium mesh chairs (Herman Miller, Steelcase) are warranted for 12 years specifically including the mesh component. Budget mesh chairs may sag within 2 to 3 years. The mesh itself is more likely to degrade than the frame. By contrast, padded leather chairs can have frames that outlast the foam (which compresses and flattens). Overall, the quality of the chair matters more than the material - a premium mesh chair lasts longer than a budget leather chair." },
-  { q: "What is 8Z Pellicle mesh on the Herman Miller Aeron?", a: "8Z Pellicle refers to the eight zones of varying mesh tension in the Herman Miller Aeron seat and back. Zone mapping places firmer tension under the sit bones for support, softer tension under the thighs to reduce pressure on the back of the leg, and firmer tension at the back lumbar zone. The term 'pellicle' describes the material itself - a woven polymer mesh. This specific weave and zone pattern is what distinguishes Aeron mesh from standard chair mesh." },
-  { q: "Are mesh chairs good in cold offices?", a: "In cold offices (below 68F), mesh chairs provide insufficient insulation and can feel cold against the back and legs, especially in winter. A mesh chair in a cold environment may require a seat cushion for thermal comfort. Leather or fabric chairs insulate better in cold conditions. If you work in a climate that varies seasonally between hot and cold, a hybrid chair with a mesh back but padded seat retains warmth while reducing back heat buildup." },
-  { q: "How do I clean a mesh office chair?", a: "Most mesh chairs can be cleaned with a damp cloth and mild soap solution, then allowed to dry. For deeper cleaning, a brush with soft bristles loosens dust from mesh weave. Avoid soaking the mesh as it can affect tension. For spills, blot immediately and dry thoroughly. Do not use bleach or harsh chemical cleaners on mesh as they can weaken the polymer weave. Most Herman Miller mesh is officially rated for professional cleaning with standard office cleaners." },
+export const faq = [
+  {
+    "q": "Is a mesh chair better than a leather or padded chair?",
+    "a": "It depends on what you prioritize. Mesh is generally cooler in a warm room; padding and leather-style upholstery can feel warmer and more cushioned. Support comes from the chair's adjustment, lumbar in particular, rather than from the material itself."
+  },
+  {
+    "q": "Does mesh last as long as padding?",
+    "a": "It varies by chair. The clearest indicator in the listings is the warranty: the Steelcase Series 1 lists 12 years and the SIHOO chairs three; several budget chairs don't state one."
+  },
+  {
+    "q": "Are mesh chairs comfortable in a cold room?",
+    "a": "Mesh lets air through, so it can feel cool in a cold room. A seat cushion or a chair with a padded seat and mesh back can help."
+  },
+  {
+    "q": "How do I clean a mesh chair?",
+    "a": "A damp cloth with mild soap works for most mesh, with a soft brush to lift dust from the weave. Avoid soaking the mesh or using harsh cleaners, and check the manufacturer's care instructions for your model."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-office-chair-for-back-pain", title: "Best Office Chairs for Back Pain (2026)" },
-  { href: "/guide/best-executive-office-chair", title: "Best Executive Office Chairs (2026)" },
-  { href: "/guide/best-leather-office-chair", title: "Best Leather Office Chairs (2026)" },
-  { href: "/guide/best-office-chair-under-300", title: "Best Office Chairs Under $300 (2026)" },
+export const bottomLine = [
+  "For most setups, we would start with the SIHOO M18: adjustable lumbar, a headrest and a three-year warranty cover what a mesh chair most needs. Step up to the M57 if you rely on armrests, or to the Doro C300 if you want seat-depth adjustment.",
+  "The Steelcase Series 1 is the long-term choice, with a 12-year warranty, while the GABRYLLY suits larger users. On a very small budget, the BestOffice and NEO CHAIR cover the basics, though neither offers much adjustment."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-office-chair-for-back-pain",
+    "title": "Best Office Chairs for Back Pain (2026)"
+  },
+  {
+    "href": "/guide/best-executive-office-chair",
+    "title": "Best Executive Office Chairs (2026)"
+  },
+  {
+    "href": "/guide/best-leather-office-chair",
+    "title": "Best Leather Office Chairs (2026)"
+  },
+  {
+    "href": "/guide/best-office-chair-under-300",
+    "title": "Best Office Chairs Under $300 (2026)"
+  }
 ];

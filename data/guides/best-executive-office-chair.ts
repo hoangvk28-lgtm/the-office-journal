@@ -1,237 +1,458 @@
-﻿const BASE = "/images/guides/best-executive-office-chair";
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
 export const guideSlug = "best-executive-office-chair";
-export const guideTitle = "8 Best Executive Office Chairs in 2026";
-export const metaTitle = "Best Executive Office Chairs 2026 - Leather & High-Back";
-export const metaDescription =
-  "Best executive office chairs in 2026. High-back leather and premium fabric chairs ranked for home office setups by comfort and build quality.";
+
+export const guideTitle = "The Best Executive Office Chairs for a Professional Home Office";
+
+export const breadcrumbLabel = "Best Executive Office Chairs";
+
+export const metaTitle = "Best Executive Office Chairs for Home Offices (2026)";
+
+export const metaDescription = "We compared executive office chairs on upholstery, cushioning, seat height, weight capacity and adjustment to find high-back chairs that look the part and still fit your desk.";
+
+export const introParagraphs = [
+  "An executive chair is chosen partly for how it looks, which makes it easy to overlook how it fits. A tall padded back and leather-style upholstery say little about whether the seat reaches your desk, how much the chair actually adjusts, or how warm it will feel by mid-afternoon.",
+  "Most chairs in this category share the same template: a high back, padded arms, a tilt lock and some form of lumbar cushion. The differences that matter are upholstery (PU leather, bonded leather or mesh), how much padding the seat has, weight capacity, and whether anything beyond seat height adjusts.",
+  "The eight chairs below range from about $100 to just under $470 at the time of writing. Our comparison is based on published specifications, materials, weight ratings, warranty and price position, not hands-on testing."
+];
+
 export const lastUpdated = "2026-07-11";
+
 export const readTime = "10 min";
-export const heroImage = `/images/guides/best-executive-office-chair/hero.webp`;
 
-export interface GuideProduct {
-  id: string;
-  rank: number;
-  badge: string;
-  name: string;
-  price: string;
-  rating: string;
-  reviews: string;
-  imageUrl: string;
-  amazonUrl: string;
-  description: string;
-  specs: string[];
-  pros: string[];
-  cons: string[];
-  bestFor: string;
-}
-
-export interface BuyingCriterion {
-  criterion: string;
-  explanation: string;
-}
+export const heroImage = "/images/guides/best-executive-office-chair/hero.webp";
 
 export const products: GuideProduct[] = [
   {
-    id: "amazon-basics-executive-chair",
-    rank: 1,
-    badge: "Best Overall Value",
-    name: "Amazon Basics High-Back Executive PU Leather Chair",
-    price: "$152.99",
-    rating: "4.3 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/71UQ3ltXXpL._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CZP9QB9Z?tag=theofficejournal-20",
-    description: "The Amazon Basics high-back executive chair at pricing is the best overall value in this guide, delivering the traditional executive leather aesthetic with adjustable lumbar at a mid-range price. The high-back design and padded PU leather seat convey a professional appearance that suits home offices and client-facing setups. Amazon Basics quality control and easy return policy make this the most risk-free executive chair purchase in the guide. It's accessible to most buyers upgrading from a basic office chair. Amazon reliability and returns. On the other hand, pU leather vs genuine leather. Neither should be a surprise once you know to look for it.",
-    specs: ["High-back PU leather", "Seat height: 17.5\"-21.3\"", "Padded armrests", "Adjustable lumbar", "Tilt with lock", "250 lb capacity"],
-    pros: ["Best value executive look", "Amazon reliability and returns", "Adjustable lumbar", "Padded armrests"],
-    cons: ["PU leather vs genuine leather", "250 lb capacity"],
-    bestFor: "Buyers who want the classic executive leather chair look at the best price-to-quality ratio.",
+    "id": "amazon-basics-executive-chair",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Amazon Basics High-Back Executive PU Leather Chair",
+    "price": "$152.99",
+    "rating": "4.3 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/71UQ3ltXXpL._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZP9QB9Z?tag=theofficejournal-20",
+    "description": "The Amazon Basics chair is the sensible starting point: it delivers the classic high-back leather look with adjustable lumbar support, something several chairs here replace with a cushion or pillow.\n\nThe 17.5- to 21.3-inch seat range fits many people at a standard desk, and the padded armrests, tilt lock and stated 250 lb capacity cover the basics. Adjustable lumbar is the practical advantage over the cheaper Furmax and COLAMY, whose support comes from a cushion or pillow.\n\nThe upholstery is PU leather rather than genuine leather, and 250 lb is on the lower side for this category. Heavier users will find more headroom in the COLAMY, the Serta chairs or the La-Z-Boy Delano.",
+    "specs": [
+      "Seat height: 17.5–21.3\"",
+      "Upholstery: PU leather",
+      "Lumbar: adjustable",
+      "Armrests: padded",
+      "Tilt with lock",
+      "Weight capacity: 250 lb"
+    ],
+    "pros": [
+      "Adjustable lumbar, not just a cushion",
+      "Classic high-back leather look",
+      "Moderate price"
+    ],
+    "cons": [
+      "PU rather than genuine leather",
+      "250 lb capacity is lower than several picks",
+      "Armrests are padded but not listed as adjustable"
+    ],
+    "bestFor": "Anyone who wants a traditional executive look with adjustable lumbar support for a primary home-office chair.",
+    "summary": "A high-back PU leather chair with adjustable lumbar at a moderate price.",
+    "skipIf": "You weigh close to 250 lb or more; the COLAMY, Serta or La-Z-Boy Delano leave more headroom."
   },
   {
-    id: "furmax-executive-budget",
-    rank: 2,
-    badge: "Best Budget Executive",
-    name: "Furmax Executive High-Back PU Leather Chair",
-    price: "$99.99",
-    rating: "4.3 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/81pdW0BIbYL._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07T291QPJ?tag=theofficejournal-20",
-    description: "The Furmax executive chair at pricing is the best budget executive leather chair for buyers who want the high-back professional look at a budget-friendly price. The adjustable armrests, padded seat, and traditional leather aesthetic deliver more than most chairs in this price range. For buyers who want executive chair aesthetics on a tight budget, the Furmax provides the essential executive features, high back, padded leather seat, and adjustable arms, at the minimum price. Adjustable armrests. That's a real strength, but weigh it against the flip side: thinner padding than premium chairs.",
-    specs: ["PU leather high back", "Seat height: 18\"-22\"", "Adjustable armrests", "Lumbar cushion", "Tilt 90°-135°", "250 lb capacity"],
-    pros: ["Under $100 executive look", "Adjustable armrests", "22\" max seat height", "Traditional aesthetic"],
-    cons: ["Thinner padding than premium chairs", "Basic lumbar cushion only"],
-    bestFor: "Budget buyers who want executive chair aesthetics without exceeding $100.",
+    "id": "furmax-executive-budget",
+    "rank": 2,
+    "badge": "Best Budget Choice",
+    "name": "Furmax Executive High-Back PU Leather Chair",
+    "price": "$99.99",
+    "rating": "4.3 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/81pdW0BIbYL._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07T291QPJ?tag=theofficejournal-20",
+    "description": "The Furmax is the low-cost way to get a high-back leather-style chair, and it has two practical strengths for the price: adjustable armrests and one of the higher seat ranges here, 18 to 22 inches.\n\nThe higher range may suit taller users or anyone at a desk above 30 inches, and a 90- to 135-degree tilt lets you lean back between tasks. The listing also states a 250 lb capacity.\n\nWhat you give up is support and padding. Lumbar comes from a cushion rather than an adjustable mechanism, and padding is thinner than on the pricier chairs. The COLAMY costs about the same and trades adjustable arms for thicker foam and a 300 lb rating.",
+    "specs": [
+      "Seat height: 18–22\"",
+      "Upholstery: PU leather",
+      "Armrests: adjustable",
+      "Lumbar: cushion",
+      "Tilt: 90–135°",
+      "Weight capacity: 250 lb"
+    ],
+    "pros": [
+      "Low price for the executive style",
+      "Adjustable armrests",
+      "Higher seat range than most"
+    ],
+    "cons": [
+      "Lumbar is a cushion, not adjustable",
+      "Thinner padding than the premium picks",
+      "250 lb capacity"
+    ],
+    "bestFor": "A taller user, or a higher desk, on a budget of around $100.",
+    "summary": "The executive look for about $100, with adjustable arms and a higher seat range.",
+    "skipIf": "Seat padding matters more than arm adjustment; the COLAMY costs about the same with thicker foam."
   },
   {
-    id: "colamy-executive-thick",
-    rank: 3,
-    badge: "Best Thick Cushion",
-    name: "COLAMY Executive Office Chair",
-    price: "$99.99",
-    rating: "4.3 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/71uI-xD6WjL._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DK39KTNV?tag=theofficejournal-20",
-    description: "The COLAMY executive chair at a competitive price features extra-thick seat cushioning that stands out among budget executive chairs. The high-density foam seat provides more comfort depth than standard budget chairs, reducing the bottom-out feeling during long work sessions. For executive chair buyers who prioritize cushion depth over other features, the COLAMY delivers noticeably more padding than competitors at the same price. Worth calling out specifically: 300 lb capacity. The catch is foam retains heat vs mesh.",
-    specs: ["Extra-thick high-density foam", "PU leather", "Seat height: 17.7\"-21.7\"", "Padded arms", "Lumbar pillow", "300 lb capacity"],
-    pros: ["Extra-thick foam cushioning at $99", "300 lb capacity", "Traditional executive look", "Well-padded armrests"],
-    cons: ["Foam retains heat vs mesh", "Basic lumbar pillow"],
-    bestFor: "Executive chair buyers who prioritize seat cushion depth and want more padding than budget competitors.",
+    "id": "colamy-executive-thick",
+    "rank": 3,
+    "badge": "Best for Thick Padding",
+    "name": "COLAMY Executive Office Chair",
+    "price": "$99.99",
+    "rating": "4.3 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/71uI-xD6WjL._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK39KTNV?tag=theofficejournal-20",
+    "description": "The COLAMY is the budget pick for people who want a thickly padded seat: COLAMY lists extra-thick high-density foam, and it pairs that with a 300 lb capacity at the same price as the Furmax.\n\nThicker foam may suit people who dislike thin seats, and the 300 lb rating gives more headroom than the Amazon Basics or Furmax. The seat range of 17.7 to 21.7 inches covers many people at a standard desk.\n\nLumbar support is a pillow rather than an adjustable mechanism, the armrests are padded but not listed as adjustable, and foam holds more heat than mesh.",
+    "specs": [
+      "Seat height: 17.7–21.7\"",
+      "Cushioning: extra-thick high-density foam",
+      "Upholstery: PU leather",
+      "Lumbar: pillow",
+      "Armrests: padded",
+      "Weight capacity: 300 lb"
+    ],
+    "pros": [
+      "Thick foam seat at a budget price",
+      "300 lb capacity",
+      "Well-padded armrests"
+    ],
+    "cons": [
+      "Lumbar pillow rather than adjustable lumbar",
+      "Foam holds heat",
+      "Armrests aren't listed as adjustable"
+    ],
+    "bestFor": "Budget buyers who prioritize seat padding and weight capacity over adjustment.",
+    "summary": "Extra-thick high-density foam and a 300 lb rating for about $100.",
+    "skipIf": "You want adjustable arms or lumbar; the Furmax adds adjustable arms and the Amazon Basics adjustable lumbar."
   },
   {
-    id: "lazboy-bradley-exec",
-    rank: 4,
-    badge: "Best Classic Look",
-    name: "La-Z-Boy Bradley Executive Chair",
-    price: "$329.99",
-    rating: "4.6 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/61+b-9f+2FS._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01JCHG7P8?tag=theofficejournal-20",
-    description: "The La-Z-Boy Bradley at pricing is the highest-rated chair in this guide at 4.6 stars and delivers La-Z-Boy's classic executive chair look with ComfortCore foam cushioning. The Bradley is the best option in the guide for buyers who prioritize the appearance of a traditional high-end executive chair. La-Z-Boy's furniture heritage and the 4.6 star rating reflect superior long-term comfort. For executive chair buyers who want a recognizable premium brand look without Steelcase pricing, the Bradley is the top classic pick. La-Z-Boy classic executive look. Set against that, a competitive mid-premium price. Both matter when comparing it to the other picks here.",
-    specs: ["Bonded leather upholstery", "ComfortCore foam", "Seat height: 18.5\"-22.5\"", "Padded armrests", "Tilt with lock", "3-year warranty"],
-    pros: ["4.6 stars, highest in guide", "La-Z-Boy classic executive look", "ComfortCore foam quality", "Premium brand"],
-    cons: ["$329 mid-premium price", "Bonded vs genuine leather"],
-    bestFor: "Buyers who want the classic La-Z-Boy executive look with the highest comfort rating in this guide.",
+    "id": "lazboy-bradley-exec",
+    "rank": 4,
+    "badge": "Best Classic Look",
+    "name": "La-Z-Boy Bradley Executive Chair",
+    "price": "$329.99",
+    "rating": "4.6 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/61+b-9f+2FS._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B01JCHG7P8?tag=theofficejournal-20",
+    "description": "The Bradley is for buyers who want a traditional furniture-style executive chair from an established furniture brand, and it backs that with a stated three-year warranty.\n\nLa-Z-Boy uses its ComfortCore foam and bonded leather upholstery. The seat range of 18.5 to 22.5 inches is the highest here, which may help taller users or those at a higher desk, but could be too high for shorter users at a standard desk.\n\nAdjustment is limited to height and a tilt lock; the listing doesn't mention adjustable lumbar or arms. Bonded leather also tends to show surface wear sooner than genuine leather. You are mainly paying for styling and brand.",
+    "specs": [
+      "Seat height: 18.5–22.5\"",
+      "Upholstery: bonded leather",
+      "Cushioning: ComfortCore foam",
+      "Armrests: padded",
+      "Tilt with lock",
+      "Warranty: 3 years"
+    ],
+    "pros": [
+      "Traditional furniture-style design",
+      "Highest seat range in this guide",
+      "Three-year warranty"
+    ],
+    "cons": [
+      "No adjustable lumbar or arms listed",
+      "Bonded rather than genuine leather",
+      "Minimum seat height may be high for shorter users"
+    ],
+    "bestFor": "Taller people who want a classic executive chair with a recognizable furniture brand and a stated warranty.",
+    "summary": "La-Z-Boy's traditional executive styling, the highest seat range here and a three-year warranty.",
+    "skipIf": "You are on the shorter side or want adjustable lumbar; the Amazon Basics is the better fit for less."
   },
   {
-    id: "lazboy-delano-exec",
-    rank: 5,
-    badge: "Best Big and Tall",
-    name: "La-Z-Boy Delano Big and Tall Executive Chair",
-    price: "$379.99",
-    rating: "4.0 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/913Ez0aB4UL._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0116W5B5O?tag=theofficejournal-20",
-    description: "The La-Z-Boy Delano at pricing is the best big and tall executive chair in the guide, supporting up to 400 lbs with an extra-wide 22.5-inch seat. The ComfortCore Plus foam provides deeper cushioning than the standard Delano foam. For larger users who want executive chair aesthetics with reinforced construction, the Delano is the top choice. The 400 lb capacity and wide seat distinguish it from all other chairs in this guide. A genuine advantage here is that 22.5\" extra-wide seat. The tradeoff is a real price premium.",
-    specs: ["Extra-wide 22.5\" seat", "400 lb weight capacity", "ComfortCore Plus foam", "Waterfall seat edge", "Adjustable lumbar", "3-year warranty"],
-    pros: ["400 lb capacity, highest in guide", "22.5\" extra-wide seat", "ComfortCore Plus foam", "Waterfall seat edge"],
-    cons: ["$379 premium price", "4.0 star rating lower than Bradley"],
-    bestFor: "Big and tall users who need an extra-wide executive chair with 400 lb capacity.",
+    "id": "lazboy-delano-exec",
+    "rank": 5,
+    "badge": "Best Big and Tall",
+    "name": "La-Z-Boy Delano Big and Tall Executive Chair",
+    "price": "$379.99",
+    "rating": "4.0 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/913Ez0aB4UL._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0116W5B5O?tag=theofficejournal-20",
+    "description": "The Delano is the only chair here designed around larger users, with a stated 400 lb capacity and a 22.5-inch-wide seat.\n\nThose numbers are well ahead of the 250 to 350 lb ratings elsewhere in this guide. La-Z-Boy adds ComfortCore Plus foam, a waterfall seat edge that curves down at the front, adjustable lumbar and a three-year warranty.\n\nIt is one of the more expensive chairs here, and for someone of average build most of that capacity goes unused. The listing doesn't give a seat height range, so check it against your desk before ordering.",
+    "specs": [
+      "Weight capacity: 400 lb",
+      "Seat width: 22.5\"",
+      "Cushioning: ComfortCore Plus foam",
+      "Seat edge: waterfall",
+      "Lumbar: adjustable",
+      "Warranty: 3 years"
+    ],
+    "pros": [
+      "Highest weight capacity in this guide",
+      "Widest seat here",
+      "Adjustable lumbar and a three-year warranty"
+    ],
+    "cons": [
+      "More than average-build users need",
+      "Seat height range isn't listed",
+      "Among the pricier chairs here"
+    ],
+    "bestFor": "Larger users who need a wide seat and a weight rating well above 300 lb.",
+    "summary": "A 400 lb capacity and a 22.5-inch-wide seat, the most generous in this guide.",
+    "skipIf": "You don't need the extra width or capacity; the Amazon Basics covers the executive look for much less."
   },
   {
-    id: "serta-fairbanks-exec",
-    rank: 6,
-    badge: "Best Contoured Lumbar",
-    name: "Serta Executive Office Chair, Fairbanks",
-    price: "$299.00",
-    rating: "4.0 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/719PaGg1GvL._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00AVUQQES?tag=theofficejournal-20",
-    description: "The Serta Fairbanks at a competitive price features Serta's SmartLayers layered foam cushioning system adapted from their mattress technology. The convoluted foam construction provides pressure relief that flat foam executive chair seats cannot match. For executive chair buyers who value cushioning quality over aesthetics and want Serta's mattress-derived foam comfort, the Fairbanks delivers a unique cushioning experience in the executive chair category. 350 lb capacity. On the other hand, a real investment. Neither should be a surprise once you know to look for it.",
-    specs: ["SmartLayers layered foam", "Bonded leather", "Seat height: 17.5\"-21.5\"", "Padded arms", "Tilt with lock", "350 lb capacity"],
-    pros: ["SmartLayers foam from Serta mattress tech", "350 lb capacity", "Pressure-relief convoluted foam", "Serta brand reliability"],
-    cons: ["$306 investment", "4.0 star rating"],
-    bestFor: "Executive chair buyers who value mattress-quality foam cushioning and Serta's layered comfort technology.",
+    "id": "serta-fairbanks-exec",
+    "rank": 6,
+    "badge": "Best Layered Cushioning",
+    "name": "Serta Executive Office Chair, Fairbanks",
+    "price": "$299.00",
+    "rating": "4.0 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/719PaGg1GvL._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B00AVUQQES?tag=theofficejournal-20",
+    "description": "The Fairbanks is the pick for cushioning construction: Serta uses its layered SmartLayers foam, which it describes as borrowing from its mattress designs, and rates the chair for 350 lb.\n\nIf you find single-block foam seats too firm or too flat, a layered construction may feel different, though the specifications don't quantify how. The 17.5- to 21.5-inch seat range fits many people at a standard desk.\n\nThe listing doesn't mention adjustable lumbar or arms, and the upholstery is bonded leather. Its sibling, the Serta Bryce, uses the same seat foam and adds ventilated lumbar for less money at the time of writing.",
+    "specs": [
+      "Seat height: 17.5–21.5\"",
+      "Cushioning: SmartLayers layered foam",
+      "Upholstery: bonded leather",
+      "Armrests: padded",
+      "Tilt with lock",
+      "Weight capacity: 350 lb"
+    ],
+    "pros": [
+      "Layered foam construction",
+      "350 lb capacity",
+      "Padded arms"
+    ],
+    "cons": [
+      "No adjustable lumbar or arms listed",
+      "Bonded leather",
+      "Costs more than the similar Serta Bryce"
+    ],
+    "bestFor": "People who prioritize seat cushioning and want more weight headroom than the budget chairs.",
+    "summary": "Serta's layered SmartLayers foam and a 350 lb capacity.",
+    "skipIf": "Lower-back heat or support matters to you; the Serta Bryce adds ventilated lumbar for less."
   },
   {
-    id: "serta-bryce-air-lumbar",
-    rank: 7,
-    badge: "Best AIR Lumbar",
-    name: "Serta Executive Office Chair, Bryce",
-    price: "$248.99",
-    rating: "4.0 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/81VR2c-We9L._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07645VL18?tag=theofficejournal-20",
-    description: "The Serta Bryce at a competitive price features Serta's AIR lumbar technology, a ventilated lumbar support system that promotes airflow through the lumbar region during extended sitting. The AIR system reduces heat buildup in the lower back, which is a common complaint with leather executive chairs. For buyers who want the leather executive aesthetic with improved lumbar airflow, the Bryce delivers a unique ventilated lumbar feature not found in competing chairs at this price. SmartLayers foam seat. That's a real strength, but weigh it against the flip side: 4.0 star rating.",
-    specs: ["AIR lumbar ventilation system", "Bonded leather", "SmartLayers foam seat", "Padded arms", "Tilt with lock", "300 lb capacity"],
-    pros: ["AIR lumbar reduces heat buildup", "SmartLayers foam seat", "Under $250", "Unique ventilated feature"],
-    cons: ["4.0 star rating", "Bonded leather durability"],
-    bestFor: "Executive chair buyers who want leather aesthetics but need better lumbar airflow than standard executive chairs provide.",
+    "id": "serta-bryce-air-lumbar",
+    "rank": 7,
+    "badge": "Best Ventilated Lumbar",
+    "name": "Serta Executive Office Chair, Bryce",
+    "price": "$248.99",
+    "rating": "4.0 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/81VR2c-We9L._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07645VL18?tag=theofficejournal-20",
+    "description": "The Bryce targets a common complaint with leather-style chairs: heat. Serta's AIR lumbar is designed to let air circulate through the lumbar area, which may help if you find leather chairs warm behind the lower back.\n\nIt shares the SmartLayers foam seat with the Fairbanks and is rated for 300 lb. At the time of writing it costs less than the Fairbanks, so for most buyers choosing between the two Serta chairs, the Bryce is the better fit.\n\nThe listing doesn't give a seat height range, and it doesn't describe the lumbar as adjustable. Bonded leather tends to show surface wear sooner than genuine leather.",
+    "specs": [
+      "Lumbar: AIR ventilated design",
+      "Cushioning: SmartLayers foam seat",
+      "Upholstery: bonded leather",
+      "Armrests: padded",
+      "Tilt with lock",
+      "Weight capacity: 300 lb"
+    ],
+    "pros": [
+      "Ventilated lumbar area for leather-style upholstery",
+      "Layered foam seat",
+      "Costs less than the Fairbanks"
+    ],
+    "cons": [
+      "Seat height range isn't listed",
+      "Lumbar isn't described as adjustable",
+      "Bonded leather"
+    ],
+    "bestFor": "People who like the leather executive look but tend to feel warm in it.",
+    "summary": "Serta's AIR lumbar, designed to let air through behind the lower back.",
+    "skipIf": "You want a mesh back for maximum airflow; the HON Ignition 2.0 is the better fit."
   },
   {
-    id: "hon-ignition-mesh-exec",
-    rank: 8,
-    badge: "Best Mesh Executive",
-    name: "HON Ignition 2.0 Mesh Back Chair",
-    price: "$467.19",
-    rating: "4.0 stars",
-    reviews: "Verified ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/71AmEZ0N2AL._AC_SL1500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06Y3PGPR2?tag=theofficejournal-20",
-    description: "The HON Ignition 2.0 at pricing is the only mesh-back executive chair in this guide, offering a professional corporate appearance with mesh breathability instead of leather upholstery. HON is a leading commercial office furniture brand trusted by Fortune 500 companies. For executives who want the HON corporate credibility with mesh breathability rather than leather, the Ignition 2.0 is the top mesh executive option. BIFMA-certified construction matches commercial office standards. Worth calling out specifically: hON corporate brand credibility. The catch is a real highest priced mesh in guide.",
-    specs: ["Mesh back", "BIFMA certified", "Seat height: 15.5\"-20.5\"", "4D adjustable arms", "Seat depth adjustment", "Tilt tension adjustment"],
-    pros: ["Mesh breathability vs leather alternatives", "HON corporate brand credibility", "BIFMA certified", "4D arms"],
-    cons: ["$467 highest priced mesh in guide", "Mesh aesthetic less traditional than leather executive"],
-    bestFor: "Corporate professionals who want HON's office furniture credibility with mesh breathability instead of leather.",
-  },
-];;
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const buyingCriteria: BuyingCriterion[] = [
-  {
-    "criterion": "Match seat height range to your actual desk height, not a generic range",
-    "explanation": "A chair's seat height range only matters relative to your specific desk: if the desk sits high and the chair's range tops out too low, your knees end up above your hips no matter how good the chair otherwise is.\n\nThis matters most for taller or shorter users and for desks that aren't standard 29\"-30\" height, where a \"universal\" seat height range can quietly rule a chair out.\n\nMeasure your desk's underside clearance and compare it directly against the chair's listed seat height range before ordering, not just its marketing category (\"tall\", \"standard\", etc.)."
-  },
-  {
-    "criterion": "Check seat depth adjustment, not just seat height",
-    "explanation": "Seat depth, how far the seat pan extends from the backrest to the front edge, determines whether your knees clear the seat edge with your back against the lumbar support, and a fixed seat depth that's wrong for your leg length forces a choice between back support and knee comfort.\n\nThis matters more for shorter and taller users than for average-height users, since seat depth is usually tuned for a middle-of-the-road leg length by default.\n\nCheck whether seat depth is adjustable (a sliding seat pan) versus fixed, and if fixed, compare the listed depth against your own thigh length measured while seated."
-  },
-  {
-    "criterion": "Confirm the weight capacity has real margin, not just enough",
-    "explanation": "A chair rated at exactly your body weight is being used at the edge of its rated capacity every day, which accelerates wear on the gas cylinder, base, and mechanism well before a chair rated with 25-30% of headroom would show the same wear.\n\nThis matters for daily, all-day use specifically; an occasional-use guest chair can run closer to its rated limit without the same long-term consequence.\n\nCompare your body weight against the chair's rated capacity and favor a chair with meaningful headroom above your weight, not one that's merely rated \"enough.\""
-  },
-  {
-    "criterion": "Understand what the material actually trades off, not just how it looks",
-    "explanation": "Mesh backs breathe better and resist long-term sagging but transmit less lumbar contour than a padded back; PU leather and bonded leather look and feel premium initially but can crack or peel years before a mesh or fabric back shows equivalent wear; fabric splits the difference at the cost of showing stains more easily.\n\nThis matters differently depending on climate and how many hours you sit daily, heat and humidity make mesh's breathability matter more, while frequent guests or pets make stain-resistant fabric or wipeable PU more relevant.\n\nWeigh material against your actual daily-use conditions rather than defaulting to whichever material looks most premium in photos."
-  },
-  {
-    "criterion": "Check what's actually adjustable versus just present",
-    "explanation": "Many chairs list \"adjustable armrests\" or \"adjustable lumbar\" without specifying how many axes of adjustment exist, a 2D armrest only moves up/down, while a 4D armrest also moves in/out and pivots, and the practical difference is significant for anyone whose desk setup isn't a standard straight-on typing position.\n\nThis matters most for users with a specific ergonomic need (a keyboard tray, a monitor arm at an angle, or an existing back condition) where generic adjustability isn't enough.\n\nCheck the specific number of adjustment axes listed for armrests and lumbar support, not just the word \"adjustable\" on its own."
+    "id": "hon-ignition-mesh-exec",
+    "rank": 8,
+    "badge": "Best Mesh Executive",
+    "name": "HON Ignition 2.0 Mesh Back Chair",
+    "price": "$467.19",
+    "rating": "4.0 stars",
+    "reviews": "Verified ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/71AmEZ0N2AL._AC_SL1500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B06Y3PGPR2?tag=theofficejournal-20",
+    "description": "The HON Ignition 2.0 is the most adjustable chair in this guide and the only one with a mesh back, which makes it the choice if you want a professional-looking chair that behaves more like a task chair.\n\nIt offers 4D armrests, seat-depth adjustment and tilt tension adjustment, none of which the leather-style chairs here list. HON also lists BIFMA certification. The 15.5- to 20.5-inch seat range runs lower than the others, which suits shorter users.\n\nIt is the most expensive chair here, and the look is corporate rather than traditional. If the leather executive aesthetic is the reason you are shopping, one of the upholstered chairs will suit you better.",
+    "specs": [
+      "Seat height: 15.5–20.5\"",
+      "Back: mesh",
+      "Armrests: 4D",
+      "Seat depth: adjustable",
+      "Tilt tension adjustment",
+      "BIFMA certified (per listing)"
+    ],
+    "pros": [
+      "4D arms and seat-depth adjustment",
+      "Mesh back for breathability",
+      "Low minimum seat height"
+    ],
+    "cons": [
+      "Most expensive chair in this guide",
+      "Corporate rather than traditional look",
+      "Weight capacity isn't listed"
+    ],
+    "bestFor": "People who want a professional-looking chair with task-chair adjustment and a breathable back.",
+    "summary": "The only mesh-back chair here, with 4D arms and seat-depth adjustment.",
+    "skipIf": "The traditional leather look is the priority; the Amazon Basics or La-Z-Boy Bradley fit that better."
   }
 ];
 
-export const howWeEvaluated: { title: string; description: string }[] = [
-  { "title": "Seat height and depth range", "description": "Compared each chair's listed seat height and depth range against realistic desk heights and leg lengths, not just the manufacturer's stated \"fits most\" claim." },
-  { "title": "Weight capacity and build durability", "description": "Weighed rated weight capacity against frame materials (steel vs. reinforced plastic base) and gas cylinder class to judge realistic long-term durability under daily use." },
-  { "title": "Material and breathability", "description": "Assessed mesh, fabric, and PU leather options for breathability, long-term wear resistance, and maintenance, not just initial look and feel." },
-  { "title": "Adjustability depth", "description": "Counted the actual axes of adjustment on armrests, lumbar support, and recline/tilt mechanisms rather than crediting the word \"adjustable\" at face value." },
-  { "title": "Value for money", "description": "Compared price against the specific combination of adjustability, materials, and warranty length within each price tier, not against the entire market at once." }
+export const howWeEvaluated = [
+  {
+    "title": "Seat height",
+    "description": "We compared listed seat-height ranges against a standard 29- to 30-inch desk and noted which chairs suit shorter or taller users."
+  },
+  {
+    "title": "Upholstery and cushioning",
+    "description": "We compared PU leather, bonded leather and mesh, and the cushioning each manufacturer describes, treating foam technology names as design claims."
+  },
+  {
+    "title": "Adjustment",
+    "description": "We counted what the specifications say actually adjusts: lumbar, arms, seat depth and tilt."
+  },
+  {
+    "title": "Weight capacity and warranty",
+    "description": "We recorded stated weight ratings and warranties and flagged chairs whose listings omit them."
+  },
+  {
+    "title": "Price position",
+    "description": "We compared what each step up in price adds, from about $100 to just under $470. Prices change often, so we treat them as relative position."
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "Seat height that fits your desk",
+    "explanation": "Executive chairs often sit a little higher than task chairs. A common guideline is feet flat, thighs roughly level and elbows near desk height. At a standard 29- to 30-inch desk, check both ends of the range.\n\nThe HON goes lowest here, to 15.5 inches, while the La-Z-Boy Bradley goes highest, to 22.5 inches."
+  },
+  {
+    "criterion": "Upholstery: PU, bonded leather or mesh",
+    "explanation": "PU and bonded leather give the traditional look and wipe clean easily but hold heat and can show surface wear over time. Mesh breathes more freely but looks more corporate. Serta's AIR lumbar is an attempt to split the difference.\n\nNone of the chairs here list genuine leather."
+  },
+  {
+    "criterion": "Lumbar: adjustable, cushion or pillow",
+    "explanation": "Many executive chairs rely on a built-in cushion or pillow. The Amazon Basics and La-Z-Boy Delano list adjustable lumbar; the Furmax, COLAMY and several others use a cushion or pillow. If lower-back support is a priority, that distinction matters more than the style of the back."
+  },
+  {
+    "criterion": "Weight capacity with room to spare",
+    "explanation": "Stated capacities here range from 250 to 400 lb. We would choose a chair rated comfortably above your body weight rather than one that only just covers it."
+  },
+  {
+    "criterion": "What else actually adjusts",
+    "explanation": "Most leather executive chairs adjust height and tilt lock, and little else. If you want adjustable arms or seat depth, check the specifications rather than the photos: here, the Furmax lists adjustable arms and the HON lists 4D arms and seat depth."
+  }
 ];
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Budget",
+    "subheading": "By priority",
     "table": {
-      "headers": ["Your priority", "Recommended pick"],
+      "headers": [
+        "Priority",
+        "Consider",
+        "Why"
+      ],
       "rows": [
-        ["Lowest price in this guide", "Furmax Executive High-Back PU Leather Chair"],
-        ["Highest price / most features", "HON Ignition 2.0 Mesh Back Chair"]
+        [
+          "Adjustable lumbar at a moderate price",
+          "Amazon Basics",
+          "Adjustable lumbar with the classic high-back look"
+        ],
+        [
+          "Lowest cost",
+          "Furmax or COLAMY",
+          "About $100; adjustable arms or thicker foam"
+        ],
+        [
+          "A larger build",
+          "La-Z-Boy Delano",
+          "400 lb capacity and a 22.5-inch-wide seat"
+        ],
+        [
+          "Staying cool",
+          "Serta Bryce or HON Ignition 2.0",
+          "Ventilated lumbar, or a full mesh back"
+        ],
+        [
+          "The most adjustment",
+          "HON Ignition 2.0",
+          "4D arms, seat depth and tilt tension"
+        ],
+        [
+          "Traditional styling",
+          "La-Z-Boy Bradley",
+          "Furniture-style design and a three-year warranty"
+        ]
       ]
     }
   },
   {
-    "subheading": "New to Ergonomic Chairs vs. Replacing a Known Setup",
-    "cards": [
-      { "label": "First ergonomic chair", "text": "Prioritize a wide range of basic adjustments (seat height, armrest height, lumbar) over premium materials, since you're still learning what actually matters for your body." },
-      { "label": "Replacing a chair you've outgrown", "text": "Focus on the specific adjustment your old chair lacked, whether that was seat depth, lumbar contour, or weight capacity, rather than upgrading everything at once." }
-    ]
+    "subheading": "By price at the time of writing",
+    "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.",
+    "table": {
+      "headers": [
+        "Price tier",
+        "Chairs"
+      ],
+      "rows": [
+        [
+          "About $100",
+          "Furmax, COLAMY"
+        ],
+        [
+          "About $150–$250",
+          "Amazon Basics, Serta Bryce"
+        ],
+        [
+          "About $300–$380",
+          "Serta Fairbanks, La-Z-Boy Bradley, La-Z-Boy Delano"
+        ],
+        [
+          "About $470",
+          "HON Ignition 2.0"
+        ]
+      ]
+    }
   }
 ];
 
-export const faq: { q: string; a: string }[] = [
-  { q: "What makes an office chair 'executive'?", a: "An executive office chair typically features a high back that extends above the shoulder blades, padded armrests, leather upholstery (genuine or synthetic), and a traditional aesthetic that signals seniority or authority in a professional setting. Functionally, executive chairs prioritize a visual profile associated with professional spaces. The best executive chairs combine this aesthetic with ergonomic adjustability for practical daily use." },
-  { q: "Is a Herman Miller or Steelcase chair worth the price for an executive?", a: "For executives sitting 6-plus hours daily, the long-term cost of a Herman Miller or Steelcase chair is actually lower than buying and replacing budget executive chairs every 2 to 3 years. The 12 to 15-year warranty and known durability mean a $1,200 Steelcase Gesture costs $100 per year over 12 years, compared to a $350 budget executive chair replaced every 3 years at $117 per year - plus the daily cost in back discomfort and reduced performance." },
-  { q: "Can I use an executive chair with a standing desk?", a: "Yes, but most traditional executive chairs sit at fixed heights around 17 to 22 inches, which works for standard 28 to 30-inch desks. If you adjust your standing desk height for standing use, you typically need to lower it back for sitting. The chair height doesn't need to match standing desk height - only sitting desk height. For the sitting interval, any ergonomic executive chair works with any sit-stand desk." },
-  { q: "What is the best executive chair for video calls?", a: "For video calls where your chair is visible, a high-back leather executive chair with a headrest provides the strongest professional visual. The BOSS High-Back, NEO CHAIR Executive, and FlexiSpot BS13B all deliver this at mid-range prices. If you want combined performance and aesthetics for both daily work and video visibility, the Steelcase Gesture leather is the most complete option." },
-  { q: "How do I choose between genuine leather and PU leather for an executive chair?", a: "Genuine leather outlasts PU leather significantly with proper care - decades vs 3 to 5 years. The initial cost difference is offset over time if you keep the chair. Genuine leather requires conditioning every 3 to 6 months to prevent cracking. PU leather requires only wiping clean. In air-conditioned offices, both types feel similar daily. In warm environments, genuine leather breathes slightly better. See our [best leather office chair](/guide/best-leather-office-chair) guide for a full comparison." },
+export const faq = [
+  {
+    "q": "What makes an office chair \"executive\"?",
+    "a": "The term usually describes a high back that reaches above the shoulder blades, padded arms, leather-style upholstery and a traditional look. It says nothing specific about adjustment, so check the specifications for lumbar, arm and seat-depth adjustment."
+  },
+  {
+    "q": "Is a premium ergonomic chair worth considering instead?",
+    "a": "If adjustment matters more than styling, it can be. Premium ergonomic chairs commonly add longer warranties and more adjustment. In this guide, the HON Ignition 2.0 is the closest to that approach, with 4D arms and seat-depth adjustment."
+  },
+  {
+    "q": "Can I use an executive chair with a standing desk?",
+    "a": "Yes. The chair only needs to match the desk's sitting height. Check that the chair's seat range suits the height you set for sitting."
+  },
+  {
+    "q": "Which executive chair looks best on video calls?",
+    "a": "A high back is what reads as \"executive\" on camera. Any of the high-back upholstered chairs here provide that; choose between them on fit and adjustment rather than appearance alone."
+  },
+  {
+    "q": "Genuine leather or PU leather?",
+    "a": "None of the chairs here list genuine leather. PU and bonded leather wipe clean easily but can show surface wear over time, while genuine leather generally needs periodic conditioning. If you work in a warm room, a ventilated or mesh design may be more comfortable than either."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-leather-office-chair", title: "Best Leather Office Chairs (2026)" },
-  { href: "/guide/best-office-chair-for-back-pain", title: "Best Office Chairs for Back Pain (2026)" },
-  { href: "/guide/best-mesh-office-chair", title: "Best Mesh Office Chairs (2026)" },
-  { href: "/guide/best-office-chair-under-500", title: "Best Office Chairs Under $500 (2026)" },
+export const bottomLine = [
+  "For most home offices, we would start with the Amazon Basics: it pairs the classic high-back look with adjustable lumbar at a moderate price. On a tighter budget, the Furmax and COLAMY cost about the same; choose the Furmax for adjustable arms and a higher seat, or the COLAMY for thicker padding and a 300 lb rating.",
+  "The La-Z-Boy Delano is the clear choice for larger users, the Serta Bryce suits anyone who runs warm in leather-style chairs, and the HON Ignition 2.0 is the better fit if you want real adjustment and don't mind a more corporate look."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-leather-office-chair",
+    "title": "Best Leather Office Chairs (2026)"
+  },
+  {
+    "href": "/guide/best-office-chair-for-back-pain",
+    "title": "Best Office Chairs for Back Pain (2026)"
+  },
+  {
+    "href": "/guide/best-mesh-office-chair",
+    "title": "Best Mesh Office Chairs (2026)"
+  },
+  {
+    "href": "/guide/best-office-chair-under-500",
+    "title": "Best Office Chairs Under $500 (2026)"
+  }
 ];

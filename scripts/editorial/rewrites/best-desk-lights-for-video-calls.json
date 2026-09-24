@@ -1,0 +1,111 @@
+{
+  "guideTitle": "The Best Desk Lights for Looking Clear on Video Calls",
+  "breadcrumbLabel": "Best Desk Lights for Video Calls",
+  "metaTitle": "Best Desk Lights for Video Calls and Webcams (2026)",
+  "metaDescription": "We compared video-call lights and desk lamps on how they light a face, color temperature control, disclosed CRI and footprint, and explain when a regular lamp is enough.",
+  "introParagraphs": [
+    "The usual video-call problem is not brightness but direction. A ceiling light or a desk lamp aimed at the keyboard lights the top of your head and the desk, leaving your face in shadow; a window behind you turns you into a silhouette. A light for calls needs to reach your face from the front, evenly and without glare.",
+    "That splits this guide into two kinds of product: purpose-built video lights (a streaming light, ring lights and a panel) that face you, and desk lamps that light the work surface and add fill light on camera. The first group does the camera job better; the second is more useful when the call ends.",
+    "Our comparison is based on published specifications, including color temperature range, disclosed CRI and mounting, plus price position, not hands-on testing. One caveat applies to every pick: none of the listings state whether dimming is flicker-free, which can matter on camera."
+  ],
+  "products": {
+    "logitech-litraglow-desklight": {
+      "badge": "Best Streaming Light",
+      "summary": "A purpose-built streaming light from Logitech, designed to light a face rather than a desk.",
+      "description": "The Logitech Litra Glow is the most straightforward choice for calls: it is a compact light designed by Logitech for streaming and video, meant to sit near the monitor and light your face with diffused output.\n\nThe practical advantage over a desk lamp is direction. It faces you, so it addresses the shadowed-face problem directly rather than adding spill light. It costs more than the generic ring lights here but less than the LitONES lamp at the time of writing.\n\nThe listing does not disclose a CRI figure, and the light surface is smaller than the 9-inch RALENO panel. If you want a disclosed CRI, the Zoom Lighting ring light lists one for less.",
+      "specs": ["Type: streaming and video-call light", "Diffused face lighting (manufacturer description)", "CRI: not disclosed"],
+      "pros": ["Purpose-built to light a face", "Compact enough to sit by a monitor", "From an established peripherals brand"],
+      "cons": ["CRI not disclosed", "Smaller light surface than a panel", "Costs more than the ring lights here"],
+      "bestFor": "Anyone who wants a compact, dedicated call light that sits by the monitor.",
+      "skipIf": "Accurate color rendering is your priority; the Zoom Lighting ring light discloses a CRI of 97.8."
+    },
+    "litones-desklight": {
+      "badge": "Best Desk Lamp for Calls",
+      "summary": "An edge-lit desk lamp that works for everyday tasks and adds soft fill light on calls.",
+      "description": "The LitONES is the pick if you want one light that serves the desk all day and helps on camera, rather than a dedicated video light.\n\nIts soft edge-lit design should produce less harsh light than a basic single-bulb lamp, and the modern styling suits a visible home-office desk. It is still a desk lamp, though: the beam is aimed at the work surface, so it will light your face less directly than the Litra Glow or a ring light.\n\nIt is also the most expensive light here at the time of writing. If calls are the main job, a dedicated light does more for less.",
+      "specs": ["Type: LED desk lamp", "Soft edge-lit design", "Beam aimed at the desk surface"],
+      "pros": ["Useful as a task lamp as well as fill light", "Soft edge-lit output", "Modern styling"],
+      "cons": ["Lights your face less directly than a video light", "Highest price in this guide", "CRI and color temperature range not disclosed"],
+      "bestFor": "People who want a single desk lamp that also improves their lighting on calls.",
+      "skipIf": "Calls are the priority; the Litra Glow or a ring light face you directly for less."
+    },
+    "zoomlighting-desklight": {
+      "badge": "Best for Color Accuracy",
+      "summary": "A desk ring light with a disclosed CRI of 97.8 and 30 light modes.",
+      "description": "The Zoom Lighting ring light is the only pick that discloses a CRI figure, listed at 97.8, which makes it the choice if natural-looking skin tones on camera matter to you.\n\nThe listing also describes 30 light modes, giving plenty of control over brightness and color temperature, and it comes with a desk stand. A high CRI describes color rendering only; it does not tell you whether the dimming is flicker-free, which the listing does not state.\n\nAs a stand-mounted ring light it is less useful than a desk lamp once the call ends.",
+      "specs": ["CRI: 97.8 (listed)", "Light modes: 30", "Type: desk ring light with stand"],
+      "pros": ["Disclosed high CRI", "Fine control with 30 modes", "Stand included"],
+      "cons": ["Less useful as a general desk lamp", "Flicker performance not stated", "Costs a little more than the basic ring light"],
+      "bestFor": "Anyone who presents often and wants accurate color rendering on camera.",
+      "skipIf": "You want a light that also works as a desk lamp; the LitONES or Airlonv do both jobs."
+    },
+    "desk-ring-light-desklight": {
+      "badge": "Best Budget Ring Light",
+      "summary": "A low-cost desk ring light with adjustable color temperature and a stand.",
+      "description": "This desk ring light is the budget way to get a dedicated, face-forward light for calls, with adjustable color temperature and a stand included.\n\nIt costs a few dollars less than the Zoom Lighting model at the time of writing, but it does not disclose a CRI, a color temperature range or anything about flicker. The saving is small, so the Zoom Lighting light may be the better value if color accuracy matters to you.\n\nIt is still a sensible choice for someone who simply wants to stop looking shadowed on calls.",
+      "specs": ["Type: desk ring light with stand", "Adjustable color temperature", "CRI: not disclosed"],
+      "pros": ["Low price for a dedicated call light", "Adjustable color temperature", "Stand included"],
+      "cons": ["CRI not disclosed", "Flicker performance not stated", "Little saving over the Zoom Lighting model"],
+      "bestFor": "Budget buyers who want a dedicated front light for calls.",
+      "skipIf": "You care about color rendering; the Zoom Lighting ring light lists a CRI for slightly more."
+    },
+    "raleno9in-desklight": {
+      "badge": "Best Panel Light",
+      "summary": "A 9-inch LED panel with a 2500K–6500K range and a desk stand.",
+      "description": "The RALENO is the pick for a larger, flatter light source: a 9-inch panel on a desk stand with a listed color temperature range of 2500K to 6500K.\n\nA larger surface generally spreads light more softly than a small source at the same distance, and the wide Kelvin range makes it easier to match warm lamps or cool daylight in the room.\n\nIt takes more desk space than a compact light, and the listing does not disclose a CRI figure.",
+      "specs": ["Panel size: 9\"", "Color temperature: 2500K–6500K", "Desk stand included", "CRI: not disclosed"],
+      "pros": ["Larger light surface", "Wide listed color temperature range", "Stand included"],
+      "cons": ["Larger footprint", "CRI not disclosed"],
+      "bestFor": "People who want softer, broader front light and can spare the desk space.",
+      "skipIf": "Your desk is small; the Litra Glow is more compact."
+    },
+    "airlonv-desklight": {
+      "badge": "Best Low-Cost Clamp Lamp",
+      "summary": "A 17-inch clamp desk lamp with stepless dimming, for task light and some fill on calls.",
+      "description": "The Airlonv is the lowest-cost option and the most useful as an everyday lamp: a 17-inch clamp-mounted lamp with stepless dimming that frees desk space.\n\nFor calls, it can add fill light if you aim it toward the wall or your face, but its beam is designed for a work surface, so it will not match a dedicated video light. The listing does not mention color temperature adjustment or a CRI figure.\n\nIt makes sense if you need a desk lamp anyway and want a small improvement on camera rather than a dedicated call light.",
+      "specs": ["Mount: clamp", "Arm length: 17\"", "Stepless dimming", "Color temperature adjustment: not listed"],
+      "pros": ["Lowest price here", "Clamp mount saves desk space", "Useful as a task lamp"],
+      "cons": ["Not designed for face lighting", "No color temperature adjustment or CRI listed"],
+      "bestFor": "Anyone who needs a task lamp first and occasional fill light for calls second.",
+      "skipIf": "You want your face lit evenly on camera; a ring light or the Litra Glow is designed for that."
+    }
+  },
+  "buyingCriteria": [
+    { "criterion": "Video light or desk lamp", "explanation": "Video lights (the Litra Glow, the ring lights and the RALENO panel) face you. Desk lamps (the LitONES and Airlonv) light the work surface and only add indirect fill on camera. Decide which job matters more." },
+    { "criterion": "Color temperature control", "explanation": "Being able to shift between warm and cool light helps you match other light in the room, so your face does not look orange or blue. The RALENO lists 2500K to 6500K; the other listings mention adjustment without a range, or none at all." },
+    { "criterion": "Disclosed CRI", "explanation": "CRI describes how accurately a light renders color, including skin tones. Only the Zoom Lighting ring light discloses one (97.8). A missing figure does not mean a poor light, only that you cannot compare it on paper." },
+    { "criterion": "Flicker", "explanation": "Some LED lights dim by switching rapidly on and off (PWM). This can be invisible to the eye but show up as banding on camera, especially at low brightness. None of the listings here state how they dim, so if you see banding, try a higher brightness setting." },
+    { "criterion": "Size and mounting", "explanation": "A larger panel spreads light more softly but takes more space. Clamp mounts save desk surface; stands are easier to reposition." }
+  ],
+  "howWeEvaluated": [
+    { "title": "Light direction", "description": "We separated lights designed to face the user from lamps designed to light a desk." },
+    { "title": "Color control and CRI", "description": "We recorded listed color temperature ranges and CRI figures, and noted where listings omit them." },
+    { "title": "Flicker disclosure", "description": "We checked whether listings state flicker-free dimming. None do, so we flag it rather than rank on it." },
+    { "title": "Footprint and price", "description": "We compared size, mounting and price position. Prices change often, so we treat them as relative position." }
+  ],
+  "howToChoose": [
+    { "subheading": "By priority", "table": { "headers": ["Priority", "Consider", "Why"], "rows": [
+      ["A compact dedicated call light", "Logitech Litra Glow", "Designed to light a face from beside the monitor"],
+      ["Accurate skin tones", "Zoom Lighting ring light", "Only pick with a disclosed CRI (97.8)"],
+      ["Softer, broader light", "RALENO 9\" panel", "Larger surface and 2500K–6500K range"],
+      ["Lowest-cost call light", "Desk ring light with stand", "Dedicated front light at a budget price"],
+      ["One lamp for work and calls", "LitONES", "Edge-lit desk lamp that adds fill light"],
+      ["A task lamp first", "Airlonv", "Clamp mount and stepless dimming"]
+    ] } },
+    { "subheading": "By price at the time of writing", "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.", "table": { "headers": ["Price tier", "Lights"], "rows": [
+      ["About $20", "Airlonv"],
+      ["About $33–$40", "Desk ring light, Zoom Lighting, RALENO"],
+      ["About $55–$65", "Logitech Litra Glow, LitONES"]
+    ] } }
+  ],
+  "faq": [
+    { "q": "What is PWM flicker and why does it matter for video calls?", "a": "PWM (pulse-width modulation) is a dimming method that switches LEDs on and off rapidly. The flicker may be invisible to the eye but can appear as banding or strobing on camera, especially at lower brightness. None of the listings in this guide state how they dim, so if you notice banding, raising the brightness or changing the webcam's frame rate may help." },
+    { "q": "Can I use a regular desk lamp for video calls?", "a": "You can, especially if you bounce it off a wall in front of you. But a desk lamp is designed to light a work surface, so it will usually light your face less evenly than a light designed to face you." },
+    { "q": "Do I need a light with a disclosed CRI rating?", "a": "Not necessarily. A disclosed high CRI, such as the 97.8 listed for the Zoom Lighting ring light, tells you the light should render skin tones accurately. If a listing omits CRI, you simply have less to go on." },
+    { "q": "Is a dual-purpose desk lamp as good as a dedicated video light?", "a": "For calls, usually not. It can add ambient fill light, but it will not light your face as directly or evenly as a ring light, panel or streaming light." }
+  ],
+  "bottomLine": [
+    "If calls are the reason you are buying, choose a light that faces you. The Logitech Litra Glow is the compact option, the Zoom Lighting ring light is the one to pick for its disclosed CRI, and the RALENO panel suits anyone who wants softer light and has the space. The basic desk ring light is fine on a tight budget but saves little over the Zoom Lighting model.",
+    "If you need a desk lamp anyway, the LitONES and Airlonv both add some fill light on camera. The LitONES is the better-looking, softer option; the Airlonv is far cheaper and clamps out of the way. Neither replaces a dedicated video light for even face lighting."
+  ]
+}

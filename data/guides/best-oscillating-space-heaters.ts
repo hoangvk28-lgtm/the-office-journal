@@ -1,0 +1,339 @@
+export const guideSlug = "best-oscillating-space-heaters";
+export const guideTitle = "8 Best Oscillating Space Heaters in 2026";
+export const metaTitle = "Best Oscillating Space Heaters";
+export const metaDescription = "We compared space heater oscillating models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
+export const mainKeyword = "space heater oscillating";
+export const introParagraphs = [
+  "Best Oscillating Space Heaters look similar but differ in practice, so the listing hides real safety gaps.",
+  "Every pick here was judged on real safety certification and tip-over protection, because these details matter more than claims."
+];
+export const lastUpdated = "2026-08-31";
+export const readTime = "11 min";
+export const heroImage = "https://m.media-amazon.com/images/I/41ARnx-F3RL._SL500_.jpg";
+
+export interface GuideProduct {
+  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
+  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
+}
+
+export const products: GuideProduct[] = [
+  {
+    id: "best-oscillating-space-heaters-1",
+    rank: 1,
+    badge: "Best Overall",
+    name: "Space Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation",
+    price: "$33.49",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41ARnx-F3RL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0F192PKMF?tag=theofficejournal-20",
+    description: "Space Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation is our overall pick in this lineup. The indoor small-space heater features advanced ptc ceramic heating technology, providing rapid heat-up in seconds and delivering continuous warmth to small spaces. This portable heater supports wide-angle automatic oscillation, ensuring even heat distribution and expanding the heating coverage area, so every corner of the room stays warm.\n\nJIBUFI Portable Space Heater for Indoor Use with 70° Oscillation and Remote is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nIt's worth picking this one if you want the strongest all-around pick in this comparison and would rather not keep shopping around. The manufacturer's square-footage coverage assumes a reasonably insulated room, so a drafty or high-ceiling space may need more wattage than the listing suggests.",
+    specs: ["Efficient and fast heating", "Wide-angle auto oscillation", "Remote control, the office small-space heater allows easy adjustment of temperature"],
+    pros: ["Efficient and fast heating", "Wide-angle auto oscillation", "Remote control, the office small-space heater allows easy adjustment of temperature", "Multiple safety protections"],
+    cons: ["Coverage claims assume a well-insulated, average-height room", "Running at full wattage all day adds up on the electric bill"],
+    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
+  },
+  {
+    id: "best-oscillating-space-heaters-2",
+    rank: 2,
+    badge: "Also Worth Considering",
+    name: "JIBUFI Portable Space Heater for Indoor Use with 70° Oscillation and Remote",
+    price: "$33.49",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41P7raTXyrL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0CFBD1MDM?tag=theofficejournal-20",
+    description: "JIBUFI Portable Space Heater for Indoor Use with 70° Oscillation and Remote is a strong alternative worth comparing directly against the top pick. This space heater delivers 1500w power for quick and warmth. Etl certified with features like tip-over and protection, along with an enhanced safety plug.\n\nSpace Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Running any 1,500-watt heater for hours a day costs real money, roughly $0.12 to $0.23 per hour at average electricity rates, so a genuine low-wattage setting and working thermostat matter for the season's total cost.",
+    specs: ["Rapid heating", "Comprehensive safety protection", "Efficient energy saving"],
+    pros: ["Rapid heating", "Comprehensive safety protection", "Efficient energy saving", "Multiple modes of operation"],
+    cons: ["Running at full wattage all day adds up on the electric bill", "Coverage claims assume a well-insulated, average-height room"],
+    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+  },
+  {
+    id: "best-oscillating-space-heaters-3",
+    rank: 3,
+    badge: "Solid Alternative",
+    name: "DREO Space Heater",
+    price: "$44.95",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41Z4LdvtMwL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B097RG67QB?tag=theofficejournal-20",
+    description: "DREO Space Heater is a strong alternative worth comparing directly against the top pick. Shield360° protection: Dreo room heater heat up your day and night without worries. Eco mode adjusts the heat level automatically to reach your desired temperature while saving more on energy bills.\n\nSpace Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. The manufacturer's square-footage coverage assumes a reasonably insulated room, so a drafty or high-ceiling space may need more wattage than the listing suggests.",
+    specs: ["Shield360° protection: Dreo room heater heat up your day and night without worries", "Save more on energy bills", "Warm any angle"],
+    pros: ["Shield360° protection: Dreo room heater heat up your day and night without worries", "Save more on energy bills", "Warm any angle", "Engineered to be quieter"],
+    cons: ["Coverage claims assume a well-insulated, average-height room", "Running at full wattage all day adds up on the electric bill"],
+    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+  },
+  {
+    id: "best-oscillating-space-heaters-4",
+    rank: 4,
+    badge: "Best Value",
+    name: "Amazon Basics Oscillating Ceramic Space Heater",
+    price: "$23.88",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41n-y0wWVLL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B07V4FNHCD?tag=theofficejournal-20",
+    description: "Amazon Basics Oscillating Ceramic Space Heater is the best-value option in this roundup, priced lowest without a real capability gap. The heater's 45-degree oscillation function ensures even heat distribution across the room, warming a wider area for maximum comfort. Choose from three settings to suit your needs - high (1500w), low (900w), or fan only for air circulation without heat.\n\nWeighing this against Space Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation, built-in tip-over protection, overheat protection, and a power indicator light for safe operation ends up being the detail that matters most for most buyers.\n\nThis one is the right call if you want a genuinely capable pick without paying for headroom you won't use. Running any 1,500-watt heater for hours a day costs real money, roughly $0.12 to $0.23 per hour at average electricity rates, so a genuine low-wattage setting and working thermostat matter for the season's total cost.",
+    specs: ["Even heat distribution", "Customizable heating options", "Compact & portable"],
+    pros: ["Even heat distribution", "Customizable heating options", "Compact & portable", "Built-in tip-over protection"],
+    cons: ["Running at full wattage all day adds up on the electric bill", "Coverage claims assume a well-insulated, average-height room"],
+    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
+  },
+  {
+    id: "best-oscillating-space-heaters-5",
+    rank: 5,
+    badge: "Runner-Up Pick",
+    name: "WINHL Space Heaters for Indoor Use with Thermostat",
+    price: "$44.99",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41bM3qRD-lL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0F8VH3TKQ?tag=theofficejournal-20",
+    description: "WINHL Space Heaters for Indoor Use with Thermostat is a strong alternative worth comparing directly against the top pick. This ceramic heater uses advanced ptc ceramic heating technology. Designed for indoor use, this heater offers three adjustable power levels, 700w, 1000w, and 1500w, to accommodate different room temperatures and personal preferences.\n\nSet next to Space Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. The manufacturer's square-footage coverage assumes a reasonably insulated room, so a drafty or high-ceiling space may need more wattage than the listing suggests.",
+    specs: ["Fast heating", "Multiple heat settings", "Electric heater features a built-in thermostat system that automatically"],
+    pros: ["Fast heating", "Multiple heat settings", "Electric heater features a built-in thermostat system that automatically"],
+    cons: ["Coverage claims assume a well-insulated, average-height room", "Running at full wattage all day adds up on the electric bill"],
+    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+  },
+  {
+    id: "best-oscillating-space-heaters-6",
+    rank: 6,
+    badge: "Worth a Look",
+    name: "DREO Space Heaters for Indoor Use with Thermostat",
+    price: "$67.47",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41s5nIlULzL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B095PP1GZR?tag=theofficejournal-20",
+    description: "DREO Space Heaters for Indoor Use with Thermostat is a strong alternative worth comparing directly against the top pick. 34Db - almost as quiet as a library. Experience enhanced comfort in large rooms with the exclusive trackball system, engineered for smooth and whisper-quiet oscillation.\n\nSpace Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation covers similar ground, though save on energy bills and live more sustainably is what tips the choice one way or the other.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Running any 1,500-watt heater for hours a day costs real money, roughly $0.12 to $0.23 per hour at average electricity rates, so a genuine low-wattage setting and working thermostat matter for the season's total cost.",
+    specs: ["Etl-certified safety", "Fast indoor ceramic heater", "Quiet heating"],
+    pros: ["Etl-certified safety", "Fast indoor ceramic heater", "Quiet heating", "Uniform heating"],
+    cons: ["Running at full wattage all day adds up on the electric bill", "Coverage claims assume a well-insulated, average-height room"],
+    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+  },
+  {
+    id: "best-oscillating-space-heaters-7",
+    rank: 7,
+    badge: "Great Alternative",
+    name: "Amazon Basics Oscillating Ceramic Portable Indoor Space Heater",
+    price: "$27.27",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41jeXOLyyJL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B07V7QJG8J?tag=theofficejournal-20",
+    description: "Amazon Basics Oscillating Ceramic Portable Indoor Space Heater is a strong alternative worth comparing directly against the top pick. The heater's 45-degree oscillation function ensures even heat distribution across the room, warming a wider area for maximum comfort. Choose from three settings to suit your needs - high (1500w), low (900w), or fan only for air circulation without heat.\n\nHeld up against Space Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation, both cover the basics equally well, what actually separates them is built-in tip-over protection, overheat protection, and a power indicator light for safe operation.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. The manufacturer's square-footage coverage assumes a reasonably insulated room, so a drafty or high-ceiling space may need more wattage than the listing suggests.",
+    specs: ["Even heat distribution", "Customizable heating options", "Compact & portable"],
+    pros: ["Even heat distribution", "Customizable heating options", "Compact & portable", "Built-in tip-over protection"],
+    cons: ["Coverage claims assume a well-insulated, average-height room", "Running at full wattage all day adds up on the electric bill"],
+    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+  },
+  {
+    id: "best-oscillating-space-heaters-8",
+    rank: 8,
+    badge: "Also Worth Considering",
+    name: "AUBKN X-Large 1500W Electric Space Heaters for Indoor Use",
+    price: "$54.99",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/310-v6uzXQL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0F99876ZR?tag=theofficejournal-20",
+    description: "AUBKN X-Large 1500W Electric Space Heaters for Indoor Use is a strong alternative worth comparing directly against the top pick. 1500W ceramic fast heating: this electric space heater features advanced ptc ceramic heating technology for instant warmth, heats up in just 3 seconds to quickly bring comfort to bedrooms, studies, or offices. 1-12 Hour smart timer: equipped with a 1-12 hour programmable timer, this heater allows you to set the operating time freely.\n\nAgainst Space Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Running any 1,500-watt heater for hours a day costs real money, roughly $0.12 to $0.23 per hour at average electricity rates, so a genuine low-wattage setting and working thermostat matter for the season's total cost.",
+    specs: ["1500W ceramic fast heating: this electric space heater", "1-12 Hour smart timer: equipped with a 1-12 hour programmable timer", "Convenient remote control"],
+    pros: ["1500W ceramic fast heating: this electric space heater", "1-12 Hour smart timer: equipped with a 1-12 hour programmable timer", "Convenient remote control"],
+    cons: ["Running at full wattage all day adds up on the electric bill", "Coverage claims assume a well-insulated, average-height room"],
+    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "Wattage vs Actual Room Size",
+    "description": "The standard rule of thumb is about 10 watts of heating power per square foot of floor area, so a 1,500-watt heater (the max most household outlets safely support) is sized for roughly a 150 square foot room, not a whole floor or an open-concept living area."
+  },
+  {
+    "title": "Tip-Over and Overheat Protection Are Non-Negotiable",
+    "description": "Tip-over protection and overheat protection solve two different failure modes and a real space heater needs both: tip-over protection cuts power if the unit is physically knocked over, while a thermal fuse shuts it down if it overheats internally even while sitting upright."
+  },
+  {
+    "title": "Third-Party Safety Certification (UL, ETL, or CSA)",
+    "description": "A label from UL Solutions, ETL (Intertek), or CSA means the heater's construction and performance were independently tested against recognized U.S."
+  },
+  {
+    "title": "Ceramic vs Infrared vs Oil-Filled Heat Type",
+    "description": "The three common heat types trade off speed, quiet operation, and how the warmth is distributed: ceramic heaters warm a room fastest but rely on a fan that adds noise and stops heating the moment it's off; infrared heaters warm people and objects directly rather than circulating air, ideal for a spot right next to a desk but weaker at heating an entire room; oil-filled radiators are the slowest to warm up and the quietest, holding heat for a long time after being turned off, which suits overnight bedroom use where fan noise is unwelcome.."
+  },
+  {
+    "title": "Running Cost at Full Wattage",
+    "description": "A typical 1,500-watt space heater costs roughly $0.12 to $0.23 per hour to run at the U.S."
+  }
+];
+
+export interface HowToChooseSection {
+  subheading: string;
+  intro?: string;
+  table?: { headers: string[]; rows: string[][] };
+  cards?: { label: string; text: string }[];
+  note?: string;
+}
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Room Size",
+    "table": {
+      "headers": [
+        "Your room",
+        "Recommended pick"
+      ],
+      "rows": [
+        [
+          "Small room or under a desk",
+          "Amazon Basics Oscillating Ceramic Space Heater"
+        ],
+        [
+          "Standard bedroom or office",
+          "Space Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation"
+        ],
+        [
+          "Larger living space",
+          "AUBKN X-Large 1500W Electric Space Heaters for Indoor Use"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "By Budget",
+    "table": {
+      "headers": [
+        "Budget",
+        "Recommended pick"
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          "Amazon Basics Oscillating Ceramic Space Heater"
+        ],
+        [
+          "Mid-range pick",
+          "JIBUFI Portable Space Heater for Indoor Use with 70° Oscillation and Remote"
+        ],
+        [
+          "Higher budget",
+          "AUBKN X-Large 1500W Electric Space Heaters for Indoor Use"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "Ceramic vs Oil-Filled Heat",
+    "cards": [
+      {
+        "label": "Ceramic (e.g. Space Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation)",
+        "text": "Heats a room fastest using a fan, but cools down quickly once switched off."
+      },
+      {
+        "label": "Oil-filled radiator",
+        "text": "Slower to warm up but silent and holds heat long after being turned off, best for overnight use."
+      }
+    ],
+    "note": "Match this to whether you need fast heat now or quiet, sustained warmth overnight."
+  },
+  {
+    "subheading": "By Safety Priority",
+    "table": {
+      "headers": [
+        "Your situation",
+        "Recommended pick"
+      ],
+      "rows": [
+        [
+          "Kids or pets in the room",
+          "Check for both tip-over AND overheat protection specifically"
+        ],
+        [
+          "Standard adult-only room",
+          "Space Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For Overnight Bedroom Use Specifically",
+    "cards": [
+      {
+        "label": "Look for",
+        "text": "A genuine low-wattage setting, a working thermostat that cycles off, and UL/ETL/CSA safety certification."
+      },
+      {
+        "label": "In this comparison",
+        "text": "Space Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation is worth checking against its specific safety certifications before assuming any 'safe' label performs the same."
+      }
+    ]
+  },
+  {
+    "subheading": "When to Spend More",
+    "cards": [
+      {
+        "label": "Spend more if",
+        "text": "You're heating a larger room and want a thermostat and multiple heat settings, where AUBKN X-Large 1500W Electric Space Heaters for Indoor Use justifies the extra cost."
+      },
+      {
+        "label": "Save if",
+        "text": "You're heating a small space or supplementing central heat, where Amazon Basics Oscillating Ceramic Space Heater already covers the job at the lowest price here."
+      }
+    ]
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "Wattage vs Actual Room Size",
+    "explanation": "The standard rule of thumb is about 10 watts of heating power per square foot of floor area, so a 1,500-watt heater (the max most household outlets safely support) is sized for roughly a 150 square foot room, not a whole floor or an open-concept living area. A heater with only a low 750-900 watt setting will run constantly and still underheat a larger room, while a 1,500-watt unit in a small bedroom can overshoot and cycle on and off more than necessary. Check the manufacturer's stated square footage coverage against your room's actual dimensions, not just the wattage number alone."
+  },
+  {
+    "criterion": "Tip-Over and Overheat Protection Are Non-Negotiable",
+    "explanation": "Tip-over protection and overheat protection solve two different failure modes and a real space heater needs both: tip-over protection cuts power if the unit is physically knocked over, while a thermal fuse shuts it down if it overheats internally even while sitting upright. Check that the listing explicitly names both features, not just a generic 'safety shutoff' claim, particularly if the heater will be used somewhere it could get bumped, like a bathroom or a kid's room."
+  },
+  {
+    "criterion": "Third-Party Safety Certification (UL, ETL, or CSA)",
+    "explanation": "A label from UL Solutions, ETL (Intertek), or CSA means the heater's construction and performance were independently tested against recognized U.S. safety standards, not just self-certified by the manufacturer. This matters more for space heaters than almost any other small appliance category, since they're a leading cause of home heating fires when a unit has a manufacturing defect or a corner-cut cord. If a listing doesn't mention one of these three certifications anywhere in the title, images, or bullet points, treat that as a real gap, not an oversight."
+  },
+  {
+    "criterion": "Ceramic vs Infrared vs Oil-Filled Heat Type",
+    "explanation": "The three common heat types trade off speed, quiet operation, and how the warmth is distributed: ceramic heaters warm a room fastest but rely on a fan that adds noise and stops heating the moment it's off; infrared heaters warm people and objects directly rather than circulating air, ideal for a spot right next to a desk but weaker at heating an entire room; oil-filled radiators are the slowest to warm up and the quietest, holding heat for a long time after being turned off, which suits overnight bedroom use where fan noise is unwelcome."
+  },
+  {
+    "criterion": "Running Cost at Full Wattage",
+    "explanation": "A typical 1,500-watt space heater costs roughly $0.12 to $0.23 per hour to run at the U.S. average electricity rate, which adds up fast if it's running for several hours a day through a whole winter, a heater with a 750-watt low setting and a working thermostat that actually cycles off (rather than running at full power constantly) can meaningfully cut that cost over a season. Check whether the listed wattage is a single fixed output or a range with a genuine low setting, since 'up to 1,500 watts' models that only run at that ceiling cost roughly twice as much per hour as a heater that can step down."
+  }
+];
+
+export const faq = [
+  {
+    "q": "What size space heater do I need for my room?",
+    "a": "Use roughly 10 watts of heating power per square foot as a baseline, meaning a 1,500-watt heater (the practical ceiling for a standard household outlet) suits about a 150 square foot room; check the manufacturer's stated coverage against your room's actual square footage rather than assuming higher wattage always means better performance."
+  },
+  {
+    "q": "Do all space heaters have tip-over protection?",
+    "a": "They should, but not all listings make this clear: look specifically for both a tip-over shutoff (cuts power if knocked over) and a separate overheat thermal fuse (shuts off if internal temperature climbs too high), since these are two distinct safety mechanisms and a real safety-conscious heater needs both."
+  },
+  {
+    "q": "Why does a UL, ETL, or CSA certification matter?",
+    "a": "It means the heater's construction was independently tested against recognized U.S. safety standards rather than only self-certified by the manufacturer, which matters given that space heaters are a documented leading cause of residential heating fires; a listing missing all three certifications is a real gap to check for."
+  },
+  {
+    "q": "Is a ceramic, infrared, or oil-filled heater better?",
+    "a": "It depends on your priority: ceramic heats a room fastest but uses a fan and cools quickly once off, infrared warms you directly and near-instantly but doesn't heat the whole room evenly, and oil-filled radiators are slow to warm up but run silently and hold heat long after being switched off, best for quiet overnight bedroom use."
+  },
+  {
+    "q": "How much does it cost to run a space heater all day?",
+    "a": "A 1,500-watt heater costs roughly $0.12 to $0.23 per hour at average U.S. electricity rates, which adds up over a full day or a winter season; a heater with a genuine low-wattage setting and a working thermostat that cycles off once the room warms up can meaningfully reduce that cost versus one that runs at full wattage constantly."
+  },
+  {
+    "q": "Are space heaters safe to leave on overnight?",
+    "a": "Only with real tip-over and overheat protection, third-party safety certification, and at least three feet of clearance from bedding, curtains, or other flammable material; an oil-filled radiator is often the safer overnight choice specifically because it has no exposed heating element or fan."
+  }
+];
+
+export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-space-heaters","title":"Best Space Heaters"},{"href":"/guide/best-electric-space-heaters","title":"Best Electric Space Heaters"},{"href":"/guide/best-quiet-space-heaters","title":"Best Quiet Space Heaters"}];

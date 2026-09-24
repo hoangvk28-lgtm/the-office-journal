@@ -1,0 +1,195 @@
+export const guideSlug = "best-monitor-shelves-under-20";
+export const guideTitle = "4 Best Monitor Shelves Under $20 in 2026";
+export const metaTitle = "Best Monitor Shelves Under $20";
+export const metaDescription = "We compared monitor shelves under $20 by real weight capacity, storage design, and material, since budget risers vary in sturdiness and features.";
+export const mainKeyword = "best monitor shelves under $20";
+export const introParagraphs = [
+  "Under $20, monitor shelves split between simple plastic risers and sturdier wood-and-metal designs with built-in drawers, a real difference in both weight capacity and how much desk organization you actually get for the same core function of raising your screen to eye level.",
+  "We compared this lineup on stated weight capacity, whether storage features like drawers and pen holders are included, and build material, since a monitor shelf's basic job is simple, but the specific execution varies meaningfully even at this low price point."
+];
+export const lastUpdated = "2026-09-11";
+export const readTime = "6 min";
+export const heroImage = "https://m.media-amazon.com/images/I/51tWuVEuo0L._SL500_.jpg";
+
+export interface GuideProduct {
+  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
+  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
+}
+
+export const products: GuideProduct[] = [
+  {
+    id: "best-monitor-shelves-under-20-1",
+    rank: 1,
+    badge: "Best Overall",
+    name: "gianotter Monitor Stand with Drawer and 2 Pen Holders",
+    price: "$19.99",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/51tWuVEuo0L._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0D8HYFZSW?tag=theofficejournal-20",
+    description: "This stand combines premium wood with high-strength solid steel, delivering a stated 44 lb weight capacity without wobbling, meaningfully higher confidence than a bare plastic riser at this price, plus two tiers of storage for files and notes alongside its drawer and pen holders.\n\nIts adjustable-height feet ensure stability on uneven desk surfaces, and the industrial wood-and-metal aesthetic gives it a more finished look than the utilitarian plastic pick below, setting up in a stated 3 minutes with no complex assembly.\n\nBest for buyers who want the sturdiest build and the most integrated storage at this price point.",
+    specs: ["Up to 44 lb weight capacity", "2-tier storage, drawer, 2 pen holders", "Wood and steel construction, adjustable feet"],
+    pros: ["Highest weight capacity in this comparison at 44 lbs", "Most integrated storage features (drawer, pen holders, 2 tiers)", "3-minute setup with no complex assembly"],
+    cons: ["Bulkier footprint than the simple plastic riser below", "Wood-and-metal build costs more than the WALI plastic pick"],
+    bestFor: "buyers who want the sturdiest build and the most integrated storage at this price",
+  },
+  {
+    id: "best-monitor-shelves-under-20-2",
+    rank: 2,
+    badge: "Best Budget Pick",
+    name: "WALI Computer Monitor Stand, Adjustable Laptop Riser",
+    price: "$9.49",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41-DqZBGPOL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0G2RTY746?tag=theofficejournal-20",
+    description: "At the lowest price in this comparison, this WALI riser still offers three distinct height settings (4.5, 5.3, or 6.1 inches) for a customized viewing angle, plus a stated 44 lb weight capacity matching the pricier gianotter pick above despite the much lower price.\n\nIts large 14.6 by 9.3 inch vented platform prevents device overheating during extended use, and rubber pads protect your desk surface from slipping or scratching, covering the core ergonomic function without any of the storage extras.\n\nBest for buyers who want the lowest price while still getting a genuinely adjustable, well-ventilated riser.",
+    specs: ["Up to 44 lb weight capacity", "3 height settings: 4.5\", 5.3\", 6.1\"", "Vented plastic platform, rubber desk-protecting pads"],
+    pros: ["Lowest price in this entire comparison", "Same 44 lb weight capacity as the pricier wood-and-metal pick", "Vented platform helps prevent device overheating"],
+    cons: ["No storage features like drawers or pen holders", "Plastic construction looks less finished than wood or metal alternatives"],
+    bestFor: "buyers who want the lowest price with genuine height adjustability and ventilation",
+  },
+  {
+    id: "best-monitor-shelves-under-20-3",
+    rank: 3,
+    badge: "Best 2-Tier Storage",
+    name: "Simple Trending Metal Monitor Stand Riser with Drawer",
+    price: "$19.99",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/51s4NAoL3xL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B09NFQML72?tag=theofficejournal-20",
+    description: "This pick's 2-tier design specifically accommodates large gaming keyboards, Xbox consoles, and cable TV boxes underneath, a more spacious storage solution than the pen-holder-focused gianotter pick above, with a built-in drawer for smaller accessories.\n\nIts anti-slip suction cups at the base provide stability during use, and the flat bottom tray with a metal drawer organizer can also function independently if you don't need the full raised stand configuration.\n\nBest for buyers who specifically want to store larger items like a gaming console or cable box underneath their monitor.",
+    specs: ["16\"W x 10\"D x 6.25\"H", "2-tier storage, built-in drawer", "Anti-slip suction cup base"],
+    pros: ["2-tier design fits larger items like consoles or cable boxes underneath", "Built-in drawer for organizing office supplies", "Bottom tray can be used independently of the raised stand"],
+    cons: ["No stated maximum weight capacity figure in the listing", "Metal construction may show scratches over time versus wood finishes"],
+    bestFor: "buyers who want to store larger items like a gaming console underneath their monitor",
+  },
+  {
+    id: "best-monitor-shelves-under-20-4",
+    rank: 4,
+    badge: "Best Value 2-Tier",
+    name: "OPNICE 2-Tier Computer Monitor Stand Riser with Drawer",
+    price: "$19.79",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/51iOtKHzvCL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0DB8F7GDN?tag=theofficejournal-20",
+    description: "OPNICE backs this pick with a stated 100-day unconditional return policy, a notably longer commitment than most competitors at this price, alongside four height-adjustable non-slip pads that protect your desk surface from scratches.\n\nIts modern minimalist design blends into most office decor styles, and the drawer plus two hanging pen holders keep small office supplies organized and within reach, similar in function to the gianotter pick above at a marginally lower price.\n\nBest for buyers who want a modern minimalist design backed by an unusually generous 100-day return policy.",
+    specs: ["Metal construction, drawer, 2 hanging pen holders", "4 height-adjustable non-slip pads", "100-day unconditional return policy"],
+    pros: ["Unusually generous 100-day unconditional return policy", "Height-adjustable non-slip pads protect the desk surface", "Modern minimalist design fits most office decor"],
+    cons: ["No stated maximum weight capacity figure in the listing", "Similar feature set to the gianotter pick at nearly the same price"],
+    bestFor: "buyers who want a modern design backed by a notably generous return policy",
+  }
+];
+
+export const howWeEvaluated = [
+  { "title": "Stated Weight Capacity", "description": "Compared documented weight capacity figures across the lineup, since this varied from unstated to a specific 44 lb rating." },
+  { "title": "Storage Feature Depth", "description": "Checked which picks include drawers, pen holders, or multi-tier storage versus a simple raised platform alone." },
+  { "title": "Height Adjustability", "description": "Compared the number of distinct height settings each riser offers for customizing viewing angle." },
+  { "title": "Build Material and Desk Protection", "description": "Noted construction materials (plastic, metal, wood) and whether non-slip or rubber pads protect the desk surface." },
+  { "title": "Warranty and Return Policy", "description": "Compared stated return policy length across the lineup, since this varied meaningfully even among similarly priced picks." }
+];
+
+export interface HowToChooseSection {
+  subheading: string;
+  intro?: string;
+  table?: { headers: string[]; rows: string[][] };
+  cards?: { label: string; text: string }[];
+  note?: string;
+}
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    subheading: "By Primary Use Case",
+    table: {
+      headers: ["If you mainly need", "Recommended pick"],
+      rows: [
+        ["The sturdiest build with the most storage", "gianotter Monitor Stand with Drawer and 2 Pen Holders"],
+        ["The lowest price with genuine adjustability", "WALI Computer Monitor Stand, Adjustable Laptop Riser"],
+        ["Storage for larger items like a game console", "Simple Trending Metal Monitor Stand Riser with Drawer"],
+      ],
+    },
+  },
+  {
+    subheading: "By Budget",
+    table: {
+      headers: ["Price range", "Recommended pick"],
+      rows: [
+        ["Under $10", "WALI Computer Monitor Stand ($9.49)"],
+        ["$19-$20", "OPNICE 2-Tier ($19.79), gianotter ($19.99), or Simple Trending ($19.99)"],
+      ],
+    },
+  },
+  {
+    subheading: "Plastic vs Wood-and-Metal Construction",
+    cards: [
+      { label: "Plastic (WALI)", text: "Lightweight, vented for cooling, and the cheapest option, sufficient for a standard monitor without needing extra storage features." },
+      { label: "Wood-and-Metal (gianotter, OPNICE)", text: "More finished look with genuine storage features like drawers and pen holders, at a modest price premium over plain plastic." },
+    ],
+    note: "If you just need a basic height boost, the WALI plastic riser covers it. If you want integrated desk organization too, the wood-and-metal picks deliver more value per dollar.",
+  },
+  {
+    subheading: "By Storage Priority",
+    table: {
+      headers: ["What you need to store", "Recommended pick"],
+      rows: [
+        ["Pens, small supplies, files", "gianotter or OPNICE (drawer + pen holders)"],
+        ["Larger items like a game console or cable box", "Simple Trending Metal Monitor Stand Riser"],
+      ],
+    },
+  },
+  {
+    subheading: "For Maximum Desk Cooling Specifically",
+    cards: [
+      { label: "Look for", text: "A vented platform design that allows airflow around your monitor or laptop, reducing heat buildup during extended use." },
+      { label: "In this comparison", text: "The WALI Computer Monitor Stand specifically features a vented platform designed to prevent device overheating." },
+    ],
+  },
+  {
+    subheading: "When to Spend More",
+    cards: [
+      { label: "Spend more if", text: "You want the highest weight capacity and most integrated storage, where the gianotter pick delivers both in this comparison." },
+      { label: "Save if", text: "A simple adjustable riser covers your needs, where the WALI pick offers genuine height adjustability at the lowest price here." },
+    ],
+  },
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "A Stated Weight Capacity Figure Matters More Than It Seems for a Simple Riser",
+    "explanation": "Even a basic monitor riser needs to support the actual weight of your monitor without flexing or wobbling over time, and a stated capacity like 44 lbs, seen on two picks in this comparison, gives you a concrete number to check against your specific monitor's weight. A listing that doesn't mention weight capacity at all isn't necessarily unsafe, but it gives you less information to verify before trusting it with your equipment."
+  },
+  {
+    "criterion": "Multiple Height Settings Let You Fine-Tune Ergonomics Rather Than Guessing",
+    "explanation": "The WALI pick's three distinct height options (4.5, 5.3, and 6.1 inches) let you test different viewing angles and settle on whichever genuinely reduces neck strain for your specific desk and chair setup, rather than being locked into a single fixed height that might not be ideal for your body. A riser offering only one height option works fine if it happens to match your needs, but multiple settings remove the guesswork."
+  },
+  {
+    "criterion": "Drawer and Pen Holder Storage Solves a Different Problem Than Multi-Tier Open Shelving",
+    "explanation": "A drawer with pen holders, like the gianotter and OPNICE picks in this comparison, is designed for smaller, frequently used items like pens, sticky notes, and small office supplies you want quickly accessible but out of sight. A multi-tier open design, like the Simple Trending pick, instead prioritizes fitting larger items like a keyboard or game console underneath. Match the storage style to what you're actually trying to organize, not just whichever sounds more feature-rich."
+  },
+  {
+    "criterion": "Vented Platforms Genuinely Help With Heat Buildup on Laptops and Some Monitors",
+    "explanation": "A solid, unventilated riser surface can trap heat generated by a laptop or certain monitor models during extended use, while a platform with vent holes, like the WALI pick in this comparison, allows some airflow underneath to help dissipate that heat. This matters more for laptops (which generate more heat than a typical monitor) placed directly on the riser surface, so if you're using this primarily as a laptop stand, ventilation is a more relevant feature to prioritize."
+  },
+  {
+    "criterion": "A Longer Return Policy Signals a Manufacturer's Confidence in Their Product",
+    "explanation": "The OPNICE pick's stated 100-day unconditional return policy is notably longer than the standard 30-day window common on many budget products, suggesting the manufacturer is confident enough in the product's quality to offer extended flexibility. While not a guarantee of superior build quality on its own, a longer stated return window is a reasonable secondary signal when comparing otherwise similar products at this price point."
+  }
+];
+
+export const faq = [
+  { "q": "Can I stack two of these monitor stands to gain more height?", "a": "The WELL WENG Bamboo pick specifically mentions this capability for doubling storage capacity, but stacking isn't a universally supported or recommended practice across all monitor risers, so check the specific listing for stacking guidance before attempting this with any of the picks in this comparison." },
+  { "q": "Will a plastic riser like the WALI pick support a large 32-inch monitor?", "a": "Its stated 44 lb weight capacity should support most standard monitors including many 32-inch models, but always check your specific monitor's actual weight (found in its manual or manufacturer specifications) against this capacity before assuming compatibility." },
+  { "q": "Do the drawer-equipped picks require any tools to assemble?", "a": "The gianotter pick specifically states no assembly is required, just unbox and use, while other picks may require minimal tool-free assembly; check the specific listing for exact setup requirements." },
+  { "q": "Is a wood-and-metal riser actually more durable than a plastic one long-term?", "a": "Generally yes, wood-and-metal construction tends to resist flexing and wear better over years of daily use compared to plastic, though a quality plastic riser like the WALI pick, rated for the same 44 lb capacity, still performs reliably for typical home and office use." },
+  { "q": "Can I use these monitor stands with an ultrawide monitor instead of a standard one?", "a": "Most picks in this comparison are sized for standard monitors, and an ultrawide monitor's wider base may extend beyond the platform's edges on some models; check the specific platform dimensions against your ultrawide monitor's base width before purchasing." },
+  { "q": "How much does adding a monitor riser actually help with neck and shoulder strain?", "a": "Raising your monitor to eye level, generally recommended ergonomic guidance, helps reduce the tendency to hunch or crane your neck downward during extended screen use, a genuine and well-documented ergonomic improvement most users notice within the first few days of use." }
+];
+
+export const relatedGuides: { href: string; title: string }[] = [
+  { "href": "/guide/best-monitor-shelves-under-30", "title": "Best Monitor Shelves Under $30" },
+  { "href": "/guide/best-monitor-shelves-under-40", "title": "Best Monitor Shelves Under $40" },
+  { "href": "/guide/best-monitor-shelves-for-desks", "title": "Best Monitor Shelves for Desks" },
+  { "href": "/guide/best-desktop-whiteboards-under-20", "title": "Best Desktop Whiteboards Under $20" }
+];

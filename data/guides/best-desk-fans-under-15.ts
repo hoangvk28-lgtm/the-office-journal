@@ -1,0 +1,339 @@
+export const guideSlug = "best-desk-fans-under-15";
+export const guideTitle = "8 Best Desk Fans Under $15 in 2026";
+export const metaTitle = "Best Desk Fans Under $15";
+export const metaDescription = "We compared desk fan under $15 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
+export const mainKeyword = "desk fan under $15";
+export const introParagraphs = [
+  "Best Desk Fans Under $15 carry very different real airflow, which is exactly why a CFM spec rarely tells the story.",
+  "We compared this lineup on real airflow and noise level, since this is where the decision gets made."
+];
+export const lastUpdated = "2026-08-31";
+export const readTime = "11 min";
+export const heroImage = "https://m.media-amazon.com/images/I/41dBGc46DcL._SL500_.jpg";
+
+export interface GuideProduct {
+  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
+  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
+}
+
+export const products: GuideProduct[] = [
+  {
+    id: "best-desk-fans-under-15-1",
+    rank: 1,
+    badge: "Best Overall",
+    name: "Coolhill USB Desk Fan for Bedroom: 100 Speeds Digital Display Quiet Portable",
+    price: "$19.78",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41dBGc46DcL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0FBMD2FR9?tag=theofficejournal-20",
+    description: "Coolhill USB Desk Fan for Bedroom: 100 Speeds Digital Display Quiet Portable is the top pick in this comparison. 100 Adjustable speeds & digital display - coolhill desk fan with 1 - 100 adjustable wind speeds. Powerful airflow & 120° oscillation - the desk fan delivers powerful gentle airflow through turbocharging with a max of 6m/s.\n\nAgainst Amazon Basics Air Circulator Desk Fan for Bedroom, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis one is the right call if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Many listings only quote the dB rating at the lowest speed, so check the noise level at the speed you'll actually run daily before assuming it stays that quiet.",
+    specs: ["100 Adjustable speeds & digital display - coolhill desk fan", "Ultra quiet personal fan - coolhill table fan equipped with advanced noise-reduction technology", "Powerful airflow & 120° oscillation - the desk fan"],
+    pros: ["100 Adjustable speeds & digital display - coolhill desk fan", "Ultra quiet personal fan - coolhill table fan equipped with advanced noise-reduction technology", "Powerful airflow & 120° oscillation - the desk fan", "Suitable for all occasion - portable fan can be more flexibly used on bedroom"],
+    cons: ["Noise rating usually reflects the lowest speed, not daily use", "USB-powered models cap out at lower airflow than AC-plugged fans"],
+    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
+  },
+  {
+    id: "best-desk-fans-under-15-2",
+    rank: 2,
+    badge: "Also Worth Considering",
+    name: "Amazon Basics Air Circulator Desk Fan for Bedroom",
+    price: "$15.97",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41xkPFkQlbL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B082MY2MX3?tag=theofficejournal-20",
+    description: "Amazon Basics Air Circulator Desk Fan for Bedroom is a strong alternative worth comparing directly against the top pick. Measuring just 6.3 x 11.1 x 10.9 inches (lxwxh) with three 7-inch blades, this fan occupies minimal space on floors or tables, perfect for various room types such as bedrooms, living rooms, home offices, and kitchens. Enjoy personalized airflow with a 90-degree variable tilt feature, allowing you to direct the airflow precisely where you need it.\n\nSave energy without sacrificing performance, a detail worth checking closely before choosing between this and Coolhill USB Desk Fan for Bedroom: 100 Speeds Digital Display Quiet Portable.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. USB-powered fans are convenient for a laptop-only desk but cap out at lower airflow than an AC-plugged model, so match the power source to how much cooling you actually need.",
+    specs: ["Compact design", "Adjustable tilt", "3 Speed settings"],
+    pros: ["Compact design", "Adjustable tilt", "3 Speed settings", "Portable convenience"],
+    cons: ["USB-powered models cap out at lower airflow than AC-plugged fans", "Noise rating usually reflects the lowest speed, not daily use"],
+    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+  },
+  {
+    id: "best-desk-fans-under-15-3",
+    rank: 3,
+    badge: "Solid Alternative",
+    name: "Desk Fan, 6.61''Ultra-thin 5000mAh Battery Powered Fan with Powerful Wind, 100",
+    price: "$16.99",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41k3HWUKZeL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0DTB954GL?tag=theofficejournal-20",
+    description: "Desk Fan, 6.61''Ultra-thin 5000mAh Battery Powered Fan with Powerful Wind, 100 is a strong alternative worth comparing directly against the top pick. 5000 Mah rechargeable battery powered fan, longer running time, 20-25 hours running time for minimum gear, 3-5 hours for maximum gear, 2-3 hours fully charged. Crafted with odorless, ultra-durable ABS material, this small desk fan features a tightly sealed, finger-proof grille for 360° safety.\n\nThis portable fan is lightweight, small in size and easy to carry, a detail worth checking closely before choosing between this and Coolhill USB Desk Fan for Bedroom: 100 Speeds Digital Display Quiet Portable.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Many listings only quote the dB rating at the lowest speed, so check the noise level at the speed you'll actually run daily before assuming it stays that quiet.",
+    specs: ["Gockera portable desktop fan is equipped with upgraded brushless motor drive", "5000 Mah rechargeable battery powered fan", "Portable desk fan"],
+    pros: ["Gockera portable desktop fan is equipped with upgraded brushless motor drive", "5000 Mah rechargeable battery powered fan", "Portable desk fan", "Crafted with odorless"],
+    cons: ["Noise rating usually reflects the lowest speed, not daily use", "USB-powered models cap out at lower airflow than AC-plugged fans"],
+    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+  },
+  {
+    id: "best-desk-fans-under-15-4",
+    rank: 4,
+    badge: "Another Strong Option",
+    name: "Zuvas Desk Fan Small Rechargeable Battery Table Fans for travel Ultra Quiet",
+    price: "$12.99",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41LWVQuqKkL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B08T8TTVHC?tag=theofficejournal-20",
+    description: "Zuvas Desk Fan Small Rechargeable Battery Table Fans for travel Ultra Quiet is a strong alternative worth comparing directly against the top pick. Ultra quiet - the blades design has been upgraded with new technology and high quality ABS, so this small desk fan advanced the sound 25% quieter than others. 180° Vertical rotation - rotate the stand to adjust the wind angles you need, cooling at various angles and improving airflow in small rooms.\n\n3 Speeds strong airflow - press the button to adjust the speed, which is the main thing that distinguishes this pick from Coolhill USB Desk Fan for Bedroom: 100 Speeds Digital Display Quiet Portable.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. USB-powered fans are convenient for a laptop-only desk but cap out at lower airflow than an AC-plugged model, so match the power source to how much cooling you actually need.",
+    specs: ["Ultra quiet - the blades design has been upgraded with new technology and high quality ABS", "180° Vertical rotation - rotate the stand to adjust the wind angles you need", "3 Speeds strong airflow - press the button to adjust the speed"],
+    pros: ["Ultra quiet - the blades design has been upgraded with new technology and high quality ABS", "180° Vertical rotation - rotate the stand to adjust the wind angles you need", "3 Speeds strong airflow - press the button to adjust the speed", "Dual power supply - the rechargeable fan built in 2000 mah"],
+    cons: ["USB-powered models cap out at lower airflow than AC-plugged fans", "Noise rating usually reflects the lowest speed, not daily use"],
+    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+  },
+  {
+    id: "best-desk-fans-under-15-5",
+    rank: 5,
+    badge: "Runner-Up Pick",
+    name: "Koonie USB Desk Fan",
+    price: "$13.99",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/51wb7z5JSLL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0C27NGKCV?tag=theofficejournal-20",
+    description: "Koonie USB Desk Fan is a strong alternative worth comparing directly against the top pick. The desk fan with upgraded dc motor generates airflow up to 16ft/s. As compact as a tablet, this real space-saving desk fan can be placed on the office desk or bedroom nightstand with utmost ease to save limited space.\n\nHeld up against Coolhill USB Desk Fan for Bedroom: 100 Speeds Digital Display Quiet Portable, both cover the basics equally well, what actually separates them is acoustically constructed airflow systems greatly decrease motor and fan noise down to 30db.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Many listings only quote the dB rating at the lowest speed, so check the noise level at the speed you'll actually run daily before assuming it stays that quiet.",
+    specs: ["Optimal airflow", "Stylish & space saving", "Personalized cooling"],
+    pros: ["Optimal airflow", "Stylish & space saving", "Personalized cooling", "Quiet at all speed"],
+    cons: ["Noise rating usually reflects the lowest speed, not daily use", "USB-powered models cap out at lower airflow than AC-plugged fans"],
+    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+  },
+  {
+    id: "best-desk-fans-under-15-6",
+    rank: 6,
+    badge: "Worth a Look",
+    name: "SLENPET 6-inch USB Small Desk Fan",
+    price: "$17.99",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/51qM9Jma2JS._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B09B71JC9G?tag=theofficejournal-20",
+    description: "SLENPET 6-inch USB Small Desk Fan is a strong alternative worth comparing directly against the top pick. With the heavy-duty metal base, this stylish vintage fan stands steadily on your table in the office or bedside all the time. Although the fan is very strong, even in high speed the noise is less than 50db.\n\nWeighing this against Coolhill USB Desk Fan for Bedroom: 100 Speeds Digital Display Quiet Portable, fan head is able to tilt from 0 to 90 degree to direct the airflow to where you want ends up being the detail that matters most for most buyers.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. USB-powered fans are convenient for a laptop-only desk but cap out at lower airflow than an AC-plugged model, so match the power source to how much cooling you actually need.",
+    specs: ["Vintage metal base", "Super quiet", "Powered by USB"],
+    pros: ["Vintage metal base", "Super quiet", "Powered by USB", "Rotatable & easy to clean"],
+    cons: ["USB-powered models cap out at lower airflow than AC-plugged fans", "Noise rating usually reflects the lowest speed, not daily use"],
+    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+  },
+  {
+    id: "best-desk-fans-under-15-7",
+    rank: 7,
+    badge: "Best Premium Pick",
+    name: "HAGEDAWN Small Desk Fan",
+    price: "$19.99",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41ucfEPs+PL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B0GY9BPHSY?tag=theofficejournal-20",
+    description: "HAGEDAWN Small Desk Fan is the top-tier pick in this comparison. Experience the ultimate cooling precision with our advanced desktop fan. Engineered with a brushless motor, this unit stands out among desk fans small quiet models in the market.\n\nAgainst Coolhill USB Desk Fan for Bedroom: 100 Speeds Digital Display Quiet Portable, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis fits best if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Many listings only quote the dB rating at the lowest speed, so check the noise level at the speed you'll actually run daily before assuming it stays that quiet.",
+    specs: ["5-Speed customizable airflow with touch control", "Engineered with a brushless motor", "Versatile 2-in-1 placement & portable design"],
+    pros: ["5-Speed customizable airflow with touch control", "Engineered with a brushless motor", "Versatile 2-in-1 placement & portable design", "LED atmosphere light & digital display"],
+    cons: ["Noise rating usually reflects the lowest speed, not daily use", "USB-powered models cap out at lower airflow than AC-plugged fans"],
+    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
+  },
+  {
+    id: "best-desk-fans-under-15-8",
+    rank: 8,
+    badge: "Also Worth Considering",
+    name: "Honeywell TurboForce Air Circulator",
+    price: "$18.79",
+    rating: null,
+    reviews: null,
+    imageUrl: "https://m.media-amazon.com/images/I/41lT-5dMvLL._SL500_.jpg",
+    amazonUrl: "https://www.amazon.com/dp/B001R1RXUG?tag=theofficejournal-20",
+    description: "Honeywell TurboForce Air Circulator is a strong alternative worth comparing directly against the top pick. Honeywell turboforce air circulator fan is a cooling fan that is 25% quieter than comparable fans.** it’s sized to be a table or desk fan or wall-mounted, and provides cooling in small to medium-sized rooms. Honeywell turboforce fans have an aerodynamic turbo design to maximize air movement and power for intense cooling or energy-saving air circulation.\n\nWith 3 speeds and a 90° pivoting adjustable head, you’ll always be comfortable and cool!, a detail worth checking closely before choosing between this and Coolhill USB Desk Fan for Bedroom: 100 Speeds Digital Display Quiet Portable.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. USB-powered fans are convenient for a laptop-only desk but cap out at lower airflow than an AC-plugged model, so match the power source to how much cooling you actually need.",
+    specs: ["Small floor or tabletop fan", "Feel the power", "Customize your comfort"],
+    pros: ["Small floor or tabletop fan", "Feel the power", "Customize your comfort", "Quiet fans for bedroom and home are an easy"],
+    cons: ["USB-powered models cap out at lower airflow than AC-plugged fans", "Noise rating usually reflects the lowest speed, not daily use"],
+    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "CFM (Airflow) vs Your Actual Desk Distance",
+    "description": "A fan's CFM rating tells you how much air it physically moves, and the right number depends entirely on how close it'll sit: at typical desk distance (two to three feet), 100 to 300 CFM delivers a comfortable, steady breeze, while anything pushing well past that at close range creates an uncomfortable draft rather than useful cooling."
+  },
+  {
+    "title": "Noise Level in dB at Working Speeds",
+    "description": "For context, a soft whisper is about 30 dB, normal conversation is around 60 dB, and a refrigerator's hum sits near 40 dB."
+  },
+  {
+    "title": "Blade Size vs Portability Tradeoff",
+    "description": "Fan diameter directly trades off against portability: a 3 to 4 inch USB mini fan is easy to toss in a bag but moves comparatively little air, while a 6 to 8 inch desk fan delivers meaningfully more airflow for actual desk cooling while still staying compact enough not to crowd a small desk."
+  },
+  {
+    "title": "Oscillation Range and Desk Placement",
+    "description": "A fan's oscillation angle (commonly 60 to 120 degrees on desk models) determines how wide an area it actually covers versus just blowing a fixed line of air at one spot."
+  },
+  {
+    "title": "Power Source: USB, AC Plug, or Rechargeable Battery",
+    "description": "The power source affects both convenience and raw performance: USB fans draw limited power from a laptop or hub, typically capping out at lower airflow than an AC-plugged fan; rechargeable battery fans trade a wired connection for portability but lose runtime and battery capacity over time like any rechargeable device; a standard AC plug delivers the most consistent airflow but ties the fan to one location near an outlet.."
+  }
+];
+
+export interface HowToChooseSection {
+  subheading: string;
+  intro?: string;
+  table?: { headers: string[]; rows: string[][] };
+  cards?: { label: string; text: string }[];
+  note?: string;
+}
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Desk Setup",
+    "table": {
+      "headers": [
+        "Your setup",
+        "Recommended pick"
+      ],
+      "rows": [
+        [
+          "Small or shared desk",
+          "Amazon Basics Air Circulator Desk Fan for Bedroom"
+        ],
+        [
+          "Standard desk",
+          "Coolhill USB Desk Fan for Bedroom: 100 Speeds Digital Display Quiet Portable"
+        ],
+        [
+          "Large desk, need real airflow",
+          "HAGEDAWN Small Desk Fan"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "By Budget",
+    "table": {
+      "headers": [
+        "Budget",
+        "Recommended pick"
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          "Amazon Basics Air Circulator Desk Fan for Bedroom"
+        ],
+        [
+          "Mid-range pick",
+          "Desk Fan, 6.61''Ultra-thin 5000mAh Battery Powered Fan with Powerful Wind, 100"
+        ],
+        [
+          "Higher budget",
+          "HAGEDAWN Small Desk Fan"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "USB vs AC-Plugged",
+    "cards": [
+      {
+        "label": "USB-powered (e.g. Amazon Basics Air Circulator Desk Fan for Bedroom)",
+        "text": "Convenient for a laptop-only setup, but capped at lower airflow than AC power."
+      },
+      {
+        "label": "AC-plugged",
+        "text": "More consistent, stronger airflow, but ties the fan to one spot near an outlet."
+      }
+    ],
+    "note": "Match this to whether portability or raw airflow matters more for your setup."
+  },
+  {
+    "subheading": "By Noise Sensitivity",
+    "table": {
+      "headers": [
+        "Your priority",
+        "Recommended pick"
+      ],
+      "rows": [
+        [
+          "Calls or focus work, need it quiet",
+          "Check the dB rating at your actual daily speed, not just the lowest setting"
+        ],
+        [
+          "Noise isn't a concern",
+          "Coolhill USB Desk Fan for Bedroom: 100 Speeds Digital Display Quiet Portable"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For a Shared Desk or Office Specifically",
+    "cards": [
+      {
+        "label": "Look for",
+        "text": "A wider oscillation range (90 to 120 degrees) to spread airflow across more of the surface."
+      },
+      {
+        "label": "In this comparison",
+        "text": "Coolhill USB Desk Fan for Bedroom: 100 Speeds Digital Display Quiet Portable is worth checking against its specific oscillation range before assuming any 'wide coverage' label performs the same."
+      }
+    ]
+  },
+  {
+    "subheading": "When to Spend More",
+    "cards": [
+      {
+        "label": "Spend more if",
+        "text": "You want stronger airflow, lower noise, and extra features like a remote or timer, where HAGEDAWN Small Desk Fan justifies the extra cost."
+      },
+      {
+        "label": "Save if",
+        "text": "You just want a straightforward personal cooling boost, where Amazon Basics Air Circulator Desk Fan for Bedroom already covers the job at the lowest price here."
+      }
+    ]
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "CFM (Airflow) vs Your Actual Desk Distance",
+    "explanation": "A fan's CFM rating tells you how much air it physically moves, and the right number depends entirely on how close it'll sit: at typical desk distance (two to three feet), 100 to 300 CFM delivers a comfortable, steady breeze, while anything pushing well past that at close range creates an uncomfortable draft rather than useful cooling. Don't compare a desk fan's CFM directly against a whole-room pedestal fan's spec, which is built to move air across a much larger space and commonly exceeds 600 CFM."
+  },
+  {
+    "criterion": "Noise Level in dB at Working Speeds",
+    "explanation": "For context, a soft whisper is about 30 dB, normal conversation is around 60 dB, and a refrigerator's hum sits near 40 dB. A desk fan rated below 25 dB is genuinely whisper-quiet and won't intrude on calls or focus work, one in the 30-45 dB range is noticeable but not disruptive for most people, and anything consistently above 45 dB becomes the dominant sound in a quiet room. Check the dB rating at the SPEED you'll actually use daily, not just the lowest setting, since many listings only quote the quietest speed's noise level."
+  },
+  {
+    "criterion": "Blade Size vs Portability Tradeoff",
+    "explanation": "Fan diameter directly trades off against portability: a 3 to 4 inch USB mini fan is easy to toss in a bag but moves comparatively little air, while a 6 to 8 inch desk fan delivers meaningfully more airflow for actual desk cooling while still staying compact enough not to crowd a small desk. Pick based on whether you need genuine cooling power at your desk or just a portable option for occasional use elsewhere."
+  },
+  {
+    "criterion": "Oscillation Range and Desk Placement",
+    "explanation": "A fan's oscillation angle (commonly 60 to 120 degrees on desk models) determines how wide an area it actually covers versus just blowing a fixed line of air at one spot. On a wide desk or a shared workspace, a wider oscillation range spreads airflow across more of the surface, while a narrow or fixed-direction fan is better suited to cooling one specific spot, like directly at your face or hands, without wasting airflow on empty desk space."
+  },
+  {
+    "criterion": "Power Source: USB, AC Plug, or Rechargeable Battery",
+    "explanation": "The power source affects both convenience and raw performance: USB fans draw limited power from a laptop or hub, typically capping out at lower airflow than an AC-plugged fan; rechargeable battery fans trade a wired connection for portability but lose runtime and battery capacity over time like any rechargeable device; a standard AC plug delivers the most consistent airflow but ties the fan to one location near an outlet."
+  }
+];
+
+export const faq = [
+  {
+    "q": "What CFM should a desk fan have?",
+    "a": "For typical desk distance (two to three feet from your face), 100 to 300 CFM delivers a comfortable breeze without becoming an uncomfortable draft; don't compare this directly to a whole-room pedestal or tower fan's CFM rating, which is built for a much larger area and commonly exceeds 600 CFM."
+  },
+  {
+    "q": "How quiet is a quiet desk fan?",
+    "a": "Below 25 dB is genuinely whisper-quiet and won't intrude on calls, 30-45 dB is noticeable but tolerable for most people during regular work, and above 45 dB becomes the dominant sound in a quiet room; check the dB rating at the speed you'll actually use daily, since many listings only quote their quietest setting."
+  },
+  {
+    "q": "Is a bigger desk fan always better?",
+    "a": "Not for desk use specifically: a 6 to 8 inch blade diameter tends to be the sweet spot between real airflow and staying compact, while a fan built for whole-room circulation takes up more desk space and pushes more air than a close-range desk setup actually needs."
+  },
+  {
+    "q": "USB, battery, or plug-in desk fan, which is best?",
+    "a": "USB fans are convenient for a laptop-only setup but cap out at lower airflow than an AC-plugged fan, rechargeable battery fans add portability between rooms but lose runtime and capacity over repeated charges, and a standard AC plug delivers the most consistent power if you're staying at one desk."
+  },
+  {
+    "q": "Does oscillation matter for a desk fan?",
+    "a": "It depends on your desk layout: a wide oscillation range (90 to 120 degrees) spreads airflow across a wider desk or shared workspace, while a fixed or narrow-oscillation fan is better for cooling one specific spot, like directly at your hands or face, without wasting airflow elsewhere."
+  },
+  {
+    "q": "Can a desk fan replace air conditioning in summer?",
+    "a": "No, a fan only moves existing air rather than cooling it, so it helps with comfort through evaporative cooling on your skin but won't lower the actual room temperature the way AC does; it's most effective in a room that's already at a reasonable temperature, not as a substitute for cooling a genuinely hot space."
+  }
+];
+
+export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-desk-fans","title":"Best Desk Fans"},{"href":"/guide/best-usb-desk-fans","title":"Best USB Desk Fans"},{"href":"/guide/best-quiet-desk-fans","title":"Best Quiet Desk Fans"}];

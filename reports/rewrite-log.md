@@ -68,3 +68,33 @@ Per-article rewrite reports (rule 37). Newest at the bottom.
 - **Facts needing verification:** SmooVex has no weight rating; FlowLift Pro con claimed a 4.4 lb minimum that only the standard FlowLift lists; mounting-method table previously recommended ErGear for clamp (clamp type only) — replaced.
 - **Possibly redundant:** FlowLift vs FlowLift Pro (Pro cheaper with more features); FlowLift Dual Stand vs FlowLift Pro Dual (same capacity, stand is over budget).
 - **Metadata/structured data updated:** yes · **Affiliate tag:** ok · **Manual review:** yes
+
+---
+## best-office-chair-for-short-people — /chairs/best-office-chair-for-short-people
+- **Old title:** 8 Best Office Chairs for Short People in 2026 · **New SEO title:** Best Office Chairs for Short People: Low Seat Heights (2026) · **New H1:** The Best Office Chairs for Shorter People
+- **Angle:** minimum seat height first, then seat depth, then movable lumbar.
+- **Template phrases removed:** standard DeskFinds set ("Worth calling out…", "Set against that… Both matter…", "Neither should be a surprise…", "That's a real strength…").
+- **Unsupported claims removed:** star ratings; body-height thresholds ("under 5'2"", "under 5'4"", "15–16 in. for 5'2"", standing-desk heights by body height); "gaming bucket seats fit shorter users better"; "swing reduces back tension" (now attributed); FAQ Aeron Size A/B and Secretlab (not in guide); lumbar "8–11 inches above seat".
+- **Facts needing verification:** HeroSet claimed "lowest seat in guide" (14.6") but TopJob Mochi is 14.5"; NEO pros "$35.98" vs $36.98; Brick Attic seat depth not quantified; Mochi weight capacity not listed.
+- **Possibly redundant:** BestOffice vs NEO CHAIR.
+- **Metadata/structured data updated:** yes · **Affiliate tag:** ok · **Manual review:** yes (factual conflict)
+
+---
+## best-office-chairs-for-big-and-tall-users — /guide/best-office-chairs-for-big-and-tall-users
+- **Old title:** 8 Best Office Chairs for Big and Tall Users in 2026 · **New SEO title:** Best Big and Tall Office Chairs: Capacity and Fit (2026) · **New H1:** The Best Office Chairs for Big and Tall Users
+- **Angle:** "big" and "tall" are different needs; capacity margin, seat/armrest width, height fit, warranty.
+- **Template phrases removed:** DeskFinds set + generic "LEMBERI vs GABRYLLY… worth checking its actual specs" boilerplate, "given its strong review base".
+- **Unsupported claims removed:** "30–50% more peak force", "50 lb buffer" rule, user-weight thresholds ("near 300–350 lbs", "under 280 lbs", "400–450 lbs"), "over 6'2" need 19–22 in.", "Class 4 for >250 lbs", star ratings/review counts as proof, "stress-tested by tens of thousands of purchases", "eight or more hours" comfort threshold.
+- **Facts needing verification:** intro claimed price range "$38.99–$212.90" but lowest item is $99.50; GABRYLLY seat range/capacity not itemized in this listing (other guides list 18–22", 280 lb for a GABRYLLY chair — may be a different listing).
+- **Possibly redundant / off-topic:** TRALT lumbar chair has no big-and-tall rating (relabeled "Lumbar-Focused Alternative"; consider removing); two 500 lb chairs.
+- **Metadata/structured data updated:** yes · **Affiliate tag:** ok · **Manual review:** yes
+
+---
+## best-digital-notebooks-under-300 — /guide/best-digital-notebooks-under-300
+- **Old title:** 8 Best Digital Notebooks Under $300 in 2026 · **New SEO title:** Best Digital Notebooks Under $300: Reusable and Smart Pen Picks (2026) · **New H1:** The Best Digital Notebooks Under $300: Reusable Pages and Smart Pens
+- **Angle:** you won't spend $300 here; choose scan-to-sync reusable vs. live-sync smart pen.
+- **Template phrases removed:** repeated per-product "Worth knowing before you decide… That's the main tradeoff…", "One spot below X in this ranking", pasted type-definition sentence on every product, "Well at a budget-friendly price".
+- **Unsupported claims removed:** "every price confirmed against verified listing data" (process claim), "strongest value".
+- **Facts needing verification:** Rocketbook Flip (teal) described as "compact" but listed as 8.5x11; Smart Sync / Ophayapen OCR not described.
+- **Possibly redundant (strong):** five Rocketbook variants (Core, Flip teal, Flip navy, Flip kit, Fusion) — consider consolidating to 2–3 plus "Also Considered"; Ophayapen offers no listed advantage over the cheaper SyncPen. Title "Under $300" is misleading since nothing exceeds ~$100 — consider retitling or merging with the under-$200 guide.
+- **Metadata/structured data updated:** yes · **Affiliate tag:** ok · **Manual review:** yes (redundancy, scope)

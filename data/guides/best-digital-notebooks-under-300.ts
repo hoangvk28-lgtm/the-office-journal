@@ -1,296 +1,392 @@
-export const guideSlug = "best-digital-notebooks-under-300";
-export const guideTitle = "8 Best Digital Notebooks Under $300 in 2026";
-export const metaTitle = "Best Digital Notebooks Under $300";
-export const metaDescription =
-  "8 digital notebooks under $300 we evaluated, every price confirmed against current listing data, spanning paper notebooks and smart pen sets.";
-export const mainKeyword = "digital notebook under 300";
-export const introParagraphs = [
-  "Under $300 opens up the smart pen set category alongside reusable paper notebooks, though most standalone e-ink hardware devices sit above this range. This is a wider budget than our strictest budget guide, giving room for real-time sync features without stepping into premium e-ink territory.",
-  "Every price below was checked against verified current listing data before inclusion, we did not include anything based on an assumed or outdated price.",
-];
-export const lastUpdated = "2026-08-05";
-export const readTime = "9 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41-39oI5gtL._SL500_.jpg";
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: string; reviews: string;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-export interface BuyingCriterion { criterion: string; explanation: string; }
-export interface FaqItem { q: string; a: string; }
+export const guideSlug = "best-digital-notebooks-under-300";
+
+export const guideTitle = "The Best Digital Notebooks Under $300: Reusable Pages and Smart Pens";
+
+export const breadcrumbLabel = "Best Digital Notebooks Under $300";
+
+export const metaTitle = "Best Digital Notebooks Under $300: Reusable and Smart Pen Picks (2026)";
+
+export const metaDescription = "We compared reusable smart notebooks and smart pen sets on page format, how notes sync, pen inclusion and charging, all well under $300.";
+
+export const mainKeyword = "digital notebook under 300";
+
+export const introParagraphs = [
+  "The most useful thing to know about this budget is that you probably won't spend it. None of the notebooks and pen sets below cost more than about $100 at the time of writing; E Ink tablets mostly sit above this range.",
+  "What you are really choosing between is two ways of digitizing handwriting. Reusable notebooks, like Rocketbook, let you write with an erasable pen, scan the page with your phone and wipe it clean. Smart pen sets capture what you write on special paper and sync it as you go. The first is cheaper and needs no charging; the second syncs live but needs a charged pen and compatible paper.",
+  "Our comparison is based on published specifications and listing details, not hands-on testing."
+];
+
+export const lastUpdated = "2026-08-05";
+
+export const readTime = "9 min";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41-39oI5gtL._SL500_.jpg";
 
 export const products: GuideProduct[] = [
   {
-    id: "rb-core-u300",
-    rank: 1,
-    badge: "Best Overall Budget Value Pick",
-    name: "Rocketbook Core Reusable Spiral Notebook, Letter Size 8.5x11, Black, Dotted Pages, App-Connected, Erasable, Durable Cover",
-    price: "$26.99",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/41-39oI5gtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B071Y3MSRK?tag=theofficejournal-20",
-    description: "The Rocketbook Core remains one of the strongest value picks in this wider price range, well at a budget-friendly price with established app support and broad user reviews. This is a reusable paper notebook (write with a pen, then scan the pages with a phone app to digitize them before wiping the pages clean and reusing the notebook). It earns the top spot in this comparison over Rocketbook Flip Smart Notepad for one main reason. Comfortably at a budget-friendly price, one of the cheapest picks here. On value, it comes in below Rocketbook Flip Smart Notepad, which is worth weighing if cost is your deciding factor between the two. Worth knowing before you decide: Well-known, established app support. On the other side, No on-device digital storage. That's the main tradeoff to weigh against everything above.",
-    specs: ["Reusable paper notebook, Type 1","Letter size 8.5x11, dotted pages","Wipe clean and reuse","App-connected cloud scanning"],
-    pros: ["Comfortably under $300, one of the cheapest picks here","Well-known, established app support","Full letter-size writing space","Wipes clean and reuses"],
-    cons: ["Requires a compatible erasable pen","Sync happens after scanning, not live","No on-device digital storage"],
-    bestFor: "Buyers wanting the most established low-cost pick in this price range.",
+    "id": "rb-core-u300",
+    "rank": 1,
+    "badge": "Best Reusable Notebook",
+    "name": "Rocketbook Core Reusable Spiral Notebook, Letter Size 8.5x11, Black, Dotted Pages, App-Connected, Erasable, Durable Cover",
+    "price": "$26.99",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/41-39oI5gtL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B071Y3MSRK?tag=theofficejournal-20",
+    "description": "The Rocketbook Core is the straightforward starting point: a letter-size spiral notebook with dotted pages that you write on with an erasable pen, scan with the Rocketbook app, then wipe clean and reuse.\n\nLetter size gives you the most writing space of the reusable options here, and Rocketbook's app is well established. Syncing happens when you scan a page, not as you write.\n\nYou need a compatible erasable pen, and there is no on-device storage; your notes live in the app and whatever cloud service you send them to.",
+    "specs": [
+      "Type: reusable notebook",
+      "Size: letter (8.5 x 11\"), dotted pages",
+      "Sync: scan with phone app",
+      "Reuse: wipe clean"
+    ],
+    "pros": [
+      "Full letter-size writing space",
+      "Established companion app",
+      "Low price and no charging"
+    ],
+    "cons": [
+      "Needs a compatible erasable pen",
+      "Syncs only when you scan",
+      "No on-device storage"
+    ],
+    "bestFor": "Anyone who wants to try digitizing handwritten notes at low cost with plenty of page space.",
+    "summary": "A letter-size reusable notebook with dotted pages and established app support.",
+    "skipIf": "You want notes to sync as you write; a smart pen set like the SyncPen does that."
   },
   {
-    id: "rb-flip-u300",
-    rank: 2,
-    badge: "Best Compact Pick Under $300",
-    name: "Rocketbook Flip Smart Notepad, Teal Cover, Lined/Dot Grid Rule, 8.5x11, 16 Sheets",
-    price: "$26.99",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/31PNIC3U3AL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B33BQL8X?tag=theofficejournal-20",
-    description: "This compact Rocketbook Flip stays well at a budget-friendly price while offering flexible lined and dot grid pages in a portable notepad format. This is a reusable paper notebook (write with a pen, then scan the pages with a phone app to digitize them before wiping the pages clean and reusing the notebook). One spot below Rocketbook Core Reusable Spiral Notebook in this ranking, it costs more than Rocketbook Core Reusable Spiral Notebook. The compromise here is straightforward: Requires a compatible erasable pen. What you gain in return: Well at a budget-friendly price. Whether that trade is worth it depends on which side matters more for how you'll actually use it. Worth knowing before you decide: Flexible lined and dot grid page combination. On the other side, Smaller writing area than a full notebook. That's the main tradeoff to weigh against everything above.",
-    specs: ["Reusable paper notebook, Type 1","Flip notepad format, lined and dot grid","Wipe clean and reuse","App-connected scanning"],
-    pros: ["Well under $300","Flexible lined and dot grid page combination","Compact, portable notepad format","Wipes clean and reuses"],
-    cons: ["Requires a compatible erasable pen","Sync happens after scanning, not live","Smaller writing area than a full notebook"],
-    bestFor: "Buyers wanting a compact, budget-friendly notepad well under this price ceiling.",
+    "id": "rb-flip-u300",
+    "rank": 2,
+    "badge": "Best Lined and Dot Grid Mix",
+    "name": "Rocketbook Flip Smart Notepad, Teal Cover, Lined/Dot Grid Rule, 8.5x11, 16 Sheets",
+    "price": "$26.99",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/31PNIC3U3AL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0B33BQL8X?tag=theofficejournal-20",
+    "description": "The teal Rocketbook Flip is a notepad-style alternative to the Core, with a mix of lined and dot grid pages in a 16-sheet, letter-size format.\n\nThe combination suits people who switch between written notes and sketches or diagrams. It works the same way as the other Rocketbooks: erasable pen, scan, wipe.\n\nThe listing's description calls it compact, but its stated size is letter, 8.5 x 11 inches. If you want a smaller notepad, the executive-size Flip is the better fit.",
+    "specs": [
+      "Type: reusable notepad",
+      "Size: 8.5 x 11\" (per listing), 16 sheets",
+      "Pages: lined and dot grid",
+      "Sync: scan with phone app"
+    ],
+    "pros": [
+      "Lined and dot grid pages in one pad",
+      "Same scan-and-wipe system as the Core",
+      "Low price"
+    ],
+    "cons": [
+      "Needs a compatible erasable pen",
+      "Syncs only when you scan",
+      "Size description in the listing is inconsistent"
+    ],
+    "bestFor": "People who alternate between written notes and diagrams.",
+    "summary": "A letter-size Rocketbook notepad with both lined and dot grid pages.",
+    "skipIf": "You want a pen included; the Flip kit with pen is about the same price."
   },
   {
-    id: "rb-flip-navy-u300",
-    rank: 3,
-    badge: "Best Executive-Size Pick Under $300",
-    name: "Rocketbook Flip Reusable Smart Notepad, Executive Size 6x8.8, Navy Blue",
-    price: "$24.99",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/41dnaLOfVqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DP3JPMDC?tag=theofficejournal-20",
-    description: "This executive-size Rocketbook Flip offers a comfortable middle-ground writing space, well at a budget-friendly price and reusable across multiple projects. This is a reusable paper notebook (write with a pen, then scan the pages with a phone app to digitize them before wiping the pages clean and reusing the notebook). Sitting just under Rocketbook Flip Smart Notepad, it's priced lower than Rocketbook Flip Smart Notepad. Here's the honest tradeoff: Requires a compatible erasable pen. And here's what it gets you instead: Well at a budget-friendly price. That's the real difference between the two picks, not just a ranking number. Worth knowing before you decide: More writing space than the Mini format. On the other side, No on-device digital storage. That's the main tradeoff to weigh against everything above.",
-    specs: ["Reusable paper notebook, Type 1","Executive size 6x8.8","Wipe clean and reuse","App-connected scanning"],
-    pros: ["Well under $300","More writing space than the Mini format","Reusable, wipes clean for repeated use","App-connected scanning"],
-    cons: ["Requires a compatible erasable pen","Sync happens after scanning, not live","No on-device digital storage"],
-    bestFor: "Buyers wanting a mid-size reusable notebook well under this price ceiling.",
+    "id": "rb-flip-navy-u300",
+    "rank": 3,
+    "badge": "Best Executive Size",
+    "name": "Rocketbook Flip Reusable Smart Notepad, Executive Size 6x8.8, Navy Blue",
+    "price": "$24.99",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/41dnaLOfVqL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP3JPMDC?tag=theofficejournal-20",
+    "description": "The navy Rocketbook Flip comes in executive size, 6 x 8.8 inches, which is easier to carry than letter size while leaving more room than a pocket notebook.\n\nIt uses the same erasable-pen and app-scanning system as the other Rocketbooks, and it is one of the least expensive options here at the time of writing.\n\nThe pen isn't listed as included. For the same format with a pen and cleaning cloth, the Flip kit costs about a dollar more.",
+    "specs": [
+      "Type: reusable notepad",
+      "Size: executive (6 x 8.8\")",
+      "Sync: scan with phone app",
+      "Reuse: wipe clean"
+    ],
+    "pros": [
+      "Portable executive size",
+      "Low price",
+      "No charging"
+    ],
+    "cons": [
+      "Pen isn't listed as included",
+      "Syncs only when you scan",
+      "Less writing space than letter size"
+    ],
+    "bestFor": "People who carry a notebook between rooms or meetings.",
+    "summary": "A 6 x 8.8-inch reusable notepad, a middle ground between letter and pocket sizes.",
+    "skipIf": "You don't already own a compatible pen; the Flip kit includes one."
   },
   {
-    id: "rb-flip-pen-u300",
-    rank: 4,
-    badge: "Best Pick with Pen Included Under $300",
-    name: "Rocketbook Flip Reusable Smart Notepad, Eco-Friendly, Digitally Connected, Dotted and Lined Combo, 6x8.8, Navy, with Pen, Cloth, and App Included",
-    price: "$25.99",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/41oSOgieC8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B087QN42VM?tag=theofficejournal-20",
-    description: "This Rocketbook Flip bundle includes the compatible pen and cleaning cloth, a complete kit well under this price ceiling with no separate pen purchase needed. This is a reusable paper notebook (write with a pen, then scan the pages with a phone app to digitize them before wiping the pages clean and reusing the notebook). Ranked just behind Rocketbook Flip Reusable Smart Notepad, it costs more than Rocketbook Flip Reusable Smart Notepad. The real tradeoff against that pick: Sync happens after scanning, not live. In exchange, it offers this instead: Complete kit well at a budget-friendly price. That's the swap that decides whether this pick or the one above it is the better fit for your note-taking needs. Worth knowing before you decide: Pen and cleaning cloth included. On the other side, No on-device digital storage. That's the main tradeoff to weigh against everything above.",
-    specs: ["Reusable paper notebook, Type 1","Pen, cloth, and app included","Dotted and lined combo pages","Wipe clean and reuse"],
-    pros: ["Complete kit well under $300","Pen and cleaning cloth included","Dotted and lined combo pages","Wipes clean and reuses"],
-    cons: ["Sync happens after scanning, not live","Smaller notepad format than a full notebook","No on-device digital storage"],
-    bestFor: "Buyers wanting a complete reusable notebook kit without separate pen costs.",
+    "id": "rb-flip-pen-u300",
+    "rank": 4,
+    "badge": "Best Complete Kit",
+    "name": "Rocketbook Flip Reusable Smart Notepad, Eco-Friendly, Digitally Connected, Dotted and Lined Combo, 6x8.8, Navy, with Pen, Cloth, and App Included",
+    "price": "$25.99",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/41oSOgieC8L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B087QN42VM?tag=theofficejournal-20",
+    "description": "The Flip kit is the executive-size Rocketbook with everything you need in the box: a compatible pen, a cleaning cloth and access to the app, plus dotted and lined pages.\n\nFor a first reusable notebook, that removes the most common extra purchase. At the time of writing it costs only slightly more than the Flip without a pen.\n\nLike the other Rocketbooks, notes sync when you scan them, and there is no on-device storage.",
+    "specs": [
+      "Type: reusable notepad",
+      "Size: executive (6 x 8.8\")",
+      "Included: pen, cleaning cloth",
+      "Pages: dotted and lined"
+    ],
+    "pros": [
+      "Pen and cloth included",
+      "Dotted and lined pages",
+      "Ready to use out of the box"
+    ],
+    "cons": [
+      "Syncs only when you scan",
+      "Smaller than letter size",
+      "No on-device storage"
+    ],
+    "bestFor": "A first reusable notebook, bought as a complete kit.",
+    "summary": "The executive-size Flip with a pen and cleaning cloth included.",
+    "skipIf": "You want letter-size pages; the Rocketbook Core is the better fit."
   },
   {
-    id: "rb-fusion-u300",
-    rank: 5,
-    badge: "Best Structured Planner Pick Under $300",
-    name: "Rocketbook Fusion Hybrid Reusable Planner Notebook, Executive 6x8.8, Black",
-    price: "$29.99",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/41Rr5sOXeTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07RSH69HC?tag=theofficejournal-20",
-    description: "The Rocketbook Fusion Hybrid Planner combines structured planner pages with regular notebook pages, well at a budget-friendly price and useful for tracking agendas alongside free-form notes. This is a reusable paper notebook (write with a pen, then scan the pages with a phone app to digitize them before wiping the pages clean and reusing the notebook). One spot below Rocketbook Flip Reusable Smart Notepad in this ranking, it costs more than Rocketbook Flip Reusable Smart Notepad. The compromise here is straightforward: Sync happens after scanning, not live. What you gain in return: Well at a budget-friendly price. Whether that trade is worth it depends on which side matters more for how you'll actually use it. Worth knowing before you decide: Structured planner pages for agendas. On the other side, Structured layout less flexible for free-form brainstorming. That's the main tradeoff to weigh against everything above.",
-    specs: ["Reusable paper notebook, Type 1","Hybrid planner and notebook layout","Wipe clean and reuse","Executive size 6x8.8"],
-    pros: ["Well under $300","Structured planner pages for agendas","Reusable, wipes clean for repeated use","Compact executive size"],
-    cons: ["Sync happens after scanning, not live","Requires a compatible erasable pen","Structured layout less flexible for free-form brainstorming"],
-    bestFor: "Buyers wanting a structured planner-style notebook well under this price ceiling.",
+    "id": "rb-fusion-u300",
+    "rank": 5,
+    "badge": "Best Planner Layout",
+    "name": "Rocketbook Fusion Hybrid Reusable Planner Notebook, Executive 6x8.8, Black",
+    "price": "$29.99",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/41Rr5sOXeTL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07RSH69HC?tag=theofficejournal-20",
+    "description": "The Rocketbook Fusion is the one to choose if you want structure: it combines planner pages for agendas and tasks with regular note pages, in executive size.\n\nThat suits people who plan their week and take meeting notes in the same book. It works on the same erasable-pen and scanning system as the rest of the range.\n\nThe structured pages are less flexible for open-ended brainstorming, and a compatible pen is required.",
+    "specs": [
+      "Type: reusable planner notebook",
+      "Size: executive (6 x 8.8\")",
+      "Pages: planner and note pages",
+      "Sync: scan with phone app"
+    ],
+    "pros": [
+      "Planner and note pages in one book",
+      "Reusable",
+      "Portable size"
+    ],
+    "cons": [
+      "Less flexible for free-form notes",
+      "Needs a compatible erasable pen",
+      "Syncs only when you scan"
+    ],
+    "bestFor": "People who plan tasks and take notes in the same notebook.",
+    "summary": "A reusable notebook that mixes planner pages with free notes.",
+    "skipIf": "You mostly brainstorm or sketch; the Core's open dotted pages suit that better."
   },
   {
-    id: "syncpen-u300",
-    rank: 6,
-    badge: "Best Real-Time Smart Pen Under $300",
-    name: "SyncPen Digital Notebook Smart Pen Set, Real Time Sync from Paper to App",
-    price: "$79.00",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/41eM5RJPa2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F5P2186C?tag=theofficejournal-20",
-    description: "SyncPen brings real-time sync and OCR to this price range at a genuinely affordable cost within the smart pen category. This is a smart pen and paper digitizer set (a sensor-equipped pen used with special dot-pattern paper that captures your handwriting in real time and syncs it to an app as you write). Sitting just under Rocketbook Fusion Hybrid Reusable Planner Notebook, it costs more than Rocketbook Fusion Hybrid Reusable Planner Notebook. Here's the honest tradeoff: OCR accuracy should be verified through current reviews. And here's what it gets you instead: Well at a budget-friendly price, one of the more affordable smart pens. That's the real difference between the two picks, not just a ranking number. Worth knowing before you decide: Real-time sync while writing. On the other side, Smaller ecosystem than larger brands. That's the main tradeoff to weigh against everything above.",
-    specs: ["Smart pen and paper digitizer set, Type 3","Real time sync from paper to app","OCR and audio recording","Bluetooth pen"],
-    pros: ["Well under $300, one of the more affordable smart pens","Real-time sync while writing","OCR and audio recording included","Bluetooth connectivity"],
-    cons: ["OCR accuracy should be verified through current reviews","Pen requires periodic charging","Smaller ecosystem than larger brands"],
-    bestFor: "Buyers wanting real-time smart pen sync at an affordable price under $300.",
+    "id": "syncpen-u300",
+    "rank": 6,
+    "badge": "Best Real-Time Smart Pen",
+    "name": "SyncPen Digital Notebook Smart Pen Set, Real Time Sync from Paper to App",
+    "price": "$79.00",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/41eM5RJPa2L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5P2186C?tag=theofficejournal-20",
+    "description": "The SyncPen is the entry point to live syncing: its Bluetooth pen captures your handwriting on special dot-pattern paper and sends it to an app as you write.\n\nThe listing also mentions OCR, which converts handwriting to text, and audio recording, useful for lectures or meetings. That makes it the most capable option here for turning notes into searchable text.\n\nThe pen needs charging, it depends on compatible paper, and the listing doesn't quantify OCR accuracy, so check recent buyer feedback before relying on it.",
+    "specs": [
+      "Type: smart pen and paper set",
+      "Sync: real time via Bluetooth",
+      "OCR and audio recording (per listing)",
+      "Pen: rechargeable"
+    ],
+    "pros": [
+      "Syncs as you write",
+      "OCR and audio recording listed",
+      "Least expensive smart pen here"
+    ],
+    "cons": [
+      "Pen needs charging",
+      "Requires compatible paper",
+      "OCR accuracy isn't quantified"
+    ],
+    "bestFor": "Students and meeting-heavy workers who want handwriting turned into searchable notes as they write.",
+    "summary": "A smart pen that syncs what you write on paper in real time, with OCR and audio recording.",
+    "skipIf": "You don't want another device to charge; a Rocketbook needs none."
   },
   {
-    id: "smartsync-u300",
-    rank: 7,
-    badge: "Best Eco-Friendly Smart Set Under $300",
-    name: "Smart Sync Reusable Notebook, Functional Digital Notepad, Eco-Friendly",
-    price: "$79.99",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/41vRcKAD-ML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F7LDXHC2?tag=theofficejournal-20",
-    description: "This Smart Sync set combines a reusable notebook with real-time digital writing capture, well at a budget-friendly price and positioned as an eco-friendly option. This is a smart pen and paper digitizer set (a sensor-equipped pen used with special dot-pattern paper that captures your handwriting in real time and syncs it to an app as you write). Ranked just behind SyncPen Digital Notebook Smart Pen Set, it costs more than SyncPen Digital Notebook Smart Pen Set. The real tradeoff against that pick: Smaller brand, verify current reviews. In exchange, it offers this instead: Well at a budget-friendly price. That's the swap that decides whether this pick or the one above it is the better fit for your note-taking needs. Worth knowing before you decide: Real-time digital writing capture. On the other side, OCR and text conversion accuracy should be verified. That's the main tradeoff to weigh against everything above.",
-    specs: ["Smart pen and paper digitizer set, Type 3","Real-Time Digital Writing Pad","Eco-friendly reusable notebook set","Includes pen and pad"],
-    pros: ["Well under $300","Real-time digital writing capture","Reusable, eco-friendly notebook design","Still writes on real paper"],
-    cons: ["Smaller brand, verify current reviews","Pen requires periodic charging","OCR and text conversion accuracy should be verified"],
-    bestFor: "Buyers wanting an eco-friendly smart pen and paper set under $300.",
+    "id": "smartsync-u300",
+    "rank": 7,
+    "badge": "Eco-Focused Smart Set",
+    "name": "Smart Sync Reusable Notebook, Functional Digital Notepad, Eco-Friendly",
+    "price": "$79.99",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/41vRcKAD-ML._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7LDXHC2?tag=theofficejournal-20",
+    "description": "The Smart Sync set pairs a smart pen with a reusable notebook for real-time writing capture, and it is positioned around its reusable, eco-friendly design.\n\nIt costs about the same as the SyncPen at the time of writing. The listing doesn't mention OCR or audio recording the way the SyncPen's does, so if text conversion matters, the SyncPen is the clearer choice.\n\nIt is a smaller brand with less buyer feedback, and the pen needs charging.",
+    "specs": [
+      "Type: smart pen and reusable pad set",
+      "Sync: real time",
+      "Included: pen and pad"
+    ],
+    "pros": [
+      "Real-time capture on paper",
+      "Reusable pad",
+      "Pen and pad included"
+    ],
+    "cons": [
+      "OCR and text conversion aren't described",
+      "Smaller brand with less feedback",
+      "Pen needs charging"
+    ],
+    "bestFor": "People who want live syncing and a reusable pad in one set.",
+    "summary": "A smart pen and reusable pad set with real-time capture.",
+    "skipIf": "You need handwriting-to-text conversion; the SyncPen lists OCR."
   },
   {
-    id: "ophayapen-u300",
-    rank: 8,
-    badge: "Best Mid-Range Smart Pen Under $300",
-    name: "Ophayapen Smart Pen and Smart Digital Notebook, Real-time Mobile Sync",
-    price: "$99.13",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/411Fba5TlmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FM3WLT2H?tag=theofficejournal-20",
-    description: "The Ophayapen set sits comfortably at a budget-friendly price, syncing notes to your phone in real time with a compact pen and notebook combination. This is a smart pen and paper digitizer set (a sensor-equipped pen used with special dot-pattern paper that captures your handwriting in real time and syncs it to an app as you write). One spot below Smart Sync Reusable Notebook in this ranking, it costs more than Smart Sync Reusable Notebook. The compromise here is straightforward: Pen requires periodic charging. What you gain in return: Comfortably at a budget-friendly price. Whether that trade is worth it depends on which side matters more for how you'll actually use it. Worth knowing before you decide: Real-time mobile sync while writing. On the other side, Bulkier overall than a paper-only notepad. That's the main tradeoff to weigh against everything above.",
-    specs: ["Smart pen and paper digitizer set, Type 3","Real-time mobile sync","Compact pen and notebook set","Mid-range price under $300"],
-    pros: ["Comfortably under $300","Real-time mobile sync while writing","Compact pen and notebook combination","Still writes on real paper"],
-    cons: ["Pen requires periodic charging","Smaller brand, verify current reviews","Bulkier overall than a paper-only notepad"],
-    bestFor: "Buyers wanting a mid-range real-time smart pen set within this budget.",
+    "id": "ophayapen-u300",
+    "rank": 8,
+    "badge": "Compact Smart Pen Set",
+    "name": "Ophayapen Smart Pen and Smart Digital Notebook, Real-time Mobile Sync",
+    "price": "$99.13",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/411Fba5TlmL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM3WLT2H?tag=theofficejournal-20",
+    "description": "The Ophayapen set is a compact pen-and-notebook combination that syncs to your phone in real time.\n\nIt is the most expensive option here at the time of writing, and the listing doesn't describe features beyond real-time sync that the less expensive SyncPen lacks.\n\nThe pen needs charging, the set is bulkier than a paper-only notepad, and it is a smaller brand with less buyer feedback.",
+    "specs": [
+      "Type: smart pen and notebook set",
+      "Sync: real time to phone"
+    ],
+    "pros": [
+      "Real-time sync",
+      "Compact pen and notebook combination",
+      "Writes on real paper"
+    ],
+    "cons": [
+      "Most expensive option here",
+      "No clear feature advantage over the SyncPen",
+      "Pen needs charging"
+    ],
+    "bestFor": "People who prefer this particular pen and notebook format for live syncing.",
+    "summary": "A compact smart pen and notebook set with real-time phone sync.",
+    "skipIf": "You want OCR or audio recording; the SyncPen lists both for less."
   }
 ];
 
-export interface HowWeEvaluatedItem { title: string; description: string; }
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  { title: "Every price checked against verified current data before inclusion", description: "Confirmed each product's actual listed price is genuinely at a budget-friendly price using verified pricing data, excluding anything unconfirmed or over the ceiling." },
-  { title: "Feature richness weighed within the price ceiling", description: "Prioritized picks offering the most capability, such as real-time sync or OCR, within this wider budget compared to the strictest budget tier." },
-  { title: "Paper notebooks and smart pen sets compared on their own terms", description: "Weighed reusable paper notebooks against smart pen sets within the same price range rather than assuming one type is automatically better value." },
-  { title: "Ecosystem maturity noted for smaller brands", description: "Flagged where a smart pen brand is less established than Rocketbook or reMarkable, worth checking current reviews before buying." },
+export const howWeEvaluated = [
+  {
+    "title": "Sync method",
+    "description": "We separated scan-to-sync reusable notebooks from real-time smart pen sets."
+  },
+  {
+    "title": "Page format",
+    "description": "We compared page size and layout as listed."
+  },
+  {
+    "title": "What's included",
+    "description": "We noted whether a pen, cloth or paper is included."
+  },
+  {
+    "title": "Listed features",
+    "description": "We recorded OCR, audio recording and charging requirements where listed."
+  }
 ];
 
-export interface HowToChooseSection { subheading: string; intro?: string; table?: { headers: string[]; rows: string[][] }; cards?: { label: string; text: string }[]; note?: string; }
+export const buyingCriteria = [
+  {
+    "criterion": "Decide how you want notes to sync",
+    "explanation": "Reusable notebooks sync when you scan a page with your phone. Smart pens sync as you write. Scanning is cheaper and needs no charging; live syncing is more convenient for fast note-taking but depends on a charged pen and special paper."
+  },
+  {
+    "criterion": "Choose a page size and layout",
+    "explanation": "Letter size gives the most room; executive size (6 x 8.8 inches) is easier to carry. Dotted, lined and planner pages suit different ways of working."
+  },
+  {
+    "criterion": "Confirm the pen",
+    "explanation": "Rocketbooks need a compatible erasable pen, which isn't always included. The Flip kit includes one; smart pen sets include their own rechargeable pen."
+  },
+  {
+    "criterion": "Check text conversion",
+    "explanation": "If you want handwriting turned into searchable text, look for OCR in the listing. The SyncPen lists it; accuracy isn't quantified, so recent buyer feedback is worth checking."
+  }
+];
+
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Use Case",
+    "subheading": "By how you write",
     "table": {
       "headers": [
-        "What you need it for",
-        "Recommended pick in this comparison"
+        "You want",
+        "Consider",
+        "Why"
       ],
       "rows": [
         [
-          "Everyday note-taking and reading",
-          "Rocketbook Flip Reusable Smart Notepad"
+          "The most page space",
+          "Rocketbook Core",
+          "Letter-size dotted pages"
         ],
         [
-          "AI-assisted or document-heavy work",
-          "Ophayapen Smart Pen and Smart Digital Notebook"
+          "A portable notebook",
+          "Rocketbook Flip (executive)",
+          "6 x 8.8 inches"
+        ],
+        [
+          "Everything in the box",
+          "Rocketbook Flip kit",
+          "Pen and cloth included"
+        ],
+        [
+          "Planning and notes together",
+          "Rocketbook Fusion",
+          "Planner and note pages"
+        ],
+        [
+          "Live syncing and searchable text",
+          "SyncPen",
+          "Real-time sync, OCR listed"
         ]
       ]
     }
-  },
-  {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
-    "table": {
-      "headers": [
-        "What you're weighing",
-        "Recommended pick in this comparison"
-      ],
-      "rows": [
-        [
-          "Highest star rating",
-          "Rocketbook Core Reusable Spiral Notebook"
-        ],
-        [
-          "Largest review base (more statistical confidence)",
-          "Rocketbook Core Reusable Spiral Notebook"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "AI Features Included vs Subscription-Gated",
-    "cards": [
-      {
-        "label": "Included, No Subscription",
-        "text": "AI note tools come with the purchase price, no ongoing cost. In this comparison: check each listing's terms directly."
-      },
-      {
-        "label": "Subscription-Gated",
-        "text": "Advanced AI features require an ongoing paid plan on top of the hardware price. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
-      }
-    ],
-    "note": "Check each specific listing for current subscription terms, since these change over time."
-  },
-  {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
-    "table": {
-      "headers": [
-        "What you're weighing",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Highest star rating",
-          "Rocketbook Core Reusable Spiral Notebook"
-        ],
-        [
-          "Largest review base (more statistical confidence)",
-          "Rocketbook Core Reusable Spiral Notebook"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Handwriting-to-Text Conversion Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Explicit confirmation of handwriting-to-text conversion (not just \"AI\" generally), and whether that specific feature is included or requires a subscription."
-      },
-      {
-        "label": "In this comparison",
-        "text": "SyncPen Digital Notebook Smart Pen Set fits this specifically: Well under $300, one of the more affordable smart pens."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want what Ophayapen Smart Pen and Smart Digital Notebook offers: Comfortably under $300. That's a real functional upgrade over the budget picks here, not just a brand markup."
-      },
-      {
-        "label": "Save if",
-        "text": "Rocketbook Flip Reusable Smart Notepad already covers the essentials: Well under $300. The main thing you'd be paying extra for elsewhere in this list is features or storage you may not need."
-      }
-    ]
   }
 ];
 
-export const buyingCriteria: BuyingCriterion[] = [
+export const faq = [
   {
-    "criterion": "Check whether AI or handwriting-conversion features are included or require a subscription",
-    "explanation": "Digital notebook brands take genuinely different approaches to their software features: some bundle handwriting-to-text conversion, document summarization, and cloud sync into the purchase price, while others, most notably reMarkable's Connect plan, gate the more advanced versions of these same features behind an ongoing monthly subscription that continues costing money long after the initial purchase.\n\nThis is a real total-cost-of-ownership difference that a one-time hardware price comparison completely misses, since a cheaper device with a required subscription can cost more over two or three years than a pricier device with everything included upfront.\n\nCheck the specific listing and manufacturer's website for whether the features you actually want are included in the base purchase or require an ongoing plan, and factor that recurring cost into your real comparison."
+    "q": "Do I need to spend close to $300?",
+    "a": "Not for these types of notebook. Everything in this guide cost about $100 or less at the time of writing. E Ink tablets mostly sit above this range."
   },
   {
-    "criterion": "Understand that \"AI\" and \"handwriting conversion\" mean different things across different devices",
-    "explanation": "The marketing term \"AI\" gets applied to several genuinely different features across this product category: converting your handwriting into typed text, summarizing a long document or your own notes, organizing notes automatically by topic, or simply offering a chatbot-style writing assistant, and a device marketed heavily around \"AI\" doesn't necessarily include all, or even most, of these specific capabilities.\n\nThis matters because two devices can both claim AI features while actually doing completely different things, so a buyer specifically wanting handwriting-to-text conversion could end up with a device whose \"AI\" feature is actually a summarization tool that doesn't address their actual need at all.\n\nRead the specific feature list rather than the marketing headline, and confirm the device does the exact task you need (handwriting conversion specifically, not just \"AI\" generally) before buying."
+    "q": "What's the difference between a reusable notebook and a smart pen?",
+    "a": "A reusable notebook syncs when you scan a page with your phone, then wipes clean. A smart pen captures your writing on special paper as you go and syncs it live, but needs charging."
   },
   {
-    "criterion": "Confirm the stylus situation: included, sold separately, or requiring a specific model",
-    "explanation": "Some digital notebooks include a compatible stylus in the box as part of the purchase price, while others sell the device and stylus as separate purchases, or require a specific proprietary stylus model that isn't interchangeable with a generic capacitive pen, and this distinction can add a meaningful hidden cost on top of the listed device price if you assumed a stylus was included.\n\nBeyond just the cost, stylus quality itself varies in pressure sensitivity, tilt detection, and palm rejection quality, features that matter significantly more for sketching and detailed note-taking than for simple text entry.\n\nCheck the listing specifically for whether a stylus ships in the box, and if writing feel matters to you, look for mentions of pressure levels and palm rejection quality rather than assuming any included stylus performs the same as another."
+    "q": "Do Rocketbooks need a special pen?",
+    "a": "Yes, a compatible erasable pen. The Flip kit in this guide includes one."
   },
   {
-    "criterion": "Check the export and sync ecosystem, since notes trapped on one device have limited long-term value",
-    "explanation": "A digital notebook's real usefulness depends heavily on getting your notes and documents off the device and into a format you can actually use elsewhere, whether that's cloud sync to a phone or computer, export to PDF or Word, or direct integration with a note-taking platform like OneNote or Google Drive, and devices differ meaningfully in which of these paths they actually support natively versus not at all.\n\nThis matters concretely for anyone using the device for professional or academic work where notes need to end up in a shared document, an email, or a specific software ecosystem, since a device with limited export options can leave your handwritten notes effectively stranded on the device itself.\n\nCheck the manufacturer's stated export formats and sync options against the specific software or workflow you actually need to feed notes into, rather than assuming any device syncs to everything."
-  },
-  {
-    "criterion": "Weigh review volume against star rating, especially for newer AI-branded entrants",
-    "explanation": "Established digital notebook brands with years on the market carry review counts in the thousands, giving genuine statistical confidence in their ratings, while newer devices, especially ones marketing themselves heavily around AI features to ride current interest in the category, sometimes carry only a few dozen or a few hundred reviews, which is a meaningfully thinner sample to judge long-term reliability and whether the marketed features actually work as claimed.\n\nThis doesn't mean a newer, less-reviewed device is automatically worse, but it does mean the claims on its listing carry less independently verified weight than a device with years of real-world feedback behind it.\n\nWhen comparing an established brand against a newer AI-branded entrant, check both the star rating and the review count together, and weigh a smaller but heavily AI-marketed device's claims more skeptically until more real-world feedback accumulates."
+    "q": "Can these convert handwriting to text?",
+    "a": "The SyncPen lists OCR. For the others, check the companion app's features before buying."
   }
 ];
 
-export const faq: FaqItem[] = [
-  { q: "What's the best digital notebook under $300?", a: "It depends on your priority: the Rocketbook Core is the most established budget-friendly notebook, while SyncPen offers real-time sync and OCR at an affordable price within this range." },
-  { q: "Can I get a smart pen with real-time sync under $300?", a: "Yes, several smart pen sets like SyncPen and the Ophayapen fall well under this price ceiling and offer genuine real-time handwriting sync." },
-  { q: "Are e-ink digital notebooks available under $300?", a: "Generally no, most standalone e-ink hardware devices start above $300, this price range is dominated by reusable paper notebooks and smart pen sets instead." },
-  { q: "Do I need to verify prices before buying?", a: "Yes, prices change over time, always check the current listing against your budget rather than relying solely on a guide's stated price." },
+export const bottomLine = [
+  "For most people, a Rocketbook is the sensible starting point: the Flip kit is the easiest first purchase because the pen is included, the Core gives you letter-size pages, and the Fusion adds planner pages.",
+  "If you want notes to sync as you write and become searchable text, the SyncPen is the smart pen to start with. Several Rocketbook picks here overlap closely, so choose on size and layout rather than ranking."
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-budget-digital-notebooks", title: "Best Budget Digital Notebooks (2026)" },
-  { href: "/guide/best-digital-notebooks-under-500", title: "Best Digital Notebooks Under $500 (2026)" },
-  { href: "/guide/best-smart-digital-notebooks", title: "Best Smart Digital Notebooks (2026)" },
+export const relatedGuides = [
+  {
+    "href": "/guide/best-budget-digital-notebooks",
+    "title": "Best Budget Digital Notebooks (2026)"
+  },
+  {
+    "href": "/guide/best-digital-notebooks-under-500",
+    "title": "Best Digital Notebooks Under $500 (2026)"
+  },
+  {
+    "href": "/guide/best-smart-digital-notebooks",
+    "title": "Best Smart Digital Notebooks (2026)"
+  }
 ];

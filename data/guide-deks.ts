@@ -17,4 +17,10 @@ export const guideDeks: Record<string, string> = {
     "We compared LCD writing tablets, a smart pen and two over-budget alternatives to show what each type of digital notebook does well under $200.",
   "best-monitor-arm-mounts-under-50":
     "We compared five single arms and three dual mounts on weight capacity, clamp and grommet options, VESA support and setup, and flag the one that runs over $50.",
+  "best-office-chair-for-short-people":
+    "We compared eight chairs that reach 16.5 inches or lower on seat height, seat depth and lumbar position, from under $40 to a petite-specific design.",
+  "best-office-chairs-for-big-and-tall-users":
+    "We compared chairs rated from 330 to 500 lb on capacity, seat width, tall-user fit and upholstery, separating the needs of heavier and taller users.",
+  "best-digital-notebooks-under-300":
+    "We compared five Rocketbook-style reusable notebooks and three smart pen sets on how they sync, page format and what's in the box.",
 };

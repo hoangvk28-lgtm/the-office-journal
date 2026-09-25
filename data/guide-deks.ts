@@ -279,4 +279,8 @@ export const guideDeks: Record<string, string> = {
     "Eight single monitor arms compared on clamp, grommet or wall mounting, weight range, screen size and VESA.",
   "best-split-ergonomic-keyboards":
     "Eight split keyboards compared on split type, tenting, layout and connection, from a curved one-piece board to a programmable separable design.",
+  "best-office-chairs-with-flip-up-arms":
+    "Eight chairs compared on whether flip-up arms are confirmed, support and fit, from budget mesh chairs to a drafting chair.",
+  "best-portable-monitors-under-200":
+    "Eight portable monitors under $200 compared on size, resolution, refresh rate, inputs and stand.",
 };

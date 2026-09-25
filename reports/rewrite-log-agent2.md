@@ -490,3 +490,15 @@
 - **Angle:** split type, tenting, layout learning curve; no health claims.
 - **Verify:** Logitech Wave Keys isn't a split (off-category); K860 is fixed split.
 - **Redundant:** Freestyle2 vs Freestyle2+VIP3. · **Manual review:** no
+
+---
+## best-office-chairs-with-flip-up-arms
+- **Old:** 8 Best Office Chairs with Flip-Up Arms in 2026 · **New SEO:** Best Office Chairs with Flip-Up Arms (2026) · **H1:** The Best Office Chairs with Flip-Up Arms for Tucking Under a Desk
+- **Verify:** only 4 of 8 confirm flip-up; weight ratings/dimensions missing on all; #1 brand unnamed.
+- **Redundant:** NEO pink vs black. · **Manual review:** yes (scope)
+
+---
+## best-portable-monitors-under-200
+- **Old:** 8 Best Portable Monitors Under $200 in 2026 · **New SEO:** Best Portable Monitors Under $200 (2026) · **H1:** The Best Portable Monitors Under $200 for Work and Travel
+- **Verify:** InnoView resolution "2160x1600" likely typo for 2560x1600; ARZOPA 2.5K refresh unstated; review-count claims removed.
+- **Redundant:** none. · **Manual review:** no

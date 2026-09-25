@@ -1,339 +1,413 @@
-export const guideSlug = "best-tear-off-notepad-style-desk-pads";
-export const guideTitle = "8 Best Tear-Off/Notepad-Style Desk Pads in 2026";
-export const metaTitle = "Best Tear-Off/Notepad-Style Desk Pads";
-export const metaDescription = "We compared desk pad refill models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
-export const mainKeyword = "desk pad refill";
-export const introParagraphs = [
-  "Across best tear-off/notepad-style desk pads, range widely in real edge durability, given that differences show up in daily use.",
-  "What separates these picks is verified edge durability, not marketing claims, since these separate real capability from claims."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/51CRSkxfDLL._SL500_.jpg";
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
+export const guideSlug = "best-tear-off-notepad-style-desk-pads";
+
+export const guideTitle = "The Best Tear-Off Planner Pads for Keeping the Week on Your Desk";
+
+export const breadcrumbLabel = "Best Tear-Off Planner Pads";
+
+export const metaTitle = "Best Tear-Off Notepad Desk Pads and Weekly Planners (2026)";
+
+export const metaDescription = "We compared tear-off weekly and monthly planner pads on layout, sheet count, size, paper weight and backing, from compact to-do pads to an extra-large desk planner.";
+
+export const mainKeyword = "desk pad refill";
+
+export const introParagraphs = [
+  "A tear-off planner pad sits on the desk where you can see it, which is the whole point: the week's tasks stay in view instead of in an app you have to open. Each sheet covers a week (or a month), and you tear it off when it is done.",
+  "The differences between pads are practical. Layout comes first: a plain to-do list, a day-by-day week, a monthly grid, or sections for priorities and habits. Then size, which decides whether the pad sits beside the keyboard or under it; paper weight, which affects bleed-through from markers; and a stiff backing if you write on it away from the desk.",
+  "Every pad here is undated or planner-style and costs under $20 at the time of writing. Our comparison is based on published specifications and price position, not hands-on testing."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const readTime = "11 min";
+
+export const heroImage = "https://m.media-amazon.com/images/I/51CRSkxfDLL._SL500_.jpg";
 
 export const products: GuideProduct[] = [
   {
-    id: "best-tear-off-notepad-style-desk-pads-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Weekly Planner Pad: To Do List Desk Notepad with Multiple Sections",
-    price: "$8.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51CRSkxfDLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BS2L4Z3F?tag=theofficejournal-20",
-    description: "Weekly Planner Pad: To Do List Desk Notepad with Multiple Sections is our overall pick in this lineup. A to do list lover’s dream, our notepad offers multiple sections with ample space to write all your important tasks so you can organize and track your tasks better than with a regular list. Experience the perfect balance of minimalist and functional design with our weekly to-do list notepad.\n\nNo more frustrations about pens or markers bleeding through flimsy paper!, which is the main thing that distinguishes this pick from Yoment Weekly Planner Notepad Tear Off Weekly Calendar Pad, 52 Undated, Blue.\n\nThis makes sense for anyone who want the strongest all-around pick in this comparison and would rather not keep shopping around. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["To do list lover’s dream", "Minimalist design to boost productivity", "No more frustrations about pens or markers bleeding through flimsy paper"],
-    pros: ["To do list lover’s dream", "Minimalist design to boost productivity", "No more frustrations about pens or markers bleeding through flimsy paper", "Sturdy backing for writing anywhere"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
+    "id": "best-tear-off-notepad-style-desk-pads-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Weekly Planner Pad: To Do List Desk Notepad with Multiple Sections",
+    "price": "$8.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51CRSkxfDLL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS2L4Z3F?tag=theofficejournal-20",
+    "description": "This Weekly Planner Pad is the sensible default for task lists: it is split into multiple sections, so you can separate priorities, calls and errands rather than keeping one long list.\n\nThe seller says the paper resists bleed-through from pens and markers, and a sturdy backing lets you write on it away from the desk. The design is minimal, which suits a shared or professional workspace.\n\nThe listing does not give dimensions or sheet count, so check both before ordering.",
+    "specs": [
+      "Layout: to-do list with multiple sections",
+      "Bleed-resistant paper (seller claim)",
+      "Sturdy backing"
+    ],
+    "pros": [
+      "Sectioned to-do layout",
+      "Sturdy backing",
+      "Minimal design"
+    ],
+    "cons": [
+      "Size and sheet count not listed"
+    ],
+    "bestFor": "People who organize their week as task lists rather than by day.",
+    "summary": "A to-do list pad with multiple sections, thicker paper and a sturdy backing.",
+    "skipIf": "You plan day by day; the Weekly Planning Pad has a day-by-day spread."
   },
   {
-    id: "best-tear-off-notepad-style-desk-pads-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "Yoment Weekly Planner Notepad Tear Off Weekly Calendar Pad, 52 Undated, Blue",
-    price: "$8.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41tSvjh5-rL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09PTWYL23?tag=theofficejournal-20",
-    description: "Yoment Weekly Planner Notepad Tear Off Weekly Calendar Pad, 52 Undated, Blue is a strong alternative worth comparing directly against the top pick. Slay your day with yoment undated weekly calendar tear off. Unique pattern, exquisite hand-drawn artwork, this weekly planner notepad tear off is sure to brighten up your life and work.\n\nTroubles like go to the supermarket shopping, but forget what you need to buy?, which is the main thing that distinguishes this pick from Weekly Planner Pad: To Do List Desk Notepad with Multiple Sections.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Weekly planner notepad", "Stay on your task", "Shopping to do list"],
-    pros: ["Weekly planner notepad", "Stay on your task", "Shopping to do list", "Weekly planner notepad tear off is also a artwork for many people"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-tear-off-notepad-style-desk-pads-2",
+    "rank": 2,
+    "badge": "Best Decorative Design",
+    "name": "Yoment Weekly Planner Notepad Tear Off Weekly Calendar Pad, 52 Undated, Blue",
+    "price": "$8.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41tSvjh5-rL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09PTWYL23?tag=theofficejournal-20",
+    "description": "The Yoment pad is the pick if you want the planner to brighten the desk: 52 undated weekly sheets with hand-drawn artwork in blue.\n\nUndated sheets mean you can start any week of the year without wasting pages, and the layout includes space for a shopping or to-do list.\n\nThe decorative style may feel busy on a minimal desk, and the listing does not state dimensions or paper weight.",
+    "specs": [
+      "Sheets: 52, undated, weekly",
+      "Hand-drawn artwork",
+      "Shopping and to-do list space"
+    ],
+    "pros": [
+      "Decorative design",
+      "A year of undated weekly sheets"
+    ],
+    "cons": [
+      "Dimensions and paper weight not listed",
+      "Busy style may not suit every desk"
+    ],
+    "bestFor": "Home desks where a cheerful design is part of the appeal.",
+    "summary": "An undated weekly tear-off pad with 52 sheets and hand-drawn artwork.",
+    "skipIf": "You want a plain, professional look; the Weekly Planner Pad is more minimal."
   },
   {
-    id: "best-tear-off-notepad-style-desk-pads-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "CDXHOME Monthly Planner Notepad",
-    price: "$9.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/419we1QYXjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FB2Z6V3S?tag=theofficejournal-20",
-    description: "CDXHOME Monthly Planner Notepad is a strong alternative worth comparing directly against the top pick. Our cdxhome monthly planner notepad features 52 undated sheets, allowing you to start planning anytime without wasting pages. Crafted with premium 100gsm smooth white paper and sturdy cardboard backing, this a4-sized (8\" x 11\") monthly notepad withstands daily use.\n\nAn ideal present for planners, list-makers, and productivity enthusiasts in your life, which is the main thing that distinguishes this pick from Weekly Planner Pad: To Do List Desk Notepad with Multiple Sections.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Versatile undated monthly planner for all your needs", "High-quality desk planner with durable construction", "Perfect gift for organized lifestyles"],
-    pros: ["Versatile undated monthly planner for all your needs", "High-quality desk planner with durable construction", "Perfect gift for organized lifestyles", "Spacious layout for detailed planning"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-tear-off-notepad-style-desk-pads-3",
+    "rank": 3,
+    "badge": "Best Monthly Planner",
+    "name": "CDXHOME Monthly Planner Notepad",
+    "price": "$9.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/419we1QYXjL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB2Z6V3S?tag=theofficejournal-20",
+    "description": "The CDXHOME pad is the one to choose if you plan by the month: an undated monthly planner with 52 sheets, 100gsm paper and a sturdy cardboard backing.\n\nA monthly grid gives a better view of deadlines and appointments than a weekly sheet, and heavier paper should reduce bleed-through.\n\nThe listing describes it as A4-sized and also as 8 x 11 inches, which do not match exactly; check the current listing if size matters.",
+    "specs": [
+      "Layout: monthly, undated",
+      "Sheets: 52",
+      "Paper: 100gsm",
+      "Cardboard backing",
+      "Size: listed as A4 / 8 x 11\""
+    ],
+    "pros": [
+      "Monthly overview",
+      "Heavier paper",
+      "Stiff backing"
+    ],
+    "cons": [
+      "Size description is inconsistent",
+      "Less room for daily detail than a weekly pad"
+    ],
+    "bestFor": "Planning deadlines and appointments across a month.",
+    "summary": "An undated monthly planner pad with 100gsm paper and a cardboard backing.",
+    "skipIf": "You plan day to day; a weekly pad gives more room per day."
   },
   {
-    id: "best-tear-off-notepad-style-desk-pads-4",
-    rank: 4,
-    badge: "Best Value",
-    name: "Beautiful Weekly Planner",
-    price: "$5.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51N2uxMO+NL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FVXHFWQ1?tag=theofficejournal-20",
-    description: "Beautiful Weekly Planner is the most affordable pick here that still clears the capability floor for this category. Set your week up for success with zicoto’s colorful 52-sheet weekly planner notepad - prioritize daily tasks and boost productivity at home or in the office with the perfect weekly to do list system. See your busy week clearly with vibrant daily sections, priority spaces, and built-in habit tracker - the ultimate weekly planner for visually organizing your schedule and confidently reaching your goals.\n\nA desk planner that does more!, a detail worth checking closely before choosing between this and Weekly Planner Pad: To Do List Desk Notepad with Multiple Sections.\n\nReach for this pick if you want a genuinely capable pick without paying for headroom you won't use. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Productive powerhouse", "Focused weekly planning", "Enjoy smooth 100gsm paper that feels luxurious under"],
-    pros: ["Productive powerhouse", "Focused weekly planning", "Enjoy smooth 100gsm paper that feels luxurious under", "Complete week overview"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
+    "id": "best-tear-off-notepad-style-desk-pads-4",
+    "rank": 4,
+    "badge": "Best Budget Pick",
+    "name": "Beautiful Weekly Planner",
+    "price": "$5.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51N2uxMO+NL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVXHFWQ1?tag=theofficejournal-20",
+    "description": "The zicoto weekly planner is the lowest-priced pad here and one of the more structured: each of its 52 sheets has daily sections, priority spaces and a built-in habit tracker.\n\nIt uses 100gsm paper, which should handle most pens without bleeding through.\n\nThe colorful design is bold, and the extra sections leave less free space for notes. The listing does not give dimensions.",
+    "specs": [
+      "Layout: weekly, daily sections, priorities, habit tracker",
+      "Sheets: 52",
+      "Paper: 100gsm"
+    ],
+    "pros": [
+      "Lowest price here",
+      "Habit tracker and priority sections",
+      "Heavier paper"
+    ],
+    "cons": [
+      "Bold colors",
+      "Less free space",
+      "Dimensions not listed"
+    ],
+    "bestFor": "People who like structure and want to track habits alongside tasks.",
+    "summary": "A colorful 52-sheet weekly planner with priorities and a habit tracker for about $6.",
+    "skipIf": "You prefer open space; the Weekly Planner Pad is simpler."
   },
   {
-    id: "best-tear-off-notepad-style-desk-pads-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "Weekly Planning Pad",
-    price: "$7.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41j3yyiW3TL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08XLWVF9W?tag=theofficejournal-20",
-    description: "Weekly Planning Pad is a strong alternative worth comparing directly against the top pick. Undated weekly planning pad to help you organize your daily tasks, responsibilities, schedule and stay on your task & goals & planning. Weekly calendar pad, enough for a full year of weekly planning.\n\nThe gap between this and Weekly Planner Pad: To Do List Desk Notepad with Multiple Sections isn't in the essentials, it shows up in weekly planning pad with 100gsm smooth paper for easy writing and reducing ink leakage.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Undated weekly planning pad to help you organize your daily tasks", "Weekly calendar pad", "Weekly planning pad with 100gsm smooth paper for easy writing and reducing ink leakage"],
-    pros: ["Undated weekly planning pad to help you organize your daily tasks", "Weekly calendar pad", "Weekly planning pad with 100gsm smooth paper for easy writing and reducing ink leakage", "Weekly to do list notepad contains weekly day spread and notes section"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-tear-off-notepad-style-desk-pads-5",
+    "rank": 5,
+    "badge": "Best Day-by-Day Weekly Pad",
+    "name": "Weekly Planning Pad",
+    "price": "$7.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41j3yyiW3TL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08XLWVF9W?tag=theofficejournal-20",
+    "description": "The Weekly Planning Pad is a straightforward day-by-day planner: an undated weekly spread with a notes section, enough sheets for a year, on 100gsm paper that the seller says reduces ink bleed.\n\nIt suits people who plan each day of the week separately rather than keeping one list.\n\nIts listing is almost identical to the Weekly Planner Notepad further down, so compare the current prices and choose the cheaper one if the designs look the same to you.",
+    "specs": [
+      "Layout: weekly day spread with notes",
+      "Undated, a year of sheets",
+      "Paper: 100gsm"
+    ],
+    "pros": [
+      "Clear day-by-day layout",
+      "Heavier paper",
+      "Undated"
+    ],
+    "cons": [
+      "Nearly identical to another pad here",
+      "Dimensions not listed"
+    ],
+    "bestFor": "Planning the week one day at a time.",
+    "summary": "An undated weekly pad with a day spread, notes section and 100gsm paper.",
+    "skipIf": "The Weekly Planner Notepad is cheaper when you buy; they appear to be very similar."
   },
   {
-    id: "best-tear-off-notepad-style-desk-pads-6",
-    rank: 6,
-    badge: "Best Premium Pick",
-    name: "Clear Mind Concepts Weekly Desk Planner",
-    price: "$17.49",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31BQnZr++BL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0921LD54S?tag=theofficejournal-20",
-    description: "Clear Mind Concepts Weekly Desk Planner is the premium option here, positioned above the rest on price. This extra-large 11.3” x 16.5” weekly desk planner gives you a clear view of your schedule, goals, and priorities. Start anytime of year - featuring 52 tear-off sheets (one for every week), this planner pad can be used at any point in the year.\n\nThe gap between this and Weekly Planner Pad: To Do List Desk Notepad with Multiple Sections isn't in the essentials, it shows up in premium paper quality prevents ink bleed-through from pens, markers, and highlighters.\n\nGo with this pick if you are willing to spend the most in this comparison for the fuller feature set that comes with it. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Extra-large 11.3” x 16.5” weekly desk planner gives you a clear view of your schedule", "Start anytime of year - featuring 52 tear-off sheets (one for every week)", "Premium paper quality prevents ink bleed-through from pens, markers, and highlighters"],
-    pros: ["Extra-large 11.3” x 16.5” weekly desk planner gives you a clear view of your schedule", "Start anytime of year - featuring 52 tear-off sheets (one for every week)", "Premium paper quality prevents ink bleed-through from pens, markers, and highlighters", "Space for daily planning"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
+    "id": "best-tear-off-notepad-style-desk-pads-6",
+    "rank": 6,
+    "badge": "Best Large Desk Planner",
+    "name": "Clear Mind Concepts Weekly Desk Planner",
+    "price": "$17.49",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31BQnZr++BL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0921LD54S?tag=theofficejournal-20",
+    "description": "The Clear Mind Concepts planner is the pick if you want the week to be impossible to miss: at 11.3 x 16.5 inches it is the largest pad here, big enough to sit in front of the keyboard as a working surface.\n\nIt has 52 undated tear-off sheets with space for schedule, goals, priorities and daily planning, and Clear Mind Concepts says the paper resists bleed-through from pens, markers and highlighters.\n\nIt costs about twice as much as the other pads at the time of writing and needs a clear stretch of desk.",
+    "specs": [
+      "Size: 11.3 x 16.5\"",
+      "Sheets: 52, undated, weekly",
+      "Sections: schedule, goals, priorities, daily",
+      "Bleed-resistant paper (manufacturer claim)"
+    ],
+    "pros": [
+      "Largest pad here",
+      "Room for goals and daily detail",
+      "Marker-friendly paper, per the maker"
+    ],
+    "cons": [
+      "Most expensive pad here",
+      "Needs desk space"
+    ],
+    "bestFor": "People who plan in detail and want the week in full view.",
+    "summary": "An extra-large 11.3 x 16.5-inch weekly planner with 52 tear-off sheets.",
+    "skipIf": "Your desk is crowded; a smaller pad fits beside the keyboard."
   },
   {
-    id: "best-tear-off-notepad-style-desk-pads-7",
-    rank: 7,
-    badge: "Great Alternative",
-    name: "Notsu Weekly Planner Notepad",
-    price: "$9.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/21Gg2xxljyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07RYP1SRV?tag=theofficejournal-20",
-    description: "Notsu Weekly Planner Notepad is a strong alternative worth comparing directly against the top pick. Managing your time is the key to managing your career. A desk calendar is no good if you have to remember to look at it.\n\nWeekly Planner Pad: To Do List Desk Notepad with Multiple Sections is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Managing your time is the key to managing your career", "Desk calendar is no good if you have to remember to look", "Desk full of sticky notes and “urgent” phone messages"],
-    pros: ["Managing your time is the key to managing your career", "Desk calendar is no good if you have to remember to look", "Desk full of sticky notes and “urgent” phone messages", "New week, new goals"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-tear-off-notepad-style-desk-pads-7",
+    "rank": 7,
+    "badge": "Minimal-Detail Listing",
+    "name": "Notsu Weekly Planner Notepad",
+    "price": "$9.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/21Gg2xxljyL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07RYP1SRV?tag=theofficejournal-20",
+    "description": "The Notsu pad is a weekly planner aimed at office workers who want to replace sticky notes and scattered reminders with one sheet on the desk.\n\nThe listing focuses on the idea rather than the product: it does not give sheet count, dimensions, paper weight or a clear layout description.\n\nCheck the product images before buying; the other pads here are better documented at similar prices.",
+    "specs": [
+      "Layout: weekly (details not listed)"
+    ],
+    "pros": [
+      "Aimed at office use"
+    ],
+    "cons": [
+      "Few specifications listed",
+      "Costs more than several better-documented pads"
+    ],
+    "bestFor": "Buyers who like its design in the product photos.",
+    "summary": "A Notsu weekly planner pad whose listing gives little detail about layout or size.",
+    "skipIf": "You want to know exactly what you are getting; the other pads list more detail."
   },
   {
-    id: "best-tear-off-notepad-style-desk-pads-8",
-    rank: 8,
-    badge: "Also Worth Considering",
-    name: "Weekly Planner Notepad",
-    price: "$8.98",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41uaynWipxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08P58NVTV?tag=theofficejournal-20",
-    description: "Weekly Planner Notepad is a strong alternative worth comparing directly against the top pick. Undated weekly planner notepad to help you organize your daily tasks, responsibilities, schedule and stay on your task & goals & planning. All busy people or makes for a wonderful gift for holiday, christmas, birthday.\n\nAgainst Weekly Planner Pad: To Do List Desk Notepad with Multiple Sections, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Undated weekly planner notepad to help you organize your daily tasks", "Weekly calendar pad", "Weekly planning pad with 100gsm smooth paper for easy writing and reducing ink leakage"],
-    pros: ["Undated weekly planner notepad to help you organize your daily tasks", "Weekly calendar pad", "Weekly planning pad with 100gsm smooth paper for easy writing and reducing ink leakage", "Weekly to do list notepad contains weekly day spread and notes section"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-tear-off-notepad-style-desk-pads-8",
+    "rank": 8,
+    "badge": "Alternative Weekly Pad",
+    "name": "Weekly Planner Notepad",
+    "price": "$8.98",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41uaynWipxL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08P58NVTV?tag=theofficejournal-20",
+    "description": "This Weekly Planner Notepad appears to be a near-twin of the Weekly Planning Pad above: an undated weekly day spread with a notes section on 100gsm paper.\n\nThe seller also markets it as a gift, which suits a pad bought for someone else.\n\nIf the two look the same to you, choose whichever is cheaper at the time you buy.",
+    "specs": [
+      "Layout: weekly day spread with notes",
+      "Undated",
+      "Paper: 100gsm"
+    ],
+    "pros": [
+      "Heavier paper",
+      "Undated"
+    ],
+    "cons": [
+      "Nearly identical to the Weekly Planning Pad",
+      "Dimensions not listed"
+    ],
+    "bestFor": "Buyers comparing it with the Weekly Planning Pad for the better price.",
+    "summary": "An undated weekly planner notepad with 100gsm paper and a notes section.",
+    "skipIf": "You want something distinctive; the Yoment or zicoto pads have more character."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "Cloth, Leather, or Vinyl Surface Material",
-    "description": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface."
+    "title": "Layout",
+    "description": "We compared weekly, monthly and to-do layouts and the sections each includes."
   },
   {
-    "title": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "description": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface."
+    "title": "Paper and build",
+    "description": "We recorded listed paper weight, sheet count and backing, treating bleed-resistance claims as seller claims."
   },
   {
-    "title": "Edge Stitching and Curl Resistance Over Time",
-    "description": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage."
+    "title": "Size",
+    "description": "We noted dimensions where listed and flagged where they are missing or inconsistent."
   },
   {
-    "title": "Base Grip on Your Specific Desk Surface",
-    "description": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface."
-  },
-  {
-    "title": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "description": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Surface Material",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Soft feel for typing",
-          "Beautiful Weekly Planner"
-        ],
-        [
-          "Balance of feel and durability",
-          "Weekly Planner Pad: To Do List Desk Notepad with Multiple Sections"
-        ],
-        [
-          "Wipeable, polished look",
-          "Clear Mind Concepts Weekly Desk Planner"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Beautiful Weekly Planner"
-        ],
-        [
-          "Mid-range pick",
-          "Yoment Weekly Planner Notepad Tear Off Weekly Calendar Pad, 52 Undated, Blue"
-        ],
-        [
-          "Higher budget",
-          "Clear Mind Concepts Weekly Desk Planner"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Cloth vs Leather",
-    "cards": [
-      {
-        "label": "Cloth (e.g. Beautiful Weekly Planner)",
-        "text": "Softer feel, absorbs spills, shows staining faster."
-      },
-      {
-        "label": "Leather/PU (e.g. Clear Mind Concepts Weekly Desk Planner)",
-        "text": "Wipes clean easily, more polished look, higher price."
-      }
-    ],
-    "note": "Match this to how much coffee and food realistically ends up near your desk."
-  },
-  {
-    "subheading": "By Setup Size",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Single keyboard and mouse",
-          "Weekly Planner Pad: To Do List Desk Notepad with Multiple Sections"
-        ],
-        [
-          "Dual monitor, wider setup",
-          "Check for extra-large or extended sizing"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Daily Heavy Use Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Weekly Planner Pad: To Do List Desk Notepad with Multiple Sections is worth checking against its specific edge construction before assuming any desk pad holds up the same."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want a wipeable, longer-lasting surface with a more polished look, where Clear Mind Concepts Weekly Desk Planner justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want straightforward daily protection and comfort, where Beautiful Weekly Planner already covers the job at the lowest price here."
-      }
-    ]
+    "title": "Price position",
+    "description": "We compared prices at the time of writing and noted near-identical listings."
   }
 ];
 
 export const buyingCriteria = [
   {
-    "criterion": "Cloth, Leather, or Vinyl Surface Material",
-    "explanation": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface. PU leather and vinyl desk pads sacrifice a little of that soft feel for a surface you can actually wipe clean, and genuine leather sits between the two, developing a natural patina over years of use rather than just showing wear. Match the material to how much daily abuse (coffee, food, ink) the pad will realistically see."
+    "criterion": "Layout",
+    "explanation": "Choose between a sectioned to-do list, a day-by-day week, a monthly grid, or a structured page with priorities and habit tracking."
   },
   {
-    "criterion": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "explanation": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface. Lay your keyboard and mouse out in your actual working position, measure the combined width, and add about 4 inches of margin on each side; a 31 by 15 inch pad is a reasonable starting point for most single-monitor setups, but wider dual-monitor arrangements often need more."
+    "criterion": "Size and placement",
+    "explanation": "A large pad like the Clear Mind Concepts (11.3 x 16.5 inches) can sit in front of the keyboard; smaller pads sit beside it. Many listings here do not give dimensions, so check."
   },
   {
-    "criterion": "Edge Stitching and Curl Resistance Over Time",
-    "explanation": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage. A stitched edge holds its flat shape considerably longer, while an unstitched raw-cut edge is more prone to fraying on cloth pads specifically, in addition to curling. This detail matters more the longer you expect to keep using the same pad daily."
+    "criterion": "Paper weight",
+    "explanation": "Several pads list 100gsm paper, heavier than typical copy paper, which should reduce bleed-through from markers and highlighters."
   },
   {
-    "criterion": "Base Grip on Your Specific Desk Surface",
-    "explanation": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface. If your desk has a slicker finish, look specifically for a backing material designed for that surface type."
+    "criterion": "Undated sheets and count",
+    "explanation": "Undated pads let you start any week. Fifty-two weekly sheets cover a year."
   },
   {
-    "criterion": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "explanation": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there. The price jump from cloth to leather buys a wipeable, longer-lasting surface and often a more polished look for a shared or client-facing workspace, but a cloth pad remains the better value if the desk pad's job is purely functional cushioning and mouse tracking."
+    "criterion": "Backing",
+    "explanation": "A stiff backing (Weekly Planner Pad, CDXHOME) makes it easier to write on the pad away from the desk."
+  }
+];
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By planning style",
+    "table": {
+      "headers": [
+        "Planning style",
+        "Consider",
+        "Why"
+      ],
+      "rows": [
+        [
+          "Task lists",
+          "Weekly Planner Pad",
+          "Multiple sections, sturdy backing"
+        ],
+        [
+          "Day by day",
+          "Weekly Planning Pad or Weekly Planner Notepad",
+          "Weekly day spread, 100gsm"
+        ],
+        [
+          "Monthly overview",
+          "CDXHOME",
+          "Undated monthly grid"
+        ],
+        [
+          "Habits and priorities",
+          "zicoto weekly planner",
+          "Habit tracker, lowest price"
+        ],
+        [
+          "Big, in front of the keyboard",
+          "Clear Mind Concepts",
+          "11.3 x 16.5 inches"
+        ],
+        [
+          "Decorative",
+          "Yoment",
+          "Hand-drawn artwork"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "By price at the time of writing",
+    "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.",
+    "table": {
+      "headers": [
+        "Price tier",
+        "Pads"
+      ],
+      "rows": [
+        [
+          "About $6–$9",
+          "zicoto, Weekly Planning Pad, Weekly Planner Notepad, Weekly Planner Pad, Yoment"
+        ],
+        [
+          "About $10",
+          "CDXHOME, Notsu"
+        ],
+        [
+          "About $17",
+          "Clear Mind Concepts"
+        ]
+      ]
+    }
   }
 ];
 
 export const faq = [
   {
-    "q": "What's the difference between a desk pad and a mouse pad?",
-    "a": "A desk pad covers most or all of your desk surface (keyboard, mouse, and often a writing area), while a mouse pad covers just the small area under your mouse; a desk pad protects more of the desk and gives your mouse more room to move but costs more and takes up the whole surface."
+    "q": "What is a tear-off desk planner?",
+    "a": "A pad of planner sheets, usually one per week, that sits on the desk. You fill in the week, then tear off the sheet when it is done."
   },
   {
-    "q": "What size desk pad do I need?",
-    "a": "Measure your keyboard and mouse laid out side by side in your actual typing position and add roughly 4 inches of margin on each side; around 31 by 15 inches is a reasonable starting size for a single-monitor setup, though wider dual-monitor arrangements often need more."
+    "q": "Weekly or monthly?",
+    "a": "Weekly pads give more room for daily tasks; monthly pads, like the CDXHOME, give a better overview of deadlines. Some people use both."
   },
   {
-    "q": "Is leather or cloth better for a desk pad?",
-    "a": "It depends on priorities: cloth feels better to write and mouse on but absorbs spills and shows staining faster, while leather (or PU leather/vinyl) wipes clean easily and looks more polished, at a higher price point ($30 to $60-plus versus $15 to $30 for cloth)."
+    "q": "Will markers bleed through?",
+    "a": "Heavier paper helps. Several pads here list 100gsm paper, and the Clear Mind Concepts and Weekly Planner Pad sellers claim bleed resistance. Test with your usual pen on the first sheet."
   },
   {
-    "q": "Will my desk pad curl up at the corners over time?",
-    "a": "It's more likely without reinforced or stitched edges, especially on cloth pads that get rolled up for travel or storage; a stitched edge holds its flat shape considerably longer than an unstitched, raw-cut edge."
+    "q": "What does undated mean?",
+    "a": "The sheets have no printed dates, so you can start any week and skip weeks without wasting pages."
   },
   {
-    "q": "Will a desk pad slide around on my desk?",
-    "a": "It depends on matching the backing material to your desk's surface: a rubber non-slip base grips laminate and wood reliably but can slide more on glass or a glossy lacquered desktop, so check the backing type against your specific desk finish."
-  },
-  {
-    "q": "Can a desk pad double as a mouse pad and a keyboard mat?",
-    "a": "Yes, that's the main appeal of a desk pad over a separate mouse pad, since a properly sized one covers both your keyboard and mouse (and often a writing area) on one continuous surface, avoiding the seam between two separate smaller pads."
+    "q": "Can a planner pad replace a desk pad?",
+    "a": "A large one, like the Clear Mind Concepts, can sit in front of the keyboard as a writing surface. It does not protect the desk or work as a mouse pad the way a fabric or leather desk pad does."
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-leather-desk-pads","title":"Best Leather Desk Pads"},{"href":"/guide/best-large-desk-pads","title":"Best Large Desk Pads"},{"href":"/guide/best-desk-pads-with-wrist-support","title":"Best Desk Pads with Wrist Support"}];
+export const bottomLine = [
+  "For most desks, the Weekly Planner Pad is the practical choice for task lists, the Weekly Planning Pad (or its near-twin, the Weekly Planner Notepad) for day-by-day planning, and the CDXHOME for a monthly view.",
+  "The zicoto pad is the budget pick with the most structure, the Yoment the decorative option, and the Clear Mind Concepts is worth paying more for if you want a large sheet in front of the keyboard. The Notsu's listing is too thin to recommend over the better-documented pads."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-leather-desk-pads",
+    "title": "Best Leather Desk Pads"
+  },
+  {
+    "href": "/guide/best-large-desk-pads",
+    "title": "Best Large Desk Pads"
+  },
+  {
+    "href": "/guide/best-desk-pads-with-wrist-support",
+    "title": "Best Desk Pads with Wrist Support"
+  }
+];

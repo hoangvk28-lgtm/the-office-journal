@@ -1,423 +1,354 @@
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+
 export const guideSlug = "best-ultrawide-monitor-arm";
-export const guideTitle = "6 Best Ultrawide Monitor Arms in 2026";
-export const metaTitle = "Best Ultrawide Monitor Arms in 2026 (34-Inch to 49-Inch)";
-export const metaDescription =
-  "6 best ultrawide monitor arms in 2026 for 34-inch and 49-inch super-ultrawides, from a $29 budget arm to a 57-inch-rated gaming arm. Compare VESA and weight limits.";
+
+export const guideTitle = "The Best Monitor Arms for Ultrawide and Super-Ultrawide Screens";
+
+export const breadcrumbLabel = "Best Ultrawide Monitor Arms";
+
+export const metaTitle = "Best Ultrawide Monitor Arms for 34- to 49-Inch Screens (2026)";
+
+export const metaDescription = "Screen size, bare-panel weight and VESA pattern decide which arm can hold an ultrawide. We compared six arms rated from 34 to 57 inches on load, VESA, mounting and warranty.";
+
 export const mainKeyword = "ultrawide monitor arm";
+
 export const introParagraphs = [
-  "An ultrawide monitor arm has to solve a problem a standard 24-27\" arm was never built for: 34\" ultrawides and 49\" super-ultrawides can weigh anywhere from 15 to 35+ lbs, and a curved panel shifts that weight forward in a way that adds real torque on the arm's tilt pivot. An arm that looks rated heavy enough on paper can still sag or drift down over months if it wasn't actually engineered for a curved ultrawide's center of gravity.",
-  "Below are 6 ultrawide monitor arms we evaluated on weight capacity, VESA compatibility, and how well each is built to resist curved-panel torque sag, ranging from a $29.69 budget arm rated for screens up to 49\" to a $399 arm purpose-built for ultrawide gaming monitors up to 57\".",
+  "An ultrawide is harder to mount than a standard monitor. Three numbers have to line up: the arm's rated screen size, its weight range against your monitor's bare-panel weight without the stand, and the VESA pattern on the back of the screen. A 34-inch ultrawide and a 49-inch super-ultrawide often differ on all three.",
+  "Curved panels add another consideration: their weight can sit further forward than a flat panel's, so an arm with some margin above your monitor's weight is the more cautious choice. Several manufacturers here describe reinforced designs for that reason.",
+  "The six arms below run from about $30 to about $400 at the time of writing. Our comparison is based on published specifications, load ratings, VESA support and warranties, not hands-on testing."
 ];
+
 export const lastUpdated = "2026-07-18";
+
 export const readTime = "9 min";
+
 export const heroImage = "https://m.media-amazon.com/images/I/419F+Cl-4lL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string;
-  rank: number;
-  badge: string;
-  name: string;
-  price: string;
-  rating: string;
-  reviews: string;
-  imageUrl: string;
-  amazonUrl: string;
-  description: string;
-  specs: string[];
-  pros: string[];
-  cons: string[];
-  bestFor: string;
-}
-
-export interface BuyingCriterion {
-  criterion: string;
-  explanation: string;
-}
-
-export interface FaqItem {
-  q: string;
-  a: string;
-}
 
 export const products: GuideProduct[] = [
   {
-    id: "wali-heavy-duty-single-monitor-arm",
-    rank: 1,
-    badge: "Cheapest",
-    name: "WALI Heavy Duty Single Monitor Arm",
-    price: "$29.69",
-    rating: "4.3",
-    reviews: "608",
-    imageUrl: "https://m.media-amazon.com/images/I/41fDUTYAgyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FRRCGF2Q?tag=theofficejournal-20",
-    description:
-      "The WALI Heavy Duty is the cheapest arm in this list yet still holds screens from 17\" up to 49\" at up to 33 lbs, built from aviation-grade aluminum with a gas spring for smooth height adjustment. Its \"Zero-Drift\" design targets the exact failure mode ultrawide arms are prone to, a monitor that slowly droops after installation.\n\n360 degree rotation and either a C-clamp or grommet mount cover most desk edges, and a 3-year warranty backs it up. At this price it's a reasonable entry point, though buyers loading a heavier curved 49\" panel should weigh it against the sturdier options ranked below.\n\nRated up to 49\" and 33 lbs. That's a real strength, but weigh it against the flip side: lower weight ceiling than the heavier-duty picks below.",
-    specs: [
-      "Aviation-grade aluminum construction",
-      "Fits 17\"-49\" screens up to 33 lbs",
-      "\"Zero-Drift\" stability design",
-      "Gas spring height adjustment, 360° rotation",
-      "C-clamp or grommet mount, 3-year warranty",
+    "id": "wali-heavy-duty-single-monitor-arm",
+    "rank": 1,
+    "badge": "Best Low-Cost Arm",
+    "name": "WALI Heavy Duty Single Monitor Arm",
+    "price": "$29.69",
+    "rating": "4.3",
+    "reviews": "608",
+    "imageUrl": "https://m.media-amazon.com/images/I/41fDUTYAgyL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRRCGF2Q?tag=theofficejournal-20",
+    "description": "The WALI is the least expensive way to mount an ultrawide: it is rated for 17- to 49-inch screens up to 33 lb, at about $30 at the time of writing.\n\nIt is aluminum with a gas spring for height adjustment and 360-degree rotation, mounts by C-clamp or grommet, and has a three-year warranty. WALI describes a \"Zero-Drift\" design intended to stop the monitor sinking after setup.\n\nIts 33 lb limit is the lowest among the 49-inch-rated arms here, so check your monitor's bare-panel weight carefully if it's a heavy curved 49-inch model.",
+    "specs": [
+      "Screen size: 17–49\"",
+      "Load: up to 33 lb",
+      "Mechanism: gas spring",
+      "Mount: C-clamp or grommet",
+      "Warranty: 3 years"
     ],
-    pros: [
-      "Cheapest arm in this list at $29.69",
-      "Rated up to 49\" and 33 lbs",
-      "Gas spring makes height adjustment smooth",
-      "3-year warranty",
+    "pros": [
+      "Lowest price here at the time of writing",
+      "Clamp or grommet",
+      "Three-year warranty"
     ],
-    cons: [
-      "Lower weight ceiling than the heavier-duty picks below",
-      "Curved 49\" panels add torque a budget arm feels more",
-      "Smaller review sample than the top-selling arm picks",
+    "cons": [
+      "Lowest load rating of the 49-inch arms",
+      "VESA pattern not stated in the listing summary",
+      "Less buyer feedback than the Ergotron arms"
     ],
-    bestFor: "Budget buyers mounting a lighter 34\" ultrawide or flat panel",
+    "bestFor": "Lighter 34-inch ultrawides on a tight budget.",
+    "summary": "An aluminum gas-spring arm rated for 17- to 49-inch screens up to 33 lb, with clamp or grommet mounting.",
+    "skipIf": "Your 49-inch monitor is close to 33 lb without its stand; the ARES WING is rated to 44 lb."
   },
   {
-    id: "ares-wing-ultrawide-monitor-desk-arm",
-    rank: 2,
-    badge: "Best Value",
-    name: "ARES WING Ultrawide Monitor Desk Arm",
-    price: "$64.99",
-    rating: "4.4",
-    reviews: "610",
-    imageUrl: "https://m.media-amazon.com/images/I/41A2KAm37fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CRVB3VGL?tag=theofficejournal-20",
-    description:
-      "The ARES WING steps up to an industrial gas spring rated for 17\"-49\" screens up to 44 lbs, a meaningful jump over the WALI above for buyers with a heavier curved panel. It's specifically called out as compatible with the Samsung Odyssey G9 and LG super-ultrawide lines, two of the heaviest curved panels on the market.\n\nA C-clamp or grommet mount and a 3-year warranty round it out. For the price gap over the cheapest pick in this list, the higher weight rating makes this the stronger default choice for most 49\" super-ultrawide setups.\n\nWorth calling out specifically: named compatibility with Odyssey G9 and LG super-ultrawides. The catch is not rated as high as the premium heavy-duty picks.",
-    specs: [
-      "Industrial gas spring",
-      "Fits 17\"-49\" screens up to 44 lbs",
-      "Compatible with Samsung Odyssey G9, LG super-ultrawides",
-      "C-clamp or grommet mount",
-      "3-year warranty",
+    "id": "ares-wing-ultrawide-monitor-desk-arm",
+    "rank": 2,
+    "badge": "Best Value for 49-Inch Screens",
+    "name": "ARES WING Ultrawide Monitor Desk Arm",
+    "price": "$64.99",
+    "rating": "4.4",
+    "reviews": "610",
+    "imageUrl": "https://m.media-amazon.com/images/I/41A2KAm37fL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRVB3VGL?tag=theofficejournal-20",
+    "description": "The ARES WING is the value pick for a 49-inch screen: it is rated for 17 to 49 inches and up to 44 lb, and ARES WING lists compatibility with the Samsung Odyssey G9 and LG super-ultrawides.\n\nIt uses an industrial gas spring, mounts by C-clamp or grommet and has a three-year warranty.\n\nIt matches the TitanLift's load rating for less, but without the TitanLift's reinforced design or five-year warranty. Confirm your monitor's VESA pattern against the included plate.",
+    "specs": [
+      "Screen size: 17–49\"",
+      "Load: up to 44 lb",
+      "Mechanism: gas spring",
+      "Mount: C-clamp or grommet",
+      "Listed compatibility: Samsung Odyssey G9, LG super-ultrawides",
+      "Warranty: 3 years"
     ],
-    pros: [
-      "44 lb capacity, well above the cheapest pick",
-      "Named compatibility with Odyssey G9 and LG super-ultrawides",
-      "Industrial gas spring feels sturdier under load",
-      "3-year warranty",
+    "pros": [
+      "44 lb rating at a mid-range price",
+      "Named super-ultrawide compatibility",
+      "Clamp or grommet"
     ],
-    cons: [
-      "Not rated as high as the premium heavy-duty picks",
-      "Still worth checking VESA size before buying for a 49\" panel",
-      "Mid-pack review count compared to Ergotron's arms",
+    "cons": [
+      "Shorter warranty than the TitanLift",
+      "VESA range not stated in the listing summary",
+      "Standard, not reinforced, construction"
     ],
-    bestFor: "Buyers who want real 49\" capacity without paying for a premium brand",
+    "bestFor": "Mounting a 49-inch super-ultrawide without paying Ergotron prices.",
+    "summary": "A gas-spring arm rated for 17 to 49 inches and 44 lb, with listed Odyssey G9 compatibility.",
+    "skipIf": "You want the longest warranty in this price range; the TitanLift lists five years."
   },
   {
-    id: "huanuo-titanlift-heavy-duty-monitor-arm",
-    rank: 3,
-    badge: "Most Trusted Brand",
-    name: "HUANUO TitanLift Heavy Duty Monitor Arm",
-    price: "$93.98",
-    rating: "4.7",
-    reviews: "406",
-    imageUrl: "https://m.media-amazon.com/images/I/419F+Cl-4lL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQ19YC9H?tag=theofficejournal-20",
-    description:
-      "The TitanLift is HUANUO's answer to the exact problem curved ultrawides create, an arm 20% thicker and a base 30% wider than the brand's standard model, built specifically to resist the torque sag a curved panel's forward-shifted center of gravity causes over time. It's rated for screens up to 49\" at 44 lbs and has been tested through 50,000 movement cycles.\n\nPremium aluminum construction, a dual C-clamp mount, and a 5-year warranty, the longest in this list, back up the added engineering. It's also the highest-rated pick in this guide at 4.7 stars, making it the arm we'd point most buyers toward for a genuinely heavy curved 49\".\n\nPurpose-built to resist curved-panel torque sag. Set against that, costs more than the two budget picks above. Both matter when comparing it to the other picks here.",
-    specs: [
-      "Premium aluminum, reinforced for curved-panel torque",
-      "Fits screens up to 49\" at up to 44 lbs",
-      "Arm 20% thicker, base 30% wider than standard model",
-      "Tested through 50,000 movement cycles",
-      "Dual C-clamp mount, 5-year warranty",
+    "id": "huanuo-titanlift-heavy-duty-monitor-arm",
+    "rank": 3,
+    "badge": "Best for Heavy Curved Screens",
+    "name": "HUANUO TitanLift Heavy Duty Monitor Arm",
+    "price": "$93.98",
+    "rating": "4.7",
+    "reviews": "406",
+    "imageUrl": "https://m.media-amazon.com/images/I/419F+Cl-4lL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ19YC9H?tag=theofficejournal-20",
+    "description": "The TitanLift is designed around heavy curved panels: HUANUO says its arm is 20% thicker and its base 30% wider than its standard model, and that it has been tested through 50,000 movement cycles. It is rated for screens up to 49 inches and 44 lb.\n\nIt is aluminum, mounts with a dual C-clamp and carries a five-year warranty.\n\nIt costs more than the ARES WING with the same load rating, and the dual clamp needs enough clear desk edge. The listing doesn't mention a grommet option.",
+    "specs": [
+      "Screen size: up to 49\"",
+      "Load: up to 44 lb",
+      "Construction: reinforced aluminum (per manufacturer)",
+      "Tested: 50,000 cycles (per manufacturer)",
+      "Mount: dual C-clamp",
+      "Warranty: 5 years"
     ],
-    pros: [
-      "Highest-rated pick in this list at 4.7 stars",
-      "Purpose-built to resist curved-panel torque sag",
-      "Longest warranty in this list at 5 years",
-      "Tested through 50,000 movement cycles",
+    "pros": [
+      "Reinforced design for curved panels",
+      "Five-year warranty",
+      "44 lb rating"
     ],
-    cons: [
-      "Costs more than the two budget picks above",
-      "Dual C-clamp needs a deep enough desk edge",
-      "Smaller review count than Ergotron's arms",
+    "cons": [
+      "Costs more than the ARES WING",
+      "No grommet option listed",
+      "Dual clamp needs clear desk edge"
     ],
-    bestFor: "Buyers with a genuinely heavy curved 49\" who want the arm engineered specifically to resist sag",
+    "bestFor": "A heavy curved 34- to 49-inch panel where margin and warranty matter.",
+    "summary": "A reinforced aluminum arm rated for 49 inches and 44 lb, with a five-year warranty.",
+    "skipIf": "You need a grommet mount; the ARES WING offers one at the same rating."
   },
   {
-    id: "ergotron-lx-monitor-arm",
-    rank: 4,
-    badge: "Most Trusted Brand",
-    name: "Ergotron LX Monitor Arm",
-    price: "$199.99",
-    rating: "4.7",
-    reviews: "10,950",
-    imageUrl: "https://m.media-amazon.com/images/I/31-J6rY9HEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07Q8TJ2KL?tag=theofficejournal-20",
-    description:
-      "The Ergotron LX is the most trusted name in monitor arms and by far the most-reviewed pick in this list at nearly 11,000 ratings, but it's important to be precise about its limit, it's rated for 7-25 lbs up to 34\" flat or curved ultrawide, not the 49\" super-ultrawide category. VESA compatibility is 75x75 or 100x100mm, which matches most 34\" panels but not the 200x200mm mounts many 49\" monitors require.\n\nIt lifts 13\", rotates 360 degrees, and tilts 75 degrees, and it carries a 10-year warranty, the longest in this entire list. For a 34\" ultrawide this is one of the safest, best-supported choices available; for a 49\" super-ultrawide, step up to the HX below instead.\n\nA genuine advantage here is that 10-year warranty, the longest in this list. The tradeoff is not rated for 49\" super-ultrawide monitors.",
-    specs: [
-      "Rated 7-25 lbs, up to 34\" flat or curved ultrawide",
-      "13\" lift, 360° rotation, 75° tilt",
-      "VESA 75x75 or 100x100mm",
-      "10-year warranty (longest in this list)",
-      "Not rated for 49\" super-ultrawides",
+    "id": "ergotron-lx-monitor-arm",
+    "rank": 4,
+    "badge": "Best for 34-Inch Ultrawides",
+    "name": "Ergotron LX Monitor Arm",
+    "price": "$199.99",
+    "rating": "4.7",
+    "reviews": "10,950",
+    "imageUrl": "https://m.media-amazon.com/images/I/31-J6rY9HEL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07Q8TJ2KL?tag=theofficejournal-20",
+    "description": "The Ergotron LX is the pick for a 34-inch ultrawide, and only up to that size: it is rated for 34-inch flat or curved panels weighing 7 to 25 lb, with VESA 75 x 75 or 100 x 100mm.\n\nIt offers 13 inches of lift, 360-degree rotation and 75 degrees of tilt, and carries a 10-year warranty, tied with the HX for the longest here.\n\nIt is not rated for 49-inch super-ultrawides, and its VESA range won't fit monitors that need 200 x 200mm.",
+    "specs": [
+      "Screen size: up to 34\"",
+      "Load: 7–25 lb",
+      "VESA: 75 x 75, 100 x 100mm",
+      "Lift: 13\"",
+      "Tilt / rotation: 75° / 360°",
+      "Warranty: 10 years"
     ],
-    pros: [
-      "Most-reviewed pick in this list by a wide margin",
-      "10-year warranty, the longest in this list",
-      "Excellent range of motion for a 34\" ultrawide",
-      "Extremely well-established, trusted build quality",
-    ],
-    cons: [
-      "Not rated for 49\" super-ultrawide monitors",
-      "VESA 75/100mm won't fit panels needing 200x200mm",
-      "Pricier than the budget and mid-tier picks above",
-    ],
-    bestFor: "34\" ultrawide owners who want the most trusted, longest-warrantied arm available",
-  },
-  {
-    id: "ergotron-hx-premium-heavy-duty-monitor-arm",
-    rank: 5,
-    badge: "Widest VESA Compatibility",
-    name: "Ergotron HX Premium Heavy Duty Monitor Arm",
-    price: "$343.35",
-    rating: "4.6",
-    reviews: "2,351",
-    imageUrl: "https://m.media-amazon.com/images/I/31s4CEX-D9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08RD4FJ3Q?tag=theofficejournal-20",
-    description:
-      "The Ergotron HX carries the same trusted build quality as the LX above but scales it up for real ultrawide duty, rated for flat or slightly curved panels up to 49\" and 20-42 lbs. It supports VESA 200x200mm, the mount pattern most true 49\" super-ultrawides actually need and the one the LX above can't accommodate.\n\nIt lifts 11.5\", rotates a full 360 degrees, and carries the same 10-year warranty as the LX. If your monitor is closer to flat than deeply curved and needs 200x200mm VESA, this is the safer Ergotron pick over the LX.\n\nRated up to 42 lbs for heavier panels. That's a real strength, but weigh it against the flip side: most expensive Ergotron pick in this list.",
-    specs: [
-      "Rated 20-42 lbs, flat or slightly curved up to 49\"",
-      "11.5\" lift, 360° rotation",
-      "VESA 200x200mm compatible",
+    "pros": [
       "10-year warranty",
-      "Same trusted Ergotron build as the LX",
+      "Wide range of motion",
+      "Established brand with extensive buyer feedback"
     ],
-    pros: [
-      "VESA 200x200mm compatibility fits true 49\" monitors",
-      "Rated up to 42 lbs for heavier panels",
-      "10-year warranty",
-      "Trusted Ergotron build quality",
+    "cons": [
+      "Not rated for 49-inch screens",
+      "No 200 x 200mm VESA",
+      "Costs more than the 49-inch-rated budget arms"
     ],
-    cons: [
-      "Most expensive Ergotron pick in this list",
-      "Rated for flat or only slightly curved panels, not deep 1000R curves",
-      "Heavier and bulkier to mount than the budget arms",
-    ],
-    bestFor: "49\" super-ultrawide owners who need genuine 200x200mm VESA support",
+    "bestFor": "34-inch ultrawides under 25 lb, where a long warranty matters.",
+    "summary": "Ergotron's LX, rated for 34-inch flat or curved screens from 7 to 25 lb, with a 10-year warranty.",
+    "skipIf": "You have a 49-inch screen; the Ergotron HX or ARES WING is rated for it."
   },
   {
-    id: "secretlab-magnus-monitor-arm-heavy-duty",
-    rank: 6,
-    badge: "Most Premium",
-    name: "Secretlab Magnus Monitor Arm (Heavy Duty Edition)",
-    price: "$399.00",
-    rating: "4.9",
-    reviews: "36",
-    imageUrl: "https://m.media-amazon.com/images/I/318wTzV+63L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DF7S2NXV?tag=theofficejournal-20",
-    description:
-      "The Secretlab Magnus Heavy Duty is designed specifically for ultrawide gaming monitors and is rated up to 57\", the widest capacity in this entire list, at 18-35 lbs. Its premium tensile spring is built around the exact torque a curved gaming ultrawide panel puts on an arm's tilt pivot, rather than treating curved panels as an afterthought.\n\nMagnetic cable management keeps a gaming desk tidy, and it carries the highest rating in this list at 4.9 stars, though from a much smaller review sample than the Ergotron arms above. This is the pick for a dedicated gaming setup where budget is secondary to fit and finish.\n\nWorth calling out specifically: highest star rating in this list at 4.9. The catch is most expensive pick in this list.",
-    specs: [
-      "Rated up to 57\" (widest capacity in this list)",
-      "18-35 lbs capacity",
-      "Premium tensile spring for curved-panel torque",
+    "id": "ergotron-hx-premium-heavy-duty-monitor-arm",
+    "rank": 5,
+    "badge": "Best for 200 x 200mm VESA",
+    "name": "Ergotron HX Premium Heavy Duty Monitor Arm",
+    "price": "$343.35",
+    "rating": "4.6",
+    "reviews": "2,351",
+    "imageUrl": "https://m.media-amazon.com/images/I/31s4CEX-D9L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08RD4FJ3Q?tag=theofficejournal-20",
+    "description": "The Ergotron HX is the choice for a heavy 49-inch screen that needs 200 x 200mm VESA: it supports that pattern and is rated for flat or slightly curved panels up to 49 inches, weighing 20 to 42 lb.\n\nIt offers 11.5 inches of lift and 360-degree rotation, with a 10-year warranty.\n\nNote the rating's wording: flat or slightly curved. If your panel has a tight curve, check Ergotron's compatibility guidance. It is also the most expensive Ergotron here, and its 20 lb minimum rules out lighter monitors.",
+    "specs": [
+      "Screen size: up to 49\" (flat or slightly curved)",
+      "Load: 20–42 lb",
+      "VESA: 200 x 200mm supported",
+      "Lift: 11.5\"",
+      "Warranty: 10 years"
+    ],
+    "pros": [
+      "200 x 200mm VESA support",
+      "10-year warranty",
+      "Rated up to 42 lb"
+    ],
+    "cons": [
+      "Rated for flat or slightly curved panels",
+      "20 lb minimum",
+      "Costs far more than the ARES WING"
+    ],
+    "bestFor": "Heavy 49-inch monitors with a 200 x 200mm VESA pattern.",
+    "summary": "Ergotron's heavy-duty arm for flat or slightly curved screens up to 49 inches and 20 to 42 lb.",
+    "skipIf": "Your monitor is under 20 lb; the Ergotron LX suits a lighter 34-inch panel."
+  },
+  {
+    "id": "secretlab-magnus-monitor-arm-heavy-duty",
+    "rank": 6,
+    "badge": "Best for Screens Up to 57 Inches",
+    "name": "Secretlab Magnus Monitor Arm (Heavy Duty Edition)",
+    "price": "$399.00",
+    "rating": "4.9",
+    "reviews": "36",
+    "imageUrl": "https://m.media-amazon.com/images/I/318wTzV+63L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF7S2NXV?tag=theofficejournal-20",
+    "description": "The Secretlab Magnus Heavy Duty is the only arm here rated beyond 49 inches: Secretlab rates it for ultrawide gaming monitors up to 57 inches, weighing 18 to 35 lb.\n\nIt uses a tensile spring Secretlab says is designed for curved gaming panels, and its magnetic cable management keeps cables in the arm.\n\nIts weight limit is lower than the ARES WING, TitanLift or HX, so a very heavy panel may still exceed it despite the size rating. It was also the most expensive arm here at the time of writing, with less buyer feedback than the Ergotron arms.",
+    "specs": [
+      "Screen size: up to 57\"",
+      "Load: 18–35 lb",
+      "Mechanism: tensile spring",
+      "Cable management: magnetic"
+    ],
+    "pros": [
+      "Highest screen-size rating here",
       "Magnetic cable management",
-      "Designed specifically for ultrawide gaming monitors",
+      "Designed for curved gaming panels (per Secretlab)"
     ],
-    pros: [
-      "Highest capacity rating in this list at up to 57\"",
-      "Highest star rating in this list at 4.9",
-      "Magnetic cable management is a nice gaming-desk touch",
-      "Spring engineered specifically for curved-panel torque",
+    "cons": [
+      "Most expensive here at the time of writing",
+      "35 lb limit is lower than several cheaper arms",
+      "Less buyer feedback than the Ergotron arms"
     ],
-    cons: [
-      "Most expensive pick in this list",
-      "Small review sample compared to the Ergotron arms",
-      "Premium price mainly justified for a dedicated gaming setup",
-    ],
-    bestFor: "Gaming setups with a wide curved ultrawide and a premium budget",
-  },
-];
-
-export interface HowWeEvaluatedItem {
-  title: string;
-  description: string;
-}
-
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  {
-    title: "Weight capacity vs actual panel weight",
-    description: "Compared each arm's rated lb capacity against real-world 34\" (15-22 lbs) and 49\" (25-35+ lbs) ultrawide weights, not just the headline number on the listing.",
-  },
-  {
-    title: "Curved-panel torque resistance",
-    description: "Weighed base width, arm thickness, and spring type against the extra torque a curved 1000R or 1800R panel's forward center of gravity puts on the tilt pivot compared to a flat panel of the same weight.",
-  },
-  {
-    title: "VESA compatibility range",
-    description: "Checked whether each arm supports the 100x100mm pattern common on 34\" ultrawides as well as the 200x200mm pattern many true 49\" super-ultrawides require.",
-  },
-  {
-    title: "Range of motion and mount type",
-    description: "Compared lift height, tilt range, and rotation against C-clamp and grommet mount options across differing desk edge depths.",
-  },
-  {
-    title: "Warranty and brand track record",
-    description: "Weighed warranty length and review volume as a proxy for how an arm holds up under sustained daily load over years, not just out of the box.",
-  },
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
-  {
-    "criterion": "Confirm your desk can actually grip the mounting base before comparing arms",
-    "explanation": "A monitor arm's clamp or grommet base needs a solid desk edge to grip securely, and this is the real first question to answer before comparing gas spring tension or weight capacity, since a hollow honeycomb-core desktop, a glass top, or a desk under about an inch thick can rule out an entire category of arms regardless of how good the arm itself is.\n\nThis matters because discovering after purchase that your desk simply can't mount the arm you bought is a common and entirely avoidable problem.\n\nCheck your desk's actual edge thickness and construction (solid, hollow-core, or glass), and confirm the arm's clamp or grommet base is explicitly rated for that construction before ordering."
-  },
-  {
-    "criterion": "Check real per-arm weight capacity, not the bundled-stand weight printed on the monitor box",
-    "explanation": "Monitor weight ratings printed on the box often reference the monitor's included stand, not the bare panel weight relevant to a monitor arm, and a monitor arm's real weight capacity needs to match your specific monitor's actual panel weight without its stand, information usually found in the monitor's separate spec sheet rather than the box itself.\n\nThis matters directly for a larger or ultrawide monitor, where the gap between stand-inclusive and bare-panel weight can be substantial enough to matter.\n\nCheck your monitor's bare panel weight (without its stand) in its official spec sheet, and compare that specifically against the arm's rated capacity, not a generalized weight class."
-  },
-  {
-    "criterion": "Verify VESA compatibility for both your monitor and the arm's mounting plate",
-    "explanation": "VESA mounting patterns come in a few standard sizes (75x75mm and 100x100mm are most common), and a mismatch between your monitor's VESA pattern and the arm's mounting plate means the arm simply won't attach, some arms include an adapter for multiple patterns while others support only one.\n\nThis matters directly for a monitor with a non-standard or larger VESA pattern, particularly some ultrawide or curved monitors, where assuming universal compatibility can lead to an unusable purchase.\n\nCheck your monitor's specific VESA pattern in its spec sheet, and confirm the arm explicitly supports that pattern, either natively or with an included adapter, before ordering."
-  },
-  {
-    "criterion": "Understand gas spring tension and how it affects long-term reliability",
-    "explanation": "A gas spring monitor arm relies on an internal pressurized cylinder to hold the monitor at any height with minimal effort, and tension needs to be roughly matched to your monitor's actual weight, a monitor lighter than the spring's calibrated range can drift upward on its own, while pressure calibrated too low for a heavier monitor won't hold position and will slowly droop.\n\nThis matters for long-term usability, not just initial setup, since gas springs can also lose tension gradually over years of use.\n\nCheck the arm's rated weight range against your monitor's actual weight, favoring a monitor that falls comfortably within the middle of that range rather than at either extreme."
-  },
-  {
-    "criterion": "Consider reach and range of motion against your actual desk depth and seating position",
-    "explanation": "An arm's horizontal reach and vertical range of motion determine how far the monitor can extend from the mounting point and how much height adjustment is available, and these dimensions matter differently depending on your desk depth and how far back you sit, a shallow desk needs less reach than a deep one, and a standing desk that changes height throughout the day needs a wider vertical range to stay at eye level.\n\nThis matters more for anyone switching between sitting and standing regularly, less for a fixed single seated position.\n\nCheck the arm's listed reach and height range against your actual desk depth and how much your seated or standing eye level varies throughout the day."
+    "bestFor": "57-inch gaming monitors, or a gaming desk where cable management matters.",
+    "summary": "Secretlab's heavy-duty arm rated up to 57 inches and 18 to 35 lb, with magnetic cable management.",
+    "skipIf": "Your panel weighs more than 35 lb; the ARES WING, TitanLift or HX has a higher limit."
   }
 ];
 
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
+export const howWeEvaluated = [
+  {
+    "title": "Load and size ratings",
+    "description": "We compared each arm's rated screen size and weight range as listed."
+  },
+  {
+    "title": "VESA support",
+    "description": "We noted listed VESA patterns and flagged where the listing doesn't state them."
+  },
+  {
+    "title": "Mounting and motion",
+    "description": "We compared clamp and grommet options, lift, tilt and rotation."
+  },
+  {
+    "title": "Warranty and price",
+    "description": "We recorded warranty lengths and compared prices at the time of writing."
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "Use the bare-panel weight",
+    "explanation": "Compare the monitor's weight without its stand, from its spec sheet, against the arm's range. Ranges here run from 7 to 25 lb (Ergotron LX) up to 44 lb (ARES WING, TitanLift)."
+  },
+  {
+    "criterion": "Match the VESA pattern",
+    "explanation": "Many 34-inch ultrawides use 100 x 100mm; some larger screens need 200 x 200mm, which the Ergotron HX supports. Check your monitor and the arm's plate."
+  },
+  {
+    "criterion": "Check both size and weight ratings",
+    "explanation": "A size rating doesn't guarantee capacity. The Secretlab is rated for 57-inch screens but only up to 35 lb."
+  },
+  {
+    "criterion": "Confirm your desk can take the mount",
+    "explanation": "Clamps need a solid edge of suitable thickness, and grommet mounts need a hole. Hollow-core or glass desktops may not suit either; check the arm's desk requirements."
+  }
+];
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "subheading": "By monitor",
     "table": {
       "headers": [
-        "Your priority",
-        "Recommended pick"
+        "Your monitor",
+        "Consider"
       ],
       "rows": [
         [
-          "Highest average rating",
-          "Secretlab Magnus Monitor Arm"
+          "34-inch, under 25 lb",
+          "Ergotron LX (or WALI on a budget)"
         ],
         [
-          "Largest review base, strongest reliability signal",
-          "Ergotron LX Monitor Arm"
+          "49-inch, up to 44 lb",
+          "ARES WING or HUANUO TitanLift"
+        ],
+        [
+          "49-inch, 200 x 200mm VESA",
+          "Ergotron HX"
+        ],
+        [
+          "Up to 57-inch, under 35 lb",
+          "Secretlab Magnus Heavy Duty"
         ]
       ]
     }
   },
   {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Under $30",
-          "WALI Heavy Duty Single Monitor Arm"
-        ],
-        [
-          "Up to $399",
-          "Secretlab Magnus Monitor Arm"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Dual-Monitor Arm vs Single-Monitor Arm",
-    "cards": [
-      {
-        "label": "Dual-monitor arm",
-        "text": "Mounts two monitors from one clamp point, worth checking the combined weight rating. In this comparison: HUANUO TitanLift Heavy Duty Monitor Arm."
-      },
-      {
-        "label": "Single-monitor arm",
-        "text": "Simpler and usually cheaper per monitor, fine for a one-screen setup. In this comparison: WALI Heavy Duty Single Monitor Arm, ARES WING Ultrawide Monitor Desk Arm, Ergotron LX Monitor Arm, Ergotron HX Premium Heavy Duty Monitor Arm, Secretlab Magnus Monitor Arm."
-      }
-    ],
-    "note": "Default to single arms unless you're mounting two monitors from the same desk clamp point."
-  },
-  {
-    "subheading": "By Mounting Method",
+    "subheading": "By desk",
     "table": {
       "headers": [
         "Desk situation",
-        "Recommended pick"
+        "Consider"
       ],
       "rows": [
         [
-          "Standard desk edge, clamp mount",
-          "HUANUO TitanLift Heavy Duty Monitor Arm"
+          "Needs grommet mounting",
+          "WALI or ARES WING"
         ],
         [
-          "Need a grommet hole mount instead",
-          "WALI Heavy Duty Single Monitor Arm"
+          "Solid edge with room for a dual clamp",
+          "HUANUO TitanLift"
         ]
       ]
     }
-  },
-  {
-    "subheading": "For a Standing Desk Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A wide vertical height range to stay at eye level through sit-stand transitions, plus a clamp rated for your desk's edge thickness."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Ergotron LX Monitor Arm is worth checking against its listed height range before buying, given its strong review base."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You have a heavier or ultrawide monitor, where Secretlab Magnus Monitor Arm's weight capacity and gas spring quality give real headroom over the cheaper picks."
-      },
-      {
-        "label": "Save if",
-        "text": "You have a light, standard monitor and just want basic height adjustment, where WALI Heavy Duty Single Monitor Arm covers the same job at a lower price."
-      }
-    ]
   }
 ];
 
-export const faq: FaqItem[] = [
+export const faq = [
   {
-    q: "Can a standard monitor arm hold a 49\" ultrawide?",
-    a: "Usually not safely. A standard 24-27\" monitor arm is typically designed for 8-15 lbs, while 49\" ultrawides commonly weigh 25-35+ lbs, and most standard arms also lack the 200x200mm VESA pattern many 49\" monitors need. Look for an arm specifically rated for ultrawide or super-ultrawide use, like the Ergotron HX or HUANUO TitanLift in this list.",
+    "q": "Can a standard monitor arm hold a 49-inch ultrawide?",
+    "a": "Only if it is rated for the screen's size and bare-panel weight and fits its VESA pattern. Many standard arms are not; the arms here rated for 49 inches include the WALI, ARES WING, TitanLift and Ergotron HX."
   },
   {
-    q: "Why does a curved ultrawide need a sturdier arm than a flat one of the same weight?",
-    a: "A curved panel's shape shifts its center of gravity forward compared to a flat panel of the same weight, which can multiply the effective torque on the arm's tilt pivot by roughly 1.5-2x. That's why an arm can look rated heavy enough on paper and still sag or drift down over time when mounting a curved 1000R or 1800R panel.",
+    "q": "Does a curved ultrawide need a sturdier arm?",
+    "a": "A curved panel's weight can sit further forward than a flat one's, which adds leverage on the arm. Choosing an arm with some margin above your monitor's weight is the cautious approach."
   },
   {
-    q: "Do I need 100x100mm or 200x200mm VESA for my ultrawide?",
-    a: "34\" ultrawides typically only need 100x100mm VESA, while a true 49\" super-ultrawide often needs 200x200mm. Always check your specific monitor's VESA spec and the arm's compatible range before buying, weight rating and VESA compatibility are two separate specs that both need to match.",
+    "q": "100 x 100mm or 200 x 200mm VESA?",
+    "a": "Check your monitor's specifications. Many 34-inch ultrawides use 100 x 100mm; some larger monitors use 200 x 200mm."
   },
   {
-    q: "Which pick in this list is best for a 34\" ultrawide specifically?",
-    a: "The Ergotron LX is built and rated specifically for panels up to 34\", with VESA 75/100mm support and a 10-year warranty, the longest in this list. It's not rated for 49\" super-ultrawides, so buyers with a wider panel should look at the Ergotron HX or HUANUO TitanLift instead.",
+    "q": "Which arm suits a 34-inch ultrawide?",
+    "a": "The Ergotron LX is rated for 34-inch panels from 7 to 25 lb, with a 10-year warranty. The WALI is the lower-cost alternative."
   },
   {
-    q: "Is a C-clamp or grommet mount better for an ultrawide arm?",
-    a: "A C-clamp works on most standard desk edges and is easier to reposition or remove later, while a grommet mount needs an existing or drillable hole but can feel more permanent and stable for a heavier panel. Every arm in this list except the Secretlab Magnus offers both options, so the choice usually comes down to your desk's edge thickness and whether drilling is an option.",
-  },
+    "q": "C-clamp or grommet?",
+    "a": "A clamp needs a solid desk edge and is easy to move; a grommet mount needs a hole but keeps the edge clear. The WALI and ARES WING list both."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-ultrawide-monitor-stand", title: "Best Ultrawide Monitor Stands (2026)" },
-  { href: "/guide/best-ultrawide-monitor-usb-c", title: "Best Ultrawide Monitors with USB-C (2026)" },
-  { href: "/guide/best-monitor-arm-under-100", title: "Best Monitor Arms Under $100 (2026)" },
+export const bottomLine = [
+  "For a 34-inch ultrawide, the Ergotron LX is the long-warranty choice, with the WALI as a low-cost alternative. For a 49-inch super-ultrawide, the ARES WING offers a 44 lb rating for the money, and the TitanLift adds a reinforced design and five-year warranty.",
+  "The Ergotron HX is for heavy 49-inch panels that need 200 x 200mm VESA, and the Secretlab Magnus is the only arm here rated to 57 inches, as long as your monitor is within its 35 lb limit."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-ultrawide-monitor-stand",
+    "title": "Best Ultrawide Monitor Stands (2026)"
+  },
+  {
+    "href": "/guide/best-ultrawide-monitor-usb-c",
+    "title": "Best Ultrawide Monitors with USB-C (2026)"
+  },
+  {
+    "href": "/guide/best-monitor-arm-under-100",
+    "title": "Best Monitor Arms Under $100 (2026)"
+  }
 ];

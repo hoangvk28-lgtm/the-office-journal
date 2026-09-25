@@ -1,484 +1,407 @@
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+
 export const guideSlug = "best-chair-mats-for-carpet";
-export const guideTitle = "8 Best Chair Mats for Carpet in 2026 (Commercial-Grade Picks)";
-export const metaTitle = "Best Chair Mats for Carpet in 2026 (Commercial & Extra-High Pile)";
-export const metaDescription =
-  "8 best chair mats for carpet in 2026, including commercial-grade and extra-high-pile-rated picks, compared by pile height, capacity, and warranty.";
+
+export const guideTitle = "The Best Chair Mats for Carpet, Including Medium and Extra-High Pile";
+
+export const breadcrumbLabel = "Best Chair Mats for Carpet";
+
+export const metaTitle = "Best Chair Mats for Carpet: Low, Medium and High Pile (2026)";
+
+export const metaDescription = "Most carpet chair mats only cover low pile. We compared eight vinyl, polycarbonate, glass and woven mats, including options rated for medium and extra-high pile.";
+
 export const mainKeyword = "chair mats for carpet";
+
 export const introParagraphs = [
-  "Most chair mats sold for carpet only cover low pile, under 1/4 inch, which leaves a real gap for anyone with medium, high, or extra-high pile carpet (the kind with thick padding underneath). This guide leans into that gap with commercial-grade picks built for offices with heavier daily use, plus the one mat in this lineup actually rated for extra-high pile.",
-  "Below are 8 chair mats for carpet we evaluated on pile-height rating, cleat and stud design, and long-term durability, ranging from a $28 clear PVC mat to commercial-grade vinyl mats built for medium and extra-high pile carpet.",
+  "Most chair mats sold for carpet are rated only for low pile, under about 1/4 inch. That leaves few options if your carpet is thicker or sits on heavy padding, where a thin flexible mat is more likely to sink and crack.",
+  "This guide covers the range: low-pile vinyl, a polycarbonate mat for medium pile, two commercial-grade ES Robbins mats (one rated for extra-high pile over 1 inch), two tempered glass mats and a woven rug-style mat. Rigid glass and composite mats sit on top of the pile rather than relying on a pile rating, though their listings don't give one.",
+  "Our comparison is based on published specifications, pile ratings, certifications and warranties, not hands-on testing."
 ];
+
 export const lastUpdated = "2026-07-18";
+
 export const readTime = "9 min";
+
 export const heroImage = "https://m.media-amazon.com/images/I/310m+F+gY5L._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string;
-  rank: number;
-  badge: string;
-  name: string;
-  price: string;
-  rating: string;
-  reviews: string;
-  imageUrl: string;
-  amazonUrl: string;
-  description: string;
-  specs: string[];
-  pros: string[];
-  cons: string[];
-  bestFor: string;
-}
-
-export interface BuyingCriterion {
-  criterion: string;
-  explanation: string;
-}
-
-export interface FaqItem {
-  q: string;
-  a: string;
-}
 
 export const products: GuideProduct[] = [
   {
-    id: "hon-office-chair-mat-low-pile-lip",
-    rank: 1,
-    badge: "Most-Reviewed + Longest Warranty",
-    name: "HON Office Chair Mat for Low Pile Carpet with Lip",
-    price: "$44.99",
-    rating: "4.0",
-    reviews: "54,421",
-    imageUrl: "https://m.media-amazon.com/images/I/310m+F+gY5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01N99XMM2?tag=theofficejournal-20",
-    description:
-      "HON's PU vinyl mat runs 2.2mm thick in a 36x48 footprint with an extended lip, ramped edges, and anchor bars underneath built to grip low pile carpet up to 1/4 inch. The anti-skid top surface adds an extra layer of stability once the chair is rolling across it.\n\nA 5-year warranty backs this pick, the longest of any mat in this guide, which matters given how much daily rolling pressure a carpet chair mat absorbs over years of use.\n\nAnti-skid top surface. That's a real strength, but weigh it against the flip side: only rated for low pile carpet.",
-    specs: [
-      "36\"W x 48\"D, PU vinyl, 2.2mm thick",
-      "Extended lip, ramped edges",
-      "Anchor bars underside",
-      "Rated for low pile carpet up to 1/4\"",
-      "5-year warranty",
+    "id": "hon-office-chair-mat-low-pile-lip",
+    "rank": 1,
+    "badge": "Best for Low Pile",
+    "name": "HON Office Chair Mat for Low Pile Carpet with Lip",
+    "price": "$44.99",
+    "rating": "4.0",
+    "reviews": "54,421",
+    "imageUrl": "https://m.media-amazon.com/images/I/310m+F+gY5L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B01N99XMM2?tag=theofficejournal-20",
+    "description": "The HON mat is the sensible choice for standard low-pile carpet: its anchor bars grip pile up to 1/4 inch, its ramped edges and extended lip let the chair roll on smoothly, and it has a five-year warranty.\n\nIt is 2.2mm PU vinyl, 36 x 48 inches, with an anti-skid top, and it has an extensive base of buyer feedback.\n\nIt is rated for low pile only, and the ES Robbins mats offer lifetime warranties at higher prices.",
+    "specs": [
+      "Size: 36 x 48\" + lip",
+      "Material: PU vinyl, 2.2mm",
+      "Grip: anchor bars",
+      "Pile rating: low, up to 1/4\"",
+      "Warranty: 5 years"
     ],
-    pros: [
-      "Longest warranty in this guide",
-      "Anti-skid top surface",
-      "Ramped lip smooths the transition onto carpet",
-      "Extremely large review base",
+    "pros": [
+      "Low price for a five-year warranty",
+      "Ramped edges and lip",
+      "Extensive buyer feedback"
     ],
-    cons: [
-      "Only rated for low pile carpet",
-      "Not the thickest mat in this guide",
-      "No commercial-grade sizing option",
+    "cons": [
+      "Low pile only",
+      "Thinner than the ES Robbins mats",
+      "Ships rolled"
     ],
-    bestFor: "Low pile carpet where warranty length and proven track record matter most",
+    "bestFor": "Low-pile office or home carpet.",
+    "summary": "A 2.2mm PU vinyl mat with anchor bars, ramped edges, a lip and a five-year warranty.",
+    "skipIf": "Your carpet is thicker than 1/4 inch; the GORILLA GRIP or ES Robbins mats are rated higher."
   },
   {
-    id: "muarts-crystal-clear-heavy-duty",
-    rank: 2,
-    badge: "Highest Capacity Dual-Use",
-    name: "MuArts Crystal Clear Heavy Duty Chair Mat 5mm",
-    price: "$59.99",
-    rating: "4.4",
-    reviews: "19,765",
-    imageUrl: "https://m.media-amazon.com/images/I/51umupvRX3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=theofficejournal-20",
-    description:
-      "This mat uses a rigid special material 5mm thick in a 54x32 footprint, and it's rated for 1,400 lbs, the highest capacity in this guide. Its rigidity keeps it flat rather than curling or sinking into carpet, an advantage over flexible vinyl mats on anything past the flattest pile.\n\nIt's dual-use on carpet or hard floor, so it holds its value if you relocate the setup later, and it's backed by a 12-month warranty.\n\nWorth calling out specifically: rigid construction resists sinking into carpet. The catch is shorter warranty than the HON pick.",
-    specs: [
-      "54\"W x 32\"D, special rigid material, 5mm thick",
-      "Rated 1,400 lbs, highest in this guide",
-      "Rigid, flat, dual-use on carpet or hard floor",
-      "12-month warranty",
+    "id": "muarts-crystal-clear-heavy-duty",
+    "rank": 2,
+    "badge": "Best Rigid Mat for Heavy Loads",
+    "name": "MuArts Crystal Clear Heavy Duty Chair Mat 5mm",
+    "price": "$59.99",
+    "rating": "4.4",
+    "reviews": "19,765",
+    "imageUrl": "https://m.media-amazon.com/images/I/51umupvRX3L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSKKMDSP?tag=theofficejournal-20",
+    "description": "The MuArts is the rigid option for heavy chairs: its 5mm sheet is rated for 1,400 lb, the highest here, and stays flat instead of flexing into the pile.\n\nIt measures 54 x 32 inches, works on carpet or hard floor and has a 12-month warranty.\n\nThe listing doesn't give a pile rating, so check it suits your carpet. It has no lip, is only 32 inches deep and is heavier to move than vinyl.",
+    "specs": [
+      "Size: 54 x 32\"",
+      "Material: rigid sheet, 5mm",
+      "Capacity: 1,400 lb",
+      "Floors: carpet or hard floor",
+      "Warranty: 12 months"
     ],
-    pros: [
-      "Highest weight capacity in this guide",
-      "Rigid construction resists sinking into carpet",
-      "Works on carpet or hard floor",
-      "Strong 4.4-star rating",
+    "pros": [
+      "Highest load rating here",
+      "Rigid, doesn't flex into pile",
+      "Dual-use"
     ],
-    cons: [
-      "Shorter warranty than the HON pick",
-      "Heavier to reposition than flexible vinyl",
-      "Not explicitly rated by pile height like the vinyl picks",
+    "cons": [
+      "No pile rating listed",
+      "Shallow 32-inch depth",
+      "Short warranty"
     ],
-    bestFor: "Buyers who need the highest rated weight capacity in this guide",
+    "bestFor": "Heavy chairs, or a setup that may move to a hard floor.",
+    "summary": "A rigid 5mm, 54 x 32-inch mat rated for 1,400 lb, for carpet or hard floor.",
+    "skipIf": "You want a stated pile rating; the ES Robbins mats list theirs."
   },
   {
-    id: "gorilla-grip-slip-resistant-polycarbonate",
-    rank: 3,
-    badge: "Ships-Flat Polycarbonate",
-    name: "GORILLA GRIP Slip Resistant Polycarbonate Chair Mat",
-    price: "$61.49",
-    rating: "4.2",
-    reviews: "1,956",
-    imageUrl: "https://m.media-amazon.com/images/I/51TD21JdBYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNPBMMKN?tag=theofficejournal-20",
-    description:
-      "This 100% polycarbonate mat is 0.087 inches thick in a 36x48 footprint with hundreds of spikes across the underside for carpet grip. Unlike the rolled vinyl mats in this guide, it ships flat, so there's no waiting period before it lies fully flat.\n\nIt's rated for medium or low pile carpet up to 3/4 inch, a notably wider range than the entry-level PVC picks here, making it a solid middle-tier option between basic low-pile mats and the extra-high-pile pick further down this list.\n\nRated for a wider pile range than PVC picks. Set against that, no front lip. Both matter when comparing it to the other picks here.",
-    specs: [
-      "36\"W x 48\"D, polycarbonate, 0.087\" thick",
-      "Hundreds of underside spikes",
-      "Ships flat, no settling wait",
-      "Rated for medium or low pile up to 3/4\"",
+    "id": "gorilla-grip-slip-resistant-polycarbonate",
+    "rank": 3,
+    "badge": "Best for Medium Pile Under $100",
+    "name": "GORILLA GRIP Slip Resistant Polycarbonate Chair Mat",
+    "price": "$61.49",
+    "rating": "4.2",
+    "reviews": "1,956",
+    "imageUrl": "https://m.media-amazon.com/images/I/51TD21JdBYL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNPBMMKN?tag=theofficejournal-20",
+    "description": "The GORILLA GRIP is the lower-cost route to medium pile: it is rated for medium or low pile up to 3/4 inch, and ships flat rather than rolled.\n\nIt is 0.087-inch polycarbonate, 36 x 48 inches, with hundreds of spikes on the underside.\n\nIt has no lip and isn't rated for high or extra-high pile.",
+    "specs": [
+      "Size: 36 x 48\"",
+      "Material: polycarbonate, 0.087\"",
+      "Grip: underside spikes",
+      "Pile rating: up to 3/4\"",
+      "Ships flat"
     ],
-    pros: [
-      "Ships flat, no relax time needed",
-      "Rated for a wider pile range than PVC picks",
-      "Polycarbonate resists impact better than PVC",
-      "Strong grip from hundreds of spikes",
+    "pros": [
+      "Medium-pile rating at a moderate price",
+      "Ships flat",
+      "Spiked underside"
     ],
-    cons: [
-      "No front lip",
-      "Not rated for extra-high pile",
-      "Smaller review sample than the top picks",
+    "cons": [
+      "No lip",
+      "Not for high pile",
+      "Warranty not stated in the listing summary"
     ],
-    bestFor: "Medium pile carpet where a flat-shipped mat is preferred over a rolled one",
+    "bestFor": "Medium-pile carpet at a standard desk.",
+    "summary": "A flat-shipped polycarbonate mat with spikes, rated for pile up to 3/4 inch.",
+    "skipIf": "You need a large area or lifetime warranty; the ES Robbins EverLife covers both."
   },
   {
-    id: "es-robbins-everlife-medium-pile",
-    rank: 4,
-    badge: "Largest Vinyl Mat + Lifetime Warranty",
-    name: "ES Robbins EverLife Chair Mat Medium Pile",
-    price: "$161.98",
-    rating: "3.8",
-    reviews: "1,234",
-    imageUrl: "https://m.media-amazon.com/images/I/514JrwWuWeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00620W1U4?tag=theofficejournal-20",
-    description:
-      "ES Robbins builds this vinyl mat 0.13 inches thick in a 60x72 footprint, the largest single mat in this guide by a wide margin, rated for medium pile carpet up to 3/4 inch. AnchorBar cleats on the underside are designed to be safe underfoot rather than sharp spikes, a meaningful detail on a mat this large that may see bare feet nearby.\n\nIt's Made in USA, GREENGUARD certified, and backed by a lifetime 'No Crack' warranty, commercial-grade backing that reflects its higher price and larger commercial-office-style footprint.\n\nA genuine advantage here is that lifetime 'No Crack' warranty. The tradeoff is most expensive pick in this guide.",
-    specs: [
-      "60\"W x 72\"D, vinyl, 0.13\" thick",
-      "AnchorBar cleats (safe underfoot design)",
-      "Rated for medium pile carpet up to 3/4\"",
-      "Made in USA, GREENGUARD certified",
-      "Lifetime 'No Crack' warranty",
+    "id": "es-robbins-everlife-medium-pile",
+    "rank": 4,
+    "badge": "Best Large Commercial Mat",
+    "name": "ES Robbins EverLife Chair Mat Medium Pile",
+    "price": "$161.98",
+    "rating": "3.8",
+    "reviews": "1,234",
+    "imageUrl": "https://m.media-amazon.com/images/I/514JrwWuWeL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B00620W1U4?tag=theofficejournal-20",
+    "description": "The ES Robbins EverLife covers the largest area here by far: 60 x 72 inches, enough for an L-shaped desk or a lot of rolling. It is rated for medium pile up to 3/4 inch.\n\nIt is 0.13-inch vinyl with rounded AnchorBar cleats rather than sharp spikes, made in the USA, GREENGUARD certified and covered by a lifetime 'No Crack' warranty.\n\nIt was the most expensive mat here with a listed price at the time of writing, and buyer feedback is less positive than for most mats here, which is worth reading before you buy.",
+    "specs": [
+      "Size: 60 x 72\"",
+      "Material: vinyl, 0.13\"",
+      "Grip: AnchorBar cleats",
+      "Pile rating: medium, up to 3/4\"",
+      "GREENGUARD certified; Made in USA",
+      "Warranty: lifetime 'No Crack'"
     ],
-    pros: [
-      "Largest single mat footprint in this guide",
-      "Lifetime 'No Crack' warranty",
-      "GREENGUARD certified and Made in USA",
-      "Safe, rounded cleats rather than sharp spikes",
+    "pros": [
+      "Largest mat here",
+      "Lifetime warranty",
+      "GREENGUARD certified"
     ],
-    cons: [
-      "Most expensive pick in this guide",
-      "Lowest star rating in this guide at 3.8",
-      "Large footprint needs a genuinely spacious desk area",
+    "cons": [
+      "Most expensive listed price here",
+      "Less positive buyer feedback",
+      "Needs a large space"
     ],
-    bestFor: "Large commercial-style desk setups on medium pile carpet needing a lifetime warranty",
+    "bestFor": "Large or L-shaped desks on medium-pile carpet.",
+    "summary": "A 60 x 72-inch vinyl mat for medium pile, GREENGUARD certified, with a lifetime 'No Crack' warranty.",
+    "skipIf": "You only need a standard 36 x 48-inch area; the GORILLA GRIP covers medium pile for less."
   },
   {
-    id: "es-robbins-extra-high-pile-lip",
-    rank: 5,
-    badge: "Only Extra-High-Pile-Rated Pick",
-    name: "ES Robbins Extra High Pile Chair Mat with Lip",
-    price: "$88.42",
-    rating: "3.7",
-    reviews: "922",
-    imageUrl: "https://m.media-amazon.com/images/I/61Tqz6OiuCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B009LEIQXY?tag=theofficejournal-20",
-    description:
-      "This ES Robbins mat is 0.2 inches thick in a 36x48 footprint and is rated for extra-high pile carpet over 1 inch, including padding, the only pick in this entire guide rated for that pile category. Most competing mats top out at low or medium pile, leaving thick, plush, or padded carpet setups with almost no dedicated option, which this mat directly addresses.\n\nAnchorBar cleats keep it safe underfoot, and it's GREENGUARD Gold certified, phthalate and cadmium free, and Made in USA, with a lifetime warranty backing it.\n\nGREENGUARD Gold certified. On the other hand, lowest reviews-to-price ratio in this guide. Neither should be a surprise once you know to look for it.",
-    specs: [
-      "36\"W x 48\"D, vinyl, 0.2\" thick",
-      "Rated for extra-high pile over 1\" (including padding)",
-      "AnchorBar cleats",
-      "GREENGUARD Gold certified, phthalate and cadmium free",
-      "Made in USA, lifetime warranty",
+    "id": "es-robbins-extra-high-pile-lip",
+    "rank": 5,
+    "badge": "Best for Extra-High Pile",
+    "name": "ES Robbins Extra High Pile Chair Mat with Lip",
+    "price": "$88.42",
+    "rating": "3.7",
+    "reviews": "922",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Tqz6OiuCL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B009LEIQXY?tag=theofficejournal-20",
+    "description": "The ES Robbins Extra High Pile mat is the one to choose for thick or heavily padded carpet: it is the only mat here rated for pile over 1 inch, including padding.\n\nIt is 0.2-inch vinyl, 36 x 48 inches with a lip, with AnchorBar cleats. It is GREENGUARD Gold certified, listed as phthalate- and cadmium-free, made in the USA and covered by a lifetime warranty.\n\nBuyer feedback is the least positive here, so read recent reviews, and at 36 x 48 inches it covers a standard area only.",
+    "specs": [
+      "Size: 36 x 48\" + lip",
+      "Material: vinyl, 0.2\"",
+      "Pile rating: extra-high, over 1\" incl. padding",
+      "Grip: AnchorBar cleats",
+      "GREENGUARD Gold; Made in USA",
+      "Warranty: lifetime"
     ],
-    pros: [
-      "Only pick in this guide rated for extra-high pile carpet",
-      "GREENGUARD Gold certified",
-      "Made in USA with a lifetime warranty",
-      "Safe AnchorBar cleats, not sharp spikes",
+    "pros": [
+      "Only extra-high-pile rating here",
+      "Lifetime warranty",
+      "GREENGUARD Gold certified"
     ],
-    cons: [
-      "Lowest reviews-to-price ratio in this guide",
-      "3.7-star rating is the lowest here",
-      "Smaller footprint than the ES Robbins EverLife pick",
+    "cons": [
+      "Least positive buyer feedback here",
+      "Standard 36 x 48-inch size",
+      "Costs more than low-pile mats"
     ],
-    bestFor: "Extra-high pile or heavily padded carpet with no other mat in this guide rated to fit",
+    "bestFor": "Plush or thickly padded carpet.",
+    "summary": "The only mat here rated for extra-high pile over 1 inch including padding, with a lifetime warranty.",
+    "skipIf": "Your carpet is low pile; the HON costs about half as much."
   },
   {
-    id: "lorell-tempered-glass-chairmat",
-    rank: 6,
-    badge: "Most-Reviewed + Highest-Rated Glass",
-    name: "Lorell Tempered Glass Chairmat",
-    price: "Check current price",
-    rating: "4.8",
-    reviews: "10,717",
-    imageUrl: "https://m.media-amazon.com/images/I/21V7PYvl22L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07K95V7X2?tag=theofficejournal-20",
-    description:
-      "Lorell's tempered glass mat is 6mm thick in a 46x36 footprint, rated for 1,000 lbs and for any floor type, including carpet, hard floor, or marble. Glass sidesteps the whole pile-height question entirely since it sits rigid on top of any carpet without sinking in, and it's scratch-resistant and backed by a 5-year warranty.\n\nAvailability on this specific listing can be limited at times, so confirm current stock and price before buying rather than relying on a fixed number. It's the most-reviewed and highest-rated pick in this guide by a wide margin.\n\nWorks on any carpet pile height without a rating ceiling. That's a real strength, but weigh it against the flip side: listing availability can be limited, confirm price before buying.",
-    specs: [
-      "46\"W x 36\"D, tempered glass, 6mm thick",
-      "Rated 1,000 lbs",
-      "Rated for any floor type",
-      "Scratch-resistant, 5-year warranty",
+    "id": "lorell-tempered-glass-chairmat",
+    "rank": 6,
+    "badge": "Best Glass Mat",
+    "name": "Lorell Tempered Glass Chairmat",
+    "price": "Check current price",
+    "rating": "4.8",
+    "reviews": "10,717",
+    "imageUrl": "https://m.media-amazon.com/images/I/21V7PYvl22L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07K95V7X2?tag=theofficejournal-20",
+    "description": "The Lorell is the glass mat with the strongest buyer feedback here: 6mm tempered glass, 46 x 36 inches, rated for 1,000 lb and, according to Lorell, for any floor type including carpet.\n\nGlass sits rigidly on top of the pile rather than depending on cleats, is scratch-resistant and easy to clean, and has a five-year warranty.\n\nAvailability and price on this listing vary, so check the current price. Glass is heavy to move, and 36 inches of depth is modest.",
+    "specs": [
+      "Size: 46 x 36\"",
+      "Material: tempered glass, 6mm",
+      "Capacity: 1,000 lb",
+      "Floors: any (per manufacturer)",
+      "Warranty: 5 years"
     ],
-    pros: [
-      "Most-reviewed and highest-rated pick in this guide",
-      "Works on any carpet pile height without a rating ceiling",
-      "5-year warranty and scratch-resistant surface",
-      "Easy to clean",
+    "pros": [
+      "Strong buyer feedback",
+      "Scratch-resistant glass",
+      "Five-year warranty"
     ],
-    cons: [
-      "Listing availability can be limited, confirm price before buying",
-      "Heaviest material in this guide to reposition",
-      "Smaller footprint than the largest vinyl picks",
+    "cons": [
+      "Availability and price vary",
+      "Heavy to move",
+      "Modest 36-inch depth"
     ],
-    bestFor: "Buyers who want a rigid mat unaffected by carpet pile height at all",
+    "bestFor": "A long-term rigid mat on carpet of uncertain pile height.",
+    "summary": "A 6mm tempered glass mat rated for 1,000 lb and any floor type, with a five-year warranty.",
+    "skipIf": "The listing is unavailable or expensive when you shop; the GLSLAND is the alternative."
   },
   {
-    id: "glsland-tempered-glass-chair-mat",
-    rank: 7,
-    badge: "Cheapest Tempered Glass",
-    name: "GLSLAND Tempered Glass Chair Mat",
-    price: "$60.99",
-    rating: "4.6",
-    reviews: "2,486",
-    imageUrl: "https://m.media-amazon.com/images/I/51Dfg8DnF5S._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08PD3ZHJT?tag=theofficejournal-20",
-    description:
-      "GLSLAND's tempered glass mat is 5mm thick in a 36x46 footprint, rated for 1,200 lbs, with 4 anti-slip pads underneath. Like the Lorell pick, glass avoids the pile-height rating question entirely since it stays rigid on top of the carpet rather than needing cleats to dig in. It's BPA-free, phthalate-free, and odorless, and it's dual-use on carpet or hard floor. It's the cheapest tempered glass pick in this guide, a solid entry point into the glass category. Worth calling out specifically: rigid, unaffected by carpet pile height. The catch is smaller footprint than the Lorell glass pick.",
-    specs: [
-      "36\"W x 46\"D, tempered glass, 5mm thick",
-      "Rated 1,200 lbs",
-      "4 anti-slip pads",
-      "BPA-free, phthalate-free, odorless",
-      "Dual-use on carpet or hard floor",
+    "id": "glsland-tempered-glass-chair-mat",
+    "rank": 7,
+    "badge": "Best Value Glass Mat",
+    "name": "GLSLAND Tempered Glass Chair Mat",
+    "price": "$60.99",
+    "rating": "4.6",
+    "reviews": "2,486",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Dfg8DnF5S._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08PD3ZHJT?tag=theofficejournal-20",
+    "description": "The GLSLAND is the lower-cost glass option: 5mm tempered glass, 36 x 46 inches, rated for 1,200 lb, with four anti-slip pads and use on carpet or hard floor.\n\nIt is listed as BPA-free, phthalate-free and odorless.\n\nIts pads grip more lightly than cleats, and it's slightly smaller than the Lorell.",
+    "specs": [
+      "Size: 36 x 46\"",
+      "Material: tempered glass, 5mm",
+      "Capacity: 1,200 lb",
+      "Pads: 4 anti-slip",
+      "Floors: carpet or hard floor"
     ],
-    pros: [
-      "Cheapest tempered glass pick in this guide",
-      "Rigid, unaffected by carpet pile height",
-      "Dual-use on carpet or hard floor",
-      "Strong 4.6-star rating",
+    "pros": [
+      "Lower-cost glass",
+      "1,200 lb rating",
+      "Dual-use"
     ],
-    cons: [
-      "Smaller footprint than the Lorell glass pick",
-      "Anti-slip pads offer lighter grip than full cleats",
-      "Heavier to move than vinyl mats",
+    "cons": [
+      "Pads, not cleats",
+      "Smaller than the Lorell",
+      "Heavy to move"
     ],
-    bestFor: "Buyers who want glass's pile-independent durability at the lowest glass price",
+    "bestFor": "A glass mat on a moderate budget.",
+    "summary": "A 5mm tempered glass mat rated for 1,200 lb, with four anti-slip pads.",
+    "skipIf": "You want a longer stated warranty; the Lorell lists five years."
   },
   {
-    id: "anji-mountain-rugd-jacquard",
-    rank: 8,
-    badge: "Most Stylish Woven Design",
-    name: "Anji Mountain Rug'd Jacquard Office Chair Mat",
-    price: "$92.99",
-    rating: "4.7",
-    reviews: "902",
-    imageUrl: "https://m.media-amazon.com/images/I/514z0haVzTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09RN8H3QD?tag=theofficejournal-20",
-    description:
-      "The Anji Mountain mat is jacquard-woven polyester over a PVC core, 0.25 inches thick in a 36x48 footprint, and it's the only pick in this entire guide that looks like a decorative rug rather than a plastic mat. Felt backing plus rubberized non-slip dots hold it in place, and it's hand-crafted rather than mass-molded like the vinyl and polycarbonate picks here.\n\nIt's water-resistant and stain-resistant, and it's rated for low pile carpet or hard surfaces. If blending the mat into the room's decor matters as much as function, this is the only pick in this guide built with that in mind.\n\nWater-resistant and stain-resistant. Set against that, only rated for low pile, not medium or high. Both matter when comparing it to the other picks here.",
-    specs: [
-      "36\"W x 48\"D, jacquard-woven polyester + PVC core, 0.25\" thick",
-      "Felt backing + rubberized non-slip dots",
-      "Water-resistant, stain-resistant",
-      "Rated for low pile carpet or hard surfaces",
-      "Hand-crafted",
+    "id": "anji-mountain-rugd-jacquard",
+    "rank": 8,
+    "badge": "Best Rug-Style Mat",
+    "name": "Anji Mountain Rug'd Jacquard Office Chair Mat",
+    "price": "$92.99",
+    "rating": "4.7",
+    "reviews": "902",
+    "imageUrl": "https://m.media-amazon.com/images/I/514z0haVzTL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09RN8H3QD?tag=theofficejournal-20",
+    "description": "The Anji Mountain Rug'd is the mat for a room where a plastic sheet would look out of place: it is jacquard-woven polyester over a PVC core, and looks like a rug.\n\nIt is 0.25 inches thick, 36 x 48 inches, with felt backing and rubberized non-slip dots, and it is water- and stain-resistant. Anji Mountain describes it as hand-crafted.\n\nIt is rated for low pile or hard surfaces only, and a woven surface may not roll as freely as smooth vinyl.",
+    "specs": [
+      "Size: 36 x 48\"",
+      "Construction: jacquard polyester over PVC core, 0.25\"",
+      "Backing: felt + rubberized dots",
+      "Water- and stain-resistant",
+      "Floors: low pile or hard surfaces"
     ],
-    pros: [
-      "Only decorative, rug-style pick in this guide",
-      "Water-resistant and stain-resistant",
-      "Strong 4.7-star rating",
-      "Works on low pile carpet or hard surfaces",
+    "pros": [
+      "Rug-like appearance",
+      "Water- and stain-resistant",
+      "Works on low pile or hard floors"
     ],
-    cons: [
-      "Only rated for low pile, not medium or high",
-      "Woven texture may not grip as firmly as cleated vinyl",
-      "Smaller review sample than the top vinyl picks",
+    "cons": [
+      "Low pile only",
+      "Woven surface may roll less freely",
+      "Costs more than basic vinyl"
     ],
-    bestFor: "Buyers who want a chair mat that doubles as a decorative rug",
-  },
-];
-
-export interface HowWeEvaluatedItem {
-  title: string;
-  description: string;
-}
-
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  {
-    title: "Pile height coverage",
-    description: "Prioritized picks that fill the gap most competitor lists ignore, medium, high, and especially extra-high pile carpet, alongside the standard low-pile options.",
-  },
-  {
-    title: "Commercial-grade durability",
-    description: "Weighed Made-in-USA sourcing, GREENGUARD certification, and lifetime or multi-year warranties as signals of long-term durability under daily commercial-style use.",
-  },
-  {
-    title: "Underside grip design",
-    description: "Compared cleats, AnchorBar systems, spikes, and anti-slip pads on how well each anchors into carpet fibers of varying thickness.",
-  },
-  {
-    title: "Material category fit",
-    description: "Considered vinyl, polycarbonate, and tempered glass separately, since glass sidesteps the pile-height rating question entirely by staying rigid on top of any carpet.",
-  },
-  {
-    title: "Value for price",
-    description: "Weighed footprint size, pile rating, and warranty against price, since this guide spans a basic mat up to a commercial-grade 60x72 mat.",
-  },
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
-  {
-    "criterion": "Match actual size and capacity to your real need, not the category label alone",
-    "explanation": "Listings for a chair mat often use a size or capacity label (\"compact,\" \"large,\" \"heavy-duty\") that isn't standardized across brands, so the same label can mean meaningfully different actual dimensions or capacity from one product to the next.\n\nThis matters because buying based on the category label rather than the specific listed dimensions or capacity is a common way to end up with something that doesn't actually fit your space or handle your real load.\n\nCheck the listing for exact measurements or a stated capacity figure, and compare that directly against your actual space or need, not just the marketing size category."
-  },
-  {
-    "criterion": "Verify build material and construction quality from reviews, not just spec-sheet claims",
-    "explanation": "A product description can describe material or construction in flattering terms that don't always hold up under real, sustained use, and the gap between a listing's claimed quality and its actual durability only shows up in how the product performs after weeks or months of real use, not in day-one photos.\n\nThis matters more for anything you'll use daily or under real load, less for occasional light use where durability matters less.\n\nCheck reviews specifically for mentions of how the chair mat holds up over time, not just unboxing-day impressions, and treat a listing's own quality claims as a starting point to verify, not a guarantee."
-  },
-  {
-    "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this chair mat over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
-  },
-  {
-    "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any chair mat you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
-  },
-  {
-    "criterion": "Check compatibility and fit with your existing setup before ordering",
-    "explanation": "A chair mat that looks like a straightforward fit in photos can still have a compatibility detail, a connector type, a mounting requirement, a size threshold, that doesn't match your existing setup, and this kind of mismatch is one of the most common and avoidable reasons for a return.\n\nThis matters directly if the product needs to physically connect to, mount on, or otherwise integrate with something you already own.\n\nCheck the listing's specific compatibility details against your exact existing setup, not just the general product category, before ordering."
+    "bestFor": "Living rooms and bedrooms where the mat is on display.",
+    "summary": "A jacquard-woven polyester mat over a PVC core that looks like a rug, for low pile or hard floors.",
+    "skipIf": "Your carpet is medium pile or thicker; the GORILLA GRIP or ES Robbins mats are rated for it."
   }
 ];
 
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
+export const howWeEvaluated = [
+  {
+    "title": "Pile rating",
+    "description": "We grouped mats by stated pile rating and noted where none is given."
+  },
+  {
+    "title": "Material and grip",
+    "description": "We compared vinyl, polycarbonate, glass and woven construction and underside grip."
+  },
+  {
+    "title": "Size and load",
+    "description": "We compared dimensions and stated load ratings."
+  },
+  {
+    "title": "Warranty, certification and price",
+    "description": "We noted warranties and certifications and compared prices at the time of writing."
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "Match the pile rating",
+    "explanation": "Low pile (up to about 1/4 inch): HON, Anji Mountain. Medium (up to 3/4 inch): GORILLA GRIP, ES Robbins EverLife. Extra-high (over 1 inch including padding): ES Robbins Extra High Pile."
+  },
+  {
+    "criterion": "Consider rigid mats for uncertain pile",
+    "explanation": "Glass and the MuArts rigid sheet sit on top of the carpet. Only the Lorell lists 'any floor type'; the others don't give a pile rating."
+  },
+  {
+    "criterion": "Size for your desk",
+    "explanation": "Most mats here are about 36 x 48 inches; the ES Robbins EverLife is 60 x 72 for large or L-shaped setups."
+  },
+  {
+    "criterion": "Check warranty and certification",
+    "explanation": "The ES Robbins mats carry lifetime warranties and GREENGUARD certification; HON and Lorell list five years."
+  }
+];
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "subheading": "By carpet",
     "table": {
       "headers": [
-        "Your priority",
-        "Recommended pick"
+        "Carpet",
+        "Consider"
       ],
       "rows": [
         [
-          "Highest average rating",
-          "Lorell Tempered Glass Chairmat"
+          "Low pile",
+          "HON (or Anji Mountain for a rug look)"
         ],
         [
-          "Largest review base, strongest reliability signal",
-          "HON Office Chair Mat for Low Pile Carpet with Lip"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Under $45",
-          "HON Office Chair Mat for Low Pile Carpet with Lip"
+          "Medium pile, standard area",
+          "GORILLA GRIP"
         ],
         [
-          "Up to $NaN",
-          "Lorell Tempered Glass Chairmat"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "HON Office Chair Mat for Low Pile Carpet with Lip vs Lorell Tempered Glass Chairmat",
-    "cards": [
-      {
-        "label": "HON Office Chair Mat for Low Pile Carpet with Lip",
-        "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
-      },
-      {
-        "label": "Lorell Tempered Glass Chairmat",
-        "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
-      }
-    ],
-    "note": "Default to HON Office Chair Mat for Low Pile Carpet with Lip unless your specific need genuinely calls for the pricier pick's extra headroom."
-  },
-  {
-    "subheading": "By Review Base Confidence",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
+          "Medium pile, large area",
+          "ES Robbins EverLife 60 x 72"
+        ],
         [
-          "Largest, most-established review base",
-          "HON Office Chair Mat for Low Pile Carpet with Lip"
+          "Extra-high or padded",
+          "ES Robbins Extra High Pile"
+        ],
+        [
+          "Uncertain pile, want rigid",
+          "Lorell or GLSLAND glass"
+        ],
+        [
+          "Heavy chair",
+          "MuArts"
         ]
       ]
     }
-  },
-  {
-    "subheading": "For a First-Time Buyer Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
-      },
-      {
-        "label": "In this comparison",
-        "text": "HON Office Chair Mat for Low Pile Carpet with Lip is worth checking against its listed specs before buying, given its strong review base."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need real durability and feature depth for regular use, where Lorell Tempered Glass Chairmat's build gives real headroom over the cheaper picks."
-      },
-      {
-        "label": "Save if",
-        "text": "You only need this for light or occasional use, where HON Office Chair Mat for Low Pile Carpet with Lip covers the same job at a lower price."
-      }
-    ]
   }
 ];
 
-export const faq: FaqItem[] = [
+export const faq = [
   {
-    q: "Is there a chair mat rated for extra-high pile or padded carpet?",
-    a: "Yes, the ES Robbins Extra High Pile Chair Mat with Lip is the only pick in this guide rated for extra-high pile carpet over 1 inch, including padding. Most other chair mats, including the other picks here, only cover low to medium pile.",
+    "q": "Is there a mat for extra-high pile carpet?",
+    "a": "Yes. The ES Robbins Extra High Pile mat is rated for pile over 1 inch, including padding, the only one here."
   },
   {
-    q: "What's the difference between the 2 ES Robbins mats in this guide?",
-    a: "The ES Robbins EverLife is rated for medium pile carpet up to 3/4 inch in a large 60x72 commercial footprint with a lifetime 'No Crack' warranty. The ES Robbins Extra High Pile pick is smaller at 36x48 but is the only mat in this guide rated for extra-high pile carpet over 1 inch.",
+    "q": "What's the difference between the two ES Robbins mats?",
+    "a": "The EverLife is 60 x 72 inches and rated for medium pile up to 3/4 inch. The Extra High Pile mat is 36 x 48 inches and rated for pile over 1 inch."
   },
   {
-    q: "Do tempered glass mats need a pile-height rating?",
-    a: "Not in the same way vinyl or polycarbonate mats do. Because glass stays rigid and doesn't sink into carpet, picks like the Lorell and GLSLAND tempered glass mats in this guide work across a range of pile heights without a specific ceiling, though they come at a higher price and heavier weight.",
+    "q": "Do glass mats need a pile rating?",
+    "a": "Glass stays rigid on top of the carpet, so it doesn't depend on cleats. Lorell lists its mat for any floor type; GLSLAND lists carpet or hard floor without a pile rating."
   },
   {
-    q: "Why does the ES Robbins EverLife have a lower star rating than the cheaper picks in this guide?",
-    a: "It sits at 3.8 stars, the lowest in this guide, despite its commercial-grade certifications and lifetime warranty. A lower average rating doesn't necessarily mean lower build quality, it can also reflect a larger, heavier, pricier product with higher buyer expectations, so weigh it alongside the mat's actual spec sheet.",
+    "q": "How do I measure pile height?",
+    "a": "Push a ruler into the carpet to the backing and read the height of the fibers. If the carpet feels spongy because of thick padding, treat it as higher pile."
   },
   {
-    q: "How long does a rolled chair mat take to lie flat?",
-    a: "Around 24 hours lying flat at room temperature. Most 'my mat won't stay flat' complaints in the first day are just this normal settling period, not a defect.",
-  },
-  {
-    q: "Which pick in this guide is best if I want the mat to look decorative rather than utilitarian?",
-    a: "The Anji Mountain Rug'd Jacquard Office Chair Mat is the only pick here that looks like a woven decorative rug rather than a plastic or glass mat, while still being rated for low pile carpet or hard surfaces.",
-  },
+    "q": "How long does a rolled mat take to lie flat?",
+    "a": "Rolled mats need time to relax; about a day is a common guideline. The GORILLA GRIP and glass mats ship flat."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-chair-mat-for-carpet", title: "Best Chair Mat for Carpet (2026)" },
-  { href: "/guide/best-chair-mats", title: "Best Chair Mats for Any Floor (2026)" },
-  { href: "/guide/best-office-chair-under-100", title: "Best Office Chairs Under $100 (2026)" },
+export const bottomLine = [
+  "For low pile, the HON is the straightforward choice with a five-year warranty; the Anji Mountain is the alternative if the mat needs to look like a rug. For medium pile, the GORILLA GRIP covers a standard area and the ES Robbins EverLife a large one.",
+  "For extra-high or padded carpet, the ES Robbins Extra High Pile mat is the only rated option here. If you'd rather avoid pile ratings altogether, the Lorell and GLSLAND glass mats sit rigidly on top, with the MuArts as the heavy-load alternative."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-chair-mat-for-carpet",
+    "title": "Best Chair Mat for Carpet (2026)"
+  },
+  {
+    "href": "/guide/best-chair-mats",
+    "title": "Best Chair Mats for Any Floor (2026)"
+  },
+  {
+    "href": "/guide/best-office-chair-under-100",
+    "title": "Best Office Chairs Under $100 (2026)"
+  }
 ];

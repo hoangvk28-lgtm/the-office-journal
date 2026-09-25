@@ -1,428 +1,380 @@
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+
 export const guideSlug = "best-ultrawide-monitor-for-work";
-export const guideTitle = "6 Best Ultrawide Monitors for Work in 2026";
-export const metaTitle = "Best Ultrawide Monitors for Work in 2026 (USB-C, KVM, Docking)";
-export const metaDescription =
-  "6 best ultrawide monitors for work in 2026, compared on USB-C wattage, KVM switching, Thunderbolt, and Ethernet for productivity-focused desks.";
+
+export const guideTitle = "The Best Ultrawide Monitors for Work, From Single-Cable Laptops to Two-Computer Desks";
+
+export const breadcrumbLabel = "Best Ultrawide Monitors for Work";
+
+export const metaTitle = "Best Ultrawide Monitors for Work: USB-C, KVM and Thunderbolt (2026)";
+
+export const metaDescription = "We compared ultrawide monitors for office work on USB-C power delivery, KVM switching, Thunderbolt, Ethernet, eye-comfort modes and panel size, from 34-inch screens to 49-inch hubs.";
+
 export const mainKeyword = "ultrawide monitor for work";
+
 export const introParagraphs = [
-  "An ultrawide monitor built for work needs different things than a gaming ultrawide: real USB-C Power Delivery to charge a laptop over one cable, a KVM switch or Thunderbolt port for multi-computer desks, and a reader-friendly mode for long documents rather than just a high refresh rate. Panel size also matters more than most buyers expect, since a 49\" screen demands a deeper desk and a further seating distance than a 34\" panel.",
-  "Below are 6 ultrawide monitors we evaluated specifically on office-relevant specs, USB-C wattage, KVM and Thunderbolt support, Ethernet passthrough, and eye-strain features, ranging from a $204.99 curved 34\" panel to an $1,225.66 49\" productivity hub with an automatic KVM switch.",
+  "A work ultrawide earns its place through connectivity more than refresh rate. The features that change a working day are USB-C that charges a laptop over the same cable as the picture, a KVM switch or Thunderbolt dock that lets one keyboard and mouse serve two computers, and wired Ethernet through the monitor.",
+  "The other decision is size. A 34-inch 3440 x 1440 panel gives roughly the space of two smaller screens without a bezel; a 49-inch 5120 x 1440 panel gives more, but needs a wide, deep desk and more head movement to use the edges.",
+  "Our comparison is based on published specifications, warranty terms and price position, not hands-on testing. Prices range from about $205 to $1,230 at the time of writing."
 ];
+
 export const lastUpdated = "2026-07-18";
+
 export const readTime = "10 min";
+
 export const heroImage = "https://m.media-amazon.com/images/I/51M6nLrVD8L._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string;
-  rank: number;
-  badge: string;
-  name: string;
-  price: string;
-  rating: string;
-  reviews: string;
-  imageUrl: string;
-  amazonUrl: string;
-  description: string;
-  specs: string[];
-  pros: string[];
-  cons: string[];
-  bestFor: string;
-}
-
-export interface BuyingCriterion {
-  criterion: string;
-  explanation: string;
-}
-
-export interface FaqItem {
-  q: string;
-  a: string;
-}
 
 export const products: GuideProduct[] = [
   {
-    id: "sansui-34-curved-uwqhd",
-    rank: 1,
-    badge: "Cheapest",
-    name: "SANSUI 34\" Curved UWQHD Monitor",
-    price: "$204.99",
-    rating: "4.4",
-    reviews: "4,460",
-    imageUrl: "https://m.media-amazon.com/images/I/51M6nLrVD8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CWQMZPJC?tag=theofficejournal-20",
-    description:
-      "The SANSUI is the entry point into a 34\" ultrawide for office work, with a 3440x1440 VA panel and a 200Hz refresh rate that's more than most work tasks need. Color coverage is strong for the price, 97% DCI-P3 and 130% sRGB, useful if your job touches any design or photo review.\n\nPiP and PbP let you view two input sources side by side, handy for a laptop and desktop sharing one screen, and dual HDMI 2.1 ports plus DisplayPort 1.4 cover most office docking setups. It's the cheapest and most-reviewed pick in this guide.\n\nMost-reviewed pick with 4,460 ratings. On the other hand, no USB-C port or Power Delivery. Neither should be a surprise once you know to look for it.",
-    specs: [
-      "3440x1440 VA curved panel",
-      "200Hz refresh rate",
-      "DCI-P3 97%, sRGB 130%",
-      "PiP/PbP dual source viewing",
-      "HDMI 2.1 x2 + DisplayPort 1.4",
+    "id": "sansui-34-curved-uwqhd",
+    "rank": 1,
+    "badge": "Best Budget 34-Inch Monitor",
+    "name": "SANSUI 34\" Curved UWQHD Monitor",
+    "price": "$204.99",
+    "rating": "4.4",
+    "reviews": "4,460",
+    "imageUrl": "https://m.media-amazon.com/images/I/51M6nLrVD8L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWQMZPJC?tag=theofficejournal-20",
+    "description": "The SANSUI is the low-cost way into a 34-inch ultrawide for work, and it is the most widely reviewed monitor here: a 3440 x 1440 curved VA panel with picture-in-picture and picture-by-picture for two sources at once.\n\nSANSUI lists 97 percent DCI-P3 color and a 200Hz refresh rate, more speed than office work needs. Connections are two HDMI 2.1 ports and DisplayPort 1.4.\n\nThere is no USB-C, power delivery or KVM, so a laptop needs its own charger. If single-cable laptop charging matters, the LG 34WR55QK-B adds 65W USB-C for about $95 more at the time of writing.",
+    "specs": [
+      "Panel: 34\" VA, curved, 3440 x 1440",
+      "Refresh: 200Hz",
+      "Color: 97% DCI-P3 (listed)",
+      "PiP/PbP",
+      "Ports: 2 x HDMI 2.1, DisplayPort 1.4"
     ],
-    pros: [
-      "Cheapest pick in this guide at $204.99",
-      "Most-reviewed pick with 4,460 ratings",
-      "Strong color coverage for the price",
-      "PiP/PbP for viewing two sources at once",
+    "pros": [
+      "Lowest price here",
+      "PiP/PbP for two sources",
+      "Widely reviewed"
     ],
-    cons: [
-      "No USB-C port or Power Delivery",
-      "No KVM switch for multi-computer desks",
-      "200Hz refresh rate is wasted on most office work",
+    "cons": [
+      "No USB-C or power delivery",
+      "No KVM"
     ],
-    bestFor: "Budget-conscious buyers who just need a solid 34\" screen for office tasks",
+    "bestFor": "Desktop users who want a 34-inch ultrawide for as little as possible.",
+    "summary": "A 34-inch 3440 x 1440 curved VA panel with PiP/PbP and wide color coverage for about $205.",
+    "skipIf": "You work from a laptop; the LG 34WR55QK-B charges it over USB-C."
   },
   {
-    id: "lg-34wr55qk-b",
-    rank: 2,
-    badge: "Best USB-C + Reader Mode for Office Use",
-    name: "LG 34WR55QK-B Ultrawide Monitor",
-    price: "$299.99",
-    rating: "4.6",
-    reviews: "210",
-    imageUrl: "https://m.media-amazon.com/images/I/41x4uwmvQpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQF8LRGZ?tag=theofficejournal-20",
-    description:
-      "The LG 34WR55QK-B is built with genuine office use in mind, its dedicated Reader Mode reduces eye strain specifically during long reading and writing sessions, something few gaming-focused ultrawides bother including. USB-C with 65W Power Delivery charges a standard work laptop over a single cable.\n\nOnScreen Control software lets you adjust picture settings and monitor splits from your desktop, and PbP support covers dual-source workflows. A height and tilt adjustable stand rounds out the ergonomics. It's the highest-rated pick in this entire guide.\n\nReader Mode specifically targets long-session eye strain. That's a real strength, but weigh it against the flip side: 65W PD may not fully power a 16\" MacBook Pro under heavy load.",
-    specs: [
-      "3440x1440 VA curved panel",
-      "100Hz refresh rate",
-      "USB-C 65W Power Delivery",
-      "Reader Mode for reduced eye strain",
-      "PbP + OnScreen Control software",
-      "Height/tilt adjustable stand",
+    "id": "lg-34wr55qk-b",
+    "rank": 2,
+    "badge": "Best Value for Laptop Users",
+    "name": "LG 34WR55QK-B Ultrawide Monitor",
+    "price": "$299.99",
+    "rating": "4.6",
+    "reviews": "210",
+    "imageUrl": "https://m.media-amazon.com/images/I/41x4uwmvQpL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQF8LRGZ?tag=theofficejournal-20",
+    "description": "The LG 34WR55QK-B is the sensible choice for most laptop users: 65W USB-C power delivery charges a typical work laptop over the same cable as the display, and the stand adjusts for height and tilt.\n\nLG includes a Reader Mode, designed to reduce blue light for long reading and writing sessions, plus OnScreen Control software for arranging windows and PbP. It runs at 100Hz, which is plenty for office work.\n\nThere is no KVM, Thunderbolt or Ethernet, and 65W may charge higher-power laptops slowly under heavy load.",
+    "specs": [
+      "Panel: 34\" VA, curved, 3440 x 1440",
+      "Refresh: 100Hz",
+      "USB-C: 65W power delivery",
+      "Reader Mode",
+      "PbP, OnScreen Control",
+      "Stand: height and tilt"
     ],
-    pros: [
-      "Highest-rated pick in this guide at 4.6 stars",
-      "Reader Mode specifically targets long-session eye strain",
-      "USB-C 65W PD charges most work laptops over one cable",
-      "Height and tilt adjustable stand included",
+    "pros": [
+      "65W USB-C at a moderate price",
+      "Height-adjustable stand",
+      "Reader Mode"
     ],
-    cons: [
-      "65W PD may not fully power a 16\" MacBook Pro under heavy load",
-      "No KVM switch or Thunderbolt for multi-computer setups",
-      "100Hz refresh is fine for work but modest compared to gaming ultrawides",
+    "cons": [
+      "No KVM or Ethernet",
+      "65W may be slow for high-power laptops"
     ],
-    bestFor: "Buyers doing long reading and writing sessions who want reduced eye strain",
+    "bestFor": "Laptop users who want single-cable charging and an adjustable stand.",
+    "summary": "A 34-inch curved monitor with 65W USB-C, Reader Mode and a height-adjustable stand for about $300.",
+    "skipIf": "You switch between two computers; the Samsung S95UA or Dell U4924DW have KVM switches."
   },
   {
-    id: "dell-s3425dw",
-    rank: 3,
-    badge: "Best-Rated Value",
-    name: "Dell 34 Plus USB-C Curved Monitor (S3425DW)",
-    price: "$379.99",
-    rating: "4.5",
-    reviews: "467",
-    imageUrl: "https://m.media-amazon.com/images/I/41oTaXgx2fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1H325FN?tag=theofficejournal-20",
-    description:
-      "The Dell S3425DW pairs a 3440x1440 VA panel with up to 120Hz refresh and a 0.03ms response time, the fastest response time in this entire guide, though that matters less for office work than for gaming. USB-C 65W Power Delivery keeps a laptop charged over a single cable during the workday.\n\nColor accuracy is strong at 99% sRGB and 95% DCI-P3, and Dell's ComfortView Plus low blue-light mode targets eye strain during extended screen time. The Dell Premium Panel warranty covers the panel itself, a reassuring detail for a monitor meant to run all day, every day.\n\nWorth calling out specifically: strong color accuracy for design or photo review work. The catch is no KVM switch or Ethernet passthrough.",
-    specs: [
-      "3440x1440 VA curved panel",
-      "Up to 120Hz, 0.03ms response time",
-      "USB-C 65W Power Delivery",
-      "99% sRGB, 95% DCI-P3",
-      "ComfortView Plus low blue-light mode",
-      "Dell Premium Panel warranty",
+    "id": "dell-s3425dw",
+    "rank": 3,
+    "badge": "Best for Color Work Under $400",
+    "name": "Dell 34 Plus USB-C Curved Monitor (S3425DW)",
+    "price": "$379.99",
+    "rating": "4.5",
+    "reviews": "467",
+    "imageUrl": "https://m.media-amazon.com/images/I/41oTaXgx2fL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1H325FN?tag=theofficejournal-20",
+    "description": "The Dell S3425DW is the step up if color accuracy matters: Dell lists 99 percent sRGB and 95 percent DCI-P3, alongside 65W USB-C and a 120Hz refresh rate.\n\nComfortView Plus is Dell's low-blue-light mode, and the Dell Premium Panel warranty covers the display. Its 0.03ms response time is the fastest here, though that matters more for games than work.\n\nLike the LG, it has no KVM or Ethernet, and it costs about $80 more at the time of writing.",
+    "specs": [
+      "Panel: 34\" VA, curved, 3440 x 1440",
+      "Refresh: up to 120Hz, 0.03ms",
+      "USB-C: 65W power delivery",
+      "Color: 99% sRGB, 95% DCI-P3",
+      "ComfortView Plus",
+      "Dell Premium Panel warranty"
     ],
-    pros: [
-      "Fastest response time in this guide at 0.03ms",
-      "Strong color accuracy for design or photo review work",
-      "ComfortView Plus targets eye strain over long sessions",
-      "Dell Premium Panel warranty backs the display itself",
+    "pros": [
+      "Wide color coverage",
+      "65W USB-C",
+      "Panel warranty"
     ],
-    cons: [
-      "No KVM switch or Ethernet passthrough",
-      "65W PD, not the highest wattage in this guide",
-      "Pricier than the entry-level picks without added office features",
+    "cons": [
+      "No KVM or Ethernet",
+      "Costs more than the LG for similar connectivity"
     ],
-    bestFor: "Buyers who want strong color accuracy and eye-strain features at a mid price",
+    "bestFor": "Laptop users who review photos or design work and want better color on paper.",
+    "summary": "A 120Hz 34-inch Dell with 65W USB-C, 99% sRGB and ComfortView Plus.",
+    "skipIf": "Color accuracy is not a priority; the LG offers the same 65W USB-C for less."
   },
   {
-    id: "dell-u3425we",
-    rank: 4,
-    badge: "Best Response Time + Warranty",
-    name: "Dell UltraSharp U3425WE",
-    price: "$725.00",
-    rating: "4.2",
-    reviews: "101",
-    imageUrl: "https://m.media-amazon.com/images/I/31nmpKDSrtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D63Y6WYJ?tag=theofficejournal-20",
-    description:
-      "The U3425WE is the only Thunderbolt 4 monitor in this guide, a meaningful upgrade for a professional desk running high-bandwidth peripherals or an external GPU-adjacent workflow. It pairs Thunderbolt 4 with 10 total USB 3.2 Gen2 ports and built-in Ethernet, effectively replacing a separate docking station.\n\nAn IPS panel at 3440x1440 and 120Hz balances color consistency with smooth motion, PbP support handles dual-source viewing, and an ambient light sensor adjusts brightness automatically through the day. A 3-year warranty covers the whole unit.\n\n10 USB ports plus Ethernet replaces a separate dock. Set against that, most expensive 34\"-class pick in this guide. Both matter when comparing it to the other picks here.",
-    specs: [
-      "3440x1440 IPS panel",
-      "120Hz refresh rate",
+    "id": "dell-u3425we",
+    "rank": 4,
+    "badge": "Best 34-Inch Dock Replacement",
+    "name": "Dell UltraSharp U3425WE",
+    "price": "$725.00",
+    "rating": "4.2",
+    "reviews": "101",
+    "imageUrl": "https://m.media-amazon.com/images/I/31nmpKDSrtL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D63Y6WYJ?tag=theofficejournal-20",
+    "description": "The Dell UltraSharp U3425WE is the choice if you want the monitor to replace a docking station: it is the only Thunderbolt 4 monitor here, with 10 USB 3.2 Gen 2 ports and Ethernet built in.\n\nThe 3440 x 1440 IPS panel runs at 120Hz, and an ambient light sensor adjusts brightness through the day. PbP and a three-year warranty round it out.\n\nIt costs about $725 at the time of writing, far more than the other 34-inch monitors. If your laptop does not use Thunderbolt peripherals, the extra bandwidth may be more than you need.",
+    "specs": [
+      "Panel: 34\" IPS, 3440 x 1440",
+      "Refresh: 120Hz",
       "Thunderbolt 4",
-      "10 total USB 3.2 Gen2 ports + Ethernet",
+      "USB: 10 x USB 3.2 Gen 2; Ethernet",
       "Ambient light sensor",
-      "3-year warranty",
+      "Warranty: 3 years"
     ],
-    pros: [
-      "Only Thunderbolt 4 pick in this guide",
-      "10 USB ports plus Ethernet replaces a separate dock",
-      "IPS panel gives more consistent color at wide viewing angles",
-      "3-year warranty covers the full unit",
+    "pros": [
+      "Thunderbolt 4 dock built in",
+      "10 USB ports and Ethernet",
+      "IPS panel"
     ],
-    cons: [
-      "Most expensive 34\"-class pick in this guide",
-      "Lower review count than the budget picks",
-      "Overkill for a desk that doesn't already use Thunderbolt peripherals",
+    "cons": [
+      "Most expensive 34-inch monitor here",
+      "Power delivery wattage not listed here"
     ],
-    bestFor: "A single professional desk with heavy multi-peripheral Thunderbolt needs",
+    "bestFor": "Professional desks with Thunderbolt laptops and many peripherals.",
+    "summary": "The only Thunderbolt 4 monitor here, with 10 USB ports and Ethernet on a 120Hz IPS panel.",
+    "skipIf": "You only need charging and a couple of ports; the LG or Dell S3425DW cost far less."
   },
   {
-    id: "samsung-s95ua-49",
-    rank: 5,
-    badge: "Highest USB-C Wattage + Ethernet",
-    name: "Samsung 49\" Business S95UA",
-    price: "$849.99",
-    rating: "4.5",
-    reviews: "225",
-    imageUrl: "https://m.media-amazon.com/images/I/31jJEMNYH7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CRGJF7WL?tag=theofficejournal-20",
-    description:
-      "At 5120x1440, the S95UA is built for someone who genuinely needs the extra screen real estate of a 49\" panel, not just the look of one, and its 1000R curve keeps the wide edges from feeling distant. A built-in KVM switch lets you control 2 computers from one keyboard and mouse without a separate hardware switch.\n\nUSB-C Power Delivery hits 90W, the highest wattage in this guide and enough to fully charge a 16\" MacBook Pro under load. Ethernet passthrough, 120Hz refresh, and DisplayHDR 400 round out a spec sheet backed by a B2B 3-year warranty.\n\nA genuine advantage here is that built-in KVM switch for 2-computer desks. The tradeoff is needs a desk with real usable depth, at least 28-30 inches.",
-    specs: [
-      "5120x1440 VA curved 1000R panel",
-      "120Hz refresh rate",
-      "Built-in KVM switch",
-      "USB-C 90W Power Delivery",
-      "Ethernet passthrough, DisplayHDR 400",
-      "B2B 3-year warranty",
+    "id": "samsung-s95ua-49",
+    "rank": 5,
+    "badge": "Best Value 49-Inch Work Monitor",
+    "name": "Samsung 49\" Business S95UA",
+    "price": "$849.99",
+    "rating": "4.5",
+    "reviews": "225",
+    "imageUrl": "https://m.media-amazon.com/images/I/31jJEMNYH7L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRGJF7WL?tag=theofficejournal-20",
+    "description": "The Samsung S95UA is the lower-cost route to a 49-inch work screen: 5120 x 1440 on a 1000R curve, with a built-in KVM switch, 90W USB-C power delivery and Ethernet.\n\nThe KVM lets one keyboard and mouse control two computers, and 90W charges higher-power laptops more comfortably than 65W. It runs at 120Hz with DisplayHDR 400 and a three-year business warranty.\n\nA 49-inch screen needs a wide, deep desk, and using its edges involves more head movement. It costs several hundred dollars less than the Dell U4924DW at the time of writing.",
+    "specs": [
+      "Panel: 49\" VA, 1000R, 5120 x 1440",
+      "Refresh: 120Hz",
+      "KVM switch",
+      "USB-C: 90W power delivery",
+      "Ethernet, DisplayHDR 400",
+      "Warranty: 3 years (business)"
     ],
-    pros: [
-      "Highest USB-C wattage in this guide at 90W",
-      "Built-in KVM switch for 2-computer desks",
-      "1000R curve keeps a 49\" screen feeling immersive, not distant",
-      "B2B 3-year warranty reflects its office-first design",
+    "pros": [
+      "KVM for two computers",
+      "90W USB-C",
+      "Much cheaper than the Dell 49-inch"
     ],
-    cons: [
-      "Needs a desk with real usable depth, at least 28-30 inches",
-      "Sit too close and the width becomes tiring rather than useful",
-      "Pricier than every 34\" pick in this guide",
+    "cons": [
+      "Needs a large desk",
+      "VA panel rather than IPS"
     ],
-    bestFor: "Buyers who need real 49\" screen real estate and switch between 2 computers",
+    "bestFor": "Two-computer desks that want a 49-inch screen without paying the most.",
+    "summary": "A 49-inch 120Hz business monitor with KVM, 90W USB-C and Ethernet.",
+    "skipIf": "Your desk is shallow or narrow; a 34-inch monitor is easier to live with."
   },
   {
-    id: "dell-u4924dw",
-    rank: 6,
-    badge: "Most Ports/Thunderbolt 4",
-    name: "Dell UltraSharp U4924DW",
-    price: "$1,225.66",
-    rating: "4.1",
-    reviews: "90",
-    imageUrl: "https://m.media-amazon.com/images/I/41A7PYEypCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C6QRTBHM?tag=theofficejournal-20",
-    description:
-      "The U4924DW is the widest and most port-dense pick in this guide, a 5120x1440 IPS Black panel paired with 11 total USB ports, an automatic KVM switch, and 2.5GbE Ethernet for a desk that needs to be a self-contained productivity hub. USB-C Power Delivery reaches 90W, enough for a 16\" MacBook Pro under full load. IPS Black technology delivers 100% sRGB coverage, the best color accuracy in this guide, a real advantage for design or photo work. Dual 9W speakers round out the package, though at a premium price it's the most expensive pick here by a clear margin. 100% sRGB gives the best color accuracy here. On the other hand, most expensive pick in this guide by a wide margin. Neither should be a surprise once you know to look for it.",
-    specs: [
-      "5120x1440 IPS Black panel",
-      "USB-C 90W Power Delivery",
-      "Automatic KVM switch",
-      "2.5GbE Ethernet",
-      "11 total USB ports",
-      "100% sRGB, dual 9W speakers",
+    "id": "dell-u4924dw",
+    "rank": 6,
+    "badge": "Most Complete 49-Inch Hub",
+    "name": "Dell UltraSharp U4924DW",
+    "price": "$1,225.66",
+    "rating": "4.1",
+    "reviews": "90",
+    "imageUrl": "https://m.media-amazon.com/images/I/41A7PYEypCL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6QRTBHM?tag=theofficejournal-20",
+    "description": "The Dell UltraSharp U4924DW is the most complete work hub here: a 49-inch 5120 x 1440 IPS Black panel with an automatic KVM switch, 90W USB-C, 2.5GbE Ethernet and 11 USB ports.\n\nDell lists 100 percent sRGB and dual 9W speakers. The IPS Black panel suits color-sensitive work better than the Samsung's VA panel.\n\nIt is the most expensive monitor here by a wide margin at the time of writing and has fewer buyer reviews than the others. It runs at 60Hz.",
+    "specs": [
+      "Panel: 49\" IPS Black, 5120 x 1440",
+      "Refresh: 60Hz",
+      "Automatic KVM",
+      "USB-C: 90W power delivery",
+      "2.5GbE, 11 USB ports",
+      "Color: 100% sRGB; 2 x 9W speakers"
     ],
-    pros: [
-      "Widest screen and most ports in this guide",
-      "100% sRGB gives the best color accuracy here",
-      "Automatic KVM switch simplifies 2-computer desks",
-      "90W PD fully powers a 16\" MacBook Pro",
+    "pros": [
+      "Most ports and fastest Ethernet here",
+      "Automatic KVM",
+      "IPS Black panel"
     ],
-    cons: [
-      "Most expensive pick in this guide by a wide margin",
-      "Lowest rating and smallest review count in this guide",
-      "Needs the deepest desk of any pick here to use comfortably",
+    "cons": [
+      "Most expensive monitor here",
+      "60Hz",
+      "Fewer buyer reviews"
     ],
-    bestFor: "Buyers who want the most complete port-dense productivity hub and can justify the price",
-  },
-];
-
-export interface HowWeEvaluatedItem {
-  title: string;
-  description: string;
-}
-
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  {
-    title: "USB-C Power Delivery wattage",
-    description: "Compared PD wattage against real laptop charging needs, 65W covers most ultrabooks while 90W+ is needed to fully charge a 16\" MacBook Pro or similar high-draw laptop under load.",
-  },
-  {
-    title: "Multi-computer desk support",
-    description: "Checked for a built-in KVM switch or Thunderbolt 4 port, features that let one keyboard, mouse, and monitor serve 2 computers without extra hardware.",
-  },
-  {
-    title: "Eye strain and long-session comfort",
-    description: "Weighed features like Reader Mode and low blue-light modes, since office use means many more consecutive hours on screen than typical gaming sessions.",
-  },
-  {
-    title: "Port density and Ethernet",
-    description: "Compared total USB ports and wired Ethernet passthrough, since a monitor that replaces a separate docking station simplifies a work desk considerably.",
-  },
-  {
-    title: "Desk depth and size fit",
-    description: "Factored panel size against the desk depth and viewing distance it realistically requires, since a 49\" screen brings real productivity gains only if the desk behind it can support it.",
-  },
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
-  {
-    "criterion": "Match actual size and capacity to your real need, not the category label alone",
-    "explanation": "Listings for a ultrawide monitor often use a size or capacity label (\"compact,\" \"large,\" \"heavy-duty\") that isn't standardized across brands, so the same label can mean meaningfully different actual dimensions or capacity from one product to the next.\n\nThis matters because buying based on the category label rather than the specific listed dimensions or capacity is a common way to end up with something that doesn't actually fit your space or handle your real load.\n\nCheck the listing for exact measurements or a stated capacity figure, and compare that directly against your actual space or need, not just the marketing size category."
-  },
-  {
-    "criterion": "Verify build material and construction quality from reviews, not just spec-sheet claims",
-    "explanation": "A product description can describe material or construction in flattering terms that don't always hold up under real, sustained use, and the gap between a listing's claimed quality and its actual durability only shows up in how the product performs after weeks or months of real use, not in day-one photos.\n\nThis matters more for anything you'll use daily or under real load, less for occasional light use where durability matters less.\n\nCheck reviews specifically for mentions of how the ultrawide monitor holds up over time, not just unboxing-day impressions, and treat a listing's own quality claims as a starting point to verify, not a guarantee."
-  },
-  {
-    "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this ultrawide monitor over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
-  },
-  {
-    "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any ultrawide monitor you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
-  },
-  {
-    "criterion": "Check compatibility and fit with your existing setup before ordering",
-    "explanation": "A ultrawide monitor that looks like a straightforward fit in photos can still have a compatibility detail, a connector type, a mounting requirement, a size threshold, that doesn't match your existing setup, and this kind of mismatch is one of the most common and avoidable reasons for a return.\n\nThis matters directly if the product needs to physically connect to, mount on, or otherwise integrate with something you already own.\n\nCheck the listing's specific compatibility details against your exact existing setup, not just the general product category, before ordering."
+    "bestFor": "Professionals who want one screen and hub for two computers and many peripherals.",
+    "summary": "A 49-inch IPS Black monitor with automatic KVM, 90W USB-C, 2.5GbE and 11 USB ports.",
+    "skipIf": "The Samsung S95UA's KVM, 90W USB-C and Ethernet cover your needs for much less."
   }
 ];
 
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
+export const howWeEvaluated = [
+  {
+    "title": "Laptop connectivity",
+    "description": "We compared USB-C power delivery wattage, Thunderbolt support and Ethernet."
+  },
+  {
+    "title": "Multi-computer support",
+    "description": "We noted built-in KVM switches and PbP modes."
+  },
+  {
+    "title": "Panel and size",
+    "description": "We compared panel type, resolution, size and listed color coverage."
+  },
+  {
+    "title": "Warranty and price",
+    "description": "We recorded warranties and compared what each step up in price adds. Prices change often, so we treat them as relative position."
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "USB-C power delivery",
+    "explanation": "65W (LG, Dell S3425DW) covers many ultrabooks; 90W (Samsung S95UA, Dell U4924DW) gives more headroom for higher-power laptops. Check your laptop charger's wattage."
+  },
+  {
+    "criterion": "KVM or Thunderbolt",
+    "explanation": "A KVM switch lets one keyboard and mouse serve two computers (Samsung S95UA, Dell U4924DW). Thunderbolt 4 (Dell U3425WE) turns the monitor into a full dock for a Thunderbolt laptop."
+  },
+  {
+    "criterion": "Ethernet and ports",
+    "explanation": "Wired networking through the monitor keeps a laptop to one cable. The Dell UltraSharps and Samsung S95UA include Ethernet."
+  },
+  {
+    "criterion": "34 or 49 inches",
+    "explanation": "Pixel density is similar (about 108 to 110 pixels per inch), so text sharpness is similar. The difference is width, desk space and head movement."
+  },
+  {
+    "criterion": "Eye-comfort features",
+    "explanation": "LG's Reader Mode, Dell's ComfortView Plus and the U3425WE's ambient light sensor adjust color temperature or brightness. They are conveniences rather than substitutes for good lighting and breaks."
+  }
+];
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "subheading": "By priority",
     "table": {
       "headers": [
-        "Your priority",
-        "Recommended pick"
+        "Priority",
+        "Consider",
+        "Why"
       ],
       "rows": [
         [
-          "Highest average rating",
-          "LG 34WR55QK"
+          "Lowest cost, desktop PC",
+          "SANSUI 34\"",
+          "About $205, no USB-C"
         ],
         [
-          "Largest review base, strongest reliability signal",
-          "SANSUI 34\" Curved UWQHD Monitor"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Under $1",
-          "Dell UltraSharp U4924DW"
+          "Single-cable laptop setup",
+          "LG 34WR55QK-B",
+          "65W USB-C, adjustable stand"
         ],
         [
-          "Up to $850",
-          "Samsung 49\" Business S95UA"
+          "Color work under $400",
+          "Dell S3425DW",
+          "99% sRGB, 65W USB-C"
+        ],
+        [
+          "Replace a Thunderbolt dock",
+          "Dell U3425WE",
+          "Thunderbolt 4, 10 USB, Ethernet"
+        ],
+        [
+          "Two computers, 49 inches",
+          "Samsung S95UA",
+          "KVM, 90W USB-C, Ethernet"
+        ],
+        [
+          "The most complete hub",
+          "Dell U4924DW",
+          "KVM, 2.5GbE, 11 USB, IPS Black"
         ]
       ]
     }
   },
   {
-    "subheading": "Dell UltraSharp U4924DW vs Samsung 49\" Business S95UA",
-    "cards": [
-      {
-        "label": "Dell UltraSharp U4924DW",
-        "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
-      },
-      {
-        "label": "Samsung 49\" Business S95UA",
-        "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
-      }
-    ],
-    "note": "Default to Dell UltraSharp U4924DW unless your specific need genuinely calls for the pricier pick's extra headroom."
-  },
-  {
-    "subheading": "By Review Base Confidence",
+    "subheading": "By price at the time of writing",
+    "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.",
     "table": {
       "headers": [
-        "Your priority",
-        "Recommended pick"
+        "Price tier",
+        "Monitors"
       ],
       "rows": [
         [
-          "Largest, most-established review base",
-          "SANSUI 34\" Curved UWQHD Monitor"
+          "About $205–$380",
+          "SANSUI, LG 34WR55QK-B, Dell S3425DW"
+        ],
+        [
+          "About $725–$850",
+          "Dell U3425WE, Samsung S95UA"
+        ],
+        [
+          "About $1,230",
+          "Dell U4924DW"
         ]
       ]
     }
-  },
-  {
-    "subheading": "For a First-Time Buyer Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
-      },
-      {
-        "label": "In this comparison",
-        "text": "SANSUI 34\" Curved UWQHD Monitor is worth checking against its listed specs before buying, given its strong review base."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need real durability and feature depth for regular use, where Samsung 49\" Business S95UA's build gives real headroom over the cheaper picks."
-      },
-      {
-        "label": "Save if",
-        "text": "You only need this for light or occasional use, where Dell UltraSharp U4924DW covers the same job at a lower price."
-      }
-    ]
   }
 ];
 
-export const faq: FaqItem[] = [
+export const faq = [
   {
-    q: "What's the best ultrawide monitor for office work under $300?",
-    a: "The LG 34WR55QK-B at $299.99 is the strongest office-focused pick under $300, with USB-C 65W Power Delivery, a dedicated Reader Mode for long reading sessions, and the highest rating in this guide at 4.6 stars. The SANSUI at $204.99 is cheaper but skips USB-C entirely.",
+    "q": "What's the best ultrawide for office work under $300?",
+    "a": "In this guide, the LG 34WR55QK-B, with 65W USB-C, a height-adjustable stand and Reader Mode. The SANSUI costs less but has no USB-C."
   },
   {
-    q: "Do I need a KVM switch on an ultrawide monitor?",
-    a: "Only if you regularly switch between 2 computers, like a work laptop and a personal desktop. The Samsung S95UA and Dell U4924DW both include a built-in KVM switch, letting you flip between machines with one keyboard and mouse instead of buying a separate KVM box.",
+    "q": "Do I need a KVM switch?",
+    "a": "Only if you regularly use two computers at one desk. The Samsung S95UA and Dell U4924DW include one, which saves buying a separate switch."
   },
   {
-    q: "Is a 49\" ultrawide better than a 34\" for work?",
-    a: "It depends on your desk and your job. A 49\" screen like the Samsung S95UA gives real extra window space for multi-window or monitoring work, but it needs at least 28-30 inches of usable desk depth and a viewing distance of 35-39 inches to feel comfortable. For heads-down writing or coding, a 34\" panel is often the more comfortable daily driver since it demands less neck rotation.",
+    "q": "Is a 49-inch ultrawide better than a 34-inch for work?",
+    "a": "It gives more room for side-by-side windows but needs a wide, deep desk and more head movement. For focused writing or coding, a 34-inch screen may be easier to use all day."
   },
   {
-    q: "What USB-C wattage do I need to charge my laptop from the monitor?",
-    a: "65W Power Delivery, found on the LG 34WR55QK-B and Dell S3425DW, covers most standard ultrabooks. A 16\" MacBook Pro or other high-draw laptop needs 90W or more under load, which only the Samsung S95UA and Dell U4924DW in this guide provide.",
+    "q": "What USB-C wattage do I need?",
+    "a": "Match or approach your laptop charger's wattage. 65W suits many ultrabooks; 90W gives more headroom. Some high-power laptops draw more than 90W and may charge slowly or discharge under heavy load."
   },
   {
-    q: "Does a wider ultrawide monitor have sharper text?",
-    a: "No. A 34\" panel at 3440x1440 and a 49\" panel at 5120x1440 both land around 108-110 PPI, so text sharpness feels roughly the same at either size. The real difference between the two is desk depth and desk space required, not image sharpness.",
+    "q": "Does a bigger ultrawide have sharper text?",
+    "a": "No. A 34-inch 3440 x 1440 panel and a 49-inch 5120 x 1440 panel have similar pixel density, so text looks similar."
   },
   {
-    q: "Which pick has Thunderbolt 4?",
-    a: "The Dell UltraSharp U3425WE is the only Thunderbolt 4 monitor in this guide, pairing it with 10 total USB 3.2 Gen2 ports and built-in Ethernet, effectively replacing a separate docking station for a single professional desk.",
-  },
+    "q": "Which monitor here has Thunderbolt 4?",
+    "a": "The Dell UltraSharp U3425WE, which pairs it with 10 USB ports and Ethernet."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-ultrawide-monitor-setup", title: "Best Gear for an Ultrawide Monitor Setup (2026)" },
-  { href: "/guide/best-ultrawide-monitor-under-500", title: "Best Ultrawide Monitors Under $500 (2026)" },
-  { href: "/guide/best-monitor-stands-for-small-desks", title: "Best Monitor Stands for Small Desks (2026)" },
+export const bottomLine = [
+  "For most laptop users, the LG 34WR55QK-B is the place to start: 65W USB-C and an adjustable stand at a moderate price. The Dell S3425DW is worth paying more for if color accuracy matters, and the SANSUI suits desktop users on a budget.",
+  "For more complex desks, choose by connection. The Dell U3425WE replaces a Thunderbolt dock on a 34-inch screen; the Samsung S95UA adds a KVM and 90W USB-C at 49 inches; and the Dell U4924DW is the most complete, and most expensive, hub for two computers."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-ultrawide-monitor-setup",
+    "title": "Best Gear for an Ultrawide Monitor Setup (2026)"
+  },
+  {
+    "href": "/guide/best-ultrawide-monitor-under-500",
+    "title": "Best Ultrawide Monitors Under $500 (2026)"
+  },
+  {
+    "href": "/guide/best-monitor-stands-for-small-desks",
+    "title": "Best Monitor Stands for Small Desks (2026)"
+  }
 ];

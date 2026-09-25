@@ -1,487 +1,408 @@
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+
 export const guideSlug = "best-desk-bike-chair";
-export const guideTitle = "8 Best Desk Bike Chairs in 2026";
-export const metaTitle = "Best Desk Bike Chairs in 2026 (Chair + Bike + Standing Desk Combos)";
-export const metaDescription =
-  "8 best desk bike chairs in 2026, from all-in-one 3-in-1 desk and bike combos to compact chair/bike units for a desk you already own. Compare resistance, capacity, and price.";
+
+export const guideTitle = "The Best Desk Bikes for Pedaling While You Work";
+
+export const breadcrumbLabel = "Best Desk Bike Chairs";
+
+export const metaTitle = "Best Desk Bike Chairs and Desk Bikes (2026)";
+
+export const metaDescription = "Desk bikes come as all-in-one units, bike chairs for an existing desk, or a stand for a bike you own. We compared eight on format, fit range, capacity and warranty.";
+
 export const mainKeyword = "desk bike";
+
 export const introParagraphs = [
-  "A desk bike replaces a normal office chair with a stationary bike seat so you can pedal at a low resistance while you work, and the category splits into two very different shapes: standalone chair/bike units meant to slide under a desk you already own, and full 3-in-1 combos that bundle a desk, chair, and bike into one frame. Picking the wrong shape for your space is the most common mistake, since a 3-in-1 unit needs real floor room while a chair-only bike needs an existing desk with enough clearance underneath.",
-  "Below are 8 desk bike chairs we evaluated on resistance quality, weight capacity, desk clearance fit, and how honestly each listing's specs and review history hold up, ranging from a compact $109.99 stand-alone desk for a spin bike you already own to a $399.99 3-in-1 desk, chair, and bike combo.",
+  "Desk bikes come in three formats, and choosing the right one matters more than any single spec. All-in-one units combine a bike seat with their own work surface; bike chairs replace your office chair at a desk you already have; and a cycling desk stand sits over a spin bike you already own.",
+  "The all-in-one models need their own floor space. The chair-style bikes need a desk tall enough, with enough clearance underneath, for your knees at the top of the pedal stroke. Measure before comparing resistance or accessories.",
+  "Every bike here uses 8 levels of magnetic resistance, so the differences are in fit range, capacity, work surface and warranty. Our comparison is based on published specifications and listed features, not hands-on testing."
 ];
+
 export const lastUpdated = "2026-07-18";
+
 export const readTime = "10 min";
+
 export const heroImage = "https://m.media-amazon.com/images/I/51RK8V634HL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string;
-  rank: number;
-  badge: string;
-  name: string;
-  price: string;
-  rating: string;
-  reviews: string;
-  imageUrl: string;
-  amazonUrl: string;
-  description: string;
-  specs: string[];
-  pros: string[];
-  cons: string[];
-  bestFor: string;
-}
-
-export interface BuyingCriterion {
-  criterion: string;
-  explanation: string;
-}
-
-export interface FaqItem {
-  q: string;
-  a: string;
-}
 
 export const products: GuideProduct[] = [
   {
-    id: "fitdesk-fdx-3",
-    rank: 1,
-    badge: "Most Complete All-in-One",
-    name: "FitDesk FDX 3.0",
-    price: "$297.99",
-    rating: "4.3",
-    reviews: "2,465",
-    imageUrl: "https://m.media-amazon.com/images/I/51RK8V634HL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06XYHXP8W?tag=theofficejournal-20",
-    description:
-      "The FitDesk FDX 3.0 packs magnetic resistance across 8 levels into a padded seat with a backrest, plus a built-in laptop tray, a tablet holder, a storage drawer, resistance bands, and a massage roller. It's the most bundled-in unit in this guide, aimed at buyers who want one purchase to cover the bike, the workspace, and a few extras rather than assembling a setup piecemeal.\n\nIts quick-lock folding frame and wheels make it easy to tuck away between sessions, and it fits a wide height range from about 4'10\" to over 6' tall. The tradeoff is a digital monitor that runs on batteries rather than a fixed power source, a minor inconvenience next to the accessory count.\n\nPadded seat with a backrest for longer sitting sessions. Set against that, digital monitor runs on battery power. Both matter when comparing it to the other picks here.",
-    specs: [
-      "Magnetic resistance, 8 levels",
-      "Max user weight 300 lbs",
-      "Built-in laptop tray, tablet holder, storage drawer",
-      "Includes massage roller and resistance bands",
-      "Fits users 4'10\" to 6'+, quick-lock folding frame with wheels",
+    "id": "fitdesk-fdx-3",
+    "rank": 1,
+    "badge": "Best All-in-One with Accessories",
+    "name": "FitDesk FDX 3.0",
+    "price": "$297.99",
+    "rating": "4.3",
+    "reviews": "2,465",
+    "imageUrl": "https://m.media-amazon.com/images/I/51RK8V634HL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B06XYHXP8W?tag=theofficejournal-20",
+    "description": "The FitDesk FDX 3.0 includes the most in the box: a padded seat with a backrest, a laptop tray, a tablet holder, a storage drawer, resistance bands and a massage roller, on a bike with 8 levels of magnetic resistance.\n\nIt folds with a quick-lock frame and rolls on wheels for storage, FitDesk lists a user height range of about 4 ft 10 in to over 6 ft, and it is rated for 300 lb.\n\nIts monitor runs on batteries, and its work surface is a laptop tray rather than a full desktop. Buyer feedback is less positive than for the FLEXISPOT bikes.",
+    "specs": [
+      "Resistance: magnetic, 8 levels",
+      "Max user weight: 300 lb",
+      "Work surface: laptop tray + tablet holder",
+      "Storage: drawer",
+      "Extras: resistance bands, massage roller",
+      "Folding frame with wheels; listed height 4'10\"–6'+"
     ],
-    pros: [
-      "Most bundled accessories of any pick in this guide",
-      "Padded seat with a backrest for longer sitting sessions",
-      "Folds and rolls away for storage",
-      "Fits a wide range of user heights",
+    "pros": [
+      "Most included accessories",
+      "Backrest seat",
+      "Folds for storage"
     ],
-    cons: [
-      "Digital monitor runs on battery power",
-      "Bulkier footprint than a chair-only bike",
-      "Lower star rating than several other picks in this guide",
+    "cons": [
+      "Battery-powered monitor",
+      "Laptop tray, not a full desk",
+      "Less positive buyer feedback than FLEXISPOT"
     ],
-    bestFor: "Buyers who want the most complete all-in-one bike, desk, and accessory bundle",
+    "bestFor": "Shorter users, or anyone who wants to fold the bike away after use.",
+    "summary": "A folding bike with a padded backrest seat, laptop tray, tablet holder, drawer, bands and a massage roller.",
+    "skipIf": "You want a larger adjustable work surface; the FLEXISPOT Deskcise Pro V9 has one."
   },
   {
-    id: "flexispot-deskcise-pro-v9",
-    rank: 2,
-    badge: "Highest-Rated + Certified + Best Warranty",
-    name: "FLEXISPOT Deskcise Pro V9",
-    price: "$369.99",
-    rating: "4.6",
-    reviews: "1,439",
-    imageUrl: "https://m.media-amazon.com/images/I/315FE6Y32HL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B079P5DJ3H?tag=theofficejournal-20",
-    description:
-      "The Deskcise Pro V9 pairs 8 levels of magnetic resistance with a desktop that adjusts in two directions, so the work surface can move independently of the seat as you find the right pedaling position. Silent-rolling wheels make it easy to reposition between a standing spot and a seated one without dragging the frame.\n\nIt's TUV SUD certified and backed by a 3-year frame warranty plus a 1-year mechanism warranty, the longest and most-certified coverage of any pick here. Assembly runs about 10 minutes, and it fits users from roughly 5'1\" to 6'2\".\n\nA genuine advantage here is that longest and most-certified warranty coverage in this guide. The tradeoff is narrower height range than the FitDesk FDX 3.0.",
-    specs: [
-      "Magnetic resistance, 8 levels",
-      "Max user weight 300 lbs",
-      "Two-direction desktop adjustment",
-      "TUV SUD certified",
-      "3-year frame warranty + 1-year mechanism warranty",
+    "id": "flexispot-deskcise-pro-v9",
+    "rank": 2,
+    "badge": "Best All-in-One Desk Bike",
+    "name": "FLEXISPOT Deskcise Pro V9",
+    "price": "$369.99",
+    "rating": "4.6",
+    "reviews": "1,439",
+    "imageUrl": "https://m.media-amazon.com/images/I/315FE6Y32HL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B079P5DJ3H?tag=theofficejournal-20",
+    "description": "The FLEXISPOT Deskcise Pro V9 is the all-in-one we would look at first: its desktop adjusts in two directions independently of the seat, it is TÜV SÜD certified, and it has a three-year frame and one-year mechanism warranty, the longest stated here.\n\nIt uses 8 levels of magnetic resistance, is rated for 300 lb, rolls on wheels and, according to FLEXISPOT, assembles in about 10 minutes. It fits users from about 5 ft 1 in to 6 ft 2 in.\n\nThat height range is narrower than the FitDesk's, and it costs more.",
+    "specs": [
+      "Resistance: magnetic, 8 levels",
+      "Max user weight: 300 lb (seat), 50 lb (desktop)",
+      "Desktop: two-direction adjustment",
+      "Certification: TÜV SÜD",
+      "Warranty: 3-year frame, 1-year mechanism",
+      "Listed height: 5'1\"–6'2\""
     ],
-    pros: [
-      "Highest rating of any pick in this guide",
-      "Longest and most-certified warranty coverage in this guide",
-      "Two-direction desktop adjustment for a better pedaling fit",
-      "Roughly 10-minute assembly",
+    "pros": [
+      "Adjustable desktop",
+      "Longest stated warranty here",
+      "TÜV SÜD certified"
     ],
-    cons: [
-      "Narrower height range than the FitDesk FDX 3.0",
-      "Pricier than the chair-only options",
-      "Fixed seat design, less padded than a dedicated office chair",
+    "cons": [
+      "Narrower height range than the FitDesk",
+      "Costs more than the FitDesk",
+      "Seat less padded than an office chair"
     ],
-    bestFor: "Buyers who want the best-reviewed, most certified desk bike in this guide",
+    "bestFor": "A self-contained pedal desk with a proper adjustable work surface.",
+    "summary": "A desk bike with a two-way adjustable desktop, TÜV SÜD certification and a three-year frame warranty.",
+    "skipIf": "You're under about 5 ft 1 in; the FitDesk lists a lower minimum."
   },
   {
-    id: "flexispot-deskcise-pro-v9-white",
-    rank: 3,
-    badge: "Same Build in White",
-    name: "FLEXISPOT Deskcise Pro V9 (White)",
-    price: "$369.99",
-    rating: "4.6",
-    reviews: "1,439",
-    imageUrl: "https://m.media-amazon.com/images/I/31jo4AAqY3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CTZXPS1T?tag=theofficejournal-20",
-    description:
-      "This is the identical Deskcise Pro V9 build in a white finish, carrying the same 8-level magnetic resistance, TUV SUD certification, and 300 lb seat capacity with a 50 lb desktop limit. If you'd rather match a lighter room palette without giving up any of the specs, this is the same machine in a different color.\n\nIts footprint runs roughly 5 square feet, the smallest of any pick in this guide, which makes it a reasonable fit for a tight corner where floor space is at a premium.\n\nSmallest floor footprint in this guide. On the other hand, white finish may show scuffs more visibly over time. Neither should be a surprise once you know to look for it.",
-    specs: [
-      "Magnetic resistance, 8 levels",
-      "Max user weight 300 lbs (seat), 50 lbs (desktop)",
-      "TUV SUD certified",
-      "Roughly 5 sq ft footprint, smallest in this guide",
-      "White finish",
+    "id": "flexispot-deskcise-pro-v9-white",
+    "rank": 3,
+    "badge": "Deskcise Pro V9 in White",
+    "name": "FLEXISPOT Deskcise Pro V9 (White)",
+    "price": "$369.99",
+    "rating": "4.6",
+    "reviews": "1,439",
+    "imageUrl": "https://m.media-amazon.com/images/I/31jo4AAqY3L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTZXPS1T?tag=theofficejournal-20",
+    "description": "This is the Deskcise Pro V9 in white: the same 8-level magnetic resistance, TÜV SÜD certification, 300 lb seat rating and 50 lb desktop limit, at the same price at the time of writing.\n\nFLEXISPOT lists a footprint of roughly 5 square feet.\n\nChoose between this and the standard color on finish alone; white may show scuffs more readily.",
+    "specs": [
+      "Resistance: magnetic, 8 levels",
+      "Max user weight: 300 lb (seat), 50 lb (desktop)",
+      "Certification: TÜV SÜD",
+      "Footprint: about 5 sq ft",
+      "Finish: white"
     ],
-    pros: [
-      "Same rating and specs as the standard Deskcise Pro V9",
-      "Smallest floor footprint in this guide",
-      "White finish suits lighter room decor",
-      "Same 3-year frame warranty coverage",
+    "pros": [
+      "Same specifications as the standard V9",
+      "Compact footprint",
+      "Lighter finish"
     ],
-    cons: [
-      "White finish may show scuffs more visibly over time",
-      "Same narrower height range as the standard color",
-      "No accessory bundle like the FitDesk FDX 3.0",
+    "cons": [
+      "White may show scuffs",
+      "Narrower height range than the FitDesk",
+      "No accessory bundle"
     ],
-    bestFor: "Buyers who want the Deskcise Pro V9 in a lighter finish for a small footprint",
+    "bestFor": "The Deskcise Pro V9 in a lighter room.",
+    "summary": "The same Deskcise Pro V9 in a white finish, with a footprint of about 5 square feet.",
+    "skipIf": "You prefer a darker finish; the standard V9 is the same bike."
   },
   {
-    id: "flexispot-3-in-1-white",
-    rank: 4,
-    badge: "Only True 3-in-1 Desk+Chair+Bike",
-    name: "FLEXISPOT 3-in-1 Standing Desk + Bike Chair (White)",
-    price: "$399.99",
-    rating: "New listing",
-    reviews: "Limited",
-    imageUrl: "https://m.media-amazon.com/images/I/31N9QQHVzHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G5646DSX?tag=theofficejournal-20",
-    description:
-      "This is the only pick in this guide that combines a standing desk, a chair, and an exercise bike into a single piece rather than pairing a bike chair with a desk you already own. An engineered wood desktop sits above the same 8-level magnetic resistance system used elsewhere in this lineup, with 4 wheels for repositioning the whole unit.\n\nIt's TUV SUD certified with roughly 15-minute assembly and fits users from about 5'1\" to 6'2\". This white colorway is a newer listing with a limited review count so far, so treat its track record as unproven rather than assuming it performs identically to FLEXISPOT's longer-established Deskcise Pro line.\n\nTUV SUD certified despite being a newer listing. That's a real strength, but weigh it against the flip side: very limited review history at this point, no proven track record yet.",
-    specs: [
-      "Standing desk + chair + exercise bike in one unit",
-      "Magnetic resistance, 8 levels",
-      "Max user weight 300 lbs (seat), 50 lbs (desktop)",
-      "4 wheels, TUV SUD certified",
-      "Roughly 15-minute assembly, fits users 5'1\" to 6'2\"",
+    "id": "flexispot-3-in-1-white",
+    "rank": 4,
+    "badge": "Best Bike-and-Standing-Desk Combo",
+    "name": "FLEXISPOT 3-in-1 Standing Desk + Bike Chair (White)",
+    "price": "$399.99",
+    "rating": "New listing",
+    "reviews": "Limited",
+    "imageUrl": "https://m.media-amazon.com/images/I/31N9QQHVzHL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5646DSX?tag=theofficejournal-20",
+    "description": "The FLEXISPOT 3-in-1 combines a standing desk, a seat and an exercise bike in one piece, with an engineered wood desktop over 8 levels of magnetic resistance and four wheels to move it.\n\nIt is TÜV SÜD certified, rated for 300 lb on the seat and 50 lb on the desktop, fits users from about 5 ft 1 in to 6 ft 2 in, and FLEXISPOT quotes about 15 minutes of assembly.\n\nIt is a newer listing with very little buyer feedback, it takes more floor space than the Deskcise Pro V9, and it was the most expensive option here at the time of writing.",
+    "specs": [
+      "Format: standing desk + seat + bike",
+      "Resistance: magnetic, 8 levels",
+      "Max user weight: 300 lb (seat), 50 lb (desktop)",
+      "Desktop: engineered wood",
+      "Wheels: 4",
+      "Certification: TÜV SÜD"
     ],
-    pros: [
-      "Only pick in this guide combining all three functions in one piece",
-      "TUV SUD certified despite being a newer listing",
-      "Engineered wood desktop with 4 repositioning wheels",
-      "Relatively quick assembly",
+    "pros": [
+      "Desk, seat and bike in one unit",
+      "TÜV SÜD certified",
+      "Wheeled"
     ],
-    cons: [
-      "Very limited review history at this point, no proven track record yet",
-      "Larger footprint than a chair-only bike",
-      "Same 50 lb desktop limit as the smaller Deskcise Pro line",
+    "cons": [
+      "Very little buyer feedback so far",
+      "Larger footprint",
+      "Most expensive here at the time of writing"
     ],
-    bestFor: "Buyers who want a single combined desk, chair, and bike unit and are comfortable with a newer listing",
+    "bestFor": "Anyone without a suitable desk who wants a single sit-and-pedal workstation.",
+    "summary": "A combined standing desk, chair and bike in one wheeled unit, TÜV SÜD certified.",
+    "skipIf": "You want a longer track record; the Deskcise Pro V9 has more buyer feedback."
   },
   {
-    id: "flexispot-3-in-1-black",
-    rank: 5,
-    badge: "Same Build in Black",
-    name: "FLEXISPOT 3-in-1 Standing Desk + Bike Chair (Black)",
-    price: "$399.99",
-    rating: "New listing",
-    reviews: "Limited",
-    imageUrl: "https://m.media-amazon.com/images/I/41EsIlFYf3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G564WX3G?tag=theofficejournal-20",
-    description:
-      "This is the identical 3-in-1 standing desk, chair, and bike combo above in a black finish, with the same 8-level resistance, 300 lb seat and 50 lb desktop capacity, 4 wheels, and TUV SUD certification. It's the pick for buyers who want the combined desk, chair, and bike design but prefer a darker finish.\n\nLike the white version, this specific listing also has a very limited review count so far, so weigh that honestly against the more established Deskcise Pro V9 if a longer track record matters to you.\n\nWorth calling out specifically: tUV SUD certified. The catch is very limited review history, no proven track record yet.",
-    specs: [
-      "Standing desk + chair + exercise bike in one unit",
-      "Magnetic resistance, 8 levels",
-      "Max user weight 300 lbs (seat), 50 lbs (desktop)",
-      "4 wheels, TUV SUD certified",
-      "Black finish",
+    "id": "flexispot-3-in-1-black",
+    "rank": 5,
+    "badge": "3-in-1 Combo in Black",
+    "name": "FLEXISPOT 3-in-1 Standing Desk + Bike Chair (Black)",
+    "price": "$399.99",
+    "rating": "New listing",
+    "reviews": "Limited",
+    "imageUrl": "https://m.media-amazon.com/images/I/41EsIlFYf3L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0G564WX3G?tag=theofficejournal-20",
+    "description": "This is the FLEXISPOT 3-in-1 in black, with the same 8-level resistance, 300 lb seat and 50 lb desktop ratings, four wheels and TÜV SÜD certification, at the same price at the time of writing.\n\nLike the white version, it is a newer listing with very little buyer feedback.\n\nChoose between the two on finish; a darker finish may hide scuffs better.",
+    "specs": [
+      "Format: standing desk + seat + bike",
+      "Resistance: magnetic, 8 levels",
+      "Max user weight: 300 lb (seat), 50 lb (desktop)",
+      "Wheels: 4",
+      "Certification: TÜV SÜD",
+      "Finish: black"
     ],
-    pros: [
-      "Identical specs to the white 3-in-1 version",
-      "TUV SUD certified",
-      "Darker finish hides scuffs better than white",
-      "Combines desk, chair, and bike in one purchase",
+    "pros": [
+      "Same specifications as the white 3-in-1",
+      "Darker finish",
+      "Desk, seat and bike in one"
     ],
-    cons: [
-      "Very limited review history, no proven track record yet",
-      "Larger footprint than a chair-only bike",
-      "Same 50 lb desktop limit as the smaller Deskcise Pro line",
+    "cons": [
+      "Very little buyer feedback so far",
+      "Larger footprint",
+      "Most expensive here at the time of writing"
     ],
-    bestFor: "Buyers who want the 3-in-1 combo in a darker finish",
+    "bestFor": "The 3-in-1 combo in a darker room.",
+    "summary": "The same FLEXISPOT 3-in-1 desk, seat and bike combo in a black finish.",
+    "skipIf": "You prefer white; the other 3-in-1 listing is identical."
   },
   {
-    id: "flexispot-multi-task-chair-bike",
-    rank: 6,
-    badge: "Best Compact Chair+Bike for an Existing Desk",
-    name: "FLEXISPOT Multi-Task Desk Chair with Integrated Bike",
-    price: "$249.99",
-    rating: "4.8",
-    reviews: "24",
-    imageUrl: "https://m.media-amazon.com/images/I/51Fda3llM5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GYVWTS7X?tag=theofficejournal-20",
-    description:
-      "This is the only pick in this guide built to pair with a desk you already own rather than including its own desktop, an alloy steel armless frame with low-back lumbar support and an enlarged, ventilated seat. Its roughly 5-square-foot footprint and silent rolling wheels make it easy to slide under an existing standing desk.\n\nAdjustable seat height and back support let it fit a range of desk heights, and it carries a 300 lb max user weight. It holds the highest rating of any pick in this guide, though that comes from a much smaller review sample than the FLEXISPOT and FitDesk units above, so weigh the rating with that context in mind.\n\nDesigned to slide under a desk you already own. Set against that, rating is based on a much smaller review sample than other top picks. Both matter when comparing it to the other picks here.",
-    specs: [
-      "Alloy steel frame, armless design",
-      "Low-back lumbar support, ventilated seat",
-      "Max user weight 300 lbs",
-      "Roughly 5 sq ft footprint, silent rolling wheels",
-      "Adjustable seat height and back support",
+    "id": "flexispot-multi-task-chair-bike",
+    "rank": 6,
+    "badge": "Best Bike Chair for an Existing Desk",
+    "name": "FLEXISPOT Multi-Task Desk Chair with Integrated Bike",
+    "price": "$249.99",
+    "rating": "4.8",
+    "reviews": "24",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Fda3llM5L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYVWTS7X?tag=theofficejournal-20",
+    "description": "The FLEXISPOT Multi-Task chair is designed to replace your office chair at a desk you already own: it has an alloy steel armless frame, low-back lumbar support and an enlarged ventilated seat.\n\nSeat height and back support adjust, it rolls on wheels, it is rated for 300 lb and FLEXISPOT lists a footprint of about 5 square feet. It was cheaper than any of the all-in-one units at the time of writing.\n\nYou need a desk tall enough for your knees while pedaling, and its buyer feedback, though positive, comes from a small number of reviews. It has no arms.",
+    "specs": [
+      "Frame: alloy steel, armless",
+      "Back: low-back lumbar support",
+      "Seat: enlarged, ventilated",
+      "Max user weight: 300 lb",
+      "Footprint: about 5 sq ft",
+      "Adjustable seat height and back"
     ],
-    pros: [
-      "Highest rating in this guide",
-      "Designed to slide under a desk you already own",
-      "Compact roughly 5 sq ft footprint",
-      "Cheaper than any of the full desk+bike combos",
+    "pros": [
+      "Works with a desk you own",
+      "Lumbar support",
+      "Lower price than all-in-ones"
     ],
-    cons: [
-      "Rating is based on a much smaller review sample than other top picks",
-      "No built-in desktop, requires an existing desk with enough clearance",
-      "Armless design offers less arm support than a standard office chair",
+    "cons": [
+      "Needs a suitable desk",
+      "No armrests",
+      "Small number of reviews so far"
     ],
-    bestFor: "Buyers who already have a standing desk and just want the bike/chair part",
+    "bestFor": "Owners of a standing or tall desk who want a pedaling seat.",
+    "summary": "A steel-framed bike chair with lumbar support and a ventilated seat, for use at your own desk.",
+    "skipIf": "You need a higher weight rating; the HitGo is rated to 330 lb."
   },
   {
-    id: "hitgo-office-exercise-bike-chair",
-    rank: 7,
-    badge: "Highest Weight Capacity",
-    name: "HitGo Office Exercise Bike Desk Chair",
-    price: "$279.99",
-    rating: "4.2",
-    reviews: "36",
-    imageUrl: "https://m.media-amazon.com/images/I/41hZwhjJuOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FSD4QC2C?tag=theofficejournal-20",
-    description:
-      "The HitGo carries a 330 lb max user weight, the highest capacity of any pick in this guide, on a carbon steel frame with 8-level magnetic resistance. A 9-level seat height adjustment from 24.4 to 33.8 inches, combined with 4-way seat movement (up, down, front, back), gives it more fit flexibility than most chair-only bikes.\n\nIt's rated under 30dB and designed to fit under an existing standing desk, with rolling wheels and under 20-minute assembly. Its review count is on the smaller side, so treat the 4.2-star average as an early read rather than a large-sample verdict.\n\nA genuine advantage here is that 9-level seat height plus 4-way seat movement for a precise fit. The tradeoff is smaller review sample than the top-ranked picks.",
-    specs: [
-      "Carbon steel frame, magnetic resistance, 8 levels",
-      "Max user weight 330 lbs (highest in this guide)",
-      "9-level seat height adjustment, 24.4 to 33.8 inches",
-      "4-way seat movement, rated under 30dB",
-      "Rolling wheels, under 20-minute assembly",
+    "id": "hitgo-office-exercise-bike-chair",
+    "rank": 7,
+    "badge": "Best Adjustable Bike Chair",
+    "name": "HitGo Office Exercise Bike Desk Chair",
+    "price": "$279.99",
+    "rating": "4.2",
+    "reviews": "36",
+    "imageUrl": "https://m.media-amazon.com/images/I/41hZwhjJuOL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSD4QC2C?tag=theofficejournal-20",
+    "description": "The HitGo offers the most seat adjustment of the chair-style bikes: 9 seat-height positions from 24.4 to 33.8 inches, plus 4-way movement up, down, forward and back. It is also rated for 330 lb, the highest here.\n\nIt has a carbon steel frame, 8 levels of magnetic resistance and rolling wheels. HitGo rates it under 30dB and quotes under 20 minutes of assembly.\n\nLike the FLEXISPOT Multi-Task, it needs a desk of suitable height, and it has limited buyer feedback so far.",
+    "specs": [
+      "Frame: carbon steel",
+      "Resistance: magnetic, 8 levels",
+      "Seat height: 24.4–33.8\", 9 levels",
+      "Seat movement: 4-way",
+      "Noise: under 30dB (per manufacturer)",
+      "Max user weight: 330 lb"
     ],
-    pros: [
-      "Highest weight capacity of any pick in this guide",
-      "9-level seat height plus 4-way seat movement for a precise fit",
-      "Rated under 30dB for quieter operation",
-      "Quick under-20-minute assembly",
+    "pros": [
+      "Highest weight rating here",
+      "Most seat adjustment",
+      "Noise figure listed"
     ],
-    cons: [
-      "Smaller review sample than the top-ranked picks",
-      "No built-in desktop, needs an existing desk",
-      "Premium cushion adds bulk versus a slimmer chair-only design",
+    "cons": [
+      "Needs a suitable desk",
+      "Limited buyer feedback",
+      "Bulkier cushion than the FLEXISPOT chair"
     ],
-    bestFor: "Heavier users who need the highest weight capacity in a chair-only desk bike",
+    "bestFor": "Heavier users, or anyone who needs precise seat positioning at their own desk.",
+    "summary": "A bike chair with 9-level seat height, 4-way seat movement and the highest weight rating here, 330 lb.",
+    "skipIf": "You don't have a tall desk; an all-in-one like the Deskcise Pro V9 includes one."
   },
   {
-    id: "kom-cycling-indoor-cycling-desk",
-    rank: 8,
-    badge: "Cheapest + Best for Pairing with a Spin Bike You Already Own",
-    name: "KOM Cycling Indoor Cycling Desk",
-    price: "$109.99",
-    rating: "4.5",
-    reviews: "434",
-    imageUrl: "https://m.media-amazon.com/images/I/41Au8rKfXZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08L45F72S?tag=theofficejournal-20",
-    description:
-      "This is the only pick in this guide that isn't a bike itself, an aluminum tripod desk stand designed to sit over a spin bike or indoor trainer you already own. A non-slip rubber surface and two water bottle slots keep a laptop and drink steady while you pedal, and it's compatible with Zwift, TrainerRoad, and Wahoo setups.\n\nAt 9.2 lbs with a height-adjustable stand and no assembly required, it's the cheapest and simplest pick here by a wide margin. It only makes sense if you already own a bike or trainer, since it doesn't include one.\n\nLightweight and requires no assembly. On the other hand, doesn't include a bike, only works if you already own one. Neither should be a surprise once you know to look for it.",
-    specs: [
-      "Aluminum tripod desk stand",
-      "Non-slip rubber surface, two water bottle slots",
-      "Height adjustable, 9.2 lbs",
-      "No assembly required",
-      "Compatible with Zwift, TrainerRoad, Wahoo",
+    "id": "kom-cycling-indoor-cycling-desk",
+    "rank": 8,
+    "badge": "Best for a Bike You Already Own",
+    "name": "KOM Cycling Indoor Cycling Desk",
+    "price": "$109.99",
+    "rating": "4.5",
+    "reviews": "434",
+    "imageUrl": "https://m.media-amazon.com/images/I/41Au8rKfXZL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08L45F72S?tag=theofficejournal-20",
+    "description": "The KOM Cycling desk is not a bike: it is a height-adjustable aluminum tripod stand that sits over a spin bike or indoor trainer you already own, and it was the lowest-priced option here at the time of writing.\n\nIt has a non-slip rubber surface and two water bottle slots, weighs 9.2 lb, needs no assembly, and KOM lists compatibility with Zwift, TrainerRoad and Wahoo setups.\n\nIt only makes sense if you have a bike, and it offers no seating or storage of its own.",
+    "specs": [
+      "Type: tripod desk stand (no bike)",
+      "Frame: aluminum",
+      "Weight: 9.2 lb",
+      "Surface: non-slip rubber",
+      "Extras: 2 bottle slots",
+      "Assembly: none required"
     ],
-    pros: [
-      "Cheapest pick in this guide",
-      "Lightweight and requires no assembly",
-      "Compatible with popular indoor cycling apps",
-      "Adjustable height fits a range of bike setups",
+    "pros": [
+      "Lowest price here at the time of writing",
+      "No assembly",
+      "Light and height-adjustable"
     ],
-    cons: [
-      "Doesn't include a bike, only works if you already own one",
-      "No storage or accessory features",
-      "Not a seated chair option like the other picks",
+    "cons": [
+      "Requires your own bike or trainer",
+      "Small work surface",
+      "No storage"
     ],
-    bestFor: "Buyers who already own a spin bike or trainer and just need a stable desk stand",
-  },
-];
-
-export interface HowWeEvaluatedItem {
-  title: string;
-  description: string;
-}
-
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  {
-    title: "Resistance quality and range",
-    description: "Compared magnetic versus friction resistance systems and the number of resistance levels offered, since magnetic systems run quieter and adjust more smoothly during a work call.",
-  },
-  {
-    title: "Weight capacity and fit range",
-    description: "Checked max user weight and seat height adjustability against the buyer heights each listing claims to fit, since a bike rated for one body type poorly can be uncomfortable well before it's unsafe.",
-  },
-  {
-    title: "Desk clearance and footprint",
-    description: "Weighed whether a pick includes its own desktop versus needing to fit under an existing desk, and compared floor footprint for buyers working in a tight home office.",
-  },
-  {
-    title: "Certification and warranty coverage",
-    description: "Checked for third-party certifications like TUV SUD and compared frame and mechanism warranty length, since a seated bike under daily use benefits from real coverage.",
-  },
-  {
-    title: "Review sample honesty",
-    description: "Flagged listings with a small review count rather than treating every star rating as equally proven, since a 4.8-star average from 24 reviews carries different weight than 4.6 stars from 1,439.",
-  },
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
-  {
-    "criterion": "Match actual size and capacity to your real need, not the category label alone",
-    "explanation": "Listings for a desk bike often use a size or capacity label (\"compact,\" \"large,\" \"heavy-duty\") that isn't standardized across brands, so the same label can mean meaningfully different actual dimensions or capacity from one product to the next.\n\nThis matters because buying based on the category label rather than the specific listed dimensions or capacity is a common way to end up with something that doesn't actually fit your space or handle your real load.\n\nCheck the listing for exact measurements or a stated capacity figure, and compare that directly against your actual space or need, not just the marketing size category."
-  },
-  {
-    "criterion": "Verify build material and construction quality from reviews, not just spec-sheet claims",
-    "explanation": "A product description can describe material or construction in flattering terms that don't always hold up under real, sustained use, and the gap between a listing's claimed quality and its actual durability only shows up in how the product performs after weeks or months of real use, not in day-one photos.\n\nThis matters more for anything you'll use daily or under real load, less for occasional light use where durability matters less.\n\nCheck reviews specifically for mentions of how the desk bike holds up over time, not just unboxing-day impressions, and treat a listing's own quality claims as a starting point to verify, not a guarantee."
-  },
-  {
-    "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this desk bike over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
-  },
-  {
-    "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any desk bike you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
-  },
-  {
-    "criterion": "Check compatibility and fit with your existing setup before ordering",
-    "explanation": "A desk bike that looks like a straightforward fit in photos can still have a compatibility detail, a connector type, a mounting requirement, a size threshold, that doesn't match your existing setup, and this kind of mismatch is one of the most common and avoidable reasons for a return.\n\nThis matters directly if the product needs to physically connect to, mount on, or otherwise integrate with something you already own.\n\nCheck the listing's specific compatibility details against your exact existing setup, not just the general product category, before ordering."
+    "bestFor": "Spin bike or smart-trainer owners who want a laptop surface while riding.",
+    "summary": "A 9.2 lb aluminum tripod desk that stands over a spin bike or smart trainer.",
+    "skipIf": "You don't own a bike; any of the other seven is a complete solution."
   }
 ];
 
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
+export const howWeEvaluated = [
+  {
+    "title": "Format",
+    "description": "We grouped bikes by whether they include a work surface, replace a chair, or support a bike you own."
+  },
+  {
+    "title": "Fit and capacity",
+    "description": "We compared listed user heights, seat adjustment and weight ratings."
+  },
+  {
+    "title": "Work surface",
+    "description": "We compared desktop adjustment and desktop load limits where listed."
+  },
+  {
+    "title": "Certification, warranty and price",
+    "description": "We noted certifications and warranties and compared prices at the time of writing."
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "Choose the format first",
+    "explanation": "All-in-one units include a work surface; bike chairs need your own desk; the KOM stand needs your own bike."
+  },
+  {
+    "criterion": "Check height range and seat adjustment",
+    "explanation": "Listed user heights vary: the FitDesk from about 4 ft 10 in, the FLEXISPOT units from about 5 ft 1 in to 6 ft 2 in. The HitGo lists a 24.4- to 33.8-inch seat range."
+  },
+  {
+    "criterion": "Measure your desk for a bike chair",
+    "explanation": "Your knees rise with each pedal stroke, so a bike chair needs a desk tall enough with clear space underneath. A standing desk makes this easier to set."
+  },
+  {
+    "criterion": "Compare capacity and warranty",
+    "explanation": "Ratings here are 300 to 330 lb. FLEXISPOT's Deskcise Pro V9 lists the longest warranty."
+  }
+];
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "subheading": "By setup",
     "table": {
       "headers": [
-        "Your priority",
-        "Recommended pick"
+        "Your situation",
+        "Consider"
       ],
       "rows": [
         [
-          "Highest average rating",
-          "FLEXISPOT Multi"
+          "No suitable desk, want adjustable desktop",
+          "FLEXISPOT Deskcise Pro V9"
         ],
         [
-          "Largest review base, strongest reliability signal",
+          "No desk, want accessories and folding",
           "FitDesk FDX 3.0"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Under $110",
-          "KOM Cycling Indoor Cycling Desk"
         ],
         [
-          "Up to $400",
-          "FLEXISPOT 3"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "KOM Cycling Indoor Cycling Desk vs FLEXISPOT 3",
-    "cards": [
-      {
-        "label": "KOM Cycling Indoor Cycling Desk",
-        "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
-      },
-      {
-        "label": "FLEXISPOT 3",
-        "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
-      }
-    ],
-    "note": "Default to KOM Cycling Indoor Cycling Desk unless your specific need genuinely calls for the pricier pick's extra headroom."
-  },
-  {
-    "subheading": "By Review Base Confidence",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
+          "Want a standing desk and bike in one",
+          "FLEXISPOT 3-in-1"
+        ],
         [
-          "Largest, most-established review base",
-          "FitDesk FDX 3.0"
+          "Have a tall or standing desk",
+          "FLEXISPOT Multi-Task or HitGo"
+        ],
+        [
+          "Own a spin bike or trainer",
+          "KOM Cycling desk"
         ]
       ]
     }
-  },
-  {
-    "subheading": "For a First-Time Buyer Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
-      },
-      {
-        "label": "In this comparison",
-        "text": "FitDesk FDX 3.0 is worth checking against its listed specs before buying, given its strong review base."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need real durability and feature depth for regular use, where FLEXISPOT 3's build gives real headroom over the cheaper picks."
-      },
-      {
-        "label": "Save if",
-        "text": "You only need this for light or occasional use, where KOM Cycling Indoor Cycling Desk covers the same job at a lower price."
-      }
-    ]
   }
 ];
 
-export const faq: FaqItem[] = [
+export const faq = [
   {
-    q: "How much clearance do I need under my desk for a desk bike?",
-    a: "Under-desk fitness equipment like a desk bike chair generally needs about 9-12 inches of vertical clearance between the floor and the underside of the desk. Standard desks run 28-30 inches tall, but crossbars, drawers, and cable trays can reduce that usable gap, so measure the actual opening rather than relying on the desk's listed height alone.",
+    "q": "How much clearance do I need under my desk?",
+    "a": "For a bike chair, the desk must clear your knees at the top of each pedal stroke. Sit on the bike at your working seat height, pedal slowly and measure the knee height, then compare it with the underside of your desk, including any crossbars or drawers."
   },
   {
-    q: "Should I buy a chair-only desk bike or a full 3-in-1 combo?",
-    a: "If you already have a standing desk with enough clearance underneath, a chair-only pick like the FLEXISPOT Multi-Task Desk Chair or HitGo saves money and floor space. If you don't have a suitable desk yet, a 3-in-1 combo like the FLEXISPOT Standing Desk + Bike Chair solves both the desk and the bike in one purchase, at the cost of a larger footprint.",
+    "q": "Bike chair or all-in-one?",
+    "a": "If you already have a standing desk, a bike chair like the FLEXISPOT Multi-Task or HitGo saves money and space. If not, an all-in-one like the Deskcise Pro V9 includes the work surface."
   },
   {
-    q: "Are desk bikes noisy during video calls?",
-    a: "Magnetic resistance systems, used by every pick in this guide, run quieter than friction resistance. Aim for equipment rated under 15dB for near-silent operation on calls, with up to 30dB still tolerable but audible in the background, which is roughly where the HitGo's stated rating lands.",
+    "q": "Are desk bikes noisy?",
+    "a": "All the bikes here use magnetic resistance, which avoids friction contact. HitGo lists under 30dB; the others don't give figures."
   },
   {
-    q: "Is it safe to buy a desk bike with only a small number of reviews?",
-    a: "A high rating from a small review sample, like the FLEXISPOT Multi-Task Desk Chair's 4.8 stars from 24 reviews or either 3-in-1 combo's very limited review count, is a promising early signal but not the same level of proof as a listing with over 1,000 reviews like the Deskcise Pro V9. It's not necessarily unsafe, but it's a smaller sample and should be weighed as such.",
+    "q": "What weight rating do I need?",
+    "a": "Ratings here run from 300 to 330 lb. Choosing a rating with some margin above your weight is the cautious approach."
   },
   {
-    q: "What weight capacity should I look for in a desk bike?",
-    a: "The picks in this guide range from 300 to 330 lbs max user weight. It's worth leaving some margin below a listing's stated capacity rather than buying right at the limit, since that generally means a more stable ride and less wear over time.",
-  },
-  {
-    q: "Can I use my existing spin bike with a desk setup instead of buying a bike chair?",
-    a: "Yes. The KOM Cycling Indoor Cycling Desk is a standalone aluminum tripod stand designed to sit over a spin bike or indoor trainer you already own, rather than a chair/bike combo. It's the cheapest pick in this guide but only makes sense if you already have a bike or trainer to pair it with.",
-  },
+    "q": "Can I use my own spin bike?",
+    "a": "Yes, with a stand like the KOM Cycling desk, which sits over a bike or trainer you already own."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-under-desk-treadmill", title: "Best Under-Desk Treadmills in 2026" },
-  { href: "/guide/best-compact-under-desk-treadmill", title: "Best Compact Under-Desk Treadmills in 2026" },
-  { href: "/guide/best-adjustable-under-desk-footrests", title: "Best Adjustable Under-Desk Footrests" },
+export const bottomLine = [
+  "Without a suitable desk, the FLEXISPOT Deskcise Pro V9 is the all-in-one to consider first for its adjustable desktop and warranty; the FitDesk FDX 3.0 folds away and includes the most accessories, and the FLEXISPOT 3-in-1 adds a standing desk at a higher price.",
+  "With a tall or standing desk already in place, a bike chair is the lower-cost route: the HitGo for capacity and seat adjustment, the FLEXISPOT Multi-Task for lumbar support. If you own a spin bike, the KOM stand is all you need."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-under-desk-treadmill",
+    "title": "Best Under-Desk Treadmills in 2026"
+  },
+  {
+    "href": "/guide/best-compact-under-desk-treadmill",
+    "title": "Best Compact Under-Desk Treadmills in 2026"
+  },
+  {
+    "href": "/guide/best-adjustable-under-desk-footrests",
+    "title": "Best Adjustable Under-Desk Footrests"
+  }
 ];

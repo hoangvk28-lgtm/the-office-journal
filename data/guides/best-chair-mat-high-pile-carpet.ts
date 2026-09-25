@@ -1,492 +1,431 @@
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+
 export const guideSlug = "best-chair-mat-high-pile-carpet";
-export const guideTitle = "8 Best Chair Mats for High Pile Carpet in 2026";
-export const metaTitle = "Best Chair Mats for High Pile Carpet in 2026 (Extra-High Pile Rated)";
-export const metaDescription =
-  "8 best chair mats for high pile carpet in 2026, from extra-high-pile-rated vinyl to rigid polycarbonate and glass. Compare pile depth ratings and stability.";
+
+export const guideTitle = "The Best Chair Mats for High-Pile and Extra-Thick Carpet";
+
+export const breadcrumbLabel = "Best Chair Mats for High Pile Carpet";
+
+export const metaTitle = "Best Chair Mats for High Pile Carpet: Pile Ratings Compared (2026)";
+
+export const metaDescription = "We compared chair mats for thick carpet by pile rating, cleat design, rigidity, size and warranty, and explain which mats are rated for extra-high pile and which only reach 3/4 inch.";
+
 export const mainKeyword = "chair mat for high pile carpet";
+
 export const introParagraphs = [
-  "A standard chair mat rated for low pile carpet will sink into high pile carpet almost as soon as you sit down, leaving the chair's casters buried in fiber with nothing solid to roll against. High pile carpet, generally anything deeper than 3/4\", needs a mat specifically rated for that depth, with longer studs or cleats on the underside that actually reach through the pile to grip the backing, or a rigid material thick enough to bridge the pile without sinking.",
-  "Below are 8 chair mats we evaluated on pile-depth rating, underside cleat design, and rigidity on deep carpet, ranging from a $59.99 rigid dual-use mat to a $161.98 mat sized at 60\"x72\" for medium pile.",
+  "On thick carpet, a standard chair mat sinks almost as soon as you sit down, and the casters end up pressing into the fibers rather than rolling. A mat for deep carpet needs either long cleats that reach through the pile to grip the backing, or enough rigidity to bridge the pile without flexing, and ideally a pile rating that matches your carpet.",
+  "Pile ratings are the key number, and they vary more than product names suggest. Only two mats here, both from ES Robbins, are rated for extra-high pile over 1 inch including padding. Several others are rated up to 3/4 inch, and the glass and 5mm rigid mats rely on stiffness rather than a specific pile rating.",
+  "Our comparison is based on published specifications, including pile rating, size, thickness, capacity and warranty, plus price position, not hands-on testing. Measure your carpet before choosing."
 ];
+
 export const lastUpdated = "2026-07-18";
+
 export const readTime = "10 min";
+
 export const heroImage = "https://m.media-amazon.com/images/I/61Tqz6OiuCL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string;
-  rank: number;
-  badge: string;
-  name: string;
-  price: string;
-  rating: string;
-  reviews: string;
-  imageUrl: string;
-  amazonUrl: string;
-  description: string;
-  specs: string[];
-  pros: string[];
-  cons: string[];
-  bestFor: string;
-}
-
-export interface BuyingCriterion {
-  criterion: string;
-  explanation: string;
-}
-
-export interface FaqItem {
-  q: string;
-  a: string;
-}
 
 export const products: GuideProduct[] = [
   {
-    id: "es-robbins-extra-high-pile-lip",
-    rank: 1,
-    badge: "Only Extra-High-Pile Rated (Standard Size)",
-    name: "ES Robbins Extra High Pile Chair Mat with Lip",
-    price: "$88.42",
-    rating: "3.7",
-    reviews: "922",
-    imageUrl: "https://m.media-amazon.com/images/I/61Tqz6OiuCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B009LEIQXY?tag=theofficejournal-20",
-    description:
-      "The ES Robbins Extra High Pile mat is the only standard-size pick in this guide actually rated for extra-high pile over 1\", including any padding underneath. At 0.2\" thick vinyl, sized 36\"x48\" plus a lip, its AnchorBar cleats are long enough to reach through deep pile and grip the carpet backing directly.\n\nA beveled edge smooths the chair's transition onto the mat, and it's GREENGUARD Gold certified with no phthalates or cadmium. Made in the USA and backed by a lifetime warranty, it's built for the exact depth of carpet that causes standard mats to fail.\n\nAnchorBar cleats reach through deep pile to the backing. Set against that, lower rating than the dual-use rigid picks in this guide. Both matter when comparing it to the other picks here.",
-    specs: [
-      "36\"x48\" + lip, vinyl 0.2\" thick",
-      "Rated for extra-high pile over 1\" including padding",
+    "id": "es-robbins-extra-high-pile-lip",
+    "rank": 1,
+    "badge": "Best for Extra-High Pile",
+    "name": "ES Robbins Extra High Pile Chair Mat with Lip",
+    "price": "$88.42",
+    "rating": "3.7",
+    "reviews": "922",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Tqz6OiuCL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B009LEIQXY?tag=theofficejournal-20",
+    "description": "The ES Robbins Extra High Pile mat is the one to start with if your carpet is genuinely deep: it is rated for extra-high pile over 1 inch including padding, and its AnchorBar cleats are designed to reach through to the backing.\n\nIt is 0.2-inch vinyl in a standard 36 x 48-inch size with a lip, and adds a beveled edge. ES Robbins lists GREENGUARD Gold certification, US manufacturing and a lifetime warranty.\n\nThe standard size may feel tight at a large desk; the Everlife version is larger at a higher price.",
+    "specs": [
+      "Size: 36 x 48\" plus lip",
+      "Material: vinyl, 0.2\"",
+      "Rated for: extra-high pile over 1\" including padding",
       "AnchorBar cleats, beveled edge",
-      "GREENGUARD Gold certified, phthalate and cadmium free",
-      "Made in USA, lifetime warranty",
+      "GREENGUARD Gold",
+      "Warranty: lifetime"
     ],
-    pros: [
-      "Only standard-size pick in this guide rated for extra-high pile over 1\"",
-      "AnchorBar cleats reach through deep pile to the backing",
-      "GREENGUARD Gold certified",
+    "pros": [
+      "Rated for the deepest carpet",
       "Lifetime warranty",
+      "GREENGUARD Gold"
     ],
-    cons: [
-      "Lower rating than the dual-use rigid picks in this guide",
-      "Standard 36\"x48\" footprint may feel small for a large desk",
-      "Vinyl cleats need periodic checking for wear on very deep pile",
+    "cons": [
+      "Standard size",
+      "Vinyl rather than rigid polycarbonate"
     ],
-    bestFor: "Standard-size desks sitting on genuinely extra-high pile carpet, over 1\" including padding",
+    "bestFor": "Standard desks on extra-high pile or padded carpet.",
+    "summary": "A 36 x 48-inch vinyl mat with a lip, rated for pile over 1 inch including padding, with a lifetime warranty.",
+    "skipIf": "Your chair covers a wider area; the Everlife extra-high pile mat is 45 x 53 inches."
   },
   {
-    id: "es-robbins-everlife-extra-high-pile-large",
-    rank: 2,
-    badge: "Only Extra-High-Pile Rated (Large Size)",
-    name: "ES Robbins Everlife Extra High Pile Chair Mat",
-    price: "$113.48",
-    rating: "3.8",
-    reviews: "123",
-    imageUrl: "https://m.media-amazon.com/images/I/61oh0YQV+uL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B004DRB4OC?tag=theofficejournal-20",
-    description:
-      "This Everlife mat carries the same extra-high pile over 1\" rating as the standard-size ES Robbins pick above, but in a much larger 45\"x53\" footprint plus a 25\"x12\" lip. That extra room matters on deep pile, since a larger surface gives the chair more room to roll before running off the edge and back into the pile.\n\nThe same AnchorBar cleats and beveled edge carry over, and ES Robbins backs it with a 'No Crack' lifetime warranty built for multi-shift heavy use. It's Made in the USA, the same as the rest of the ES Robbins lineup in this guide.\n\nA genuine advantage here is that same deep-pile AnchorBar cleat design as the standard-size ES Robbins pick. The tradeoff is smaller review sample than most other picks in this guide.",
-    specs: [
-      "45\"x53\" + 25\"x12\" lip, vinyl 0.2\" thick",
-      "Rated for extra-high pile over 1\"",
+    "id": "es-robbins-everlife-extra-high-pile-large",
+    "rank": 2,
+    "badge": "Best Large Extra-High-Pile Mat",
+    "name": "ES Robbins Everlife Extra High Pile Chair Mat",
+    "price": "$113.48",
+    "rating": "3.8",
+    "reviews": "123",
+    "imageUrl": "https://m.media-amazon.com/images/I/61oh0YQV+uL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B004DRB4OC?tag=theofficejournal-20",
+    "description": "The ES Robbins Everlife extra-high pile mat carries the same over-1-inch rating as the standard version in a larger 45 x 53-inch size with a 25 x 12-inch lip.\n\nOn deep pile, a larger mat gives the chair more room before a caster drops off the edge. ES Robbins describes it as built for multi-shift use and backs it with a lifetime \"No Crack\" warranty. It uses the same AnchorBar cleats and beveled edge.\n\nIt costs about $25 more than the standard size at the time of writing and has fewer buyer reviews.",
+    "specs": [
+      "Size: 45 x 53\" plus 25 x 12\" lip",
+      "Material: vinyl, 0.2\"",
+      "Rated for: extra-high pile over 1\"",
       "AnchorBar cleats, beveled edge",
-      "'No Crack' lifetime warranty, built for multi-shift use",
-      "Made in USA",
+      "Warranty: lifetime 'No Crack'"
     ],
-    pros: [
-      "Largest footprint among the extra-high-pile-rated picks in this guide",
-      "Same deep-pile AnchorBar cleat design as the standard-size ES Robbins pick",
-      "Built for multi-shift heavy use",
-      "Lifetime 'No Crack' warranty",
+    "pros": [
+      "Largest extra-high-pile mat here",
+      "Lifetime warranty",
+      "More rolling room"
     ],
-    cons: [
-      "Smaller review sample than most other picks in this guide",
-      "Larger footprint needs more clearance around the desk",
-      "Pricier than the standard-size extra-high-pile pick",
+    "cons": [
+      "Costs more than the standard size",
+      "Fewer buyer reviews"
     ],
-    bestFor: "Larger desks on extra-high pile carpet that need more rolling room than a standard-size mat gives",
+    "bestFor": "Larger desks on extra-high pile carpet.",
+    "summary": "The same extra-high pile rating in a 45 x 53-inch size with a large lip.",
+    "skipIf": "A 36 x 48-inch mat covers your chair's range; the standard ES Robbins costs less."
   },
   {
-    id: "es-robbins-everlife-medium-pile-large",
-    rank: 3,
-    badge: "Largest Medium-Pile Vinyl Mat",
-    name: "ES Robbins EverLife Carpet ChairMat Medium Pile",
-    price: "$161.98",
-    rating: "3.8",
-    reviews: "1,234",
-    imageUrl: "https://m.media-amazon.com/images/I/514JrwWuWeL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00620W1U4?tag=theofficejournal-20",
-    description:
-      "At 60\"x72\", this is the largest single mat in this entire guide, though it's built for medium pile carpet up to 3/4\" rather than extra-high pile. If your carpet measures just under the high-pile threshold, this size gives a shared or multi-position desk far more coverage than any standard-size mat.\n\nAnchorBar cleats and a lifetime 'No Crack' warranty carry over from the rest of the ES Robbins lineup, along with GREENGUARD certification and USA manufacturing. Measure your pile depth carefully before choosing this over the extra-high-pile picks above, since it isn't rated for pile over 3/4\".\n\nGREENGUARD certified and Made in USA. On the other hand, rated only up to 3/4\" pile, not for genuinely deep high pile. Neither should be a surprise once you know to look for it.",
-    specs: [
-      "60\"x72\" (largest mat in this guide), vinyl 0.13\" thick",
-      "Rated for medium pile carpet up to 3/4\"",
+    "id": "es-robbins-everlife-medium-pile-large",
+    "rank": 3,
+    "badge": "Largest Mat for Medium Pile",
+    "name": "ES Robbins EverLife Carpet ChairMat Medium Pile",
+    "price": "$161.98",
+    "rating": "3.8",
+    "reviews": "1,234",
+    "imageUrl": "https://m.media-amazon.com/images/I/514JrwWuWeL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B00620W1U4?tag=theofficejournal-20",
+    "description": "The ES Robbins EverLife medium-pile mat is for large work areas rather than deep carpet: at 60 x 72 inches it is the biggest mat here, but it is rated for carpet only up to 3/4 inch.\n\nThat suits a shared desk, an L-shaped desk or a chair that moves between two work surfaces. It has AnchorBar cleats, GREENGUARD certification, US manufacturing and a lifetime \"No Crack\" warranty.\n\nIt is the most expensive mat here at the time of writing and needs a lot of floor. Measure your carpet: if it is deeper than 3/4 inch, choose one of the extra-high-pile mats.",
+    "specs": [
+      "Size: 60 x 72\"",
+      "Material: vinyl, 0.13\"",
+      "Rated for: carpet up to 3/4\"",
       "AnchorBar cleats",
-      "GREENGUARD certified, Made in USA",
-      "Lifetime 'No Crack' warranty",
+      "GREENGUARD certified",
+      "Warranty: lifetime 'No Crack'"
     ],
-    pros: [
-      "Largest single mat in this guide at 60\"x72\"",
-      "GREENGUARD certified and Made in USA",
-      "Lifetime warranty against cracking",
-      "Ideal coverage for shared or multi-position desks",
+    "pros": [
+      "Largest mat here",
+      "Lifetime warranty",
+      "GREENGUARD certified"
     ],
-    cons: [
-      "Rated only up to 3/4\" pile, not for genuinely deep high pile",
-      "Highest price in this guide",
-      "Large size requires substantial floor space",
+    "cons": [
+      "Not rated for pile over 3/4\"",
+      "Most expensive mat here",
+      "Needs a large floor area"
     ],
-    bestFor: "Large shared desks on medium pile carpet up to 3/4\" that need maximum coverage",
+    "bestFor": "Large or shared work areas on carpet up to 3/4 inch.",
+    "summary": "A 60 x 72-inch vinyl mat for carpet up to 3/4 inch, for shared or large work areas.",
+    "skipIf": "Your carpet is deeper than 3/4 inch; the ES Robbins extra-high-pile mats are rated for it."
   },
   {
-    id: "muarts-crystal-clear-high-pile",
-    rank: 4,
-    badge: "Highest Capacity Dual-Use",
-    name: "MuArts Crystal Clear 5mm Heavy Duty Chair Mat",
-    price: "$59.99",
-    rating: "4.4",
-    reviews: "19,765",
-    imageUrl: "https://m.media-amazon.com/images/I/51umupvRX3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CSKKMDSP?tag=theofficejournal-20",
-    description:
-      "The MuArts skips cleats entirely in favor of sheer rigidity, a 5mm thick, 54\"x32\" panel rated for 1,400 lbs, the highest capacity in this guide. Because it's rigid and flat rather than flexible vinyl, it resists sinking into carpet the way a thinner mat would, though on genuinely high pile it still won't reach as deep as a cleat-anchored mat designed specifically for that depth.\n\nIt's dual-use on carpet or hard floor and stays crystal clear rather than yellowing over time. This works best as a medium-pile or transitional-pile solution rather than a substitute for the extra-high-pile-rated ES Robbins picks in this guide.\n\nRigid build resists sinking better than flexible vinyl. That's a real strength, but weigh it against the flip side: not cleat-anchored, so it's less suited to genuinely deep high pile than the ES Robbins picks.",
-    specs: [
-      "54\"x32\", 5mm thick rigid material",
-      "Rated 1,400 lbs (highest capacity in this guide)",
-      "Rigid flat construction resists sinking into carpet",
-      "Dual-use on carpet or hard floor",
-      "Crystal clear finish",
+    "id": "muarts-crystal-clear-high-pile",
+    "rank": 4,
+    "badge": "Best Budget Rigid Mat",
+    "name": "MuArts Crystal Clear 5mm Heavy Duty Chair Mat",
+    "price": "$59.99",
+    "rating": "4.4",
+    "reviews": "19,765",
+    "imageUrl": "https://m.media-amazon.com/images/I/51umupvRX3L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSKKMDSP?tag=theofficejournal-20",
+    "description": "The MuArts is the lowest-cost option here: a 5mm rigid panel that relies on stiffness rather than cleats to avoid sinking, with a listed 1,400 lb capacity.\n\nIt works on carpet or hard floors, which helps if you move rooms. The listing does not give a pile rating, and without cleats it is better suited to medium or moderately thick carpet than to very deep pile.\n\nIts 54 x 32-inch shape is wide but shallow, so check how far your chair rolls back from the desk.",
+    "specs": [
+      "Size: 54 x 32\"",
+      "Thickness: 5mm, rigid",
+      "Capacity: 1,400 lb (listed)",
+      "No cleats",
+      "Use: carpet or hard floor"
     ],
-    pros: [
-      "Highest weight capacity in this guide at 1,400 lbs",
-      "Rigid build resists sinking better than flexible vinyl",
-      "Works on carpet or hard floor",
-      "Stays crystal clear over time",
+    "pros": [
+      "Lowest price here",
+      "Highest listed capacity",
+      "Works on hard floors too"
     ],
-    cons: [
-      "Not cleat-anchored, so it's less suited to genuinely deep high pile than the ES Robbins picks",
-      "Smaller footprint than the largest vinyl mats in this guide",
-      "Rigid feel takes some adjusting to versus a flexible mat",
+    "cons": [
+      "No pile rating listed",
+      "No cleats",
+      "Shallow depth"
     ],
-    bestFor: "Medium to transitional pile depths where rigidity alone is enough to prevent sinking",
+    "bestFor": "Medium or moderately thick carpet on a budget.",
+    "summary": "A 5mm rigid clear mat rated for 1,400 lb that relies on stiffness rather than cleats.",
+    "skipIf": "Your carpet is over 1 inch deep; the ES Robbins extra-high-pile mats are designed for it."
   },
   {
-    id: "gorilla-grip-polycarbonate-high-pile",
-    rank: 5,
-    badge: "Ships-Flat for Medium/Low Pile",
-    name: "GORILLA GRIP Polycarbonate Chair Mat for Carpet",
-    price: "$61.49",
-    rating: "4.2",
-    reviews: "1,956",
-    imageUrl: "https://m.media-amazon.com/images/I/51TD21JdBYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BNPBMMKN?tag=theofficejournal-20",
-    description:
-      "The GORILLA GRIP is a 0.087\" thick, 36\"x48\" polycarbonate mat with hundreds of underside spikes, rated for medium or low pile carpet up to 3/4\". It ships completely flat, so there's no waiting for a rolled mat to lie down before use.\n\nIts semi-transparent finish blends into most carpet colors, and it cleans easily. It isn't rated for the extra-high pile depths this guide focuses on, so treat it as the pick for carpet that falls just short of that threshold.\n\nWorth calling out specifically: spiked underside grips up to 3/4\" pile well. The catch is not rated for pile over 3/4\", so it's not a true high-pile solution.",
-    specs: [
-      "36\"x48\", polycarbonate 0.087\" thick",
-      "Hundreds of underside spikes",
-      "Rated for medium or low pile carpet up to 3/4\"",
-      "Ships completely flat",
-      "Semi-transparent finish",
+    "id": "gorilla-grip-polycarbonate-high-pile",
+    "rank": 5,
+    "badge": "Best Ships-Flat Mat for Carpet up to 3/4 Inch",
+    "name": "GORILLA GRIP Polycarbonate Chair Mat for Carpet",
+    "price": "$61.49",
+    "rating": "4.2",
+    "reviews": "1,956",
+    "imageUrl": "https://m.media-amazon.com/images/I/51TD21JdBYL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNPBMMKN?tag=theofficejournal-20",
+    "description": "The Gorilla Grip polycarbonate mat suits carpet at the top of the medium range: a 36 x 48-inch mat with hundreds of underside spikes, rated for low and medium pile up to 3/4 inch.\n\nIt ships flat rather than rolled, so there is no waiting for it to settle, and the semi-transparent finish shows the carpet through.\n\nIt is not rated for pile deeper than 3/4 inch, and at 0.087 inches it is thinner than the Marvelux.",
+    "specs": [
+      "Size: 36 x 48\"",
+      "Material: polycarbonate, 0.087\"",
+      "Rated for: carpet up to 3/4\"",
+      "Spiked underside",
+      "Ships flat"
     ],
-    pros: [
-      "Ships flat with no curling to deal with",
-      "Spiked underside grips up to 3/4\" pile well",
-      "Semi-transparent finish blends into most carpets",
-      "Easy to clean",
+    "pros": [
+      "Ships flat",
+      "Spiked grip",
+      "Moderate price"
     ],
-    cons: [
-      "Not rated for pile over 3/4\", so it's not a true high-pile solution",
-      "Smaller footprint than the largest ES Robbins picks",
-      "Underside spikes can be felt if the mat shifts underfoot",
+    "cons": [
+      "Not rated beyond 3/4\"",
+      "Thinner than the Marvelux"
     ],
-    bestFor: "Carpet at the upper edge of medium pile, just under the true high-pile threshold",
+    "bestFor": "Carpet up to 3/4 inch at a standard desk.",
+    "summary": "A 36 x 48-inch spiked polycarbonate mat that ships flat, for carpet up to 3/4 inch.",
+    "skipIf": "Your carpet is deeper than 3/4 inch; choose an extra-high-pile ES Robbins mat."
   },
   {
-    id: "marvelux-polycarbonate-heavy-duty-high-pile",
-    rank: 6,
-    badge: "Largest Polycarbonate Rated for High Pile",
-    name: "Marvelux Heavy-Duty Polycarbonate Chair Mat",
-    price: "$121.99",
-    rating: "4.0",
-    reviews: "201",
-    imageUrl: "https://m.media-amazon.com/images/I/51UDuDStG2L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D96LWLZ7?tag=theofficejournal-20",
-    description:
-      "The Marvelux is the largest polycarbonate mat in this guide actually rated for high pile, at 48\"x60\" and 0.11\" thick, covering carpet up to 3/4\" including medium and high pile. Its rigidity means it won't sink into thick carpet the way a thinner vinyl mat would, and a studded underside adds grip on top of that rigidity.\n\nA lightly textured top surface adds some rolling feedback compared to a fully smooth mat, and the manufacturing uses 50% renewable energy with a fully recyclable build. If your carpet's pile depth sits right at the edge between medium and high, this is the largest rigid option built to handle it.\n\nRigid build resists sinking into thick carpet. Set against that, rated up to 3/4\", not for genuinely extra-high pile over 1\". Both matter when comparing it to the other picks here.",
-    specs: [
-      "48\"x60\", polycarbonate 0.11\" thick",
-      "Rated for carpet up to 3/4\" (medium and high pile)",
-      "Rigid construction, studded underside",
-      "Lightly textured top",
-      "Made using 50% renewable energy, 100% recyclable",
+    "id": "marvelux-polycarbonate-heavy-duty-high-pile",
+    "rank": 6,
+    "badge": "Best Large Polycarbonate Mat",
+    "name": "Marvelux Heavy-Duty Polycarbonate Chair Mat",
+    "price": "$121.99",
+    "rating": "4.0",
+    "reviews": "201",
+    "imageUrl": "https://m.media-amazon.com/images/I/51UDuDStG2L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D96LWLZ7?tag=theofficejournal-20",
+    "description": "The Marvelux is the larger, thicker polycarbonate option: 48 x 60 inches at 0.11 inches, with a studded underside and a lightly textured top, rated for carpet up to 3/4 inch.\n\nPolycarbonate's stiffness helps on thick carpet, and the larger size gives more room to roll. Marvelux states it is made using 50 percent renewable energy and is recyclable.\n\nLike the Gorilla Grip, it is not rated beyond 3/4 inch, and it has fewer buyer reviews than the vinyl mats.",
+    "specs": [
+      "Size: 48 x 60\"",
+      "Material: polycarbonate, 0.11\"",
+      "Rated for: carpet up to 3/4\"",
+      "Studded underside",
+      "Recyclable (manufacturer claim)"
     ],
-    pros: [
-      "Largest polycarbonate mat in this guide rated for high pile",
-      "Rigid build resists sinking into thick carpet",
-      "Studded underside adds extra grip",
-      "Made with 50% renewable energy, fully recyclable",
+    "pros": [
+      "Large, rigid polycarbonate",
+      "Studded grip"
     ],
-    cons: [
-      "Rated up to 3/4\", not for genuinely extra-high pile over 1\"",
-      "Smaller review sample than the top vinyl picks",
-      "Large footprint needs significant floor clearance",
+    "cons": [
+      "Not rated beyond 3/4\"",
+      "Fewer buyer reviews"
     ],
-    bestFor: "Buyers with carpet right at the medium-to-high pile boundary who want a large rigid mat",
+    "bestFor": "Larger desk areas on carpet up to 3/4 inch.",
+    "summary": "A 48 x 60-inch, 0.11-inch polycarbonate mat with studs, rated for carpet up to 3/4 inch.",
+    "skipIf": "Your carpet is deeper than 3/4 inch; the ES Robbins extra-high-pile mats are rated for it."
   },
   {
-    id: "koonmi-tempered-glass-high-pile",
-    rank: 7,
-    badge: "Largest + Most-Reviewed Glass",
-    name: "Koonmi Tempered Glass Chair Mat",
-    price: "$135.89",
-    rating: "4.7",
-    reviews: "1,085",
-    imageUrl: "https://m.media-amazon.com/images/I/41UO1C7z6QL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CXSFBQLH?tag=theofficejournal-20",
-    description:
-      "The Koonmi is the largest and highest-rated glass mat in this guide, 46\"x55\" and 5mm thick, rated for over 1,000 lbs. Glass is rigid enough to bridge medium-depth carpet without sinking, though it's also heavier and can be harder to keep stable on very deep pile than a rigid polycarbonate mat designed specifically for that depth.\n\nA detachable anti-slip pad and polished rounded corners round out the build, and it works on carpet or hard floor. Its size and rating make it a strong dual-use option, but genuinely high or extra-high pile carpet is better served by the cleat-anchored ES Robbins picks in this guide.\n\nA genuine advantage here is that largest glass mat in this guide. The tradeoff is heavier than polycarbonate, can be harder to stabilize on very deep pile.",
-    specs: [
-      "46\"x55\" (largest glass mat in this guide), tempered glass 5mm",
-      "Rated over 1,000 lbs",
+    "id": "koonmi-tempered-glass-high-pile",
+    "rank": 7,
+    "badge": "Best Large Glass Mat",
+    "name": "Koonmi Tempered Glass Chair Mat",
+    "price": "$135.89",
+    "rating": "4.7",
+    "reviews": "1,085",
+    "imageUrl": "https://m.media-amazon.com/images/I/41UO1C7z6QL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXSFBQLH?tag=theofficejournal-20",
+    "description": "The Koonmi is the glass option for a large area: 46 x 55 inches of 5mm tempered glass, rated for over 1,000 lb, with a detachable anti-slip pad and rounded corners.\n\nGlass is stiff enough to bridge carpet without flexing and works on hard floors too. On very deep or uneven pile, though, a heavy rigid panel may be harder to keep level than a cleated mat, and the listing gives no pile rating.\n\nIt is one of the more expensive mats here at the time of writing.",
+    "specs": [
+      "Size: 46 x 55\"",
+      "Material: tempered glass, 5mm",
+      "Capacity: 1,000+ lb (listed)",
       "Detachable anti-slip pad",
-      "Polished rounded corners",
-      "Dual-use on carpet or hard floor",
+      "Use: carpet or hard floor"
     ],
-    pros: [
-      "Highest-rated and most-reviewed pick in this guide at 4.7 stars",
-      "Largest glass mat in this guide",
-      "Detachable anti-slip pad for easier cleaning",
-      "Works on carpet or hard floor",
+    "pros": [
+      "Largest glass mat here",
+      "Works on either floor",
+      "Scratch-resistant surface"
     ],
-    cons: [
-      "Heavier than polycarbonate, can be harder to stabilize on very deep pile",
-      "Not cleat-anchored, less suited to genuinely extra-high pile than the ES Robbins picks",
-      "Second most expensive pick in this guide",
+    "cons": [
+      "No pile rating",
+      "Heavy",
+      "Among the pricier mats"
     ],
-    bestFor: "Buyers who want the highest-rated dual-use glass mat for carpet up to medium-high depth",
+    "bestFor": "Large desk areas on medium carpet where a glass surface is preferred.",
+    "summary": "A 46 x 55-inch tempered glass mat with a repositionable anti-slip pad.",
+    "skipIf": "Your carpet is extra-high pile; a cleated ES Robbins mat is designed for it."
   },
   {
-    id: "glsland-tempered-glass-high-pile",
-    rank: 8,
-    badge: "Cheapest Glass",
-    name: "GLSLAND Tempered Glass Chair Mat",
-    price: "$60.99",
-    rating: "4.6",
-    reviews: "2,486",
-    imageUrl: "https://m.media-amazon.com/images/I/51Dfg8DnF5S._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08PD3ZHJT?tag=theofficejournal-20",
-    description:
-      "The GLSLAND is the cheapest tempered glass mat in this guide, 36\"x46\" and 5mm thick, rated for 1,200 lbs, the highest capacity among this guide's glass lineup. Like the Koonmi, its rigidity helps it resist sinking into carpet, though genuinely deep high pile still favors a cleat-anchored mat built specifically for that depth.\n\nFour anti-slip pads keep it from sliding, and it's BPA-free, phthalate-free, and odorless. It's dual-use on carpet or hard floor, making it a reasonable middle-ground pick if your carpet is on the deeper side of medium pile but not truly extra-high.\n\nHighest capacity rating among this guide's glass mats. On the other hand, smaller footprint than the Koonmi glass pick. Neither should be a surprise once you know to look for it.",
-    specs: [
-      "36\"x46\", tempered glass 5mm",
-      "Rated 1,200 lbs (highest capacity among this guide's glass picks)",
+    "id": "glsland-tempered-glass-high-pile",
+    "rank": 8,
+    "badge": "Best Budget Glass Mat",
+    "name": "GLSLAND Tempered Glass Chair Mat",
+    "price": "$60.99",
+    "rating": "4.6",
+    "reviews": "2,486",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Dfg8DnF5S._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08PD3ZHJT?tag=theofficejournal-20",
+    "description": "The GLSLAND is the lower-cost glass mat: 36 x 46 inches of 5mm tempered glass rated for 1,200 lb, with four anti-slip pads.\n\nIt works on carpet or hard floors and is listed as BPA- and phthalate-free. It costs about the same as the MuArts at the time of writing.\n\nLike the Koonmi, it gives no pile rating and relies on stiffness, so it is better suited to medium carpet than to the deepest pile.",
+    "specs": [
+      "Size: 36 x 46\"",
+      "Material: tempered glass, 5mm",
+      "Capacity: 1,200 lb (listed)",
       "4 anti-slip pads",
-      "BPA-free, phthalate-free, odorless",
-      "Dual-use on carpet or hard floor",
+      "Use: carpet or hard floor"
     ],
-    pros: [
-      "Cheapest tempered glass pick in this guide",
-      "Highest capacity rating among this guide's glass mats",
-      "BPA-free, phthalate-free, and odorless",
-      "Works on carpet or hard floor",
+    "pros": [
+      "Low price for glass",
+      "Works on either floor"
     ],
-    cons: [
-      "Smaller footprint than the Koonmi glass pick",
-      "Not cleat-anchored, so it's a middle-ground option rather than a true high-pile solution",
-      "Glass adds weight compared to vinyl or polycarbonate",
+    "cons": [
+      "No pile rating",
+      "Smaller than the Koonmi",
+      "Heavy"
     ],
-    bestFor: "Budget-conscious buyers with carpet on the deeper side of medium pile who want a glass surface",
-  },
-];
-
-export interface HowWeEvaluatedItem {
-  title: string;
-  description: string;
-}
-
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  {
-    title: "Pile-depth rating accuracy",
-    description:
-      "Checked each mat's stated pile-depth rating, low, medium, high, or extra-high, against its actual cleat length or rigidity, since a mismatch is the most common reason a mat fails on deep carpet.",
-  },
-  {
-    title: "Cleat and stud design",
-    description:
-      "Compared underside cleat or stud length across picks, since high pile carpet needs cleats long enough to reach through the pile and grip the backing directly, not just rest on top of the fibers.",
-  },
-  {
-    title: "Rigidity vs sinking resistance",
-    description:
-      "Weighed rigid materials like polycarbonate and glass against flexible vinyl, rigid mats resist sinking into thick carpet without needing deep cleats, but can be harder to stabilize on the very deepest pile.",
-  },
-  {
-    title: "Footprint relative to desk size",
-    description:
-      "Compared each mat's dimensions against typical single-desk and shared-desk setups, since a larger footprint matters more on deep pile where the chair has less margin before rolling off the mat's edge.",
-  },
-  {
-    title: "Value for price",
-    description:
-      "Weighed pile-depth rating, size, and certification against price, the extra-high-pile-rated ES Robbins picks command a premium specifically for their deep-pile cleat design.",
-  },
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
-  {
-    "criterion": "Match actual size and capacity to your real need, not the category label alone",
-    "explanation": "Listings for a chair mat often use a size or capacity label (\"compact,\" \"large,\" \"heavy-duty\") that isn't standardized across brands, so the same label can mean meaningfully different actual dimensions or capacity from one product to the next.\n\nThis matters because buying based on the category label rather than the specific listed dimensions or capacity is a common way to end up with something that doesn't actually fit your space or handle your real load.\n\nCheck the listing for exact measurements or a stated capacity figure, and compare that directly against your actual space or need, not just the marketing size category."
-  },
-  {
-    "criterion": "Verify build material and construction quality from reviews, not just spec-sheet claims",
-    "explanation": "A product description can describe material or construction in flattering terms that don't always hold up under real, sustained use, and the gap between a listing's claimed quality and its actual durability only shows up in how the product performs after weeks or months of real use, not in day-one photos.\n\nThis matters more for anything you'll use daily or under real load, less for occasional light use where durability matters less.\n\nCheck reviews specifically for mentions of how the chair mat holds up over time, not just unboxing-day impressions, and treat a listing's own quality claims as a starting point to verify, not a guarantee."
-  },
-  {
-    "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this chair mat over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
-  },
-  {
-    "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any chair mat you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
-  },
-  {
-    "criterion": "Check compatibility and fit with your existing setup before ordering",
-    "explanation": "A chair mat that looks like a straightforward fit in photos can still have a compatibility detail, a connector type, a mounting requirement, a size threshold, that doesn't match your existing setup, and this kind of mismatch is one of the most common and avoidable reasons for a return.\n\nThis matters directly if the product needs to physically connect to, mount on, or otherwise integrate with something you already own.\n\nCheck the listing's specific compatibility details against your exact existing setup, not just the general product category, before ordering."
+    "bestFor": "Budget buyers on medium carpet who want a glass surface.",
+    "summary": "A 36 x 46-inch tempered glass mat rated for 1,200 lb.",
+    "skipIf": "Your carpet is over 1 inch deep; choose an extra-high-pile ES Robbins mat."
   }
 ];
 
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
+export const howWeEvaluated = [
+  {
+    "title": "Pile rating",
+    "description": "We recorded each mat's stated pile rating and flagged where none is given."
+  },
+  {
+    "title": "Grip and rigidity",
+    "description": "We compared cleat and stud designs against rigid and glass construction."
+  },
+  {
+    "title": "Size and capacity",
+    "description": "We compared dimensions and stated capacities."
+  },
+  {
+    "title": "Warranty and price",
+    "description": "We recorded warranties and compared what each step up in price adds. Prices change often, so we treat them as relative position."
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "Pile rating against your carpet",
+    "explanation": "Measure the carpet to the backing, including any padding. Here, only the two ES Robbins extra-high-pile mats are rated beyond 1 inch; the Gorilla Grip, Marvelux and ES Robbins medium-pile mats top out at 3/4 inch; the glass and MuArts mats give no rating."
+  },
+  {
+    "criterion": "Cleats or rigidity",
+    "explanation": "Cleated vinyl grips through the pile; rigid polycarbonate, glass and 5mm panels resist flexing. On very deep carpet, a mat rated for that depth is the safer choice."
+  },
+  {
+    "criterion": "Size",
+    "explanation": "On thick carpet, rolling off the edge is harder to recover from, so a larger mat helps. Sizes here run from 36 x 46 inches to 60 x 72 inches."
+  },
+  {
+    "criterion": "Warranty and certification",
+    "explanation": "The ES Robbins mats list lifetime warranties and GREENGUARD certification; check other listings for warranty terms."
+  }
+];
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "subheading": "By carpet depth",
     "table": {
       "headers": [
-        "Your priority",
-        "Recommended pick"
+        "Carpet",
+        "Consider",
+        "Why"
       ],
       "rows": [
         [
-          "Highest average rating",
-          "Koonmi Tempered Glass Chair Mat"
+          "Over 1\" including padding",
+          "ES Robbins Extra High Pile (standard or Everlife large)",
+          "Only mats rated for extra-high pile"
         ],
         [
-          "Largest review base, strongest reliability signal",
-          "MuArts Crystal Clear 5mm Heavy Duty Chair Mat"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Under $60",
-          "MuArts Crystal Clear 5mm Heavy Duty Chair Mat"
+          "Up to 3/4\", standard desk",
+          "Gorilla Grip polycarbonate",
+          "Ships flat, spiked underside"
         ],
         [
-          "Up to $162",
-          "ES Robbins EverLife Carpet ChairMat Medium Pile"
+          "Up to 3/4\", larger area",
+          "Marvelux or ES Robbins medium pile",
+          "48 x 60 or 60 x 72 inches"
+        ],
+        [
+          "Medium carpet, budget",
+          "MuArts or GLSLAND",
+          "Rigid panel or glass, about $60"
+        ],
+        [
+          "Medium carpet, large glass",
+          "Koonmi",
+          "46 x 55 inches"
         ]
       ]
     }
   },
   {
-    "subheading": "MuArts Crystal Clear 5mm Heavy Duty Chair Mat vs ES Robbins EverLife Carpet ChairMat Medium Pile",
-    "cards": [
-      {
-        "label": "MuArts Crystal Clear 5mm Heavy Duty Chair Mat",
-        "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
-      },
-      {
-        "label": "ES Robbins EverLife Carpet ChairMat Medium Pile",
-        "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
-      }
-    ],
-    "note": "Default to MuArts Crystal Clear 5mm Heavy Duty Chair Mat unless your specific need genuinely calls for the pricier pick's extra headroom."
-  },
-  {
-    "subheading": "By Review Base Confidence",
+    "subheading": "By price at the time of writing",
+    "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.",
     "table": {
       "headers": [
-        "Your priority",
-        "Recommended pick"
+        "Price tier",
+        "Mats"
       ],
       "rows": [
         [
-          "Largest, most-established review base",
-          "MuArts Crystal Clear 5mm Heavy Duty Chair Mat"
+          "About $60",
+          "MuArts, GLSLAND, Gorilla Grip"
+        ],
+        [
+          "About $88–$122",
+          "ES Robbins Extra High Pile, ES Robbins Everlife large, Marvelux"
+        ],
+        [
+          "About $136–$162",
+          "Koonmi, ES Robbins medium pile 60 x 72"
         ]
       ]
     }
-  },
-  {
-    "subheading": "For a First-Time Buyer Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
-      },
-      {
-        "label": "In this comparison",
-        "text": "MuArts Crystal Clear 5mm Heavy Duty Chair Mat is worth checking against its listed specs before buying, given its strong review base."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need real durability and feature depth for regular use, where ES Robbins EverLife Carpet ChairMat Medium Pile's build gives real headroom over the cheaper picks."
-      },
-      {
-        "label": "Save if",
-        "text": "You only need this for light or occasional use, where MuArts Crystal Clear 5mm Heavy Duty Chair Mat covers the same job at a lower price."
-      }
-    ]
   }
 ];
 
-export const faq: FaqItem[] = [
+export const faq = [
   {
-    q: "How do I know if my carpet counts as high pile?",
-    a: "Push a ruler straight down into the carpet until it hits the backing, and measure that depth rather than just looking at the visible fiber height. Anything from 3/4\" to 1\" is generally considered high pile, and over 1\" including any padding underneath is extra-high pile or shag, which needs a mat like the ES Robbins Extra High Pile picks in this guide.",
+    "q": "How do I know if my carpet counts as high pile?",
+    "a": "Push a ruler into the carpet until it meets the backing and measure. Include any padding if the mat's rating does. Compare that figure directly with each mat's pile rating rather than relying on labels like \"thick\" or \"plush\"."
   },
   {
-    q: "Why did my regular chair mat stop working when I moved to a room with thicker carpet?",
-    a: "A mat rated for low pile is built thin with short cleats designed to sit near the top of a shallow carpet. On thicker, high pile carpet, that same mat sinks into the fibers, leaving the chair with nothing solid to roll against, which is essentially why it stops working rather than any defect in the mat itself.",
+    "q": "Why did my regular mat stop working on thicker carpet?",
+    "a": "A mat designed for low pile is thin, with short cleats. On deeper carpet it flexes and sinks, so the chair has nothing firm to roll on."
   },
   {
-    q: "Do I need a special mat for shag carpet?",
-    a: "Yes. Shag carpet, generally pile over 1\", needs a mat explicitly rated for extra-high pile with cleats long enough to reach through the fibers to the backing, like the ES Robbins Extra High Pile Chair Mat with Lip or the larger Everlife version in this guide. Simply buying the thickest mat you can find without checking its pile rating is a common mistake.",
+    "q": "Do I need a special mat for shag carpet?",
+    "a": "Yes. Choose a mat explicitly rated for extra-high pile, such as the ES Robbins Extra High Pile mats here. Thickness alone does not guarantee a mat will work on very deep carpet."
   },
   {
-    q: "Is glass or polycarbonate better for high pile carpet?",
-    a: "Rigid polycarbonate designed for high pile, like the Marvelux Heavy-Duty Polycarbonate, tends to stay more stable on very deep carpet than tempered glass, which is heavier and can rock slightly on uneven pile. Glass mats like the Koonmi or GLSLAND work well on medium pile but aren't the first choice for genuinely deep high pile.",
+    "q": "Is glass or polycarbonate better for thick carpet?",
+    "a": "Both are rigid. The polycarbonate mats here state pile ratings up to 3/4 inch; the glass mats do not state a rating and are heavy, so they are better suited to medium carpet. For the deepest carpet, a mat rated for extra-high pile is the more predictable choice."
   },
   {
-    q: "What's the difference between commercial office carpet and the carpet in my home office?",
-    a: "Commercial-grade carpet common in offices is typically thin, low-pile carpet designed for heavy foot traffic, while residential carpet in a home office or bedroom is often thicker and can fall into medium, high, or extra-high pile depending on padding underneath. These need different mat categories entirely, so measure your actual carpet rather than assuming a mat built for a typical office setup will work at home.",
+    "q": "Is office carpet different from home carpet?",
+    "a": "Often. Commercial office carpet tends to be low pile, while home carpet can be much thicker, especially with padding. Measure rather than assuming a mat sold for offices will suit a home office."
   },
   {
-    q: "What size chair mat do I need for high pile carpet?",
-    a: "Deep pile leaves less margin before a chair rolls off the mat's edge back into the carpet, so a larger footprint helps. The ES Robbins Everlife Extra High Pile at 45\"x53\" or the EverLife Medium Pile at 60\"x72\" in this guide both give more rolling room than a standard 36\"x48\" mat for larger or shared desks.",
-  },
+    "q": "What size mat do I need on thick carpet?",
+    "a": "Cover the whole area your chair moves through, with some margin. The ES Robbins Everlife extra-high-pile mat (45 x 53 inches) and medium-pile mat (60 x 72 inches) are the largest options here."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-rolling-chair-mat", title: "Best Rolling Chair Mats (2026)" },
-  { href: "/guide/best-chair-mats-for-office", title: "Best Chair Mats for Office Use (2026)" },
-  { href: "/guide/best-office-chair-under-500", title: "Best Office Chairs Under $500 (2026)" },
+export const bottomLine = [
+  "If your carpet is over 1 inch deep including padding, the ES Robbins Extra High Pile mats are the only ones here rated for it; choose the standard size for a typical desk or the Everlife for more rolling room.",
+  "For carpet up to 3/4 inch, the Gorilla Grip and Marvelux polycarbonate mats are rated for the job, and the 60 x 72-inch ES Robbins suits large or shared desks. The MuArts and glass mats are reasonable on medium carpet, but they do not state pile ratings, so we would not rely on them for the deepest pile."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-rolling-chair-mat",
+    "title": "Best Rolling Chair Mats (2026)"
+  },
+  {
+    "href": "/guide/best-chair-mats-for-office",
+    "title": "Best Chair Mats for Office Use (2026)"
+  },
+  {
+    "href": "/guide/best-office-chair-under-500",
+    "title": "Best Office Chairs Under $500 (2026)"
+  }
 ];

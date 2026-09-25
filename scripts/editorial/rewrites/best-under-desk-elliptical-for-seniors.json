@@ -1,0 +1,128 @@
+{
+  "guideTitle": "The Best Under-Desk Ellipticals for Seniors: Remote Control and Motorized Options",
+  "breadcrumbLabel": "Best Under-Desk Ellipticals for Seniors",
+  "metaTitle": "Best Under-Desk Ellipticals for Seniors: Motorized and Manual (2026)",
+  "metaDescription": "We compared under-desk ellipticals for older users on remote control, motorized versus manual pedaling, weight rating, unit weight and noise claims.",
+  "introParagraphs": [
+    "For many older users, the practical questions about an under-desk elliptical are less about workout intensity and more about access: can you change the speed without bending down to the floor, can the unit move the pedals for you, and is it light enough to position easily?",
+    "That splits this guide in two. Five models are motorized with a remote, so the pedals move without effort and settings stay within reach; two are manual, and one combines both modes. If you have a health condition, check with a clinician about what kind of movement suits you; this guide compares product features only.",
+    "Our comparison is based on published specifications and listed features, not hands-on testing."
+  ],
+  "products": {
+    "cubii-jr1-elliptical-seniors": {
+      "badge": "Best Manual Pick",
+      "summary": "A compact, battery-powered manual unit with 8 magnetic resistance levels, rated to 150 lb.",
+      "description": "The Cubii JR1 is the pick for someone who wants to pedal under their own power in a compact, cord-free unit: it has 8 levels of magnetic resistance, an 18-inch stride and a simple LCD display, and runs on batteries.\n\nBluetooth syncing to the Cubii app is optional; you can use it entirely from the display. It weighs 25.4 lb.\n\nIt has no remote, so adjusting resistance means reaching the unit, and its 150 lb maximum user weight is the lowest here.",
+      "specs": ["Resistance: manual magnetic, 8 levels", "Stride: 18\"", "Power: battery", "Display: LCD (app optional)", "Weight: 25.4 lb", "Max user weight: 150 lb"],
+      "pros": ["Cord-free", "Simple display; app optional", "Compact"],
+      "cons": ["No remote", "Lowest user weight rating here", "Requires active pedaling"],
+      "bestFor": "Lighter users who want to pedal actively without a cord to manage.",
+      "skipIf": "You want to avoid bending down; the motorized models here include remotes."
+    },
+    "putnen-motorized-elliptical": {
+      "badge": "Best Motorized Value",
+      "summary": "A remote-controlled motorized unit with 12 speeds, 3 programs and a 500 lb rating.",
+      "description": "The Putnen offers the most capacity for the money among the motorized models: it is rated for 500 lb and was one of the lowest-priced electric units here at the time of writing.\n\nIts motor offers 12 manual speeds and 3 automatic programs, forward and reverse, and Putnen describes it as silent. A remote means no bending down, and it has an alloy steel frame and a two-year warranty.\n\nIt is very similar to the GUGTTR at almost the same price; the Putnen's longer warranty is the main difference on paper.",
+      "specs": ["Drive: electric motor", "Speeds: 12 manual + 3 programs", "Direction: forward/reverse", "Control: remote", "Frame: alloy steel", "Warranty: 2 years", "Max user weight: 500 lb"],
+      "pros": ["500 lb rating", "Remote control", "Two-year warranty"],
+      "cons": ["No app tracking", "Overlaps closely with the GUGTTR", "Automatic programs may change speed unexpectedly for some users"],
+      "bestFor": "A motorized unit with a high weight rating and a longer warranty.",
+      "skipIf": "Weight to lift matters most; the MERACH is 11 lb."
+    },
+    "gugttr-motorized-elliptical": {
+      "badge": "Best Ready-to-Use Motorized Pick",
+      "summary": "A fully assembled motorized unit with remote, 12 speeds, 3 programs and a 500 lb rating.",
+      "description": "The GUGTTR arrives fully assembled, which removes a setup step that can be awkward on the floor. Like the Putnen, it has 12 manual speeds, 3 automatic programs, forward and backward motion, a remote and a 500 lb rating.\n\nIt has a 16-inch stride and a one-year warranty, with a three-month return window and what GUGTTR calls lifetime after-sales support.\n\nIts warranty is shorter than the Putnen's two years.",
+      "specs": ["Drive: electric motor", "Speeds: 12 manual + 3 programs", "Stride: 16\"", "Control: remote", "Assembly: ships assembled", "Warranty: 1 year", "Max user weight: 500 lb"],
+      "pros": ["No assembly", "500 lb rating", "Remote control"],
+      "cons": ["One-year warranty", "No app tracking", "Very similar to the Putnen"],
+      "bestFor": "Anyone who wants to avoid assembly.",
+      "skipIf": "A longer warranty matters more than assembly; the Putnen lists two years."
+    },
+    "merach-mr-e32-elliptical": {
+      "badge": "Lightest and Quietest (Claimed)",
+      "summary": "An 11 lb motorized unit rated at 15dB by MERACH, with touchscreen, remote and 12 programs.",
+      "description": "The MERACH MR-E32 is the easiest motorized unit to lift: at 11 lb, it is the lightest here. MERACH rates it at 15dB, the lowest noise figure listed in this guide.\n\nIts 60W motor has 12 manual speeds and 12 automatic programs, and it can be controlled by an LED touchscreen or a remote. It has an alloy steel frame and a one-year warranty.\n\nIts 250 lb user weight rating is half the Putnen's or GUGTTR's, and a light unit may shift more easily on smooth floors, so a mat may help.",
+      "specs": ["Drive: 60W motor", "Speeds: 12 manual + 12 programs", "Noise: 15dB (per manufacturer)", "Control: touchscreen + remote", "Weight: 11 lb", "Max user weight: 250 lb"],
+      "pros": ["Lightest unit here", "Lowest listed noise figure", "Touchscreen and remote"],
+      "cons": ["250 lb rating", "Light unit may shift on smooth floors", "One-year warranty"],
+      "bestFor": "Moving the unit between a chair and storage, or quiet shared rooms.",
+      "skipIf": "You need a higher weight rating; the Putnen and GUGTTR are rated to 500 lb."
+    },
+    "yagud-motorized-elliptical": {
+      "badge": "Lowest Price",
+      "summary": "The lowest-priced unit here: remote-controlled, 13 speeds, with a carry handle, rated to 200 lb.",
+      "description": "The Yagud is the least expensive model here at the time of writing, and it is controlled entirely by remote, with 13 speeds from 13 to 105 RPM.\n\nIts LCD shows time, speed, calories and distance, and it weighs 6.5kg (about 14 lb) with a built-in carry handle.\n\nIts 200 lb rating is low for this guide, and the listing describes \"electric/air resistance\", which is less clearly explained than the other motorized models' specifications.",
+      "specs": ["Drive: electric", "Speeds: 13 (13–105 RPM)", "Control: remote", "Display: LCD", "Weight: 6.5kg with carry handle", "Max user weight: 200 lb"],
+      "pros": ["Lowest price here at the time of writing", "Carry handle", "Remote control"],
+      "cons": ["200 lb rating", "Resistance type loosely described", "Lighter frame than steel-frame models"],
+      "bestFor": "Trying a motorized unit for the least money.",
+      "skipIf": "You need more than 200 lb capacity; the Putnen is rated to 500 lb."
+    },
+    "stamina-inmotion-e1000-elliptical-seniors": {
+      "badge": "Best for Seated and Standing Use",
+      "summary": "A manual unit with non-slip pedals that works seated or standing, rated to 250 lb.",
+      "description": "The Stamina InMotion E1000 is the only model here designed for both seated and standing use, and it has non-slip pedals.\n\nIt uses 8 levels of manual magnetic resistance with forward and reverse pedaling, and tracks sessions on an LCD and the müüv app. It is rated for 250 lb.\n\nIt has no motor or remote, so it requires active pedaling and reaching down to adjust resistance. Standing use on any pedal device calls for something stable to hold.",
+      "specs": ["Resistance: manual magnetic, 8 levels", "Direction: forward/reverse", "Pedals: non-slip", "Use: seated or standing", "Tracking: LCD + müüv app", "Max user weight: 250 lb"],
+      "pros": ["Seated or standing use", "Non-slip pedals", "Forward and reverse"],
+      "cons": ["No motor or remote", "Requires active pedaling", "Bulkier than seated-only units"],
+      "bestFor": "Active users who want to alternate between sitting and standing.",
+      "skipIf": "You want the pedals to move for you; a motorized model suits that better."
+    },
+    "lifepro-autoglide-elliptical": {
+      "badge": "Motorized and Manual in One",
+      "summary": "A unit with both motorized and manual modes, a 500 lb rating and pedal-mounted red LEDs.",
+      "description": "The LifePro AutoGlide is the only model here with both a motorized mode and a manual mode, each with 10 speeds and forward and reverse direction, so you can switch between passive and active use.\n\nIt also has red and near-red LEDs (630nm and 660nm) in each pedal, which LifePro markets for inflammation and recovery. We can't assess those claims; treat the lights as an extra rather than a reason to buy. It is rated for 500 lb, with remote and LCD controls.\n\nIt was the most expensive model here at the time of writing and has far less buyer feedback than the others.",
+      "specs": ["Modes: motorized + manual, 10 speeds each", "Direction: forward/reverse", "LEDs: 630nm / 660nm (per manufacturer)", "Control: remote + LCD", "Max user weight: 500 lb"],
+      "pros": ["Motorized and manual modes", "500 lb rating", "Remote control"],
+      "cons": ["Most expensive here at the time of writing", "Very little buyer feedback", "Light-therapy claims are the manufacturer's"],
+      "bestFor": "Switching between passive movement and active pedaling in one unit.",
+      "skipIf": "You only want motorized movement; the Putnen offers it for less than half the price."
+    },
+    "exerpeutic-2000m-elliptical-seniors": {
+      "badge": "Best for Arms and Legs",
+      "summary": "A motorized unit with strapped, foldable pedals for arms or legs and a remote on a 6-foot cord.",
+      "description": "The Exerpeutic 2000M moves the pedals with a motor, and its foldable pedals with adjustable straps can be used for arms as well as legs, for example on a table.\n\nIts remote is on a 6-foot cord, so it can't be misplaced, and an automatic 15-minute timer keeps sessions simple. A floor mat is included, and it is rated for 286 lb.\n\nIt is passive only, with no manual resistance mode, and it costs about twice as much as the Putnen or GUGTTR.",
+      "specs": ["Drive: electric motor (passive)", "Control: remote on 6-ft cord", "Timer: automatic 15 minutes", "Pedals: foldable, adjustable straps", "Included: floor mat", "Max user weight: 286 lb"],
+      "pros": ["Arm or leg use", "Corded remote", "Floor mat included"],
+      "cons": ["Passive only", "Costs about twice the Putnen", "Lower rating than the 500 lb models"],
+      "bestFor": "Passive arm and leg movement with simple controls.",
+      "skipIf": "You only need leg movement; the Putnen or GUGTTR costs less."
+    }
+  },
+  "buyingCriteria": [
+    { "criterion": "Motorized or manual", "explanation": "Motorized units move the pedals for you; manual units need you to pedal. The LifePro offers both modes." },
+    { "criterion": "Remote control", "explanation": "Every motorized model here includes a remote, so speed can be changed without bending to the floor. The manual Cubii and Stamina have none." },
+    { "criterion": "Weight rating and unit weight", "explanation": "User weight ratings range from 150 to 500 lb. Unit weight matters too if you'll lift it: the MERACH is 11 lb, the Cubii 25.4 lb." },
+    { "criterion": "Stability", "explanation": "Lighter units may slide on smooth floors; a mat helps, and the Exerpeutic includes one. Use a chair that doesn't roll away as you pedal." }
+  ],
+  "howWeEvaluated": [
+    { "title": "Controls", "description": "We noted remotes, touchscreens and displays, and whether settings can be changed without reaching the floor." },
+    { "title": "Drive type", "description": "We separated motorized, manual and dual-mode units." },
+    { "title": "Ratings and weight", "description": "We compared listed user weight ratings and unit weights." },
+    { "title": "Price and support", "description": "We compared prices at the time of writing, warranties and manufacturer claims, attributing noise and light-therapy claims." }
+  ],
+  "howToChoose": [
+    { "subheading": "By need", "table": { "headers": ["Need", "Consider"], "rows": [
+      ["Motorized, high capacity, value", "Putnen"],
+      ["No assembly", "GUGTTR"],
+      ["Easiest to lift", "MERACH MR-E32"],
+      ["Lowest price", "Yagud"],
+      ["Active pedaling, compact", "Cubii JR1"],
+      ["Seated and standing", "Stamina InMotion E1000"],
+      ["Both modes", "LifePro AutoGlide"],
+      ["Arms and legs", "Exerpeutic 2000M"]
+    ] } }
+  ],
+  "faq": [
+    { "q": "What's the difference between manual and motorized?", "a": "On a manual unit, like the Cubii JR1 or Stamina E1000, you drive the pedals. On a motorized unit, like the Putnen, GUGTTR, MERACH, Yagud or Exerpeutic, a motor moves them, so the movement is passive." },
+    { "q": "Why does a remote matter?", "a": "It lets you change speed without bending down to a unit on the floor. All the motorized models here include one; the Exerpeutic's is on a 6-foot cord." },
+    { "q": "Which has the highest weight rating?", "a": "The Putnen, GUGTTR and LifePro AutoGlide are rated to 500 lb. The Cubii JR1 is rated to 150 lb." },
+    { "q": "Does the LifePro's red light therapy work?", "a": "LifePro markets it for inflammation and recovery. We can't assess those claims; ask a clinician if it's a deciding factor." },
+    { "q": "Which is quietest?", "a": "MERACH rates the MR-E32 at 15dB, the lowest figure listed here. Other makers describe their units as silent without giving figures, and noise varies with speed and floor." }
+  ],
+  "bottomLine": [
+    "If you want the pedals to move for you, the Putnen offers a 500 lb rating, a remote and a two-year warranty at a low price; the GUGTTR is its ready-assembled equivalent, and the MERACH is the lightest to lift.",
+    "If you prefer to pedal, the Cubii JR1 is compact and cord-free, and the Stamina E1000 adds standing use. The LifePro combines both modes, and the Exerpeutic suits arm as well as leg movement."
+  ]
+}

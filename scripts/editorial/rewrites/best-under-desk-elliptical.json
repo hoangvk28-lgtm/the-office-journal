@@ -1,0 +1,127 @@
+{
+  "guideTitle": "The Best Under-Desk Ellipticals for Moving During the Workday",
+  "breadcrumbLabel": "Best Under-Desk Ellipticals",
+  "metaTitle": "Best Under-Desk Ellipticals for Home Offices (2026)",
+  "metaDescription": "We compared under-desk ellipticals on user weight rating, resistance, noise-relevant design, portability and tracking, from compact pedal units to a motorized model.",
+  "introParagraphs": [
+    "An under-desk elliptical has to fit two things at once: the space between the floor and the underside of your desk, and the rhythm of a working day, which usually means staying quiet enough for calls. Measure your usable clearance, including any crossbars or drawers, before looking at resistance levels or apps.",
+    "The eight models below differ more than their similar shapes suggest. Maximum user weight ranges from 150 to 300 lb, resistance from 8 to 12 levels, and one model is motorized, moving your legs for you rather than asking you to pedal.",
+    "Our comparison is based on published specifications, listed features and price position, not hands-on testing."
+  ],
+  "products": {
+    "cubii-jr1-elliptical": {
+      "badge": "Best Compact Pick with App Tracking",
+      "summary": "A compact, battery-powered unit with 8 magnetic resistance levels and Bluetooth tracking, rated to 150 lb.",
+      "description": "The Cubii JR1 suits a small desk setup where tracking matters: it is compact, runs on batteries so there's no cord to route, and syncs strides, distance and calories to the Cubii app over Bluetooth.\n\nIt has 8 levels of manual magnetic resistance, an 18-inch stride and an LCD display, and weighs 25.4 lb.\n\nIts limit is capacity: at 150 lb, it has the lowest maximum user weight here, well below the 250 to 300 lb ratings of most alternatives. Check that figure before anything else.",
+      "specs": ["Resistance: magnetic, 8 levels", "Stride: 18\"", "Weight: 25.4 lb", "Power: battery", "Tracking: LCD + Bluetooth (Cubii app)", "Max user weight: 150 lb"],
+      "pros": ["Battery powered, no cord", "Bluetooth app tracking", "Compact frame"],
+      "cons": ["Lowest user weight rating here, 150 lb", "Fewer resistance levels than the Cubii GO or Total Body V2", "Costs more than similar non-app models"],
+      "bestFor": "Lighter users who want app-based tracking in a compact, cord-free unit.",
+      "skipIf": "You need a higher weight rating; the Sunny SF-E3872 is rated to 250 lb for less."
+    },
+    "sunny-health-sf-e3872-elliptical": {
+      "badge": "Best Ready-to-Use Pick",
+      "summary": "A belt-drive magnetic unit that ships fully assembled, rated to 250 lb.",
+      "description": "The Sunny SF-E3872 is the simplest to get going: it ships fully assembled, with 8 levels of belt-drive magnetic resistance and a monitor showing time, speed, calories and distance.\n\nSunny describes a pedal path shaped to keep knees clear of the desk. It weighs 25 lb and is rated for users up to 250 lb, a higher ceiling than the more expensive Cubii JR1.\n\nThere's no Bluetooth or app, and at the time of writing it was not quite the cheapest model here; the Stamina E1000 and LifePro FlexStride Plus were listed slightly lower.",
+      "specs": ["Resistance: magnetic belt drive, 8 levels", "Monitor: time, speed, calories, distance", "Weight: 25 lb", "Assembly: ships assembled", "Max user weight: 250 lb"],
+      "pros": ["No assembly", "250 lb rating", "Knee-clearance pedal path (per manufacturer)"],
+      "cons": ["No app or Bluetooth", "Basic monitor", "Not the lowest price here at the time of writing"],
+      "bestFor": "Anyone who wants a quiet-by-design unit they can use out of the box.",
+      "skipIf": "You want your sessions logged in an app; the LifePro FlexStride Plus adds Bluetooth at a similar price."
+    },
+    "stamina-inmotion-e1000-elliptical": {
+      "badge": "Best for Standing or Seated Use",
+      "summary": "The lowest-priced model here, and the only one designed for both standing and seated use.",
+      "description": "The Stamina InMotion E1000 stands apart because it works in two positions: seated under a desk, or standing, for example at a counter. It was also the lowest-priced model here at the time of writing.\n\nIt has 8 levels of magnetic resistance, forward and reverse pedaling, an electronic monitor and müüv app support, and is rated for users up to 250 lb at 24 lb in weight.\n\nThe dual-mode design adds some bulk compared with a pure under-desk unit, and its tracking is more basic than the Cubii models' Bluetooth app.",
+      "specs": ["Resistance: magnetic, 8 levels", "Pedaling: forward and reverse", "Use: seated or standing", "Weight: 24 lb", "App: müüv", "Max user weight: 250 lb"],
+      "pros": ["Lowest price here at the time of writing", "Works standing or seated", "Forward and reverse pedaling"],
+      "cons": ["Bulkier than a dedicated under-desk unit", "More basic tracking than the Cubii models", "Standing use needs its own floor space"],
+      "bestFor": "Anyone who wants to use the same machine seated at a desk and standing.",
+      "skipIf": "You only use it seated under a low desk; a compact unit like the Sunny SF-E3872 is more focused."
+    },
+    "deskcycle-ellipse-elliptical": {
+      "badge": "Best for Larger Feet",
+      "summary": "A steel-frame unit with extra-large adjustable pedals and a separate display stand.",
+      "description": "The DeskCycle Ellipse is the better fit for larger shoe sizes: its extra-large, adjustable pedals are the largest here, on a steel frame with 8 levels of magnetic resistance that DeskCycle describes as ranging from very easy to hard.\n\nIts 6-function LCD sits on a separate stand, so the display stays visible without being in the way of your feet. DeskCycle describes operation as whisper-quiet.\n\nAt 30 lb it is the heaviest model here, which makes it less convenient to move, and the display stand takes a little extra space.",
+      "specs": ["Resistance: magnetic, 8 levels", "Pedals: extra-large, adjustable", "Display: 6-function LCD on separate stand", "Frame: steel", "Weight: 30 lb"],
+      "pros": ["Largest pedals here", "Separate display stand", "Steel frame"],
+      "cons": ["Heaviest model here at 30 lb", "Display stand adds footprint", "User weight rating not stated in the listing summary"],
+      "bestFor": "Larger feet, or anyone who wants the display off the floor and in view.",
+      "skipIf": "You move the unit often; the Cubii GO has wheels and a handle."
+    },
+    "lifepro-flexstride-plus-elliptical": {
+      "badge": "Best Value with Accessories",
+      "summary": "300 lb rating, Bluetooth tracking, a two-year warranty and a mat, tether, band and stoppers included.",
+      "description": "The LifePro FlexStride Plus offers the most for its price on paper: a 300 lb maximum user weight, Bluetooth app tracking and a two-year warranty, at under $120 at the time of writing.\n\nIts LCD shows time, distance, strides, RPM and calories, and the box includes a floor mat, a tether strap, a yoga band and wheel stoppers. It weighs 28.7 lb.\n\nIt has 8 resistance levels, fewer than the Cubii GO or Total Body V2, and you may not need every accessory.",
+      "specs": ["Resistance: magnetic, 8 levels", "Display: time, distance, strides, RPM, calories", "Tracking: Bluetooth app", "Weight: 28.7 lb", "Warranty: 2 years", "Max user weight: 300 lb"],
+      "pros": ["300 lb rating at a low price", "Two-year warranty", "Mat, tether, band and stoppers included"],
+      "cons": ["8 resistance levels", "Extra accessories you may not use", "Heavier than the Cubii JR1 or Sunny"],
+      "bestFor": "Heavier users who want app tracking without paying Cubii prices.",
+      "skipIf": "You want more resistance levels; the Cubii Total Body V2 offers 12."
+    },
+    "cubii-go-elliptical": {
+      "badge": "Best for Moving Between Rooms",
+      "summary": "10 resistance levels, a 300 lb rating, and built-in wheels with a telescoping handle.",
+      "description": "The Cubii GO is designed to move: built-in wheels and a double telescoping handle let you roll it between rooms, and its aluminum frame keeps it manageable.\n\nIt has 10 levels of magnetic resistance and uses what Cubii calls a ZeroGravitii flywheel, designed for quiet operation. It is rated for 300 lb and syncs to the Cubii app.\n\nIt was the most expensive model here at the time of writing, and it has less buyer feedback than the JR1. If it will stay under one desk, the LifePro offers the same weight rating for about half the price.",
+      "specs": ["Resistance: magnetic, 10 levels", "Flywheel: ZeroGravitii (per Cubii)", "Portability: wheels + telescoping handle", "Frame: aluminum", "Tracking: Bluetooth (Cubii app)", "Max user weight: 300 lb"],
+      "pros": ["Wheels and handle for moving it", "10 resistance levels", "300 lb rating"],
+      "cons": ["Most expensive here at the time of writing", "Less buyer feedback than the JR1", "Portability matters little if it stays put"],
+      "bestFor": "Anyone who moves between a desk, a sofa and other rooms during the day.",
+      "skipIf": "It will live under one desk; the LifePro FlexStride Plus matches the 300 lb rating for less."
+    },
+    "cubii-total-body-v2-elliptical": {
+      "badge": "Best for Upper-Body Work",
+      "summary": "12 resistance levels plus a resistance-band pulley system for arms, rated to 300 lb.",
+      "description": "The Cubii Total Body V2 is the only model here that adds upper-body work: a resistance-band pulley system lets you train your arms alongside the pedaling.\n\nIt has 12 levels of magnetic resistance, the widest range here, an LCD display and alloy steel construction. Cubii rates it for users up to 300 lb and up to 7 feet tall.\n\nThe pulley hardware gives it a larger footprint than pedal-only units, and it costs more than the entry models.",
+      "specs": ["Resistance: magnetic, 12 levels", "Upper body: resistance-band pulley system", "Frame: alloy steel", "Display: LCD", "Max user weight: 300 lb; height up to 7 ft (per Cubii)"],
+      "pros": ["Only model with upper-body resistance", "Most resistance levels here", "300 lb and 7 ft rating"],
+      "cons": ["Larger footprint", "Costs more than entry models", "Band work is harder to combine with typing"],
+      "bestFor": "Using breaks for arm and leg work, rather than pedaling while you type.",
+      "skipIf": "You only want to pedal while working; a pedal-only unit is smaller and cheaper."
+    },
+    "exerpeutic-2000m-elliptical": {
+      "badge": "Best Motorized Option",
+      "summary": "An electric model that moves your legs for you, controlled by a corded remote.",
+      "description": "The Exerpeutic 2000M is a different kind of product: an electric motor moves the pedals, so the motion is passive rather than something you drive yourself.\n\nA hand-held remote on a 6-foot cord sets speed and an automatic 15-minute timer without bending down. The foldable pedals have adjustable straps and can be used for arms as well as legs, and a floor mat is included. It is rated for users up to 286 lb.\n\nPassive movement is not the same as a pedaling workout, and it needs a power outlet near your desk.",
+      "specs": ["Drive: electric motor", "Control: remote on 6-ft cord", "Timer: automatic 15 minutes", "Pedals: foldable, adjustable straps", "Included: floor mat", "Max user weight: 286 lb"],
+      "pros": ["Moves your legs without effort", "Remote control", "Can be used for arms or legs"],
+      "cons": ["Not an active workout", "Needs an outlet", "Lower weight rating than the 300 lb models"],
+      "bestFor": "Readers who want passive leg movement rather than exercise.",
+      "skipIf": "You want to exercise while working; any of the manual models suits that better."
+    }
+  },
+  "buyingCriteria": [
+    { "criterion": "Measure clearance first", "explanation": "Measure from the floor to the lowest point under your desk, including crossbars and drawers, and compare it with the unit's height at the top of the pedal stroke as listed." },
+    { "criterion": "Check the maximum user weight", "explanation": "Ratings here range from 150 lb (Cubii JR1) to 300 lb (LifePro, Cubii GO, Total Body V2). Choose a model rated for you." },
+    { "criterion": "Prefer magnetic resistance for calls", "explanation": "Every manual model here uses magnetic resistance, which avoids friction contact. Manufacturer noise claims are not independently measured, so treat them as a guide." },
+    { "criterion": "Decide on tracking and portability", "explanation": "Bluetooth models log sessions in an app; others show them on a display only. If you'll move the unit, wheels and weight matter more than resistance levels." }
+  ],
+  "howWeEvaluated": [
+    { "title": "Capacity and fit", "description": "We compared listed maximum user weights, stride length and pedal size." },
+    { "title": "Resistance and drive", "description": "We compared resistance type and levels, and separated the motorized model from manual ones." },
+    { "title": "Tracking and portability", "description": "We noted displays, Bluetooth app support, unit weight, wheels and power requirements." },
+    { "title": "Price and warranty", "description": "We compared prices at the time of writing and any stated warranties and included accessories." }
+  ],
+  "howToChoose": [
+    { "subheading": "By priority", "table": { "headers": ["Priority", "Consider"], "rows": [
+      ["Lowest price, standing or seated use", "Stamina InMotion E1000"],
+      ["No assembly", "Sunny SF-E3872"],
+      ["300 lb rating and app for less", "LifePro FlexStride Plus"],
+      ["Moving it between rooms", "Cubii GO"],
+      ["Upper-body work", "Cubii Total Body V2"],
+      ["Larger feet", "DeskCycle Ellipse"],
+      ["Passive movement", "Exerpeutic 2000M"]
+    ] } }
+  ],
+  "faq": [
+    { "q": "How much clearance do I need under my desk?", "a": "It depends on the model's height at the top of the pedal stroke. Measure from the floor to the lowest point under your desk, including crossbars and drawers, and compare that with the listed dimensions." },
+    { "q": "Are under-desk ellipticals quiet enough for video calls?", "a": "The manual models here use magnetic resistance, which avoids friction contact, and several manufacturers describe their units as quiet. Noise also depends on your floor and pedaling speed, so a mat can help." },
+    { "q": "Which has the highest weight rating?", "a": "The LifePro FlexStride Plus, Cubii GO and Cubii Total Body V2 are rated to 300 lb. The Cubii JR1 is rated to 150 lb." },
+    { "q": "What's the difference between manual and motorized?", "a": "On a manual model, you drive the pedals. The Exerpeutic 2000M uses a motor to move them, so it provides passive movement rather than exercise." },
+    { "q": "Can I use one with a normal office chair?", "a": "Yes, the models here are designed for seated use. A chair with casters may roll back as you pedal; a tether strap, like the one included with the LifePro, or a mat can help." }
+  ],
+  "bottomLine": [
+    "Start with your weight and desk clearance: the Cubii JR1 is compact and cord-free but rated to 150 lb, while the LifePro FlexStride Plus offers a 300 lb rating, app tracking and a two-year warranty for well under the Cubii models' prices at the time of writing.",
+    "Choose the Cubii GO if you'll move the unit around, the Total Body V2 for arm work, the Stamina E1000 for standing use, or the DeskCycle Ellipse for larger feet. The Exerpeutic 2000M is for passive movement, not exercise."
+  ]
+}

@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-mouse-bungees-with-usb-hubs";
 
-export const guideTitle = "The Best Mouse Bungees With USB Hubs Worth Considering";
+export const guideTitle = "The Best Mouse Bungees With USB Hubs: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41N3NS+riiL._SL500_.jpg";
 

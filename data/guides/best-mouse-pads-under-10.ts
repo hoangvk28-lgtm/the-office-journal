@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-mouse-pads-under-10";
 
-export const guideTitle = "The Best Mouse Pads Under $10 Worth Considering";
+export const guideTitle = "The Best Mouse Pads Under $10: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31Bqr1s7ToL._SL500_.jpg";
 

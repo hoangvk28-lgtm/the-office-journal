@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-kneeling-chairs-for-tall-people";
 
-export const guideTitle = "The Best Kneeling Chairs for Tall People Worth Considering";
+export const guideTitle = "The Best Kneeling Chairs for Tall People: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41SnB+9Ti1L._SL500_.jpg";
 

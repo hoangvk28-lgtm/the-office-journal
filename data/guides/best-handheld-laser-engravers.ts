@@ -1,218 +1,7 @@
-export const guideSlug = "best-handheld-laser-engravers";
-export const guideTitle = "4 Best Handheld Laser Engravers in 2026";
-export const metaTitle = "Best Handheld Laser Engravers in 2026";
-export const metaDescription = "We compared best handheld laser engravers by verified specs and real use-case fit rather than ranking by marketing claims alone.";
-export const mainKeyword = "handheld laser engravers";
-export const introParagraphs = [
-  "Best Handheld Laser Engravers listings span very different source architectures, diode, CO2, fiber, and more, and comparing them on wattage alone misses the real differences in cutting depth, work area, and safety design.",
-  "We compared this lineup on verified specs pulled directly from current listings rather than marketing claims, matching each pick to the specific use case in this guide's title."
-];
-export const lastUpdated = "2026-08-22";
-export const readTime = "8 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41n1iCI3PVL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-handheld-laser-engravers-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "LaserPecker LP2 Handheld Laser Engraver",
-    price: "$599.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41n1iCI3PVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09TQYHJL7?tag=theofficejournal-20",
-    description: "What sold us on LaserPecker LP2 Handheld Laser Engraver is simple. Compact 1kg handheld engraver with built-in handle, perfect for on-the-go creativity. 36000 mm/min speed + instant previews (225000 mm/min) powered by galvo tech.\n\nBottom line: 0.05mm micro-spot laser captures intricate details. Start engraving in seconds, zero assembly, intuitive app controls (jpg/png/g-code), and trolley mode for oversized projects up to 78\". Worth confirming the exact figures on the listing before you buy, but this one earns its spot.",
-    specs: ["Compact 1kg handheld engraver with built-in handle, perfect for on-the-go creativity", "36000 mm/min speed + instant previews (225000 mm/min) powered by galvo tech", "0.05mm micro-spot laser captures intricate details"],
-    pros: ["Compact 1kg handheld engraver with built-in handle, perfect for on-the-go creativity", "36000 mm/min speed + instant previews (225000 mm/min) powered by galvo tech", "0.05mm micro-spot laser captures intricate details"],
-    cons: ["Double-check wattage and cutting depth before buying", "Software workflow varies, confirm it matches your setup"],
-    bestFor: "buyers who specifically want compact 1kg handheld engraver with built-in handle, perfect for on-the-go creativity",
-  },
-  {
-    id: "best-handheld-laser-engravers-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "LaserPecker LP2 Laser Engraver",
-    price: "$699.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41mIjth8adL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09TQXYLZX?tag=theofficejournal-20",
-    description: "What sold us on LaserPecker LP2 Laser Engraver is simple. Laserpecker lp2 laser engraver with upgrade galvo technology for faster engraving. The versatile electric roller enables \"cylinder mode\" on cylindrical surfaces like tumblers and pencils.\n\nPaper, cardboard, wood, leather, coating metal, brushed stainless steel, etc. Plug and play laser engraving machine with innovative handle design for hand-held engraving. Small detail, but it's the kind of thing that separates a good pick from a forgettable one.",
-    specs: ["Laserpecker lp2 laser engraver with upgrade galvo technology for faster engraving", "Versatile electric roller enables \"cylinder mode\" on cylindrical surfaces like tumblers", "Paper, cardboard, wood, leather, coating metal, brushed stainless steel, etc"],
-    pros: ["Laserpecker lp2 laser engraver with upgrade galvo technology for faster engraving", "Versatile electric roller enables \"cylinder mode\" on cylindrical surfaces like tumblers", "Paper, cardboard, wood, leather, coating metal, brushed stainless steel, etc"],
-    cons: ["Open frame means you supply your own ventilation", "Bigger work area means a bigger footprint to house"],
-    bestFor: "buyers who specifically want laserpecker lp2 laser engraver with upgrade galvo technology for faster engraving",
-  },
-  {
-    id: "best-handheld-laser-engravers-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "PEKOKO Handheld Portable Laser Marking Machine L4Pro Engraving System",
-    price: "$799.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41sVLmJvPiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DDCCF15M?tag=theofficejournal-20",
-    description: "Dig into the spec sheet and PEKOKO Handheld Portable Laser Marking Machine L4Pro Engraving System holds up. 5 inch colour touch screen,self-developed soft-ware,simple interface,easy to operate,software can becustomized to upgrade the researchand development. L4pro handheld marking machine has a wide range of applications, which can be used for personalized customization marking such as qr code,bar code,text,serial number,date,character,image,logo and so on.\n\nRemovable battery up to 6 hours or more of continuoususe on a full charge, with a massive 9000mah battery that goes whereveryou go. Dual preview modes,pro-jected border & graphic,to quicklyand accurately determine the engraving position.quick preview lets you see the result before engraving, and adjust the position of your design on the fly. Small detail, but it's the kind of thing that separates a good pick from a forgettable one.",
-    specs: ["5 inch colour touch screen,self-developed soft-ware,simple interface,easy to operate,software can becustomized", "L4pro handheld marking machine has a wide range of applications, which", "Removable battery up to 6 hours or more of continuoususe"],
-    pros: ["5 inch colour touch screen,self-developed soft-ware,simple interface,easy to operate,software can becustomized", "L4pro handheld marking machine has a wide range of applications, which", "Removable battery up to 6 hours or more of continuoususe"],
-    cons: ["Material compatibility claims are manufacturer-stated, not independently verified", "Safety class applies to the enclosure, not just the laser"],
-    bestFor: "buyers who specifically want 5 inch colour touch screen,self-developed soft-ware,simple interface,easy to operate,software can becustomized",
-  },
-  {
-    id: "best-handheld-laser-engravers-4",
-    rank: 4,
-    badge: "Best Premium Pick",
-    name: "PEKOKO 10W Portable Laser Marking Machine L4Ultra Laser Marker Engraving Machine",
-    price: "$999.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41f6juQ6aoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G2LKL293?tag=theofficejournal-20",
-    description: "PEKOKO 10W Portable Laser Marking Machine L4Ultra Laser Marker Engraving Machine doesn't just check boxes. 5x speed boost on metals like cans & stainless steel.independent r&d operating system,is clearer and faster coding,and the coding time is greatly shortened. Lightweight with plug-in battery & protective shield(with safty protection switch).\n\nAdd to that Built-in 5\" HD touch screen & dual red light preview(border & graphics ). Supports external data import & dynamic variable marking. Not a bad tradeoff for what you're paying.",
-    specs: ["5x speed boost on metals like cans & stainless steel.independent r&d", "Lightweight with plug-in battery & protective shield(with safty protection switch)", "Built-in 5\" HD touch screen & dual red light preview(border &"],
-    pros: ["5x speed boost on metals like cans & stainless steel.independent r&d", "Lightweight with plug-in battery & protective shield(with safty protection switch)", "Built-in 5\" HD touch screen & dual red light preview(border &"],
-    cons: ["Software workflow varies, confirm it matches your setup", "Double-check wattage and cutting depth before buying"],
-    bestFor: "buyers who specifically want 5x speed boost on metals like cans & stainless steel.independent r&d",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Hard-scope eligibility",
-    "description": "keep `Best Handheld Laser Engravers` as its own target and require the exact source, material, wattage, brand, accessory, price or workflow modifier."
-  },
-  {
-    "title": "Source-first evidence",
-    "description": "publish wavelength/source architecture, true optical output, spot/field/work area and process mechanism before speed claims."
-  },
-  {
-    "title": "Representative-job protocol",
-    "description": "disclose material, coating, thickness, focus, power, speed, frequency/pulse where relevant, passes, air assist and measured result."
-  },
-  {
-    "title": "Safety/process score",
-    "description": "document laser class/access controls, enclosure/interlocks, extraction, fire supervision, material restrictions and required PPE/control area where applicable."
-  },
-  {
-    "title": "Ownership/production verdict",
-    "description": "include camera/rotary calibration, software, consumables, exhaust/cooling, source life/replacement, service and total ready-to-run cost."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Primary Priority",
-    "table": {
-      "headers": [
-        "If you mainly need",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "The best all-around option in this comparison",
-          "LaserPecker LP2 Handheld Laser Engraver"
-        ],
-        [
-          "A strong alternative with a different tradeoff",
-          "PEKOKO Handheld Portable Laser Marking Machine L4Pro Engraving System"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget tier",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lower price point in this lineup",
-          "PEKOKO 10W Portable Laser Marking Machine L4Ultra Laser Marker Engraving Machine"
-        ],
-        [
-          "Best overall value",
-          "LaserPecker LP2 Handheld Laser Engraver"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "LaserPecker LP2 Handheld vs PEKOKO 10W Portable",
-    "cards": [
-      {
-        "label": "LaserPecker LP2 Handheld Laser Engraver",
-        "text": "The top pick in this comparison based on its documented spec set and feature completeness relative to the rest of this lineup."
-      },
-      {
-        "label": "PEKOKO 10W Portable Laser Marking Machine L4Ultra Laser Marker Engraving Machine",
-        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
-      }
-    ],
-    "note": "Most buyers should default to LaserPecker LP2 Handheld Laser Engraver unless your specific use case points toward PEKOKO 10W Portable Laser Marking Machine L4Ultra Laser Marker Engraving Machine's particular tradeoffs."
-  },
-  {
-    "subheading": "By Secondary Feature Priority",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Matches this guide's core use case most closely",
-          "LaserPecker LP2 Handheld Laser Engraver"
-        ],
-        [
-          "A close secondary option worth comparing",
-          "PEKOKO Handheld Portable Laser Marking Machine L4Pro Engraving System"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For This Guide's Core Use Case Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "The specific spec called out in this guide's title (material, feature, or use case) verified directly on the product listing, not assumed from the category."
-      },
-      {
-        "label": "In this comparison",
-        "text": "LaserPecker LP2 Handheld Laser Engraver is worth checking first against that specific requirement before comparing the rest of this lineup."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need the fuller feature set found on PEKOKO 10W Portable Laser Marking Machine L4Ultra Laser Marker Engraving Machine, where the extra capability has a real, verifiable use case for you."
-      },
-      {
-        "label": "Save if",
-        "text": "Your requirements are covered by LaserPecker LP2 Handheld Laser Engraver without needing the higher-tier features."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
@@ -244,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Does a higher wattage rating always mean better cutting performance?",
-    "a": "Not necessarily. Compare actual rated cutting depth on your specific material rather than wattage alone, since machines at the same claimed power often quote different real-world cutting depths."
+    "a": "Compare actual rated cutting depth on your specific material rather than wattage alone, since machines at the same claimed power often quote different real-world cutting depths."
   },
   {
     "q": "Do I need a fully enclosed machine for safety?",
@@ -260,4 +49,274 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-laser-engravers","title":"Best Laser Engravers"},{"href":"/guide/best-laser-engravers-for-wood","title":"Best Laser Engravers for Wood"},{"href":"/guide/best-portable-laser-engravers","title":"Best Portable Laser Engravers"}];
+export const guideSlug = "best-handheld-laser-engravers";
+
+export const guideTitle = "The Best Handheld Laser Engravers for a Better Desk Setup";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41n1iCI3PVL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "The best all-around option in this comparison",
+          "LaserPecker LP2 Handheld Laser Engraver"
+        ],
+        [
+          "A strong alternative with a different tradeoff",
+          "PEKOKO Handheld Portable Laser Marking Machine L4Pro Engraving System"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lower price point in this lineup",
+          "PEKOKO 10W Portable Laser Marking Machine L4Ultra Laser Marker Engraving Machine"
+        ],
+        [
+          "",
+          "LaserPecker LP2 Handheld Laser Engraver"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "LaserPecker LP2 Handheld vs PEKOKO 10W Portable",
+    "cards": [
+      {
+        "label": "LaserPecker LP2 Handheld Laser Engraver",
+        "text": "The top pick in this comparison based on its documented spec set and feature completeness relative to the rest of this lineup."
+      },
+      {
+        "label": "PEKOKO 10W Portable Laser Marking Machine L4Ultra Laser Marker Engraving Machine",
+        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
+      }
+    ],
+    "note": "Most buyers should default to LaserPecker LP2 Handheld Laser Engraver unless your specific use case points toward PEKOKO 10W Portable Laser Marking Machine L4Ultra Laser Marker Engraving Machine's particular tradeoffs."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Matches this guide's core use case most closely",
+          "LaserPecker LP2 Handheld Laser Engraver"
+        ],
+        [
+          "A close secondary option worth comparing",
+          "PEKOKO Handheld Portable Laser Marking Machine L4Pro Engraving System"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For This Guide's Core Use Case Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "The specific spec called out in this guide's title (material, feature, or use case) verified directly on the product listing, not assumed from the category."
+      },
+      {
+        "label": "",
+        "text": "LaserPecker LP2 Handheld Laser Engraver is worth checking first against that specific requirement before comparing the rest of this lineup."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need the fuller feature set found on PEKOKO 10W Portable Laser Marking Machine L4Ultra Laser Marker Engraving Machine, where the extra capability has a real, verifiable use case for you."
+      },
+      {
+        "label": "",
+        "text": "Your requirements are covered by LaserPecker LP2 Handheld Laser Engraver without needing the higher-tier features."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Keep `Best Handheld Laser Engravers` as its own target and require the exact source, material, wattage, brand, accessory, price or workflow modifier."
+  },
+  {
+    "title": "",
+    "description": "Publish wavelength/source architecture, true optical output, spot/field/work area and process mechanism before speed claims."
+  },
+  {
+    "title": "",
+    "description": "Disclose material, coating, thickness, focus, power, speed, frequency/pulse where relevant, passes, air assist and measured result."
+  },
+  {
+    "title": "",
+    "description": "Document laser class/access controls, enclosure/interlocks, extraction, fire supervision, material restrictions and required PPE/control area where applicable."
+  },
+  {
+    "title": "",
+    "description": "Include camera/rotary calibration, software, consumables, exhaust/cooling, source life/replacement, service and total ready-to-run cost."
+  }
+];
+
+export const introParagraphs = [
+  "Best Handheld Laser Engravers listings span very different source architectures, diode, CO2, fiber, and more, and comparing them on wattage alone misses the real differences in cutting depth, work area, and safety design.",
+  "We compared this lineup on verified specs pulled directly from current listings rather than marketing claims, matching each pick to the specific use case in this guide's title."
+];
+
+export const lastUpdated = "2026-08-22";
+
+export const mainKeyword = "handheld laser engravers";
+
+export const metaDescription = "We compared 4 handheld laser engravers on compatibility, build, features and price to help you choose the right one for your space.";
+
+export const metaTitle = "Best Handheld Laser Engravers for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-handheld-laser-engravers-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "LaserPecker LP2 Handheld Laser Engraver",
+    "price": "$599.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41n1iCI3PVL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09TQYHJL7?tag=theofficejournal-20",
+    "description": "What sold us on LaserPecker LP2 Handheld Laser Engraver is simple. Compact 1kg handheld engraver with built-in handle, well suited to on-the-go creativity. 36000 mm/min speed + instant previews (225000 mm/min) powered by galvo tech.\n\n05mm micro-spot laser captures intricate details. Start engraving in seconds, zero assembly, intuitive app controls (jpg/png/g-code), and trolley mode for oversized projects up to 78\". Worth confirming the exact figures on the listing before you buy, but this one earns its spot.",
+    "specs": [
+      "Compact 1kg handheld engraver with built-in handle, well suited to on-the-go creativity",
+      "36000 mm/min speed + instant previews (225000 mm/min) powered by galvo tech",
+      "0.05mm micro-spot laser captures intricate details"
+    ],
+    "pros": [
+      "Compact 1kg handheld engraver with built-in handle, well suited to on-the-go creativity",
+      "36000 mm/min speed + instant previews (225000 mm/min) powered by galvo tech",
+      "0.05mm micro-spot laser captures intricate details"
+    ],
+    "cons": [
+      "Double-check wattage and cutting depth before buying",
+      "Software workflow varies, confirm it matches your setup"
+    ],
+    "bestFor": "Buyers who specifically want compact 1kg handheld engraver with built-in handle, well suited to on-the-go creativity"
+  },
+  {
+    "id": "best-handheld-laser-engravers-2",
+    "rank": 2,
+    "badge": "Also Worth Considering",
+    "name": "LaserPecker LP2 Laser Engraver",
+    "price": "$699.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41mIjth8adL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09TQXYLZX?tag=theofficejournal-20",
+    "description": "What sold us on LaserPecker LP2 Laser Engraver is simple. Laserpecker lp2 laser engraver with upgrade galvo technology for faster engraving. The versatile electric roller enables \"cylinder mode\" on cylindrical surfaces like tumblers and pencils.\n\nPaper, cardboard, wood, leather, coating metal, brushed stainless steel, etc. Plug and play laser engraving machine with innovative handle design for hand-held engraving. Small detail, but it's the kind of thing that separates a good pick from a forgettable one.",
+    "specs": [
+      "Laserpecker lp2 laser engraver with upgrade galvo technology for faster engraving",
+      "Versatile electric roller enables \"cylinder mode\" on cylindrical surfaces like tumblers",
+      "Paper, cardboard, wood, leather, coating metal, brushed stainless steel, etc"
+    ],
+    "pros": [
+      "Laserpecker lp2 laser engraver with upgrade galvo technology for faster engraving",
+      "Versatile electric roller enables \"cylinder mode\" on cylindrical surfaces like tumblers",
+      "Paper, cardboard, wood, leather, coating metal, brushed stainless steel, etc"
+    ],
+    "cons": [
+      "Open frame means you supply your own ventilation",
+      "Bigger work area means a bigger footprint to house"
+    ],
+    "bestFor": "Buyers who specifically want laserpecker lp2 laser engraver with upgrade galvo technology for faster engraving"
+  },
+  {
+    "id": "best-handheld-laser-engravers-3",
+    "rank": 3,
+    "badge": "Solid Alternative",
+    "name": "PEKOKO Handheld Portable Laser Marking Machine L4Pro Engraving System",
+    "price": "$799.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41sVLmJvPiL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDCCF15M?tag=theofficejournal-20",
+    "description": "Dig into the spec sheet and PEKOKO Handheld Portable Laser Marking Machine L4Pro Engraving System holds up. 5 inch colour touch screen,self-developed soft-ware,simple interface,easy to operate,software can becustomized to upgrade the researchand development. L4pro handheld marking machine has a wide range of applications, which can be used for personalized customization marking such as qr code,bar code,text,serial number,date,character,image,logo and so on.\n\nRemovable battery up to 6 hours or more of continuoususe on a full charge, with a massive 9000mah battery that goes whereveryou go. Quick preview lets you see the result before engraving, and adjust the position of your design on the fly. Small detail, but it's the kind of thing that separates a good pick from a forgettable one.",
+    "specs": [
+      "5 inch colour touch screen,self-developed soft-ware,simple interface,easy to operate,software can becustomized",
+      "L4pro handheld marking machine has a wide range of applications, which",
+      "Removable battery up to 6 hours or more of continuoususe"
+    ],
+    "pros": [
+      "5 inch colour touch screen,self-developed soft-ware,simple interface,easy to operate,software can becustomized",
+      "L4pro handheld marking machine has a wide range of applications, which",
+      "Removable battery up to 6 hours or more of continuoususe"
+    ],
+    "cons": [
+      "Material compatibility claims are manufacturer-stated, not independently verified",
+      "Safety class applies to the enclosure, not just the laser"
+    ],
+    "bestFor": "Buyers who specifically want 5 inch colour touch screen,self-developed soft-ware,simple interface,easy to operate,software can becustomized"
+  },
+  {
+    "id": "best-handheld-laser-engravers-4",
+    "rank": 4,
+    "badge": "Best Premium Pick",
+    "name": "PEKOKO 10W Portable Laser Marking Machine L4Ultra Laser Marker Engraving Machine",
+    "price": "$999.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41f6juQ6aoL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2LKL293?tag=theofficejournal-20",
+    "description": "PEKOKO 10W Portable Laser Marking Machine L4Ultra Laser Marker Engraving Machine doesn't just check boxes. Independent r&d operating system,is clearer and faster coding,and the coding time is greatly shortened. Lightweight with plug-in battery & protective shield(with safty protection switch).\n\nAdd to that Built-in 5\" HD touch screen & dual red light preview(border & graphics ). Supports external data import & dynamic variable marking. Not a bad tradeoff for what you're paying.",
+    "specs": [
+      "5x speed boost on metals like cans & stainless steel.independent r&d",
+      "Lightweight with plug-in battery & protective shield(with safty protection switch)",
+      "Built-in 5\" HD touch screen & dual red light preview(border &"
+    ],
+    "pros": [
+      "5x speed boost on metals like cans & stainless steel.independent r&d",
+      "Lightweight with plug-in battery & protective shield(with safty protection switch)",
+      "Built-in 5\" HD touch screen & dual red light preview(border &"
+    ],
+    "cons": [
+      "Software workflow varies, confirm it matches your setup",
+      "Double-check wattage and cutting depth before buying"
+    ],
+    "bestFor": "buyers who specifically want 5x speed boost on metals like cans & stainless steel.independent r&d"
+  }
+];
+
+export const readTime = "8 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-laser-engravers",
+    "title": "Best Laser Engravers"
+  },
+  {
+    "href": "/guide/best-laser-engravers-for-wood",
+    "title": "Best Laser Engravers for Wood"
+  },
+  {
+    "href": "/guide/best-portable-laser-engravers",
+    "title": "Best Portable Laser Engravers"
+  }
+];
+
+export const breadcrumbLabel = "Best Handheld Laser Engravers";

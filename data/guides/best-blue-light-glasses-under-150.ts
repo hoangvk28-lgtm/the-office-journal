@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-blue-light-glasses-under-150";
 
-export const guideTitle = "The Best Blue Light Glasses Under $150 Worth Considering";
+export const guideTitle = "The Best Blue Light Glasses Under $150: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31BtULC3EGL._SL500_.jpg";
 

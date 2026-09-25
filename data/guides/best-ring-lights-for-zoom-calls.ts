@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-ring-lights-for-zoom-calls";
 
-export const guideTitle = "The Best Ring Lights for Zoom Calls Worth Considering";
+export const guideTitle = "The Best Ring Lights for Zoom Calls: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41VnuorWJfL._SL500_.jpg";
 

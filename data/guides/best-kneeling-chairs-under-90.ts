@@ -50,7 +50,7 @@ export const faq = [
 
 export const guideSlug = "best-kneeling-chairs-under-90";
 
-export const guideTitle = "The Best Kneeling Chairs Under $90 Worth Considering";
+export const guideTitle = "The Best Kneeling Chairs Under $90: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41mrdpYMuGL._SL500_.jpg";
 

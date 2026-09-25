@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-usb4-dock-with-displayport";
 
-export const guideTitle = "The Best USB4 Docks with DisplayPort Worth Considering";
+export const guideTitle = "The Best USB4 Docks with DisplayPort: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/410l2IjuwXL._SL500_.jpg";
 

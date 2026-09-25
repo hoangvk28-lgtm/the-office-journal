@@ -1,290 +1,7 @@
-export const guideSlug = "best-10000-btu-portable-air-conditioners";
-export const guideTitle = "8 Best 10,000 BTU Portable Air Conditioners in 2026";
-export const metaTitle = "Best 10,000 BTU Portable Air Conditioners";
-export const metaDescription = "We compared portable air conditioner 10000 btu models by verified specs and real-world tradeoffs, not marketing claims alone.";
-export const mainKeyword = "portable air conditioner 10000 btu";
-export const introParagraphs = [
-  "Best 10,000 BTU Portable Air Conditioners aren't as interchangeable as they seem. That means a title alone won't tell you enough.",
-  "This roundup weighs real SACC output and hose design, given that this is where the decision gets made."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/31JR2l1mwrL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-10000-btu-portable-air-conditioners-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "BLACK+DECKER Portable Air Conditioner",
-    price: "$299.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31JR2l1mwrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01DLPUWG2?tag=theofficejournal-20",
-    description: "BLACK+DECKER Portable Air Conditioner is the top pick in this comparison. Our 10,000 BTU (5,550 doe) air conditioner also functions as a dehumidifier & fan. Use this personal air conditioner (15.3” x 14” x 24.8\") in rooms up to 450 sq.\n\nThe gap between this and 10,000 BTU Portable Air Conditioner isn't in the essentials, it shows up in our portable ac unit comes with a full function remote control that features a follow me function, which allows the remote to act as a thermostat for precise temperature control.\n\nThis one is the right call if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Single-hose models pull replacement air from cracks around doors and windows, so real cooling can fall short of the headline BTU rating.",
-    specs: ["Three-in-one unit", "Portable ac", "Follow me remote"],
-    pros: ["Three-in-one unit", "Portable ac", "Follow me remote", "Easy mobility"],
-    cons: ["Single-hose models lose efficiency from negative room pressure", "SACC cooling is usually lower than the headline BTU number"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-10000-btu-portable-air-conditioners-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "10,000 BTU Portable Air Conditioner",
-    price: "$219.98",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31Nmgg2nxVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DT8WWQ58?tag=theofficejournal-20",
-    description: "10,000 BTU Portable Air Conditioner is a strong alternative worth comparing directly against the top pick. With an airflow of up to 240 cfm/min, this 10,000 BTU portable air conditioners delivers powerful cooling to a 450 sq. This portable ac unit can be used as an air conditioner, dehumidifier, and fan all in one.\n\nBLACK+DECKER Portable Air Conditioner lands in a similar spot overall, but the deciding factor between the two is long press the lock button for about 3 seconds to activate the child lock function to protect children from accidental injury.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. The SACC rating, not the marketed ASHRAE BTU number, predicts real cooling performance, so check which figure a listing is actually quoting.",
-    specs: ["Fast cooling", "More than just an air conditioning unit", "Easy to install / easy to use"],
-    pros: ["Fast cooling", "More than just an air conditioning unit", "Easy to install / easy to use", "User-friendly design"],
-    cons: ["SACC cooling is usually lower than the headline BTU number", "Single-hose models lose efficiency from negative room pressure"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-10000-btu-portable-air-conditioners-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "Temprium 10,000 BTU Portable Air Conditioner with Wifi Enabled",
-    price: "$239.98",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/419tT8KbnbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H2M8WV8S?tag=theofficejournal-20",
-    description: "Temprium 10,000 BTU Portable Air Conditioner with Wifi Enabled is a strong alternative worth comparing directly against the top pick. Powerful 10,000 BTU cooling: with 10,000 BTU ASHRAE (6,000 BTU SACC) and 350 m3/h high-velocity airflow, the temprium portable air conditioner rapidly cools rooms up to 450 sq. Engineered for light sleepers, sleep mode operates at a low 50 dB, quieter than normal conversation.\n\nWeighing this against BLACK+DECKER Portable Air Conditioner, smart control, from anywhere: use the temprium app to start cooling, switch modes, or create schedules from your phone ends up being the detail that matters most for most buyers.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Single-hose models pull replacement air from cracks around doors and windows, so real cooling can fall short of the headline BTU rating.",
-    specs: ["Powerful 10,000 BTU cooling: with 10,000 BTU ASHRAE (6,000 BTU SACC)", "Quiet operation for undisturbed rest", "Smart control, from anywhere: use the temprium app"],
-    pros: ["Powerful 10,000 BTU cooling: with 10,000 BTU ASHRAE (6,000 BTU SACC)", "Quiet operation for undisturbed rest", "Smart control, from anywhere: use the temprium app", "3-in-1 design for all-season comfort"],
-    cons: ["Single-hose models lose efficiency from negative room pressure", "SACC cooling is usually lower than the headline BTU number"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-10000-btu-portable-air-conditioners-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "Midea 10,000 BTU ASHRAE Portable Air Conditioner",
-    price: "$249.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31NTecSYRgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQW6HDR4?tag=theofficejournal-20",
-    description: "Midea 10,000 BTU ASHRAE Portable Air Conditioner is a strong alternative worth comparing directly against the top pick. Midea 10,000 BTU ASHRAE (7,100 BTU SACC) portable air conditioner delivers fast, effective cooling for spaces up to 300 sq. Control your portable ac from anywhere using the smarthome app for ios and android.\n\nEnjoy the simplicity and comfort of digital controls, which is the main thing that distinguishes this pick from BLACK+DECKER Portable Air Conditioner.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. The SACC rating, not the marketed ASHRAE BTU number, predicts real cooling performance, so check which figure a listing is actually quoting.",
-    specs: ["Midea 10,000 BTU ASHRAE (7,100 BTU SACC) portable air", "Control your portable ac from anywhere using the smarthome", "Enjoy the simplicity and comfort of digital controls"],
-    pros: ["Midea 10,000 BTU ASHRAE (7,100 BTU SACC) portable air", "Control your portable ac from anywhere using the smarthome", "Enjoy the simplicity and comfort of digital controls", "Easy installation"],
-    cons: ["SACC cooling is usually lower than the headline BTU number", "Single-hose models lose efficiency from negative room pressure"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-10000-btu-portable-air-conditioners-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "Shinco 10,000 BTU Portable Air Conditioner",
-    price: "$218.62",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31fA11QEeBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G3NNCDFT?tag=theofficejournal-20",
-    description: "Shinco 10,000 BTU Portable Air Conditioner is a strong alternative worth comparing directly against the top pick. Shinco portable ac delivers 10,000 BTU (ASHRAE) / 6,450 BTU (SACC) cooling capacity, quickly and efficiently cooling spaces up to 400 sq. This portable ac unit combines cooling, fan, and dry (dehumidifier) modes in one, adapting perfectly to your needs year-round, beat summer heat, circulate fresh air, or reduce humidity effortlessly.\n\nBLACK+DECKER Portable Air Conditioner covers similar ground, though set up this portable ac in minutes, no extra tools required! is what tips the choice one way or the other.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Single-hose models pull replacement air from cracks around doors and windows, so real cooling can fall short of the headline BTU rating.",
-    specs: ["Shinco portable ac delivers 10,000 BTU (ASHRAE) / 6,450", "3-in-1 multifunctional design", "Easy & quick installation"],
-    pros: ["Shinco portable ac delivers 10,000 BTU (ASHRAE) / 6,450", "3-in-1 multifunctional design", "Easy & quick installation", "User-friendly & portable design"],
-    cons: ["Single-hose models lose efficiency from negative room pressure", "SACC cooling is usually lower than the headline BTU number"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-10000-btu-portable-air-conditioners-6",
-    rank: 6,
-    badge: "Best Value",
-    name: "10000Btu Portable Air Conditioners",
-    price: "$215.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31KhQpcHmNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTNWWM79?tag=theofficejournal-20",
-    description: "10000Btu Portable Air Conditioners is the most affordable pick here that still clears the capability floor for this category. Powered by a high-performance compressor, this 10000 BTU portable air conditioner cools areas up to 450 sq. Combines cooling, dehumidifying, fan, and a quiet sleep mode in one versatile device.\n\nThe gap between this and BLACK+DECKER Portable Air Conditioner isn't in the essentials, it shows up in this portable ac unit gives you complete command from across the room with a full-function remote (range up to 23 ft).\n\nThis fits best if you want a genuinely capable pick without paying for headroom you won't use. The SACC rating, not the marketed ASHRAE BTU number, predicts real cooling performance, so check which figure a listing is actually quoting.",
-    specs: ["Rapid & energy-efficient cooling", "3-ln-1 portable air conditioner", "Flexible remote & clear LED display control"],
-    pros: ["Rapid & energy-efficient cooling", "3-ln-1 portable air conditioner", "Flexible remote & clear LED display control", "Auto-evaporative no-drain cooling"],
-    cons: ["SACC cooling is usually lower than the headline BTU number", "Single-hose models lose efficiency from negative room pressure"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
-  },
-  {
-    id: "best-10000-btu-portable-air-conditioners-7",
-    rank: 7,
-    badge: "Great Alternative",
-    name: "Portable Air Conditioner",
-    price: "$247.02",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41heOfsoVXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H3JZN5RN?tag=theofficejournal-20",
-    description: "Portable Air Conditioner is a strong alternative worth comparing directly against the top pick. 4-in-1 versatility:with an ASHRAE rating of 10000 BTU, it is capable of providing fast and effective cooling for spaces up to 450 sq.ft. Features rolling wheels that do not require any permanent installation and can be moved to the space you need.\n\nAll functions can be done through the top operation panel or remote control, which is a convenient way for you to control the machine.our remote control makes it easy to set the time, temperature and mode, a detail worth checking closely before choosing between this and BLACK+DECKER Portable Air Conditioner.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Single-hose models pull replacement air from cracks around doors and windows, so real cooling can fall short of the headline BTU rating.",
-    specs: ["4-in-1 versatility", "Easy to install & easy to carry", "All functions can be done through the top operation"],
-    pros: ["4-in-1 versatility", "Easy to install & easy to carry", "All functions can be done through the top operation", "Washable air filter"],
-    cons: ["Single-hose models lose efficiency from negative room pressure", "SACC cooling is usually lower than the headline BTU number"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-10000-btu-portable-air-conditioners-8",
-    rank: 8,
-    badge: "Best Premium Pick",
-    name: "BLACK+DECKER Portable Air Conditioner",
-    price: "$319.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31FGXuFUp9S._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08NWH8F9J?tag=theofficejournal-20",
-    description: "BLACK+DECKER Portable Air Conditioner is the priciest pick in this lineup. Quiet & powerful - our 10,000 BTU (6,000 BTU SACC) compact air conditioner (17.32 x 13.2 x 27.2 inches and 54.8 lbs) will keep you cool and comfortable all summer. Perfect for small rooms - this floor-standing portable ac unit provides steady, fast, effective cooling for rooms up to 450 sq.\n\nSimple & quick to install, just roll this portable air conditioner with 4 wheels into any room with a double hung or sliding window, which is the main thing that distinguishes this pick from the other picks in this comparison.\n\nGo with this pick if you are willing to spend the most in this comparison for the fuller feature set that comes with it. The SACC rating, not the marketed ASHRAE BTU number, predicts real cooling performance, so check which figure a listing is actually quoting.",
-    specs: ["Quiet & powerful - our 10,000 BTU (6,000 BTU", "Perfect for small rooms - this floor-standing portable ac", "Simple & quick to install, just roll this portable air conditioner with 4 wheels"],
-    pros: ["Quiet & powerful - our 10,000 BTU (6,000 BTU", "Perfect for small rooms - this floor-standing portable ac", "Simple & quick to install, just roll this portable air conditioner with 4 wheels", "Easy to use & clean, the lcd full-function remote"],
-    cons: ["SACC cooling is usually lower than the headline BTU number", "Single-hose models lose efficiency from negative room pressure"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "BTU vs SACC, Which Rating Actually Predicts Cooling",
-    "description": "A portable AC's advertised BTU figure and its real-world SACC rating are often two very different numbers, since ASHRAE BTU is measured under ideal lab conditions while SACC accounts for the heat the unit's own compressor adds back into the room you're trying to cool."
-  },
-  {
-    "title": "Single-Hose vs Dual-Hose Venting",
-    "description": "A single-hose unit draws air from inside your room to cool its condenser, then exhausts that warm air outside, which creates negative pressure that pulls hot, humid outside air back in through door and window gaps, reducing real efficiency."
-  },
-  {
-    "title": "Room Size Sizing: The 20 BTU Per Square Foot Rule",
-    "description": "Sizing a portable AC starts with roughly 20 BTU per square foot under typical conditions, adjusted up around 10% for a sun-facing room and down about 10% for a shaded one, plus roughly 600 BTU for each additional occupant beyond two and about 10% more per extra foot of ceiling height above 8 feet."
-  },
-  {
-    "title": "Venting Requirements and Window Kit Compatibility",
-    "description": "Nearly every portable AC, single-hose or dual-hose, still needs to vent hot air somewhere, typically through an included window kit that seals around a sliding or crank window; a genuinely ventless (evaporative) unit works differently and isn't as effective as a true refrigerant-based portable AC in humid climates."
-  },
-  {
-    "title": "Noise Level and Where You'll Actually Use It",
-    "description": "Because a portable AC's compressor runs inside the room being cooled, rather than outdoors like a window or split unit, noise level is a bigger practical concern than with other AC types, with 50 to 60+ decibels being typical depending on the model."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Room Size",
-    "table": {
-      "headers": [
-        "Your room",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Small room or bedroom",
-          "10000Btu Portable Air Conditioners"
-        ],
-        [
-          "Standard-size room",
-          "BLACK+DECKER Portable Air Conditioner"
-        ],
-        [
-          "Large or open space",
-          "BLACK+DECKER Portable Air Conditioner"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "10000Btu Portable Air Conditioners"
-        ],
-        [
-          "Mid-range pick",
-          "10,000 BTU Portable Air Conditioner"
-        ],
-        [
-          "Higher budget",
-          "BLACK+DECKER Portable Air Conditioner"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Single-Hose vs Dual-Hose Venting",
-    "cards": [
-      {
-        "label": "Single-hose (e.g. 10000Btu Portable Air Conditioners)",
-        "text": "Simpler and cheaper, adequate for rooms up to about 10,000-12,000 BTU, but loses some efficiency from negative room pressure."
-      },
-      {
-        "label": "Dual-hose (e.g. BLACK+DECKER Portable Air Conditioner)",
-        "text": "Avoids negative pressure entirely for meaningfully better real (SACC) cooling, worth it for larger rooms or hotter climates."
-      }
-    ],
-    "note": "For rooms needing 12,000+ BTU of real cooling, dual-hose is generally worth the extra cost."
-  },
-  {
-    "subheading": "By SACC vs ASHRAE BTU Rating",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Standard room, verify the SACC figure",
-          "BLACK+DECKER Portable Air Conditioner"
-        ],
-        [
-          "Always check SACC, not just the headline BTU",
-          "Compare the SACC rating specifically before assuming cooling power"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For a Bedroom or Noise-Sensitive Space Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A specific decibel rating at standard operating speed, since compressor noise is one of the most common complaints about portable AC units."
-      },
-      {
-        "label": "In this comparison",
-        "text": "BLACK+DECKER Portable Air Conditioner is worth checking against its specific decibel rating before assuming any unit is quiet enough for a bedroom."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You're cooling a large room and want dual-hose efficiency and higher real cooling power, where BLACK+DECKER Portable Air Conditioner justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You're cooling a small room or bedroom, where 10000Btu Portable Air Conditioners already covers the job at the lowest price here."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
@@ -292,7 +9,7 @@ export const buyingCriteria = [
     "explanation": "A portable AC's advertised BTU figure and its real-world SACC rating are often two very different numbers, since ASHRAE BTU is measured under ideal lab conditions while SACC accounts for the heat the unit's own compressor adds back into the room you're trying to cool. This gap can be 20 to 40%, meaning a unit's actual cooling power is meaningfully lower than the headline BTU suggests. Check the spec sheet specifically for a SACC number, since a listing that only advertises ASHRAE BTU is likely quoting the more flattering figure."
   },
   {
-    "criterion": "Single-Hose vs Dual-Hose Venting",
+    "criterion": "",
     "explanation": "A single-hose unit draws air from inside your room to cool its condenser, then exhausts that warm air outside, which creates negative pressure that pulls hot, humid outside air back in through door and window gaps, reducing real efficiency. A dual-hose unit uses a separate dedicated intake hose for the condenser, avoiding that negative-pressure effect entirely, which is why a dual-hose unit's SACC rating is typically significantly higher than a single-hose unit with the same ASHRAE BTU rating. Single-hose units are usually adequate up to about 10,000-12,000 BTU; above that, a dual-hose design is worth the added cost and setup complexity."
   },
   {
@@ -301,7 +18,7 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Venting Requirements and Window Kit Compatibility",
-    "explanation": "Nearly every portable AC, single-hose or dual-hose, still needs to vent hot air somewhere, typically through an included window kit that seals around a sliding or crank window; a genuinely ventless (evaporative) unit works differently and isn't as effective as a true refrigerant-based portable AC in humid climates. Check the included window kit's compatibility with your specific window type before buying, since sliding windows, casement windows, and hung windows each need different adapter designs. A unit marketed as 'no window needed' is usually a smaller evaporative cooler, not a substitute for real refrigerant-based cooling in a humid room."
+    "explanation": "Nearly every portable AC, single-hose or dual-hose, still needs to vent hot air somewhere, typically through an included window kit that seals around a sliding or crank window; a ventless (evaporative) unit works differently and isn't as effective as a true refrigerant-based portable AC in humid climates. Check the included window kit's compatibility with your specific window type before buying, since sliding windows, casement windows, and hung windows each need different adapter designs. A unit marketed as 'no window needed' is usually a smaller evaporative cooler, not a substitute for real refrigerant-based cooling in a humid room."
   },
   {
     "criterion": "Noise Level and Where You'll Actually Use It",
@@ -336,4 +53,398 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-portable-air-conditioners","title":"Best Portable Air Conditioners"},{"href":"/guide/best-quiet-portable-air-conditioners","title":"Best Quiet Portable Air Conditioners"},{"href":"/guide/best-dehumidifiers","title":"Best Dehumidifiers"}];
+export const guideSlug = "best-10000-btu-portable-air-conditioners";
+
+export const guideTitle = "The Best 10,000 BTU Portable Air Conditioners for a Cleaner, More Useful Desk";
+
+export const heroImage = "https://m.media-amazon.com/images/I/31JR2l1mwrL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          ""
+        ],
+        [
+          "",
+          "10,000 BTU Portable Air Conditioner"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "Simpler and cheaper, adequate for rooms up to about 10,000-12,000 BTU, but loses some efficiency from negative room pressure."
+      },
+      {
+        "label": "",
+        "text": "Avoids negative pressure entirely for meaningfully better real (SACC) cooling, worth it for larger rooms or hotter climates."
+      }
+    ],
+    "note": "For rooms needing 12,000+ BTU of real cooling, dual-hose is generally worth the extra cost."
+  },
+  {
+    "subheading": "By SACC vs ASHRAE BTU Rating",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Standard room, verify the SACC figure",
+          ""
+        ],
+        [
+          "Always check SACC, not just the headline BTU",
+          "Compare the SACC rating specifically before assuming cooling power"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For a Bedroom or Noise-Sensitive Space Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "A specific decibel rating at standard operating speed, since compressor noise is one of the most common complaints about portable AC units."
+      },
+      {
+        "label": "",
+        "text": "BLACK+DECKER Portable Air Conditioner is worth checking against its specific decibel rating before assuming any unit is quiet enough for a bedroom."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You're cooling a large room and want dual-hose efficiency and higher real cooling power, where BLACK+DECKER Portable Air Conditioner justifies the extra cost."
+      },
+      {
+        "label": "",
+        "text": "You're cooling a small room or bedroom, where 10000Btu Portable Air Conditioners already covers the job at the lowest price here."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "BTU vs SACC, Which Rating Actually Predicts Cooling",
+    "description": "A portable AC's advertised BTU figure and its real-world SACC rating are often two very different numbers, since ASHRAE BTU is measured under ideal lab conditions while SACC accounts for the heat the unit's own compressor adds back into the room you're trying to cool."
+  },
+  {
+    "title": "",
+    "description": "A single-hose unit draws air from inside your room to cool its condenser, then exhausts that warm air outside, which creates negative pressure that pulls hot, humid outside air back in through door and window gaps, reducing real efficiency."
+  },
+  {
+    "title": "Room Size Sizing: The 20 BTU Per Square Foot Rule",
+    "description": "Sizing a portable AC starts with roughly 20 BTU per square foot under typical conditions, adjusted up around 10% for a sun-facing room and down about 10% for a shaded one, plus roughly 600 BTU for each additional occupant beyond two and about 10% more per extra foot of ceiling height above 8 feet."
+  },
+  {
+    "title": "Venting Requirements and Window Kit Compatibility",
+    "description": "Nearly every portable AC, single-hose or dual-hose, still needs to vent hot air somewhere, typically through an included window kit that seals around a sliding or crank window; a ventless (evaporative) unit works differently and isn't as effective as a true refrigerant-based portable AC in humid climates."
+  },
+  {
+    "title": "Noise Level and Where You'll Actually Use It",
+    "description": "Because a portable AC's compressor runs inside the room being cooled, rather than outdoors like a window or split unit, noise level is a bigger practical concern than with other AC types, with 50 to 60+ decibels being typical depending on the model."
+  }
+];
+
+export const introParagraphs = [
+  "Best 10,000 BTU Portable Air Conditioners aren't as interchangeable as they seem. That means a title alone won't tell you enough.",
+  "This roundup weighs real SACC output and hose design, given that this is where the decision gets made."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const mainKeyword = "portable air conditioner 10000 btu";
+
+export const metaDescription = "A practical comparison of 8 10,000 BTU portable air conditioners, focused on compatibility, build, features and price, and the trade-offs between them.";
+
+export const metaTitle = "Best 10,000 BTU Portable Air Conditioners for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-10000-btu-portable-air-conditioners-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "BLACK+DECKER Portable Air Conditioner",
+    "price": "$299.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31JR2l1mwrL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B01DLPUWG2?tag=theofficejournal-20",
+    "description": "BLACK+DECKER Portable Air Conditioner is the top pick in this comparison. Our 10,000 BTU (5,550 doe) air conditioner also functions as a dehumidifier & fan. 8\") in rooms up to 450 sq.\n\nThe gap between this and 10,000 BTU Portable Air Conditioner isn't in the essentials, it shows up in our portable ac unit comes with a full function remote control that features a follow me function, which allows the remote to act as a thermostat for precise temperature control.\n\nThis one is the right call if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Single-hose models pull replacement air from cracks around doors and windows, so real cooling can fall short of the headline BTU rating.",
+    "specs": [
+      "Three-in-one unit",
+      "Portable ac",
+      "Follow me remote"
+    ],
+    "pros": [
+      "Three-in-one unit",
+      "Portable ac",
+      "Follow me remote",
+      "Easy mobility"
+    ],
+    "cons": [
+      "Single-hose models lose efficiency from negative room pressure",
+      "SACC cooling is usually lower than the headline BTU number"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-10000-btu-portable-air-conditioners-2",
+    "rank": 2,
+    "badge": "Also Worth Considering",
+    "name": "10,000 BTU Portable Air Conditioner",
+    "price": "$219.98",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Nmgg2nxVL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT8WWQ58?tag=theofficejournal-20",
+    "description": "10,000 BTU Portable Air Conditioner is a strong alternative worth comparing directly against the top pick. With an airflow of up to 240 cfm/min, this 10,000 BTU portable air conditioners delivers powerful cooling to a 450 sq. This portable ac unit can be used as an air conditioner, dehumidifier, and fan all in one.\n\nBLACK+DECKER Portable Air Conditioner lands in a similar spot overall, but the deciding factor between the two is long press the lock button for about 3 seconds to activate the child lock function to protect children from accidental injury.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. The SACC rating, not the marketed ASHRAE BTU number, predicts real cooling performance, so check which figure a listing is actually quoting.",
+    "specs": [
+      "Fast cooling",
+      "More than just an air conditioning unit",
+      "Easy to install / easy to use"
+    ],
+    "pros": [
+      "Fast cooling",
+      "More than just an air conditioning unit",
+      "Easy to install / easy to use",
+      "User-friendly design"
+    ],
+    "cons": [
+      "SACC cooling is usually lower than the headline BTU number",
+      "Single-hose models lose efficiency from negative room pressure"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-10000-btu-portable-air-conditioners-3",
+    "rank": 3,
+    "badge": "Solid Alternative",
+    "name": "Temprium 10,000 BTU Portable Air Conditioner with Wifi Enabled",
+    "price": "$239.98",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/419tT8KbnbL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2M8WV8S?tag=theofficejournal-20",
+    "description": "Temprium 10,000 BTU Portable Air Conditioner with Wifi Enabled is a strong alternative worth comparing directly against the top pick. Powerful 10,000 BTU cooling: with 10,000 BTU ASHRAE (6,000 BTU SACC) and 350 m3/h high-velocity airflow, the temprium portable air conditioner rapidly cools rooms up to 450 sq. Engineered for light sleepers, sleep mode operates at a low 50 DB, quieter than normal conversation.\n\nWeighing this against BLACK+DECKER Portable Air Conditioner, smart control, from anywhere: use the temprium app to start cooling, switch modes, or create schedules from your phone ends up being the detail that matters most for most buyers.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Single-hose models pull replacement air from cracks around doors and windows, so real cooling can fall short of the headline BTU rating.",
+    "specs": [
+      "Powerful 10,000 BTU cooling: with 10,000 BTU ASHRAE (6,000 BTU SACC)",
+      "Quiet operation for undisturbed rest",
+      "Smart control, from anywhere: use the temprium app"
+    ],
+    "pros": [
+      "Powerful 10,000 BTU cooling: with 10,000 BTU ASHRAE (6,000 BTU SACC)",
+      "Quiet operation for undisturbed rest",
+      "Smart control, from anywhere: use the temprium app",
+      "3-in-1 design for all-season comfort"
+    ],
+    "cons": [
+      "Single-hose models lose efficiency from negative room pressure",
+      "SACC cooling is usually lower than the headline BTU number"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-10000-btu-portable-air-conditioners-4",
+    "rank": 4,
+    "badge": "Another Strong Option",
+    "name": "Midea 10,000 BTU ASHRAE Portable Air Conditioner",
+    "price": "$249.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31NTecSYRgL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQW6HDR4?tag=theofficejournal-20",
+    "description": "Midea 10,000 BTU ASHRAE Portable Air Conditioner is a strong alternative worth comparing directly against the top pick. Midea 10,000 BTU ASHRAE (7,100 BTU SACC) portable air conditioner delivers fast, effective cooling for spaces up to 300 sq. Control your portable ac from anywhere using the smarthome app for ios and android.\n\nEnjoy the simplicity and comfort of digital controls, which is the main thing that distinguishes this pick from BLACK+DECKER Portable Air Conditioner.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. The SACC rating, not the marketed ASHRAE BTU number, predicts real cooling performance, so check which figure a listing is actually quoting.",
+    "specs": [
+      "Midea 10,000 BTU ASHRAE (7,100 BTU SACC) portable air",
+      "Control your portable ac from anywhere using the smarthome",
+      "Enjoy the simplicity and comfort of digital controls"
+    ],
+    "pros": [
+      "Midea 10,000 BTU ASHRAE (7,100 BTU SACC) portable air",
+      "Control your portable ac from anywhere using the smarthome",
+      "Enjoy the simplicity and comfort of digital controls",
+      "Easy installation"
+    ],
+    "cons": [
+      "SACC cooling is usually lower than the headline BTU number",
+      "Single-hose models lose efficiency from negative room pressure"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-10000-btu-portable-air-conditioners-5",
+    "rank": 5,
+    "badge": "Runner-Up Pick",
+    "name": "Shinco 10,000 BTU Portable Air Conditioner",
+    "price": "$218.62",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31fA11QEeBL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3NNCDFT?tag=theofficejournal-20",
+    "description": "Shinco 10,000 BTU Portable Air Conditioner is a strong alternative worth comparing directly against the top pick. Shinco portable ac delivers 10,000 BTU (ASHRAE) / 6,450 BTU (SACC) cooling capacity, quickly and efficiently cooling spaces up to 400 sq. This portable ac unit combines cooling, fan, and dry (dehumidifier) modes in one, adapting perfectly to your needs year-round, beat summer heat, circulate fresh air, or reduce humidity effortlessly.\n\nBLACK+DECKER Portable Air Conditioner covers similar ground, though set up this portable ac in minutes, no extra tools required! Is what tips the choice one way or the other.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Single-hose models pull replacement air from cracks around doors and windows, so real cooling can fall short of the headline BTU rating.",
+    "specs": [
+      "Shinco portable ac delivers 10,000 BTU (ASHRAE) / 6,450",
+      "3-in-1 multifunctional design",
+      "Easy & quick installation"
+    ],
+    "pros": [
+      "Shinco portable ac delivers 10,000 BTU (ASHRAE) / 6,450",
+      "3-in-1 multifunctional design",
+      "Easy & quick installation",
+      "User-friendly & portable design"
+    ],
+    "cons": [
+      "Single-hose models lose efficiency from negative room pressure",
+      "SACC cooling is usually lower than the headline BTU number"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-10000-btu-portable-air-conditioners-6",
+    "rank": 6,
+    "badge": "Best Value",
+    "name": "10000Btu Portable Air Conditioners",
+    "price": "$215.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31KhQpcHmNL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTNWWM79?tag=theofficejournal-20",
+    "description": "10000Btu Portable Air Conditioners is the most affordable pick here that still clears the capability floor for this category. Powered by a high-performance compressor, this 10000 BTU portable air conditioner cools areas up to 450 sq. Combines cooling, dehumidifying, fan, and a quiet sleep mode in one versatile device.\n\nThe gap between this and BLACK+DECKER Portable Air Conditioner isn't in the essentials, it shows up in this portable ac unit gives you complete command from across the room with a full-function remote (range up to 23 ft).\n\nThis fits best if you want a capable pick without paying for headroom you won't use. The SACC rating, not the marketed ASHRAE BTU number, predicts real cooling performance, so check which figure a listing is actually quoting.",
+    "specs": [
+      "Rapid & energy-efficient cooling",
+      "3-ln-1 portable air conditioner",
+      "Flexible remote & clear LED display control"
+    ],
+    "pros": [
+      "Rapid & energy-efficient cooling",
+      "3-ln-1 portable air conditioner",
+      "Flexible remote & clear LED display control",
+      "Auto-evaporative no-drain cooling"
+    ],
+    "cons": [
+      "SACC cooling is usually lower than the headline BTU number",
+      "Single-hose models lose efficiency from negative room pressure"
+    ],
+    "bestFor": "Buyers who want a capable pick without paying for headroom you won't use"
+  },
+  {
+    "id": "best-10000-btu-portable-air-conditioners-7",
+    "rank": 7,
+    "badge": "Great Alternative",
+    "name": "Portable Air Conditioner",
+    "price": "$247.02",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41heOfsoVXL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3JZN5RN?tag=theofficejournal-20",
+    "description": "Portable Air Conditioner is a strong alternative worth comparing directly against the top pick. Features rolling wheels that do not require any permanent installation and can be moved to the space you need.\n\nOur remote control makes it easy to set the time, temperature and mode, a detail worth checking closely before choosing between this and BLACK+DECKER Portable Air Conditioner.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Single-hose models pull replacement air from cracks around doors and windows, so real cooling can fall short of the headline BTU rating.",
+    "specs": [
+      "4-in-1 versatility",
+      "Easy to install & easy to carry",
+      "All functions can be done through the top operation"
+    ],
+    "pros": [
+      "4-in-1 versatility",
+      "Easy to install & easy to carry",
+      "All functions can be done through the top operation",
+      "Washable air filter"
+    ],
+    "cons": [
+      "Single-hose models lose efficiency from negative room pressure",
+      "SACC cooling is usually lower than the headline BTU number"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-10000-btu-portable-air-conditioners-8",
+    "rank": 8,
+    "badge": "Best Premium Pick",
+    "name": "BLACK+DECKER Portable Air Conditioner",
+    "price": "$319.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31FGXuFUp9S._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08NWH8F9J?tag=theofficejournal-20",
+    "description": "BLACK+DECKER Portable Air Conditioner is the priciest pick in this lineup. 8 lbs) will keep you cool and comfortable all summer. Well suited to small rooms - this floor-standing portable ac unit provides steady, fast, effective cooling for rooms up to 450 sq.\n\nSimple & quick to install, just roll this portable air conditioner with 4 wheels into any room with a double hung or sliding window, which is the main thing that distinguishes this pick from the other picks in this comparison.\n\nGo with this pick if you are willing to spend the most in this comparison for the fuller feature set that comes with it. The SACC rating, not the marketed ASHRAE BTU number, predicts real cooling performance, so check which figure a listing is actually quoting.",
+    "specs": [
+      "Quiet & powerful - our 10,000 BTU (6,000 BTU",
+      "well suited to small rooms - this floor-standing portable ac",
+      "Simple & quick to install, just roll this portable air conditioner with 4 wheels"
+    ],
+    "pros": [
+      "Quiet & powerful - our 10,000 BTU (6,000 BTU",
+      "well suited to small rooms - this floor-standing portable ac",
+      "Simple & quick to install, just roll this portable air conditioner with 4 wheels",
+      "Easy to use & clean, the lcd full-function remote"
+    ],
+    "cons": [
+      "SACC cooling is usually lower than the headline BTU number",
+      "Single-hose models lose efficiency from negative room pressure"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it"
+  }
+];
+
+export const readTime = "11 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-portable-air-conditioners",
+    "title": "Best Portable Air Conditioners"
+  },
+  {
+    "href": "/guide/best-quiet-portable-air-conditioners",
+    "title": "Best Quiet Portable Air Conditioners"
+  },
+  {
+    "href": "/guide/best-dehumidifiers",
+    "title": "Best Dehumidifiers"
+  }
+];
+
+export const breadcrumbLabel = "Best 10,000 BTU Portable Air Conditioners";

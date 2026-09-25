@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-tower-power-strips";
 
-export const guideTitle = "The Best High-Outlet Power Strips for Tower-Style Needs Worth Considering";
+export const guideTitle = "The Best High-Outlet Power Strips for Tower-Style Needs: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41vcM-QMtVL._SL500_.jpg";
 

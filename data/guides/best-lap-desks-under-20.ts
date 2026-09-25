@@ -1,161 +1,7 @@
-export const guideSlug = "best-lap-desks-under-20";
-export const guideTitle = "4 Best Lap Desks Under $20 in 2026";
-export const metaTitle = "Best Lap Desks Under $20";
-export const metaDescription = "We compared lap desks under $20 by surface size, cushion design, and heat management, since real airflow and stability differences appear at this price.";
-export const mainKeyword = "best lap desks under $20";
-export const introParagraphs = [
-  "Under $20, lap desks split between soft microbead-cushioned designs meant for a couch or bed and rigid, uncushioned flat boards meant more for a firm writing surface, and the real differentiator is how each specific design manages heat and stability on your actual lap.",
-  "We compared this lineup on surface size, cushion type, and heat management design, since a lap desk's whole purpose is providing a stable, comfortable work surface directly on your body, and these details determine whether that actually works in practice."
-];
-export const lastUpdated = "2026-09-14";
-export const readTime = "7 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41i8bK2NEML._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-lap-desks-under-20-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "LAPGEAR MyDesk Lap Desk",
-    price: "$19.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41i8bK2NEML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07N9KZQKR?tag=theofficejournal-20",
-    description: "This lap desk's 17.9 by 13 inch surface fits laptops up to 15.6 inches, and a device ledge specifically prevents laptops and notebooks from sliding off during use, a real stability feature not every competitor includes. Two small storage wells hold pens, cords, or snacks directly on the surface.\n\nIts plush, dual-bolster microbead cushion provides comfort and stability, and a center airflow channel specifically helps keep your lap cool during extended use. At just 1.26 lbs, it's genuinely lightweight, with an integrated handle for carrying between rooms.\n\nBest for buyers who want a device ledge to prevent slipping alongside genuine airflow cooling.",
-    specs: ["17.9x13 in surface, fits up to 15.6 in laptops", "Device ledge, 2 storage wells", "Dual-bolster microbead cushion, center airflow channel"],
-    pros: ["Device ledge specifically prevents laptop sliding", "Center airflow channel genuinely helps keep your lap cool", "Built-in storage wells hold pens, cords, or snacks"],
-    cons: ["No cup holder like some competitors offer", "Fixed flat angle, no adjustable tilt"],
-    bestFor: "buyers who want a device ledge for stability and genuine airflow cooling",
-  },
-  {
-    id: "best-lap-desks-under-20-2",
-    rank: 2,
-    badge: "Best Rigid Writing Surface",
-    name: "GRIFITI Portable Travel Deck 15 Lap Desk",
-    price: "$20.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/417nxCJnxPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00Y1QO5KK?tag=theofficejournal-20",
-    description: "This is the only pick in this comparison built as a rigid, uncushioned flat board rather than a soft cushion design, using an internal rigid acrylic plate for a sturdy yet lightweight platform at just 0.25 inches thick. Its heat shield design specifically prevents heat transfer from your laptop or device to your lap.\n\nIts non-skid neoprene cover offers secure grip and additional heat shielding, and the slim profile fits inside laptop sleeves and cases for genuinely portable travel use, available in multiple sizes to fit different device dimensions.\n\nBest for buyers who want a rigid, slim writing surface for laptops, keyboards, or writing tasks rather than a cushioned lounging design.",
-    specs: ["Rigid acrylic plate, 0.25 in thick", "Heat shield design, non-skid neoprene cover", "Slim profile fits inside laptop sleeves"],
-    pros: ["Only rigid, uncushioned design in this comparison", "Slim enough to fit inside a laptop sleeve for travel", "Non-skid neoprene cover adds secure grip and heat protection"],
-    cons: ["No cushion at all, less comfortable directly on bare legs", "No storage wells or device ledge like the cushioned picks"],
-    bestFor: "buyers who want a rigid, slim surface for writing or keyboard use rather than lounging comfort",
-  },
-  {
-    id: "best-lap-desks-under-20-3",
-    rank: 3,
-    badge: "Best Basic Cushioned",
-    name: "LAPGEAR Basic Lap Desk",
-    price: "$19.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41xOGdUnHBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BZTGD5WW?tag=theofficejournal-20",
-    description: "This lap desk's 17 by 13.2 inch flat surface is made of durable polystyrene that allows proper laptop ventilation, suited to writing, coloring, or computer use. Its dual-bolster cushion filled with microbeads rests comfortably on the lap, with the innovative double-bolster design specifically channeling airflow to keep both you and your computer cool.\n\nIts built-in, reinforced carry handle makes it genuinely portable for home, school, or travel use, and it stores easily in a cupboard, closet, or under a bed when not in use.\n\nBest for buyers who want a straightforward, no-frills cushioned lap desk without extra storage features.",
-    specs: ["17x13.2 in polystyrene surface", "Dual-bolster microbead cushion", "Reinforced carry handle"],
-    pros: ["Straightforward, reliable cushioned design", "Polystyrene surface allows proper laptop ventilation", "Reinforced carry handle for genuine portability"],
-    cons: ["No device ledge or storage wells like the MyDesk pick", "No cup holder for drinks while working"],
-    bestFor: "buyers who want a simple, reliable cushioned lap desk without extra bells and whistles",
-  },
-  {
-    id: "best-lap-desks-under-20-4",
-    rank: 4,
-    badge: "Best Lightweight",
-    name: "LAPGEAR MyStyle Lap Desk",
-    price: "$19.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/412vYwge7OL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07C66B8XL?tag=theofficejournal-20",
-    description: "This lap desk is the lightest pick in this comparison at just 1.15 lbs, with a built-in handle that genuinely makes it easy to grab and carry to a couch, bed, backyard, or anywhere else. Its 17 by 13.2 inch workspace fits laptops up to 15.6 inches without hogging extra sofa space.\n\nIts durable flat surface offers stability with an airflow-friendly design to help keep devices cool, and the dual-bolster microbead cushion sits softly and securely on the lap, with a curved front edge keeping things comfortably close to the body.\n\nBest for buyers who want the lightest possible lap desk for easy carrying between rooms or locations.",
-    specs: ["17x13.2 in surface, 1.15 lb weight", "Dual-bolster microbead cushion, curved front edge", "Built-in handle"],
-    pros: ["Lightest pick in this comparison at 1.15 lbs", "Curved front edge keeps the desk comfortably close to the body", "Genuinely easy to carry between multiple locations"],
-    cons: ["No device ledge to prevent laptop sliding", "No storage wells or cup holder"],
-    bestFor: "buyers who want the lightest, easiest-to-carry lap desk available",
-  }
-];
-
-export const howWeEvaluated = [
-  { "title": "Surface Size and Fit", "description": "Compared stated surface dimensions and maximum supported laptop screen size across the lineup." },
-  { "title": "Cushion Design", "description": "Distinguished microbead dual-bolster cushioning from rigid, uncushioned board designs." },
-  { "title": "Heat Management", "description": "Compared airflow channels and heat shield features designed to keep both the lap and the device cool." },
-  { "title": "Portability Features", "description": "Compared weight and carrying handle design across the lineup." },
-  { "title": "Additional Storage Features", "description": "Checked for device ledges, storage wells, or cup holders included in each design." }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    subheading: "By Primary Need",
-    table: {
-      headers: ["If you mainly need", "Recommended pick"],
-      rows: [
-        ["A device ledge and airflow cooling", "LAPGEAR MyDesk Lap Desk"],
-        ["A rigid, slim writing surface for laptops or keyboards", "GRIFITI Portable Travel Deck 15 Lap Desk"],
-        ["A simple, no-frills cushioned design", "LAPGEAR Basic Lap Desk"],
-        ["The lightest possible lap desk for easy carrying", "LAPGEAR MyStyle Lap Desk"],
-      ],
-    },
-  },
-  {
-    subheading: "By Budget",
-    table: {
-      headers: ["Price range", "Recommended pick"],
-      rows: [
-        ["Under $20", "LAPGEAR MyDesk ($19.99), Basic ($19.99), or MyStyle ($19.99)"],
-        ["Exactly $20", "GRIFITI Travel Deck ($20.00)"],
-      ],
-    },
-  },
-  {
-    subheading: "Cushioned Lounging Design vs Rigid Writing Board",
-    cards: [
-      { label: "Cushioned (LAPGEAR MyDesk, Basic, MyStyle)", text: "Soft microbead cushion rests comfortably on the lap, ideal for casual laptop use on a couch or bed." },
-      { label: "Rigid (GRIFITI Travel Deck)", text: "Uncushioned but slim and sturdy, better suited to writing, drawing, or using a separate keyboard on your lap." },
-    ],
-    note: "If you mainly watch videos or browse casually on a couch, a cushioned design like the LAPGEAR picks is more comfortable. If you need a stable, flat surface for writing or a mechanical keyboard, the GRIFITI's rigid design suits that better.",
-  },
-  {
-    subheading: "By Feature Priority",
-    table: {
-      headers: ["Your priority", "Recommended pick"],
-      rows: [
-        ["Preventing laptop slippage", "LAPGEAR MyDesk (device ledge)"],
-        ["Minimizing weight for portability", "LAPGEAR MyStyle (1.15 lbs)"],
-        ["Fitting inside a laptop sleeve for travel", "GRIFITI Travel Deck"],
-      ],
-    },
-  },
-  {
-    subheading: "For Working in Bed for Extended Periods Specifically",
-    cards: [
-      { label: "Look for", text: "A dual-bolster cushion design with an airflow channel to prevent overheating during long sessions." },
-      { label: "In this comparison", text: "The LAPGEAR MyDesk's center airflow channel and dual-bolster cushion are specifically designed for this kind of extended comfortable use." },
-    ],
-  },
-  {
-    subheading: "When to Spend More",
-    cards: [
-      { label: "Spend more if", text: "You want a device ledge and airflow cooling in one package, where the LAPGEAR MyDesk delivers both at the same price as the simpler picks in this comparison." },
-      { label: "Save if", text: "You just need a simple, reliable cushioned surface, where the LAPGEAR Basic covers that without paying for extra features you may not use." },
-    ],
-  },
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
@@ -163,35 +9,334 @@ export const buyingCriteria = [
     "explanation": "The LAPGEAR MyDesk's device ledge specifically catches the bottom edge of a laptop or notebook, preventing it from sliding forward off the lap desk's surface during use, particularly when sitting at an angle on a couch or in bed rather than upright at a table. A completely flat surface without this ledge, like the LAPGEAR Basic or MyStyle picks, relies purely on friction between the device and surface to prevent sliding, which can fail if you shift position or the surface angle changes. Consider how often you use your lap desk while reclined or at an angle before assuming a flat surface without a ledge provides adequate stability."
   },
   {
-    "criterion": "Rigid and Cushioned Lap Desk Designs Serve Genuinely Different Physical Needs",
-    "explanation": "The GRIFITI Travel Deck's rigid acrylic plate construction provides a firm, stable surface specifically suited to writing, drawing, or typing on a separate keyboard, while the cushioned microbead designs on the other three picks prioritize comfort for casual laptop use like watching videos or browsing, where a soft, body-conforming surface matters more than perfect rigidity. Using a soft cushioned lap desk for precise writing tasks can result in an unstable, wobbly surface, while using a rigid board for extended casual lounging can feel less comfortable against bare legs. Match the lap desk type to your actual primary use case, writing versus casual laptop use, rather than assuming either design works equally well for both purposes."
+    "criterion": "Rigid and Cushioned Lap Desk Designs Serve Different Physical Needs",
+    "explanation": "The GRIFITI Travel Deck's rigid acrylic plate construction provides a firm, stable surface specifically suited to writing, drawing, or typing on a separate keyboard, while the cushioned microbead designs on the other three picks prioritize comfort for casual laptop use like watching videos or browsing, where a soft, body-conforming surface matters more than well suited rigidity. Using a soft cushioned lap desk for precise writing tasks can result in an unstable, wobbly surface, while using a rigid board for extended casual lounging can feel less comfortable against bare legs. Match the lap desk type to your actual primary use case, writing versus casual laptop use, rather than assuming either design works equally well for both purposes."
   },
   {
     "criterion": "An Airflow Channel Addresses Two Distinct Heat Problems Simultaneously",
-    "explanation": "The LAPGEAR MyDesk's center airflow channel specifically addresses both keeping your lap cool from body heat trapped under the desk and helping dissipate heat generated by the laptop itself, a dual-purpose cooling design more sophisticated than a simple flat surface without dedicated airflow features. This matters especially during longer work sessions or with laptops that run hot, where inadequate heat management can become genuinely uncomfortable or even affect laptop performance through thermal throttling. Check specifically for a stated airflow channel or ventilation design if extended use sessions or laptop heat output are real concerns for your specific situation."
+    "explanation": "The LAPGEAR MyDesk's center airflow channel specifically addresses both keeping your lap cool from body heat trapped under the desk and helping dissipate heat generated by the laptop itself, a dual-purpose cooling design more sophisticated than a simple flat surface without dedicated airflow features. This matters especially during longer work sessions or with laptops that run hot, where inadequate heat management can become uncomfortable or even affect laptop performance through thermal throttling. Check specifically for a stated airflow channel or ventilation design if extended use sessions or laptop heat output are real concerns for your specific situation."
   },
   {
     "criterion": "A Rigid Surface's Slim Profile Enables Portability a Cushioned Design Cannot Match",
-    "explanation": "The GRIFITI Travel Deck's slim 0.25 inch profile specifically allows it to fit inside a laptop sleeve or bag alongside your actual laptop, a genuine portability advantage over the bulkier cushioned designs, which typically require separate carrying due to their thicker dual-bolster construction. This matters if you travel frequently and want a lap desk solution that doesn't require a separate bag or significant additional packing space. Weigh how often you need to transport your lap desk alongside other travel gear before choosing between a slim rigid design and a bulkier cushioned one."
+    "explanation": "25 inch profile specifically allows it to fit inside a laptop sleeve or bag alongside your actual laptop, a genuine portability advantage over the bulkier cushioned designs, which typically require separate carrying due to their thicker dual-bolster construction. This matters if you travel frequently and want a lap desk solution that doesn't require a separate bag or significant additional packing space. Weigh how often you need to transport your lap desk alongside other travel gear before choosing between a slim rigid design and a bulkier cushioned one."
   },
   {
     "criterion": "Weight Differences of Even a Few Ounces Matter More Than Expected for Frequent Repositioning",
-    "explanation": "The LAPGEAR MyStyle's 1.15 lb weight versus the MyDesk's 1.26 lb weight represents a small but real difference that becomes more noticeable if you frequently move the lap desk between rooms or locations throughout the day, since repeated lifting of even a slightly heavier item adds up over many repetitions. This distinction matters less if the lap desk stays in one location most of the time, but genuinely matters for buyers who plan to carry it frequently between a bedroom, living room, and outdoor space. Consider your actual frequency of relocating the lap desk before treating small weight differences as insignificant."
+    "explanation": "26 lb weight represents a small but real difference that becomes more noticeable if you frequently move the lap desk between rooms or locations throughout the day, since repeated lifting of even a slightly heavier item adds up over many repetitions. This distinction matters less if the lap desk stays in one location most of the time, but matters for buyers who plan to carry it frequently between a bedroom, living room, and outdoor space. Consider your actual frequency of relocating the lap desk before treating small weight differences as insignificant."
   }
 ];
 
 export const faq = [
-  { "q": "Can I use the GRIFITI rigid lap desk comfortably directly on bare legs?", "a": "It's designed with a heat shield and non-skid neoprene cover for comfort and grip, but since it lacks the soft microbead cushioning of the LAPGEAR picks, some users may find extended direct contact with bare skin less comfortable than a cushioned design." },
-  { "q": "What's the most common mistake buyers make when choosing between rigid and cushioned lap desks?", "a": "Assuming any lap desk works equally well for both writing tasks and casual lounging, when a rigid design like the GRIFITI Travel Deck is genuinely better suited to writing or keyboard use, while a cushioned design like the LAPGEAR picks better serves comfortable, reclined laptop use." },
-  { "q": "Is the LAPGEAR MyDesk worth it over the simpler LAPGEAR Basic model?", "a": "If you specifically want a device ledge to prevent laptop sliding and built-in storage wells for pens or cords, yes, the MyDesk includes both features at the same price as the Basic model, which lacks these extras." },
-  { "q": "How do I know if a lap desk's surface size will fit my specific laptop?", "a": "Check your laptop's screen size against the lap desk's stated maximum supported size, and note that all four picks in this comparison support laptops up to 15.6 inches, though the actual physical surface dimensions vary slightly between models." },
-  { "q": "Does the GRIFITI Travel Deck come in different sizes for different laptop sizes?", "a": "Yes, it's available in multiple sizes including 13x12, 15x12, and 17x12 inches, so check the specific size options available to match your laptop or writing surface needs." },
-  { "q": "Can these lap desks be used for eating meals in bed, not just laptop use?", "a": "The flat, stable surfaces on all four picks can support light meal trays, though none of these specific picks include a dedicated cup holder, so consider a lap desk with that specific feature if eating and drinking in bed is a primary intended use." }
+  {
+    "q": "Can I use the GRIFITI rigid lap desk comfortably directly on bare legs?",
+    "a": "It's designed with a heat shield and non-skid neoprene cover for comfort and grip, but since it lacks the soft microbead cushioning of the LAPGEAR picks, some users may find extended direct contact with bare skin less comfortable than a cushioned design."
+  },
+  {
+    "q": "What's the most common mistake buyers make when choosing between rigid and cushioned lap desks?",
+    "a": "Assuming any lap desk works equally well for both writing tasks and casual lounging, when a rigid design like the GRIFITI Travel Deck is better suited to writing or keyboard use, while a cushioned design like the LAPGEAR picks better serves comfortable, reclined laptop use."
+  },
+  {
+    "q": "Is the LAPGEAR MyDesk worth it over the simpler LAPGEAR Basic model?",
+    "a": "If you specifically want a device ledge to prevent laptop sliding and built-in storage wells for pens or cords, yes, the MyDesk includes both features at the same price as the Basic model, which lacks these extras."
+  },
+  {
+    "q": "How do I know if a lap desk's surface size will fit my specific laptop?",
+    "a": "6 inches, though the actual physical surface dimensions vary slightly between models."
+  },
+  {
+    "q": "Does the GRIFITI Travel Deck come in different sizes for different laptop sizes?",
+    "a": "Yes, it's available in multiple sizes including 13x12, 15x12, and 17x12 inches, so check the specific size options available to match your laptop or writing surface needs."
+  },
+  {
+    "q": "Can these lap desks be used for eating meals in bed, not just laptop use?",
+    "a": "The flat, stable surfaces on all four picks can support light meal trays, though none of these specific picks include a dedicated cup holder, so consider a lap desk with that specific feature if eating and drinking in bed is a primary intended use."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { "href": "/guide/best-lap-desks-under-30", "title": "Best Lap Desks Under $30" },
-  { "href": "/guide/best-lap-desks-under-40", "title": "Best Lap Desks Under $40" },
-  { "href": "/guide/best-office-chairs-under-100", "title": "Best Office Chairs Under $100" },
-  { "href": "/guide/best-desk-pegboards-under-20", "title": "Best Desk Pegboards Under $20" }
+export const guideSlug = "best-lap-desks-under-20";
+
+export const guideTitle = "The Best Lap Desks Under $20: Our Picks";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41i8bK2NEML._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "A device ledge and airflow cooling",
+          ""
+        ],
+        [
+          "A rigid, slim writing surface for laptops or keyboards",
+          "GRIFITI Portable Travel Deck 15 Lap Desk"
+        ],
+        [
+          "A simple, no-frills cushioned design",
+          ""
+        ],
+        [
+          "The lightest possible lap desk for easy carrying",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "Cushioned Lounging Design vs Rigid Writing Board",
+    "cards": [
+      {
+        "label": "Cushioned (LAPGEAR MyDesk, Basic, MyStyle)",
+        "text": "Soft microbead cushion rests comfortably on the lap, ideal for casual laptop use on a couch or bed."
+      },
+      {
+        "label": "",
+        "text": "Uncushioned but slim and sturdy, better suited to writing, drawing, or using a separate keyboard on your lap."
+      }
+    ],
+    "note": "If you mainly watch videos or browse casually on a couch, a cushioned design like the LAPGEAR picks is more comfortable. If you need a stable, flat surface for writing or a mechanical keyboard, the GRIFITI's rigid design suits that better."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "Fitting inside a laptop sleeve for travel",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For Working in Bed for Extended Periods Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "A dual-bolster cushion design with an airflow channel to prevent overheating during long sessions."
+      },
+      {
+        "label": "",
+        "text": "The LAPGEAR MyDesk's center airflow channel and dual-bolster cushion are specifically designed for this kind of extended comfortable use."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You want a device ledge and airflow cooling in one package, where the LAPGEAR MyDesk delivers both at the same price as the simpler picks in this comparison."
+      },
+      {
+        "label": "",
+        "text": "You just need a simple, reliable cushioned surface, where the LAPGEAR Basic covers that without paying for extra features you may not use."
+      }
+    ]
+  }
 ];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Compared stated surface dimensions and maximum supported laptop screen size across the lineup."
+  },
+  {
+    "title": "",
+    "description": "Distinguished microbead dual-bolster cushioning from rigid, uncushioned board designs."
+  },
+  {
+    "title": "",
+    "description": "Compared airflow channels and heat shield features designed to keep both the lap and the device cool."
+  },
+  {
+    "title": "",
+    "description": "Compared weight and carrying handle design across the lineup."
+  },
+  {
+    "title": "",
+    "description": "Checked for device ledges, storage wells, or cup holders included in each design."
+  }
+];
+
+export const introParagraphs = [
+  "Under $20, lap desks split between soft microbead-cushioned designs meant for a couch or bed and rigid, uncushioned flat boards meant more for a firm writing surface, and the real differentiator is how each specific design manages heat and stability on your actual lap.",
+  "We compared this lineup on surface size, cushion type, and heat management design, since a lap desk's whole purpose is providing a stable, comfortable work surface directly on your body, and these details determine whether that actually works in practice."
+];
+
+export const lastUpdated = "2026-09-14";
+
+export const mainKeyword = "best lap desks under $20";
+
+export const metaDescription = "How 4 lap desks under $20 compare on compatibility, build, features and price, with clear notes on who each one suits.";
+
+export const metaTitle = "Best Lap Desks Under $20 (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-lap-desks-under-20-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "LAPGEAR MyDesk Lap Desk",
+    "price": "$19.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41i8bK2NEML._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07N9KZQKR?tag=theofficejournal-20",
+    "description": "6 inches, and a device ledge specifically prevents laptops and notebooks from sliding off during use, a real stability feature not every competitor includes. Two small storage wells hold pens, cords, or snacks directly on the surface.\n\nIts plush, dual-bolster microbead cushion provides comfort and stability, and a center airflow channel specifically helps keep your lap cool during extended use. 26 lbs, it's lightweight, with an integrated handle for carrying between rooms.\n\nBest for buyers who want a device ledge to prevent slipping alongside genuine airflow cooling.",
+    "specs": [
+      "17.9x13 in surface, fits up to 15.6 in laptops",
+      "Device ledge, 2 storage wells",
+      "Dual-bolster microbead cushion, center airflow channel"
+    ],
+    "pros": [
+      "Device ledge specifically prevents laptop sliding",
+      "Center airflow channel helps keep your lap cool",
+      "Built-in storage wells hold pens, cords, or snacks"
+    ],
+    "cons": [
+      "No cup holder like some competitors offer",
+      "Fixed flat angle, no adjustable tilt"
+    ],
+    "bestFor": "Buyers who want a device ledge for stability and genuine airflow cooling"
+  },
+  {
+    "id": "best-lap-desks-under-20-2",
+    "rank": 2,
+    "badge": "Best Rigid Writing Surface",
+    "name": "GRIFITI Portable Travel Deck 15 Lap Desk",
+    "price": "$20.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/417nxCJnxPL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B00Y1QO5KK?tag=theofficejournal-20",
+    "description": "Its heat shield design specifically prevents heat transfer from your laptop or device to your lap.\n\nIts non-skid neoprene cover offers secure grip and additional heat shielding, and the slim profile fits inside laptop sleeves and cases for portable travel use, available in multiple sizes to fit different device dimensions.\n\nBest for buyers who want a rigid, slim writing surface for laptops, keyboards, or writing tasks rather than a cushioned lounging design.",
+    "specs": [
+      "Rigid acrylic plate, 0.25 in thick",
+      "Heat shield design, non-skid neoprene cover",
+      "Slim profile fits inside laptop sleeves"
+    ],
+    "pros": [
+      "Only rigid, uncushioned design in this comparison",
+      "Slim enough to fit inside a laptop sleeve for travel",
+      "Non-skid neoprene cover adds secure grip and heat protection"
+    ],
+    "cons": [
+      "No cushion at all, less comfortable directly on bare legs",
+      "No storage wells or device ledge like the cushioned picks"
+    ],
+    "bestFor": "Buyers who want a rigid, slim surface for writing or keyboard use rather than lounging comfort"
+  },
+  {
+    "id": "best-lap-desks-under-20-3",
+    "rank": 3,
+    "badge": "Best Basic Cushioned",
+    "name": "LAPGEAR Basic Lap Desk",
+    "price": "$19.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41xOGdUnHBL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZTGD5WW?tag=theofficejournal-20",
+    "description": "2 inch flat surface is made of durable polystyrene that allows proper laptop ventilation, suited to writing, coloring, or computer use. Its dual-bolster cushion filled with microbeads rests comfortably on the lap, with the innovative double-bolster design specifically channeling airflow to keep both you and your computer cool.\n\nIts built-in, reinforced carry handle makes it portable for home, school, or travel use, and it stores easily in a cupboard, closet, or under a bed when not in use.\n\nBest for buyers who want a straightforward, no-frills cushioned lap desk without extra storage features.",
+    "specs": [
+      "17x13.2 in polystyrene surface",
+      "Dual-bolster microbead cushion",
+      "Reinforced carry handle"
+    ],
+    "pros": [
+      "Straightforward, reliable cushioned design",
+      "Polystyrene surface allows proper laptop ventilation",
+      "Reinforced carry handle for genuine portability"
+    ],
+    "cons": [
+      "No device ledge or storage wells like the MyDesk pick",
+      "No cup holder for drinks while working"
+    ],
+    "bestFor": "Buyers who want a simple, reliable cushioned lap desk without extra bells and whistles"
+  },
+  {
+    "id": "best-lap-desks-under-20-4",
+    "rank": 4,
+    "badge": "Best Lightweight",
+    "name": "LAPGEAR MyStyle Lap Desk",
+    "price": "$19.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/412vYwge7OL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07C66B8XL?tag=theofficejournal-20",
+    "description": "15 lbs, with a built-in handle that makes it easy to grab and carry to a couch, bed, backyard, or anywhere else. 6 inches without hogging extra sofa space.\n\nIts durable flat surface offers stability with an airflow-friendly design to help keep devices cool, and the dual-bolster microbead cushion sits softly and securely on the lap, with a curved front edge keeping things comfortably close to the body.\n\nBest for buyers who want the lightest possible lap desk for easy carrying between rooms or locations.",
+    "specs": [
+      "17x13.2 in surface, 1.15 lb weight",
+      "Dual-bolster microbead cushion, curved front edge",
+      "Built-in handle"
+    ],
+    "pros": [
+      "Lightest pick in this comparison at 1.15 lbs",
+      "Curved front edge keeps the desk comfortably close to the body",
+      "easy to carry between multiple locations"
+    ],
+    "cons": [
+      "No device ledge to prevent laptop sliding",
+      "No storage wells or cup holder"
+    ],
+    "bestFor": "Buyers who want the lightest, easiest-to-carry lap desk available"
+  }
+];
+
+export const readTime = "7 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-lap-desks-under-30",
+    "title": "Best Lap Desks Under $30"
+  },
+  {
+    "href": "/guide/best-lap-desks-under-40",
+    "title": "Best Lap Desks Under $40"
+  },
+  {
+    "href": "/guide/best-office-chairs-under-100",
+    "title": "Best Office Chairs Under $100"
+  },
+  {
+    "href": "/guide/best-desk-pegboards-under-20",
+    "title": "Best Desk Pegboards Under $20"
+  }
+];
+
+export const breadcrumbLabel = "Best Lap Desks Under $20";

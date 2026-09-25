@@ -4,7 +4,7 @@ import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGu
 
 export const guideSlug = "best-standing-desks-with-built-in-power-outlets";
 
-export const guideTitle = "The Best Standing Desks With Built-In Power, and Alternatives Worth Considering";
+export const guideTitle = "The Best Standing Desks With Built-In Power, and Alternatives: Our Picks";
 
 export const breadcrumbLabel = "Best Standing Desks With Power Outlets";
 

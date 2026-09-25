@@ -1,267 +1,7 @@
-export const guideSlug = "best-portable-air-conditioners-under-700";
-export const guideTitle = "7 Best Portable Air Conditioners Under $700 in 2026";
-export const metaTitle = "Best Portable Air Conditioners Under $700";
-export const metaDescription = "We compared best portable air conditioners under $700 by verified current price and real capability, not just the price ceiling alone.";
-export const mainKeyword = "portable air conditioners under $700";
-export const introParagraphs = [
-  "Best Portable Air Conditioners Under $700 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
-  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
-];
-export const lastUpdated = "2026-08-22";
-export const readTime = "12 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41x89y2jRsL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-portable-air-conditioners-under-700-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier",
-    price: "$364.60",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41x89y2jRsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B098BJB1MF?tag=theofficejournal-20",
-    description: "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier is the top pick in this comparison. Infuse a chilling super satisfying environment into every hot place you go to in your home or office with 14,000 btu of portable cooling power. A dehumidifier, and a fan, all 3-in-1: a chilly room temperature from a room air conditioner is not always the requirement, because of which it comes with a built-in dehumidifier and a fan mode with 3 speed settings.\n\nCompared with BLACK+DECKER Smart Portable Air Conditioner with Heat, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: serenelife’s portable ac unit for rooms comes with loads of features for ultimate convenience.\n\nChoose this if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Infuse a chilling super satisfying environment into every hot", "A dehumidifier, and a fan, all 3-in-1: a chilly room temperature", "Serenelife’s portable ac unit for rooms comes with loads of"],
-    pros: ["Infuse a chilling super satisfying environment into every hot place you", "Dehumidifier, and a fan, all 3-in-1: a chilly room temperature from", "Serenelife’s portable ac unit for rooms comes with loads of features"],
-    cons: ["Verify exact fit and specs against your device before buying", "Compatibility varies by exact model, double-check before ordering"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-portable-air-conditioners-under-700-2",
-    rank: 2,
-    badge: "Best Premium Pick",
-    name: "BLACK+DECKER Smart Portable Air Conditioner with Heat",
-    price: "$499.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31IYlPJTKPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01DLPUWJ4?tag=theofficejournal-20",
-    description: "BLACK+DECKER Smart Portable Air Conditioner with Heat is the priciest pick in this lineup. Our 14,000 btu ashrae (10,200 btu sacc) air conditioner also offers 10,000 btu heat for cold winter months. Take this personal air conditioner (16.5” x 14.06” x 27.09) in rooms up to 700 sq.\n\nIt sits close to SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier on paper, so the real decision comes down to a specific detail rather than a big capability gap: our portable ac unit comes with a full function remote control that features a follow me function, which allows the remote to act as a thermostat for precise temperature control.\n\nThis one is the right call if you are willing to spend the most in this tier for the fuller feature set that comes with it. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Our 14,000 btu ashrae (10,200 btu sacc) air conditioner also", "Take this personal air conditioner (16.5” x 14.06” x 27.09) in", "Our portable ac unit comes with a full function remote control"],
-    pros: ["14,000 btu ashrae (10,200 btu sacc) air conditioner also offers 10,000", "Take this personal air conditioner (16.5” x 14.06” x 27.09)", "Portable ac unit comes with a full function remote control that"],
-    cons: ["Confirm this stays in stock at the price checked here", "Setup or mounting hardware may be sold separately"],
-    bestFor: "buyers who are willing to spend the most in this tier for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-portable-air-conditioners-under-700-3",
-    rank: 3,
-    badge: "Best Value",
-    name: "Uhome 12000 BTU Portable Air Conditioner w/Heater up to 450 Sq. Ft",
-    price: "$319.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/310btoeFbdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B5324H1H?tag=theofficejournal-20",
-    description: "Uhome 12000 BTU Portable Air Conditioner w/Heater up to 450 Sq. Ft is the most affordable pick here that still clears the capability floor for this price tier. It is well known that machines with refrigerants are not intended to be used near open flames or heat sources.\n\nIt sits close to SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier on paper, so worth comparing both listings side by side on the exact spec that matters most for your setup before choosing between them.\n\nChoose this if you want to stay at the lower end of this price tier without dropping below the real capability floor. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["It is well known that machines with refrigerants are not intended"],
-    pros: ["Is well known that machines with refrigerants are not intended", "Solid documented spec sheet for the price"],
-    cons: ["Manufacturer claims here aren't independently lab-verified", "Budget tier means fewer premium finish options"],
-    bestFor: "buyers who want to stay at the lower end of this price tier without dropping below the real capability floor",
-  },
-  {
-    id: "best-portable-air-conditioners-under-700-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "Garvee 14,000 BTU AC Unit, 3-in-1 Portable Air Conditioner",
-    price: "$308.80",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/313SDob3FIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0HCZ4QXJF?tag=theofficejournal-20",
-    description: "Garvee 14,000 BTU AC Unit, 3-in-1 Portable Air Conditioner and is built around 3-in-1 portable air conditioner: enjoy cool air, positioning it for under 700 buyers specifically.\n\nComfort Sleep Mode is the other defining trait here, a real, checkable spec pulled directly from the current listing rather than a marketing generality.\n\nBest for buyers specifically looking for under 700, though as with any appliance purchase, confirm current price and stock directly on the Amazon listing before ordering.",
-    specs: ["3-in-1 Portable Air Conditioner: Enjoy cool air","Comfort Sleep Mode","Quick Window Installation"],
-    pros: ["3-in-1 Portable Air Conditioner: Enjoy cool air, confirmed directly in the listing's own spec details","Comfort Sleep Mode, confirmed directly in the listing's own spec details","Quick Window Installation, confirmed directly in the listing's own spec details"],
-    cons: ["At $308.80, worth comparing against similarly specced portable air conditioners before committing","No independent long-term durability data beyond the manufacturer's own listing claims"],
-    bestFor: "buyers looking for under 700",
-  },
-  {
-    id: "best-portable-air-conditioners-under-700-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "GrowthWing 14,000 BTU Smart WiFi Portable Air Conditioner",
-    price: "$399.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31E2RKFh16L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H6XWN453?tag=theofficejournal-20",
-    description: "GrowthWing 14,000 BTU Smart WiFi Portable Air Conditioner is a strong alternative worth comparing directly against the top pick. Featuring 12,000 btu ashrae cooling power, an upgraded compressor, and a wide 77° air outlet, delivers powerful airflow and rapid cooling for large spaces up to 550 sq.ft. Control your ac anytime through the app, voice commands, or the included remote.\n\nSet it next to SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier and the two are closely matched on the fundamentals, so the real decision comes down to a specific detail rather than a big capability gap: the self-evaporating system reduces the need for manual drainage, providing up to 72 hours of drainage-free cooling in most environments.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Featuring 12,000 btu ashrae cooling power, an upgraded compressor", "Control your ac anytime through the app, voice commands", "The self-evaporating system reduces the need for manual drainage"],
-    pros: ["12,000 btu ashrae cooling power, an upgraded compressor, and a wide", "Control your ac anytime through the app, voice commands, or", "Self-evaporating system reduces the need for manual drainage, providing up"],
-    cons: ["Setup or mounting hardware may be sold separately", "Confirm this stays in stock at the price checked here"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-portable-air-conditioners-under-700-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "FO-KOKO Dual Hose 6800 BTU Portable Camping Air Conditioner & Heating",
-    price: "$449.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41gWilro-uL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H2Q998F3?tag=theofficejournal-20",
-    description: "FO-KOKO Dual Hose 6800 BTU Portable Camping Air Conditioner & Heating is a strong alternative worth comparing directly against the top pick. 30s cool 60s heat all-season: 6800 btu cooling / 7500 btu heating, 30s fast cool & 60s fast heat, 5-in-1 modes (cool/heat/dry/fan/sleep) for year-round comfort. 45db ultra-quiet dual control: operates at only 45db ultra-low noise in sleep mode, creating a quiet environment for undisturbed rest in nature.\n\nSet it next to SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier and the two are closely matched on the fundamentals, so the real decision comes down to a specific detail rather than a big capability gap: ultra-portable 34lb small design: only 34lb lightweight small body with a dedicated carry bag, sleek tech-inspired appearance stands out in outdoor scenes.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["30s cool 60s heat all-season: 6800 btu cooling / 7500 btu heating", "45db ultra-quiet dual control: operates at only 45db ultra-low", "Ultra-portable 34lb small design: only 34lb lightweight small"],
-    pros: ["30s cool 60s heat all-season: 6800 btu cooling / 7500 btu", "45db ultra-quiet dual control: operates at only 45db ultra-low noise", "Ultra-portable 34lb small design: only 34lb lightweight small body with"],
-    cons: ["Budget tier means fewer premium finish options", "Manufacturer claims here aren't independently lab-verified"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-portable-air-conditioners-under-700-7",
-    rank: 7,
-    badge: "Great Alternative",
-    name: "Midea 8,500 BTU ASHRAE Portable Air Conditioner, Cools up to 150 Sq. Ft.",
-    price: "$199.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31NTecSYRgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DQW6R81R?tag=theofficejournal-20",
-    description: "Midea 8,500 BTU ASHRAE Portable Air Conditioner, Cools up to 150 Sq. Ft. and is built around smartcool - midea 8,500 btu ashrae (5,000, positioning it for under 700 buyers specifically.\n\nSMART CONTROL - Control your portable AC is the other defining trait here, a real, checkable spec pulled directly from the current listing rather than a marketing generality.\n\nBest for buyers specifically looking for under 700, though as with any appliance purchase, confirm current price and stock directly on the Amazon listing before ordering.",
-    specs: ["SMARTCOOL - Midea 8,500 BTU ASHRAE (5,000","SMART CONTROL - Control your portable AC","EFFORTLESS OPERATION - Enjoy the simplicity"],
-    pros: ["SMARTCOOL - Midea 8,500 BTU ASHRAE (5,000, confirmed directly in the listing's own spec details","SMART CONTROL - Control your portable AC, confirmed directly in the listing's own spec details","EFFORTLESS OPERATION - Enjoy the simplicity, confirmed directly in the listing's own spec details"],
-    cons: ["At $199.99, worth comparing against similarly specced portable air conditioners before committing","No independent long-term durability data beyond the manufacturer's own listing claims"],
-    bestFor: "buyers looking for under 700",
-  }
-
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Live price gate",
-    "description": "every pick must be new, in stock and up to $700 on the update date; expired sale pricing removes it from the qualifying set."
-  },
-  {
-    "title": "Budget-ladder context",
-    "description": "show the previous tier, premium inverter/dual-hose tier and next-higher tier so readers see the real capability step instead of duplicate lists."
-  },
-  {
-    "title": "Capability-per-dollar score",
-    "description": "normalize DOE SACC cooling capacity, single vs dual hose/inverter and required accessory/setup cost against price."
-  },
-  {
-    "title": "Evidence split",
-    "description": "label efficiency/power and noise as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
-  },
-  {
-    "title": "Ownership/step-up verdict",
-    "description": "judge window/drain installation, warranty, software/parts/support and whether the reader should spend less or move above $700 for a meaningful upgrade."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Priority Up to $700",
-    "table": {
-      "headers": [
-        "If you mainly need",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "The best all-around option in this comparison",
-          "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier"
-        ],
-        [
-          "A strong alternative with a different tradeoff",
-          "DREO Portable 10000 BTU Air Conditioner 740S"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget Within This Tier",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Uhome 12000 BTU Portable Air Conditioner w/Heater up to 450 Sq. Ft"
-        ],
-        [
-          "Best overall value",
-          "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "SereneLife Portable Air vs Drainage-Free Portable Air",
-    "cards": [
-      {
-        "label": "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier",
-        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
-      },
-      {
-        "label": "Drainage-Free Portable Air Conditioner by DELLA: 14,000 BTU",
-        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
-      }
-    ],
-    "note": "Most buyers should default to SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier unless your specific use case points toward Drainage-Free Portable Air Conditioner by DELLA: 14,000 BTU's particular tradeoffs."
-  },
-  {
-    "subheading": "By Secondary Feature Priority",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Matches this guide's core use case most closely",
-          "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier"
-        ],
-        [
-          "A close secondary option worth comparing",
-          "DREO Portable 10000 BTU Air Conditioner 740S"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For This Guide's Core Use Case Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
-      },
-      {
-        "label": "In this comparison",
-        "text": "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier is worth checking first against that specific requirement before comparing the rest of this lineup."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need the fuller feature set found on BLACK+DECKER Smart Portable Air Conditioner with Heat, where the extra capability has a real, verifiable use case for you."
-      },
-      {
-        "label": "Save if",
-        "text": "Your requirements are covered by Uhome 12000 BTU Portable Air Conditioner w/Heater up to 450 Sq. Ft without needing the higher-tier features."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
@@ -293,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Does the cheapest option in a price tier always mean lower quality?",
-    "a": "Not necessarily. Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
+    "a": "Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
   },
   {
     "q": "Is it worth stepping up to the next price tier?",
@@ -309,4 +49,352 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-portable-air-conditioners-under-300","title":"Best Portable Air Conditioners Under $300"},{"href":"/guide/best-portable-air-conditioners-under-400","title":"Best Portable Air Conditioners Under $400"},{"href":"/guide/best-portable-air-conditioners-under-500","title":"Best Portable Air Conditioners Under $500"}];
+export const guideSlug = "best-portable-air-conditioners-under-700";
+
+export const guideTitle = "The Best Portable Air Conditioners Under $700: Our Picks";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41x89y2jRsL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Priority Up to $700",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "The best all-around option in this comparison",
+          "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier"
+        ],
+        [
+          "A strong alternative with a different tradeoff",
+          "DREO Portable 10000 BTU Air Conditioner 740S"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "By Budget Within This Tier",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          "Uhome 12000 BTU Portable Air Conditioner w/Heater up to 450 Sq."
+        ],
+        [
+          "",
+          "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "SereneLife Portable Air vs Drainage-Free Portable Air",
+    "cards": [
+      {
+        "label": "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier",
+        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
+      },
+      {
+        "label": "Drainage-Free Portable Air Conditioner by DELLA: 14,000 BTU",
+        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
+      }
+    ],
+    "note": "Most buyers should default to SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier unless your specific use case points toward Drainage-Free Portable Air Conditioner by DELLA: 14,000 BTU's particular tradeoffs."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Matches this guide's core use case most closely",
+          "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier"
+        ],
+        [
+          "A close secondary option worth comparing",
+          "DREO Portable 10000 BTU Air Conditioner 740S"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For This Guide's Core Use Case Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
+      },
+      {
+        "label": "",
+        "text": "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier is worth checking first against that specific requirement before comparing the rest of this lineup."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need the fuller feature set found on BLACK+DECKER Smart Portable Air Conditioner with Heat, where the extra capability has a real, verifiable use case for you."
+      },
+      {
+        "label": "",
+        "text": "Your requirements are covered by Uhome 12000 BTU Portable Air Conditioner w/Heater up to 450 Sq. Ft without needing the higher-tier features."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Every pick must be new, in stock and up to $700 on the update date; expired sale pricing removes it from the qualifying set."
+  },
+  {
+    "title": "",
+    "description": "Show the previous tier, premium inverter/dual-hose tier and next-higher tier so readers see the real capability step instead of duplicate lists."
+  },
+  {
+    "title": "",
+    "description": "Normalize DOE SACC cooling capacity, single vs dual hose/inverter and required accessory/setup cost against price."
+  },
+  {
+    "title": "",
+    "description": "Label efficiency/power and noise as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+  },
+  {
+    "title": "",
+    "description": "Judge window/drain installation, warranty, software/parts/support and whether the reader should spend less or move above $700 for a meaningful upgrade."
+  }
+];
+
+export const introParagraphs = [
+  "Best Portable Air Conditioners Under $700 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
+  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
+];
+
+export const lastUpdated = "2026-08-22";
+
+export const mainKeyword = "portable air conditioners under $700";
+
+export const metaDescription = "How 7 portable air conditioners under $700 compare on compatibility, build, features and price, with clear notes on who each one suits.";
+
+export const metaTitle = "Best Portable Air Conditioners Under $700 (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-portable-air-conditioners-under-700-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier",
+    "price": "$364.60",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41x89y2jRsL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B098BJB1MF?tag=theofficejournal-20",
+    "description": "SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier is the top pick in this comparison. Infuse a chilling super satisfying environment into every hot place you go to in your home or office with 14,000 btu of portable cooling power. A dehumidifier, and a fan, all 3-in-1: a chilly room temperature from a room air conditioner is not always the requirement, because of which it comes with a built-in dehumidifier and a fan mode with 3 speed settings.\n\nCompared with BLACK+DECKER Smart Portable Air Conditioner with Heat, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: serenelife’s portable ac unit for rooms comes with loads of features for ultimate convenience.\n\nChoose this if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Infuse a chilling super satisfying environment into every hot",
+      "A dehumidifier, and a fan, all 3-in-1: a chilly room temperature",
+      "Serenelife’s portable ac unit for rooms comes with loads of"
+    ],
+    "pros": [
+      "Infuse a chilling super satisfying environment into every hot place you",
+      "Dehumidifier, and a fan, all 3-in-1: a chilly room temperature from",
+      "Serenelife’s portable ac unit for rooms comes with loads of features"
+    ],
+    "cons": [
+      "Verify exact fit and specs against your device before buying",
+      "Compatibility varies by exact model, double-check before ordering"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-portable-air-conditioners-under-700-2",
+    "rank": 2,
+    "badge": "Best Premium Pick",
+    "name": "BLACK+DECKER Smart Portable Air Conditioner with Heat",
+    "price": "$499.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31IYlPJTKPL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B01DLPUWJ4?tag=theofficejournal-20",
+    "description": "BLACK+DECKER Smart Portable Air Conditioner with Heat is the priciest pick in this lineup. Our 14,000 btu ashrae (10,200 btu sacc) air conditioner also offers 10,000 btu heat for cold winter months. 09) in rooms up to 700 sq.\n\nIt sits close to SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier on paper, so the real decision comes down to a specific detail rather than a big capability gap: our portable ac unit comes with a full function remote control that features a follow me function, which allows the remote to act as a thermostat for precise temperature control.\n\nThis one is the right call if you are willing to spend the most in this tier for the fuller feature set that comes with it. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Our 14,000 btu ashrae (10,200 btu sacc) air conditioner also",
+      "Take this personal air conditioner (16.5” x 14.06” x 27.09) in",
+      "Our portable ac unit comes with a full function remote control"
+    ],
+    "pros": [
+      "14,000 btu ashrae (10,200 btu sacc) air conditioner also offers 10,000",
+      "Take this personal air conditioner (16.5” x 14.06” x 27.09)",
+      "Portable ac unit comes with a full function remote control that"
+    ],
+    "cons": [
+      "Confirm this stays in stock at the price checked here",
+      "Setup or mounting hardware may be sold separately"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this tier for the fuller feature set that comes with it"
+  },
+  {
+    "id": "best-portable-air-conditioners-under-700-3",
+    "rank": 3,
+    "badge": "Best Value",
+    "name": "Uhome 12000 BTU Portable Air Conditioner w/Heater up to 450 Sq. Ft",
+    "price": "$319.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/310btoeFbdL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5324H1H?tag=theofficejournal-20",
+    "description": "Uhome 12000 BTU Portable Air Conditioner w/Heater up to 450 Sq. Ft is the most affordable pick here that still clears the capability floor for this price tier. It is well known that machines with refrigerants are not intended to be used near open flames or heat sources.\n\nIt sits close to SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier on paper, so worth comparing both listings side by side on the exact spec that matters most for your setup before choosing between them.\n\nChoose this if you want to stay at the lower end of this price tier without dropping below the real capability floor. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "It is well known that machines with refrigerants are not intended"
+    ],
+    "pros": [
+      "Is well known that machines with refrigerants are not intended",
+      "Solid documented spec sheet for the price"
+    ],
+    "cons": [
+      "Manufacturer claims here aren't independently lab-verified",
+      "Budget tier means fewer premium finish options"
+    ],
+    "bestFor": "Buyers who want to stay at the lower end of this price tier without dropping below the real capability floor"
+  },
+  {
+    "id": "best-portable-air-conditioners-under-700-4",
+    "rank": 4,
+    "badge": "Another Strong Option",
+    "name": "Garvee 14,000 BTU AC Unit, 3-in-1 Portable Air Conditioner",
+    "price": "$308.80",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/313SDob3FIL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCZ4QXJF?tag=theofficejournal-20",
+    "description": "Garvee 14,000 BTU AC Unit, 3-in-1 Portable Air Conditioner and is built around 3-in-1 portable air conditioner: enjoy cool air, positioning it for under 700 buyers specifically.\n\nComfort Sleep Mode is the other defining trait here, a real, checkable spec pulled directly from the current listing rather than a marketing generality.\n\nBest for buyers specifically looking for under 700, though as with any appliance purchase, confirm current price and stock directly on the Amazon listing before ordering.",
+    "specs": [
+      "3-in-1 Portable Air Conditioner: Enjoy cool air",
+      "Comfort Sleep Mode",
+      "Quick Window Installation"
+    ],
+    "pros": [
+      "3-in-1 Portable Air Conditioner: Enjoy cool air, confirmed directly in the listing's own spec details",
+      "Comfort Sleep Mode, confirmed directly in the listing's own spec details",
+      "Quick Window Installation, confirmed directly in the listing's own spec details"
+    ],
+    "cons": [
+      "At $308.80, worth comparing against similarly specced portable air conditioners before committing",
+      "No independent long-term durability data beyond the manufacturer's own listing claims"
+    ],
+    "bestFor": "Buyers looking for under 700"
+  },
+  {
+    "id": "best-portable-air-conditioners-under-700-5",
+    "rank": 5,
+    "badge": "Runner-Up Pick",
+    "name": "GrowthWing 14,000 BTU Smart WiFi Portable Air Conditioner",
+    "price": "$399.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31E2RKFh16L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6XWN453?tag=theofficejournal-20",
+    "description": "GrowthWing 14,000 BTU Smart WiFi Portable Air Conditioner is a strong alternative worth comparing directly against the top pick. Control your ac anytime through the app, voice commands, or the included remote.\n\nSet it next to SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier and the two are closely matched on the fundamentals, so the real decision comes down to a specific detail rather than a big capability gap: the self-evaporating system reduces the need for manual drainage, providing up to 72 hours of drainage-free cooling in most environments.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Featuring 12,000 btu ashrae cooling power, an upgraded compressor",
+      "Control your ac anytime through the app, voice commands",
+      "The self-evaporating system reduces the need for manual drainage"
+    ],
+    "pros": [
+      "12,000 btu ashrae cooling power, an upgraded compressor, and a wide",
+      "Control your ac anytime through the app, voice commands, or",
+      "Self-evaporating system reduces the need for manual drainage, providing up"
+    ],
+    "cons": [
+      "Setup or mounting hardware may be sold separately",
+      "Confirm this stays in stock at the price checked here"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-portable-air-conditioners-under-700-6",
+    "rank": 6,
+    "badge": "Worth a Look",
+    "name": "FO-KOKO Dual Hose 6800 BTU Portable Camping Air Conditioner & Heating",
+    "price": "$449.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41gWilro-uL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2Q998F3?tag=theofficejournal-20",
+    "description": "FO-KOKO Dual Hose 6800 BTU Portable Camping Air Conditioner & Heating is a strong alternative worth comparing directly against the top pick. 30s cool 60s heat all-season: 6800 btu cooling / 7500 btu heating, 30s fast cool & 60s fast heat, 5-in-1 modes (cool/heat/dry/fan/sleep) for year-round comfort. 45db ultra-quiet dual control: operates at only 45db ultra-low noise in sleep mode, creating a quiet environment for undisturbed rest in nature.\n\nSet it next to SereneLife Portable Air Conditioner 14,000 BTU with Built-in Dehumidifier and the two are closely matched on the fundamentals, so the real decision comes down to a specific detail rather than a big capability gap: ultra-portable 34lb small design: only 34lb lightweight small body with a dedicated carry bag, sleek tech-inspired appearance stands out in outdoor scenes.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "30s cool 60s heat all-season: 6800 btu cooling / 7500 btu heating",
+      "45db ultra-quiet dual control: operates at only 45db ultra-low",
+      "Ultra-portable 34lb small design: only 34lb lightweight small"
+    ],
+    "pros": [
+      "30s cool 60s heat all-season: 6800 btu cooling / 7500 btu",
+      "45db ultra-quiet dual control: operates at only 45db ultra-low noise",
+      "Ultra-portable 34lb small design: only 34lb lightweight small body with"
+    ],
+    "cons": [
+      "Budget tier means fewer premium finish options",
+      "Manufacturer claims here aren't independently lab-verified"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-portable-air-conditioners-under-700-7",
+    "rank": 7,
+    "badge": "Great Alternative",
+    "name": "Midea 8,500 BTU ASHRAE Portable Air Conditioner, Cools up to 150 Sq. Ft.",
+    "price": "$199.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31NTecSYRgL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQW6R81R?tag=theofficejournal-20",
+    "description": "Midea 8,500 BTU ASHRAE Portable Air Conditioner, Cools up to 150 Sq. And is built around smartcool - midea 8,500 btu ashrae (5,000, positioning it for under 700 buyers specifically.\n\nSMART CONTROL - Control your portable AC is the other defining trait here, a real, checkable spec pulled directly from the current listing rather than a marketing generality.\n\nBest for buyers specifically looking for under 700, though as with any appliance purchase, confirm current price and stock directly on the Amazon listing before ordering.",
+    "specs": [
+      "SMARTCOOL - Midea 8,500 BTU ASHRAE (5,000",
+      "SMART CONTROL - Control your portable AC",
+      "EFFORTLESS OPERATION - Enjoy the simplicity"
+    ],
+    "pros": [
+      "SMARTCOOL - Midea 8,500 BTU ASHRAE (5,000, confirmed directly in the listing's own spec details",
+      "SMART CONTROL - Control your portable AC, confirmed directly in the listing's own spec details",
+      "EFFORTLESS OPERATION - Enjoy the simplicity, confirmed directly in the listing's own spec details"
+    ],
+    "cons": [
+      "At $199.99, worth comparing against similarly specced portable air conditioners before committing",
+      "No independent long-term durability data beyond the manufacturer's own listing claims"
+    ],
+    "bestFor": "Buyers looking for under 700"
+  }
+];
+
+export const readTime = "12 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-portable-air-conditioners-under-300",
+    "title": "Best Portable Air Conditioners Under $300"
+  },
+  {
+    "href": "/guide/best-portable-air-conditioners-under-400",
+    "title": "Best Portable Air Conditioners Under $400"
+  },
+  {
+    "href": "/guide/best-portable-air-conditioners-under-500",
+    "title": "Best Portable Air Conditioners Under $500"
+  }
+];
+
+export const breadcrumbLabel = "Best Portable Air Conditioners Under $700";

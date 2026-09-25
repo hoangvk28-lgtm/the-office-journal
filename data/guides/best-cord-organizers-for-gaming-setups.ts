@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-cord-organizers-for-gaming-setups";
 
-export const guideTitle = "The Best Cord Organizers for Gaming Setups Worth Considering";
+export const guideTitle = "The Best Cord Organizers for Gaming Setups: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51A4i4wwJCL._SL500_.jpg";
 

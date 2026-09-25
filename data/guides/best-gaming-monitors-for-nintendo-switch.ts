@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-gaming-monitors-for-nintendo-switch";
 
-export const guideTitle = "The Best Gaming Monitors for Nintendo Switch Worth Considering";
+export const guideTitle = "The Best Gaming Monitors for Nintendo Switch: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41ugbZJdfzL._SL500_.jpg";
 

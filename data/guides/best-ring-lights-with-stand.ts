@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-ring-lights-with-stand";
 
-export const guideTitle = "The Best Ring Lights with Stand Worth Considering";
+export const guideTitle = "The Best Ring Lights with Stand: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41fDvi1ZJEL._SL500_.jpg";
 

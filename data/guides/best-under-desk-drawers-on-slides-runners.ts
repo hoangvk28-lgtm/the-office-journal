@@ -1,295 +1,12 @@
-export const guideSlug = "best-under-desk-drawers-on-slides-runners";
-export const guideTitle = "8 Best Under-Desk Drawers on Slides/Runners in 2026";
-export const metaTitle = "Best Under-Desk Drawers on Slides/Runners";
-export const metaDescription = "We compared under desk drawer slides models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
-export const mainKeyword = "under desk drawer slides";
-export const introParagraphs = [
-  "Best Under-Desk Drawers on Slides/Runners cover a wide range of mounting types and weight capacities. That means marketing copy alone is risky.",
-  "This roundup weighs documented weight rating and mount type, given that marketing copy tends to obscure this."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/51NpfhkGCaL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-under-desk-drawers-on-slides-runners-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Cedilis Under Desk Drawer Organizer Slide Out",
-    price: "$26.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51NpfhkGCaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G11RC98X?tag=theofficejournal-20",
-    description: "Cedilis Under Desk Drawer Organizer Slide Out is the top pick in this comparison. Crafted from robust high-carbon steel, this under-desk drawer is built to last and sturdy enough to reliably hold all your typical desk accessories like pens, pencils, notepads, and small tools. This 2-tier under table drawer feature a 3-cell organizer for tiny essentials plus a spacious a4-sized tray for books and notepads.\n\nSet next to VIVO Black Clamp-on 27 x 11 in Keyboard Tray, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis one is the right call if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A clamp-on drawer can hold up to about 13 lbs before the clamp starts to slip, well below what a screw-mounted or freestanding unit can carry, so check the rated capacity before loading it with anything heavy.",
-    specs: ["Durable & sturdy material", "2-tier under table drawer feature a 3-cell organizer", "Smooth and secure operation"],
-    pros: ["Durable & sturdy material", "2-tier under table drawer feature a 3-cell organizer", "Smooth and secure operation", "Tool-free clamp installation"],
-    cons: ["Clamp-on models top out around 13 lbs before the clamp slips", "Can interfere with legroom if mounted too close to your seat"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-under-desk-drawers-on-slides-runners-2",
-    rank: 2,
-    badge: "Best Premium Pick",
-    name: "VIVO Black Clamp-on 27 x 11 in Keyboard Tray",
-    price: "$49.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41DR7qY1naL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07HFDJCSL?tag=theofficejournal-20",
-    description: "VIVO Black Clamp-on 27 x 11 in Keyboard Tray is the premium option here, positioned above the rest on price. This 26.8” (32.5\" including clamps) x 11” under-desk keyboard tray holds your keyboard, mouse, and other small accessories below the desktop for added work space --patent pending--. Easily slide the tray in and out and enjoy ergonomic typing angles that relieve stress on your wrists and shoulders.\n\nCedilis Under Desk Drawer Organizer Slide Out is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis one is the right call if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Mounting a clamp-on drawer too close to your normal seated leg position can interfere with legroom, so measure where your knees actually sit before deciding on placement.",
-    specs: ["Saves desk space", "Comfortable typing angles", "Sturdy c-clamps"],
-    pros: ["Saves desk space", "Comfortable typing angles", "Sturdy c-clamps", "Easy installation"],
-    cons: ["Can interfere with legroom if mounted too close to your seat", "Clamp-on models top out around 13 lbs before the clamp slips"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-under-desk-drawers-on-slides-runners-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "AX WABER Keyboard Tray Under Desk Pull Out with Extra Sturdy Adjustable C Clamp",
-    price: "$43.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/411n64r8kAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCFZV2GP?tag=theofficejournal-20",
-    description: "AX WABER Keyboard Tray Under Desk Pull Out with Extra Sturdy Adjustable C Clamp is a strong alternative worth comparing directly against the top pick. Comfortable typing angles - easily slide the tray in and out and enjoy ergonomic typing angles that relieve stress on your wrists and shoulders. Easy installation - all necessary hardware and instructions are provided for assembly, and mounting your keyboard tray to the desk is an easy process with the adjustable clamps.\n\nSet next to Cedilis Under Desk Drawer Organizer Slide Out, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A clamp-on drawer can hold up to about 13 lbs before the clamp starts to slip, well below what a screw-mounted or freestanding unit can carry, so check the rated capacity before loading it with anything heavy.",
-    specs: ["Comfortable typing angles - easily slide the tray", "Easy installation - all necessary hardware and instructions are provided for assembly"],
-    pros: ["Comfortable typing angles - easily slide the tray", "Easy installation - all necessary hardware and instructions are provided for assembly", "Straightforward setup based on the listed specs"],
-    cons: ["Clamp-on models top out around 13 lbs before the clamp slips", "Can interfere with legroom if mounted too close to your seat"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-under-desk-drawers-on-slides-runners-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "TooCust 2 Pack Under Desk Storage Drawers Slide Out-Drill-On",
-    price: "$19.29",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51frZ6eM4pL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CS34Q297?tag=theofficejournal-20",
-    description: "TooCust 2 Pack Under Desk Storage Drawers Slide Out-Drill-On is a strong alternative worth comparing directly against the top pick. Self-adhesive or drilling assembly under desk drawer slide out - screws included! 2 Pack clear under desk drawers of different sizes.\n\nCedilis Under Desk Drawer Organizer Slide Out lands in a similar spot overall, but the deciding factor between the two is special phone storage space, large enough for all phones from 4\" to 7\".\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Mounting a clamp-on drawer too close to your normal seated leg position can interfere with legroom, so measure where your knees actually sit before deciding on placement.",
-    specs: ["Self-adhesive or drilling assembly under desk drawer slide out - screws included", "2 Pack clear under desk drawers of different sizes", "Special phone storage space"],
-    pros: ["Self-adhesive or drilling assembly under desk drawer slide out - screws included", "2 Pack clear under desk drawers of different sizes", "Special phone storage space", "Slides with built-in stopper to prevent the drawer from falling"],
-    cons: ["Can interfere with legroom if mounted too close to your seat", "Clamp-on models top out around 13 lbs before the clamp slips"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-under-desk-drawers-on-slides-runners-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "SRJZMLY Under Desk Drawer Organizer No Drill Metal Under Desk Storage Drawer",
-    price: "$29.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51DlHl6bvbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CPT4213X?tag=theofficejournal-20",
-    description: "SRJZMLY Under Desk Drawer Organizer No Drill Metal Under Desk Storage Drawer is a strong alternative worth comparing directly against the top pick. Stop worrying about drills ruining your desk or sticky residues that won't come off. Instantly declutter your workspace.\n\nSide by side with Cedilis Under Desk Drawer Organizer Slide Out, the real difference worth noting is simply tighten the padded clamps onto the edge of your desk for a rock-solid fit.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A clamp-on drawer can hold up to about 13 lbs before the clamp starts to slip, well below what a screw-mounted or freestanding unit can carry, so check the rated capacity before loading it with anything heavy.",
-    specs: ["Stop worrying about drills ruining your desk or sticky residues that won't come off", "Instantly declutter your workspace", "Unlike flimsy plastic adhesive drawers that can sag or fall"],
-    pros: ["Stop worrying about drills ruining your desk or sticky residues that won't come off", "Instantly declutter your workspace", "Unlike flimsy plastic adhesive drawers that can sag or fall", "Simply tighten the padded clamps onto the edge of your desk for a rock-solid fit"],
-    cons: ["Clamp-on models top out around 13 lbs before the clamp slips", "Can interfere with legroom if mounted too close to your seat"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-under-desk-drawers-on-slides-runners-6",
-    rank: 6,
-    badge: "Best Value",
-    name: "SVNNELP Under Desk Table Drawer Storage Organizer Slide Out",
-    price: "$13.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41UeDnFewoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMB5RGJC?tag=theofficejournal-20",
-    description: "SVNNELP Under Desk Table Drawer Storage Organizer Slide Out is the best-value option in this roundup, priced lowest without a real capability gap. The stick on under desk drawer has a large capacity, and its internal size is 6.3 x 8.6 x2.3 inches, which is enough to keep your small items in order. The under desk drawer attachment can store pens, scissors, headphones and other small tools, make your the desktop tidy.this under desk storage drawers is suitable for dormitory/office/home/kitchen.\n\nCedilis Under Desk Drawer Organizer Slide Out is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nReach for this pick if you want a genuinely capable pick without paying for headroom you won't use. Mounting a clamp-on drawer too close to your normal seated leg position can interfere with legroom, so measure where your knees actually sit before deciding on placement.",
-    specs: ["Large capacity", "Add storage space", "Good quality material"],
-    pros: ["Large capacity", "Add storage space", "Good quality material", "Sebs super glue"],
-    cons: ["Can interfere with legroom if mounted too close to your seat", "Clamp-on models top out around 13 lbs before the clamp slips"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
-  },
-  {
-    id: "best-under-desk-drawers-on-slides-runners-7",
-    rank: 7,
-    badge: "Great Alternative",
-    name: "SVNNELP Under Desk Table Drawer Storage Organizer, 2 Pack Large & Medium Slide",
-    price: "$26.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/511VoBIjCnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CNKSDXFG?tag=theofficejournal-20",
-    description: "SVNNELP Under Desk Table Drawer Storage Organizer, 2 Pack Large & Medium Slide is a strong alternative worth comparing directly against the top pick. Large and medium under desk drawers slide out, and its internal size is 13x9.8x2.7 inchs and 9.6x9.1x2.7 inches, which is enough to keep your small items in order. Svnnelp 2 pack under desk drawers attachment can store pens, scissors, headphones and other small tools, make your the desktop tidy.this under desk storage drawers is suitable for dormitory/office/home/kitchen.\n\nSet next to Cedilis Under Desk Drawer Organizer Slide Out, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A clamp-on drawer can hold up to about 13 lbs before the clamp starts to slip, well below what a screw-mounted or freestanding unit can carry, so check the rated capacity before loading it with anything heavy.",
-    specs: ["Reliable quality material", "Under desk drawer slide", "Stable and safe"],
-    pros: ["Reliable quality material", "Under desk drawer slide", "Stable and safe"],
-    cons: ["Clamp-on models top out around 13 lbs before the clamp slips", "Can interfere with legroom if mounted too close to your seat"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-under-desk-drawers-on-slides-runners-8",
-    rank: 8,
-    badge: "Also Worth Considering",
-    name: "2Pcs Under Desk Storage Drawers Slide Out, Large& Medium",
-    price: "$16.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/61YapOsBIYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C7MKZVW7?tag=theofficejournal-20",
-    description: "2Pcs Under Desk Storage Drawers Slide Out, Large& Medium is a strong alternative worth comparing directly against the top pick. Clear under desk drawer slide out 2 pack: the slide-out under desk drawers can be safely installed under your desk, making your desktop more neat and clean. The plastic drawers can be affixed to any smooth panel, such as a desk, cupboard, dressing table, wardrobe, etc., except for tables with framed bottoms.\n\nWeighing this against Cedilis Under Desk Drawer Organizer Slide Out, the strong self-adhesive tapes stick onto clean surfaces firmly and will not drop off ends up being the detail that matters most for most buyers.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Mounting a clamp-on drawer too close to your normal seated leg position can interfere with legroom, so measure where your knees actually sit before deciding on placement.",
-    specs: ["Clear under desk drawer slide out 2 pack", "Multipurpose storage drawer", "Sturdy for use"],
-    pros: ["Clear under desk drawer slide out 2 pack", "Multipurpose storage drawer", "Sturdy for use", "Easy to install"],
-    cons: ["Can interfere with legroom if mounted too close to your seat", "Clamp-on models top out around 13 lbs before the clamp slips"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Clamp-On vs Screw-Mounted Weight Capacity",
-    "description": "The tradeoff between clamp-on and screw-mounted under-desk storage comes down to weight versus flexibility: a clamp-on drawer can be moved or removed without any damage to the desk, ideal for renters, but it's rated for roughly 13 lbs or less before the clamp mechanism slips."
-  },
-  {
-    "title": "Legroom Clearance Before You Mount It",
-    "description": "An under-desk drawer mounted too close to your normal seated leg position can interfere with legroom in a way that's easy to miss when just looking at product photos."
-  },
-  {
-    "title": "Adhesive vs Clamp vs Bracket Mounting",
-    "description": "The three common mounting styles trade capacity for reversibility in a predictable order: adhesive is weakest (5 to 8 lbs) but leaves no clamp marks, clamp-on holds more (around 13 lbs) while staying fully removable, and screw-mounted brackets hold the most but commit you to drilling into the desk."
-  },
-  {
-    "title": "Drawer Depth vs What You're Actually Storing",
-    "description": "A shallow drawer (under 2 inches) suits pens, cables, and small accessories but won't fit a notepad or tablet lying flat, while a deeper drawer (3+ inches) handles bulkier items at the cost of taking up more vertical clearance under the desk."
-  },
-  {
-    "title": "Sliding Mechanism Smoothness and Longevity",
-    "description": "The sliding mechanism is the component most likely to fail first on a daily-use under-desk drawer: basic plastic slides can bind or stick once the drawer is loaded near capacity, while metal ball-bearing slides hold up far longer under the same repeated use."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By What You're Storing",
-    "table": {
-      "headers": [
-        "Your items",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Light supplies, no drilling",
-          "SVNNELP Under Desk Table Drawer Storage Organizer Slide Out"
-        ],
-        [
-          "Standard office supplies",
-          "Cedilis Under Desk Drawer Organizer Slide Out"
-        ],
-        [
-          "Heavier items, permanent install",
-          "VIVO Black Clamp-on 27 x 11 in Keyboard Tray"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "SVNNELP Under Desk Table Drawer Storage Organizer Slide Out"
-        ],
-        [
-          "Mid-range pick",
-          "AX WABER Keyboard Tray Under Desk Pull Out with Extra Sturdy Adjustable C Clamp"
-        ],
-        [
-          "Higher budget",
-          "VIVO Black Clamp-on 27 x 11 in Keyboard Tray"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Clamp-On vs Screw-Mounted",
-    "cards": [
-      {
-        "label": "Clamp-on (e.g. SVNNELP Under Desk Table Drawer Storage Organizer Slide Out)",
-        "text": "No drilling needed, fully removable, but capped around 13 lbs."
-      },
-      {
-        "label": "Screw-mounted",
-        "text": "Higher weight capacity, but permanent and requires drilling into the desk."
-      }
-    ],
-    "note": "Match this to whether you rent, share the desk, or need real capacity for heavier items."
-  },
-  {
-    "subheading": "By Legroom Clearance",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Tight knee clearance",
-          "Measure your seated position before choosing any model"
-        ],
-        [
-          "Standard desk depth",
-          "Cedilis Under Desk Drawer Organizer Slide Out"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Standing Desks Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Confirmed clearance at your desk's lowest sitting height, including the motor housing and crossbar."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Cedilis Under Desk Drawer Organizer Slide Out is worth checking against your desk's specific understructure before assuming any drawer clears it."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need higher weight capacity and smoother, longer-lasting slides for daily heavy use, where VIVO Black Clamp-on 27 x 11 in Keyboard Tray justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You're storing light supplies and want a simple, removable option, where SVNNELP Under Desk Table Drawer Storage Organizer Slide Out already covers the job at the lowest price here."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
     "criterion": "Clamp-On vs Screw-Mounted Weight Capacity",
-    "explanation": "The tradeoff between clamp-on and screw-mounted under-desk storage comes down to weight versus flexibility: a clamp-on drawer can be moved or removed without any damage to the desk, ideal for renters, but it's rated for roughly 13 lbs or less before the clamp mechanism slips. A screw-mounted drawer sacrifices that flexibility for a genuinely higher weight capacity, worth the tradeoff if you're storing something heavier than pens and small supplies."
+    "explanation": "The tradeoff between clamp-on and screw-mounted under-desk storage comes down to weight versus flexibility: a clamp-on drawer can be moved or removed without any damage to the desk, ideal for renters, but it's rated for roughly 13 lbs or less before the clamp mechanism slips. A screw-mounted drawer sacrifices that flexibility for a higher weight capacity, worth the tradeoff if you're storing something heavier than pens and small supplies."
   },
   {
     "criterion": "Legroom Clearance Before You Mount It",
@@ -336,4 +53,395 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-under-desk-drawers","title":"Best Under-Desk Drawers"},{"href":"/guide/best-under-desk-drawer-organizers","title":"Best Under-Desk Drawer Organizers"},{"href":"/guide/best-lockable-under-desk-drawers","title":"Best Lockable Under-Desk Drawers"}];
+export const guideSlug = "best-under-desk-drawers-on-slides-runners";
+
+export const guideTitle = "The Best Under-Desk Drawers on Slides/Runners: Picks and Trade-offs";
+
+export const heroImage = "https://m.media-amazon.com/images/I/51NpfhkGCaL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "SVNNELP Under Desk Table Drawer Storage Organizer Slide Out"
+        ],
+        [
+          "",
+          "Cedilis Under Desk Drawer Organizer Slide Out"
+        ],
+        [
+          "",
+          "VIVO Black Clamp-on 27 x 11 in Keyboard Tray"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          "SVNNELP Under Desk Table Drawer Storage Organizer Slide Out"
+        ],
+        [
+          "",
+          "AX WABER Keyboard Tray Under Desk Pull Out with Extra Sturdy Adjustable C Clamp"
+        ],
+        [
+          "",
+          "VIVO Black Clamp-on 27 x 11 in Keyboard Tray"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "SVNNELP Under Desk Table Drawer Storage Organizer Slide Out)",
+        "text": "No drilling needed, fully removable, but capped around 13 lbs."
+      },
+      {
+        "label": "",
+        "text": "Higher weight capacity, but permanent and requires drilling into the desk."
+      }
+    ],
+    "note": "Match this to whether you rent, share the desk, or need real capacity for heavier items."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "Measure your seated position before choosing any model"
+        ],
+        [
+          "",
+          "Cedilis Under Desk Drawer Organizer Slide Out"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "Confirmed clearance at your desk's lowest sitting height, including the motor housing and crossbar."
+      },
+      {
+        "label": "",
+        "text": "Cedilis Under Desk Drawer Organizer Slide Out is worth checking against your desk's specific understructure before assuming any drawer clears it."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need higher weight capacity and smoother, longer-lasting slides for daily heavy use, where VIVO Black Clamp-on 27 x 11 in Keyboard Tray justifies the extra cost."
+      },
+      {
+        "label": "",
+        "text": "You're storing light supplies and want a simple, removable option, where SVNNELP Under Desk Table Drawer Storage Organizer Slide Out already covers the job at the lowest price here."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "Clamp-On vs Screw-Mounted Weight Capacity",
+    "description": "The tradeoff between clamp-on and screw-mounted under-desk storage comes down to weight versus flexibility: a clamp-on drawer can be moved or removed without any damage to the desk, ideal for renters, but it's rated for roughly 13 lbs or less before the clamp mechanism slips."
+  },
+  {
+    "title": "Legroom Clearance Before You Mount It",
+    "description": "An under-desk drawer mounted too close to your normal seated leg position can interfere with legroom in a way that's easy to miss when just looking at product photos."
+  },
+  {
+    "title": "Adhesive vs Clamp vs Bracket Mounting",
+    "description": "The three common mounting styles trade capacity for reversibility in a predictable order: adhesive is weakest (5 to 8 lbs) but leaves no clamp marks, clamp-on holds more (around 13 lbs) while staying fully removable, and screw-mounted brackets hold the most but commit you to drilling into the desk."
+  },
+  {
+    "title": "Drawer Depth vs What You're Actually Storing",
+    "description": "A shallow drawer (under 2 inches) suits pens, cables, and small accessories but won't fit a notepad or tablet lying flat, while a deeper drawer (3+ inches) handles bulkier items at the cost of taking up more vertical clearance under the desk."
+  },
+  {
+    "title": "Sliding Mechanism Smoothness and Longevity",
+    "description": "The sliding mechanism is the component most likely to fail first on a daily-use under-desk drawer: basic plastic slides can bind or stick once the drawer is loaded near capacity, while metal ball-bearing slides hold up far longer under the same repeated use."
+  }
+];
+
+export const introParagraphs = [
+  "Best Under-Desk Drawers on Slides/Runners cover a wide range of mounting types and weight capacities. That means marketing copy alone is risky.",
+  "This roundup weighs documented weight rating and mount type, given that marketing copy tends to obscure this."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const mainKeyword = "under desk drawer slides";
+
+export const metaDescription = "A practical comparison of 8 under-desk drawers on slides/runners, focused on compatibility, build, features and price, and the trade-offs between them.";
+
+export const metaTitle = "Best Under-Desk Drawers on Slides/Runners (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-under-desk-drawers-on-slides-runners-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Cedilis Under Desk Drawer Organizer Slide Out",
+    "price": "$26.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51NpfhkGCaL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0G11RC98X?tag=theofficejournal-20",
+    "description": "Cedilis Under Desk Drawer Organizer Slide Out is the top pick in this comparison. Crafted from robust high-carbon steel, this under-desk drawer is built to last and sturdy enough to reliably hold all your typical desk accessories like pens, pencils, notepads, and small tools. This 2-tier under table drawer feature a 3-cell organizer for tiny essentials plus a spacious a4-sized tray for books and notepads.\n\nSet next to VIVO Black Clamp-on 27 x 11 in Keyboard Tray, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis one is the right call if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A clamp-on drawer can hold up to about 13 lbs before the clamp starts to slip, well below what a screw-mounted or freestanding unit can carry, so check the rated capacity before loading it with anything heavy.",
+    "specs": [
+      "Durable & sturdy material",
+      "2-tier under table drawer feature a 3-cell organizer",
+      "Smooth and secure operation"
+    ],
+    "pros": [
+      "Durable & sturdy material",
+      "2-tier under table drawer feature a 3-cell organizer",
+      "Smooth and secure operation",
+      "Tool-free clamp installation"
+    ],
+    "cons": [
+      "Clamp-on models top out around 13 lbs before the clamp slips",
+      "Can interfere with legroom if mounted too close to your seat"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-under-desk-drawers-on-slides-runners-2",
+    "rank": 2,
+    "badge": "Best Premium Pick",
+    "name": "VIVO Black Clamp-on 27 x 11 in Keyboard Tray",
+    "price": "$49.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41DR7qY1naL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07HFDJCSL?tag=theofficejournal-20",
+    "description": "VIVO Black Clamp-on 27 x 11 in Keyboard Tray is the premium option here, positioned above the rest on price. 5\" including clamps) x 11” under-desk keyboard tray holds your keyboard, mouse, and other small accessories below the desktop for added work space --patent pending--. Easily slide the tray in and out and enjoy ergonomic typing angles that relieve stress on your wrists and shoulders.\n\nCedilis Under Desk Drawer Organizer Slide Out is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis one is the right call if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Mounting a clamp-on drawer too close to your normal seated leg position can interfere with legroom, so measure where your knees actually sit before deciding on placement.",
+    "specs": [
+      "Saves desk space",
+      "Comfortable typing angles",
+      "Sturdy c-clamps"
+    ],
+    "pros": [
+      "Saves desk space",
+      "Comfortable typing angles",
+      "Sturdy c-clamps",
+      "Easy installation"
+    ],
+    "cons": [
+      "Can interfere with legroom if mounted too close to your seat",
+      "Clamp-on models top out around 13 lbs before the clamp slips"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it"
+  },
+  {
+    "id": "best-under-desk-drawers-on-slides-runners-3",
+    "rank": 3,
+    "badge": "Solid Alternative",
+    "name": "AX WABER Keyboard Tray Under Desk Pull Out with Extra Sturdy Adjustable C Clamp",
+    "price": "$43.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/411n64r8kAL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCFZV2GP?tag=theofficejournal-20",
+    "description": "AX WABER Keyboard Tray Under Desk Pull Out with Extra Sturdy Adjustable C Clamp is a strong alternative worth comparing directly against the top pick. Comfortable typing angles - easily slide the tray in and out and enjoy ergonomic typing angles that relieve stress on your wrists and shoulders. Easy installation - all necessary hardware and instructions are provided for assembly, and mounting your keyboard tray to the desk is an easy process with the adjustable clamps.\n\nSet next to Cedilis Under Desk Drawer Organizer Slide Out, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A clamp-on drawer can hold up to about 13 lbs before the clamp starts to slip, well below what a screw-mounted or freestanding unit can carry, so check the rated capacity before loading it with anything heavy.",
+    "specs": [
+      "Comfortable typing angles - easily slide the tray",
+      "Easy installation - all necessary hardware and instructions are provided for assembly"
+    ],
+    "pros": [
+      "Comfortable typing angles - easily slide the tray",
+      "Easy installation - all necessary hardware and instructions are provided for assembly",
+      "Straightforward setup based on the listed specs"
+    ],
+    "cons": [
+      "Clamp-on models top out around 13 lbs before the clamp slips",
+      "Can interfere with legroom if mounted too close to your seat"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-under-desk-drawers-on-slides-runners-4",
+    "rank": 4,
+    "badge": "Another Strong Option",
+    "name": "TooCust 2 Pack Under Desk Storage Drawers Slide Out-Drill-On",
+    "price": "$19.29",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51frZ6eM4pL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS34Q297?tag=theofficejournal-20",
+    "description": "TooCust 2 Pack Under Desk Storage Drawers Slide Out-Drill-On is a strong alternative worth comparing directly against the top pick. Self-adhesive or drilling assembly under desk drawer slide out - screws included! 2 Pack clear under desk drawers of different sizes.\n\nCedilis Under Desk Drawer Organizer Slide Out lands in a similar spot overall, but the deciding factor between the two is special phone storage space, large enough for all phones from 4\" to 7\".\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Mounting a clamp-on drawer too close to your normal seated leg position can interfere with legroom, so measure where your knees actually sit before deciding on placement.",
+    "specs": [
+      "Self-adhesive or drilling assembly under desk drawer slide out - screws included",
+      "2 Pack clear under desk drawers of different sizes",
+      "Special phone storage space"
+    ],
+    "pros": [
+      "Self-adhesive or drilling assembly under desk drawer slide out - screws included",
+      "2 Pack clear under desk drawers of different sizes",
+      "Special phone storage space",
+      "Slides with built-in stopper to prevent the drawer from falling"
+    ],
+    "cons": [
+      "Can interfere with legroom if mounted too close to your seat",
+      "Clamp-on models top out around 13 lbs before the clamp slips"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-under-desk-drawers-on-slides-runners-5",
+    "rank": 5,
+    "badge": "Runner-Up Pick",
+    "name": "SRJZMLY Under Desk Drawer Organizer No Drill Metal Under Desk Storage Drawer",
+    "price": "$29.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51DlHl6bvbL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPT4213X?tag=theofficejournal-20",
+    "description": "SRJZMLY Under Desk Drawer Organizer No Drill Metal Under Desk Storage Drawer is a strong alternative worth comparing directly against the top pick. Stop worrying about drills ruining your desk or sticky residues that won't come off.\n\nSide by side with Cedilis Under Desk Drawer Organizer Slide Out, the real difference worth noting is simply tighten the padded clamps onto the edge of your desk for a rock-solid fit.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A clamp-on drawer can hold up to about 13 lbs before the clamp starts to slip, well below what a screw-mounted or freestanding unit can carry, so check the rated capacity before loading it with anything heavy.",
+    "specs": [
+      "Stop worrying about drills ruining your desk or sticky residues that won't come off",
+      "Instantly declutter your workspace",
+      "Unlike flimsy plastic adhesive drawers that can sag or fall"
+    ],
+    "pros": [
+      "Stop worrying about drills ruining your desk or sticky residues that won't come off",
+      "Instantly declutter your workspace",
+      "Unlike flimsy plastic adhesive drawers that can sag or fall",
+      "Simply tighten the padded clamps onto the edge of your desk for a rock-solid fit"
+    ],
+    "cons": [
+      "Clamp-on models top out around 13 lbs before the clamp slips",
+      "Can interfere with legroom if mounted too close to your seat"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-under-desk-drawers-on-slides-runners-6",
+    "rank": 6,
+    "badge": "Best Value",
+    "name": "SVNNELP Under Desk Table Drawer Storage Organizer Slide Out",
+    "price": "$13.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41UeDnFewoL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BMB5RGJC?tag=theofficejournal-20",
+    "description": "SVNNELP Under Desk Table Drawer Storage Organizer Slide Out is the best-value option in this roundup, priced lowest without a real capability gap. 3 inches, which is enough to keep your small items in order. This under desk storage drawers is suitable for dormitory/office/home/kitchen.\n\nCedilis Under Desk Drawer Organizer Slide Out is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nReach for this pick if you want a capable pick without paying for headroom you won't use. Mounting a clamp-on drawer too close to your normal seated leg position can interfere with legroom, so measure where your knees actually sit before deciding on placement.",
+    "specs": [
+      "Large capacity",
+      "Add storage space",
+      "Good quality material"
+    ],
+    "pros": [
+      "Large capacity",
+      "Add storage space",
+      "Good quality material",
+      "Sebs super glue"
+    ],
+    "cons": [
+      "Can interfere with legroom if mounted too close to your seat",
+      "Clamp-on models top out around 13 lbs before the clamp slips"
+    ],
+    "bestFor": "Buyers who want a capable pick without paying for headroom you won't use"
+  },
+  {
+    "id": "best-under-desk-drawers-on-slides-runners-7",
+    "rank": 7,
+    "badge": "Great Alternative",
+    "name": "SVNNELP Under Desk Table Drawer Storage Organizer, 2 Pack Large & Medium Slide",
+    "price": "$26.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/511VoBIjCnL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNKSDXFG?tag=theofficejournal-20",
+    "description": "SVNNELP Under Desk Table Drawer Storage Organizer, 2 Pack Large & Medium Slide is a strong alternative worth comparing directly against the top pick. 7 inches, which is enough to keep your small items in order. This under desk storage drawers is suitable for dormitory/office/home/kitchen.\n\nSet next to Cedilis Under Desk Drawer Organizer Slide Out, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A clamp-on drawer can hold up to about 13 lbs before the clamp starts to slip, well below what a screw-mounted or freestanding unit can carry, so check the rated capacity before loading it with anything heavy.",
+    "specs": [
+      "Reliable quality material",
+      "Under desk drawer slide",
+      "Stable and safe"
+    ],
+    "pros": [
+      "Reliable quality material",
+      "Under desk drawer slide",
+      "Stable and safe"
+    ],
+    "cons": [
+      "Clamp-on models top out around 13 lbs before the clamp slips",
+      "Can interfere with legroom if mounted too close to your seat"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-under-desk-drawers-on-slides-runners-8",
+    "rank": 8,
+    "badge": "Also Worth Considering",
+    "name": "2Pcs Under Desk Storage Drawers Slide Out, Large& Medium",
+    "price": "$16.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/61YapOsBIYL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7MKZVW7?tag=theofficejournal-20",
+    "description": "2Pcs Under Desk Storage Drawers Slide Out, Large& Medium is a strong alternative worth comparing directly against the top pick. Clear under desk drawer slide out 2 pack: the slide-out under desk drawers can be safely installed under your desk, making your desktop more neat and clean., except for tables with framed bottoms.\n\nWeighing this against Cedilis Under Desk Drawer Organizer Slide Out, the strong self-adhesive tapes stick onto clean surfaces firmly and will not drop off ends up being the detail that matters most for most buyers.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Mounting a clamp-on drawer too close to your normal seated leg position can interfere with legroom, so measure where your knees actually sit before deciding on placement.",
+    "specs": [
+      "Clear under desk drawer slide out 2 pack",
+      "Multipurpose storage drawer",
+      "Sturdy for use"
+    ],
+    "pros": [
+      "Clear under desk drawer slide out 2 pack",
+      "Multipurpose storage drawer",
+      "Sturdy for use",
+      "Easy to install"
+    ],
+    "cons": [
+      "Can interfere with legroom if mounted too close to your seat",
+      "Clamp-on models top out around 13 lbs before the clamp slips"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  }
+];
+
+export const readTime = "11 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-under-desk-drawers",
+    "title": "Best Under-Desk Drawers"
+  },
+  {
+    "href": "/guide/best-under-desk-drawer-organizers",
+    "title": "Best Under-Desk Drawer Organizers"
+  },
+  {
+    "href": "/guide/best-lockable-under-desk-drawers",
+    "title": "Best Lockable Under-Desk Drawers"
+  }
+];
+
+export const breadcrumbLabel = "Best Under-Desk Drawers on Slides/Runners";

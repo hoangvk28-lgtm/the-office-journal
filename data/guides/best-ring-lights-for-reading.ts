@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-ring-lights-for-reading";
 
-export const guideTitle = "The Best Ring Lights for Reading Worth Considering";
+export const guideTitle = "The Best Ring Lights for Reading: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41tPr8wi2oL._SL500_.jpg";
 

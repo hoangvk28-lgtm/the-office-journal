@@ -1,282 +1,7 @@
-export const guideSlug = "best-network-switches-under-200";
-export const guideTitle = "8 Best Network Switches Under $200 in 2026";
-export const metaTitle = "Best Network Switches Under $200 in 2026";
-export const metaDescription = "We compared best network switches under $200 by verified current price and real capability, not just the price ceiling alone.";
-export const mainKeyword = "network switches under $200";
-export const introParagraphs = [
-  "Best Network Switches Under $200 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
-  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
-];
-export const lastUpdated = "2026-08-22";
-export const readTime = "12 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41Z7bU82FDL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-network-switches-under-200-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "TP-Link TL-SG105",
-    price: "$12.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41Z7bU82FDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00A128S24?tag=theofficejournal-20",
-    description: "TP-Link TL-SG105 is the top pick in this comparison. 5× 10/100/1000mbps rj45 ports supporting auto negotiation and auto mdi/mdix. Latest innovative energy-efficient technology greatly expands your network capacity with much less power consumption and helps save money.\n\nAgainst TP-Link TL-SG105S-M2, the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: flow control provides reliable data transfer and fanless design ensures quiet operation.\n\nGo with this pick if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["5× 10/100/1000mbps rj45 ports supporting auto negotiation and", "Latest innovative energy-efficient technology greatly expands", "Flow control provides reliable data transfer and fanless design"],
-    pros: ["5× 10/100/1000mbps rj45 ports supporting auto negotiation and auto mdi/mdix", "Latest innovative energy-efficient technology greatly expands your network capacity with much", "Flow control provides reliable data transfer and fanless design ensures quiet operation"],
-    cons: ["Verify exact fit and specs against your device before buying", "Compatibility varies by exact model, double-check before ordering"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-network-switches-under-200-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "TP-Link TL-SG105S-M2",
-    price: "$39.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/3170T4eTHNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMXXPTVH?tag=theofficejournal-20",
-    description: "TP-Link TL-SG105S-M2 is a strong alternative worth comparing directly against the top pick. 5× 2.5-gigabit ports unlock the highest performance of your multi-gig bandwidth and devices, and provide up to 25 gbps of switching capacity. Built for lan parties, home entertainment, small and home offices, and instant transfer for workstations.\n\nCompared with TP-Link TL-SG105, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: instantly upgrade to 2.5 gbps without the need to upgrade to cat6 wiring, reducing wiring costs and hassle.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["5× 2.5-gigabit ports unlock the highest performance of your", "Built for lan parties, home entertainment, small and home offices", "Instantly upgrade to 2.5 gbps without the need to upgrade to cat6"],
-    pros: ["5× 2.5-gigabit ports unlock the highest performance of your multi-gig bandwidth", "Built for lan parties, home entertainment, small and home offices,", "Instantly upgrade to 2.5 gbps without the need to upgrade"],
-    cons: ["Confirm this stays in stock at the price checked here", "Setup or mounting hardware may be sold separately"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-network-switches-under-200-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "TP-Link TL-SG108S-M2",
-    price: "$54.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/311mv6y46wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CMFX748Y?tag=theofficejournal-20",
-    description: "TP-Link TL-SG108S-M2 is a strong alternative worth comparing directly against the top pick. 8× 2.5-gigabit ports unlock the highest performance of your multi-gig bandwidth and devices, and provide up to 40 gbps of switching capacity. Built for lan parties, home entertainment, small and home offices, and instant transfer for workstations.\n\nAgainst TP-Link TL-SG105, the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: instantly upgrade to 2.5 gbps without the need to upgrade to cat6 wiring, reducing wiring costs and hassle.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["8× 2.5-gigabit ports unlock the highest performance of your", "Built for lan parties, home entertainment, small and home offices", "Instantly upgrade to 2.5 gbps without the need to upgrade to cat6"],
-    pros: ["8× 2.5-gigabit ports unlock the highest performance of your multi-gig bandwidth", "Built for lan parties, home entertainment, small and home offices,", "Instantly upgrade to 2.5 gbps without the need to upgrade"],
-    cons: ["Manufacturer claims here aren't independently lab-verified", "Budget tier means fewer premium finish options"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-network-switches-under-200-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "TP-Link TL-SG116",
-    price: "$59.98",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31m3lB8222L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07GR9S6FN?tag=theofficejournal-20",
-    description: "TP-Link TL-SG116 is a strong alternative worth comparing directly against the top pick. One switch made to expand network-16× 10/100/1000mbps rj45 ports supporting auto negotiation and auto mdi/mdix. Gigabit that saves energy-latest innovative energy-efficient technology greatly expands your network capacity with much less power consumption and helps save money.\n\nIt sits close to TP-Link TL-SG105 on paper, so the real decision comes down to a specific detail rather than a big capability gap: reliable and quiet-ieee 802.3x flow control provides reliable data transfer and fanless design ensures quiet operation.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["One switch made to expand network-16× 10/100/1000mbps rj45 ports", "Gigabit that saves energy-latest innovative energy-efficient", "Reliable and quiet-ieee 802.3x flow control provides reliable"],
-    pros: ["One switch made to expand network-16× 10/100/1000mbps rj45 ports supporting auto", "Gigabit that saves energy-latest innovative energy-efficient technology greatly expands your network", "Reliable and quiet-ieee 802.3x flow control provides reliable data transfer"],
-    cons: ["Compatibility varies by exact model, double-check before ordering", "Verify exact fit and specs against your device before buying"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-network-switches-under-200-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)",
-    price: "$27.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31MZRiYMZjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D9W9YNWD?tag=theofficejournal-20",
-    description: "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E) is a strong alternative worth comparing directly against the top pick. 8 x 1gbps auto-negotiating ports work the moment you plug in, full-gigabit speed over cat5e/cat6 cabling. Easy smart web gui on windows, mac or linux, no app or windows-only utility, unlike many competing switches.\n\nIt sits close to TP-Link TL-SG105 on paper, so the real decision comes down to a specific detail rather than a big capability gap: up to 64 vlans, qos, igmp snooping and port mirroring keep voice, video and data fast, secure and organized.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["8 x 1gbps auto-negotiating ports work the moment you plug in", "Easy smart web gui on windows, mac or linux", "Up to 64 vlans, qos, igmp snooping and port mirroring keep voice"],
-    pros: ["8 x 1gbps auto-negotiating ports work the moment you plug in,", "Easy smart web gui on windows, mac or linux, no app", "Up to 64 vlans, qos, igmp snooping and port mirroring keep"],
-    cons: ["Setup or mounting hardware may be sold separately", "Confirm this stays in stock at the price checked here"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-network-switches-under-200-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "TP-Link 8 Port Gigabit Switch",
-    price: "$22.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41mABHEKN8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00K4DS5KU?tag=theofficejournal-20",
-    description: "TP-Link 8 Port Gigabit Switch is a strong alternative worth comparing directly against the top pick. Expand your network with 8 high-speed ethernet ports. Manage and configure your network effortlessly via a web interface/free software.\n\nCompared with TP-Link TL-SG105, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: segment traffic with up to 32 vlans simultaneously (out of 4K vlan ids) for better security.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Expand your network with 8 high-speed ethernet ports", "Manage and configure your network effortlessly via a web", "Segment traffic with up to 32 vlans simultaneously (out of 4K"],
-    pros: ["Expand your network with 8 high-speed ethernet ports", "Manage and configure your network effortlessly via a web interface/free software", "Segment traffic with up to 32 vlans simultaneously (out of 4K"],
-    cons: ["Budget tier means fewer premium finish options", "Manufacturer claims here aren't independently lab-verified"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-network-switches-under-200-7",
-    rank: 7,
-    badge: "Great Alternative",
-    name: "10Gbe Ethernet Switch Unmanaged with 2 x 10Gb RJ45 Ports + 4 x 2.5Gb Base-T",
-    price: "$79.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41aol4eJAbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DS4KC7Y3?tag=theofficejournal-20",
-    description: "10Gbe Ethernet Switch Unmanaged with 2 x 10Gb RJ45 Ports + 4 x 2.5Gb Base-T is a strong alternative worth comparing directly against the top pick. The network switch includes 4 x 2.5gb ethernet ports, 2 x 10gb rj45 port.auto mdi/mdix.1-4 port support 2.5g/1g/100mbps, 5-6 port support 10g/5g/2.5g/1g/100mbps. This network switch delivers 2.5x faster network performance than traditional gigabit switches.\n\nCompared with TP-Link TL-SG105, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: easy to use and simple to set up, no software or configuration required.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["The network switch includes 4 x 2.5gb ethernet ports", "This network switch delivers 2.5x faster network performance than", "Easy to use and simple to set up"],
-    pros: ["Network switch includes 4 x 2.5gb ethernet ports, 2 x 10gb", "Network switch delivers 2.5x faster network performance than traditional gigabit switches", "Easy to use and simple to set up, no software"],
-    cons: ["Verify exact fit and specs against your device before buying", "Compatibility varies by exact model, double-check before ordering"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-network-switches-under-200-8",
-    rank: 8,
-    badge: "Best Premium Pick",
-    name: "TP-Link TL-SG1024DE",
-    price: "$99.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/312cxnpjJzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00CUG8ESM?tag=theofficejournal-20",
-    description: "TP-Link TL-SG1024DE is the priciest pick in this lineup. 24-gigabit ports provide instant large file transfers. 9k jumbo frame improves performance of large data transfers.\n\nIt sits close to TP-Link TL-SG105 on paper, so the real decision comes down to a specific detail rather than a big capability gap: effective network monitoring via port mirroring, loop prevention and cable diagnostics.\n\nThis one is the right call if you are willing to spend the most in this tier for the fuller feature set that comes with it. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["24-gigabit ports provide instant large file transfers", "9k jumbo frame improves performance of large data transfers", "Effective network monitoring via port mirroring"],
-    pros: ["24-gigabit ports provide instant large file transfers", "9k jumbo frame improves performance of large data transfers", "Effective network monitoring via port mirroring, loop prevention and cable diagnostics"],
-    cons: ["Confirm this stays in stock at the price checked here", "Setup or mounting hardware may be sold separately"],
-    bestFor: "buyers who are willing to spend the most in this tier for the fuller feature set that comes with it",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Live price gate",
-    "description": "every recommended product must be new, in stock and up to $200 on the article refresh date; stale sale prices are automatically disqualified."
-  },
-  {
-    "title": "Budget-ladder context",
-    "description": "explicitly show what changes between the next-lower tier, the smart/PoE/multi-gig tier, and the next-higher tier so this page is not a cloned generic ranking."
-  },
-  {
-    "title": "Capability-per-dollar score",
-    "description": "normalize price against port-speed topology, L2/L3 management and the minimum usable setup cost rather than raw feature count."
-  },
-  {
-    "title": "Evidence split",
-    "description": "label PoE class/budget and switching/uplink capacity as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
-  },
-  {
-    "title": "Threshold-specific ownership verdict",
-    "description": "judge noise/power, warranty/support, replacement accessories and the chance that a buyer should save money or step up a tier instead of spending the full $200."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Priority Up to $200",
-    "table": {
-      "headers": [
-        "If you mainly need",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "The best all-around option in this comparison",
-          "TP-Link TL-SG105"
-        ],
-        [
-          "A strong alternative with a different tradeoff",
-          "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget Within This Tier",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "TP-Link TL-SG1024DE"
-        ],
-        [
-          "Best overall value",
-          "TP-Link TL-SG105"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "TP-Link TL-SG105 vs TP-Link TL-SG1024DE",
-    "cards": [
-      {
-        "label": "TP-Link TL-SG105",
-        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
-      },
-      {
-        "label": "TP-Link TL-SG1024DE",
-        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
-      }
-    ],
-    "note": "Most buyers should default to TP-Link TL-SG105 unless your specific use case points toward TP-Link TL-SG1024DE's particular tradeoffs."
-  },
-  {
-    "subheading": "By Secondary Feature Priority",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Matches this guide's core use case most closely",
-          "TP-Link TL-SG105"
-        ],
-        [
-          "A close secondary option worth comparing",
-          "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For This Guide's Core Use Case Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
-      },
-      {
-        "label": "In this comparison",
-        "text": "TP-Link TL-SG105 is worth checking first against that specific requirement before comparing the rest of this lineup."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need the fuller feature set found on TP-Link TL-SG1024DE, where the extra capability has a real, verifiable use case for you."
-      },
-      {
-        "label": "Save if",
-        "text": "Your requirements are covered by TP-Link TL-SG105 without needing the higher-tier features."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
@@ -308,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Does the cheapest option in a price tier always mean lower quality?",
-    "a": "Not necessarily. Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
+    "a": "Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
   },
   {
     "q": "Is it worth stepping up to the next price tier?",
@@ -324,4 +49,382 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-network-switches-under-50","title":"Best Network Switches Under $50"},{"href":"/guide/best-network-switches-under-100","title":"Best Network Switches Under $100"},{"href":"/guide/best-network-switches-under-150","title":"Best Network Switches Under $150"}];
+export const guideSlug = "best-network-switches-under-200";
+
+export const guideTitle = "The Best Network Switches Under $200: Picks and Trade-offs";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41Z7bU82FDL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Priority Up to $200",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "The best all-around option in this comparison",
+          ""
+        ],
+        [
+          "A strong alternative with a different tradeoff",
+          "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "By Budget Within This Tier",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "TP-Link TL-SG105 vs TP-Link TL-SG1024DE",
+    "cards": [
+      {
+        "label": "",
+        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
+      },
+      {
+        "label": "",
+        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
+      }
+    ],
+    "note": "Most buyers should default to TP-Link TL-SG105 unless your specific use case points toward TP-Link TL-SG1024DE's particular tradeoffs."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Matches this guide's core use case most closely",
+          ""
+        ],
+        [
+          "A close secondary option worth comparing",
+          "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For This Guide's Core Use Case Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
+      },
+      {
+        "label": "",
+        "text": "TP-Link TL-SG105 is worth checking first against that specific requirement before comparing the rest of this lineup."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need the fuller feature set found on TP-Link TL-SG1024DE, where the extra capability has a real, verifiable use case for you."
+      },
+      {
+        "label": "",
+        "text": "Your requirements are covered by TP-Link TL-SG105 without needing the higher-tier features."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Every recommended product must be new, in stock and up to $200 on the article refresh date; stale sale prices are automatically disqualified."
+  },
+  {
+    "title": "",
+    "description": "Explicitly show what changes between the next-lower tier, the smart/PoE/multi-gig tier, and the next-higher tier so this page is not a cloned generic ranking."
+  },
+  {
+    "title": "",
+    "description": "Normalize price against port-speed topology, L2/L3 management and the minimum usable setup cost rather than raw feature count."
+  },
+  {
+    "title": "",
+    "description": "Label PoE class/budget and switching/uplink capacity as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+  },
+  {
+    "title": "",
+    "description": "Judge noise/power, warranty/support, replacement accessories and the chance that a buyer should save money or step up a tier instead of spending the full $200."
+  }
+];
+
+export const introParagraphs = [
+  "Best Network Switches Under $200 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
+  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
+];
+
+export const lastUpdated = "2026-08-22";
+
+export const mainKeyword = "network switches under $200";
+
+export const metaDescription = "A practical comparison of 8 network switches under $200, focused on compatibility, build, features and price, and the trade-offs between them.";
+
+export const metaTitle = "Best Network Switches Under $200 (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-network-switches-under-200-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "TP-Link TL-SG105",
+    "price": "$12.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Z7bU82FDL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B00A128S24?tag=theofficejournal-20",
+    "description": "TP-Link TL-SG105 is the top pick in this comparison. 5× 10/100/1000mbps rj45 ports supporting auto negotiation and auto mdi/mdix. Latest innovative energy-efficient technology greatly expands your network capacity with much less power consumption and helps save money.\n\nAgainst TP-Link TL-SG105S-M2, the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: flow control provides reliable data transfer and fanless design ensures quiet operation.\n\nGo with this pick if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "5× 10/100/1000mbps rj45 ports supporting auto negotiation and",
+      "Latest innovative energy-efficient technology greatly expands",
+      "Flow control provides reliable data transfer and fanless design"
+    ],
+    "pros": [
+      "5× 10/100/1000mbps rj45 ports supporting auto negotiation and auto mdi/mdix",
+      "Latest innovative energy-efficient technology greatly expands your network capacity with much",
+      "Flow control provides reliable data transfer and fanless design ensures quiet operation"
+    ],
+    "cons": [
+      "Verify exact fit and specs against your device before buying",
+      "Compatibility varies by exact model, double-check before ordering"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-network-switches-under-200-2",
+    "rank": 2,
+    "badge": "Also Worth Considering",
+    "name": "TP-Link TL-SG105S-M2",
+    "price": "$39.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/3170T4eTHNL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CMXXPTVH?tag=theofficejournal-20",
+    "description": "TP-Link TL-SG105S-M2 is a strong alternative worth comparing directly against the top pick. 5-gigabit ports unlock the highest performance of your multi-gig bandwidth and devices, and provide up to 25 gbps of switching capacity. Built for lan parties, home entertainment, small and home offices, and instant transfer for workstations.\n\n5 gbps without the need to upgrade to cat6 wiring, reducing wiring costs and hassle.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "5× 2.5-gigabit ports unlock the highest performance of your",
+      "Built for lan parties, home entertainment, small and home offices",
+      "Instantly upgrade to 2.5 gbps without the need to upgrade to cat6"
+    ],
+    "pros": [
+      "5× 2.5-gigabit ports unlock the highest performance of your multi-gig bandwidth",
+      "Built for lan parties, home entertainment, small and home offices,",
+      "Instantly upgrade to 2.5 gbps without the need to upgrade"
+    ],
+    "cons": [
+      "Confirm this stays in stock at the price checked here",
+      "Setup or mounting hardware may be sold separately"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-network-switches-under-200-3",
+    "rank": 3,
+    "badge": "Solid Alternative",
+    "name": "TP-Link TL-SG108S-M2",
+    "price": "$54.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/311mv6y46wL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CMFX748Y?tag=theofficejournal-20",
+    "description": "TP-Link TL-SG108S-M2 is a strong alternative worth comparing directly against the top pick. 5-gigabit ports unlock the highest performance of your multi-gig bandwidth and devices, and provide up to 40 gbps of switching capacity. Built for lan parties, home entertainment, small and home offices, and instant transfer for workstations.\n\n5 gbps without the need to upgrade to cat6 wiring, reducing wiring costs and hassle.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "8× 2.5-gigabit ports unlock the highest performance of your",
+      "Built for lan parties, home entertainment, small and home offices",
+      "Instantly upgrade to 2.5 gbps without the need to upgrade to cat6"
+    ],
+    "pros": [
+      "8× 2.5-gigabit ports unlock the highest performance of your multi-gig bandwidth",
+      "Built for lan parties, home entertainment, small and home offices,",
+      "Instantly upgrade to 2.5 gbps without the need to upgrade"
+    ],
+    "cons": [
+      "Manufacturer claims here aren't independently lab-verified",
+      "Budget tier means fewer premium finish options"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-network-switches-under-200-4",
+    "rank": 4,
+    "badge": "Another Strong Option",
+    "name": "TP-Link TL-SG116",
+    "price": "$59.98",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31m3lB8222L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07GR9S6FN?tag=theofficejournal-20",
+    "description": "TP-Link TL-SG116 is a strong alternative worth comparing directly against the top pick. One switch made to expand network-16× 10/100/1000mbps rj45 ports supporting auto negotiation and auto mdi/mdix. Gigabit that saves energy-latest innovative energy-efficient technology greatly expands your network capacity with much less power consumption and helps save money.\n\n3x flow control provides reliable data transfer and fanless design ensures quiet operation.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "One switch made to expand network-16× 10/100/1000mbps rj45 ports",
+      "Gigabit that saves energy-latest innovative energy-efficient",
+      "Reliable and quiet-ieee 802.3x flow control provides reliable"
+    ],
+    "pros": [
+      "One switch made to expand network-16× 10/100/1000mbps rj45 ports supporting auto",
+      "Gigabit that saves energy-latest innovative energy-efficient technology greatly expands your network",
+      "Reliable and quiet-ieee 802.3x flow control provides reliable data transfer"
+    ],
+    "cons": [
+      "Compatibility varies by exact model, double-check before ordering",
+      "Verify exact fit and specs against your device before buying"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-network-switches-under-200-5",
+    "rank": 5,
+    "badge": "Runner-Up Pick",
+    "name": "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E)",
+    "price": "$27.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31MZRiYMZjL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9W9YNWD?tag=theofficejournal-20",
+    "description": "NETGEAR 8-Port Gigabit Ethernet Easy Smart Managed Network Switch (GS308E) is a strong alternative worth comparing directly against the top pick. 8 x 1gbps auto-negotiating ports work the moment you plug in, full-gigabit speed over cat5e/cat6 cabling. Easy smart web gui on windows, mac or linux, no app or windows-only utility, unlike many competing switches.\n\nIt sits close to TP-Link TL-SG105 on paper, so the real decision comes down to a specific detail rather than a big capability gap: up to 64 vlans, qos, igmp snooping and port mirroring keep voice, video and data fast, secure and organized.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "8 x 1gbps auto-negotiating ports work the moment you plug in",
+      "Easy smart web gui on windows, mac or linux",
+      "Up to 64 vlans, qos, igmp snooping and port mirroring keep voice"
+    ],
+    "pros": [
+      "8 x 1gbps auto-negotiating ports work the moment you plug in,",
+      "Easy smart web gui on windows, mac or linux, no app",
+      "Up to 64 vlans, qos, igmp snooping and port mirroring keep"
+    ],
+    "cons": [
+      "Setup or mounting hardware may be sold separately",
+      "Confirm this stays in stock at the price checked here"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-network-switches-under-200-6",
+    "rank": 6,
+    "badge": "Worth a Look",
+    "name": "TP-Link 8 Port Gigabit Switch",
+    "price": "$22.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41mABHEKN8L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B00K4DS5KU?tag=theofficejournal-20",
+    "description": "TP-Link 8 Port Gigabit Switch is a strong alternative worth comparing directly against the top pick. Expand your network with 8 high-speed ethernet ports. Manage and configure your network effortlessly via a web interface/free software.\n\nCompared with TP-Link TL-SG105, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: segment traffic with up to 32 vlans simultaneously (out of 4K vlan ids) for better security.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Expand your network with 8 high-speed ethernet ports",
+      "Manage and configure your network effortlessly via a web",
+      "Segment traffic with up to 32 vlans simultaneously (out of 4K"
+    ],
+    "pros": [
+      "Expand your network with 8 high-speed ethernet ports",
+      "Manage and configure your network effortlessly via a web interface/free software",
+      "Segment traffic with up to 32 vlans simultaneously (out of 4K"
+    ],
+    "cons": [
+      "Budget tier means fewer premium finish options",
+      "Manufacturer claims here aren't independently lab-verified"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-network-switches-under-200-7",
+    "rank": 7,
+    "badge": "Great Alternative",
+    "name": "10Gbe Ethernet Switch Unmanaged with 2 x 10Gb RJ45 Ports + 4 x 2.5Gb Base-T",
+    "price": "$79.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41aol4eJAbL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DS4KC7Y3?tag=theofficejournal-20",
+    "description": "5Gb Base-T is a strong alternative worth comparing directly against the top pick. 5x faster network performance than traditional gigabit switches.\n\nCompared with TP-Link TL-SG105, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: easy to use and simple to set up, no software or configuration required.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "The network switch includes 4 x 2.5gb ethernet ports",
+      "This network switch delivers 2.5x faster network performance than",
+      "Easy to use and simple to set up"
+    ],
+    "pros": [
+      "Network switch includes 4 x 2.5gb ethernet ports, 2 x 10gb",
+      "Network switch delivers 2.5x faster network performance than traditional gigabit switches",
+      "Easy to use and simple to set up, no software"
+    ],
+    "cons": [
+      "Verify exact fit and specs against your device before buying",
+      "Compatibility varies by exact model, double-check before ordering"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-network-switches-under-200-8",
+    "rank": 8,
+    "badge": "Best Premium Pick",
+    "name": "TP-Link TL-SG1024DE",
+    "price": "$99.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/312cxnpjJzL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B00CUG8ESM?tag=theofficejournal-20",
+    "description": "TP-Link TL-SG1024DE is the priciest pick in this lineup. 24-gigabit ports provide instant large file transfers. 9k jumbo frame improves performance of large data transfers.\n\nIt sits close to TP-Link TL-SG105 on paper, so the real decision comes down to a specific detail rather than a big capability gap: effective network monitoring via port mirroring, loop prevention and cable diagnostics.\n\nThis one is the right call if you are willing to spend the most in this tier for the fuller feature set that comes with it. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "24-gigabit ports provide instant large file transfers",
+      "9k jumbo frame improves performance of large data transfers",
+      "Effective network monitoring via port mirroring"
+    ],
+    "pros": [
+      "24-gigabit ports provide instant large file transfers",
+      "9k jumbo frame improves performance of large data transfers",
+      "Effective network monitoring via port mirroring, loop prevention and cable diagnostics"
+    ],
+    "cons": [
+      "Confirm this stays in stock at the price checked here",
+      "Setup or mounting hardware may be sold separately"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this tier for the fuller feature set that comes with it"
+  }
+];
+
+export const readTime = "12 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-network-switches-under-50",
+    "title": "Best Network Switches Under $50"
+  },
+  {
+    "href": "/guide/best-network-switches-under-100",
+    "title": "Best Network Switches Under $100"
+  },
+  {
+    "href": "/guide/best-network-switches-under-150",
+    "title": "Best Network Switches Under $150"
+  }
+];
+
+export const breadcrumbLabel = "Best Network Switches Under $200";

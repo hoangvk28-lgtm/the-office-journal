@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-cord-organizers-for-offices";
 
-export const guideTitle = "The Best Cord Organizers for Offices Worth Considering";
+export const guideTitle = "The Best Cord Organizers for Offices: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51L3hGaUIjL._SL500_.jpg";
 

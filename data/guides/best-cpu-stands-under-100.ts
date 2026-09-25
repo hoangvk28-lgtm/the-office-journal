@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-cpu-stands-under-100";
 
-export const guideTitle = "The Best CPU Stands Under $100 Worth Considering";
+export const guideTitle = "The Best CPU Stands Under $100: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31O90iJpE+L._SL500_.jpg";
 

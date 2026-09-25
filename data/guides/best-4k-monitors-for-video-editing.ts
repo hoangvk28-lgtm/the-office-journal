@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-4k-monitors-for-video-editing";
 
-export const guideTitle = "The Best 4K Monitors for Video Editing Worth Considering";
+export const guideTitle = "The Best 4K Monitors for Video Editing: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/418Morac88L._SL500_.jpg";
 

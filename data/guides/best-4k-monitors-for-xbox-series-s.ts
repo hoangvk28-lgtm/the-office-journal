@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-4k-monitors-for-xbox-series-s";
 
-export const guideTitle = "The Best 4K Monitors for Xbox Series S Worth Considering";
+export const guideTitle = "The Best 4K Monitors for Xbox Series S: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41HfUp0PDUL._SL500_.jpg";
 

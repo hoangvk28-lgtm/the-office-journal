@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-interactive-whiteboards-for-kindergarten";
 
-export const guideTitle = "The Best Interactive Whiteboards for Kindergarten Worth Considering";
+export const guideTitle = "The Best Interactive Whiteboards for Kindergarten: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51JwAk52DvL._SL500_.jpg";
 

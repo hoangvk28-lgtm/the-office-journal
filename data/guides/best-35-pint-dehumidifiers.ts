@@ -1,225 +1,106 @@
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
+
+export const buyingCriteria = [
+  {
+    "criterion": "Pint Capacity vs Your Actual Room Size",
+    "explanation": "Pint capacity describes how many pints of moisture a unit removes per day under standardized AHAM test conditions (65°F and 60% relative humidity), not necessarily your actual room. A 20-pint model suits a small, slightly damp bedroom, while a wet 1,500 square foot basement typically needs 45 to 50 pints. Check the manufacturer's stated square footage coverage against your specific room size and dampness level, not just the pint number alone, since a 'wet' room needs meaningfully more capacity than a 'moderately damp' one at the same square footage."
+  },
+  {
+    "criterion": "Drain Hose vs Pump vs Manual Tank",
+    "explanation": "How a dehumidifier gets rid of collected water matters as much as how much it collects: a gravity drain hose is the most reliable option but needs a nearby floor drain or lower elevation to work, while a built-in pump can send water uphill to a sink but adds a component that fails more often than a simple hose. A tank alone requires regular manual emptying, which quickly becomes impractical in a wet space running around the clock. Check your room's actual layout for a nearby drain before assuming any drain method will work as advertised."
+  },
+  {
+    "criterion": "",
+    "explanation": "Compressor (refrigerant-based) dehumidifiers work well at typical room temperatures but lose efficiency below about 65°F and can ice up below 40°F, making them a poor fit for an unheated garage or cold basement in winter. Desiccant dehumidifiers use moisture-absorbing material instead of refrigeration, running effectively in cooler spaces where a compressor model would struggle or ice over. Check your space's typical temperature range, not just its humidity level, before choosing between the two technologies."
+  },
+  {
+    "criterion": "Tank Size and How Often You'll Empty It",
+    "explanation": "Daily pint removal and tank capacity are two different numbers that both matter: a unit rated to remove 50 pints a day but with only a 10-pint tank will need emptying multiple times daily without a drain hose connected. Check the actual tank size specifically if you don't plan to use continuous drainage, since relying on manual emptying in a wet space quickly becomes impractical with a small tank."
+  },
+  {
+    "criterion": "",
+    "explanation": "An auto-restart feature resumes operation automatically after a power outage, important for basements and crawl spaces where you might not notice the unit stopped for days. A built-in humidistat lets you set a target humidity percentage and the unit cycles on and off automatically to maintain it, rather than running continuously and over-drying the air or wasting energy. Check for both features specifically if the unit will run unattended in a space you don't check daily."
+  }
+];
+
+export const faq = [
+  {
+    "q": "What size dehumidifier do I need for my room?",
+    "a": "As a rough guide, a 20-pint model suits a bedroom or space up to about 1,500 square feet if only slightly damp, while a wet basement of similar size often needs 45 to 50 pints; match the manufacturer's coverage claim to both your square footage and how damp the space feels."
+  },
+  {
+    "q": "Should I get a dehumidifier with a pump or just a drain hose?",
+    "a": "A gravity drain hose is simpler and more reliable but needs a nearby floor drain or lower elevation to work, while a pump can send water uphill to a sink, which matters most in a basement with no nearby drain; check your room's actual layout before choosing."
+  },
+  {
+    "q": "Can I use a dehumidifier in a cold garage or basement?",
+    "a": "A standard compressor dehumidifier loses efficiency below about 65°F and can ice up below 40°F, so a cold, unheated space needs a desiccant model instead, which keeps working effectively in cooler conditions."
+  },
+  {
+    "q": "How often do I need to empty a dehumidifier's tank?",
+    "a": "It depends on both the tank size and how much moisture your room actually produces daily; a small tank under 15 pints in a wet room can fill multiple times a day without a drain hose connected, so check tank capacity specifically if you're not running continuous drainage."
+  },
+  {
+    "q": "Is a bigger dehumidifier always better?",
+    "a": "An oversized unit for a small room can over-dry the air and waste energy cycling on and off more than necessary; match the pint capacity to your actual room size and dampness level rather than buying the largest model available."
+  },
+  {
+    "q": "Does a dehumidifier help with mold?",
+    "a": "Yes, keeping indoor humidity below roughly 50% meaningfully slows mold growth, but a dehumidifier addresses the humidity that feeds existing mold, it doesn't remove mold that's already present, so active mold growth still needs direct cleaning or remediation."
+  }
+];
+
 export const guideSlug = "best-35-pint-dehumidifiers";
-export const guideTitle = "8 Best 35-Pint Dehumidifiers in 2026";
-export const metaTitle = "Best 35-Pint Dehumidifiers";
-export const metaDescription = "We compared 35 pint dehumidifier models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
-export const mainKeyword = "35 pint dehumidifier";
-export const introParagraphs = [
-  "Across best 35-pint dehumidifiers, vary more than the keyword suggests, given that the real gap is in the details.",
-  "What separates these picks is true AHAM coverage and tank size, since this predicts real moisture removal."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
+
+export const guideTitle = "The Best 35-Pint Dehumidifiers for a Cleaner, More Useful Desk";
+
 export const heroImage = "https://m.media-amazon.com/images/I/31ho4yftX6L._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-35-pint-dehumidifiers-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Midea Cube 35 Pint Dehumidifier for Basement",
-    price: "$209.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31ho4yftX6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GL7QLD49?tag=theofficejournal-20",
-    description: "Midea Cube 35 Pint Dehumidifier for Basement is the top pick in this comparison. Midea dehumidifier with drain hose is able to collect 35 pint (similar to 50 pt-2012 doe) of water a day and adjust humidity from 35% to 85%, perfect for use in basement, bathroom, bedroom, or crawlspace. Up to 3x larger water tank allows the midea cube dehumidifier to operate up to 3x longer than a conventional dehumidifier.\n\nHeld up against Waykar 34 Pints 2000 Sq. Ft. 2025 Energy Star Dehumidifier for Home, both cover the basics equally well, what actually separates them is versatile, no-bucket option provides more flexibility to remove moisture.\n\nThis fits best if you want the strongest all-around pick in this comparison and would rather not keep shopping around. The tank needs regular emptying unless you're running a continuous drain hose or pump, so factor that into daily upkeep before buying.",
-    specs: ["Midea dehumidifier with drain hose is able to collect 35 pint", "Up to 3x larger water tank allows the midea", "Versatile, no-bucket option provides more flexibility to remove moisture"],
-    pros: ["Midea dehumidifier with drain hose is able to collect 35 pint", "Up to 3x larger water tank allows the midea", "Versatile, no-bucket option provides more flexibility to remove moisture", "Midea cube dehumidifiers for home are wi-fi enabled"],
-    cons: ["Tank needs regular emptying unless drained continuously", "Coverage claims assume ideal conditions, not always real rooms"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-35-pint-dehumidifiers-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "Waykar 34 Pints 2000 Sq. Ft. 2025 Energy Star Dehumidifier for Home",
-    price: "$158.34",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31i5Z+6K1FL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B081RG8JYR?tag=theofficejournal-20",
-    description: "Waykar 34 Pints 2000 Sq. Ft. 2025 Energy Star Dehumidifier for Home is a strong alternative worth comparing directly against the top pick. Removes up to 34 pints of moisture per day (95°f, 90% RH), ideal for basements, whole homes, garages, and commercial spaces. This unit features a manual 90° airflow adjustment that allows you to direct dry air where it’s needed most.\n\nThe gap between this and Midea Cube 35 Pint Dehumidifier for Basement isn't in the essentials, it shows up in unlike standard units limited to 40% RH minimum, this dehumidifier offers a wider 30%, 80% humidity range.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Coverage figures assume ideal AHAM test conditions, not always your actual room's humidity and airflow, so treat the pint rating as a starting point.",
-    specs: ["Removes up to 34 pints of moisture per day (95°f, 90%", "90° swing for targeted airflow", "Unlike standard units limited to 40% RH minimum, this"],
-    pros: ["Removes up to 34 pints of moisture per day (95°f, 90%", "90° swing for targeted airflow", "Unlike standard units limited to 40% RH minimum, this", "Energy star certified for efficient operation"],
-    cons: ["Coverage claims assume ideal conditions, not always real rooms", "Tank needs regular emptying unless drained continuously"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-35-pint-dehumidifiers-3",
-    rank: 3,
-    badge: "Best Premium Pick",
-    name: "Midea 35 Pint Dehumidifier for Basement",
-    price: "$209.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31wDgVZfXXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GL7JSFYF?tag=theofficejournal-20",
-    description: "Midea 35 Pint Dehumidifier for Basement is the priciest pick in this lineup. This model has quiet operation as 49 dba(low mode). This dehumidifier is wi-fi enabled and can be controlled from anywhere through the cloud using the smarthome app on ios or android.\n\nMidea Cube 35 Pint Dehumidifier for Basement lands in a similar spot overall, but the deciding factor between the two is simply empty the water tank when it is full or connect a standard hose (not included) to the built-in socket for continuous draining.\n\nGo with this pick if you are willing to spend the most in this comparison for the fuller feature set that comes with it. The tank needs regular emptying unless you're running a continuous drain hose or pump, so factor that into daily upkeep before buying.",
-    specs: ["3,000 sq", "Model has quiet operation as 49 dba(low mode)", "Dehumidifier is wi-fi enabled and can be controlled"],
-    pros: ["3,000 sq", "Model has quiet operation as 49 dba(low mode)", "Dehumidifier is wi-fi enabled and can be controlled", "Simply empty the water tank when it is full"],
-    cons: ["Tank needs regular emptying unless drained continuously", "Coverage claims assume ideal conditions, not always real rooms"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-35-pint-dehumidifiers-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "SEMKAP 2500 Sq.Ft Max 32 Pints Dehumidifier for Basement with Drain Hose",
-    price: "$111.43",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31Q0jyVN7yL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GJRMRZZ5?tag=theofficejournal-20",
-    description: "SEMKAP 2500 Sq.Ft Max 32 Pints Dehumidifier for Basement with Drain Hose is a strong alternative worth comparing directly against the top pick. High airflow, low noise - we understand how deeply noise can affect your quality of life. 2 drainage options - manual or continuous, you can maintain a dry and comfortable room by selecting the drainage option that best suits your needs.\n\nEasy to move & smart design - easily move it anywhere with 360° wheels with handle, which is the main thing that distinguishes this pick from Midea Cube 35 Pint Dehumidifier for Basement.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Coverage figures assume ideal AHAM test conditions, not always your actual room's humidity and airflow, so treat the pint rating as a starting point.",
-    specs: ["2500 sq", "High airflow, low noise - we understand how deeply", "2 drainage options - manual or continuous, you can"],
-    pros: ["2500 sq", "High airflow, low noise - we understand how deeply", "2 drainage options - manual or continuous, you can", "Easy to move & smart design - easily move"],
-    cons: ["Coverage claims assume ideal conditions, not always real rooms", "Tank needs regular emptying unless drained continuously"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-35-pint-dehumidifiers-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "Ludatido Max 35 Pints Dehumidifier",
-    price: "$119.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/310ukGEpaGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GYCD2QPR?tag=theofficejournal-20",
-    description: "Ludatido Max 35 Pints Dehumidifier is a strong alternative worth comparing directly against the top pick. 0.56gal large-capacity water tank, built-in high-capacity water tank reduces frequent water pouring. Intelligent humidity control, built-in sensitive humidity sensor automatically monitors and adjusts indoor humidity in real time, keeping room humidity at a healthy and comfortable range.\n\nQuiet & energy-saving operation, optimized internal structure reduces operating noise, providing quiet dehumidification without disturbing daily work and sleep, a detail worth checking closely before choosing between this and Midea Cube 35 Pint Dehumidifier for Basement.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. The tank needs regular emptying unless you're running a continuous drain hose or pump, so factor that into daily upkeep before buying.",
-    specs: ["2026 upgraded 2500 sq.ft coverage, adopting upgraded dehumidification technology", "0.56gal large-capacity water tank, built-in high-capacity water tank", "Intelligent humidity control, built-in sensitive humidity sensor automatically monitors"],
-    pros: ["2026 upgraded 2500 sq.ft coverage, adopting upgraded dehumidification technology", "0.56gal large-capacity water tank, built-in high-capacity water tank", "Intelligent humidity control, built-in sensitive humidity sensor automatically monitors", "Quiet & energy-saving operation, optimized internal structure reduces operating"],
-    cons: ["Tank needs regular emptying unless drained continuously", "Coverage claims assume ideal conditions, not always real rooms"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-35-pint-dehumidifiers-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "Waykar 34 Pints 2025 Most Efficient Energy Star Dehumidifier for Home & Basement",
-    price: "$185.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31sHaE6wi0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GT9WCDWK?tag=theofficejournal-20",
-    description: "Waykar 34 Pints 2025 Most Efficient Energy Star Dehumidifier for Home & Basement is a strong alternative worth comparing directly against the top pick. The upgraded 2025 waykar dehumidifier features cutting-edge rotary compressor technology. Certified as 2025 energy star most efficient, this unit uses 50% less energy than traditional models, saving you approximately $1,000 annually on electricity bills while meeting strict u.s.\n\nWeighing this against Midea Cube 35 Pint Dehumidifier for Basement, this versatile unit offers dehumidifying, drying, and continuous modes to handle various moisture levels ends up being the detail that matters most for most buyers.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Coverage figures assume ideal AHAM test conditions, not always your actual room's humidity and airflow, so treat the pint rating as a starting point.",
-    specs: ["Compact size, big efficiency", "High savings, low power use", "1 device, 2 drainage options, 3 modes"],
-    pros: ["Compact size, big efficiency", "High savings, low power use", "1 device, 2 drainage options, 3 modes", "High airflow, low noise"],
-    cons: ["Coverage claims assume ideal conditions, not always real rooms", "Tank needs regular emptying unless drained continuously"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-35-pint-dehumidifiers-7",
-    rank: 7,
-    badge: "Great Alternative",
-    name: "34 Pints Dehumidifiers for Home with 6.56ft Drain Hose",
-    price: "$119.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/21jqYJyNskL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DMNK3LW5?tag=theofficejournal-20",
-    description: "34 Pints Dehumidifiers for Home with 6.56ft Drain Hose is a strong alternative worth comparing directly against the top pick. Frost-free tech & 1-min auto defrost, airvip dehumidifier for basement features soundproof panel for ultra-quiet operation, frost-free tech, and 1-minute auto defrost. Energy efficient 34 pint dehumidifier - 20% higher efficiency, high-efficiency compressor removes max 34 pints daily (95°f/95% RH), it can remove 25 pints in 86°f, 80%RH, 20% more efficient than other dehumidifiers.\n\nHeld up against Midea Cube 35 Pint Dehumidifier for Basement, both cover the basics equally well, what actually separates them is smart 3-in-1 control for small spaces, continuous mode (<3% RH, ideal for laundry rooms, basements, garages).\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. The tank needs regular emptying unless you're running a continuous drain hose or pump, so factor that into daily upkeep before buying.",
-    specs: ["Frost-free tech & 1-min auto defrost, airvip dehumidifier", "Energy efficient 34 pint dehumidifier - 20% higher efficiency", "Smart 3-in-1 control for small spaces, continuous mode (<3%"],
-    pros: ["Frost-free tech & 1-min auto defrost, airvip dehumidifier", "Energy efficient 34 pint dehumidifier - 20% higher efficiency", "Smart 3-in-1 control for small spaces, continuous mode (<3%", "Auto drain hose & spill-proof tank, includes 6.6 ft"],
-    cons: ["Tank needs regular emptying unless drained continuously", "Coverage claims assume ideal conditions, not always real rooms"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-35-pint-dehumidifiers-8",
-    rank: 8,
-    badge: "Best Value",
-    name: "BEDRED Dehumidifier",
-    price: "$56.97",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/417Ro6HlE5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXKRFFGM?tag=theofficejournal-20",
-    description: "BEDRED Dehumidifier is the most affordable pick here that still clears the capability floor for this category. Semiconductor dehumidifiers use thermoelectric cooling to remove moisture from the air. Our home dehumidifier features intelligent auto-shutoff, automatically powering down when the water tank is full.\n\nWeighing this against Midea Cube 35 Pint Dehumidifier for Basement, our dehumidifier features a captivating 7-color ambient light, allowing you to bathe your room in a spectrum of soothing hues ends up being the detail that matters most for most buyers.\n\nGo with this pick if you want a genuinely capable pick without paying for headroom you won't use. Coverage figures assume ideal AHAM test conditions, not always your actual room's humidity and airflow, so treat the pint rating as a starting point.",
-    specs: ["Semiconductor dehumidifiers use thermoelectric cooling to remove moisture", "Home dehumidifier features intelligent auto-shutoff, automatically powering", "Dehumidifier features a captivating 7-color ambient light, allowing"],
-    pros: ["Semiconductor dehumidifiers use thermoelectric cooling to remove moisture", "Home dehumidifier features intelligent auto-shutoff, automatically powering", "Dehumidifier features a captivating 7-color ambient light, allowing", "Sleep mode creates the perfect sleep sanctuary"],
-    cons: ["Coverage claims assume ideal conditions, not always real rooms", "Tank needs regular emptying unless drained continuously"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Pint Capacity vs Your Actual Room Size",
-    "description": "Pint capacity describes how many pints of moisture a unit removes per day under standardized AHAM test conditions (65°F and 60% relative humidity), not necessarily your actual room."
-  },
-  {
-    "title": "Drain Hose vs Pump vs Manual Tank",
-    "description": "How a dehumidifier gets rid of collected water matters as much as how much it collects: a gravity drain hose is the most reliable option but needs a nearby floor drain or lower elevation to work, while a built-in pump can send water uphill to a sink but adds a component that fails more often than a simple hose."
-  },
-  {
-    "title": "Compressor vs Desiccant Technology",
-    "description": "Compressor (refrigerant-based) dehumidifiers work well at typical room temperatures but lose efficiency below about 65°F and can ice up below 40°F, making them a poor fit for an unheated garage or cold basement in winter."
-  },
-  {
-    "title": "Tank Size and How Often You'll Empty It",
-    "description": "Daily pint removal and tank capacity are two different numbers that both matter: a unit rated to remove 50 pints a day but with only a 10-pint tank will need emptying multiple times daily without a drain hose connected."
-  },
-  {
-    "title": "Auto-Restart and Humidistat Control",
-    "description": "An auto-restart feature resumes operation automatically after a power outage, important for basements and crawl spaces where you might not notice the unit stopped for days."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
 
 export const howToChoose: HowToChooseSection[] = [
   {
     "subheading": "By Room Size and Dampness",
     "table": {
       "headers": [
-        "Your space",
-        "Recommended pick"
+        "",
+        ""
       ],
       "rows": [
         [
-          "Small room, slightly damp",
-          "BEDRED Dehumidifier"
+          "",
+          ""
         ],
         [
           "Standard room or moderate dampness",
           "Midea Cube 35 Pint Dehumidifier for Basement"
         ],
         [
-          "Large or genuinely wet space",
+          "Large or wet space",
           "Midea 35 Pint Dehumidifier for Basement"
         ]
       ]
     }
   },
   {
-    "subheading": "By Budget",
+    "subheading": "",
     "table": {
       "headers": [
-        "Budget",
-        "Recommended pick"
+        "",
+        ""
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          "BEDRED Dehumidifier"
+          ""
         ],
         [
-          "Mid-range pick",
-          "Waykar 34 Pints 2000 Sq. Ft. 2025 Energy Star Dehumidifier for Home"
+          "",
+          "Waykar 34 Pints 2000 Sq. 2025 Energy Star Dehumidifier for Home"
         ],
         [
-          "Higher budget",
+          "",
           "Midea 35 Pint Dehumidifier for Basement"
         ]
       ]
@@ -229,11 +110,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Drain Hose vs Pump vs Manual Tank",
     "cards": [
       {
-        "label": "Continuous drain (e.g. Midea Cube 35 Pint Dehumidifier for Basement)",
+        "label": "Midea Cube 35 Pint Dehumidifier for Basement)",
         "text": "Runs hands-off near a floor drain, the most reliable option if your space has one nearby."
       },
       {
-        "label": "Manual tank emptying (e.g. BEDRED Dehumidifier)",
+        "label": "",
         "text": "No drain needed, but requires regular emptying, more practical in a less humid space."
       }
     ],
@@ -243,12 +124,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Technology: Compressor vs Desiccant",
     "table": {
       "headers": [
-        "Priority",
-        "Recommended pick"
+        "",
+        ""
       ],
       "rows": [
         [
-          "Standard room temperature",
+          "",
           "Midea Cube 35 Pint Dehumidifier for Basement"
         ],
         [
@@ -262,78 +143,308 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Basement or Crawl Space Specifically",
     "cards": [
       {
-        "label": "Look for",
+        "label": "",
         "text": "Auto-restart after a power outage and a built-in humidistat, since these spaces often run unattended for days at a time."
       },
       {
-        "label": "In this comparison",
+        "label": "",
         "text": "Midea Cube 35 Pint Dehumidifier for Basement is worth checking against its specific auto-restart and humidistat spec before assuming any unit handles unattended operation well."
       }
     ]
   },
   {
-    "subheading": "When to Spend More",
+    "subheading": "",
     "cards": [
       {
-        "label": "Spend more if",
-        "text": "You're covering a large or genuinely wet space and want a built-in pump and higher capacity, where Midea 35 Pint Dehumidifier for Basement justifies the extra cost."
+        "label": "",
+        "text": "You're covering a large or wet space and want a built-in pump and higher capacity, where Midea 35 Pint Dehumidifier for Basement justifies the extra cost."
       },
       {
-        "label": "Save if",
+        "label": "",
         "text": "You're covering a small, moderately damp room, where BEDRED Dehumidifier already covers the job at the lowest price here."
       }
     ]
   }
 ];
 
-export const buyingCriteria = [
+export const howWeEvaluated = [
   {
-    "criterion": "Pint Capacity vs Your Actual Room Size",
-    "explanation": "Pint capacity describes how many pints of moisture a unit removes per day under standardized AHAM test conditions (65°F and 60% relative humidity), not necessarily your actual room. A 20-pint model suits a small, slightly damp bedroom, while a wet 1,500 square foot basement typically needs 45 to 50 pints. Check the manufacturer's stated square footage coverage against your specific room size and dampness level, not just the pint number alone, since a 'wet' room needs meaningfully more capacity than a 'moderately damp' one at the same square footage."
+    "title": "Pint Capacity vs Your Actual Room Size",
+    "description": "Pint capacity describes how many pints of moisture a unit removes per day under standardized AHAM test conditions (65°F and 60% relative humidity), not necessarily your actual room."
   },
   {
-    "criterion": "Drain Hose vs Pump vs Manual Tank",
-    "explanation": "How a dehumidifier gets rid of collected water matters as much as how much it collects: a gravity drain hose is the most reliable option but needs a nearby floor drain or lower elevation to work, while a built-in pump can send water uphill to a sink but adds a component that fails more often than a simple hose. A tank alone requires regular manual emptying, which quickly becomes impractical in a genuinely wet space running around the clock. Check your room's actual layout for a nearby drain before assuming any drain method will work as advertised."
+    "title": "Drain Hose vs Pump vs Manual Tank",
+    "description": "How a dehumidifier gets rid of collected water matters as much as how much it collects: a gravity drain hose is the most reliable option but needs a nearby floor drain or lower elevation to work, while a built-in pump can send water uphill to a sink but adds a component that fails more often than a simple hose."
   },
   {
-    "criterion": "Compressor vs Desiccant Technology",
-    "explanation": "Compressor (refrigerant-based) dehumidifiers work well at typical room temperatures but lose efficiency below about 65°F and can ice up below 40°F, making them a poor fit for an unheated garage or cold basement in winter. Desiccant dehumidifiers use moisture-absorbing material instead of refrigeration, running effectively in cooler spaces where a compressor model would struggle or ice over. Check your space's typical temperature range, not just its humidity level, before choosing between the two technologies."
+    "title": "",
+    "description": "Compressor (refrigerant-based) dehumidifiers work well at typical room temperatures but lose efficiency below about 65°F and can ice up below 40°F, making them a poor fit for an unheated garage or cold basement in winter."
   },
   {
-    "criterion": "Tank Size and How Often You'll Empty It",
-    "explanation": "Daily pint removal and tank capacity are two different numbers that both matter: a unit rated to remove 50 pints a day but with only a 10-pint tank will need emptying multiple times daily without a drain hose connected. Check the actual tank size specifically if you don't plan to use continuous drainage, since relying on manual emptying in a genuinely wet space quickly becomes impractical with a small tank."
+    "title": "Tank Size and How Often You'll Empty It",
+    "description": "Daily pint removal and tank capacity are two different numbers that both matter: a unit rated to remove 50 pints a day but with only a 10-pint tank will need emptying multiple times daily without a drain hose connected."
   },
   {
-    "criterion": "Auto-Restart and Humidistat Control",
-    "explanation": "An auto-restart feature resumes operation automatically after a power outage, important for basements and crawl spaces where you might not notice the unit stopped for days. A built-in humidistat lets you set a target humidity percentage and the unit cycles on and off automatically to maintain it, rather than running continuously and over-drying the air or wasting energy. Check for both features specifically if the unit will run unattended in a space you don't check daily."
+    "title": "",
+    "description": "An auto-restart feature resumes operation automatically after a power outage, important for basements and crawl spaces where you might not notice the unit stopped for days."
   }
 ];
 
-export const faq = [
+export const introParagraphs = [
+  "Across best 35-pint dehumidifiers, vary more than the keyword suggests, given that the real gap is in the details.",
+  "What separates these picks is true AHAM coverage and tank size, since this predicts real moisture removal."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const mainKeyword = "35 pint dehumidifier";
+
+export const metaDescription = "A practical comparison of 8 35-pint dehumidifiers, focused on compatibility, build, features and price, and the trade-offs between them.";
+
+export const metaTitle = "Best 35-Pint Dehumidifiers for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
   {
-    "q": "What size dehumidifier do I need for my room?",
-    "a": "As a rough guide, a 20-pint model suits a bedroom or space up to about 1,500 square feet if only slightly damp, while a genuinely wet basement of similar size often needs 45 to 50 pints; match the manufacturer's coverage claim to both your square footage and how damp the space feels."
+    "id": "best-35-pint-dehumidifiers-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Midea Cube 35 Pint Dehumidifier for Basement",
+    "price": "$209.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31ho4yftX6L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL7QLD49?tag=theofficejournal-20",
+    "description": "Midea Cube 35 Pint Dehumidifier for Basement is the top pick in this comparison. Midea dehumidifier with drain hose is able to collect 35 pint (similar to 50 pt-2012 doe) of water a day and adjust humidity from 35% to 85%, well suited to use in basement, bathroom, bedroom, or crawlspace. Up to 3x larger water tank allows the midea cube dehumidifier to operate up to 3x longer than a conventional dehumidifier.\n\nHeld up against Waykar 34 Pints 2000 Sq. 2025 Energy Star Dehumidifier for Home, both cover the basics equally well, what actually separates them is versatile, no-bucket option provides more flexibility to remove moisture.\n\nThis fits best if you want the strongest all-around pick in this comparison and would rather not keep shopping around. The tank needs regular emptying unless you're running a continuous drain hose or pump, so factor that into daily upkeep before buying.",
+    "specs": [
+      "Midea dehumidifier with drain hose is able to collect 35 pint",
+      "Up to 3x larger water tank allows the midea",
+      "Versatile, no-bucket option provides more flexibility to remove moisture"
+    ],
+    "pros": [
+      "Midea dehumidifier with drain hose is able to collect 35 pint",
+      "Up to 3x larger water tank allows the midea",
+      "Versatile, no-bucket option provides more flexibility to remove moisture",
+      "Midea cube dehumidifiers for home are wi-fi enabled"
+    ],
+    "cons": [
+      "Tank needs regular emptying unless drained continuously",
+      "Coverage claims assume ideal conditions, not always real rooms"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
   },
   {
-    "q": "Should I get a dehumidifier with a pump or just a drain hose?",
-    "a": "A gravity drain hose is simpler and more reliable but needs a nearby floor drain or lower elevation to work, while a pump can send water uphill to a sink, which matters most in a basement with no nearby drain; check your room's actual layout before choosing."
+    "id": "best-35-pint-dehumidifiers-2",
+    "rank": 2,
+    "badge": "Also Worth Considering",
+    "name": "Waykar 34 Pints 2000 Sq. Ft. 2025 Energy Star Dehumidifier for Home",
+    "price": "$158.34",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31i5Z+6K1FL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B081RG8JYR?tag=theofficejournal-20",
+    "description": "Waykar 34 Pints 2000 Sq. 2025 Energy Star Dehumidifier for Home is a strong alternative worth comparing directly against the top pick. Removes up to 34 pints of moisture per day (95°f, 90% RH), ideal for basements, whole homes, garages, and commercial spaces. This unit features a manual 90° airflow adjustment that allows you to direct dry air where it’s needed most.\n\nThe gap between this and Midea Cube 35 Pint Dehumidifier for Basement isn't in the essentials, it shows up in unlike standard units limited to 40% RH minimum, this dehumidifier offers a wider 30%, 80% humidity range.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Coverage figures assume ideal AHAM test conditions, not always your actual room's humidity and airflow, so treat the pint rating as a starting point.",
+    "specs": [
+      "Removes up to 34 pints of moisture per day (95°f, 90%",
+      "90° swing for targeted airflow",
+      "Unlike standard units limited to 40% RH minimum, this"
+    ],
+    "pros": [
+      "Removes up to 34 pints of moisture per day (95°f, 90%",
+      "90° swing for targeted airflow",
+      "Unlike standard units limited to 40% RH minimum, this",
+      "Energy star certified for efficient operation"
+    ],
+    "cons": [
+      "Coverage claims assume ideal conditions, not always real rooms",
+      "Tank needs regular emptying unless drained continuously"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
   },
   {
-    "q": "Can I use a dehumidifier in a cold garage or basement?",
-    "a": "A standard compressor dehumidifier loses efficiency below about 65°F and can ice up below 40°F, so a genuinely cold, unheated space needs a desiccant model instead, which keeps working effectively in cooler conditions."
+    "id": "best-35-pint-dehumidifiers-3",
+    "rank": 3,
+    "badge": "Best Premium Pick",
+    "name": "Midea 35 Pint Dehumidifier for Basement",
+    "price": "$209.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31wDgVZfXXL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL7JSFYF?tag=theofficejournal-20",
+    "description": "Midea 35 Pint Dehumidifier for Basement is the priciest pick in this lineup. This model has quiet operation as 49 dba(low mode). This dehumidifier is wi-fi enabled and can be controlled from anywhere through the cloud using the smarthome app on ios or android.\n\nMidea Cube 35 Pint Dehumidifier for Basement lands in a similar spot overall, but the deciding factor between the two is simply empty the water tank when it is full or connect a standard hose (not included) to the built-in socket for continuous draining.\n\nGo with this pick if you are willing to spend the most in this comparison for the fuller feature set that comes with it. The tank needs regular emptying unless you're running a continuous drain hose or pump, so factor that into daily upkeep before buying.",
+    "specs": [
+      "3,000 sq",
+      "Model has quiet operation as 49 dba(low mode)",
+      "Dehumidifier is wi-fi enabled and can be controlled"
+    ],
+    "pros": [
+      "3,000 sq",
+      "Model has quiet operation as 49 dba(low mode)",
+      "Dehumidifier is wi-fi enabled and can be controlled",
+      "Simply empty the water tank when it is full"
+    ],
+    "cons": [
+      "Tank needs regular emptying unless drained continuously",
+      "Coverage claims assume ideal conditions, not always real rooms"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it"
   },
   {
-    "q": "How often do I need to empty a dehumidifier's tank?",
-    "a": "It depends on both the tank size and how much moisture your room actually produces daily; a small tank under 15 pints in a genuinely wet room can fill multiple times a day without a drain hose connected, so check tank capacity specifically if you're not running continuous drainage."
+    "id": "best-35-pint-dehumidifiers-4",
+    "rank": 4,
+    "badge": "Another Strong Option",
+    "name": "SEMKAP 2500 Sq.Ft Max 32 Pints Dehumidifier for Basement with Drain Hose",
+    "price": "$111.43",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Q0jyVN7yL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJRMRZZ5?tag=theofficejournal-20",
+    "description": "Ft Max 32 Pints Dehumidifier for Basement with Drain Hose is a strong alternative worth comparing directly against the top pick. High airflow, low noise - we understand how deeply noise can affect your quality of life. 2 drainage options - manual or continuous, you can maintain a dry and comfortable room by selecting the drainage option that best suits your needs.\n\nEasy to move & smart design - easily move it anywhere with 360° wheels with handle, which is the main thing that distinguishes this pick from Midea Cube 35 Pint Dehumidifier for Basement.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Coverage figures assume ideal AHAM test conditions, not always your actual room's humidity and airflow, so treat the pint rating as a starting point.",
+    "specs": [
+      "2500 sq",
+      "High airflow, low noise - we understand how deeply",
+      "2 drainage options - manual or continuous, you can"
+    ],
+    "pros": [
+      "2500 sq",
+      "High airflow, low noise - we understand how deeply",
+      "2 drainage options - manual or continuous, you can",
+      "Easy to move & smart design - easily move"
+    ],
+    "cons": [
+      "Coverage claims assume ideal conditions, not always real rooms",
+      "Tank needs regular emptying unless drained continuously"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
   },
   {
-    "q": "Is a bigger dehumidifier always better?",
-    "a": "No. An oversized unit for a small room can over-dry the air and waste energy cycling on and off more than necessary; match the pint capacity to your actual room size and dampness level rather than buying the largest model available."
+    "id": "best-35-pint-dehumidifiers-5",
+    "rank": 5,
+    "badge": "Runner-Up Pick",
+    "name": "Ludatido Max 35 Pints Dehumidifier",
+    "price": "$119.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/310ukGEpaGL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYCD2QPR?tag=theofficejournal-20",
+    "description": "Ludatido Max 35 Pints Dehumidifier is a strong alternative worth comparing directly against the top pick. 56gal large-capacity water tank, built-in high-capacity water tank reduces frequent water pouring. Intelligent humidity control, built-in sensitive humidity sensor automatically monitors and adjusts indoor humidity in real time, keeping room humidity at a healthy and comfortable range.\n\nQuiet & energy-saving operation, optimized internal structure reduces operating noise, providing quiet dehumidification without disturbing daily work and sleep, a detail worth checking closely before choosing between this and Midea Cube 35 Pint Dehumidifier for Basement.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. The tank needs regular emptying unless you're running a continuous drain hose or pump, so factor that into daily upkeep before buying.",
+    "specs": [
+      "2026 upgraded 2500 sq.ft coverage, adopting upgraded dehumidification technology",
+      "0.56gal large-capacity water tank, built-in high-capacity water tank",
+      "Intelligent humidity control, built-in sensitive humidity sensor automatically monitors"
+    ],
+    "pros": [
+      "2026 upgraded 2500 sq.ft coverage, adopting upgraded dehumidification technology",
+      "0.56gal large-capacity water tank, built-in high-capacity water tank",
+      "Intelligent humidity control, built-in sensitive humidity sensor automatically monitors",
+      "Quiet & energy-saving operation, optimized internal structure reduces operating"
+    ],
+    "cons": [
+      "Tank needs regular emptying unless drained continuously",
+      "Coverage claims assume ideal conditions, not always real rooms"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
   },
   {
-    "q": "Does a dehumidifier help with mold?",
-    "a": "Yes, keeping indoor humidity below roughly 50% meaningfully slows mold growth, but a dehumidifier addresses the humidity that feeds existing mold, it doesn't remove mold that's already present, so active mold growth still needs direct cleaning or remediation."
+    "id": "best-35-pint-dehumidifiers-6",
+    "rank": 6,
+    "badge": "Worth a Look",
+    "name": "Waykar 34 Pints 2025 Most Efficient Energy Star Dehumidifier for Home & Basement",
+    "price": "$185.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31sHaE6wi0L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT9WCDWK?tag=theofficejournal-20",
+    "description": "Waykar 34 Pints 2025 Most Efficient Energy Star Dehumidifier for Home & Basement is a strong alternative worth comparing directly against the top pick. The upgraded 2025 waykar dehumidifier features cutting-edge rotary compressor technology.\n\nWeighing this against Midea Cube 35 Pint Dehumidifier for Basement, this versatile unit offers dehumidifying, drying, and continuous modes to handle various moisture levels ends up being the detail that matters most for most buyers.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Coverage figures assume ideal AHAM test conditions, not always your actual room's humidity and airflow, so treat the pint rating as a starting point.",
+    "specs": [
+      "Compact size, big efficiency",
+      "High savings, low power use",
+      "1 device, 2 drainage options, 3 modes"
+    ],
+    "pros": [
+      "Compact size, big efficiency",
+      "High savings, low power use",
+      "1 device, 2 drainage options, 3 modes",
+      "High airflow, low noise"
+    ],
+    "cons": [
+      "Coverage claims assume ideal conditions, not always real rooms",
+      "Tank needs regular emptying unless drained continuously"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-35-pint-dehumidifiers-7",
+    "rank": 7,
+    "badge": "Great Alternative",
+    "name": "34 Pints Dehumidifiers for Home with 6.56ft Drain Hose",
+    "price": "$119.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/21jqYJyNskL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMNK3LW5?tag=theofficejournal-20",
+    "description": "56ft Drain Hose is a strong alternative worth comparing directly against the top pick. Frost-free tech & 1-min auto defrost, airvip dehumidifier for basement features soundproof panel for ultra-quiet operation, frost-free tech, and 1-minute auto defrost. Energy efficient 34 pint dehumidifier - 20% higher efficiency, high-efficiency compressor removes max 34 pints daily (95°f/95% RH), it can remove 25 pints in 86°f, 80%RH, 20% more efficient than other dehumidifiers.\n\nHeld up against Midea Cube 35 Pint Dehumidifier for Basement, both cover the basics equally well, what actually separates them is smart 3-in-1 control for small spaces, continuous mode (<3% RH, ideal for laundry rooms, basements, garages).\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. The tank needs regular emptying unless you're running a continuous drain hose or pump, so factor that into daily upkeep before buying.",
+    "specs": [
+      "Frost-free tech & 1-min auto defrost, airvip dehumidifier",
+      "Energy efficient 34 pint dehumidifier - 20% higher efficiency",
+      "Smart 3-in-1 control for small spaces, continuous mode (<3%"
+    ],
+    "pros": [
+      "Frost-free tech & 1-min auto defrost, airvip dehumidifier",
+      "Energy efficient 34 pint dehumidifier - 20% higher efficiency",
+      "Smart 3-in-1 control for small spaces, continuous mode (<3%",
+      "Auto drain hose & spill-proof tank, includes 6.6 ft"
+    ],
+    "cons": [
+      "Tank needs regular emptying unless drained continuously",
+      "Coverage claims assume ideal conditions, not always real rooms"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-35-pint-dehumidifiers-8",
+    "rank": 8,
+    "badge": "Best Value",
+    "name": "BEDRED Dehumidifier",
+    "price": "$56.97",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/417Ro6HlE5L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXKRFFGM?tag=theofficejournal-20",
+    "description": "BEDRED Dehumidifier is the most affordable pick here that still clears the capability floor for this category. Semiconductor dehumidifiers use thermoelectric cooling to remove moisture from the air. Our home dehumidifier features intelligent auto-shutoff, automatically powering down when the water tank is full.\n\nWeighing this against Midea Cube 35 Pint Dehumidifier for Basement, our dehumidifier features a captivating 7-color ambient light, allowing you to bathe your room in a spectrum of soothing hues ends up being the detail that matters most for most buyers.\n\nGo with this pick if you want a capable pick without paying for headroom you won't use. Coverage figures assume ideal AHAM test conditions, not always your actual room's humidity and airflow, so treat the pint rating as a starting point.",
+    "specs": [
+      "Semiconductor dehumidifiers use thermoelectric cooling to remove moisture",
+      "Home dehumidifier features intelligent auto-shutoff, automatically powering",
+      "Dehumidifier features a captivating 7-color ambient light, allowing"
+    ],
+    "pros": [
+      "Semiconductor dehumidifiers use thermoelectric cooling to remove moisture",
+      "Home dehumidifier features intelligent auto-shutoff, automatically powering",
+      "Dehumidifier features a captivating 7-color ambient light, allowing",
+      "Sleep mode creates the well suited sleep sanctuary"
+    ],
+    "cons": [
+      "Coverage claims assume ideal conditions, not always real rooms",
+      "Tank needs regular emptying unless drained continuously"
+    ],
+    "bestFor": "Buyers who want a capable pick without paying for headroom you won't use"
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-dehumidifiers","title":"Best Dehumidifiers"},{"href":"/guide/best-dehumidifiers-for-basements","title":"Best Dehumidifiers for Basements"},{"href":"/guide/best-portable-air-conditioners","title":"Best Portable Air Conditioners"}];
+export const readTime = "11 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-dehumidifiers",
+    "title": "Best Dehumidifiers"
+  },
+  {
+    "href": "/guide/best-dehumidifiers-for-basements",
+    "title": "Best Dehumidifiers for Basements"
+  },
+  {
+    "href": "/guide/best-portable-air-conditioners",
+    "title": "Best Portable Air Conditioners"
+  }
+];
+
+export const breadcrumbLabel = "Best 35-Pint Dehumidifiers";

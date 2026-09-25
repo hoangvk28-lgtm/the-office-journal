@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-chair-mats-under-30";
 
-export const guideTitle = "The Best Chair Mats Under $30 Worth Considering";
+export const guideTitle = "The Best Chair Mats Under $30: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51aIF9KY80L._SL500_.jpg";
 

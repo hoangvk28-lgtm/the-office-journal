@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-ring-lights-under-20";
 
-export const guideTitle = "The Best Ring Lights Under $20 Worth Considering";
+export const guideTitle = "The Best Ring Lights Under $20: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/411b-RrcpqL._SL500_.jpg";
 

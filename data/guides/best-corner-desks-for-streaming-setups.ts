@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-corner-desks-for-streaming-setups";
 
-export const guideTitle = "The Best Corner Desks for Streaming Setups Worth Considering";
+export const guideTitle = "The Best Corner Desks for Streaming Setups: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51jAHaVcRbL._SL500_.jpg";
 

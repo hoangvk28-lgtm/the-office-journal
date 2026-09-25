@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-cord-organizers-under-15";
 
-export const guideTitle = "The Best Cord Organizers Under $15 Worth Considering";
+export const guideTitle = "The Best Cord Organizers Under $15: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51BfF3jL-wL._SL500_.jpg";
 

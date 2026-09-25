@@ -50,7 +50,7 @@ export const faq = [
 
 export const guideSlug = "best-drafting-chairs-under-300";
 
-export const guideTitle = "The Best Drafting Chairs Under $300 Worth Considering";
+export const guideTitle = "The Best Drafting Chairs Under $300: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31uA1B1K8HL._SL500_.jpg";
 

@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-kvm-switches-under-200";
 
-export const guideTitle = "The Best KVM Switches Under $200 Worth Considering";
+export const guideTitle = "The Best KVM Switches Under $200: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31xvvUntPnL._SL500_.jpg";
 

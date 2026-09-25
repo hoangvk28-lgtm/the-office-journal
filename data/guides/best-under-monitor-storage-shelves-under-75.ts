@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-under-monitor-storage-shelves-under-75";
 
-export const guideTitle = "The Best Under-Monitor Storage Shelves Under $75 Worth Considering";
+export const guideTitle = "The Best Under-Monitor Storage Shelves Under $75: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51mnGO2zgkL._SL500_.jpg";
 

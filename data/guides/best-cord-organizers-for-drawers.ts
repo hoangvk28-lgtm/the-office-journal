@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-cord-organizers-for-drawers";
 
-export const guideTitle = "The Best Cord Organizers for Drawers Worth Considering";
+export const guideTitle = "The Best Cord Organizers for Drawers: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51qmhjdSSDL._SL500_.jpg";
 

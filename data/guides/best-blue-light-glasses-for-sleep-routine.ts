@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-blue-light-glasses-for-sleep-routine";
 
-export const guideTitle = "The Best Blue Light Glasses for Sleep Routine Worth Considering";
+export const guideTitle = "The Best Blue Light Glasses for Sleep Routine: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41JBr45IrxL._SL500_.jpg";
 

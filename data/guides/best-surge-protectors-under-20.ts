@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-surge-protectors-under-20";
 
-export const guideTitle = "The Best Surge Protectors Under $20 Worth Considering";
+export const guideTitle = "The Best Surge Protectors Under $20: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/413IXwsIORL._SL500_.jpg";
 

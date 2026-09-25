@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-monitor-shelves-with-keyboard-storage";
 
-export const guideTitle = "The Best Monitor Shelves with Keyboard Storage Worth Considering";
+export const guideTitle = "The Best Monitor Shelves with Keyboard Storage: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51s4NAoL3xL._SL500_.jpg";
 

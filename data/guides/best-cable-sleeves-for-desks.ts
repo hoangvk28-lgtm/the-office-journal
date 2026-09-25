@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-cable-sleeves-for-desks";
 
-export const guideTitle = "The Best Cable Sleeves for Desks Worth Considering";
+export const guideTitle = "The Best Cable Sleeves for Desks: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/410JGTNkjqL._SL500_.jpg";
 

@@ -50,7 +50,7 @@ export const faq = [
 
 export const guideSlug = "best-usb-c-ethernet-adapters-under-100";
 
-export const guideTitle = "The Best USB-C Ethernet Adapters Under $100 Worth Considering";
+export const guideTitle = "The Best USB-C Ethernet Adapters Under $100: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41dlards86L._SL500_.jpg";
 

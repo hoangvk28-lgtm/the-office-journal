@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-gaming-monitors-with-built-in-speakers";
 
-export const guideTitle = "The Best Gaming Monitors With Built-In Speakers Worth Considering";
+export const guideTitle = "The Best Gaming Monitors With Built-In Speakers: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41curYKjAHL._SL500_.jpg";
 

@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-gaming-monitors-under-90";
 
-export const guideTitle = "The Best Gaming Monitors Under $90 Worth Considering";
+export const guideTitle = "The Best Gaming Monitors Under $90: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41yYgMFvl5L._SL500_.jpg";
 

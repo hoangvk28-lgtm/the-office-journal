@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-gaming-monitors-for-esports";
 
-export const guideTitle = "The Best Gaming Monitors for Esports Worth Considering";
+export const guideTitle = "The Best Gaming Monitors for Esports: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41Ht9xuFS7L._SL500_.jpg";
 

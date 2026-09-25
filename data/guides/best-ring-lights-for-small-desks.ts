@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-ring-lights-for-small-desks";
 
-export const guideTitle = "The Best Ring Lights for Small Desks Worth Considering";
+export const guideTitle = "The Best Ring Lights for Small Desks: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31mYDWWDniL._SL500_.jpg";
 

@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-ring-lights-with-remote-control";
 
-export const guideTitle = "The Best Ring Lights with Remote Control Worth Considering";
+export const guideTitle = "The Best Ring Lights with Remote Control: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41ljr+5IVXL._SL500_.jpg";
 

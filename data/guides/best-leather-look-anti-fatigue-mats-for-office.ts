@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-leather-look-anti-fatigue-mats-for-office";
 
-export const guideTitle = "The Best Leather-Look Anti-Fatigue Mats for Office Worth Considering";
+export const guideTitle = "The Best Leather-Look Anti-Fatigue Mats for Office: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/517mM+eEdTL._SL500_.jpg";
 

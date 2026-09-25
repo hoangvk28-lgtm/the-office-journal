@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-kvm-switches-for-mac-and-pc";
 
-export const guideTitle = "The Best KVM Switches for Mac and PC Worth Considering";
+export const guideTitle = "The Best KVM Switches for Mac and PC: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41K5Wvne7oL._SL500_.jpg";
 

@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-thunderbolt-5-dock-140w";
 
-export const guideTitle = "The Best Thunderbolt 5 Docks with 140W Charging Worth Considering";
+export const guideTitle = "The Best Thunderbolt 5 Docks with 140W Charging: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31m9ybhUp+L._SL500_.jpg";
 

@@ -42,7 +42,7 @@ export const faq = [
 
 export const guideSlug = "best-usb-c-ethernet-adapters-with-power-delivery";
 
-export const guideTitle = "The Best USB-C Ethernet Adapters With Power Delivery Worth Considering";
+export const guideTitle = "The Best USB-C Ethernet Adapters With Power Delivery: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31FhV4XIAyL._SL500_.jpg";
 

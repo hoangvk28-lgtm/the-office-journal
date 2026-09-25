@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-27-inch-4k-monitors-for-gaming";
 
-export const guideTitle = "The Best 27-Inch 4K Monitors for Gaming Worth Considering";
+export const guideTitle = "The Best 27-Inch 4K Monitors for Gaming: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41+pt9WOb2L._SL500_.jpg";
 

@@ -1,218 +1,7 @@
-export const guideSlug = "best-portable-air-conditioners-under-300";
-export const guideTitle = "4 Best Portable Air Conditioners Under $300 in 2026";
-export const metaTitle = "Best Portable Air Conditioners Under $300";
-export const metaDescription = "We compared best portable air conditioners under $300 by verified current price and real capability, not just the price ceiling alone.";
-export const mainKeyword = "portable air conditioners under $300";
-export const introParagraphs = [
-  "Best Portable Air Conditioners Under $300 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
-  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
-];
-export const lastUpdated = "2026-08-22";
-export const readTime = "8 min";
-export const heroImage = "https://m.media-amazon.com/images/I/31eTGko28fL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-portable-air-conditioners-under-300-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Garvee 8000 BTU (5000 BTU SACC) AC Unit",
-    price: "See price on Amazon",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31eTGko28fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H878HWJ9?tag=theofficejournal-20",
-    description: "Garvee 8000 BTU (5000 BTU SACC) AC Unit is the top pick in this comparison. Fast & efficient spot cooling for rooms up to 350 sq. 3-in-1 climate control: cooling, dehumidifier & fan: this portable ac offers adjustable cooling (61°f, 88°f), dehumidification (removes up to 45 pints/day), and a 2-speed fan.\n\nCompared with 10,000 BTU Portable Air Conditioners, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: smart controls & energy-saving features: the intuitive LED panel and full-function remote make it easy to adjust settings from across the room.\n\nChoose this if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Fast & efficient spot cooling for rooms up to 350 sq", "3-in-1 climate control: cooling", "Smart controls & energy-saving features: the intuitive LED panel"],
-    pros: ["Fast & efficient spot cooling for rooms up to 350 sq", "3-in-1 climate control: cooling, dehumidifier & fan: this portable ac offers", "Smart controls & energy-saving features: the intuitive LED panel and full-function"],
-    cons: ["Verify exact fit and specs against your device before buying", "Compatibility varies by exact model, double-check before ordering"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-portable-air-conditioners-under-300-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "10,000 BTU Portable Air Conditioners",
-    price: "$249.96",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31j-NMIDBIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BTHGM7NM?tag=theofficejournal-20",
-    description: "10,000 BTU Portable Air Conditioners is a strong alternative worth comparing directly against the top pick. The 10,000 btu portable air conditioners will provide powerful cooling air for rooms up to 450 sq. This portable ac acts as a fan, air cooler and dehumidifier.\n\nIt sits close to Garvee 8000 BTU (5000 BTU SACC) AC Unit on paper, so the real decision comes down to a specific detail rather than a big capability gap: our ac unit portable feature an easily-read deluxe pcb display and a big soft-touch control panel, which could be effortlessly switched the power, mode, fan speed, temperature, timer and lock setting.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["The 10,000 btu portable air conditioners will provide powerful", "This portable ac acts as a fan, air cooler and dehumidifier", "Our ac unit portable feature an easily-read deluxe pcb display"],
-    pros: ["10,000 btu portable air conditioners will provide powerful cooling air", "Portable ac acts as a fan, air cooler and dehumidifier", "Ac unit portable feature an easily-read deluxe pcb display and"],
-    cons: ["Confirm this stays in stock at the price checked here", "Setup or mounting hardware may be sold separately"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-portable-air-conditioners-under-300-3",
-    rank: 3,
-    badge: "Best Value",
-    name: "HOMCOM 8000 BTU Portable Air Conditioner for Rooms up to 344 Sq.Ft. Black",
-    price: "$210.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41H2RjV14PL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09T8Z8NVD?tag=theofficejournal-20",
-    description: "HOMCOM 8000 BTU Portable Air Conditioner for Rooms up to 344 Sq.Ft. Black is the most affordable pick here that still clears the capability floor for this price tier. 8,000 btu cooling: featuring a 8,000 btu cooling capacity, this portable ac unit is a good choice for cooling rooms up to 344 sq. Easy to move and use: you can move this portable air conditioner from room to room using its side handle and four wheels.\n\nCompared with Garvee 8000 BTU (5000 BTU SACC) AC Unit, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: sleep mode (52 db) combined with a 24-hour off timer and children lock helps reduce power consumption overnight and when you don't need, you can enjoy peaceful night while saving on energy bills.\n\nThis one is the right call if you want to stay at the lower end of this price tier without dropping below the real capability floor. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["8,000 btu cooling: featuring a 8,000 btu cooling capacity", "Easy to move and use: you can move this portable air conditioner", "Sleep mode (52 db) combined with a 24-hour off timer and children"],
-    pros: ["8,000 btu cooling: featuring a 8,000 btu cooling capacity, this portable", "Easy to move and use: you can move this portable air", "Sleep mode (52 db) combined with a 24-hour off timer"],
-    cons: ["Manufacturer claims here aren't independently lab-verified", "Budget tier means fewer premium finish options"],
-    bestFor: "buyers who want to stay at the lower end of this price tier without dropping below the real capability floor",
-  },
-  {
-    id: "best-portable-air-conditioners-under-300-4",
-    rank: 4,
-    badge: "Best Premium Pick",
-    name: "Tehanld 12000 BTU Portable Air Conditioner",
-    price: "$289.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31fzkmQBVJL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GR4LPW14?tag=theofficejournal-20",
-    description: "Tehanld 12000 BTU Portable Air Conditioner is the priciest pick in this lineup. Delivering powerful 12,000 btu (ashrae) / 8,000 btu (sacc) cooling, this portable air conditioner quickly cools rooms up to 600 sq.ft. More than just a portable ac, this unit combines cooling, dehumidifying, fan, and sleep functions in one compact design.\n\nCompared with Garvee 8000 BTU (5000 BTU SACC) AC Unit, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: this air conditioner is designed with a high 8.1 ceer rating for efficient cooling and lower energy use.\n\nChoose this if you are willing to spend the most in this tier for the fuller feature set that comes with it. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Delivering powerful 12,000 btu (ashrae) / 8", "More than just a portable ac, this unit combines cooling", "This air conditioner is designed with a high 8.1 ceer rating for"],
-    pros: ["Delivering powerful 12,000 btu (ashrae) / 8,000 btu (sacc) cooling, this", "More than just a portable ac, this unit combines cooling, dehumidifying,", "Air conditioner is designed with a high 8.1 ceer rating"],
-    cons: ["Compatibility varies by exact model, double-check before ordering", "Verify exact fit and specs against your device before buying"],
-    bestFor: "buyers who are willing to spend the most in this tier for the fuller feature set that comes with it",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Live price gate",
-    "description": "every pick must be new, in stock and up to $300 on the update date; expired sale pricing removes it from the qualifying set."
-  },
-  {
-    "title": "Budget-ladder context",
-    "description": "show the previous tier, entry mainstream tier and next-higher tier so readers see the real capability step instead of duplicate lists."
-  },
-  {
-    "title": "Capability-per-dollar score",
-    "description": "normalize DOE SACC cooling capacity, single vs dual hose/inverter and required accessory/setup cost against price."
-  },
-  {
-    "title": "Evidence split",
-    "description": "label efficiency/power and noise as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
-  },
-  {
-    "title": "Ownership/step-up verdict",
-    "description": "judge window/drain installation, warranty, software/parts/support and whether the reader should spend less or move above $300 for a meaningful upgrade."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Priority Up to $300",
-    "table": {
-      "headers": [
-        "If you mainly need",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "The best all-around option in this comparison",
-          "Garvee 8000 BTU (5000 BTU SACC) AC Unit"
-        ],
-        [
-          "A strong alternative with a different tradeoff",
-          "HOMCOM 8000 BTU Portable Air Conditioner for Rooms up to 344 Sq.Ft. Black"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget Within This Tier",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "HOMCOM 8000 BTU Portable Air Conditioner for Rooms up to 344 Sq.Ft. Black"
-        ],
-        [
-          "Best overall value",
-          "Garvee 8000 BTU (5000 BTU SACC) AC Unit"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Garvee 8000 BTU vs Tehanld 12000 BTU",
-    "cards": [
-      {
-        "label": "Garvee 8000 BTU (5000 BTU SACC) AC Unit",
-        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
-      },
-      {
-        "label": "Tehanld 12000 BTU Portable Air Conditioner",
-        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
-      }
-    ],
-    "note": "Most buyers should default to Garvee 8000 BTU (5000 BTU SACC) AC Unit unless your specific use case points toward Tehanld 12000 BTU Portable Air Conditioner's particular tradeoffs."
-  },
-  {
-    "subheading": "By Secondary Feature Priority",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Matches this guide's core use case most closely",
-          "Garvee 8000 BTU (5000 BTU SACC) AC Unit"
-        ],
-        [
-          "A close secondary option worth comparing",
-          "HOMCOM 8000 BTU Portable Air Conditioner for Rooms up to 344 Sq.Ft. Black"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For This Guide's Core Use Case Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Garvee 8000 BTU (5000 BTU SACC) AC Unit is worth checking first against that specific requirement before comparing the rest of this lineup."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need the fuller feature set found on Tehanld 12000 BTU Portable Air Conditioner, where the extra capability has a real, verifiable use case for you."
-      },
-      {
-        "label": "Save if",
-        "text": "Your requirements are covered by HOMCOM 8000 BTU Portable Air Conditioner for Rooms up to 344 Sq.Ft. Black without needing the higher-tier features."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
@@ -244,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Does the cheapest option in a price tier always mean lower quality?",
-    "a": "Not necessarily. Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
+    "a": "Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
   },
   {
     "q": "Is it worth stepping up to the next price tier?",
@@ -260,4 +49,274 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-portable-air-conditioners-under-400","title":"Best Portable Air Conditioners Under $400"},{"href":"/guide/best-portable-air-conditioners-under-500","title":"Best Portable Air Conditioners Under $500"},{"href":"/guide/best-portable-air-conditioners-under-700","title":"Best Portable Air Conditioners Under $700"}];
+export const guideSlug = "best-portable-air-conditioners-under-300";
+
+export const guideTitle = "The Best Portable Air Conditioners Under $300: Picks and Trade-offs";
+
+export const heroImage = "https://m.media-amazon.com/images/I/31eTGko28fL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Priority Up to $300",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "The best all-around option in this comparison",
+          "Garvee 8000 BTU (5000 BTU SACC) AC Unit"
+        ],
+        [
+          "A strong alternative with a different tradeoff",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "By Budget Within This Tier",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          ""
+        ],
+        [
+          "",
+          "Garvee 8000 BTU (5000 BTU SACC) AC Unit"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "Garvee 8000 BTU vs Tehanld 12000 BTU",
+    "cards": [
+      {
+        "label": "Garvee 8000 BTU (5000 BTU SACC) AC Unit",
+        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
+      },
+      {
+        "label": "Tehanld 12000 BTU Portable Air Conditioner",
+        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
+      }
+    ],
+    "note": "Most buyers should default to Garvee 8000 BTU (5000 BTU SACC) AC Unit unless your specific use case points toward Tehanld 12000 BTU Portable Air Conditioner's particular tradeoffs."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Matches this guide's core use case most closely",
+          "Garvee 8000 BTU (5000 BTU SACC) AC Unit"
+        ],
+        [
+          "A close secondary option worth comparing",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For This Guide's Core Use Case Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
+      },
+      {
+        "label": "",
+        "text": "Garvee 8000 BTU (5000 BTU SACC) AC Unit is worth checking first against that specific requirement before comparing the rest of this lineup."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need the fuller feature set found on Tehanld 12000 BTU Portable Air Conditioner, where the extra capability has a real, verifiable use case for you."
+      },
+      {
+        "label": "",
+        "text": "Black without needing the higher-tier features."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Every pick must be new, in stock and up to $300 on the update date; expired sale pricing removes it from the qualifying set."
+  },
+  {
+    "title": "",
+    "description": "Show the previous tier, entry mainstream tier and next-higher tier so readers see the real capability step instead of duplicate lists."
+  },
+  {
+    "title": "",
+    "description": "Normalize DOE SACC cooling capacity, single vs dual hose/inverter and required accessory/setup cost against price."
+  },
+  {
+    "title": "",
+    "description": "Label efficiency/power and noise as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+  },
+  {
+    "title": "",
+    "description": "Judge window/drain installation, warranty, software/parts/support and whether the reader should spend less or move above $300 for a meaningful upgrade."
+  }
+];
+
+export const introParagraphs = [
+  "Best Portable Air Conditioners Under $300 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
+  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
+];
+
+export const lastUpdated = "2026-08-22";
+
+export const mainKeyword = "portable air conditioners under $300";
+
+export const metaDescription = "A practical comparison of 4 portable air conditioners under $300, focused on compatibility, build, features and price, and the trade-offs between them.";
+
+export const metaTitle = "Best Portable Air Conditioners Under $300 (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-portable-air-conditioners-under-300-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Garvee 8000 BTU (5000 BTU SACC) AC Unit",
+    "price": "See price on Amazon",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31eTGko28fL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0H878HWJ9?tag=theofficejournal-20",
+    "description": "Garvee 8000 BTU (5000 BTU SACC) AC Unit is the top pick in this comparison. Fast & efficient spot cooling for rooms up to 350 sq. 3-in-1 climate control: cooling, dehumidifier & fan: this portable ac offers adjustable cooling (61°f, 88°f), dehumidification (removes up to 45 pints/day), and a 2-speed fan.\n\nCompared with 10,000 BTU Portable Air Conditioners, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: smart controls & energy-saving features: the intuitive LED panel and full-function remote make it easy to adjust settings from across the room.\n\nChoose this if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Fast & efficient spot cooling for rooms up to 350 sq",
+      "3-in-1 climate control: cooling",
+      "Smart controls & energy-saving features: the intuitive LED panel"
+    ],
+    "pros": [
+      "Fast & efficient spot cooling for rooms up to 350 sq",
+      "3-in-1 climate control: cooling, dehumidifier & fan: this portable ac offers",
+      "Smart controls & energy-saving features: the intuitive LED panel and full-function"
+    ],
+    "cons": [
+      "Verify exact fit and specs against your device before buying",
+      "Compatibility varies by exact model, double-check before ordering"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-portable-air-conditioners-under-300-2",
+    "rank": 2,
+    "badge": "Also Worth Considering",
+    "name": "10,000 BTU Portable Air Conditioners",
+    "price": "$249.96",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31j-NMIDBIL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BTHGM7NM?tag=theofficejournal-20",
+    "description": "10,000 BTU Portable Air Conditioners is a strong alternative worth comparing directly against the top pick. The 10,000 btu portable air conditioners will provide powerful cooling air for rooms up to 450 sq. This portable ac acts as a fan, air cooler and dehumidifier.\n\nIt sits close to Garvee 8000 BTU (5000 BTU SACC) AC Unit on paper, so the real decision comes down to a specific detail rather than a big capability gap: our ac unit portable feature an easily-read deluxe pcb display and a big soft-touch control panel, which could be effortlessly switched the power, mode, fan speed, temperature, timer and lock setting.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "The 10,000 btu portable air conditioners will provide powerful",
+      "This portable ac acts as a fan, air cooler and dehumidifier",
+      "Our ac unit portable feature an easily-read deluxe pcb display"
+    ],
+    "pros": [
+      "10,000 btu portable air conditioners will provide powerful cooling air",
+      "Portable ac acts as a fan, air cooler and dehumidifier",
+      "Ac unit portable feature an easily-read deluxe pcb display and"
+    ],
+    "cons": [
+      "Confirm this stays in stock at the price checked here",
+      "Setup or mounting hardware may be sold separately"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-portable-air-conditioners-under-300-3",
+    "rank": 3,
+    "badge": "Best Value",
+    "name": "HOMCOM 8000 BTU Portable Air Conditioner for Rooms up to 344 Sq.Ft. Black",
+    "price": "$210.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41H2RjV14PL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09T8Z8NVD?tag=theofficejournal-20",
+    "description": "Black is the most affordable pick here that still clears the capability floor for this price tier. 8,000 btu cooling: featuring a 8,000 btu cooling capacity, this portable ac unit is a good choice for cooling rooms up to 344 sq. Easy to move and use: you can move this portable air conditioner from room to room using its side handle and four wheels.\n\nCompared with Garvee 8000 BTU (5000 BTU SACC) AC Unit, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: sleep mode (52 db) combined with a 24-hour off timer and children lock helps reduce power consumption overnight and when you don't need, you can enjoy peaceful night while saving on energy bills.\n\nThis one is the right call if you want to stay at the lower end of this price tier without dropping below the real capability floor. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "8,000 btu cooling: featuring a 8,000 btu cooling capacity",
+      "Easy to move and use: you can move this portable air conditioner",
+      "Sleep mode (52 db) combined with a 24-hour off timer and children"
+    ],
+    "pros": [
+      "8,000 btu cooling: featuring a 8,000 btu cooling capacity, this portable",
+      "Easy to move and use: you can move this portable air",
+      "Sleep mode (52 db) combined with a 24-hour off timer"
+    ],
+    "cons": [
+      "Manufacturer claims here aren't independently lab-verified",
+      "Budget tier means fewer premium finish options"
+    ],
+    "bestFor": "Buyers who want to stay at the lower end of this price tier without dropping below the real capability floor"
+  },
+  {
+    "id": "best-portable-air-conditioners-under-300-4",
+    "rank": 4,
+    "badge": "Best Premium Pick",
+    "name": "Tehanld 12000 BTU Portable Air Conditioner",
+    "price": "$289.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31fzkmQBVJL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR4LPW14?tag=theofficejournal-20",
+    "description": "Tehanld 12000 BTU Portable Air Conditioner is the priciest pick in this lineup. More than just a portable ac, this unit combines cooling, dehumidifying, fan, and sleep functions in one compact design.\n\n1 ceer rating for efficient cooling and lower energy use.\n\nChoose this if you are willing to spend the most in this tier for the fuller feature set that comes with it. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Delivering powerful 12,000 btu (ashrae) / 8",
+      "More than just a portable ac, this unit combines cooling",
+      "This air conditioner is designed with a high 8.1 ceer rating for"
+    ],
+    "pros": [
+      "Delivering powerful 12,000 btu (ashrae) / 8,000 btu (sacc) cooling, this",
+      "More than just a portable ac, this unit combines cooling, dehumidifying,",
+      "Air conditioner is designed with a high 8.1 ceer rating"
+    ],
+    "cons": [
+      "Compatibility varies by exact model, double-check before ordering",
+      "Verify exact fit and specs against your device before buying"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this tier for the fuller feature set that comes with it"
+  }
+];
+
+export const readTime = "8 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-portable-air-conditioners-under-400",
+    "title": "Best Portable Air Conditioners Under $400"
+  },
+  {
+    "href": "/guide/best-portable-air-conditioners-under-500",
+    "title": "Best Portable Air Conditioners Under $500"
+  },
+  {
+    "href": "/guide/best-portable-air-conditioners-under-700",
+    "title": "Best Portable Air Conditioners Under $700"
+  }
+];
+
+export const breadcrumbLabel = "Best Portable Air Conditioners Under $300";

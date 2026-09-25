@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-task-chairs-with-waterfall-seat";
 
-export const guideTitle = "The Best Task Chairs With Waterfall Seat Worth Considering";
+export const guideTitle = "The Best Task Chairs With Waterfall Seat: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41LKIzzPi8L._SL500_.jpg";
 

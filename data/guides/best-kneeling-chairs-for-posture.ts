@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-kneeling-chairs-for-posture";
 
-export const guideTitle = "The Best Kneeling Chairs for Posture Worth Considering";
+export const guideTitle = "The Best Kneeling Chairs for Posture: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41SJt0rTKgL._SL500_.jpg";
 

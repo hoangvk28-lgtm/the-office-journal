@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-task-chairs-under-500";
 
-export const guideTitle = "The Best Task Chairs Under $500 Worth Considering";
+export const guideTitle = "The Best Task Chairs Under $500: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/411wlpMNg+L._SL500_.jpg";
 

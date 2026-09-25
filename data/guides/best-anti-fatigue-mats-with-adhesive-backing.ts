@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-anti-fatigue-mats-with-adhesive-backing";
 
-export const guideTitle = "The Best Anti-Fatigue Mats with Adhesive Backing Worth Considering";
+export const guideTitle = "The Best Anti-Fatigue Mats with Adhesive Backing: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41M2oCnoCKL._SL500_.jpg";
 

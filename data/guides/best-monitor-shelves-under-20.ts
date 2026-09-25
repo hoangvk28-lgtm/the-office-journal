@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-monitor-shelves-under-20";
 
-export const guideTitle = "The Best Monitor Shelves Under $20 Worth Considering";
+export const guideTitle = "The Best Monitor Shelves Under $20: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51tWuVEuo0L._SL500_.jpg";
 

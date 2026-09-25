@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-cpu-stands-for-gaming-pcs";
 
-export const guideTitle = "The Best CPU Stands for Gaming PCs Worth Considering";
+export const guideTitle = "The Best CPU Stands for Gaming PCs: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31O90iJpE+L._SL500_.jpg";
 

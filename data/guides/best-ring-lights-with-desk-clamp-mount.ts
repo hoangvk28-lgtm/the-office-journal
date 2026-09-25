@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-ring-lights-with-desk-clamp-mount";
 
-export const guideTitle = "The Best Ring Lights with Desk Clamp/Mount Worth Considering";
+export const guideTitle = "The Best Ring Lights with Desk Clamp/Mount: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41Gvf-8IhNL._SL500_.jpg";
 

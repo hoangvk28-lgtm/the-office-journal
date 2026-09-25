@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-usb4-mini-dock-with-dual-hdmi";
 
-export const guideTitle = "The Best USB4 Mini Docks with Dual HDMI Worth Considering";
+export const guideTitle = "The Best USB4 Mini Docks with Dual HDMI: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31L+W43WNgL._SL500_.jpg";
 

@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-task-chairs-with-lumbar-support";
 
-export const guideTitle = "The Best Task Chairs With Lumbar Support Worth Considering";
+export const guideTitle = "The Best Task Chairs With Lumbar Support: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51UEOQWfIEL._SL500_.jpg";
 

@@ -42,7 +42,7 @@ export const faq = [
 
 export const guideSlug = "best-usb-c-ethernet-adapters-with-100w-charging";
 
-export const guideTitle = "The Best USB-C Ethernet Adapters With 100W Charging Worth Considering";
+export const guideTitle = "The Best USB-C Ethernet Adapters With 100W Charging: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41gsxkEO0sL._SL500_.jpg";
 

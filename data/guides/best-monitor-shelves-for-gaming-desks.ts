@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-monitor-shelves-for-gaming-desks";
 
-export const guideTitle = "The Best Monitor Shelves for Gaming Desks Worth Considering";
+export const guideTitle = "The Best Monitor Shelves for Gaming Desks: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/414y-gW406L._SL500_.jpg";
 

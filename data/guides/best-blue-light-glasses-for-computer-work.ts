@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-blue-light-glasses-for-computer-work";
 
-export const guideTitle = "The Best Blue Light Glasses for Computer Work Worth Considering";
+export const guideTitle = "The Best Blue Light Glasses for Computer Work: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41HmFZOSoML._SL500_.jpg";
 

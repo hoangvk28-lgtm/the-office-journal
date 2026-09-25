@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-cord-organizer-boxes-for-desks";
 
-export const guideTitle = "The Best Cord Organizer Boxes for Desks Worth Considering";
+export const guideTitle = "The Best Cord Organizer Boxes for Desks: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/514hrhDbu4L._SL500_.jpg";
 

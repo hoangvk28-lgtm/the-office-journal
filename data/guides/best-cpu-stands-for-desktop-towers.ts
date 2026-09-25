@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-cpu-stands-for-desktop-towers";
 
-export const guideTitle = "The Best CPU Stands for Desktop Towers Worth Considering";
+export const guideTitle = "The Best CPU Stands for Desktop Towers: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/3121PRR4uFL._SL500_.jpg";
 

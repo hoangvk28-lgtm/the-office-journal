@@ -1,290 +1,7 @@
-export const guideSlug = "best-touchscreen-meeting-room-schedulers";
-export const guideTitle = "8 Best Touchscreen Meeting Room Schedulers in 2026";
-export const metaTitle = "Best Touchscreen Meeting Room Schedulers";
-export const metaDescription = "We compared touchscreen meeting room scheduler models by verified specs and real-world tradeoffs, not marketing claims alone.";
-export const mainKeyword = "touchscreen meeting room scheduler";
-export const introParagraphs = [
-  "Best Touchscreen Meeting Room Schedulers carry real hidden gaps, exactly why touchscreen meeting room scheduler, few listings admit limits.",
-  "touchscreen meeting room scheduler picks split on verified cable routing, since battery claims assume ideal use."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41Zq8vlTaZL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-touchscreen-meeting-room-schedulers-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black",
-    price: "$729.46",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41Zq8vlTaZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GLHR4WDG?tag=theofficejournal-20",
-    description: "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black is our overall pick in this lineup.\n\nSet next to Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nIt's worth picking this one if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A panel that lists 'PoE support' still needs a PoE-capable switch or injector to actually deliver power over the same cable, so confirm your network hardware supports it before assuming a single cable install.",
-    specs: ["Maximum video resolution", "Graphics modes", "10Base-t"],
-    pros: ["Maximum video resolution", "Graphics modes", "10Base-t"],
-    cons: ["Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed", "Not every panel supports every calendar platform out of the box"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-touchscreen-meeting-room-schedulers-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta",
-    price: "$749.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31rAjinFZNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09WXVWHZ3?tag=theofficejournal-20",
-    description: "Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta is a strong alternative worth comparing directly against the top pick. Pro, an e-paper conference room booking display, seamlessly syncs with your company calendar (workspace, exchange, office 365, and icalendar). No need for complicated installations!\n\nYealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Calendar integration claims vary in depth between platforms, some panels sync read-only availability while others support full one-tap booking and release, so check which level of integration your specific calendar platform actually gets.",
-    specs: ["Seamless meeting room management", "Wireless convenience", "Extended battery life"],
-    pros: ["Seamless meeting room management", "Wireless convenience", "Extended battery life", "Quick and easy to setup"],
-    cons: ["Not every panel supports every calendar platform out of the box", "Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-touchscreen-meeting-room-schedulers-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring",
-    price: "$349.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31OvdMQtYzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRV6DHSZ?tag=theofficejournal-20",
-    description: "PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring is a strong alternative worth comparing directly against the top pick. This 10-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance. The pre-installed dash app syncs with all major business calendar platforms including google workspace, microsoft outlook, calendly, teamup, asana, taskworld, and apple icloud.\n\nSet next to Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A panel that lists 'PoE support' still needs a PoE-capable switch or injector to actually deliver power over the same cable, so confirm your network hardware supports it before assuming a single cable install.",
-    specs: ["10-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance", "Pre-installed dash app syncs with all major business calendar platforms including google workspace", "Color-changing LED status ring provides instant visual confirmation: green means available"],
-    pros: ["10-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance", "Pre-installed dash app syncs with all major business calendar platforms including google workspace", "Color-changing LED status ring provides instant visual confirmation: green means available", "How do I install"],
-    cons: ["Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed", "Not every panel supports every calendar platform out of the box"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-touchscreen-meeting-room-schedulers-4",
-    rank: 4,
-    badge: "Best Premium Pick",
-    name: "10.1 inch touch panel with room accs",
-    price: "$2,290.12",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41EmjTKxuaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BFJ836X9?tag=theofficejournal-20",
-    description: "10.1 inch touch panel with room accs is the premium option here, positioned above the rest on price. 10.1 Inch touch panel with room access.\n\nSet next to Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis fits best if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Calendar integration claims vary in depth between platforms, some panels sync read-only availability while others support full one-tap booking and release, so check which level of integration your specific calendar platform actually gets.",
-    specs: ["10.1 Inch touch panel with room access"],
-    pros: ["10.1 Inch touch panel with room access", "Straightforward setup based on the listed specs", "Covers the core feature set for this category"],
-    cons: ["Not every panel supports every calendar platform out of the box", "Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-touchscreen-meeting-room-schedulers-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "PoE Texas 8\" Conference Room Scheduler with Color Changing LED Status",
-    price: "$279.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31O7erkrvnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CX1WG8N7?tag=theofficejournal-20",
-    description: "PoE Texas 8\" Conference Room Scheduler with Color Changing LED Status is a strong alternative worth comparing directly against the top pick. This 8-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance. The pre-installed dash app syncs with all major business calendar platforms including zoom rooms, microsoft teams, outlook 365, google workspace, robin, skedda, and yarooms.\n\nAgainst Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A panel that lists 'PoE support' still needs a PoE-capable switch or injector to actually deliver power over the same cable, so confirm your network hardware supports it before assuming a single cable install.",
-    specs: ["8-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance", "Pre-installed dash app syncs with all major business calendar platforms including zoom rooms", "Are there monthly fees"],
-    pros: ["8-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance", "Pre-installed dash app syncs with all major business calendar platforms including zoom rooms", "Are there monthly fees"],
-    cons: ["Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed", "Not every panel supports every calendar platform out of the box"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-touchscreen-meeting-room-schedulers-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "Yealink Roompanel E2 All-in-One Meeting Room Scheduling Panel, 1303172",
-    price: "$766.25",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31DNjTiPoyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZMNM8MS?tag=theofficejournal-20",
-    description: "Yealink Roompanel E2 All-in-One Meeting Room Scheduling Panel, 1303172 is a strong alternative worth comparing directly against the top pick.\n\nAgainst Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Calendar integration claims vary in depth between platforms, some panels sync read-only availability while others support full one-tap booking and release, so check which level of integration your specific calendar platform actually gets.",
-    specs: ["See full specifications on the product listing"],
-    pros: ["Well-reviewed option in this category", "Straightforward setup based on the listed specs", "Covers the core feature set for this category"],
-    cons: ["Not every panel supports every calendar platform out of the box", "Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-touchscreen-meeting-room-schedulers-7",
-    rank: 7,
-    badge: "Great Alternative",
-    name: "PoE Texas 8-Inch Touchscreen PoE Meeting Room Scheduler Tablet",
-    price: "$279.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31SHMuHg0CL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRV6DZ9X?tag=theofficejournal-20",
-    description: "PoE Texas 8-Inch Touchscreen PoE Meeting Room Scheduler Tablet is a strong alternative worth comparing directly against the top pick. This 8-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance. The pre-installed dash app syncs with all major business calendar platforms including google workspace, microsoft outlook, calendly, teamup, asana, taskworld, and apple icloud.\n\nYealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black lands in a similar spot overall, but the deciding factor between the two is what's the difference from the LED model?.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A panel that lists 'PoE support' still needs a PoE-capable switch or injector to actually deliver power over the same cable, so confirm your network hardware supports it before assuming a single cable install.",
-    specs: ["8-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance", "Pre-installed dash app syncs with all major business calendar platforms including google workspace", "How do I install"],
-    pros: ["8-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance", "Pre-installed dash app syncs with all major business calendar platforms including google workspace", "How do I install", "What's the difference from the LED model"],
-    cons: ["Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed", "Not every panel supports every calendar platform out of the box"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-touchscreen-meeting-room-schedulers-8",
-    rank: 8,
-    badge: "Also Worth Considering",
-    name: "Black Box 7\" On-Wall in-Session Room Scheduler",
-    price: "$2,036.05",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41IP8t5+vmL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B06XW3XN1W?tag=theofficejournal-20",
-    description: "Black Box 7\" On-Wall in-Session Room Scheduler is a strong alternative worth comparing directly against the top pick. View current status and availability of the room, including meeting details and room calendar. Make instant reservations, or extend and cancel existing meetings, directly from the touch panel through microsoft office 365, microsoft exchange server, or google apps for work.\n\nSide by side with Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black, the real difference worth noting is options for mounting on any surface, including glass walls or flush with the wall.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Calendar integration claims vary in depth between platforms, some panels sync read-only availability while others support full one-tap booking and release, so check which level of integration your specific calendar platform actually gets.",
-    specs: ["View current status and availability of the room", "Make instant reservations", "Options for mounting on any surface"],
-    pros: ["View current status and availability of the room", "Make instant reservations", "Options for mounting on any surface", "Quick and easy installation and setup"],
-    cons: ["Not every panel supports every calendar platform out of the box", "Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "E-Ink vs LCD Touchscreen Tradeoffs",
-    "description": "E-ink (e-paper) displays sip power, some run over a year on a single charge, and stay readable in bright light, but they refresh slowly and can't support rich touch interactions like a full booking calendar view."
-  },
-  {
-    "title": "Occupancy Check-In Prevents Ghost Bookings",
-    "description": "A room booked on the calendar but never actually used, a 'ghost booking', is one of the most common real complaints about meeting room systems, and it's specifically solved by check-in features: tap-to-confirm, NFC/RFID badge tap, or a motion/occupancy sensor that auto-releases an unclaimed booking after a set number of minutes."
-  },
-  {
-    "title": "Screen Size Should Match Viewing Distance and Room Type",
-    "description": "A small 7 to 8-inch panel mounted right at a door works well for a quick glance at close range, but the same size becomes hard to read from across a large open-plan area or a big conference room entry, where a larger 10-inch-plus display or even a hallway-mounted digital signage screen reads better from a distance."
-  },
-  {
-    "title": "Warranty and Support Terms Differ by Channel",
-    "description": "Support and warranty terms for room-scheduling hardware can differ meaningfully depending on the sales channel, enterprise integrator channels sometimes bundle support into a service contract, while retail listings usually carry a standard manufacturer warranty."
-  },
-  {
-    "title": "Mounting Surface Changes What You Can Actually Buy",
-    "description": "A panel's mounting compatibility is a real, checkable spec that varies more than buyers expect: a glass meeting-room wall typically needs an adhesive or clamp-style mount rather than the screw-in bracket that works fine on drywall, and not every panel ships with the right hardware for every surface."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Room Type",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Small huddle room or single door",
-          "Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta"
-        ],
-        [
-          "Standard conference room",
-          "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black"
-        ],
-        [
-          "Large room or lobby signage",
-          "10.1 inch touch panel with room accs"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta"
-        ],
-        [
-          "Mid-range pick",
-          "PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring"
-        ],
-        [
-          "Higher budget",
-          "10.1 inch touch panel with room accs"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "E-Ink vs LCD Touchscreen",
-    "cards": [
-      {
-        "label": "E-ink or low-power (e.g. Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta)",
-        "text": "Long battery life and bright-light legibility, but slower refresh and simpler interaction."
-      },
-      {
-        "label": "LCD touchscreen (e.g. 10.1 inch touch panel with room accs)",
-        "text": "Instant refresh and full tap-to-book interaction, at the cost of higher power draw."
-      }
-    ],
-    "note": "Match this to whether the panel needs simple status signage or real interactive booking."
-  },
-  {
-    "subheading": "By Calendar Platform",
-    "table": {
-      "headers": [
-        "Your platform",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Microsoft 365 / Outlook / Teams",
-          "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black"
-        ],
-        [
-          "Google Workspace / Calendar",
-          "PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Multi-Room Deployments Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black is worth checking against its specific spec sheet before standardizing across every room in your office."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where 10.1 inch touch panel with room accs justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want a straightforward single-room display without advanced features, where Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta already covers the job at the lowest price here."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
@@ -336,4 +53,394 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-microsoft-meeting-room-schedulers","title":"Best Microsoft Meeting Room Schedulers in 2026"},{"href":"/guide/best-room-schedulers-for-google-workspace","title":"Best Room Schedulers for Google Workspace in 2026"},{"href":"/guide/best-meeting-room-scheduling-devices","title":"Best Meeting Room Scheduling Devices in 2026"},{"href":"/guide/best-conference-room-scheduler-displays","title":"Best Conference Room Scheduler Displays in 2026"}];
+export const guideSlug = "best-touchscreen-meeting-room-schedulers";
+
+export const guideTitle = "The Best Touchscreen Meeting Room Schedulers for Everyday Desk Work";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41Zq8vlTaZL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Small huddle room or single door",
+          "Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta"
+        ],
+        [
+          "",
+          "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black"
+        ],
+        [
+          "Large room or lobby signage",
+          "1 inch touch panel with room accs"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          "Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta"
+        ],
+        [
+          "",
+          "PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring"
+        ],
+        [
+          "",
+          "1 inch touch panel with room accs"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta)",
+        "text": "Long battery life and bright-light legibility, but slower refresh and simpler interaction."
+      },
+      {
+        "label": "1 inch touch panel with room accs)",
+        "text": "Instant refresh and full tap-to-book interaction, at the cost of higher power draw."
+      }
+    ],
+    "note": "Match this to whether the panel needs simple status signage or real interactive booking."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Microsoft 365 / Outlook / Teams",
+          "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black"
+        ],
+        [
+          "",
+          "PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
+      },
+      {
+        "label": "",
+        "text": "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black is worth checking against its specific spec sheet before standardizing across every room in your office."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "1 inch touch panel with room accs justifies the extra cost."
+      },
+      {
+        "label": "",
+        "text": "You want a straightforward single-room display without advanced features, where Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta already covers the job at the lowest price here."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "E-Ink vs LCD Touchscreen Tradeoffs",
+    "description": "E-ink (e-paper) displays sip power, some run over a year on a single charge, and stay readable in bright light, but they refresh slowly and can't support rich touch interactions like a full booking calendar view."
+  },
+  {
+    "title": "Occupancy Check-In Prevents Ghost Bookings",
+    "description": "A room booked on the calendar but never actually used, a 'ghost booking', is one of the most common real complaints about meeting room systems, and it's specifically solved by check-in features: tap-to-confirm, NFC/RFID badge tap, or a motion/occupancy sensor that auto-releases an unclaimed booking after a set number of minutes."
+  },
+  {
+    "title": "Screen Size Should Match Viewing Distance and Room Type",
+    "description": "A small 7 to 8-inch panel mounted right at a door works well for a quick glance at close range, but the same size becomes hard to read from across a large open-plan area or a big conference room entry, where a larger 10-inch-plus display or even a hallway-mounted digital signage screen reads better from a distance."
+  },
+  {
+    "title": "Warranty and Support Terms Differ by Channel",
+    "description": "Support and warranty terms for room-scheduling hardware can differ meaningfully depending on the sales channel, enterprise integrator channels sometimes bundle support into a service contract, while retail listings usually carry a standard manufacturer warranty."
+  },
+  {
+    "title": "Mounting Surface Changes What You Can Actually Buy",
+    "description": "A panel's mounting compatibility is a real, checkable spec that varies more than buyers expect: a glass meeting-room wall typically needs an adhesive or clamp-style mount rather than the screw-in bracket that works fine on drywall, and not every panel ships with the right hardware for every surface."
+  }
+];
+
+export const introParagraphs = [
+  "Best Touchscreen Meeting Room Schedulers carry real hidden gaps, exactly why touchscreen meeting room scheduler, few listings admit limits.",
+  "Touchscreen meeting room scheduler picks split on verified cable routing, since battery claims assume ideal use."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const mainKeyword = "touchscreen meeting room scheduler";
+
+export const metaDescription = "How 8 touchscreen meeting room schedulers compare on compatibility, build, features and price, with clear notes on who each one suits.";
+
+export const metaTitle = "Best Touchscreen Meeting Room Schedulers for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-touchscreen-meeting-room-schedulers-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black",
+    "price": "$729.46",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Zq8vlTaZL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLHR4WDG?tag=theofficejournal-20",
+    "description": "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black is our overall pick in this lineup.\n\nSet next to Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nIt's worth picking this one if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A panel that lists 'PoE support' still needs a PoE-capable switch or injector to actually deliver power over the same cable, so confirm your network hardware supports it before assuming a single cable install.",
+    "specs": [
+      "Maximum video resolution",
+      "Graphics modes",
+      "10Base-t"
+    ],
+    "pros": [
+      "Maximum video resolution",
+      "Graphics modes",
+      "10Base-t"
+    ],
+    "cons": [
+      "Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed",
+      "Not every panel supports every calendar platform out of the box"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-touchscreen-meeting-room-schedulers-2",
+    "rank": 2,
+    "badge": "Also Worth Considering",
+    "name": "Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta",
+    "price": "$749.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31rAjinFZNL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09WXVWHZ3?tag=theofficejournal-20",
+    "description": "Joan 6 Pro Black: Wireless Meeting Room Scheduler: 6 Inch Tablet E Ink Carta is a strong alternative worth comparing directly against the top pick. Pro, an e-paper conference room booking display, seamlessly syncs with your company calendar (workspace, exchange, office 365, and icalendar). No need for complicated installations!\n\nYealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Calendar integration claims vary in depth between platforms, some panels sync read-only availability while others support full one-tap booking and release, so check which level of integration your specific calendar platform actually gets.",
+    "specs": [
+      "Seamless meeting room management",
+      "Wireless convenience",
+      "Extended battery life"
+    ],
+    "pros": [
+      "Seamless meeting room management",
+      "Wireless convenience",
+      "Extended battery life",
+      "Quick and easy to setup"
+    ],
+    "cons": [
+      "Not every panel supports every calendar platform out of the box",
+      "Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-touchscreen-meeting-room-schedulers-3",
+    "rank": 3,
+    "badge": "Solid Alternative",
+    "name": "PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring",
+    "price": "$349.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31OvdMQtYzL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRV6DHSZ?tag=theofficejournal-20",
+    "description": "PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring is a strong alternative worth comparing directly against the top pick. This 10-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance. The pre-installed dash app syncs with all major business calendar platforms including google workspace, microsoft outlook, calendly, teamup, asana, taskworld, and apple icloud.\n\nSet next to Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A panel that lists 'PoE support' still needs a PoE-capable switch or injector to actually deliver power over the same cable, so confirm your network hardware supports it before assuming a single cable install.",
+    "specs": [
+      "10-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance",
+      "Pre-installed dash app syncs with all major business calendar platforms including google workspace",
+      "Color-changing LED status ring provides instant visual confirmation: green means available"
+    ],
+    "pros": [
+      "10-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance",
+      "Pre-installed dash app syncs with all major business calendar platforms including google workspace",
+      "Color-changing LED status ring provides instant visual confirmation: green means available",
+      "How do I install"
+    ],
+    "cons": [
+      "Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed",
+      "Not every panel supports every calendar platform out of the box"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-touchscreen-meeting-room-schedulers-4",
+    "rank": 4,
+    "badge": "Best Premium Pick",
+    "name": "10.1 inch touch panel with room accs",
+    "price": "$2,290.12",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41EmjTKxuaL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFJ836X9?tag=theofficejournal-20",
+    "description": "1 inch touch panel with room accs is the premium option here, positioned above the rest on price. 1 Inch touch panel with room access.\n\nSet next to Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis fits best if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Calendar integration claims vary in depth between platforms, some panels sync read-only availability while others support full one-tap booking and release, so check which level of integration your specific calendar platform actually gets.",
+    "specs": [
+      "10.1 Inch touch panel with room access"
+    ],
+    "pros": [
+      "10.1 Inch touch panel with room access",
+      "Straightforward setup based on the listed specs",
+      "Covers the core feature set for this category"
+    ],
+    "cons": [
+      "Not every panel supports every calendar platform out of the box",
+      "Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it"
+  },
+  {
+    "id": "best-touchscreen-meeting-room-schedulers-5",
+    "rank": 5,
+    "badge": "Runner-Up Pick",
+    "name": "PoE Texas 8\" Conference Room Scheduler with Color Changing LED Status",
+    "price": "$279.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31O7erkrvnL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CX1WG8N7?tag=theofficejournal-20",
+    "description": "PoE Texas 8\" Conference Room Scheduler with Color Changing LED Status is a strong alternative worth comparing directly against the top pick. This 8-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance. The pre-installed dash app syncs with all major business calendar platforms including zoom rooms, microsoft teams, outlook 365, google workspace, robin, skedda, and yarooms.\n\nAgainst Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A panel that lists 'PoE support' still needs a PoE-capable switch or injector to actually deliver power over the same cable, so confirm your network hardware supports it before assuming a single cable install.",
+    "specs": [
+      "8-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance",
+      "Pre-installed dash app syncs with all major business calendar platforms including zoom rooms",
+      "Are there monthly fees"
+    ],
+    "pros": [
+      "8-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance",
+      "Pre-installed dash app syncs with all major business calendar platforms including zoom rooms",
+      "Are there monthly fees"
+    ],
+    "cons": [
+      "Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed",
+      "Not every panel supports every calendar platform out of the box"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-touchscreen-meeting-room-schedulers-6",
+    "rank": 6,
+    "badge": "Worth a Look",
+    "name": "Yealink Roompanel E2 All-in-One Meeting Room Scheduling Panel, 1303172",
+    "price": "$766.25",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31DNjTiPoyL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZMNM8MS?tag=theofficejournal-20",
+    "description": "Yealink Roompanel E2 All-in-One Meeting Room Scheduling Panel, 1303172 is a strong alternative worth comparing directly against the top pick.\n\nAgainst Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Calendar integration claims vary in depth between platforms, some panels sync read-only availability while others support full one-tap booking and release, so check which level of integration your specific calendar platform actually gets.",
+    "specs": [
+      "See full specifications on the product listing"
+    ],
+    "pros": [
+      "Well-reviewed option in this category",
+      "Straightforward setup based on the listed specs",
+      "Covers the core feature set for this category"
+    ],
+    "cons": [
+      "Not every panel supports every calendar platform out of the box",
+      "Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-touchscreen-meeting-room-schedulers-7",
+    "rank": 7,
+    "badge": "Great Alternative",
+    "name": "PoE Texas 8-Inch Touchscreen PoE Meeting Room Scheduler Tablet",
+    "price": "$279.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31SHMuHg0CL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRV6DZ9X?tag=theofficejournal-20",
+    "description": "PoE Texas 8-Inch Touchscreen PoE Meeting Room Scheduler Tablet is a strong alternative worth comparing directly against the top pick. This 8-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance. The pre-installed dash app syncs with all major business calendar platforms including google workspace, microsoft outlook, calendly, teamup, asana, taskworld, and apple icloud.\n\nYealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black lands in a similar spot overall, but the deciding factor between the two is what's the difference from the LED model?.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A panel that lists 'PoE support' still needs a PoE-capable switch or injector to actually deliver power over the same cable, so confirm your network hardware supports it before assuming a single cable install.",
+    "specs": [
+      "8-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance",
+      "Pre-installed dash app syncs with all major business calendar platforms including google workspace",
+      "How do I install"
+    ],
+    "pros": [
+      "8-inch touchscreen tablet displays real-time conference room schedules and availability at your meeting room entrance",
+      "Pre-installed dash app syncs with all major business calendar platforms including google workspace",
+      "How do I install",
+      "What's the difference from the LED model"
+    ],
+    "cons": [
+      "Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed",
+      "Not every panel supports every calendar platform out of the box"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-touchscreen-meeting-room-schedulers-8",
+    "rank": 8,
+    "badge": "Also Worth Considering",
+    "name": "Black Box 7\" On-Wall in-Session Room Scheduler",
+    "price": "$2,036.05",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41IP8t5+vmL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B06XW3XN1W?tag=theofficejournal-20",
+    "description": "Black Box 7\" On-Wall in-Session Room Scheduler is a strong alternative worth comparing directly against the top pick. View current status and availability of the room, including meeting details and room calendar. Make instant reservations, or extend and cancel existing meetings, directly from the touch panel through microsoft office 365, microsoft exchange server, or google apps for work.\n\nSide by side with Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black, the real difference worth noting is options for mounting on any surface, including glass walls or flush with the wall.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Calendar integration claims vary in depth between platforms, some panels sync read-only availability while others support full one-tap booking and release, so check which level of integration your specific calendar platform actually gets.",
+    "specs": [
+      "View current status and availability of the room",
+      "Make instant reservations",
+      "Options for mounting on any surface"
+    ],
+    "pros": [
+      "View current status and availability of the room",
+      "Make instant reservations",
+      "Options for mounting on any surface",
+      "Quick and easy installation and setup"
+    ],
+    "cons": [
+      "Not every panel supports every calendar platform out of the box",
+      "Zigbee-free doesn't mean setup-free, a hub or PoE switch may still be needed"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  }
+];
+
+export const readTime = "11 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-microsoft-meeting-room-schedulers",
+    "title": "Best Microsoft Meeting Room Schedulers in 2026"
+  },
+  {
+    "href": "/guide/best-room-schedulers-for-google-workspace",
+    "title": "Best Room Schedulers for Google Workspace in 2026"
+  },
+  {
+    "href": "/guide/best-meeting-room-scheduling-devices",
+    "title": "Best Meeting Room Scheduling Devices in 2026"
+  },
+  {
+    "href": "/guide/best-conference-room-scheduler-displays",
+    "title": "Best Conference Room Scheduler Displays in 2026"
+  }
+];
+
+export const breadcrumbLabel = "Best Touchscreen Meeting Room Schedulers";

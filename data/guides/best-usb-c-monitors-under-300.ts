@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-usb-c-monitors-under-300";
 
-export const guideTitle = "The Best USB-C Monitors Under $300 Worth Considering";
+export const guideTitle = "The Best USB-C Monitors Under $300: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41WGJRiwq3L._SL500_.jpg";
 

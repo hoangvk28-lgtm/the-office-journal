@@ -132,7 +132,7 @@ async function main() {
     if (plural) {
       const hasContext = /\s(for|under|with|in|on|without|vs\.?)\s/i.test(plural);
       out.guideTitle = hasContext
-        ? pick([`The Best ${plural}, Compared`, `The Best ${plural}: Picks and Trade-offs`, `The Best ${plural} Worth Considering`], slug)
+        ? pick([`The Best ${plural}, Compared`, `The Best ${plural}: Picks and Trade-offs`, `The Best ${plural}: Our Picks`], slug)
         : `The Best ${plural} ${pick(OUTCOME[silo] ?? OUTCOME["desk-setup"], slug)}`;
       out.breadcrumbLabel = `Best ${plural}`;
       out.metaTitle = hasContext ? `Best ${plural} (2026)` : `Best ${plural} for Home Offices (2026)`;

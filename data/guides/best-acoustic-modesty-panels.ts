@@ -1,258 +1,7 @@
-export const guideSlug = "best-acoustic-modesty-panels";
-export const guideTitle = "6 Best Acoustic Modesty Panels in 2026";
-export const metaTitle = "Best Acoustic Modesty Panels";
-export const metaDescription = "We compared acoustic modesty panels models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
-export const mainKeyword = "acoustic modesty panels";
-export const introParagraphs = [
-  "Across best acoustic modesty panels, cover more ground, given acoustic modesty panels, few listings admit limits.",
-  "acoustic modesty panels: we weighed real structural gain, since material changes rigidity gains."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41CWUbRp1GL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-acoustic-modesty-panels-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding",
-    price: "$62.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41CWUbRp1GL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CKYYV15K?tag=theofficejournal-20",
-    description: "Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding is the strongest all-around choice here.\n\nSet next to OBEX Modesty Desk PET Privacy Screen Acoustic Sound Absorbing Panel, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who want the strongest all-around pick in this comparison and would rather not keep shopping around. Panel width has to match your specific desk model, not just the general product line, since a modesty panel sized for one desk width can leave visible gaps or fail to mount on a differently sized desk.",
-    specs: ["Visual and space privacy", "Quality materials", "Easy and flexible fit"],
-    pros: ["Visual and space privacy", "Quality materials", "Easy and flexible fit", "Wide application"],
-    cons: ["Panel width has to match your exact desk, not just the model line", "Some mounting kits assume a specific desk brand's frame"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-acoustic-modesty-panels-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "OBEX Modesty Desk PET Privacy Screen Acoustic Sound Absorbing Panel",
-    price: "$71.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31SKVTWI3AL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZR3C43C?tag=theofficejournal-20",
-    description: "OBEX Modesty Desk PET Privacy Screen Acoustic Sound Absorbing Panel is a strong alternative worth comparing directly against the top pick. Add some privacy when you sit at your desk, as our privacy screen covers the upper part of your legs and can hide all of your loose wires. Our desk shield is constructed with highly acoustical material that is used for sound panels.\n\nThe gap between this and Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding isn't in the essentials, it shows up in our modesty panel for desks is available in 8 widths, 3 heights, and 3 color options.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Some mounting kits are designed around a specific desk brand's frame and bracket spacing, so a panel that isn't from the same brand as your desk may need separate hardware or may not mount cleanly at all.",
-    specs: ["Privacy panel", "Desk shield is constructed with highly acoustical material that is used for sound panels", "Wide selection"],
-    pros: ["Privacy panel", "Desk shield is constructed with highly acoustical material that is used for sound panels", "Wide selection", "Easy to install"],
-    cons: ["Some mounting kits assume a specific desk brand's frame", "Panel width has to match your exact desk, not just the model line"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-acoustic-modesty-panels-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "KERRAM Desk Privacy Panel Sound Absorbing & Proof Desk Divider for Office",
-    price: "$139.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31mCDwCC6dL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FYPK2Q8R?tag=theofficejournal-20",
-    description: "KERRAM Desk Privacy Panel Sound Absorbing & Proof Desk Divider for Office is a strong alternative worth comparing directly against the top pick. Desk privacy divider's inner core is made of 100% high-density polyester fiber material, which has excellent sound absorption performance. The under desk privacy panel supports dual installation on the desktop (above or below the desktop), adapting to different office layout requirements and ensuring a balance between privacy and space utilization.\n\nWe've engineered our desk dividers with a fully internal clamp system, which is the main thing that distinguishes this pick from Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Panel width has to match your specific desk model, not just the general product line, since a modesty panel sized for one desk width can leave visible gaps or fail to mount on a differently sized desk.",
-    specs: ["High quality material", "Flexible use", "Hidden clamp design"],
-    pros: ["High quality material", "Flexible use", "Hidden clamp design", "Easy installation"],
-    cons: ["Panel width has to match your exact desk, not just the model line", "Some mounting kits assume a specific desk brand's frame"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-acoustic-modesty-panels-4",
-    rank: 4,
-    badge: "Best Premium Pick",
-    name: "VIVO Gray Clamp-on 59 x 46 in Desk Privacy Panel",
-    price: "$249.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51m6qxKLkcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G54HPLDL?tag=theofficejournal-20",
-    description: "VIVO Gray Clamp-on 59 x 46 in Desk Privacy Panel is the premium option here, positioned above the rest on price. This office desk partition set includes three 19.8” x 45.8” panels that fit together to form a 59.3” x 45.8” desk modesty panel for unbroken concentration. A great way to increase productivity is to block unnecessary distractions, and this office desk divider has you covered.\n\nHeld up against Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding, both cover the basics equally well, what actually separates them is clamp these panels to your desk (0.4” to 2.5” in thickness) for a secure, yet flexible setup.\n\nChoose this if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Some mounting kits are designed around a specific desk brand's frame and bracket spacing, so a panel that isn't from the same brand as your desk may need separate hardware or may not mount cleanly at all.",
-    specs: ["Clamp-on desk privacy panel", "Block distractions", "Customize your space"],
-    pros: ["Clamp-on desk privacy panel", "Block distractions", "Customize your space", "Sturdy desk clamps"],
-    cons: ["Some mounting kits assume a specific desk brand's frame", "Panel width has to match your exact desk, not just the model line"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-acoustic-modesty-panels-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "sturion Felt Desk Divider",
-    price: "$69.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41AeZ-9JQoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GD7BMCTJ?tag=theofficejournal-20",
-    description: "sturion Felt Desk Divider is a strong alternative worth comparing directly against the top pick. Improve desk privacy - create a more focused workspace with these felt desk privacy panels. Sound absorbing felt material - made from dense acoustic felt, these desk dividers help absorb surrounding noise and soften sound reflections.\n\nYaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Panel width has to match your specific desk model, not just the general product line, since a modesty panel sized for one desk width can leave visible gaps or fail to mount on a differently sized desk.",
-    specs: ["Improve desk privacy - create a more focused workspace with these felt desk privacy panels", "Sound absorbing felt material - made from dense acoustic felt", "Flexible setup above or under the desk"],
-    pros: ["Improve desk privacy - create a more focused workspace with these felt desk privacy panels", "Sound absorbing felt material - made from dense acoustic felt", "Flexible setup above or under the desk", "Hide cables and keep desks clean - use"],
-    cons: ["Panel width has to match your exact desk, not just the model line", "Some mounting kits assume a specific desk brand's frame"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-acoustic-modesty-panels-6",
-    rank: 6,
-    badge: "Best Value",
-    name: "Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board",
-    price: "$33.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51QtdAhtm8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTVTX17J?tag=theofficejournal-20",
-    description: "Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board is a budget-friendly pick that doesn't skip the essentials. Each felt desktop divider is equipped with 2 sturdy bases (8 bases in total for 4 packs), enabling quick installation on any flat surface without any tools. Beyond being desk privacy divider, these felt panels can also be placed under the desk to provide foot privacy or hide personal items, maximizing their practicality.\n\nYaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis makes sense for anyone who want a genuinely capable pick without paying for headroom you won't use. Some mounting kits are designed around a specific desk brand's frame and bracket spacing, so a panel that isn't from the same brand as your desk may need separate hardware or may not mount cleanly at all.",
-    specs: ["Flexible design", "Sound absorption", "Easy installation & stable base"],
-    pros: ["Flexible design", "Sound absorption", "Easy installation & stable base", "Enhance privacy & focus"],
-    cons: ["Some mounting kits assume a specific desk brand's frame", "Panel width has to match your exact desk, not just the model line"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Material Affects Both Look and Structural Contribution",
-    "description": "Laminate modesty panels match most standard office desk finishes and add real structural rigidity to the desk frame, perforated metal panels allow better airflow and cable ventilation but look more industrial, and wood panels suit a premium aesthetic at a higher price."
-  },
-  {
-    "title": "A Modesty Panel Adds Real Structural Rigidity, Not Just Privacy",
-    "description": "Beyond its visual/privacy purpose, a modesty panel genuinely adds structural bracing to a desk frame, reducing wobble especially on wider desks where the frame alone might flex under normal use."
-  },
-  {
-    "title": "Heavier Panels May Need a Second Person to Install",
-    "description": "Solid wood or thick metal modesty panels can be genuinely heavy to hold in place while attaching mounting brackets single-handed, worth checking the panel's actual weight and planning for a second person during installation if it's a larger, heavier material, rather than assuming any panel is a quick solo job.."
-  },
-  {
-    "title": "Mounting Orientation Changes the Final Look and Fit",
-    "description": "Modesty panels typically install in one of three orientations, protruded (extends past the desk's front edge), flush (aligns exactly with the edge), or inset (sits behind the edge), and the mounting bracket's height setting needs adjusting to match."
-  },
-  {
-    "title": "Panel Width Must Match Your Exact Desk Model",
-    "description": "Modesty panels aren't one-size-fits-all despite how some listings present them, common sizes (roughly 47, 59, and 67 inches) each correspond to a specific desk width range."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Desk Type",
-    "table": {
-      "headers": [
-        "Your desk",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Standard office desk",
-          "Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board"
-        ],
-        [
-          "Standing/height-adjustable desk",
-          "Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding"
-        ],
-        [
-          "L-shaped desk",
-          "VIVO Gray Clamp-on 59 x 46 in Desk Privacy Panel"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board"
-        ],
-        [
-          "Mid-range pick",
-          "OBEX Modesty Desk PET Privacy Screen Acoustic Sound Absorbing Panel"
-        ],
-        [
-          "Higher budget",
-          "VIVO Gray Clamp-on 59 x 46 in Desk Privacy Panel"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Laminate vs Perforated Metal",
-    "cards": [
-      {
-        "label": "Laminate (e.g. Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board)",
-        "text": "Matches most standard desk finishes, adds real rigidity."
-      },
-      {
-        "label": "Perforated metal",
-        "text": "Better airflow for cable heat, more industrial look."
-      }
-    ],
-    "note": "Match this to your actual setup and priorities."
-  },
-  {
-    "subheading": "By Extra Function",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Privacy and rigidity only",
-          "Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding"
-        ],
-        [
-          "Built-in cable management",
-          "OBEX Modesty Desk PET Privacy Screen Acoustic Sound Absorbing Panel"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For a Branded Standing Desk Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A bracket kit confirmed compatible with your exact desk brand and model."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need the strongest real-world performance and sturdiest build, where VIVO Gray Clamp-on 59 x 46 in Desk Privacy Panel justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want straightforward everyday use without paying for headroom you won't need, where Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board already covers the job at the lowest price here."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
@@ -261,11 +10,11 @@ export const buyingCriteria = [
   },
   {
     "criterion": "A Modesty Panel Adds Real Structural Rigidity, Not Just Privacy",
-    "explanation": "Beyond its visual/privacy purpose, a modesty panel genuinely adds structural bracing to a desk frame, reducing wobble especially on wider desks where the frame alone might flex under normal use. This is a real functional benefit worth factoring in even if privacy isn't your primary reason for adding one."
+    "explanation": "Beyond its visual/privacy purpose, a modesty panel adds structural bracing to a desk frame, reducing wobble especially on wider desks where the frame alone might flex under normal use. This is a real functional benefit worth factoring in even if privacy isn't your primary reason for adding one."
   },
   {
     "criterion": "Heavier Panels May Need a Second Person to Install",
-    "explanation": "Solid wood or thick metal modesty panels can be genuinely heavy to hold in place while attaching mounting brackets single-handed, worth checking the panel's actual weight and planning for a second person during installation if it's a larger, heavier material, rather than assuming any panel is a quick solo job."
+    "explanation": "Solid wood or thick metal modesty panels can be heavy to hold in place while attaching mounting brackets single-handed, worth checking the panel's actual weight and planning for a second person during installation if it's a larger, heavier material, rather than assuming any panel is a quick solo job."
   },
   {
     "criterion": "Mounting Orientation Changes the Final Look and Fit",
@@ -304,4 +53,346 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-desk-modesty-panels","title":"Best Desk Modesty Panels in 2026"},{"href":"/guide/best-modesty-panels-under-50","title":"Best Modesty Panels Under $50 in 2026"},{"href":"/guide/best-modesty-panels-under-75","title":"Best Modesty Panels Under $75 in 2026"},{"href":"/guide/best-clamp-on-modesty-panels","title":"Best Clamp-On Modesty Panels in 2026"}];
+export const guideSlug = "best-acoustic-modesty-panels";
+
+export const guideTitle = "The Best Acoustic Modesty Panels for a Better Desk Setup";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41CWUbRp1GL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board"
+        ],
+        [
+          "",
+          "Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding"
+        ],
+        [
+          "",
+          "VIVO Gray Clamp-on 59 x 46 in Desk Privacy Panel"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          "Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board"
+        ],
+        [
+          "",
+          "OBEX Modesty Desk PET Privacy Screen Acoustic Sound Absorbing Panel"
+        ],
+        [
+          "",
+          "VIVO Gray Clamp-on 59 x 46 in Desk Privacy Panel"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board)",
+        "text": "Matches most standard desk finishes, adds real rigidity."
+      },
+      {
+        "label": "",
+        "text": "Better airflow for cable heat, more industrial look."
+      }
+    ],
+    "note": "Match this to your actual setup and priorities."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding"
+        ],
+        [
+          "",
+          "OBEX Modesty Desk PET Privacy Screen Acoustic Sound Absorbing Panel"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For a Branded Standing Desk Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "A bracket kit confirmed compatible with your exact desk brand and model."
+      },
+      {
+        "label": "",
+        "text": "Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need the strongest real-world performance and sturdiest build, where VIVO Gray Clamp-on 59 x 46 in Desk Privacy Panel justifies the extra cost."
+      },
+      {
+        "label": "",
+        "text": "You want straightforward everyday use without paying for headroom you won't need, where Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board already covers the job at the lowest price here."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "Material Affects Both Look and Structural Contribution",
+    "description": "Laminate modesty panels match most standard office desk finishes and add real structural rigidity to the desk frame, perforated metal panels allow better airflow and cable ventilation but look more industrial, and wood panels suit a premium aesthetic at a higher price."
+  },
+  {
+    "title": "A Modesty Panel Adds Real Structural Rigidity, Not Just Privacy",
+    "description": "Beyond its visual/privacy purpose, a modesty panel adds structural bracing to a desk frame, reducing wobble especially on wider desks where the frame alone might flex under normal use."
+  },
+  {
+    "title": "Heavier Panels May Need a Second Person to Install",
+    "description": "Solid wood or thick metal modesty panels can be heavy to hold in place while attaching mounting brackets single-handed, worth checking the panel's actual weight and planning for a second person during installation if it's a larger, heavier material, rather than assuming any panel is a quick solo job.."
+  },
+  {
+    "title": "Mounting Orientation Changes the Final Look and Fit",
+    "description": "Modesty panels typically install in one of three orientations, protruded (extends past the desk's front edge), flush (aligns exactly with the edge), or inset (sits behind the edge), and the mounting bracket's height setting needs adjusting to match."
+  },
+  {
+    "title": "Panel Width Must Match Your Exact Desk Model",
+    "description": "Modesty panels aren't one-size-fits-all despite how some listings present them, common sizes (roughly 47, 59, and 67 inches) each correspond to a specific desk width range."
+  }
+];
+
+export const introParagraphs = [
+  "Across best acoustic modesty panels, cover more ground, given acoustic modesty panels, few listings admit limits.",
+  "Acoustic modesty panels: we weighed real structural gain, since material changes rigidity gains."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const mainKeyword = "acoustic modesty panels";
+
+export const metaDescription = "We compared 6 acoustic modesty panels on compatibility, build, features and price to help you choose the right one for your space.";
+
+export const metaTitle = "Best Acoustic Modesty Panels for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-acoustic-modesty-panels-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding",
+    "price": "$62.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41CWUbRp1GL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKYYV15K?tag=theofficejournal-20",
+    "description": "Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding is the strongest all-around choice here.\n\nSet next to OBEX Modesty Desk PET Privacy Screen Acoustic Sound Absorbing Panel, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who want the strongest all-around pick in this comparison and would rather not keep shopping around. Panel width has to match your specific desk model, not just the general product line, since a modesty panel sized for one desk width can leave visible gaps or fail to mount on a differently sized desk.",
+    "specs": [
+      "Visual and space privacy",
+      "Quality materials",
+      "Easy and flexible fit"
+    ],
+    "pros": [
+      "Visual and space privacy",
+      "Quality materials",
+      "Easy and flexible fit",
+      "Wide application"
+    ],
+    "cons": [
+      "Panel width has to match your exact desk, not just the model line",
+      "Some mounting kits assume a specific desk brand's frame"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-acoustic-modesty-panels-2",
+    "rank": 2,
+    "badge": "Also Worth Considering",
+    "name": "OBEX Modesty Desk PET Privacy Screen Acoustic Sound Absorbing Panel",
+    "price": "$71.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31SKVTWI3AL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZR3C43C?tag=theofficejournal-20",
+    "description": "OBEX Modesty Desk PET Privacy Screen Acoustic Sound Absorbing Panel is a strong alternative worth comparing directly against the top pick. Add some privacy when you sit at your desk, as our privacy screen covers the upper part of your legs and can hide all of your loose wires. Our desk shield is constructed with highly acoustical material that is used for sound panels.\n\nThe gap between this and Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding isn't in the essentials, it shows up in our modesty panel for desks is available in 8 widths, 3 heights, and 3 color options.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Some mounting kits are designed around a specific desk brand's frame and bracket spacing, so a panel that isn't from the same brand as your desk may need separate hardware or may not mount cleanly at all.",
+    "specs": [
+      "Privacy panel",
+      "Desk shield is constructed with highly acoustical material that is used for sound panels",
+      "Wide selection"
+    ],
+    "pros": [
+      "Privacy panel",
+      "Desk shield is constructed with highly acoustical material that is used for sound panels",
+      "Wide selection",
+      "Easy to install"
+    ],
+    "cons": [
+      "Some mounting kits assume a specific desk brand's frame",
+      "Panel width has to match your exact desk, not just the model line"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-acoustic-modesty-panels-3",
+    "rank": 3,
+    "badge": "Solid Alternative",
+    "name": "KERRAM Desk Privacy Panel Sound Absorbing & Proof Desk Divider for Office",
+    "price": "$139.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31mCDwCC6dL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FYPK2Q8R?tag=theofficejournal-20",
+    "description": "KERRAM Desk Privacy Panel Sound Absorbing & Proof Desk Divider for Office is a strong alternative worth comparing directly against the top pick. Desk privacy divider's inner core is made of 100% high-density polyester fiber material, which has excellent sound absorption performance. The under desk privacy panel supports dual installation on the desktop (above or below the desktop), adapting to different office layout requirements and ensuring a balance between privacy and space utilization.\n\nWe've engineered our desk dividers with a fully internal clamp system, which is the main thing that distinguishes this pick from Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Panel width has to match your specific desk model, not just the general product line, since a modesty panel sized for one desk width can leave visible gaps or fail to mount on a differently sized desk.",
+    "specs": [
+      "High quality material",
+      "Flexible use",
+      "Hidden clamp design"
+    ],
+    "pros": [
+      "High quality material",
+      "Flexible use",
+      "Hidden clamp design",
+      "Easy installation"
+    ],
+    "cons": [
+      "Panel width has to match your exact desk, not just the model line",
+      "Some mounting kits assume a specific desk brand's frame"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-acoustic-modesty-panels-4",
+    "rank": 4,
+    "badge": "Best Premium Pick",
+    "name": "VIVO Gray Clamp-on 59 x 46 in Desk Privacy Panel",
+    "price": "$249.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51m6qxKLkcL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0G54HPLDL?tag=theofficejournal-20",
+    "description": "VIVO Gray Clamp-on 59 x 46 in Desk Privacy Panel is the premium option here, positioned above the rest on price. 8” desk modesty panel for unbroken concentration. A great way to increase productivity is to block unnecessary distractions, and this office desk divider has you covered.\n\n5” in thickness) for a secure, yet flexible setup.\n\nChoose this if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Some mounting kits are designed around a specific desk brand's frame and bracket spacing, so a panel that isn't from the same brand as your desk may need separate hardware or may not mount cleanly at all.",
+    "specs": [
+      "Clamp-on desk privacy panel",
+      "Block distractions",
+      "Customize your space"
+    ],
+    "pros": [
+      "Clamp-on desk privacy panel",
+      "Block distractions",
+      "Customize your space",
+      "Sturdy desk clamps"
+    ],
+    "cons": [
+      "Some mounting kits assume a specific desk brand's frame",
+      "Panel width has to match your exact desk, not just the model line"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it"
+  },
+  {
+    "id": "best-acoustic-modesty-panels-5",
+    "rank": 5,
+    "badge": "Runner-Up Pick",
+    "name": "sturion Felt Desk Divider",
+    "price": "$69.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41AeZ-9JQoL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD7BMCTJ?tag=theofficejournal-20",
+    "description": "Sturion Felt Desk Divider is a strong alternative worth comparing directly against the top pick. Improve desk privacy - create a more focused workspace with these felt desk privacy panels. Sound absorbing felt material - made from dense acoustic felt, these desk dividers help absorb surrounding noise and soften sound reflections.\n\nYaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Panel width has to match your specific desk model, not just the general product line, since a modesty panel sized for one desk width can leave visible gaps or fail to mount on a differently sized desk.",
+    "specs": [
+      "Improve desk privacy - create a more focused workspace with these felt desk privacy panels",
+      "Sound absorbing felt material - made from dense acoustic felt",
+      "Flexible setup above or under the desk"
+    ],
+    "pros": [
+      "Improve desk privacy - create a more focused workspace with these felt desk privacy panels",
+      "Sound absorbing felt material - made from dense acoustic felt",
+      "Flexible setup above or under the desk",
+      "Hide cables and keep desks clean - use"
+    ],
+    "cons": [
+      "Panel width has to match your exact desk, not just the model line",
+      "Some mounting kits assume a specific desk brand's frame"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-acoustic-modesty-panels-6",
+    "rank": 6,
+    "badge": "Best Value",
+    "name": "Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board",
+    "price": "$33.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51QtdAhtm8L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTVTX17J?tag=theofficejournal-20",
+    "description": "Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board is a low-cost pick that doesn't skip the essentials. Each felt desktop divider is equipped with 2 sturdy bases (8 bases in total for 4 packs), enabling quick installation on any flat surface without any tools. Beyond being desk privacy divider, these felt panels can also be placed under the desk to provide foot privacy or hide personal items, maximizing their practicality.\n\nYaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis makes sense for anyone who want a capable pick without paying for headroom you won't use. Some mounting kits are designed around a specific desk brand's frame and bracket spacing, so a panel that isn't from the same brand as your desk may need separate hardware or may not mount cleanly at all.",
+    "specs": [
+      "Flexible design",
+      "Sound absorption",
+      "Easy installation & stable base"
+    ],
+    "pros": [
+      "Flexible design",
+      "Sound absorption",
+      "Easy installation & stable base",
+      "Enhance privacy & focus"
+    ],
+    "cons": [
+      "Some mounting kits assume a specific desk brand's frame",
+      "Panel width has to match your exact desk, not just the model line"
+    ],
+    "bestFor": "Buyers who want a capable pick without paying for headroom you won't use"
+  }
+];
+
+export const readTime = "11 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-desk-modesty-panels",
+    "title": "Best Desk Modesty Panels in 2026"
+  },
+  {
+    "href": "/guide/best-modesty-panels-under-50",
+    "title": "Best Modesty Panels Under $50 in 2026"
+  },
+  {
+    "href": "/guide/best-modesty-panels-under-75",
+    "title": "Best Modesty Panels Under $75 in 2026"
+  },
+  {
+    "href": "/guide/best-clamp-on-modesty-panels",
+    "title": "Best Clamp-On Modesty Panels in 2026"
+  }
+];
+
+export const breadcrumbLabel = "Best Acoustic Modesty Panels";

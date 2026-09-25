@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-office-chairs-with-headrests";
 
-export const guideTitle = "The Best Office Chairs with Headrests Worth Considering";
+export const guideTitle = "The Best Office Chairs with Headrests: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41lDR7qjYlL._SL500_.jpg";
 

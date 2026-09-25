@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-corner-desks-with-keyboard-tray";
 
-export const guideTitle = "The Best Corner Desks with Keyboard Tray Worth Considering";
+export const guideTitle = "The Best Corner Desks with Keyboard Tray: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51nrrYpR4XL._SL500_.jpg";
 

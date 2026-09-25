@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-4k-monitors-under-200";
 
-export const guideTitle = "The Best 4K Monitors Under $200 Worth Considering";
+export const guideTitle = "The Best 4K Monitors Under $200: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51JdlXAUIqL._SL500_.jpg";
 

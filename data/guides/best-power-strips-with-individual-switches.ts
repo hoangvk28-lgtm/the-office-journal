@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-power-strips-with-individual-switches";
 
-export const guideTitle = "The Best Power Strips with Individual Switches Worth Considering";
+export const guideTitle = "The Best Power Strips with Individual Switches: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41YbTChnPVL._SL500_.jpg";
 

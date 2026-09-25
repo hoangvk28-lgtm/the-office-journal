@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-seat-cushions-for-office-chair-under-25";
 
-export const guideTitle = "The Best Seat Cushions for Office Chairs Under $25 Worth Considering";
+export const guideTitle = "The Best Seat Cushions for Office Chairs Under $25: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41UNac+JBJL._SL500_.jpg";
 

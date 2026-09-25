@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-cable-sleeves-under-75";
 
-export const guideTitle = "The Best Cable Sleeves Under $75 Worth Considering";
+export const guideTitle = "The Best Cable Sleeves Under $75: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41sJo4hWrXL._SL500_.jpg";
 

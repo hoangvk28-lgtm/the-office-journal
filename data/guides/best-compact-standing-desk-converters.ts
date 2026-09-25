@@ -1,241 +1,9 @@
-export const guideSlug = "best-compact-standing-desk-converters";
-export const guideTitle = "6 Best Compact Standing Desk Converters in 2026";
-export const metaTitle = "Best Compact Standing Desk Converters (2026)";
-export const metaDescription =
-  "6 space-saving standing desk converters compared on base footprint and usable keyboard area, for shallow desks that can't fit a full-size riser.";
-export const mainKeyword = "compact standing desk converter";
-export const introParagraphs = [
-  "A genuinely compact converter needs a small base footprint that fits a shallow desk, while still preserving enough usable surface for a keyboard, mouse, and monitor without cramping.",
-  "We compared platform sizes and base footprints directly rather than assuming any converter marketed with \"compact\" in the title is actually smaller than the standard tier.",
-];
-export const lastUpdated = "2026-08-09";
-export const readTime = "8 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41Eh8j3wCSL._SL500_.jpg";
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: string; reviews: string;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-export interface BuyingCriterion { criterion: string; explanation: string; }
-export interface FaqItem { q: string; a: string; }
-
-export const products: GuideProduct[] = [
-  {
-    id: "b09vmnymy3-compact",
-    rank: 1,
-    badge: "Best Overall",
-    name: "VIVO Black 26 in Standing Desk Converter, DESK-V026KB",
-    price: "$107.99",
-    rating: "4.6",
-    reviews: "15,583",
-    imageUrl: "https://m.media-amazon.com/images/I/41Eh8j3wCSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09VMNYMY3?tag=theofficejournal-20",
-    description: "The most compact standard converter with the largest review base in our research, at 26 inches, still large enough for a single monitor and keyboard.\n\nIt earns the top spot in this comparison over VIVO Black 29 in Single Top Standing Desk Converter for one main reason. Largest review base of any compact converter in our research. On price, it's actually priced above VIVO Black 29 in Single Top Standing Desk Converter, which is worth weighing if cost is your deciding factor between the two.\n\nWorth knowing before you decide: Largest review base of any compact converter in our research. On the other side, Limited surface area for more than a single monitor. That's the main tradeoff to weigh against everything above.",
-    specs: ["26 inch platform, compact"],
-    pros: ["Largest review base of any compact converter in our research"],
-    cons: ["Limited surface area for more than a single monitor"],
-    bestFor: "Buyers with a shallow desk who want the most proven compact option.",
-  },
-  {
-    id: "b07k8wz19k-compact",
-    rank: 2,
-    badge: "Best Ultra-Compact Value",
-    name: "VIVO Black 29 in Single Top Standing Desk Converter, DESK-V000U",
-    price: "$99.99",
-    rating: "4.5",
-    reviews: "632",
-    imageUrl: "https://m.media-amazon.com/images/I/41Br1CxfavL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07K8WZ19K?tag=theofficejournal-20",
-    description: "A single-top compact design at 29 inches, the lowest price among VIVO's compact options, with a solid review base.\n\nOne spot below VIVO Black 26 in Standing Desk Converter in this ranking, it's priced lower than VIVO Black 26 in Standing Desk Converter. The compromise here is straightforward: Smaller review base than the 26 inch K Series model. What you gain in return: Single-top design has a smaller base footprint. Whether that trade is worth it depends on which side matters more for your setup.\n\nWorth knowing before you decide: Lowest VIVO price in this comparison. On the other side, Smaller review base than the 26 inch K Series model. That's the main tradeoff to weigh against everything above.",
-    specs: ["29 inch platform, single-top compact design"],
-    pros: ["Single-top design has a smaller base footprint","Lowest VIVO price in this comparison"],
-    cons: ["Smaller review base than the 26 inch K Series model"],
-    bestFor: "Buyers with the shallowest desks who want VIVO's smallest-footprint design.",
-  },
-  {
-    id: "b07sd7yh8t-compact",
-    rank: 3,
-    badge: "Best Small Single-Top Option",
-    name: "VIVO Black Small Single Top 28 inch Standing Desk Converter, Tabletop",
-    price: "$69.99",
-    rating: "4.5",
-    reviews: "987",
-    imageUrl: "https://m.media-amazon.com/images/I/411ZEuCs0FL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07SD7YH8T?tag=theofficejournal-20",
-    description: "A lower price than the 29 inch single-top pick at a similar 28 inch size, with a larger review base.\n\nSitting just under VIVO Black 29 in Single Top Standing Desk Converter, it's priced lower than VIVO Black 29 in Single Top Standing Desk Converter. Here's the honest tradeoff: Similar footprint to the pricier 29 inch model. And here's what it gets you instead: Larger review base than the 29 inch alternative, lower price. That's the real difference between the two picks, not just a ranking number.\n\nWorth knowing before you decide: Larger review base than the 29 inch alternative, lower price. On the other side, Similar footprint to the pricier 29 inch model. That's the main tradeoff to weigh against everything above.",
-    specs: ["28 inch platform, single-top compact design"],
-    pros: ["Larger review base than the 29 inch alternative, lower price"],
-    cons: ["Similar footprint to the pricier 29 inch model"],
-    bestFor: "Budget-focused buyers comparing VIVO's compact single-top options.",
-  },
-  {
-    id: "b0765bq7rn-compact",
-    rank: 4,
-    badge: "Best From an Ergonomic-Focused Brand",
-    name: "Mount-It! Standing Desk Converter, Compact Design",
-    price: "See listing",
-    rating: "4.4",
-    reviews: "381",
-    imageUrl: "https://m.media-amazon.com/images/I/411ZEuCs0FL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0765BQ7RN?tag=theofficejournal-20",
-    description: "A compact design from Mount-It!, a brand specifically focused on ergonomic mounting products, with a solid review base.\n\nRanked just behind VIVO Black Small Single Top 28 inch Standing Desk Converter, it's priced lower than VIVO Black Small Single Top 28 inch Standing Desk Converter. The real tradeoff against that pick: Current price not confirmed, verify on listing. In exchange, it offers this instead: From a brand specifically focused on ergonomic mounting products. That's the swap that decides whether this pick or the one above it is the better fit for your desk.\n\nWorth knowing before you decide: From a brand specifically focused on ergonomic mounting products. On the other side, Current price not confirmed, verify on listing. That's the main tradeoff to weigh against everything above.",
-    specs: ["Compact platform, gas-spring lift"],
-    pros: ["From a brand specifically focused on ergonomic mounting products"],
-    cons: ["Current price not confirmed, verify on listing"],
-    bestFor: "Buyers who want a compact converter from an ergonomic-focused brand.",
-  },
-  {
-    id: "b0747733jh-compact",
-    rank: 5,
-    badge: "Best Compact Ergonomic Workstation",
-    name: "Mount-It! Compact Standing Desk Riser, Height Adjustable Desktop Sit Stand Workstation",
-    price: "$219.99",
-    rating: "4.3",
-    reviews: "224",
-    imageUrl: "https://m.media-amazon.com/images/I/41e-fWH+dQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0747733JH?tag=theofficejournal-20",
-    description: "An ergonomic-focused compact workstation design at a higher price than the VIVO compact options, from Mount-It!.\n\nOne spot below Mount-It! Standing Desk Converter in this ranking, pricing between it and Mount-It! Standing Desk Converter isn't directly comparable here. The compromise here is straightforward: Lower rating than the VIVO compact options, higher price. What you gain in return: Ergonomic-focused compact workstation design. Whether that trade is worth it depends on which side matters more for your setup.\n\nWorth knowing before you decide: Ergonomic-focused compact workstation design. On the other side, Lower rating than the VIVO compact options, higher price. That's the main tradeoff to weigh against everything above.",
-    specs: ["Compact platform, gas-spring lift"],
-    pros: ["Ergonomic-focused compact workstation design"],
-    cons: ["Lower rating than the VIVO compact options, higher price"],
-    bestFor: "Buyers who specifically want Mount-It!'s ergonomic-focused compact design.",
-  },
-  {
-    id: "b0ckgl1m7p-compact",
-    rank: 6,
-    badge: "Best Value 30 Inch Compact",
-    name: "Mount-It! Height Adjustable Standing Desk Converter, Compact 30 Inch Wide Tabletop",
-    price: "$128.97",
-    rating: "4.5",
-    reviews: "282",
-    imageUrl: "https://m.media-amazon.com/images/I/41EwRQZYUsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CKGL1M7P?tag=theofficejournal-20",
-    description: "A better rating than the other Mount-It! compact pick, at a lower price, a 30 inch tabletop design.\n\nSitting just under Mount-It! Compact Standing Desk Riser, it's priced lower than Mount-It! Compact Standing Desk Riser. Here's the honest tradeoff: Larger platform than VIVO's most compact options. And here's what it gets you instead: Better rating than the alternative Mount-It! compact option. That's the real difference between the two picks, not just a ranking number.\n\nWorth knowing before you decide: Better rating than the alternative Mount-It! compact option. On the other side, Larger platform than VIVO's most compact options. That's the main tradeoff to weigh against everything above.",
-    specs: ["30 inch platform, gas-spring lift"],
-    pros: ["Better rating than the alternative Mount-It! compact option"],
-    cons: ["Larger platform than VIVO's most compact options"],
-    bestFor: "Buyers who want Mount-It!'s better-rated compact option.",
-  }
-];
-
-export interface HowWeEvaluatedItem { title: string; description: string; }
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  { title: "Compared actual platform size, not just \"compact\" marketing language", description: "We verified the specific inch dimensions for each pick rather than assuming a \"compact\" label alone means a smaller footprint than standard converters." },
-  { title: "Distinguished single-top from dual-tier compact designs", description: "A single-top design generally has a smaller base footprint than a dual-tier converter of similar platform width, and we noted this construction difference directly." },
-  { title: "Weighed price against platform size within the compact category", description: "Compact converters here range across a range of price points, and we compared value across that range for the smallest-footprint options." },
-  { title: "Compared review volume across brands at similar compact sizes", description: "We noted where VIVO's compact review base is notably larger than Mount-It!'s compact options at similar price points." },
-];
-
-export interface HowToChooseSection { subheading: string; intro?: string; table?: { headers: string[]; rows: string[][] }; cards?: { label: string; text: string }[]; note?: string; }
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Platform Size",
-    "table": {
-      "headers": [
-        "Your monitor setup",
-        "Recommended pick in this comparison"
-      ],
-      "rows": [
-        [
-          "Single monitor or laptop, small desk",
-          "VIVO Black 26 in Standing Desk Converter"
-        ],
-        [
-          "Dual monitors",
-          "VIVO Black 26 in Standing Desk Converter"
-        ],
-        [
-          "Triple monitors, need maximum surface area",
-          "Mount-It! Height Adjustable Standing Desk Converter"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Price range",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Under $70",
-          "VIVO Black Small Single Top 28 inch Standing Desk Converter"
-        ],
-        [
-          "Mid-range",
-          "VIVO Black 26 in Standing Desk Converter"
-        ],
-        [
-          "No firm budget ceiling, prioritizing lift quality or brand",
-          "Mount-It! Compact Standing Desk Riser"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Manual (Gas-Spring) vs Electric Lift",
-    "cards": [
-      {
-        "label": "Manual (Gas-Spring)",
-        "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: VIVO Black 26 in Standing Desk Converter, VIVO Black 29 in Single Top Standing Desk Converter, VIVO Black Small Single Top 28 inch Standing Desk Converter."
-      },
-      {
-        "label": "Electric (Motorized)",
-        "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: none in this specific roundup, since most picks here use a manual lift."
-      }
-    ],
-    "note": "Every pick in this specific comparison uses a manual lift; check our broader converter roundup if you specifically want an electric option."
-  },
-  {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
-    "table": {
-      "headers": [
-        "What you're weighing",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Highest star rating",
-          "VIVO Black 26 in Standing Desk Converter"
-        ],
-        [
-          "Largest review base (more statistical confidence)",
-          "VIVO Black 26 in Standing Desk Converter"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For a Dual-Monitor Setup Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
-      },
-      {
-        "label": "In this comparison",
-        "text": "VIVO Black 26 in Standing Desk Converter fits this specifically: Largest review base of any compact converter in our research."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want what Mount-It! Compact Standing Desk Riser offers: Ergonomic-focused compact workstation design. That's a real functional upgrade over the budget picks here, not just a brand markup."
-      },
-      {
-        "label": "Save if",
-        "text": "VIVO Black Small Single Top 28 inch Standing Desk Converter already covers the essentials: Larger review base than the 29 inch alternative, lower price. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
-      }
-    ]
-  }
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
+export const buyingCriteria = [
   {
     "criterion": "Measure your existing desk's height before ordering",
     "explanation": "A standing desk converter sits on top of your current desk and adds its own height on top of that, even at the converter's lowest seated setting, sometimes adding several inches before you've raised anything at all.\n\nThis matters because if your desk is already at a comfortable seated typing height, most gas-spring and electric converters can push your keyboard and monitor uncomfortably high the moment you set the converter down, forcing you into an awkward seated typing posture even when you never plan to stand.\n\nBefore ordering, check the listing for the converter's minimum or lowest platform height (not just its maximum standing height), measure your desk's current height, and add the two together to confirm the result still feels comfortable seated."
@@ -246,7 +14,7 @@ export const buyingCriteria: BuyingCriterion[] = [
   },
   {
     "criterion": "Weigh electric versus manual lift for how often you'll adjust it",
-    "explanation": "A manual converter typically uses a gas-spring or counterbalance mechanism you push or pull to raise and lower, requiring no power and generally costing less, while an electric converter uses a motor and push-button control for smoother, more precise height changes at the cost of needing a nearby power outlet and a meaningfully higher price.\n\nIf you plan to switch between sitting and standing multiple times a day, the effortless one-touch adjustment of an electric lift genuinely reduces the friction that causes people to stop bothering with height changes altogether, while an occasional adjuster may not find that premium worth paying.\n\nCheck the listing for words like \"electric,\" \"motorized,\" or \"push-button\" versus \"gas spring\" or \"manual\" to confirm which mechanism you're buying, and if electric, confirm an outlet is within reach of where the desk sits."
+    "explanation": "A manual converter typically uses a gas-spring or counterbalance mechanism you push or pull to raise and lower, requiring no power and generally costing less, while an electric converter uses a motor and push-button control for smoother, more precise height changes at the cost of needing a nearby power outlet and a meaningfully higher price.\n\nIf you plan to switch between sitting and standing multiple times a day, the effortless one-touch adjustment of an electric lift reduces the friction that causes people to stop bothering with height changes altogether, while an occasional adjuster may not find that premium worth paying.\n\nCheck the listing for words like \"electric,\" \"motorized,\" or \"push-button\" versus \"gas spring\" or \"manual\" to confirm which mechanism you're buying, and if electric, confirm an outlet is within reach of where the desk sits."
   },
   {
     "criterion": "Check your desk's depth against the converter's base footprint",
@@ -254,20 +22,330 @@ export const buyingCriteria: BuyingCriterion[] = [
   },
   {
     "criterion": "Weigh review volume against star rating together, not separately",
-    "explanation": "A star rating on its own only tells you the average sentiment, while the review count tells you how much data that average is actually built on, and a converter with a 4.8 rating from a few hundred reviews carries meaningfully less statistical confidence than one with a 4.6 rating built on tens of thousands of reviews.\n\nThis is a genuine buying trap: a newer or less popular converter can post a higher headline rating simply by chance or by early-adopter bias before enough reviews accumulate to reveal real long-term issues, while an older, heavily-reviewed model's slightly lower average often reflects a more complete picture of durability over time.\n\nWhen comparing two similarly priced converters, check both numbers side by side in the listing rather than sorting by star rating alone."
+    "explanation": "6 rating built on tens of thousands of reviews.\n\nThis is a genuine buying trap: a newer or less popular converter can post a higher headline rating simply by chance or by early-adopter bias before enough reviews accumulate to reveal real long-term issues, while an older, heavily-reviewed model's slightly lower average often reflects a more complete picture of durability over time.\n\nWhen comparing two similarly priced converters, check both numbers side by side in the listing rather than sorting by star rating alone."
   }
 ];
 
-export const faq: FaqItem[] = [
-  { q: "Which compact converter has the most reviews?", a: "The VIVO Black 26 in Standing Desk Converter, with 15,583 reviews." },
-  { q: "What's the smallest-footprint compact option?", a: "The VIVO Black 29 in Single Top Standing Desk Converter, using a single-top design for a smaller base." },
-  { q: "What's the cheapest compact converter?", a: "The VIVO Black Small Single Top 28 inch Standing Desk Converter at $69.99." },
-  { q: "Is there a compact option from an ergonomic-focused brand?", a: "Yes, Mount-It! offers several compact designs, though with lower ratings than the VIVO compact options." },
-  { q: "How much desk space does a compact converter need?", a: "This varies by model; single-top designs generally need less base footprint than dual-tier converters at a similar platform width." },
+export const faq = [
+  {
+    "q": "Which compact converter has the most reviews?",
+    "a": ""
+  },
+  {
+    "q": "What's the smallest-footprint compact option?",
+    "a": "The VIVO Black 29 in Single Top Standing Desk Converter, using a single-top design for a smaller base."
+  },
+  {
+    "q": "What's the cheapest compact converter?",
+    "a": ""
+  },
+  {
+    "q": "Is there a compact option from an ergonomic-focused brand?",
+    "a": "Offers several compact designs, though with lower ratings than the VIVO compact options."
+  },
+  {
+    "q": "How much desk space does a compact converter need?",
+    "a": "This varies by model; single-top designs generally need less base footprint than dual-tier converters at a similar platform width."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-portable-standing-desk-converters", title: "Best Portable Standing Desk Converters (2026)" },
-  { href: "/guide/best-small-standing-desk-converters", title: "Best Small Standing Desk Converters (2026)" },
-  { href: "/guide/best-standing-desk-converters", title: "Best Standing Desk Converters (2026)" },
+export const guideSlug = "best-compact-standing-desk-converters";
+
+export const guideTitle = "The Best Compact Standing Desk Converters for a Better Desk Setup";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41Eh8j3wCSL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        "Recommended pick in this comparison"
+      ],
+      "rows": [
+        [
+          "Single monitor or laptop, small desk",
+          "VIVO Black 26 in Standing Desk Converter"
+        ],
+        [
+          "",
+          "VIVO Black 26 in Standing Desk Converter"
+        ],
+        [
+          "Triple monitors, need maximum surface area",
+          "Height Adjustable Standing Desk Converter"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "VIVO Black Small Single Top 28 inch Standing Desk Converter"
+        ],
+        [
+          "",
+          "VIVO Black 26 in Standing Desk Converter"
+        ],
+        [
+          "No firm budget ceiling, prioritizing lift quality or brand",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "Manual (Gas-Spring) vs Electric Lift",
+    "cards": [
+      {
+        "label": "",
+        "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: VIVO Black 26 in Standing Desk Converter, VIVO Black 29 in Single Top Standing Desk Converter, VIVO Black Small Single Top 28 inch Standing Desk Converter."
+      },
+      {
+        "label": "",
+        "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: none in this specific roundup, since most picks here use a manual lift."
+      }
+    ],
+    "note": "Every pick in this specific comparison uses a manual lift; check our broader converter roundup if you specifically want an electric option."
+  },
+  {
+    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "VIVO Black 26 in Standing Desk Converter"
+        ],
+        [
+          "",
+          "VIVO Black 26 in Standing Desk Converter"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For a Dual-Monitor Setup Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
+      },
+      {
+        "label": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "Compact Standing Desk Riser offers: Ergonomic-focused compact workstation design. That's a real functional upgrade over the budget picks here, not just a brand markup."
+      },
+      {
+        "label": "",
+        "text": "The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
+      }
+    ]
+  }
 ];
+
+export const howWeEvaluated = [
+  {
+    "title": "Compared actual platform size, not just \"compact\" marketing language",
+    "description": "We verified the specific inch dimensions for each pick rather than assuming a \"compact\" label alone means a smaller footprint than standard converters."
+  },
+  {
+    "title": "Distinguished single-top from dual-tier compact designs",
+    "description": "A single-top design generally has a smaller base footprint than a dual-tier converter of similar platform width, and we noted this construction difference directly."
+  },
+  {
+    "title": "Weighed price against platform size within the compact category",
+    "description": "Compact converters here range across a range of price points, and we compared value across that range for the smallest-footprint options."
+  },
+  {
+    "title": "Compared review volume across brands at similar compact sizes",
+    "description": "'s compact options at similar price points."
+  }
+];
+
+export const introParagraphs = [
+  "A compact converter needs a small base footprint that fits a shallow desk, while still preserving enough usable surface for a keyboard, mouse, and monitor without cramping.",
+  "We compared platform sizes and base footprints directly rather than assuming any converter marketed with \"compact\" in the title is actually smaller than the standard tier."
+];
+
+export const lastUpdated = "2026-08-09";
+
+export const mainKeyword = "compact standing desk converter";
+
+export const metaDescription = "We compared 6 compact standing desk converters on compatibility, build, features and price to help you choose the right one for your space.";
+
+export const metaTitle = "Best Compact Standing Desk Converters for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "b09vmnymy3-compact",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "VIVO Black 26 in Standing Desk Converter, DESK-V026KB",
+    "price": "$107.99",
+    "rating": "4.6",
+    "reviews": "15,583",
+    "imageUrl": "https://m.media-amazon.com/images/I/41Eh8j3wCSL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09VMNYMY3?tag=theofficejournal-20",
+    "description": "On price, it's actually priced above VIVO Black 29 in Single Top Standing Desk Converter, which is worth weighing if cost is your deciding factor between the two.\n\nOn the other side, Limited surface area for more than a single monitor.",
+    "specs": [
+      "26 inch platform, compact"
+    ],
+    "pros": [
+      "Largest review base of any compact converter in our research"
+    ],
+    "cons": [
+      "Limited surface area for more than a single monitor"
+    ],
+    "bestFor": "Buyers with a shallow desk who want the most proven compact option."
+  },
+  {
+    "id": "b07k8wz19k-compact",
+    "rank": 2,
+    "badge": "Best Ultra-Compact Value",
+    "name": "VIVO Black 29 in Single Top Standing Desk Converter, DESK-V000U",
+    "price": "$99.99",
+    "rating": "4.5",
+    "reviews": "632",
+    "imageUrl": "https://m.media-amazon.com/images/I/41Br1CxfavL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07K8WZ19K?tag=theofficejournal-20",
+    "description": "A single-top compact design at 29 inches, the lowest price among VIVO's compact options, with a solid review base.\n\nOne spot below VIVO Black 26 in Standing Desk Converter in this ranking, it's priced lower than VIVO Black 26 in Standing Desk Converter. The compromise here is straightforward: Smaller review base than the 26 inch K Series model. What you gain in return: Single-top design has a smaller base footprint. Whether that trade is worth it depends on which side matters more for your setup.\n\nWorth knowing before you decide: Lowest VIVO price in this comparison. On the other side, Smaller review base than the 26 inch K Series model. That's the main tradeoff to weigh against everything above.",
+    "specs": [
+      "29 inch platform, single-top compact design"
+    ],
+    "pros": [
+      "Single-top design has a smaller base footprint",
+      "Lowest VIVO price in this comparison"
+    ],
+    "cons": [
+      "Smaller review base than the 26 inch K Series model"
+    ],
+    "bestFor": "Buyers with the shallowest desks who want VIVO's smallest-footprint design."
+  },
+  {
+    "id": "b07sd7yh8t-compact",
+    "rank": 3,
+    "badge": "Best Small Single-Top Option",
+    "name": "VIVO Black Small Single Top 28 inch Standing Desk Converter, Tabletop",
+    "price": "$69.99",
+    "rating": "4.5",
+    "reviews": "987",
+    "imageUrl": "https://m.media-amazon.com/images/I/411ZEuCs0FL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07SD7YH8T?tag=theofficejournal-20",
+    "description": "On the other side, Similar footprint to the pricier 29 inch model.",
+    "specs": [
+      "28 inch platform, single-top compact design"
+    ],
+    "pros": [
+      "Larger review base than the 29 inch alternative, lower price"
+    ],
+    "cons": [
+      "Similar footprint to the pricier 29 inch model"
+    ],
+    "bestFor": "Budget-focused buyers comparing VIVO's compact single-top options."
+  },
+  {
+    "id": "b0765bq7rn-compact",
+    "rank": 4,
+    "badge": "Best From an Ergonomic-Focused Brand",
+    "name": "Mount-It! Standing Desk Converter, Compact Design",
+    "price": "See listing",
+    "rating": "4.4",
+    "reviews": "381",
+    "imageUrl": "https://m.media-amazon.com/images/I/411ZEuCs0FL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0765BQ7RN?tag=theofficejournal-20",
+    "description": "The real tradeoff against that pick: Current price not confirmed, verify on listing.\n\nOn the other side, Current price not confirmed, verify on listing.",
+    "specs": [
+      "Compact platform, gas-spring lift"
+    ],
+    "pros": [
+      "From a brand specifically focused on ergonomic mounting products"
+    ],
+    "cons": [
+      "Current price not confirmed, verify on listing"
+    ],
+    "bestFor": "Buyers who want a compact converter from an ergonomic-focused brand."
+  },
+  {
+    "id": "b0747733jh-compact",
+    "rank": 5,
+    "badge": "Best Compact Ergonomic Workstation",
+    "name": "Mount-It! Compact Standing Desk Riser, Height Adjustable Desktop Sit Stand Workstation",
+    "price": "$219.99",
+    "rating": "4.3",
+    "reviews": "224",
+    "imageUrl": "https://m.media-amazon.com/images/I/41e-fWH+dQL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0747733JH?tag=theofficejournal-20",
+    "description": "An ergonomic-focused compact workstation design at a higher price than the VIVO compact options, from Mount-It!.\n\nStanding Desk Converter in this ranking, pricing between it and Mount-It! Standing Desk Converter isn't directly comparable here.\n\nOn the other side, Lower rating than the VIVO compact options, higher price.",
+    "specs": [
+      "Compact platform, gas-spring lift"
+    ],
+    "pros": [
+      "Ergonomic-focused compact workstation design"
+    ],
+    "cons": [
+      "Lower rating than the VIVO compact options, higher price"
+    ],
+    "bestFor": "Buyers who specifically want Mount-It!'s ergonomic-focused compact design."
+  },
+  {
+    "id": "b0ckgl1m7p-compact",
+    "rank": 6,
+    "badge": "Best Value 30 Inch Compact",
+    "name": "Mount-It! Height Adjustable Standing Desk Converter, Compact 30 Inch Wide Tabletop",
+    "price": "$128.97",
+    "rating": "4.5",
+    "reviews": "282",
+    "imageUrl": "https://m.media-amazon.com/images/I/41EwRQZYUsL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKGL1M7P?tag=theofficejournal-20",
+    "description": "A better rating than the other Mount-It! Compact pick, at a lower price, a 30 inch tabletop design.\n\nCompact Standing Desk Riser, it's priced lower than Mount-It!\n\nOn the other side, Larger platform than VIVO's most compact options.",
+    "specs": [
+      "30 inch platform, gas-spring lift"
+    ],
+    "pros": [
+      "Better rating than the alternative Mount-It! compact option"
+    ],
+    "cons": [
+      "Larger platform than VIVO's most compact options"
+    ],
+    "bestFor": "Buyers who want Mount-It!'s better-rated compact option."
+  }
+];
+
+export const readTime = "8 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-portable-standing-desk-converters",
+    "title": "Best Portable Standing Desk Converters (2026)"
+  },
+  {
+    "href": "/guide/best-small-standing-desk-converters",
+    "title": "Best Small Standing Desk Converters (2026)"
+  },
+  {
+    "href": "/guide/best-standing-desk-converters",
+    "title": "Best Standing Desk Converters (2026)"
+  }
+];
+
+export const breadcrumbLabel = "Best Compact Standing Desk Converters";

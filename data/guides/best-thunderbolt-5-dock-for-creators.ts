@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-thunderbolt-5-dock-for-creators";
 
-export const guideTitle = "The Best Thunderbolt 5 Docks for Creators Worth Considering";
+export const guideTitle = "The Best Thunderbolt 5 Docks for Creators: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41VAMpqFglL._SL500_.jpg";
 

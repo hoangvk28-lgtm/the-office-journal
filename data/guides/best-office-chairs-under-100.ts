@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-office-chairs-under-100";
 
-export const guideTitle = "The Best Office Chairs Under $100 Worth Considering";
+export const guideTitle = "The Best Office Chairs Under $100: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/415Q7qsFObL._SL500_.jpg";
 

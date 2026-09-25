@@ -1,263 +1,12 @@
-export const guideSlug = "best-vr-headsets-under-200";
-export const guideTitle = "6 Best VR Headsets Under $200 in 2026";
-export const metaTitle = "Best VR Headsets Under $200";
-export const metaDescription = "We compared vr headsets under $200 models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
-export const mainKeyword = "vr headsets under $200";
-export const introParagraphs = [
-  "Best VR Headsets Under $200 span a wider range, so vr headsets under $200, few listings admit limits.",
-  "vr headsets under $200 picks split on true IPD fit, since narrow field of view feels like a mask."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41ECJtaXKCL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-vr-headsets-under-200-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Virtual Reality Goggles",
-    price: "$16.96",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41ECJtaXKCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GG9W3P1W?tag=theofficejournal-20",
-    description: "Virtual Reality Goggles is the strongest all-around choice here. Double spherical optical lens, restore the real image, more high-definition. Full-screen vr rejects the black box effect.\n\nHeld up against TECKNET VR Headset for Phone with Bluetooth Controller, both cover the basics equally well, what actually separates them is with a 100 degree wide-angle lens, the immersion is better.\n\nReach for this pick if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Marketed specs and real-world performance can differ, so check independent reviews before assuming the headline number tells the full story.",
-    specs: ["HD wide angle lens", "Good effect", "Easy to use"],
-    pros: ["HD wide angle lens", "Good effect", "Easy to use", "3D gaming"],
-    cons: ["Marketed specs and real-world specs often differ", "Check compatibility with your exact setup before buying"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-vr-headsets-under-200-2",
-    rank: 2,
-    badge: "Best Premium Pick",
-    name: "TECKNET VR Headset for Phone with Bluetooth Controller",
-    price: "$50.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/319PFtNQZkL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GTQZPFGP?tag=theofficejournal-20",
-    description: "TECKNET VR Headset for Phone with Bluetooth Controller is the premium option here, positioned above the rest on price. Immersive 3D experience: put on our vr headset and enter the breathtaking world of immersive 3D virtual reality. Comes with a responsive bluetooth controller for precise operation.\n\nAgainst Virtual Reality Goggles, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis fits best if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Compatibility with your exact setup matters more than the spec sheet alone, so confirm it works with your specific gear before buying.",
-    specs: ["Immersive 3D experience", "Bluetooth controller for easy interaction", "Ergonomic design for maximum comfort"],
-    pros: ["Immersive 3D experience", "Bluetooth controller for easy interaction", "Ergonomic design for maximum comfort", "Universal compatibility"],
-    cons: ["Check compatibility with your exact setup before buying", "Marketed specs and real-world specs often differ"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-vr-headsets-under-200-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "VR Headset, Universal 3D Virtual Reality Goggles Support 360°Panorama Large",
-    price: "$16.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31yucfUXqNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G5QGFSPV?tag=theofficejournal-20",
-    description: "VR Headset, Universal 3D Virtual Reality Goggles Support 360°Panorama Large is a strong alternative worth comparing directly against the top pick. 360-Degree panoramic view, bringing more shocking visual experience and immersive visual impa-ct.gaming and watching movies with virtual reality headsets work best when your eyes properly align with the screen box. Suitable for 4.7-7 inch mobile phones, compatible with more types of large-screen mobile phones.\n\nHeld up against Virtual Reality Goggles, both cover the basics equally well, what actually separates them is this premium vr headset is the perfect present for father's day, halloween, easter, or christmas.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Marketed specs and real-world performance can differ, so check independent reviews before assuming the headline number tells the full story.",
-    specs: ["Support for myopia users", "360-Degree panoramic view", "Adjustable interpupillary distance"],
-    pros: ["Support for myopia users", "360-Degree panoramic view", "Adjustable interpupillary distance", "More portable, more comfortable, more lightweight"],
-    cons: ["Marketed specs and real-world specs often differ", "Check compatibility with your exact setup before buying"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-vr-headsets-under-200-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "TECKNET VR Headset for Phone",
-    price: "$39.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31azpEwrHiL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H2DHG4SV?tag=theofficejournal-20",
-    description: "TECKNET VR Headset for Phone is a strong alternative worth comparing directly against the top pick. Our vr goggles are equipped with blue light protection lenses, which block harmful blue light and can relieve eye fatigue and protect your eyes. Our vr goggles are equipped with blue light protection lenses, which block harmful blue light and can relieve eye fatigue and protect your eyes.\n\nSet next to Virtual Reality Goggles, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Compatibility with your exact setup matters more than the spec sheet alone, so confirm it works with your specific gear before buying.",
-    specs: ["Immersive 3D experience", "Ergonomic design for maximum comfort", "Eye protection & myopic usable"],
-    pros: ["Immersive 3D experience", "Ergonomic design for maximum comfort", "Eye protection & myopic usable"],
-    cons: ["Check compatibility with your exact setup before buying", "Marketed specs and real-world specs often differ"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-vr-headsets-under-200-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "TECKNET VR Headset for Phone with Controller",
-    price: "$49.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31b2ZSwIAwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GX52LTQQ?tag=theofficejournal-20",
-    description: "TECKNET VR Headset for Phone with Controller is a strong alternative worth comparing directly against the top pick. Immersive 3D experience: put on our vr headset and enter the breathtaking world of immersive 3D virtual reality. Comes with a responsive bluetooth controller for precise operation.\n\nAgainst Virtual Reality Goggles, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Marketed specs and real-world performance can differ, so check independent reviews before assuming the headline number tells the full story.",
-    specs: ["Immersive 3D experience", "Bluetooth controller for easy interaction", "Ergonomic design for maximum comfort"],
-    pros: ["Immersive 3D experience", "Bluetooth controller for easy interaction", "Ergonomic design for maximum comfort", "Universal compatibility"],
-    cons: ["Marketed specs and real-world specs often differ", "Check compatibility with your exact setup before buying"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-vr-headsets-under-200-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "VR Headset 3D VR Glasses Universal Virtual Reality Goggles Support 360°Panorama",
-    price: "$16.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31mpAtZwE6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09YRLKC6V?tag=theofficejournal-20",
-    description: "VR Headset 3D VR Glasses Universal Virtual Reality Goggles Support 360°Panorama is a strong alternative worth comparing directly against the top pick. 360-Degree panoramic view, bringing more shocking visual experience and immersive visual impa-ct.gaming and watching movies with virtual reality headsets work best when your eyes properly align with the screen box. Suitable for 4.7-7 inch mobile phones, compatible with more types of large-screen mobile phones.\n\nVirtual Reality Goggles covers similar ground, though this premium vr headset is the perfect present for father's day, halloween, easter, or christmas is what tips the choice one way or the other.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Compatibility with your exact setup matters more than the spec sheet alone, so confirm it works with your specific gear before buying.",
-    specs: ["Support for myopia users", "360-Degree panoramic view", "Adjustable interpupillary distance"],
-    pros: ["Support for myopia users", "360-Degree panoramic view", "Adjustable interpupillary distance", "More portable, more comfortable, more lightweight"],
-    cons: ["Check compatibility with your exact setup before buying", "Marketed specs and real-world specs often differ"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Controller Tracking Accuracy Varies Even Between Headsets With Similar Specs",
-    "description": "Controller tracking reliability is a genuinely variable spec that doesn't always correlate with headset resolution or price, tracking can degrade when a controller moves out of camera view during fast or wide motions, this matters significantly for rhythm games, fitness apps, or fast-paced shooters, check dedicated controller tracking reviews for your specific intended use.."
-  },
-  {
-    "title": "Headset Weight Distribution Matters More Than Total Weight for Extended Sessions",
-    "description": "Two VR headsets with similar total weight can feel completely different to wear, a front-heavy design pulls on the face and creates pressure points during longer sessions, while a design with rear-mounted weight (like a battery pack) balances the load more evenly, comfort reviews focused on extended wear matter more than a simple weight spec comparison.."
-  },
-  {
-    "title": "Internal Storage Caps How Many Apps and Games You Keep Installed at Once",
-    "description": "VR game and app file sizes have grown considerably as the platform matures, a lower storage tier on a standalone headset fills up faster than most buyers expect, forcing regular uninstall-and-redownload cycles, if you plan to keep a substantial library installed at once, the storage upgrade is often worth the price difference over the base tier.."
-  },
-  {
-    "title": "Standalone and PC-Tethered Headsets Solve Different Priorities",
-    "description": "A standalone VR headset runs its own processor and battery with no computer or cables required, genuinely convenient and portable but limited to less graphically intensive experiences than a PC can render, a PC-tethered headset relies on a connected computer's GPU for far more demanding visuals but requires a cable (or a strong wireless streaming setup) and a capable gaming PC, match the type to whether portability or peak visual fidelity matters more.."
-  },
-  {
-    "title": "Field of View Affects Immersion More Than Most Buyers Initially Expect",
-    "description": "Field of view is easy to overlook on a spec sheet but has an outsized effect on how immersive a VR headset actually feels, a narrow field of view creates a tunnel-vision sensation some users describe as looking through a mask, a wider field of view meaningfully increases immersion, particularly for open-world or exploration-focused VR content.."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Setup",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "No gaming PC available",
-          "TECKNET VR Headset for Phone with Bluetooth Controller"
-        ],
-        [
-          "Have a capable gaming PC",
-          "Virtual Reality Goggles"
-        ],
-        [
-          "Want maximum visual fidelity",
-          "TECKNET VR Headset for Phone with Bluetooth Controller"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "TECKNET VR Headset for Phone with Bluetooth Controller"
-        ],
-        [
-          "Mid-range pick",
-          "VR Headset, Universal 3D Virtual Reality Goggles Support 360°Panorama Large"
-        ],
-        [
-          "Higher budget",
-          "TECKNET VR Headset for Phone with Bluetooth Controller"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Standalone vs PC-Tethered",
-    "cards": [
-      {
-        "label": "Standalone (e.g. TECKNET VR Headset for Phone with Bluetooth Controller)",
-        "text": "No cables or computer needed, capped at mobile-chip-level graphics."
-      },
-      {
-        "label": "PC-tethered",
-        "text": "Far more demanding visuals possible, needs a gaming PC and a cable or wireless streaming setup."
-      }
-    ],
-    "note": "Match this to your actual setup and priorities."
-  },
-  {
-    "subheading": "By Motion Sensitivity",
-    "table": {
-      "headers": [
-        "Your sensitivity",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Not prone to motion sickness",
-          "Virtual Reality Goggles"
-        ],
-        [
-          "Sensitive to VR discomfort",
-          "VR Headset, Universal 3D Virtual Reality Goggles Support 360°Panorama Large"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Fast-Paced or Full-Body Games Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Controller tracking that holds up specifically when controllers move outside the headset's camera view."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Virtual Reality Goggles is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need the strongest real-world performance and sturdiest build, where TECKNET VR Headset for Phone with Bluetooth Controller justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want straightforward everyday use without paying for headroom you won't need, where TECKNET VR Headset for Phone with Bluetooth Controller already covers the job at the lowest price here."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
     "criterion": "Controller Tracking Accuracy Varies Even Between Headsets With Similar Specs",
-    "explanation": "Controller tracking reliability is a genuinely variable spec that doesn't always correlate with headset resolution or price, tracking can degrade when a controller moves out of camera view during fast or wide motions, this matters significantly for rhythm games, fitness apps, or fast-paced shooters, check dedicated controller tracking reviews for your specific intended use."
+    "explanation": "Controller tracking reliability is a variable spec that doesn't always correlate with headset resolution or price, tracking can degrade when a controller moves out of camera view during fast or wide motions, this matters significantly for rhythm games, fitness apps, or fast-paced shooters, check dedicated controller tracking reviews for your specific intended use."
   },
   {
     "criterion": "Headset Weight Distribution Matters More Than Total Weight for Extended Sessions",
@@ -269,7 +18,7 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Standalone and PC-Tethered Headsets Solve Different Priorities",
-    "explanation": "A standalone VR headset runs its own processor and battery with no computer or cables required, genuinely convenient and portable but limited to less graphically intensive experiences than a PC can render, a PC-tethered headset relies on a connected computer's GPU for far more demanding visuals but requires a cable (or a strong wireless streaming setup) and a capable gaming PC, match the type to whether portability or peak visual fidelity matters more."
+    "explanation": "A standalone VR headset runs its own processor and battery with no computer or cables required, convenient and portable but limited to less graphically intensive experiences than a PC can render, a PC-tethered headset relies on a connected computer's GPU for far more demanding visuals but requires a cable (or a strong wireless streaming setup) and a capable gaming PC, match the type to whether portability or peak visual fidelity matters more."
   },
   {
     "criterion": "Field of View Affects Immersion More Than Most Buyers Initially Expect",
@@ -279,35 +28,376 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "storage-vr-faq",
+    "id": "",
     "q": "How much storage do I need on a standalone VR headset?",
     "a": "More than the base tier usually offers, VR game file sizes have grown significantly, a smaller storage tier fills up faster than expected and forces regular uninstall-and-redownload cycles."
   },
   {
-    "id": "motionsick-faq",
+    "id": "",
     "q": "Can a VR headset cause motion sickness?",
     "a": "It can, particularly at lower refresh rates, if you or the intended user is sensitive to VR discomfort, prioritize a headset running at 90Hz or higher over other specs."
   },
   {
-    "id": "standalone-faq",
+    "id": "",
     "q": "Should I get a standalone or PC VR headset?",
     "a": "Standalone offers real freedom from cables and a computer but caps out at mobile-chip-level graphics, PC-tethered unlocks far more demanding visuals but needs a gaming PC and either a cable or a solid wireless streaming setup."
   },
   {
-    "id": "resolution-vr-faq",
+    "id": "",
     "q": "What resolution should I look for in a VR headset?",
     "a": "Check the true per-eye resolution, not a combined total across both eyes, a low per-eye resolution can produce a visible screen door effect that's especially distracting when reading in-game text."
   },
   {
-    "id": "tracking-faq",
+    "id": "",
     "q": "Does VR tracking work in any room?",
     "a": "Inside-out tracking can struggle in poorly lit rooms, near reflective surfaces, or unusually shaped spaces, check specific tracking reliability reviews if your play space has any of these challenges."
   },
   {
-    "id": "fov-faq",
+    "id": "",
     "q": "Does field of view really matter in VR?",
     "a": "Yes, more than most buyers expect, a narrow field of view can feel like looking through a mask, a wider field of view meaningfully increases immersion, especially for exploration-focused content."
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-vr-headsets","title":"Best VR Headsets in 2026"},{"href":"/guide/best-vr-headsets-under-1000","title":"Best VR Headsets Under $1000 in 2026"},{"href":"/guide/best-vr-headsets-under-50","title":"Best VR Headsets Under $50 in 2026"},{"href":"/guide/best-vr-headsets-under-80","title":"Best VR Headsets Under $80 in 2026"}];
+export const guideSlug = "best-vr-headsets-under-200";
+
+export const guideTitle = "The Best VR Headsets Under $200, Compared";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41ECJtaXKCL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "TECKNET VR Headset for Phone with Bluetooth Controller"
+        ],
+        [
+          "Have a capable gaming PC",
+          ""
+        ],
+        [
+          "",
+          "TECKNET VR Headset for Phone with Bluetooth Controller"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          "TECKNET VR Headset for Phone with Bluetooth Controller"
+        ],
+        [
+          "",
+          "VR Headset, Universal 3D Virtual Reality Goggles Support 360°Panorama Large"
+        ],
+        [
+          "",
+          "TECKNET VR Headset for Phone with Bluetooth Controller"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "TECKNET VR Headset for Phone with Bluetooth Controller)",
+        "text": "No cables or computer needed, capped at mobile-chip-level graphics."
+      },
+      {
+        "label": "",
+        "text": "Far more demanding visuals possible, needs a gaming PC and a cable or wireless streaming setup."
+      }
+    ],
+    "note": "Match this to your actual setup and priorities."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Not prone to motion sickness",
+          ""
+        ],
+        [
+          "",
+          "VR Headset, Universal 3D Virtual Reality Goggles Support 360°Panorama Large"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For Fast-Paced or Full-Body Games Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "Controller tracking that holds up specifically when controllers move outside the headset's camera view."
+      },
+      {
+        "label": "",
+        "text": "Virtual Reality Goggles is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need the strongest real-world performance and sturdiest build, where TECKNET VR Headset for Phone with Bluetooth Controller justifies the extra cost."
+      },
+      {
+        "label": "",
+        "text": "You want straightforward everyday use without paying for headroom you won't need, where TECKNET VR Headset for Phone with Bluetooth Controller already covers the job at the lowest price here."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "Controller Tracking Accuracy Varies Even Between Headsets With Similar Specs",
+    "description": "Controller tracking reliability is a variable spec that doesn't always correlate with headset resolution or price, tracking can degrade when a controller moves out of camera view during fast or wide motions, this matters significantly for rhythm games, fitness apps, or fast-paced shooters, check dedicated controller tracking reviews for your specific intended use.."
+  },
+  {
+    "title": "Headset Weight Distribution Matters More Than Total Weight for Extended Sessions",
+    "description": "Two VR headsets with similar total weight can feel completely different to wear, a front-heavy design pulls on the face and creates pressure points during longer sessions, while a design with rear-mounted weight (like a battery pack) balances the load more evenly, comfort reviews focused on extended wear matter more than a simple weight spec comparison.."
+  },
+  {
+    "title": "Internal Storage Caps How Many Apps and Games You Keep Installed at Once",
+    "description": "VR game and app file sizes have grown considerably as the platform matures, a lower storage tier on a standalone headset fills up faster than most buyers expect, forcing regular uninstall-and-redownload cycles, if you plan to keep a substantial library installed at once, the storage upgrade is often worth the price difference over the base tier.."
+  },
+  {
+    "title": "Standalone and PC-Tethered Headsets Solve Different Priorities",
+    "description": "A standalone VR headset runs its own processor and battery with no computer or cables required, convenient and portable but limited to less graphically intensive experiences than a PC can render, a PC-tethered headset relies on a connected computer's GPU for far more demanding visuals but requires a cable (or a strong wireless streaming setup) and a capable gaming PC, match the type to whether portability or peak visual fidelity matters more.."
+  },
+  {
+    "title": "Field of View Affects Immersion More Than Most Buyers Initially Expect",
+    "description": "Field of view is easy to overlook on a spec sheet but has an outsized effect on how immersive a VR headset actually feels, a narrow field of view creates a tunnel-vision sensation some users describe as looking through a mask, a wider field of view meaningfully increases immersion, particularly for open-world or exploration-focused VR content.."
+  }
+];
+
+export const introParagraphs = [
+  "Best VR Headsets Under $200 span a wider range, so vr headsets under $200, few listings admit limits.",
+  "Vr headsets under $200 picks split on true IPD fit, since narrow field of view feels like a mask."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const mainKeyword = "vr headsets under $200";
+
+export const metaDescription = "We compared 6 VR headsets under $200 on compatibility, build, features and price to help you choose the right one for your space.";
+
+export const metaTitle = "Best VR Headsets Under $200 (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-vr-headsets-under-200-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Virtual Reality Goggles",
+    "price": "$16.96",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41ECJtaXKCL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GG9W3P1W?tag=theofficejournal-20",
+    "description": "Virtual Reality Goggles is the strongest all-around choice here. Double spherical optical lens, restore the real image, more high-definition. Full-screen vr rejects the black box effect.\n\nHeld up against TECKNET VR Headset for Phone with Bluetooth Controller, both cover the basics equally well, what actually separates them is with a 100 degree wide-angle lens, the immersion is better.\n\nReach for this pick if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Marketed specs and real-world performance can differ, so check independent reviews before assuming the headline number tells the full story.",
+    "specs": [
+      "HD wide angle lens",
+      "Good effect",
+      "Easy to use"
+    ],
+    "pros": [
+      "HD wide angle lens",
+      "Good effect",
+      "Easy to use",
+      "3D gaming"
+    ],
+    "cons": [
+      "Marketed specs and real-world specs often differ",
+      "Check compatibility with your exact setup before buying"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-vr-headsets-under-200-2",
+    "rank": 2,
+    "badge": "Best Premium Pick",
+    "name": "TECKNET VR Headset for Phone with Bluetooth Controller",
+    "price": "$50.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/319PFtNQZkL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTQZPFGP?tag=theofficejournal-20",
+    "description": "TECKNET VR Headset for Phone with Bluetooth Controller is the premium option here, positioned above the rest on price. Immersive 3D experience: put on our vr headset and enter the breathtaking world of immersive 3D virtual reality. Comes with a responsive bluetooth controller for precise operation.\n\nAgainst Virtual Reality Goggles, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis fits best if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Compatibility with your exact setup matters more than the spec sheet alone, so confirm it works with your specific gear before buying.",
+    "specs": [
+      "Immersive 3D experience",
+      "Bluetooth controller for easy interaction",
+      "Ergonomic design for maximum comfort"
+    ],
+    "pros": [
+      "Immersive 3D experience",
+      "Bluetooth controller for easy interaction",
+      "Ergonomic design for maximum comfort",
+      "Universal compatibility"
+    ],
+    "cons": [
+      "Check compatibility with your exact setup before buying",
+      "Marketed specs and real-world specs often differ"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it"
+  },
+  {
+    "id": "best-vr-headsets-under-200-3",
+    "rank": 3,
+    "badge": "Solid Alternative",
+    "name": "VR Headset, Universal 3D Virtual Reality Goggles Support 360°Panorama Large",
+    "price": "$16.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31yucfUXqNL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5QGFSPV?tag=theofficejournal-20",
+    "description": "VR Headset, Universal 3D Virtual Reality Goggles Support 360°Panorama Large is a strong alternative worth comparing directly against the top pick. Gaming and watching movies with virtual reality headsets work best when your eyes properly align with the screen box. 7-7 inch mobile phones, compatible with more types of large-screen mobile phones.\n\nHeld up against Virtual Reality Goggles, both cover the basics equally well, what actually separates them is this premium vr headset is the well suited present for father's day, halloween, easter, or christmas.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Marketed specs and real-world performance can differ, so check independent reviews before assuming the headline number tells the full story.",
+    "specs": [
+      "Support for myopia users",
+      "360-Degree panoramic view",
+      "Adjustable interpupillary distance"
+    ],
+    "pros": [
+      "Support for myopia users",
+      "360-Degree panoramic view",
+      "Adjustable interpupillary distance",
+      "More portable, more comfortable, more lightweight"
+    ],
+    "cons": [
+      "Marketed specs and real-world specs often differ",
+      "Check compatibility with your exact setup before buying"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-vr-headsets-under-200-4",
+    "rank": 4,
+    "badge": "Another Strong Option",
+    "name": "TECKNET VR Headset for Phone",
+    "price": "$39.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31azpEwrHiL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2DHG4SV?tag=theofficejournal-20",
+    "description": "TECKNET VR Headset for Phone is a strong alternative worth comparing directly against the top pick. Our vr goggles are equipped with blue light protection lenses, which block harmful blue light and can relieve eye fatigue and protect your eyes. Our vr goggles are equipped with blue light protection lenses, which block harmful blue light and can relieve eye fatigue and protect your eyes.\n\nSet next to Virtual Reality Goggles, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Compatibility with your exact setup matters more than the spec sheet alone, so confirm it works with your specific gear before buying.",
+    "specs": [
+      "Immersive 3D experience",
+      "Ergonomic design for maximum comfort",
+      "Eye protection & myopic usable"
+    ],
+    "pros": [
+      "Immersive 3D experience",
+      "Ergonomic design for maximum comfort",
+      "Eye protection & myopic usable"
+    ],
+    "cons": [
+      "Check compatibility with your exact setup before buying",
+      "Marketed specs and real-world specs often differ"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-vr-headsets-under-200-5",
+    "rank": 5,
+    "badge": "Runner-Up Pick",
+    "name": "TECKNET VR Headset for Phone with Controller",
+    "price": "$49.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31b2ZSwIAwL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX52LTQQ?tag=theofficejournal-20",
+    "description": "TECKNET VR Headset for Phone with Controller is a strong alternative worth comparing directly against the top pick. Immersive 3D experience: put on our vr headset and enter the breathtaking world of immersive 3D virtual reality. Comes with a responsive bluetooth controller for precise operation.\n\nAgainst Virtual Reality Goggles, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Marketed specs and real-world performance can differ, so check independent reviews before assuming the headline number tells the full story.",
+    "specs": [
+      "Immersive 3D experience",
+      "Bluetooth controller for easy interaction",
+      "Ergonomic design for maximum comfort"
+    ],
+    "pros": [
+      "Immersive 3D experience",
+      "Bluetooth controller for easy interaction",
+      "Ergonomic design for maximum comfort",
+      "Universal compatibility"
+    ],
+    "cons": [
+      "Marketed specs and real-world specs often differ",
+      "Check compatibility with your exact setup before buying"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-vr-headsets-under-200-6",
+    "rank": 6,
+    "badge": "Worth a Look",
+    "name": "VR Headset 3D VR Glasses Universal Virtual Reality Goggles Support 360°Panorama",
+    "price": "$16.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31mpAtZwE6L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09YRLKC6V?tag=theofficejournal-20",
+    "description": "VR Headset 3D VR Glasses Universal Virtual Reality Goggles Support 360°Panorama is a strong alternative worth comparing directly against the top pick. Gaming and watching movies with virtual reality headsets work best when your eyes properly align with the screen box. 7-7 inch mobile phones, compatible with more types of large-screen mobile phones.\n\nVirtual Reality Goggles covers similar ground, though this premium vr headset is the well suited present for father's day, halloween, easter, or christmas is what tips the choice one way or the other.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Compatibility with your exact setup matters more than the spec sheet alone, so confirm it works with your specific gear before buying.",
+    "specs": [
+      "Support for myopia users",
+      "360-Degree panoramic view",
+      "Adjustable interpupillary distance"
+    ],
+    "pros": [
+      "Support for myopia users",
+      "360-Degree panoramic view",
+      "Adjustable interpupillary distance",
+      "More portable, more comfortable, more lightweight"
+    ],
+    "cons": [
+      "Check compatibility with your exact setup before buying",
+      "Marketed specs and real-world specs often differ"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  }
+];
+
+export const readTime = "11 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-vr-headsets",
+    "title": "Best VR Headsets in 2026"
+  },
+  {
+    "href": "/guide/best-vr-headsets-under-1000",
+    "title": "Best VR Headsets Under $1000 in 2026"
+  },
+  {
+    "href": "/guide/best-vr-headsets-under-50",
+    "title": "Best VR Headsets Under $50 in 2026"
+  },
+  {
+    "href": "/guide/best-vr-headsets-under-80",
+    "title": "Best VR Headsets Under $80 in 2026"
+  }
+];
+
+export const breadcrumbLabel = "Best VR Headsets Under $200";

@@ -1,193 +1,12 @@
-export const guideSlug = "best-office-pods-for-remote-work";
-export const guideTitle = "4 Best Office Pods for Remote Work in 2026";
-export const metaTitle = "Best Office Pods for Remote Work (2026)";
-export const metaDescription =
-  "4 office pods evaluated through a full-workday ventilation and ergonomics lens, cross-referenced with our home office booth guides.";
-export const mainKeyword = "office pods for remote work";
-export const introParagraphs = [
-  "A remote worker sitting inside a pod for a full workday cares less about a headline soundproof rating and more about sustained ventilation, sightlines and lighting for video calls, and ergonomic comfort over many hours, criteria that overlap with, but go beyond, our home office booth guides.",
-  "Ventilation is the most consistently undisclosed spec across office pod listings on Amazon, most titles emphasize soundproofing and say nothing about airflow, even though CO2 buildup and stuffiness matter more than acoustic rating for anyone sitting inside for a full workday. Ask the seller directly for an airflow rate or fan CFM figure before buying.",
-];
-export const lastUpdated = "2026-08-02";
-export const readTime = "10 min";
-export const heroImage = "https://m.media-amazon.com/images/I/410Ppc6zuZL._SL500_.jpg";
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: string; reviews: string;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-export interface BuyingCriterion { criterion: string; explanation: string; }
-export interface FaqItem { q: string; a: string; }
-
-export const products: GuideProduct[] = [
-  {
-    id: "b0d4k6vt83-pod",
-    rank: 1,
-    badge: "Best Large Pod for Full-Workday Use",
-    name: "Portable Noise-Reducing Pod for Enhanced Privacy and Productivity (L)",
-    price: "Check current price on Amazon",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/410Ppc6zuZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D4K6VT83?tag=theofficejournal-20",
-    description:
-      "This is a large (L) size enclosed pod from a generic, private-label manufacturer, marketed for privacy and productivity rather than a specific occupancy count or use case. Amazon's listing does not include a star rating or review count, so there is no independent buyer feedback to weigh against the marketing copy.\n\nThe listing does not disclose ventilation specs, STC or NRC sound ratings, or interior versus exterior dimensions, gaps that are common across this category and worth asking the seller about directly before ordering. As with any large enclosed structure, plan for freight delivery and multi-person assembly.\n\nStraightforward, single-purpose enclosed privacy design. Set against that, no star rating or review count available from Amazon. Both matter when comparing it to the other picks here.",
-    specs: ["Large (L) size enclosed pod", "Marketed for privacy and productivity", "Generic/private-label manufacturer", "No published exterior dimension breakdown"],
-    pros: ["Large L-size interior offers more headroom than compact one-person pods", "Straightforward, single-purpose enclosed privacy design", "No occupancy-count ambiguity in sizing tier (marketed as L/large)", "No star rating or review count to independently verify against the marketing copy"],
-    cons: ["No star rating or review count available from Amazon", "Price not returned by the listing data, check current Amazon price directly", "No ventilation or STC/NRC specs disclosed"],
-    bestFor: "Remote workers wanting maximum headroom for sustained daily use.",
-  },
-  {
-    id: "b0d5c1h18w-pod",
-    rank: 2,
-    badge: "Best Multipurpose Pod for Remote Work",
-    name: "Luxury Acoustic Home Office Pod for Meeting and Multipurpose Use, Indoor and Outdoor Silence Booth",
-    price: "Check current price on Amazon",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/41tY3PYt8NL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5C1H18W?tag=theofficejournal-20",
-    description:
-      "This is the one product in the verified pool whose title explicitly claims indoor and outdoor use, marketed as a luxury acoustic pod for meetings and multipurpose home office work. Amazon's listing does not include a star rating or review count.\n\nAn outdoor use claim in a title is not the same as a documented weatherproof rating, before installing outdoors confirm with the seller directly what weatherproofing standard, if any, the pod meets, how its electrical components are protected from moisture, and whether a foundation or anchoring system is included, since none of that is specified in the listing.\n\nThe standout detail is that multipurpose framing suits both meetings and general home office work. Balancing that out, no star rating or review count available from Amazon.",
-    specs: ["Marketed for indoor and outdoor use", "Multipurpose meeting/home office framing", "Acoustic (\"silence booth\") design", "Generic/private-label manufacturer"],
-    pros: ["Only product in this research pool whose title explicitly claims outdoor use", "Multipurpose framing suits both meetings and general home office work", "Acoustic-focused interior design", "No star rating or review count to independently verify against the marketing copy"],
-    cons: ["No star rating or review count available from Amazon", "No documented weatherproof rating, electrical safety spec, or anchoring system disclosed", "Price not returned by the listing data, check current Amazon price directly"],
-    bestFor: "Remote workers wanting a flexible space usable for both video meetings and general work.",
-  },
-  {
-    id: "b0cw1vsghg-pod",
-    rank: 3,
-    badge: "Budget-Consideration Pick (Verify Directly)",
-    name: "SoundGuard Studio Pod, Acoustic Enclosure, Noise Isolation Booth",
-    price: "Check current price on Amazon",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/41yCgSXvpOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CW1VSGHG?tag=theofficejournal-20",
-    description:
-      "This listing's full title stacks several different marketing names for the same product (studio pod, acoustic enclosure, isolation booth, soundproof chamber, acoustic shelter), a keyword-stuffed pattern common among lower-quality Amazon listings, so treat the branding language itself with some skepticism rather than as a meaningful differentiator. Amazon's listing does not include a star rating or review count.\n\nBeyond the stacked naming, the listing gives no occupancy count, no exterior dimensions, and no acoustic test data, which makes it harder to evaluate against the more detailed listings in this pool. Ask the seller directly for dimensions, ventilation specs, and any sound-isolation test data before ordering.\n\nOne of the available options in a thin niche. That's a real strength, but weigh it against the flip side: keyword-stuffed listing title is a pattern associated with lower-quality listings.",
-    specs: ["Acoustic enclosure / noise isolation framing", "Listing title stacks multiple keyword-style product names", "Generic/private-label manufacturer", "No occupancy count specified"],
-    pros: ["Acoustic enclosure framing for general noise-isolation use", "One of the available options in a thin niche", "No star rating or review count to independently verify against the marketing copy"],
-    cons: ["Keyword-stuffed listing title is a pattern associated with lower-quality listings", "No star rating, review count, dimensions, or acoustic test data disclosed", "Price not returned by the listing data, check current Amazon price directly"],
-    bestFor: "Remote workers comparing entry options, with the caveat that this listing's stacked title warrants extra seller questions.",
-  },
-  {
-    id: "b0f62z8cff-pod",
-    rank: 4,
-    badge: "Best Compact Pick for Remote Work",
-    name: "Soundproof Office Pod Booth, Quiet Meeting Pod with Acoustic Panels, One to Two Person Workspace (W55in D48in H92in)",
-    price: "$4,999.00",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/31KSQuhuwNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F62Z8CFF?tag=theofficejournal-20",
-    description:
-      "A one-to-two-person pod at W55in D48in H92in exterior dimensions, one of the few listings in this pool to explicitly state a small occupancy range rather than a single fixed number. Amazon's listing does not include a star rating or review count.\n\nThe wider W55in footprint compared to the strictly solo pods gives a bit more room for a second occupant or a visitor chair, though interior usable space will still run smaller than the exterior dimensions once acoustic wall thickness is accounted for. No STC/NRC data or ventilation specs are disclosed.\n\nExact exterior dimensions disclosed (W55 x D48 x H92in). On the other hand, no star rating or review count available from Amazon. Both are worth keeping in mind before deciding.",
-    specs: ["1 to 2 person capacity", "Exterior dimensions W55in D48in H92in", "Acoustic panel interior", "Generic/private-label manufacturer"],
-    pros: ["Explicit 1-2 person occupancy range disclosed in the title", "Exact exterior dimensions disclosed (W55 x D48 x H92in)", "Mid-range price relative to the rest of this pool", "No star rating or review count to independently verify against the marketing copy"],
-    cons: ["No star rating or review count available from Amazon", "No formal STC/NRC sound-isolation data disclosed", "No ventilation specs disclosed for two-occupant use"],
-    bestFor: "Remote workers with limited space wanting a smaller footprint for daily use.",
-  },
-];
-
-export interface HowWeEvaluatedItem { title: string; description: string; }
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  { title: "Full-workday ventilation weighted over acoustic marketing", description: "Weighted the ventilation disclosure gap heavily for this guide specifically, since sustained daily occupancy makes airflow more consequential than a headline soundproof claim." },
-  { title: "Video call lighting and background considered", description: "Considered interior dimensions and enclosed design as a proxy for consistent video call background and lighting control, though no listing specifies interior lighting fixtures." },
-  { title: "Sustained-use ergonomics flagged as a listing gap", description: "Flagged that no listing in this niche details ergonomic seating or desk height adjustability, a real gap for anyone using a pod for full workdays." },
-  { title: "Cross-referenced home office booth guides rather than duplicating", description: "Confirmed overlap with our home office booth and soundproof home office booth guides and cross-linked rather than treating remote-work fit as an entirely separate research question." },
-];
-
-export interface HowToChooseSection { subheading: string; intro?: string; table?: { headers: string[]; rows: string[][] }; cards?: { label: string; text: string }[]; note?: string; }
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Highest average rating",
-          "Portable Noise"
-        ],
-        [
-          "Largest review base, strongest reliability signal",
-          "Portable Noise"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Under $NaN",
-          "Portable Noise"
-        ],
-        [
-          "Up to $4",
-          "Soundproof Office Pod Booth"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Review Base vs Price",
-    "cards": [
-      {
-        "label": "Portable Noise",
-        "text": "The lower-priced option in this comparison, worth checking its acoustic and ventilation specs against your needs."
-      },
-      {
-        "label": "Soundproof Office Pod Booth",
-        "text": "The higher-priced option, worth it if it offers real acoustic or space headroom above the cheaper pick."
-      }
-    ],
-    "note": "Default to Portable Noise unless your specific needs genuinely call for the pricier pick."
-  },
-  {
-    "subheading": "By Disclosed Dimensions",
-    "note": "Check each pick's listed exterior dimensions in inches against your actual available space before buying, not just its size category label. Portable Noise is the most-reviewed option here if you want the safer bet."
-  },
-  {
-    "subheading": "For Remote Work Video Calls Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A verified STC or dB reduction rating, plus confirmed ventilation with a stated CFM figure for comfortable extended use during calls."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Portable Noise is worth checking against its listed acoustic and ventilation specs before buying, given its strong review base."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need verified acoustic isolation and ventilation for daily extended use, where Soundproof Office Pod Booth's higher price buys real headroom over the cheaper picks."
-      },
-      {
-        "label": "Save if",
-        "text": "You only need occasional light use, where Portable Noise covers the same job at a lower price."
-      }
-    ]
-  }
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
+export const buyingCriteria = [
   {
     "criterion": "Verify actual acoustic performance, not just the word \"soundproof\"",
-    "explanation": "\"Soundproof\" is a marketing term with no fixed technical meaning, while a genuine sound-dampening spec is usually expressed as an STC (Sound Transmission Class) or dB reduction rating, and many pod listings use the word freely without disclosing any such figure at all.\n\nThis matters directly if the pod's purpose is blocking distracting noise for calls or focused work, since a pod with acoustic panels but no verified STC rating may reduce noise only modestly rather than genuinely isolating sound.\n\nCheck the listing specifically for a stated STC rating or dB reduction figure, and treat the bare word \"soundproof\" with no supporting number as an unverified marketing claim."
+    "explanation": "\"Soundproof\" is a marketing term with no fixed technical meaning, while a genuine sound-dampening spec is usually expressed as an STC (Sound Transmission Class) or DB reduction rating, and many pod listings use the word freely without disclosing any such figure at all.\n\nThis matters directly if the pod's purpose is blocking distracting noise for calls or focused work, since a pod with acoustic panels but no verified STC rating may reduce noise only modestly rather than isolating sound.\n\nCheck the listing specifically for a stated STC rating or DB reduction figure, and treat the bare word \"soundproof\" with no supporting number as an unverified marketing claim."
   },
   {
     "criterion": "Check ventilation claims against real airflow data, not just the word \"ventilated\"",
@@ -207,15 +26,285 @@ export const buyingCriteria: BuyingCriterion[] = [
   }
 ];
 
-export const faq: FaqItem[] = [
-  { q: "Is ventilation a bigger concern than soundproofing for remote work?", a: "For full-workday use, yes, CO2 buildup and stuffiness affect comfort more directly than acoustic rating, yet no listing in this niche discloses airflow specs." },
-  { q: "Will video calls look professional from inside one of these pods?", a: "Plan to add your own lighting, no listing specifies interior lighting fixtures or camera-oriented background treatment." },
-  { q: "Is an office pod worth it compared to a co-working membership?", a: "It depends on your usage pattern, at $4,000-$8,000, a pod makes more sense if you need dedicated, immediately available space at home rather than as a replacement for occasional co-working use." },
-  { q: "Should I read the home office booth guides too?", a: "Yes, this guide overlaps with our home office booths and soundproof home office booths guides, reviewing all three gives a fuller comparison." },
+export const faq = [
+  {
+    "q": "Is ventilation a bigger concern than soundproofing for remote work?",
+    "a": "For full-workday use, yes, CO2 buildup and stuffiness affect comfort more directly than acoustic rating, yet no listing in this niche discloses airflow specs."
+  },
+  {
+    "q": "Will video calls look professional from inside one of these pods?",
+    "a": "Plan to add your own lighting, no listing specifies interior lighting fixtures or camera-oriented background treatment."
+  },
+  {
+    "q": "Is an office pod worth it compared to a co-working membership?",
+    "a": "It depends on your usage pattern, at $4,000-$8,000, a pod makes more sense if you need dedicated, immediately available space at home rather than as a replacement for occasional co-working use."
+  },
+  {
+    "q": "Should I read the home office booth guides too?",
+    "a": "Yes, this guide overlaps with our home office booths and soundproof home office booths guides, reviewing all three gives a fuller comparison."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-home-office-booths", title: "Best Home Office Booths (2026)" },
-  { href: "/guide/best-soundproof-home-office-booths", title: "Best Soundproof Home Office Booths (2026)" },
-  { href: "/guide/best-office-pods-for-small-apartments", title: "Best Office Pods for Small Apartments (2026)" },
+export const guideSlug = "best-office-pods-for-remote-work";
+
+export const guideTitle = "The Best Office Pods for Remote Work, Compared";
+
+export const heroImage = "https://m.media-amazon.com/images/I/410Ppc6zuZL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "The lower-priced option in this comparison, worth checking its acoustic and ventilation specs against your needs."
+      },
+      {
+        "label": "",
+        "text": "The higher-priced option, worth it if it offers real acoustic or space headroom above the cheaper pick."
+      }
+    ],
+    "note": "Default to Portable Noise unless your specific needs call for the pricier pick."
+  },
+  {
+    "subheading": "",
+    "note": "Check each pick's listed exterior dimensions in inches against your actual available space before buying, not just its size category label."
+  },
+  {
+    "subheading": "For Remote Work Video Calls Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "A verified STC or DB reduction rating, plus confirmed ventilation with a stated CFM figure for comfortable extended use during calls."
+      },
+      {
+        "label": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need verified acoustic isolation and ventilation for daily extended use, where Soundproof Office Pod Booth's higher price buys real headroom over the cheaper picks."
+      },
+      {
+        "label": "",
+        "text": "You only need occasional light use, where Portable Noise covers the same job at a lower price."
+      }
+    ]
+  }
 ];
+
+export const howWeEvaluated = [
+  {
+    "title": "Full-workday ventilation weighted over acoustic marketing",
+    "description": "Weighted the ventilation disclosure gap heavily for this guide specifically, since sustained daily occupancy makes airflow more consequential than a headline soundproof claim."
+  },
+  {
+    "title": "Video call lighting and background considered",
+    "description": "Considered interior dimensions and enclosed design as a proxy for consistent video call background and lighting control, though no listing specifies interior lighting fixtures."
+  },
+  {
+    "title": "Sustained-use ergonomics flagged as a listing gap",
+    "description": "Flagged that no listing in this niche details ergonomic seating or desk height adjustability, a real gap for anyone using a pod for full workdays."
+  },
+  {
+    "title": "Cross-referenced home office booth guides rather than duplicating",
+    "description": "Confirmed overlap with our home office booth and soundproof home office booth guides and cross-linked rather than treating remote-work fit as an entirely separate research question."
+  }
+];
+
+export const introParagraphs = [
+  "A remote worker sitting inside a pod for a full workday cares less about a headline soundproof rating and more about sustained ventilation, sightlines and lighting for video calls, and ergonomic comfort over many hours, criteria that overlap with, but go beyond, our home office booth guides.",
+  "Ventilation is the most consistently undisclosed spec across office pod listings on Amazon, most titles emphasize soundproofing and say nothing about airflow, even though CO2 buildup and stuffiness matter more than acoustic rating for anyone sitting inside for a full workday. Ask the seller directly for an airflow rate or fan CFM figure before buying."
+];
+
+export const lastUpdated = "2026-08-02";
+
+export const mainKeyword = "office pods for remote work";
+
+export const metaDescription = "We compared 4 office pods for remote work on compatibility, build, features and price to help you choose the right one for your space.";
+
+export const metaTitle = "Best Office Pods for Remote Work (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "b0d4k6vt83-pod",
+    "rank": 1,
+    "badge": "Best Large Pod for Full-Workday Use",
+    "name": "Portable Noise-Reducing Pod for Enhanced Privacy and Productivity (L)",
+    "price": "Check current price on Amazon",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/410Ppc6zuZL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4K6VT83?tag=theofficejournal-20",
+    "description": "This is a large (L) size enclosed pod from a generic, private-label manufacturer, marketed for privacy and productivity rather than a specific occupancy count or use case. Amazon's listing does not include a star rating or review count, so there is no independent buyer feedback to weigh against the marketing copy.\n\nThe listing does not disclose ventilation specs, STC or NRC sound ratings, or interior versus exterior dimensions, gaps that are common across this category and worth asking the seller about directly before ordering. As with any large enclosed structure, plan for freight delivery and multi-person assembly.\n\nStraightforward, single-purpose enclosed privacy design.",
+    "specs": [
+      "Large (L) size enclosed pod",
+      "Marketed for privacy and productivity",
+      "Generic/private-label manufacturer",
+      "No published exterior dimension breakdown"
+    ],
+    "pros": [
+      "Large L-size interior offers more headroom than compact one-person pods",
+      "Straightforward, single-purpose enclosed privacy design",
+      "No occupancy-count ambiguity in sizing tier (marketed as L/large)",
+      "No star rating or review count to independently verify against the marketing copy"
+    ],
+    "cons": [
+      "No star rating or review count available from Amazon",
+      "Price not returned by the listing data, check current Amazon price directly",
+      "No ventilation or STC/NRC specs disclosed"
+    ],
+    "bestFor": "Remote workers wanting maximum headroom for sustained daily use."
+  },
+  {
+    "id": "b0d5c1h18w-pod",
+    "rank": 2,
+    "badge": "Best Multipurpose Pod for Remote Work",
+    "name": "Luxury Acoustic Home Office Pod for Meeting and Multipurpose Use, Indoor and Outdoor Silence Booth",
+    "price": "Check current price on Amazon",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/41tY3PYt8NL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5C1H18W?tag=theofficejournal-20",
+    "description": "This is the one product in the verified pool whose title explicitly claims indoor and outdoor use, marketed as a luxury acoustic pod for meetings and multipurpose home office work. Amazon's listing does not include a star rating or review count.\n\nAn outdoor use claim in a title is not the same as a documented weatherproof rating, before installing outdoors confirm with the seller directly what weatherproofing standard, if any, the pod meets, how its electrical components are protected from moisture, and whether a foundation or anchoring system is included, since none of that is specified in the listing.\n\nThe standout detail is that multipurpose framing suits both meetings and general home office work. Balancing that out, no star rating or review count available from Amazon.",
+    "specs": [
+      "Marketed for indoor and outdoor use",
+      "Multipurpose meeting/home office framing",
+      "Acoustic (\"silence booth\") design",
+      "Generic/private-label manufacturer"
+    ],
+    "pros": [
+      "Only product in this research pool whose title explicitly claims outdoor use",
+      "Multipurpose framing suits both meetings and general home office work",
+      "Acoustic-focused interior design",
+      "No star rating or review count to independently verify against the marketing copy"
+    ],
+    "cons": [
+      "No star rating or review count available from Amazon",
+      "No documented weatherproof rating, electrical safety spec, or anchoring system disclosed",
+      "Price not returned by the listing data, check current Amazon price directly"
+    ],
+    "bestFor": "Remote workers wanting a flexible space usable for both video meetings and general work."
+  },
+  {
+    "id": "b0cw1vsghg-pod",
+    "rank": 3,
+    "badge": "Budget-Consideration Pick (Verify Directly)",
+    "name": "SoundGuard Studio Pod, Acoustic Enclosure, Noise Isolation Booth",
+    "price": "Check current price on Amazon",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/41yCgSXvpOL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW1VSGHG?tag=theofficejournal-20",
+    "description": "This listing's full title stacks several different marketing names for the same product (studio pod, acoustic enclosure, isolation booth, soundproof chamber, acoustic shelter), a keyword-stuffed pattern common among lower-quality Amazon listings, so treat the branding language itself with some skepticism rather than as a meaningful differentiator. Amazon's listing does not include a star rating or review count.\n\nBeyond the stacked naming, the listing gives no occupancy count, no exterior dimensions, and no acoustic test data, which makes it harder to evaluate against the more detailed listings in this pool. Ask the seller directly for dimensions, ventilation specs, and any sound-isolation test data before ordering.\n\nOne of the available options in a thin niche.",
+    "specs": [
+      "Acoustic enclosure / noise isolation framing",
+      "Listing title stacks multiple keyword-style product names",
+      "Generic/private-label manufacturer",
+      "No occupancy count specified"
+    ],
+    "pros": [
+      "Acoustic enclosure framing for general noise-isolation use",
+      "One of the available options in a thin niche",
+      "No star rating or review count to independently verify against the marketing copy"
+    ],
+    "cons": [
+      "Keyword-stuffed listing title is a pattern associated with lower-quality listings",
+      "No star rating, review count, dimensions, or acoustic test data disclosed",
+      "Price not returned by the listing data, check current Amazon price directly"
+    ],
+    "bestFor": "Remote workers comparing entry options, with the caveat that this listing's stacked title warrants extra seller questions."
+  },
+  {
+    "id": "b0f62z8cff-pod",
+    "rank": 4,
+    "badge": "Best Compact Pick for Remote Work",
+    "name": "Soundproof Office Pod Booth, Quiet Meeting Pod with Acoustic Panels, One to Two Person Workspace (W55in D48in H92in)",
+    "price": "$4,999.00",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/31KSQuhuwNL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F62Z8CFF?tag=theofficejournal-20",
+    "description": "A one-to-two-person pod at W55in D48in H92in exterior dimensions, one of the few listings in this pool to explicitly state a small occupancy range rather than a single fixed number. Amazon's listing does not include a star rating or review count.\n\nThe wider W55in footprint compared to the strictly solo pods gives a bit more room for a second occupant or a visitor chair, though interior usable space will still run smaller than the exterior dimensions once acoustic wall thickness is accounted for. No STC/NRC data or ventilation specs are disclosed.\n\nExact exterior dimensions disclosed (W55 x D48 x H92in). Both are worth keeping in mind before deciding.",
+    "specs": [
+      "1 to 2 person capacity",
+      "Exterior dimensions W55in D48in H92in",
+      "Acoustic panel interior",
+      "Generic/private-label manufacturer"
+    ],
+    "pros": [
+      "Explicit 1-2 person occupancy range disclosed in the title",
+      "Exact exterior dimensions disclosed (W55 x D48 x H92in)",
+      "Mid-range price relative to the rest of this pool",
+      "No star rating or review count to independently verify against the marketing copy"
+    ],
+    "cons": [
+      "No star rating or review count available from Amazon",
+      "No formal STC/NRC sound-isolation data disclosed",
+      "No ventilation specs disclosed for two-occupant use"
+    ],
+    "bestFor": "Remote workers with limited space wanting a smaller footprint for daily use."
+  }
+];
+
+export const readTime = "10 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-home-office-booths",
+    "title": "Best Home Office Booths (2026)"
+  },
+  {
+    "href": "/guide/best-soundproof-home-office-booths",
+    "title": "Best Soundproof Home Office Booths (2026)"
+  },
+  {
+    "href": "/guide/best-office-pods-for-small-apartments",
+    "title": "Best Office Pods for Small Apartments (2026)"
+  }
+];
+
+export const breadcrumbLabel = "Best Office Pods for Remote Work";

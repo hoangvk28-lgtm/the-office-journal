@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-task-chairs-for-elderly-users";
 
-export const guideTitle = "The Best Task Chairs for Elderly Users Worth Considering";
+export const guideTitle = "The Best Task Chairs for Elderly Users: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41Sj7L-je4L._SL500_.jpg";
 

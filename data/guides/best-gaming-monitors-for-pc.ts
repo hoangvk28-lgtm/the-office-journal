@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-gaming-monitors-for-pc";
 
-export const guideTitle = "The Best Gaming Monitors for PC Worth Considering";
+export const guideTitle = "The Best Gaming Monitors for PC: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41332WBf4dL._SL500_.jpg";
 

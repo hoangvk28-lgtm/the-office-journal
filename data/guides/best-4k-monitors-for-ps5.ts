@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-4k-monitors-for-ps5";
 
-export const guideTitle = "The Best 4K Monitors for PS5 Worth Considering";
+export const guideTitle = "The Best 4K Monitors for PS5: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41Ssl0PqqLL._SL500_.jpg";
 

@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-blue-light-glasses-with-low-screen-reflection";
 
-export const guideTitle = "The Best Blue Light Glasses With Low Screen Reflection Worth Considering";
+export const guideTitle = "The Best Blue Light Glasses With Low Screen Reflection: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31O5Ad+FePL._SL500_.jpg";
 

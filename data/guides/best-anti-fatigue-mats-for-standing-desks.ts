@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-anti-fatigue-mats-for-standing-desks";
 
-export const guideTitle = "The Best Anti-Fatigue Mats for Standing Desks Worth Considering";
+export const guideTitle = "The Best Anti-Fatigue Mats for Standing Desks: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/517mM+eEdTL._SL500_.jpg";
 

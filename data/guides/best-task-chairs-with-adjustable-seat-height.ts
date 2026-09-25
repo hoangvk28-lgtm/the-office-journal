@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-task-chairs-with-adjustable-seat-height";
 
-export const guideTitle = "The Best Task Chairs With Adjustable Seat Height Worth Considering";
+export const guideTitle = "The Best Task Chairs With Adjustable Seat Height: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41+gCISXD5L._SL500_.jpg";
 

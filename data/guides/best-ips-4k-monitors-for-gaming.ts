@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-ips-4k-monitors-for-gaming";
 
-export const guideTitle = "The Best IPS 4K Monitors for Gaming Worth Considering";
+export const guideTitle = "The Best IPS 4K Monitors for Gaming: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51JdlXAUIqL._SL500_.jpg";
 

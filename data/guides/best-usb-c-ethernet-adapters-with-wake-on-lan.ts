@@ -42,7 +42,7 @@ export const faq = [
 
 export const guideSlug = "best-usb-c-ethernet-adapters-with-wake-on-lan";
 
-export const guideTitle = "The Best USB-C Ethernet Adapters With Wake-on-LAN Worth Considering";
+export const guideTitle = "The Best USB-C Ethernet Adapters With Wake-on-LAN: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31qWnFxWYaL._SL500_.jpg";
 

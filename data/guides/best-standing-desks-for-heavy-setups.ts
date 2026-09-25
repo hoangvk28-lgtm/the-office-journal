@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-standing-desks-for-heavy-setups";
 
-export const guideTitle = "The Best Standing Desks for Heavy Setups Worth Considering";
+export const guideTitle = "The Best Standing Desks for Heavy Setups: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41GLN4Wv-1L._SL500_.jpg";
 

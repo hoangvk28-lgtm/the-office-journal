@@ -1,163 +1,7 @@
-export const guideSlug = "best-lap-desks-under-40";
-export const guideTitle = "4 Best Lap Desks Under $40 in 2026";
-export const metaTitle = "Best Lap Desks Under $40";
-export const metaDescription = "We compared lap desks under $40 by tilt adjustability, weight capacity, and fold-flat storage, since genuine adjustable-angle designs appear at this tier.";
-export const mainKeyword = "best lap desks under $40";
-export const introParagraphs = [
-  "Under $40, lap desks move beyond fixed flat surfaces into genuinely adjustable-angle designs, with some offering up to 8 tilt positions or a full 120 degrees of adjustment, real ergonomic upgrades over the fixed-angle boards found at lower price tiers.",
-  "We compared this lineup on tilt adjustability range, stated weight capacity, and fold-flat storage design, since these details determine whether a lap desk adapts to your actual sitting position or forces you to adapt to a single fixed angle."
-];
-export const lastUpdated = "2026-09-14";
-export const readTime = "7 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41Tq9c64jPL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-lap-desks-under-40-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "SONGMICS Bed Laptop Desk, Foldable, Adjustable Height",
-    price: "$33.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41Tq9c64jPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G3WDB5XF?tag=theofficejournal-20",
-    description: "This desk's reinforced aluminum legs and durable ABS joints support up to 55 lbs, the highest stated weight capacity in this comparison, stable even with 2 devices loaded simultaneously. Its 120-degree infinitely adjustable desktop with two movable anti-slip guards provides genuine tilt flexibility beyond the fixed positions found on cheaper designs.\n\nIts spacious 15.7 by 22 inch top is the largest in this comparison, fitting laptops, tablets, and reading material with room to spare, and 8 height options from 10 to 14.2 inches offer generous leg space for healthier posture. It folds flat to about 2.5 inches thick for storage, with zero assembly required.\n\nBest for buyers who want the highest weight capacity, largest surface, and most adjustment range in this comparison.",
-    specs: ["15.7x22 in surface, 55 lb capacity, 120 degrees tilt", "8 height options, 10-14.2 in range", "Folds to 2.5 in thick, zero assembly"],
-    pros: ["Highest weight capacity in this comparison at 55 lbs", "Largest surface area, fits laptops, tablets, and reading material", "8 height options offer genuine posture flexibility"],
-    cons: ["Avoid using the phone/tablet slot or cup holder when tilted", "Larger footprint than the more compact picks in this comparison"],
-    bestFor: "buyers who want the highest weight capacity and largest, most adjustable surface",
-  },
-  {
-    id: "best-lap-desks-under-40-2",
-    rank: 2,
-    badge: "Best Ergonomic Angles",
-    name: "AboveTEK Adjustable Laptop Lap Desk, 3 Ergonomic Angles",
-    price: "$29.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41qMm5iXffL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DB5SR3DZ?tag=theofficejournal-20",
-    description: "This lap desk offers 3 specific ergonomic viewing angles at 23, 30, and 35 degrees, purpose-tuned positions rather than a generic tilt range, designed to reduce neck and wrist strain during extended use. Its PU leather non-slip surface with a non-skid bottom barrier provides stability and device security while remaining scratch-resistant.\n\nIts effective heat shield prevents direct laptop-to-leg contact while the adjustable angles improve airflow for faster cooling, and a retractable right-handed mouse pad adds convenience. At just 1.83 lbs and folding to 14.6 by 10.2 by 0.4 inches, it's genuinely compact for on-the-go use.\n\nBest for buyers who want purpose-tuned ergonomic viewing angles in a genuinely compact, foldable design.",
-    specs: ["3 ergonomic angles: 23 degrees, 30 degrees, 35 degrees", "PU leather surface, heat shield, retractable mouse pad", "Folds to 14.6x10.2x0.4 in, 1.83 lbs"],
-    pros: ["3 specifically tuned ergonomic angles, not just a generic range", "Genuinely compact folding design at under 2 lbs", "Heat shield combined with adjustable angles improves cooling airflow"],
-    cons: ["Not recommended for gaming laptops or heavier devices", "Mouse pad is right-handed only"],
-    bestFor: "buyers who want purpose-tuned ergonomic angles in a lightweight, foldable design",
-  },
-  {
-    id: "best-lap-desks-under-40-3",
-    rank: 3,
-    badge: "Best Retractable Mouse Pad",
-    name: "AboveTEK Portable Laptop Lap Desk w/Retractable Mouse Pad Tray",
-    price: "$25.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41Hk-fkvyYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B074473Z6T?tag=theofficejournal-20",
-    description: "This lap desk's retractable mouse pad extends on both the left and right sides, genuinely accommodating both left and right-handed users, unlike single-side designs. Its anti-slip surface provides a strong grip for laptops up to 15.6 inches, with a double rubber strip on the bottom ensuring stability on a lap, couch, or bed.\n\nIts effective heat shield made of sturdy, thick material protects the laptop from overheating, and at just 15 inches, 2.2 lbs, and 0.6 inches thick, it's genuinely easy to carry in a backpack for travel or storage.\n\nBest for buyers who specifically want a dual-direction retractable mouse pad usable by either left or right-handed users.",
-    specs: ["14x9.7 in tray, 7.4x6.1 in mouse pad (extends both directions)", "Anti-slip surface, effective heat shield", "15 in, 2.2 lbs, 0.6 in thick"],
-    pros: ["Mouse pad extends both left and right for either-handed use", "Effective heat shield protects against overheating", "Slim, lightweight design fits easily in a backpack"],
-    cons: ["No adjustable tilt angles like the AboveTEK 3-angle pick", "Smaller surface area than the SONGMICS pick"],
-    bestFor: "buyers who specifically want a mouse pad usable by either left or right-handed users",
-  },
-  {
-    id: "best-lap-desks-under-40-4",
-    rank: 4,
-    badge: "Best Value Adjustable",
-    name: "HUANUO Lap Desk with 8 Adjustable Angles",
-    price: "$19.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41cdebIJlYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07CY1LY89?tag=theofficejournal-20",
-    description: "This lap desk offers 8 distinct tilt positions at the lowest price in this comparison, letting you choose the most comfortable viewing or typing angle for your specific device. Its integrated plastic lip prevents laptops or tablets from sliding off during use, and 2 cushions conform to your lap for stability.\n\nIts 14.8 by 11 inch adjustable platform is big enough to fit most 15.6 inch laptops or a large tablet oriented vertically for reading, and at just 30.5 oz with an integrated handle, it's genuinely portable for coffee shops, libraries, or the office.\n\nBest for buyers who want the most tilt positions at the lowest price in this comparison.",
-    specs: ["8 tilt positions, 14.8x11 in platform", "2 conforming cushions, integrated plastic lip", "30.5 oz, integrated carry handle"],
-    pros: ["Most tilt positions in this comparison at 8 distinct angles", "Lowest price in this comparison", "Integrated plastic lip prevents devices from sliding off"],
-    cons: ["Smaller surface than the SONGMICS or AboveTEK Retractable picks", "No dedicated heat shield feature like the AboveTEK picks"],
-    bestFor: "budget-focused buyers who want the most tilt positions available",
-  }
-];
-
-export const howWeEvaluated = [
-  { "title": "Tilt Adjustability Range", "description": "Compared the number of distinct tilt angles or the total degree range each pick supports." },
-  { "title": "Weight Capacity", "description": "Compared stated weight capacity where specified across the lineup." },
-  { "title": "Surface Size", "description": "Compared stated surface dimensions and their fit for different laptop and tablet sizes." },
-  { "title": "Heat Management", "description": "Compared heat shield features designed to protect both the device and the user's lap." },
-  { "title": "Fold-Flat Portability", "description": "Compared folded dimensions and weight for storage and travel convenience." }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    subheading: "By Primary Need",
-    table: {
-      headers: ["If you mainly need", "Recommended pick"],
-      rows: [
-        ["The highest weight capacity and largest surface", "SONGMICS Bed Laptop Desk, Foldable, Adjustable Height"],
-        ["Purpose-tuned ergonomic viewing angles", "AboveTEK Adjustable Laptop Lap Desk, 3 Ergonomic Angles"],
-        ["A mouse pad usable by either hand", "AboveTEK Portable Laptop Lap Desk w/Retractable Mouse Pad Tray"],
-        ["The most tilt positions at the lowest price", "HUANUO Lap Desk with 8 Adjustable Angles"],
-      ],
-    },
-  },
-  {
-    subheading: "By Budget",
-    table: {
-      headers: ["Price range", "Recommended pick"],
-      rows: [
-        ["Under $20", "HUANUO 8 Angles ($19.99)"],
-        ["Under $26", "AboveTEK Retractable Mouse Pad ($25.99)"],
-        ["Under $30", "AboveTEK 3 Ergonomic Angles ($29.99)"],
-        ["Under $34", "SONGMICS Foldable ($33.99)"],
-      ],
-    },
-  },
-  {
-    subheading: "Fine-Grained Tilt Range vs Specific Ergonomic Angles",
-    cards: [
-      { label: "Fine-grained range (SONGMICS 120 degrees, HUANUO 8 positions)", text: "Offers more granular control to find your exact preferred angle through many small adjustment steps." },
-      { label: "Specific ergonomic angles (AboveTEK 3-angle)", text: "Offers fewer but purpose-tuned angles specifically selected to reduce strain, simpler to choose from." },
-    ],
-    note: "If you like fine-tuning your exact preferred angle, the SONGMICS or HUANUO's wider range of positions offers more control. If you'd rather choose from a few pre-optimized angles, the AboveTEK 3-angle pick simplifies that decision.",
-  },
-  {
-    subheading: "By Surface Size Needs",
-    table: {
-      headers: ["Your device and material needs", "Recommended pick"],
-      rows: [
-        ["Laptop plus tablet or reading material together", "SONGMICS (15.7x22 in)"],
-        ["Standard laptop use with mouse pad", "Either AboveTEK pick"],
-        ["Compact laptop-only use", "HUANUO (14.8x11 in)"],
-      ],
-    },
-  },
-  {
-    subheading: "For Left-Handed Mouse Users Specifically",
-    cards: [
-      { label: "Look for", text: "A retractable mouse pad tray that extends on both the left and right sides rather than one fixed side only." },
-      { label: "In this comparison", text: "The AboveTEK Retractable Mouse Pad pick is specifically designed to extend both directions for either-handed use." },
-    ],
-  },
-  {
-    subheading: "When to Spend More",
-    cards: [
-      { label: "Spend more if", text: "You want the highest weight capacity and largest surface with the widest adjustment range, where the SONGMICS pick leads this comparison on all three fronts." },
-      { label: "Save if", text: "You just want multiple tilt positions without extra features, where the HUANUO pick delivers 8 positions for under $20." },
-    ],
-  },
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
@@ -170,7 +14,7 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Weight Capacity Matters More When Using Multiple Devices Simultaneously Than for a Laptop Alone",
-    "explanation": "The SONGMICS pick's stated 55 lb capacity specifically notes stability even with 2 devices loaded simultaneously, a genuinely higher capacity than most lap desks need for a single laptop but relevant if you regularly use a laptop alongside a separate tablet or additional equipment on the same surface. A lower-capacity lap desk might handle a single laptop just fine but become less stable if you add substantial additional weight from a second device. Consider whether you typically use just one device or multiple devices simultaneously on your lap desk before treating weight capacity figures as equally important across all picks."
+    "explanation": "The SONGMICS pick's stated 55 lb capacity specifically notes stability even with 2 devices loaded simultaneously, a higher capacity than most lap desks need for a single laptop but relevant if you regularly use a laptop alongside a separate tablet or additional equipment on the same surface. A lower-capacity lap desk might handle a single laptop just fine but become less stable if you add substantial additional weight from a second device. Consider whether you typically use just one device or multiple devices simultaneously on your lap desk before treating weight capacity figures as equally important across all picks."
   },
   {
     "criterion": "A Bidirectional Retractable Mouse Pad Solves a Real Accessibility Problem for Left-Handed Users",
@@ -183,17 +27,324 @@ export const buyingCriteria = [
 ];
 
 export const faq = [
-  { "q": "Can I use the SONGMICS pick's cup holder while the desk is tilted?", "a": "The listing specifically advises against using the phone/tablet slot or cup holder when the desk is tilted, since items may slip off at an angle, so keep the desk relatively flat when using those specific features." },
-  { "q": "What's the most common mistake buyers make when comparing tilt adjustability across lap desks?", "a": "Assuming a wider tilt range or more adjustment positions is always better without checking whether all features remain safely usable across that full range, since some accessories like cup holders may only work properly at flatter angles." },
-  { "q": "Is the SONGMICS pick worth it over the cheaper HUANUO pick?", "a": "If you need the highest weight capacity, largest surface area, and widest tilt range, yes, but if you just want multiple tilt positions at the lowest price without needing the largest surface, the HUANUO pick delivers solid adjustability for about $14 less." },
-  { "q": "Does the AboveTEK 3-angle pick work with heavier gaming laptops?", "a": "No, the listing specifically states it's not recommended for gaming laptops or heavier devices, so a standard business laptop up to 15.6 inches is the better fit for this specific pick." },
-  { "q": "How do I know if a retractable mouse pad will work for left-handed use?", "a": "Check whether the listing specifically states the mouse pad extends in one fixed direction or both directions, since the AboveTEK Retractable Mouse Pad pick specifically extends both left and right, while other single-direction designs may only accommodate right-handed use." },
-  { "q": "Can these adjustable lap desks be used on a completely flat surface like a table instead of a lap?", "a": "Yes, all four picks in this comparison function on any flat surface including a table or desk, though their portable, foldable designs and lap-focused cushioning are specifically optimized for use directly on your lap in bed, on a couch, or while traveling." }
+  {
+    "q": "Can I use the SONGMICS pick's cup holder while the desk is tilted?",
+    "a": "The listing specifically advises against using the phone/tablet slot or cup holder when the desk is tilted, since items may slip off at an angle, so keep the desk relatively flat when using those specific features."
+  },
+  {
+    "q": "What's the most common mistake buyers make when comparing tilt adjustability across lap desks?",
+    "a": "Assuming a wider tilt range or more adjustment positions is always better without checking whether all features remain safely usable across that full range, since some accessories like cup holders may only work properly at flatter angles."
+  },
+  {
+    "q": "Is the SONGMICS pick worth it over the cheaper HUANUO pick?",
+    "a": "If you need the highest weight capacity, largest surface area, and widest tilt range, yes, but if you just want multiple tilt positions at the lowest price without needing the largest surface, the HUANUO pick delivers solid adjustability for about $14 less."
+  },
+  {
+    "q": "Does the AboveTEK 3-angle pick work with heavier gaming laptops?",
+    "a": "6 inches is the better fit for this specific pick."
+  },
+  {
+    "q": "How do I know if a retractable mouse pad will work for left-handed use?",
+    "a": "Check whether the listing specifically states the mouse pad extends in one fixed direction or both directions, since the AboveTEK Retractable Mouse Pad pick specifically extends both left and right, while other single-direction designs may only accommodate right-handed use."
+  },
+  {
+    "q": "Can these adjustable lap desks be used on a completely flat surface like a table instead of a lap?",
+    "a": "Yes, all four picks in this comparison function on any flat surface including a table or desk, though their portable, foldable designs and lap-focused cushioning are specifically optimized for use directly on your lap in bed, on a couch, or while traveling."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { "href": "/guide/best-lap-desks-under-30", "title": "Best Lap Desks Under $30" },
-  { "href": "/guide/best-lap-desks-under-50", "title": "Best Lap Desks Under $50" },
-  { "href": "/guide/best-office-chairs-under-200", "title": "Best Office Chairs Under $200" },
-  { "href": "/guide/best-desk-pegboards-under-40", "title": "Best Desk Pegboards Under $40" }
+export const guideSlug = "best-lap-desks-under-40";
+
+export const guideTitle = "The Best Lap Desks Under $40: Picks and Trade-offs";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41Tq9c64jPL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "The highest weight capacity and largest surface",
+          "SONGMICS Bed Laptop Desk, Foldable, Adjustable Height"
+        ],
+        [
+          "",
+          "AboveTEK Adjustable Laptop Lap Desk, 3 Ergonomic Angles"
+        ],
+        [
+          "A mouse pad usable by either hand",
+          "AboveTEK Portable Laptop Lap Desk w/Retractable Mouse Pad Tray"
+        ],
+        [
+          "The most tilt positions at the lowest price",
+          "HUANUO Lap Desk with 8 Adjustable Angles"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "Fine-Grained Tilt Range vs Specific Ergonomic Angles",
+    "cards": [
+      {
+        "label": "Fine-grained range (SONGMICS 120 degrees, HUANUO 8 positions)",
+        "text": "Offers more granular control to find your exact preferred angle through many small adjustment steps."
+      },
+      {
+        "label": "Specific ergonomic angles (AboveTEK 3-angle)",
+        "text": "Offers fewer but purpose-tuned angles specifically selected to reduce strain, simpler to choose from."
+      }
+    ],
+    "note": "If you like fine-tuning your exact preferred angle, the SONGMICS or HUANUO's wider range of positions offers more control. If you'd rather choose from a few pre-optimized angles, the AboveTEK 3-angle pick simplifies that decision."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "Your device and material needs",
+        ""
+      ],
+      "rows": [
+        [
+          "Laptop plus tablet or reading material together",
+          ""
+        ],
+        [
+          "Standard laptop use with mouse pad",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For Left-Handed Mouse Users Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "A retractable mouse pad tray that extends on both the left and right sides rather than one fixed side only."
+      },
+      {
+        "label": "",
+        "text": "The AboveTEK Retractable Mouse Pad pick is specifically designed to extend both directions for either-handed use."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You want the highest weight capacity and largest surface with the widest adjustment range, where the SONGMICS pick leads this comparison on all three fronts."
+      },
+      {
+        "label": "",
+        "text": "You just want multiple tilt positions without extra features, where the HUANUO pick delivers 8 positions for under $20."
+      }
+    ]
+  }
 ];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Compared the number of distinct tilt angles or the total degree range each pick supports."
+  },
+  {
+    "title": "",
+    "description": "Compared stated weight capacity where specified across the lineup."
+  },
+  {
+    "title": "",
+    "description": "Compared stated surface dimensions and their fit for different laptop and tablet sizes."
+  },
+  {
+    "title": "",
+    "description": "Compared heat shield features designed to protect both the device and the user's lap."
+  },
+  {
+    "title": "",
+    "description": "Compared folded dimensions and weight for storage and travel convenience."
+  }
+];
+
+export const introParagraphs = [
+  "Under $40, lap desks move beyond fixed flat surfaces into adjustable-angle designs, with some offering up to 8 tilt positions or a full 120 degrees of adjustment, real ergonomic upgrades over the fixed-angle boards found at lower price tiers.",
+  "We compared this lineup on tilt adjustability range, stated weight capacity, and fold-flat storage design, since these details determine whether a lap desk adapts to your actual sitting position or forces you to adapt to a single fixed angle."
+];
+
+export const lastUpdated = "2026-09-14";
+
+export const mainKeyword = "best lap desks under $40";
+
+export const metaDescription = "A practical comparison of 4 lap desks under $40, focused on compatibility, build, features and price, and the trade-offs between them.";
+
+export const metaTitle = "Best Lap Desks Under $40 (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-lap-desks-under-40-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "SONGMICS Bed Laptop Desk, Foldable, Adjustable Height",
+    "price": "$33.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Tq9c64jPL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3WDB5XF?tag=theofficejournal-20",
+    "description": "This desk's reinforced aluminum legs and durable ABS joints support up to 55 lbs, the highest stated weight capacity in this comparison, stable even with 2 devices loaded simultaneously. Its 120-degree infinitely adjustable desktop with two movable anti-slip guards provides genuine tilt flexibility beyond the fixed positions found on cheaper designs.\n\n2 inches offer generous leg space for healthier posture. 5 inches thick for storage, with zero assembly required.\n\nBest for buyers who want the highest weight capacity, largest surface, and most adjustment range in this comparison.",
+    "specs": [
+      "15.7x22 in surface, 55 lb capacity, 120 degrees tilt",
+      "8 height options, 10-14.2 in range",
+      "Folds to 2.5 in thick, zero assembly"
+    ],
+    "pros": [
+      "Highest weight capacity in this comparison at 55 lbs",
+      "Largest surface area, fits laptops, tablets, and reading material",
+      "8 height options offer genuine posture flexibility"
+    ],
+    "cons": [
+      "Avoid using the phone/tablet slot or cup holder when tilted",
+      "Larger footprint than the more compact picks in this comparison"
+    ],
+    "bestFor": "Buyers who want the highest weight capacity and largest, most adjustable surface"
+  },
+  {
+    "id": "best-lap-desks-under-40-2",
+    "rank": 2,
+    "badge": "Best Ergonomic Angles",
+    "name": "AboveTEK Adjustable Laptop Lap Desk, 3 Ergonomic Angles",
+    "price": "$29.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41qMm5iXffL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB5SR3DZ?tag=theofficejournal-20",
+    "description": "This lap desk offers 3 specific ergonomic viewing angles at 23, 30, and 35 degrees, purpose-tuned positions rather than a generic tilt range, designed to reduce neck and wrist strain during extended use. Its PU leather non-slip surface with a non-skid bottom barrier provides stability and device security while remaining scratch-resistant.\n\nIts effective heat shield prevents direct laptop-to-leg contact while the adjustable angles improve airflow for faster cooling, and a retractable right-handed mouse pad adds convenience. 4 inches, it's compact for on-the-go use.\n\nBest for buyers who want purpose-tuned ergonomic viewing angles in a compact, foldable design.",
+    "specs": [
+      "3 ergonomic angles: 23 degrees, 30 degrees, 35 degrees",
+      "PU leather surface, heat shield, retractable mouse pad",
+      "Folds to 14.6x10.2x0.4 in, 1.83 lbs"
+    ],
+    "pros": [
+      "3 specifically tuned ergonomic angles, not just a generic range",
+      "compact folding design at under 2 lbs",
+      "Heat shield combined with adjustable angles improves cooling airflow"
+    ],
+    "cons": [
+      "Not recommended for gaming laptops or heavier devices",
+      "Mouse pad is right-handed only"
+    ],
+    "bestFor": "Buyers who want purpose-tuned ergonomic angles in a lightweight, foldable design"
+  },
+  {
+    "id": "best-lap-desks-under-40-3",
+    "rank": 3,
+    "badge": "Best Retractable Mouse Pad",
+    "name": "AboveTEK Portable Laptop Lap Desk w/Retractable Mouse Pad Tray",
+    "price": "$25.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Hk-fkvyYL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B074473Z6T?tag=theofficejournal-20",
+    "description": "This lap desk's retractable mouse pad extends on both the left and right sides, accommodating both left and right-handed users, unlike single-side designs. 6 inches, with a double rubber strip on the bottom ensuring stability on a lap, couch, or bed.\n\n6 inches thick, it's easy to carry in a backpack for travel or storage.\n\nBest for buyers who specifically want a dual-direction retractable mouse pad usable by either left or right-handed users.",
+    "specs": [
+      "14x9.7 in tray, 7.4x6.1 in mouse pad (extends both directions)",
+      "Anti-slip surface, effective heat shield",
+      "15 in, 2.2 lbs, 0.6 in thick"
+    ],
+    "pros": [
+      "Mouse pad extends both left and right for either-handed use",
+      "Effective heat shield protects against overheating",
+      "Slim, lightweight design fits easily in a backpack"
+    ],
+    "cons": [
+      "No adjustable tilt angles like the AboveTEK 3-angle pick",
+      "Smaller surface area than the SONGMICS pick"
+    ],
+    "bestFor": "Buyers who specifically want a mouse pad usable by either left or right-handed users"
+  },
+  {
+    "id": "best-lap-desks-under-40-4",
+    "rank": 4,
+    "badge": "Best Value Adjustable",
+    "name": "HUANUO Lap Desk with 8 Adjustable Angles",
+    "price": "$19.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41cdebIJlYL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07CY1LY89?tag=theofficejournal-20",
+    "description": "This lap desk offers 8 distinct tilt positions at the lowest price in this comparison, letting you choose the most comfortable viewing or typing angle for your specific device. Its integrated plastic lip prevents laptops or tablets from sliding off during use, and 2 cushions conform to your lap for stability.\n\n5 oz with an integrated handle, it's portable for coffee shops, libraries, or the office.\n\nBest for buyers who want the most tilt positions at the lowest price in this comparison.",
+    "specs": [
+      "8 tilt positions, 14.8x11 in platform",
+      "2 conforming cushions, integrated plastic lip",
+      "30.5 oz, integrated carry handle"
+    ],
+    "pros": [
+      "Most tilt positions in this comparison at 8 distinct angles",
+      "Lowest price in this comparison",
+      "Integrated plastic lip prevents devices from sliding off"
+    ],
+    "cons": [
+      "Smaller surface than the SONGMICS or AboveTEK Retractable picks",
+      "No dedicated heat shield feature like the AboveTEK picks"
+    ],
+    "bestFor": "Budget-focused buyers who want the most tilt positions available"
+  }
+];
+
+export const readTime = "7 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-lap-desks-under-30",
+    "title": "Best Lap Desks Under $30"
+  },
+  {
+    "href": "/guide/best-lap-desks-under-50",
+    "title": "Best Lap Desks Under $50"
+  },
+  {
+    "href": "/guide/best-office-chairs-under-200",
+    "title": "Best Office Chairs Under $200"
+  },
+  {
+    "href": "/guide/best-desk-pegboards-under-40",
+    "title": "Best Desk Pegboards Under $40"
+  }
+];
+
+export const breadcrumbLabel = "Best Lap Desks Under $40";

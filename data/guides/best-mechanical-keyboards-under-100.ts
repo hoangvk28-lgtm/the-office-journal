@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-mechanical-keyboards-under-100";
 
-export const guideTitle = "The Best Mechanical Keyboards Under $100 Worth Considering";
+export const guideTitle = "The Best Mechanical Keyboards Under $100: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41OIkZ+MM4L._SL500_.jpg";
 

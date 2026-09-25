@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-4k-monitors-with-webcams";
 
-export const guideTitle = "The Best 4K Monitors With Webcams Worth Considering";
+export const guideTitle = "The Best 4K Monitors With Webcams: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41vyTx352CL._SL500_.jpg";
 

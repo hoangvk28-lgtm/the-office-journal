@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-mouse-bungees-for-op1-8k";
 
-export const guideTitle = "The Best Mouse Bungees for OP1 8K Worth Considering";
+export const guideTitle = "The Best Mouse Bungees for OP1 8K: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/21X4MyfKrwL._SL500_.jpg";
 

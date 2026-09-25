@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-tablet-stands-under-20";
 
-export const guideTitle = "The Best Tablet Stands Under $20 Worth Considering";
+export const guideTitle = "The Best Tablet Stands Under $20: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41VqzZL9zuL._SL500_.jpg";
 

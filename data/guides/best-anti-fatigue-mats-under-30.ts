@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-anti-fatigue-mats-under-30";
 
-export const guideTitle = "The Best Anti-Fatigue Mats Under $30 Worth Considering";
+export const guideTitle = "The Best Anti-Fatigue Mats Under $30: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51lGleag2vL._SL500_.jpg";
 

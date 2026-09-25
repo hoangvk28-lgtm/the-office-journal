@@ -42,7 +42,7 @@ export const faq = [
 
 export const guideSlug = "best-usb-c-ethernet-adapters-for-android-phones";
 
-export const guideTitle = "The Best USB-C Ethernet Adapters for Android Phones Worth Considering";
+export const guideTitle = "The Best USB-C Ethernet Adapters for Android Phones: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31qWnFxWYaL._SL500_.jpg";
 

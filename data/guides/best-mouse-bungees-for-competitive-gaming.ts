@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-mouse-bungees-for-competitive-gaming";
 
-export const guideTitle = "The Best Mouse Bungees for Competitive Gaming Worth Considering";
+export const guideTitle = "The Best Mouse Bungees for Competitive Gaming: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31n7LXyep2L._SL500_.jpg";
 

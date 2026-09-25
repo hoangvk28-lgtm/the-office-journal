@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-4k-monitors-for-laptops";
 
-export const guideTitle = "The Best 4K Monitors for Laptops Worth Considering";
+export const guideTitle = "The Best 4K Monitors for Laptops: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41Dv3-FqiAL._SL500_.jpg";
 

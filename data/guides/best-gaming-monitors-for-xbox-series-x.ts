@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-gaming-monitors-for-xbox-series-x";
 
-export const guideTitle = "The Best Gaming Monitors for Xbox Series X Worth Considering";
+export const guideTitle = "The Best Gaming Monitors for Xbox Series X: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51KA1X8ic3L._SL500_.jpg";
 

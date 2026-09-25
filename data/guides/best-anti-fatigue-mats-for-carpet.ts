@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-anti-fatigue-mats-for-carpet";
 
-export const guideTitle = "The Best Anti-Fatigue Mats for Carpet Worth Considering";
+export const guideTitle = "The Best Anti-Fatigue Mats for Carpet: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41pd+BV0uDL._SL500_.jpg";
 

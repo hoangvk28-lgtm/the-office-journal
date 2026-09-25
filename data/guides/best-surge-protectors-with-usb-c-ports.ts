@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-surge-protectors-with-usb-c-ports";
 
-export const guideTitle = "The Best Surge Protectors with USB-C Ports Worth Considering";
+export const guideTitle = "The Best Surge Protectors with USB-C Ports: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41eRaMa6u1L._SL500_.jpg";
 

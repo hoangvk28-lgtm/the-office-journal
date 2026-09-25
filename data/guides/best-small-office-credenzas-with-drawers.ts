@@ -1,189 +1,7 @@
-export const guideSlug = "best-small-office-credenzas-with-drawers";
-export const guideTitle = "8 Best Small Office Credenzas With Drawers in 2026";
-export const metaTitle = "Best Small Office Credenzas With Drawers 2026";
-export const metaDescription = "We compared small office credenzas with drawers by verified interior dimensions, real file and lock compatibility, and top-surface usability rather than ranking by exterior width or door count alone.";
-export const mainKeyword = "small office credenzas with drawers";
-export const introParagraphs = [
-  "Choosing among small office credenzas with drawers means starting with setting real width and depth thresholds instead of trusting a 'compact' label rather than price or door count.",
-  "Every entry on this list was screened for verified interior dimensions and setting real width and depth thresholds instead of trusting a 'compact' label before anything else was weighed."
-];
-export const lastUpdated = "2026-08-18";
-export const readTime = "10 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41JJR5hDrKL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-small-office-credenzas-with-drawers-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Perledesign 3 Drawer File Cabinet, Fluted Wood Lateral Filing Cabinet with Charging Station",
-    price: "$229.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41JJR5hDrKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GQGZ2Z1R?tag=theofficejournal-20",
-    description: "A pull-out shelf built specifically for a printer or similar device sits above the two lower file drawers, which handle letter and A4 documents, while a smaller top drawer holds day-to-day office essentials. The vertical slat, fluted door design is a distinct aesthetic choice aimed at contemporary or Scandinavian-style interiors rather than a neutral fit everywhere.\n\nThe charging station covers more device types than most competitors, with two power outlets, one USB-A port, and one USB-C port on the same panel. Packaging includes reinforced foam padding and wooden protectors specifically to reduce transit damage, a detail called out separately from the standard assembly instructions.",
-    specs: ["3 drawers, dedicated pull-out printer shelf","2 outlets + USB-A + USB-C charging","Fluted vertical-slat door design"],
-    pros: ["Dedicated pull-out shelf just for the printer","Charging station covers both USB-A and USB-C","Extra foam padding protects it during shipping"],
-    cons: ["Fluted door styling won't suit every office look","Only two of three drawers fit letter/A4 files"],
-    bestFor: "buyers prioritizing 3 drawers, dedicated pull-out printer shelf",
-  },
-  {
-    id: "best-small-office-credenzas-with-drawers-2",
-    rank: 2,
-    badge: "Runner-Up",
-    name: "DecoFurn Lateral File Cabinet with 2 Drawers, Open Storage Cubes, Fits Letter/A4",
-    price: "$149.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41S4N750yjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H36FM377?tag=theofficejournal-20",
-    description: "Each drawer here rolls on smooth wheels at the bottom for easier access, an uncommon detail among lateral file cabinets, and is individually rated to hold up to 55 lbs while fitting letter or A4 size file boxes. Five open storage cubes above the drawers include two adjustable shelves, giving a mix of visible and enclosed storage in one unit.\n\nThe finish uses eco-friendly, water-based paint certified to meet 16 CFR Part 1303 formaldehyde and lead safety standards, worth noting for anyone sensitive to off-gassing from new furniture. Gold handles against a sleek minimalist body are meant to double as either a filing cabinet or a decorative credenza depending on where it is placed.",
-    specs: ["2 drawers, rolling-wheel access, 55 lbs each","5 open storage cubes, 2 adjustable shelves","16 CFR Part 1303 certified water-based paint"],
-    pros: ["Drawers roll on wheels for easier access","Paint meets a specific, verifiable safety standard","Each drawer rated for 55 lbs of files"],
-    cons: ["Most storage sits in open cubes with no doors","Decorative look may feel too stylized for pure filing"],
-    bestFor: "buyers prioritizing 2 drawers, rolling-wheel access, 55 lbs each",
-  },
-  {
-    id: "best-small-office-credenzas-with-drawers-3",
-    rank: 3,
-    badge: "Also Great",
-    name: "43\" Wood File Cabinet with Power Outlet, 2 Drawers, 2 Open Storage Shelves",
-    price: "$143.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51hTrhg8NbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FT875YG7?tag=theofficejournal-20",
-    description: "Both file drawers use an adjustable hanging-rail system that slides to fit Legal, Letter, or A4 folders interchangeably, so switching document sizes later does not require new hardware. The 43.3 inch desktop is wide enough to run two pieces of equipment side by side, whether that is a printer and a scanner or a laptop and a desk lamp.\n\nA built-in outlet with two AC sockets and two USB ports can power up to four devices at once, and two open shelves above the drawers keep frequently used supplies within reach rather than buried in a drawer. The MDF and metal-frame construction includes anti-tip hardware standard, which matters more in households with kids or pets than in a closed office.",
-    specs: ["43.3in wide desktop, 2 file drawers","Adjustable rails fit Legal/Letter/A4","2 AC + 2 USB outlet, anti-tip hardware included"],
-    pros: ["Rails slide to fit Legal, Letter, or A4 files","Desktop fits two devices side by side","Anti-tip hardware comes standard, not extra"],
-    cons: ["Open shelves offer no dust or privacy cover","Wide desktop still needs planning for a large printer"],
-    bestFor: "buyers prioritizing 43.3in wide desktop, 2 file drawers",
-  },
-  {
-    id: "best-small-office-credenzas-with-drawers-4",
-    rank: 4,
-    badge: "Strong Alternative",
-    name: "Lateral File Cabinet with Charging Station, Filing Cabinets for Home Office",
-    price: "$174.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41aJ-30sLUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMF9BDD6?tag=theofficejournal-20",
-    description: "Three outlets and two USB ports on the charging panel can power up to five devices at once, more than the two-outlet setups on many comparable cabinets, and the 46.4 inch desktop is wide enough for up to three machines running side by side. Both drawers use adjustable layouts rather than fixed dividers, so they can hold A4, letter-sized paper, or FC folders interchangeably.\n\nA sliding barn door and sleek iron accents give this a rustic-industrial look rather than a plain laminate finish, and it is backed by a 1-year manufacturer warranty, worth noting since not every cabinet in this price range includes one. Beyond file storage it is built sturdy enough to double as a TV stand, pantry cabinet, or entryway table if repurposed later.",
-    specs: ["46.4in desktop, 2 adjustable-layout drawers","3 outlets + 2 USB, charges up to 5 devices","1-year manufacturer limited warranty"],
-    pros: ["Charges up to five devices at once","Backed by a 1-year manufacturer warranty","Drawers adjust to fit A4, letter, or FC folders"],
-    cons: ["Barn-door, rustic look won't fit every office","No lock is mentioned for either drawer"],
-    bestFor: "buyers prioritizing 46.4in desktop, 2 adjustable-layout drawers",
-  },
-  {
-    id: "best-small-office-credenzas-with-drawers-5",
-    rank: 5,
-    badge: "Worth Considering",
-    name: "Lateral File Cabinet with Charging Station, Filing Cabinets for Home Office",
-    price: "$174.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41gKov6K5IL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMF6ZJMF?tag=theofficejournal-20",
-    description: "Three outlets and two USB ports on the charging panel can power up to five devices at once, more than the two-outlet setups on many comparable cabinets, and the 46.4 inch desktop is wide enough for up to three machines running side by side. Both drawers use adjustable layouts rather than fixed dividers, so they can hold A4, letter-sized paper, or FC folders interchangeably.\n\nA sliding barn door and sleek iron accents give this a rustic-industrial look rather than a plain laminate finish, and it is backed by a 1-year manufacturer warranty, worth noting since not every cabinet in this price range includes one. Beyond file storage it is built sturdy enough to double as a TV stand, pantry cabinet, or entryway table if repurposed later.",
-    specs: ["46.4in desktop, 2 adjustable-layout drawers","3 outlets + 2 USB, charges up to 5 devices","1-year manufacturer limited warranty"],
-    pros: ["Charges up to five devices at once","Backed by a 1-year manufacturer warranty","Drawers adjust to fit A4, letter, or FC folders"],
-    cons: ["Barn-door, rustic look won't fit every office","No lock is mentioned for either drawer"],
-    bestFor: "buyers prioritizing 46.4in desktop, 2 adjustable-layout drawers",
-  },
-  {
-    id: "best-small-office-credenzas-with-drawers-6",
-    rank: 6,
-    badge: "Solid Option",
-    name: "SEDETA Fluted 2 Drawer Filing Cabinet with 2 Sliding Doors for Home Office",
-    price: "$149.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/414pk-OMVRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F6YK1KDK?tag=theofficejournal-20",
-    description: "Two curved sliding doors flank the file drawers here, a distinct design choice from the flat cabinet doors most competitors use, and they open without needing swing clearance, useful in a tighter office layout. The two file drawers accommodate three document sizes, A4, letter, and legal, without needing separate hardware for each.\n\nThe 39.4 by 15.7 inch desktop is on the smaller side of this cluster but still fits a printer or several smaller items comfortably. Vacuum-formed wood grain paired with metal handles and tapered legs is described as a transitional style, aiming to bridge mid-century and modern rather than committing fully to either.",
-    specs: ["39.4in x 15.7in desktop, 2 file drawers","Curved sliding doors, A4/Letter/Legal support","Tapered metal legs, transitional styling"],
-    pros: ["Curved sliding doors need zero swing clearance","One drawer fits A4, letter, and legal files","Transitional style stands out from plain laminate looks"],
-    cons: ["Smaller desktop fits only one piece of equipment","No built-in charging station included"],
-    bestFor: "buyers prioritizing 39.4in x 15.7in desktop, 2 file drawers",
-  },
-  {
-    id: "best-small-office-credenzas-with-drawers-7",
-    rank: 7,
-    badge: "Budget Pick",
-    name: "2-Drawer File Cabinet, Wood Lateral Filing Cabinet Printer Stand Office Credenza Storage, Letter Size",
-    price: "$127.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/518InjuV7fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C599MKC3?tag=theofficejournal-20",
-    description: "Two large drawers handle letter-sized hanging files or general office supplies, and the top surface is specifically sized to hold a printer, potted plants, or small decorative items simultaneously. The smooth wood-grain desktop paired with a black metal base leans into an industrial-clean aesthetic rather than a plain laminate look.\n\nParticle board construction paired with a metal frame is built for a reinforced structure, and the manufacturer documents a specific weight capacity of roughly 220 lbs, worth noting as a concrete figure. Adjustable feet pads keep the cabinet level and protect the floor from scratches during placement or repositioning.",
-    specs: ["2 large drawers, letter size","~220 lb rated capacity","Particle board + metal frame, adjustable feet"],
-    pros: ["Rated to hold roughly 220 lbs","Industrial wood-and-metal look stands out from plain laminate","Feet pads level it and protect the floor"],
-    cons: ["Only fits letter size, not legal or A4","No lock documented on either drawer"],
-    bestFor: "buyers prioritizing 2 large drawers, letter size",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Function Classified Before Comparison",
-    "description": "Sorted each product into storage credenza, credenza desk, file credenza, or desk-system credenza before ranking, since 'office credenza' spans meaningfully different furniture types that don't compare fairly against each other."
-  },
-  {
-    "title": "Interior Dimensions Over Door Count",
-    "description": "Compared published interior drawer, shelf, and cabinet dimensions rather than exterior width or door count alone, since partitions and hardware can meaningfully shrink real usable space."
-  },
-  {
-    "title": "File Compatibility Verified Directly",
-    "description": "Checked letter/legal compatibility, filing direction, and lock coverage against each product's own documentation rather than assuming a 'file drawer' label means full hanging-file support."
-  },
-  {
-    "title": "Top Usability for Real Equipment",
-    "description": "Evaluated whether the top surface genuinely supports a printer, monitor, or active daily work, factoring in documented load capacity, depth, and cable access rather than treating it as decorative space."
-  },
-  {
-    "title": "Ownership Details: Assembly, Locks, and Warranty",
-    "description": "Weighed assembly complexity, lock/key service, replacement hardware, and warranty terms, since a credenza is a long-term purchase that outlives its first key or a single moving day."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "Set Explicit Width and Depth Thresholds",
-    "note": "Define specific maximum width and depth numbers for small office credenzas with drawers rather than judging 'small' by photos alone, since compact credenzas vary meaningfully in both dimensions."
-  },
-  {
-    "subheading": "Measure Uninterrupted Top Area",
-    "note": "Check the usable top area after subtracting any hutch footprint or raised edge trim, since the nominal top dimensions can overstate real working space."
-  },
-  {
-    "subheading": "Compare Storage Efficiency Per Inch",
-    "note": "Evaluate storage capacity relative to footprint rather than raw storage volume alone, since a compact credenza needs to make efficient use of every inch."
-  },
-  {
-    "subheading": "Open Doors and Drawers in Your Actual Aisle",
-    "note": "Test or measure door and drawer clearance in the specific spot it will occupy, since small rooms leave little margin for a swing-door design that needs more clearance than expected."
-  },
-  {
-    "subheading": "Verify Printer Fit and Rear Ventilation",
-    "note": "Place a representative printer or scanner footprint on the top and check for rear ventilation and plug clearance before committing to a compact model."
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
@@ -191,7 +9,7 @@ export const buyingCriteria = [
     "explanation": "Define specific maximum width and depth numbers for small office credenzas with drawers rather than judging 'small' by photos alone, since compact credenzas vary meaningfully in both dimensions."
   },
   {
-    "criterion": "Measure Uninterrupted Top Area",
+    "criterion": "",
     "explanation": "Check the usable top area after subtracting any hutch footprint or raised edge trim, since the nominal top dimensions can overstate real working space."
   },
   {
@@ -223,7 +41,7 @@ export const faq = [
   },
   {
     "q": "Is a locking office credenza actually secure, or just private?",
-    "a": "Most locks on office credenzas are privacy and access-control features, not burglary-rated security. They keep casual access out and satisfy basic confidentiality needs, but they should not be relied on the same way as a rated safe if the contents are genuinely high-value or sensitive."
+    "a": "Most locks on office credenzas are privacy and access-control features, not burglary-rated security. They keep casual access out and satisfy basic confidentiality needs, but they should not be relied on the same way as a rated safe if the contents are high-value or sensitive."
   },
   {
     "q": "How do I know if a credenza top can actually hold a printer?",
@@ -231,4 +49,278 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-office-credenzas-for-small-office","title":"Best Office Credenzas for Small Office in 2026"},{"href":"/guide/best-small-office-credenzas","title":"Best Small Office Credenzas in 2026"},{"href":"/guide/best-narrow-office-credenzas","title":"Best Narrow Office Credenzas in 2026"}];
+export const guideSlug = "best-small-office-credenzas-with-drawers";
+
+export const guideTitle = "The Best Small Office Credenzas With Drawers: Picks and Trade-offs";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41JJR5hDrKL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "Set Explicit Width and Depth Thresholds",
+    "note": "Define specific maximum width and depth numbers for small office credenzas with drawers rather than judging 'small' by photos alone, since compact credenzas vary meaningfully in both dimensions."
+  },
+  {
+    "subheading": "",
+    "note": "Check the usable top area after subtracting any hutch footprint or raised edge trim, since the nominal top dimensions can overstate real working space."
+  },
+  {
+    "subheading": "Compare Storage Efficiency Per Inch",
+    "note": "Evaluate storage capacity relative to footprint rather than raw storage volume alone, since a compact credenza needs to make efficient use of every inch."
+  },
+  {
+    "subheading": "Open Doors and Drawers in Your Actual Aisle",
+    "note": "Test or measure door and drawer clearance in the specific spot it will occupy, since small rooms leave little margin for a swing-door design that needs more clearance than expected."
+  },
+  {
+    "subheading": "Verify Printer Fit and Rear Ventilation",
+    "note": "Place a representative printer or scanner footprint on the top and check for rear ventilation and plug clearance before committing to a compact model."
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Sorted each product into storage credenza, credenza desk, file credenza, or desk-system credenza before ranking, since 'office credenza' spans meaningfully different furniture types that don't compare fairly against each other."
+  },
+  {
+    "title": "Interior Dimensions Over Door Count",
+    "description": "Compared published interior drawer, shelf, and cabinet dimensions rather than exterior width or door count alone, since partitions and hardware can meaningfully shrink real usable space."
+  },
+  {
+    "title": "",
+    "description": "Checked letter/legal compatibility, filing direction, and lock coverage against each product's own documentation rather than assuming a 'file drawer' label means full hanging-file support."
+  },
+  {
+    "title": "Top Usability for Real Equipment",
+    "description": "Evaluated whether the top surface supports a printer, monitor, or active daily work, factoring in documented load capacity, depth, and cable access rather than treating it as decorative space."
+  },
+  {
+    "title": "Ownership Details: Assembly, Locks, and Warranty",
+    "description": "Weighed assembly complexity, lock/key service, replacement hardware, and warranty terms, since a credenza is a long-term purchase that outlives its first key or a single moving day."
+  }
+];
+
+export const introParagraphs = [
+  "Choosing among small office credenzas with drawers means starting with setting real width and depth thresholds instead of trusting a 'compact' label rather than price or door count.",
+  "Every entry on this list was screened for verified interior dimensions and setting real width and depth thresholds instead of trusting a 'compact' label before anything else was weighed."
+];
+
+export const lastUpdated = "2026-08-18";
+
+export const mainKeyword = "small office credenzas with drawers";
+
+export const metaDescription = "A practical comparison of 7 small office credenzas with drawers, focused on compatibility, build, features and price, and the trade-offs between them.";
+
+export const metaTitle = "Best Small Office Credenzas With Drawers (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-small-office-credenzas-with-drawers-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Perledesign 3 Drawer File Cabinet, Fluted Wood Lateral Filing Cabinet with Charging Station",
+    "price": "$229.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41JJR5hDrKL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQGZ2Z1R?tag=theofficejournal-20",
+    "description": "A pull-out shelf built specifically for a printer or similar device sits above the two lower file drawers, which handle letter and A4 documents, while a smaller top drawer holds day-to-day office essentials. The vertical slat, fluted door design is a distinct aesthetic choice aimed at contemporary or Scandinavian-style interiors rather than a neutral fit everywhere.\n\nThe charging station covers more device types than most competitors, with two power outlets, one USB-A port, and one USB-C port on the same panel. Packaging includes reinforced foam padding and wooden protectors specifically to reduce transit damage, a detail called out separately from the standard assembly instructions.",
+    "specs": [
+      "3 drawers, dedicated pull-out printer shelf",
+      "2 outlets + USB-A + USB-C charging",
+      "Fluted vertical-slat door design"
+    ],
+    "pros": [
+      "Dedicated pull-out shelf just for the printer",
+      "Charging station covers both USB-An and USB-C",
+      "Extra foam padding protects it during shipping"
+    ],
+    "cons": [
+      "Fluted door styling won't suit every office look",
+      "Only two of three drawers fit letter/A4 files"
+    ],
+    "bestFor": "Buyers prioritizing 3 drawers, dedicated pull-out printer shelf"
+  },
+  {
+    "id": "best-small-office-credenzas-with-drawers-2",
+    "rank": 2,
+    "badge": "Runner-Up",
+    "name": "DecoFurn Lateral File Cabinet with 2 Drawers, Open Storage Cubes, Fits Letter/A4",
+    "price": "$149.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41S4N750yjL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0H36FM377?tag=theofficejournal-20",
+    "description": "Each drawer here rolls on smooth wheels at the bottom for easier access, an uncommon detail among lateral file cabinets, and is individually rated to hold up to 55 lbs while fitting letter or A4 size file boxes. Five open storage cubes above the drawers include two adjustable shelves, giving a mix of visible and enclosed storage in one unit.\n\nThe finish uses eco-friendly, water-based paint certified to meet 16 CFR Part 1303 formaldehyde and lead safety standards, worth noting for anyone sensitive to off-gassing from new furniture. Gold handles against a sleek minimalist body are meant to double as either a filing cabinet or a decorative credenza depending on where it is placed.",
+    "specs": [
+      "2 drawers, rolling-wheel access, 55 lbs each",
+      "5 open storage cubes, 2 adjustable shelves",
+      "16 CFR Part 1303 certified water-based paint"
+    ],
+    "pros": [
+      "Drawers roll on wheels for easier access",
+      "Paint meets a specific, verifiable safety standard",
+      "Each drawer rated for 55 lbs of files"
+    ],
+    "cons": [
+      "Most storage sits in open cubes with no doors",
+      "Decorative look may feel too stylized for pure filing"
+    ],
+    "bestFor": "Buyers prioritizing 2 drawers, rolling-wheel access, 55 lbs each"
+  },
+  {
+    "id": "best-small-office-credenzas-with-drawers-3",
+    "rank": 3,
+    "badge": "Also Great",
+    "name": "43\" Wood File Cabinet with Power Outlet, 2 Drawers, 2 Open Storage Shelves",
+    "price": "$143.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51hTrhg8NbL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT875YG7?tag=theofficejournal-20",
+    "description": "Both file drawers use an adjustable hanging-rail system that slides to fit Legal, Letter, or A4 folders interchangeably, so switching document sizes later does not require new hardware. 3 inch desktop is wide enough to run two pieces of equipment side by side, whether that is a printer and a scanner or a laptop and a desk lamp.\n\nA built-in outlet with two AC sockets and two USB ports can power up to four devices at once, and two open shelves above the drawers keep frequently used supplies within reach rather than buried in a drawer. The MDF and metal-frame construction includes anti-tip hardware standard, which matters more in households with kids or pets than in a closed office.",
+    "specs": [
+      "43.3in wide desktop, 2 file drawers",
+      "Adjustable rails fit Legal/Letter/A4",
+      "2 AC + 2 USB outlet, anti-tip hardware included"
+    ],
+    "pros": [
+      "Rails slide to fit Legal, Letter, or A4 files",
+      "Desktop fits two devices side by side",
+      "Anti-tip hardware comes standard, not extra"
+    ],
+    "cons": [
+      "Open shelves offer no dust or privacy cover",
+      "Wide desktop still needs planning for a large printer"
+    ],
+    "bestFor": "3in wide desktop, 2 file drawers"
+  },
+  {
+    "id": "best-small-office-credenzas-with-drawers-4",
+    "rank": 4,
+    "badge": "Strong Alternative",
+    "name": "Lateral File Cabinet with Charging Station, Filing Cabinets for Home Office",
+    "price": "$174.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41aJ-30sLUL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMF9BDD6?tag=theofficejournal-20",
+    "description": "4 inch desktop is wide enough for up to three machines running side by side. Both drawers use adjustable layouts rather than fixed dividers, so they can hold A4, letter-sized paper, or FC folders interchangeably.\n\nA sliding barn door and sleek iron accents give this a rustic-industrial look rather than a plain laminate finish, and it is backed by a 1-year manufacturer warranty, worth noting since not every cabinet in this price range includes one. Beyond file storage it is built sturdy enough to double as a TV stand, pantry cabinet, or entryway table if repurposed later.",
+    "specs": [
+      "46.4in desktop, 2 adjustable-layout drawers",
+      "3 outlets + 2 USB, charges up to 5 devices",
+      "1-year manufacturer limited warranty"
+    ],
+    "pros": [
+      "Charges up to five devices at once",
+      "Backed by a 1-year manufacturer warranty",
+      "Drawers adjust to fit A4, letter, or FC folders"
+    ],
+    "cons": [
+      "Barn-door, rustic look won't fit every office",
+      "No lock is mentioned for either drawer"
+    ],
+    "bestFor": "4in desktop, 2 adjustable-layout drawers"
+  },
+  {
+    "id": "best-small-office-credenzas-with-drawers-5",
+    "rank": 5,
+    "badge": "Worth Considering",
+    "name": "Lateral File Cabinet with Charging Station, Filing Cabinets for Home Office",
+    "price": "$174.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41gKov6K5IL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMF6ZJMF?tag=theofficejournal-20",
+    "description": "4 inch desktop is wide enough for up to three machines running side by side. Both drawers use adjustable layouts rather than fixed dividers, so they can hold A4, letter-sized paper, or FC folders interchangeably.\n\nA sliding barn door and sleek iron accents give this a rustic-industrial look rather than a plain laminate finish, and it is backed by a 1-year manufacturer warranty, worth noting since not every cabinet in this price range includes one. Beyond file storage it is built sturdy enough to double as a TV stand, pantry cabinet, or entryway table if repurposed later.",
+    "specs": [
+      "46.4in desktop, 2 adjustable-layout drawers",
+      "3 outlets + 2 USB, charges up to 5 devices",
+      "1-year manufacturer limited warranty"
+    ],
+    "pros": [
+      "Charges up to five devices at once",
+      "Backed by a 1-year manufacturer warranty",
+      "Drawers adjust to fit A4, letter, or FC folders"
+    ],
+    "cons": [
+      "Barn-door, rustic look won't fit every office",
+      "No lock is mentioned for either drawer"
+    ],
+    "bestFor": "4in desktop, 2 adjustable-layout drawers"
+  },
+  {
+    "id": "best-small-office-credenzas-with-drawers-6",
+    "rank": 6,
+    "badge": "Solid Option",
+    "name": "SEDETA Fluted 2 Drawer Filing Cabinet with 2 Sliding Doors for Home Office",
+    "price": "$149.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/414pk-OMVRL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6YK1KDK?tag=theofficejournal-20",
+    "description": "Two curved sliding doors flank the file drawers here, a distinct design choice from the flat cabinet doors most competitors use, and they open without needing swing clearance, useful in a tighter office layout. The two file drawers accommodate three document sizes, A4, letter, and legal, without needing separate hardware for each.\n\n7 inch desktop is on the smaller side of this cluster but still fits a printer or several smaller items comfortably. Vacuum-formed wood grain paired with metal handles and tapered legs is described as a transitional style, aiming to bridge mid-century and modern rather than committing fully to either.",
+    "specs": [
+      "39.4in x 15.7in desktop, 2 file drawers",
+      "Curved sliding doors, A4/Letter/Legal support",
+      "Tapered metal legs, transitional styling"
+    ],
+    "pros": [
+      "Curved sliding doors need zero swing clearance",
+      "One drawer fits A4, letter, and legal files",
+      "Transitional style stands out from plain laminate looks"
+    ],
+    "cons": [
+      "Smaller desktop fits only one piece of equipment",
+      "No built-in charging station included"
+    ],
+    "bestFor": "7in desktop, 2 file drawers"
+  },
+  {
+    "id": "best-small-office-credenzas-with-drawers-7",
+    "rank": 7,
+    "badge": "Budget Pick",
+    "name": "2-Drawer File Cabinet, Wood Lateral Filing Cabinet Printer Stand Office Credenza Storage, Letter Size",
+    "price": "$127.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/518InjuV7fL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0C599MKC3?tag=theofficejournal-20",
+    "description": "Two large drawers handle letter-sized hanging files or general office supplies, and the top surface is specifically sized to hold a printer, potted plants, or small decorative items simultaneously. The smooth wood-grain desktop paired with a black metal base leans into an industrial-clean aesthetic rather than a plain laminate look.\n\nParticle board construction paired with a metal frame is built for a reinforced structure, and the manufacturer documents a specific weight capacity of roughly 220 lbs, worth noting as a concrete figure. Adjustable feet pads keep the cabinet level and protect the floor from scratches during placement or repositioning.",
+    "specs": [
+      "2 large drawers, letter size",
+      "~220 lb rated capacity",
+      "Particle board + metal frame, adjustable feet"
+    ],
+    "pros": [
+      "Rated to hold roughly 220 lbs",
+      "Industrial wood-and-metal look stands out from plain laminate",
+      "Feet pads level it and protect the floor"
+    ],
+    "cons": [
+      "Only fits letter size, not legal or A4",
+      "No lock documented on either drawer"
+    ],
+    "bestFor": "Buyers prioritizing 2 large drawers, letter size"
+  }
+];
+
+export const readTime = "10 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-office-credenzas-for-small-office",
+    "title": "Best Office Credenzas for Small Office in 2026"
+  },
+  {
+    "href": "/guide/best-small-office-credenzas",
+    "title": "Best Small Office Credenzas in 2026"
+  },
+  {
+    "href": "/guide/best-narrow-office-credenzas",
+    "title": "Best Narrow Office Credenzas in 2026"
+  }
+];
+
+export const breadcrumbLabel = "Best Small Office Credenzas With Drawers";

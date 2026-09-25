@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-laptop-screen-extenders-for-macbook-air";
 
-export const guideTitle = "The Best Laptop Screen Extenders for MacBook Air Worth Considering";
+export const guideTitle = "The Best Laptop Screen Extenders for MacBook Air: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51k2TKAKpxL._SL500_.jpg";
 

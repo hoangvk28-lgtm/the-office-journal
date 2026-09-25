@@ -1,221 +1,9 @@
-export const guideSlug = "best-portable-acoustic-room-dividers";
-export const guideTitle = "5 Best Portable Acoustic Room Dividers in 2026";
-export const metaTitle = "Best Portable Acoustic Room Dividers, Honestly Reviewed (2026)";
-export const metaDescription =
-  "5 portable acoustic room dividers we evaluated, from budget fold screens to premium architectural partitions, with an honest look at what 'acoustic' actually means at each price tier.";
-export const mainKeyword = "portable acoustic room divider";
-export const introParagraphs = [
-  "The word 'acoustic' spans a huge price and performance range in this category, a $99 folding privacy screen and a $1,400 architectural partition are both marketed as acoustic, but only genuinely engineered products at the higher end approach real sound-transmission reduction.",
-  "For most home offices, a mid-priced wheeled or foldable divider provides adequate visual separation and modest sound softening, reserve the premium architectural-grade option for situations where you genuinely need to reduce sound crossing between two work areas.",
-];
-export const lastUpdated = "2026-07-30";
-export const readTime = "8 min";
-export const heroImage = "https://m.media-amazon.com/images/I/31LNiAecNOL._SL500_.jpg";
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: string; reviews: string;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-export interface BuyingCriterion { criterion: string; explanation: string; }
-export interface FaqItem { q: string; a: string; }
-
-export const products: GuideProduct[] = [
-  {
-    id: "kerram-3panel-portable",
-    rank: 1,
-    badge: "Best Mid-Priced Portable Divider",
-    name: "KERRAM 3 Panel Foldable Office Partitions, Mobile Cubicle Wall with Wheels",
-    price: "$399.99",
-    rating: "4.8 stars from 14 Amazon ratings",
-    reviews: "14 ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/31d7CVpkJCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FYPHYYRV?tag=theofficejournal-20",
-    description:
-      "A genuine mobile cubicle wall on wheels at a reasonable mid-tier price, strong early rating for a foldable design that provides real room-height visual separation. Foldable for storage when you don't need the divide.\n\nStill not architectural-grade soundproofing, expect meaningful visual privacy and modest sound softening, not true sound transmission blocking.\n\nWheeled and foldable, easy to reposition or store. That's a real strength, but weigh it against the flip side: not architectural-grade soundproofing.",
-    specs: ["3-panel foldable partition, wheeled", "Room-height coverage", "Foldable for storage", "Strong early rating"],
-    pros: ["Genuine room-height visual separation", "Wheeled and foldable, easy to reposition or store", "Strong early rating", "Reasonable mid-tier price for this scale"],
-    cons: ["Not architectural-grade soundproofing", "Modest review count", "Higher price than a basic fold screen"],
-    bestFor: "Buyers who want a genuine mobile partition wall at a mid-tier price",
-  },
-  {
-    id: "sunally-6panel-portable",
-    rank: 2,
-    badge: "Best Budget Portable Divider",
-    name: "SUNALLY Room Divider Privacy Screens, 6 Panels Dividers with Wheels, Black",
-    price: "$99.99",
-    rating: "4.2 stars from 562 Amazon ratings",
-    reviews: "562 ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/31LNiAecNOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GG9TW8MK?tag=theofficejournal-20",
-    description:
-      "The most affordable pick in this guide with a large, well-established review base, 6 panels provide genuine visual privacy at a fraction of the architectural-grade options' price. Wheeled for easy repositioning.\n\nHonestly, 'acoustic' at this price tier means very modest sound softening, this is primarily a visual privacy screen with wheels, not a genuine acoustic solution.\n\nWorth calling out specifically: large, well-established review base. The catch is 'Acoustic' claim is modest at this price tier, primarily a visual screen.",
-    specs: ["6 panels, wheeled, black finish", "Budget-friendly", "Large, well-established review base", "Visual privacy focused"],
-    pros: ["Most affordable pick in this guide", "Large, well-established review base", "6 panels for genuine visual coverage", "Wheeled for easy repositioning"],
-    cons: ["'Acoustic' claim is modest at this price tier, primarily a visual screen", "Lower rating than premium picks", "Less durable construction than architectural-grade options"],
-    bestFor: "Budget-conscious buyers who mainly need visual privacy with wheels for repositioning",
-  },
-  {
-    id: "72in-3panel-portable-a",
-    rank: 3,
-    badge: "Best Heavy-Duty Portable Pick",
-    name: "72in 3-Panel Soundproof Room Divider with Wheels, Heavy-Duty Acoustic",
-    price: "$272.99",
-    rating: "5.0 stars from 4 Amazon ratings",
-    reviews: "4 ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/31N6zWVRQ9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F2HC56SD?tag=theofficejournal-20",
-    description:
-      "Heavy-duty construction at a genuinely reasonable middle price between the budget SUNALLY screen and the premium architectural option, standing-height 72-inch coverage suits most room-division needs.\n\nVery limited review history so far, weigh the perfect early rating against this small sample size before treating durability claims as proven.\n\n72in height for standing-height division. Set against that, very limited review history. Both matter when comparing it to the other picks here.",
-    specs: ["3 panels, 72in height, heavy-duty", "Wheeled, acoustic material", "Mid-tier price", "Standing-height coverage"],
-    pros: ["Heavy-duty build at a reasonable mid-tier price", "72in height for standing-height division", "Perfect early rating", "Genuinely portable on wheels"],
-    cons: ["Very limited review history", "No tested acoustic rating", "Small sample size for durability claims"],
-    bestFor: "Buyers who want heavy-duty construction without paying for the premium architectural option",
-  },
-  {
-    id: "versare-versipanel-portable",
-    rank: 4,
-    badge: "Best Premium Architectural-Grade Pick",
-    name: "Versare VersiPanel Acoustical Partition Wall - Sound Panel Classroom Office Room Divider, Flexible Arrangement, Easy Roll-up Storage (Gray, 8'Wide x 6'6\"Tall)",
-    price: "$1,411.09",
-    rating: "3.7 stars from 36 Amazon ratings",
-    reviews: "36 ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/31vCjliZ9AL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07ZWN92PX?tag=theofficejournal-20",
-    description:
-      "By far the largest and most expensive pick in this guide, this is a genuine architectural-grade acoustical partition wall at 8 feet wide, the closest product in this category to real sound transmission reduction rather than just visual privacy.\n\nNotably lower rating than the other picks here despite the premium price and scale, read recent feedback carefully before committing to this investment.\n\nA genuine advantage here is that closest product here to real sound transmission reduction. The tradeoff is notably lower rating than every other pick in this guide.",
-    specs: ["8' wide x 6'6\" tall, architectural-grade", "Acoustical partition wall", "Easy roll-up storage", "Flexible arrangement"],
-    pros: ["Genuine architectural-grade scale and construction", "Closest product here to real sound transmission reduction", "Large coverage for a substantial room division", "Flexible arrangement options"],
-    cons: ["Notably lower rating than every other pick in this guide", "By far the highest price", "Large scale requires significant floor space to store when rolled up"],
-    bestFor: "Buyers who genuinely need architectural-grade sound reduction and have the budget and space for it",
-  },
-  {
-    id: "72in-3panel-portable-b",
-    rank: 5,
-    badge: "Alternate Heavy-Duty Pick",
-    name: "72in 3-Panel Soundproof Room Divider with Wheels, Heavy-Duty Acoustic",
-    price: "$272.99",
-    rating: "5.0 stars from 2 Amazon ratings",
-    reviews: "2 ratings",
-    imageUrl: "https://m.media-amazon.com/images/I/31QuqUSZuOL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F2HCQN2H?tag=theofficejournal-20",
-    description:
-      "A second listing of the same heavy-duty 72-inch design as rank 3, worth checking if the primary listing is out of stock or if this listing's finish suits your space better.\n\nEven smaller review count than its sibling, treat this as an alternative sourcing option rather than independently verified performance.\n\nReasonable mid-tier price. That's a real strength, but weigh it against the flip side: extremely limited review history.",
-    specs: ["3 panels, 72in height, heavy-duty", "Wheeled, acoustic material", "Same specs as the primary listing", "Alternative sourcing option"],
-    pros: ["Same heavy-duty build as the primary listing", "Reasonable mid-tier price", "Alternative if the primary listing is unavailable", "Standing-height coverage"],
-    cons: ["Extremely limited review history", "Essentially a duplicate listing", "No tested acoustic rating"],
-    bestFor: "Buyers seeking the heavy-duty design if the primary listing is unavailable",
-  },
-];
-
-export interface HowWeEvaluatedItem { title: string; description: string; }
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  { title: "'Acoustic' means different things at different price tiers", description: "Evaluated each pick's actual acoustic capability honestly against its marketing, from budget visual-privacy screens with modest sound softening through the one genuinely architectural-grade partition." },
-  { title: "Price-to-scale matching for real-world needs", description: "Ranked picks from the most affordable visual screen through the premium architectural option, so buyers can match spending to whether they need visual privacy or genuine sound transmission reduction." },
-  { title: "Review base scrutiny across a wide price range", description: "Weighed review count and rating together at every price tier, including flagging the premium architectural pick's notably lower rating despite its scale and cost." },
-];
-
-export interface HowToChooseSection { subheading: string; intro?: string; table?: { headers: string[]; rows: string[][] }; cards?: { label: string; text: string }[]; note?: string; }
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Highest average rating",
-          "72in 3"
-        ],
-        [
-          "Largest review base, strongest reliability signal",
-          "SUNALLY Room Divider Privacy Screens"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Under $1",
-          "Versare VersiPanel Acoustical Partition Wall"
-        ],
-        [
-          "Up to $400",
-          "KERRAM 3 Panel Foldable Office Partitions"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "On Wheels vs Fixed Base",
-    "cards": [
-      {
-        "label": "On wheels",
-        "text": "Repositionable between rooms or layouts, worth locking casters once positioned. In this comparison: KERRAM 3 Panel Foldable Office Partitions, SUNALLY Room Divider Privacy Screens, 72in 3, 72in 3."
-      },
-      {
-        "label": "Fixed base",
-        "text": "More stable for a divider that stays in one spot long-term. In this comparison: Versare VersiPanel Acoustical Partition Wall."
-      }
-    ],
-    "note": "Default to a fixed base unless you genuinely need to reposition the divider often."
-  },
-  {
-    "subheading": "By Acoustic Material",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Genuine sound-dampening material",
-          "SUNALLY Room Divider Privacy Screens"
-        ],
-        [
-          "Visual separation is enough",
-          "KERRAM 3 Panel Foldable Office Partitions"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For a Rented Space Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
-      },
-      {
-        "label": "In this comparison",
-        "text": "SUNALLY Room Divider Privacy Screens is worth checking against its listed mounting method before buying, given its strong review base."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need real acoustic dampening or a taller, more stable divider, where KERRAM 3 Panel Foldable Office Partitions's material and construction give real headroom over the cheaper picks."
-      },
-      {
-        "label": "Save if",
-        "text": "You just need light visual separation without noise or stability concerns, where Versare VersiPanel Acoustical Partition Wall covers the same job at a lower price."
-      }
-    ]
-  }
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
+export const buyingCriteria = [
   {
     "criterion": "Check freestanding stability against your actual floor type, not just an empty room demo",
     "explanation": "A freestanding divider relies entirely on its own base footprint and panel angle for stability, with no wall support, and how well it actually stays upright varies depending on floor type, a divider that stands solidly on carpet can behave differently on hardwood or tile, and panels catching a draft from an HVAC vent can wobble more than expected.\n\nThis matters because a divider that looks stable in a still product photo can still tip or shift with regular foot traffic brushing past it.\n\nCheck reviews specifically for real-world stability mentions on floor types similar to yours, and check the base footprint width relative to the divider's height, since a taller divider needs a wider base to stay stable."
@@ -234,19 +22,329 @@ export const buyingCriteria: BuyingCriterion[] = [
   },
   {
     "criterion": "Consider mobility needs if the divider will move between rooms or configurations regularly",
-    "explanation": "A divider on wheels or casters can be repositioned easily between rooms or reconfigured for different layouts throughout the week, useful for anyone who needs flexible zoning rather than a permanent room split, but wheels also mean the divider is inherently less stable than a fixed-base design and can shift underfoot if bumped.\n\nThis matters more if you genuinely need to move the divider often, like separating a home office from a living space only during work hours, less if it'll stay in one position long-term.\n\nCheck whether casters are lockable to prevent unwanted movement once positioned, and weigh mobility against the reduced stability it typically brings."
+    "explanation": "A divider on wheels or casters can be repositioned easily between rooms or reconfigured for different layouts throughout the week, useful for anyone who needs flexible zoning rather than a permanent room split, but wheels also mean the divider is inherently less stable than a fixed-base design and can shift underfoot if bumped.\n\nThis matters more if you need to move the divider often, like separating a home office from a living space only during work hours, less if it'll stay in one position long-term.\n\nCheck whether casters are lockable to prevent unwanted movement once positioned, and weigh mobility against the reduced stability it typically brings."
   }
 ];
 
-export const faq: FaqItem[] = [
-  { q: "Do I need an expensive acoustic room divider or will a cheap one work?", a: "For most home offices, a mid-priced wheeled or foldable divider provides adequate visual separation and modest sound softening. Reserve a premium architectural-grade partition for situations where you genuinely need to reduce sound transmission between two work areas." },
-  { q: "Does 'acoustic' mean the same thing at every price point?", a: "No. A $99 folding screen and a $1,400 architectural partition are both marketed as acoustic, but only genuinely engineered products at the higher end approach real sound-transmission reduction, most budget and mid-tier options primarily provide visual privacy with modest sound softening." },
-  { q: "Is the most expensive room divider always the best rated?", a: "Not necessarily. The premium architectural-grade pick in this guide actually carries a notably lower rating than several much cheaper alternatives, always check recent reviews rather than assuming price predicts satisfaction." },
-  { q: "What should I look for in a portable acoustic room divider?", a: "Match your expectations to price tier (visual privacy vs. genuine sound reduction), check wheel and locking-caster quality for practical daily use, and read recent reviews carefully, especially for newer listings with limited review history." },
+export const faq = [
+  {
+    "q": "Do I need an expensive acoustic room divider or will a cheap one work?",
+    "a": "For most home offices, a mid-priced wheeled or foldable divider provides adequate visual separation and modest sound softening. Reserve a premium architectural-grade partition for situations where you need to reduce sound transmission between two work areas."
+  },
+  {
+    "q": "Does 'acoustic' mean the same thing at every price point?",
+    "a": "A $99 folding screen and a $1,400 architectural partition are both marketed as acoustic, but only engineered products at the higher end approach real sound-transmission reduction, most budget and mid-tier options primarily provide visual privacy with modest sound softening."
+  },
+  {
+    "q": "Is the most expensive room divider always the best rated?",
+    "a": "The premium architectural-grade pick in this guide actually carries a notably lower rating than several much cheaper alternatives, always check recent reviews rather than assuming price predicts satisfaction."
+  },
+  {
+    "q": "What should I look for in a portable acoustic room divider?",
+    "a": "Match your expectations to price tier (visual privacy vs. Genuine sound reduction), check wheel and locking-caster quality for practical daily use, and read recent reviews carefully, especially for newer listings with limited review history."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-acoustic-room-dividers-on-wheels", title: "Best Acoustic Room Dividers on Wheels (2026)" },
-  { href: "/guide/best-sound-absorbing-desk-privacy-panels", title: "Best Sound-Absorbing Desk Privacy Panels (2026)" },
-  { href: "/guide/best-desk-privacy-panels-clamp-on", title: "Best Clamp-On Desk Privacy Panels (2026)" },
+export const guideSlug = "best-portable-acoustic-room-dividers";
+
+export const guideTitle = "The Best Portable Acoustic Room Dividers for Everyday Desk Work";
+
+export const heroImage = "https://m.media-amazon.com/images/I/31LNiAecNOL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "SUNALLY Room Divider Privacy Screens"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "Versare VersiPanel Acoustical Partition Wall"
+        ],
+        [
+          "",
+          "KERRAM 3 Panel Foldable Office Partitions"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "On Wheels vs Fixed Base",
+    "cards": [
+      {
+        "label": "",
+        "text": "Repositionable between rooms or layouts, worth locking casters once positioned. In this comparison: KERRAM 3 Panel Foldable Office Partitions, SUNALLY Room Divider Privacy Screens, 72in 3, 72in 3."
+      },
+      {
+        "label": "",
+        "text": "More stable for a divider that stays in one spot long-term. In this comparison: Versare VersiPanel Acoustical Partition Wall."
+      }
+    ],
+    "note": "Default to a fixed base unless you need to reposition the divider often."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "SUNALLY Room Divider Privacy Screens"
+        ],
+        [
+          "",
+          "KERRAM 3 Panel Foldable Office Partitions"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For a Rented Space Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
+      },
+      {
+        "label": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need real acoustic dampening or a taller, more stable divider, where KERRAM 3 Panel Foldable Office Partitions's material and construction give real headroom over the cheaper picks."
+      },
+      {
+        "label": "",
+        "text": "You just need light visual separation without noise or stability concerns, where Versare VersiPanel Acoustical Partition Wall covers the same job at a lower price."
+      }
+    ]
+  }
 ];
+
+export const howWeEvaluated = [
+  {
+    "title": "'Acoustic' means different things at different price tiers",
+    "description": "Evaluated each pick's actual acoustic capability honestly against its marketing, from budget visual-privacy screens with modest sound softening through the one architectural-grade partition."
+  },
+  {
+    "title": "Price-to-scale matching for real-world needs",
+    "description": "Ranked picks from the most affordable visual screen through the premium architectural option, so buyers can match spending to whether they need visual privacy or genuine sound transmission reduction."
+  },
+  {
+    "title": "",
+    "description": "Weighed review count and rating together at every price tier, including flagging the premium architectural pick's notably lower rating despite its scale and cost."
+  }
+];
+
+export const introParagraphs = [
+  "The word 'acoustic' spans a huge price and performance range in this category, a $99 folding privacy screen and a $1,400 architectural partition are both marketed as acoustic, but only engineered products at the higher end approach real sound-transmission reduction.",
+  "For most home offices, a mid-priced wheeled or foldable divider provides adequate visual separation and modest sound softening, reserve the premium architectural-grade option for situations where you need to reduce sound crossing between two work areas."
+];
+
+export const lastUpdated = "2026-07-30";
+
+export const mainKeyword = "portable acoustic room divider";
+
+export const metaDescription = "How 5 portable acoustic room dividers compare on compatibility, build, features and price, with clear notes on who each one suits.";
+
+export const metaTitle = "Best Portable Acoustic Room Dividers for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "kerram-3panel-portable",
+    "rank": 1,
+    "badge": "Best Mid-Priced Portable Divider",
+    "name": "KERRAM 3 Panel Foldable Office Partitions, Mobile Cubicle Wall with Wheels",
+    "price": "$399.99",
+    "rating": "4.8 stars from 14 Amazon ratings",
+    "reviews": "14 ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/31d7CVpkJCL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FYPHYYRV?tag=theofficejournal-20",
+    "description": "A genuine mobile cubicle wall on wheels at a reasonable mid-tier price, strong early rating for a foldable design that provides real room-height visual separation. Foldable for storage when you don't need the divide.\n\nStill not architectural-grade soundproofing, expect meaningful visual privacy and modest sound softening, not true sound transmission blocking.\n\nWheeled and foldable, easy to reposition or store.",
+    "specs": [
+      "3-panel foldable partition, wheeled",
+      "Room-height coverage",
+      "Foldable for storage",
+      "Strong early rating"
+    ],
+    "pros": [
+      "Genuine room-height visual separation",
+      "Wheeled and foldable, easy to reposition or store",
+      "Strong early rating",
+      "Reasonable mid-tier price for this scale"
+    ],
+    "cons": [
+      "Not architectural-grade soundproofing",
+      "Modest review count",
+      "Higher price than a basic fold screen"
+    ],
+    "bestFor": "Buyers who want a genuine mobile partition wall at a mid-tier price"
+  },
+  {
+    "id": "sunally-6panel-portable",
+    "rank": 2,
+    "badge": "Best Budget Portable Divider",
+    "name": "SUNALLY Room Divider Privacy Screens, 6 Panels Dividers with Wheels, Black",
+    "price": "$99.99",
+    "rating": "4.2 stars from 562 Amazon ratings",
+    "reviews": "562 ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/31LNiAecNOL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GG9TW8MK?tag=theofficejournal-20",
+    "description": "Honestly, 'acoustic' at this price tier means very modest sound softening, this is primarily a visual privacy screen with wheels, not a genuine acoustic solution.",
+    "specs": [
+      "6 panels, wheeled, black finish",
+      "low-cost",
+      "Visual privacy focused"
+    ],
+    "pros": [
+      "Most affordable pick in this guide",
+      "6 panels for genuine visual coverage",
+      "Wheeled for easy repositioning"
+    ],
+    "cons": [
+      "'Acoustic' claim is modest at this price tier, primarily a visual screen",
+      "Lower rating than premium picks",
+      "Less durable construction than architectural-grade options"
+    ],
+    "bestFor": "Budget-conscious buyers who mainly need visual privacy with wheels for repositioning"
+  },
+  {
+    "id": "72in-3panel-portable-a",
+    "rank": 3,
+    "badge": "Best Heavy-Duty Portable Pick",
+    "name": "72in 3-Panel Soundproof Room Divider with Wheels, Heavy-Duty Acoustic",
+    "price": "$272.99",
+    "rating": "5.0 stars from 4 Amazon ratings",
+    "reviews": "4 ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/31N6zWVRQ9L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2HC56SD?tag=theofficejournal-20",
+    "description": "Heavy-duty construction at a reasonable middle price between the budget SUNALLY screen and the premium architectural option, standing-height 72-inch coverage suits most room-division needs.\n\nVery limited review history so far, weigh the well suited early rating against this small sample size before treating durability claims as proven.\n\n72in height for standing-height division.",
+    "specs": [
+      "3 panels, 72in height, heavy-duty",
+      "Wheeled, acoustic material",
+      "Mid-tier price",
+      "Standing-height coverage"
+    ],
+    "pros": [
+      "Heavy-duty build at a reasonable mid-tier price",
+      "72in height for standing-height division",
+      "well suited early rating",
+      "portable on wheels"
+    ],
+    "cons": [
+      "Very limited review history",
+      "No tested acoustic rating",
+      "Small sample size for durability claims"
+    ],
+    "bestFor": "Buyers who want heavy-duty construction without paying for the premium architectural option"
+  },
+  {
+    "id": "versare-versipanel-portable",
+    "rank": 4,
+    "badge": "Best Premium Architectural-Grade Pick",
+    "name": "Versare VersiPanel Acoustical Partition Wall - Sound Panel Classroom Office Room Divider, Flexible Arrangement, Easy Roll-up Storage (Gray, 8'Wide x 6'6\"Tall)",
+    "price": "$1,411.09",
+    "rating": "3.7 stars from 36 Amazon ratings",
+    "reviews": "36 ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/31vCjliZ9AL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZWN92PX?tag=theofficejournal-20",
+    "description": "By far the largest and most expensive pick in this guide, this is a genuine architectural-grade acoustical partition wall at 8 feet wide, the closest product in this category to real sound transmission reduction rather than just visual privacy.\n\nNotably lower rating than the other picks here despite the premium price and scale, read recent feedback carefully before committing to this investment.",
+    "specs": [
+      "8' wide x 6'6\" tall, architectural-grade",
+      "Acoustical partition wall",
+      "Easy roll-up storage",
+      "Flexible arrangement"
+    ],
+    "pros": [
+      "Genuine architectural-grade scale and construction",
+      "Closest product here to real sound transmission reduction",
+      "Large coverage for a substantial room division",
+      "Flexible arrangement options"
+    ],
+    "cons": [
+      "Notably lower rating than every other pick in this guide",
+      "By far the highest price",
+      "Large scale requires significant floor space to store when rolled up"
+    ],
+    "bestFor": "Buyers who need architectural-grade sound reduction and have the budget and space for it"
+  },
+  {
+    "id": "72in-3panel-portable-b",
+    "rank": 5,
+    "badge": "Alternate Heavy-Duty Pick",
+    "name": "72in 3-Panel Soundproof Room Divider with Wheels, Heavy-Duty Acoustic",
+    "price": "$272.99",
+    "rating": "5.0 stars from 2 Amazon ratings",
+    "reviews": "2 ratings",
+    "imageUrl": "https://m.media-amazon.com/images/I/31QuqUSZuOL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2HCQN2H?tag=theofficejournal-20",
+    "description": "A second listing of the same heavy-duty 72-inch design as rank 3, worth checking if the primary listing is out of stock or if this listing's finish suits your space better.\n\nEven smaller review count than its sibling, treat this as an alternative sourcing option rather than independently verified performance.",
+    "specs": [
+      "3 panels, 72in height, heavy-duty",
+      "Wheeled, acoustic material",
+      "Same specs as the primary listing",
+      "Alternative sourcing option"
+    ],
+    "pros": [
+      "Same heavy-duty build as the primary listing",
+      "Reasonable mid-tier price",
+      "Alternative if the primary listing is unavailable",
+      "Standing-height coverage"
+    ],
+    "cons": [
+      "Extremely limited review history",
+      "Essentially a duplicate listing",
+      "No tested acoustic rating"
+    ],
+    "bestFor": "Buyers seeking the heavy-duty design if the primary listing is unavailable"
+  }
+];
+
+export const readTime = "8 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-acoustic-room-dividers-on-wheels",
+    "title": "Best Acoustic Room Dividers on Wheels (2026)"
+  },
+  {
+    "href": "/guide/best-sound-absorbing-desk-privacy-panels",
+    "title": "Best Sound-Absorbing Desk Privacy Panels (2026)"
+  },
+  {
+    "href": "/guide/best-desk-privacy-panels-clamp-on",
+    "title": "Best Clamp-On Desk Privacy Panels (2026)"
+  }
+];
+
+export const breadcrumbLabel = "Best Portable Acoustic Room Dividers";

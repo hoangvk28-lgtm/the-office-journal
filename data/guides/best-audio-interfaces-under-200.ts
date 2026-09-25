@@ -1,250 +1,7 @@
-export const guideSlug = "best-audio-interfaces-under-200";
-export const guideTitle = "6 Best Audio Interfaces Under $200 in 2026";
-export const metaTitle = "Best Audio Interfaces Under $200 in 2026";
-export const metaDescription = "We compared best audio interfaces under $200 by verified current price and real capability, not just the price ceiling alone.";
-export const mainKeyword = "audio interfaces under $200";
-export const introParagraphs = [
-  "Best Audio Interfaces Under $200 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
-  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
-];
-export const lastUpdated = "2026-08-22";
-export const readTime = "10 min";
-export const heroImage = "https://m.media-amazon.com/images/I/31Ty6bmUmVL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-audio-interfaces-under-200-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface",
-    price: "$119.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31Ty6bmUmVL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07QR6Z1JB?tag=theofficejournal-20",
-    description: "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface is the top pick in this comparison. Pro performance with great pre-amps - achieve a brighter recording thanks to the high performing mic pre-amps of the scarlett 3rd gen. Get the perfect guitar and vocal take with - with two high-headroom instrument inputs to plug in your guitar or bass so that they shine through.\n\nIt sits close to PreSonus AudioBox 96 25th Anniversary USB Audio Interface on paper, so the real decision comes down to a specific detail rather than a big capability gap: studio quality recording for your music & podcasts - achieve pro sounding recordings with scarlett 3rd gen’s high-performance converters enabling you to record and mix at up to 24-bit/192khz.\n\nGo with this pick if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Pro performance with great pre-amps - achieve a brighter", "Get the perfect guitar and vocal take with - with two", "Studio quality recording for your music & podcasts - achieve pro"],
-    pros: ["Pro performance with great pre-amps - achieve a brighter recording thanks", "Get the perfect guitar and vocal take with - with two", "Studio quality recording for your music & podcasts - achieve pro"],
-    cons: ["Verify exact fit and specs against your device before buying", "Compatibility varies by exact model, double-check before ordering"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-audio-interfaces-under-200-2",
-    rank: 2,
-    badge: "Best Value",
-    name: "PreSonus AudioBox 96 25th Anniversary USB Audio Interface",
-    price: "$94.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31o0MuDJaPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08D8R6VFC?tag=theofficejournal-20",
-    description: "PreSonus AudioBox 96 25th Anniversary USB Audio Interface is the most affordable pick here that still clears the capability floor for this price tier. Value-packed 2-channel USB 2.0 interface for personal and portable recording. 2 high-quality class-a mic preamps make it easy to get a great sound.\n\nCompared with Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: 2 high-headroom instrument inputs to record guitar, bass, and your favorite line-level devices, plus midi I/o.\n\nGo with this pick if you want to stay at the lower end of this price tier without dropping below the real capability floor. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Value-packed 2-channel USB 2.0 interface for personal and", "2 high-quality class-a mic preamps make it easy to get a great", "2 high-headroom instrument inputs to record guitar, bass"],
-    pros: ["Value-packed 2-channel USB 2.0 interface for personal and portable recording", "2 high-quality class-a mic preamps make it easy to get", "2 high-headroom instrument inputs to record guitar, bass, and your favorite"],
-    cons: ["Confirm this stays in stock at the price checked here", "Setup or mounting hardware may be sold separately"],
-    bestFor: "buyers who want to stay at the lower end of this price tier without dropping below the real capability floor",
-  },
-  {
-    id: "best-audio-interfaces-under-200-3",
-    rank: 3,
-    badge: "Best Premium Pick",
-    name: "Focusrite Scarlett Solo 4th Gen USB-C Audio Interface",
-    price: "$159.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31V1JqLqB3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C5JSHP7M?tag=theofficejournal-20",
-    description: "Focusrite Scarlett Solo 4th Gen USB-C Audio Interface is the priciest pick in this lineup. The new generation of the songwriter's interface: plug in your mic and guitar and let scarlett solo 4th gen bring big studio sound to wherever you make music. With a huge 120db dynamic range, the newest generation of scarlett uses the same converters as focusrite’s flagship interfaces, found in the world's biggest studios.\n\nCompared with Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: scarlett 4th gen's improved air mode lifts vocals and guitars to the front of the mix, adding musical presence and rich harmonic drive to your recordings.\n\nGo with this pick if you are willing to spend the most in this tier for the fuller feature set that comes with it. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["The new generation of the songwriter's interface: plug in your", "With a huge 120db dynamic range", "Scarlett 4th gen's improved air mode lifts vocals and guitars to"],
-    pros: ["New generation of the songwriter's interface: plug in your mic", "Huge 120db dynamic range, the newest generation of scarlett uses", "Scarlett 4th gen's improved air mode lifts vocals and guitars"],
-    cons: ["Manufacturer claims here aren't independently lab-verified", "Budget tier means fewer premium finish options"],
-    bestFor: "buyers who are willing to spend the most in this tier for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-audio-interfaces-under-200-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "PreSonus Studio 24c 2x2",
-    price: "$149.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41YvVQuf02L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07L9MWWDK?tag=theofficejournal-20",
-    description: "PreSonus Studio 24c 2x2 is a strong alternative worth comparing directly against the top pick. Simultaneous I/o up to 2 inputs/2 outputs. 2 mic/instrument/line inputs with xmax-l mic preamps.\n\nIt sits close to Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface on paper, so the real decision comes down to a specific detail rather than a big capability gap: 2 balanced ¼-inch trs main outputs to connect professional studio monitors.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Simultaneous I/o up to 2 inputs/2 outputs", "2 mic/instrument/line inputs with xmax-l mic preamps", "2 balanced ¼-inch trs main outputs to connect professional studio"],
-    pros: ["Simultaneous I/o up to 2 inputs/2 outputs", "2 mic/instrument/line inputs with xmax-l mic preamps", "2 balanced ¼-inch trs main outputs to connect professional studio monitors"],
-    cons: ["Compatibility varies by exact model, double-check before ordering", "Verify exact fit and specs against your device before buying"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-audio-interfaces-under-200-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "PreSonus AudioBox Go Creator Complete Studio Bundle",
-    price: "$127.49",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41YCvyrpd-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DB3WJDDG?tag=theofficejournal-20",
-    description: "PreSonus AudioBox Go Creator Complete Studio Bundle is a strong alternative worth comparing directly against the top pick. Presonus audiobox go USB audio interface,  surprisingly powerful ultra-compact audio interface for portable music performance and production. Studio one 6 artist edition.\n\nSet it next to Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface and the two are closely matched on the fundamentals, so the real decision comes down to a specific detail rather than a big capability gap: presonus m7 microphone,  versatile cardioid condenser microphone with mic stand adapter and windscreen.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Presonus audiobox go USB audio interface", "Studio one 6 artist edition", "Presonus m7 microphone,  versatile cardioid condenser microphone"],
-    pros: ["Presonus audiobox go USB audio interface, surprisingly powerful ultra-compact audio interface", "Studio one 6 artist edition", "Presonus m7 microphone, versatile cardioid condenser microphone with mic stand adapter"],
-    cons: ["Setup or mounting hardware may be sold separately", "Confirm this stays in stock at the price checked here"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-audio-interfaces-under-200-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "MAONO P2 Hybrid USB Audio Interface Dual XLR for PC Phone iPad Guitar",
-    price: "$99.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41Oez+b87iL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GXHBVZCB?tag=theofficejournal-20",
-    description: "MAONO P2 Hybrid USB Audio Interface Dual XLR for PC Phone iPad Guitar is a strong alternative worth comparing directly against the top pick. Dual USB ports with mfi-certified connectivity connect your computer and phone or ipad simultaneously. 56db dual xlr audio interface compatible with most condenser and dynamic microphones.\n\nAgainst Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface, the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: built for podcasters, streamers, and musician creators.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Dual USB ports with mfi-certified connectivity connect your", "56db dual xlr audio interface compatible with most condenser and", "Built for podcasters, streamers, and musician creators"],
-    pros: ["Dual USB ports with mfi-certified connectivity connect your computer and phone", "56db dual xlr audio interface compatible with most condenser and dynamic microphones", "Built for podcasters, streamers, and musician creators"],
-    cons: ["Budget tier means fewer premium finish options", "Manufacturer claims here aren't independently lab-verified"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Live price gate",
-    "description": "every pick must be new, in stock and up to $200 on the update date; expired sale pricing removes it from the qualifying set."
-  },
-  {
-    "title": "Budget-ladder context",
-    "description": "show the previous tier, entry mainstream tier and next-higher tier so readers see the real capability step instead of duplicate lists."
-  },
-  {
-    "title": "Capability-per-dollar score",
-    "description": "normalize simultaneous analog I/O, preamp gain/EIN and required accessory/setup cost against price."
-  },
-  {
-    "title": "Evidence split",
-    "description": "label round-trip latency and digital/monitoring expansion as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
-  },
-  {
-    "title": "Ownership/step-up verdict",
-    "description": "judge driver/control software, warranty, software/parts/support and whether the reader should spend less or move above $200 for a meaningful upgrade."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Priority Up to $200",
-    "table": {
-      "headers": [
-        "If you mainly need",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "The best all-around option in this comparison",
-          "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface"
-        ],
-        [
-          "A strong alternative with a different tradeoff",
-          "PreSonus Studio 24c 2x2"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget Within This Tier",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "PreSonus AudioBox 96 25th Anniversary USB Audio Interface"
-        ],
-        [
-          "Best overall value",
-          "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Focusrite Scarlett Solo vs MAONO P2 Hybrid",
-    "cards": [
-      {
-        "label": "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface",
-        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
-      },
-      {
-        "label": "MAONO P2 Hybrid USB Audio Interface Dual XLR for PC Phone iPad Guitar",
-        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
-      }
-    ],
-    "note": "Most buyers should default to Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface unless your specific use case points toward MAONO P2 Hybrid USB Audio Interface Dual XLR for PC Phone iPad Guitar's particular tradeoffs."
-  },
-  {
-    "subheading": "By Secondary Feature Priority",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Matches this guide's core use case most closely",
-          "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface"
-        ],
-        [
-          "A close secondary option worth comparing",
-          "PreSonus Studio 24c 2x2"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For This Guide's Core Use Case Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface is worth checking first against that specific requirement before comparing the rest of this lineup."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need the fuller feature set found on Focusrite Scarlett Solo 4th Gen USB-C Audio Interface, where the extra capability has a real, verifiable use case for you."
-      },
-      {
-        "label": "Save if",
-        "text": "Your requirements are covered by PreSonus AudioBox 96 25th Anniversary USB Audio Interface without needing the higher-tier features."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
@@ -276,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Does the cheapest option in a price tier always mean lower quality?",
-    "a": "Not necessarily. Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
+    "a": "Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
   },
   {
     "q": "Is it worth stepping up to the next price tier?",
@@ -292,4 +49,328 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-audio-interfaces-under-50","title":"Best Audio Interfaces Under $50"},{"href":"/guide/best-audio-interfaces-under-100","title":"Best Audio Interfaces Under $100"},{"href":"/guide/best-audio-interfaces-under-150","title":"Best Audio Interfaces Under $150"}];
+export const guideSlug = "best-audio-interfaces-under-200";
+
+export const guideTitle = "The Best Audio Interfaces Under $200, Compared";
+
+export const heroImage = "https://m.media-amazon.com/images/I/31Ty6bmUmVL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Priority Up to $200",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "The best all-around option in this comparison",
+          "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface"
+        ],
+        [
+          "A strong alternative with a different tradeoff",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "By Budget Within This Tier",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          "PreSonus AudioBox 96 25th Anniversary USB Audio Interface"
+        ],
+        [
+          "",
+          "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "Focusrite Scarlett Solo vs MAONO P2 Hybrid",
+    "cards": [
+      {
+        "label": "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface",
+        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
+      },
+      {
+        "label": "MAONO P2 Hybrid USB Audio Interface Dual XLR for PC Phone iPad Guitar",
+        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
+      }
+    ],
+    "note": "Most buyers should default to Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface unless your specific use case points toward MAONO P2 Hybrid USB Audio Interface Dual XLR for PC Phone iPad Guitar's particular tradeoffs."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Matches this guide's core use case most closely",
+          "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface"
+        ],
+        [
+          "A close secondary option worth comparing",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For This Guide's Core Use Case Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
+      },
+      {
+        "label": "",
+        "text": "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface is worth checking first against that specific requirement before comparing the rest of this lineup."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need the fuller feature set found on Focusrite Scarlett Solo 4th Gen USB-C Audio Interface, where the extra capability has a real, verifiable use case for you."
+      },
+      {
+        "label": "",
+        "text": "Your requirements are covered by PreSonus AudioBox 96 25th Anniversary USB Audio Interface without needing the higher-tier features."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Every pick must be new, in stock and up to $200 on the update date; expired sale pricing removes it from the qualifying set."
+  },
+  {
+    "title": "",
+    "description": "Show the previous tier, entry mainstream tier and next-higher tier so readers see the real capability step instead of duplicate lists."
+  },
+  {
+    "title": "",
+    "description": "Normalize simultaneous analog I/O, preamp gain/EIN and required accessory/setup cost against price."
+  },
+  {
+    "title": "",
+    "description": "Label round-trip latency and digital/monitoring expansion as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+  },
+  {
+    "title": "",
+    "description": "Judge driver/control software, warranty, software/parts/support and whether the reader should spend less or move above $200 for a meaningful upgrade."
+  }
+];
+
+export const introParagraphs = [
+  "Best Audio Interfaces Under $200 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
+  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
+];
+
+export const lastUpdated = "2026-08-22";
+
+export const mainKeyword = "audio interfaces under $200";
+
+export const metaDescription = "We compared 6 audio interfaces under $200 on compatibility, build, features and price to help you choose the right one for your space.";
+
+export const metaTitle = "Best Audio Interfaces Under $200 (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-audio-interfaces-under-200-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface",
+    "price": "$119.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Ty6bmUmVL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07QR6Z1JB?tag=theofficejournal-20",
+    "description": "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface is the top pick in this comparison. Pro performance with great pre-amps - achieve a brighter recording thanks to the high performing mic pre-amps of the scarlett 3rd gen. Get the well suited guitar and vocal take with - with two high-headroom instrument inputs to plug in your guitar or bass so that they shine through.\n\nIt sits close to PreSonus AudioBox 96 25th Anniversary USB Audio Interface on paper, so the real decision comes down to a specific detail rather than a big capability gap: studio quality recording for your music & podcasts - achieve pro sounding recordings with scarlett 3rd gen’s high-performance converters enabling you to record and mix at up to 24-bit/192khz.\n\nGo with this pick if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Pro performance with great pre-amps - achieve a brighter",
+      "Get the well suited guitar and vocal take with - with two",
+      "Studio quality recording for your music & podcasts - achieve pro"
+    ],
+    "pros": [
+      "Pro performance with great pre-amps - achieve a brighter recording thanks",
+      "Get the well suited guitar and vocal take with - with two",
+      "Studio quality recording for your music & podcasts - achieve pro"
+    ],
+    "cons": [
+      "Verify exact fit and specs against your device before buying",
+      "Compatibility varies by exact model, double-check before ordering"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-audio-interfaces-under-200-2",
+    "rank": 2,
+    "badge": "Best Value",
+    "name": "PreSonus AudioBox 96 25th Anniversary USB Audio Interface",
+    "price": "$94.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31o0MuDJaPL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08D8R6VFC?tag=theofficejournal-20",
+    "description": "PreSonus AudioBox 96 25th Anniversary USB Audio Interface is the most affordable pick here that still clears the capability floor for this price tier. 0 interface for personal and portable recording. 2 high-quality class-a mic preamps make it easy to get a great sound.\n\nCompared with Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: 2 high-headroom instrument inputs to record guitar, bass, and your favorite line-level devices, plus midi I/o.\n\nGo with this pick if you want to stay at the lower end of this price tier without dropping below the real capability floor. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Value-packed 2-channel USB 2.0 interface for personal and",
+      "2 high-quality class-a mic preamps make it easy to get a great",
+      "2 high-headroom instrument inputs to record guitar, bass"
+    ],
+    "pros": [
+      "Value-packed 2-channel USB 2.0 interface for personal and portable recording",
+      "2 high-quality class-a mic preamps make it easy to get",
+      "2 high-headroom instrument inputs to record guitar, bass, and your favorite"
+    ],
+    "cons": [
+      "Confirm this stays in stock at the price checked here",
+      "Setup or mounting hardware may be sold separately"
+    ],
+    "bestFor": "Buyers who want to stay at the lower end of this price tier without dropping below the real capability floor"
+  },
+  {
+    "id": "best-audio-interfaces-under-200-3",
+    "rank": 3,
+    "badge": "Best Premium Pick",
+    "name": "Focusrite Scarlett Solo 4th Gen USB-C Audio Interface",
+    "price": "$159.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31V1JqLqB3L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5JSHP7M?tag=theofficejournal-20",
+    "description": "Focusrite Scarlett Solo 4th Gen USB-C Audio Interface is the priciest pick in this lineup. The new generation of the songwriter's interface: plug in your mic and guitar and let scarlett solo 4th gen bring big studio sound to wherever you make music. With a huge 120db dynamic range, the newest generation of scarlett uses the same converters as focusrite’s flagship interfaces, found in the world's biggest studios.\n\nCompared with Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: scarlett 4th gen's improved air mode lifts vocals and guitars to the front of the mix, adding musical presence and rich harmonic drive to your recordings.\n\nGo with this pick if you are willing to spend the most in this tier for the fuller feature set that comes with it. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "The new generation of the songwriter's interface: plug in your",
+      "With a huge 120db dynamic range",
+      "Scarlett 4th gen's improved air mode lifts vocals and guitars to"
+    ],
+    "pros": [
+      "New generation of the songwriter's interface: plug in your mic",
+      "Huge 120db dynamic range, the newest generation of scarlett uses",
+      "Scarlett 4th gen's improved air mode lifts vocals and guitars"
+    ],
+    "cons": [
+      "Manufacturer claims here aren't independently lab-verified",
+      "Budget tier means fewer premium finish options"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this tier for the fuller feature set that comes with it"
+  },
+  {
+    "id": "best-audio-interfaces-under-200-4",
+    "rank": 4,
+    "badge": "Another Strong Option",
+    "name": "PreSonus Studio 24c 2x2",
+    "price": "$149.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41YvVQuf02L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07L9MWWDK?tag=theofficejournal-20",
+    "description": "PreSonus Studio 24c 2x2 is a strong alternative worth comparing directly against the top pick. Simultaneous I/o up to 2 inputs/2 outputs. 2 mic/instrument/line inputs with xmax-l mic preamps.\n\nIt sits close to Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface on paper, so the real decision comes down to a specific detail rather than a big capability gap: 2 balanced ¼-inch trs main outputs to connect professional studio monitors.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Simultaneous I/o up to 2 inputs/2 outputs",
+      "2 mic/instrument/line inputs with xmax-l mic preamps",
+      "2 balanced ¼-inch trs main outputs to connect professional studio"
+    ],
+    "pros": [
+      "Simultaneous I/o up to 2 inputs/2 outputs",
+      "2 mic/instrument/line inputs with xmax-l mic preamps",
+      "2 balanced ¼-inch trs main outputs to connect professional studio monitors"
+    ],
+    "cons": [
+      "Compatibility varies by exact model, double-check before ordering",
+      "Verify exact fit and specs against your device before buying"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-audio-interfaces-under-200-5",
+    "rank": 5,
+    "badge": "Runner-Up Pick",
+    "name": "PreSonus AudioBox Go Creator Complete Studio Bundle",
+    "price": "$127.49",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41YCvyrpd-L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB3WJDDG?tag=theofficejournal-20",
+    "description": "PreSonus AudioBox Go Creator Complete Studio Bundle is a strong alternative worth comparing directly against the top pick. Presonus audiobox go USB audio interface, surprisingly powerful ultra-compact audio interface for portable music performance and production. Studio one 6 artist edition.\n\nSet it next to Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface and the two are closely matched on the fundamentals, so the real decision comes down to a specific detail rather than a big capability gap: presonus m7 microphone, versatile cardioid condenser microphone with mic stand adapter and windscreen.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Presonus audiobox go USB audio interface",
+      "Studio one 6 artist edition",
+      "Presonus m7 microphone, versatile cardioid condenser microphone"
+    ],
+    "pros": [
+      "Presonus audiobox go USB audio interface, surprisingly powerful ultra-compact audio interface",
+      "Studio one 6 artist edition",
+      "Presonus m7 microphone, versatile cardioid condenser microphone with mic stand adapter"
+    ],
+    "cons": [
+      "Setup or mounting hardware may be sold separately",
+      "Confirm this stays in stock at the price checked here"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-audio-interfaces-under-200-6",
+    "rank": 6,
+    "badge": "Worth a Look",
+    "name": "MAONO P2 Hybrid USB Audio Interface Dual XLR for PC Phone iPad Guitar",
+    "price": "$99.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Oez+b87iL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXHBVZCB?tag=theofficejournal-20",
+    "description": "MAONO P2 Hybrid USB Audio Interface Dual XLR for PC Phone iPad Guitar is a strong alternative worth comparing directly against the top pick. Dual USB ports with mfi-certified connectivity connect your computer and phone or ipad simultaneously. 56db dual xlr audio interface compatible with most condenser and dynamic microphones.\n\nAgainst Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface, the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: built for podcasters, streamers, and musician creators.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Dual USB ports with mfi-certified connectivity connect your",
+      "56db dual xlr audio interface compatible with most condenser and",
+      "Built for podcasters, streamers, and musician creators"
+    ],
+    "pros": [
+      "Dual USB ports with mfi-certified connectivity connect your computer and phone",
+      "56db dual xlr audio interface compatible with most condenser and dynamic microphones",
+      "Built for podcasters, streamers, and musician creators"
+    ],
+    "cons": [
+      "Budget tier means fewer premium finish options",
+      "Manufacturer claims here aren't independently lab-verified"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  }
+];
+
+export const readTime = "10 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-audio-interfaces-under-50",
+    "title": "Best Audio Interfaces Under $50"
+  },
+  {
+    "href": "/guide/best-audio-interfaces-under-100",
+    "title": "Best Audio Interfaces Under $100"
+  },
+  {
+    "href": "/guide/best-audio-interfaces-under-150",
+    "title": "Best Audio Interfaces Under $150"
+  }
+];
+
+export const breadcrumbLabel = "Best Audio Interfaces Under $200";

@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-mouse-bungees-for-8k-mice";
 
-export const guideTitle = "The Best Mouse Bungees for 8K Mice Worth Considering";
+export const guideTitle = "The Best Mouse Bungees for 8K Mice: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31mHf6iK8qL._SL500_.jpg";
 

@@ -50,7 +50,7 @@ export const faq = [
 
 export const guideSlug = "best-standing-desk-converters-under-150";
 
-export const guideTitle = "The Best Standing Desk Converters Under $150 Worth Considering";
+export const guideTitle = "The Best Standing Desk Converters Under $150: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/413vrLzk5eL._SL500_.jpg";
 

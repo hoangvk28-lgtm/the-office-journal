@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-oled-4k-monitors-for-gaming";
 
-export const guideTitle = "The Best OLED 4K Monitors for Gaming Worth Considering";
+export const guideTitle = "The Best OLED 4K Monitors for Gaming: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41jMIiWPojL._SL500_.jpg";
 

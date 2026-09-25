@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-blue-light-blocking-glasses-for-women";
 
-export const guideTitle = "The Best Blue Light Blocking Glasses for Women Worth Considering";
+export const guideTitle = "The Best Blue Light Blocking Glasses for Women: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31I3SyN0wXL._SL500_.jpg";
 

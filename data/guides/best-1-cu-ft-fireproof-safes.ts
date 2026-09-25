@@ -1,189 +1,7 @@
-export const guideSlug = "best-1-cu-ft-fireproof-safes";
-export const guideTitle = "8 Best 1 Cu ft Fireproof Safes in 2026";
-export const metaTitle = "Best 1 Cu ft Fireproof Safes 2026";
-export const metaDescription = "We compared 1 cu ft fireproof safes by independent fire evidence, usable interior capacity, and separately verified water and security claims rather than ranking by brand or price alone.";
-export const mainKeyword = "1 cu ft fireproof safes";
-export const introParagraphs = [
-  "Best 1 Cu ft Fireproof Safes deserves function-specific scrutiny before ranking, since this category comes down to measuring actual interior height, width, and depth against the listed capacity.",
-  "Each pick here was judged on independent fire evidence and measuring actual interior height, width, and depth against the listed capacity, not just its star rating or price tag."
-];
-export const lastUpdated = "2026-08-16";
-export const readTime = "10 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41vwOEUg7fL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-1-cu-ft-fireproof-safes-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "SentrySafe Fireproof & Waterproof Dial Combination Safe, SFW123DSB",
-    price: "$224.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41vwOEUg7fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B005P12F2K?tag=theofficejournal-20",
-    description: "UL Classified for 1 hour at 1700°F and ETL verified for 24 hours in up to 8 inches of water, this 1.23 cu ft safe uses a dial combination rather than digital keypad, avoiding battery dependency entirely.\n\nFour live-locking bolts, steel construction, a pry-resistant hinge bar, and bolt-down hardware secure the interior, and SentrySafe backs it with a genuine fire/water damage replacement warranty, a meaningful protection beyond the rating itself.",
-    specs: ["1.23 cu ft, 86 lbs, UL 1hr at 1700°F","Dial combination, no batteries required","ETL waterproof 24hr to 8in depth"],
-    pros: ["Dial combination lock has zero battery dependency, genuinely simpler long-term reliability","SentrySafe's fire/water damage replacement warranty adds real protection beyond the rating alone","ETL verified to a full 15-foot fall during fire, per SentrySafe's stated testing"],
-    cons: ["Dial combination access is slower for daily use than a digital keypad","86 lbs still requires deliberate placement planning"],
-    bestFor: "buyers prioritizing 1.23 cu ft, 86 lbs, ul 1hr at 1700°f",
-  },
-  {
-    id: "best-1-cu-ft-fireproof-safes-2",
-    rank: 2,
-    badge: "Runner-Up",
-    name: "SentrySafe 1.23 Cu Ft Digital Push Button Safe, SF123ES",
-    price: "$259.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31BauXQBkfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B008HZUH94?tag=theofficejournal-20",
-    description: "UL Classified for a full hour at 1700°F, this SentrySafe lets you set your own combination directly on the keypad rather than a factory-preset code, at a substantial 85 lb weight backed by 4 live-locking bolts and a pry-resistant hinge bar.\n\nA shelf and door pocket organize the 1.23 cu ft interior into distinct zones, useful for separating documents from smaller items rather than one open cavity.",
-    specs: ["1.23 cu ft, 85 lbs, UL 1hr at 1700°F","4 live-locking bolts, pry-resistant hinge bar","Shelf + door pocket organization"],
-    pros: ["User-set combination on the keypad avoids relying on a factory-preset code","Shelf and door pocket genuinely separate storage zones instead of one open cavity","85 lb weight and 4 live-locking bolts give real forced-entry resistance"],
-    cons: ["No waterproof rating cited in this listing, fire-only protection","Digital lock requires battery maintenance"],
-    bestFor: "buyers prioritizing 1.23 cu ft, 85 lbs, ul 1hr at 1700°f",
-  },
-  {
-    id: "best-1-cu-ft-fireproof-safes-3",
-    rank: 3,
-    badge: "Also Great",
-    name: "1.2 Cu Ft Fireproof Safe Box with Digital Keypad",
-    price: "$161.49",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41xOvU3ByLL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C333ZHLF?tag=theofficejournal-20",
-    description: "A specific 30-minute rating at 1400°F is documented here via a fireproof plaster layer and alloy steel latch, with a heat-activated door seal that expands specifically to block heat and smoke intrusion during a fire.\n\nA 240° oversized door-opening angle is a genuine convenience most safes in this category don't offer, and the alarm system locks out for 3 minutes after 5 incorrect password attempts, a specific documented lockout behavior.",
-    specs: ["1.2 cu ft, 30 min at 1400°F","Heat-activated expanding door seal","240° oversized door opening angle"],
-    pros: ["Heat-activated expanding door seal is a specific, documented mechanism","240° door opening angle genuinely improves access versus a standard door swing","Detachable movable partition adds real interior flexibility"],
-    cons: ["1400°F rating is lower than the 1550-1850°F figures common among UL-classified competitors","3-minute lockout after 5 failed attempts is longer than some rivals' 20-second lockout"],
-    bestFor: "buyers prioritizing 1.2 cu ft, 30 min at 1400°f",
-  },
-  {
-    id: "best-1-cu-ft-fireproof-safes-4",
-    rank: 4,
-    badge: "Strong Alternative",
-    name: "1.3 Cu Ft Small Fire Safe Box with Digital Keypad",
-    price: "$69.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41fb5orKobL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F143XL1K?tag=theofficejournal-20",
-    description: "SPCC steel construction with three 20mm thick circular locking bolts gives this compact 1.3 cu ft safe real structural durability, and a Type-C cable lets you charge the lock externally, avoiding the common dead-battery-lockout scenario entirely.\n\nCompact and lightweight, it's specifically designed to conceal in a drawer, closet, or under the bed, and FCC certification plus a notably long 5-year return/exchange warranty with lifetime technical support back the purchase.",
-    specs: ["9.84\"x13.78\"x9.84\", SPCC steel, 3x 20mm bolts","Type-C external charging port","FCC certified, 5-year warranty"],
-    pros: ["Type-C external charging avoids the classic dead-battery lockout scenario more elegantly than a battery-box","5-year return/exchange warranty with lifetime technical support is longer coverage than most competitors","Compact, lightweight build is specifically designed to conceal in drawers or closets"],
-    cons: ["No independent UL/ETL fire-duration classification cited despite the fireproof marketing","1.3 cu ft limits this to personal items, not bulky valuables"],
-    bestFor: "buyers prioritizing 9.84\"x13.78\"x9.84\", spcc steel, 3x 20mm bolts",
-  },
-  {
-    id: "best-1-cu-ft-fireproof-safes-5",
-    rank: 5,
-    badge: "Worth Considering",
-    name: "1.2 Cubic Feet Small Fire Safe Box for Home, Fireproof Lock Box, Security Money Safe with",
-    price: "$69.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51vfVzMAhrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DZ6KGXYJ?tag=theofficejournal-20",
-    description: "1.2 Cubic Feet Small Fire Safe Box for Home, Fireproof Lock Box, Security Money Safe with and is built around personal small safe for home, positioning it for 1 cu ft buyers specifically.\n\nANTI-THEFT ALARM & ANCHORING DESIGN is the other defining trait here, a real, checkable spec pulled directly from the current listing rather than a marketing generality.\n\nBest for buyers specifically looking for 1 cu ft, though as with any security purchase, confirm current price and stock directly on the Amazon listing before ordering.",
-    specs: ["PERSONAL SMALL SAFE FOR HOME","ANTI-THEFT ALARM & ANCHORING DESIGN","COMBINATION LOCK BOX"],
-    pros: ["PERSONAL SMALL SAFE FOR HOME, confirmed directly in the listing's own spec details","ANTI-THEFT ALARM & ANCHORING DESIGN, confirmed directly in the listing's own spec details","COMBINATION LOCK BOX, confirmed directly in the listing's own spec details"],
-    cons: ["At $69.99, worth comparing against similarly specced safes before committing","No independent long-term durability data beyond the manufacturer's own listing claims"],
-    bestFor: "buyers looking for 1 cu ft",
-  },
-  {
-    id: "best-1-cu-ft-fireproof-safes-6",
-    rank: 6,
-    badge: "Solid Option",
-    name: "Master Lock 1.2 Cu Ft Premium 2-Hour Fireproof Safe, STW123GTCML",
-    price: "$350.25",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31yJvo-CDPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BBNFTDZX?tag=theofficejournal-20",
-    description: "UL Classified for 2 hours at 1850°F and ETL verified for 24 hours of protection in up to 5 inches of water, this Master Lock model brings the brand's century-plus lock expertise to a more compact 1.2 cu ft capacity than its larger 2.0 cu ft sibling.\n\nThe digital keypad and steel construction carry the same design language as Master Lock's larger safes, just scaled down for smaller rooms or closets needing genuine 2-hour protection.",
-    specs: ["1.2 cu ft, UL 2hr at 1850°F","ETL waterproof 24hr to 5in depth","Digital keypad, steel construction"],
-    pros: ["2-hour 1850°F rating in a more compact 1.2 cu ft footprint than Master Lock's","Same ETL 24-hour, 5-inch waterproof verification as the brand's bigger safes","Master Lock's century-plus lock-making pedigree backs the digital keypad design"],
-    cons: ["1.2 cu ft is a real capacity tradeoff for the more compact footprint","Digital lock requires battery maintenance"],
-    bestFor: "buyers prioritizing 1.2 cu ft, ul 2hr at 1850°f",
-  },
-  {
-    id: "best-1-cu-ft-fireproof-safes-7",
-    rank: 7,
-    badge: "Budget Pick",
-    name: "SentrySafe 0.81 Cu Ft Fireproof & Waterproof Shelf Safe, FPW082KSB",
-    price: "$229.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51ZHOze0arL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BQ8LPBV7?tag=theofficejournal-20",
-    description: "UL Classified for a full hour at 1700°F and ETL verified for water resistance up to 5 inches for 24 hours even while bolted down, this SentrySafe model uses a dial combination lock with an override key for backup access.\n\nMaster Lock security technology is built into the combination mechanism specifically to resist manipulation attacks, and at 55 lbs with 0.81 cu ft interior it's a genuinely full-featured mid-size home or office safe.",
-    specs: ["0.81 cu ft, 55 lbs, UL 1hr at 1700°F","Dial combination lock + override key","ETL waterproof to 5in for 24hr while bolted"],
-    pros: ["Dial combination avoids battery dependency while still including an override key backup","Master Lock-built combination mechanism specifically resists manipulation attacks","Waterproof rating remains valid even when bolted"],
-    cons: ["Dial combination access is slower for daily use than a digital keypad","0.81 cu ft is modest capacity relative to the 55 lb weight"],
-    bestFor: "buyers prioritizing 0.81 cu ft, 55 lbs, ul 1hr at 1700°f",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Independent Fire Evidence, Not Brand Reputation",
-    "description": "Checked whether each model's fire-resistance claim is backed by an independent classification (UL, ETL) or is only a manufacturer's own stated figure, since brand reputation and steel weight alone don't establish a duration."
-  },
-  {
-    "title": "Time and Temperature as Separate Facts",
-    "description": "Recorded fire duration and test temperature separately for each model rather than accepting a vague 'fireproof' label, since a 30-minute rating and a 2-hour rating protect very differently in a real house fire."
-  },
-  {
-    "title": "Water Evidence Verified Independently",
-    "description": "Checked water-resistance claims (submersion depth, duration) as a separate fact from the fire rating, since the two protections are tested and certified independently even on the same product."
-  },
-  {
-    "title": "Usable Capacity Over Nominal Cubic Feet",
-    "description": "Compared interior dimensions, shelf layout, and door clearance rather than trusting nominal cubic-foot figures alone, since insulation and hardware can meaningfully shrink usable space."
-  },
-  {
-    "title": "Ownership Details: Weight, Anchoring, and Lock Support",
-    "description": "Weighed empty and loaded weight, anchoring hardware, and lock or key replacement support, since a fireproof safe is a long-term purchase that outlives its first key or battery."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "Use a Stated Tolerance Around the Target Capacity",
-    "note": "Require documentation close to 1 cu ft fireproof safes's advertised cubic-foot figure rather than assuming every listing hits the exact number precisely."
-  },
-  {
-    "subheading": "Publish Interior Height, Width, and Depth",
-    "note": "Check actual interior dimensions so the nominal volume figure can be verified, since insulation thickness varies between models even at similar advertised capacity."
-  },
-  {
-    "subheading": "Measure Clear Door Opening and Shelf Intrusion",
-    "note": "Confirm how much the door opening and any fixed shelving reduce genuinely usable space versus the raw interior volume."
-  },
-  {
-    "subheading": "Compare Exterior Footprint and Weight Per Cubic Foot",
-    "note": "Two safes with the same nominal capacity can have meaningfully different exterior footprints and weights depending on wall thickness and construction."
-  },
-  {
-    "subheading": "Verify Fire Evidence for Every Capacity-Qualified Product",
-    "note": "A specific capacity size doesn't guarantee a specific fire rating; check the fire classification independently for each model at this size."
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
@@ -196,7 +14,7 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Measure Clear Door Opening and Shelf Intrusion",
-    "explanation": "Confirm how much the door opening and any fixed shelving reduce genuinely usable space versus the raw interior volume."
+    "explanation": "Confirm how much the door opening and any fixed shelving reduce usable space versus the raw interior volume."
   },
   {
     "criterion": "Compare Exterior Footprint and Weight Per Cubic Foot",
@@ -227,8 +45,282 @@ export const faq = [
   },
   {
     "q": "Does a fireproof safe also protect against water damage?",
-    "a": "Not automatically. Fire and water resistance are tested and certified separately, even on the same product, so check both ratings independently rather than assuming a fireproof safe is also waterproof, or vice versa. Many current SentrySafe and Master Lock models document both, but budget safes may only address one."
+    "a": "Fire and water resistance are tested and certified separately, even on the same product, so check both ratings independently rather than assuming a fireproof safe is also waterproof, or vice versa. Many current SentrySafe and Master Lock models document both, but budget safes may only address one."
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-2-cu-ft-fireproof-safes","title":"Best 2 Cu ft Fireproof Safes in 2026"},{"href":"/guide/best-2-cubic-feet-fireproof-safes","title":"Best 2 Cubic Feet Fireproof Safes in 2026"},{"href":"/guide/best-4-cu-ft-fireproof-safes","title":"Best 4 Cu ft Fireproof Safes in 2026"}];
+export const guideSlug = "best-1-cu-ft-fireproof-safes";
+
+export const guideTitle = "The Best 1 Cu ft Fireproof Safes for a Better Desk Setup";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41vwOEUg7fL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "Use a Stated Tolerance Around the Target Capacity",
+    "note": "Require documentation close to 1 cu ft fireproof safes's advertised cubic-foot figure rather than assuming every listing hits the exact number precisely."
+  },
+  {
+    "subheading": "Publish Interior Height, Width, and Depth",
+    "note": "Check actual interior dimensions so the nominal volume figure can be verified, since insulation thickness varies between models even at similar advertised capacity."
+  },
+  {
+    "subheading": "Measure Clear Door Opening and Shelf Intrusion",
+    "note": "Confirm how much the door opening and any fixed shelving reduce usable space versus the raw interior volume."
+  },
+  {
+    "subheading": "Compare Exterior Footprint and Weight Per Cubic Foot",
+    "note": "Two safes with the same nominal capacity can have meaningfully different exterior footprints and weights depending on wall thickness and construction."
+  },
+  {
+    "subheading": "Verify Fire Evidence for Every Capacity-Qualified Product",
+    "note": "A specific capacity size doesn't guarantee a specific fire rating; check the fire classification independently for each model at this size."
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "Independent Fire Evidence, Not Brand Reputation",
+    "description": "Checked whether each model's fire-resistance claim is backed by an independent classification (UL, ETL) or is only a manufacturer's own stated figure, since brand reputation and steel weight alone don't establish a duration."
+  },
+  {
+    "title": "Time and Temperature as Separate Facts",
+    "description": "Recorded fire duration and test temperature separately for each model rather than accepting a vague 'fireproof' label, since a 30-minute rating and a 2-hour rating protect very differently in a real house fire."
+  },
+  {
+    "title": "",
+    "description": "Checked water-resistance claims (submersion depth, duration) as a separate fact from the fire rating, since the two protections are tested and certified independently even on the same product."
+  },
+  {
+    "title": "Usable Capacity Over Nominal Cubic Feet",
+    "description": "Compared interior dimensions, shelf layout, and door clearance rather than trusting nominal cubic-foot figures alone, since insulation and hardware can meaningfully shrink usable space."
+  },
+  {
+    "title": "Ownership Details: Weight, Anchoring, and Lock Support",
+    "description": "Weighed empty and loaded weight, anchoring hardware, and lock or key replacement support, since a fireproof safe is a long-term purchase that outlives its first key or battery."
+  }
+];
+
+export const introParagraphs = [
+  "Best 1 Cu ft Fireproof Safes deserves function-specific scrutiny before ranking, since this category comes down to measuring actual interior height, width, and depth against the listed capacity.",
+  "Each pick here was judged on independent fire evidence and measuring actual interior height, width, and depth against the listed capacity, not just its star rating or price tag."
+];
+
+export const lastUpdated = "2026-08-16";
+
+export const mainKeyword = "1 cu ft fireproof safes";
+
+export const metaDescription = "We compared 7 1 cu ft fireproof safes on compatibility, build, features and price to help you choose the right one for your space.";
+
+export const metaTitle = "Best 1 Cu ft Fireproof Safes for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-1-cu-ft-fireproof-safes-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "SentrySafe Fireproof & Waterproof Dial Combination Safe, SFW123DSB",
+    "price": "$224.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41vwOEUg7fL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B005P12F2K?tag=theofficejournal-20",
+    "description": "23 cu ft safe uses a dial combination rather than digital keypad, avoiding battery dependency entirely.\n\nFour live-locking bolts, steel construction, a pry-resistant hinge bar, and bolt-down hardware secure the interior, and SentrySafe backs it with a genuine fire/water damage replacement warranty, a meaningful protection beyond the rating itself.",
+    "specs": [
+      "1.23 cu ft, 86 lbs, UL 1hr at 1700°F",
+      "Dial combination, no batteries required",
+      "ETL waterproof 24hr to 8in depth"
+    ],
+    "pros": [
+      "Dial combination lock has zero battery dependency, simpler long-term reliability",
+      "SentrySafe's fire/water damage replacement warranty adds real protection beyond the rating alone",
+      "ETL verified to a full 15-foot fall during fire, per SentrySafe's stated testing"
+    ],
+    "cons": [
+      "Dial combination access is slower for daily use than a digital keypad",
+      "86 lbs still requires deliberate placement planning"
+    ],
+    "bestFor": "23 cu ft, 86 lbs, ul 1hr at 1700°f"
+  },
+  {
+    "id": "best-1-cu-ft-fireproof-safes-2",
+    "rank": 2,
+    "badge": "Runner-Up",
+    "name": "SentrySafe 1.23 Cu Ft Digital Push Button Safe, SF123ES",
+    "price": "$259.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31BauXQBkfL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B008HZUH94?tag=theofficejournal-20",
+    "description": "UL Classified for a full hour at 1700°F, this SentrySafe lets you set your own combination directly on the keypad rather than a factory-preset code, at a substantial 85 lb weight backed by 4 live-locking bolts and a pry-resistant hinge bar.\n\n23 cu ft interior into distinct zones, useful for separating documents from smaller items rather than one open cavity.",
+    "specs": [
+      "1.23 cu ft, 85 lbs, UL 1hr at 1700°F",
+      "4 live-locking bolts, pry-resistant hinge bar",
+      "Shelf + door pocket organization"
+    ],
+    "pros": [
+      "User-set combination on the keypad avoids relying on a factory-preset code",
+      "Shelf and door pocket separate storage zones instead of one open cavity",
+      "85 lb weight and 4 live-locking bolts give real forced-entry resistance"
+    ],
+    "cons": [
+      "No waterproof rating cited in this listing, fire-only protection",
+      "Digital lock requires battery maintenance"
+    ],
+    "bestFor": "23 cu ft, 85 lbs, ul 1hr at 1700°f"
+  },
+  {
+    "id": "best-1-cu-ft-fireproof-safes-3",
+    "rank": 3,
+    "badge": "Also Great",
+    "name": "1.2 Cu Ft Fireproof Safe Box with Digital Keypad",
+    "price": "$161.49",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41xOvU3ByLL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0C333ZHLF?tag=theofficejournal-20",
+    "description": "A specific 30-minute rating at 1400°F is documented here via a fireproof plaster layer and alloy steel latch, with a heat-activated door seal that expands specifically to block heat and smoke intrusion during a fire.\n\nA 240° oversized door-opening angle is a genuine convenience most safes in this category don't offer, and the alarm system locks out for 3 minutes after 5 incorrect password attempts, a specific documented lockout behavior.",
+    "specs": [
+      "1.2 cu ft, 30 min at 1400°F",
+      "Heat-activated expanding door seal",
+      "240° oversized door opening angle"
+    ],
+    "pros": [
+      "Heat-activated expanding door seal is a specific, documented mechanism",
+      "240° door opening angle improves access versus a standard door swing",
+      "Detachable movable partition adds real interior flexibility"
+    ],
+    "cons": [
+      "1400°F rating is lower than the 1550-1850°F figures common among UL-classified competitors",
+      "3-minute lockout after 5 failed attempts is longer than some rivals' 20-second lockout"
+    ],
+    "bestFor": "2 cu ft, 30 min at 1400°f"
+  },
+  {
+    "id": "best-1-cu-ft-fireproof-safes-4",
+    "rank": 4,
+    "badge": "Strong Alternative",
+    "name": "1.3 Cu Ft Small Fire Safe Box with Digital Keypad",
+    "price": "$69.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41fb5orKobL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F143XL1K?tag=theofficejournal-20",
+    "description": "3 cu ft safe real structural durability, and a Type-C cable lets you charge the lock externally, avoiding the common dead-battery-lockout scenario entirely.\n\nCompact and lightweight, it's specifically designed to conceal in a drawer, closet, or under the bed, and FCC certification plus a notably long 5-year return/exchange warranty with lifetime technical support back the purchase.",
+    "specs": [
+      "9.84\"x13.78\"x9.84\", SPCC steel, 3x 20mm bolts",
+      "Type-C external charging port",
+      "FCC certified, 5-year warranty"
+    ],
+    "pros": [
+      "Type-C external charging avoids the classic dead-battery lockout scenario more elegantly than a battery-box",
+      "5-year return/exchange warranty with lifetime technical support is longer coverage than most competitors",
+      "Compact, lightweight build is specifically designed to conceal in drawers or closets"
+    ],
+    "cons": [
+      "No independent UL/ETL fire-duration classification cited despite the fireproof marketing",
+      "1.3 cu ft limits this to personal items, not bulky valuables"
+    ],
+    "bestFor": "84\", spcc steel, 3x 20mm bolts"
+  },
+  {
+    "id": "best-1-cu-ft-fireproof-safes-5",
+    "rank": 5,
+    "badge": "Worth Considering",
+    "name": "1.2 Cubic Feet Small Fire Safe Box for Home, Fireproof Lock Box, Security Money Safe with",
+    "price": "$69.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51vfVzMAhrL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ6KGXYJ?tag=theofficejournal-20",
+    "description": "2 Cubic Feet Small Fire Safe Box for Home, Fireproof Lock Box, Security Money Safe with and is built around personal small safe for home, positioning it for 1 cu ft buyers specifically.\n\nANTI-THEFT ALARM & ANCHORING DESIGN is the other defining trait here, a real, checkable spec pulled directly from the current listing rather than a marketing generality.\n\nBest for buyers specifically looking for 1 cu ft, though as with any security purchase, confirm current price and stock directly on the Amazon listing before ordering.",
+    "specs": [
+      "PERSONAL SMALL SAFE FOR HOME",
+      "ANTI-THEFT ALARM & ANCHORING DESIGN",
+      "COMBINATION LOCK BOX"
+    ],
+    "pros": [
+      "PERSONAL SMALL SAFE FOR HOME, confirmed directly in the listing's own spec details",
+      "ANTI-THEFT ALARM & ANCHORING DESIGN, confirmed directly in the listing's own spec details",
+      "COMBINATION LOCK BOX, confirmed directly in the listing's own spec details"
+    ],
+    "cons": [
+      "At $69.99, worth comparing against similarly specced safes before committing",
+      "No independent long-term durability data beyond the manufacturer's own listing claims"
+    ],
+    "bestFor": "Buyers looking for 1 cu ft"
+  },
+  {
+    "id": "best-1-cu-ft-fireproof-safes-6",
+    "rank": 6,
+    "badge": "Solid Option",
+    "name": "Master Lock 1.2 Cu Ft Premium 2-Hour Fireproof Safe, STW123GTCML",
+    "price": "$350.25",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31yJvo-CDPL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBNFTDZX?tag=theofficejournal-20",
+    "description": "The digital keypad and steel construction carry the same design language as Master Lock's larger safes, just scaled down for smaller rooms or closets needing genuine 2-hour protection.",
+    "specs": [
+      "1.2 cu ft, UL 2hr at 1850°F",
+      "ETL waterproof 24hr to 5in depth",
+      "Digital keypad, steel construction"
+    ],
+    "pros": [
+      "2-hour 1850°F rating in a more compact 1.2 cu ft footprint than Master Lock's",
+      "Same ETL 24-hour, 5-inch waterproof verification as the brand's bigger safes",
+      "Master Lock's century-plus lock-making pedigree backs the digital keypad design"
+    ],
+    "cons": [
+      "1.2 cu ft is a real capacity tradeoff for the more compact footprint",
+      "Digital lock requires battery maintenance"
+    ],
+    "bestFor": "2 cu ft, ul 2hr at 1850°f"
+  },
+  {
+    "id": "best-1-cu-ft-fireproof-safes-7",
+    "rank": 7,
+    "badge": "Budget Pick",
+    "name": "SentrySafe 0.81 Cu Ft Fireproof & Waterproof Shelf Safe, FPW082KSB",
+    "price": "$229.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51ZHOze0arL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQ8LPBV7?tag=theofficejournal-20",
+    "description": "UL Classified for a full hour at 1700°F and ETL verified for water resistance up to 5 inches for 24 hours even while bolted down, this SentrySafe model uses a dial combination lock with an override key for backup access.\n\n81 cu ft interior it's a full-featured mid-size home or office safe.",
+    "specs": [
+      "0.81 cu ft, 55 lbs, UL 1hr at 1700°F",
+      "Dial combination lock + override key",
+      "ETL waterproof to 5in for 24hr while bolted"
+    ],
+    "pros": [
+      "Dial combination avoids battery dependency while still including an override key backup",
+      "Master Lock-built combination mechanism specifically resists manipulation attacks",
+      "Waterproof rating remains valid even when bolted"
+    ],
+    "cons": [
+      "Dial combination access is slower for daily use than a digital keypad",
+      "0.81 cu ft is modest capacity relative to the 55 lb weight"
+    ],
+    "bestFor": "81 cu ft, 55 lbs, ul 1hr at 1700°f"
+  }
+];
+
+export const readTime = "10 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-2-cu-ft-fireproof-safes",
+    "title": "Best 2 Cu ft Fireproof Safes in 2026"
+  },
+  {
+    "href": "/guide/best-2-cubic-feet-fireproof-safes",
+    "title": "Best 2 Cubic Feet Fireproof Safes in 2026"
+  },
+  {
+    "href": "/guide/best-4-cu-ft-fireproof-safes",
+    "title": "Best 4 Cu ft Fireproof Safes in 2026"
+  }
+];
+
+export const breadcrumbLabel = "Best 1 Cu ft Fireproof Safes";

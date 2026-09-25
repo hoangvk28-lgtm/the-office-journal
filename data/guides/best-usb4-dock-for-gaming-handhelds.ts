@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-usb4-dock-for-gaming-handhelds";
 
-export const guideTitle = "The Best USB4 Docks for Gaming Handhelds Worth Considering";
+export const guideTitle = "The Best USB4 Docks for Gaming Handhelds: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41I9RBaxbLL._SL500_.jpg";
 

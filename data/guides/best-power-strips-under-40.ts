@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-power-strips-under-40";
 
-export const guideTitle = "The Best Power Strips Under $40 Worth Considering";
+export const guideTitle = "The Best Power Strips Under $40: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31XSIHgsrBL._SL500_.jpg";
 

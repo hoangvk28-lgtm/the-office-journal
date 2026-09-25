@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-task-chairs-with-synchro-tilt";
 
-export const guideTitle = "The Best Task Chairs With Synchro-Tilt Worth Considering";
+export const guideTitle = "The Best Task Chairs With Synchro-Tilt: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41rswSm8rRL._SL500_.jpg";
 

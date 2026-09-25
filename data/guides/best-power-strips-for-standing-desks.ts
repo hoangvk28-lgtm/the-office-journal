@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-power-strips-for-standing-desks";
 
-export const guideTitle = "The Best Power Strips for Standing Desks Worth Considering";
+export const guideTitle = "The Best Power Strips for Standing Desks: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41eIUhRPqpL._SL500_.jpg";
 

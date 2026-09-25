@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-portable-monitors-with-vesa-mounts";
 
-export const guideTitle = "The Best Portable Monitors with VESA Mounts Worth Considering";
+export const guideTitle = "The Best Portable Monitors with VESA Mounts: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41taGyfYchL._SL500_.jpg";
 

@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-task-chairs-with-tilt-lock";
 
-export const guideTitle = "The Best Task Chairs With Tilt Lock Worth Considering";
+export const guideTitle = "The Best Task Chairs With Tilt Lock: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41lPpYUJF5L._SL500_.jpg";
 

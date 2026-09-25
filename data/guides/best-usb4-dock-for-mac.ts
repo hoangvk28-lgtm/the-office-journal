@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-usb4-dock-for-mac";
 
-export const guideTitle = "The Best USB4 Docks for Mac and MacBook Worth Considering";
+export const guideTitle = "The Best USB4 Docks for Mac and MacBook: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg";
 

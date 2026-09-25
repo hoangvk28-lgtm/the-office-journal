@@ -60,7 +60,7 @@ export const faq = [
 
 export const guideSlug = "best-4k-monitors-for-work-from-home";
 
-export const guideTitle = "The Best 4K Monitors for Work From Home Worth Considering";
+export const guideTitle = "The Best 4K Monitors for Work From Home: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51ASfnOoCbL._SL500_.jpg";
 

@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-walking-pads-under-300";
 
-export const guideTitle = "The Best Walking Pads Under $300 Worth Considering";
+export const guideTitle = "The Best Walking Pads Under $300: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41WPVTUITbL._SL500_.jpg";
 

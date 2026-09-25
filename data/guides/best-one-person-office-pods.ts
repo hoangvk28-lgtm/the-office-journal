@@ -1,159 +1,12 @@
-export const guideSlug = "best-one-person-office-pods";
-export const guideTitle = "2 Best One-Person Office Pods in 2026";
-export const metaTitle = "Best One-Person Office Pods (2026)";
-export const metaDescription =
-  "2 office pods with explicit single-occupant framing in their Amazon listings, reviewed honestly given how few single-occupant listings exist.";
-export const mainKeyword = "one person office pods";
-export const introParagraphs = [
-  "Only two listings in our verified pool explicitly frame themselves around single-occupant use in their title language, \"Solo\" and \"1-2 Person.\" Few single-occupant-specific listings exist in this niche right now, most either don't specify occupancy or target larger groups, so this list is intentionally short rather than padded.",
-  "This guide overlaps closely with our mini portable offices guide, since the same two products are the most compact, solo-oriented options currently verified in this niche, cross-reference both rather than expecting a fully distinct product set.",
-];
-export const lastUpdated = "2026-08-02";
-export const readTime = "8 min";
-export const heroImage = "https://m.media-amazon.com/images/I/31KSQuhuwNL._SL500_.jpg";
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: string; reviews: string;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-export interface BuyingCriterion { criterion: string; explanation: string; }
-export interface FaqItem { q: string; a: string; }
-
-export const products: GuideProduct[] = [
-  {
-    id: "b0dsblcyzx-pod",
-    rank: 1,
-    badge: "Best Dedicated Solo Pod",
-    name: "Mobile Office Pod Booth, Solo Soundproof Pod with High-Density Acoustic Panels, Wheels, USB Ports (White-Grey)",
-    price: "$4,399.00",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/41DQC0oZUHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DSBLCYZX?tag=theofficejournal-20",
-    description:
-      "A solo, single-occupant pod on wheels and feet, with a built-in table, LED lighting, and USB ports, positioned as the most mobile option in this pool. Its listing is one of the few in this category that mentions ventilation at all, describing it as \"Silent Ventilation,\" though no airflow rate, CFM figure, or independent test data backs that claim.\n\nAmazon's listing does not include a star rating or review count. The wheels make repositioning within a room realistic, but this is still a heavy, large structure that needs freight delivery and real floor-loading consideration, wheels do not substitute for verifying weight limits on an upper-floor apartment or shared office.\n\nBuilt-in table, LED lighting, and USB ports included. Set against that, no star rating or review count available from Amazon. Both matter when comparing it to the other picks here.",
-    specs: ["Solo (single-occupant) pod", "Wheels and feet for repositioning", "Built-in table, LED lighting, USB ports", "Listing states \"Silent Ventilation\" as a feature"],
-    pros: ["Solo occupancy pod on wheels for easier repositioning within a room", "Built-in table, LED lighting, and USB ports included", "One of the few listings in this pool to mention ventilation at all, though unverified", "Lowest price point among the fully-featured single-person pods in this pool"],
-    cons: ["No star rating or review count available from Amazon", "\"Silent Ventilation\" is a marketing claim with no CFM or airflow-rate data to verify it", "Still requires freight delivery and floor-loading planning despite the wheels"],
-    bestFor: "Buyers wanting a pod explicitly marketed for single-occupant use, with wheels for repositioning.",
-  },
-  {
-    id: "b0f62z8cff-pod",
-    rank: 2,
-    badge: "Best 1-2 Person Pod for Mostly-Solo Use",
-    name: "Soundproof Office Pod Booth, Quiet Meeting Pod with Acoustic Panels, One to Two Person Workspace (W55in D48in H92in)",
-    price: "$4,999.00",
-    rating: "Verified Amazon listing",
-    reviews: "Verified Amazon listing",
-    imageUrl: "https://m.media-amazon.com/images/I/31KSQuhuwNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F62Z8CFF?tag=theofficejournal-20",
-    description:
-      "A one-to-two-person pod at W55in D48in H92in exterior dimensions, one of the few listings in this pool to explicitly state a small occupancy range rather than a single fixed number. Amazon's listing does not include a star rating or review count.\n\nThe wider W55in footprint compared to the strictly solo pods gives a bit more room for a second occupant or a visitor chair, though interior usable space will still run smaller than the exterior dimensions once acoustic wall thickness is accounted for. No STC/NRC data or ventilation specs are disclosed.\n\nThe standout detail is that exact exterior dimensions disclosed (W55 x D48 x H92in). Balancing that out, no star rating or review count available from Amazon.",
-    specs: ["1 to 2 person capacity", "Exterior dimensions W55in D48in H92in", "Acoustic panel interior", "Generic/private-label manufacturer"],
-    pros: ["Explicit 1-2 person occupancy range disclosed in the title", "Exact exterior dimensions disclosed (W55 x D48 x H92in)", "Mid-range price relative to the rest of this pool", "No star rating or review count to independently verify against the marketing copy"],
-    cons: ["No star rating or review count available from Amazon", "No formal STC/NRC sound-isolation data disclosed", "No ventilation specs disclosed for two-occupant use"],
-    bestFor: "Buyers who mostly work solo but want room for an occasional second occupant.",
-  },
-];
-
-export interface HowWeEvaluatedItem { title: string; description: string; }
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  { title: "Occupancy language taken directly from titles", description: "Selected only listings that explicitly state solo or 1-2 person occupancy in their title, rather than inferring single-occupant use from dimensions alone." },
-  { title: "Disclosed the limited pool size", description: "Confirmed only two of nine verified listings in this niche explicitly target single-occupant use, and disclosed that scarcity rather than padding the list." },
-  { title: "Mobility and furniture inclusion compared", description: "Compared wheel/mobility features and included furniture (table, USB ports) between the two qualifying picks." },
-  { title: "Verified listing data only", description: "Used only prices, dimensions, and features actually printed in each Amazon listing, no invented ratings or review counts." },
-];
-
-export interface HowToChooseSection { subheading: string; intro?: string; table?: { headers: string[]; rows: string[][] }; cards?: { label: string; text: string }[]; note?: string; }
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Highest average rating",
-          "Mobile Office Pod Booth"
-        ],
-        [
-          "Largest review base, strongest reliability signal",
-          "Mobile Office Pod Booth"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Under $4",
-          "Mobile Office Pod Booth"
-        ],
-        [
-          "Up to $4",
-          "Soundproof Office Pod Booth"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Mobile on Wheels vs Fixed Placement",
-    "cards": [
-      {
-        "label": "Wheels for repositioning",
-        "text": "Easier to reposition within a room, though still heavy and not truly portable between floors. In this comparison: Mobile Office Pod Booth."
-      },
-      {
-        "label": "Fixed placement",
-        "text": "No mobility, but often a more stable, permanent installation. In this comparison: Soundproof Office Pod Booth."
-      }
-    ],
-    "note": "Default to fixed placement unless you specifically expect to reposition the pod within a room."
-  },
-  {
-    "subheading": "By Disclosed Dimensions",
-    "note": "Check each pick's listed exterior dimensions in inches against your actual available space before buying, not just its size category label. Mobile Office Pod Booth is the most-reviewed option here if you want the safer bet."
-  },
-  {
-    "subheading": "For Remote Work Video Calls Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A verified STC or dB reduction rating, plus confirmed ventilation with a stated CFM figure for comfortable extended use during calls."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Mobile Office Pod Booth is worth checking against its listed acoustic and ventilation specs before buying, given its strong review base."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need verified acoustic isolation and ventilation for daily extended use, where Soundproof Office Pod Booth's higher price buys real headroom over the cheaper picks."
-      },
-      {
-        "label": "Save if",
-        "text": "You only need occasional light use, where Mobile Office Pod Booth covers the same job at a lower price."
-      }
-    ]
-  }
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
+export const buyingCriteria = [
   {
     "criterion": "Verify actual acoustic performance, not just the word \"soundproof\"",
-    "explanation": "\"Soundproof\" is a marketing term with no fixed technical meaning, while a genuine sound-dampening spec is usually expressed as an STC (Sound Transmission Class) or dB reduction rating, and many pod listings use the word freely without disclosing any such figure at all.\n\nThis matters directly if the pod's purpose is blocking distracting noise for calls or focused work, since a pod with acoustic panels but no verified STC rating may reduce noise only modestly rather than genuinely isolating sound.\n\nCheck the listing specifically for a stated STC rating or dB reduction figure, and treat the bare word \"soundproof\" with no supporting number as an unverified marketing claim."
+    "explanation": "\"Soundproof\" is a marketing term with no fixed technical meaning, while a genuine sound-dampening spec is usually expressed as an STC (Sound Transmission Class) or DB reduction rating, and many pod listings use the word freely without disclosing any such figure at all.\n\nThis matters directly if the pod's purpose is blocking distracting noise for calls or focused work, since a pod with acoustic panels but no verified STC rating may reduce noise only modestly rather than isolating sound.\n\nCheck the listing specifically for a stated STC rating or DB reduction figure, and treat the bare word \"soundproof\" with no supporting number as an unverified marketing claim."
   },
   {
     "criterion": "Check ventilation claims against real airflow data, not just the word \"ventilated\"",
@@ -173,15 +26,226 @@ export const buyingCriteria: BuyingCriterion[] = [
   }
 ];
 
-export const faq: FaqItem[] = [
-  { q: "How many single-occupant office pods are verified on Amazon right now?", a: "We found only two listings in this niche that explicitly frame themselves around single-occupant use, this is a genuinely limited selection." },
-  { q: "What's the difference between the solo pod and the 1-2 person pod?", a: "The solo pod is explicitly marketed for single-occupant use with wheels and built-in furniture, the 1-2 person pod has a wider footprint for an occasional second occupant." },
-  { q: "Should I also check the mini portable offices guide?", a: "Yes, it features the same two products from a slightly different compact-sizing angle, cross-reference both." },
-  { q: "Do either of these pods have verified ventilation specs?", a: "One listing mentions \"Silent Ventilation\" as a stated feature, though no CFM or airflow-rate data backs that claim, neither product discloses formal ventilation specs." },
+export const faq = [
+  {
+    "q": "How many single-occupant office pods are verified on Amazon right now?",
+    "a": "We found only two listings in this niche that explicitly frame themselves around single-occupant use, this is a limited selection."
+  },
+  {
+    "q": "What's the difference between the solo pod and the 1-2 person pod?",
+    "a": "The solo pod is explicitly marketed for single-occupant use with wheels and built-in furniture, the 1-2 person pod has a wider footprint for an occasional second occupant."
+  },
+  {
+    "q": "Should I also check the mini portable offices guide?",
+    "a": "Yes, it features the same two products from a slightly different compact-sizing angle, cross-reference both."
+  },
+  {
+    "q": "Do either of these pods have verified ventilation specs?",
+    "a": "One listing mentions \"Silent Ventilation\" as a stated feature, though no CFM or airflow-rate data backs that claim, neither product discloses formal ventilation specs."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-mini-portable-offices", title: "Best Mini Portable Offices (2026)" },
-  { href: "/guide/best-small-office-pods", title: "Best Small Office Pods (2026)" },
-  { href: "/guide/best-office-phone-booths-for-home-use", title: "Best Office Phone Booths for Home Use (2026)" },
+export const guideSlug = "best-one-person-office-pods";
+
+export const guideTitle = "The Best One-Person Office Pods for Everyday Desk Work";
+
+export const heroImage = "https://m.media-amazon.com/images/I/31KSQuhuwNL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "Mobile on Wheels vs Fixed Placement",
+    "cards": [
+      {
+        "label": "",
+        "text": "Easier to reposition within a room, though still heavy and not truly portable between floors. In this comparison: Mobile Office Pod Booth."
+      },
+      {
+        "label": "",
+        "text": "No mobility, but often a more stable, permanent installation. In this comparison: Soundproof Office Pod Booth."
+      }
+    ],
+    "note": "Default to fixed placement unless you specifically expect to reposition the pod within a room."
+  },
+  {
+    "subheading": "",
+    "note": "Check each pick's listed exterior dimensions in inches against your actual available space before buying, not just its size category label."
+  },
+  {
+    "subheading": "For Remote Work Video Calls Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "A verified STC or DB reduction rating, plus confirmed ventilation with a stated CFM figure for comfortable extended use during calls."
+      },
+      {
+        "label": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need verified acoustic isolation and ventilation for daily extended use, where Soundproof Office Pod Booth's higher price buys real headroom over the cheaper picks."
+      },
+      {
+        "label": "",
+        "text": "You only need occasional light use, where Mobile Office Pod Booth covers the same job at a lower price."
+      }
+    ]
+  }
 ];
+
+export const howWeEvaluated = [
+  {
+    "title": "Occupancy language taken directly from titles",
+    "description": "Selected only listings that explicitly state solo or 1-2 person occupancy in their title, rather than inferring single-occupant use from dimensions alone."
+  },
+  {
+    "title": "Disclosed the limited pool size",
+    "description": "Confirmed only two of nine verified listings in this niche explicitly target single-occupant use, and disclosed that scarcity rather than padding the list."
+  },
+  {
+    "title": "Mobility and furniture inclusion compared",
+    "description": "Compared wheel/mobility features and included furniture (table, USB ports) between the two qualifying picks."
+  },
+  {
+    "title": "",
+    "description": "Used only prices, dimensions, and features actually printed in each Amazon listing, no invented ratings or review counts."
+  }
+];
+
+export const introParagraphs = [
+  "\" Few single-occupant-specific listings exist in this niche right now, most either don't specify occupancy or target larger groups, so this list is intentionally short rather than padded.",
+  "This guide overlaps closely with our mini portable offices guide, since the same two products are the most compact, solo-oriented options currently verified in this niche, cross-reference both rather than expecting a fully distinct product set."
+];
+
+export const lastUpdated = "2026-08-02";
+
+export const mainKeyword = "one person office pods";
+
+export const metaDescription = "How 2 one-person office pods compare on compatibility, build, features and price, with clear notes on who each one suits.";
+
+export const metaTitle = "Best One-Person Office Pods for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "b0dsblcyzx-pod",
+    "rank": 1,
+    "badge": "Best Dedicated Solo Pod",
+    "name": "Mobile Office Pod Booth, Solo Soundproof Pod with High-Density Acoustic Panels, Wheels, USB Ports (White-Grey)",
+    "price": "$4,399.00",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/41DQC0oZUHL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSBLCYZX?tag=theofficejournal-20",
+    "description": "A solo, single-occupant pod on wheels and feet, with a built-in table, LED lighting, and USB ports, positioned as the most mobile option in this pool. Its listing is one of the few in this category that mentions ventilation at all, describing it as \"Silent Ventilation,\" though no airflow rate, CFM figure, or independent test data backs that claim.\n\nAmazon's listing does not include a star rating or review count. The wheels make repositioning within a room realistic, but this is still a heavy, large structure that needs freight delivery and real floor-loading consideration, wheels do not substitute for verifying weight limits on an upper-floor apartment or shared office.\n\nBuilt-in table, LED lighting, and USB ports included.",
+    "specs": [
+      "Solo (single-occupant) pod",
+      "Wheels and feet for repositioning",
+      "Built-in table, LED lighting, USB ports",
+      "Listing states \"Silent Ventilation\" as a feature"
+    ],
+    "pros": [
+      "Solo occupancy pod on wheels for easier repositioning within a room",
+      "Built-in table, LED lighting, and USB ports included",
+      "One of the few listings in this pool to mention ventilation at all, though unverified",
+      "Lowest price point among the fully-featured single-person pods in this pool"
+    ],
+    "cons": [
+      "No star rating or review count available from Amazon",
+      "\"Silent Ventilation\" is a marketing claim with no CFM or airflow-rate data to verify it",
+      "Still requires freight delivery and floor-loading planning despite the wheels"
+    ],
+    "bestFor": "Buyers wanting a pod explicitly marketed for single-occupant use, with wheels for repositioning."
+  },
+  {
+    "id": "b0f62z8cff-pod",
+    "rank": 2,
+    "badge": "Best 1-2 Person Pod for Mostly-Solo Use",
+    "name": "Soundproof Office Pod Booth, Quiet Meeting Pod with Acoustic Panels, One to Two Person Workspace (W55in D48in H92in)",
+    "price": "$4,999.00",
+    "rating": "Verified Amazon listing",
+    "reviews": "Verified Amazon listing",
+    "imageUrl": "https://m.media-amazon.com/images/I/31KSQuhuwNL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F62Z8CFF?tag=theofficejournal-20",
+    "description": "A one-to-two-person pod at W55in D48in H92in exterior dimensions, one of the few listings in this pool to explicitly state a small occupancy range rather than a single fixed number. Amazon's listing does not include a star rating or review count.\n\nThe wider W55in footprint compared to the strictly solo pods gives a bit more room for a second occupant or a visitor chair, though interior usable space will still run smaller than the exterior dimensions once acoustic wall thickness is accounted for. No STC/NRC data or ventilation specs are disclosed.\n\nThe standout detail is that exact exterior dimensions disclosed (W55 x D48 x H92in). Balancing that out, no star rating or review count available from Amazon.",
+    "specs": [
+      "1 to 2 person capacity",
+      "Exterior dimensions W55in D48in H92in",
+      "Acoustic panel interior",
+      "Generic/private-label manufacturer"
+    ],
+    "pros": [
+      "Explicit 1-2 person occupancy range disclosed in the title",
+      "Exact exterior dimensions disclosed (W55 x D48 x H92in)",
+      "Mid-range price relative to the rest of this pool",
+      "No star rating or review count to independently verify against the marketing copy"
+    ],
+    "cons": [
+      "No star rating or review count available from Amazon",
+      "No formal STC/NRC sound-isolation data disclosed",
+      "No ventilation specs disclosed for two-occupant use"
+    ],
+    "bestFor": "Buyers who mostly work solo but want room for an occasional second occupant."
+  }
+];
+
+export const readTime = "8 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-mini-portable-offices",
+    "title": "Best Mini Portable Offices (2026)"
+  },
+  {
+    "href": "/guide/best-small-office-pods",
+    "title": "Best Small Office Pods (2026)"
+  },
+  {
+    "href": "/guide/best-office-phone-booths-for-home-use",
+    "title": "Best Office Phone Booths for Home Use (2026)"
+  }
+];
+
+export const breadcrumbLabel = "Best One-Person Office Pods";

@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-usb-c-monitors-for-daisy-chaining";
 
-export const guideTitle = "The Best USB-C Monitors for Daisy Chaining Worth Considering";
+export const guideTitle = "The Best USB-C Monitors for Daisy Chaining: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41uYhQ+-HGL._SL500_.jpg";
 

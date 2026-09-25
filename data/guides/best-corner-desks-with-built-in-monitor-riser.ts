@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-corner-desks-with-built-in-monitor-riser";
 
-export const guideTitle = "The Best Corner Desks with Built-In Monitor Riser Worth Considering";
+export const guideTitle = "The Best Corner Desks with Built-In Monitor Riser: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41p8GU3SdKL._SL500_.jpg";
 

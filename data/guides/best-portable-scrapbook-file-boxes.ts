@@ -1,220 +1,12 @@
-export const guideSlug = "best-portable-scrapbook-file-boxes";
-export const guideTitle = "5 Best Portable Scrapbook File Boxes in 2026";
-export const metaTitle = "Best Portable Scrapbook File Boxes (2026)";
-export const metaDescription =
-  "5 file boxes verified for genuine 12x12 inch scrapbook paper compatibility, distinguished from standard letter-size boxes that don't fit larger scrapbook materials.";
-export const mainKeyword = "portable scrapbook file box";
-export const introParagraphs = [
-  "We required confirmed 12x12 inch compatibility for the true scrapbook-specific picks, since standard letter-size file boxes don't fit scrapbook paper and page protectors. We also included well-reviewed letter-size options for buyers whose scrapbook materials fit smaller dimensions.",
-  "\"Made in USA\" and archival-quality claims matter more in this category than most file storage, since scrapbook materials are often irreplaceable, we noted where a product specifically addresses this.",
-];
-export const lastUpdated = "2026-08-08";
-export const readTime = "8 min";
-export const heroImage = "https://m.media-amazon.com/images/I/413N-zNM2KL._SL500_.jpg";
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: string; reviews: string;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-export interface BuyingCriterion { criterion: string; explanation: string; }
-export interface FaqItem { q: string; a: string; }
-
-export const products: GuideProduct[] = [
-  {
-    id: "b08v21rxfy-scrapbookbox",
-    rank: 1,
-    badge: "Best Overall",
-    name: "IRIS USA Scrapbook Case, Made in USA, Fits 12\"x12\" - Thick (6-Pack) - Clear",
-    price: "$41.99",
-    rating: "n/a",
-    reviews: "0",
-    imageUrl: "https://m.media-amazon.com/images/I/413N-zNM2KL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08V21RXFY?tag=theofficejournal-20",
-    description: "Confirmed genuine 12x12 inch compatibility, made in the USA, in a 6-pack of clear cases, the most directly matched product to the true scrapbook-storage use case.\n\nIt earns the top spot in this comparison over Citylife 3 PCS Plastic Storage Bins with Latching Lids Portable Project Case for one main reason. Confirmed genuine 12x12 scrapbook paper compatibility. On price, it's actually priced above Citylife 3 PCS Plastic Storage Bins with Latching Lids Portable Project Case, which is worth weighing if cost is your deciding factor between the two.\n\nWorth knowing before you decide: Made in USA. On the other side, No review history available yet on this specific listing. That's the main tradeoff to weigh against everything above.",
-    specs: ["Confirmed 12x12 in compatibility","Made in USA","6-pack, clear"],
-    pros: ["Confirmed genuine 12x12 scrapbook paper compatibility","Made in USA","6-pack value"],
-    cons: ["No review history available yet on this specific listing"],
-    bestFor: "Buyers who specifically need confirmed 12x12 inch scrapbook paper storage.",
-  },
-  {
-    id: "b09vjsh9f9-scrapbookbox",
-    rank: 2,
-    badge: "Best With Latching Lids",
-    name: "Citylife 3 PCS Plastic Storage Bins with Latching Lids Portable Project Case",
-    price: "$28.99",
-    rating: "n/a",
-    reviews: "0",
-    imageUrl: "https://m.media-amazon.com/images/I/31-lyBAM93L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09VJSH9F9?tag=theofficejournal-20",
-    description: "A 3-pack of clear project cases with latching lids, useful for organizing scrapbook supplies and smaller crafting materials into separate secure containers.\n\nOne spot below IRIS USA Scrapbook Case in this ranking, it's priced lower than IRIS USA Scrapbook Case. The compromise here is straightforward: Verify 12x12 compatibility directly, as this may be sized for smaller materials. What you gain in return: Latching lids secure contents during transport. Whether that trade is worth it depends on which side matters more for your storage needs.\n\nWorth knowing before you decide: 3-pack for organizing multiple project categories. On the other side, Verify 12x12 compatibility directly, as this may be sized for smaller materials. That's the main tradeoff to weigh against everything above.",
-    specs: ["3-pack, latching lids, clear","Portable project case design"],
-    pros: ["Latching lids secure contents during transport","3-pack for organizing multiple project categories"],
-    cons: ["Verify 12x12 compatibility directly, as this may be sized for smaller materials"],
-    bestFor: "Buyers who want to organize scrapbook supplies into multiple secure containers.",
-  },
-  {
-    id: "b08t6p8lb6-scrapbookbox",
-    rank: 3,
-    badge: "Most Proven, Letter-Size",
-    name: "Pendaflex Portable File Box with File Rails, Simple Document Storage",
-    price: "$28.54",
-    rating: "4.4",
-    reviews: "5,076",
-    imageUrl: "https://m.media-amazon.com/images/I/41PdCI0nCgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08T6P8LB6?tag=theofficejournal-20",
-    description: "A letter-size file box, not a genuine 12x12 scrapbook fit, but with by far the largest review base in this comparison, included for scrapbook supplies and materials that fit standard letter dimensions.\n\nSitting just under Citylife 3 PCS Plastic Storage Bins with Latching Lids Portable Project Case, it's priced lower than Citylife 3 PCS Plastic Storage Bins with Latching Lids Portable Project Case. Here's the honest tradeoff: Letter size, not confirmed 12x12 scrapbook compatible. And here's what it gets you instead: Largest, most established review base in this comparison. That's the real difference between the two picks, not just a ranking number.\n\nWorth knowing before you decide: Largest, most established review base in this comparison. On the other side, Letter size, not confirmed 12x12 scrapbook compatible. That's the main tradeoff to weigh against everything above.",
-    specs: ["Letter size, file rails","5,076 reviews at 4.4 stars"],
-    pros: ["Largest, most established review base in this comparison"],
-    cons: ["Letter size, not confirmed 12x12 scrapbook compatible"],
-    bestFor: "Buyers with smaller-format scrapbook materials that fit letter-size storage.",
-  },
-  {
-    id: "b0cn6g2dj6-scrapbookbox",
-    rank: 4,
-    badge: "Best A4 Multi-Pack Option",
-    name: "LonlyEagle 6 Pcs Clear A4 File Portable Project Case, Plastic Storage Box",
-    price: "$24.99",
-    rating: "n/a",
-    reviews: "0",
-    imageUrl: "https://m.media-amazon.com/images/I/31wbmOtAjWL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CN6G2DJ6?tag=theofficejournal-20",
-    description: "A 6-pack of A4-sized clear project cases, useful for organizing smaller scrapbook embellishments and supplies rather than full 12x12 pages.\n\nRanked just behind Pendaflex Portable File Box with File Rails, it's priced lower than Pendaflex Portable File Box with File Rails. The real tradeoff against that pick: A4 size, not confirmed for full 12x12 scrapbook pages. In exchange, it offers this instead: 6-pack value for organizing smaller supplies. That's the swap that decides whether this pick or the one above it is the better fit for your documents.\n\nWorth knowing before you decide: Transparent design shows contents. On the other side, A4 size, not confirmed for full 12x12 scrapbook pages. That's the main tradeoff to weigh against everything above.",
-    specs: ["6-pack, A4 size, clear plastic"],
-    pros: ["6-pack value for organizing smaller supplies","Transparent design shows contents"],
-    cons: ["A4 size, not confirmed for full 12x12 scrapbook pages"],
-    bestFor: "Buyers who want to organize smaller scrapbook embellishments and supplies rather than full pages.",
-  },
-  {
-    id: "b0d92v2xzt-scrapbookbox",
-    rank: 5,
-    badge: "Best Clear Letter-Size Alternative",
-    name: "Staples File Box Portable Storage Tote, Letter Size, Clear Plastic",
-    price: "$24.15",
-    rating: "n/a",
-    reviews: "0",
-    imageUrl: "https://m.media-amazon.com/images/I/31VVX+PgVwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D92V2XZT?tag=theofficejournal-20",
-    description: "A transparent letter-size tote from an established office-supply retailer, suited to smaller-format scrapbook materials or general craft supply storage.\n\nOne spot below LonlyEagle 6 Pcs Clear A4 File Portable Project Case in this ranking, it's priced lower than LonlyEagle 6 Pcs Clear A4 File Portable Project Case. The compromise here is straightforward: Letter size, not confirmed for full 12x12 scrapbook pages. What you gain in return: From an established office-supply retailer. Whether that trade is worth it depends on which side matters more for your storage needs.\n\nWorth knowing before you decide: Transparent design shows contents. On the other side, No review history available yet. That's the main tradeoff to weigh against everything above.",
-    specs: ["Letter size, clear plastic"],
-    pros: ["From an established office-supply retailer","Transparent design shows contents"],
-    cons: ["Letter size, not confirmed for full 12x12 scrapbook pages","No review history available yet"],
-    bestFor: "Buyers who want a proven-brand clear tote for smaller-format materials.",
-  }
-];
-
-export interface HowWeEvaluatedItem { title: string; description: string; }
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  { title: "Verified genuine 12x12 inch compatibility where claimed", description: "We confirmed which products actually state 12x12 inch compatibility versus those sized for A4 or letter materials instead." },
-  { title: "Distinguished true scrapbook-specific products from general storage", description: "We separated the IRIS USA scrapbook-specific case from general clear plastic storage totes that happen to work for smaller craft supplies." },
-  { title: "Archival quality and Made in USA noted where present", description: "We flagged where a product specifically addresses archival-safe or domestic manufacturing claims, relevant for buyers storing irreplaceable materials." },
-  { title: "Review volume weighted for the letter-size alternatives", description: "We prioritized established review history for the general-purpose picks included as alternatives to the true 12x12 option." },
-];
-
-export interface HowToChooseSection { subheading: string; intro?: string; table?: { headers: string[]; rows: string[][] }; cards?: { label: string; text: string }[]; note?: string; }
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Material",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick in this comparison"
-      ],
-      "rows": [
-        [
-          "Prioritizing clear",
-          "IRIS USA Scrapbook Case"
-        ],
-        [
-          "Prioritizing plastic",
-          "Citylife 3 PCS Plastic Storage Bins with Latching Lids Portable Project Case"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Price range",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Under $25",
-          "Staples File Box Portable Storage Tote"
-        ],
-        [
-          "Mid-range",
-          "Pendaflex Portable File Box with File Rails"
-        ],
-        [
-          "No firm budget ceiling, prioritizing security or durability",
-          "IRIS USA Scrapbook Case"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Lockable vs Basic Latch",
-    "cards": [
-      {
-        "label": "Lockable",
-        "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
-      },
-      {
-        "label": "Basic Latch",
-        "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: IRIS USA Scrapbook Case, Citylife 3 PCS Plastic Storage Bins with Latching Lids Portable Project Case, Pendaflex Portable File Box with File Rails."
-      }
-    ],
-    "note": "Check each listing's stated closure type directly, since none of these picks explicitly confirm a genuine lock."
-  },
-  {
-    "subheading": "By Portability: Wheels vs Handle-Only",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Occasional short lifts, simpler design",
-          "IRIS USA Scrapbook Case"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Irreplaceable or Sensitive Documents Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
-      },
-      {
-        "label": "In this comparison",
-        "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want what IRIS USA Scrapbook Case offers: Confirmed genuine 12x12 scrapbook paper compatibility. That's a real functional upgrade over the budget picks here, not just a brand markup."
-      },
-      {
-        "label": "Save if",
-        "text": "Staples File Box Portable Storage Tote already covers the essentials: From an established office-supply retailer. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
-      }
-    ]
-  }
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
+export const buyingCriteria = [
   {
     "criterion": "Confirm letter, legal, or A4 compatibility against your actual documents",
-    "explanation": "File boxes are built around specific paper sizes, and letter (8.5x11 inch, standard in the US), legal (8.5x14 inch, longer), and A4 (the standard size in most of the rest of the world) hanging folders are not interchangeable, since a box sized for one won't properly fit hanging folders built for another.\n\nSome boxes explicitly support both letter and legal sizing with adjustable rails, while others are built for one size only, and buying the wrong size means folders that either don't fit the internal rails at all or sit loose and unsupported inside a box that's too large for them.\n\nCheck the listing's stated compatible paper and folder sizes against what you actually use, especially if you have any legal-size or A4 documents mixed into an otherwise standard letter-size collection."
+    "explanation": "5x14 inch, longer), and A4 (the standard size in most of the rest of the world) hanging folders are not interchangeable, since a box sized for one won't properly fit hanging folders built for another.\n\nSome boxes explicitly support both letter and legal sizing with adjustable rails, while others are built for one size only, and buying the wrong size means folders that either don't fit the internal rails at all or sit loose and unsupported inside a box that's too large for them.\n\nCheck the listing's stated compatible paper and folder sizes against what you actually use, especially if you have any legal-size or A4 documents mixed into an otherwise standard letter-size collection."
   },
   {
     "criterion": "Understand the real tradeoffs between plastic, metal, and clear construction",
@@ -230,20 +22,308 @@ export const buyingCriteria: BuyingCriterion[] = [
   },
   {
     "criterion": "Weigh portability features (handles, wheels) against your actual moving distance and frequency",
-    "explanation": "A basic side handle works fine for lifting a file box a short distance or in and out of a car trunk occasionally, while wheels genuinely matter if you're moving a heavy, fully-loaded box repeatedly across a longer distance, such as between an office and a storage room on a regular basis, since a fully loaded file box can weigh considerably more than it looks once filled with paper documents.\n\nWheeled file boxes add real cost and bulk over a simple handle-only design, so this is a genuine tradeoff rather than wheels being a strict upgrade, and a box that will mostly sit in one place doesn't benefit from paying extra for mobility features it will rarely use.\n\nMatch the portability features to your actual moving pattern (occasional short lifts versus frequent longer moves) rather than defaulting to the most feature-rich option available."
+    "explanation": "A basic side handle works fine for lifting a file box a short distance or in and out of a car trunk occasionally, while wheels matter if you're moving a heavy, fully-loaded box repeatedly across a longer distance, such as between an office and a storage room on a regular basis, since a fully loaded file box can weigh considerably more than it looks once filled with paper documents.\n\nWheeled file boxes add real cost and bulk over a simple handle-only design, so this is a genuine tradeoff rather than wheels being a strict upgrade, and a box that will mostly sit in one place doesn't benefit from paying extra for mobility features it will rarely use.\n\nMatch the portability features to your actual moving pattern (occasional short lifts versus frequent longer moves) rather than defaulting to the most feature-rich option available."
   }
 ];
 
-export const faq: FaqItem[] = [
-  { q: "Which is confirmed to fit full 12x12 inch scrapbook pages?", a: "The IRIS USA Scrapbook Case, made in the USA, is the only pick here with explicitly confirmed 12x12 inch compatibility." },
-  { q: "Which has the most reviews?", a: "The Pendaflex Portable File Box, with 5,076 reviews, though it's letter size, not confirmed 12x12." },
-  { q: "Is there a multi-pack option?", a: "Yes, both the IRIS USA (6-pack) and Citylife (3-pack) options come in multi-packs." },
-  { q: "What if my scrapbook materials are smaller than 12x12?", a: "The letter-size Pendaflex and Staples picks, or the A4-size LonlyEagle pick, may be more appropriate and offer strong review evidence." },
-  { q: "Are these secure for transport?", a: "The Citylife pick specifically includes latching lids for secure transport." },
+export const faq = [
+  {
+    "q": "Which is confirmed to fit full 12x12 inch scrapbook pages?",
+    "a": "The IRIS USA Scrapbook Case, made in the USA, is the only pick here with explicitly confirmed 12x12 inch compatibility."
+  },
+  {
+    "q": "Which has the most reviews?",
+    "a": ""
+  },
+  {
+    "q": "Is there a multi-pack option?",
+    "a": "Yes, both the IRIS USA (6-pack) and Citylife (3-pack) options come in multi-packs."
+  },
+  {
+    "q": "What if my scrapbook materials are smaller than 12x12?",
+    "a": "The letter-size Pendaflex and Staples picks, or the A4-size LonlyEagle pick, may be more appropriate and offer strong review evidence."
+  },
+  {
+    "q": "Are these secure for transport?",
+    "a": "The Citylife pick specifically includes latching lids for secure transport."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-portable-plastic-file-boxes-with-handles", title: "Best Portable Plastic File Boxes with Handles (2026)" },
-  { href: "/guide/best-portable-file-organizer-boxes", title: "Best Portable File Organizer Boxes (2026)" },
-  { href: "/guide/best-portable-file-boxes", title: "Best Portable File Boxes (2026)" },
+export const guideSlug = "best-portable-scrapbook-file-boxes";
+
+export const guideTitle = "The Best Portable Scrapbook File Boxes for Everyday Desk Work";
+
+export const heroImage = "https://m.media-amazon.com/images/I/413N-zNM2KL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        "Recommended pick in this comparison"
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "Citylife 3 PCS Plastic Storage Bins with Latching Lids Portable Project Case"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "Staples File Box Portable Storage Tote"
+        ],
+        [
+          "",
+          "Pendaflex Portable File Box with File Rails"
+        ],
+        [
+          "No firm budget ceiling, prioritizing security or durability",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
+      },
+      {
+        "label": "",
+        "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: IRIS USA Scrapbook Case, Citylife 3 PCS Plastic Storage Bins with Latching Lids Portable Project Case, Pendaflex Portable File Box with File Rails."
+      }
+    ],
+    "note": "Check each listing's stated closure type directly, since none of these picks explicitly confirm a genuine lock."
+  },
+  {
+    "subheading": "By Portability: Wheels vs Handle-Only",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Occasional short lifts, simpler design",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For Irreplaceable or Sensitive Documents Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
+      },
+      {
+        "label": "",
+        "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You want what IRIS USA Scrapbook Case offers: Confirmed genuine 12x12 scrapbook paper compatibility. That's a real functional upgrade over the budget picks here, not just a brand markup."
+      },
+      {
+        "label": "",
+        "text": "Staples File Box Portable Storage Tote already covers the essentials: From an established office-supply retailer. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
+      }
+    ]
+  }
 ];
+
+export const howWeEvaluated = [
+  {
+    "title": "Verified genuine 12x12 inch compatibility where claimed",
+    "description": "We confirmed which products actually state 12x12 inch compatibility versus those sized for A4 or letter materials instead."
+  },
+  {
+    "title": "Distinguished true scrapbook-specific products from general storage",
+    "description": "We separated the IRIS USA scrapbook-specific case from general clear plastic storage totes that happen to work for smaller craft supplies."
+  },
+  {
+    "title": "Archival quality and Made in USA noted where present",
+    "description": "We flagged where a product specifically addresses archival-safe or domestic manufacturing claims, relevant for buyers storing irreplaceable materials."
+  },
+  {
+    "title": "Review volume weighted for the letter-size alternatives",
+    "description": "We prioritized established review history for the general-purpose picks included as alternatives to the true 12x12 option."
+  }
+];
+
+export const introParagraphs = [
+  "We required confirmed 12x12 inch compatibility for the true scrapbook-specific picks, since standard letter-size file boxes don't fit scrapbook paper and page protectors. We also included well-reviewed letter-size options for buyers whose scrapbook materials fit smaller dimensions.",
+  "\"Made in USA\" and archival-quality claims matter more in this category than most file storage, since scrapbook materials are often irreplaceable, we noted where a product specifically addresses this."
+];
+
+export const lastUpdated = "2026-08-08";
+
+export const mainKeyword = "portable scrapbook file box";
+
+export const metaDescription = "How 5 portable scrapbook file boxes compare on compatibility, build, features and price, with clear notes on who each one suits.";
+
+export const metaTitle = "Best Portable Scrapbook File Boxes for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "b08v21rxfy-scrapbookbox",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "IRIS USA Scrapbook Case, Made in USA, Fits 12\"x12\" - Thick (6-Pack) - Clear",
+    "price": "$41.99",
+    "rating": "n/a",
+    "reviews": "0",
+    "imageUrl": "https://m.media-amazon.com/images/I/413N-zNM2KL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08V21RXFY?tag=theofficejournal-20",
+    "description": "Confirmed genuine 12x12 inch compatibility, made in the USA, in a 6-pack of clear cases, the most directly matched product to the true scrapbook-storage use case.\n\nConfirmed genuine 12x12 scrapbook paper compatibility. On price, it's actually priced above Citylife 3 PCS Plastic Storage Bins with Latching Lids Portable Project Case, which is worth weighing if cost is your deciding factor between the two.\n\nOn the other side, No review history available yet on this specific listing.",
+    "specs": [
+      "Confirmed 12x12 in compatibility",
+      "Made in USA",
+      "6-pack, clear"
+    ],
+    "pros": [
+      "Confirmed genuine 12x12 scrapbook paper compatibility",
+      "Made in USA",
+      "6-pack value"
+    ],
+    "cons": [
+      "No review history available yet on this specific listing"
+    ],
+    "bestFor": "Buyers who specifically need confirmed 12x12 inch scrapbook paper storage."
+  },
+  {
+    "id": "b09vjsh9f9-scrapbookbox",
+    "rank": 2,
+    "badge": "Best With Latching Lids",
+    "name": "Citylife 3 PCS Plastic Storage Bins with Latching Lids Portable Project Case",
+    "price": "$28.99",
+    "rating": "n/a",
+    "reviews": "0",
+    "imageUrl": "https://m.media-amazon.com/images/I/31-lyBAM93L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09VJSH9F9?tag=theofficejournal-20",
+    "description": "A 3-pack of clear project cases with latching lids, useful for organizing scrapbook supplies and smaller crafting materials into separate secure containers.\n\nOn the other side, Verify 12x12 compatibility directly, as this may be sized for smaller materials.",
+    "specs": [
+      "3-pack, latching lids, clear",
+      "Portable project case design"
+    ],
+    "pros": [
+      "Latching lids secure contents during transport",
+      "3-pack for organizing multiple project categories"
+    ],
+    "cons": [
+      "Verify 12x12 compatibility directly, as this may be sized for smaller materials"
+    ],
+    "bestFor": "Buyers who want to organize scrapbook supplies into multiple secure containers."
+  },
+  {
+    "id": "b08t6p8lb6-scrapbookbox",
+    "rank": 3,
+    "badge": "Most Proven, Letter-Size",
+    "name": "Pendaflex Portable File Box with File Rails, Simple Document Storage",
+    "price": "$28.54",
+    "rating": "4.4",
+    "reviews": "5,076",
+    "imageUrl": "https://m.media-amazon.com/images/I/41PdCI0nCgL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08T6P8LB6?tag=theofficejournal-20",
+    "description": "On the other side, Letter size, not confirmed 12x12 scrapbook compatible.",
+    "specs": [
+      "Letter size, file rails"
+    ],
+    "pros": [
+      "Largest, most established review base in this comparison"
+    ],
+    "cons": [
+      "Letter size, not confirmed 12x12 scrapbook compatible"
+    ],
+    "bestFor": "Buyers with smaller-format scrapbook materials that fit letter-size storage."
+  },
+  {
+    "id": "b0cn6g2dj6-scrapbookbox",
+    "rank": 4,
+    "badge": "Best A4 Multi-Pack Option",
+    "name": "LonlyEagle 6 Pcs Clear A4 File Portable Project Case, Plastic Storage Box",
+    "price": "$24.99",
+    "rating": "n/a",
+    "reviews": "0",
+    "imageUrl": "https://m.media-amazon.com/images/I/31wbmOtAjWL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN6G2DJ6?tag=theofficejournal-20",
+    "description": "A 6-pack of A4-sized clear project cases, useful for organizing smaller scrapbook embellishments and supplies rather than full 12x12 pages.\n\nThe real tradeoff against that pick: A4 size, not confirmed for full 12x12 scrapbook pages.\n\nOn the other side, A4 size, not confirmed for full 12x12 scrapbook pages.",
+    "specs": [
+      "6-pack, A4 size, clear plastic"
+    ],
+    "pros": [
+      "6-pack value for organizing smaller supplies",
+      "Transparent design shows contents"
+    ],
+    "cons": [
+      "A4 size, not confirmed for full 12x12 scrapbook pages"
+    ],
+    "bestFor": "Buyers who want to organize smaller scrapbook embellishments and supplies rather than full pages."
+  },
+  {
+    "id": "b0d92v2xzt-scrapbookbox",
+    "rank": 5,
+    "badge": "Best Clear Letter-Size Alternative",
+    "name": "Staples File Box Portable Storage Tote, Letter Size, Clear Plastic",
+    "price": "$24.15",
+    "rating": "n/a",
+    "reviews": "0",
+    "imageUrl": "https://m.media-amazon.com/images/I/31VVX+PgVwL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D92V2XZT?tag=theofficejournal-20",
+    "description": "A transparent letter-size tote from an established office-supply retailer, suited to smaller-format scrapbook materials or general craft supply storage.\n\nOn the other side, No review history available yet.",
+    "specs": [
+      "Letter size, clear plastic"
+    ],
+    "pros": [
+      "From an established office-supply retailer",
+      "Transparent design shows contents"
+    ],
+    "cons": [
+      "Letter size, not confirmed for full 12x12 scrapbook pages",
+      "No review history available yet"
+    ],
+    "bestFor": "Buyers who want a proven-brand clear tote for smaller-format materials."
+  }
+];
+
+export const readTime = "8 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-portable-plastic-file-boxes-with-handles",
+    "title": "Best Portable Plastic File Boxes with Handles (2026)"
+  },
+  {
+    "href": "/guide/best-portable-file-organizer-boxes",
+    "title": "Best Portable File Organizer Boxes (2026)"
+  },
+  {
+    "href": "/guide/best-portable-file-boxes",
+    "title": "Best Portable File Boxes (2026)"
+  }
+];
+
+export const breadcrumbLabel = "Best Portable Scrapbook File Boxes";

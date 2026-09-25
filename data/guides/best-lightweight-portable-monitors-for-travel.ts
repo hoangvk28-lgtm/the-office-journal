@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-lightweight-portable-monitors-for-travel";
 
-export const guideTitle = "The Best Lightweight Portable Monitors for Travel Worth Considering";
+export const guideTitle = "The Best Lightweight Portable Monitors for Travel: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51T7K-COzIL._SL500_.jpg";
 

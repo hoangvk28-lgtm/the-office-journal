@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-interactive-whiteboards-for-school";
 
-export const guideTitle = "The Best Interactive Whiteboards for School Worth Considering";
+export const guideTitle = "The Best Interactive Whiteboards for School: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51JwAk52DvL._SL500_.jpg";
 

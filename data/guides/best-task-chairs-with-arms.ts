@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-task-chairs-with-arms";
 
-export const guideTitle = "The Best Task Chairs With Arms Worth Considering";
+export const guideTitle = "The Best Task Chairs With Arms: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51UEOQWfIEL._SL500_.jpg";
 

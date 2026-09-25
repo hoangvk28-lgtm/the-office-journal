@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-laptop-screen-extenders-for-work";
 
-export const guideTitle = "The Best Laptop Screen Extenders for Work Worth Considering";
+export const guideTitle = "The Best Laptop Screen Extenders for Work: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/51T7K-COzIL._SL500_.jpg";
 

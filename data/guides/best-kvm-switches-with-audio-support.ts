@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-kvm-switches-with-audio-support";
 
-export const guideTitle = "The Best KVM Switches with Audio Support Worth Considering";
+export const guideTitle = "The Best KVM Switches with Audio Support: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41K5Wvne7oL._SL500_.jpg";
 

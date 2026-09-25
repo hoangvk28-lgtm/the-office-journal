@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-chair-mats-for-office";
 
-export const guideTitle = "The Best Chair Mats for Office Worth Considering";
+export const guideTitle = "The Best Chair Mats for Office: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/310m+F+gY5L._SL500_.jpg";
 

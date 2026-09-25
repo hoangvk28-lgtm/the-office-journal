@@ -1,295 +1,12 @@
-export const guideSlug = "best-2-in-1-mini-vacuum-cleaners";
-export const guideTitle = "8 Best 2-in-1 Mini Vacuum Cleaners in 2026";
-export const metaTitle = "Best 2-in-1 Mini Vacuum Cleaners";
-export const metaDescription = "We compared 2 in 1 mini vacuum cleaner models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
-export const mainKeyword = "2 in 1 mini vacuum cleaner";
-export const introParagraphs = [
-  "Across best 2-in-1 mini vacuum cleaners, range widely on paper, given 2 in 1 mini vacuum cleaner, the gap shows up.",
-  "2 in 1 mini vacuum cleaner is judged here on verified dust capacity, because battery suction fades early."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41LfhK8i4AL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-2-in-1-mini-vacuum-cleaners-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "2 in 1 Cordless Handheld Car Vacuum",
-    price: "$19.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41LfhK8i4AL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FX1HXSBG?tag=theofficejournal-20",
-    description: "2 in 1 Cordless Handheld Car Vacuum is our overall pick in this lineup. Equipped with a high-speed brushless motor, this mini vacuum delivers up to 18,000pa of strong suction to lift fine dust, pet hair, sand, and stubborn debris from every corner. This handheld vacuum cleaner has both suction and blowing functions, allowing it to be used to inflate and pump air while removing dust and debris.\n\nSet next to 2.5Kpa Handheld Vacuum Cleaner, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nGo with this pick if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A cordless mini vacuum's suction power drops noticeably as the battery depletes, well before the battery actually dies, so real-world performance late in a charge cycle is weaker than the spec sheet's peak suction number suggests.",
-    specs: ["High-speed brushless motor", "Suction & blow 2-in-1 vacuum cleaner", "Type-c fast charging & extended runtime"],
-    pros: ["High-speed brushless motor", "Suction & blow 2-in-1 vacuum cleaner", "Type-c fast charging & extended runtime", "Portable & user-friendly design"],
-    cons: ["Battery-powered suction drops off well before the battery dies", "A tiny dust cup means frequent emptying during real use"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-2-in-1-mini-vacuum-cleaners-2",
-    rank: 2,
-    badge: "Best Value",
-    name: "2.5Kpa Handheld Vacuum Cleaner",
-    price: "$7.60",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31uhqZd4oCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GYMT4614?tag=theofficejournal-20",
-    description: "2.5Kpa Handheld Vacuum Cleaner is the best-value option in this roundup, priced lowest without a real capability gap. Featured with anti-tangle structure to avoid hair and debris winding during use, it operates smoothly at 40db low noise level, ensuring quiet working performance and a comfortable daily cleaning experience. Integrated with suction and air blowing dual functions, this multifunctional vacuum can absorb scattered garbage and blow out stubborn dust from dead corners, realizing all-round deep cleaning with one compact device.\n\n2 in 1 Cordless Handheld Car Vacuum is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis makes sense for anyone who want a genuinely capable pick without paying for headroom you won't use. A small dust cup capacity means frequent emptying during any real cleaning session, worth checking the actual cup size in milliliters rather than assuming compact size doesn't affect how often you'll need to stop and empty it.",
-    specs: ["Cordless mini handheld vacuum provides steady 2.5kpa suction power", "40Db low noise & anti-tangle design", "2-In-1 blow & suction dual use"],
-    pros: ["Cordless mini handheld vacuum provides steady 2.5kpa suction power", "40Db low noise & anti-tangle design", "2-In-1 blow & suction dual use", "Made of solid ABS resin material for wear resistance and long service life"],
-    cons: ["A tiny dust cup means frequent emptying during real use", "Battery-powered suction drops off well before the battery dies"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
-  },
-  {
-    id: "best-2-in-1-mini-vacuum-cleaners-3",
-    rank: 3,
-    badge: "Best Premium Pick",
-    name: "Yomile Mini Vacuum Cleaner",
-    price: "$59.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41Jv95F6eBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H4QRN5S1?tag=theofficejournal-20",
-    description: "Yomile Mini Vacuum Cleaner is the priciest pick in this lineup. This mini car vacuum has a dual mode of blowing and sucking. This cordless car vacuum cleaner features an upgraded high-speed motor, providing powerful performance.\n\n2 in 1 Cordless Handheld Car Vacuum is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis fits best if you are willing to spend the most in this comparison for the fuller feature set that comes with it. A cordless mini vacuum's suction power drops noticeably as the battery depletes, well before the battery actually dies, so real-world performance late in a charge cycle is weaker than the spec sheet's peak suction number suggests.",
-    specs: ["2-In-1 multifunctional mini vacuum cleaner", "Cordless car vacuum cleaner features an upgraded high-speed motor", "Wireless electric air duster max rotating speed is 250000rpm"],
-    pros: ["2-In-1 multifunctional mini vacuum cleaner", "Cordless car vacuum cleaner features an upgraded high-speed motor", "Wireless electric air duster max rotating speed is 250000rpm", "Long lasting and fast charging"],
-    cons: ["Battery-powered suction drops off well before the battery dies", "A tiny dust cup means frequent emptying during real use"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-2-in-1-mini-vacuum-cleaners-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "XBllcyiv Mini Vacuum Cleaner for, 2 in 1 Keyboard Vacuum Cleaner Wireless",
-    price: "$27.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/416R6pjMNfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CQYBGS8Q?tag=theofficejournal-20",
-    description: "XBllcyiv Mini Vacuum Cleaner for, 2 in 1 Keyboard Vacuum Cleaner Wireless is a strong alternative worth comparing directly against the top pick. Effortlessly blow away dirt, debris, dust, and other particles from surfaces while simultaneously sucking up stubborn dust hidden in keyboards, corners, and crevices. This matte black vacuum cleaner features temperature/short circuit/overvoltage/overcurrent/overcharge protection.\n\nAgainst 2 in 1 Cordless Handheld Car Vacuum, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A small dust cup capacity means frequent emptying during any real cleaning session, worth checking the actual cup size in milliliters rather than assuming compact size doesn't affect how often you'll need to stop and empty it.",
-    specs: ["Effortlessly blow away dirt", "Charging tip", "4000mAh lithium-ion battery (2 x 2000mAh battery packs) which can bring more suction power"],
-    pros: ["Effortlessly blow away dirt", "Charging tip", "4000mAh lithium-ion battery (2 x 2000mAh battery packs) which can bring more suction power", "Sleek & lightweight design"],
-    cons: ["A tiny dust cup means frequent emptying during real use", "Battery-powered suction drops off well before the battery dies"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-2-in-1-mini-vacuum-cleaners-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "JONYJ Handheld Car Vacuum Cleaner Cordless",
-    price: "$14.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41bNha6H6PL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D7HLHWXM?tag=theofficejournal-20",
-    description: "JONYJ Handheld Car Vacuum Cleaner Cordless is a strong alternative worth comparing directly against the top pick. This car vacuum portable cordless utilizes advanced cyclone technology to create a powerful vortex. This handheld vacuum cordless comes with 7 versatile accessories and transforms into a 4-in-1 cleaning tool: vacuuming, blowing, inflating, and vacuum compressing.\n\nSet next to 2 in 1 Cordless Handheld Car Vacuum, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cordless mini vacuum's suction power drops noticeably as the battery depletes, well before the battery actually dies, so real-world performance late in a charge cycle is weaker than the spec sheet's peak suction number suggests.",
-    specs: ["Car vacuum portable cordless utilizes advanced cyclone technology to create a powerful vortex", "Multifunctional vacuum cleaner", "Hand held vacuum cordless"],
-    pros: ["Car vacuum portable cordless utilizes advanced cyclone technology to create a powerful vortex", "Multifunctional vacuum cleaner", "Hand held vacuum cordless", "Fast charging & long battery life"],
-    cons: ["Battery-powered suction drops off well before the battery dies", "A tiny dust cup means frequent emptying during real use"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-2-in-1-mini-vacuum-cleaners-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "KMM Handheld Car Vacuum Cleaner",
-    price: "$22.43",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41Hwji9pb7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BYD5XB67?tag=theofficejournal-20",
-    description: "KMM Handheld Car Vacuum Cleaner is a strong alternative worth comparing directly against the top pick. The electric vacuum cleaner features a built-in 4000mAh battery with a fast-charging port. With just one-click disassembly, you can easily empty the dust cup and clean the vacuum.\n\nAgainst 2 in 1 Cordless Handheld Car Vacuum, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A small dust cup capacity means frequent emptying during any real cleaning session, worth checking the actual cup size in milliliters rather than assuming compact size doesn't affect how often you'll need to stop and empty it.",
-    specs: ["Rechargeable battery & fast charging", "Our vacuum cleaner features dual functions", "Effortless maintenance"],
-    pros: ["Rechargeable battery & fast charging", "Our vacuum cleaner features dual functions", "Effortless maintenance", "Wide application"],
-    cons: ["A tiny dust cup means frequent emptying during real use", "Battery-powered suction drops off well before the battery dies"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-2-in-1-mini-vacuum-cleaners-7",
-    rank: 7,
-    badge: "Great Alternative",
-    name: "Car Vacuum Portable Cordless Handheld Vacuum Cleaner 4-in-1 Mini Cordless",
-    price: "$29.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41BD6jYezfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F8LJD1MR?tag=theofficejournal-20",
-    description: "Car Vacuum Portable Cordless Handheld Vacuum Cleaner 4-in-1 Mini Cordless is a strong alternative worth comparing directly against the top pick. This cordless car vacuum cleaner comes equipped with multiple nozzles to meet all your needs. The upgraded max 80,000 rpm brushless motor delivers up to 40aw/16.8kpa suction power, easily picking up fine sand, dust, and small debris.\n\nWeighing this against 2 in 1 Cordless Handheld Car Vacuum, the main unit weighs only 1 lb (461 g), comparable to a bottle of water ends up being the detail that matters most for most buyers.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cordless mini vacuum's suction power drops noticeably as the battery depletes, well before the battery actually dies, so real-world performance late in a charge cycle is weaker than the spec sheet's peak suction number suggests.",
-    specs: ["4-In-1 multi-functional mini vacuum cleaner", "Upgraded max", "Long battery life & type-c fast charging"],
-    pros: ["4-In-1 multi-functional mini vacuum cleaner", "Upgraded max", "Long battery life & type-c fast charging", "Main unit weighs only 1 lb (461 g)"],
-    cons: ["Battery-powered suction drops off well before the battery dies", "A tiny dust cup means frequent emptying during real use"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-2-in-1-mini-vacuum-cleaners-8",
-    rank: 8,
-    badge: "Also Worth Considering",
-    name: "MONOZEL Mini Vacuum Cleaner for Car",
-    price: "$34.19",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51u8UrF1d-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GXZFLZX2?tag=theofficejournal-20",
-    description: "MONOZEL Mini Vacuum Cleaner for Car is a strong alternative worth comparing directly against the top pick. This cordless hand vacuum features an upgraded 130w high-speed motor, providing powerful performance. Equipped with an upgraded motor, this car vacuum cleaner high power can reach an amazing speed of 115000rpm.\n\nWeighing this against 2 in 1 Cordless Handheld Car Vacuum, not just a vacuum, but also an air duster ends up being the detail that matters most for most buyers.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A small dust cup capacity means frequent emptying during any real cleaning session, worth checking the actual cup size in milliliters rather than assuming compact size doesn't affect how often you'll need to stop and empty it.",
-    specs: ["Cordless hand vacuum features an upgraded 130w high-speed motor", "Upgraded motor, this car vacuum cleaner high power can reach an amazing speed of 115000rpm", "Multi-purpose accessories"],
-    pros: ["Cordless hand vacuum features an upgraded 130w high-speed motor", "Upgraded motor, this car vacuum cleaner high power can reach an amazing speed of 115000rpm", "Multi-purpose accessories", "& 3H fast charging: this car vacuum cleaner adopts the 7800 mAh"],
-    cons: ["A tiny dust cup means frequent emptying during real use", "Battery-powered suction drops off well before the battery dies"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Blower Mode Is a Genuine Bonus Feature, Not Universal",
-    "description": "Not every mini vacuum includes a blower mode, and it's a genuinely useful dual-function feature for dislodging dust from tight spots before vacuuming it up, check the specific listing for this capability rather than assuming any '2-in-1' or '3-in-1' branding includes it.."
-  },
-  {
-    "title": "Attachment Nozzles Matter More for Keyboard/Crevice Use",
-    "description": "For keyboard and crevice cleaning specifically, the included nozzle shape matters as much as raw suction power, a narrow brush or crevice tool reaches between keys and into tight desk corners far better than a general flat nozzle."
-  },
-  {
-    "title": "Dust Cup Size Determines How Often You'll Empty It",
-    "description": "A genuinely tiny dust cup (common on the smallest keyboard-focused mini vacuums) fills up fast during any real cleaning session, meaning frequent stops to empty it mid-task."
-  },
-  {
-    "title": "Compact Size Trades Capacity for True Portability",
-    "description": "True pocket-sized mini vacuums are genuinely convenient to store or carry, but they trade away dust cup capacity and often battery life compared to a slightly larger handheld unit."
-  },
-  {
-    "title": "Budget Models Often Carry Shorter or No Real Warranty",
-    "description": "A rock-bottom price on a mini vacuum often comes with a correspondingly thin warranty or unclear support path if it breaks, established brands tend to offer clearer, longer coverage."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Main Use",
-    "table": {
-      "headers": [
-        "Your use case",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Keyboard crumbs",
-          "2.5Kpa Handheld Vacuum Cleaner"
-        ],
-        [
-          "Whole-desk cleaning",
-          "2 in 1 Cordless Handheld Car Vacuum"
-        ],
-        [
-          "Car interior",
-          "Yomile Mini Vacuum Cleaner"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "2.5Kpa Handheld Vacuum Cleaner"
-        ],
-        [
-          "Mid-range pick",
-          "XBllcyiv Mini Vacuum Cleaner for, 2 in 1 Keyboard Vacuum Cleaner Wireless"
-        ],
-        [
-          "Higher budget",
-          "Yomile Mini Vacuum Cleaner"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Corded vs Cordless",
-    "cards": [
-      {
-        "label": "Corded (e.g. 2.5Kpa Handheld Vacuum Cleaner)",
-        "text": "Consistent suction, no battery to manage, lower price."
-      },
-      {
-        "label": "Cordless",
-        "text": "Portable and quiet, but suction fades as the battery drains."
-      }
-    ],
-    "note": "Match this to your actual setup and priorities."
-  },
-  {
-    "subheading": "By Suction Priority",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Everyday light cleaning",
-          "2 in 1 Cordless Handheld Car Vacuum"
-        ],
-        [
-          "Maximum suction power",
-          "XBllcyiv Mini Vacuum Cleaner for, 2 in 1 Keyboard Vacuum Cleaner Wireless"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Tight Keyboard Crevices Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A narrow brush or crevice nozzle attachment included in the box."
-      },
-      {
-        "label": "In this comparison",
-        "text": "2 in 1 Cordless Handheld Car Vacuum is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need the strongest real-world performance and sturdiest build, where Yomile Mini Vacuum Cleaner justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want straightforward everyday use without paying for headroom you won't need, where 2.5Kpa Handheld Vacuum Cleaner already covers the job at the lowest price here."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
     "criterion": "Blower Mode Is a Genuine Bonus Feature, Not Universal",
-    "explanation": "Not every mini vacuum includes a blower mode, and it's a genuinely useful dual-function feature for dislodging dust from tight spots before vacuuming it up, check the specific listing for this capability rather than assuming any '2-in-1' or '3-in-1' branding includes it."
+    "explanation": "Not every mini vacuum includes a blower mode, and it's a useful dual-function feature for dislodging dust from tight spots before vacuuming it up, check the specific listing for this capability rather than assuming any '2-in-1' or '3-in-1' branding includes it."
   },
   {
     "criterion": "Attachment Nozzles Matter More for Keyboard/Crevice Use",
@@ -297,11 +14,11 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Dust Cup Size Determines How Often You'll Empty It",
-    "explanation": "A genuinely tiny dust cup (common on the smallest keyboard-focused mini vacuums) fills up fast during any real cleaning session, meaning frequent stops to empty it mid-task. Check the actual dust cup capacity in milliliters rather than assuming 'mini' automatically means an inconveniently small cup, some models balance compact size with a reasonably larger cup."
+    "explanation": "A tiny dust cup (common on the smallest keyboard-focused mini vacuums) fills up fast during any real cleaning session, meaning frequent stops to empty it mid-task. Check the actual dust cup capacity in milliliters rather than assuming 'mini' automatically means an inconveniently small cup, some models balance compact size with a reasonably larger cup."
   },
   {
     "criterion": "Compact Size Trades Capacity for True Portability",
-    "explanation": "True pocket-sized mini vacuums are genuinely convenient to store or carry, but they trade away dust cup capacity and often battery life compared to a slightly larger handheld unit. Weigh real portability against how often you're willing to empty the cup or recharge."
+    "explanation": "True pocket-sized mini vacuums are convenient to store or carry, but they trade away dust cup capacity and often battery life compared to a slightly larger handheld unit. Weigh real portability against how often you're willing to empty the cup or recharge."
   },
   {
     "criterion": "Budget Models Often Carry Shorter or No Real Warranty",
@@ -331,9 +48,407 @@ export const faq = [
     "a": "Yes, suction noticeably tapers off before the battery is actually empty, so the peak suction spec on the box doesn't hold consistently through the full advertised runtime."
   },
   {
-    "q": "Are mini vacuums loud?",
-    "a": "Cordless models typically run around 55 to 62 dB, noticeable in a quiet shared office; check buyer reviews for real-world noise impressions if discretion matters."
+    "q": "",
+    "a": "Cordless models typically run around 55 to 62 DB, noticeable in a quiet shared office; check buyer reviews for real-world noise impressions if discretion matters."
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-mini-vacuum-cleaners","title":"Best Mini Vacuum Cleaners in 2026"},{"href":"/guide/best-mini-vacuum-cleaners-with-strong-suction","title":"Best Mini Vacuum Cleaners With Strong Suction in 2026"},{"href":"/guide/best-mini-vacuum-cleaners-with-fast-charging","title":"Best Mini Vacuum Cleaners With Fast Charging in 2026"},{"href":"/guide/best-wet-and-dry-mini-vacuum-cleaners","title":"Best Wet and Dry Mini Vacuum Cleaners in 2026"}];
+export const guideSlug = "best-2-in-1-mini-vacuum-cleaners";
+
+export const guideTitle = "The Best 2-in-1 Mini Vacuum Cleaners for a Better Desk Setup";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41LfhK8i4AL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "2 in 1 Cordless Handheld Car Vacuum"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          ""
+        ],
+        [
+          "",
+          "XBllcyiv Mini Vacuum Cleaner for, 2 in 1 Keyboard Vacuum Cleaner Wireless"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "Consistent suction, no battery to manage, lower price."
+      },
+      {
+        "label": "",
+        "text": "Portable and quiet, but suction fades as the battery drains."
+      }
+    ],
+    "note": "Match this to your actual setup and priorities."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "2 in 1 Cordless Handheld Car Vacuum"
+        ],
+        [
+          "",
+          "XBllcyiv Mini Vacuum Cleaner for, 2 in 1 Keyboard Vacuum Cleaner Wireless"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For Tight Keyboard Crevices Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "A narrow brush or crevice nozzle attachment included in the box."
+      },
+      {
+        "label": "",
+        "text": "2 in 1 Cordless Handheld Car Vacuum is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need the strongest real-world performance and sturdiest build, where Yomile Mini Vacuum Cleaner justifies the extra cost."
+      },
+      {
+        "label": "",
+        "text": "5Kpa Handheld Vacuum Cleaner already covers the job at the lowest price here."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "Blower Mode Is a Genuine Bonus Feature, Not Universal",
+    "description": "Not every mini vacuum includes a blower mode, and it's a useful dual-function feature for dislodging dust from tight spots before vacuuming it up, check the specific listing for this capability rather than assuming any '2-in-1' or '3-in-1' branding includes it.."
+  },
+  {
+    "title": "Attachment Nozzles Matter More for Keyboard/Crevice Use",
+    "description": "For keyboard and crevice cleaning specifically, the included nozzle shape matters as much as raw suction power, a narrow brush or crevice tool reaches between keys and into tight desk corners far better than a general flat nozzle."
+  },
+  {
+    "title": "Dust Cup Size Determines How Often You'll Empty It",
+    "description": "A tiny dust cup (common on the smallest keyboard-focused mini vacuums) fills up fast during any real cleaning session, meaning frequent stops to empty it mid-task."
+  },
+  {
+    "title": "Compact Size Trades Capacity for True Portability",
+    "description": "True pocket-sized mini vacuums are convenient to store or carry, but they trade away dust cup capacity and often battery life compared to a slightly larger handheld unit."
+  },
+  {
+    "title": "Budget Models Often Carry Shorter or No Real Warranty",
+    "description": "A rock-bottom price on a mini vacuum often comes with a correspondingly thin warranty or unclear support path if it breaks, established brands tend to offer clearer, longer coverage."
+  }
+];
+
+export const introParagraphs = [
+  "Across best 2-in-1 mini vacuum cleaners, range widely on paper, given 2 in 1 mini vacuum cleaner, the gap shows up.",
+  "2 in 1 mini vacuum cleaner is judged here on verified dust capacity, because battery suction fades early."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const mainKeyword = "2 in 1 mini vacuum cleaner";
+
+export const metaDescription = "We compared 8 2-in-1 mini vacuum cleaners on compatibility, build, features and price to help you choose the right one for your space.";
+
+export const metaTitle = "Best 2-in-1 Mini Vacuum Cleaners for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-2-in-1-mini-vacuum-cleaners-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "2 in 1 Cordless Handheld Car Vacuum",
+    "price": "$19.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41LfhK8i4AL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX1HXSBG?tag=theofficejournal-20",
+    "description": "2 in 1 Cordless Handheld Car Vacuum is our overall pick in this lineup. Equipped with a high-speed brushless motor, this mini vacuum delivers up to 18,000pa of strong suction to lift fine dust, pet hair, sand, and stubborn debris from every corner. This handheld vacuum cleaner has both suction and blowing functions, allowing it to be used to inflate and pump air while removing dust and debris.\n\n5Kpa Handheld Vacuum Cleaner, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nGo with this pick if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A cordless mini vacuum's suction power drops noticeably as the battery depletes, well before the battery actually dies, so real-world performance late in a charge cycle is weaker than the spec sheet's peak suction number suggests.",
+    "specs": [
+      "High-speed brushless motor",
+      "Suction & blow 2-in-1 vacuum cleaner",
+      "Type-c fast charging & extended runtime"
+    ],
+    "pros": [
+      "High-speed brushless motor",
+      "Suction & blow 2-in-1 vacuum cleaner",
+      "Type-c fast charging & extended runtime",
+      "Portable & user-friendly design"
+    ],
+    "cons": [
+      "Battery-powered suction drops off well before the battery dies",
+      "A tiny dust cup means frequent emptying during real use"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-2-in-1-mini-vacuum-cleaners-2",
+    "rank": 2,
+    "badge": "Best Value",
+    "name": "2.5Kpa Handheld Vacuum Cleaner",
+    "price": "$7.60",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31uhqZd4oCL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYMT4614?tag=theofficejournal-20",
+    "description": "5Kpa Handheld Vacuum Cleaner is the best-value option in this roundup, priced lowest without a real capability gap. Featured with anti-tangle structure to avoid hair and debris winding during use, it operates smoothly at 40db low noise level, ensuring quiet working performance and a comfortable daily cleaning experience. Integrated with suction and air blowing dual functions, this multifunctional vacuum can absorb scattered garbage and blow out stubborn dust from dead corners, realizing all-round deep cleaning with one compact device.\n\n2 in 1 Cordless Handheld Car Vacuum is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis makes sense for anyone who want a capable pick without paying for headroom you won't use. A small dust cup capacity means frequent emptying during any real cleaning session, worth checking the actual cup size in milliliters rather than assuming compact size doesn't affect how often you'll need to stop and empty it.",
+    "specs": [
+      "Cordless mini handheld vacuum provides steady 2.5kpa suction power",
+      "40Db low noise & anti-tangle design",
+      "2-In-1 blow & suction dual use"
+    ],
+    "pros": [
+      "Cordless mini handheld vacuum provides steady 2.5kpa suction power",
+      "40Db low noise & anti-tangle design",
+      "2-In-1 blow & suction dual use",
+      "Made of solid ABS resin material for wear resistance and long service life"
+    ],
+    "cons": [
+      "A tiny dust cup means frequent emptying during real use",
+      "Battery-powered suction drops off well before the battery dies"
+    ],
+    "bestFor": "Buyers who want a capable pick without paying for headroom you won't use"
+  },
+  {
+    "id": "best-2-in-1-mini-vacuum-cleaners-3",
+    "rank": 3,
+    "badge": "Best Premium Pick",
+    "name": "Yomile Mini Vacuum Cleaner",
+    "price": "$59.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Jv95F6eBL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4QRN5S1?tag=theofficejournal-20",
+    "description": "Yomile Mini Vacuum Cleaner is the priciest pick in this lineup. This mini car vacuum has a dual mode of blowing and sucking. This cordless car vacuum cleaner features an upgraded high-speed motor, providing powerful performance.\n\n2 in 1 Cordless Handheld Car Vacuum is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis fits best if you are willing to spend the most in this comparison for the fuller feature set that comes with it. A cordless mini vacuum's suction power drops noticeably as the battery depletes, well before the battery actually dies, so real-world performance late in a charge cycle is weaker than the spec sheet's peak suction number suggests.",
+    "specs": [
+      "2-In-1 multifunctional mini vacuum cleaner",
+      "Cordless car vacuum cleaner features an upgraded high-speed motor",
+      "Wireless electric air duster max rotating speed is 250000rpm"
+    ],
+    "pros": [
+      "2-In-1 multifunctional mini vacuum cleaner",
+      "Cordless car vacuum cleaner features an upgraded high-speed motor",
+      "Wireless electric air duster max rotating speed is 250000rpm",
+      "Long lasting and fast charging"
+    ],
+    "cons": [
+      "Battery-powered suction drops off well before the battery dies",
+      "A tiny dust cup means frequent emptying during real use"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it"
+  },
+  {
+    "id": "best-2-in-1-mini-vacuum-cleaners-4",
+    "rank": 4,
+    "badge": "Another Strong Option",
+    "name": "XBllcyiv Mini Vacuum Cleaner for, 2 in 1 Keyboard Vacuum Cleaner Wireless",
+    "price": "$27.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/416R6pjMNfL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQYBGS8Q?tag=theofficejournal-20",
+    "description": "XBllcyiv Mini Vacuum Cleaner for, 2 in 1 Keyboard Vacuum Cleaner Wireless is a strong alternative worth comparing directly against the top pick. Effortlessly blow away dirt, debris, dust, and other particles from surfaces while simultaneously sucking up stubborn dust hidden in keyboards, corners, and crevices. This matte black vacuum cleaner features temperature/short circuit/overvoltage/overcurrent/overcharge protection.\n\nAgainst 2 in 1 Cordless Handheld Car Vacuum, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A small dust cup capacity means frequent emptying during any real cleaning session, worth checking the actual cup size in milliliters rather than assuming compact size doesn't affect how often you'll need to stop and empty it.",
+    "specs": [
+      "Effortlessly blow away dirt",
+      "Charging tip",
+      "4000mAh lithium-ion battery (2 x 2000mAh battery packs) which can bring more suction power"
+    ],
+    "pros": [
+      "Effortlessly blow away dirt",
+      "Charging tip",
+      "4000mAh lithium-ion battery (2 x 2000mAh battery packs) which can bring more suction power",
+      "Sleek & lightweight design"
+    ],
+    "cons": [
+      "A tiny dust cup means frequent emptying during real use",
+      "Battery-powered suction drops off well before the battery dies"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-2-in-1-mini-vacuum-cleaners-5",
+    "rank": 5,
+    "badge": "Runner-Up Pick",
+    "name": "JONYJ Handheld Car Vacuum Cleaner Cordless",
+    "price": "$14.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41bNha6H6PL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7HLHWXM?tag=theofficejournal-20",
+    "description": "JONYJ Handheld Car Vacuum Cleaner Cordless is a strong alternative worth comparing directly against the top pick. This car vacuum portable cordless utilizes advanced cyclone technology to create a powerful vortex. This handheld vacuum cordless comes with 7 versatile accessories and transforms into a 4-in-1 cleaning tool: vacuuming, blowing, inflating, and vacuum compressing.\n\nSet next to 2 in 1 Cordless Handheld Car Vacuum, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cordless mini vacuum's suction power drops noticeably as the battery depletes, well before the battery actually dies, so real-world performance late in a charge cycle is weaker than the spec sheet's peak suction number suggests.",
+    "specs": [
+      "Car vacuum portable cordless utilizes advanced cyclone technology to create a powerful vortex",
+      "Multifunctional vacuum cleaner",
+      "Hand held vacuum cordless"
+    ],
+    "pros": [
+      "Car vacuum portable cordless utilizes advanced cyclone technology to create a powerful vortex",
+      "Multifunctional vacuum cleaner",
+      "Hand held vacuum cordless",
+      "Fast charging & long battery life"
+    ],
+    "cons": [
+      "Battery-powered suction drops off well before the battery dies",
+      "A tiny dust cup means frequent emptying during real use"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-2-in-1-mini-vacuum-cleaners-6",
+    "rank": 6,
+    "badge": "Worth a Look",
+    "name": "KMM Handheld Car Vacuum Cleaner",
+    "price": "$22.43",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Hwji9pb7L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BYD5XB67?tag=theofficejournal-20",
+    "description": "KMM Handheld Car Vacuum Cleaner is a strong alternative worth comparing directly against the top pick. The electric vacuum cleaner features a built-in 4000mAh battery with a fast-charging port. With just one-click disassembly, you can easily empty the dust cup and clean the vacuum.\n\nAgainst 2 in 1 Cordless Handheld Car Vacuum, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A small dust cup capacity means frequent emptying during any real cleaning session, worth checking the actual cup size in milliliters rather than assuming compact size doesn't affect how often you'll need to stop and empty it.",
+    "specs": [
+      "Rechargeable battery & fast charging",
+      "Our vacuum cleaner features dual functions",
+      "Effortless maintenance"
+    ],
+    "pros": [
+      "Rechargeable battery & fast charging",
+      "Our vacuum cleaner features dual functions",
+      "Effortless maintenance",
+      "Wide application"
+    ],
+    "cons": [
+      "A tiny dust cup means frequent emptying during real use",
+      "Battery-powered suction drops off well before the battery dies"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-2-in-1-mini-vacuum-cleaners-7",
+    "rank": 7,
+    "badge": "Great Alternative",
+    "name": "Car Vacuum Portable Cordless Handheld Vacuum Cleaner 4-in-1 Mini Cordless",
+    "price": "$29.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41BD6jYezfL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8LJD1MR?tag=theofficejournal-20",
+    "description": "Car Vacuum Portable Cordless Handheld Vacuum Cleaner 4-in-1 Mini Cordless is a strong alternative worth comparing directly against the top pick. This cordless car vacuum cleaner comes equipped with multiple nozzles to meet all your needs. 8kpa suction power, easily picking up fine sand, dust, and small debris.\n\nWeighing this against 2 in 1 Cordless Handheld Car Vacuum, the main unit weighs only 1 lb (461 g), comparable to a bottle of water ends up being the detail that matters most for most buyers.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cordless mini vacuum's suction power drops noticeably as the battery depletes, well before the battery actually dies, so real-world performance late in a charge cycle is weaker than the spec sheet's peak suction number suggests.",
+    "specs": [
+      "4-In-1 multi-functional mini vacuum cleaner",
+      "Upgraded max",
+      "Long battery life & type-c fast charging"
+    ],
+    "pros": [
+      "4-In-1 multi-functional mini vacuum cleaner",
+      "Upgraded max",
+      "Long battery life & type-c fast charging",
+      "Main unit weighs only 1 lb (461 g)"
+    ],
+    "cons": [
+      "Battery-powered suction drops off well before the battery dies",
+      "A tiny dust cup means frequent emptying during real use"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-2-in-1-mini-vacuum-cleaners-8",
+    "rank": 8,
+    "badge": "Also Worth Considering",
+    "name": "MONOZEL Mini Vacuum Cleaner for Car",
+    "price": "$34.19",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51u8UrF1d-L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXZFLZX2?tag=theofficejournal-20",
+    "description": "MONOZEL Mini Vacuum Cleaner for Car is a strong alternative worth comparing directly against the top pick. This cordless hand vacuum features an upgraded 130w high-speed motor, providing powerful performance. Equipped with an upgraded motor, this car vacuum cleaner high power can reach a speed of 115000rpm.\n\nWeighing this against 2 in 1 Cordless Handheld Car Vacuum, not just a vacuum, but also an air duster ends up being the detail that matters most for most buyers.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A small dust cup capacity means frequent emptying during any real cleaning session, worth checking the actual cup size in milliliters rather than assuming compact size doesn't affect how often you'll need to stop and empty it.",
+    "specs": [
+      "Cordless hand vacuum features an upgraded 130w high-speed motor",
+      "Upgraded motor, this car vacuum cleaner high power can reach a speed of 115000rpm",
+      "Multi-purpose accessories"
+    ],
+    "pros": [
+      "Cordless hand vacuum features an upgraded 130w high-speed motor",
+      "Upgraded motor, this car vacuum cleaner high power can reach a speed of 115000rpm",
+      "Multi-purpose accessories",
+      "& 3H fast charging: this car vacuum cleaner adopts the 7800 mAh"
+    ],
+    "cons": [
+      "A tiny dust cup means frequent emptying during real use",
+      "Battery-powered suction drops off well before the battery dies"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  }
+];
+
+export const readTime = "11 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-mini-vacuum-cleaners",
+    "title": "Best Mini Vacuum Cleaners in 2026"
+  },
+  {
+    "href": "/guide/best-mini-vacuum-cleaners-with-strong-suction",
+    "title": "Best Mini Vacuum Cleaners With Strong Suction in 2026"
+  },
+  {
+    "href": "/guide/best-mini-vacuum-cleaners-with-fast-charging",
+    "title": "Best Mini Vacuum Cleaners With Fast Charging in 2026"
+  },
+  {
+    "href": "/guide/best-wet-and-dry-mini-vacuum-cleaners",
+    "title": "Best Wet and Dry Mini Vacuum Cleaners in 2026"
+  }
+];
+
+export const breadcrumbLabel = "Best 2-in-1 Mini Vacuum Cleaners";

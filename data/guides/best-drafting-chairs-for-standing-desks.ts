@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-drafting-chairs-for-standing-desks";
 
-export const guideTitle = "The Best Drafting Chairs for Standing Desks Worth Considering";
+export const guideTitle = "The Best Drafting Chairs for Standing Desks: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31+NW94MQbL._SL500_.jpg";
 

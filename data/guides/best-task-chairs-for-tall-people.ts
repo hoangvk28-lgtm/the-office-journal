@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-task-chairs-for-tall-people";
 
-export const guideTitle = "The Best Task Chairs for Tall People Worth Considering";
+export const guideTitle = "The Best Task Chairs for Tall People: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/417QhPHF8KL._SL500_.jpg";
 

@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-mouse-pads-for-carpal-tunnel";
 
-export const guideTitle = "The Best Mouse Pads for Carpal Tunnel Worth Considering";
+export const guideTitle = "The Best Mouse Pads for Carpal Tunnel: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31hLN9-6TNL._SL500_.jpg";
 

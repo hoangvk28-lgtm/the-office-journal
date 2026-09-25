@@ -46,7 +46,7 @@ export const faq = [
 
 export const guideSlug = "best-kvm-switches-for-a-laptop-and-desktop";
 
-export const guideTitle = "The Best KVM Switches for a Laptop and Desktop Worth Considering";
+export const guideTitle = "The Best KVM Switches for a Laptop and Desktop: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/31KfwfvqAqL._SL500_.jpg";
 

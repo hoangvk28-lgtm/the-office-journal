@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-desk-pads-with-pen-holder";
 
-export const guideTitle = "The Best Desk Pads with Pen Holder Worth Considering";
+export const guideTitle = "The Best Desk Pads with Pen Holder: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41v9DX0m7VL._SL500_.jpg";
 

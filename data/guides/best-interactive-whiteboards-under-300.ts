@@ -1,218 +1,7 @@
-export const guideSlug = "best-interactive-whiteboards-under-300";
-export const guideTitle = "4 Best Interactive Whiteboards Under $300 in 2026";
-export const metaTitle = "Best Interactive Whiteboards Under $300 in 2026";
-export const metaDescription = "We compared best interactive whiteboards under $300 by verified current price and real capability, not just the price ceiling alone.";
-export const mainKeyword = "interactive whiteboards under $300";
-export const introParagraphs = [
-  "Best Interactive Whiteboards Under $300 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
-  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
-];
-export const lastUpdated = "2026-08-22";
-export const readTime = "8 min";
-export const heroImage = "https://m.media-amazon.com/images/I/31lPU1JloaL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-interactive-whiteboards-under-300-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Interactive Whiteboard Converter Kit for Projectors (Windows Only)",
-    price: "$129.90",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31lPU1JloaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGT5JLJ4?tag=theofficejournal-20",
-    description: "Interactive Whiteboard Converter Kit for Projectors (Windows Only) is the top pick in this comparison. Transform any surface into a smart whiteboard: works on nearly any light-colored hard surface,  whiteboards, white walls, wooden boards, and more. Compact, portable & easy to install: small and lightweight design makes it ideal for classrooms, offices, or travel.\n\nIt sits close to Interactive Whiteboard System -Smart Whiteboard with Electronic Pen on paper, so the real decision comes down to a specific detail rather than a big capability gap: flexible projection compatibility: adjustable active area supports projectors from long-throw to ultra-short-throw models.\n\nChoose this if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Transform any surface into a smart whiteboard", "Compact, portable & easy to install", "Flexible projection compatibility"],
-    pros: ["Transform any surface into a smart whiteboard", "Compact, portable & easy to install", "Flexible projection compatibility"],
-    cons: ["Verify exact fit and specs against your device before buying", "Compatibility varies by exact model, double-check before ordering"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-interactive-whiteboards-under-300-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "Interactive Whiteboard System -Smart Whiteboard with Electronic Pen",
-    price: "$135.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41Zv6xv-NKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FLXXGRXN?tag=theofficejournal-20",
-    description: "Interactive Whiteboard System -Smart Whiteboard with Electronic Pen is a strong alternative worth comparing directly against the top pick. This interactive whiteboard can be used on almost any surface and turns it into an interactive whiteboard, such as walls, projector screens and more. The smart whiteboard is equipped with an smart board pen that can be used on any surface as a computer cursor, drawing or writing tool.\n\nIt sits close to Interactive Whiteboard Converter Kit for Projectors (Windows Only) on paper, so the real decision comes down to a specific detail rather than a big capability gap: the digital whiteboard fits various long focus projectors and the machine can be flexibly adjusted in 360-degree.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Compatible with various surfaces", "Interactive pen", "Automatic calibration"],
-    pros: ["Compatible with various surfaces", "Interactive pen", "Automatic calibration"],
-    cons: ["Confirm this stays in stock at the price checked here", "Setup or mounting hardware may be sold separately"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-interactive-whiteboards-under-300-3",
-    rank: 3,
-    badge: "Best Premium Pick",
-    name: "Portable Interactive Whiteboard",
-    price: "$139.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31dOIZ7eXEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D14MCG58?tag=theofficejournal-20",
-    description: "Portable Interactive Whiteboard is the priciest pick in this lineup. This interactive whiteboard is compatible with windows xp, win7, win 8, win 10 and win 11 operating systems. This interactive whiteboard system is equipped with a highly accurate smart pen.\n\nAgainst Interactive Whiteboard Converter Kit for Projectors (Windows Only), the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: the digital whiteboard features a 360-degree adjustable design, allowing for flexible adjustment to adapt to different angles.\n\nChoose this if you are willing to spend the most in this tier for the fuller feature set that comes with it. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Wide compatibility", "High-precision interactive pen", "Flexible adjustment & auto calibration"],
-    pros: ["Wide compatibility", "High-precision interactive pen", "Flexible adjustment & auto calibration"],
-    cons: ["Manufacturer claims here aren't independently lab-verified", "Budget tier means fewer premium finish options"],
-    bestFor: "buyers who are willing to spend the most in this tier for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-interactive-whiteboards-under-300-4",
-    rank: 4,
-    badge: "Best Value",
-    name: "Smart Teaching Portable Interactive Whiteboard",
-    price: "$119.92",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31lPU1JloaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CDLD9FS9?tag=theofficejournal-20",
-    description: "Smart Teaching Portable Interactive Whiteboard is the most affordable pick here that still clears the capability floor for this price tier. Transform any surface into a smart whiteboard: works on nearly any light-colored hard surface,  whiteboards, white walls, wooden boards, and more. Compact, portable & easy to install: small and lightweight design makes it ideal for classrooms, offices, or travel.\n\nSet it next to Interactive Whiteboard Converter Kit for Projectors (Windows Only) and the two are closely matched on the fundamentals, so the real decision comes down to a specific detail rather than a big capability gap: flexible projection compatibility: adjustable active area supports projectors from long-throw to ultra-short-throw models.\n\nChoose this if you want to stay at the lower end of this price tier without dropping below the real capability floor. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Transform any surface into a smart whiteboard", "Compact, portable & easy to install", "Flexible projection compatibility"],
-    pros: ["Transform any surface into a smart whiteboard", "Compact, portable & easy to install", "Flexible projection compatibility"],
-    cons: ["Compatibility varies by exact model, double-check before ordering", "Verify exact fit and specs against your device before buying"],
-    bestFor: "buyers who want to stay at the lower end of this price tier without dropping below the real capability floor",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Live price gate",
-    "description": "every primary recommendation must be new, in stock and up to $300 on the refresh date; expired sale pricing automatically disqualifies it."
-  },
-  {
-    "title": "Budget-ladder map",
-    "description": "show the next-lower tier, the very-low-cost interactive system tier and the next-higher tier so this article has a distinct reason to exist."
-  },
-  {
-    "title": "Capability-per-dollar score",
-    "description": "normalize price against true interactive-display architecture, screen size/resolution and minimum usable setup cost instead of raw feature count."
-  },
-  {
-    "title": "Evidence labels",
-    "description": "classify touch/write quality and OS/EDLA/device management as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
-  },
-  {
-    "title": "Step-up/step-down verdict",
-    "description": "judge audio/USB-C/mounting, warranty/support and ownership friction, then explicitly say when a buyer should spend less or exceed $300 for a meaningful upgrade."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Priority Up to $300",
-    "table": {
-      "headers": [
-        "If you mainly need",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "The best all-around option in this comparison",
-          "Interactive Whiteboard Converter Kit for Projectors (Windows Only)"
-        ],
-        [
-          "A strong alternative with a different tradeoff",
-          "Portable Interactive Whiteboard"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget Within This Tier",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Smart Teaching Portable Interactive Whiteboard"
-        ],
-        [
-          "Best overall value",
-          "Interactive Whiteboard Converter Kit for Projectors (Windows Only)"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Interactive Whiteboard Converter vs Smart Teaching Portable",
-    "cards": [
-      {
-        "label": "Interactive Whiteboard Converter Kit for Projectors (Windows Only)",
-        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
-      },
-      {
-        "label": "Smart Teaching Portable Interactive Whiteboard",
-        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
-      }
-    ],
-    "note": "Most buyers should default to Interactive Whiteboard Converter Kit for Projectors (Windows Only) unless your specific use case points toward Smart Teaching Portable Interactive Whiteboard's particular tradeoffs."
-  },
-  {
-    "subheading": "By Secondary Feature Priority",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Matches this guide's core use case most closely",
-          "Interactive Whiteboard Converter Kit for Projectors (Windows Only)"
-        ],
-        [
-          "A close secondary option worth comparing",
-          "Portable Interactive Whiteboard"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For This Guide's Core Use Case Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Interactive Whiteboard Converter Kit for Projectors (Windows Only) is worth checking first against that specific requirement before comparing the rest of this lineup."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need the fuller feature set found on Portable Interactive Whiteboard, where the extra capability has a real, verifiable use case for you."
-      },
-      {
-        "label": "Save if",
-        "text": "Your requirements are covered by Smart Teaching Portable Interactive Whiteboard without needing the higher-tier features."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+export type { GuideProduct };
 
 export const buyingCriteria = [
   {
@@ -244,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Does the cheapest option in a price tier always mean lower quality?",
-    "a": "Not necessarily. Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
+    "a": "Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
   },
   {
     "q": "Is it worth stepping up to the next price tier?",
@@ -260,4 +49,274 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-interactive-whiteboards-under-200","title":"Best Interactive Whiteboards Under $200"},{"href":"/guide/best-interactive-whiteboards-under-500","title":"Best Interactive Whiteboards Under $500"},{"href":"/guide/best-interactive-whiteboards-under-1000","title":"Best Interactive Whiteboards Under $1000"}];
+export const guideSlug = "best-interactive-whiteboards-under-300";
+
+export const guideTitle = "The Best Interactive Whiteboards Under $300, Compared";
+
+export const heroImage = "https://m.media-amazon.com/images/I/31lPU1JloaL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Priority Up to $300",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "The best all-around option in this comparison",
+          "Interactive Whiteboard Converter Kit for Projectors (Windows Only)"
+        ],
+        [
+          "A strong alternative with a different tradeoff",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "By Budget Within This Tier",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          "Smart Teaching Portable Interactive Whiteboard"
+        ],
+        [
+          "",
+          "Interactive Whiteboard Converter Kit for Projectors (Windows Only)"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "Interactive Whiteboard Converter vs Smart Teaching Portable",
+    "cards": [
+      {
+        "label": "Interactive Whiteboard Converter Kit for Projectors (Windows Only)",
+        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
+      },
+      {
+        "label": "Smart Teaching Portable Interactive Whiteboard",
+        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
+      }
+    ],
+    "note": "Most buyers should default to Interactive Whiteboard Converter Kit for Projectors (Windows Only) unless your specific use case points toward Smart Teaching Portable Interactive Whiteboard's particular tradeoffs."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Matches this guide's core use case most closely",
+          "Interactive Whiteboard Converter Kit for Projectors (Windows Only)"
+        ],
+        [
+          "A close secondary option worth comparing",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For This Guide's Core Use Case Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
+      },
+      {
+        "label": "",
+        "text": "Interactive Whiteboard Converter Kit for Projectors (Windows Only) is worth checking first against that specific requirement before comparing the rest of this lineup."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need the fuller feature set found on Portable Interactive Whiteboard, where the extra capability has a real, verifiable use case for you."
+      },
+      {
+        "label": "",
+        "text": "Your requirements are covered by Smart Teaching Portable Interactive Whiteboard without needing the higher-tier features."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Every primary recommendation must be new, in stock and up to $300 on the refresh date; expired sale pricing automatically disqualifies it."
+  },
+  {
+    "title": "",
+    "description": "Show the next-lower tier, the very-low-cost interactive system tier and the next-higher tier so this article has a distinct reason to exist."
+  },
+  {
+    "title": "",
+    "description": "Normalize price against true interactive-display architecture, screen size/resolution and minimum usable setup cost instead of raw feature count."
+  },
+  {
+    "title": "",
+    "description": "Classify touch/write quality and OS/EDLA/device management as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+  },
+  {
+    "title": "",
+    "description": "Judge audio/USB-C/mounting, warranty/support and ownership friction, then explicitly say when a buyer should spend less or exceed $300 for a meaningful upgrade."
+  }
+];
+
+export const introParagraphs = [
+  "Best Interactive Whiteboards Under $300 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
+  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
+];
+
+export const lastUpdated = "2026-08-22";
+
+export const mainKeyword = "interactive whiteboards under $300";
+
+export const metaDescription = "We compared 4 interactive whiteboards under $300 on compatibility, build, features and price to help you choose the right one for your space.";
+
+export const metaTitle = "Best Interactive Whiteboards Under $300 (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-interactive-whiteboards-under-300-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Interactive Whiteboard Converter Kit for Projectors (Windows Only)",
+    "price": "$129.90",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31lPU1JloaL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGT5JLJ4?tag=theofficejournal-20",
+    "description": "Interactive Whiteboard Converter Kit for Projectors (Windows Only) is the top pick in this comparison. Transform any surface into a smart whiteboard: works on nearly any light-colored hard surface, whiteboards, white walls, wooden boards, and more. Compact, portable & easy to install: small and lightweight design makes it ideal for classrooms, offices, or travel.\n\nIt sits close to Interactive Whiteboard System -Smart Whiteboard with Electronic Pen on paper, so the real decision comes down to a specific detail rather than a big capability gap: flexible projection compatibility: adjustable active area supports projectors from long-throw to ultra-short-throw models.\n\nChoose this if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Transform any surface into a smart whiteboard",
+      "Compact, portable & easy to install",
+      "Flexible projection compatibility"
+    ],
+    "pros": [
+      "Transform any surface into a smart whiteboard",
+      "Compact, portable & easy to install",
+      "Flexible projection compatibility"
+    ],
+    "cons": [
+      "Verify exact fit and specs against your device before buying",
+      "Compatibility varies by exact model, double-check before ordering"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-interactive-whiteboards-under-300-2",
+    "rank": 2,
+    "badge": "Also Worth Considering",
+    "name": "Interactive Whiteboard System -Smart Whiteboard with Electronic Pen",
+    "price": "$135.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Zv6xv-NKL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLXXGRXN?tag=theofficejournal-20",
+    "description": "Interactive Whiteboard System -Smart Whiteboard with Electronic Pen is a strong alternative worth comparing directly against the top pick. This interactive whiteboard can be used on almost any surface and turns it into an interactive whiteboard, such as walls, projector screens and more. The smart whiteboard is equipped with a smart board pen that can be used on any surface as a computer cursor, drawing or writing tool.\n\nIt sits close to Interactive Whiteboard Converter Kit for Projectors (Windows Only) on paper, so the real decision comes down to a specific detail rather than a big capability gap: the digital whiteboard fits various long focus projectors and the machine can be flexibly adjusted in 360-degree.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Compatible with various surfaces",
+      "Interactive pen",
+      "Automatic calibration"
+    ],
+    "pros": [
+      "Compatible with various surfaces",
+      "Interactive pen",
+      "Automatic calibration"
+    ],
+    "cons": [
+      "Confirm this stays in stock at the price checked here",
+      "Setup or mounting hardware may be sold separately"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-interactive-whiteboards-under-300-3",
+    "rank": 3,
+    "badge": "Best Premium Pick",
+    "name": "Portable Interactive Whiteboard",
+    "price": "$139.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31dOIZ7eXEL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D14MCG58?tag=theofficejournal-20",
+    "description": "Portable Interactive Whiteboard is the priciest pick in this lineup. This interactive whiteboard is compatible with windows xp, win7, win 8, win 10 and win 11 operating systems. This interactive whiteboard system is equipped with a highly accurate smart pen.\n\nAgainst Interactive Whiteboard Converter Kit for Projectors (Windows Only), the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: the digital whiteboard features a 360-degree adjustable design, allowing for flexible adjustment to adapt to different angles.\n\nChoose this if you are willing to spend the most in this tier for the fuller feature set that comes with it. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Wide compatibility",
+      "High-precision interactive pen",
+      "Flexible adjustment & auto calibration"
+    ],
+    "pros": [
+      "Wide compatibility",
+      "High-precision interactive pen",
+      "Flexible adjustment & auto calibration"
+    ],
+    "cons": [
+      "Manufacturer claims here aren't independently lab-verified",
+      "Budget tier means fewer premium finish options"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this tier for the fuller feature set that comes with it"
+  },
+  {
+    "id": "best-interactive-whiteboards-under-300-4",
+    "rank": 4,
+    "badge": "Best Value",
+    "name": "Smart Teaching Portable Interactive Whiteboard",
+    "price": "$119.92",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31lPU1JloaL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDLD9FS9?tag=theofficejournal-20",
+    "description": "Smart Teaching Portable Interactive Whiteboard is the most affordable pick here that still clears the capability floor for this price tier. Transform any surface into a smart whiteboard: works on nearly any light-colored hard surface, whiteboards, white walls, wooden boards, and more. Compact, portable & easy to install: small and lightweight design makes it ideal for classrooms, offices, or travel.\n\nSet it next to Interactive Whiteboard Converter Kit for Projectors (Windows Only) and the two are closely matched on the fundamentals, so the real decision comes down to a specific detail rather than a big capability gap: flexible projection compatibility: adjustable active area supports projectors from long-throw to ultra-short-throw models.\n\nChoose this if you want to stay at the lower end of this price tier without dropping below the real capability floor. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Transform any surface into a smart whiteboard",
+      "Compact, portable & easy to install",
+      "Flexible projection compatibility"
+    ],
+    "pros": [
+      "Transform any surface into a smart whiteboard",
+      "Compact, portable & easy to install",
+      "Flexible projection compatibility"
+    ],
+    "cons": [
+      "Compatibility varies by exact model, double-check before ordering",
+      "Verify exact fit and specs against your device before buying"
+    ],
+    "bestFor": "Buyers who want to stay at the lower end of this price tier without dropping below the real capability floor"
+  }
+];
+
+export const readTime = "8 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-interactive-whiteboards-under-200",
+    "title": "Best Interactive Whiteboards Under $200"
+  },
+  {
+    "href": "/guide/best-interactive-whiteboards-under-500",
+    "title": "Best Interactive Whiteboards Under $500"
+  },
+  {
+    "href": "/guide/best-interactive-whiteboards-under-1000",
+    "title": "Best Interactive Whiteboards Under $1000"
+  }
+];
+
+export const breadcrumbLabel = "Best Interactive Whiteboards Under $300";

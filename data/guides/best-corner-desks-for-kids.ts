@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-corner-desks-for-kids";
 
-export const guideTitle = "The Best Corner Desks for Kids Worth Considering";
+export const guideTitle = "The Best Corner Desks for Kids: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/41A3q0YLcML._SL500_.jpg";
 

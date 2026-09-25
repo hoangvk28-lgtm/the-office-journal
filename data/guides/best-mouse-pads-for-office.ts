@@ -54,7 +54,7 @@ export const faq = [
 
 export const guideSlug = "best-mouse-pads-for-office";
 
-export const guideTitle = "The Best Mouse Pads for Office Worth Considering";
+export const guideTitle = "The Best Mouse Pads for Office: Our Picks";
 
 export const heroImage = "https://m.media-amazon.com/images/I/319GzM0EaHL._SL500_.jpg";
 

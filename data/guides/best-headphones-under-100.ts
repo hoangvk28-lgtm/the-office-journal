@@ -2,10 +2,10 @@ const BASE = "/guides/best-headphones-under-100";
 
 export const guideSlug = "best-headphones-under-100";
 export const guideTitle =
-  "7 Best Headphones Under $100 in 2026: Wireless ANC, Studio and LDAC Picks";
-export const metaTitle = "7 Best Headphones Under $100 in 2026";
+  "The Best Headphones Under $100 in 2026: Wireless ANC, Studio and LDAC Picks: Picks and Trade-offs";
+export const metaTitle = "Best Headphones Under $100 in 2026: Wireless ANC, Studio and LDAC Picks (2026)";
 export const metaDescription =
-  "7 headphones under $100 in 2026: Sony WH-CH720N, Soundcore Life Q30, ATH-M40x, Sennheiser HD 280 Pro. Best wireless ANC, LDAC, and studio at this price.";
+  "A practical comparison of 8 headphones under $100 in 2026: wireless ANC, studio and LDAC picks, focused on features, build and practical fit, and the trade-offs between them.";
 export const lastUpdated = "2026-06-18";
 export const readTime = "12 min";
 export const heroImage = `${BASE}/best-headphones-under-100-hero.webp`;
@@ -109,14 +109,14 @@ export const products: Budget100Headphone[] = [
     imageUrl: `${BASE}/audio-technica-ath-m40x.webp`,
     amazonUrl: "https://www.amazon.com/dp/B00HVLUR54?tag=theofficejournal-20",
     whyItWorks:
-      "Step above ATH-M30x with CCAW (Copper-Clad Aluminum Wire) voice coils that respond faster to transients; wider frequency extension to 24kHz; two detachable cables in the box (1.2m straight plus 3m coiled); 90 degree swiveling ear cups for one-ear monitoring during recording; detachable cables eliminate the most common headphone failure point without discarding the headphone; the tool for music production, podcasting, or critical listening at a fixed desk",
+      "2m straight plus 3m coiled); 90 degree swiveling ear cups for one-ear monitoring during recording; detachable cables eliminate the most common headphone failure point without discarding the headphone; the tool for music production, podcasting, or critical listening at a fixed desk",
     tradeoffs: [
       "No inline microphone",
       "Wired only",
       "Flat neutral tuning feels boring to users expecting bass emphasis",
     ],
     skipIf:
-      "You need wireless. There is no wireless equivalent under $100 that matches professional studio monitoring accuracy.",
+      "There is no wireless equivalent under $100 that matches professional studio monitoring accuracy.",
     pros: [
       "Two detachable cables (1.2m straight + 3m coiled)",
       "90-degree swiveling ear cups for one-ear monitoring",
@@ -148,7 +148,7 @@ export const products: Budget100Headphone[] = [
       "1MORE less recognized than Sony or Sennheiser",
     ],
     skipIf:
-      "You need multipoint Bluetooth. The Life Q30 and Sony CH720N both handle dual-device connection.",
+      "The Life Q30 and Sony CH720N both handle dual-device connection.",
     pros: [
       "70h with ANC on, by far the longest in the guide",
       "LDAC + DLC driver for Hi-Res audio quality",
@@ -176,7 +176,7 @@ export const products: Budget100Headphone[] = [
     imageUrl: `${BASE}/akg-k361.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07X2LQRCF?tag=theofficejournal-20",
     whyItWorks:
-      "AKG professional monitor heritage (Samsung/Harman engineering) that folds flat using 3-position hinges; three interchangeable cables (1.2m straight, 3m coiled, 3m straight) for every use case; Mini-XLR locking connector clicks securely into place eliminating cable-socket looseness over time; frequency response extends to 28kHz; folds flat for commuting without a hard case; the most portable professional studio monitor under $100",
+      "2m straight, 3m coiled, 3m straight) for every use case; Mini-XLR locking connector clicks securely into place eliminating cable-socket looseness over time; frequency response extends to 28kHz; folds flat for commuting without a hard case; the most portable professional studio monitor under $100",
     tradeoffs: [
       "No inline microphone",
       "Mini-XLR connector is non-standard, replacement cables less common",
@@ -244,14 +244,14 @@ export const products: Budget100Headphone[] = [
     imageUrl: `${BASE}/soundcore-space-one.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0C6KFZC9Z?tag=theofficejournal-20",
     whyItWorks:
-      "Adaptive ANC automatically adjusts based on ambient noise level without manual mode switching; LDAC codec delivers Hi-Res wireless audio at up to 990kbps; Bluetooth 5.3 (newest spec in the guide); improved voice reduction vs Life Q30; multipoint Bluetooth; 40 hours with ANC on; the best adaptive ANC under $100 for Android users who want both noise cancellation and Hi-Res audio quality",
+      "3 (newest spec in the guide); improved voice reduction vs Life Q30; multipoint Bluetooth; 40 hours with ANC on; the best adaptive ANC under $100 for Android users who want both noise cancellation and Hi-Res audio quality",
     tradeoffs: [
       "LDAC limited to Android, iPhone users get AAC only",
       "Adaptive ANC gives less user control than Life Q30's manual modes",
       "No carrying case",
     ],
     skipIf:
-      "You use an iPhone. LDAC does not work on iOS, and the Sony WH-CH720N or Life Q30 are better iOS picks.",
+      "LDAC does not work on IOS, and the Sony WH-CH720N or Life Q30 are better IOS picks.",
     pros: [
       "Adaptive ANC (auto-adjusts, no manual switching)",
       "LDAC Hi-Res wireless for Android",
@@ -294,7 +294,7 @@ export const faq = [
   },
   {
     q: "Which headphone under $100 is best for Mac?",
-    a: "The Sony WH-CH720N connects cleanly to Mac via Bluetooth with AAC codec. The Soundcore Life Q30 and Space One also work on Mac with standard SBC or AAC. For wired Mac use, the ATH-M40x or Sennheiser HD 280 Pro connect via the 3.5mm jack on any adapter or audio interface.",
+    a: "The Sony WH-CH720N connects cleanly to Mac via Bluetooth with AAC codec. The Soundcore Life Q30 and Space One also work on Mac with standard SBC or AAC. 5mm jack on any adapter or audio interface.",
   },
 ];
 

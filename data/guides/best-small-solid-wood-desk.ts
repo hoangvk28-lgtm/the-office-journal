@@ -2,10 +2,10 @@ const BASE = "/images/guides/best-small-solid-wood-desk";
 
 export const guideSlug = "best-small-solid-wood-desk";
 export const guideTitle =
-  "Best Small Solid Wood Desks for Bedroom and Apartment in 2026";
-export const metaTitle = "Best Small Solid Wood Desks for Bedroom in 2026";
+  "The Best Small Solid Wood Desks for Bedroom and Apartment: Our Picks";
+export const metaTitle = "Best Small Solid Wood Desks for Bedroom and Apartment (2026)";
 export const metaDescription =
-  "Best small solid wood desks for bedroom and apartment in 2026 - under 48 inches wide with honest material labels and monitor arm guidance.";
+  "How 10 small solid wood desks for bedroom and apartment compare on size, height range, stability and features, with clear notes on who each one suits.";
 export const lastUpdated = "2026-06-29";
 export const readTime = "9 min";
 export const heroImage = `${BASE}/01-small-solid-wood-desk.webp`;
@@ -77,7 +77,7 @@ export const products: SmallSolidWoodDesk[] = [
     imageUrl: `${BASE}/03-minimalist_home_office_with_natural_light.webp`,
     amazonUrl: "https://www.amazon.com/dp/B09XS3Y5F7?tag=theofficejournal-20",
     whyItWorks:
-      "Max and Lily is a furniture brand with a strong track record in bedroom furniture - their solid wood construction is genuinely solid hardwood, not veneer over MDF. The 47\" width combined with ~24\" depth gives this desk the most comfortable monitor ergonomics of any option under 48\" on this list. The solid wood construction means the surface can take more daily use - marks can be sanded out and the desk can be refinished.",
+      "Max and Lily is a furniture brand with a strong track record in bedroom furniture - their solid wood construction is solid hardwood, not veneer over MDF. The 47\" width combined with ~24\" depth gives this desk the most comfortable monitor ergonomics of any option under 48\" on this list. The solid wood construction means the surface can take more daily use - marks can be sanded out and the desk can be refinished.",
     tradeoffs: [
       "No drawers - requires a separate storage solution for accessories",
       "No hutch or built-in storage",
@@ -143,7 +143,7 @@ export const products: SmallSolidWoodDesk[] = [
     imageUrl: `${BASE}/05-natural_light_home_office_corner.webp`,
     amazonUrl: "https://www.amazon.com/dp/B00AKKOKRY?tag=theofficejournal-20",
     whyItWorks:
-      "At 36.2\" wide, the SAFAVIEH Landon is the narrowest desk on this list. What it lacks in width it compensates for with storage: 5 drawers that turn a narrow desk into a complete small-room office station. Five drawers on a 36\" desk is unusual - the storage capacity is closer to a full executive desk with pedestal drawers than a compact writing desk. For small apartments or dorm rooms where floor space is limited and drawer storage must be built into the desk itself, this is the most functional configuration available in this width range.",
+      "2\" wide, the SAFAVIEH Landon is the narrowest desk on this list. What it lacks in width it compensates for with storage: 5 drawers that turn a narrow desk into a complete small-room office station. Five drawers on a 36\" desk is unusual - the storage capacity is closer to a full executive desk with pedestal drawers than a compact writing desk. For small apartments or dorm rooms where floor space is limited and drawer storage must be built into the desk itself, this is the most functional configuration available in this width range.",
     tradeoffs: [
       "Solid pine plus MDF - not fully solid wood throughout",
       "36.2\" width limits surface area for monitor plus keyboard simultaneously",
@@ -151,7 +151,7 @@ export const products: SmallSolidWoodDesk[] = [
       "Verify current stock before purchasing",
     ],
     skipIf:
-      "Skip if you need more than 36.2\" of width for your monitor setup. Skip if you need fully solid wood construction - the Max and Lily or ODCVKRT options give genuine solid wood.",
+      "2\" of width for your monitor setup. Skip if you need fully solid wood construction - the Max and Lily or ODCVKRT options give genuine solid wood.",
     pros: [
       "5 drawers in a 36.2\" footprint - exceptional storage density",
       "Narrowest desk on this list - fits the tightest rooms",
@@ -178,7 +178,7 @@ export const products: SmallSolidWoodDesk[] = [
     imageUrl: `${BASE}/06-modern_minimal_office_with_wooden_furniture.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DY7J553J?tag=theofficejournal-20",
     whyItWorks:
-      "The ODCVKRT at 47\" combines solid wood construction with built-in drawers at a competitive price. For buyers who want genuine solid wood material over veneer and need drawer storage in a small desk, this is the most affordable option meeting both criteria on this list. The listing consistently describes solid wood construction throughout - not just the frame or legs. At 47\" wide, it gives a usable single-monitor work surface.",
+      "The ODCVKRT at 47\" combines solid wood construction with built-in drawers. For buyers who want genuine solid wood material over veneer and need drawer storage in a small desk, this is the most affordable option meeting both criteria on this list. The listing consistently describes solid wood construction throughout - not just the frame or legs. At 47\" wide, it gives a usable single-monitor work surface.",
     tradeoffs: [
       "Newer brand with fewer reviews than Max and Lily",
       "Verify depth before ordering if ergonomics are a priority",
@@ -271,7 +271,7 @@ export const products: SmallSolidWoodDesk[] = [
     imageUrl: `${BASE}/09-cozy_mid_century_modern_workspace_corner.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DJ261M77?tag=theofficejournal-20",
     whyItWorks:
-      "At 35.4\" wide, the Cttasty compact model is narrower than the SAFAVIEH Landon while providing solid wood construction. The inclusion of drawers at this width is notable - most desks this narrow omit storage entirely. For very tight spaces such as a dorm room alcove or small bedroom corner, 35.4\" with drawers is a practical combination. Monitor use at this width is limited to one screen (up to 24\"), ideally with a monitor arm.",
+      "4\" wide, the Cttasty compact model is narrower than the SAFAVIEH Landon while providing solid wood construction. The inclusion of drawers at this width is notable - most desks this narrow omit storage entirely. 4\" with drawers is a practical combination. Monitor use at this width is limited to one screen (up to 24\"), ideally with a monitor arm.",
     tradeoffs: [
       "Lower review count - use as an option if higher-ranked picks are out of stock",
       "35.4\" limits surface area significantly",
@@ -303,7 +303,7 @@ export const products: SmallSolidWoodDesk[] = [
     imageUrl: `${BASE}/09-cozy_mid_century_modern_workspace_corner.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CYGTHXWS?tag=theofficejournal-20",
     whyItWorks:
-      "The 39.4\" Cttasty writing desk offers a slightly wider surface than the 35.4\" variant while maintaining drawers and solid wood construction. At 21.7\" deep, this has the best depth-to-width ratio of the Cttasty options - the extra inch of depth relative to the 35.4\" model meaningfully improves monitor ergonomics. Use this as a backup if the smaller Cttasty or the Votred 39\" options are out of stock.",
+      "4\" variant while maintaining drawers and solid wood construction. 4\" model meaningfully improves monitor ergonomics. Use this as a backup if the smaller Cttasty or the Votred 39\" options are out of stock.",
     tradeoffs: [
       "Lowest review count on this list",
       "Use as backup only - verify availability and rating",
@@ -354,7 +354,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "What is the difference between a solid wood desk and a veneer desk?",
-    a: "A solid wood desk has a top, legs, and frame all made from hardwood. A veneer desk has a thin wood facing (typically 0.6-3mm) bonded over an MDF or particle board core. Veneer looks similar but cannot be refinished deeply if damaged. Solid wood can be sanded and refinished. The IOTXY desk (Rank 1 on this list) uses solid wood framing with a veneer desktop surface.",
+    a: "A solid wood desk has a top, legs, and frame all made from hardwood. 6-3mm) bonded over an MDF or particle board core. Veneer looks similar but cannot be refinished deeply if damaged. Solid wood can be sanded and refinished. The IOTXY desk (Rank 1 on this list) uses solid wood framing with a veneer desktop surface.",
   },
   {
     q: "What is the smallest desk that fits a monitor and keyboard?",

@@ -41,7 +41,7 @@ export const products: BudgetChair[] = [
     priceRange: "~$239.99",
     imageUrl: "https://m.media-amazon.com/images/I/41j10VNsNEL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0GVHCSFSQ?tag=theofficejournal-20",
-    whyItWins: "Based on specs, this is a step up in price from every other pick in this guide -- at $239.99 it is well above the $100 ceiling this roundup is built around, so it is included here as a pricier alternative rather than a budget pick. What it adds for that price is a heavy-duty frame built for bigger and taller users, a 150 degree reclining backrest, and a footrest that the sub-$100 picks in this guide do not offer.",
+    whyItWins: "99 it is well above the $100 ceiling this roundup is built around, so it is included here as a pricier alternative rather than a budget pick. What it adds for that price is a heavy-duty frame built for bigger and taller users, a 150 degree reclining backrest, and a footrest that the sub-$100 picks in this guide do not offer.",
     bodyParagraph: "The adjustable lumbar pillow and thickened armrests are aimed at long sitting sessions rather than quick desk work, and the breathable mesh helps offset the heat that reclining gaming-chair frames tend to trap. If your priority is weight capacity and recline rather than staying under $100, this is worth the difference.",
     specs: [
       { label: "Frame", value: "Big and tall heavy-duty gaming-chair frame" },
@@ -65,7 +65,7 @@ export const products: BudgetChair[] = [
     priceRange: "~$109.99",
     imageUrl: "https://m.media-amazon.com/images/I/51a98NB4vsL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FQ4LCBY5?tag=theofficejournal-20",
-    whyItWins: "At $109.99, the HUANUO is priced just above this guide's $100 ceiling, so we are describing it honestly as a slight step up in price rather than an under-$100 pick. Based on specs, the tradeoff is 3D adjustable armrests and dedicated adjustable lumbar support -- the same category of adjustability the CLATINA offers at the top of this list, in a different chair.",
+    whyItWins: "99, the HUANUO is priced just above this guide's $100 ceiling, so we are describing it honestly as a slight step up in price rather than an under-$100 pick. Based on specs, the tradeoff is 3D adjustable armrests and dedicated adjustable lumbar support -- the same category of adjustability the CLATINA offers at the top of this list, in a different chair.",
     bodyParagraph: "For buyers who compared several picks in this guide and want a second option with similar ergonomic adjustability, the HUANUO is a reasonable near-budget alternative. It is not meaningfully more capable than the CLATINA at rank 1, so treat it as a backup option if that listing is unavailable rather than a clear upgrade.",
     specs: [
       { label: "Armrests", value: "3D adjustable (height, angle, pivot)" },
@@ -87,7 +87,7 @@ export const products: BudgetChair[] = [
     priceRange: "~$169.99",
     imageUrl: "https://m.media-amazon.com/images/I/41kJmp5juSL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0GKNKGYPV?tag=theofficejournal-20",
-    whyItWins: "At $169.99, the QuelSoft is priced well above this guide's $100 target, so we are describing it plainly as a premium alternative for buyers willing to spend more rather than claiming it fits the budget theme. Based on specs, it offers a high-back design with 3D lumbar support, which is a more complete lumbar system than most of the fixed-lumbar chairs in the sub-$100 section above.",
+    whyItWins: "99, the QuelSoft is priced well above this guide's $100 target, so we are describing it plainly as a premium alternative for buyers willing to spend more rather than claiming it fits the budget theme. Based on specs, it offers a high-back design with 3D lumbar support, which is a more complete lumbar system than most of the fixed-lumbar chairs in the sub-$100 section above.",
     bodyParagraph: "This is a pick for readers who came to this guide for chair research generally but have a higher budget than $100 -- the high-back frame and 3D lumbar support target the same all-day comfort as the CLATINA, at a materially higher price point.",
     specs: [
       { label: "Back", value: "High-back design" },
@@ -308,7 +308,7 @@ export const faq: { question: string; answer: string }[] = [
   },
   {
     question: "Can an office chair under $100 support good posture?",
-    answer: "Partially. A chair with adjustable lumbar support helps maintain the lower back's natural curve. But posture depends on desk height, monitor position, and sitting habits as much as the chair. Pair the chair with a proper desk setup for best results.",
+    answer: "A chair with adjustable lumbar support helps maintain the lower back's natural curve. But posture depends on desk height, monitor position, and sitting habits as much as the chair. Pair the chair with a proper desk setup for best results.",
   },
   {
     question: "What should I look for in a budget office chair for a dorm?",

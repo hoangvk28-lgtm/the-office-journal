@@ -2,10 +2,10 @@ const BASE = "/guides/best-headphones-under-30";
 
 export const guideSlug = "best-headphones-under-30";
 export const guideTitle =
-  "7 Best Headphones Under $30 in 2026: Earbuds, Wireless and Wired Picks";
-export const metaTitle = "7 Best Headphones Under $30 in 2026";
+  "The Best Headphones Under $30 in 2026: Earbuds, Wireless and Wired Picks: Picks and Trade-offs";
+export const metaTitle = "Best Headphones Under $30 in 2026: Earbuds, Wireless and Wired Picks (2026)";
 export const metaDescription =
-  "7 headphones under $30 in 2026: ANC earbuds, waterproof earbuds, wired studio, and wireless on-ear picks. Which type fits your dorm or desk?";
+  "A practical comparison of 8 headphones under $30 in 2026: earbuds, wireless and wired picks, focused on features, build and practical fit, and the trade-offs between them.";
 export const lastUpdated = "2026-06-18";
 export const readTime = "11 min";
 export const heroImage = `${BASE}/00-hero-best-headphones-under-30.webp`;
@@ -45,7 +45,7 @@ export const products: Budget30Headphone[] = [
     imageUrl: `${BASE}/01-soundcore-p20i-earbuds.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0BTYCRJSS?tag=theofficejournal-20",
     whyItWorks:
-      "Active noise cancellation at $20 is genuinely rare; the P20i uses hybrid ANC that reduces ambient noise by a meaningful amount for studying in noisy dorms and blocking out roommates; 10mm dynamic drivers, USB-C charging, Bluetooth 5.3; 30 hours combined battery covers a full week of daily use on one charge; the only pick at this price with real ANC that actually works.",
+      "3; 30 hours combined battery covers a full week of daily use on one charge; the only pick at this price with real ANC that actually works.",
     tradeoffs: [
       "ANC reduces ambient noise, does not eliminate it fully",
       "IPX5 splash-proof but not submersible for swimming",
@@ -180,7 +180,7 @@ export const products: Budget30Headphone[] = [
       "No carrying case",
     ],
     skipIf:
-      "Your budget allows $20. The Koss KPH30i at $20 sounds significantly better and weighs less.",
+      "The Koss KPH30i at $20 sounds significantly better and weighs less.",
     pros: [
       "Lowest price in the guide at $12-$15",
       "Sony build quality at entry price",
@@ -208,7 +208,7 @@ export const products: Budget30Headphone[] = [
     imageUrl: `${BASE}/06-skullcandy-riff-wireless-2-headphones.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0B75MQJQR?tag=theofficejournal-20",
     whyItWorks:
-      "Best all-day wireless over-ear option at the $30 ceiling; 34 hours per charge covers a full week at 4-hour daily use without recharging; included 3.5mm AUX cable means the headphones still work when battery hits zero; multipoint Bluetooth keeps connection to both laptop and phone simultaneously; plush ear cushions and foldable design make these comfortable for long desk sessions; USB-C charging.",
+      "5mm AUX cable means the headphones still work when battery hits zero; multipoint Bluetooth keeps connection to both laptop and phone simultaneously; plush ear cushions and foldable design make these comfortable for long desk sessions; USB-C charging.",
     tradeoffs: [
       "No ANC",
       "Slightly bulky for commuting vs earbuds",

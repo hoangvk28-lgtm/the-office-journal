@@ -1,9 +1,9 @@
 export const guideSlug = "best-under-desk-cable-trays";
-export const guideTitle = "Best Under Desk Cable Trays: Tested Picks for Every Setup (2026)";
+export const guideTitle = "The Best Under Desk Cable Trays: Tested Picks for Every Setup: Picks and Trade-offs";
 export const guideDescription =
-  "We tested 10 under desk cable trays across installation types, desk materials, and cable capacity. Scored on footprint, durability, and hidden cable performance. Includes standing desk picks.";
-export const metaTitle = "Best Under-Desk Cable Trays (2026)";
-export const metaDescription = "10 under-desk cable trays tested across mount types, desk materials, and cable capacity. Adhesive, screw, and clamp options with standing desk picks.";
+  "Scored on footprint, durability, and hidden cable performance.";
+export const metaTitle = "Best Under Desk Cable Trays: Tested Picks for Every Setup (2026)";
+export const metaDescription = "A practical comparison of 12 under desk cable trays: tested picks for every setup, focused on compatibility, build, features and price, and the trade-offs between them.";
 export const mainKeyword = "under desk cable tray";
 export const lastUpdated = "2026-05-27";
 export const readTime = "16 min";
@@ -387,7 +387,7 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "Can I use a cable tray with a glass desk?",
-    a: "Yes, but only with a clamp-on design. Adhesive will not hold on glass. The Scandinavian Hub Clamp Tray is specifically designed for this and works on desk edges between 0.75 and 2 inches thick. Do not use adhesive or screw-mount trays on glass desktops.",
+    a: "Yes, but only with a clamp-on design. Adhesive will not hold on glass. 75 and 2 inches thick. Do not use adhesive or screw-mount trays on glass desktops.",
   },
   {
     q: "How do you hide power bricks with a cable tray?",
@@ -395,11 +395,11 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "Do under desk cable trays work with standing desks?",
-    a: "Yes, with planning. Use a clamp-on tray that attaches to the desk frame (not the desktop) so it moves with the desk. Route cables with 18 inches of slack for every 12 inches of height adjustment range. The Stand Up Desk Store Clamp Tray is designed specifically for this use case.",
+    a: "Use a clamp-on tray that attaches to the desk frame (not the desktop) so it moves with the desk. Route cables with 18 inches of slack for every 12 inches of height adjustment range. The Stand Up Desk Store Clamp Tray is designed specifically for this use case.",
   },
   {
     q: "How much weight can an under desk cable tray hold?",
-    a: "Standard trays hold 15–20 lbs. Heavy-duty options like Humanscale NeatTech and BTOD Ultimate Box hold 30–50 lbs. For reference, a typical power strip weighs 1–2 lbs and a laptop charger brick weighs 0.3–0.5 lbs. Most home office setups stay well under the 15-lb limit.",
+    a: "Standard trays hold 15–20 lbs. Heavy-duty options like Humanscale NeatTech and BTOD Ultimate Box hold 30–50 lbs. Most home office setups stay well under the 15-lb limit.",
   },
   {
     q: "What is the best cable tray for aesthetic appeal?",
@@ -407,6 +407,6 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "How do I keep cables from tangling in a tray?",
-    a: "Bundle cables by destination using Velcro straps (monitor group, power group, peripheral group). Zip-tie bundles to the tray so they stay put. Label each bundle. Limit each bundle to 4–5 cables maximum. Routing all cables toward the same exit point of the tray prevents cross-tangling.",
+    a: "Bundle cables by destination using Velcro straps (monitor group, power group, peripheral group). Zip-tie bundles to the tray so they stay put. Limit each bundle to 4–5 cables maximum. Routing all cables toward the same exit point of the tray prevents cross-tangling.",
   },
 ];

@@ -2,10 +2,10 @@
 
 export const guideSlug = "best-ergonomic-chair-under-500";
 export const guideTitle =
-  "10 Best Ergonomic Chairs Under $500 in 2026: Every Budget Tier";
-export const metaTitle = "10 Best Ergonomic Chairs Under $500 in 2026";
+  "The Best Ergonomic Chairs Under $500 in 2026: Every Budget Tier: Our Picks";
+export const metaTitle = "Best Ergonomic Chairs Under $500 in 2026: Every Budget Tier (2026)";
 export const metaDescription =
-  "Best ergonomic chairs under $500: from $130 budget mesh to Branch Pro at $499 with 5D armrests. Sihoo, Duramont, ELABEST, Branch compared across 4 price tiers.";
+  "How 11 ergonomic chairs under $500 in 2026: every budget tier compare on features, comfort and practical fit, with clear notes on who each one suits.";
 export const lastUpdated = "2026-06-20";
 export const readTime = "15 min";
 export const heroImage = `${BASE}/chair-best-ergonomic-chair-under-500-sihoo-doro-c300-ergonomic-office-chair.webp`;
@@ -57,7 +57,7 @@ export const products: ErgoChair500[] = [
       "No headrest",
     ],
     skipIf:
-      "Budget allows $150-$200. The Sihoo M57 at the same price has 3D armrests, 2D lumbar, full mesh seating, and aluminum base - strictly better.",
+      "The Sihoo M57 at the same price has 3D armrests, 2D lumbar, full mesh seating, and aluminum base - strictly better.",
     pros: [
       "Sihoo 3-year warranty at entry price",
       "330 lb capacity",
@@ -88,14 +88,14 @@ export const products: ErgoChair500[] = [
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-sihoo-m57-ergonomic-best-mesh-office-chair.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07BDFW1Y7?tag=theofficejournal-20",
     whyItWorks:
-      "Full mesh on both back and seat for maximum airflow. 2D lumbar adjusts both height and depth. 3D armrests. Aluminum alloy base. 330 lb. 3-year Sihoo warranty. Best value-to-spec ratio in the entire guide - 3D armrests and 2D lumbar at the Tier 1 price.",
+      "Full mesh on both back and seat for maximum airflow. 2D lumbar adjusts both height and depth. Best value-to-spec ratio in the entire guide - 3D armrests and 2D lumbar at the Tier 1 price.",
     tradeoffs: [
       "Full mesh seat firmer than foam",
       "126 deg max recline",
       "Lumbar range limited for users over 6'3\"",
     ],
     skipIf:
-      "You prefer soft foam seating. The Marsail at a similar price has 3.14-inch high-density foam.",
+      "You prefer soft foam seating.",
     pros: [
       "Full mesh back + seat - most breathable at this price",
       "3D armrests + 2D lumbar at Tier 1 price",
@@ -125,7 +125,7 @@ export const products: ErgoChair500[] = [
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-tralt-office-chair-ergonomic-desk-chair.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CG6V2XGS?tag=theofficejournal-20",
     whyItWorks:
-      "Lowest-cost chair in this guide with a lifetime warranty claim. 330 lb all-mesh high-back. Adjustable headrest. 14+ color options. Over 3,600 Amazon reviews. For part-time use (under 5 hrs/day), the TRALT covers basic ergonomic needs at minimum spend.",
+      "Lowest-cost chair in this guide with a lifetime warranty claim. For part-time use (under 5 hrs/day), the TRALT covers basic ergonomic needs at minimum spend.",
     tradeoffs: [
       "Flip-up armrests - no positioning",
       "Basic lumbar",
@@ -164,7 +164,7 @@ export const products: ErgoChair500[] = [
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-marsail-ergonomic-office-chair.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CP22DQQS?tag=theofficejournal-20",
     whyItWorks:
-      "3D armrests and 2D lumbar at $150-$200 with an independent 2D headrest (height + tilt). 3.14-inch high-density foam seat provides more consistent cushioning than standard foam. Better than Sihoo M57 if you prefer foam over mesh seating.",
+      "3D armrests and 2D lumbar at $150-$200 with an independent 2D headrest (height + tilt). 14-inch high-density foam seat provides more consistent cushioning than standard foam. Better than Sihoo M57 if you prefer foam over mesh seating.",
     tradeoffs: [
       "Foam seat - less breathable than M57",
       "1-year warranty - shortest of Tier 1 options",
@@ -276,7 +276,7 @@ export const products: ErgoChair500[] = [
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-holludle-ergonomic-best-mesh-office-chair.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DGTBNFRP?tag=theofficejournal-20",
     whyItWorks:
-      "V-shaped dual-panel back provides independent support to left and right sides of the spine. 3D lumbar (height + depth + tilt angle) is more precise than 2D. Available in white - the cleanest aesthetic option in this guide. 3D armrests.",
+      "V-shaped dual-panel back provides independent support to left and right sides of the spine. 3D lumbar (height + depth + tilt angle) is more precise than 2D. Available in white - the cleanest aesthetic option in this guide.",
     tradeoffs: [
       "Newer brand with fewer long-term reviews",
       "V-back design may not suit all posture types",
@@ -313,7 +313,7 @@ export const products: ErgoChair500[] = [
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-elabest-ergonomic-best-mesh-office-chair.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CH3P8KGT?tag=theofficejournal-20",
     whyItWorks:
-      "BIFMA 5.1 certified - independently tested to commercial standards (250,000 tilt cycles, 100,000 seat drop tests). Wide seat pan for users with wider hips or thighs. Built for commercial office daily use. Rare certification at under $350.",
+      "1 certified - independently tested to commercial standards (250,000 tilt cycles, 100,000 seat drop tests). Wide seat pan for users with wider hips or thighs. Built for commercial office daily use. Rare certification at under $350.",
     tradeoffs: [
       "Less visually distinctive than consumer chairs",
       "Armrests less feature-rich than 4D/5D options",
@@ -388,7 +388,7 @@ export const products: ErgoChair500[] = [
     imageUrl: `${BASE}/chair-best-ergonomic-chair-under-500-branch-ergonomic-chair-pro.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0FMGZFVK9?tag=theofficejournal-20",
     whyItWorks:
-      "Only chair in this guide with 5D armrests (lateral slide adds precise elbow positioning for narrow/wide shoulders), forward seat tilt (reduces hip flexion during active work), adjustable seat depth (16.7\" to 19.7\"), and aluminum alloy base. 14 total adjustment points. 7-year warranty. Best ergonomic features under $500.",
+      "7\"), and aluminum alloy base. Best ergonomic features under $500.",
     tradeoffs: [
       "$449-$499 - highest price in this guide",
       "2D lumbar pad - not dynamic like C300",
@@ -396,7 +396,7 @@ export const products: ErgoChair500[] = [
       "45-60 min assembly",
     ],
     skipIf:
-      "Budget is under $350. The Sihoo C300 at $200-$280 provides better lumbar auto-adjustment at half the price.",
+      "The Sihoo C300 at $200-$280 provides better lumbar auto-adjustment at half the price.",
     pros: [
       "5D armrests - most precise arm positioning here",
       "Forward seat tilt - active posture feature under $500",

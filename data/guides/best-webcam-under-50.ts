@@ -1,11 +1,11 @@
 const BASE = "/images/media/guides/best-webcam-under-50";
 
-export const guideTitle = "Best Webcams Under $50 for Small Desks and Dorm Rooms (2026)";
+export const guideTitle = "The Best Webcams Under $50 for Small Desks and Dorm Rooms: Picks and Trade-offs";
 export const guideDescription =
-  "Most webcam guides assume you have a spacious home studio, a wide monitor, and no roommate. This one doesn't. Here are the best budget webcams for small desks, dorm rooms, thin-bezel laptops, and buyers who just want something that works — no drivers, no fuss, no wasted desk space.";
-export const metaTitle = "Best Webcams Under $50 for Small Desks & Dorm Rooms (2026)";
+  "Most webcam guides assume you have a spacious home studio, a wide monitor, and no roommate. Here are the best budget webcams for small desks, dorm rooms, thin-bezel laptops, and buyers who just want something that works — no drivers, no fuss, no wasted desk space.";
+export const metaTitle = "Best Webcams Under $50 for Small Desks and Dorm Rooms (2026)";
 export const metaDescription =
-  "5 budget webcams under $50 for students and small-desk setups — best overall, under $30, under $20, privacy shutter, and Chromebook-compatible picks.";
+  "A practical comparison of 8 webcams under $50 for small desks and dorm rooms, focused on brightness, color temperature, adjustability and power, and the trade-offs between them.";
 export const lastUpdated = "2026-06-06";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/06-best-webcam-under-50-hero.webp`;
@@ -310,7 +310,7 @@ export const buyingCriteria: BuyingCriterion[] = [
   {
     label: "Build Quality",
     weight: "20%",
-    description: "Hinge durability (will it hold position after 3 months of daily use?), cable construction, and brand reliability. Generic brands often fail on the hinge within weeks.",
+    description: "), cable construction, and brand reliability. Generic brands often fail on the hinge within weeks.",
   },
   {
     label: "Value for Money",
@@ -337,7 +337,7 @@ export const faq: FaqItem[] = [
   },
   {
     q: "Will these webcams work on a Chromebook without installing software?",
-    a: "Yes — all five picks in this guide are plug-and-play on Chrome OS. No driver installation required. Chrome OS natively supports USB webcams that follow the UVC (USB Video Class) standard, which all mainstream webcam brands use. The only webcams that don't work on Chromebook are those requiring proprietary drivers — usually very cheap no-name units or AI-feature webcams (like OBSBOT) that need companion apps.",
+    a: "Yes — all five picks in this guide are plug-and-play on Chrome OS. Chrome OS natively supports USB webcams that follow the UVC (USB Video Class) standard, which all mainstream webcam brands use. The only webcams that don't work on Chromebook are those requiring proprietary drivers — usually very cheap no-name units or AI-feature webcams (like OBSBOT) that need companion apps.",
   },
   {
     q: "Is 720p webcam quality acceptable for Zoom, Teams, and Google Meet?",
@@ -349,7 +349,7 @@ export const faq: FaqItem[] = [
   },
   {
     q: "My laptop only has one USB port. Can I still use a webcam?",
-    a: "Yes, but you'll need a USB hub. All five picks use USB-A connections — if your laptop only has USB-C, you'll need a USB-C to USB-A adapter (costs under $10) or a small USB-C hub. The NexiGo N60 and EMEET models draw very little power, so they work reliably through most USB hubs without power delivery issues.",
+    a: "Yes, but you'll need a USB hub. All five picks use USB-A connections — if your laptop only has USB-C, you'll need a USB-C to USB-An adapter (costs under $10) or a small USB-C hub. The NexiGo N60 and EMEET models draw very little power, so they work reliably through most USB hubs without power delivery issues.",
   },
   {
     q: "Will the webcam clip fit on a thin-bezel laptop?",
@@ -361,7 +361,7 @@ export const faq: FaqItem[] = [
   },
   {
     q: "Do physical privacy shutters actually matter?",
-    a: "In shared rooms, yes. A physical shutter is a mechanical lens cover — it physically blocks the lens, not just disables the software. If you share a dorm room, a physical shutter gives you certainty that the camera isn't on between calls, regardless of what the software shows. The NexiGo N60 and EMEET C960 both include physical shutters. The Logitech Brio models do not.",
+    a: "A physical shutter is a mechanical lens cover — it physically blocks the lens, not just disables the software. If you share a dorm room, a physical shutter gives you certainty that the camera isn't on between calls, regardless of what the software shows. The NexiGo N60 and EMEET C960 both include physical shutters. The Logitech Brio models do not.",
   },
   {
     q: "What's the best webcam under $50 for streaming on Twitch or Discord?",
@@ -369,6 +369,6 @@ export const faq: FaqItem[] = [
   },
   {
     q: "Can I use one of these webcams on a laptop with no external monitor?",
-    a: "Yes. All five picks clip onto laptop screens. Position the webcam on the top edge of your laptop lid — the same location as the built-in camera. The advantage over the built-in: you can reposition the external webcam slightly to the left or right to improve your angle, and the image quality will be noticeably better. For laptop-only setups, the NexiGo N60's compact clip is the easiest to reposition.",
+    a: "All five picks clip onto laptop screens. Position the webcam on the top edge of your laptop lid — the same location as the built-in camera. The advantage over the built-in: you can reposition the external webcam slightly to the left or right to improve your angle, and the image quality will be noticeably better. For laptop-only setups, the NexiGo N60's compact clip is the easiest to reposition.",
   },
 ];

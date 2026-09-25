@@ -79,7 +79,7 @@ function LampSection({ lamp }: { lamp: BudgetLamp }) {
 
 export default async function BestDeskLampUnder30Page() {
   const heroImg = fallbackHeroImage;
-  const articleSchema = { "@context": "https://schema.org", "@type": "Article", headline: guideTitle, description: metaDescription, datePublished: "2026-06-04", dateModified: "2026-06-04", author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` }, publisher: { "@type": "Organization", name: "WorkCocoon", url: SITE_URL }, mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-desk-lamp-under-30` }, about: [{ "@type": "Thing", name: "Desk Lamp" }, { "@type": "Thing", name: "Student Desk Accessories" }, { "@type": "Thing", name: "Dorm Room Essentials" }] };
+  const articleSchema = { "@context": "https://schema.org", "@type": "Article", headline: guideTitle, description: metaDescription, datePublished: "2026-06-04", dateModified: "2026-06-04", author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` }, publisher: { "@type": "Organization", name: "The Office Journal", url: SITE_URL }, mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-desk-lamp-under-30` }, about: [{ "@type": "Thing", name: "Desk Lamp" }, { "@type": "Thing", name: "Student Desk Accessories" }, { "@type": "Thing", name: "Dorm Room Essentials" }] };
   const breadcrumbSchema = { "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: SITE_URL }, { "@type": "ListItem", position: 2, name: "Buying Guides", item: `${SITE_URL}/guide` }, { "@type": "ListItem", position: 3, name: "Best Desk Lamp Under $30", item: `${SITE_URL}/guide/best-desk-lamp-under-30` }] };
   const itemListSchema = { "@context": "https://schema.org", "@type": "ItemList", name: "Best Desk Lamps Under $30 2026", description: "Top 5 desk lamps under $30 for students -- chosen for small-desk footprint, color temperature options, USB power, and dorm compatibility.", numberOfItems: 5, itemListElement: products.map((p) => ({ "@type": "ListItem", position: p.rank, name: `${p.name} -- ${p.badge}`, url: `${SITE_URL}/guide/best-desk-lamp-under-30#${p.id}` })) };
 
@@ -120,7 +120,7 @@ export default async function BestDeskLampUnder30Page() {
         </header>
 
         <div className="mb-8 p-4 rounded-xl bg-bg border border-border text-xs text-ink-secondary">
-          <strong className="text-ink">Quick note:</strong> This page contains affiliate links. If you buy through our links, we may earn a small commission -- at no extra cost to you. As an Amazon Associate, WorkCocoon earns from qualifying purchases.{" "}
+          <strong className="text-ink">Quick note:</strong> This page contains affiliate links. If you buy through our links, we may earn a small commission -- at no extra cost to you. As an Amazon Associate, The Office Journal earns from qualifying purchases.{" "}
           <Link prefetch={false} href="/affiliate-disclosure" className="text-brand hover:underline">Affiliate disclosure</Link>.
         </div>
 

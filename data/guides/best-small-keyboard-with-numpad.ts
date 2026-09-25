@@ -2,12 +2,12 @@ const BASE = "/guides/best-small-keyboard-with-numpad";
 
 export const guideSlug = "best-small-keyboard-with-numpad";
 export const guideTitle =
-  "7 Best Small Keyboards with Numpad in 2026: 96% Layout and Separate Numpad Options";
+  "The Best Small Keyboards with Numpad in 2026: 96% Layout and Separate Numpad Options, Compared";
 export const guideDescription =
   "Most small keyboard guides tell you to give up the numpad. But the numpad is not a luxury for people who use it for data entry, Excel, or invoicing. This guide covers 7 options that keep the numpad: six 96% integrated keyboards from $25 to $200, and one separate wireless numpad that adds numpad capability to any existing compact keyboard.";
-export const metaTitle = "7 Best Small Keyboards with Numpad in 2026";
+export const metaTitle = "Best Small Keyboards with Numpad in 2026: 96% Layout and Separate Numpad Options (2026)";
 export const metaDescription =
-  "7 compact keyboards with numpad in 2026: 96% integrated layouts from $30-$200, plus a wireless numpad option. Compared by wireless, hot-swap, and footprint.";
+  "We compared 8 small keyboards with numpad in 2026: 96% layout and separate numpad options on features, build and practical fit to help you choose the right one for your space.";
 export const lastUpdated = "2026-06-17";
 export const readTime = "12 min";
 export const heroImage = `${BASE}/00-hero-best-small-keyboard-with-numpad.webp`;
@@ -49,7 +49,7 @@ export const products: NumpadKeyboard[] = [
     imageUrl: `${BASE}/01-keychron-v5-max-small-keyboard-with-numpad.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CR16D8R2?tag=theofficejournal-20",
     whyItWorks:
-      "Most complete 96% wireless keyboard at this price: tri-mode wireless (2.4 GHz at 1000 Hz polling rate, Bluetooth 5.1 up to 3 devices, USB-C wired), hot-swappable switches, and QMK/VIA for full key remapping. The 96% layout fits a full numpad in a frame about 4 to 5 cm narrower than full-size. Works on Mac, Windows, and Linux out of the box.",
+      "1 up to 3 devices, USB-C wired), hot-swappable switches, and QMK/VIA for full key remapping. The 96% layout fits a full numpad in a frame about 4 to 5 cm narrower than full-size. Works on Mac, Windows, and Linux out of the box.",
     tradeoffs: [
       "No rotary knob on this ASIN",
       "Banana switch may not suit linear-focused users (Red switch variant available)",
@@ -91,7 +91,7 @@ export const products: NumpadKeyboard[] = [
       "Premium over V5 Max is mainly build feel, not features",
     ],
     skipIf:
-      "Budget is under $150. The Keychron V5 Max delivers the same layout and wireless at $115 to $130.",
+      "The Keychron V5 Max delivers the same layout and wireless at $115 to $130.",
     pros: [
       "Full aluminum CNC body",
       "Double-gasket mounting (quieter typing)",
@@ -120,7 +120,7 @@ export const products: NumpadKeyboard[] = [
     imageUrl: `${BASE}/03-amazon-basics-wireless-keyboard-numpad.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07WV5WN7B?tag=theofficejournal-20",
     whyItWorks:
-      "Only option in this roundup making a full compact numpad layout accessible at a minimal budget. 2.4 GHz wireless with plug-and-play USB receiver, compact layout with numpad included. Works out of the box with no software, no setup, and no subscription. Clean quiet low-profile membrane keys for shared workspaces.",
+      "Only option in this roundup making a full compact numpad layout accessible at a minimal budget. 4 GHz wireless with plug-and-play USB receiver, compact layout with numpad included. Works out of the box with no software, no setup, and no subscription. Clean quiet low-profile membrane keys for shared workspaces.",
     tradeoffs: [
       "Membrane keys with no tactile feedback",
       "Windows-optimized layout with limited Mac support",
@@ -157,7 +157,7 @@ export const products: NumpadKeyboard[] = [
     imageUrl: `${BASE}/04-perixx-periboard-536b-ergonomic-keyboard.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0D6VWPGPB?tag=theofficejournal-20",
     whyItWorks:
-      "Solves a problem none of the other picks address: wrist and forearm strain from extended typing. The split ergonomic layout angles both halves outward keeping wrists in a more natural position. The built-in numpad is on the right half and fully integrated. Detachable wrist rest is included. Silent membrane switches are appropriate for shared workspaces. Narrower than standard ergonomic keyboards at 16.34 by 5.71 inches.",
+      "Solves a problem none of the other picks address: wrist and forearm strain from extended typing. The split ergonomic layout angles both halves outward keeping wrists in a more natural position. The built-in numpad is on the right half and fully integrated. Detachable wrist rest is included. Silent membrane switches are appropriate for shared workspaces.",
     tradeoffs: [
       "Wired only (no wireless)",
       "Split layout requires an adjustment period",
@@ -231,7 +231,7 @@ export const products: NumpadKeyboard[] = [
     imageUrl: `${BASE}/06-keychron-k4-small-mechanical-keyboard-numpad.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07WS7KSGT?tag=theofficejournal-20",
     whyItWorks:
-      "One of the first widely available 96% wireless mechanical keyboards. Bluetooth 5.1 connects up to 3 devices. Mac and Windows are both supported with included keycap sets. Hot-swappable sockets on newer versions. 4000 mAh battery rated at up to 240 hours without backlight. Sits between the Amazon Basics and the premium Q5 Max, offering mechanical switches and wireless at a mid-range price.",
+      "One of the first widely available 96% wireless mechanical keyboards. 1 connects up to 3 devices. Mac and Windows are both supported with included keycap sets. Hot-swappable sockets on newer versions. 4000 mAh battery rated at up to 240 hours without backlight. Sits between the Amazon Basics and the premium Q5 Max, offering mechanical switches and wireless.",
     tradeoffs: [
       "Older model (V2), limited updates vs V5 Max",
       "Bluetooth only wireless (no 2.4 GHz)",
@@ -239,7 +239,7 @@ export const products: NumpadKeyboard[] = [
       "Verify current stock before purchasing",
     ],
     skipIf:
-      "You want 2.4 GHz wireless or RGB. The Keychron V5 Max at $115 to $130 adds both and has a higher polling rate.",
+      "4 GHz wireless or RGB. The Keychron V5 Max at $115 to $130 adds both and has a higher polling rate.",
     pros: [
       "Mechanical switches at mid-range price",
       "3-device Bluetooth",
@@ -268,7 +268,7 @@ export const products: NumpadKeyboard[] = [
     imageUrl: `${BASE}/07-nulea-wireless-number-pad.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DZGJ5XSX?tag=theofficejournal-20",
     whyItWorks:
-      "Built for a completely different scenario: you already have a compact keyboard you like (TKL, 65%, or any layout without numpad) and want to add numpad capability without replacing it. Connects via Bluetooth 5.0 or 2.4 GHz dual-mode. The 34 keys cover all standard numpad functions plus arithmetic operators. USB-C rechargeable. Place it to the right when doing data entry and store it in a drawer when not needed.",
+      "Built for a completely different scenario: you already have a compact keyboard you like (TKL, 65%, or any layout without numpad) and want to add numpad capability without replacing it. The 34 keys cover all standard numpad functions plus arithmetic operators. Place it to the right when doing data entry and store it in a drawer when not needed.",
     tradeoffs: [
       "Separate device to manage (charging and pairing)",
       "Not integrated with main keyboard",
@@ -308,11 +308,11 @@ export const faq = [
   },
   {
     q: "Is a 96% keyboard good for small desks?",
-    a: "Yes. A full-size keyboard with numpad typically measures 44 cm wide. A 96% keyboard measures about 38 to 40 cm. That 4 to 6 cm difference is meaningful on a 60 to 80 cm desk. For comparison, a TKL without numpad is about 36 cm, so the trade-off for keeping the numpad in a 96% layout is only about 2 to 4 cm wider than TKL.",
+    a: "A full-size keyboard with numpad typically measures 44 cm wide. A 96% keyboard measures about 38 to 40 cm. That 4 to 6 cm difference is meaningful on a 60 to 80 cm desk. For comparison, a TKL without numpad is about 36 cm, so the trade-off for keeping the numpad in a 96% layout is only about 2 to 4 cm wider than TKL.",
   },
   {
     q: "Can I add a numpad to my existing TKL keyboard?",
-    a: "Yes. A separate wireless numpad like the Nulea connects via Bluetooth or 2.4 GHz and functions as an independent number pad. You place it to the right of your keyboard when needed and store it when not. This is the most flexible option if you already own a compact keyboard you are happy with.",
+    a: "4 GHz and functions as an independent number pad. You place it to the right of your keyboard when needed and store it when not. This is the most flexible option if you already own a compact keyboard you are happy with.",
   },
   {
     q: "Which compact keyboard with numpad is best for Mac?",
@@ -324,7 +324,7 @@ export const faq = [
   },
   {
     q: "What is the difference between a 96% keyboard and a full-size keyboard?",
-    a: "A full-size keyboard has 104 keys spread across dedicated clusters with spacing between them, typically about 44 cm wide. A 96% keyboard has the same keys but removes the gaps between clusters, bringing the total width to about 38 to 40 cm. Both have a numpad. The 96% saves about 4 to 6 cm of desk width without losing any keys.",
+    a: "A full-size keyboard has 104 keys spread across dedicated clusters with spacing between them, typically about 44 cm wide. A 96% keyboard has the same keys but removes the gaps between clusters, bringing the total width to about 38 to 40 cm. The 96% saves about 4 to 6 cm of desk width without losing any keys.",
   },
 ];
 

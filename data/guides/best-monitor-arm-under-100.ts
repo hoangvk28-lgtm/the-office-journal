@@ -2,10 +2,10 @@ const BASE_IMAGES = "/images/guides/best-monitor-arm-under-100";
 
 export const guideSlug = "best-monitor-arm-under-100";
 export const guideTitle =
-  "7 Best Monitor Arms Under $100 in 2026: Picks for Every Desk Size";
-export const metaTitle = "7 Best Monitor Arms Under $100 in 2026";
+  "The Best Monitor Arms Under $100 in 2026: Picks for Every Desk Size: Our Picks";
+export const metaTitle = "Best Monitor Arms Under $100 in 2026: Picks for Every Desk Size (2026)";
 export const metaDescription =
-  "Best monitor arms under Best monitor arms under $100: HUANUO FlowLift, North Bayou F80, VIVO for ultrawides, Amazon Basics. VESA check, weight guide, and desk space recovery comparison.00: HUANUO FlowLift, North Bayou F80, VIVO for ultrawides, and Amazon Basics. VESA check, weight guide, and desk space comparison.";
+  "How 8 monitor arms under $100 in 2026: picks for every desk size compare on features, build and practical fit, with clear notes on who each one suits.";
 export const lastUpdated = "2026-06-23";
 export const readTime = "15 min";
 export const heroImage = `${BASE_IMAGES}/monitor-arm-best-monitor-arm-under-100-hero.webp`;
@@ -80,7 +80,7 @@ export const products: MonitorArm100[] = [
     imageUrl: `${BASE_IMAGES}/monitor-arm-best-monitor-arm-under-100-north-bayou-f80.webp`,
     amazonUrl: "https://www.amazon.com/dp/B01AI2YGK4?tag=theofficejournal-20",
     whyItWorks:
-      "Over 17,000 Amazon reviews with 4.5 stars - the most reviewed monitor arm at this price. Steel construction provides rigidity. First reliable monitor arm under $35 that has maintained consistent quality across multiple production batches.",
+      "5 stars - the most reviewed monitor arm at this price. First reliable monitor arm under $35 that has maintained consistent quality across multiple production batches.",
     tradeoffs: [
       '30" screen maximum excludes ultrawides',
       "Tilt range -15 to +15 degrees - limited for standing desk height adjustments",
@@ -115,7 +115,7 @@ export const products: MonitorArm100[] = [
     imageUrl: `${BASE_IMAGES}/monitor-arm-best-monitor-arm-under-100-vivo-stand-v001.webp`,
     amazonUrl: "https://www.amazon.com/dp/B00B21TLQU?tag=theofficejournal-20",
     whyItWorks:
-      "22 lb capacity (vs North Bayou's 19.8 lb) and 38\" ultrawide screen support at the same price tier. Built-in cable routing channels keep desk cleaner than external clips. VIVO is a US-based brand with established product support and consistent quality.",
+      "8 lb) and 38\" ultrawide screen support at the same price tier. Built-in cable routing channels keep desk cleaner than external clips. VIVO is a US-based brand with established product support and consistent quality.",
     tradeoffs: [
       "Slightly bulkier arm joint than HUANUO",
       "Black colorway only in this model",
@@ -213,14 +213,14 @@ export const products: MonitorArm100[] = [
     imageUrl: `${BASE_IMAGES}/monitor-arm-best-monitor-arm-under-100-amazon-basics-lift-engine-arm.webp`,
     amazonUrl: "https://www.amazon.com/dp/B00MIBN16O?tag=theofficejournal-20",
     whyItWorks:
-      "Manufactured by the same OEM as the Ergotron LX - the mechanism is identical, the cost is $65-99 vs $140-180 for the Ergotron branded version. Integrated cable management channel (not clips). Aluminum construction. If the primary concern is motion quality - the smoothest one-finger movement at this price - this is the pick.",
+      "Manufactured by the same OEM as the Ergotron LX - the mechanism is identical, the cost is $65-99 vs $140-180 for the Ergotron branded version. Integrated cable management channel (not clips). If the primary concern is motion quality - the smoothest one-finger movement at this price - this is the pick.",
     tradeoffs: [
       "5 lb minimum - unusually light monitors may not hold position correctly",
       "Amazon warranty vs Ergotron's 15-year warranty",
       "Not officially sold as Ergotron OEM - cannot claim Ergotron warranty",
     ],
     skipIf:
-      "Warranty coverage matters most. The Ergotron LX at $140-180 carries a 15-year warranty vs Amazon standard. The motion mechanism is identical.",
+      "The Ergotron LX at $140-180 carries a 15-year warranty vs Amazon standard. The motion mechanism is identical.",
     pros: [
       "Same OEM mechanism as Ergotron LX at 60% of the price",
       "Integrated cable management (not clips)",
@@ -248,7 +248,7 @@ export const products: MonitorArm100[] = [
     imageUrl: `${BASE_IMAGES}/monitor-arm-best-monitor-arm-under-100-huanuo-flowlift-dual.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07T5SY43L?tag=theofficejournal-20",
     whyItWorks:
-      "Dual monitor arm under $100 is rare - most dual arms start at $130-150. Shared center post reduces desk footprint vs two separate arms. Independent arm positioning allows asymmetric setups (one monitor straight, one angled). 19.8 lb per arm covers virtually all standard 27\" monitors.",
+      "Dual monitor arm under $100 is rare - most dual arms start at $130-150. Shared center post reduces desk footprint vs two separate arms. Independent arm positioning allows asymmetric setups (one monitor straight, one angled). 8 lb per arm covers virtually all standard 27\" monitors.",
     tradeoffs: [
       "19.8 lb per arm - not for heavy 27\" 4K monitors over 18 lbs",
       "Swivel limited to 90 degrees per arm vs 360 on single arms",
@@ -297,7 +297,7 @@ export interface FaqItem {
 export const faq: FaqItem[] = [
   {
     q: "Do I need a monitor arm for a standing desk?",
-    a: "Yes for meaningful use. When you raise a standing desk from sitting to standing height (typically 15-20 inches), a fixed monitor stand moves with the desk but the monitor position does not adjust to maintain eye-level ergonomics. A monitor arm with a 50+ degree tilt range lets you set the monitor angle correctly at both heights without readjusting.",
+    a: "When you raise a standing desk from sitting to standing height (typically 15-20 inches), a fixed monitor stand moves with the desk but the monitor position does not adjust to maintain eye-level ergonomics. A monitor arm with a 50+ degree tilt range lets you set the monitor angle correctly at both heights without readjusting.",
   },
   {
     q: "What VESA size do I need?",
@@ -305,7 +305,7 @@ export const faq: FaqItem[] = [
   },
   {
     q: "Will a monitor arm work on an IKEA desk?",
-    a: "Yes. IKEA LINNMON tops are 1.5 inches thick - within the 0.4-3.9 inch range of standard C-clamps. For IKEA LACK or other hollow-core tops, use the grommet mount option (passes through a pre-drilled hole) to distribute weight more safely than a surface clamp.",
+    a: "9 inch range of standard C-clamps. For IKEA LACK or other hollow-core tops, use the grommet mount option (passes through a pre-drilled hole) to distribute weight more safely than a surface clamp.",
   },
   {
     q: "Is the Amazon Basics arm the same as the Ergotron LX?",

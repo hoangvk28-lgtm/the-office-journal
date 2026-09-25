@@ -1,10 +1,10 @@
 const BASE = "/guides/best-document-cameras-home-office";
 
 export const guideSlug = "best-document-cameras-home-office";
-export const guideTitle = "7 Best Document Cameras for Home Office and Teaching in 2026";
-export const metaTitle = "7 Best Document Cameras for Home Office and Teaching 2026";
+export const guideTitle = "The Best Document Cameras for Home Office and Teaching: Picks and Trade-offs";
+export const metaTitle = "Best Document Cameras for Home Office and Teaching (2026)";
 export const metaDescription =
-  "7 best document cameras for home office workers and teachers in 2026, from $50 to $200. USB, HDMI, OCR, and wireless options compared and ranked.";
+  "A practical comparison of 8 document cameras for home office and teaching, focused on features, build and practical fit, and the trade-offs between them.";
 export const lastUpdated = "2026-06-16";
 export const readTime = "12 min";
 export const heroImage = `${BASE}/00-hero-7-best-document-cameras-2026.webp`;
@@ -255,7 +255,7 @@ export const products: DocumentCamera[] = [
     imageUrl: `${BASE}/07-ipevo-vz-x-wireless-hdmi-usb.webp`,
     amazonUrl: "https://www.amazon.com/dp/B08WWH5SCN?tag=theofficejournal-20",
     whyItWorks:
-      "Only camera on this list that works wirelessly; in WiFi mode streams directly to iPad, iPhone, Apple TV, or Android device without USB or HDMI cable; right pick for teachers who move around classroom needing camera positioned at student workspace rather than tethered to teacher desk; also supports HDMI direct-to-projector and USB-to-computer modes, making it a three-mode device; setup handled through IPEVO IDocCam app on iOS or Android.",
+      "Only camera on this list that works wirelessly; in WiFi mode streams directly to iPad, iPhone, Apple TV, or Android device without USB or HDMI cable; right pick for teachers who move around classroom needing camera positioned at student workspace rather than tethered to teacher desk; also supports HDMI direct-to-projector and USB-to-computer modes, making it a three-mode device; setup handled through IPEVO IDocCam app on IOS or Android.",
     tradeoffs: [
       "Wireless mode requires IDocCam app and stable local WiFi",
       "Wireless latency adds small delay compared to USB or HDMI",
@@ -299,7 +299,7 @@ export const faq = [
   },
   {
     q: "Can I use a document camera as a regular webcam for video calls?",
-    a: "Yes. Every document camera on this list appears as a USB camera source in Zoom, Teams, and Google Meet. You can position the arm to point at your face for a standard video call. However, a dedicated webcam is better optimized for face capture at typical monitor distance, with auto-framing and face-detection features that document cameras do not include.",
+    a: "Every document camera on this list appears as a USB camera source in Zoom, Teams, and Google Meet. You can position the arm to point at your face for a standard video call. However, a dedicated webcam is better optimized for face capture at typical monitor distance, with auto-framing and face-detection features that document cameras do not include.",
   },
   {
     q: "What resolution do I need for a document camera?",
@@ -307,7 +307,7 @@ export const faq = [
   },
   {
     q: "Do document cameras work with Zoom, Teams, and Google Meet?",
-    a: "Yes. All picks on this list connect via USB and appear as camera sources in any conferencing software. In your video call settings, select the document camera as your video input. You can switch between your webcam and document camera mid-call in most platforms.",
+    a: "All picks on this list connect via USB and appear as camera sources in any conferencing software. In your video call settings, select the document camera as your video input. You can switch between your webcam and document camera mid-call in most platforms.",
   },
   {
     q: "What does HDMI mode mean on a document camera?",

@@ -2,10 +2,10 @@ const BASE = "/images/guides/best-wood-file-cabinets";
 
 export const guideSlug = "best-wood-file-cabinets";
 export const guideTitle =
-  "Best Wood File Cabinets in 2026: Top Picks for Home Offices";
-export const metaTitle = "Best Wood File Cabinets in 2026";
+  "The Best Wood File Cabinets in 2026: Top Picks for Home Offices: Picks and Trade-offs";
+export const metaTitle = "Best Wood File Cabinets in 2026: Top Picks for Home Offices (2026)";
 export const metaDescription =
-  "Best wood file cabinets in 2026: DEVAISE 3-drawer, VASAGLE CUSTOS, GYIIYUO desktop extension, DEVAISE 4-drawer with lock. Honest picks for home offices.";
+  "A practical comparison of 8 wood file cabinets in 2026: top picks for home offices, focused on features, build and practical fit, and the trade-offs between them.";
 export const lastUpdated = "2026-07-02";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/hero.webp`;
@@ -41,7 +41,7 @@ export const products: FileCabinet[] = [
     imageUrl: `${BASE}/devaise-3-drawer-mobile-rustic-brown.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=theofficejournal-20",
     whyItWorks:
-      "The DEVAISE 3 Drawer Rustic Brown earns the top spot because it hits the best intersection of price, practicality, and style. With over 5,300 reviews and a 4.2-star average, it has a much larger feedback base than most competing models in this category. Three drawers give you meaningful storage without the footprint of a four-drawer unit. The bottom drawer is sized for hanging letter or legal-size folders. The mobile base with locking casters lets you slide it under your desk and roll it out when you need access. Buyers consistently note that assembly is straightforward, the finished look is better than expected at this price, and the casters roll smoothly on both hardwood and carpet.",
+      "The DEVAISE 3 Drawer Rustic Brown earns the top spot because it hits the best intersection of price, practicality, and style. 2-star average, it has a much larger feedback base than most competing models in this category. Three drawers give you meaningful storage without the footprint of a four-drawer unit. The bottom drawer is sized for hanging letter or legal-size folders. The mobile base with locking casters lets you slide it under your desk and roll it out when you need access. Buyers consistently note that assembly is straightforward, the finished look is better than expected at this price, and the casters roll smoothly on both hardwood and carpet.",
     tradeoffs: [
       "No lock - not suitable for storing sensitive documents",
       "Engineered wood with laminate finish is moisture-sensitive - avoid damp environments",
@@ -74,7 +74,7 @@ export const products: FileCabinet[] = [
     imageUrl: `${BASE}/vasagle-custos-2-drawer-snow-white.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0BRXQ1DKF?tag=theofficejournal-20",
     whyItWorks:
-      "At $62.99, the VASAGLE CUSTOS is the most affordable option on this list with the second-highest review count at 3,262. The snow white finish is clean and modern, a natural match for Scandinavian, minimalist, or all-white setups. Two drawers handle light-to-moderate filing - one to two years of active documents without the footprint of a three-drawer unit. VASAGLE is a recognized home furniture brand with a solid track record of consistent quality in the $50 to $100 range.",
+      "99, the VASAGLE CUSTOS is the most affordable option on this list with the second-highest review count at 3,262. The snow white finish is clean and modern, a natural match for Scandinavian, minimalist, or all-white setups. Two drawers handle light-to-moderate filing - one to two years of active documents without the footprint of a three-drawer unit. VASAGLE is a recognized home furniture brand with a solid track record of consistent quality in the $50 to $100 range.",
     tradeoffs: [
       "Two drawers only - less capacity than three-drawer options",
       "No lock",
@@ -106,7 +106,7 @@ export const products: FileCabinet[] = [
     imageUrl: `${BASE}/devaise-3-drawer-wood-white.webp`,
     amazonUrl: "https://www.amazon.com/dp/B09Z2C8N2Q?tag=theofficejournal-20",
     whyItWorks:
-      "If you want more storage than two drawers but need a white finish to match your setup, the DEVAISE 3-Drawer White is the natural choice. At 2,784 reviews and 4.1 stars, this is a well-tested product with a strong feedback base for a mid-range cabinet. Rolling casters allow repositioning. The bottom drawer accommodates hanging letter-size folders. The white finish sits alongside the VASAGLE CUSTOS for all-white desk setups, but adds a third drawer for buyers who have outgrown two.",
+      "If you want more storage than two drawers but need a white finish to match your setup, the DEVAISE 3-Drawer White is the natural choice. 1 stars, this is a well-tested product with a strong feedback base for a mid-range cabinet. The bottom drawer accommodates hanging letter-size folders. The white finish sits alongside the VASAGLE CUSTOS for all-white desk setups, but adds a third drawer for buyers who have outgrown two.",
     tradeoffs: [
       "No lock",
       "White laminate finish is more visible to scuffs and scratches than darker finishes",
@@ -170,7 +170,7 @@ export const products: FileCabinet[] = [
     imageUrl: `${BASE}/devaise-4-drawer-lock-rustic-brown.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DBQ6TPDH?tag=theofficejournal-20",
     whyItWorks:
-      "The DEVAISE 4-Drawer with Lock is the only option in this guide that combines four drawers, a cylinder lock, and wood-look aesthetics under $130. Four drawers handle a high volume of physical records - appropriate for power users or small business owners with years of accumulated paperwork. The cylinder lock secures all drawers, making it the right call when document security is a requirement. Rolling casters add mobility. Note: verify current review count on Amazon before ordering, as this model has fewer reviews than the other DEVAISE picks in this guide.",
+      "The DEVAISE 4-Drawer with Lock is the only option in this guide that combines four drawers, a cylinder lock, and wood-look aesthetics under $130. Four drawers handle a high volume of physical records - appropriate for power users or small business owners with years of accumulated paperwork. The cylinder lock secures all drawers, making it the right call when document security is a requirement. Note: verify current review count on Amazon before ordering, as this model has fewer reviews than the other DEVAISE picks in this guide.",
     tradeoffs: [
       "Fewer reviews than other picks in this guide - verify current rating before ordering",
       "Larger footprint than two or three-drawer options",
@@ -237,7 +237,7 @@ export const metalAlternatives: FileCabinet[] = [
     imageUrl: `${BASE}/bynsoe-2-drawer-steel.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0D9XYD75W?tag=theofficejournal-20",
     whyItWorks:
-      "Budget-friendly metal option at a similar price to the VASAGLE CUSTOS. Choose this over the VASAGLE if durability matters more than aesthetics. Two drawers handle light to moderate filing. Steel construction is more resistant to moisture, dents from daily use, and long-term wear than engineered wood at the same price.",
+      "Low-cost metal option at a similar price to the VASAGLE CUSTOS. Choose this over the VASAGLE if durability matters more than aesthetics. Two drawers handle light to moderate filing. Steel construction is more resistant to moisture, dents from daily use, and long-term wear than engineered wood at the same price.",
     tradeoffs: [
       "No lock",
       "Metal aesthetic does not match wood-look desk setups",
@@ -285,7 +285,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "Which wood file cabinet is best overall?",
-    a: "The DEVAISE 3 Drawer Mobile File Cabinet in Rustic Brown at approximately $94.99 is the best overall pick. It has the highest rating combined with the largest review count in the category (over 5,300 reviews), three drawers, and rolling casters for easy desk positioning.",
+    a: "99 is the best overall pick.",
   },
   {
     q: "Which wood file cabinet is best with a lock?",
@@ -297,11 +297,11 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "Can I use a wood file cabinet as a printer stand?",
-    a: "Yes. Three-drawer rolling units in this guide sit at approximately 27 to 29 inches tall, close to standard desk height. The GYIIYUO with extended desktop is the most purpose-built option for this use. For any cabinet used as a printer stand, confirm the top surface weight capacity before placing a heavy laser printer on it.",
+    a: "Three-drawer rolling units in this guide sit at approximately 27 to 29 inches tall, close to standard desk height. The GYIIYUO with extended desktop is the most purpose-built option for this use. For any cabinet used as a printer stand, confirm the top surface weight capacity before placing a heavy laser printer on it.",
   },
   {
     q: "Do rolling casters on file cabinets lock?",
-    a: "Yes. The casters on all five main wood picks in this guide include a locking mechanism to keep the unit stationary when needed. Two casters per unit are typically lockable. Check the product listing to confirm locking caster details for the specific model you are considering.",
+    a: "The casters on all five main wood picks in this guide include a locking mechanism to keep the unit stationary when needed. Two casters per unit are typically lockable. Check the product listing to confirm locking caster details for the specific model you are considering.",
   },
 ];
 

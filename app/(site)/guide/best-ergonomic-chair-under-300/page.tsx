@@ -174,7 +174,7 @@ export default async function BestErgonomicChairUnder300Page() {
     },
     publisher: {
       "@type": "Organization",
-      name: "WorkCocoon",
+      name: "The Office Journal",
       url: SITE_URL,
     },
     mainEntityOfPage: {
@@ -313,7 +313,7 @@ export default async function BestErgonomicChairUnder300Page() {
         <div className="mb-8 p-4 rounded-xl bg-bg border border-border text-xs text-ink-secondary">
           <strong className="text-ink">Quick note:</strong> This page contains
           affiliate links. If you buy through our links, we may earn a small
-          commission at no extra cost to you. As an Amazon Associate, WorkCocoon
+          commission at no extra cost to you. As an Amazon Associate, The Office Journal
           earns from qualifying purchases.{" "}
           <Link prefetch={false}
             href="/affiliate-disclosure"

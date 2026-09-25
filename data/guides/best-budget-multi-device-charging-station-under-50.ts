@@ -1,12 +1,12 @@
 const BASE = "/images/media/guides/best-budget-multi-device-charging-station-under-50";
 
 export const guideSlug = "best-budget-multi-device-charging-station-under-50";
-export const guideTitle = "5 Best Budget Multi-Device Charging Stations Under $50 (2026)";
+export const guideTitle = "The Best Budget Multi-Device Charging Stations Under $50: Picks and Trade-offs";
 export const guideDescription =
   "At $30–$50 you start getting GaN technology, USB-C Power Delivery that fast-charges newer phones and iPads, and multi-device organizers that handle everything in one spot. These are the 5 best picks for the money.";
-export const metaTitle = "5 Best Multi-Device Charging Stations Under $50 (2026)";
+export const metaTitle = "Best Budget Multi-Device Charging Stations Under $50 (2026)";
 export const metaDescription =
-  "5 best budget charging stations under $50: UGREEN Nexode GaN, Anker Premium PD, SoopPii Watch arm, ORICO 10-port, Sabrent hub. Compared by GaN and value.";
+  "A practical comparison of 6 budget multi-device charging stations under $50, focused on compatibility, build, features and price, and the trade-offs between them.";
 export const lastUpdated = "2026-06-07";
 export const readTime = "9 min";
 export const heroImage = `${BASE}/6-hero-best-budget-multi-device-charging-stations-under-50-2026.webp`;
@@ -63,7 +63,7 @@ export const products: MultiCharger[] = [
     imageUrl: `${BASE}/2-anker-premium-5-port-pd-60w.webp`,
     amazonUrl: "https://www.amazon.com/dp/B072K5ZJXF?tag=theofficejournal-20",
     whyItWorks:
-      "30W USB-C PD port, the highest-wattage USB-C port under $40 in this category. 4 additional PowerIQ USB-A ports auto-detect each device's optimal charge speed. Desktop design with flat base stays stable. Charges a MacBook Air (2018+) at a slow but steady rate overnight. Anker warranty and support.",
+      "30W USB-C PD port, the highest-wattage USB-C port under $40 in this category. 4 additional PowerIQ USB-A ports auto-detect each device's optimal charge speed. Desktop design with flat base stays stable. Charges a MacBook Air (2018+) at a slow but steady rate overnight.",
     tradeoffs: ["30W USB-C won't fast-charge a MacBook Pro during active use (needs 61W+)", "USB-A ports split remaining 30W across 4 devices, slower under full load"],
     skipIf: "You need to fast-charge a MacBook Pro at full speed during active use.",
     pros: ["30W USB-C, highest in this sub-$40 category", "PowerIQ on all 4 USB-A ports", "Stable flat-base desktop design", "Charges MacBook Air overnight", "Anker warranty"],
@@ -120,9 +120,9 @@ export const products: MultiCharger[] = [
     imageUrl: `${BASE}/5-sabrent-10-port-usb-3-hub-hb-b7c3.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0797NWDCB?tag=theofficejournal-20",
     whyItWorks:
-      "Combines USB 3.0 data hub (5Gbps) with 3 dedicated smart charging ports in one unit. Individual power switches and LED indicators for each port. Works with PC, Mac, Xbox, PS5. 60W power adapter included. Best pick if your desk also needs USB 3.0 data expansion (hard drives, printers, keyboards).",
+      "0 data hub (5Gbps) with 3 dedicated smart charging ports in one unit. Individual power switches and LED indicators for each port. Works with PC, Mac, Xbox, PS5. 0 data expansion (hard drives, printers, keyboards).",
     tradeoffs: ["Only 3 charging ports, 7 ports are data-only", "$45–$50 is the top of this guide's range", "Overkill if you only need charging"],
-    skipIf: "You only need to charge devices and don't need USB 3.0 data transfer. One of the first four picks gives more charging value.",
+    skipIf: "One of the first four picks gives more charging value.",
     pros: ["USB 3.0 data hub + charging in one unit", "Individual switches + LED per port", "Works with PC, Mac, Xbox, PS5", "60W adapter included", "Best if you need data expansion too"],
     cons: ["Only 3 dedicated charging ports", "Most expensive pick ($45–$50)", "Overkill for charging-only use"],
   },
@@ -143,7 +143,7 @@ export const faq = [
   },
   {
     q: "How many watts does an iPhone need to fast charge?",
-    a: "iPhone 12 and later fast charges at 20W via USB-C PD. With a 20W adapter and USB-C cable, you go from 0–50% in about 30 minutes. Any station with a 20W+ USB-C PD port achieves this.",
+    a: "IPhone 12 and later fast charges at 20W via USB-C PD. With a 20W adapter and USB-C cable, you go from 0–50% in about 30 minutes. Any station with a 20W+ USB-C PD port achieves this.",
   },
 ];
 

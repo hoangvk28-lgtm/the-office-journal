@@ -1,10 +1,10 @@
 const BASE = "/images/guides/best-under-desk-footrests-for-short-people";
 
 export const guideSlug = "best-under-desk-footrests-for-short-people";
-export const guideTitle = "8 Best Under-Desk Footrests for Short People (2026)";
-export const metaTitle = "Best Under-Desk Footrests for Short People 2026";
+export const guideTitle = "The Best Under-Desk Footrests for Short People: Our Picks";
+export const metaTitle = "Best Under-Desk Footrests for Short People (2026)";
 export const metaDescription =
-  "Best under-desk footrests for short people in 2026. Memory foam rockers, adjustable-height models, massage rollers, and firm foam ranked for users under 5'5\".";
+  "How 9 under-desk footrests for short people compare on features, comfort and practical fit, with clear notes on who each one suits.";
 export const lastUpdated = "2026-07-08";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/hero.webp`;
@@ -69,7 +69,7 @@ export const products: GuideProduct[] = [
     reviews: "13,143 reviews",
     imageUrl: `${BASE}/huanuo.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07L3RVF7C?tag=theofficejournal-20",
-    description: "The HUANUO footrest combines adjustable height with a built-in massage roller along the top surface, adding circulation benefits that fixed foam models do not provide. Three height settings cover the 4.3 to 6.7 inch range, which overlaps well with the foot placement needs of users in the 5'0\" to 5'4\" range.\n\nThe rocking motion on the HUANUO is more pronounced than memory foam rockers, which suits users who want active movement rather than just a stable platform. The massage texture adds sensory feedback during long seated sessions.",
+    description: "The HUANUO footrest combines adjustable height with a built-in massage roller along the top surface, adding circulation benefits that fixed foam models do not provide. 7 inch range, which overlaps well with the foot placement needs of users in the 5'0\" to 5'4\" range.\n\nThe rocking motion on the HUANUO is more pronounced than memory foam rockers, which suits users who want active movement rather than just a stable platform. The massage texture adds sensory feedback during long seated sessions.",
     specs: ["3 height settings (4.3–6.7 in)","30-degree tilt","Massage texture + roller","Rocking motion"],
     pros: ["Massage roller for circulation","Three adjustable heights","Rocking motion encourages movement","Under $30"],
     cons: ["4.2 stars is lower than top picks","Massage texture can feel rough to bare feet","Rocker mechanism less smooth than ErgoFoam"],
@@ -101,7 +101,7 @@ export const products: GuideProduct[] = [
     reviews: "3,135 reviews",
     imageUrl: `${BASE}/strongtek-wood.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07N1QCJGZ?tag=theofficejournal-20",
-    description: "The StrongTek wooden footrest is a balance board-style rocker made from cherry wood, offering a natural alternative to foam footrests for users who prefer hard surfaces and visual warmth on their desk setup. The rocker base supports active micro-movements throughout the workday.\n\nAt 4.7 stars it holds the highest rating in this roundup for short-person picks. Wooden footrests do not compress over time like foam, making them a longer-term investment for regular users.",
+    description: "The StrongTek wooden footrest is a balance board-style rocker made from cherry wood, offering a natural alternative to foam footrests for users who prefer hard surfaces and visual warmth on their desk setup. The rocker base supports active micro-movements throughout the workday.\n\n7 stars it holds the highest rating in this roundup for short-person picks. Wooden footrests do not compress over time like foam, making them a longer-term investment for regular users.",
     specs: ["Cherry wood","Rocker balance board","350 lb capacity","18 inches wide"],
     pros: ["4.7 stars, highest-rated in roundup","Does not compress like foam","Warm natural aesthetic","350 lb load capacity"],
     cons: ["$39.99 higher than foam alternatives","Hard surface may be uncomfortable bare-foot","No height adjustment"],
@@ -117,7 +117,7 @@ export const products: GuideProduct[] = [
     reviews: "8,952 reviews",
     imageUrl: `${BASE}/blistrends.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0BFQX3YFY?tag=theofficejournal-20",
-    description: "The BlissTrends footrest is the most affordable option in this roundup with two adjustable height settings covering 3.7 to 5.7 inches, suitable for shorter users who need modest lift without spending at a premium price. The dual-layer foam uses different densities: a softer top layer for comfort and a firmer base layer for support. The washable cover and non-slip base are standard at this price point. For short users who need a basic height boost more than active features, the BlissTrends delivers the essentials at a budget-friendly price.",
+    description: "7 inches, suitable for shorter users who need modest lift without spending. The dual-layer foam uses different densities: a softer top layer for comfort and a firmer base layer for support. The washable cover and non-slip base are standard at this price point. For short users who need a basic height boost more than active features, the BlissTrends delivers the essentials.",
     specs: ["2 height settings (3.7–5.7 in)","Dual-layer foam","Non-slip base","Washable cover"],
     pros: ["Under $20","8,952 reviews at 4.4 stars","Two height settings","Washable cover"],
     cons: ["Only 2 height settings vs 3 on HUANUO","Dual-layer foam less plush than memory foam","No massage or rocker feature"],
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     reviews: "1,162 reviews",
     imageUrl: `${BASE}/casazenith.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CW1ZYZ7S?tag=theofficejournal-20",
-    description: "The CasaZenith footrest offers six height settings spanning 3.1 to 7.3 inches, more adjustment range than any other footrest at a budget-friendly price in this roundup. Four integrated massage rollers allow active foot movement similar to dedicated massage mats without a separate purchase. The ABS plastic housing is less cushioned than foam alternatives but the detachable top makes cleaning straightforward. For users who change height often throughout the day, the six settings give more precision than two or three-setting alternatives.",
+    description: "3 inches, more adjustment range than any other footrest in this roundup. Four integrated massage rollers allow active foot movement similar to dedicated massage mats without a separate purchase. The ABS plastic housing is less cushioned than foam alternatives but the detachable top makes cleaning straightforward. For users who change height often throughout the day, the six settings give more precision than two or three-setting alternatives.",
     specs: ["6 height settings (3.1–7.3 in)","4 massage rollers","ABS construction","Detachable top"],
     pros: ["6 height settings for precise fit","Lowest height 3.1 inches for shorter users","4 massage rollers","Under $20"],
     cons: ["ABS plastic less cushioned than foam","Fewer reviews than top models","Louder massage rollers than foam"],
@@ -149,7 +149,7 @@ export const products: GuideProduct[] = [
     reviews: "588 reviews",
     imageUrl: `${BASE}/ergofoam-xl.webp`,
     amazonUrl: "https://www.amazon.com/dp/B093RF1S5J?tag=theofficejournal-20",
-    description: "The ErgoFoam XL targets users on bar stools, counter-height chairs, and high-seat workstations where feet hang significantly off the floor. At 7.5 inches tall, it provides more lift than any standard footrest in this roundup and supports users in very high seating configurations where other footrests do not reach. It is the premium pick for a specific use case rather than a general-purpose buy. Short users who work at counter-height desks or standing-desk-converter setups benefit the most from the extra height.",
+    description: "The ErgoFoam XL targets users on bar stools, counter-height chairs, and high-seat workstations where feet hang significantly off the floor. 5 inches tall, it provides more lift than any standard footrest in this roundup and supports users in very high seating configurations where other footrests do not reach. It is the premium pick for a specific use case rather than a general-purpose buy. Short users who work at counter-height desks or standing-desk-converter setups benefit the most from the extra height.",
     specs: ["7.5 inches tall","2-in-1 flat + rocker","High-density foam","Non-slip base"],
     pros: ["7.5 inches for high seating","4.7 stars","For stools and high chairs specifically","Flat and rocker modes"],
     cons: ["$54.95 is the most expensive in roundup","Too tall for standard desk chairs","Lower review count at 588"],
@@ -159,10 +159,10 @@ export const products: GuideProduct[] = [
 
 export const faq: { q: string; a: string }[] = [
   { q: "What height footrest do short people need?", a: "Users between 5'0\" and 5'4\" typically benefit from footrests in the 3 to 6 inch range. The correct height is whatever keeps the thighs parallel to the floor with feet flat. Adjustable-height models like the ComfiLife or CasaZenith let users find their precise height rather than estimating from a fixed-height pick." },
-  { q: "Are rocking footrests better for circulation?", a: "Yes. Rocking or tilting footrests encourage passive movement in the calf muscles and ankles, which helps circulation during long seated sessions. Models like the HUANUO and StrongTek Wood provide active rocking motion compared to the stationary support of a flat foam block." },
+  { q: "Are rocking footrests better for circulation?", a: "Rocking or tilting footrests encourage passive movement in the calf muscles and ankles, which helps circulation during long seated sessions. Models like the HUANUO and StrongTek Wood provide active rocking motion compared to the stationary support of a flat foam block." },
   { q: "Can footrests help with lower back pain?", a: "Yes, but only as part of a complete ergonomic setup. A footrest that keeps feet flat and thighs parallel reduces the pelvic tilt that loads the lower back. Combined with proper chair height and lumbar support, the ergonomic benefit is significant. A footrest alone does not compensate for a chair set at the wrong height." },
   { q: "Should I get a foam or wooden footrest?", a: "Foam footrests are softer and better for bare feet. Wooden footrests like the StrongTek last longer without compression changes, suit users who prefer firm surfaces, and look warmer in natural-finish setups. For most users in standard desk chairs, foam is more comfortable. For users who prefer hard-surface balance boards, wood is the better long-term choice." },
-  { q: "Are budget footrests worth it for short people?", a: "Budget options like the BlissTrends at $19.98 cover the basic needs: modest height lift and a non-slip base. They lack the massage features and multi-height adjustability of mid-range models. If the goal is simply to keep feet from dangling, budget options work. If active movement or precise height targeting matters, a $30-$40 adjustable model is worth the extra cost." }
+  { q: "Are budget footrests worth it for short people?", a: "98 cover the basic needs: modest height lift and a non-slip base. They lack the massage features and multi-height adjustability of mid-range models. If the goal is simply to keep feet from dangling, budget options work. If active movement or precise height targeting matters, a $30-$40 adjustable model is worth the extra cost." }
 ];
 
 export const relatedGuides: { href: string; title: string }[] = [

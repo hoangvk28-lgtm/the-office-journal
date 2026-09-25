@@ -156,7 +156,7 @@ export default async function BestWebcamUnder50Page() {
     datePublished: "2026-06-06",
     dateModified: "2026-06-06",
     author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` },
-    publisher: { "@type": "Organization", name: "WorkCocoon", url: SITE_URL },
+    publisher: { "@type": "Organization", name: "The Office Journal", url: SITE_URL },
     mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-webcam-under-50` },
     about: [
       { "@type": "Thing", name: "Webcam" },
@@ -596,7 +596,7 @@ export default async function BestWebcamUnder50Page() {
         <section id="buying-criteria" className="mb-14 scroll-mt-20">
           <h2 className="text-2xl font-bold text-ink mb-2 tracking-tight">How We Scored These Webcams</h2>
           <p className="text-sm text-ink-secondary mb-6 leading-relaxed">
-            The <strong className="text-ink">WorkCocoon Fit Score</strong> rates every pick on five criteria weighted toward small-space and student use cases. A $20 webcam that genuinely delivers for its intended use case scores higher than a $40 webcam with overstated specs.
+            The <strong className="text-ink">The Office Journal Fit Score</strong> rates every pick on five criteria weighted toward small-space and student use cases. A $20 webcam that genuinely delivers for its intended use case scores higher than a $40 webcam with overstated specs.
           </p>
           <div className="space-y-3">
             {buyingCriteria.map((c, i) => (
@@ -613,7 +613,7 @@ export default async function BestWebcamUnder50Page() {
             ))}
           </div>
           <p className="text-xs text-ink-muted mt-4 leading-relaxed">
-            Scores reflect WorkCocoon editorial assessment based on product specifications, verified buyer reports, and structured comparison criteria. They are not crowd-sourced ratings.{" "}
+            Scores reflect The Office Journal editorial assessment based on product specifications, verified buyer reports, and structured comparison criteria. They are not crowd-sourced ratings.{" "}
             <Link prefetch={false} href="/how-we-review" className="text-brand hover:underline">How we review →</Link>
           </p>
         </section>

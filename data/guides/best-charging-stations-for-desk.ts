@@ -1,11 +1,11 @@
 const BASE = "/images/media/guides/best-charging-stations-for-desk";
 
-export const guideTitle = "Best Charging Stations for Desk: Clean Picks for Workspaces and Small Desks";
+export const guideTitle = "The Best Charging Stations for Desk: Clean Picks for Workspaces and Small Desks: Our Picks";
 export const guideDescription =
   "A good desk charging station consolidates everything -- phone, watch, earbuds, tablet, even your laptop -- into one hub with one power cord running to the wall. Less cable clutter, less scrambling, less dead-battery anxiety during the workday.";
-export const metaTitle = "Best Charging Stations for Desk (2026)";
+export const metaTitle = "Best Charging Stations for Desk: Clean Picks for Workspaces and Small Desks (2026)";
 export const metaDescription =
-  "Tested picks for the best desk charging station -- USB-C, wireless, compact, multi-device, and budget options for any desk size in 2026.";
+  "How 10 charging stations for desk: clean picks for workspaces and small desks compare on features, build and practical fit, with clear notes on who each one suits.";
 export const lastUpdated = "2026-06-03";
 export const readTime = "14 min";
 export const heroImage = `${BASE}/best-charging-stations-for-desk-hero.webp`;
@@ -53,7 +53,7 @@ export const products: ChargingProduct[] = [
       { label: "Technology", value: "GaN (fanless)" },
       { label: "Form factor", value: "Desktop tower, upright" },
     ],
-    footprint: "Approximately 8.5 x 8.5 cm base -- fits comfortably in a corner or beside a monitor stand.",
+    footprint: "5 cm base -- fits comfortably in a corner or beside a monitor stand.",
     pros: [
       "200W total handles laptop + phone + tablet simultaneously",
       "All 4 USB-C ports support fast charging",
@@ -78,7 +78,7 @@ export const products: ChargingProduct[] = [
     ports: "4x USB-C + 2x USB-A",
     imageUrl: `${BASE}/02-ugreen-nexode-200w-6-port.webp`,
     amazonUrl: "https://www.amazon.com/dp/B09MGRNYHH?tag=theofficejournal-20",
-    whyItWins: "If you live in a USB-C world -- MacBook, iPad Pro, Android phone, wireless earbuds -- the UGREEN Nexode 200W is purpose-built for you. The standout spec is the primary USB-C port: 140W via PD 3.1, which is the first USB-C standard capable of charging a 16-inch MacBook Pro at full speed. Every other competitor in this price range tops out at 100W.",
+    whyItWins: "If you live in a USB-C world -- MacBook, iPad Pro, Android phone, wireless earbuds -- the UGREEN Nexode 200W is purpose-built for you. 1, which is the first USB-C standard capable of charging a 16-inch MacBook Pro at full speed. Every other competitor in this price range tops out at 100W.",
     bodyParagraphs: [
       "Four USB-C ports and two USB-A ports share that 200W total pool intelligently. Plug in your MacBook and two phones, and it distributes 100W to the laptop and 50W between the phones. Plug in only the laptop, and it gets the full 140W.",
       "The design is clean and desk-friendly -- a dark rectangular unit that sits upright without eating into your working area.",
@@ -114,7 +114,7 @@ export const products: ChargingProduct[] = [
     ports: "MagSafe + Watch + AirPods",
     imageUrl: `${BASE}/03-anker-magsafe-3-in-1-qi2-15w.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CF56WHV4?tag=theofficejournal-20",
-    whyItWins: "For an Apple setup -- iPhone, Apple Watch, AirPods -- the Anker MagSafe 3-in-1 Qi2 is the cleanest answer. One unit, no cables between your devices, no fumbling to find the charging sweet spot. Your iPhone snaps onto the MagSafe pad at 15W, your Watch charges on a dedicated puck, and your AirPods case drops onto the Qi pad. Done.",
+    whyItWins: "For an Apple setup -- iPhone, Apple Watch, AirPods -- the Anker MagSafe 3-in-1 Qi2 is the cleanest answer. One unit, no cables between your devices, no fumbling to find the charging sweet spot. Your iPhone snaps onto the MagSafe pad at 15W, your Watch charges on a dedicated puck, and your AirPods case drops onto the Qi pad.",
     bodyParagraphs: [
       "The Qi2 certification matters here: it delivers the full 15W wireless speed that used to require Apple's own MagSafe charger, but on an open standard. If you upgrade to any future Qi2-compatible phone, this charger works at full speed.",
       "At $35--100 depending on the current promotion (it discounts heavily and frequently on Amazon), this is also one of the most accessible 3-in-1 wireless desk chargers available.",
@@ -139,7 +139,7 @@ export const products: ChargingProduct[] = [
       "No USB-C/USB-A wired ports",
       "Watch charger is fixed, not adjustable on all variants",
     ],
-    bestFor: "iPhone users who want to eliminate phone, watch, and AirPods cables from their desk completely.",
+    bestFor: "IPhone users who want to eliminate phone, watch, and AirPods cables from their desk completely.",
   },
   {
     id: "best-multi-device",
@@ -152,7 +152,7 @@ export const products: ChargingProduct[] = [
     ports: "2x USB-C + 1x USB-A + MagSafe + retractable",
     imageUrl: `${BASE}/04-baseus-nomos-5-in-1-140w.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DHV7LR12?tag=theofficejournal-20",
-    whyItWins: "The Baseus Nomos 5-in-1 is the most thoughtfully designed charging hub we tested for desks with a mix of wired and wireless needs. At $69, it charges up to five devices simultaneously: a built-in MagSafe pad at 15W Qi2, a retractable USB-C cable (100W, no more searching for a cable), two fixed USB-C ports, and a USB-A port. The built-in LCD display shows real-time wattage per device -- a feature that used to cost $150+ for.",
+    whyItWins: "At $69, it charges up to five devices simultaneously: a built-in MagSafe pad at 15W Qi2, a retractable USB-C cable (100W, no more searching for a cable), two fixed USB-C ports, and a USB-A port. The built-in LCD display shows real-time wattage per device -- a feature that used to cost $150+ for.",
     bodyParagraphs: [
       "The retractable cable is the killer feature for desk use. Rather than having a loose cable draped across your desk surface, it snaps back into the unit cleanly when not in use. Small thing, big difference in how your desk looks and feels.",
       "After extended daily use, the Baseus Nomos runs reliably cool, distributes power intelligently, and hasn't shown any port degradation.",
@@ -189,10 +189,10 @@ export const products: ChargingProduct[] = [
     ports: "2x USB-C + 2x USB-A + 2x AC",
     imageUrl: `${BASE}/05-anker-nano-6-in-1-67w.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0C5QY4BL2?tag=theofficejournal-20",
-    whyItWins: "The Anker Nano is the pick for anyone with a small desk who still needs to charge five or six devices. It measures just 3.9 x 3.7 x 0.7 inches -- smaller than most phones -- but delivers 67W across two USB-C and two USB-A ports plus two AC outlets. The 2,100-joule surge protector is an unexpected bonus at this size and price.",
+    whyItWins: "The Anker Nano is the pick for anyone with a small desk who still needs to charge five or six devices. 7 inches -- smaller than most phones -- but delivers 67W across two USB-C and two USB-A ports plus two AC outlets. The 2,100-joule surge protector is an unexpected bonus at this size and price.",
     bodyParagraphs: [
-      "The two AC outlets make it versatile beyond just device charging: plug in a desk lamp, a USB hub, or any standard adapter alongside your devices. For a small home office desk or a shared workspace, that flexibility is genuinely useful.",
-      "ActiveShield 2.0 monitors temperature in real time, adjusting output to protect devices. In a compact unit where heat is a concern, that matters more than it does in larger, roomier hubs.",
+      "The two AC outlets make it versatile beyond just device charging: plug in a desk lamp, a USB hub, or any standard adapter alongside your devices. For a small home office desk or a shared workspace, that flexibility is useful.",
+      "0 monitors temperature in real time, adjusting output to protect devices. In a compact unit where heat is a concern, that matters more than it does in larger, roomier hubs.",
     ],
     specs: [
       { label: "Total output", value: "67W" },
@@ -251,7 +251,7 @@ export const products: ChargingProduct[] = [
       "No fast charging (Smart IC, not PD or QC)",
       "Charging speeds limited vs. GaN competitors",
     ],
-    bestFor: "Desks needing organization + charging, shared family desks, or setups with many USB-A accessories.",
+    bestFor: "Desks needing organization + charging, shared family desks, or setups with many USB-An accessories.",
   },
   {
     id: "best-budget",
@@ -266,7 +266,7 @@ export const products: ChargingProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B00P936188?tag=theofficejournal-20",
     whyItWins: "Under $30 and still capable of charging five devices simultaneously -- the Anker 5-Port USB Charging Hub earns its budget pick status without embarrassing itself on specs. The vertical orientation is the smart design choice here: rather than laying flat and consuming desk real estate, it stands upright, using height instead of width. On a small desk, that's meaningful.",
     bodyParagraphs: [
-      "Four USB-A ports at 2.4A each handle phones, earbuds, Kindles, and any USB-A accessory reliably. The USB-C port adds fast charging for modern devices without bumping the price past budget territory.",
+      "4A each handle phones, earbuds, Kindles, and any USB-An accessory reliably. The USB-C port adds fast charging for modern devices without bumping the price past budget territory.",
       "It won't charge your laptop at full speed or offer wireless, but for a bedside table, a secondary desk charging point, or a workspace where you just need a reliable hub without overthinking it, this Anker hub delivers exactly what it promises.",
     ],
     specs: [
@@ -340,7 +340,7 @@ export const faq: { question: string; answer: string }[] = [
   },
   {
     question: "Can a desk charging station charge a laptop?",
-    answer: "Some can, some can't. For laptop charging, look specifically for a USB-C port with Power Delivery (PD) and at least 65W output on that port -- 100W+ for 15/16-inch pro laptops. The Anker Prime 200W, UGREEN Nexode 200W, and Baseus Nomos all support laptop charging. The Anker budget hub and BESTEK organizer do not.",
+    answer: "For laptop charging, look specifically for a USB-C port with Power Delivery (PD) and at least 65W output on that port -- 100W+ for 15/16-inch pro laptops. The Anker Prime 200W, UGREEN Nexode 200W, and Baseus Nomos all support laptop charging. The Anker budget hub and BESTEK organizer do not.",
   },
   {
     question: "What is the difference between a charging station and a docking station?",
@@ -360,6 +360,6 @@ export const faq: { question: string; answer: string }[] = [
   },
   {
     question: "What charging station has the smallest desk footprint?",
-    answer: "The Anker Nano 6-in-1 has the smallest footprint in this roundup at 3.9 x 3.7 inches (9.9 x 9.4 cm). For even smaller footprints, see our guide to the best small desk charging stations.",
+    answer: "For even smaller footprints, see our guide to the best small desk charging stations.",
   },
 ];

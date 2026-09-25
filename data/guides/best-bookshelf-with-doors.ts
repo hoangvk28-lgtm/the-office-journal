@@ -1,12 +1,12 @@
 export const guideSlug = "best-bookshelf-with-doors";
-export const guideTitle = "8 Best Bookshelves with Doors in 2026";
-export const metaTitle = "Best Bookshelves with Doors in 2026 (Cabinet, Barn Door & Arched)";
+export const guideTitle = "The Best Bookshelves with Doors: Our Picks";
+export const metaTitle = "Best Bookshelves with Doors (2026)";
 export const metaDescription =
-  "8 best bookshelves with doors in 2026, comparing enclosed cabinet doors, sliding barn doors, and arched scalloped-door designs. Compare capacity, style, and price.";
+  "How 9 bookshelves with doors compare on features, build and practical fit, with clear notes on who each one suits.";
 export const mainKeyword = "bookshelf with doors";
 export const introParagraphs = [
   "A bookshelf with doors hides clutter and keeps dust off stored items while still leaving room for open display shelves above or beside the enclosed section. Styles range from simple cabinet doors on an industrial frame to sliding barn doors and more formal framed glass or wood panels.",
-  "Below are 8 bookshelves with doors we evaluated on weight capacity, door style, and how much of the unit stays open versus enclosed, useful for living rooms, home offices, or any space where you want a bookcase that can hide as much as it shows.",
+  "Below are 8 bookshelves with doors we compared on weight capacity, door style, and how much of the unit stays open versus enclosed, useful for living rooms, home offices, or any space where you want a bookcase that can hide as much as it shows.",
 ];
 export const lastUpdated = "2026-07-18";
 export const readTime = "11 min";
@@ -51,7 +51,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51P0hhxgYxL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0H5VH3H97?tag=theofficejournal-20",
     description:
-      "The VASAGLE Liry pairs 2 open display tiers on top with a fully enclosed 2-door cabinet below, giving you both visible shelf space for decor and hidden storage for clutter in one unit. It carries the highest weight capacity in this entire guide at 374.8 lbs, backed by 3 adjustable shelves with 5 different height options to fit taller books or bins.\n\nA robot-vacuum-friendly base with 3.5 inches of clearance means you can keep the floor underneath clean without moving the bookcase, a small detail that makes a real difference in day-to-day upkeep. The two-tone Cloud White and Warm Brown finish gives it a farmhouse look that fits a wide range of living rooms and home offices.\n\nRobot-vacuum-friendly base for easy cleaning. That's a real strength, but weigh it against the flip side: only 2 tiers stay open for display versus fully open bookcases.",
+      "The VASAGLE Liry pairs 2 open display tiers on top with a fully enclosed 2-door cabinet below, giving you both visible shelf space for decor and hidden storage for clutter in one unit. 8 lbs, backed by 3 adjustable shelves with 5 different height options to fit taller books or bins.\n\n5 inches of clearance means you can keep the floor underneath clean without moving the bookcase, a small detail that makes a real difference in day-to-day upkeep. The two-tone Cloud White and Warm Brown finish gives it a farmhouse look that fits a wide range of living rooms and home offices.\n\nRobot-vacuum-friendly base for easy cleaning.",
     specs: [
       "24.8\"W x 10\"D x 70.7\"H",
       "Engineered wood (P2 MDF)",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/31OuUlfdpbL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0DLB54QRV?tag=theofficejournal-20",
     description:
-      "The Shintenchi matches the VASAGLE on price while taking a more industrial approach, mixing 4 open shelves with 2 fully enclosed shelves behind doors for a balance tilted toward visible display. P2-grade MDF panels sit inside a black metal frame, and an included stability device helps keep the tall 70.9-inch unit anchored.\n\nAt just 9.3 inches deep, it has the shallowest footprint of any pick in this guide, making it a good fit for narrow hallways or tight corners where a deeper bookcase wouldn't work. Total capacity comes in at 300 lbs across the frame.\n\nWorth calling out specifically: 4 open plus 2 enclosed shelves for balanced storage. The catch is lowest rating among the enclosed-cabinet picks.",
+      "The Shintenchi matches the VASAGLE on price while taking a more industrial approach, mixing 4 open shelves with 2 fully enclosed shelves behind doors for a balance tilted toward visible display.\n\n3 inches deep, it has the shallowest footprint of any pick in this guide, making it a good fit for narrow hallways or tight corners where a deeper bookcase wouldn't work. Total capacity comes in at 300 lbs across the frame.",
     specs: [
       "23.6\"W x 9.3\"D x 70.9\"H",
       "P2 MDF + metal frame",
@@ -117,7 +117,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/5190O+yC6RL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0DP7DR8TM?tag=theofficejournal-20",
     description:
-      "The IRONCK combines 3 open tier shelves, 1 enclosed cabinet door, and 3 fabric drawers, the most complete mix of storage types in this guide. That variety lets it double as a bookshelf, a small file cabinet, or a display case depending on which section you use for what, useful if you have several different kinds of items to organize.\n\nMDF construction is scratch-resistant, and built-in anti-falling devices plus a reinforced load-bearing base add stability given the tall 71-inch frame. Each shelf handles up to 44 lbs, solid capacity for a unit balancing this many different storage formats.\n\nDoubles as a bookshelf, file cabinet, or display case. Set against that, only 1 door versus 2 on several other picks. Both matter when comparing it to the other picks here.",
+      "The IRONCK combines 3 open tier shelves, 1 enclosed cabinet door, and 3 fabric drawers, the most complete mix of storage types in this guide. That variety lets it double as a bookshelf, a small file cabinet, or a display case depending on which section you use for what, useful if you have several different kinds of items to organize.\n\nMDF construction is scratch-resistant, and built-in anti-falling devices plus a reinforced load-bearing base add stability given the tall 71-inch frame. Each shelf handles up to 44 lbs, solid capacity for a unit balancing this many different storage formats.\n\nDoubles as a bookshelf, file cabinet, or display case.",
     specs: [
       "29.5\"L x 11.8\"W x 71\"H",
       "MDF construction",
@@ -150,7 +150,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41S845HyZML._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B01NARXXJ1?tag=theofficejournal-20",
     description:
-      "The Sauder Palladia takes the most traditional approach in this guide, with framed double doors that fully enclose the entire bookcase rather than just a lower section, ideal if you want to hide clutter completely rather than leave any shelves on display. Five total compartments include 2 adjustable shelves so you can customize the interior layout. A Vintage Oak finish with black hardware gives it a classic library look that fits more formal or traditional home offices, and hidden cord access lets you route electronics behind the closed doors without unsightly cables. It's also the only pick in this guide backed by a 5-year warranty. A genuine advantage here is that fully enclosed, hides all shelves from view. The tradeoff is most expensive pick in this guide.",
+      "The Sauder Palladia takes the most traditional approach in this guide, with framed double doors that fully enclose the entire bookcase rather than just a lower section, ideal if you want to hide clutter completely rather than leave any shelves on display. Five total compartments include 2 adjustable shelves so you can customize the interior layout. A Vintage Oak finish with black hardware gives it a classic library look that fits more formal or traditional home offices, and hidden cord access lets you route electronics behind the closed doors without unsightly cables. It's also the only pick in this guide backed by a 5-year warranty.",
     specs: [
       "29.38\"W x 13.88\"D x 71.85\"H",
       "Engineered wood",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51kB0TR8G4L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0DPHMTB47?tag=theofficejournal-20",
     description:
-      "The SEDETA brings a soft white farmhouse finish with a hand-crafted groove texture that adds visual interest without going as rustic as the barn-door picks in this guide. Six tiers combine with cabinet doors and a single drawer, giving a mix of open, enclosed, and drawer storage in one elegant frame.\n\nP2-grade MDF construction keeps the piece sturdy at 300 lbs of total capacity, and an anti-tip kit is included for safety in households with kids or pets. If you want a bookshelf with doors that leans elegant rather than industrial, this is one of the more polished options here.\n\nCombines 6 tiers, cabinet doors, and a drawer. On the other hand, smaller review sample than most other picks. Neither should be a surprise once you know to look for it.",
+      "The SEDETA brings a soft white farmhouse finish with a hand-crafted groove texture that adds visual interest without going as rustic as the barn-door picks in this guide. Six tiers combine with cabinet doors and a single drawer, giving a mix of open, enclosed, and drawer storage in one elegant frame.\n\nP2-grade MDF construction keeps the piece sturdy at 300 lbs of total capacity, and an anti-tip kit is included for safety in households with kids or pets. If you want a bookshelf with doors that leans elegant rather than industrial, this is one of the more polished options here.\n\nCombines 6 tiers, cabinet doors, and a drawer.",
     specs: [
       "31.5\"W x 13.8\"D x 70.7\"H",
       "P2 MDF construction",
@@ -216,7 +216,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51eGqFV-UGL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0D48HC6MQ?tag=theofficejournal-20",
     description:
-      "The Joaxswe stands out with sliding barn doors instead of swinging cabinet doors, a distinctive farmhouse detail that also saves floor clearance since the doors don't need to swing open. A unique wood grain pattern runs across the panels, and metal edge decoration along the frame adds a rustic-industrial accent.\n\nFive adjustable shelves sit behind and beside the sliding doors, and a wider wooden base than most picks in this guide adds extra stability. An anti-tip-over device is included, important given the barn-door mechanism's added hardware at the top of the frame.\n\nUnique grain pattern and metal edge accents. That's a real strength, but weigh it against the flip side: higher price than most non-barn-door picks.",
+      "The Joaxswe stands out with sliding barn doors instead of swinging cabinet doors, a distinctive farmhouse detail that also saves floor clearance since the doors don't need to swing open. A unique wood grain pattern runs across the panels, and metal edge decoration along the frame adds a rustic-industrial accent.\n\nFive adjustable shelves sit behind and beside the sliding doors, and a wider wooden base than most picks in this guide adds extra stability. An anti-tip-over device is included, important given the barn-door mechanism's added hardware at the top of the frame.\n\nUnique grain pattern and metal edge accents.",
     specs: [
       "31.49\"W x 15.35\"D x 69.68\"H",
       "Engineered wood",
@@ -249,7 +249,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/515C0UkaFhL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FZTSHJSM?tag=theofficejournal-20",
     description:
-      "The ORRD is the highest-rated pick in this entire guide at 4.9 stars, sold as a matched pair of arched bookshelves designed to flank a doorway, sofa, or fireplace as a coordinated statement piece. Each unit combines an arched silhouette with scalloped cabinet doors and gold accent handles, a mid-century modern look that stands well apart from the farmhouse and industrial styles elsewhere in this guide. Each bookshelf in the pair offers 4 open display shelves plus 1 closed cabinet section, so you still get plenty of visible shelving alongside the enclosed storage. An anti-tip kit is included on each unit, and the set is available in Natural or Walnut finishes. Worth calling out specifically: striking arched silhouette with scalloped doors and gold handles. The catch is most expensive pick in this guide for the pair.",
+      "9 stars, sold as a matched pair of arched bookshelves designed to flank a doorway, sofa, or fireplace as a coordinated statement piece. Each unit combines an arched silhouette with scalloped cabinet doors and gold accent handles, a mid-century modern look that stands well apart from the farmhouse and industrial styles elsewhere in this guide. Each bookshelf in the pair offers 4 open display shelves plus 1 closed cabinet section, so you still get plenty of visible shelving alongside the enclosed storage. An anti-tip kit is included on each unit, and the set is available in Natural or Walnut finishes.",
     specs: [
       "Set of 2, 31.49\"W x 11.81\"D x 70.86\"H each",
       "MDF construction",
@@ -282,7 +282,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51kneUck0LL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FN7KR57S?tag=theofficejournal-20",
     description:
-      "The FACBOTALL is the widest single unit in this guide at 71 inches, spreading 18 shelves across 6 tiers behind 6 individual farmhouse barn doors with gold handles, more doors and more total shelving than any other pick here. That scale makes it well suited to serving as a home library or even a room divider in an open floor plan.\n\nFPB and MDF construction keeps shelves thickened to 24mm for durability under a full load of books, and each shelf handles up to 66 lbs. An anti-tipping device is included given the unit's height and width, and the black finish with gold hardware gives it a bold, modern-farmhouse look.\n\n18 shelves and 6 barn doors, the most of any pick here. Set against that, very large footprint needs a spacious room. Both matter when comparing it to the other picks here.",
+      "The FACBOTALL is the widest single unit in this guide at 71 inches, spreading 18 shelves across 6 tiers behind 6 individual farmhouse barn doors with gold handles, more doors and more total shelving than any other pick here. That scale makes it well suited to serving as a home library or even a room divider in an open floor plan.\n\nFPB and MDF construction keeps shelves thickened to 24mm for durability under a full load of books, and each shelf handles up to 66 lbs. An anti-tipping device is included given the unit's height and width, and the black finish with gold hardware gives it a bold, modern-farmhouse look.\n\n18 shelves and 6 barn doors, the most of any pick here.",
     specs: [
       "75\"H x 71\"W x 11.7\"D",
       "FPB + MDF construction",
@@ -317,11 +317,11 @@ export const buyingCriteria: BuyingCriterion[] = [
   },
   {
     "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this bookshelf with door over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
+    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this bookshelf with door over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
   },
   {
     "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any bookshelf with door you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
+    "explanation": "This matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any bookshelf with door you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
   },
   {
     "criterion": "Check compatibility and fit with your existing setup before ordering",
@@ -332,7 +332,7 @@ export const buyingCriteria: BuyingCriterion[] = [
 export const faq: FaqItem[] = [
   {
     q: "What is the best bookshelf with doors overall?",
-    a: "The VASAGLE Liry Farmhouse 6-Tier Bookshelf (Pick 1) is the best overall choice, with the highest weight capacity in this guide at 374.8 lbs plus a robot-vacuum-friendly base and attractive two-tone finish.",
+    a: "8 lbs plus a robot-vacuum-friendly base and attractive two-tone finish.",
   },
   {
     q: "What is the most affordable bookshelf with doors?",

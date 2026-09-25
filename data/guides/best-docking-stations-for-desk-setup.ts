@@ -1,11 +1,11 @@
 const BASE = "/images/media/guides/best-docking-stations-for-desk-setup";
 
-export const guideTitle = "Best Docking Stations for Desk Setup: Clean Picks for Laptop and Monitor Workspaces";
+export const guideTitle = "The Best Docking Stations for Desk Setup: Clean Picks for Laptop and Monitor Workspaces: Picks and Trade-offs";
 export const guideDescription =
   "A docking station turns six cables into one. Plug in the Thunderbolt or USB-C cable, and the laptop instantly connects to every monitor, peripheral, and charger at once. Pick it up, pull one cable. Come back, plug in one cable.";
-export const metaTitle = "Best Docking Stations for Desk Setup (2026)";
+export const metaTitle = "Best Docking Stations for Desk Setup: Clean Picks for Laptop and Monitor Workspaces (2026)";
 export const metaDescription =
-  "6 docking stations tested for desk setups -- TB4, USB4, and USB-C picks. Includes a plain-English TB4 vs USB-C guide plus a 5-step setup walkthrough.";
+  "A practical comparison of 9 docking stations for desk setup: clean picks for laptop and monitor workspaces, focused on features, build and practical fit, and the trade-offs between them.";
 export const lastUpdated = "2026-06-03";
 export const readTime = "14 min";
 export const heroImage = `${BASE}/07-hero-bai-6-best-docking-stations-for-desk-setup.webp`;
@@ -47,14 +47,14 @@ export const products: DockProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0928W3XHD?tag=theofficejournal-20",
     whyItWins: "The Anker 777 is the best balanced docking station for most home office and desk setups. Thunderbolt 4 delivers 40 Gbps of bandwidth, two 4K60 display outputs, and 90W laptop charging -- all from one Thunderbolt cable to your laptop. Twelve ports cover every peripheral a standard desk needs: USB-A for keyboard and mouse, USB-C for accessories, HDMI and DisplayPort for monitors, Gigabit Ethernet for wired network, and an SD card slot for cameras.",
     bodyParagraphs: [
-      "The design is desk-friendly: a rectangular tower that stands upright or lies flat, with ports accessible on both front and back. The front-facing USB-A and USB-C ports are the practical detail -- you plug in USB drives or charge devices without reaching behind the unit.",
-      "At ~$150--180, it sits at a price where Thunderbolt 4 becomes genuinely accessible without the premium of CalDigit or OWC.",
+      "The design is desk-friendly: a rectangular tower that stands upright or lies flat, with ports accessible on both front and back. The front-facing USB-An and USB-C ports are the practical detail -- you plug in USB drives or charge devices without reaching behind the unit.",
+      "At ~$150--180, it sits at a price where Thunderbolt 4 becomes accessible without the premium of CalDigit or OWC.",
     ],
     specs: [
       { label: "Connection", value: "Thunderbolt 4 (1x upstream to laptop)" },
       { label: "Laptop charging", value: "90W via Thunderbolt" },
       { label: "Displays", value: "2x 4K@60Hz (1x HDMI + 1x DisplayPort)" },
-      { label: "Ports", value: "4x USB-A 3.2, 3x USB-C, 1x HDMI, 1x DisplayPort, 1x Gigabit Ethernet, 1x SD, 1x audio" },
+      { label: "Ports", value: "2, 3x USB-C, 1x HDMI, 1x DisplayPort, 1x Gigabit Ethernet, 1x SD, 1x audio" },
       { label: "Data", value: "40 Gbps" },
       { label: "Price", value: "~$150--180" },
     ],
@@ -85,7 +85,7 @@ export const products: DockProduct[] = [
     priceRange: "~$200--250",
     imageUrl: `${BASE}/02-caldigit-ts4-thunderbolt-4.webp`,
     amazonUrl: "https://www.amazon.com/dp/B09GK8LBWS?tag=theofficejournal-20",
-    whyItWins: "The CalDigit TS4 is the reference dock for MacBook setups. Eighteen ports. 98W laptop charging -- enough to charge a MacBook Pro 14\" at full speed under heavy load. 2.5 Gigabit Ethernet -- twice as fast as standard Gigabit, important if you have a 2.5GbE router or NAS. The downstream Thunderbolt 4 port lets you daisy-chain another Thunderbolt device or a second high-res display.",
+    whyItWins: "The CalDigit TS4 is the reference dock for MacBook setups. 98W laptop charging -- enough to charge a MacBook Pro 14\" at full speed under heavy load. The downstream Thunderbolt 4 port lets you daisy-chain another Thunderbolt device or a second high-res display.",
     bodyParagraphs: [
       "The CalDigit TS4 is not cheap (~$200--250), but for a MacBook Pro desk setup where you want every peripheral connected through one dock with no compromises, it is the benchmark. Reviews consistently rate it the most stable, most compatible Thunderbolt 4 dock on the market.",
     ],
@@ -133,7 +133,7 @@ export const products: DockProduct[] = [
       { label: "Connection", value: "Thunderbolt 4 (1x upstream)" },
       { label: "Laptop charging", value: "96W" },
       { label: "Displays", value: "3 (2x HDMI + 1x downstream TB4)" },
-      { label: "Ports", value: "2x HDMI 2.0, 4x USB-A 3.2, 2x USB-C (front, fast charge), 1x downstream TB4, 1x Gigabit Ethernet, 1x SD, 1x audio" },
+      { label: "Ports", value: "2, 2x USB-C (front, fast charge), 1x downstream TB4, 1x Gigabit Ethernet, 1x SD, 1x audio" },
       { label: "Price", value: "~$199" },
     ],
     pros: [
@@ -203,8 +203,8 @@ export const products: DockProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B087QZVQJX?tag=theofficejournal-20",
     whyItWins: "Not every desk needs Thunderbolt. For a home office setup with one external monitor, a wired keyboard and mouse, and occasional USB drive use -- an 85W USB-C hub at ~$55--80 covers everything at a fraction of the TB4 price.",
     bodyParagraphs: [
-      "The Anker 8-in-1 has an 85W Power Delivery pass-through port, an HDMI 2.0 output for a single 4K@60Hz display, three USB-A 3.0 ports, a USB-C data port, Gigabit Ethernet, and an SD card reader. No Thunderbolt needed -- any USB-C laptop works.",
-      "The compact 4.65-inch length means it sits neatly beside a laptop without dominating the desk. The Gigabit Ethernet inclusion at this price is the standout value detail -- most competitors at this tier omit it.",
+      "0 ports, a USB-C data port, Gigabit Ethernet, and an SD card reader. No Thunderbolt needed -- any USB-C laptop works.",
+      "65-inch length means it sits neatly beside a laptop without dominating the desk. The Gigabit Ethernet inclusion at this price is the standout value detail -- most competitors at this tier omit it.",
     ],
     specs: [
       { label: "Connection", value: "USB-C (any USB-C laptop)" },
@@ -241,7 +241,7 @@ export const products: DockProduct[] = [
     priceRange: "~$350--420",
     imageUrl: `${BASE}/06-caldigit-ts5-plus-thunderbolt-5.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0F2GQZXVL?tag=theofficejournal-20",
-    whyItWins: "The CalDigit TS5 Plus is overkill for most home offices -- and exactly right for creative professionals, developers running dual external displays at 4K, and MacBook Pro M4 Max users who need every bit of bandwidth available. Twenty ports. 140W dedicated host charging with a 330W total power supply. Thunderbolt 5 bandwidth at 80--120 Gbps. Multiple 4K display support via four Thunderbolt ports. 2.5GbE Ethernet.",
+    whyItWins: "The CalDigit TS5 Plus is overkill for most home offices -- and exactly right for creative professionals, developers running dual external displays at 4K, and MacBook Pro M4 Max users who need every bit of bandwidth available. 140W dedicated host charging with a 330W total power supply. Thunderbolt 5 bandwidth at 80--120 Gbps. Multiple 4K display support via four Thunderbolt ports.",
     bodyParagraphs: [
       "The dedicated 140W host charging port -- backed by a 330W PSU -- ensures the laptop never dips into its battery under any load. MacBook Pro 16\" M4 Max charges at its maximum 140W rate. No other dock in this guide matches that capability.",
       "At ~$350--420, it is a significant investment. For a desk that represents a professional's primary workstation, it is the most complete single-cable solution available in 2026.",
@@ -250,7 +250,7 @@ export const products: DockProduct[] = [
       { label: "Connection", value: "Thunderbolt 5 (1x upstream)" },
       { label: "Laptop charging", value: "140W dedicated host charging (330W PSU total)" },
       { label: "Displays", value: "Multi-display via 4x TB5 + HDMI 2.1 + DisplayPort 2.1" },
-      { label: "Ports", value: "20 total -- 4x TB5, 4x USB-A, 2x USB-C, 1x HDMI 2.1, 1x DisplayPort 2.1, 1x 2.5GbE, 1x SD, 1x audio" },
+      { label: "Ports", value: "5GbE, 1x SD, 1x audio" },
       { label: "Data", value: "80--120 Gbps (TB5)" },
       { label: "Ethernet", value: "10GbE (10-Gigabit)" },
     ],
@@ -333,14 +333,14 @@ export const faq: { question: string; answer: string }[] = [
   },
   {
     question: "Can one dock work for both my laptop and desktop?",
-    answer: "This depends on your desktop's ports. Most desktops use USB-A and HDMI directly -- they don't need a dock. For a setup where you switch a dock between a laptop (for travel) and a desktop (at desk), a KVM-capable dock is the right tool.",
+    answer: "This depends on your desktop's ports. Most desktops use USB-An and HDMI directly -- they don't need a dock. For a setup where you switch a dock between a laptop (for travel) and a desktop (at desk), a KVM-capable dock is the right tool.",
   },
   {
     question: "Does a docking station improve desk cable management?",
-    answer: "Dramatically. A fully connected desk without a dock typically has 5--8 cables to the laptop. With a dock: one cable. All other cables run to the dock, which sits to one side or under the desk.",
+    answer: "A fully connected desk without a dock typically has 5--8 cables to the laptop. With a dock: one cable. All other cables run to the dock, which sits to one side or under the desk.",
   },
   {
     question: "What docking station works with a MacBook Air?",
-    answer: "MacBook Air M3 and M4 have Thunderbolt 4 ports. Any TB4 dock works. The Anker 777 is the best value for MacBook Air -- 90W charging is sufficient (Air has a lower power draw than Pro), and the port selection covers any standard desk.",
+    answer: "MacBook Air M3 and M4 have Thunderbolt 4 ports. The Anker 777 is the best value for MacBook Air -- 90W charging is sufficient (Air has a lower power draw than Pro), and the port selection covers any standard desk.",
   },
 ];

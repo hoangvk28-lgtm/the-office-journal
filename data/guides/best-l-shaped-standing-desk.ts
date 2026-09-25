@@ -1,10 +1,10 @@
 const BASE = "/images/guides/best-l-shaped-standing-desk";
 
 export const guideSlug = "best-l-shaped-standing-desk";
-export const guideTitle = "Best L-Shaped Standing Desks in 2026: Electric Corner Desks That Actually Rise";
-export const metaTitle = "Best L-Shaped Standing Desks in 2026";
+export const guideTitle = "The Best L-Shaped Standing Desks in 2026: Electric Corner Desks That Actually Rise, Compared";
+export const metaTitle = "Best L-Shaped Standing Desks in 2026: Electric Corner Desks That Actually Rise (2026)";
 export const metaDescription =
-  "Best L-shaped standing desks in 2026. Covers Type A vs Type B motor configurations, corner dead zone math, footprint measurement, and stability at height.";
+  "We compared 11 L-shaped standing desks in 2026: electric corner desks that actually rise on size, height range, stability and features to help you choose the right one for your space.";
 export const lastUpdated = "2026-06-30";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/00-hero.webp`;
@@ -133,14 +133,14 @@ export const products: LShapedStandingDesk[] = [
     imageUrl: `${BASE}/01-vivo-63x55.webp`,
     amazonUrl: "https://www.amazon.com/dp/B09B2VDSYJ?tag=theofficejournal-20",
     whyItWorks:
-      "The VIVO is the best-reviewed L-shaped standing desk on this list by rating. At 4.6 stars across 1,738 ratings with consistent monthly purchase velocity of 300 to 600+ units, it is the most validated option in the category. The reversible feature means the L-orientation can be configured left-handed or right-handed at assembly. Dual motor handles the larger L-shaped surface load more evenly than single-motor alternatives. The 265 lb capacity has meaningful headroom for dual or triple monitor setups.",
+      "The VIVO is the best-reviewed L-shaped standing desk on this list by rating. The reversible feature means the L-orientation can be configured left-handed or right-handed at assembly. Dual motor handles the larger L-shaped surface load more evenly than single-motor alternatives. The 265 lb capacity has meaningful headroom for dual or triple monitor setups.",
     tradeoffs: [
-      "28.3\" to 47.2\" height ceiling - users taller than 6'0\" should verify 47.2\" reaches their standing elbow height",
+      "2\" reaches their standing elbow height",
       "No built-in drawer - if storage is a priority, Pick 2 or Pick 5 add drawers",
       "Corner dead zone is 12 to 15 inches on each side - plan monitor and keyboard position accordingly",
     ],
     skipIf:
-      "Skip if you are taller than 6'0\" and need 47\"+ standing height - verify the 47.2\" ceiling meets your target. Skip if built-in storage matters - the OffiGo 63\" with drawers (Pick 2) covers that.",
+      "2\" ceiling meets your target. Skip if built-in storage matters - the OffiGo 63\" with drawers (Pick 2) covers that.",
     pros: [
       "4.6 stars at 1,738 reviews - highest trust signal in the L-shaped standing desk category on Amazon",
       "Dual motor handles the larger L-shaped surface load more evenly",
@@ -148,7 +148,7 @@ export const products: LShapedStandingDesk[] = [
       "265 lb capacity gives meaningful headroom for dual or triple monitor setups",
     ],
     cons: [
-      "47.2\" max height - falls short for users taller than 6'0\" in some standing positions",
+      "2\" max height - falls short for users taller than 6'0\" in some standing positions",
       "No built-in drawer",
       "Corner dead zone of 12 to 15 inches on each side is unavoidable in any L-shape",
     ],
@@ -164,7 +164,7 @@ export const products: LShapedStandingDesk[] = [
     imageUrl: `${BASE}/02-offigo-63-drawers.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DBQ4JX85?tag=theofficejournal-20",
     whyItWorks:
-      "The OffiGo 63\" combines an L-shaped electric frame with a built-in drawer - the most feature-complete configuration in this format. The 600+ bought past month badge is unusually strong for a desk with only 114 reviews, signaling this listing is actively converting buyers at a rate well above its review count would suggest. For L-shaped standing desk buyers who need built-in storage, this is the largest 63\" configuration with drawers available in this category.",
+      "The OffiGo 63\" combines an L-shaped electric frame with a built-in drawer - the most feature-complete configuration in this format. For L-shaped standing desk buyers who need built-in storage, this is the largest 63\" configuration with drawers available in this category.",
     tradeoffs: [
       "114 reviews - verify return policy and warranty terms before ordering; less post-purchase data than VIVO",
       "Drawer placement: confirm which section the drawer is on - main or return - before ordering",
@@ -193,7 +193,7 @@ export const products: LShapedStandingDesk[] = [
     imageUrl: `${BASE}/03-acrolix-59x40.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CNCQSLQF?tag=theofficejournal-20",
     whyItWorks:
-      "The Acrolix is the budget pick in this roundup. At 59x40\" it is slightly smaller than the VIVO (63x55\"), making it a better fit for tighter corners or rooms where the full 55\" return depth would cause clearance issues. The 40\" return depth is the key constraint: if you plan to use the return section for a second monitor, verify that 40\" gives adequate distance from your seated position on that side. The 824-review count at 4.4 stars is adequate sample size for a budget-tier L-shaped standing desk.",
+      "The Acrolix is the budget pick in this roundup. At 59x40\" it is slightly smaller than the VIVO (63x55\"), making it a better fit for tighter corners or rooms where the full 55\" return depth would cause clearance issues. The 40\" return depth is the key constraint: if you plan to use the return section for a second monitor, verify that 40\" gives adequate distance from your seated position on that side. 4 stars is adequate sample size for a budget-tier L-shaped standing desk.",
     tradeoffs: [
       "40\" return depth is shallow - dual monitors on the return section may be cramped",
       "4.4 stars vs VIVO's 4.6 stars - a meaningful gap in a purchase decision",
@@ -223,7 +223,7 @@ export const products: LShapedStandingDesk[] = [
     imageUrl: `${BASE}/04-aodk-59.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0D62ZTBYL?tag=theofficejournal-20",
     whyItWorks:
-      "The AODK is the feature-dense pick: built-in monitor stand shelf, integrated power outlets and USB ports, and LED lighting on an electric L-shaped frame. If you are building a gaming or streaming desk where cable management and power access are primary concerns, this handles them in one purchase. The 265 lb capacity handles heavy dual-monitor setups comfortably. The 4.6 stars at 154 reviews is an early sample but consistent with the rating level.",
+      "The AODK is the feature-dense pick: built-in monitor stand shelf, integrated power outlets and USB ports, and LED lighting on an electric L-shaped frame. If you are building a gaming or streaming desk where cable management and power access are primary concerns, this handles them in one purchase. The 265 lb capacity handles heavy dual-monitor setups comfortably.",
     tradeoffs: [
       "154 reviews is the lowest sample on this list - confirm return policy before ordering",
       "Monitor stand shelf is fixed - if you prefer monitor arms, the shelf becomes an unused structural feature",
@@ -284,7 +284,7 @@ export const products: LShapedStandingDesk[] = [
     imageUrl: `${BASE}/06-sedeta-farmhouse-70x73.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0G1BHZJYX?tag=theofficejournal-20",
     whyItWorks:
-      "The largest desk on this list and the only one with a farmhouse aesthetic. At 70x73\", the SEDETA covers more corner floor space than any other pick - appropriate for a dedicated home office room where a large executive layout is the goal. The farmhouse aesthetic in an electric L-shaped standing desk is not available elsewhere at scale on Amazon. The 4.2 stars at 57 reviews is the weakest trust signal on this list - included specifically for buyers searching for a large farmhouse L-shaped standing desk.",
+      "The largest desk on this list and the only one with a farmhouse aesthetic. At 70x73\", the SEDETA covers more corner floor space than any other pick - appropriate for a dedicated home office room where a large executive layout is the goal. The farmhouse aesthetic in an electric L-shaped standing desk is not available elsewhere at scale on Amazon.",
     tradeoffs: [
       "4.2 stars at 57 reviews - lowest rating and lowest review count on this list",
       "70x73\" requires a large corner footprint - verify room dimensions carefully",
@@ -356,11 +356,11 @@ export const atAGlanceRows: AtAGlanceRow[] = products.map((p) => ({
 export const faq: { q: string; a: string }[] = [
   {
     q: "What is the difference between a Type A and Type B L-shaped standing desk?",
-    a: "Type A is a full electric L where both sides rise together when you press the button. Type B has a motorized main section but a fixed-height return that stays at sitting height when you stand. All seven picks on this list are Type A. Many listings labeled L-shaped standing desk on Amazon are actually Type B - the listing photos do not always make this clear. Verify before purchasing.",
+    a: "Type An is a full electric L where both sides rise together when you press the button. Type B has a motorized main section but a fixed-height return that stays at sitting height when you stand. All seven picks on this list are Type A. Many listings labeled L-shaped standing desk on Amazon are actually Type B - the listing photos do not always make this clear.",
   },
   {
     q: "Does an L-shaped standing desk need a corner space?",
-    a: "Yes. An L-shaped desk requires two perpendicular walls in a corner configuration. The desk occupies a corner rectangle equal to its two leg measurements. For a VIVO 63x55\" desk, you need at least 63\" of clear wall on one side and 55\" on the adjacent wall, plus aisle clearance in front of the chair on each open side.",
+    a: "An L-shaped desk requires two perpendicular walls in a corner configuration. The desk occupies a corner rectangle equal to its two leg measurements. For a VIVO 63x55\" desk, you need at least 63\" of clear wall on one side and 55\" on the adjacent wall, plus aisle clearance in front of the chair on each open side.",
   },
   {
     q: "What is the corner dead zone on an L-shaped desk?",

@@ -1,10 +1,10 @@
 const BASE = "/images/guides/best-desk-hutches-for-dorm-rooms";
 
 export const guideSlug = "best-desk-hutches-for-dorm-rooms";
-export const guideTitle = "8 Best Desk Hutches for Dorm Rooms (2026)";
-export const metaTitle = "Best Desk Hutches for Dorm Rooms 2026";
+export const guideTitle = "The Best Desk Hutches for Dorm Rooms: Picks and Trade-offs";
+export const metaTitle = "Best Desk Hutches for Dorm Rooms (2026)";
 export const metaDescription =
-  "Best desk hutches for dorm rooms in 2026. Compact options that fit twin XL setups, add vertical storage, and keep supplies organized on a small desk.";
+  "A practical comparison of 10 desk hutches for dorm rooms, focused on features, build and practical fit, and the trade-offs between them.";
 export const lastUpdated = "2026-07-07";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/hero.webp`;
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/furinno-5shelf.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0F5GQNHRN?tag=theofficejournal-20",
     description:
-      "The Furinno 37-inch hutch is the most-reviewed desk hutch available and fits standard dorm desks in the 36-40 inch range without overhanging the sides. Five open shelves give vertical storage for textbooks, a small plant, folders, and desk supplies in a format that takes no floor space.\n\nAt its price point, the build is lightweight particleboard suited for paper and supplies rather than heavy equipment. Dorm buyers who want maximum shelf count at minimum cost consistently rank it as the default choice before looking at pricier alternatives.",
+      "Five open shelves give vertical storage for textbooks, a small plant, folders, and desk supplies in a format that takes no floor space.\n\nAt its price point, the build is lightweight particleboard suited for paper and supplies rather than heavy equipment. Dorm buyers who want maximum shelf count at minimum cost consistently rank it as the default choice before looking at pricier alternatives.",
     specs: ["37 inches wide", "5 shelves", "Open design", "Lightweight"],
     pros: [
       "Nearly 40,000 reviews at 4.2 stars",
@@ -89,7 +89,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/choochoo-drawer-white.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CWLCHKZD?tag=theofficejournal-20",
     description:
-      "The ChooChoo bookshelf adds a pull-out drawer to the standard open-shelf hutch format, giving concealed storage for chargers, cables, earbuds, and small items that would otherwise clutter open shelves. The white finish is neutral and pairs well with most dorm furniture regardless of what the school provides. It costs more than the basic Furinno but the drawer adds real utility for students who need to hide loose items quickly before roommates or RA visits. The 36.4-inch width fits the majority of dorm-issue desks.",
+      "The ChooChoo bookshelf adds a pull-out drawer to the standard open-shelf hutch format, giving concealed storage for chargers, cables, earbuds, and small items that would otherwise clutter open shelves. The white finish is neutral and pairs well with most dorm furniture regardless of what the school provides. It costs more than the basic Furinno but the drawer adds real utility for students who need to hide loose items quickly before roommates or RA visits. 4-inch width fits the majority of dorm-issue desks.",
     specs: ["36.4 inches tall", "5 shelves plus 1 drawer", "White finish"],
     pros: [
       "Pull-out drawer for concealed storage",
@@ -170,7 +170,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/snughome-31-rustic.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0D94266LY?tag=theofficejournal-20",
     description:
-      "The Snughome 31.9-inch hutch is the most compact fixed-width model in this roundup, fitting dorm desks that run under 33 inches wide. The three-tier format and rustic brown finish give a warmer look than the white-finish options and work well with natural-wood or walnut-tone dorm furniture.\n\nAt 4.7 stars it holds the highest rating in this roundup despite having only 122 reviews. Students with shorter desks or who share a desk surface with a roommate tend to prefer the narrower format over a 37-inch model.",
+      "9-inch hutch is the most compact fixed-width model in this roundup, fitting dorm desks that run under 33 inches wide. The three-tier format and rustic brown finish give a warmer look than the white-finish options and work well with natural-wood or walnut-tone dorm furniture.\n\nStudents with shorter desks or who share a desk surface with a roommate tend to prefer the narrower format over a 37-inch model.",
     specs: ["31.9 inches wide", "3 tiers", "Rustic brown finish", "Compact footprint"],
     pros: [
       "4.7-star rating, highest in this roundup",
@@ -197,7 +197,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/snughome-38-rustic.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CJ8YDWNY?tag=theofficejournal-20",
     description:
-      "The Snughome 38.6-inch four-tier hutch is the wider version of the compact model above and suits standard dorm desks in the 36-40 inch range. Four open tiers provide enough storage for textbooks, binders, a small speaker, and basic supplies with room to spare for display items.\n\nWith 454 reviews at 4.7 stars, it has the strongest combined review count and rating of any hutch in this dorm roundup. Students who want a rustic-finish hutch wide enough to frame a 24-inch monitor tend to prefer this over the 31.9-inch model.",
+      "6-inch four-tier hutch is the wider version of the compact model above and suits standard dorm desks in the 36-40 inch range. Four open tiers provide enough storage for textbooks, binders, a small speaker, and basic supplies with room to spare for display items.\n\n7 stars, it has the strongest combined review count and rating of any hutch in this dorm roundup.",
     specs: ["38.6 inches wide", "4 tiers", "Rustic brown finish"],
     pros: [
       "4.7 stars across 454 reviews",
@@ -224,7 +224,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/choochoo-7shelf.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CWKYVDCP?tag=theofficejournal-20",
     description:
-      "The ChooChoo 7-shelf model is the tallest hutch in this roundup at 33.5 inches high, making it one of the few desk hutches that can hold a full semester of textbooks on a single unit. Seven shelves across 37 inches wide gives an unusually high total storage volume compared to four or five-shelf models. It is priced comparably to the ChooChoo drawer model and makes sense for students with large textbook collections who need storage volume over concealed organization. The height means upper shelves may be awkward to access without standing.",
+      "5 inches high, making it one of the few desk hutches that can hold a full semester of textbooks on a single unit. Seven shelves across 37 inches wide gives an unusually high total storage volume compared to four or five-shelf models. It is priced comparably to the ChooChoo drawer model and makes sense for students with large textbook collections who need storage volume over concealed organization. The height means upper shelves may be awkward to access without standing.",
     specs: ["7 shelves", "37 inches wide", "33.5 inches tall", "White finish"],
     pros: [
       "Seven shelves for maximum textbook storage",
@@ -251,7 +251,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/marbrasse-drawer-black.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DJ8MD6P5?tag=theofficejournal-20",
     description:
-      "The Marbrasse hutch combines four open tiers with a single drawer in a black finish, making it one of the few black hutches in this roundup that also includes concealed storage. At 40 inches wide it is the widest model here and suits larger dorm desks or shared L-shaped desk surfaces. at a budget-friendly price it is one of the better-value hutches with a drawer, undercutting the ChooChoo drawer model by a wide margin. Students who want a dark-finish hutch with some concealed storage and a wider footprint will find limited competition at this price.",
+      "The Marbrasse hutch combines four open tiers with a single drawer in a black finish, making it one of the few black hutches in this roundup that also includes concealed storage. At 40 inches wide it is the widest model here and suits larger dorm desks or shared L-shaped desk surfaces. It is one of the better-value hutches with a drawer, undercutting the ChooChoo drawer model by a wide margin. Students who want a dark-finish hutch with some concealed storage and a wider footprint will find limited competition at this price.",
     specs: ["40 inches wide", "4 tiers", "1 drawer", "Black finish"],
     pros: [
       "Black finish for dark or gaming-style setups",
@@ -265,14 +265,14 @@ export const products: GuideProduct[] = [
       "Black finish shows dust prominently",
     ],
     bestFor:
-      "Dorm students who want a black-finish hutch with a drawer at a budget-friendly price",
+      "Dorm students who want a black-finish hutch with a drawer",
   },
 ];
 
 export const faq: { q: string; a: string }[] = [
   {
     q: "What size desk hutch fits a standard dorm desk?",
-    a: "Most dorm-issue desks are between 30 and 40 inches wide. A hutch between 31 and 38.6 inches wide fits the majority of dorm desk configurations. The Snughome 31.9-inch model suits narrower desks, while the Furinno 37-inch and Snughome 38.6-inch models are better for standard-size dorm furniture.",
+    a: "Most dorm-issue desks are between 30 and 40 inches wide. 6 inches wide fits the majority of dorm desk configurations. 6-inch models are better for standard-size dorm furniture.",
   },
   {
     q: "Are desk hutches allowed in dorm rooms?",
@@ -284,7 +284,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "Is a hutch with outlets and LED lights worth it for a dorm?",
-    a: "If your dorm room has limited wall outlets, a hutch like the HOOBRO with two AC outlets and two USB ports eliminates the need for a separate power strip on the desk. The LED strip replaces a small desk lamp. For students in older dorms with limited outlets, the combined value of these features at $49.99 is significant.",
+    a: "If your dorm room has limited wall outlets, a hutch like the HOOBRO with two AC outlets and two USB ports eliminates the need for a separate power strip on the desk. The LED strip replaces a small desk lamp.",
   },
   {
     q: "How do I keep a desk hutch stable without drilling into the dorm wall?",

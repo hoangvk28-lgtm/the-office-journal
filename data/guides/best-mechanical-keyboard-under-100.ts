@@ -2,10 +2,10 @@ const BASE_IMAGES = "/images/guides/best-mechanical-keyboard-under-100";
 
 export const guideSlug = "best-mechanical-keyboard-under-100";
 export const guideTitle =
-  "6 Best Mechanical Keyboards Under $100 for Home Office and Gaming (2026)";
-export const metaTitle = "6 Best Mechanical Keyboards Under $100 in 2026";
+  "The Best Mechanical Keyboards Under $100 for Home Office and Gaming, Compared";
+export const metaTitle = "Best Mechanical Keyboards Under $100 for Home Office and Gaming (2026)";
 export const metaDescription =
-  "Best mechanical keyboards under $100: Keychron C3 Pro, V1, RK84, Epomaker TH80 Pro. Switch types, hot-swap, and gasket mount for home office and gaming.";
+  "We compared 10 mechanical keyboards under $100 for home office and gaming on features, build and practical fit to help you choose the right one for your space.";
 export const lastUpdated = "2026-06-23";
 export const readTime = "15 min";
 export const heroImage = `${BASE_IMAGES}/keyboard-best-mechanical-keyboard-under-100-hero.webp`;
@@ -48,14 +48,14 @@ export const products: MechKeyboard100[] = [
       "https://m.media-amazon.com/images/I/41Lei8oGwfL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0F38DZG3J?tag=theofficejournal-20",
     whyItWorks:
-      "The Aula F108 Pro is the only full-size, 104-key option in this guide, which matters for buyers who rely on a dedicated number pad for spreadsheet or accounting work rather than the TKL and 75% layouts the rest of this list favors. An 8000mAh battery is roughly double the capacity of the RK84's 4000mAh cell, and the built-in screen displays battery level, connection mode, and basic customization feedback without needing companion software running in the background. Hot-swappable sockets and a knob for quick volume or media control round out the feature set at just under $90.\n\nTriple connectivity (Bluetooth, 2.4GHz, and wired) covers most desk setups, and the RGB backlighting is fully programmable through the board's own controls. The main tradeoff against the 75% and TKL boards elsewhere in this guide is desk footprint: a full-size 104-key layout takes up several extra inches of desk width that a TKL or 75% board would free up.",
+      "The Aula F108 Pro is the only full-size, 104-key option in this guide, which matters for buyers who rely on a dedicated number pad for spreadsheet or accounting work rather than the TKL and 75% layouts the rest of this list favors. An 8000mAh battery is roughly double the capacity of the RK84's 4000mAh cell, and the built-in screen displays battery level, connection mode, and basic customization feedback without needing companion software running in the background. Hot-swappable sockets and a knob for quick volume or media control round out the feature set at just under $90.\n\n4GHz, and wired) covers most desk setups, and the RGB backlighting is fully programmable through the board's own controls. The main tradeoff against the 75% and TKL boards elsewhere in this guide is desk footprint: a full-size 104-key layout takes up several extra inches of desk width that a TKL or 75% board would free up.",
     tradeoffs: [
       "Full-size 104-key layout takes up more desk width than the TKL or 75% boards elsewhere in this guide",
       "8000mAh battery and screen add weight versus the more compact wireless options",
       "Verify current listing for exact switch options included at time of purchase",
     ],
     skipIf:
-      "Desk space is tight. The RK Royal Kludge RK84 (75% layout) or Keychron C3 Pro (TKL) reclaim several inches of desk width if a number pad is not required.",
+      "The RK Royal Kludge RK84 (75% layout) or Keychron C3 Pro (TKL) reclaim several inches of desk width if a number pad is not required.",
     pros: [
       "Full-size 104-key layout with dedicated number pad, the only one in this guide",
       "8000mAh battery, roughly double the capacity of the RK84",
@@ -163,7 +163,7 @@ export const products: MechKeyboard100[] = [
       "No RGB, single-color LED only on many variants",
     ],
     skipIf:
-      "Budget allows $40-50. The Keychron C3 Pro adds gasket mount, hot-swap 3/5-pin, QMK/VIA, and RGB for $12 more - the feature gap is significant.",
+      "The Keychron C3 Pro adds gasket mount, hot-swap 3/5-pin, QMK/VIA, and RGB for $12 more - the feature gap is significant.",
     pros: [
       "Under $35 - lowest price in guide",
       "Proven since 2015 - tens of thousands of reviews",
@@ -200,7 +200,7 @@ export const products: MechKeyboard100[] = [
       "Wired only - no wireless option in C3 Pro",
     ],
     skipIf:
-      "You need wireless. The RK Royal Kludge RK84 at $60-70 adds triple-mode wireless (BT 5.0 + 2.4GHz + USB-C) for $20 more.",
+      "4GHz + USB-C) for $20 more.",
     pros: [
       "Gasket mount at $40 - softer typing feel",
       "QMK/VIA programmable - remap any key in browser",
@@ -236,7 +236,7 @@ export const products: MechKeyboard100[] = [
       "Higher price than C3 Pro without adding hot-swap or wireless",
     ],
     skipIf:
-      "Hot-swap compatibility is important. The Keychron V1 at $69-84 adds gasket mount and QMK/VIA to PBT keycaps for $15-30 more.",
+      "The Keychron V1 at $69-84 adds gasket mount and QMK/VIA to PBT keycaps for $15-30 more.",
     pros: [
       "PBT double-shot keycaps included - legends never fade",
       "Pre-lubed Akko CS switches - smoother factory feel",
@@ -265,7 +265,7 @@ export const products: MechKeyboard100[] = [
     imageUrl: `${BASE_IMAGES}/keyboard-best-mechanical-keyboard-under-100-rk-royal-kludge-rk84.webp`,
     amazonUrl: "https://www.amazon.com/dp/B08M3KPXV5?tag=theofficejournal-20",
     whyItWorks:
-      "Triple-mode wireless (BT 5.0, 2.4GHz, and USB-C) with Bluetooth pairing for 3 devices simultaneously. 4000mAh battery provides 3-6 months of daily use with backlight off, or 1-3 weeks with RGB. The 75% layout retains the F-row and dedicated arrow keys while being 1.5 inches narrower than TKL - the best office compromise for cable-free desks. Hot-swap on a wireless board at this price is uncommon.",
+      "4GHz, and USB-C) with Bluetooth pairing for 3 devices simultaneously. 4000mAh battery provides 3-6 months of daily use with backlight off, or 1-3 weeks with RGB. 5 inches narrower than TKL - the best office compromise for cable-free desks. Hot-swap on a wireless board at this price is uncommon.",
     tradeoffs: [
       "Tray mount - harsher feel than gasket",
       "ABS keycaps - shines over time",
@@ -310,7 +310,7 @@ export const products: MechKeyboard100[] = [
       "Red/Brown switches only in standard V1 (Blue in separate V1 Blue variant)",
     ],
     skipIf:
-      "You need wireless. The Epomaker TH80 Pro at $75-90 or RK Royal Kludge RK84 at $60-70 add triple-mode wireless.",
+      "The Epomaker TH80 Pro at $75-90 or RK Royal Kludge RK84 at $60-70 add triple-mode wireless.",
     pros: [
       "Double-gasket mount - softest typing feel in guide",
       "PBT double-shot - legends never fade",
@@ -396,7 +396,7 @@ export const faq: FaqItem[] = [
   },
   {
     q: "What mechanical keyboard should I buy under $50?",
-    a: "Keychron C3 Pro ($40-50). Gasket mount, QMK/VIA programmability, hot-swap 3/5-pin, and USB-C detachable cable at $40. The only trade-off is ABS keycaps that will develop a sheen over 6-12 months. No other keyboard at $50 or under offers this combination of features.",
+    a: "Gasket mount, QMK/VIA programmability, hot-swap 3/5-pin, and USB-C detachable cable at $40. The only trade-off is ABS keycaps that will develop a sheen over 6-12 months. No other keyboard at $50 or under offers this combination of features.",
   },
   {
     q: "Is the Redragon K552 still worth buying in 2026?",

@@ -1,10 +1,10 @@
 const BASE = "/guides/best-ergonomic-chair-under-300";
 
 export const guideSlug = "best-ergonomic-chair-under-300";
-export const guideTitle = "10 Best Ergonomic Chairs Under $300 in 2026";
-export const metaTitle = "10 Best Ergonomic Chairs Under $300 in 2026";
+export const guideTitle = "The Best Ergonomic Chairs Under $300, Compared";
+export const metaTitle = "Best Ergonomic Chairs Under $300 (2026)";
 export const metaDescription =
-  "Best ergonomic chairs under $300: Sihoo C300 dynamic lumbar, HON Ignition commercial-grade, Duramont memory foam, Nouhaus 4D arms. 10 picks compared.";
+  "We compared 11 ergonomic chairs under $300 on features, comfort and practical fit to help you choose the right one for your space.";
 export const lastUpdated = "2026-06-20";
 export const readTime = "15 min";
 export const heroImage = `${BASE}/ergonomic-chair-under-300-hero.webp`;
@@ -53,7 +53,7 @@ export const products: ErgoChair300[] = [
       "Higher price in this guide at $200-$280",
     ],
     skipIf:
-      "Budget is under $200. The Sihoo M57 at $150-$200 provides 3D armrests and 2D lumbar at a lower price.",
+      "The Sihoo M57 at $150-$200 provides 3D armrests and 2D lumbar at a lower price.",
     pros: [
       "Dynamic auto-adjust lumbar - no manual readjustment",
       "3D armrests + adjustable headrest",
@@ -118,7 +118,7 @@ export const products: ErgoChair300[] = [
     imageUrl: `${BASE}/hon-ignition-2-0-mid-back.webp`,
     amazonUrl: "https://www.amazon.com/dp/B06Y3PGPR2?tag=theofficejournal-20",
     whyItWorks:
-      "BIFMA-certified commercial build - tested to 250,000 tilt cycles and 100,000 seat drop tests. Synchro-tilt keeps seat and backrest moving in coordinated proportion during recline. HON commercial warranty. Designed for 5-7 years of 8-hour daily use in office environments.",
+      "BIFMA-certified commercial build - tested to 250,000 tilt cycles and 100,000 seat drop tests. Synchro-tilt keeps seat and backrest moving in coordinated proportion during recline. Designed for 5-7 years of 8-hour daily use in office environments.",
     tradeoffs: [
       "Mid-back profile - lower backrest than most chairs in this guide",
       "No headrest",
@@ -156,7 +156,7 @@ export const products: ErgoChair300[] = [
     imageUrl: `${BASE}/nouhaus-ergo3d-burgundy.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0D456Z23R?tag=theofficejournal-20",
     whyItWorks:
-      "Most adjustment points in this guide: 4D armrests (width adjustment moves armrests laterally for shoulder fit), 3D lumbar (height + depth + tilt angle), 135 deg recline with 3-position lock. SGS certified gas cylinder. Best for shared use between users of different body types.",
+      "Most adjustment points in this guide: 4D armrests (width adjustment moves armrests laterally for shoulder fit), 3D lumbar (height + depth + tilt angle), 135 deg recline with 3-position lock. Best for shared use between users of different body types.",
     tradeoffs: [
       "300 lb capacity - lower than Sihoo options (330 lb)",
       "2-year warranty - shorter than Sihoo 3-year",
@@ -303,7 +303,7 @@ export const products: ErgoChair300[] = [
     imageUrl: `${BASE}/casasio-premium.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0FZZWCYNM?tag=theofficejournal-20",
     whyItWorks:
-      "5-year warranty (longest in this guide) and 3.54-inch thick memory foam seat (about 1 inch thicker than standard), which extends the comfortable life of the chair before compression. 330 lb capacity. Good for users who have had chairs fail structurally within 1-2 years.",
+      "54-inch thick memory foam seat (about 1 inch thicker than standard), which extends the comfortable life of the chair before compression. Good for users who have had chairs fail structurally within 1-2 years.",
     tradeoffs: [
       "Flip-up armrests only - no ergonomic arm positioning",
       "Memory foam breathability limited vs mesh",
@@ -339,7 +339,7 @@ export const products: ErgoChair300[] = [
     imageUrl: `${BASE}/tralt-ergonomic-mesh.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CQD3K8PJ?tag=theofficejournal-20",
     whyItWorks:
-      "Only lifetime warranty in this guide. Over 3,600 Amazon reviews provides reliable real-world signal of consistent build quality. 14 color options - widest selection in this guide. All-mesh construction. 330 lb capacity.",
+      "Only lifetime warranty in this guide. Over 3,600 Amazon reviews provides reliable real-world signal of consistent build quality. 14 color options - widest selection in this guide.",
     tradeoffs: [
       "Flip-up armrests - no ergonomic positioning",
       "120 deg recline - limited",
@@ -377,7 +377,7 @@ export const products: ErgoChair300[] = [
     imageUrl: `${BASE}/marsail-ergonomic.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CP22DQQS?tag=theofficejournal-20",
     whyItWorks:
-      "3D armrests and 2D lumbar at $150-$200. 2D adjustable headrest with independent height and tilt. 3.14-inch high-density foam provides consistent support. Good mid-range balance between features and price for users upgrading from basic chairs.",
+      "3D armrests and 2D lumbar at $150-$200. 2D adjustable headrest with independent height and tilt. 14-inch high-density foam provides consistent support. Good mid-range balance between features and price for users upgrading from basic chairs.",
     tradeoffs: [
       "Armrest height range limited for users over 6'1\"",
       "120 deg recline maximum",
@@ -385,7 +385,7 @@ export const products: ErgoChair300[] = [
       "Not suitable for users over 6'1\"",
     ],
     skipIf:
-      "You are over 6'1\". Armrest height range cannot accommodate taller proportions. The Hbada 3D is better suited.",
+      "Armrest height range cannot accommodate taller proportions. The Hbada 3D is better suited.",
     pros: [
       "3D armrests at mid-range price",
       "2D lumbar (height + depth) + 2D headrest",
@@ -426,7 +426,7 @@ export const faq = [
   },
   {
     q: "How long do ergonomic chairs under $300 last?",
-    a: "With 6-8 hours of daily use, budget ergonomic chairs typically last 2-4 years before foam compression, mesh stretching, or mechanical wear becomes noticeable. HON Ignition 2.0 (BIFMA certified) is designed for 5-7 years. CASASIO's 5-year and TRALT's lifetime warranty provide the most coverage.",
+    a: "With 6-8 hours of daily use, budget ergonomic chairs typically last 2-4 years before foam compression, mesh stretching, or mechanical wear becomes noticeable. 0 (BIFMA certified) is designed for 5-7 years. CASASIO's 5-year and TRALT's lifetime warranty provide the most coverage.",
   },
   {
     q: "What chair height do I need?",

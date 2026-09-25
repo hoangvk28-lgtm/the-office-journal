@@ -2,10 +2,10 @@ const BASE = "/guides/best-standing-desk-under-300";
 
 export const guideSlug = "best-standing-desk-under-300";
 export const guideTitle =
-  "7 Best Standing Desks Under $300 in 2026: Dual Motor, Compact, and Small Apartment Picks";
-export const metaTitle = "7 Best Standing Desks Under $300 in 2026";
+  "The Best Standing Desks Under $300 in 2026: Dual Motor, Compact, and Small Apartment Picks: Our Picks";
+export const metaTitle = "Best Standing Desks Under $300 in 2026: Dual Motor, Compact, and Small Apartment Picks (2026)";
 export const metaDescription =
-  "Best standing desks under $300: FlexiSpot EN1, VIVO 55x24, Fezibo dual motor, Vari Essential (5-yr warranty). 7 picks for home office and dorm setups.";
+  "How 8 standing desks under $300 in 2026: dual motor, compact, and small apartment picks compare on features, comfort and practical fit, with clear notes on who each one suits.";
 export const lastUpdated = "2026-06-20";
 export const readTime = "13 min";
 export const heroImage = `${BASE}/best-standing-desk-under-300-hero.webp`;
@@ -83,7 +83,7 @@ export const products: StandingDesk300[] = [
     imageUrl: `${BASE}/vivo-electric-55x24-light-wood-white.webp`,
     amazonUrl: "https://www.amazon.com/dp/B08RSK243M?tag=theofficejournal-20",
     whyItWorks:
-      "Widest desktop in this guide at 55 inches - fits two 24\" monitors side by side with room for keyboard. 48.4\" max height (best in this guide for complete desks) suits users up to 6'2\". 3-year VIVO warranty is the longest in this guide. Anti-collision protection.",
+      "Widest desktop in this guide at 55 inches - fits two 24\" monitors side by side with room for keyboard. 4\" max height (best in this guide for complete desks) suits users up to 6'2\". 3-year VIVO warranty is the longest in this guide.",
     tradeoffs: [
       "Larger footprint - not ideal for very small rooms",
       "Single motor",
@@ -121,7 +121,7 @@ export const products: StandingDesk300[] = [
     imageUrl: `${BASE}/fezibo-dual-motor-48x24-white-natural.webp`,
     amazonUrl: "https://www.amazon.com/dp/B08B4M8Z68?tag=theofficejournal-20",
     whyItWorks:
-      "Only confirmed dual-motor desk in this guide under $275. Each leg has its own independent motor - eliminates the racking twist that single-motor desks develop over time. Less lateral wobble at full standing height. 27.3\" minimum height suits shorter users. Under 50dB during adjustment.",
+      "Only confirmed dual-motor desk in this guide under $275. Each leg has its own independent motor - eliminates the racking twist that single-motor desks develop over time. Less lateral wobble at full standing height. 3\" minimum height suits shorter users.",
     tradeoffs: [
       '45.5" max height - not suitable for users 6\'0"+',
       "Splice-board top (two-piece) - visible center seam",
@@ -129,7 +129,7 @@ export const products: StandingDesk300[] = [
       "1-2 year warranty shorter than EN1 or VIVO",
     ],
     skipIf:
-      "You are 6'0\" or taller. The 45.5\" max height cannot reach ergonomic standing position for users above that height.",
+      "You are 6'0\" or taller. 5\" max height cannot reach ergonomic standing position for users above that height.",
     pros: [
       "Dual motor - significantly less wobble at standing height",
       '27.3" min height - good for shorter users',
@@ -166,7 +166,7 @@ export const products: StandingDesk300[] = [
       "154 lb capacity - lighter than EN1 or VIVO",
     ],
     skipIf:
-      "You are over 5'10\". The 45.3\" max height cannot reach ergonomic standing position for taller users.",
+      "3\" max height cannot reach ergonomic standing position for taller users.",
     pros: [
       "Built-in drawer + cable management tray included",
       "Digital LED height display",
@@ -194,7 +194,7 @@ export const products: StandingDesk300[] = [
     imageUrl: `${BASE}/flexispot-ec1-frame-only.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07H8WGW3M?tag=theofficejournal-20",
     whyItWorks:
-      "Lowest entry price in this guide (frame only). Fits tops from 43-83 inches wide - maximum flexibility for custom or IKEA surfaces. IKEA LINNMON and KARLBY are popular pairings. 47.6\" max height is second highest in this guide - suits most users up to 6'2\". FlexiSpot 2-year warranty.",
+      "Lowest entry price in this guide (frame only). Fits tops from 43-83 inches wide - maximum flexibility for custom or IKEA surfaces. IKEA LINNMON and KARLBY are popular pairings. 6\" max height is second highest in this guide - suits most users up to 6'2\".",
     tradeoffs: [
       "No desktop included - total cost requires adding a top ($40-$150+ depending on choice)",
       "110 lb capacity - lowest in this guide",
@@ -232,7 +232,7 @@ export const products: StandingDesk300[] = [
     imageUrl: `${BASE}/vari-essential-48x24-hazel-wood.webp`,
     amazonUrl: "https://www.amazon.com/dp/B09BRF3QFK?tag=theofficejournal-20",
     whyItWorks:
-      "5-year warranty (2.5-5x longer than all other desks in this guide). Commercial T-style leg frame - the same used in Vari's office furniture line. Tool-free assembly in 30 minutes. Vari is a standing desk specialist brand. Hazel Wood finish suits warm desk aesthetics.",
+      "5-5x longer than all other desks in this guide). Commercial T-style leg frame - the same used in Vari's office furniture line. Tool-free assembly in 30 minutes. Vari is a standing desk specialist brand. Hazel Wood finish suits warm desk aesthetics.",
     tradeoffs: [
       "Highest price in this guide at $295-$299",
       "150 lb capacity - slightly lower than EN1 or VIVO",
@@ -240,7 +240,7 @@ export const products: StandingDesk300[] = [
       "Two-piece laminate top - visible seam",
     ],
     skipIf:
-      "Budget is under $250. The FlexiSpot EN1 provides a one-piece top at lower cost if you do not need the 5-year warranty.",
+      "The FlexiSpot EN1 provides a one-piece top at lower cost if you do not need the 5-year warranty.",
     pros: [
       "5-year warranty - 2.5-5x longer than all others here",
       "Tool-free assembly in 30 min",

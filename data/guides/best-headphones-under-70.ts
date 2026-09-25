@@ -2,10 +2,10 @@ const BASE = "/guides/best-headphones-under-70";
 
 export const guideSlug = "best-headphones-under-70";
 export const guideTitle =
-  "7 Best Headphones Under $70 in 2026: Wireless, ANC, Gaming and Studio Picks";
-export const metaTitle = "7 Best Headphones Under $70 in 2026";
+  "The Best Headphones Under $70 in 2026: Wireless, ANC, Gaming and Studio Picks: Our Picks";
+export const metaTitle = "Best Headphones Under $70 in 2026: Wireless, ANC, Gaming and Studio Picks (2026)";
 export const metaDescription =
-  "7 headphones under $70 in 2026: Sony WH-CH520, Soundcore Q20i, ATH-M30x, HyperX gaming, Galaxy Buds FE. Best wireless, ANC, studio and gaming at this price.";
+  "How 8 headphones under $70 in 2026: wireless, ANC, gaming and studio picks compare on features, build and practical fit, with clear notes on who each one suits.";
 export const lastUpdated = "2026-06-18";
 export const readTime = "12 min";
 export const heroImage = `${BASE}/best-headphones-under-70-hero.webp`;
@@ -45,14 +45,14 @@ export const products: Budget70Headphone[] = [
     imageUrl: `${BASE}/sony-wh-ch520.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0BS1PRC4L?tag=theofficejournal-20",
     whyItWorks:
-      "Sony brand engineering at under $60 with multipoint Bluetooth (simultaneous laptop and phone) and Quick Charge (3 min = 60 min); at 147g it is the lightest headphone in this guide; 50h battery per charge; Sony Headphones Connect app adds EQ and DSEE audio enhancement; Bluetooth 5.2; foldable; two of Sony's most valued features enter the sub-$60 bracket here",
+      "2; foldable; two of Sony's most valued features enter the sub-$60 bracket here",
     tradeoffs: [
       "No ANC",
       "30mm drivers smaller than most competitors 40mm",
       "On-ear design can feel tight after 2 to 3 hours",
     ],
     skipIf:
-      "ANC is essential. The Soundcore Q20i at $55 to $70 delivers 4-microphone hybrid ANC.",
+      "The Soundcore Q20i at $55 to $70 delivers 4-microphone hybrid ANC.",
     pros: [
       "Sony brand quality and support",
       "Multipoint Bluetooth (2 devices)",
@@ -77,7 +77,7 @@ export const products: Budget70Headphone[] = [
     imageUrl: `${BASE}/jabra-move-style-edition.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07MBGDZ1C?tag=theofficejournal-20",
     whyItWorks:
-      "Jabra is primarily a business audio brand; their microphone engineering is above consumer brands at this price; delivers clear noise-reduced call quality for online classes and Zoom calls; 140g with fold-flat design; includes 3.5mm AUX cable backup; USB-C charging; the best pick in this guide for anyone who spends significant time on calls",
+      "5mm AUX cable backup; USB-C charging; the best pick in this guide for anyone who spends significant time on calls",
     tradeoffs: [
       "14h battery is the lowest of the wireless picks",
       "Bluetooth 4.2 (older spec, not 5.x)",
@@ -179,14 +179,14 @@ export const products: Budget70Headphone[] = [
     imageUrl: `${BASE}/audio-technica-ath-m30x.webp`,
     amazonUrl: "https://www.amazon.com/dp/B00HVLUQW8?tag=theofficejournal-20",
     whyItWorks:
-      "direct upgrade from ATH-M20x with improved drivers, wider frequency response, and better stereo imaging; the same professional monitor architecture used in recording studios and broadcast environments; wider soundstage and more defined instrument separation vs M20x; closed-back design provides excellent passive isolation; includes 6.3mm adapter for studio or interface use; for anyone who produces music, records audio, or listens critically at a desk",
+      "3mm adapter for studio or interface use; for anyone who produces music, records audio, or listens critically at a desk",
     tradeoffs: [
       "No inline microphone on standard model",
       "Wired only via 3m coiled cable",
       "Not practical for commuting",
     ],
     skipIf:
-      "You need wireless. There is no wireless equivalent at this price that matches studio monitor audio accuracy.",
+      "There is no wireless equivalent at this price that matches studio monitor audio accuracy.",
     pros: [
       "Best pure audio quality in the guide",
       "Professional monitor heritage (ATH M-Series)",
@@ -210,14 +210,14 @@ export const products: Budget70Headphone[] = [
     imageUrl: `${BASE}/hyperx-cloud-stinger-2.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0B8PGDMWK?tag=theofficejournal-20",
     whyItWorks:
-      "HyperX Cloud Series has a decade-long track record in gaming audio; DTS Headphone:X spatial audio delivers positional audio for games and movies; 50mm drivers produce fuller bass response than any headphone in the other categories; swivel-to-mute mic arm eliminates software muting; memory foam ear cushions; works on PC, PS5, PS4, Xbox Series, Nintendo Switch, and mobile via 3.5mm without adapters; the right single headset for students who game and study on the same setup",
+      "5mm without adapters; the right single headset for students who game and study on the same setup",
     tradeoffs: [
       "Wired only, no Bluetooth (wireless versions start at $99)",
       "Gaming-tuned sound signature, not neutral",
       "3.5mm cable management on a small desk",
     ],
     skipIf:
-      "You do not game. The Sony WH-CH520 or ATH-M30x are better for study-only use cases.",
+      "The Sony WH-CH520 or ATH-M30x are better for study-only use cases.",
     pros: [
       "HyperX Cloud Series decade track record",
       "DTS Headphone:X spatial audio",
@@ -283,11 +283,11 @@ export const atAGlanceRows = products.map((p) => ({
 export const faq = [
   {
     q: "What is the best headphone under $70?",
-    a: "Depends on use case. For ANC: Soundcore Q20i (4-mic hybrid ANC). For audio quality: ATH-M30x (studio monitor). For Sony brand: WH-CH520 (multipoint + Quick Charge). For gaming: HyperX Cloud Stinger 2. For Android ANC earbuds: Samsung Galaxy Buds FE. No single best exists; the guide matches the right product to each situation.",
+    a: "For ANC: Soundcore Q20i (4-mic hybrid ANC). For audio quality: ATH-M30x (studio monitor). For Sony brand: WH-CH520 (multipoint + Quick Charge). For gaming: HyperX Cloud Stinger 2. For Android ANC earbuds: Samsung Galaxy Buds FE. No single best exists; the guide matches the right product to each situation.",
   },
   {
     q: "Is the Sony WH-CH520 worth it at $60?",
-    a: "Yes. Sony's Quick Charge, multipoint Bluetooth, 50h battery, and brand support are hard to match at this price. No ANC is the main limitation. If noise cancellation is essential, the Soundcore Q20i is the alternative.",
+    a: "Sony's Quick Charge, multipoint Bluetooth, 50h battery, and brand support are hard to match at this price. No ANC is the main limitation. If noise cancellation is essential, the Soundcore Q20i is the alternative.",
   },
   {
     q: "What is LDAC and is it worth paying for?",
@@ -295,11 +295,11 @@ export const faq = [
   },
   {
     q: "Is the HyperX Cloud Stinger 2 good for both gaming and music?",
-    a: "Yes. The 50mm drivers and closed-back design handle both uses. The sound signature is slightly colored (enhanced bass and treble) rather than flat neutral, which suits gaming and casual music. For critical music production, the ATH-M30x's neutral monitoring signature is more accurate.",
+    a: "The 50mm drivers and closed-back design handle both uses. The sound signature is slightly colored (enhanced bass and treble) rather than flat neutral, which suits gaming and casual music. For critical music production, the ATH-M30x's neutral monitoring signature is more accurate.",
   },
   {
     q: "Should I buy the Samsung Galaxy Buds FE at regular price?",
-    a: "No. At $99 MSRP there are better options. The Galaxy Buds FE is good value specifically when discounted to $50 to $70. Always verify the current price before purchasing.",
+    a: "At $99 MSRP there are better options. The Galaxy Buds FE is good value specifically when discounted to $50 to $70. Always verify the current price before purchasing.",
   },
 ];
 

@@ -1,11 +1,11 @@
 const BASE = "/images/media/guides/best-charging-station-desk-organizers";
 
-export const guideTitle = "Best Charging Station Desk Organizers for Cleaner Workspaces";
+export const guideTitle = "The Best Charging Station Desk Organizers for Cleaner Workspaces: Our Picks";
 export const guideDescription =
-  "One product, one cable, one footprint. Your phone charges. Your pens have a home. This guide breaks down the charging organizer category by use case -- every pick genuinely does both jobs.";
-export const metaTitle = "Best Charging Station Desk Organizers (2026)";
+  "One product, one cable, one footprint. Your pens have a home. This guide breaks down the charging organizer category by use case -- every pick does both jobs.";
+export const metaTitle = "Best Charging Station Desk Organizers for Cleaner Workspaces (2026)";
 export const metaDescription =
-  "6 desk organizers with built-in charging tested for real use -- wireless pads, USB hubs, and compact combos. Includes slot guidance and cable management tips.";
+  "How 9 charging station desk organizers for cleaner workspaces compare on features, build and practical fit, with clear notes on who each one suits.";
 export const lastUpdated = "2026-06-03";
 export const readTime = "11 min";
 export const heroImage = `${BASE}/07-hero-best-charging-station-desk-organizers.webp`;
@@ -83,7 +83,7 @@ export const products: OrganizerProduct[] = [
     amazonUrl: "https://www.amazon.com/dp/B0D2D332YL?tag=theofficejournal-20",
     whyItWins: "The LADSTAG is the best pick for anyone who wants a desk organizer that charges wirelessly without cables to the phone. The 15W wireless pad sits on top -- place your phone face-down, it charges. Meanwhile, the organizer body below holds pens, remotes, and small office supplies in dedicated compartments. Wall-mount brackets are included if you prefer to keep the desk surface completely clear.",
     bodyParagraphs: [
-      "The faux leather finish comes in several neutral colors that blend into most desk aesthetics. The 4.8 x 8.35 x 5.39 inch footprint is modest -- similar in base area to a large smartphone -- which means it genuinely fits on desks where space is tight.",
+      "The faux leather finish comes in several neutral colors that blend into most desk aesthetics. 39 inch footprint is modest -- similar in base area to a large smartphone -- which means it fits on desks where space is tight.",
     ],
     specs: [
       { label: "Wireless charging", value: "15W Qi (compatible with iPhone 8+, Samsung Galaxy, all Qi-enabled devices)" },
@@ -119,7 +119,7 @@ export const products: OrganizerProduct[] = [
     priceRange: "~$35--45",
     imageUrl: `${BASE}/03-bestek-8-port-with-dividers.webp`,
     amazonUrl: "https://www.amazon.com/dp/B078RHZX95?tag=theofficejournal-20",
-    whyItWins: "If you manage more cables than wireless pads -- USB-A accessories, older devices, shared desks -- the BESTEK 8-Port is the right organizer-charger. Eight USB ports across a 10.2 x 10.2 cm base, with adjustable device dividers stacked above. The LED charge indicators tell you at a glance which ports are active.",
+    whyItWins: "If you manage more cables than wireless pads -- USB-An accessories, older devices, shared desks -- the BESTEK 8-Port is the right organizer-charger. 2 cm base, with adjustable device dividers stacked above. The LED charge indicators tell you at a glance which ports are active.",
     bodyParagraphs: [
       "The adjustable dividers are the key practical feature. They slide to accommodate thin phones without cases, bulky-cased phones, small tablets, and anything else that needs to stand upright while charging. On a family desk or a shared workspace where multiple people charge different devices, that flexibility matters.",
       "Smart IC auto-assigns the right amperage per device -- no manual port selection needed.",
@@ -198,9 +198,9 @@ export const products: OrganizerProduct[] = [
     priceRange: "~$30--40",
     imageUrl: `${BASE}/05-topmade-4-slot-wireless-organizer.webp`,
     amazonUrl: "https://www.amazon.com/dp/B08YYJ817B?tag=theofficejournal-20",
-    whyItWins: "The TopMade is the most space-efficient organizer-charger in this roundup. Four compartments -- phone charging zone, pen holder, stationery tray, small items slot -- plus a 10W wireless charging base, all in a unit roughly 19.5 x 9.5 x 13.5 cm. The soft velvet lining in each compartment prevents phones and accessories from scratching, which sounds small but matters when you are pulling your phone in and out multiple times a day.",
+    whyItWins: "The TopMade is the most space-efficient organizer-charger in this roundup. The soft velvet lining in each compartment prevents phones and accessories from scratching, which sounds small but matters when you are pulling your phone in and out multiple times a day.",
     bodyParagraphs: [
-      "The Qi wireless pad at the base works with any Qi-enabled phone including iPhones (7.5W) and Samsung Galaxy (10W). A dedicated phone stand slot at the side keeps your device upright and readable while charging.",
+      "5W) and Samsung Galaxy (10W). A dedicated phone stand slot at the side keeps your device upright and readable while charging.",
       "For small desks, the compact footprint is the headline spec -- this organizer-charger takes up less desk space than a standalone organizer alone.",
     ],
     specs: [
@@ -238,7 +238,7 @@ export const products: OrganizerProduct[] = [
     priceRange: "~$20--28",
     imageUrl: `${BASE}/06-soopii-6-port-usb-organizer.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07TWGXN7Q?tag=theofficejournal-20",
-    whyItWins: "Under $28, adjustable dividers, six USB ports, and 6 short charging cables included -- ready to use out of the box. The SooPii 6-Port Charging Station Organizer does not try to impress -- it just holds your devices upright and charges them through USB-A at 2.4A per port. For a secondary desk, a kids' charging hub, or a workspace where the budget simply doesn't extend to premium organizer-chargers, this is the honest pick.",
+    whyItWins: "Under $28, adjustable dividers, six USB ports, and 6 short charging cables included -- ready to use out of the box. For a secondary desk, a kids' charging hub, or a workspace where the budget simply doesn't extend to premium organizer-chargers, this is the honest pick.",
     bodyParagraphs: [
       "The adjustable baffles accommodate six different device sizes simultaneously. LED indicators flag which ports are charging. The 6 short mixed cables included eliminate the first setup friction -- no need to hunt for compatible cables before using it.",
     ],
@@ -313,10 +313,10 @@ export const faq: { question: string; answer: string }[] = [
   },
   {
     question: "What's the difference between a charging station desk organizer and a docking station?",
-    answer: "A charging station desk organizer holds and charges personal devices (phone, earbuds, accessories) and provides storage for stationery. A docking station connects a laptop to monitors, ethernet, and USB peripherals. They solve different problems.",
+    answer: "A charging station desk organizer holds and charges personal devices (phone, earbuds, accessories) and provides storage for stationery. A docking station connects a laptop to monitors, ethernet, and USB peripherals.",
   },
   {
     question: "What organizer features should I actually use?",
-    answer: "Start by counting what's on your desk right now. If you only ever need a phone slot and a pen holder, don't pay for a unit with 6 compartments. Use the 'What Slots Do You Actually Use?' table above to match the organizer side of each pick to your actual desk contents.",
+    answer: "Start by counting what's on your desk right now. If you only ever need a phone slot and a pen holder, don't pay for a unit with 6 compartments. ' table above to match the organizer side of each pick to your actual desk contents.",
   },
 ];

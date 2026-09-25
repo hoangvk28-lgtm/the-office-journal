@@ -1,12 +1,12 @@
 export const guideSlug = "best-tv-stand-bookshelf";
-export const guideTitle = "6 Best TV Stand Bookshelf Combos in 2026";
-export const metaTitle = "Best TV Stand Bookshelf Combos in 2026 - Top 6 Picks";
+export const guideTitle = "The Best TV Stand Bookshelf Combos for Home Offices";
+export const metaTitle = "Best TV Stand Bookshelf Combos for Home Offices (2026)";
 export const metaDescription =
-  "The 6 best TV stand bookshelf combos in 2026, ranked by storage capacity, modularity, and design from budget cube shelves to full entertainment walls.";
+  "We compared 7 TV stand bookshelf combos on features, build and practical fit to help you choose the right one for your space.";
 export const mainKeyword = "tv stand bookshelf";
 export const introParagraphs = [
   "A TV stand bookshelf combo does double duty in a living room, holding a television and media components on one side while giving books, decor, and storage bins a dedicated home on the other. That's especially valuable in smaller living rooms where a separate bookshelf and TV console would eat up too much wall space.",
-  "We evaluated these six TV stand bookshelf combos based on product specs and buyer feedback, ranking them by storage capacity, modularity, and weight capacity across budget cube designs, farmhouse consoles, and full entertainment walls.",
+  "We compared these six TV stand bookshelf combos based on product specs and buyer feedback, ranking them by storage capacity, modularity, and weight capacity across budget cube designs, farmhouse consoles, and full entertainment walls.",
 ];
 export const lastUpdated = "2026-07-16";
 export const readTime = "11 min";
@@ -50,11 +50,11 @@ export const products: GuideProduct[] = [
     reviews: "913 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51Xon5LvalL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0B8T295M8?tag=theofficejournal-20",
-    description: "The Tangkula 3-piece console is the most flexible option in this guide, letting buyers rearrange the three modular sections into an L-shape or a straight rectangular layout and expand the total width from 53 to 67 inches. Six open compartments spread across the pieces give ample room for books, decor, and media components without any single section feeling cramped. It's also the lowest-priced combo in this guide. The engineered wood construction is rated E0-grade, and the tabletop holds up to 176 lbs while each shelf supports 44 lbs. With 913 ratings at 4.3 stars, it has a solid track record for a DIY modular design that fits TVs up to 65 inches. A genuine advantage here is that modular design expands from 53\" to 67\". The tradeoff is open compartments only, no enclosed storage.",
+    description: "The Tangkula 3-piece console is the most flexible option in this guide, letting buyers rearrange the three modular sections into an L-shape or a straight rectangular layout and expand the total width from 53 to 67 inches. Six open compartments spread across the pieces give ample room for books, decor, and media components without any single section feeling cramped. It's also the lowest-priced combo in this guide. The engineered wood construction is rated E0-grade, and the tabletop holds up to 176 lbs while each shelf supports 44 lbs. 3 stars, it has a solid track record for a DIY modular design that fits TVs up to 65 inches.",
     specs: ["3-piece modular free-combination design", "Expandable 53\"-67\" width", "6 open compartments", "176 lb tabletop capacity", "44 lb shelf capacity", "E0-grade engineered wood", "Fits TV up to 65\""],
     pros: ["Lowest price in this guide at $74.99", "Modular design expands from 53\" to 67\"", "Most flexible layout options in this guide", "Fits TV up to 65\""],
     cons: ["Open compartments only, no enclosed storage", "44 lb shelf capacity is modest for heavy books", "Multi-piece design takes longer to arrange than a single unit"],
-    bestFor: "Buyers who want the most flexible, budget-friendly modular TV stand bookshelf layout.",
+    bestFor: "Buyers who want the most flexible, low-cost modular TV stand bookshelf layout.",
   },
   {
     id: "oschf-8cube-storage",
@@ -66,7 +66,7 @@ export const products: GuideProduct[] = [
     reviews: "700 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/4101udO15tL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0BN8QVTHG?tag=theofficejournal-20",
-    description: "The OSCHF arranges 8 cube-style compartments in a 4x2 layout, giving it the highest weight capacity of any cube-design bookshelf in this guide at 280 lbs. The water-resistant, scratch-resistant melamine surface holds up better to spills and daily wear than uncoated engineered wood, which matters for a piece that doubles as both a TV stand and a bookshelf.\n\nWith 4.6 stars from 700 ratings, it has one of the strongest ratings in this guide. The design can be used vertically as a tall bookshelf or horizontally as a wide TV console, and assembly takes roughly 30 minutes, making it one of the quicker builds among the combos here.\n\n4.6 stars across 700 ratings. On the other hand, 8-cube layout has less enclosed storage than drawer designs. Neither should be a surprise once you know to look for it.",
+    description: "The OSCHF arranges 8 cube-style compartments in a 4x2 layout, giving it the highest weight capacity of any cube-design bookshelf in this guide at 280 lbs. The water-resistant, scratch-resistant melamine surface holds up better to spills and daily wear than uncoated engineered wood, which matters for a piece that doubles as both a TV stand and a bookshelf.\n\nThe design can be used vertically as a tall bookshelf or horizontally as a wide TV console, and assembly takes roughly 30 minutes, making it one of the quicker builds among the combos here.",
     specs: ["8-cube design, 4x2 layout", "280 lb capacity", "Water-resistant, scratch-resistant melamine surface", "Usable vertically or horizontally", "~30 minute assembly"],
     pros: ["280 lb capacity, highest among cube designs here", "4.6 stars across 700 ratings", "Water and scratch-resistant surface", "Can be used vertically or horizontally"],
     cons: ["8-cube layout has less enclosed storage than drawer designs", "No cable management features mentioned", "Fixed cube sizing, less customizable than modular designs"],
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     reviews: "156 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51uV5PBvQAL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0F59YV6YX?tag=theofficejournal-20",
-    description: "The Yenlure stands out with two detachable bookshelves that can be placed on either side of the TV console, separated entirely, or removed altogether, giving buyers more layout freedom than fixed-shelf designs. Remote-controlled LED lighting adds an ambient glow, and a built-in charging hub can power up to 5 devices simultaneously.\n\nFour fabric drawers provide concealed storage for items you'd rather not display on open bookshelves. With 4.1 stars from 156 ratings, it has the lowest rating in this guide, though the combination of LED lighting, multi-device charging, and detachable bookshelves is unmatched elsewhere in this list.\n\nRemote-controlled LED lighting. That's a real strength, but weigh it against the flip side: 4.1 stars, lowest rating in this guide.",
+    description: "The Yenlure stands out with two detachable bookshelves that can be placed on either side of the TV console, separated entirely, or removed altogether, giving buyers more layout freedom than fixed-shelf designs. Remote-controlled LED lighting adds an ambient glow, and a built-in charging hub can power up to 5 devices simultaneously.\n\nFour fabric drawers provide concealed storage for items you'd rather not display on open bookshelves.\n\n1 stars, lowest rating in this guide.",
     specs: ["2 detachable bookshelves", "Remote-controlled LED lighting", "Charges 5 devices simultaneously", "4 fabric drawers", "120 lb tabletop capacity"],
     pros: ["Detachable bookshelves offer the most layout flexibility", "Remote-controlled LED lighting", "Charges up to 5 devices at once", "4 fabric drawers for concealed storage"],
     cons: ["4.1 stars, lowest rating in this guide", "156 ratings, smaller sample size", "120 lb tabletop capacity is on the lower end"],
@@ -98,7 +98,7 @@ export const products: GuideProduct[] = [
     reviews: "1,010 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/41BrCY-i9+L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0BW33WCC6?tag=theofficejournal-20",
-    description: "The LINSY Home Farmhouse holds the highest weight capacity in this guide at 360 lbs, giving it the sturdiest build for buyers who want to load shelves with heavy books, decor, and media equipment without worrying about sag or strain. It fits TVs up to 65 inches and pairs farmhouse styling with a straightforward console layout. With 1,010 ratings at 4.6 stars, it also ties for one of the highest ratings in this guide, backed by the largest review sample among the mid-priced options here. For buyers who prioritize durability and weight capacity above modular flexibility or added features like LED lighting, this is the strongest structural pick in the lineup. Worth calling out specifically: 4.6 stars across 1,010 ratings. The catch is a upper-middle price in this guide.",
+    description: "The LINSY Home Farmhouse holds the highest weight capacity in this guide at 360 lbs, giving it the sturdiest build for buyers who want to load shelves with heavy books, decor, and media equipment without worrying about sag or strain. It fits TVs up to 65 inches and pairs farmhouse styling with a straightforward console layout. 6 stars, it also ties for one of the highest ratings in this guide, backed by the largest review sample among the mid-priced options here. For buyers who prioritize durability and weight capacity above modular flexibility or added features like LED lighting, this is the strongest structural pick in the lineup.",
     specs: ["360 lb capacity, highest in this guide", "Fits TV up to 65\"", "Farmhouse styling"],
     pros: ["360 lb capacity, highest in this guide", "4.6 stars across 1,010 ratings", "Fits up to 65\" TV", "Large review sample backs the rating"],
     cons: ["$179.99, upper-middle price in this guide", "No detachable or modular shelving", "No built-in charging or LED features"],
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     reviews: "455 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51PBz37gNoS._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B08W4W7V1L?tag=theofficejournal-20",
-    description: "The VASAGLE 6-cube industrial-style bookshelf is the cheapest industrial-look option in this guide, combining an open cube layout with adjustable feet that help keep the piece level on uneven flooring. An anti-tip kit is included in the box, adding a safety feature that not every combo in this guide includes standard. With 4.6 stars from 455 ratings, it matches the top ratings in this guide despite being one of the least expensive options. It can be used vertically as a tall industrial bookshelf or horizontally as a wide TV console, giving it the same layout flexibility as the pricier OSCHF cube design. Cheapest industrial-style option here. Set against that, 6 cubes, fewer than the OSCHF's 8-cube layout. Both matter when comparing it to the other picks here.",
+    description: "The VASAGLE 6-cube industrial-style bookshelf is the cheapest industrial-look option in this guide, combining an open cube layout with adjustable feet that help keep the piece level on uneven flooring. An anti-tip kit is included in the box, adding a safety feature that not every combo in this guide includes standard. It can be used vertically as a tall industrial bookshelf or horizontally as a wide TV console, giving it the same layout flexibility as the pricier OSCHF cube design.",
     specs: ["6 storage cubes", "Industrial design", "Adjustable feet", "Anti-tip kit included", "Usable vertically or horizontally"],
     pros: ["4.6 stars, tied for highest rating in this guide", "Cheapest industrial-style option here", "Anti-tip kit included", "Usable vertically or horizontally"],
     cons: ["6 cubes, fewer than the OSCHF's 8-cube layout", "No stated weight capacity in the listing", "Open cubes only, no enclosed storage"],
@@ -130,7 +130,7 @@ export const products: GuideProduct[] = [
     reviews: "9 ratings",
     imageUrl: "https://m.media-amazon.com/images/I/51u2AU7av+L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FZ7ZSCY2?tag=theofficejournal-20",
-    description: "The UPOSOJA wall unit packs 11 fabric drawers into its design, the most of any combo in this guide, giving buyers extensive concealed storage alongside open bookshelf sections. RGB LED lighting adds customizable ambient color, and a 500 lb capacity is the highest stated weight rating in this entire guide.\n\nWith 4.2 stars from only 9 ratings, it has the smallest review sample here, so its strong specs are not yet backed by a wide base of buyer feedback. Rated to fit TVs from 45 to 75 inches, it offers the widest TV size range in this guide alongside its large storage capacity.\n\nA genuine advantage here is that 500 lb capacity, highest stated rating here. The tradeoff is only 9 ratings, smallest sample in this guide.",
+    description: "The UPOSOJA wall unit packs 11 fabric drawers into its design, the most of any combo in this guide, giving buyers extensive concealed storage alongside open bookshelf sections. RGB LED lighting adds customizable ambient color, and a 500 lb capacity is the highest stated weight rating in this entire guide.\n\nRated to fit TVs from 45 to 75 inches, it offers the widest TV size range in this guide alongside its large storage capacity.",
     specs: ["11 fabric drawers", "RGB LED lighting", "500 lb capacity, highest in this guide", "Fits TV 45\"-75\""],
     pros: ["11 drawers, most storage compartments in this guide", "500 lb capacity, highest stated rating here", "RGB LED lighting", "Fits TVs from 45\" to 75\", widest range in this guide"],
     cons: ["Only 9 ratings, smallest sample in this guide", "4.2 stars, lower than several other picks despite high capacity", "Large size needs a correspondingly large wall"],
@@ -149,11 +149,11 @@ export const buyingCriteria: BuyingCriterion[] = [
   },
   {
     "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this tv stand bookshelf over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
+    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this tv stand bookshelf over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
   },
   {
     "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any tv stand bookshelf you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
+    "explanation": "This matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any tv stand bookshelf you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
   },
   {
     "criterion": "Check compatibility and fit with your existing setup before ordering",

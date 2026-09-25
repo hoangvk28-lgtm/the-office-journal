@@ -2,10 +2,10 @@ const BASE = "/images/guides/best-l-shaped-wood-desk";
 
 export const guideSlug = "best-l-shaped-wood-desk";
 export const guideTitle =
-  "Best L-Shaped Wood Desks for Home Office in 2026";
-export const metaTitle = "Best L-Shaped Wood Desks for Home Office in 2026";
+  "The Best L-Shaped Wood Desks for Home Office, Compared";
+export const metaTitle = "Best L-Shaped Wood Desks for Home Office (2026)";
 export const metaDescription =
-  "Best L-shaped wood desk picks for home office in 2026 - reversible return trap, corner dead zone math, and left vs right return guide explained.";
+  "We compared 11 L-shaped wood desks for home office on size, height range, stability and features to help you choose the right one for your space.";
 export const lastUpdated = "2026-06-29";
 export const readTime = "9 min";
 export const heroImage = `${BASE}/01-hero.webp`;
@@ -39,7 +39,7 @@ export const products: LShapedDesk[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41NQKkFmDPL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FXWTQGWC?tag=theofficejournal-20",
     whyItWorks:
-      "Based on specs, the Casaottima is a full electric L-shaped standing desk at 63 inches, giving it more primary surface than the EUREKA ERGONOMIC standing pick elsewhere in this guide while staying in a similar electric-lift category. For buyers who want to alternate sitting and standing across a genuinely large L-shaped surface, the 63-inch main leg covers a dual-monitor or ultrawide setup with room to spare.",
+      "Based on specs, the Casaottima is a full electric L-shaped standing desk at 63 inches, giving it more primary surface than the EUREKA ERGONOMIC standing pick elsewhere in this guide while staying in a similar electric-lift category. For buyers who want to alternate sitting and standing across a large L-shaped surface, the 63-inch main leg covers a dual-monitor or ultrawide setup with room to spare.",
     tradeoffs: [
       "Engineered wood top, not solid hardwood",
       "Full electric L-standing desks require clearance behind and beside the frame for height transitions",
@@ -371,11 +371,11 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "Is an L-shaped desk worth it for a home office?",
-    a: "If you regularly work with multiple screens or need to spread documents and a computer across separate surfaces simultaneously, yes. If you primarily use a laptop and one monitor, a quality straight desk uses space more efficiently. L-shaped desks are most valuable when you genuinely use both surfaces.",
+    a: "If you regularly work with multiple screens or need to spread documents and a computer across separate surfaces simultaneously, yes. If you primarily use a laptop and one monitor, a quality straight desk uses space more efficiently. L-shaped desks are most valuable when you use both surfaces.",
   },
   {
     q: "Are Bush Home desks solid wood?",
-    a: "No. Bush Home uses engineered wood (MDF or particle board) with a durable laminate surface. This is standard practice for office furniture at their price point. Bush Home's build quality - hardware, joinery, finish durability - is above average for engineered wood office furniture, but they are not solid hardwood.",
+    a: "Bush Home uses engineered wood (MDF or particle board) with a durable laminate surface. This is standard practice for office furniture at their price point. Bush Home's build quality - hardware, joinery, finish durability - is above average for engineered wood office furniture, but they are not solid hardwood.",
   },
   {
     q: "What is the corner of an L-shaped desk good for?",

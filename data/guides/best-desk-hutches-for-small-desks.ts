@@ -1,10 +1,10 @@
 const BASE = "/images/guides/best-desk-hutches-for-small-desks";
 
 export const guideSlug = "best-desk-hutches-for-small-desks";
-export const guideTitle = "8 Best Desk Hutches for Small Desks (2026)";
+export const guideTitle = "The Best Desk Hutches for Small Desks: Our Picks";
 export const metaTitle = "Best Desk Hutches for Small Desks (2026)";
 export const metaDescription =
-  "Best desk hutches for small desks in 2026. Compact designs under 40 inches wide that organize monitors, books, and supplies without overwhelming the space.";
+  "How 9 desk hutches for small desks compare on features, build and practical fit, with clear notes on who each one suits.";
 export const lastUpdated = "2026-07-07";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/hero.webp`;
@@ -65,7 +65,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/jerry-maggie-adjustable.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07LGCSLVZ?tag=theofficejournal-20",
     description:
-      "The Jerry and Maggie organizer hutch uses an adjustable-width design so it can be configured to fit a range of small desk surfaces without measuring first. Multiple shelf options let buyers configure it for books, small bins, or supplies depending on what the desk needs. at a budget-friendly price, it is the most affordable full hutch in this roundup and works well for basic vertical storage on a tight budget. Build quality reflects the price, and buyers report it is best suited for lighter items like notebooks, folders, and small decor.",
+      "The Jerry and Maggie organizer hutch uses an adjustable-width design so it can be configured to fit a range of small desk surfaces without measuring first. Multiple shelf options let buyers configure it for books, small bins, or supplies depending on what the desk needs., it is the most affordable full hutch in this roundup and works well for basic vertical storage on a tight budget. Build quality reflects the price, and buyers report it is best suited for lighter items like notebooks, folders, and small decor.",
     specs: ["Adjustable width", "Multiple shelf options", "Compact design"],
     pros: [
       "Adjustable width fits various desk sizes",
@@ -90,7 +90,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/snughome-4tier-rustic-brown.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CJ8YDWNY?tag=theofficejournal-20",
     description:
-      "The Snughome 4-tier hutch in rustic brown is a sturdy open-shelf organizer that fits desks up to 38.6 inches wide and adds four levels of display and storage space. The rustic brown finish suits natural wood desks and warm-tone home office setups.\n\nAt 4.7 stars across 454 reviews, it earns the highest rating of any hutch in this roundup, suggesting consistent quality control. The four-tier format gives slightly fewer shelves than the Furinno 5-shelf but with a sturdier feel per shelf.",
+      "6 inches wide and adds four levels of display and storage space. The rustic brown finish suits natural wood desks and warm-tone home office setups.\n\nThe four-tier format gives slightly fewer shelves than the Furinno 5-shelf but with a sturdier feel per shelf.",
     specs: ["38.6 inches wide", "4 tiers", "Rustic brown finish"],
     pros: [
       "4.7-star rating across 454 reviews",
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/snughome-4tier-pegboard.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CYSXTHCX?tag=theofficejournal-20",
     description:
-      "This Snughome hutch adds a pegboard panel alongside the four open shelves, giving hooks and pegs for hanging headphones, cables, small tools, and accessories at desk height. The 38.6-inch width matches the standard small-desk footprint well and the hook-ready panel reduces clutter on the shelf surfaces themselves. It costs a bit more than the plain rustic model and shares the same four-tier format. Buyers who have a lot of small accessories tend to prefer the pegboard version, while those who want pure shelf space opt for the standard model.",
+      "This Snughome hutch adds a pegboard panel alongside the four open shelves, giving hooks and pegs for hanging headphones, cables, small tools, and accessories at desk height. 6-inch width matches the standard small-desk footprint well and the hook-ready panel reduces clutter on the shelf surfaces themselves. It costs a bit more than the plain rustic model and shares the same four-tier format. Buyers who have a lot of small accessories tend to prefer the pegboard version, while those who want pure shelf space opt for the standard model.",
     specs: ["38.6 inches wide", "4 tiers", "Pegboard panel", "Hook-ready"],
     pros: [
       "Pegboard panel for hanging accessories",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/nutikas-adjustable.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DR31GC3D?tag=theofficejournal-20",
     description:
-      "The NUTIKAS organizer extends from 16 to 28 inches wide, making it the most adaptable hutch in this roundup for unusually narrow desks or desks where a full 37-inch hutch would feel oversized. Three shelves give enough vertical storage for reference books, a small plant, and basic supplies. The adjustable range is its main advantage over fixed-width models, and at a budget-friendly price it undercuts the Jerry and Maggie on price. Buyers with desks under 30 inches wide tend to find this format works better than any fixed-width model.",
+      "The NUTIKAS organizer extends from 16 to 28 inches wide, making it the most adaptable hutch in this roundup for unusually narrow desks or desks where a full 37-inch hutch would feel oversized. Three shelves give enough vertical storage for reference books, a small plant, and basic supplies. The adjustable range is its main advantage over fixed-width models, and it undercuts the Jerry and Maggie on price. Buyers with desks under 30 inches wide tend to find this format works better than any fixed-width model.",
     specs: ["Adjustable 16-28 inches", "3 shelves", "Compact footprint"],
     pros: [
       "Adjustable 16-28 inch width range",
@@ -194,7 +194,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/furinno-5shelf.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CZNX653N?tag=theofficejournal-20",
     description:
-      "This compact Furinno hutch offers five open shelves at the lowest price point in the roundup, at a budget-friendly price, making it the most minimal and affordable way to add vertical storage to a small desk. The lightweight build assembles quickly and is easy to reposition if the desk layout changes. It has fewer width options than the 37-inch model and is better suited to desks where the hutch sits off to one side rather than spanning the full width behind a monitor. Buyers who want basic paper and supply storage without spending more than a competitive price rate it well for its intended use.",
+      "This compact Furinno hutch offers five open shelves at the lowest price point in the roundup, making it the most minimal and affordable way to add vertical storage to a small desk. The lightweight build assembles quickly and is easy to reposition if the desk layout changes. It has fewer width options than the 37-inch model and is better suited to desks where the hutch sits off to one side rather than spanning the full width behind a monitor. Buyers who want basic paper and supply storage without spending more than its price rate it well for its intended use.",
     specs: ["5 open shelves", "Lightweight", "Easy assembly"],
     pros: [
       "Under $18, lowest price in the roundup",
@@ -221,7 +221,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/yigang-3tier.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0FQC12WFX?tag=theofficejournal-20",
     description:
-      "The YIGANG hutch is a 29-inch three-tier option for desks where even a 37-inch hutch would feel wide. At 29 inches it fits comfortably on compact studio desks, narrow writing tables, and side-table workspaces that cannot accommodate wider models.\n\nWith only 70 reviews it is the newest product in this roundup and has the smallest review base, but early ratings hold at 4.2 stars. Buyers who need a specific under-30-inch width and prefer a bookshelf format over an adjustable design tend to favor this model over the NUTIKAS.",
+      "The YIGANG hutch is a 29-inch three-tier option for desks where even a 37-inch hutch would feel wide. At 29 inches it fits comfortably on compact studio desks, narrow writing tables, and side-table workspaces that cannot accommodate wider models.\n\nBuyers who need a specific under-30-inch width and prefer a bookshelf format over an adjustable design tend to favor this model over the NUTIKAS.",
     specs: ["29 inches wide", "3 tiers", "Ultra-compact footprint"],
     pros: [
       "29-inch width for very compact desks",
@@ -240,7 +240,7 @@ export const products: GuideProduct[] = [
 export const faq: { q: string; a: string }[] = [
   {
     q: "What width desk hutch fits a small desk?",
-    a: "Most small desks run between 28 and 40 inches wide. A hutch between 29 and 38.6 inches wide works well for the majority of small desk setups. The adjustable NUTIKAS (16-28 inches) and YIGANG (29 inches fixed) are best for the narrowest desks, while the Furinno 37-inch and Snughome 38.6-inch models suit desks in the 36-40 inch range.",
+    a: "Most small desks run between 28 and 40 inches wide. 6 inches wide works well for the majority of small desk setups. 6-inch models suit desks in the 36-40 inch range.",
   },
   {
     q: "Can a desk hutch hold a monitor?",

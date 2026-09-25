@@ -1,12 +1,12 @@
 const BASE = "/guides/best-headphones-for-working-out";
 
 export const guideSlug = "best-headphones-for-working-out";
-export const guideTitle = "7 Best Headphones for Working Out (2026)";
+export const guideTitle = "The Best Headphones for Working Out: Our Picks";
 export const guideDescription =
   "The wrong headphones for working out are not just annoying. They fall out mid-set, short-circuit from sweat in three months, or muffle ambient sound so completely that you do not hear the car coming. This guide covers 7 picks for 2026: budget earbuds, IP68-rated sport picks, open-ear bone conduction for runners, premium hooks for intense training, and one over-ear pick for controlled gym sessions.";
-export const metaTitle = "7 Best Headphones for Working Out (2026)";
+export const metaTitle = "Best Headphones for Working Out (2026)";
 export const metaDescription =
-  "7 best workout headphones in 2026 from $45-$350: IP68 earbuds, bone conduction, ANC sport picks, and over-ear for the gym. Compared by fit and battery.";
+  "How 8 headphones for working out compare on features, build and practical fit, with clear notes on who each one suits.";
 export const lastUpdated = "2026-06-14";
 export const readTime = "11 min";
 export const heroImage = `${BASE}/8-hero-best-headphones-for-working-out-2026.webp`;
@@ -81,7 +81,7 @@ export const products: WorkoutHeadphone[] = [
     imageUrl: `${BASE}/2-jbl-endurance-peak-3.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0BQPW9R9H?tag=theofficejournal-20",
     whyItWorks:
-      "IP68 is the highest water and dust protection available. Fully submersible and dustproof. No other earbud in this price range matches it. FlexSoft ear hooks adapt to ear shape and create a physical lock that holds through jumping, sprinting, and heavy lifting. 10 hours per bud plus 30 in the case gives 40 hours total, exceptional at under $80. Ambient Aware mode lets outside sound through for safer outdoor use. Powerbank mode lets the case charge your phone during long outdoor sessions.",
+      "IP68 is the highest water and dust protection available. No other earbud in this price range matches it. FlexSoft ear hooks adapt to ear shape and create a physical lock that holds through jumping, sprinting, and heavy lifting. 10 hours per bud plus 30 in the case gives 40 hours total, exceptional at under $80. Ambient Aware mode lets outside sound through for safer outdoor use. Powerbank mode lets the case charge your phone during long outdoor sessions.",
     tradeoffs: [
       "No ANC, IP68 sealing blocks passive noise but no active cancellation",
       "Sound signature is bass-heavy, not ideal for neutral or balanced audio preference",
@@ -186,7 +186,7 @@ export const products: WorkoutHeadphone[] = [
     imageUrl: `${BASE}/5-jabra-elite-8-active-gen-2.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0D5DPFTPB?tag=theofficejournal-20",
     whyItWorks:
-      "IP68 plus MIL-STD-810H military durability standard. The only pick in this guide rated for both maximum water resistance and military-grade shock, vibration, and extreme temperature testing. MultiSensor Voice technology uses 6 microphones for noticeably cleaner call quality in wind, noise, and outdoor environments. Best-in-class ANC for workout earbuds that matches or exceeds Sony and Bose at equivalent price points. HearThrough transparency mode with Spatial Audio sounds natural outdoors. 8+32 hrs total with wireless charging case, the case is also IP67 rated.",
+      "IP68 plus MIL-STD-810H military durability standard. The only pick in this guide rated for both maximum water resistance and military-grade shock, vibration, and extreme temperature testing. MultiSensor Voice technology uses 6 microphones for noticeably cleaner call quality in wind, noise, and outdoor environments. ANC for workout earbuds that matches or exceeds Sony and Bose at equivalent price points. HearThrough transparency mode with Spatial Audio sounds natural outdoors. 8+32 hrs total with wireless charging case, the case is also IP67 rated.",
     tradeoffs: [
       "Premium price at $169-$229",
       "Ear hook design adds bulk compared to minimal earbud designs",
@@ -294,11 +294,11 @@ export const faq = [
   },
   {
     q: "Can I use over-ear headphones at the gym?",
-    a: "Yes, with conditions. Over-ear headphones are best for low to moderate intensity gym sessions like weight training, stationary bike, and stretching. They are not suitable for running (too unstable), intense cardio (movement shifts them), or heavy sweat training (most lack IP ratings). The Sony WH-1000XM5 is the over-ear pick for its ANC and sound quality, but be realistic about how much you sweat.",
+    a: "Over-ear headphones are best for low to moderate intensity gym sessions like weight training, stationary bike, and stretching. They are not suitable for running (too unstable), intense cardio (movement shifts them), or heavy sweat training (most lack IP ratings). The Sony WH-1000XM5 is the over-ear pick for its ANC and sound quality, but be realistic about how much you sweat.",
   },
   {
     q: "Are bone conduction headphones worth it?",
-    a: "For outdoor runners and cyclists: yes. Open ears are a genuine safety advantage on roads and trails. For gym-only users: no. You pay more for less bass response and less isolation than earbuds at the same price. The Shokz OpenRun Pro 2 is the pick for outdoor athletes. Earbuds are the right choice for indoor training.",
+    a: "For outdoor runners and cyclists: yes. Open ears are a genuine safety advantage on roads and trails. You pay more for less bass response and less isolation than earbuds at the same price. The Shokz OpenRun Pro 2 is the pick for outdoor athletes. Earbuds are the right choice for indoor training.",
   },
   {
     q: "How do I make earbuds stay in during workouts?",
@@ -306,7 +306,7 @@ export const faq = [
   },
   {
     q: "What is the difference between IPX7 and IP68?",
-    a: "IPX7 means water resistant to 1 meter submersion for 30 minutes. The X means dust resistance is unrated. IP68 means fully dustproof (rating 6) plus water resistant beyond 1 meter at a manufacturer-specified depth. IP68 is the stronger rating for both dust and water. At sub-$80, the JBL Endurance Peak 3 achieving IP68 is genuinely unusual.",
+    a: "IPX7 means water resistant to 1 meter submersion for 30 minutes. The X means dust resistance is unrated. IP68 means fully dustproof (rating 6) plus water resistant beyond 1 meter at a manufacturer-specified depth. IP68 is the stronger rating for both dust and water. At sub-$80, the JBL Endurance Peak 3 achieving IP68 is unusual.",
   },
 ];
 

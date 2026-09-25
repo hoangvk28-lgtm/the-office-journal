@@ -5,9 +5,9 @@ export const guideSlug = "best-clip-on-desk-lamp";
 export const guideTitle =
   "Best Clip-On Desk Lamp for Small Desks & Dorms (2026)";
 export const guideDescription =
-  "We evaluated 8 clip-on desk lamps specifically for small desks and dorm rooms -- rated on clamp strength, brightness range, cord management, and value. Zero surface footprint, targeted light.";
+  "We compared 8 clip-on desk lamps specifically for small desks and dorm rooms -- rated on clamp strength, brightness range, cord management, and value. Zero surface footprint, targeted light.";
 export const metaTitle = "Best Clip-On Desk Lamp (2026)";
-export const metaDescription = "8 clip-on lamps for small desks and dorms -- rated on clamp strength, brightness, and value. Includes cordless and eye-care options. Zero surface footprint.";
+export const metaDescription = "8 clip-on lamps for small desks and dorms -- rated on clamp strength, brightness, and value. Includes cordless and eye-care options.";
 export const lastUpdated = "2026-05-27";
 export const readTime = "11 min";
 export const heroImage = `${BASE}/voncerus-led-clamp-best-overall.webp`;
@@ -113,7 +113,7 @@ export const lamps: ClipLamp[] = [
     amazonUrl: "https://www.amazon.com/dp/B08RS1B9S8?tag=theofficejournal-20",
     imageUrl: `${BASE}/deeplite-battery-powered-best-cordless.webp`,
     standout:
-      "Stepless dimming -- hold the touch button and brightness slides up or down continuously. No preset jumps. Makes finding the exact level that doesn't give you a headache at midnight actually possible.",
+      "Stepless dimming -- hold the touch button and brightness slides up or down continuously. Makes finding the exact level that doesn't give you a headache at midnight actually possible.",
     whyItWorks: [
       "No outlet needed -- ideal when your power strip is already maxed out",
       "Stepless dimming (continuous, not stepped) -- smoother than most lamps",
@@ -240,7 +240,7 @@ export const lamps: ClipLamp[] = [
     amazonUrl: "https://www.amazon.com/dp/B08XQY5LY6?tag=theofficejournal-20",
     imageUrl: `${BASE}/eye-caring-gooseneck-eye-strain.webp`,
     standout:
-      "Flicker-free light output. Many cheap LED lamps flicker at 50-60Hz -- invisible to the naked eye but picked up by your visual system over long sessions, contributing to headaches and fatigue.",
+      "Many cheap LED lamps flicker at 50-60Hz -- invisible to the naked eye but picked up by your visual system over long sessions, contributing to headaches and fatigue.",
     whyItWorks: [
       "Flicker-free certification -- reduces eye fatigue on 3+ hour study sessions",
       "Softer light quality compared to standard LED panels",
@@ -270,7 +270,7 @@ export const lamps: ClipLamp[] = [
     amazonUrl: "https://www.amazon.com/dp/B01L4BL0E8?tag=theofficejournal-20",
     imageUrl: `${BASE}/eazyclips-led-entry-level.webp`,
     standout:
-      "The simplicity. One switch, two settings. Plug in, turn on, use it. Works with both USB and AC power -- the most versatile power option on this list.",
+      "Plug in, turn on, use it. Works with both USB and AC power -- the most versatile power option on this list.",
     whyItWorks: [
       "USB or AC power -- works with any power source you have",
       "Dead simple to use -- one switch, two brightness levels",
@@ -303,14 +303,14 @@ export const evaluationCriteria = [
   { icon: "💡", label: "Brightness Range (20%)", body: "Minimum 3 brightness levels; both focused reading mode and soft ambient mode. More levels = more flexibility to avoid eye strain." },
   { icon: "🔩", label: "Build Quality (20%)", body: "Clamp strength, arm stability, and material durability. Metal goosenecks hold position far better than plastic, which droops over weeks of use." },
   { icon: "👆", label: "Ease of Use (20%)", body: "Touch control, intuitive settings, cord management. We specifically evaluated clamp jaw width for desk compatibility and power source flexibility." },
-  { icon: "💰", label: "Value (15%)", body: "Price-to-feature ratio vs. comparable options at each price tier. A $20 lamp with 48 LEDs and 3 color modes scores higher than a $30 lamp with fewer features." },
+  { icon: "💰", label: "Value (15%)", body: "Comparable options at each price tier. A $20 lamp with 48 LEDs and 3 color modes scores higher than a $30 lamp with fewer features." },
 ];
 
 export const buyingCriteria = [
   {
     icon: "📏",
     title: "Clamp jaw width -- does it fit your desk?",
-    body: "Most clip-on lamps clamp desks up to 1.5-2.5 inches thick. Standard dorm desks and IKEA tabletops are 0.75-1.25 inches -- all fine. Issues arise with thicker built-in desks or shelf rails. Measure your desk edge first if unsure. If clamping to a headboard rail, verify the clamp opens wide enough for round surfaces.",
+    body: "25 inches -- all fine. Issues arise with thicker built-in desks or shelf rails. Measure your desk edge first if unsure. If clamping to a headboard rail, verify the clamp opens wide enough for round surfaces.",
   },
   {
     icon: "🔌",
@@ -351,7 +351,7 @@ export const clipVsBase = [
 export const faq: Array<{ q: string; a: string }> = [
   {
     q: "How thick does my desk need to be for a clip-on lamp?",
-    a: "Most clip-on lamps clamp desks up to 1.5-2.5 inches thick. Standard dorm desks, IKEA tabletops (like LINNMON), and most college-issued desks fall between 0.75-1.5 inches thick -- well within range. If your desk is unusually thick or you're clamping to a round surface like a headboard rail, check the specific clamp specs before buying.",
+    a: "5 inches thick -- well within range. If your desk is unusually thick or you're clamping to a round surface like a headboard rail, check the specific clamp specs before buying.",
   },
   {
     q: "Can I use a clip-on lamp with a USB power bank?",
@@ -367,7 +367,7 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "Are USB clip lamps bright enough for serious work?",
-    a: "Yes, for most tasks. USB (5V) lamps typically output 200-500 lumens, which is enough for reading, writing, and computer work. If you need more than 500 lumens (detailed art, technical drawing), look for a plug-in AC lamp with higher wattage.",
+    a: "USB (5V) lamps typically output 200-500 lumens, which is enough for reading, writing, and computer work. If you need more than 500 lumens (detailed art, technical drawing), look for a plug-in AC lamp with higher wattage.",
   },
   {
     q: "How long do LED clip lamps last?",

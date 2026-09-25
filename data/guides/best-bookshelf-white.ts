@@ -1,12 +1,12 @@
 export const guideSlug = "best-bookshelf-white";
-export const guideTitle = "7 Best White Bookshelves in 2026";
-export const metaTitle = "Best White Bookshelves in 2026 (Narrow, Tall & With Drawers)";
+export const guideTitle = "The Best White Bookshelves for Everyday Use";
+export const metaTitle = "Best White Bookshelves for Home Offices (2026)";
 export const metaDescription =
-  "7 best white bookshelves in 2026, comparing narrow stackable units, tall 6-tier towers, and drawer-equipped picks. Compare capacity, footprint, and price.";
+  "A practical comparison of 8 white bookshelves, focused on features, build and practical fit, and the trade-offs between them.";
 export const mainKeyword = "bookshelf white";
 export const introParagraphs = [
   "White bookshelves brighten a room and blend into almost any color scheme, which makes them one of the most requested finishes for living rooms, home offices, and bedrooms alike.",
-  "Below are 7 white bookshelves we evaluated on weight capacity, footprint, and standout features, ranging from a narrow stackable unit that doubles as end tables to a wide 5-tier shelf built to hold oversized books.",
+  "Below are 7 white bookshelves we compared on weight capacity, footprint, and standout features, ranging from a narrow stackable unit that doubles as end tables to a wide 5-tier shelf built to hold oversized books.",
 ];
 export const lastUpdated = "2026-07-18";
 export const readTime = "9 min";
@@ -51,7 +51,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/5145tO05s8L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CKRJS67K?tag=theofficejournal-20",
     description:
-      "The TUTOTAK is the highest-rated pick in this entire list, and its party trick is a genuinely clever DIY stackable design that lets it split into 2 low end tables or combine into one tall 6-tier bookcase, whichever your space needs right now. At a narrow 14.5 inches wide and 10.7 inches deep, it slots into corners most full-size bookshelves can't touch.\n\nFour adjustable feet and an anti-tilt wall mount kit round out a build that stays stable despite its slim profile, making it an easy top pick for renters or anyone who might rearrange furniture down the line.\n\nA genuine advantage here is that unique stackable design splits into 2 end tables or one tall bookcase. The tradeoff is narrower shelves hold fewer books per tier than wider units.",
+      "7 inches deep, it slots into corners most full-size bookshelves can't touch.\n\nFour adjustable feet and an anti-tilt wall mount kit round out a build that stays stable despite its slim profile, making it an easy top pick for renters or anyone who might rearrange furniture down the line.",
     specs: [
       "14.5\"W x 10.7\"D x 65.3\"H",
       "Engineered wood, 6 tiers",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41Jl8corSNL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0B9XZZH1W?tag=theofficejournal-20",
     description:
-      "The FOTOSOK gives you a full-size, 6-tier bookcase in the slimmest depth of any full-size pick in this list at just 9.3 inches, so it hugs the wall without eating into floor space. A built-in anti-collapse stability device backs up the open shelving, and each tier is rated to hold 22 lbs.\n\nAt 70.9 inches tall and 23.6 inches wide, it has room for a serious book collection while still fitting cleanly against a wall in a living room, bedroom, or office.\n\nAnti-collapse stability device built in. On the other hand, no enclosed storage. Neither should be a surprise once you know to look for it.",
+      "3 inches, so it hugs the wall without eating into floor space. A built-in anti-collapse stability device backs up the open shelving, and each tier is rated to hold 22 lbs.\n\n6 inches wide, it has room for a serious book collection while still fitting cleanly against a wall in a living room, bedroom, or office.\n\nAnti-collapse stability device built in.",
     specs: [
       "23.6\"W x 9.3\"D x 70.9\"H",
       "Engineered particleboard, 6 open tiers",
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41czXLWqp3L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0D3T2R4L4?tag=theofficejournal-20",
     description:
-      "The SUNMORY takes a tree-shaped silhouette that's arguably the most visually interesting design in this list, staggering 6 tiers around 2 joinable open storage cabinets at the base. It's built from MDF in a vintage white tone that reads warmer than a stark white finish, all in a tiny 14.6\" x 7.9\" footprint.\n\nSUNMORY backs it with a 2-year warranty plus lifetime support, longer coverage than most competitors offer, and includes an anti-tip kit for safe wall anchoring.\n\n2-year warranty with lifetime support. That's a real strength, but weigh it against the flip side: shorter than the tallest picks at 47.4\".",
+      "The SUNMORY takes a tree-shaped silhouette that's arguably the most visually interesting design in this list, staggering 6 tiers around 2 joinable open storage cabinets at the base.\n\nSUNMORY backs it with a 2-year warranty plus lifetime support, longer coverage than most competitors offer, and includes an anti-tip kit for safe wall anchoring.\n\n2-year warranty with lifetime support.",
     specs: [
       "14.6\"L x 7.9\"W x 47.4\"H",
       "MDF, tree-shaped design",
@@ -146,7 +146,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/31zaJI1xQdL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0BNJ2SCR9?tag=theofficejournal-20",
     description:
-      "The VASAGLE CUSTOS carries the highest total capacity among open-shelving white bookcases in this list at 154 lbs, spread across 4 fully adjustable shelves that can be set to 3 different height positions. A footless H-shaped frame gives it a modern look that skips the usual four-leg base.\n\nA slot-in back panel adds rigidity without extra tools, and at 22 lbs per shelf it comfortably handles a mixed load of books, binders, and decor in a Cloud White finish.\n\nWorth calling out specifically: 4 fully adjustable shelves with 3 height positions. The catch is lower star rating than most other picks in this list at 4.3.",
+      "The VASAGLE CUSTOS carries the highest total capacity among open-shelving white bookcases in this list at 154 lbs, spread across 4 fully adjustable shelves that can be set to 3 different height positions. A footless H-shaped frame gives it a modern look that skips the usual four-leg base.\n\nA slot-in back panel adds rigidity without extra tools, and at 22 lbs per shelf it comfortably handles a mixed load of books, binders, and decor in a Cloud White finish.",
     specs: [
       "23.6\"W x 9.4\"D x 63.3\"H",
       "Particleboard + MDF",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51v0HhipEKL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0C5RK4NBT?tag=theofficejournal-20",
     description:
-      "This FOTOSOK pairs 3 open display shelves with 3 smooth-gliding drawers finished with aluminum handles, giving you roughly 100 gallons of combined storage for both displayed and hidden items. An anti-collapse iron plate reinforces the frame, addressing a common weak point on tall bookshelves. At 70.9 inches tall and 23.6 inches wide, it's the best-looking white pick in this list for anyone who wants concealed storage without giving up open shelf display space. Anti-collapse iron plate reinforcement. Set against that, most expensive pick in this list. Both matter when comparing it to the other picks here.",
+      "This FOTOSOK pairs 3 open display shelves with 3 smooth-gliding drawers finished with aluminum handles, giving you roughly 100 gallons of combined storage for both displayed and hidden items. An anti-collapse iron plate reinforces the frame, addressing a common weak point on tall bookshelves. 6 inches wide, it's the best-looking white pick in this list for anyone who wants concealed storage without giving up open shelf display space.",
     specs: [
       "23.6\"W x 13.8\"D x 70.9\"H",
       "Engineered particleboard",
@@ -210,7 +210,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51-W1x24xYL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0BRPKSG14?tag=theofficejournal-20",
     description:
-      "The OSCHF carries the highest total weight capacity in this entire list at 400 lbs, or 80 lbs per shelf, thanks to P2 MDF shelving paired with genuine solid beech wood legs rather than the metal or composite legs found on most competitors. Three side panels on each shelf keep smaller items from sliding off the edges.\n\nRounded corners and a warm white finish give it the most premium, minimalist look among white bookshelves here, and at 31.5 inches wide it holds a serious book collection without towering over the room.\n\nA genuine advantage here is that genuine solid beech wood legs, not composite or metal. The tradeoff is shorter than the tallest picks at 53.94\".",
+      "The OSCHF carries the highest total weight capacity in this entire list at 400 lbs, or 80 lbs per shelf, thanks to P2 MDF shelving paired with genuine solid beech wood legs rather than the metal or composite legs found on most competitors. Three side panels on each shelf keep smaller items from sliding off the edges.\n\n5 inches wide it holds a serious book collection without towering over the room.",
     specs: [
       "31.5\"W x 9.45\"D x 53.94\"H",
       "P2 MDF + solid beech wood legs (30mm)",
@@ -242,7 +242,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41aYIIYxIDL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0C4HK9PTC?tag=theofficejournal-20",
     description:
-      "The Bevfint is both the widest pick in this list at 33 inches and the highest per-shelf capacity among 5-tier white bookshelves at 60 lbs per shelf, a combination that makes it well suited to encyclopedias, binders, and other oversized items most bookshelves can't accommodate. FSC-certified MDF construction backs a sustainable sourcing claim most competitors skip. An anti-tipping device is included for wall anchoring, and 11.8 inches of clearance on each shelf gives even tall hardcovers room to stand upright without leaning. Widest pick in this list at 33\". On the other hand, most expensive pick in this list. Neither should be a surprise once you know to look for it.",
+      "The Bevfint is both the widest pick in this list at 33 inches and the highest per-shelf capacity among 5-tier white bookshelves at 60 lbs per shelf, a combination that makes it well suited to encyclopedias, binders, and other oversized items most bookshelves can't accommodate. FSC-certified MDF construction backs a sustainable sourcing claim most competitors skip. 8 inches of clearance on each shelf gives even tall hardcovers room to stand upright without leaning. Widest pick in this list at 33\".",
     specs: [
       "33\"W x 13\"D x 70\"H",
       "FSC-certified MDF, 5 open tiers",
@@ -276,11 +276,11 @@ export const buyingCriteria: BuyingCriterion[] = [
   },
   {
     "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this bookshelf white over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
+    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this bookshelf white over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
   },
   {
     "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any bookshelf white you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
+    "explanation": "This matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any bookshelf white you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
   },
   {
     "criterion": "Check compatibility and fit with your existing setup before ordering",
@@ -291,7 +291,7 @@ export const buyingCriteria: BuyingCriterion[] = [
 export const faq: FaqItem[] = [
   {
     q: "What is the best white bookshelf overall?",
-    a: "The TUTOTAK 6-Tier Tall Bookshelf White (Pick 1) is the best overall choice, with the highest rating in this list at 4.7 stars and a unique stackable design that splits into 2 end tables or combines into one tall bookcase.",
+    a: "7 stars and a unique stackable design that splits into 2 end tables or combines into one tall bookcase.",
   },
   {
     q: "Which white bookshelf saves the most floor space?",
@@ -307,15 +307,15 @@ export const faq: FaqItem[] = [
   },
   {
     q: "Which white bookshelf is best for oversized books?",
-    a: "The Bevfint 70\" Tall White Bookcase (Pick 7) has the highest per-shelf capacity among 5-tier picks at 60 lbs and 11.8 inches of shelf clearance, enough for encyclopedias and binders.",
+    a: "8 inches of shelf clearance, enough for encyclopedias and binders.",
   },
   {
     q: "What is the most affordable white bookshelf in this list?",
-    a: "The TUTOTAK 6-Tier Tall Bookshelf White (Pick 1) is the cheapest at $39.99, while also carrying the highest rating in this list.",
+    a: "99, while also carrying the highest rating in this list.",
   },
   {
     q: "Does shelf spacing matter if I only own paperbacks?",
-    a: "Yes, but you have more flexibility. Paperbacks only need about 8-9 inches of clearance, so a narrower-spaced white bookshelf works fine. If your collection includes hardcovers, oversized art books, or binders, look for a pick with taller clearance like the Bevfint at 11.8 inches, since a shelf built for paperback spacing won't fit them.",
+    a: "Yes, but you have more flexibility. Paperbacks only need about 8-9 inches of clearance, so a narrower-spaced white bookshelf works fine. 8 inches, since a shelf built for paperback spacing won't fit them.",
   },
 ];
 

@@ -129,7 +129,7 @@ export default async function Page() {
     datePublished: lastUpdated,
     dateModified: lastUpdated,
     author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` },
-    publisher: { "@type": "Organization", name: "WorkCocoon", url: SITE_URL },
+    publisher: { "@type": "Organization", name: "The Office Journal", url: SITE_URL },
     mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-tv-stand-narrow` },
     about: [{"@type":"Thing","name":"Best Narrow TV Stands"}],
   };
@@ -245,7 +245,7 @@ export default async function Page() {
 
         <section className="mb-10 space-y-4 text-base text-ink-secondary leading-relaxed">
           <p>When people search for a "narrow" TV stand, they usually mean shallow front-to-back depth, not a skinny width. Depth is the spec that decides whether a TV stand fits against a bedroom wall without eating into walking space, or squeezes into a small apartment living room without blocking a doorway.</p>
-          <p>Every pick below lists its exact depth so you can compare at a glance. Most of these stands run 11 to 14 inches deep, which is dramatically shallower than the 16 to 20 inch depth common on standard TV consoles, making them a natural fit for WorkCocoon' small-space audience. We've also included one pick that is narrow by width instead of depth, clearly flagged, for corners where floor width is the tighter constraint.</p>
+          <p>Every pick below lists its exact depth so you can compare at a glance. Most of these stands run 11 to 14 inches deep, which is dramatically shallower than the 16 to 20 inch depth common on standard TV consoles, making them a natural fit for The Office Journal' small-space audience. We've also included one pick that is narrow by width instead of depth, clearly flagged, for corners where floor width is the tighter constraint.</p>
         </section>
 
         {buyingCriteria.length > 0 && (

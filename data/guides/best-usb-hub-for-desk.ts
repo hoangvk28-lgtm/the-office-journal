@@ -58,7 +58,7 @@ export const hubs: UsbHub[] = [
       "7 ports -- if you need 9+ simultaneous connections, see #2 or #6",
     ],
     whyPick:
-      "36W AC adapter + BC 1.2 charging + Anker build reliability. Every port is USB 3.0 with no speed-downgraded ports hiding in the lineup.",
+      "2 charging + Anker build reliability. 0 with no speed-downgraded ports hiding in the lineup.",
     bestFor: "Windows laptop or older MacBook users with 5-7 devices who want a powered hub from a reliable brand.",
     specs: [
       { label: "Ports", value: "7x USB 3.0 data + 1x BC 1.2 charging" },
@@ -295,7 +295,7 @@ export const hubs: UsbHub[] = [
       "Basic build quality compared to Anker or Sabrent",
     ],
     whyPick:
-      "3.3ft cable lets you position the hub under your desk or behind your monitor -- out of sight -- with just the 4 ports accessible where you need them.",
+      "3ft cable lets you position the hub under your desk or behind your monitor -- out of sight -- with just the 4 ports accessible where you need them.",
     bestFor: "Anyone who wants a simple 4-port hub with enough cable to hide the hub itself under the desk.",
     specs: [
       { label: "Ports", value: "4x USB 3.0" },
@@ -386,15 +386,15 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "Can I use a USB hub to charge my phone faster?",
-    a: "Depends on the hub. Standard USB 3.0 data ports deliver 900mA (about 5W) -- this charges a phone slowly. Look for a hub with a dedicated charging port: BC 1.2 (Anker 7-port), PowerIQ (Anker 10-port), or smart charging (Sabrent 10-port). These deliver 2-2.4A (10-12W) to phones, meaningfully faster.",
+    a: "0 data ports deliver 900mA (about 5W) -- this charges a phone slowly. 2 (Anker 7-port), PowerIQ (Anker 10-port), or smart charging (Sabrent 10-port). 4A (10-12W) to phones, meaningfully faster.",
   },
   {
     q: "Will a USB hub slow down my internet if I connect a mouse or keyboard to it?",
-    a: "No. USB hubs don't affect Wi-Fi or ethernet. They share the USB bandwidth of the port they connect to (5 Gbps for USB 3.0), but keyboard and mouse data is negligible -- a full keyboard dataset is less than 1MB/s even during heavy typing. No measurable impact on transfer speed for other devices.",
+    a: "USB hubs don't affect Wi-Fi or ethernet. 0), but keyboard and mouse data is negligible -- a full keyboard dataset is less than 1MB/s even during heavy typing. No measurable impact on transfer speed for other devices.",
   },
   {
     q: "My external hard drive keeps disconnecting from the hub -- why?",
-    a: "Almost certainly an unpowered hub. External hard drives require 900mA-1.5A on startup (spin-up current) -- more than most unpowered hubs can deliver from the laptop's USB port. The drive powers on, demands more current than available, and disconnects. Solution: use a powered hub with its own AC adapter. The Anker 7-port (#1) and both 10-port options (#2, #6) handle this reliably.",
+    a: "Almost certainly an unpowered hub. 5A on startup (spin-up current) -- more than most unpowered hubs can deliver from the laptop's USB port. The drive powers on, demands more current than available, and disconnects. Solution: use a powered hub with its own AC adapter. The Anker 7-port (#1) and both 10-port options (#2, #6) handle this reliably.",
   },
   {
     q: "Can I daisy-chain USB hubs?",
@@ -406,6 +406,6 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "Do USB hubs work with Mac and PC?",
-    a: "Yes -- all hubs on this list are plug-and-play on Windows (7/10/11), macOS, Chrome OS, and Linux. No driver installation needed. The USB standard is universal.",
+    a: "Yes -- all hubs on this list are plug-and-play on Windows (7/10/11), macOS, Chrome OS, and Linux. The USB standard is universal.",
   },
 ];

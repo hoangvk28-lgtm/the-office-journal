@@ -223,7 +223,7 @@ export const faq: { question: string; answer: string }[] = [
   },
   {
     question: "Which is better for online classes -- wired or wireless?",
-    answer: "Both work. Wired (Logitech H390) is more reliable -- no battery risk, no Bluetooth latency. Wireless (Sony WH-CH520, JLab picks) is more flexible. If battery anxiety is a concern, go wired. If you prefer freedom of movement, go wireless and charge nightly.",
+    answer: "Wired (Logitech H390) is more reliable -- no battery risk, no Bluetooth latency. Wireless (Sony WH-CH520, JLab picks) is more flexible. If battery anxiety is a concern, go wired. If you prefer freedom of movement, go wireless and charge nightly.",
   },
   {
     question: "Can I use gaming headsets for online classes?",

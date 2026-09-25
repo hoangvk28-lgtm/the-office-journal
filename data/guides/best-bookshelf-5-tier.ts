@@ -1,12 +1,12 @@
 export const guideSlug = "best-bookshelf-5-tier";
-export const guideTitle = "8 Best 5-Tier Bookshelves in 2026";
-export const metaTitle = "Best 5-Tier Bookshelves in 2026 (Ladder, Arched & No-Assembly)";
+export const guideTitle = "The Best 5-Tier Bookshelves for Home Offices";
+export const metaTitle = "Best 5-Tier Bookshelves for Home Offices (2026)";
 export const metaDescription =
-  "8 best 5-tier bookshelves in 2026, comparing ladder shelves, arched designs, and no-assembly folding units. Compare capacity, footprint, and assembly time.";
+  "We compared 9 5-tier bookshelves on features, build and practical fit to help you choose the right one for your space.";
 export const mainKeyword = "5 tier bookshelf";
 export const introParagraphs = [
   "A 5-tier bookshelf hits a sweet spot for most rooms, tall enough to hold a substantial book or decor collection without dominating a wall the way a 6- or 7-tier unit can.",
-  "Below are 8 five-tier bookshelves we evaluated on weight capacity, footprint, and assembly complexity, ranging from budget ladder shelves to no-assembly folding designs, useful for living rooms, home offices, and bedrooms alike.",
+  "Below are 8 five-tier bookshelves we compared on weight capacity, footprint, and assembly complexity, ranging from budget ladder shelves to no-assembly folding designs, useful for living rooms, home offices, and bedrooms alike.",
 ];
 export const lastUpdated = "2026-07-18";
 export const readTime = "10 min";
@@ -51,7 +51,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41QNB+nv3uL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B07CMTMWC6?tag=theofficejournal-20",
     description:
-      "The VASAGLE BARNET is the most-reviewed pick in this entire list by a huge margin, with nearly 19,000 ratings backing a 4.7-star average. An alloy steel frame paired with particleboard shelves gives it a 235 lb total weight capacity, the highest of any pick here, and an X-shaped support bar adds rigidity that keeps the ladder shape from wobbling under load.\n\nBetween the rustic brown shelving and ink black frame, it fits a wide range of decor styles, and an anti-tip kit plus adjustable feet round out a genuinely well-built budget pick.\n\nMost-reviewed pick with nearly 19,000 ratings. On the other hand, ladder shape uses more floor space at the base than a straight bookcase. Neither should be a surprise once you know to look for it.",
+      "An alloy steel frame paired with particleboard shelves gives it a 235 lb total weight capacity, the highest of any pick here, and an X-shaped support bar adds rigidity that keeps the ladder shape from wobbling under load.\n\nBetween the rustic brown shelving and ink black frame, it fits a wide range of decor styles, and an anti-tip kit plus adjustable feet round out a well-built budget pick.",
     specs: [
       "22\"W x 13.6\"D x 67.5\"H",
       "Alloy steel frame + particleboard",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41p8nGWmCmL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B08DR542S9?tag=theofficejournal-20",
     description:
-      "The NUMENN adds a wooden baffle panel behind each shelf, a detail most competitors skip, which stops books and smaller items from sliding out the back of the unit rather than just the front. Engineered wood shelves sit on a metal frame rated for 150 lbs total, and the whole thing assembles in just 8 steps, noticeably fewer than most comparable bookshelves.\n\nA premium anti-rust coating on the metal frame and an included anti-tilt tool round out a build that punches above its price point, backed by a strong 4.7-star average across over 4,000 ratings.\n\nAssembles in only 8 steps. That's a real strength, but weigh it against the flip side: lower total capacity (150 lbs) than the VASAGLE BARNET.",
+      "The NUMENN adds a wooden baffle panel behind each shelf, a detail most competitors skip, which stops books and smaller items from sliding out the back of the unit rather than just the front. Engineered wood shelves sit on a metal frame rated for 150 lbs total, and the whole thing assembles in just 8 steps, noticeably fewer than most comparable bookshelves.\n\nAssembles in only 8 steps.",
     specs: [
       "23.6\"L x 11.8\"W x 62.2\"H",
       "Engineered wood + metal frame",
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41lGE4uN00L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CPM7T7D8?tag=theofficejournal-20",
     description:
-      "At just 15.3 inches wide, the Furologee is the most compact pick in this list, built from P2 MDF with a metal frame that includes both X-bars and 4 side poles to guard against items falling off any edge, not just the front or back. It's rated for 30 lbs per shelf, 150 lbs total, and includes 4 adjustable feet along with an anti-tip kit. The matte rustic industrial finish and low price make it an easy pick for tight corners, hallways, or apartments where floor space is at a premium. Worth calling out specifically: x-bars plus 4 side poles guard all sides. The catch is shortest pick in this list at 48\" tall.",
+      "3 inches wide, the Furologee is the most compact pick in this list, built from P2 MDF with a metal frame that includes both X-bars and 4 side poles to guard against items falling off any edge, not just the front or back. It's rated for 30 lbs per shelf, 150 lbs total, and includes 4 adjustable feet along with an anti-tip kit. The matte rustic industrial finish and low price make it an easy pick for tight corners, hallways, or apartments where floor space is at a premium.",
     specs: [
       "15.3\"W x 10.6\"D x 48\"H",
       "P2 MDF + metal frame",
@@ -149,7 +149,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41whI381uZL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0C5DH86H5?tag=theofficejournal-20",
     description:
-      "The HOOBRO stands out visually with an arched top design that also happens to add real structural stability, tying the two side frames together at the top the way a straight crossbar would. Curved panels throughout continue the retro vintage look, and 13 inches of spacing between tiers accommodates taller items like binders or decorative pieces that wouldn't fit on tighter shelving.\n\nAssembly uses a genuinely tool-free hand-twist system, a step up from the usual screwdriver-and-Allen-key process, and an anti-tip kit is included for wall anchoring.\n\nGenuinely tool-free hand-twist assembly. Set against that, more expensive than several straight-shelf alternatives. Both matter when comparing it to the other picks here.",
+      "The HOOBRO stands out visually with an arched top design that also happens to add real structural stability, tying the two side frames together at the top the way a straight crossbar would. Curved panels throughout continue the retro vintage look, and 13 inches of spacing between tiers accommodates taller items like binders or decorative pieces that wouldn't fit on tighter shelving.\n\nAssembly uses a tool-free hand-twist system, a step up from the usual screwdriver-and-Allen-key process, and an anti-tip kit is included for wall anchoring.",
     specs: [
       "16.9\"W x 11.8\"D x 69.3\"H",
       "Particleboard + matte black metal frame",
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
       "Smaller review sample than the top sellers",
       "Arched top uses slightly more vertical space per tier",
     ],
-    bestFor: "Buyers who want a distinctive arched silhouette with genuinely tool-free assembly",
+    bestFor: "Buyers who want a distinctive arched silhouette with tool-free assembly",
   },
   {
     id: "shintenchi-fsc",
@@ -182,7 +182,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/510fPP+lFkL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0BXDP61M2?tag=theofficejournal-20",
     description:
-      "The Shintenchi is built from FSC-certified wood, meeting sustainable-sourcing standards, and carries the highest per-shelf capacity among straight bookshelves in this list at 40 lbs per shelf, 200 lbs total. An X-shaped back rod runs across the rear of the frame, which the brand says eliminates wobble entirely rather than just reducing it. The waterproof, anti-scratch surface and anti-rust coated metal frame make it a durable pick at just at a premium price, and the rustic brown finish matches several other picks in this list if you're buying multiple units for a matched look. A genuine advantage here is that fSC-certified sustainable wood. The tradeoff is no drawers or enclosed storage.",
+      "The Shintenchi is built from FSC-certified wood, meeting sustainable-sourcing standards, and carries the highest per-shelf capacity among straight bookshelves in this list at 40 lbs per shelf, 200 lbs total. An X-shaped back rod runs across the rear of the frame, which the brand says eliminates wobble entirely rather than just reducing it. The waterproof, anti-scratch surface and anti-rust coated metal frame make it a durable pick at just, and the rustic brown finish matches several other picks in this list if you're buying multiple units for a matched look.",
     specs: [
       "23.6\"W x 11.8\"D x 62.2\"H",
       "FSC-certified wood + metal frame",
@@ -214,7 +214,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41YThBuGdBL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CQP34Q9D?tag=theofficejournal-20",
     description:
-      "The DUMOS is the cheapest full-size 5-tier bookshelf in this list, combining a metal frame with particle board shelving and the same waterproof, anti-scratch coating found on pricier picks. An anti-tipping tool and anti-rust metal frame come standard, and the brand includes an assembly video, which speeds up setup compared to written instructions alone. At 30 lbs per shelf, it handles a typical mixed book and decor collection without issue, and the rustic brown finish keeps it visually consistent with several other picks here. Assembly video speeds up setup. On the other hand, lower rating than most other picks in this list at 4.5 stars. Neither should be a surprise once you know to look for it.",
+      "The DUMOS is the cheapest full-size 5-tier bookshelf in this list, combining a metal frame with particle board shelving and the same waterproof, anti-scratch coating found on pricier picks. An anti-tipping tool and anti-rust metal frame come standard, and the brand includes an assembly video, which speeds up setup compared to written instructions alone. At 30 lbs per shelf, it handles a typical mixed book and decor collection without issue, and the rustic brown finish keeps it visually consistent with several other picks here. Assembly video speeds up setup.",
     specs: [
       "23.62\"W x 11.81\"D x 62.2\"H",
       "Metal + particle board",
@@ -247,7 +247,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51DwhuknToL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CQCB1MTT?tag=theofficejournal-20",
     description:
-      "The 4NM is the only pick in this list that requires zero assembly, unfolding into a full 5-tier bookshelf in about 30 seconds straight out of the box. When you no longer need it, or you're moving, it folds back down to just 2 inches thick for flat storage or transport, a genuinely unique feature among the picks in this guide. P2 MDF panels over a metal frame are finished with scratch- and stain-resistant coating, and adjustable foot pads keep it level on uneven flooring. The premium price reflects the folding mechanism, but for renters who move frequently, it may be worth it. Unfolds in 30 seconds. That's a real strength, but weigh it against the flip side: most expensive pick in this list.",
+      "The 4NM is the only pick in this list that requires zero assembly, unfolding into a full 5-tier bookshelf in about 30 seconds straight out of the box. When you no longer need it, or you're moving, it folds back down to just 2 inches thick for flat storage or transport, a unique feature among the picks in this guide. P2 MDF panels over a metal frame are finished with scratch- and stain-resistant coating, and adjustable foot pads keep it level on uneven flooring. The premium price reflects the folding mechanism, but for renters who move frequently, it may be worth it.",
     specs: [
       "23\"W x 11.6\"D x 65.7\"H",
       "P2 MDF + metal frame",
@@ -280,7 +280,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41b+6PB4L4L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B099W25JT6?tag=theofficejournal-20",
     description:
-      "This Furologee is the only pick in this list built with drawers rather than fully open shelving, adding 2 removable fabric drawers at the base for items you'd rather keep out of sight. It carries the highest per-shelf capacity among 5-tier bookshelves with drawers in this guide at 55 lbs per shelf, and an adjustable middle tier lets you customize spacing for taller items.\n\nA backboard runs behind the shelving for added stability, and an anti-tip kit is included. For anyone who wants the 5-tier format but also wants a couple of enclosed drawers, this is the pick that delivers both.\n\nWorth calling out specifically: 2 removable fabric drawers for hidden storage. The catch is pricier than several open-shelf-only picks in this list.",
+      "This Furologee is the only pick in this list built with drawers rather than fully open shelving, adding 2 removable fabric drawers at the base for items you'd rather keep out of sight. It carries the highest per-shelf capacity among 5-tier bookshelves with drawers in this guide at 55 lbs per shelf, and an adjustable middle tier lets you customize spacing for taller items.\n\nA backboard runs behind the shelving for added stability, and an anti-tip kit is included. For anyone who wants the 5-tier format but also wants a couple of enclosed drawers, this is the pick that delivers both.",
     specs: [
       "20\"W x 11.8\"D x 60.8\"H",
       "Metal + particleboard",
@@ -315,11 +315,11 @@ export const buyingCriteria: BuyingCriterion[] = [
   },
   {
     "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this 5 tier bookshelf over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
+    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this 5 tier bookshelf over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
   },
   {
     "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any 5 tier bookshelf you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
+    "explanation": "This matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any 5 tier bookshelf you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
   },
   {
     "criterion": "Check compatibility and fit with your existing setup before ordering",
@@ -342,7 +342,7 @@ export const faq: FaqItem[] = [
   },
   {
     q: "Which 5-tier bookshelf is most compact?",
-    a: "The Furologee 5-Tier Tall Bookshelf (Pick 3) is the most compact at just 15.3 inches wide, ideal for tight corners or narrow hallways.",
+    a: "3 inches wide, ideal for tight corners or narrow hallways.",
   },
   {
     q: "Is there a sustainably sourced 5-tier bookshelf?",

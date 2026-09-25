@@ -1,10 +1,10 @@
 const BASE = "/images/guides/best-wooden-footrests-for-desk";
 
 export const guideSlug = "best-wooden-footrests-for-desk";
-export const guideTitle = "8 Best Wooden Footrests for Desk (2026)";
-export const metaTitle = "Best Wooden Footrests for Desk 2026";
+export const guideTitle = "The Best Wooden Footrests for Desk, Compared";
+export const metaTitle = "Best Wooden Footrests for Desk (2026)";
 export const metaDescription =
-  "Best wooden footrests for desk in 2026. Cherry wood rockers, adjustable hardwood platforms, bamboo designs, and a steel-roller rocker ranked by rating.";
+  "We compared 9 wooden footrests for desk on features, comfort and practical fit to help you choose the right one for your space.";
 export const lastUpdated = "2026-07-08";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/hero.webp`;
@@ -38,7 +38,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/strongtek-cherry.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07N1QCJGZ?tag=theofficejournal-20",
     description:
-      "The StrongTek cherry wood footrest uses a curved rocker base that delivers active balance board movement rather than a static platform. Cherry wood provides structural hardness and visual warmth that foam cannot replicate. At a competitive price and 4.7 stars it is the established choice for a quality wood rocker at a reasonable price. The 350-pound capacity and no-assembly design reflect the straightforward build quality of this model.",
+      "The StrongTek cherry wood footrest uses a curved rocker base that delivers active balance board movement rather than a static platform. Cherry wood provides structural hardness and visual warmth that foam cannot replicate. 7 stars it is the established choice for a quality wood rocker at a reasonable price. The 350-pound capacity and no-assembly design reflect the straightforward build quality of this model.",
     specs: ["Cherry wood", "Rocker balance board", "350 lb capacity", "18 inches wide"],
     pros: ["4.7 stars highest in roundup", "Active rocking motion", "Cherry wood aesthetic", "No assembly required"],
     cons: ["Fixed height", "Hard surface for bare feet", "Rocking only no flat mode"],
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/huanuo-bamboo.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DQTJ21TX?tag=theofficejournal-20",
     description:
-      "The HUANUO bamboo footrest uses sustainable bamboo with four height options spanning 3.15 to 6.89 inches and a pebble massage surface. The combination of bamboo material, height adjustment, and massage surface makes this the most feature-rich bamboo option in the roundup. It is the most affordable bamboo footrest with adjustable height. For users who want an eco-friendly material with practical functionality, the HUANUO bamboo model delivers more than a basic bamboo platform.",
+      "89 inches and a pebble massage surface. The combination of bamboo material, height adjustment, and massage surface makes this the most feature-rich bamboo option in the roundup. It is the most affordable bamboo footrest with adjustable height. For users who want an eco-friendly material with practical functionality, the HUANUO bamboo model delivers more than a basic bamboo platform.",
     specs: ["Bamboo", "4 heights (3.15 to 6.89 in)", "Pebble massage surface", "Adjustable angle"],
     pros: ["Sustainable bamboo", "4 height settings", "Pebble massage surface", "Under $30"],
     cons: ["251 reviews only", "Massage pebbles may be uncomfortable", "4.5 stars"],
@@ -180,7 +180,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "Is cherry wood the best option for desk footrests?",
-    a: "Cherry wood is a mid-hardness hardwood that is durable, visually warm, and commonly used in desk furniture. Other hardwoods perform similarly. The choice between cherry and lauan plywood affects aesthetics more than performance. Solid cherry wood tends to be more visually refined than plywood alternatives.",
+    a: "Cherry wood is a mid-hardness hardwood that is durable, visually warm, and commonly used in desk furniture. The choice between cherry and lauan plywood affects aesthetics more than performance. Solid cherry wood tends to be more visually refined than plywood alternatives.",
   },
   {
     q: "What does a 350 lb capacity mean for a footrest?",

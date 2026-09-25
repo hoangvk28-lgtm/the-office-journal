@@ -2,10 +2,10 @@ const BASE = "/images/guides/best-wooden-desk-with-drawers";
 
 export const guideSlug = "best-wooden-desk-with-drawers";
 export const guideTitle =
-  "Best Wooden Desks with Drawers in 2026: Solid Wood Picks with Quality Storage";
-export const metaTitle = "Best Wooden Desks with Drawers in 2026";
+  "The Best Wooden Desks with Drawers in 2026: Solid Wood Picks with Quality Storage: Picks and Trade-offs";
+export const metaTitle = "Best Wooden Desks with Drawers in 2026: Solid Wood Picks with Quality Storage (2026)";
 export const metaDescription =
-  "Best wooden desks with drawers in 2026 - solid wood picks. Covers drawer joint types, slide quality, and the MDF drawer box hidden inside solid wood frames.";
+  "A practical comparison of 8 wooden desks with drawers in 2026: solid wood picks with quality storage, focused on size, height range, stability and features, and the trade-offs between them.";
 export const lastUpdated = "2026-06-29";
 export const readTime = "9 min";
 export const heroImage = `${BASE}/01-minimalist_home_office_with_warm_wood_tones.webp`;
@@ -274,7 +274,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "Are the drawers in a solid wood desk actually solid wood?",
-    a: "Not necessarily. A desk can be sold as a solid wood desk where the frame and top are solid hardwood but the drawer boxes are MDF. Check the product description specifically for language about drawer construction. If it only describes the desktop and frame as solid wood, the drawer boxes may be engineered wood.",
+    a: "A desk can be sold as a solid wood desk where the frame and top are solid hardwood but the drawer boxes are MDF. Check the product description specifically for language about drawer construction. If it only describes the desktop and frame as solid wood, the drawer boxes may be engineered wood.",
   },
   {
     q: "What is the difference between dovetail and regular desk drawers?",
@@ -286,7 +286,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "Is rubberwood good for a desk with drawers?",
-    a: "Yes. Rubberwood (parawood) has a Janka hardness of ~980 lbf - harder than pine, comparable to black walnut. It holds screws and drawer hardware well, finishes cleanly, and is a sustainable hardwood (grown as a byproduct of rubber production). Its main limitation is aesthetic: the grain is uniform and quiet, which suits minimalist designs but lacks the dramatic figuring of oak or walnut.",
+    a: "Rubberwood (parawood) has a Janka hardness of ~980 lbf - harder than pine, comparable to black walnut. It holds screws and drawer hardware well, finishes cleanly, and is a sustainable hardwood (grown as a byproduct of rubber production). Its main limitation is aesthetic: the grain is uniform and quiet, which suits minimalist designs but lacks the dramatic figuring of oak or walnut.",
   },
 ];
 

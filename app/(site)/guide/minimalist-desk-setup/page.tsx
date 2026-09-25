@@ -126,7 +126,7 @@ function IdeaSection({ idea, flip }: { idea: MinimalIdea; flip: boolean }) {
 
 export default async function MinimalistDeskSetupPage() {
   const heroImg = fallbackHeroImage;
-  const articleSchema = { "@context": "https://schema.org", "@type": "Article", headline: guideTitle, description: metaDescription, datePublished: "2026-06-01", dateModified: "2026-06-01", author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` }, publisher: { "@type": "Organization", name: "WorkCocoon", url: SITE_URL }, mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/minimalist-desk-setup` } };
+  const articleSchema = { "@context": "https://schema.org", "@type": "Article", headline: guideTitle, description: metaDescription, datePublished: "2026-06-01", dateModified: "2026-06-01", author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` }, publisher: { "@type": "Organization", name: "The Office Journal", url: SITE_URL }, mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/minimalist-desk-setup` } };
   const breadcrumbSchema = { "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: SITE_URL }, { "@type": "ListItem", position: 2, name: "Buying Guides", item: `${SITE_URL}/guide` }, { "@type": "ListItem", position: 3, name: guideTitle, item: `${SITE_URL}/guide/minimalist-desk-setup` }] };
 
   return (
@@ -341,7 +341,7 @@ export default async function MinimalistDeskSetupPage() {
             ))}
           </div>
           <p className="text-xs text-ink-muted mt-4 pt-4 border-t border-border">
-            Product selections are based on research, specifications, and customer feedback. WorkCocoon earns a commission on qualifying purchases at no extra cost to you.
+            Product selections are based on research, specifications, and customer feedback. The Office Journal earns a commission on qualifying purchases at no extra cost to you.
           </p>
         </section>
 

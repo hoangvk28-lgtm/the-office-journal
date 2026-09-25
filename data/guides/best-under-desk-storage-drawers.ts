@@ -1,9 +1,9 @@
 const BASE = "/images/guides/best-under-desk-storage-drawers";
 export const guideSlug = "best-under-desk-storage-drawers";
-export const guideTitle = "8 Best Under Desk Storage Drawers (2026)";
-export const metaTitle = "Best Under Desk Storage Drawers (2026)";
+export const guideTitle = "The Best Under Desk Storage Drawers for a Better Workspace";
+export const metaTitle = "Best Under Desk Storage Drawers for Home Offices (2026)";
 export const metaDescription =
-  "Under desk storage drawers compared by installation method: adhesive, clamp-on, and bracket-mount. No-drill and renter-friendly picks for home offices included.";
+  "How 9 under desk storage drawers compare on features, build and practical fit, with clear notes on who each one suits.";
 export const lastUpdated = "2026-07-03";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/hero.webp`;
@@ -51,7 +51,7 @@ export const products: GuideProduct[] = [
       "Lower weight limit than clamped alternatives",
     ],
     bestFor:
-      "renters with smooth-underside desks who need light storage for small everyday items at the lowest price",
+      "Renters with smooth-underside desks who need light storage for small everyday items at the lowest price",
   },
   {
     id: "lockable-double-drawer",
@@ -105,7 +105,7 @@ export const products: GuideProduct[] = [
       "Single drawer only",
     ],
     bestFor:
-      "renters with a desk edge within clamp range who want a removable under-desk drawer without adhesive",
+      "Renters with a desk edge within clamp range who want a removable under-desk drawer without adhesive",
   },
   {
     id: "bostitch-konnect-2pack",
@@ -132,7 +132,7 @@ export const products: GuideProduct[] = [
       "No lock",
     ],
     bestFor:
-      "buyers wanting organized divided under-desk storage at the lowest price from a recognizable office brand",
+      "Buyers wanting organized divided under-desk storage at the lowest price from a recognizable office brand",
   },
   {
     id: "svnnelp-3pack-system",
@@ -159,7 +159,7 @@ export const products: GuideProduct[] = [
       "Requires three smooth attachment points",
     ],
     bestFor:
-      "buyers wanting an organized under-desk system with different drawer sizes for different item types",
+      "Buyers wanting an organized under-desk system with different drawer sizes for different item types",
   },
   {
     id: "mofangtech-dual-tier",
@@ -172,7 +172,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/mofangtech-dual-tier.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0F2MD4L4X?tag=theofficejournal-20",
     description:
-      "The Mofangtech drawer unit contains two separate storage layers stacked vertically within the same under-desk footprint, which doubles the number of items that can be stored compared to a single-layer drawer without occupying any additional horizontal space under the desk. The published dimensions of 15.3 by 9.8 by 5.1 inches allow buyers to measure their under-desk clearance before purchasing and confirm there is enough vertical space between the desk underside and the user's legs for the unit to fit comfortably without interfering with leg movement. Metal construction throughout the unit provides rigidity and avoids the flex and looseness that can affect plastic under-desk drawers over time.\n\nInstallation requires drilling screws into the desk underside for a permanent bracket mount, which makes this appropriate for homeowners or long-term office setups. The 5.1-inch total height is the most important measurement to verify, as desks with lower clearance or users who sit close to the desk surface may find this unit uncomfortably close to their knees.",
+      "The Mofangtech drawer unit contains two separate storage layers stacked vertically within the same under-desk footprint, which doubles the number of items that can be stored compared to a single-layer drawer without occupying any additional horizontal space under the desk. 1 inches allow buyers to measure their under-desk clearance before purchasing and confirm there is enough vertical space between the desk underside and the user's legs for the unit to fit comfortably without interfering with leg movement. Metal construction throughout the unit provides rigidity and avoids the flex and looseness that can affect plastic under-desk drawers over time.\n\nInstallation requires drilling screws into the desk underside for a permanent bracket mount, which makes this appropriate for homeowners or long-term office setups. 1-inch total height is the most important measurement to verify, as desks with lower clearance or users who sit close to the desk surface may find this unit uncomfortably close to their knees.",
     specs: ["Dual-tier", "2 layers", "Metal", "Drill required"],
     pros: [
       "Dual-tier doubles storage capacity",
@@ -186,7 +186,7 @@ export const products: GuideProduct[] = [
       "192 reviews small sample",
     ],
     bestFor:
-      "permanent home offices with sufficient under-desk clearance who want double the storage of a single drawer",
+      "Permanent home offices with sufficient under-desk clearance who want double the storage of a single drawer",
   },
   {
     id: "unitedpower-pullout",
@@ -212,7 +212,7 @@ export const products: GuideProduct[] = [
       "Single layer only",
     ],
     bestFor:
-      "buyers wanting metal construction and a high initial rating at mid-range price who own the desk",
+      "Buyers wanting metal construction and a high initial rating at mid-range price who own the desk",
   },
   {
     id: "vivo-16-dual-tier",
@@ -238,7 +238,7 @@ export const products: GuideProduct[] = [
       "157 reviews small sample",
     ],
     bestFor:
-      "buyers who specifically want the VIVO brand and need a wide dual-tier drawer without a lock",
+      "Buyers who specifically want the VIVO brand and need a wide dual-tier drawer without a lock",
   },
 ];
 
@@ -271,7 +271,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "Can I attach an under desk drawer to a glass desk?",
-    a: "Adhesive options may not adhere safely to glass. Clamp-on options require a solid desk edge. Bracket-mount options require drilling. Glass desks are generally incompatible with all three types. Contact the manufacturer before purchasing.",
+    a: "Adhesive options may not adhere safely to glass. Clamp-on options require a solid desk edge. Glass desks are generally incompatible with all three types. Contact the manufacturer before purchasing.",
   },
   {
     q: "Which under desk drawer is best for renters?",

@@ -1,12 +1,12 @@
 const BASE = "/images/media/guides/best-budget-apple-3-in-1-charging-station-under-40";
 
 export const guideSlug = "best-budget-apple-3-in-1-charging-station-under-40";
-export const guideTitle = "5 Best Budget Apple 3-in-1 Charging Stations Under $40 (2026)";
+export const guideTitle = "The Best Budget Apple 3-in-1 Charging Stations Under $40: Our Picks";
 export const guideDescription =
   "Apple's official MagSafe Duo costs $149. For $25–$40 you can charge your iPhone, Apple Watch, and AirPods from a single stand that folds flat into your bag. These are the 5 best budget picks, all MagSafe-compatible, all under $40.";
-export const metaTitle = "5 Best Apple 3-in-1 Charging Stations Under $40 (2026)";
+export const metaTitle = "Best Budget Apple 3-in-1 Charging Stations Under $40 (2026)";
 export const metaDescription =
-  "5 best budget Apple 3-in-1 charging stations under $40: ESR HaloLock 15W, ESR 25W CryoBoost, KEEPRO Ultra-Compact, and Travel Stand. All MagSafe-compatible.";
+  "How 6 budget apple 3-in-1 charging stations under $40 compare on compatibility, build, features and price, with clear notes on who each one suits.";
 export const lastUpdated = "2026-06-07";
 export const readTime = "9 min";
 export const heroImage = `${BASE}/6-hero-best-budget-apple-3-in-1-charging-stations-under-40-2026.webp`;
@@ -44,7 +44,7 @@ export const products: Apple3in1[] = [
     imageUrl: `${BASE}/1-esr-halolock-foldable-3-in-1.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0BXBXLVS2?tag=theofficejournal-20",
     whyItWorks:
-      "Made for MagSafe certified, delivers full 15W to iPhone 12–16, not the 7.5W uncertified cap. Folds completely flat to about the size of a credit card stack for travel. Watch charger arm rotates to nightstand mode (horizontal, wakes Watch clock face). Adjustable phone viewing angle for reading or FaceTime while charging. ESR is one of the few budget brands with genuine Apple certification at this price.",
+      "Folds completely flat to about the size of a credit card stack for travel. Watch charger arm rotates to nightstand mode (horizontal, wakes Watch clock face). Adjustable phone viewing angle for reading or FaceTime while charging. ESR is one of the few budget brands with genuine Apple certification at this price.",
     tradeoffs: ["Apple Watch charger disk not included, bring your own", "15W only, not the 25W CryoBoost in pick #2"],
     skipIf: "You want the fastest possible iPhone charging. The ESR 25W CryoBoost charges ~40% faster.",
     pros: ["Made for MagSafe certified, full 15W", "Folds flat to credit-card-stack size", "Nightstand mode for Apple Watch", "Adjustable phone viewing angle", "Genuine Apple certification at budget price"],
@@ -82,7 +82,7 @@ export const products: Apple3in1[] = [
     imageUrl: `${BASE}/3-keepro-ultra-compact-foldable-3-in-1.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CTHV6NSD?tag=theofficejournal-20",
     whyItWorks:
-      "Smallest folded footprint in this roundup: 3\"×3\"×0.85\", fits in a shirt pocket. 3.9oz total weight, lighter than most USB-C wall chargers. 15W MagSafe for iPhone + 5W for Apple Watch + 3.5W for AirPods simultaneously. USB-C PD 21W adapter included. Best 3-in-1 for anyone who travels frequently or has minimal desk space.",
+      "85\", fits in a shirt pocket. 9oz total weight, lighter than most USB-C wall chargers. USB-C PD 21W adapter included. Best 3-in-1 for anyone who travels frequently or has minimal desk space.",
     tradeoffs: ["Ultra-compact AirPods pad is small, requires alignment", "15W only, not 25W CryoBoost", "Very small form factor means less surface stability"],
     skipIf: "You want something that stays on your desk permanently. Stand-style picks feel more stable for desk or nightstand use.",
     pros: ["Shirt-pocket size when folded", "3.9oz, lightest in this guide", "15W + 5W + 3.5W simultaneously", "USB-C PD 21W adapter included", "Best for travel or small desk"],
@@ -103,7 +103,7 @@ export const products: Apple3in1[] = [
     whyItWorks:
       "Foldable design with angle-adjustable phone and Watch arms, customizable viewing position. More stable standing form factor than the ultra-compact model, better for a desk. MagSafe magnetic alignment holds iPhone firmly even at steeper angles. Charges all three Apple devices simultaneously. Under $30 makes it the best-value stand-style 3-in-1 in this guide.",
     tradeoffs: ["Slightly larger folded footprint than KEEPRO Ultra-Compact", "Apple Watch disk not included"],
-    skipIf: "You already travel with the KEEPRO Ultra-Compact. The difference is stand angle vs. pocket size.",
+    skipIf: "You already travel with the KEEPRO Ultra-Compact. The difference is stand angle vs.",
     pros: ["Angle-adjustable phone and Watch arms", "More stable than ultra-compact for desk use", "MagSafe holds iPhone at steep angles", "Charges all three simultaneously", "Best-value stand-style under $30"],
     cons: ["Larger folded footprint than ultra-compact", "Watch charger disk not included"],
   },
@@ -120,9 +120,9 @@ export const products: Apple3in1[] = [
     imageUrl: `${BASE}/5-budget-foldable-3-in-1-with-light.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CD3D2DZ5?tag=theofficejournal-20",
     whyItWorks:
-      "Under $22, lowest price 3-in-1 that still delivers 15W MagSafe. LED indicator light confirms each device is actively charging. Folds flat; compatible with iPhone 12–16, Apple Watch all series, AirPods 3/4/Pro. USB-C power adapter included. Best entry point for users who want to try a 3-in-1 before committing to a pricier model.",
+      "Under $22, lowest price 3-in-1 that still delivers 15W MagSafe. LED indicator light confirms each device is actively charging. Folds flat; compatible with iPhone 12–16, Apple Watch all series, AirPods 3/4/Pro. Best entry point for users who want to try a 3-in-1 before committing to a pricier model.",
     tradeoffs: ["Build quality is noticeably lighter than ESR and KEEPRO picks", "No brand name recognition, long-term durability less predictable", "Watch arm position is fixed, no angle adjustment"],
-    skipIf: "You plan daily desk use for 2+ years. Step up to ESR. For occasional travel or a guest room, this is good enough.",
+    skipIf: "You plan daily desk use for 2+ years. For occasional travel or a guest room, this is good enough.",
     pros: ["Under $22, lowest price 3-in-1 in this guide", "LED confirms active charging", "15W MagSafe despite budget price", "Adapter included", "Best entry point for first-time 3-in-1 buyers"],
     cons: ["Lighter build quality than branded alternatives", "No brand recognition", "Fixed Watch arm angle"],
   },
@@ -131,7 +131,7 @@ export const products: Apple3in1[] = [
 export const faq = [
   {
     q: "Do these charge iPhone at full 15W MagSafe speed?",
-    a: "The ESR and KEEPRO picks are rated for 15W MagSafe. Achieving 15W requires a USB-C PD 20W+ adapter, if your adapter is weaker, iPhone defaults to 7.5W Qi regardless. Use a 20W+ USB-C adapter for full speed.",
+    a: "The ESR and KEEPRO picks are rated for 15W MagSafe. Use a 20W+ USB-C adapter for full speed.",
   },
   {
     q: "Is the Apple Watch charger included?",
@@ -139,7 +139,7 @@ export const faq = [
   },
   {
     q: "What's the difference between MagSafe and Qi?",
-    a: "Qi is the universal wireless charging standard, all iPhones from iPhone 8 support Qi at up to 7.5W. MagSafe is Apple's magnet-based system (iPhone 12+) that aligns the charger precisely and enables 15W. Qi chargers work on iPhones but only at 7.5W.",
+    a: "MagSafe is Apple's magnet-based system (iPhone 12+) that aligns the charger precisely and enables 15W.",
   },
   {
     q: "Is 25W MagSafe worth the extra $10 over 15W?",

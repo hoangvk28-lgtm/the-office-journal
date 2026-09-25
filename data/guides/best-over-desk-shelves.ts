@@ -1,10 +1,10 @@
 const BASE = "/images/guides/best-over-desk-shelves";
 
 export const guideSlug = "best-over-desk-shelves";
-export const guideTitle = "8 Best Over Desk Shelves (2026)";
-export const metaTitle = "Best Over Desk Shelves (2026)";
+export const guideTitle = "The Best Over Desk Shelves for Home Offices";
+export const metaTitle = "Best Over Desk Shelves for Home Offices (2026)";
 export const metaDescription =
-  "Find the best over desk shelves and clamp-on shelving for home offices. No-drill options that mount to the desk edge. Sit-stand compatible picks included.";
+  "We compared 9 over desk shelves on features, build and practical fit to help you choose the right one for your space.";
 export const lastUpdated = "2026-07-03";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/hero.webp`;
@@ -52,20 +52,20 @@ export const products: GuideProduct[] = [
       "Verify clamp range matches desk thickness",
     ],
     bestFor:
-      "sit-stand desk owners wanting the most validated clamp-on side shelf that maintains grip through height adjustments",
+      "Sit-stand desk owners wanting the most validated clamp-on side shelf that maintains grip through height adjustments",
   },
   {
     id: "snughome-desk-hutch",
     rank: 2,
     badge: "Best Desktop Hutch Organizer (Surface-Mount)",
-    name: "Snughome Desk Shelf 38.6 inch, 4-Tier Desktop Organizer Hutch, Pegboard Hooks, Rustic Brown",
+    name: "6 inch, 4-Tier Desktop Organizer Hutch, Pegboard Hooks, Rustic Brown",
     price: "~$51.99",
     rating: "4.6 stars",
     reviews: "317 reviews",
     imageUrl: `${BASE}/snughome-hutch.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CYSXTHCX?tag=theofficejournal-20",
     description:
-      "A desktop hutch sits directly on the desk surface and rises vertically from there, functioning more like a bookcase that lives on the desk than a floating shelf. This unit spans 38.6 inches wide, which covers most of a standard 48-inch desk, and rises through four shelf tiers that can hold monitors, books, small plants, and office supplies at varying heights. The pegboard panel integrated into the back allows hooks to be repositioned for headphones, small bins, or cable organizers, so the storage configuration can be adjusted without tools.\n\nThe rustic brown finish combines lighter wood tones with warm grain patterns, which suits warm-toned office setups better than the matte black of most clamp-on alternatives. Because this sits on the desk, it reduces the available flat work surface by its footprint, so it works best on desks 48 inches or wider where a dedicated display and storage zone can be separated from the primary typing area. People who want the feel of a full desk hutch without wall mounting will find this a practical surface-level alternative.",
+      "A desktop hutch sits directly on the desk surface and rises vertically from there, functioning more like a bookcase that lives on the desk than a floating shelf. 6 inches wide, which covers most of a standard 48-inch desk, and rises through four shelf tiers that can hold monitors, books, small plants, and office supplies at varying heights. The pegboard panel integrated into the back allows hooks to be repositioned for headphones, small bins, or cable organizers, so the storage configuration can be adjusted without tools.\n\nThe rustic brown finish combines lighter wood tones with warm grain patterns, which suits warm-toned office setups better than the matte black of most clamp-on alternatives. Because this sits on the desk, it reduces the available flat work surface by its footprint, so it works best on desks 48 inches or wider where a dedicated display and storage zone can be separated from the primary typing area. People who want the feel of a full desk hutch without wall mounting will find this a practical surface-level alternative.",
     specs: ["38.6 inch wide", "4-tier", "Pegboard hooks", "Surface-mount"],
     pros: [
       "317 reviews at 4.6 stars second strongest validation",
@@ -79,20 +79,20 @@ export const products: GuideProduct[] = [
       "No sit-stand compatibility",
     ],
     bestFor:
-      "wide desks (40 inches or wider) where a comprehensive desktop hutch with configurable pegboard organization is the goal",
+      "Wide desks (40 inches or wider) where a comprehensive desktop hutch with configurable pegboard organization is the goal",
   },
   {
     id: "art-giftree-natural-wood",
     rank: 3,
     badge: "Best Natural Wood Clamp-On Shelf",
-    name: "ART-GIFTREE Clamp On Desk Shelf 2-Tier, 12.5 inch, Natural Wood, 30 lbs, Dual C-Clamps, Brown",
+    name: "5 inch, Natural Wood, 30 lbs, Dual C-Clamps, Brown",
     price: "~$31.99",
     rating: "4.6 stars",
     reviews: "252 reviews",
     imageUrl: `${BASE}/art-giftree-natural-wood.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DC6FTG2D?tag=theofficejournal-20",
     description:
-      "This shelf uses real natural wood for the shelf surfaces rather than engineered wood or MDF, which gives each unit a slightly unique grain pattern and a warmer, more furniture-like appearance compared to painted or laminated alternatives. Two C-clamps secure the shelf to the desk edge rather than a single clamp, distributing the weight across two contact points and reducing the chance of the shelf twisting or shifting when items are placed on it. The 12.5-inch width keeps the footprint compact enough to position beside a monitor without encroaching on the main keyboard area.\n\nA rated load capacity of 30 pounds accommodates a small monitor, books, or a collection of desk accessories without stressing the clamps. Natural wood is more sensitive to moisture than engineered materials, so this shelf is better suited to climate-controlled indoor environments rather than humid spaces like garages or basements. Home offices styled around farmhouse, Scandinavian, or warm-wood aesthetics will find this the most visually cohesive clamp-on option available.",
+      "This shelf uses real natural wood for the shelf surfaces rather than engineered wood or MDF, which gives each unit a slightly unique grain pattern and a warmer, more furniture-like appearance compared to painted or laminated alternatives. Two C-clamps secure the shelf to the desk edge rather than a single clamp, distributing the weight across two contact points and reducing the chance of the shelf twisting or shifting when items are placed on it. 5-inch width keeps the footprint compact enough to position beside a monitor without encroaching on the main keyboard area.\n\nA rated load capacity of 30 pounds accommodates a small monitor, books, or a collection of desk accessories without stressing the clamps. Natural wood is more sensitive to moisture than engineered materials, so this shelf is better suited to climate-controlled indoor environments rather than humid spaces like garages or basements. Home offices styled around farmhouse, Scandinavian, or warm-wood aesthetics will find this the most visually cohesive clamp-on option available.",
     specs: ["Natural wood", "Dual C-clamps", "12.5 inch", "30 lbs"],
     pros: [
       "Only natural wood clamp-on shelf in roundup",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
       "No sit-stand compatibility rating",
     ],
     bestFor:
-      "warm-toned home offices and farmhouse setups where natural wood matches the desk aesthetic",
+      "Warm-toned home offices and farmhouse setups where natural wood matches the desk aesthetic",
   },
   {
     id: "ares-wing-headphone",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
       "Black only",
     ],
     bestFor:
-      "home office workers who use headphones daily and want a clamp-on shelf with a dedicated headphone holder",
+      "Home office workers who use headphones daily and want a clamp-on shelf with a dedicated headphone holder",
   },
   {
     id: "spacrea-fence-edge",
@@ -146,7 +146,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/spacrea-fence-edge.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0F4WZNFSF?tag=theofficejournal-20",
     description:
-      "This shelf features a raised lip, referred to as a fence edge, running along the front of each tier to prevent small items from rolling or sliding off the shelf surface when bumped, which is a practical detail absent from most other clamp-on options in this category. The two-tier design uses double C-clamps that grip the desk edge at two points, providing a more stable base than a single-point clamp, especially on desks where the surface sees frequent movement. An adjustable height system lets the lower shelf be repositioned vertically, which allows the gap between tiers to accommodate taller objects like wireless chargers or compact speakers. The price falls at a budget-friendly price, making it the most affordable double-clamp option in this roundup. The fence edge is particularly useful for users who keep loose items like pens, charging cables, or small remotes on a shelf rather than stored in drawers. Buyers who want a basic, practical clamp-on shelf without paying for premium materials or brand recognition will find this a functional budget-tier choice.",
+      "This shelf features a raised lip, referred to as a fence edge, running along the front of each tier to prevent small items from rolling or sliding off the shelf surface when bumped, which is a practical detail absent from most other clamp-on options in this category. The two-tier design uses double C-clamps that grip the desk edge at two points, providing a more stable base than a single-point clamp, especially on desks where the surface sees frequent movement. An adjustable height system lets the lower shelf be repositioned vertically, which allows the gap between tiers to accommodate taller objects like wireless chargers or compact speakers. The price falls, making it the most affordable double-clamp option in this roundup. The fence edge is particularly useful for users who keep loose items like pens, charging cables, or small remotes on a shelf rather than stored in drawers. Buyers who want a basic, practical clamp-on shelf without paying for premium materials or brand recognition will find this a functional budget-tier choice.",
     specs: ["Fence edge", "Adjustable height", "Double C-clamps", "Under $28"],
     pros: [
       "Fence edge prevents items from sliding off practical safety feature",
@@ -160,7 +160,7 @@ export const products: GuideProduct[] = [
       "No sit-stand compatibility",
     ],
     bestFor:
-      "buyers needing a fence-edge shelf to prevent items sliding who have checked current review quality before purchasing",
+      "Buyers needing a fence-edge shelf to prevent items sliding who have checked current review quality before purchasing",
   },
   {
     id: "vivo-16-industrial-pipe",
@@ -173,7 +173,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/vivo-16-industrial-pipe.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DG36FLFV?tag=theofficejournal-20",
     description:
-      "Where most clamp-on shelves use flat metal brackets or engineered wood frames, this model uses exposed pipe-style tubing for the vertical supports, giving it a heavier, more industrial visual weight that blends into loft, garage, and warehouse-style home office setups. The frame is sit-stand compatible, meaning the clamp mechanism is designed to hold its position through repeated desk height adjustments, a feature shared only with the VIVO 13-inch model in this roundup. Each shelf tier is rated at 33 pounds, which is sufficient for a monitor or a row of books but not for stacking heavy equipment across both tiers simultaneously. The 16-inch shelf width provides a wider surface than the 12 to 13-inch compact options, making it useful for placing a monitor riser alongside a small accessory rather than choosing between them. at a budget-friendly price, this is the lowest-priced sit-stand compatible clamp-on shelf in the category. The pipe aesthetic does not suit warm, traditional, or Scandinavian office decor and looks best in spaces where metal and raw materials are already part of the design.",
+      "Where most clamp-on shelves use flat metal brackets or engineered wood frames, this model uses exposed pipe-style tubing for the vertical supports, giving it a heavier, more industrial visual weight that blends into loft, garage, and warehouse-style home office setups. The frame is sit-stand compatible, meaning the clamp mechanism is designed to hold its position through repeated desk height adjustments, a feature shared only with the VIVO 13-inch model in this roundup. Each shelf tier is rated at 33 pounds, which is sufficient for a monitor or a row of books but not for stacking heavy equipment across both tiers simultaneously. The 16-inch shelf width provides a wider surface than the 12 to 13-inch compact options, making it useful for placing a monitor riser alongside a small accessory rather than choosing between them., this is the lowest-priced sit-stand compatible clamp-on shelf in the category. The pipe aesthetic does not suit warm, traditional, or Scandinavian office decor and looks best in spaces where metal and raw materials are already part of the design.",
     specs: [
       "Industrial pipe frame",
       "Sit-stand compatible",
@@ -192,7 +192,7 @@ export const products: GuideProduct[] = [
       "Limited review validation for quality confidence",
     ],
     bestFor:
-      "industrial-style home offices where pipe frame matches the aesthetic and sit-stand compatibility is needed at budget price",
+      "Industrial-style home offices where pipe frame matches the aesthetic and sit-stand compatibility is needed at budget price",
   },
   {
     id: "art-giftree-desk-extender",
@@ -224,7 +224,7 @@ export const products: GuideProduct[] = [
       "No sit-stand compatibility rating",
     ],
     bestFor:
-      "buyers with a shallow desk who need the surface extended toward them for forearm and wrist support",
+      "Buyers with a shallow desk who need the surface extended toward them for forearm and wrist support",
   },
   {
     id: "vivo-30-height-adj",
@@ -275,7 +275,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "Will a clamp-on shelf work on a curved or thick desk edge?",
-    a: "Most C-clamps fit flat desk edges 0.75 to 2 inches thick. Curved, beveled, or unusually thick edges may be incompatible. The ART-GIFTREE extender offers 4 clamping options for wider edge profile compatibility.",
+    a: "75 to 2 inches thick. Curved, beveled, or unusually thick edges may be incompatible. The ART-GIFTREE extender offers 4 clamping options for wider edge profile compatibility.",
   },
   {
     q: "What is the difference between the ART-GIFTREE desk extender and a 2-tier clamp-on shelf?",

@@ -1,11 +1,11 @@
 const BASE = "/images/media/guides/best-docking-stations-for-laptop-and-desktop";
 
-export const guideTitle = "Best Docking Stations for Laptop and Desktop Setups";
+export const guideTitle = "The Best Docking Stations for Laptop and Desktop Setups: Our Picks";
 export const guideDescription =
   "Without the right dock, switching between a work laptop and personal desktop means two sets of monitors or an annoying cable-swap routine. With the right dock, one cable connects whichever computer is active to everything.";
-export const metaTitle = "Best Docking Stations for Laptop and Desktop (2026)";
+export const metaTitle = "Best Docking Stations for Laptop and Desktop Setups (2026)";
 export const metaDescription =
-  "4 docking stations for laptop and desktop desks -- KVM, USB4, TB4, and budget picks. Includes when you actually need KVM vs a manual cable swap.";
+  "How 10 docking stations for laptop and desktop setups compare on features, build and practical fit, with clear notes on who each one suits.";
 export const lastUpdated = "2026-06-04";
 export const readTime = "12 min";
 export const heroImage = `${BASE}/05-hero-docking-stations-for-laptop-and-desktop.webp`;
@@ -135,7 +135,7 @@ export const products: LaptopDesktopDock[] = [
     ],
     cons: [
       "Not a KVM dock -- no simultaneous 2-host connection or button switching",
-      "USB-A 2.0 ports are slower than the USB 3.x/10Gbps ports on other picks in this guide",
+      "X/10Gbps ports on other picks in this guide",
       "Requires manual cable swap to move between laptop and desktop",
     ],
     bestFor: "Budget buyers who occasionally connect a laptop or desktop to a shared 4-monitor array via manual cable swap, not frequent KVM switching.",
@@ -194,9 +194,9 @@ export const products: LaptopDesktopDock[] = [
     priceRange: "~$160--200",
     imageUrl: `${BASE}/02-best-usb4-plugable-usb4-11-in-1.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0C83ZMZG5?tag=theofficejournal-20",
-    whyItWins: "If you only need one computer connected to the dock at a time and are willing to swap the upstream cable manually, the Plugable USB4 11-in-1 is the smartest pick. USB4 at 40Gbps matches Thunderbolt 4 bandwidth -- without the TB4 price premium. Two HDMI 2.1 ports support dual monitors at 4K@120Hz, which is genuinely better than the 4K@60Hz cap most docks deliver at this price.",
+    whyItWins: "If you only need one computer connected to the dock at a time and are willing to swap the upstream cable manually, the Plugable USB4 11-in-1 is the smartest pick. USB4 at 40Gbps matches Thunderbolt 4 bandwidth -- without the TB4 price premium. 1 ports support dual monitors at 4K@120Hz, which is better than the 4K@60Hz cap most docks deliver at this price.",
     bodyParagraphs: [
-      "This dock works with both your USB4 or Thunderbolt laptop and, if your desktop has a USB4 or USB-C port, it can connect there too. The 100W power delivery charges most laptops at full speed. The 2.5GbE Ethernet handles high-speed network needs.",
+      "This dock works with both your USB4 or Thunderbolt laptop and, if your desktop has a USB4 or USB-C port, it can connect there too. The 100W power delivery charges most laptops at full speed. 5GbE Ethernet handles high-speed network needs.",
     ],
     specs: [
       { label: "Connection", value: "USB4 40Gbps (works with USB4 + Thunderbolt 3/4 laptops)" },
@@ -270,7 +270,7 @@ export const products: LaptopDesktopDock[] = [
     priceRange: "~$35--55",
     imageUrl: `${BASE}/04-best-budget-amazon-basics-6-in-1-usb-c-3-2-10g-hub.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DTTRMCMP?tag=theofficejournal-20",
-    whyItWins: "The Selore 8-in-1 costs $35--55 and delivers the core functionality most dual-computer setups actually need: dual 4K@60Hz HDMI outputs, 100W USB-C power delivery, USB 3.0 ports for keyboard and mouse, and an SD card reader. No Thunderbolt required -- any USB-C laptop connects. Any desktop with a USB-C port connects too.",
+    whyItWins: "0 ports for keyboard and mouse, and an SD card reader. No Thunderbolt required -- any USB-C laptop connects. Any desktop with a USB-C port connects too.",
     bodyParagraphs: [
       "For a setup where the computers switch infrequently (once a day, not once an hour) and the dock cable swap takes 10 seconds, the $200+ savings over the StarTech KVM dock are difficult to justify. The Selore handles the fundamentals cleanly.",
     ],
@@ -330,7 +330,7 @@ export const faq: { question: string; answer: string }[] = [
   },
   {
     question: "Does a desktop need a docking station?",
-    answer: "Usually not. Most desktops have enough ports (HDMI, USB-A, Ethernet) built in. A desktop benefits from a dock only in a KVM shared-desk setup where it needs to connect via USB-C alongside a laptop.",
+    answer: "Most desktops have enough ports (HDMI, USB-A, Ethernet) built in. A desktop benefits from a dock only in a KVM shared-desk setup where it needs to connect via USB-C alongside a laptop.",
   },
   {
     question: "What connection does my desktop need for a dock?",

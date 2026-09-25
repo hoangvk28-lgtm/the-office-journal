@@ -92,7 +92,7 @@ export const products: BudgetLamp[] = [
     priceRange: "~$18--25",
     imageUrl: `${BASE}/03-best-with-usb-charging-led-desk-lamp-dual-usb-hub.webp`,
     amazonUrl: "https://www.amazon.com/dp/B08923SXXP?tag=theofficejournal-20",
-    whyItWins: "The core problem with most desk lamps is they use an outlet without giving anything back. This pick adds dual USB ports (USB-A + USB-C) to the lamp base -- meaning the lamp charges your phone while it lights your desk from the same power source. In a dorm or apartment where every outlet is contested, this combination is genuinely useful.",
+    whyItWins: "The core problem with most desk lamps is they use an outlet without giving anything back. This pick adds dual USB ports (USB-A + USB-C) to the lamp base -- meaning the lamp charges your phone while it lights your desk from the same power source. In a dorm or apartment where every outlet is contested, this combination is useful.",
     bodyParagraph: "5 color modes x 3 brightness levels with a touch control panel, plus a small nightlight mode for the base.",
     specs: [
       { label: "Color temps", value: "5 modes" },
@@ -141,7 +141,7 @@ export const products: BudgetLamp[] = [
     priceRange: "~$12--18",
     imageUrl: `${BASE}/05-best-budget-under-20-le-dimmable-7-level-led.webp`,
     amazonUrl: "https://www.amazon.com/dp/B00MHLIGCY?tag=theofficejournal-20",
-    whyItWins: "When the budget ceiling is $15--18, most options involve compromises. The LE Dimmable does not pretend to offer 25 lighting modes -- it offers one color (daylight white), seven brightness levels, and reliable LED operation. Simple, functional, and bright.",
+    whyItWins: "When the budget ceiling is $15--18, most options involve compromises. The LE Dimmable does not pretend to offer 25 lighting modes -- it offers one color (daylight white), seven brightness levels, and reliable LED operation.",
     bodyParagraph: "The 7-level touch dimmer is smooth and responsive. The daylight-white color temperature (5000K) is appropriate for focused study. No USB charging, no color modes -- just a clean, reliable desk lamp at a low price.",
     specs: [
       { label: "Color", value: "Daylight white (5000K, one temperature)" },
@@ -175,9 +175,9 @@ export const clampVsStandingRows = [
 ];
 
 export const colorTempGuide = [
-  { range: "Warm (2700--3000K)", description: "Amber/orange tone. Relaxing -- lower alertness, easier on eyes at night. Good for reading novels, winding down, or late-night study sessions when you do not want to disrupt your sleep cycle." },
-  { range: "Neutral/natural (4000--4500K)", description: "Closest to daylight. Good for general desk work -- writing, reading, online classes. Not harsh, not sleepy." },
-  { range: "Cool/daylight (5500--6500K)", description: "Bright white-blue tone. Maximum alertness and focus. Good for active problem-solving and early-morning study sessions. Can cause eye strain if used all evening." },
+  { range: "Warm (2700--3000K)", description: "Relaxing -- lower alertness, easier on eyes at night. Good for reading novels, winding down, or late-night study sessions when you do not want to disrupt your sleep cycle." },
+  { range: "Neutral/natural (4000--4500K)", description: "Good for general desk work -- writing, reading, online classes." },
+  { range: "Cool/daylight (5500--6500K)", description: "Good for active problem-solving and early-morning study sessions. Can cause eye strain if used all evening." },
 ];
 
 export const studySituationRows = [
@@ -208,11 +208,11 @@ export const faq: { question: string; answer: string }[] = [
   },
   {
     question: "Do I need a lamp with color temperature options?",
-    answer: "For studying, yes. A warm option (2700K--3000K) for evening sessions reduces blue light exposure before sleep. A cool option (5000K+) for active morning studying improves alertness. Single-temperature lamps lock you into one mode regardless of time of day.",
+    answer: "A warm option (2700K--3000K) for evening sessions reduces blue light exposure before sleep. A cool option (5000K+) for active morning studying improves alertness. Single-temperature lamps lock you into one mode regardless of time of day.",
   },
   {
     question: "Are USB-powered desk lamps bright enough?",
-    answer: "Yes for most study purposes. The Lepro at 9.5W delivers 800 lumens -- more than adequate for a desk workspace. USB power limits the maximum wattage, but modern LED efficiency means 5--10W USB lamps are genuinely bright.",
+    answer: "Yes for most study purposes. 5W delivers 800 lumens -- more than adequate for a desk workspace. USB power limits the maximum wattage, but modern LED efficiency means 5--10W USB lamps are bright.",
   },
   {
     question: "Which desk lamp is best for video calls?",

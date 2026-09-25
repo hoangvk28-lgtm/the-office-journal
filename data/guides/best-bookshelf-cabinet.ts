@@ -1,12 +1,12 @@
 export const guideSlug = "best-bookshelf-cabinet";
-export const guideTitle = "8 Best Bookshelf Cabinets in 2026";
-export const metaTitle = "Best Bookshelf Cabinets in 2026 (Doors, Glass Display & Locking)";
+export const guideTitle = "The Best Bookshelf Cabinets for Home Offices";
+export const metaTitle = "Best Bookshelf Cabinets for Home Offices (2026)";
 export const metaDescription =
-  "8 best bookshelf cabinets in 2026, comparing enclosed-door combos, glass LED display cabinets, and locking storage units. Compare capacity, features, and price.";
+  "We compared 9 bookshelf cabinets on features, build and practical fit to help you choose the right one for your space.";
 export const mainKeyword = "bookshelf cabinet";
 export const introParagraphs = [
   "A bookshelf cabinet gives you the best of both worlds, open shelving for the books and decor you want on display, plus enclosed doors or drawers for everything you'd rather keep out of sight.",
-  "Below are 8 bookshelf cabinets we evaluated on capacity, construction, and standout features, ranging from farmhouse-style door combos under $100 to glass display cabinets with automatic LED lighting.",
+  "Below are 8 bookshelf cabinets we compared on capacity, construction, and standout features, ranging from farmhouse-style door combos under $100 to glass display cabinets with automatic LED lighting.",
 ];
 export const lastUpdated = "2026-07-18";
 export const readTime = "10 min";
@@ -51,7 +51,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51P0hhxgYxL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0H5VH3H97?tag=theofficejournal-20",
     description:
-      "The VASAGLE Liry carries the highest total weight capacity in this entire list at 374.8 lbs, split between 2 open display tiers up top and a 2-door cabinet below with 3 adjustable shelves that can be set to 5 different height positions. A robot-vacuum-friendly 3.5-inch base gap means it won't block your cleaning routine, a small but genuinely useful detail.\n\nThe two-tone Cloud White and Warm Brown farmhouse finish gives it a warmer look than an all-white or all-black cabinet, and at 24.8 inches wide it fits comfortably in a living room, entryway, or home office.\n\nRobot-vacuum-friendly base gap. Set against that, no glass doors or LED lighting for display. Both matter when comparing it to the other picks here.",
+      "8 lbs, split between 2 open display tiers up top and a 2-door cabinet below with 3 adjustable shelves that can be set to 5 different height positions. 5-inch base gap means it won't block your cleaning routine, a small but useful detail.\n\n8 inches wide it fits comfortably in a living room, entryway, or home office.",
     specs: [
       "24.8\"W x 10\"D x 70.7\"H",
       "Engineered wood",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/31OuUlfdpbL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0DLB54QRV?tag=theofficejournal-20",
     description:
-      "The Shintenchi combines 4 open display shelves with 2 dust-blocking enclosed shelves behind doors, all rated for a solid 300 lb total capacity. Black industrial styling with metal accents gives it a more modern, edgy look than the farmhouse-style alternatives in this list, and a stability device is built in to help resist tipping.\n\nAt just 9.3 inches deep, it's the most compact bookshelf cabinet here front to back, making it an easy fit for a living room, study, or apartment where floor space is tight.\n\nA genuine advantage here is that most compact depth in this list at 9.3\". The tradeoff is lower star rating than most other picks at 4.3.",
+      "The Shintenchi combines 4 open display shelves with 2 dust-blocking enclosed shelves behind doors, all rated for a solid 300 lb total capacity. Black industrial styling with metal accents gives it a more modern, edgy look than the farmhouse-style alternatives in this list, and a stability device is built in to help resist tipping.\n\n3 inches deep, it's the most compact bookshelf cabinet here front to back, making it an easy fit for a living room, study, or apartment where floor space is tight.",
     specs: [
       "23.6\"W x 9.3\"D x 70.9\"H",
       "Engineered wood + metal",
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41tFAo0NXNL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CMGW2X41?tag=theofficejournal-20",
     description:
-      "The Befrases packs the most total storage zones into a mid-size footprint of any pick in this list, combining 2 doors, 2 drawers, and 1 adjustable shelf into 5 distinct storage areas. A metal cross-bar accent along the base adds an industrial touch to the otherwise farmhouse-style white finish.\n\nBuilt from recyclable P2 board, it's noticeably lighter and easier to move than the taller, heavier cabinets in this list, which makes it a practical pick if you rearrange furniture often or need to carry it up stairs.\n\nLightweight and easy to move. On the other hand, shorter than most other picks in this list at 42.5\". Neither should be a surprise once you know to look for it.",
+      "The Befrases packs the most total storage zones into a mid-size footprint of any pick in this list, combining 2 doors, 2 drawers, and 1 adjustable shelf into 5 distinct storage areas. A metal cross-bar accent along the base adds an industrial touch to the otherwise farmhouse-style white finish.\n\nBuilt from recyclable P2 board, it's noticeably lighter and easier to move than the taller, heavier cabinets in this list, which makes it a practical pick if you rearrange furniture often or need to carry it up stairs.\n\nLightweight and easy to move.",
     specs: [
       "23\"W x 11.6\"D x 42.5\"H",
       "P2 board (recyclable)",
@@ -147,7 +147,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51i3506hQML._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0DF7G3BPQ?tag=theofficejournal-20",
     description:
-      "The BROTTAR is built specifically for showing off a collection, with 4 pop-up glass doors across 4 tiers and 3-color LED lighting controlled by a human-body sensor that switches on automatically when you walk up and off when you step away. FSC-certified wood construction backs a sustainable sourcing claim most competitors skip. An anti-tipping device is included for wall anchoring, and the black finish with glass fronts gives it the best-looking display presence in this list for collectibles, books, or decor you want lit and visible. 3-color LED with automatic motion sensor. That's a real strength, but weigh it against the flip side: among the most expensive picks in this list.",
+      "The BROTTAR is built specifically for showing off a collection, with 4 pop-up glass doors across 4 tiers and 3-color LED lighting controlled by a human-body sensor that switches on automatically when you walk up and off when you step away. FSC-certified wood construction backs a sustainable sourcing claim most competitors skip. An anti-tipping device is included for wall anchoring, and the black finish with glass fronts gives it the best-looking display presence in this list for collectibles, books, or decor you want lit and visible. 3-color LED with automatic motion sensor.",
     specs: [
       "31.5\"W x 14\"D x 65\"H",
       "FSC-certified wood + glass",
@@ -179,7 +179,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51c02m9pUmL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0F296Z662?tag=theofficejournal-20",
     description:
-      "This BROTTAR takes a hexagonal corner design that fits directly into a room corner, a shape none of the other cabinets in this list can match, giving you 360-degree visibility through 4 magnetic glass doors on 4 tiers. The same 3-color LED and human-body sensor from the standard BROTTAR carries over here. FSC-certified wood and tempered glass construction, plus a 40 lb per-shelf rating, make it both durable and display-ready, and the white finish keeps it bright even tucked into a corner with less natural light. Worth calling out specifically: 360-degree visibility through 4-sided glass. The catch is among the most expensive picks in this list.",
+      "This BROTTAR takes a hexagonal corner design that fits directly into a room corner, a shape none of the other cabinets in this list can match, giving you 360-degree visibility through 4 magnetic glass doors on 4 tiers. The same 3-color LED and human-body sensor from the standard BROTTAR carries over here. FSC-certified wood and tempered glass construction, plus a 40 lb per-shelf rating, make it both durable and display-ready, and the white finish keeps it bright even tucked into a corner with less natural light.",
     specs: [
       "33.5\"W x 14.2\"D x 65\"H",
       "FSC-certified wood + tempered glass",
@@ -211,7 +211,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/31bAAXan8lL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0BTHPR71K?tag=theofficejournal-20",
     description:
-      "The PEUKC is built around an 8mm heavy-duty steel frame, the thickest of any cabinet in this list, and carries the highest per-shelf capacity here at 120 lbs. A 3-point door lock secures the tempered glass doors, making it a genuinely practical pick for a home office storing important documents or valuables alongside books.\n\nFour adjustable shelves let you customize the interior layout, and a powder-coated anti-rust finish keeps the steel frame looking clean over time.\n\nThickest steel frame at 8mm. Set against that, no LED lighting or motion sensor. Both matter when comparing it to the other picks here.",
+      "The PEUKC is built around an 8mm heavy-duty steel frame, the thickest of any cabinet in this list, and carries the highest per-shelf capacity here at 120 lbs. A 3-point door lock secures the tempered glass doors, making it a practical pick for a home office storing important documents or valuables alongside books.\n\nFour adjustable shelves let you customize the interior layout, and a powder-coated anti-rust finish keeps the steel frame looking clean over time.\n\nThickest steel frame at 8mm.",
     specs: [
       "31.5\"W x 15.7\"D x 71\"H",
       "8mm steel frame + tempered glass",
@@ -244,7 +244,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51QCHDSiqAL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CYGGYBFR?tag=theofficejournal-20",
     description:
-      "The Dystler uses transparent acrylic doors instead of glass, the only pick in this list to do so, which cuts weight and reduces breakage risk while still giving full visibility into all 5 tiers. A smart 3-color LED with a motion sensor lights the interior automatically, and 2 adjustable shelves let you fine-tune the layout alongside 2 fixed shelves.\n\nWaterproof FSC-certified MDF construction means it holds up in rooms where humidity is a concern, kitchens, dining rooms, and bathrooms included, somewhere most wood display cabinets would warp over time.\n\nA genuine advantage here is that smart LED motion sensor lighting. The tradeoff is acrylic doors can scratch more easily than glass over time.",
+      "The Dystler uses transparent acrylic doors instead of glass, the only pick in this list to do so, which cuts weight and reduces breakage risk while still giving full visibility into all 5 tiers. A smart 3-color LED with a motion sensor lights the interior automatically, and 2 adjustable shelves let you fine-tune the layout alongside 2 fixed shelves.\n\nWaterproof FSC-certified MDF construction means it holds up in rooms where humidity is a concern, kitchens, dining rooms, and bathrooms included, somewhere most wood display cabinets would warp over time.",
     specs: [
       "27.56\"W x 13.78\"D x 64.96\"H",
       "FSC-certified MDF + acrylic",
@@ -276,7 +276,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51MwVy47XAL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CMC715ZK?tag=theofficejournal-20",
     description:
-      "The OSCHF is the most premium build in this list, standing on genuine solid oak legs with beech wood door handles rather than the composite or metal hardware found on most competitors. Eleven total cubes, 7 open and 4 enclosed behind doors, give you flexible display and hidden storage in one refined, minimalist unit.\n\nFSC-certified MDF construction backs each cube, rated for 60 lbs apiece and 240 lbs across the top panel, making it sturdy enough for a genuine mixed-use collection despite its compact 46.6\" width and low 39.8\" height.\n\n11 total cubes split between open and enclosed storage. On the other hand, fewest total ratings in this list at 97. Neither should be a surprise once you know to look for it.",
+      "The OSCHF is the most premium build in this list, standing on genuine solid oak legs with beech wood door handles rather than the composite or metal hardware found on most competitors. Eleven total cubes, 7 open and 4 enclosed behind doors, give you flexible display and hidden storage in one refined, minimalist unit.\n\n11 total cubes split between open and enclosed storage.",
     specs: [
       "46.6\"W x 11.2\"D x 39.8\"H",
       "FSC-certified MDF + solid oak legs (30mm) + beech door handles",
@@ -309,11 +309,11 @@ export const buyingCriteria: BuyingCriterion[] = [
   },
   {
     "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this bookshelf cabinet over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
+    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this bookshelf cabinet over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
   },
   {
     "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any bookshelf cabinet you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
+    "explanation": "This matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any bookshelf cabinet you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
   },
   {
     "criterion": "Check compatibility and fit with your existing setup before ordering",
@@ -324,7 +324,7 @@ export const buyingCriteria: BuyingCriterion[] = [
 export const faq: FaqItem[] = [
   {
     q: "What is the best bookshelf cabinet overall?",
-    a: "The VASAGLE Liry Farmhouse 6-Tier Bookshelf + 2-Door Cabinet (Pick 1) is the best overall choice, with the highest total capacity in this list at 374.8 lbs and a robot-vacuum-friendly base.",
+    a: "8 lbs and a robot-vacuum-friendly base.",
   },
   {
     q: "Which bookshelf cabinet is best for displaying a collection?",

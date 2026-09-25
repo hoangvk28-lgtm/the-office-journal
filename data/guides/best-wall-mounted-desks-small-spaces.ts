@@ -1,10 +1,10 @@
 const BASE = "/images/guides/best-wall-mounted-desks-small-spaces";
 
 export const guideSlug = "best-wall-mounted-desks-small-spaces";
-export const guideTitle = "8 Best Wall-Mounted Desks for Small Spaces (2026)";
+export const guideTitle = "The Best Wall-Mounted Desks for Small Spaces, Compared";
 export const metaTitle = "Best Wall-Mounted Desks for Small Spaces (2026)";
 export const metaDescription =
-  "Find the best wall-mounted desks for small spaces. Fold-down Murphy desks, floating wall desks, and ladder desks ranked by reviews and storage features.";
+  "We compared 10 wall-mounted desks for small spaces on size, height range, stability and features to help you choose the right one for your space.";
 export const lastUpdated = "2026-07-03";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/hero.webp`;
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
       "Lighter-duty build than office-focused floating desks in this roundup",
     ],
     bestFor:
-      "buyers wanting a permanent floating desk with built-in drawer storage that can double as a vanity in a shared bedroom or living space",
+      "Buyers wanting a permanent floating desk with built-in drawer storage that can double as a vanity in a shared bedroom or living space",
   },
   {
     id: "nathan-james-ladder",
@@ -90,7 +90,7 @@ export const products: GuideProduct[] = [
       "Small floor footprint at ladder base can tip if not wall-anchored",
     ],
     bestFor:
-      "buyers who use a desk daily and want the strongest brand and review validation with permanent vertical shelving in a narrow footprint",
+      "Buyers who use a desk daily and want the strongest brand and review validation with permanent vertical shelving in a narrow footprint",
   },
   {
     id: "tangkula-murphy-white",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/haotian-sobuy-black.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07988PS8K?tag=theofficejournal-20",
     description:
-      "This fold-down desk mounts to the wall and includes flanking storage shelves that stay upright and accessible regardless of whether the desk leaf is open or closed, so the unit functions as a display and storage shelf unit even on days when the workspace is not in use. The black finish works with industrial, mid-century modern, and minimalist office setups, and tends to show fewer scuffs and fingerprints over time compared to white-finished units. The desk surface folds down on a hinged bracket to create the work area, and the surrounding shelf structure gives the unit a more substantial, furniture-like appearance than plain single-panel fold-down options. The price falls at a budget-friendly price, which positions it as an accessible entry point for a wall-mounted desk with integrated shelving. Wall anchoring to studs is required, and the installation process involves measuring, leveling, and drilling, which takes more time than assembling a freestanding desk but results in a permanently fixed unit with no floor footprint. People furnishing compact apartments or small bedrooms where floor space is the primary constraint will find this a practical full-featured option.",
+      "This fold-down desk mounts to the wall and includes flanking storage shelves that stay upright and accessible regardless of whether the desk leaf is open or closed, so the unit functions as a display and storage shelf unit even on days when the workspace is not in use. The black finish works with industrial, mid-century modern, and minimalist office setups, and tends to show fewer scuffs and fingerprints over time compared to white-finished units. The desk surface folds down on a hinged bracket to create the work area, and the surrounding shelf structure gives the unit a more substantial, furniture-like appearance than plain single-panel fold-down options. The price falls, which positions it as an accessible entry point for a wall-mounted desk with integrated shelving. Wall anchoring to studs is required, and the installation process involves measuring, leveling, and drilling, which takes more time than assembling a freestanding desk but results in a permanently fixed unit with no floor footprint. People furnishing compact apartments or small bedrooms where floor space is the primary constraint will find this a practical full-featured option.",
     specs: [
       "4.6 stars across 955 reviews",
       "Fold-down",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/homcom-chalkboard.webp`,
     amazonUrl: "https://www.amazon.com/dp/B08PDTSY7D?tag=theofficejournal-20",
     description:
-      "This unit combines a fold-down desk surface with an integrated chalkboard panel that stays permanently visible on the wall, providing a dedicated space for notes, to-do lists, sketches, or schedules directly at the work area without needing a separate whiteboard or pinboard. Nine storage shelves surround the desk and chalkboard area, which is the highest shelf count in this category and allows granular organization of books, binders, small bins, and decorative items without them competing for space on the desk surface. The desk leaf folds down from its position as part of the wall unit to create the work surface, then returns flush when not needed.\n\nCharcoal gray is a neutral, versatile finish that reads neither as stark black nor as warm wood and tends to work across a wide range of interior styles. The tradeoff is size: this is the largest and heaviest fold-down unit in the roundup, requiring more wall space and a more involved installation process than simpler two-shelf alternatives. Chalkboard dust can settle on the desk surface nearby, which may be a consideration for people sensitive to particulates or who use the surface for precision work.",
+      "This unit combines a fold-down desk surface with an integrated chalkboard panel that stays permanently visible on the wall, providing a dedicated space for notes, to-do lists, sketches, or schedules directly at the work area without needing a separate whiteboard or pinboard. Nine storage shelves surround the desk and chalkboard area, which is the highest shelf count in this category and allows granular organization of books, binders, small bins, and decorative items without them competing for space on the desk surface. The desk leaf folds down from its position as part of the wall unit to create the work surface, then returns flush when not needed.\n\nCharcoal gray is a neutral, versatile finish that reads neither as stark black nor as warm wood and tends to work across a wide range of interior styles. Chalkboard dust can settle on the desk surface nearby, which may be a consideration for people sensitive to particulates or who use the surface for precision work.",
     specs: [
       "Integrated chalkboard",
       "9 shelves",
@@ -186,7 +186,7 @@ export const products: GuideProduct[] = [
       "Largest and heaviest fold-down unit",
     ],
     bestFor:
-      "buyers wanting a planning chalkboard built into the desk wall unit with maximum shelf storage in one installation",
+      "Buyers wanting a planning chalkboard built into the desk wall unit with maximum shelf storage in one installation",
   },
   {
     id: "yusing-enclosed-compartments",
@@ -199,7 +199,7 @@ export const products: GuideProduct[] = [
     imageUrl: `${BASE}/yusing-enclosed.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07TDGP13T?tag=theofficejournal-20",
     description:
-      "Where most fold-down wall desks use open shelves that display their contents at all times, this model uses enclosed compartments with doors or panels that conceal what is stored inside, so the unit presents a cleaner, cabinet-like appearance when the desk is folded up. This makes it well suited to living rooms or shared spaces where the work setup needs to visually disappear outside of office hours rather than looking like a shelf of work supplies. The fold-down desk panel drops forward from the cabinet face to create the work surface, and the enclosed compartments provide storage for paperwork, chargers, notebooks, and other items that would otherwise clutter a visible shelf. The white finish blends with typical apartment and residential interior paint colors without drawing visual attention. The price falls at a budget-friendly price, making it the most affordable enclosed-storage fold-down option in this roundup. One consideration is that enclosed compartments may have fixed interior dimensions, so unusually large items like A3 notebooks or wide binders may not fit without checking the specific compartment measurements first.",
+      "Where most fold-down wall desks use open shelves that display their contents at all times, this model uses enclosed compartments with doors or panels that conceal what is stored inside, so the unit presents a cleaner, cabinet-like appearance when the desk is folded up. This makes it well suited to living rooms or shared spaces where the work setup needs to visually disappear outside of office hours rather than looking like a shelf of work supplies. The fold-down desk panel drops forward from the cabinet face to create the work surface, and the enclosed compartments provide storage for paperwork, chargers, notebooks, and other items that would otherwise clutter a visible shelf. The white finish blends with typical apartment and residential interior paint colors without drawing visual attention. The price falls, making it the most affordable enclosed-storage fold-down option in this roundup. One consideration is that enclosed compartments may have fixed interior dimensions, so unusually large items like A3 notebooks or wide binders may not fit without checking the specific compartment measurements first.",
     specs: [
       "Enclosed compartments",
       "Fold-down",
@@ -218,20 +218,20 @@ export const products: GuideProduct[] = [
       "White shows marks and scuffs over time",
     ],
     bestFor:
-      "buyers wanting enclosed hidden storage compartments on a fold-down wall unit in a white finish at under $70",
+      "Buyers wanting enclosed hidden storage compartments on a fold-down wall unit in a white finish at under $70",
   },
   {
     id: "teamix-simple-budget",
     rank: 7,
     badge: "Best Budget Fold-Down (No Storage Shelves)",
-    name: "TEAMIX Wall Mounted Folding Table, 23.6 x 11.8 inch, 80 lbs, Heavy-Duty Brackets, Black",
+    name: "8 inch, 80 lbs, Heavy-Duty Brackets, Black",
     price: "~$39.99",
     rating: "4.3 stars",
     reviews: "502 reviews",
     imageUrl: `${BASE}/teamix-simple.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CMSYL7Q1?tag=theofficejournal-20",
     description:
-      "This is a stripped-down fold-down wall surface consisting of a single panel and two heavy-duty support brackets, with no surrounding shelves, drawers, or hutch structure attached. When folded down, the surface measures 23.6 inches wide by 11.8 inches deep, which is enough for a compact laptop in clamshell mode or a small tablet and keyboard combination but is too shallow for a standard open laptop alongside a monitor. When folded up, the panel sits flat against the wall, taking up no floor space and presenting a clean, minimal surface that blends into the wall rather than reading as furniture. The heavy-duty metal brackets support up to 80 pounds, which comfortably handles a laptop, phone, and basic accessories. at a budget-friendly price, this is the lowest-priced option in the roundup, with the tradeoff being that integrated storage must come from other sources such as wall shelves or nearby furniture. This format is best suited to secondary workspaces, hallway nooks, utility rooms, or any situation where a small occasional-use writing or typing surface is needed without committing floor space or budget to a full desk setup.",
+      "This is a stripped-down fold-down wall surface consisting of a single panel and two heavy-duty support brackets, with no surrounding shelves, drawers, or hutch structure attached. 8 inches deep, which is enough for a compact laptop in clamshell mode or a small tablet and keyboard combination but is too shallow for a standard open laptop alongside a monitor. When folded up, the panel sits flat against the wall, taking up no floor space and presenting a clean, minimal surface that blends into the wall rather than reading as furniture. The heavy-duty metal brackets support up to 80 pounds, which comfortably handles a laptop, phone, and basic accessories., this is the lowest-priced option in the roundup, with the tradeoff being that integrated storage must come from other sources such as wall shelves or nearby furniture. This format is best suited to secondary workspaces, hallway nooks, utility rooms, or any situation where a small occasional-use writing or typing surface is needed without committing floor space or budget to a full desk setup.",
     specs: ["$39.99", "23.6 x 11.8 inch", "80 lbs", "Folds completely flat"],
     pros: [
       "Lowest price at $39.99",
@@ -245,7 +245,7 @@ export const products: GuideProduct[] = [
       "23.6-inch width narrower than standard desks",
     ],
     bestFor:
-      "buyers needing the most affordable fold-down wall surface with no surrounding storage",
+      "Buyers needing the most affordable fold-down wall surface with no surrounding storage",
   },
   {
     id: "arrowstone-vesa-mount",
@@ -277,7 +277,7 @@ export const products: GuideProduct[] = [
       "Monitor must be VESA-compatible",
     ],
     bestFor:
-      "tech-forward buyers wanting a fold-down desk where the monitor remains independently wall-mounted, who have verified current review quality",
+      "Tech-forward buyers wanting a fold-down desk where the monitor remains independently wall-mounted, who have verified current review quality",
   },
   {
     id: "modway-floating-desk",
@@ -304,7 +304,7 @@ export const products: GuideProduct[] = [
       "Permanent installation does not fold",
     ],
     bestFor:
-      "buyers committed to a permanent full-size floating wall desk with drawer storage who evaluate on feature set rather than review count",
+      "Buyers committed to a permanent full-size floating wall desk with drawer storage who evaluate on feature set rather than review count",
   },
 ];
 
@@ -315,7 +315,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "Do fold-down wall desks need to be anchored to a stud?",
-    a: "Yes. Fold-down desks support the weight of a monitor, laptop, and accessories plus downward pressure from typing. Anchoring to wall studs is required for structural safety. Drywall anchors alone are not sufficient for any desk in this roundup.",
+    a: "Fold-down desks support the weight of a monitor, laptop, and accessories plus downward pressure from typing. Anchoring to wall studs is required for structural safety. Drywall anchors alone are not sufficient for any desk in this roundup.",
   },
   {
     q: "Can a wall-mounted fold-down desk support dual monitors?",

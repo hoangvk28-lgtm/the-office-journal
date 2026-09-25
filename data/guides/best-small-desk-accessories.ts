@@ -17,9 +17,9 @@ export interface DeskAccessory {
 }
 
 export const guideSlug = "best-small-desk-accessories";
-export const guideTitle = "12 Best Small Desk Accessories That Actually Save Space (2026)";
-export const metaTitle = "Best Small Desk Accessories (2026)";
-export const metaDescription = "12 desk accessories for compact desks under 48 inches -- scored on footprint, build quality, and value. Honest trade-offs and direct Amazon links.";
+export const guideTitle = "The Best Small Desk Accessories That Actually Save Space for a Better Workspace";
+export const metaTitle = "Best Small Desk Accessories That Actually Save Space for Home Offices (2026)";
+export const metaDescription = "How 12 small desk accessories that actually save space compare on features, build and practical fit, with clear notes on who each one suits.";
 export const guideDescription =
   "Twelve desk accessories evaluated for compact desks under 48 inches, dorm setups, and tiny home offices. Scored on footprint, build quality, and value - with honest tradeoffs and direct Amazon links.";
 export const mainKeyword = "small desk accessories";
@@ -42,7 +42,7 @@ export const accessories: DeskAccessory[] = [
     bestFor: "Overall use on any small desk",
     amazonUrl: "https://www.amazon.com/s?k=bamboo+monitor+riser+drawer&tag=theofficejournal-20",
     description:
-      "If you only buy one small desk accessory, make it a monitor riser with built-in storage. This bamboo model adds 4.5 inches of monitor height while reclaiming the dead space underneath for keyboards, notebooks, and small office supplies. The drawer holds pens, sticky notes, and cables you would otherwise scatter across the desk.",
+      "If you only buy one small desk accessory, make it a monitor riser with built-in storage. 5 inches of monitor height while reclaiming the dead space underneath for keyboards, notebooks, and small office supplies. The drawer holds pens, sticky notes, and cables you would otherwise scatter across the desk.",
     whyItWorks: [
       "22-inch width fits desks as narrow as 36 inches",
       "Sliding drawer adds storage without adding footprint",
@@ -89,7 +89,7 @@ export const accessories: DeskAccessory[] = [
     amazonUrl:
       "https://www.amazon.com/s?k=under+desk+drawer+organizer&tag=theofficejournal-20",
     description:
-      "This adhesive-mounted drawer hangs underneath your desk surface, adding storage without consuming any desktop real estate. Holds pens, notepads, charging cables, and small electronics. Perfect for small desk setups where the top surface is already at capacity.",
+      "This adhesive-mounted drawer hangs underneath your desk surface, adding storage without consuming any desktop real estate. Holds pens, notepads, charging cables, and small electronics. Well suited to small desk setups where the top surface is already at capacity.",
     whyItWorks: [
       "Zero desktop footprint - pure bonus storage",
       "Adhesive mount works on most desk materials (skip glass desktops)",
@@ -136,7 +136,7 @@ export const accessories: DeskAccessory[] = [
     bestFor: "Charging cables that fall off the desk repeatedly",
     amazonUrl: "https://www.amazon.com/s?k=magnetic+cable+clips&tag=theofficejournal-20",
     description:
-      "A simple problem-solver: phone chargers, USB cables, and headphone cords fall off the desk every time you move them. Adhesive cable clips solve this for at a budget-friendly price. Stick them to the side of your desk and cables stay in reach without sprawling across the surface.",
+      "A simple problem-solver: phone chargers, USB cables, and headphone cords fall off the desk every time you move them. Adhesive cable clips solve this for. Stick them to the side of your desk and cables stay in reach without sprawling across the surface.",
     whyItWorks: [
       "Sub-$15 fix for a daily annoyance",
       "Does not take desktop space - mounts on edges and undersides",

@@ -1,10 +1,10 @@
 const BASE = "/images/guides/best-solid-wood-file-cabinets";
 
 export const guideSlug = "best-solid-wood-file-cabinets";
-export const guideTitle = "Best Solid Wood File Cabinets and Real-Wood Alternatives (2026)";
-export const metaTitle = "Best Solid Wood File Cabinets for Home Office (2026)";
+export const guideTitle = "The Best Solid Wood File Cabinets and Real-Wood Alternatives for Everyday Use";
+export const metaTitle = "Best Solid Wood File Cabinets and Real-Wood Alternatives for Home Offices (2026)";
 export const metaDescription =
-  "Looking for a quality wood file cabinet? Compare verified picks and premium wood-look alternatives to find the best fit for your home office setup.";
+  "A practical comparison of 8 solid wood file cabinets and real-wood alternatives, focused on features, build and practical fit, and the trade-offs between them.";
 export const lastUpdated = "2026-07-02";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/hero.webp`;
@@ -40,7 +40,7 @@ export const products: WoodCabinet[] = [
     imageUrl: `${BASE}/bush-home-key-west-white-oak.webp`,
     amazonUrl: "https://www.amazon.com/dp/B081ZP7MLY?tag=theofficejournal-20",
     whyItWorks:
-      "The Bush Home Key West has the strongest combination of rating and review count in this category. At 4.4 stars across more than 4,000 reviews, it has been validated at a scale that smaller-sample products cannot match. The Pure White Oak name refers to the finish, not confirmed solid wood construction. Bush Furniture is known for furniture-grade engineered wood products with realistic wood-grain surfaces. This cabinet fits well in light, airy home offices beside white or light wood desks and in Scandinavian or minimalist setups. Locking drawers, letter and legal file compatibility, and full-extension slides are all included.",
+      "The Bush Home Key West has the strongest combination of rating and review count in this category. The Pure White Oak name refers to the finish, not confirmed solid wood construction. Bush Furniture is known for furniture-grade engineered wood products with realistic wood-grain surfaces. This cabinet fits well in light, airy home offices beside white or light wood desks and in Scandinavian or minimalist setups. Locking drawers, letter and legal file compatibility, and full-extension slides are all included.",
     tradeoffs: [
       "Engineered wood, not solid hardwood",
       "White finish may show scuffs over time in high-use areas",
@@ -73,7 +73,7 @@ export const products: WoodCabinet[] = [
     imageUrl: `${BASE}/sauder-palladia-vintage-oak.webp`,
     amazonUrl: "https://www.amazon.com/dp/B01MR4Q0WA?tag=theofficejournal-20",
     whyItWorks:
-      "Sauder is one of the most recognized names in home office furniture. The Palladia line uses a vintage oak finish that replicates the worn, warm look of aged hardwood. With 1,741 reviews at 4.0 stars, it has enough real-world validation to recommend with confidence. This cabinet suits home offices with a warm, traditional, or farmhouse aesthetic. It pairs well with vintage wooden desks and dark wood desk setups.",
+      "Sauder is one of the most recognized names in home office furniture. The Palladia line uses a vintage oak finish that replicates the worn, warm look of aged hardwood. 0 stars, it has enough real-world validation to recommend with confidence. This cabinet suits home offices with a warm, traditional, or farmhouse aesthetic. It pairs well with vintage wooden desks and dark wood desk setups.",
     tradeoffs: [
       "Engineered wood, not solid oak",
       "Higher price than some competitors for the material type at $289.99",
@@ -105,7 +105,7 @@ export const products: WoodCabinet[] = [
     imageUrl: `${BASE}/sauder-edge-water-estate-black.webp`,
     amazonUrl: "https://www.amazon.com/dp/B002ZJ9IJI?tag=theofficejournal-20",
     whyItWorks:
-      "The Edge Water in Estate Black is the right pick for buyers who want a dark, rich wood-look finish rather than a light oak or cherry tone. The 979-review sample at 4.3 stars is solid validation for this price tier. This finish pairs well with dark walnut desks, espresso-finished furniture, and modern home offices with black metal accents. The flat, wide top surface doubles well as a printer stand.",
+      "The Edge Water in Estate Black is the right pick for buyers who want a dark, rich wood-look finish rather than a light oak or cherry tone. 3 stars is solid validation for this price tier. This finish pairs well with dark walnut desks, espresso-finished furniture, and modern home offices with black metal accents. The flat, wide top surface doubles well as a printer stand.",
     tradeoffs: [
       "Engineered wood construction",
       "Estate Black may show dust more visibly than lighter finishes",
@@ -137,7 +137,7 @@ export const products: WoodCabinet[] = [
     imageUrl: `${BASE}/bush-home-cabot-harvest-cherry.webp`,
     amazonUrl: "https://www.amazon.com/dp/B00E24N48K?tag=theofficejournal-20",
     whyItWorks:
-      "The Bush Home Cabot in Harvest Cherry is one of the few readily available lateral file cabinets in a warm cherry finish. Cherry is a classic wood tone for traditional home offices and complements solid cherry or mahogany-finish desks. Like the other Bush Furniture products here, this is engineered wood with a cherry-toned laminate surface, not solid cherry wood. The 972-review base at 4.3 stars reflects good buyer satisfaction for the price.",
+      "The Bush Home Cabot in Harvest Cherry is one of the few readily available lateral file cabinets in a warm cherry finish. Cherry is a classic wood tone for traditional home offices and complements solid cherry or mahogany-finish desks. Like the other Bush Furniture products here, this is engineered wood with a cherry-toned laminate surface, not solid cherry wood. 3 stars reflects good buyer satisfaction for the price.",
     tradeoffs: [
       "Engineered wood, not solid cherry",
       "Cherry finish may read as corporate office furniture in some settings",
@@ -168,7 +168,7 @@ export const products: WoodCabinet[] = [
     imageUrl: `${BASE}/sauder-clifford-place-grand-walnut.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07C659WC3?tag=theofficejournal-20",
     whyItWorks:
-      "The Clifford Place in Grand Walnut is Sauder's walnut-toned entry in the lateral file cabinet space. Walnut finishes are increasingly popular in home offices paired with mid-century modern or contemporary wood desks. With 465 reviews at 4.0 stars, it has a meaningful validation sample. The $303.99 price is on the higher end for an engineered wood product, but Sauder's build quality at this tier is generally reliable.",
+      "The Clifford Place in Grand Walnut is Sauder's walnut-toned entry in the lateral file cabinet space. Walnut finishes are increasingly popular in home offices paired with mid-century modern or contemporary wood desks. 0 stars, it has a meaningful validation sample. 99 price is on the higher end for an engineered wood product, but Sauder's build quality at this tier is generally reliable.",
     tradeoffs: [
       "Engineered wood at a premium price of $303.99",
       "465 reviews is a smaller sample than the top picks",
@@ -199,7 +199,7 @@ export const products: WoodCabinet[] = [
     imageUrl: `${BASE}/realspace-vertical-mulled-cherry.webp`,
     amazonUrl: "https://www.amazon.com/dp/B094YS5K81?tag=theofficejournal-20",
     whyItWorks:
-      "The Realspace vertical cabinet in Mulled Cherry is the only vertical-format option in this roundup. It suits smaller home offices where floor space is limited and a narrow footprint matters more than a wide lateral cabinet. The 17-inch depth keeps it compact. With 195 reviews at 4.3 stars, it has adequate validation. Vertical format means less floor space but full drawer clearance is required in front when accessing files.",
+      "The Realspace vertical cabinet in Mulled Cherry is the only vertical-format option in this roundup. It suits smaller home offices where floor space is limited and a narrow footprint matters more than a wide lateral cabinet. The 17-inch depth keeps it compact. 3 stars, it has adequate validation. Vertical format means less floor space but full drawer clearance is required in front when accessing files.",
     tradeoffs: [
       "Smaller review sample at 195",
       "Vertical cabinets require pulling drawers fully out to access rear files",
@@ -278,7 +278,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "What is the best quality wood file cabinet for home office?",
-    a: "For most home office buyers, the Bush Home Key West is the starting point: 4,283 reviews at 4.4 stars at $130.68 is a hard combination to argue against. If you want a warmer vintage-inspired finish, the Sauder Palladia earns its higher price through reliable brand quality and an attractive vintage oak look. For dark walnut aesthetic, the Sauder Clifford Place fills that gap.",
+    a: "68 is a hard combination to argue against. If you want a warmer vintage-inspired finish, the Sauder Palladia earns its higher price through reliable brand quality and an attractive vintage oak look. For dark walnut aesthetic, the Sauder Clifford Place fills that gap.",
   },
   {
     q: "What is the difference between a veneer finish and a laminate finish?",
@@ -286,7 +286,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "Can I use a lateral file cabinet as a printer stand?",
-    a: "Yes. Lateral cabinets have a wide, flat top surface that works well as a printer stand. Most standard home office inkjet printers sit comfortably on the top of the lateral picks in this list. Verify the weight capacity on the product listing before placing heavy equipment.",
+    a: "Lateral cabinets have a wide, flat top surface that works well as a printer stand. Most standard home office inkjet printers sit comfortably on the top of the lateral picks in this list. Verify the weight capacity on the product listing before placing heavy equipment.",
   },
   {
     q: "Do engineered wood file cabinets last as long as solid wood?",
@@ -294,7 +294,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "What is the best cherry wood file cabinet?",
-    a: "The Bush Home Cabot in Harvest Cherry at $207.26 is the best cherry finish lateral pick in this roundup with 972 reviews at 4.3 stars. For a vertical format cherry option, the Realspace Mulled Cherry at $161.01 is a more affordable choice with a narrower footprint.",
+    a: "01 is a more affordable choice with a narrower footprint.",
   },
 ];
 

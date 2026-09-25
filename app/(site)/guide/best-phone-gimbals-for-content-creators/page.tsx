@@ -143,7 +143,7 @@ export default async function BestPhoneGimbalsPage() {
     datePublished: "2026-06-16",
     dateModified: "2026-06-16",
     author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` },
-    publisher: { "@type": "Organization", name: "WorkCocoon", url: SITE_URL },
+    publisher: { "@type": "Organization", name: "The Office Journal", url: SITE_URL },
     mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-phone-gimbals-for-content-creators` },
     about: [
       { "@type": "Thing", name: "Phone Gimbal" },
@@ -220,7 +220,7 @@ export default async function BestPhoneGimbalsPage() {
 
         {/* Affiliate disclosure */}
         <div className="mb-8 p-4 rounded-xl bg-bg border border-border text-xs text-ink-secondary">
-          <strong className="text-ink">Quick note:</strong> This page contains affiliate links. If you buy through our links, we may earn a small commission at no extra cost to you. As an Amazon Associate, WorkCocoon earns from qualifying purchases.{" "}
+          <strong className="text-ink">Quick note:</strong> This page contains affiliate links. If you buy through our links, we may earn a small commission at no extra cost to you. As an Amazon Associate, The Office Journal earns from qualifying purchases.{" "}
           <Link prefetch={false} href="/affiliate-disclosure" className="text-brand hover:underline">Affiliate disclosure</Link>.
         </div>
 

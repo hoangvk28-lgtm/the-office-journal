@@ -2,10 +2,10 @@ const BASE_IMAGES = "/images/guides/best-standing-desk-under-200";
 
 export const guideSlug = "best-standing-desk-under-200";
 export const guideTitle =
-  "6 Best Electric Standing Desks Under $200 in 2026: Picks That Are Actually Good";
-export const metaTitle = "6 Best Electric Standing Desks Under $200 in 2026";
+  "The Best Electric Standing Desks Under $200 in 2026: Picks That Are Actually Good: Picks and Trade-offs";
+export const metaTitle = "Best Electric Standing Desks Under $200 in 2026: Picks That Are Actually Good (2026)";
 export const metaDescription =
-  "Best electric standing desks under $200: FlexiSpot EN1, FEZIBO, SHW, Marsail, SMUG. Height by user size, weight limits, and when to upgrade to the $300 tier.";
+  "A practical comparison of 7 electric standing desks under $200 in 2026: picks that are actually good, focused on features, comfort and practical fit, and the trade-offs between them.";
 export const lastUpdated = "2026-06-23";
 export const readTime = "12 min";
 export const heroImage = `${BASE_IMAGES}/standing-desk-best-standing-desk-under-200-hero.webp`;
@@ -47,7 +47,7 @@ export const products: StandingDesk200[] = [
     imageUrl: `${BASE_IMAGES}/standing-desk-best-standing-desk-under-200-flexispot-en1-48x24.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DJ2XKJJT?tag=theofficejournal-20",
     whyItWorks:
-      "FlexiSpot's 3-year frame and 2-year motor warranty is 2-3x longer than competitors at this price tier. The 1-inch thick seamless desktop is sturdier than the 0.75-inch boards on comparable desks. 4 memory presets and anti-collision sensor are standard on EN1. FlexiSpot has a documented US customer support track record spanning multiple product generations.",
+      "FlexiSpot's 3-year frame and 2-year motor warranty is 2-3x longer than competitors at this price tier. 75-inch boards on comparable desks. 4 memory presets and anti-collision sensor are standard on EN1. FlexiSpot has a documented US customer support track record spanning multiple product generations.",
     tradeoffs: [
       'Single motor - some lateral movement at 47" max height',
       "One-piece top cannot be swapped for a different surface",
@@ -83,7 +83,7 @@ export const products: StandingDesk200[] = [
     imageUrl: `${BASE_IMAGES}/standing-desk-best-standing-desk-under-200-fezibo-basic-48x24-rustic-brown.webp`,
     amazonUrl: "https://www.amazon.com/dp/B08CBVGXZC?tag=theofficejournal-20",
     whyItWorks:
-      "Most affordable 48x24 electric standing desk consistently in stock across major retailers. Core standing desk functionality at $120-150 - single motor, 3 presets, anti-collision, 176 lb capacity. Available in Rustic Brown, White, Maple, and Black. The 46.5-inch max height covers users up to approximately 6 feet 1 inch at standing ergonomic position.",
+      "Most affordable 48x24 electric standing desk consistently in stock across major retailers. Core standing desk functionality at $120-150 - single motor, 3 presets, anti-collision, 176 lb capacity. Available in Rustic Brown, White, Maple, and Black. 5-inch max height covers users up to approximately 6 feet 1 inch at standing ergonomic position.",
     tradeoffs: [
       "1-year warranty vs EN1's 3-year / 2-year",
       '46.5" max height - users over 6\'1" should check other options',
@@ -230,7 +230,7 @@ export const products: StandingDesk200[] = [
     imageUrl: `${BASE_IMAGES}/standing-desk-best-standing-desk-under-200-hero.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0C8MDMX3D?tag=theofficejournal-20",
     whyItWorks:
-      "27.6-inch minimum seated height is the lowest in this guide - relevant for users under 5 feet 3 inches who need a lower sitting position than most desks allow. The Natural colorway provides a clean light-wood aesthetic that reads as furniture-grade rather than typical budget desk. Available in White, Natural, and Black.",
+      "6-inch minimum seated height is the lowest in this guide - relevant for users under 5 feet 3 inches who need a lower sitting position than most desks allow. The Natural colorway provides a clean light-wood aesthetic that reads as furniture-grade rather than typical budget desk. Available in White, Natural, and Black.",
     tradeoffs: [
       "1-year warranty",
       "Higher price than FEZIBO or Marsail for comparable specs",

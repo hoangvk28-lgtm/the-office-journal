@@ -1,10 +1,10 @@
 const BASE = "/images/guides/best-flexispot-standing-desk";
 
 export const guideSlug = "best-flexispot-standing-desk";
-export const guideTitle = "Best FlexiSpot Standing Desks in 2026: Every Model Ranked";
-export const metaTitle = "Best FlexiSpot Standing Desks in 2026";
+export const guideTitle = "The Best FlexiSpot Standing Desks in 2026: Every Model Ranked, Compared";
+export const metaTitle = "Best FlexiSpot Standing Desks in 2026: Every Model Ranked (2026)";
 export const metaDescription =
-  "Best FlexiSpot standing desks in 2026 - EN1, EN2, Comhar, and bamboo models ranked. Model hierarchy chart and 2-stage vs 3-stage motor explained.";
+  "We compared 8 FlexiSpot standing desks in 2026: every model ranked on size, height range, stability and features to help you choose the right one for your space.";
 export const lastUpdated = "2026-06-30";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/00-hero.webp`;
@@ -38,7 +38,7 @@ export const products: FlexiSpotDesk[] = [
     imageUrl: `${BASE}/01-flexispot-en1-48x24.webp`,
     amazonUrl: "https://www.amazon.com/dp/B08BHPMYGK?tag=theofficejournal-20",
     whyItWorks:
-      "The EN1 48x24\" is the most-reviewed electric standing desk on Amazon. Over 12,000 real buyers have rated this desk - a sample size that is statistically more reliable than any editorial review. At this review count, systematic problems show up clearly in the review text. The fact that it holds 4.5 stars across 12,000 ratings is the strongest quality signal available for an entry standing desk. The 5-year warranty covers both motor and frame, longer than most competitors at this price point.",
+      "Over 12,000 real buyers have rated this desk - a sample size that is statistically more reliable than any editorial review. At this review count, systematic problems show up clearly in the review text. The 5-year warranty covers both motor and frame, longer than most competitors at this price point.",
     tradeoffs: [
       "154 lb max load - adequate for most setups but verify for heavy monitor arm plus large display combinations",
       "Single motor 2-stage wobble at 47\" - perceptible shake when pressing the surface at standing height",
@@ -101,7 +101,7 @@ export const products: FlexiSpotDesk[] = [
     imageUrl: `${BASE}/03-flexispot-en2-55x28.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0GT4FQCT3?tag=theofficejournal-20",
     whyItWorks:
-      "The EN2 is the step up from EN1. Two things change: the desktop is 55\" wide (7\" wider than EN1) and the depth is 28\". The rating is 4.6 stars versus EN1's 4.5 stars - a small but consistent signal from a 4,400-review sample that the EN2 slightly outperforms EN1 on initial out-of-box experience. If your current or planned monitor setup is dual 27\" or larger, start with 55\" width. The 7\" difference is significant for dual-monitor ergonomics.",
+      "The EN2 is the step up from EN1. Two things change: the desktop is 55\" wide (7\" wider than EN1) and the depth is 28\". 5 stars - a small but consistent signal from a 4,400-review sample that the EN2 slightly outperforms EN1 on initial out-of-box experience. If your current or planned monitor setup is dual 27\" or larger, start with 55\" width. The 7\" difference is significant for dual-monitor ergonomics.",
     tradeoffs: [
       "55\" requires a longer wall section - measure horizontal clearance before ordering",
       "Same single-motor 2-stage frame as EN1 - the upgrade is surface size, not motor quality",
@@ -131,7 +131,7 @@ export const products: FlexiSpotDesk[] = [
     imageUrl: `${BASE}/04-flexispot-comhar-48.webp`,
     amazonUrl: "https://www.amazon.com/dp/B08SBL81LT?tag=theofficejournal-20",
     whyItWorks:
-      "The Comhar is FlexiSpot's flagship home office desk - same one-piece format as EN1 but with a built-in drawer under the left side of the surface and 2x USB-A plus 1x USB-C charging ports. The drawer rises and falls with the desk surface - not a pedestal left behind on the floor when you stand. The integrated USB ports route charging cables inside the drawer, keeping the desktop surface clear of phone cables. Best Sellers Rank around No.16 in Computer Workstations confirms strong market demand.",
+      "The Comhar is FlexiSpot's flagship home office desk - same one-piece format as EN1 but with a built-in drawer under the left side of the surface and 2x USB-A plus 1x USB-C charging ports. The drawer rises and falls with the desk surface - not a pedestal left behind on the floor when you stand. The integrated USB ports route charging cables inside the drawer, keeping the desktop surface clear of phone cables. 16 in Computer Workstations confirms strong market demand.",
     tradeoffs: [
       "48x24\" depth - if you use 27\"+ monitors without arms, the 55\" Comhar (Pick 5) gives more room",
       "11 lb drawer capacity handles cables and notebooks but not heavy items",
@@ -264,11 +264,11 @@ export const atAGlanceRows: AtAGlanceRow[] = products.map((p) => ({
 export const faq: { q: string; a: string }[] = [
   {
     q: "What is the difference between FlexiSpot EN1 and EN2?",
-    a: "The EN1 is 48 inches wide and available in 24\" or 30\" depth. The EN2 is 55 inches wide and 28 inches deep. Both use the same single-motor 2-stage frame and carry the same 5-year warranty. The EN2's 4.6 star rating at 4,400+ reviews is slightly higher than EN1's 4.5 stars at 12,000+. Choose EN1 if 48\" fits your space; choose EN2 if you need a wider surface for dual monitors.",
+    a: "The EN1 is 48 inches wide and available in 24\" or 30\" depth. The EN2 is 55 inches wide and 28 inches deep. Both use the same single-motor 2-stage frame and carry the same 5-year warranty. Choose EN1 if 48\" fits your space; choose EN2 if you need a wider surface for dual monitors.",
   },
   {
     q: "Is FlexiSpot a one-piece desk or do I need to buy a surface separately?",
-    a: "FlexiSpot sells both. The EN1, EN2, and Comhar are one-piece complete desks - frame plus surface included. The E5, E7, and E7 Pro are frame-only products - you provide your own desktop surface. All seven picks on this list are one-piece complete desks. If you see an E5 or E7 listing, that is a frame-only product.",
+    a: "The EN1, EN2, and Comhar are one-piece complete desks - frame plus surface included. The E5, E7, and E7 Pro are frame-only products - you provide your own desktop surface. All seven picks on this list are one-piece complete desks. If you see an E5 or E7 listing, that is a frame-only product.",
   },
   {
     q: "What does FlexiSpot's 5-year warranty actually cover?",
@@ -276,7 +276,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "Does the FlexiSpot Comhar drawer move when you raise the desk?",
-    a: "Yes. The Comhar drawer is built into the desk frame and mounted under the left side of the surface. When the desk rises, the drawer rises with it. You can open the drawer at sitting height or at standing height. The drawer capacity is 11 lbs, adequate for cables, a notebook, a phone, and small accessories.",
+    a: "The Comhar drawer is built into the desk frame and mounted under the left side of the surface. When the desk rises, the drawer rises with it. You can open the drawer at sitting height or at standing height. The drawer capacity is 11 lbs, adequate for cables, a notebook, a phone, and small accessories.",
   },
   {
     q: "Is FlexiSpot better than Uplift or Vari?",

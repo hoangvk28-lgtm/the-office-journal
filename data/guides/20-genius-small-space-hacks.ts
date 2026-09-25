@@ -39,7 +39,7 @@ export const hacks: SpaceHack[] = [
     amazonUrl: "https://www.amazon.com/dp/B07VBJ5MSH?tag=theofficejournal-20",
     imageUrl: `${B}/01-onlyeasy-2-pack-under-bed-shoe-storage-linen.webp`,
     deadZone: "Space under your bed: typically 10-15\" of clearance across a 38\"x75\" footprint -- roughly 25-30 cubic feet that most people use for nothing.",
-    theHack: "Two flat storage bags (29.3\"x23.6\"x5.9\") slide cleanly under the bed and collectively hold 24 pairs of shoes. Clear-window top lets you see every pair without pulling the bag out. Breathable linen-like material prevents mold and odor.",
+    theHack: "9\") slide cleanly under the bed and collectively hold 24 pairs of shoes. Clear-window top lets you see every pair without pulling the bag out. Breathable linen-like material prevents mold and odor.",
     bestFor: "Anyone whose shoes are currently piled on the closet floor, under the desk, or in a corner.",
     specs: ["Set of 2 | 24 pairs total", "29.3\"x23.6\"x5.9\"", "Clear top window", "Breathable linen-like black"],
   },
@@ -68,7 +68,7 @@ export const hacks: SpaceHack[] = [
     amazonUrl: "https://www.amazon.com/dp/B0BY1MRHWB?tag=theofficejournal-20",
     imageUrl: `${B}/03-storageworks-2-pack-under-bed-adjustable-dividers.webp`,
     deadZone: "Under-bed space, for those who want flexible compartments rather than one open bag.",
-    theHack: "Adjustable internal dividers let you configure each unit for shoes, folded clothes, accessories, or a mix. Low-profile 5.25\" height fits most bed clearances.",
+    theHack: "Adjustable internal dividers let you configure each unit for shoes, folded clothes, accessories, or a mix. 25\" height fits most bed clearances.",
     chooseIf: "You want to store a mix of items (not just shoes), or want to reconfigure the layout later.",
     bestFor: "Mixed-item under-bed storage -- not just shoes.",
     specs: ["2-pack", "Adjustable dividers", "5.25\" low-profile", "Fits 24 pairs each", "Beige"],
@@ -126,7 +126,7 @@ export const hacks: SpaceHack[] = [
     amazonUrl: "https://www.amazon.com/dp/B09235RNXZ?tag=theofficejournal-20",
     imageUrl: `${B}/07-hefty-4-large-bags-vacuum-compress-comforters.webp`,
     deadZone: "A spare comforter or off-season duvet taking up half a shelf -- premium real estate in any small room.",
-    theHack: "Large vacuum bags handle bulky soft items -- comforters, pillows, towels, lightweight blankets. A standard twin comforter compresses from 18\"x18\"x12\" to roughly 18\"x18\"x3\". Under-bed storage becomes viable.",
+    theHack: "Large vacuum bags handle bulky soft items -- comforters, pillows, towels, lightweight blankets. A standard twin comforter compresses from 18\"x18\"x12\" to roughly 18\"x18\"x3\".",
     bestFor: "Spare comforters, pillows, off-season bedding, and extra blankets.",
     specs: ["4 large bags", "For comforters, pillows, blankets", "Triple seal technology", "Vacuum-compatible"],
   },
@@ -284,7 +284,7 @@ export const hacks: SpaceHack[] = [
     amazonUrl: "https://www.amazon.com/dp/B0DYDJS1FN?tag=theofficejournal-20",
     imageUrl: `${B}/18-olixis-5-drawer-rolling-cabinet.webp`,
     deadZone: "Space needed for a full dresser but no room to fit one permanently.",
-    theHack: "5-drawer rolling unit is narrower than a standard dresser and rolls to any position. At 15.75\"x18.74\"x25.39\", it fits under most desk surfaces. 5 drawers handle clothes, accessories, office supplies, electronics, and general clutter in one movable unit.",
+    theHack: "5-drawer rolling unit is narrower than a standard dresser and rolls to any position. 39\", it fits under most desk surfaces. 5 drawers handle clothes, accessories, office supplies, electronics, and general clutter in one movable unit.",
     bestFor: "Studio apartments, small bedrooms with no room for a full dresser, or anyone needing substantial storage with flexibility.",
     specs: ["5 drawers", "Rolling wheels", "Wood construction", "15.75\"Dx18.74\"Wx25.39\"H", "Black | Under-desk compatible"],
   },
@@ -353,7 +353,7 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "How often should I rotate vacuum-packed clothes?",
-    a: "Every season. Pack spring/summer clothes in fall, unpack in spring. Pack fall/winter clothes in spring, unpack in fall. Each full wardrobe rotation takes 1-2 hours.",
+    a: "Pack spring/summer clothes in fall, unpack in spring. Pack fall/winter clothes in spring, unpack in fall. Each full wardrobe rotation takes 1-2 hours.",
   },
   {
     q: "Will a second closet rod work in a dorm closet?",
@@ -361,7 +361,7 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "Can I use these hacks in a rented apartment without losing my deposit?",
-    a: "Yes, with caveats. Velvet hangers, vacuum bags, closet rods, under-bed storage, and rolling cabinets require zero wall work. Floating shelves require wall anchors -- use damage-free Command Large strips for lighter loads, or accept small wall holes (typically covered under normal wear and tear in most leases). The under-desk drawer mounts with VHB tape that removes cleanly from most surfaces.",
+    a: "Velvet hangers, vacuum bags, closet rods, under-bed storage, and rolling cabinets require zero wall work. Floating shelves require wall anchors -- use damage-free Command Large strips for lighter loads, or accept small wall holes (typically covered under normal wear and tear in most leases). The under-desk drawer mounts with VHB tape that removes cleanly from most surfaces.",
   },
   {
     q: "What's the single highest-impact hack for a dorm room?",
@@ -373,6 +373,6 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "Are vacuum bags reusable?",
-    a: "Yes. Hefty Shrink-Pak bags are reusable -- re-seal and re-vacuum each season. The triple-seal mechanism maintains its integrity through multiple cycles. Expect 3-5 years of use per bag under normal seasonal rotation.",
+    a: "Hefty Shrink-Pak bags are reusable -- re-seal and re-vacuum each season. The triple-seal mechanism maintains its integrity through multiple cycles. Expect 3-5 years of use per bag under normal seasonal rotation.",
   },
 ];

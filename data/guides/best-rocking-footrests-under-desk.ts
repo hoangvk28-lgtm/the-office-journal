@@ -1,10 +1,10 @@
 const BASE = "/images/guides/best-rocking-footrests-under-desk";
 
 export const guideSlug = "best-rocking-footrests-under-desk";
-export const guideTitle = "8 Best Rocking Footrests Under Desk (2026)";
-export const metaTitle = "Best Rocking Footrests Under Desk 2026";
+export const guideTitle = "The Best Rocking Footrests Under Desk, Compared";
+export const metaTitle = "Best Rocking Footrests Under Desk (2026)";
 export const metaDescription =
-  "Best rocking footrests under desk in 2026. Wood rockers, foam rockers, bamboo models, and flip-to-rocker designs ranked by buyer rating and review count.";
+  "We compared 9 rocking footrests under desk on features, comfort and practical fit to help you choose the right one for your space.";
 export const lastUpdated = "2026-07-08";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/hero.webp`;
@@ -22,7 +22,7 @@ export const products: GuideProduct[] = [
     reviews: "3,135 reviews",
     imageUrl: `${BASE}/strongtek-wood.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07N1QCJGZ?tag=theofficejournal-20",
-    description: "The StrongTek cherry wood footrest is a rocker balance board that delivers active movement through a curved base rather than a flat platform. The solid wood construction does not compress over time like foam alternatives, and the 350-pound capacity reflects the sturdiness of the hardwood build.\n\nAt 4.7 stars it holds the highest rating in this rocking footrest roundup. For users who prefer the aesthetic and durability of natural wood over foam, the StrongTek is the established option.",
+    description: "The StrongTek cherry wood footrest is a rocker balance board that delivers active movement through a curved base rather than a flat platform. The solid wood construction does not compress over time like foam alternatives, and the 350-pound capacity reflects the sturdiness of the hardwood build.\n\n7 stars it holds the highest rating in this rocking footrest roundup. For users who prefer the aesthetic and durability of natural wood over foam, the StrongTek is the established option.",
     specs: ["Cherry wood", "Rocker balance board", "350 lb capacity", "18 inches wide"],
     pros: ["4.7 stars, highest in roundup", "Solid wood does not compress", "350 lb capacity", "No assembly required"],
     cons: ["$39.99 more than foam options", "Hard surface uncomfortable bare-foot", "Rocking motion may feel unstable initially"],
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     reviews: "2,676 reviews",
     imageUrl: `${BASE}/casazenith.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CPFTDT6P?tag=theofficejournal-20",
-    description: "The CasaZenith rocking footrest is the most affordable rocker in this roundup, using a semicircular rocker base with an integrated roller massager. The PP plastic construction is durable and easy to clean but lacks the cushioning of foam or the warmth of wood. at a budget-friendly price it is a significant outlier on price in this roundup. Users who want a basic rocking motion at minimal cost find this a practical starting point before investing in premium foam or wood models.",
+    description: "The CasaZenith rocking footrest is the most affordable rocker in this roundup, using a semicircular rocker base with an integrated roller massager. The PP plastic construction is durable and easy to clean but lacks the cushioning of foam or the warmth of wood. It is a significant outlier on price in this roundup. Users who want a basic rocking motion at minimal cost find this a practical starting point before investing in premium foam or wood models.",
     specs: ["Semicircular rocker base", "Roller massager", "PP plastic", "Non-slip pads"],
     pros: ["Under $10", "2,676 reviews at 4.2 stars", "Roller massager included", "Easy to clean plastic surface"],
     cons: ["Plastic lacks foam or wood comfort", "4.2 stars lower than premium picks", "Lightweight may shift under use"],
@@ -144,8 +144,8 @@ export const products: GuideProduct[] = [
 
 export const faq: { q: string; a: string }[] = [
   { q: "Are rocking footrests better than flat footrests for posture?", a: "Rocking footrests encourage passive movement in the lower legs and calves, which can reduce muscle fatigue during long seated sessions. Flat footrests are more stable and better for users who need a steady platform without movement. Neither is inherently better; the choice depends on whether active micro-movement or stable support is more important for the user." },
-  { q: "What is the difference between a wood rocker and a foam rocker?", a: "Wood rockers like the StrongTek do not compress over time and provide a firm, active rocking surface. Foam rockers like the Everlasting Comfort are softer underfoot and quieter but may compress slightly after years of use. Wood is better for durability and consistent rocking feel. Foam is better for cushioning and barefoot comfort." },
-  { q: "Can rocking footrests help with circulation?", a: "Yes. The rocking or tilting motion activates calf muscles passively during seated work, which assists venous return in the lower legs. This is the same principle as standing desk mats with textured surfaces. The effect is modest compared to standing or walking but noticeable during long sessions compared to a completely static footrest." },
+  { q: "What is the difference between a wood rocker and a foam rocker?", a: "Wood rockers like the StrongTek do not compress over time and provide a firm, active rocking surface. Wood is better for durability and consistent rocking feel. Foam is better for cushioning and barefoot comfort." },
+  { q: "Can rocking footrests help with circulation?", a: "The rocking or tilting motion activates calf muscles passively during seated work, which assists venous return in the lower legs. This is the same principle as standing desk mats with textured surfaces. The effect is modest compared to standing or walking but noticeable during long sessions compared to a completely static footrest." },
   { q: "Is bamboo as durable as wood for rocking footrests?", a: "Bamboo is technically a grass but has wood-like durability and hardness. The Amazer bamboo footrest at 250-pound capacity is comparable in strength to hardwood options. Bamboo is slightly lighter than most hardwoods and has a distinct aesthetic. For most desk use cases, bamboo and hardwood perform similarly over time." },
   { q: "How loud is a rocking footrest under a desk?", a: "Foam rockers like the Everlasting Comfort are nearly silent. Wood rockers on hard floors can produce a knocking sound during movement. Placing a thin mat or carpet under a wood rocker reduces noise significantly. Plastic rockers like the CasaZenith produce a moderate clicking sound during active use on hard floors." },
 ];

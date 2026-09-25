@@ -92,7 +92,7 @@ export const items: EssentialItem[] = [
     intro:
       "A monitor stand does two things simultaneously: raises your screen to a better ergonomic height and creates a full-width storage shelf underneath. On a small desk, this trade -- a bit of height for a lot of extra organization -- is almost always worth it.",
     whyWePicked: [
-      "4.7\" of elevation brings most 24-27\" monitors to the correct viewing height for seated posture",
+      "7\" of elevation brings most 24-27\" monitors to the correct viewing height for seated posture",
       "Pull-out drawer underneath hides a wireless receiver, cables, small accessories, or a notebook out of sight",
       "22\" wide bamboo platform fits most monitors and ultrawide screens without overhang",
     ],
@@ -120,7 +120,7 @@ export const items: EssentialItem[] = [
     whyWePicked: [
       "Aluminum construction doesn't flex or wobble under laptop weight over time -- plastic stands develop instability within months",
       "Folds flat to under 0.4\" for carrying between rooms or packing for travel",
-      "20,000+ ratings at 4.6 stars -- the most validated laptop stand at this price point",
+      "6 stars -- the most validated laptop stand at this price point",
     ],
     skipIf: "You primarily work at a desktop setup -- skip this and consider a monitor arm instead.",
   },
@@ -210,7 +210,7 @@ export const items: EssentialItem[] = [
     whyWePicked: [
       "Powered by 36W AC adapter -- consistent performance with all 7 ports in use simultaneously",
       "BC 1.2 dedicated charging port delivers real 2A fast-charging to phones, not just 0.5A trickle",
-      "30,000+ ratings at 4.6 stars with Anker's 18-month warranty -- the most validated powered hub at this price",
+      "6 stars with Anker's 18-month warranty -- the most validated powered hub at this price",
     ],
     skipIf: "You primarily use USB-C devices -- a USB-C hub (SABRENT B0CXZ448XL) is a better fit for MacBook and modern laptop users.",
     budgetAlt: {
@@ -218,7 +218,7 @@ export const items: EssentialItem[] = [
       asin: "B00P936188",
       amazonUrl: "https://www.amazon.com/dp/B00P936188?tag=theofficejournal-20",
       price: "$19–$26",
-      why: "6-port 60W USB charging station -- for charging devices only (no data), 4.8 stars at 26K reviews",
+      why: "8 stars at 26K reviews",
     },
   },
   {
@@ -255,7 +255,7 @@ export const items: EssentialItem[] = [
     whyWePicked: [
       "Adjustable height and tilt calibrates to your exact desk and chair combination",
       "Memory foam surface reduces foot pressure compared to rigid wooden footrests",
-      "20,000+ ratings at 4.5 stars -- the most validated footrest across this price range",
+      "5 stars -- the most validated footrest across this price range",
     ],
     skipIf: "Your feet rest comfortably flat on the floor when typing. Test: sit in your normal position and check if your knees are at 90° -- if yes, skip this.",
   },
@@ -274,7 +274,7 @@ export const items: EssentialItem[] = [
     whyWePicked: [
       "5 different varieties in white ceramic pots -- looks curated rather than like a single prop",
       "Zero maintenance -- no watering schedule, no adjusting for light, looks the same on day 300 as day 1",
-      "12,000+ ratings at 4.6 stars -- the most reviewed artificial succulent set available",
+      "6 stars -- the most reviewed artificial succulent set available",
     ],
     skipIf: "Your desk gets consistent bright indirect light -- a real ZZ plant or pothos would look better and improve air quality.",
   },
@@ -342,7 +342,7 @@ export interface HowToChooseSection {
 }
 
 export const howToChoose: HowToChooseSection[] = [
-  { icon: "🔧", tip: "Start with your biggest daily frustration", body: "If cables are a mess -- fix cables first. If you're squinting at a dark screen -- fix lighting first. Don't start with decor." },
+  { icon: "🔧", tip: "Start with your biggest daily frustration", body: "If cables are a mess -- fix cables first. If you're squinting at a dark screen -- fix lighting first." },
   { icon: "📏", tip: "Measure your desk before buying", body: "A 35\" desk mat on a 32\" desk hangs off the edge. A monitor stand too wide for your monitor looks unbalanced. Measure width, depth, and edge thickness before any purchase." },
   { icon: "🔌", tip: "Solve power first", body: "A powered USB hub and cable tray should come before aesthetic items. Getting all devices connected cleanly changes the baseline of your setup. Everything else looks better after this is fixed." },
   { icon: "🪑", tip: "Ergonomics before aesthetics", body: "Monitor stand, laptop stand, and footrest affect you physically every day. A desk plant looks good; a monitor at the wrong height causes neck tension over months." },
@@ -353,7 +353,7 @@ export const faq: Array<{ q: string; a: string }> = [
   { q: "What are the most important desk setup essentials?", a: "Start with these three: a cable management tray (biggest visual impact for the cost), a desk lamp with a clamp mount (zero surface footprint), and a monitor stand or laptop stand (ergonomic and creates storage underneath). These three address the most common desk problems before anything else." },
   { q: "How do I make a small desk setup look clean?", a: "Hide cables first (under-desk tray or clips), then add a desk mat that defines the workspace, then keep only daily-use items on the surface. The three-step sequence -- cable management, mat, ruthless surface editing -- transforms most small desks without buying anything expensive." },
   { q: "What should every work-from-home desk have?", a: "Beyond the basics (monitor, keyboard, mouse): a powered USB hub for connecting everything, a clamp desk lamp or monitor light bar, cable management, and a headphone hook. These four items address the practical daily-use gaps in most home office setups." },
-  { q: "Are desk accessories worth buying?", a: "The right ones are. A $20 cable tray and a $15 headphone hook have immediate, visible impact every day. A $50 RGB light strip has zero functional benefit. The criterion is: does this make my workspace easier to use or more comfortable? If yes, worth it. If it's purely decorative, probably not." },
+  { q: "Are desk accessories worth buying?", a: "A $20 cable tray and a $15 headphone hook have immediate, visible impact every day. A $50 RGB light strip has zero functional benefit. The criterion is: does this make my workspace easier to use or more comfortable? If it's purely decorative, probably not." },
   { q: "What should I buy first for a better desk setup?", a: "A cable management tray -- it costs $20, takes 5 minutes, and immediately makes everything else look more intentional. Second: a desk lamp with a clamp mount. These two purchases change the baseline of any desk setup before anything else." },
   { q: "How can I improve my desk setup on a budget?", a: "Under $50 combination: cable clips ($8), a headphone hook ($12), and a compact desk organizer ($18). These three eliminate the most common visual clutter on any desk. Under $100: add a desk mat ($35) and you've transformed the setup's appearance without touching the monitor or lighting." },
 ];

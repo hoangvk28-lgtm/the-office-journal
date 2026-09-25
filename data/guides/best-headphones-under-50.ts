@@ -2,10 +2,10 @@ const BASE = "/guides/best-headphones-under-50";
 
 export const guideSlug = "best-headphones-under-50";
 export const guideTitle =
-  "7 Best Headphones Under $50 in 2026: Wireless, ANC and Wired Picks";
-export const metaTitle = "7 Best Headphones Under $50 in 2026";
+  "The Best Headphones Under $50 in 2026: Wireless, ANC and Wired Picks, Compared";
+export const metaTitle = "Best Headphones Under $50 in 2026: Wireless, ANC and Wired Picks (2026)";
 export const metaDescription =
-  "7 headphones under $50 in 2026: wireless ANC, studio wired, and ANC earbuds. TOZO HT2, JBL Tune 520BT, and Audio-Technica ATH-M20x compared by value.";
+  "We compared 8 headphones under $50 in 2026: wireless, ANC and wired picks on features, build and practical fit to help you choose the right one for your space.";
 export const lastUpdated = "2026-06-18";
 export const readTime = "11 min";
 export const heroImage = `${BASE}/00-hero-best-headphones-under-50-16x9.webp`;
@@ -81,7 +81,7 @@ export const products: Budget50Headphone[] = [
     imageUrl: `${BASE}/02-jbl-tune-520bt-headphones.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0C1HGKNG7?tag=theofficejournal-20",
     whyItWorks:
-      "JBL brand reliability and 57-hour battery with Speed Charge (5 min gives 3 hours of playback); for students who regularly forget to charge before class, Speed Charge is a practical differentiator that no other pick in this guide provides; 40mm Pure Bass drivers, Bluetooth 5.3, lightweight at 140g, folds flat; clear vocals with punchy bass tuning; USB-C charging.",
+      "3, lightweight at 140g, folds flat; clear vocals with punchy bass tuning; USB-C charging.",
     tradeoffs: [
       "No ANC",
       "No multipoint Bluetooth",
@@ -112,7 +112,7 @@ export const products: Budget50Headphone[] = [
     imageUrl: `${BASE}/03-soundcore-life-q10-headphones.webp`,
     amazonUrl: "https://www.amazon.com/dp/B085D88GVW?tag=theofficejournal-20",
     whyItWorks:
-      "60 hours per charge at $35 to $40 is exceptional; at 4 hours daily use that is two weeks between charges; includes 3.5mm AUX cable so headphones still work when battery runs out; Hi-Res Audio certified 40mm drivers reproduce up to 40kHz; fast charge delivers 3 hours from 5 minutes of charging; best over-ear wireless headphone under $40 for all-day desk use without ANC.",
+      "5mm AUX cable so headphones still work when battery runs out; Hi-Res Audio certified 40mm drivers reproduce up to 40kHz; fast charge delivers 3 hours from 5 minutes of charging; best over-ear wireless headphone under $40 for all-day desk use without ANC.",
     tradeoffs: [
       "No ANC",
       "Heavier than JBL at 214g vs 140g",
@@ -174,7 +174,7 @@ export const products: Budget50Headphone[] = [
     imageUrl: `${BASE}/05-soundcore-p40i-earbuds.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CQXG17RL?tag=theofficejournal-20",
     whyItWorks:
-      "Adaptive ANC automatically adjusts to environment without manual mode switching; 6 microphones with AI noise cancellation deliver best call quality of any earbud in this guide; multipoint Bluetooth maintains connection to laptop and phone simultaneously; wireless charging case; case doubles as a phone stand; 60 hours combined battery; Bluetooth 5.3; the meaningful step up from the Soundcore P20i at $20.",
+      "3; the meaningful step up from the Soundcore P20i at $20.",
     tradeoffs: [
       "Price occasionally hits $55 when not on sale",
       "ANC strongest at low frequencies, less effective against voices",
@@ -235,7 +235,7 @@ export const products: Budget50Headphone[] = [
     imageUrl: `${BASE}/07-skullcandy-hesh-evo-headphones.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CBLLJTTN?tag=theofficejournal-20",
     whyItWorks:
-      "Comes with both a 3.5mm AUX cable AND an extra USB-C charging cable in the box; most competing headphones include neither; for students who lose cables or want a backup, having two cables from the factory is practical; 36h battery covers a full week of 4-hour daily use; Skullcandy build quality and brand reliability; USB-C charging; folds flat.",
+      "5mm AUX cable AND an extra USB-C charging cable in the box; most competing headphones include neither; for students who lose cables or want a backup, having two cables from the factory is practical; 36h battery covers a full week of 4-hour daily use; Skullcandy build quality and brand reliability; USB-C charging; folds flat.",
     tradeoffs: [
       "No ANC",
       "Bass-forward Skullcandy tuning",
@@ -276,7 +276,7 @@ export const faq = [
   },
   {
     q: "Are wired headphones worth buying in 2024 when wireless is everywhere?",
-    a: "Yes, for desk use. The ATH-M20x at $49 delivers professional studio audio that no wireless headphone under $100 matches on sound accuracy. There is no battery to manage, no Bluetooth to pair, and no latency. For commuting and movement, wireless is better. For a fixed desk setup, wired is still the best choice for audio quality per dollar.",
+    a: "The ATH-M20x at $49 delivers professional studio audio that no wireless headphone under $100 matches on sound accuracy. There is no battery to manage, no Bluetooth to pair, and no latency. For commuting and movement, wireless is better. For a fixed desk setup, wired is still the best choice for audio quality per dollar.",
   },
   {
     q: "What is the best headphone under $50 for online classes?",

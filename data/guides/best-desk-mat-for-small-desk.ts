@@ -60,7 +60,7 @@ export const mats: DeskMat[] = [
     ],
     reviewText: [
       "The Nordik hits an unusual sweet spot between everyday durability and a premium feel -- without the $80-$140 price of Grovemade or Orbitkey. What sets it apart from similarly priced mats is the suede backing: during a full week of daily use on a 36\" desk, it didn't shift once during typing, mouse dragging, or resting arms. Most budget mats slide by day two.",
-      "The vegan leather surface is smooth enough for optical mice without any skipping, and it cleans up with a single wipe -- coffee spills included. The stitched edge shows no signs of peeling after extended use, which is the most common failure point on cheaper wrapped-edge mats. At 35x17\", it sits flush with a clean 0.5\" margin on any desk 36-42\" wide. This is the mat we'd recommend to almost anyone starting with a small-desk setup.",
+      "The vegan leather surface is smooth enough for optical mice without any skipping, and it cleans up with a single wipe -- coffee spills included. The stitched edge shows no signs of peeling after extended use, which is the most common failure point on cheaper wrapped-edge mats. 5\" margin on any desk 36-42\" wide. This is the mat we'd recommend to almost anyone starting with a small-desk setup.",
     ],
     specs: [
       { label: "Size", value: "35\" x 17\" (89cm x 43cm)" },
@@ -271,7 +271,7 @@ export const mats: DeskMat[] = [
     ],
     reviewText: [
       "The Tangerine Orange is the same mat as pick #1 -- same PU leather layer, same suede backing, same stitching -- in a colorway that changes the entire mood of a desk setup. The orange tone is warm enough to pair with natural oak or birch without clashing, and bright enough to read as intentional against a white IKEA desk. It's the mat that makes a phone photography setup look designed rather than assembled.",
-      "The trade-off is specificity. Unlike gray or black, orange commits you to a particular aesthetic direction. If you're building a warm, natural, or energetic desk setup, the Tangerine is worth the color choice. If you want something that blends quietly into any context, go gray. Either way, the functional performance is identical -- this choice is purely about what you want your desk to look like.",
+      "Unlike gray or black, orange commits you to a particular aesthetic direction. If you're building a warm, natural, or energetic desk setup, the Tangerine is worth the color choice. If you want something that blends quietly into any context, go gray. Either way, the functional performance is identical -- this choice is purely about what you want your desk to look like.",
     ],
     specs: [
       { label: "Size", value: "35\" x 17\"" },
@@ -347,7 +347,7 @@ export const materialComparison = [
 ];
 
 export const buyingCriteria = [
-  { icon: "📏", title: "Size -- measure twice, buy once", body: "Measure usable desk width, subtract 2-4 inches. For depth, measure from front edge to where your monitor sits. A 35x17\" mat fits any desk 36-42\" wide with a clean 0.5-1\" margin." },
+  { icon: "📏", title: "Size -- measure twice, buy once", body: "Measure usable desk width, subtract 2-4 inches. For depth, measure from front edge to where your monitor sits." },
   { icon: "🔒", title: "Non-slip backing -- essential on small desks", body: "On a small desk, a mat that shifts pulls everything on it out of alignment. Look for suede, cork, or rubber backing. Avoid mats with only a smooth PVC base." },
   { icon: "🧵", title: "Edge finishing -- stitched beats wrapped", body: "Stitched edges (sewn thread around the perimeter) last for years. Wrapped edges (glued underneath) peel at corners within 3-6 months. All picks on this list use stitched edges." },
   { icon: "📐", title: "Thickness -- 2-4mm is optimal", body: "Under 2mm and you lose ergonomic benefit. Over 4mm and the edge creates an uncomfortable wrist ridge. 3mm is the sweet spot for most people." },
@@ -358,15 +358,15 @@ export const buyingCriteria = [
 export const faq: Array<{ q: string; a: string }> = [
   {
     q: "What size desk mat should I get for a 36-inch desk?",
-    a: "A 35x17\" mat is ideal for a 36\" desk -- it sits flush with a ~0.5\" margin on each side. This prevents edge bunching and looks proportional. The 35x17\" size used by all four Nordik picks was specifically designed for the most common small and medium desk widths.",
+    a: "5\" margin on each side. This prevents edge bunching and looks proportional. The 35x17\" size used by all four Nordik picks was specifically designed for the most common small and medium desk widths.",
   },
   {
     q: "What size desk mat for a 40-inch desk?",
-    a: "Any mat from 35-38\" wide works on a 40\" desk. A 35x17\" mat gives you a 2.5\" margin on each side -- clean and allows room to rest your arms on the bare desk on either side.",
+    a: "Any mat from 35-38\" wide works on a 40\" desk. 5\" margin on each side -- clean and allows room to rest your arms on the bare desk on either side.",
   },
   {
     q: "Is a desk mat the same as a mouse pad?",
-    a: "Not quite. A mouse pad is usually 9-12\" wide and designed purely for mouse movement. A desk mat is larger (24-36\"+ wide) and covers the full keyboard-and-mouse zone. Desk mats function as mouse pads but also protect the desk surface and add a unified aesthetic.",
+    a: "A mouse pad is usually 9-12\" wide and designed purely for mouse movement. A desk mat is larger (24-36\"+ wide) and covers the full keyboard-and-mouse zone. Desk mats function as mouse pads but also protect the desk surface and add a unified aesthetic.",
   },
   {
     q: "Can I use a desk mat on a glass desk?",
@@ -378,7 +378,7 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "Do desk mats make typing louder or quieter?",
-    a: "Quieter. A 3-4mm desk mat absorbs keystroke impact and reduces the hollow resonance that bare desks amplify. If you type on a mechanical keyboard in a dorm room, a thick mat is one of the easiest ways to reduce noise bleed.",
+    a: "A 3-4mm desk mat absorbs keystroke impact and reduces the hollow resonance that bare desks amplify. If you type on a mechanical keyboard in a dorm room, a thick mat is one of the easiest ways to reduce noise bleed.",
   },
   {
     q: "Will a desk mat protect my desk from heat?",

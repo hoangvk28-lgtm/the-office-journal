@@ -1,11 +1,11 @@
 const BASE = "/images/media/guides/best-small-desk-charging-stations";
 
-export const guideTitle = "Best Small Desk Charging Stations for Cleaner, Clutter-Free Setups";
+export const guideTitle = "The Best Small Desk Charging Stations for Cleaner, Clutter-Free Setups: Our Picks";
 export const guideDescription =
   "Every product below was chosen with its base dimensions as the primary filter. Only chargers that realistically fit the desk sizes most people actually have -- dorm desks, apartment work corners, shared home office setups, and small standing desks.";
-export const metaTitle = "Best Small Desk Charging Stations (2026)";
+export const metaTitle = "Best Small Desk Charging Stations for Cleaner, Clutter-Free Setups (2026)";
 export const metaDescription =
-  "5 compact charging stations chosen for small desks -- with real footprint dimensions, vertical vs flat comparison, and cable management tips.";
+  "How 8 small desk charging stations for cleaner, clutter-free setups compare on features, build and practical fit, with clear notes on who each one suits.";
 export const lastUpdated = "2026-06-03";
 export const readTime = "11 min";
 export const heroImage = `${BASE}/06-best-small-desk-charging-stations-hero.webp`;
@@ -43,9 +43,9 @@ export const products: SmallDeskCharger[] = [
     priceRange: "~$40--55",
     imageUrl: `${BASE}/01-anker-nano-6-in-1-67w.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0C5QY4BL2?tag=theofficejournal-20",
-    whyItWins: "The Anker Nano 6-in-1 has the smallest footprint of any multi-function charging station we tested: 9.9 x 9.4 cm at the base. That is slightly smaller than a Post-it note. Despite that size, it delivers two USB-C ports, two USB-A ports, and two AC outlets -- making it the most capable charger per square centimeter in this roundup.",
+    whyItWins: "4 cm at the base. That is slightly smaller than a Post-it note. Despite that size, it delivers two USB-C ports, two USB-A ports, and two AC outlets -- making it the most capable charger per square centimeter in this roundup.",
     bodyParagraphs: [
-      "The 0.7-inch (1.8 cm) height keeps it from creating a visual obstruction between your keyboard and monitor. On desks where vertical clearance is tight -- say, a desk tucked under a shelf -- that matters as much as the base footprint.",
+      "8 cm) height keeps it from creating a visual obstruction between your keyboard and monitor. On desks where vertical clearance is tight -- say, a desk tucked under a shelf -- that matters as much as the base footprint.",
       "The 2,100-joule surge protection is an unexpected feature at this size and price. The two AC outlets add real versatility: plug in a desk lamp or a USB hub alongside your devices without needing a separate power strip.",
     ],
     specs: [
@@ -82,7 +82,7 @@ export const products: SmallDeskCharger[] = [
     priceRange: "~$30--40",
     imageUrl: `${BASE}/02-anker-615-ganprime-65w.webp`,
     amazonUrl: "https://www.amazon.com/dp/B09SG359YF?tag=theofficejournal-20",
-    whyItWins: "The Anker 615 is designed as a bar -- long and narrow rather than square -- which makes it ideal for placement along the back edge of a small desk where vertical depth is minimal. At 11.9 x 5.9 cm, it slides into the gap behind your keyboard without pushing forward into your working zone.",
+    whyItWins: "The Anker 615 is designed as a bar -- long and narrow rather than square -- which makes it ideal for placement along the back edge of a small desk where vertical depth is minimal. 9 cm, it slides into the gap behind your keyboard without pushing forward into your working zone.",
     bodyParagraphs: [
       "The GaNPrime technology makes it noticeably cooler and quieter than comparable non-GaN options. Two USB-C ports support Power Delivery, one USB-A covers older devices, and two AC outlets handle any standard adapter. The built-in 3-foot extension cord eliminates the need to position it near a wall outlet -- run the cord down the back of the desk cleanly.",
       "The 65W total output handles one laptop plus one phone simultaneously, or two phones plus accessories.",
@@ -121,7 +121,7 @@ export const products: SmallDeskCharger[] = [
     priceRange: "~$30--45",
     imageUrl: `${BASE}/03-anker-525-7-in-1-65w.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0B3HW6MPD?tag=theofficejournal-20",
-    whyItWins: "The Anker 525 takes a different approach to small-desk ergonomics -- it stands upright as a tower, trading horizontal desk space for vertical height. The base is 11.7 x 6.4 cm, similar to the 615, but the footprint feels smaller in practice because the unit's body rises away from the desk surface rather than spreading across it.",
+    whyItWins: "The Anker 525 takes a different approach to small-desk ergonomics -- it stands upright as a tower, trading horizontal desk space for vertical height. 4 cm, similar to the 615, but the footprint feels smaller in practice because the unit's body rises away from the desk surface rather than spreading across it.",
     bodyParagraphs: [
       "Seven total ports -- three AC, two USB-C, two USB-A -- make this the port-richest option in this roundup. If you regularly use a desk lamp, a laptop adapter, and a USB hub alongside your phone charging, the three AC outlets absorb all of it.",
       "The 65W USB-C Power Delivery port handles laptop charging. The 5-foot extension cord gives more routing flexibility than the 615's 3-foot cord -- useful on desks farther from wall outlets.",
@@ -202,7 +202,7 @@ export const products: SmallDeskCharger[] = [
     amazonUrl: "https://www.amazon.com/dp/B00VH8ZW02?tag=theofficejournal-20",
     whyItWins: "The Anker PowerPort 5 is the most affordable option in this roundup and earns its place entirely on footprint and simplicity. Five USB-A ports, a compact base, and an Anker build that has logged millions of units sold -- this is the most well-proven budget charging hub available. Under $20 means the decision is low-risk.",
     bodyParagraphs: [
-      "Five USB-A ports at 2.4A each handle phones, earbuds, Kindles, and any USB-A accessory. PowerIQ technology detects each device and delivers its optimal charging speed. The compact desktop form factor tucks into a corner without demanding attention.",
+      "4A each handle phones, earbuds, Kindles, and any USB-An accessory. PowerIQ technology detects each device and delivers its optimal charging speed. The compact desktop form factor tucks into a corner without demanding attention.",
       "It will not charge a laptop at meaningful speed and has no AC outlets or wireless charging -- but for a secondary charging point, a dorm desk, or a small workspace where the budget is tight, the Anker PowerPort 5 delivers exactly what it promises.",
     ],
     specs: [
@@ -259,7 +259,7 @@ export const setupTips = [
 export const faq: { question: string; answer: string }[] = [
   {
     question: "What is the smallest charging station that works for a small desk?",
-    answer: "The Anker PowerPort 5 has one of the smallest footprints in this roundup. For multi-port with AC outlets included, the Anker Nano at 9.9 x 9.4 cm is the smallest option. Both fit in the charging zone of an 80 cm desk.",
+    answer: "The Anker PowerPort 5 has one of the smallest footprints in this roundup. 4 cm is the smallest option. Both fit in the charging zone of an 80 cm desk.",
   },
   {
     question: "Can a small charging station charge a laptop?",
@@ -275,7 +275,7 @@ export const faq: { question: string; answer: string }[] = [
   },
   {
     question: "What charging station fits on a 60 cm desk?",
-    answer: "A 60 cm desk leaves roughly 10 cm of charging zone beside the keyboard. The Anker PowerPort 5 and Anker Nano 6-in-1 (9.9 cm base) are the best options. Alternatively, mount a charger under the desk or on the desk's side edge to free up the surface entirely.",
+    answer: "A 60 cm desk leaves roughly 10 cm of charging zone beside the keyboard. 9 cm base) are the best options. Alternatively, mount a charger under the desk or on the desk's side edge to free up the surface entirely.",
   },
   {
     question: "Do I need a wireless charging pad for a small desk?",

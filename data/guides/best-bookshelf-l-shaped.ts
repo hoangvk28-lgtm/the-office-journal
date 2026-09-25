@@ -1,12 +1,12 @@
 export const guideSlug = "best-bookshelf-l-shaped";
-export const guideTitle = "8 Best L-Shaped Bookshelves in 2026";
-export const metaTitle = "Best L-Shaped Bookshelves in 2026 (Corner & Etagere Picks)";
+export const guideTitle = "The Best L-Shaped Bookshelves for Home Offices";
+export const metaTitle = "Best L-Shaped Bookshelves for Home Offices (2026)";
 export const metaDescription =
-  "8 best L-shaped bookshelves in 2026, comparing corner bookcases, etageres, and drawer-equipped units. Compare capacity, configuration flexibility, and safety features.";
+  "We compared 9 L-shaped bookshelves on features, build and practical fit to help you choose the right one for your space.";
 export const mainKeyword = "l shaped bookshelf";
 export const introParagraphs = [
   "An L-shaped bookshelf turns an awkward corner into usable storage, wrapping around a wall junction instead of eating up a single flat run the way a straight bookcase does. That makes it a smart pick for home offices, living room corners, or any room where floor space is at a premium.",
-  "Below are 8 L-shaped bookshelves we evaluated on shelf capacity, assembly flexibility, and safety details like bookends and rounded corners, ranging from budget corner bookcases to reinforced etageres built for a serious personal library.",
+  "Below are 8 L-shaped bookshelves we compared on shelf capacity, assembly flexibility, and safety details like bookends and rounded corners, ranging from budget corner bookcases to reinforced etageres built for a serious personal library.",
 ];
 export const lastUpdated = "2026-07-18";
 export const readTime = "10 min";
@@ -51,7 +51,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41h2uXZF6hL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CYLG2LCK?tag=theofficejournal-20",
     description:
-      "The HOOBRO stands out for genuine layout flexibility, it can be built as a true corner-hugging L-shape or reconfigured into two parallel straight units if your room layout changes down the line. Particleboard shelves on a metal frame handle 66 lbs per shelf, and a twist-on quick assembly system gets it built without a full toolbox.\n\nAdjustable feet plus an included anti-tip kit round out a rustic brown finish that suits both living rooms and home offices, backed by a solid 4.6-star average across 346 ratings.\n\n66 lb/shelf capacity handles a heavy book collection. That's a real strength, but weigh it against the flip side: pricier than the black version of the same design.",
+      "The HOOBRO stands out for genuine layout flexibility, it can be built as a true corner-hugging L-shape or reconfigured into two parallel straight units if your room layout changes down the line. Particleboard shelves on a metal frame handle 66 lbs per shelf, and a twist-on quick assembly system gets it built without a full toolbox.\n\n66 lb/shelf capacity handles a heavy book collection.",
     specs: [
       "23.6\"L x 23.6\"W x 58.6\"H",
       "Particleboard + metal frame",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41m+GnF3MKL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0DLVXXHST?tag=theofficejournal-20",
     description:
-      "This is the same flexible 2-configuration HOOBRO design as our top pick, just finished in matte black and priced a real lower. It's built from engineered wood and metal, still twist-on to assemble, and still ships with adjustable feet and an anti-tip kit for wall anchoring. Per-shelf capacity drops to 44 lbs compared to the rustic brown version's 66, a fair tradeoff given the lower price, and the matte black frame reads more modern than the rustic finish if that suits your room better. Worth calling out specifically: same 2-in-1 L-shape or parallel design as the pricier version. The catch is lower capacity than the rustic brown version at 44 lb/shelf.",
+      "This is the same flexible 2-configuration HOOBRO design as our top pick, just finished in matte black and priced a real lower. It's built from engineered wood and metal, still twist-on to assemble, and still ships with adjustable feet and an anti-tip kit for wall anchoring. Per-shelf capacity drops to 44 lbs compared to the rustic brown version's 66, a fair tradeoff given the lower price, and the matte black frame reads more modern than the rustic finish if that suits your room better.",
     specs: [
       "23.6\"L x 23.6\"W x 58.6\"H",
       "Engineered wood + metal frame",
@@ -117,7 +117,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41y9WuFtfCL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0DZNJZVM5?tag=theofficejournal-20",
     description:
-      "The Armocity is built with safety details most corner bookcases skip: a built-in bookend on every shelf keeps books from sliding, and every corner is rounded rather than sharp, a genuine plus if you have young kids running around the house. A 90-degree angled back keeps the whole unit snug against the wall corner.\n\nParts arrive pre-sorted and labeled, and the brand claims roughly 30 minutes for full assembly, the fastest of any pick in this list. The clean white finish also gives it the brightest, most minimalist look here.\n\nRounded child-safe corners. Set against that, slightly more expensive than the HOOBRO picks. Both matter when comparing it to the other picks here.",
+      "The Armocity is built with safety details most corner bookcases skip: a built-in bookend on every shelf keeps books from sliding, and every corner is rounded rather than sharp, a genuine plus if you have young kids running around the house. A 90-degree angled back keeps the whole unit snug against the wall corner.\n\nParts arrive pre-sorted and labeled, and the brand claims roughly 30 minutes for full assembly, the fastest of any pick in this list. The clean white finish also gives it the brightest, most minimalist look here.",
     specs: [
       "23.6\"W x 23.6\"D x 63.8\"H",
       "Engineered wood",
@@ -150,7 +150,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51eoRWUlXuL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0CFQGMHDT?tag=theofficejournal-20",
     description:
-      "The IRONCK is the largest standard L-shaped pick in this list, spanning 43.3 inches on one leg and 35.4 inches on the other, with 12 total shelves split across both sides. Each shelf carries a 70 lb rating, the highest of any standard L-shaped bookshelf here, and 2.8-inch baffles along the shelf edges stop items from sliding off. MDF construction sits inside an iron frame with metal sidebar reinforcement for extra rigidity, making this the pick to reach for if you're filling both legs with a genuinely heavy book collection. A genuine advantage here is that 12 total shelves, the most in this list. The tradeoff is most expensive standard L-shaped pick at a competitive price.",
+      "4 inches on the other, with 12 total shelves split across both sides. 8-inch baffles along the shelf edges stop items from sliding off. MDF construction sits inside an iron frame with metal sidebar reinforcement for extra rigidity, making this the pick to reach for if you're filling both legs with a heavy book collection.",
     specs: [
       "43.3\"W x 35.4\"W x 78\"H",
       "MDF + iron frame",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51sCJJi6aOL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FKMDRKR9?tag=theofficejournal-20",
     description:
-      "This Shintenchi etagere carries the highest total weight rating in this entire list at 750 lbs, backed by 75 lbs per individual shelf. A metal frame with an X-shaped crossbar underneath adds real rigidity to a unit this large, which spans 30.7 inches on each leg and stands over 71 inches tall. Adjustable feet and an included anti-tip kit help keep it stable once loaded up, and at a budget-friendly price it delivers serious capacity for anyone building out a genuine home library across both legs of the L. Largest etagere-style footprint for a serious library. On the other hand, lowest rating in this list at 4.3 stars. Neither should be a surprise once you know to look for it.",
+      "This Shintenchi etagere carries the highest total weight rating in this entire list at 750 lbs, backed by 75 lbs per individual shelf. 7 inches on each leg and stands over 71 inches tall. Adjustable feet and an included anti-tip kit help keep it stable once loaded up, and it delivers serious capacity for anyone building out a genuine home library across both legs of the L. Largest etagere-style footprint for a serious library.",
     specs: [
       "30.7\"L x 30.7\"W x 71.2\"H",
       "Metal frame + particleboard",
@@ -215,7 +215,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41YCyk+KRYL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FBG8J59M?tag=theofficejournal-20",
     description:
-      "The Huuger is built from FSC-certified wood, meeting sustainable sourcing standards, and pairs it with an X-bar metal frame across 10 open shelves. Like the HOOBRO picks, it can be assembled either as a corner-fit L-shape or reconfigured as a straight 49.4-inch-wide line, making it the most flexible layout option in this list alongside the HOOBRO.\n\nAdjustable feet keep it level, and with 10 total shelves split across a large footprint, it offers plenty of room for books, decor, and storage bins alike.\n\n10 open shelves across a large footprint. That's a real strength, but weigh it against the flip side: large footprint needs either a corner or a long wall run.",
+      "The Huuger is built from FSC-certified wood, meeting sustainable sourcing standards, and pairs it with an X-bar metal frame across 10 open shelves. 4-inch-wide line, making it the most flexible layout option in this list alongside the HOOBRO.\n\nAdjustable feet keep it level, and with 10 total shelves split across a large footprint, it offers plenty of room for books, decor, and storage bins alike.\n\n10 open shelves across a large footprint.",
     specs: [
       "49.4\"W x 30.6\"D x 65.8\"H",
       "FSC-certified wood + X-bar metal frame",
@@ -247,7 +247,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51X78fYVrbL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FD3GW2M3?tag=theofficejournal-20",
     description:
-      "This IRONCK is the only pick in this list built with enclosed storage, combining 10 open shelves with 2 storage drawers at the base for items you'd rather keep out of sight. Adjustable shelving lets you customize spacing for taller books or decor pieces, and the corner-fit L-shape design makes efficient use of a wall junction.\n\nEngineered wood construction stands 76.37 inches tall, giving it a commanding presence in a home office or living room corner, and the blend of open display plus hidden drawer storage makes it the most complete storage solution here.\n\nWorth calling out specifically: 10 open shelves plus 2 drawers for mixed storage needs. The catch is lower review count than other picks at 114 ratings.",
+      "This IRONCK is the only pick in this list built with enclosed storage, combining 10 open shelves with 2 storage drawers at the base for items you'd rather keep out of sight. Adjustable shelving lets you customize spacing for taller books or decor pieces, and the corner-fit L-shape design makes efficient use of a wall junction.\n\n37 inches tall, giving it a commanding presence in a home office or living room corner, and the blend of open display plus hidden drawer storage makes it the most complete storage solution here.",
     specs: [
       "33.07\"W x 23.62\"D x 76.37\"H",
       "Engineered wood",
@@ -279,7 +279,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51V7xU1pv2L._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0GPW4YCFB?tag=theofficejournal-20",
     description:
-      "The FACBOTALL leans into a clean, modern minimalist look with a matte white finish and simple lines that fit a Nordic-inspired home office or living room. Engineered PB wood forms 6 open shelves rated at 44 lbs each, 264 lbs total, standing a tall 73.5 inches to maximize vertical storage in a corner.\n\nTool-free assembly is a nice touch for a unit this size, though it's the newest pick in this list with a limited review sample so far.\n\nTool-free assembly. Set against that, very limited review sample at only 12 ratings. Both matter when comparing it to the other picks here.",
+      "The FACBOTALL leans into a clean, modern minimalist look with a matte white finish and simple lines that fit a Nordic-inspired home office or living room. 5 inches to maximize vertical storage in a corner.\n\nTool-free assembly is a nice touch for a unit this size, though it's the newest pick in this list with a limited review sample so far.",
     specs: [
       "23.6\"W x 23.6\"D x 73.5\"H",
       "Engineered PB wood",
@@ -314,11 +314,11 @@ export const buyingCriteria: BuyingCriterion[] = [
   },
   {
     "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this l shaped bookshelf over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
+    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this l shaped bookshelf over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
   },
   {
     "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any l shaped bookshelf you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
+    "explanation": "This matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any l shaped bookshelf you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
   },
   {
     "criterion": "Check compatibility and fit with your existing setup before ordering",
@@ -349,7 +349,7 @@ export const faq: FaqItem[] = [
   },
   {
     q: "What is the most affordable L-shaped bookshelf in this list?",
-    a: "The HOOBRO 5-Tier L-Shaped Corner Bookshelf in black (Pick 2) is the cheapest at $84.99, offering the same flexible 2-configuration design as the pricier rustic brown version.",
+    a: "99, offering the same flexible 2-configuration design as the pricier rustic brown version.",
   },
   {
     q: "How do I measure my corner for an L-shaped bookshelf?",

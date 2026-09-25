@@ -2,10 +2,10 @@ const BASE = "/images/guides/best-solid-wood-standing-desk";
 
 export const guideSlug = "best-solid-wood-standing-desk";
 export const guideTitle =
-  "Best Solid Wood Standing Desks in 2026: Real Wood Tops on Frames That Last";
-export const metaTitle = "Best Solid Wood Standing Desks in 2026";
+  "The Best Solid Wood Standing Desks in 2026: Real Wood Tops on Frames That Last, Compared";
+export const metaTitle = "Best Solid Wood Standing Desks in 2026: Real Wood Tops on Frames That Last (2026)";
 export const metaDescription =
-  "Best solid wood standing desks in 2026 - rubberwood, acacia, and walnut tops on dual-motor frames. Covers 2-stage vs 3-stage legs and why dual motor matters.";
+  "We compared 10 solid wood standing desks in 2026: real wood tops on frames that last on size, height range, stability and features to help you choose the right one for your space.";
 export const lastUpdated = "2026-06-29";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/01-solid-wood-standing-desks.webp`;
@@ -43,7 +43,7 @@ export const products: SolidWoodStandingDesk[] = [
     imageUrl: `${BASE}/02-modern_office_with_natural_light_and_greenery.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0FXX9498V?tag=theofficejournal-20",
     whyItWorks:
-      "The FlexiSpot E6 with butcher block rubberwood top is the strongest recommendation on this list: a 3-stage dual-motor frame with a genuine solid wood desktop in the most practical size (71x30\"). The 3-stage legs give a full 23.6\"-49.2\" height range, covering users from 5'0\" to 6'4\" with good stability at maximum extension. Rubberwood (parawood) is a solid hardwood at ~980 lbf Janka. The butcher block construction means the full desktop is solid hardwood - not a veneer over MDF. At 71\" wide, dual monitors, monitor arms, a laptop stand, and full keyboard setup all fit without competing for surface space.",
+      "The FlexiSpot E6 with butcher block rubberwood top is the strongest recommendation on this list: a 3-stage dual-motor frame with a genuine solid wood desktop in the most practical size (71x30\"). 2\" height range, covering users from 5'0\" to 6'4\" with good stability at maximum extension. Rubberwood (parawood) is a solid hardwood at ~980 lbf Janka. The butcher block construction means the full desktop is solid hardwood - not a veneer over MDF. At 71\" wide, dual monitors, monitor arms, a laptop stand, and full keyboard setup all fit without competing for surface space.",
     tradeoffs: [
       "71\" width requires significant room space",
       "Rubberwood is softer than acacia or maple - will show surface dents under heavy impact",
@@ -208,7 +208,7 @@ export const products: SolidWoodStandingDesk[] = [
     imageUrl: `${BASE}/07-modern_standing_desk_workspace_with_plants.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DYSH7M7H?tag=theofficejournal-20",
     whyItWorks:
-      "The EUREKA ERGONOMIC 61\" L-shape is a full electric L-shaped standing desk with a confirmed solid wood tabletop - the main surface is genuine hardwood, not laminate. As a full electric standing desk, both legs of the L rise together, giving true sit-stand capability across the entire L surface. For users who genuinely use both legs of the L and alternate between sitting and standing, this is the only option on this list that covers both requirements.",
+      "The EUREKA ERGONOMIC 61\" L-shape is a full electric L-shaped standing desk with a confirmed solid wood tabletop - the main surface is genuine hardwood, not laminate. As a full electric standing desk, both legs of the L rise together, giving true sit-stand capability across the entire L surface. For users who use both legs of the L and alternate between sitting and standing, this is the only option on this list that covers both requirements.",
     tradeoffs: [
       "Premium price for full electric L-shaped",
       "L-shaped footprint requires significant floor clearance on two walls",
@@ -363,7 +363,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "Which solid wood is best for a standing desk top?",
-    a: "Acacia (1,750 lbf) for maximum hardness and visual drama. Hard maple (1,450 lbf) for a clean professional appearance. Rubberwood/parawood (980 lbf) for the best balance of durability and price. Walnut (1,010 lbf) for premium aesthetics. Bamboo (1,300-1,800 lbf) for sustainability and hardness at a mid-range price.",
+    a: "Acacia (1,750 lbf) for maximum hardness and visual drama. Hard maple (1,450 lbf) for a clean professional appearance. Rubberwood/parawood (980 lbf) for the best balance of durability and price. Walnut (1,010 lbf) for premium aesthetics. Bamboo (1,300-1,800 lbf) for sustainability and hardness.",
   },
   {
     q: "How long should I stand at my standing desk each day?",

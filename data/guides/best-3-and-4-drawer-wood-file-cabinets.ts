@@ -40,7 +40,7 @@ export const products: MultiDrawerCabinet[] = [
     imageUrl: `${BASE}/devaise-3-drawer-mobile-rustic-brown.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0989HLF81?tag=theofficejournal-20",
     whyItWorks:
-      "The DEVAISE is the most trusted pick in this roundup by a significant margin. With more than 2,800 reviews at 4.1 stars, it has the most validated real-world usage data of any multi-drawer wood-look file cabinet in this format. This is a 3-drawer mobile unit, not a traditional vertical filing cabinet. It sits at desk height on wheels and includes open shelves in addition to the file drawers. The top surface is explicitly positioned as a printer stand. The rustic brown finish with black metal accents follows the farmhouse-industrial style common in the wood-and-metal home office category. Under $100 is excellent value for this feature set.",
+      "The DEVAISE is the most trusted pick in this roundup by a significant margin. 1 stars, it has the most validated real-world usage data of any multi-drawer wood-look file cabinet in this format. This is a 3-drawer mobile unit, not a traditional vertical filing cabinet. It sits at desk height on wheels and includes open shelves in addition to the file drawers. The top surface is explicitly positioned as a printer stand. The rustic brown finish with black metal accents follows the farmhouse-industrial style common in the wood-and-metal home office category. Under $100 is excellent value for this feature set.",
     tradeoffs: [
       "Mobile format may feel less substantial than a stationary unit",
       "Rustic brown plus black is a specific aesthetic that does not suit all home offices",
@@ -104,14 +104,14 @@ export const products: MultiDrawerCabinet[] = [
     imageUrl: `${BASE}/sauder-clifford-place-4-drawer-grand-walnut.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07C659WC3?tag=theofficejournal-20",
     whyItWorks:
-      "The Sauder Clifford Place is the only clearly verified 4-drawer vertical cabinet in this roundup with a meaningful review count. At 465 reviews and 4.0 stars, it is the strongest traditional 4-drawer pick available from a recognized brand in the wood-look file cabinet space. The Grand Walnut finish is a dark, warm brown that reads as traditional home office furniture. It suits traditional home offices with dark wood desks, bookshelves, and classic furniture. A 4-drawer vertical cabinet at 50-plus inches provides significant filing capacity for growing document collections.",
+      "The Sauder Clifford Place is the only clearly verified 4-drawer vertical cabinet in this roundup with a meaningful review count. 0 stars, it is the strongest traditional 4-drawer pick available from a recognized brand in the wood-look file cabinet space. The Grand Walnut finish is a dark, warm brown that reads as traditional home office furniture. It suits traditional home offices with dark wood desks, bookshelves, and classic furniture. A 4-drawer vertical cabinet at 50-plus inches provides significant filing capacity for growing document collections.",
     tradeoffs: [
       "$303.99 is a premium price for engineered wood",
       "At 50-plus inches tall, requires planning around room height and shelf clearance",
       "Heavy when fully loaded - not easy to relocate once positioned",
     ],
     skipIf:
-      "Skip if you have limited floor-to-ceiling clearance or want a mobile solution. The DEVAISE (Pick 1) is far more flexible. Skip if you are budget-conscious - $303.99 for engineered wood is a significant spend.",
+      "Skip if you have limited floor-to-ceiling clearance or want a mobile solution. The DEVAISE (Pick 1) is far more flexible. 99 for engineered wood is a significant spend.",
     pros: [
       "Highest review count among 4-drawer vertical picks (465 reviews)",
       "Sauder is a trusted brand with consistent product quality",
@@ -139,12 +139,12 @@ export const backupProducts: MultiDrawerCabinet[] = [
     imageUrl: `${BASE}/modernmate-4-drawer-walnut-power-strip.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0F29HRN9M?tag=theofficejournal-20",
     whyItWorks:
-      "The ModernMate is included as a backup pick for one specific feature: a built-in power strip integrated into the cabinet. This is the only 4-drawer wood-look cabinet in this list with that capability. However, 32 reviews is insufficient for confident recommendation as a primary pick. Verify current listing for power strip configuration before purchasing.",
+      "The ModernMate is included as a backup pick for one specific feature: a built-in power strip integrated into the cabinet. This is the only 4-drawer wood-look cabinet in this list with that capability. Verify current listing for power strip configuration before purchasing.",
     tradeoffs: [
       "32 reviews is not enough data for confident recommendation",
       "Low-review products can have volatile ratings",
     ],
-    skipIf: "Skip for most buyers. Only consider if you specifically need the power strip integration.",
+    skipIf: "Only consider if you specifically need the power strip integration.",
     pros: ["Built-in power strip is unique in this category", "Mid-century walnut finish is design-forward"],
     cons: ["32 reviews is insufficient for a primary recommendation", "Rating may shift as more buyers review"],
   },
@@ -160,12 +160,12 @@ export const backupProducts: MultiDrawerCabinet[] = [
     imageUrl: `${BASE}/tribesigns-4-drawer-dark-walnut.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0G23FCHMG?tag=theofficejournal-20",
     whyItWorks:
-      "Eight reviews is not enough data to recommend this product with confidence. It is included as a backup option for buyers who specifically want a 4-drawer dark walnut vertical cabinet at $219.99 and are comfortable with very limited review validation.",
+      "Eight reviews is not enough data to recommend this product with confidence. 99 and are comfortable with very limited review validation.",
     tradeoffs: [
       "8 reviews is far too low for confident recommendation",
       "Rating not validated at any meaningful scale",
     ],
-    skipIf: "Skip for most buyers. The Sauder Clifford Place (Pick 3) is far better validated.",
+    skipIf: "The Sauder Clifford Place (Pick 3) is far better validated.",
     pros: ["Dark walnut finish is a classic home office look", "4-drawer capacity"],
     cons: ["8 reviews is not enough data for any recommendation", "No meaningful buyer validation"],
   },
@@ -194,15 +194,15 @@ export const atAGlanceRows: AtAGlanceRow[] = products.map((p) => ({
 export const faq: { q: string; a: string }[] = [
   {
     q: "Is a 3-drawer mobile cabinet the same as a 3-drawer filing cabinet?",
-    a: "No. A 3-drawer mobile file cabinet (like the DEVAISE) sits low, moves on wheels, and typically combines file drawers with open shelves. A traditional 3-drawer filing cabinet is taller, stationary, and designed purely for hanging files. Both store documents, but they serve different workflows.",
+    a: "A 3-drawer mobile file cabinet (like the DEVAISE) sits low, moves on wheels, and typically combines file drawers with open shelves. A traditional 3-drawer filing cabinet is taller, stationary, and designed purely for hanging files. Both store documents, but they serve different workflows.",
   },
   {
     q: "What is the best 3-drawer wood file cabinet?",
-    a: "The DEVAISE 3-Drawer Mobile in Rustic Brown is the strongest pick by a wide margin: 2,800 plus reviews at 4.1 stars at $94.99. It includes rolling casters, open shelves, and a printer stand top. For a farmhouse honey-brown finish, the VASAGLE 3-Drawer is a good alternative, but verify the current drawer count and pricing on the listing.",
+    a: "It includes rolling casters, open shelves, and a printer stand top. For a farmhouse honey-brown finish, the VASAGLE 3-Drawer is a good alternative, but verify the current drawer count and pricing on the listing.",
   },
   {
     q: "Can a 4-drawer vertical cabinet hold legal size files?",
-    a: "Some can, but not all. Legal size files (8.5 by 14 inches) require a wider drawer than letter size. Check the specific listing for letter-and-legal compatibility before ordering.",
+    a: "Some can, but not all. 5 by 14 inches) require a wider drawer than letter size. Check the specific listing for letter-and-legal compatibility before ordering.",
   },
   {
     q: "How heavy is a fully loaded 4-drawer file cabinet?",

@@ -2,10 +2,10 @@ const BASE = "/images/guides/best-wood-executive-desk";
 
 export const guideSlug = "best-wood-executive-desk";
 export const guideTitle =
-  "Best Wood Executive Desks in 2026: Solid Wood, Veneer, and Engineered Wood Picks";
-export const metaTitle = "Best Wood Executive Desks in 2026";
+  "The Best Wood Executive Desks in 2026: Solid Wood, Veneer, and Engineered Wood Picks: Picks and Trade-offs";
+export const metaTitle = "Best Wood Executive Desks in 2026: Solid Wood, Veneer, and Engineered Wood Picks (2026)";
 export const metaDescription =
-  "Best wood executive desk picks in 2026 - honest material breakdown across solid wood, veneer, and engineered wood. Sauder vs Bush Business comparison.";
+  "A practical comparison of 10 wood executive desks in 2026: solid wood, veneer, and engineered wood picks, focused on size, height range, stability and features, and the trade-offs between them.";
 export const lastUpdated = "2026-06-29";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/01-best-wood-executive-desks.webp`;
@@ -70,7 +70,7 @@ export const products: ExecutiveDesk[] = [
     imageUrl: `${BASE}/03-modern_farmhouse_home_office_retreat.webp`,
     amazonUrl: "https://www.amazon.com/dp/B00AJE8RWA?tag=theofficejournal-20",
     whyItWorks:
-      "The L-shaped Palladia gives the maximum desk surface in this collection: a primary surface plus a full return leg for secondary monitor, reference materials, or a printer. For WFH users who genuinely work across two separate surface areas - dual monitor plus large reference space, or work computer plus personal setup - the L-shaped configuration is the most practical executive desk layout. The Palladia construction quality carries across the L-shaped configuration.",
+      "The L-shaped Palladia gives the maximum desk surface in this collection: a primary surface plus a full return leg for secondary monitor, reference materials, or a printer. For WFH users who work across two separate surface areas - dual monitor plus large reference space, or work computer plus personal setup - the L-shaped configuration is the most practical executive desk layout. The Palladia construction quality carries across the L-shaped configuration.",
     tradeoffs: [
       "L-shaped requires significant room clearance - measure before ordering",
       "Assembly time substantial for L-configuration",
@@ -248,7 +248,7 @@ export const products: ExecutiveDesk[] = [
     imageUrl: `${BASE}/09-elegant_cozy_home_office_showroom.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0D28H9XQP?tag=theofficejournal-20",
     whyItWorks:
-      "The QZYJKJ is one of only two genuinely solid wood options on this list. At 55 inches wide, it sits at the lower end of executive desk widths but provides real hardwood construction throughout - not engineered wood with a wood-look finish. For buyers who specifically want solid wood rather than engineered alternatives, this is the budget-accessible entry point into genuine hardwood construction at an executive desk size.",
+      "The QZYJKJ is one of only two solid wood options on this list. At 55 inches wide, it sits at the lower end of executive desk widths but provides real hardwood construction throughout - not engineered wood with a wood-look finish. For buyers who specifically want solid wood rather than engineered alternatives, this is the budget-accessible entry point into genuine hardwood construction at an executive desk size.",
     tradeoffs: [
       "Smaller brand - fewer reviews than Sauder or Bush",
       "55\" is narrower than traditional executive desk proportions",
@@ -321,11 +321,11 @@ export const atAGlanceRows: AtAGlanceRow[] = products.map((p) => ({
 export const faq: { q: string; a: string }[] = [
   {
     q: "Are Sauder executive desks real wood?",
-    a: "No. Sauder executive desks are engineered wood (particle board or MDF) with a laminate or melamine surface finish. They look like wood but are not solid hardwood. Sauder has manufactured engineered wood furniture since 1951 and their quality within the engineered wood category is consistent. The Palladia line is their best residential product tier.",
+    a: "Sauder executive desks are engineered wood (particle board or MDF) with a laminate or melamine surface finish. They look like wood but are not solid hardwood. Sauder has manufactured engineered wood furniture since 1951 and their quality within the engineered wood category is consistent. The Palladia line is their best residential product tier.",
   },
   {
     q: "Is Bush Business Furniture better than Sauder?",
-    a: "For long-term WFH use: yes. Bush Business Furniture uses higher-density substrate, commercial laminate, better drawer hardware, and a 10-year warranty - designed for commercial environments where desks are used 40+ hours per week. The trade-off is price. For casual home office use, Sauder's Palladia offers better value per dollar.",
+    a: "For long-term WFH use: yes. Bush Business Furniture uses higher-density substrate, commercial laminate, better drawer hardware, and a 10-year warranty - designed for commercial environments where desks are used 40+ hours per week. For casual home office use, Sauder's Palladia offers better value per dollar.",
   },
   {
     q: "What is the difference between Bush Home and Bush Business Furniture?",

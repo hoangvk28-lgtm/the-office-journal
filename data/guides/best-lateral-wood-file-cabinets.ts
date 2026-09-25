@@ -1,10 +1,10 @@
 const BASE = "/images/guides/best-lateral-wood-file-cabinets";
 
 export const guideSlug = "best-lateral-wood-file-cabinets";
-export const guideTitle = "Best Lateral Wood File Cabinets for Home Office (2026)";
+export const guideTitle = "The Best Lateral Wood File Cabinets for Home Office, Compared";
 export const metaTitle = "Best Lateral Wood File Cabinets for Home Office (2026)";
 export const metaDescription =
-  "Compare the best lateral wood and wood-look file cabinets for home offices. Ranked by reviews, rating, and style fit with honest material notes.";
+  "We compared 8 lateral wood file cabinets for home office on features, build and practical fit to help you choose the right one for your space.";
 export const lastUpdated = "2026-07-02";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/hero.webp`;
@@ -40,7 +40,7 @@ export const products: LateralCabinet[] = [
     imageUrl: `${BASE}/bush-home-key-west-white-oak.webp`,
     amazonUrl: "https://www.amazon.com/dp/B081ZP7MLY?tag=theofficejournal-20",
     whyItWorks:
-      "The Bush Home Key West is the strongest pick in this category by the combination of review volume and rating. More than 4,000 buyers have validated this cabinet at 4.4 stars, which is the most reliable quality signal available in the lateral file cabinet category at this price point. The Pure White Oak finish is an engineered wood cabinet with a white oak-look laminate surface that fits well in light, Scandinavian, modern farmhouse, and minimalist home office setups. Full-extension slides and locking drawers are included. The wide flat top works well as a printer stand or monitor surface.",
+      "The Bush Home Key West is the strongest pick in this category by the combination of review volume and rating. 4 stars, which is the most reliable quality signal available in the lateral file cabinet category at this price point. The Pure White Oak finish is an engineered wood cabinet with a white oak-look laminate surface that fits well in light, Scandinavian, modern farmhouse, and minimalist home office setups. Full-extension slides and locking drawers are included. The wide flat top works well as a printer stand or monitor surface.",
     tradeoffs: [
       "Engineered wood, not solid hardwood",
       "White finish may show marks or scuffs more visibly over time",
@@ -73,7 +73,7 @@ export const products: LateralCabinet[] = [
     imageUrl: `${BASE}/vasagle-lateral-rustic-brown.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0BDF7Q5YC?tag=theofficejournal-20",
     whyItWorks:
-      "The VASAGLE Lateral is the most affordable pick in this roundup with a meaningful review count. At 1,736 reviews and 4.0 stars, it has been validated at scale. The rustic brown wood-look surface and ink black metal frame is a classic farmhouse or industrial-rustic combination that suits warm-toned home offices. Under $120 is the best price-to-style ratio in lateral wood cabinets. VASAGLE is a recognized brand in the wood-and-metal home furniture space, and this cabinet follows their design language consistently.",
+      "The VASAGLE Lateral is the most affordable pick in this roundup with a meaningful review count. 0 stars, it has been validated at scale. The rustic brown wood-look surface and ink black metal frame is a classic farmhouse or industrial-rustic combination that suits warm-toned home offices. Under $120 is the best price-to-style ratio in lateral wood cabinets. VASAGLE is a recognized brand in the wood-and-metal home furniture space, and this cabinet follows their design language consistently.",
     tradeoffs: [
       "4.0 stars is the lowest rating in this roundup",
       "Engineered wood, not solid wood",
@@ -105,7 +105,7 @@ export const products: LateralCabinet[] = [
     imageUrl: `${BASE}/sauder-edge-water-chalked-chestnut.webp`,
     amazonUrl: "https://www.amazon.com/dp/B013GTMOB4?tag=theofficejournal-20",
     whyItWorks:
-      "The Sauder Edge Water in Chalked Chestnut occupies the warm mid-range of this roundup. Chalked Chestnut is a muted, dusty warm brown with a slightly chalky matte finish closer to a vintage or farmhouse feel than crisp white oak or dark walnut tones. This finish pairs well with whitewashed wood, natural pine, or light brown wood desks. With 979 reviews at 4.3 stars, it has strong validation from a trusted brand. Locking drawers and letter-plus-legal file compatibility are included at this price.",
+      "The Sauder Edge Water in Chalked Chestnut occupies the warm mid-range of this roundup. Chalked Chestnut is a muted, dusty warm brown with a slightly chalky matte finish closer to a vintage or farmhouse feel than crisp white oak or dark walnut tones. This finish pairs well with whitewashed wood, natural pine, or light brown wood desks. 3 stars, it has strong validation from a trusted brand. Locking drawers and letter-plus-legal file compatibility are included at this price.",
     tradeoffs: [
       "Engineered wood at a mid-range price point",
       "$206.35 is higher than the top two picks for a smaller review count",
@@ -137,14 +137,14 @@ export const products: LateralCabinet[] = [
     imageUrl: `${BASE}/halitaa-2-drawer-charging-dark-walnut.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0D95XMLWJ?tag=theofficejournal-20",
     whyItWorks:
-      "The Halitaa is the only pick in this roundup with an integrated charging station. A built-in USB hub or power outlet on a file cabinet that doubles as a desk-side surface is a genuinely useful feature for home offices where power access near the workspace is limited. At 4.5 stars - the highest rating in this roundup - and 248 reviews, it has solid early validation. The dark walnut finish works with contemporary, mid-century, and modern home office setups. Locking drawers are included.",
+      "The Halitaa is the only pick in this roundup with an integrated charging station. A built-in USB hub or power outlet on a file cabinet that doubles as a desk-side surface is a useful feature for home offices where power access near the workspace is limited. The dark walnut finish works with contemporary, mid-century, and modern home office setups.",
     tradeoffs: [
       "248 reviews is a smaller sample than the top picks",
       "Charging station technology can become outdated - verify current port types on listing",
       "Material is not solid walnut",
     ],
     skipIf:
-      "Skip if you do not need a charging station near your file cabinet - the Bush Key West (Pick 1) has a stronger review base at a similar price. Skip if you want a warm farmhouse or chestnut finish.",
+      "Skip if you want a warm farmhouse or chestnut finish.",
     pros: [
       "Highest rating in this roundup at 4.5 stars",
       "Integrated charging station is a practical feature for desk-adjacent placement",
@@ -169,7 +169,7 @@ export const products: LateralCabinet[] = [
     imageUrl: `${BASE}/realspace-magellan-espresso.webp`,
     amazonUrl: "https://www.amazon.com/dp/B00F63RK2W?tag=theofficejournal-20",
     whyItWorks:
-      "The Realspace Magellan in Espresso fills the dark brown, office-espresso finish segment that the other picks do not cover. Espresso is a classic home office tone that pairs with most dark wood desk setups, bookshelves, and traditional office furniture. Realspace is a reliable office furniture brand. At 239 reviews and 4.3 stars, the validation is adequate. Verify current pricing on Amazon before ordering.",
+      "The Realspace Magellan in Espresso fills the dark brown, office-espresso finish segment that the other picks do not cover. Espresso is a classic home office tone that pairs with most dark wood desk setups, bookshelves, and traditional office furniture. Realspace is a reliable office furniture brand. 3 stars, the validation is adequate. Verify current pricing on Amazon before ordering.",
     tradeoffs: [
       "Price requires manual verification on Amazon before ordering",
       "239 reviews is a smaller sample than the top picks",
@@ -200,7 +200,7 @@ export const products: LateralCabinet[] = [
     imageUrl: `${BASE}/t4tream-fluted-lateral-natural-oak.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0F8V4GWZW?tag=theofficejournal-20",
     whyItWorks:
-      "The T4TREAM stands out visually. Fluted cabinet fronts are a mid-century modern and contemporary design detail that distinguishes this cabinet from the flat-front alternatives in this list. The natural oak finish keeps it light and warm. The large tabletop callout in the listing positions this explicitly for printer or monitor placement. At 136 reviews and 4.5 stars (tied for highest in the roundup), the rating is strong but the sample size is small. Treat this as a solid pick for buyers who prioritize the fluted aesthetic.",
+      "The T4TREAM stands out visually. Fluted cabinet fronts are a mid-century modern and contemporary design detail that distinguishes this cabinet from the flat-front alternatives in this list. The natural oak finish keeps it light and warm. The large tabletop callout in the listing positions this explicitly for printer or monitor placement. 5 stars (tied for highest in the roundup), the rating is strong but the sample size is small. Treat this as a solid pick for buyers who prioritize the fluted aesthetic.",
     tradeoffs: [
       "136 reviews is a low sample size - rating may shift with more volume",
       "$219.99 is on the higher end for this review count",
@@ -280,7 +280,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "What is the best lateral wood file cabinet overall?",
-    a: "The Bush Home Key West in Pure White Oak is the best overall pick by trust signal: 4,283 reviews at 4.4 stars at $130.68. If you need integrated charging, the Halitaa at $139.99 with 4.5 stars is excellent for a desk-adjacent setup. For a design-forward mid-century look, the T4TREAM Fluted Oak stands apart visually.",
+    a: "5 stars is excellent for a desk-adjacent setup. For a design-forward mid-century look, the T4TREAM Fluted Oak stands apart visually.",
   },
   {
     q: "Can a lateral file cabinet hold a printer on top?",
@@ -292,7 +292,7 @@ export const faq: { q: string; a: string }[] = [
   },
   {
     q: "What is the difference between letter and legal file compatibility?",
-    a: "Letter size paper is 8.5 by 11 inches. Legal size paper is 8.5 by 14 inches. Most lateral cabinets in this list accommodate letter size files by default. If you regularly work with legal documents or contracts, verify the specific listing for letter-and-legal compatibility before ordering.",
+    a: "Most lateral cabinets in this list accommodate letter size files by default. If you regularly work with legal documents or contracts, verify the specific listing for letter-and-legal compatibility before ordering.",
   },
   {
     q: "How much wall space does a lateral file cabinet need?",

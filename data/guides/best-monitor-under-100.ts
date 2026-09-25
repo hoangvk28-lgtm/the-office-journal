@@ -2,10 +2,10 @@ const BASE = "/guides/best-monitor-under-100";
 
 export const guideSlug = "best-monitor-under-100";
 export const guideTitle =
-  "7 Best Monitors Under $100 in 2026: IPS, Curved and 1440p Picks";
-export const metaTitle = "7 Best Monitors Under $100 in 2026";
+  "The Best Monitors Under $100 in 2026: IPS, Curved and 1440p Picks: Picks and Trade-offs";
+export const metaTitle = "Best Monitors Under $100 in 2026: IPS, Curved and 1440p Picks (2026)";
 export const metaDescription =
-  "7 monitors under $100 in 2026: IPS, VA curved, 1440p, and 180Hz picks. Philips, LG, Sceptre, Sansui, KTC, AOC compared for desk, dorm and gaming.";
+  "A practical comparison of 8 monitors under $100 in 2026: IPS, curved and 1440p picks, focused on features, build and practical fit, and the trade-offs between them.";
 export const lastUpdated = "2026-06-18";
 export const readTime = "12 min";
 export const heroImage = `${BASE}/best-monitor-under-100-hero.webp`;
@@ -47,7 +47,7 @@ export const products: BudgetMonitor[] = [
     imageUrl: `${BASE}/philips-221v8lb-budget-monitor.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CVM2GJCN?tag=theofficejournal-20",
     whyItWorks:
-      "Lowest price in the guide at $70 with a 4-year advance replacement warranty; Philips ships a replacement before you return the defective unit, eliminating the broken screen during finals scenario; IPS panel with 99% sRGB delivers accurate colors for content and classes; 100Hz at $70 is strong value; smallest footprint at 21.5 inches saves real space on a tight desk; LowBlue Mode and flicker-free backlight for multi-hour study sessions; FreeSync compatible.",
+      "5 inches saves real space on a tight desk; LowBlue Mode and flicker-free backlight for multi-hour study sessions; FreeSync compatible.",
     tradeoffs: [
       "250 nits adequate indoors, not for bright sunlit rooms",
       "Tilt-only stand with no height or swivel adjustment",
@@ -85,7 +85,7 @@ export const products: BudgetMonitor[] = [
     imageUrl: `${BASE}/lg-24mr400-b-budget-monitor.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CQ9P5TN2?tag=theofficejournal-20",
     whyItWorks:
-      "LG IPS panels are the benchmark for color accuracy at every price tier; the 24MR400-B delivers 99% sRGB at under $100, matching what photo editors use for color-accurate work; AMD FreeSync eliminates screen tearing during gaming and works with Intel integrated graphics; Reader Mode shifts color temperature for extended reading sessions; OnScreen Control software lets you adjust brightness and Picture Mode from the desktop without navigating OSD buttons; dual input with HDMI plus D-Sub.",
+      "LG IPS panels are the benchmark for color accuracy at every price tier; the 24MR400-B delivers 99% SRGB at under $100, matching what photo editors use for color-accurate work; AMD FreeSync eliminates screen tearing during gaming and works with Intel integrated graphics; Reader Mode shifts color temperature for extended reading sessions; OnScreen Control software lets you adjust brightness and Picture Mode from the desktop without navigating OSD buttons; dual input with HDMI plus D-Sub.",
     tradeoffs: [
       "250 nits same brightness limitation as Philips",
       "Tilt-only stand",
@@ -93,7 +93,7 @@ export const products: BudgetMonitor[] = [
       "Slightly higher price than alternatives",
     ],
     skipIf:
-      "Budget is firmly $70. The Philips 221V8LB delivers the same panel quality and 100Hz with a 4-year warranty at $70.",
+      "The Philips 221V8LB delivers the same panel quality and 100Hz with a 4-year warranty at $70.",
     pros: [
       "LG brand proven IPS panel quality",
       "99% sRGB accurate color",
@@ -124,7 +124,7 @@ export const products: BudgetMonitor[] = [
     imageUrl: `${BASE}/sceptre-c248w-1920rn-budget-monitor.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07KXSR99Y?tag=theofficejournal-20",
     whyItWorks:
-      "VA panel delivers 3000:1 contrast ratio vs IPS's 1000:1; at three times the contrast blacks are genuinely deep, white backgrounds are bright, and the difference is immediately visible on dark content and movies; 1500R curvature wraps the screen around peripheral vision for single-monitor gaming and video watching; 300 nits is the highest brightness in the guide; two HDMI ports allow connecting two sources without swapping cables; built-in 2x2W speakers handle casual audio without a separate purchase.",
+      "VA panel delivers 3000:1 contrast ratio vs IPS's 1000:1; at three times the contrast blacks are deep, white backgrounds are bright, and the difference is immediately visible on dark content and movies; 1500R curvature wraps the screen around peripheral vision for single-monitor gaming and video watching; 300 nits is the highest brightness in the guide; two HDMI ports allow connecting two sources without swapping cables; built-in 2x2W speakers handle casual audio without a separate purchase.",
     tradeoffs: [
       "75Hz only, lower than IPS competitors at similar price",
       "VA response time slower than IPS, visible ghosting in fast games",
@@ -163,7 +163,7 @@ export const products: BudgetMonitor[] = [
     imageUrl: `${BASE}/sansui-es-g24f4-budget-monitor.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CGD9R7PT?tag=theofficejournal-20",
     whyItWorks:
-      "180Hz is the fastest refresh rate in the guide at any price; 80% faster than the 100Hz alternatives; 1ms GtG response eliminates ghosting in fast sequences; 110% sRGB exceeds the standard 100% spec for vivid saturated images; 300 nits brightness for rooms with significant ambient light; DisplayPort 1.4 supports the full 180Hz signal (some HDMI connections cap at 144Hz, always use DisplayPort for max refresh); HDMI cable included in box; for competitive gaming this spec sheet was $150 to $200 a year ago.",
+      "4 supports the full 180Hz signal (some HDMI connections cap at 144Hz, always use DisplayPort for max refresh); HDMI cable included in box; for competitive gaming this spec sheet was $150 to $200 a year ago.",
     tradeoffs: [
       "VESA 75x75mm not standard 100x100mm, some monitor arms require adapter",
       "180Hz has little benefit for study and productivity use",
@@ -200,7 +200,7 @@ export const products: BudgetMonitor[] = [
     imageUrl: `${BASE}/ktc-h24t27-budget-monitor.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0D4P8XBD3?tag=theofficejournal-20",
     whyItWorks:
-      "1440p (2560x1440) at 24 inches produces 123 PPI vs 1080p's 92 PPI; the difference is immediately visible in text sharpness for PDFs, code editors, spreadsheets, and browser text; getting 1440p under $100 was not possible until recently; 122% sRGB and 93% DCI-P3 exceed standard color specs; HDR10 support; FreeSync and G-Sync compatible covering both AMD and NVIDIA; three-sided zero-frame borderless design; HDMI 2.0 plus DisplayPort 1.4; verify the current price is at or below $100 before purchasing as it fluctuates.",
+      "4; verify the current price is at or below $100 before purchasing as it fluctuates.",
     tradeoffs: [
       "Price fluctuates, verify at or under $100 before buying",
       "Requires GPU capable of 1440p output (check your laptop or desktop)",
@@ -278,7 +278,7 @@ export const products: BudgetMonitor[] = [
     imageUrl: `${BASE}/sceptre-e248w-19203r-budget-monitor.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0773ZY26F?tag=theofficejournal-20",
     whyItWorks:
-      "Built-in 2x2W speakers eliminate the need for a separate speaker purchase in a dorm room where desk space is limited; most monitors under $100 either have no speakers or speakers too underpowered to be useful; the E248W speakers are functional for YouTube, online classes, and casual listening; two HDMI ports allow connecting laptop and gaming console simultaneously without a KVM switch; 99% sRGB on IPS; clean flat design with matte anti-glare finish.",
+      "Built-in 2x2W speakers eliminate the need for a separate speaker purchase in a dorm room where desk space is limited; most monitors under $100 either have no speakers or speakers too underpowered to be useful; the E248W speakers are functional for YouTube, online classes, and casual listening; two HDMI ports allow connecting laptop and gaming console simultaneously without a KVM switch; 99% SRGB on IPS; clean flat design with matte anti-glare finish.",
     tradeoffs: [
       "75Hz, lower than IPS competitors at similar price",
       "VESA 75x75mm (not 100x100mm), check monitor arm compatibility",
@@ -317,11 +317,11 @@ export const atAGlanceRows = products.map((p) => ({
 export const faq = [
   {
     q: "Is a monitor under $100 worth buying in 2026?",
-    a: "Yes. IPS panels, 100 to 180Hz refresh rates, and even 1440p resolution are all available under $100 in 2026. The days of needing $150 or more for a good IPS monitor are over. The main limitations are USB-C input (starts at $120 to $150), height-adjustable stands (add a monitor arm for $25 to $30), and meaningful HDR brightness.",
+    a: "IPS panels, 100 to 180Hz refresh rates, and even 1440p resolution are all available under $100 in 2026. The days of needing $150 or more for a good IPS monitor are over. The main limitations are USB-C input (starts at $120 to $150), height-adjustable stands (add a monitor arm for $25 to $30), and meaningful HDR brightness.",
   },
   {
     q: "IPS vs VA: which is better for studying?",
-    a: "IPS for studying. Accurate colors reduce eye strain during long sessions with documents and PDFs, and 178-degree viewing angles mean no color shift when you lean or tilt. VA is better specifically for movies and gaming with dark scenes due to higher contrast (3000:1 vs 1000:1).",
+    a: "Accurate colors reduce eye strain during long sessions with documents and PDFs, and 178-degree viewing angles mean no color shift when you lean or tilt. VA is better specifically for movies and gaming with dark scenes due to higher contrast (3000:1 vs 1000:1).",
   },
   {
     q: "Is 1440p worth it under $100?",
@@ -333,7 +333,7 @@ export const faq = [
   },
   {
     q: "What size monitor is best for a dorm desk?",
-    a: "24 inches is the standard for a typical 60 to 80cm dorm desk. It is large enough for two windows side-by-side and small enough to fit without dominating the surface. If your desk is unusually small (under 60cm wide or under 50cm deep), the Philips 221V8LB at 21.5 inches saves meaningful space.",
+    a: "24 inches is the standard for a typical 60 to 80cm dorm desk. It is large enough for two windows side-by-side and small enough to fit without dominating the surface. 5 inches saves meaningful space.",
   },
   {
     q: "What monitor accessories do I actually need?",

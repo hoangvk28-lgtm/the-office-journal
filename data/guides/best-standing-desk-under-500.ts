@@ -2,10 +2,10 @@ const BASE = "/guides/best-standing-desk-under-500";
 
 export const guideSlug = "best-standing-desk-under-500";
 export const guideTitle =
-  "5 Best Standing Desks Under $500 in 2026: Dual Motor, L-Shaped, and Premium Picks";
-export const metaTitle = "5 Best Standing Desks Under $500 in 2026";
+  "The Best Standing Desks Under $500 in 2026: Dual Motor, L-Shaped, and Premium Picks: Picks and Trade-offs";
+export const metaTitle = "Best Standing Desks Under $500 in 2026: Dual Motor, L-Shaped, and Premium Picks (2026)";
 export const metaDescription =
-  "Best standing desks under $500: FlexiSpot EC3 dual motor, Vari Classic 60x30, Fezibo L-shape, Vari ComfortEdge ergonomic edge. 5 premium picks.";
+  "A practical comparison of 6 standing desks under $500 in 2026: dual motor, L-shaped, and premium picks, focused on features, comfort and practical fit, and the trade-offs between them.";
 export const lastUpdated = "2026-06-20";
 export const readTime = "12 min";
 export const heroImage = `${BASE}/standing-desk-best-standing-desk-under-500-hero.webp`;
@@ -50,14 +50,14 @@ export const products: StandingDesk500[] = [
     imageUrl: `${BASE}/standing-desk-best-standing-desk-under-500-flexispot-ec3-55x28-dual-motor-white.webp`,
     amazonUrl: "https://www.amazon.com/dp/B088R9GYJK?tag=theofficejournal-20",
     whyItWorks:
-      "275 lb dual-motor capacity handles any home office configuration. 55x28\" seamless one-piece top provides large uninterrupted work surface. USB-A charging port built into memory keypad. 3-stage columns reach 48.4\" for users up to 6'2\". Under 45dB. 5-year FlexiSpot warranty covering frame and motors.",
+      "275 lb dual-motor capacity handles any home office configuration. 55x28\" seamless one-piece top provides large uninterrupted work surface. USB-A charging port built into memory keypad. 4\" for users up to 6'2\". 5-year FlexiSpot warranty covering frame and motors.",
     tradeoffs: [
       "28.9\" minimum height - not ideal for users under 5'2\"",
       "White/white colorway only in most listings",
       "Larger footprint than 48x24 alternatives",
     ],
     skipIf:
-      "You are under 5'2\" (minimum 28.9\" may be too high for seated ergonomics) or your room is under 60\" wide.",
+      "9\" may be too high for seated ergonomics) or your room is under 60\" wide.",
     pros: [
       "275 lb dual-motor - handles any home office setup",
       "55x28\" seamless one-piece top - no center seam",
@@ -84,11 +84,11 @@ export const products: StandingDesk500[] = [
     presets: "4",
     warranty: "5 years",
     standoutFeature:
-      "60\" wide surface, 50.5\" max height for 6'4\", 25.5\" min height for 4'11\", commercial T-frame",
+      "5\" min height for 4'11\", commercial T-frame",
     imageUrl: `${BASE}/standing-desk-best-standing-desk-under-500-vari-classic-electric-60x30-black.webp`,
     amazonUrl: "https://www.amazon.com/dp/B089CHQCTM?tag=theofficejournal-20",
     whyItWorks:
-      "Widest surface in this guide at 60x30 inches - accommodates ultrawide or true dual-monitor setups. 50.5\" max height (highest in this guide) and 25.5\" min height (lowest) suit users from 4'11\" to 6'4\". Commercial T-style frame. Tool-free assembly in 30 minutes. 5-year Vari warranty.",
+      "Widest surface in this guide at 60x30 inches - accommodates ultrawide or true dual-monitor setups. 5\" min height (lowest) suit users from 4'11\" to 6'4\". Tool-free assembly in 30 minutes.",
     tradeoffs: [
       "220 lb capacity - lower than EC3 despite higher price",
       "Black colorway only in this listing",
@@ -134,7 +134,7 @@ export const products: StandingDesk500[] = [
       "Assembly typically 90-120 minutes",
     ],
     skipIf:
-      "You are 6'0\" or taller. The 47.2\" max height does not reach ergonomic standing position for taller users.",
+      "You are 6'0\" or taller. 2\" max height does not reach ergonomic standing position for taller users.",
     pros: [
       "Only L-shaped desk under $500 in this guide",
       "Triple motor - most structural stability here",
@@ -166,7 +166,7 @@ export const products: StandingDesk500[] = [
     imageUrl: `${BASE}/standing-desk-best-standing-desk-under-500-vari-comfortedge-48x30-black.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0CT8XYKCL?tag=theofficejournal-20",
     whyItWorks:
-      "Sloped waterfall front edge reduces wrist and forearm pressure when resting arms on the desk during long typing sessions. 25\"-50.5\" height range matches the Vari Classic in a more compact 48x30\" footprint. Most affordable Vari option at $399 with the same T-frame and 5-year warranty.",
+      "Sloped waterfall front edge reduces wrist and forearm pressure when resting arms on the desk during long typing sessions. 5\" height range matches the Vari Classic in a more compact 48x30\" footprint. Most affordable Vari option at $399 with the same T-frame and 5-year warranty.",
     tradeoffs: [
       "220 lb capacity - same as Classic, lower than EC3",
       "48\" width - not sufficient for ultrawide or true dual monitors",
@@ -204,7 +204,7 @@ export const products: StandingDesk500[] = [
     imageUrl: `${BASE}/standing-desk-best-standing-desk-under-500-flexispot-e3q-pro-4-leg-rubberwood.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0H5K2JP2L?tag=theofficejournal-20",
     whyItWorks:
-      "Only desk in this guide with a solid rubberwood top - real hardwood that improves with age rather than showing laminate wear. Four-leg square frame eliminates directional sway at standing height (resists both front-back and left-right movement). Built-in power outlets and USB charging in the desktop surface. Integrated cable management tray.",
+      "Only desk in this guide with a solid rubberwood top - real hardwood that improves with age rather than showing laminate wear. Four-leg square frame eliminates directional sway at standing height (resists both front-back and left-right movement). Built-in power outlets and USB charging in the desktop surface.",
     tradeoffs: [
       "46.9\" max height - lowest in this guide, restrictive for users 6'0\"+",
       "27.2\" min height - not ideal for users under 5'3\"",
@@ -212,7 +212,7 @@ export const products: StandingDesk500[] = [
       "$499 - highest price",
     ],
     skipIf:
-      "You are 6'0\" or taller. The 46.9\" max height does not clear ergonomic standing position for tall users.",
+      "You are 6'0\" or taller. 9\" max height does not clear ergonomic standing position for tall users.",
     pros: [
       "Only solid rubberwood top here - real hardwood",
       "4-leg frame - maximum stability, no directional sway",

@@ -1,10 +1,10 @@
 const BASE = "/images/guides/best-vintage-wood-file-cabinets";
 
 export const guideSlug = "best-vintage-wood-file-cabinets";
-export const guideTitle = "Best Vintage Wood File Cabinets for Home Office (2026)";
+export const guideTitle = "The Best Vintage Wood File Cabinets for Home Office, Compared";
 export const metaTitle = "Best Vintage Wood File Cabinets for Home Office (2026)";
 export const metaDescription =
-  "Find the best vintage-style, rustic, and antique-inspired wood file cabinets for your home office. Honest picks ranked by reviews, rating, and style fit.";
+  "We compared 8 vintage wood file cabinets for home office on features, build and practical fit to help you choose the right one for your space.";
 export const lastUpdated = "2026-07-02";
 export const readTime = "9 min";
 export const heroImage = `${BASE}/hero.webp`;
@@ -40,7 +40,7 @@ export const products: VintageCabinet[] = [
     imageUrl: `${BASE}/sauder-palladia-vintage-oak.webp`,
     amazonUrl: "https://www.amazon.com/dp/B01MR4Q0WA?tag=theofficejournal-20",
     whyItWorks:
-      "The Sauder Palladia is the most-reviewed vintage-style file cabinet in this roundup. The Vintage Oak finish replicates the warm, slightly aged look of natural oak with visible grain variation and a matte, furniture-like surface. It does not look like a shiny office product - it looks like it belongs beside a wood desk in a home library or study. At 1,741 reviews and 4.0 stars, buyers have validated this product at meaningful scale. Sauder is one of the most established names in home office furniture, and their construction at this price tier is generally reliable. The lateral format provides a wide flat top for printer or decor placement.",
+      "The Vintage Oak finish replicates the warm, slightly aged look of natural oak with visible grain variation and a matte, furniture-like surface. It does not look like a shiny office product - it looks like it belongs beside a wood desk in a home library or study. 0 stars, buyers have validated this product at meaningful scale. Sauder is one of the most established names in home office furniture, and their construction at this price tier is generally reliable. The lateral format provides a wide flat top for printer or decor placement.",
     tradeoffs: [
       "Engineered wood, not solid oak",
       "$289.99 is a significant spend for an engineered wood product",
@@ -72,7 +72,7 @@ export const products: VintageCabinet[] = [
     imageUrl: `${BASE}/vingli-2-drawer-lock-rustic-brown.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0C8JKCZRR?tag=theofficejournal-20",
     whyItWorks:
-      "The VINGLI at $62.99 is the most affordable pick in this roundup with a meaningful review count. It pairs a rustic brown wood-look finish with a black metal frame - a combination that reads as farmhouse or industrial-rustic. The locking drawers add security, which is uncommon at this price point. With 1,333 reviews at 4.1 stars, buyers have put this through real-world use. It is not a premium product, but for a budget rustic cabinet with a lock, it earns its ranking.",
+      "99 is the most affordable pick in this roundup with a meaningful review count. It pairs a rustic brown wood-look finish with a black metal frame - a combination that reads as farmhouse or industrial-rustic. The locking drawers add security, which is uncommon at this price point. 1 stars, buyers have put this through real-world use. It is not a premium product, but for a budget rustic cabinet with a lock, it earns its ranking.",
     tradeoffs: [
       "Budget construction will show more wear over time than premium picks",
       "Wood-look finish rather than real wood",
@@ -104,7 +104,7 @@ export const products: VintageCabinet[] = [
     imageUrl: `${BASE}/vasagle-2-drawer-honey-brown.webp`,
     amazonUrl: "https://www.amazon.com/dp/B09XF4Z5GP?tag=theofficejournal-20",
     whyItWorks:
-      "The VASAGLE combines a honey brown wood-look surface with a black metal frame for a farmhouse aesthetic that pairs well with black-framed desks, industrial-style shelving, and warm-toned home offices. The honey brown finish reads lighter and warmer than rustic brown, making it more versatile for rooms that use light wood tones. With 1,310 reviews at 4.0 stars, it shares similar validation depth with the VINGLI above. VASAGLE is a recognized brand in the home office furniture space.",
+      "The VASAGLE combines a honey brown wood-look surface with a black metal frame for a farmhouse aesthetic that pairs well with black-framed desks, industrial-style shelving, and warm-toned home offices. The honey brown finish reads lighter and warmer than rustic brown, making it more versatile for rooms that use light wood tones. 0 stars, it shares similar validation depth with the VINGLI above. VASAGLE is a recognized brand in the home office furniture space.",
     tradeoffs: [
       "Engineered wood with metal frame, not solid wood",
       "Does not include a lock (verify on current listing before ordering)",
@@ -167,7 +167,7 @@ export const products: VintageCabinet[] = [
     imageUrl: `${BASE}/itaar-classical-walnut-brown.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0DPCHWX2F?tag=theofficejournal-20",
     whyItWorks:
-      "The Itaar Classical American-style cabinet brings a walnut brown finish with decorative hardware that references traditional American furniture design. At 4.4 stars, it holds the highest rating in this roundup, though the 147-review count means this rating could shift with more buyer volume. The Classical American style positions it between full vintage and contemporary. It works in traditional home offices, rustic farmhouse setups, and beside mid-century or dark wood desks.",
+      "The Itaar Classical American-style cabinet brings a walnut brown finish with decorative hardware that references traditional American furniture design. 4 stars, it holds the highest rating in this roundup, though the 147-review count means this rating could shift with more buyer volume. The Classical American style positions it between full vintage and contemporary. It works in traditional home offices, rustic farmhouse setups, and beside mid-century or dark wood desks.",
     tradeoffs: [
       "147 reviews is a modest sample size - rating may shift with more buyers",
       "Classical American styling may not suit all vintage aesthetics",
@@ -201,7 +201,7 @@ export const backupProducts: VintageCabinet[] = [
     imageUrl: `${BASE}/modernmate-4-drawer-mid-century-walnut.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0F29HRN9M?tag=theofficejournal-20",
     whyItWorks:
-      "The ModernMate stands out for one feature none of the other picks offer: a built-in power strip integrated into the cabinet unit. If you need a 4-drawer file cabinet with the ability to charge devices nearby, this is the only pick in this list that addresses that use case. The mid-century walnut finish is clean and modern. However, 32 reviews is too low a sample to recommend this as a primary pick.",
+      "The ModernMate stands out for one feature none of the other picks offer: a built-in power strip integrated into the cabinet unit. If you need a 4-drawer file cabinet with the ability to charge devices nearby, this is the only pick in this list that addresses that use case. The mid-century walnut finish is clean and modern.",
     tradeoffs: [
       "32 reviews is not enough data for confident recommendation",
       "Low-review products can have volatile ratings",
@@ -239,7 +239,7 @@ export const backupProducts: VintageCabinet[] = [
       "Vertical format at 50-plus inches dominates small rooms",
     ],
     skipIf:
-      "Skip for most buyers. Only consider if you specifically need a 4-drawer dark walnut vertical cabinet and cannot find a better-reviewed alternative.",
+      "Only consider if you specifically need a 4-drawer dark walnut vertical cabinet and cannot find a better-reviewed alternative.",
     pros: [
       "4-drawer format provides significant filing capacity",
       "Dark walnut finish is a classic home office look",
@@ -275,11 +275,11 @@ export const atAGlanceRows: AtAGlanceRow[] = products.map((p) => ({
 export const faq: { q: string; a: string }[] = [
   {
     q: "Are these file cabinets actual vintage or antique products?",
-    a: "No. All products in this list are newly manufactured modern furniture designed to look vintage or antique-inspired. They are not genuine antique furniture. The rustic and vintage aesthetics are achieved through surface finishes, not through aged materials.",
+    a: "All products in this list are newly manufactured modern furniture designed to look vintage or antique-inspired. They are not genuine antique furniture. The rustic and vintage aesthetics are achieved through surface finishes, not through aged materials.",
   },
   {
     q: "What is the best vintage-style wood file cabinet overall?",
-    a: "For most buyers, the Sauder Palladia is the strongest vintage-style pick by trust signal: 1,741 reviews at 4.0 stars with a warm, genuinely furniture-like vintage oak finish. If budget is the priority, the VINGLI at $62.99 with locking drawers is the best combination of farmhouse style and security under $70.",
+    a: "0 stars with a warm, furniture-like vintage oak finish. 99 with locking drawers is the best combination of farmhouse style and security under $70.",
   },
   {
     q: "Which vintage file cabinet is best for a farmhouse home office?",

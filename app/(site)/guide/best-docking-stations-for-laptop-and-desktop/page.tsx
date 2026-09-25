@@ -90,7 +90,7 @@ function ProductSection({ product }: { product: LaptopDesktopDock }) {
 
 export default async function DockingLaptopDesktopPage() {
   const heroImg = fallbackHeroImage;
-  const articleSchema = { "@context": "https://schema.org", "@type": "Article", headline: guideTitle, description: metaDescription, datePublished: "2026-06-04", dateModified: "2026-06-04", author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` }, publisher: { "@type": "Organization", name: "WorkCocoon", url: SITE_URL }, mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-docking-stations-for-laptop-and-desktop` }, about: [{ "@type": "Thing", name: "KVM Docking Station" }, { "@type": "Thing", name: "Docking Station for Laptop and Desktop" }, { "@type": "Thing", name: "Dual Computer Desk Setup" }], mentions: [{ "@type": "Thing", name: "KVM Switch" }, { "@type": "Thing", name: "Thunderbolt 4" }, { "@type": "Thing", name: "USB4" }, { "@type": "Thing", name: "Dual Monitor Setup" }] };
+  const articleSchema = { "@context": "https://schema.org", "@type": "Article", headline: guideTitle, description: metaDescription, datePublished: "2026-06-04", dateModified: "2026-06-04", author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` }, publisher: { "@type": "Organization", name: "The Office Journal", url: SITE_URL }, mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-docking-stations-for-laptop-and-desktop` }, about: [{ "@type": "Thing", name: "KVM Docking Station" }, { "@type": "Thing", name: "Docking Station for Laptop and Desktop" }, { "@type": "Thing", name: "Dual Computer Desk Setup" }], mentions: [{ "@type": "Thing", name: "KVM Switch" }, { "@type": "Thing", name: "Thunderbolt 4" }, { "@type": "Thing", name: "USB4" }, { "@type": "Thing", name: "Dual Monitor Setup" }] };
   const breadcrumbSchema = { "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: SITE_URL }, { "@type": "ListItem", position: 2, name: "Buying Guides", item: `${SITE_URL}/guide` }, { "@type": "ListItem", position: 3, name: "Best Docking Stations for Laptop and Desktop", item: `${SITE_URL}/guide/best-docking-stations-for-laptop-and-desktop` }] };
   const itemListSchema = { "@context": "https://schema.org", "@type": "ItemList", name: "Best Docking Stations for Laptop and Desktop 2026", numberOfItems: 7, itemListElement: products.map((p) => ({ "@type": "ListItem", position: p.rank, name: `${p.name} -- ${p.badge}`, url: `${SITE_URL}/guide/best-docking-stations-for-laptop-and-desktop#${p.id}` })) };
 
@@ -131,7 +131,7 @@ export default async function DockingLaptopDesktopPage() {
         </header>
 
         <div className="mb-8 p-4 rounded-xl bg-bg border border-border text-xs text-ink-secondary">
-          <strong className="text-ink">Quick note:</strong> This page contains affiliate links. If you buy through our links, we may earn a small commission -- at no extra cost to you. As an Amazon Associate, WorkCocoon earns from qualifying purchases.{" "}
+          <strong className="text-ink">Quick note:</strong> This page contains affiliate links. If you buy through our links, we may earn a small commission -- at no extra cost to you. As an Amazon Associate, The Office Journal earns from qualifying purchases.{" "}
           <Link prefetch={false} href="/affiliate-disclosure" className="text-brand hover:underline">Affiliate disclosure</Link>.
         </div>
 

@@ -2,10 +2,10 @@ const BASE = "/guides/best-compact-keyboard-under-50";
 
 export const guideSlug = "best-compact-keyboard-under-50";
 export const guideTitle =
-  "7 Best Compact Keyboards Under $50 in 2026: 60%, 65%, 75%, and TKL Picks";
-export const metaTitle = "7 Best Compact Keyboards Under $50 in 2026";
+  "The Best Compact Keyboards Under $50 in 2026: 60%, 65%, 75%, and TKL Picks, Compared";
+export const metaTitle = "Best Compact Keyboards Under $50 in 2026: 60%, 65%, 75%, and TKL Picks (2026)";
 export const metaDescription =
-  "7 compact keyboards under $50 across 60%, 65%, 75%, and TKL layouts. Compared by wireless type, hot-swap, QMK support, and desk footprint.";
+  "We compared 8 compact keyboards under $50 in 2026: 60%, 65%, 75%, and TKL picks on features, build and practical fit to help you choose the right one for your space.";
 export const lastUpdated = "2026-06-17";
 export const readTime = "12 min";
 export const heroImage = `${BASE}/00-hero-best-compact-keyboard-under-50.webp`;
@@ -47,7 +47,7 @@ export const products: CompactKeyboard[] = [
     imageUrl: `${BASE}/01-rk-royal-kludge-rk61-compact-keyboard.webp`,
     amazonUrl: "https://www.amazon.com/dp/B089GN2KBT?tag=theofficejournal-20",
     whyItWorks:
-      "Tri-mode wireless (Bluetooth 5.0, 2.4 GHz, USB-C wired), hot-swappable switches, QMK/VIA programmability, and RGB backlight all under $45. Connects to three Bluetooth devices simultaneously. Maximum compactness at 60% footprint eliminates cables while saving the most desk space.",
+      "4 GHz, USB-C wired), hot-swappable switches, QMK/VIA programmability, and RGB backlight all under $45. Connects to three Bluetooth devices simultaneously. Maximum compactness at 60% footprint eliminates cables while saving the most desk space.",
     tradeoffs: [
       "No dedicated arrow keys or function row, both accessed via Fn layers",
       "60% layout requires relearning muscle memory for arrow keys",
@@ -89,7 +89,7 @@ export const products: CompactKeyboard[] = [
       "TKL is the widest layout in this roundup at ~36 cm",
     ],
     skipIf:
-      "You need wireless. The Keychron C3 Pro is wired-only, which rules it out for cable-free setups.",
+      "The Keychron C3 Pro is wired-only, which rules it out for cable-free setups.",
     pros: [
       "Gasket mounting (rare under $50)",
       "QMK/VIA programmable",
@@ -149,7 +149,7 @@ export const products: CompactKeyboard[] = [
     imageUrl: `${BASE}/04-logitech-pebble-keys-2-k380s.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0BT4DP7SC?tag=theofficejournal-20",
     whyItWorks:
-      "Only pick in this roundup designed explicitly for cross-platform and multi-device use. Connects to three Bluetooth devices simultaneously and switches between them with a single key press. Logi Bolt 2.4 GHz receiver also supported for low-latency connection. 36-month battery life on two AAA batteries eliminates charging management. Narrowest footprint in this list at 27 cm. Designed for macOS, iOS, and iPadOS alongside Windows with correct key labeling.",
+      "Only pick in this roundup designed explicitly for cross-platform and multi-device use. Connects to three Bluetooth devices simultaneously and switches between them with a single key press. 4 GHz receiver also supported for low-latency connection. 36-month battery life on two AAA batteries eliminates charging management. Narrowest footprint in this list at 27 cm. Designed for macOS, IOS, and iPadOS alongside Windows with correct key labeling.",
     tradeoffs: [
       "Not mechanical (scissor switches)",
       "No RGB backlight",
@@ -185,7 +185,7 @@ export const products: CompactKeyboard[] = [
     imageUrl: `${BASE}/05-redragon-k552p-tkl-keyboard.webp`,
     amazonUrl: "https://www.amazon.com/dp/B019O9BLVY?tag=theofficejournal-20",
     whyItWorks:
-      "Metal top plate adds rigidity that is very rarely found under $35. Hot-swappable switches let you replace or swap without soldering. 18 RGB backlight modes. N-key rollover for full simultaneous keypress registration. Lowest price in this roundup while maintaining a build quality above its price tier.",
+      "Metal top plate adds rigidity that is very rarely found under $35. Hot-swappable switches let you replace or swap without soldering. N-key rollover for full simultaneous keypress registration. Lowest price in this roundup while maintaining a build quality above its price tier.",
     tradeoffs: [
       "Wired only",
       "Windows-optimized layout with limited Mac support",
@@ -254,14 +254,14 @@ export const products: CompactKeyboard[] = [
     imageUrl: `${BASE}/07-tecware-phantom-plus-elite-tkl-keyboard.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0BQ2ZFVNN?tag=theofficejournal-20",
     whyItWorks:
-      "Brings tri-mode wireless to the TKL layout at under $55, which is genuinely hard to find at this price. 5-pin hot-swappable sockets, double-shot PBT keycaps, and dampened case for a thocky sound profile. For users who want the familiar TKL layout with wireless freedom without paying $80 to $100 for Keychron wireless options.",
+      "Brings tri-mode wireless to the TKL layout at under $55, which is hard to find at this price. 5-pin hot-swappable sockets, double-shot PBT keycaps, and dampened case for a thocky sound profile. For users who want the familiar TKL layout with wireless freedom without paying $80 to $100 for Keychron wireless options.",
     tradeoffs: [
       "Near or slightly above $50 depending on current pricing",
       "Wraith switches are proprietary and less widely reviewed",
       "No QMK/VIA",
     ],
     skipIf:
-      "Budget is strictly $50 or less. The Tecware may push slightly over depending on the listing. Verify current price.",
+      "Budget is strictly $50 or less. The Tecware may push slightly over depending on the listing.",
     pros: [
       "Wireless TKL under $55 (rare)",
       "5-pin hot-swap",
@@ -294,7 +294,7 @@ export const faq = [
   },
   {
     q: "Are wireless keyboards under $50 reliable?",
-    a: "The RK61, RK68 Plus, TH80 SE, and Tecware Phantom+ Elite all offer 2.4 GHz wireless which is reliable for desk use. Bluetooth adds multi-device flexibility but with marginally higher latency. For gaming, 2.4 GHz is preferred. For typing and productivity, either is fine.",
+    a: "4 GHz wireless which is reliable for desk use. Bluetooth adds multi-device flexibility but with marginally higher latency. For typing and productivity, either is fine.",
   },
   {
     q: "What is the difference between 60% and TKL keyboards?",

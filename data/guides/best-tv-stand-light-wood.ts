@@ -1,12 +1,12 @@
 export const guideSlug = "best-tv-stand-light-wood";
-export const guideTitle = "6 Best Light Wood TV Stands in 2026";
-export const metaTitle = "Best Light Wood TV Stands in 2026 (Natural & Knotty Oak)";
+export const guideTitle = "The Best Light Wood TV Stands for Everyday Use";
+export const metaTitle = "Best Light Wood TV Stands for Home Offices (2026)";
 export const metaDescription =
-  "6 best light wood TV stands in 2026, from fluted natural oak designs to solid fir consoles. Compare storage, TV size fit, and finish tone.";
+  "A practical comparison of 7 light wood TV stands, focused on features, build and practical fit, and the trade-offs between them.";
 export const mainKeyword = "tv stand light wood";
 export const introParagraphs = [
   "Light wood finishes bring a brighter, airier feel to a living room than darker walnut or espresso tones, and natural oak grain has become one of the most requested looks for 2026 furniture shopping.",
-  "Below are 6 light wood TV stands we evaluated on storage layout, TV size fit, and finish quality, ranging from a budget boho rattan design to a nearly 300-pound-capacity cabinet built for very large TVs.",
+  "Below are 6 light wood TV stands we compared on storage layout, TV size fit, and finish quality, ranging from a budget boho rattan design to a nearly 300-pound-capacity cabinet built for very large TVs.",
 ];
 export const lastUpdated = "2026-07-17";
 export const readTime = "10 min";
@@ -51,7 +51,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41rnAJOsBYL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FQV27LCS?tag=theofficejournal-20",
     description:
-      "The OKD 70 inch Mid Century Fluted Soft-Close TV Stand fits TVs up to 75 inches and pairs true fluted mid-century paneling with quiet soft-close doors, so the doors ease shut instead of slamming. A wide top surface leaves room to display decor, and adjustable interior shelves let you reconfigure storage as your gear changes.\n\nAt 4.7 stars, it ties the VASAGLE pick for the highest rating in this list, though on a smaller sample of 157 ratings. The minimalist natural oak styling pairs well with mid-century or Scandinavian-leaning rooms. For anyone with a TV larger than 65 inches who still wants a genuinely light oak finish, this is the strongest fit.\n\nA genuine advantage here is that fits TVs up to 75 inches. The tradeoff is smaller review sample (157 ratings) than the top pick.",
+      "The OKD 70 inch Mid Century Fluted Soft-Close TV Stand fits TVs up to 75 inches and pairs true fluted mid-century paneling with quiet soft-close doors, so the doors ease shut instead of slamming. A wide top surface leaves room to display decor, and adjustable interior shelves let you reconfigure storage as your gear changes.\n\nThe minimalist natural oak styling pairs well with mid-century or Scandinavian-leaning rooms. For anyone with a TV larger than 65 inches who still wants a light oak finish, this is the strongest fit.",
     specs: [
       "Fits TV up to 75 inches",
       "70\" W x 15.75\" D x 20\" H",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41gu+B6y7VL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FDGKNN4N?tag=theofficejournal-20",
     description:
-      "The OKD 70 inch Light Knotty Oak Open Storage TV Stand fits TVs up to 80 inches and stands the tallest in this list at 33 inches, with a 300 pound weight capacity, well above every other pick here. Two enclosed side cabinets flank an open center shelf, giving a mix of concealed and display storage.\n\nWith 398 ratings at 4.7 stars, it has a well-established track record for a taller design. The knotty oak grain is more distinctive and textured than the plainer natural oak finishes above, and a reinforced 3.5 inch plinth base adds stability. For anyone who wants to stack heavier gear or a very large TV, this is the pick with the most margin.\n\nTallest stand here at 33 inches. On the other hand, most expensive pick in this list. Neither should be a surprise once you know to look for it.",
+      "The OKD 70 inch Light Knotty Oak Open Storage TV Stand fits TVs up to 80 inches and stands the tallest in this list at 33 inches, with a 300 pound weight capacity, well above every other pick here. Two enclosed side cabinets flank an open center shelf, giving a mix of concealed and display storage.\n\n7 stars, it has a well-established track record for a taller design. 5 inch plinth base adds stability. For anyone who wants to stack heavier gear or a very large TV, this is the pick with the most margin.\n\nTallest stand here at 33 inches.",
     specs: [
       "Fits TV up to 80 inches",
       "70\" W x 16\" D x 33\" H",
@@ -117,7 +117,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51mT11GbcIL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0H1W6JKZW?tag=theofficejournal-20",
     description:
-      "The VINGLI 55 inch Natural Oak Fluted 4-Door TV Stand fits TVs up to 65 inches and offers 4 separate fluted cabinet doors, more individual storage compartments than most stands in this list. Adjustable interior shelves let you configure each section, and the 30 inch height puts the screen at a more comfortable eye line for sofa viewing.\n\nWith 233 ratings at 4.5 stars, it holds a solid mid-pack rating. The bright natural oak grain and clean mid-century lines pair well with a range of room styles, and the 4-door layout makes it easier to organize gear by type rather than piling everything into one or two cabinets. For buyers who want the most individual storage doors, this is the standout.\n\nTaller 30 inch height for comfortable sofa viewing. That's a real strength, but weigh it against the flip side: max TV size of 65 inches.",
+      "The VINGLI 55 inch Natural Oak Fluted 4-Door TV Stand fits TVs up to 65 inches and offers 4 separate fluted cabinet doors, more individual storage compartments than most stands in this list. Adjustable interior shelves let you configure each section, and the 30 inch height puts the screen at a more comfortable eye line for sofa viewing.\n\n5 stars, it holds a solid mid-pack rating. The bright natural oak grain and clean mid-century lines pair well with a range of room styles, and the 4-door layout makes it easier to organize gear by type rather than piling everything into one or two cabinets. For buyers who want the most individual storage doors, this is the standout.\n\nTaller 30 inch height for comfortable sofa viewing.",
     specs: [
       "Fits TV up to 65 inches",
       "55\" L x 15.4\" D x 30\" H",
@@ -150,7 +150,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41WINKtMMWL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0FWJZ1PH7?tag=theofficejournal-20",
     description:
-      "The LINSY HOME 70 inch Fluted Sliding Door Oak TV Stand fits TVs up to 80 inches, the widest supported range in this list, and combines a space-saving fluted sliding door with 4 open shelves for flexible display and storage. Solid wood legs anchor the base, and a gentle curved silhouette softens the overall look.\n\nWith 148 ratings at 4.6 stars, it's built a solid track record as a newer listing. Cable routing keeps wiring tidy behind the unit, and the warm light oak tone pairs the fluted panel look with a practical sliding-door format that saves clearance space. For anyone with a very large TV, this is the light wood pick built to fit it.\n\nWorth calling out specifically: solid wood legs rather than pressboard. The catch is smaller review sample (148 ratings).",
+      "The LINSY HOME 70 inch Fluted Sliding Door Oak TV Stand fits TVs up to 80 inches, the widest supported range in this list, and combines a space-saving fluted sliding door with 4 open shelves for flexible display and storage. Solid wood legs anchor the base, and a gentle curved silhouette softens the overall look.\n\n6 stars, it's built a solid track record as a newer listing. Cable routing keeps wiring tidy behind the unit, and the warm light oak tone pairs the fluted panel look with a practical sliding-door format that saves clearance space. For anyone with a very large TV, this is the light wood pick built to fit it.",
     specs: [
       "Fits TV up to 80 inches",
       "70\" L x 15.7\" W x 21.7\" H",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51WMzKM-PrL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0BF8PCQWS?tag=theofficejournal-20",
     description:
-      "The SUPERJARE Boho Rattan Natural Oak TV Stand fits TVs up to 65 inches and stands out with woven rattan cabinet doors instead of the fluted or slatted panels found elsewhere in this list, giving it a distinctly boho look. Six solid wood legs support the frame, and adjustable interior shelves let you configure the storage layout.\n\nWith nearly 1,000 ratings at 4.4 stars, it has a solid track record at a budget-friendly price. At just 42 pounds, it's noticeably lighter than most other picks here, making it easy to reposition. Four cable routing holes keep wiring tidy. For buyers on a budget who want a distinctive natural-wood boho look, this is the standout.\n\n6 solid wood legs for a sturdy base. Set against that, max TV size of 65 inches. Both matter when comparing it to the other picks here.",
+      "The SUPERJARE Boho Rattan Natural Oak TV Stand fits TVs up to 65 inches and stands out with woven rattan cabinet doors instead of the fluted or slatted panels found elsewhere in this list, giving it a distinctly boho look. Six solid wood legs support the frame, and adjustable interior shelves let you configure the storage layout.\n\n4 stars, it has a solid track record. At just 42 pounds, it's noticeably lighter than most other picks here, making it easy to reposition. Four cable routing holes keep wiring tidy. For buyers on a budget who want a distinctive natural-wood boho look, this is the standout.\n\n6 solid wood legs for a sturdy base.",
     specs: [
       "Fits TV up to 65 inches",
       "53.9\" L x 15.7\" W x 19.7\" H",
@@ -216,7 +216,7 @@ export const products: GuideProduct[] = [
     imageUrl: "https://m.media-amazon.com/images/I/41XGcp3GnIL._SL500_.jpg",
     amazonUrl: "https://www.amazon.com/dp/B0GTPWB2F2?tag=theofficejournal-20",
     description:
-      "The TRIBEWOOD 71 inch 100% Solid Fir Wood TV Stand fits TVs up to 85 inches, the largest supported size in this list, and is genuinely built from solid fir wood rather than engineered MDF or particleboard. That means each unit has a one-of-a-kind natural grain pattern rather than a uniform printed finish.\n\nAt 4.6 stars, early reviews are strong, though the sample of 6 ratings is small since this is a newer listing. The tabletop surface is scratch-resistant, and assembly is simple since the design uses leg-only construction rather than complex panel assembly. At just 35 pounds, it's also the lightest large-format stand in this list. For buyers who specifically want genuine solid wood rather than an engineered wood finish, this is the pick.\n\nA genuine advantage here is that fits the largest TVs in this list, up to 85 inches. The tradeoff is very small review sample (6 ratings) since it's a newer listing.",
+      "The TRIBEWOOD 71 inch 100% Solid Fir Wood TV Stand fits TVs up to 85 inches, the largest supported size in this list, and is built from solid fir wood rather than engineered MDF or particleboard. That means each unit has a one-of-a-kind natural grain pattern rather than a uniform printed finish.\n\nThe tabletop surface is scratch-resistant, and assembly is simple since the design uses leg-only construction rather than complex panel assembly. At just 35 pounds, it's also the lightest large-format stand in this list. For buyers who specifically want genuine solid wood rather than an engineered wood finish, this is the pick.",
     specs: [
       "Fits TV up to 85 inches",
       "71\" W x 15\" D x 23.65\" H",
@@ -251,11 +251,11 @@ export const buyingCriteria: BuyingCriterion[] = [
   },
   {
     "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this tv stand light wood over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
+    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this tv stand light wood over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
   },
   {
     "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any tv stand light wood you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
+    "explanation": "This matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any tv stand light wood you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
   },
   {
     "criterion": "Check compatibility and fit with your existing setup before ordering",
@@ -266,7 +266,7 @@ export const buyingCriteria: BuyingCriterion[] = [
 export const faq: FaqItem[] = [
   {
     q: "What is the best light wood TV stand overall?",
-    a: "The OKD 70 inch Mid Century Fluted Soft-Close TV Stand (Pick 1) is the best overall pick, tying for the highest rating in this list at 4.7 stars with quiet soft-close doors and true fluted mid-century detail.",
+    a: "7 stars with quiet soft-close doors and true fluted mid-century detail.",
   },
   {
     q: "Which light wood TV stand fits the largest TVs?",
@@ -282,7 +282,7 @@ export const faq: FaqItem[] = [
   },
   {
     q: "Is solid wood better than engineered wood for a TV stand?",
-    a: "Solid wood, like the TRIBEWOOD fir stand (Pick 6), generally holds up longer and offers unique natural grain, but it's often heavier and pricier per pound of material. Engineered wood with a wood-look veneer, used in most other picks here, is lighter and more budget-friendly while still looking convincingly like real wood.",
+    a: "Solid wood, like the TRIBEWOOD fir stand (Pick 6), generally holds up longer and offers unique natural grain, but it's often heavier and pricier per pound of material. Engineered wood with a wood-look veneer, used in most other picks here, is lighter and more low-cost while still looking convincingly like real wood.",
   },
   {
     q: "Do light wood TV stands show scuffs more than dark wood stands?",

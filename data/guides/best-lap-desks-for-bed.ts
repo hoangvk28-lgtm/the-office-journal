@@ -1,9 +1,9 @@
 const BASE = "/images/guides/best-lap-desks-for-bed";
 
 export const guideSlug = "best-lap-desks-for-bed";
-export const guideTitle = "8 Best Lap Desks for Bed (2026)";
-export const metaTitle = "Best Lap Desks for Bed 2026";
-export const metaDescription = "Best lap desks for bed in 2026. Adjustable height, foldable legs, leather surfaces, and cushioned boards for in-bed laptop use ranked by Amazon buyer rating.";
+export const guideTitle = "The Best Lap Desks for Bed, Compared";
+export const metaTitle = "Best Lap Desks for Bed (2026)";
+export const metaDescription = "We compared 9 lap desks for bed on features, build and practical fit to help you choose the right one for your space.";
 export const lastUpdated = "2026-07-10";
 export const readTime = "10 min";
 export const heroImage = `${BASE}/hero.webp`;
@@ -41,7 +41,7 @@ export const products: GuideProduct[] = [
     reviews: "14,263 ratings",
     imageUrl: `${BASE}/saiji-xl.webp`,
     amazonUrl: "https://www.amazon.com/dp/B086WBG56J?tag=theofficejournal-20",
-    description: "The SAIJI X-Large adjustable lap desk combines five height settings from 10.6 to 15.4 inches with four angle adjustments from flat to 36 degrees, a built-in storage drawer, and a bookstand ledge. The foldable steel frame collapses for storage under a bed or in a closet when not in use. It is the premium investment for frequent in-bed laptop users who switch between sitting up, reclining, and fully reclined positions throughout the day. The storage drawer and bookstand add organizational value that flat cushion boards cannot provide. Worth calling out specifically: 5 heights + 4 angles for any in-bed position. The catch is a real price premium.",
+    description: "4 inches with four angle adjustments from flat to 36 degrees, a built-in storage drawer, and a bookstand ledge. The foldable steel frame collapses for storage under a bed or in a closet when not in use. It is the premium investment for frequent in-bed laptop users who switch between sitting up, reclining, and fully reclined positions throughout the day. The storage drawer and bookstand add organizational value that flat cushion boards cannot provide.",
     specs: ["5 heights 10.6 to 15.4 in","4 angle settings 0 to 36 degrees","Built-in storage drawer","Bookstand ledge","Foldable steel frame"],
     pros: ["4.7 stars with large buyer base","5 heights + 4 angles for any in-bed position","Storage drawer adds organizational value","Foldable for storage"],
     cons: ["$69.99 premium","Heavier than flat cushion boards","Larger footprint when open"],
@@ -57,7 +57,7 @@ export const products: GuideProduct[] = [
     reviews: "13,556 ratings",
     imageUrl: `${BASE}/huanuo-17.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07FW2KT8F?tag=theofficejournal-20",
-    description: "The HUANUO 17-inch lap desk provides a dual-cushion base alongside a built-in mouse pad on the right side and a wrist pad along the bottom edge. The wood grain finish gives it a desk-like appearance that distinguishes it from plain fabric-covered boards. It is the comprehensive laptop lap desk with the full set of work surface accessories. Users who use an external mouse alongside their laptop benefit from the integrated mouse pad surface, which eliminates the need to balance a separate mouse pad on the remaining surface space. Integrated mouse pad eliminates separate pad. Set against that, fixed angle, no adjustment. Both matter when comparing it to the other picks here.",
+    description: "The HUANUO 17-inch lap desk provides a dual-cushion base alongside a built-in mouse pad on the right side and a wrist pad along the bottom edge. The wood grain finish gives it a desk-like appearance that distinguishes it from plain fabric-covered boards. It is the comprehensive laptop lap desk with the full set of work surface accessories. Users who use an external mouse alongside their laptop benefit from the integrated mouse pad surface, which eliminates the need to balance a separate mouse pad on the remaining surface space. Integrated mouse pad eliminates separate pad.",
     specs: ["17 inch laptop capacity","Built-in mouse pad right side","Wrist pad bottom edge","Dual cushion base","Wood grain finish"],
     pros: ["4.6 stars with large buyer base","Integrated mouse pad eliminates separate pad","Wrist pad for typing comfort","Dual cushion base"],
     cons: ["Fixed angle, no adjustment","17 inch model heavier than 15.6 inch"],
@@ -73,7 +73,7 @@ export const products: GuideProduct[] = [
     reviews: "10,633 ratings",
     imageUrl: `${BASE}/lapgear-home-office-pro.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07N9L5934?tag=theofficejournal-20",
-    description: "The LapGear Home Office Pro provides a 21.1 by 14.1-inch hard surface with an integrated 5 by 9-inch mouse pad on the right side, a wrist rest along the front edge, and a dual bolster cushion base that creates stable contact on mattress and sofa surfaces. The hard surface keeps laptop vents clear and provides a firm mouse tracking area. It is the reference lap desk for users who type and use an external mouse in bed or on the sofa regularly. The combination of mouse pad, wrist rest, and dual cushion in one product is the most complete feature set at this price. A genuine advantage here is that integrated mouse pad on hard surface. The tradeoff is no angle adjustment.",
+    description: "1-inch hard surface with an integrated 5 by 9-inch mouse pad on the right side, a wrist rest along the front edge, and a dual bolster cushion base that creates stable contact on mattress and sofa surfaces. The hard surface keeps laptop vents clear and provides a firm mouse tracking area. It is the reference lap desk for users who type and use an external mouse in bed or on the sofa regularly. The combination of mouse pad, wrist rest, and dual cushion in one product is the most complete feature set at this price.",
     specs: ["21.1 x 14.1 in hard surface","5x9 in integrated mouse pad","Wrist rest along front edge","Dual bolster cushion base","Phone slot"],
     pros: ["4.7 stars","Integrated mouse pad on hard surface","Dual bolster cushion base","Wrist rest for typing"],
     cons: ["No angle adjustment","Fixed height","Bolster cushion may not suit all leg widths"],
@@ -89,7 +89,7 @@ export const products: GuideProduct[] = [
     reviews: "9,565 ratings",
     imageUrl: `${BASE}/saiji-medium.webp`,
     amazonUrl: "https://www.amazon.com/dp/B08JGCZDQW?tag=theofficejournal-20",
-    description: "The SAIJI medium adjustable lap desk offers five height settings from 9.4 to 12.6 inches and four angle settings from flat to 36 degrees in a lighter and more compact package than the XL model. The retractable document ledge prevents papers and tablets from sliding off the angled surface. It is the compact adjustable option for users who want height and angle control without the size and weight of the XL. The four-angle adjustment covers the main in-bed laptop use positions at a price below most competing adjustable models. 5 heights + 4 angles in compact build. On the other hand, smaller surface than SAIJI XL. Neither should be a surprise once you know to look for it.",
+    description: "6 inches and four angle settings from flat to 36 degrees in a lighter and more compact package than the XL model. The retractable document ledge prevents papers and tablets from sliding off the angled surface. It is the compact adjustable option for users who want height and angle control without the size and weight of the XL. The four-angle adjustment covers the main in-bed laptop use positions at a price below most competing adjustable models. 5 heights + 4 angles in compact build.",
     specs: ["5 height settings 9.4 to 12.6 in","4 angle settings 0 to 36 degrees","Retractable document ledge","Steel frame","Lighter compact build"],
     pros: ["4.6 stars with large buyer base","5 heights + 4 angles in compact build","Document ledge prevents items sliding off","Under $30"],
     cons: ["Smaller surface than SAIJI XL","Height range lower than XL"],
@@ -105,7 +105,7 @@ export const products: GuideProduct[] = [
     reviews: "15,671 ratings",
     imageUrl: `${BASE}/huanuo-156.webp`,
     amazonUrl: "https://www.amazon.com/dp/B07W7SZJ25?tag=theofficejournal-20",
-    description: "The HUANUO 15.6-inch portable lap desk uses a single pillow cushion base with an anti-slip wrist pad and a storage pocket below the surface for charging cables and accessories. At 2.64 pounds it is lighter than dual-cushion and adjustable alternatives, making it the portable pick among lap desks. It is the lightweight portable lap desk for users who move between rooms, carry their lap desk to work, or use it while traveling. The storage pocket adds useful cable and accessory organization that flat cushion boards do not provide. Storage pocket for cables and accessories. That's a real strength, but weigh it against the flip side: smaller than 17 inch HUANUO.",
+    description: "6-inch portable lap desk uses a single pillow cushion base with an anti-slip wrist pad and a storage pocket below the surface for charging cables and accessories. 64 pounds it is lighter than dual-cushion and adjustable alternatives, making it the portable pick among lap desks. It is the lightweight portable lap desk for users who move between rooms, carry their lap desk to work, or use it while traveling. The storage pocket adds useful cable and accessory organization that flat cushion boards do not provide. Storage pocket for cables and accessories.",
     specs: ["15.6 inch laptop capacity","Pillow cushion base","Anti-slip wrist pad","Storage pocket below surface","2.64 lb lightweight"],
     pros: ["4.5 stars with the second largest buyer base in this category","Storage pocket for cables and accessories","Lightweight at 2.64 lb","Anti-slip wrist pad"],
     cons: ["Smaller than 17 inch HUANUO","No angle adjustment","Single cushion rather than dual"],
@@ -121,7 +121,7 @@ export const products: GuideProduct[] = [
     reviews: "5,292 ratings",
     imageUrl: `${BASE}/saiji-foldable.webp`,
     amazonUrl: "https://www.amazon.com/dp/B08TBG3SPW?tag=theofficejournal-20",
-    description: "The SAIJI foldable legs lap desk collapses flat for under-mattress or closet storage, solving the space problem that makes non-foldable lap desks impractical in small bedrooms. The steel frame handles up to 80 pounds on the surface, suitable for a laptop, books, and a beverage simultaneously. It is the foldable desk with the highest weight capacity and angle+height adjustability in this roundup. Users in small living spaces who need the desk to disappear when not in use find the fold-flat design more practical than a permanent cushion board. Worth calling out specifically: folds flat for storage. The catch is heavier than basic flat cushion boards.",
+    description: "The SAIJI foldable legs lap desk collapses flat for under-mattress or closet storage, solving the space problem that makes non-foldable lap desks impractical in small bedrooms. The steel frame handles up to 80 pounds on the surface, suitable for a laptop, books, and a beverage simultaneously. It is the foldable desk with the highest weight capacity and angle+height adjustability in this roundup. Users in small living spaces who need the desk to disappear when not in use find the fold-flat design more practical than a permanent cushion board.",
     specs: ["Foldable steel legs","5 heights 4 angles adjustable","80 lb weight capacity","Flat storage profile","Hard MDF surface"],
     pros: ["4.6 stars","Folds flat for storage","80 lb capacity for multiple items","Height and angle adjustable"],
     cons: ["Heavier than basic flat cushion boards","Foldable legs add bulk when open"],
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     reviews: "1,547 ratings",
     imageUrl: `${BASE}/saiji-leather.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0BTCNW16C?tag=theofficejournal-20",
-    description: "The SAIJI leather lap desk uses a genuine leather work surface over a rigid board, providing a professional desk-like writing and typing surface that cushion-top alternatives cannot replicate. The built-in storage drawer holds charging cables and small accessories below the surface. It is the premium pick for users who prioritize surface quality and professional aesthetics in their lap desk. The leather surface and storage drawer together create the closest experience to a real desk for users who work primarily in bed. Leather surface for writing and typing feel. Set against that, a real price premium. Both matter when comparing it to the other picks here.",
+    description: "The SAIJI leather lap desk uses a genuine leather work surface over a rigid board, providing a professional desk-like writing and typing surface that cushion-top alternatives cannot replicate. The built-in storage drawer holds charging cables and small accessories below the surface. It is the premium pick for users who prioritize surface quality and professional aesthetics in their lap desk. The leather surface and storage drawer together create the closest experience to a real desk for users who work primarily in bed. Leather surface for writing and typing feel.",
     specs: ["Genuine leather work surface","Built-in storage drawer","Rigid board base","Multiple device slots on side","Professional look"],
     pros: ["4.6 stars","Leather surface for writing and typing feel","Storage drawer for accessories","Professional desk aesthetic in bed"],
     cons: ["$52.24 premium","Leather requires more care than fabric surfaces","Heavier than fabric boards"],
@@ -153,7 +153,7 @@ export const products: GuideProduct[] = [
     reviews: "1,417 ratings",
     imageUrl: `${BASE}/gorilla-grip.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0C11BXJ39?tag=theofficejournal-20",
-    description: "The GORILLA GRIP lap desk uses an ultra-thick foam cushion base that provides more padding depth than standard cushion boards, combined with a scratch-resistant and slip-resistant top surface. The integrated phone slot and carry handle add functional convenience at the budget price tier. It is the budget pick with a premium-feeling cushion base. Users who want more cushion depth than standard lap desks provide without paying for adjustability or premium surface materials find the GORILLA GRIP the practical value choice. A genuine advantage here is that ultra-thick cushion deeper than standard boards. The tradeoff is no angle adjustment.",
+    description: "The GORILLA GRIP lap desk uses an ultra-thick foam cushion base that provides more padding depth than standard cushion boards, combined with a scratch-resistant and slip-resistant top surface. The integrated phone slot and carry handle add functional convenience at the budget price tier. It is the budget pick with a premium-feeling cushion base. Users who want more cushion depth than standard lap desks provide without paying for adjustability or premium surface materials find the GORILLA GRIP the practical value choice.",
     specs: ["Ultra-thick foam cushion base","Scratch-resistant top surface","Phone holder slot","Carry handle","Slip-resistant bottom"],
     pros: ["4.5 stars","Ultra-thick cushion deeper than standard boards","Phone holder integrated","Carry handle for portability"],
     cons: ["No angle adjustment","Newer product with fewer ratings"],
@@ -172,11 +172,11 @@ export const buyingCriteria: BuyingCriterion[] = [
   },
   {
     "criterion": "Confirm any headline feature actually works as advertised, not just that it's listed",
-    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a genuinely useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this 8 best lap desk over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
+    "explanation": "A feature appearing in a product's bullet points doesn't guarantee it performs well in practice, some features are functional but limited, and a few are closer to a marketing checkbox than a useful capability.\n\nThis matters directly if a specific feature is the main reason you're choosing this 8 best lap desk over a simpler, cheaper alternative, since a feature that underperforms in practice undermines the whole reason for paying more.\n\nCheck reviews specifically for real-world experiences with the exact feature that matters most to you, not just whether the feature is listed at all."
   },
   {
     "criterion": "Weigh review count alongside rating, not rating alone",
-    "explanation": "A high star rating built on a small number of reviews carries meaningfully less confidence than a slightly lower rating built on a large, established review base, since a small sample can be skewed by a handful of early, enthusiastic buyers before any longer-term issues would show up in later reviews.\n\nThis matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any 8 best lap desk you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
+    "explanation": "This matters more for a purchase you're relying on to perform consistently over time, less for a low-stakes, easily replaceable item.\n\nCheck both the star rating and the review count together for any 8 best lap desk you're considering, and treat a high rating on a very small review count as a promising but less-proven signal."
   },
   {
     "criterion": "Check compatibility and fit with your existing setup before ordering",
@@ -189,7 +189,7 @@ export const faq: { q: string; a: string }[] = [
   { q: "What size lap desk do I need for a 15-inch laptop?", a: "A lap desk with at least a 17-inch wide surface comfortably holds a 15-inch laptop with clearance on both sides. For a 17-inch gaming laptop, choose at least a 19-inch wide surface. Add extra width if you also want to use an external mouse on the same surface." },
   { q: "Do adjustable lap desks work while lying down?", a: "Height-plus-angle adjustable models (SAIJI XL, SAIJI medium) work in multiple reclining positions including semi-reclined and near-horizontal. Fixed-height cushion boards work best for upright sitting. If you use your laptop in bed from multiple positions, an adjustable model is worth the premium." },
   { q: "How do I store a lap desk in a small bedroom?", a: "Foldable leg lap desks (SAIJI Foldable) collapse flat and store under a mattress or standing in a closet. Non-folding models like cushion boards are thinner and can often stand on end in a corner. The SAIJI XL with legs is the most space-consuming when not folded." },
-  { q: "Can I use a lap desk on a sofa?", a: "Yes. Lap desks designed for bed use work equally well on sofas and armchairs. The cushioned base adapts to sofa cushion surfaces in the same way it adapts to mattress surfaces. Height-adjustable models work on sofas by adjusting to the lower typical sofa seat height." }
+  { q: "Can I use a lap desk on a sofa?", a: "Lap desks designed for bed use work equally well on sofas and armchairs. The cushioned base adapts to sofa cushion surfaces in the same way it adapts to mattress surfaces. Height-adjustable models work on sofas by adjusting to the lower typical sofa seat height." }
 ];
 
 export const relatedGuides: { href: string; title: string }[] = [

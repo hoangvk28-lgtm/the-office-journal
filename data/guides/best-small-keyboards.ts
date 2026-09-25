@@ -2,11 +2,11 @@ import type { ProductReviewCardProps } from "@/components/product/ProductReviewC
 import type { AtAGlanceItem } from "@/components/product/AtAGlance";
 
 export const guideSlug = "best-small-keyboards";
-export const guideTitle = "8 Best Small Keyboards (2026): Compact Picks for Desk, Dorm Room and Travel";
+export const guideTitle = "The Best Small Keyboards (2026): Compact Picks for Desk, Dorm Room and Travel: Picks and Trade-offs";
 export const guideDescription =
   "Eight compact keyboards compared across layout, switch type, connectivity, and price - from hot-swap mechanical 75% boards to ultra-portable mini keyboards. The right pick for every setup and budget.";
-export const metaTitle = "Best Small Keyboards 2026: Compact Picks";
-export const metaDescription = "8 compact keyboards for small desks -- mechanical, wireless, and budget picks compared across layout, switch type, and connectivity. From 60% to TKL.";
+export const metaTitle = "Best Small Keyboards (2026): Compact Picks for Desk, Dorm Room and Travel (2026)";
+export const metaDescription = "A practical comparison of 12 small keyboards (2026): compact picks for desk, dorm room and travel, focused on compatibility, build, features and price, and the trade-offs between them.";
 export const mainKeyword = "best small keyboard";
 export const lastUpdated = "2026-05-27";
 export const readTime = "10 min";
@@ -22,7 +22,7 @@ export const products: ProductReviewCardProps[] = [
     imageAlt: "Macally small wireless keyboard and mouse combo compact black 78-key",
     affiliateUrl: "https://www.amazon.com/dp/B081549BN2?tag=theofficejournal-20",
     price: "~$30",
-    style: "78-key mini layout keyboard + mouse combo · 2.4 GHz wireless via single USB dongle · Quiet click buttons · 3 DPI mouse modes · Windows and Mac compatible",
+    style: "4 GHz wireless via single USB dongle · Quiet click buttons · 3 DPI mouse modes · Windows and Mac compatible",
     pros: [
       { text: "Established brand with lifetime support and up to a 2-year warranty" },
       { text: "Single USB dongle pairs both keyboard and mouse - no separate receivers" },
@@ -36,8 +36,8 @@ export const products: ProductReviewCardProps[] = [
       { text: "30 ft wireless range is shorter than dedicated Bluetooth alternatives", severity: "minor" },
     ],
     reviewText: [
-      "The Macally combo fills a specific gap in this guide: a branded, supported keyboard-and-mouse bundle at under $30. Unlike the unbranded budget combo elsewhere in this guide, Macally backs this with lifetime support and up to a 2-year warranty, which matters if a dongle or key fails down the line. The single 2.4 GHz dongle pairs both the keyboard and mouse together, so setup is plug-and-play with no separate Bluetooth pairing steps.",
-      "The 78-key layout is compact without removing keys buyers reach for daily, and the quiet click mouse buttons make it a reasonable choice for a dorm room or shared office. The tradeoff versus pricier picks in this guide is connectivity: it is 2.4 GHz only, so it will not multi-pair across devices the way a Bluetooth board does, and the switches are membrane rather than mechanical. For a budget-conscious buyer who wants brand-backed reliability over the cheapest possible unbranded option, this is the stronger pick.",
+      "The Macally combo fills a specific gap in this guide: a branded, supported keyboard-and-mouse bundle at under $30. Unlike the unbranded budget combo elsewhere in this guide, Macally backs this with lifetime support and up to a 2-year warranty, which matters if a dongle or key fails down the line. 4 GHz dongle pairs both the keyboard and mouse together, so setup is plug-and-play with no separate Bluetooth pairing steps.",
+      "The 78-key layout is compact without removing keys buyers reach for daily, and the quiet click mouse buttons make it a reasonable choice for a dorm room or shared office. 4 GHz only, so it will not multi-pair across devices the way a Bluetooth board does, and the switches are membrane rather than mechanical. For a budget-conscious buyer who wants brand-backed reliability over the cheapest possible unbranded option, this is the stronger pick.",
     ],
     scoreOverall: 7.6,
   },
@@ -50,7 +50,7 @@ export const products: ProductReviewCardProps[] = [
     imageAlt: "CHERRY XTRFY K33 compact wireless 75% mem-chanical keyboard white with RGB lighting",
     affiliateUrl: "https://www.amazon.com/dp/B0GVTV6H5K?tag=theofficejournal-20",
     price: "~$50",
-    style: "75% layout mem-chanical switches · Bluetooth + 2.4 GHz + wired USB-C · RGB lighting · IP54 dust and splash resistant",
+    style: "4 GHz + wired USB-C · RGB lighting · IP54 dust and splash resistant",
     pros: [
       { text: "Triple connectivity: Bluetooth, 2.4 GHz dongle, and wired USB-C on one board" },
       { text: "IP54 dust and splash resistance is uncommon at this layout size" },
@@ -64,7 +64,7 @@ export const products: ProductReviewCardProps[] = [
       { text: "Newer multi-mode combo in CHERRY's lineup with a shorter track record than their standard boards", severity: "minor" },
     ],
     reviewText: [
-      "The CHERRY XTRFY K33 brings CHERRY's switch engineering to a compact wireless board with genuinely useful extras: triple connectivity covers Bluetooth for casual multi-device use, a 2.4 GHz dongle for lower-latency typing, and wired USB-C as a fallback. The IP54 rating means dust and light spills near the desk are not a concern, which is rare to see on a keyboard at this size and price.",
+      "4 GHz dongle for lower-latency typing, and wired USB-C as a fallback. The IP54 rating means dust and light spills near the desk are not a concern, which is rare to see on a keyboard at this size and price.",
       "The mem-chanical switches sit between membrane and full mechanical in feel - based on the published specs, they are not a substitute for a hot-swappable mechanical board if switch feel is the priority, but they are a step up from a plain membrane combo. For buyers who want a compact 75% layout with flexible connectivity and splash resistance rather than the deepest mechanical feel, this is a strong wireless option.",
     ],
     scoreOverall: 8.4,
@@ -92,7 +92,7 @@ export const products: ProductReviewCardProps[] = [
       { text: "Priced above single-mechanical-board alternatives once the mouse is factored in", severity: "minor" },
     ],
     reviewText: [
-      "The ProtoArc KM90-A is a combo built specifically around the Mac ecosystem rather than a generic keyboard with Mac keycaps swapped in. The backlit keys are a genuine differentiator among compact Mac-focused combos, and the quiet switches keep it appropriate for dorm rooms or shared workspaces where a clicky mechanical board would be disruptive.",
+      "The ProtoArc KM90-An is a combo built specifically around the Mac ecosystem rather than a generic keyboard with Mac keycaps swapped in. The backlit keys are a genuine differentiator among compact Mac-focused combos, and the quiet switches keep it appropriate for dorm rooms or shared workspaces where a clicky mechanical board would be disruptive.",
       "Because it bundles a rechargeable mouse with the keyboard, the effective per-device cost is reasonable even though the combo price looks higher than a solo keyboard. Multi-device Bluetooth switching moves cleanly between a MacBook and an iPad. Windows users have other options in this guide better suited to their layout, but for a Mac-first compact desk setup, this is the most complete backlit combo available.",
     ],
     scoreOverall: 8.2,
@@ -106,7 +106,7 @@ export const products: ProductReviewCardProps[] = [
     imageAlt: "Ultra-slim black Bluetooth wireless keyboard and mouse combo for tablets and phones",
     affiliateUrl: "https://www.amazon.com/dp/B0C48RVVM4?tag=theofficejournal-20",
     price: "~$18",
-    style: "Ultra-slim compact layout + wireless mouse included · Bluetooth only · Rechargeable · iOS, Android, Windows, Mac, and tablet compatible",
+    style: "Ultra-slim compact layout + wireless mouse included · Bluetooth only · Rechargeable · IOS, Android, Windows, Mac, and tablet compatible",
     pros: [
       { text: "Lowest price in this guide at under $20 for a keyboard and mouse together" },
       { text: "Rechargeable - no disposable batteries to replace" },
@@ -134,7 +134,7 @@ export const products: ProductReviewCardProps[] = [
     imageAlt: "Keychron K3 Version 2 75% wireless mechanical keyboard white backlit",
     affiliateUrl: "https://amzn.to/4tYdq0m",
     price: "~$96",
-    style: "75% layout (84 keys) · Bluetooth 5.1 + USB-C wired · Low-profile hot-swap switches · Mac and Windows",
+    style: "1 + USB-C wired · Low-profile hot-swap switches · Mac and Windows",
     pros: [
       { text: "75% layout retains F-row and arrow keys while fitting compact desks" },
       { text: "Hot-swappable sockets - change switch feel without soldering" },
@@ -162,7 +162,7 @@ export const products: ProductReviewCardProps[] = [
     imageAlt: "AULA F75 Pro wireless 75% mechanical keyboard with RGB and volume knob",
     affiliateUrl: "https://amzn.to/42WG7Qu",
     price: "$48–$65",
-    style: "75% layout (81 keys) + multimedia knob · Triple mode: Bluetooth 5.0, 2.4 GHz, USB-C · Gasket mount · Pre-lubed PBT keycaps",
+    style: "4 GHz, USB-C · Gasket mount · Pre-lubed PBT keycaps",
     pros: [
       { text: "Triple wireless mode: Bluetooth 5.0 + 2.4 GHz dongle + USB-C wired" },
       { text: "4,000 mAh battery - outstanding runtime vs competitors" },
@@ -175,7 +175,7 @@ export const products: ProductReviewCardProps[] = [
       { text: "Plastic finish feels less premium than aluminum-frame alternatives", severity: "minor" },
     ],
     reviewText: [
-      "The AULA F75 Pro delivers features that typically cost $30 to $50 more at its price. Triple wireless mode including 2.4 GHz is rare under $65 - the 2.4 GHz connection has lower latency than Bluetooth for gaming and fast typing. The 4,000 mAh battery outperforms most competitors by a significant margin: the Keychron K3 uses a 1,550 mAh cell by comparison. The added multimedia knob is a practical daily convenience for switching between music and focused study.",
+      "The AULA F75 Pro delivers features that typically cost $30 to $50 more at its price. 4 GHz connection has lower latency than Bluetooth for gaming and fast typing. The 4,000 mAh battery outperforms most competitors by a significant margin: the Keychron K3 uses a 1,550 mAh cell by comparison. The added multimedia knob is a practical daily convenience for switching between music and focused study.",
       "The gasket-mount construction is the technical differentiator worth understanding: instead of the PCB sitting directly against a hard plate, it floats on a gasket that absorbs typing vibration. This makes the typing sound noticeably softer without any foam modding. For a keyboard under $65 with this feature set and battery size, the AULA F75 Pro is the clearest value recommendation in this guide.",
     ],
     scoreOverall: 8.6,
@@ -203,7 +203,7 @@ export const products: ProductReviewCardProps[] = [
       { text: "No hot-swap capability - switch type is fixed", severity: "minor" },
     ],
     reviewText: [
-      "The Apple Magic Keyboard is the right answer for Mac-only setups and a poor answer for everything else. On macOS, the function row works exactly as expected without any key remapping, and the Bluetooth connection is seamless across iOS, iPadOS, and macOS devices. Scissor switches travel less than mechanical switches and feel more like a laptop keyboard - but for extended typing they are quiet, consistent, and fatigue-free in a way that some mechanical switches at higher actuation force are not.",
+      "The Apple Magic Keyboard is the right answer for Mac-only setups and a poor answer for everything else. On macOS, the function row works exactly as expected without any key remapping, and the Bluetooth connection is seamless across IOS, iPadOS, and macOS devices. Scissor switches travel less than mechanical switches and feel more like a laptop keyboard - but for extended typing they are quiet, consistent, and fatigue-free in a way that some mechanical switches at higher actuation force are not.",
       "The 2024 USB-C model is the version worth buying over older Lightning versions. USB-C charging is universal, and the wired mode during charging eliminates the interrupted workflow of the older keyboard design. At $79 this is not a budget purchase, but for a dedicated Mac user who values native key layout and a fully zero-configuration wireless connection, it is the cleanest available option.",
     ],
     scoreOverall: 8.8,
@@ -260,7 +260,7 @@ export const products: ProductReviewCardProps[] = [
     ],
     reviewText: [
       "The Corsair K55 CORE TKL is the best-value entry into TKL gaming keyboards for students who want RGB, reliable build quality, and spill resistance under $50. The IP32 spill protection is worth highlighting specifically for desk setups where drinks are nearby - the keyboard handles accidental liquid contact that would damage an unprotected board. The 1,000 Hz polling rate and 12-key rollover cover the basic gaming input requirements for most titles without the premium cost of mechanical switches.",
-      "The quiet membrane switches are a practical choice for shared rooms or library environments where clicky mechanical switches would be disruptive. The iCUE software integration lets you sync lighting with other Corsair peripherals if you have a coordinated setup, though 8-zone lighting is a step below per-key RGB found on more expensive boards. For a gamer on a student budget who needs reliable compact wired performance with RGB and spill protection, the K55 CORE TKL is the right starting point.",
+      "The quiet membrane switches are a practical choice for shared rooms or library environments where clicky mechanical switches would be disruptive. The ICUE software integration lets you sync lighting with other Corsair peripherals if you have a coordinated setup, though 8-zone lighting is a step below per-key RGB found on more expensive boards. For a gamer on a student budget who needs reliable compact wired performance with RGB and spill protection, the K55 CORE TKL is the right starting point.",
     ],
     scoreOverall: 8.0,
   },
@@ -273,7 +273,7 @@ export const products: ProductReviewCardProps[] = [
     imageAlt: "Arteck 2.4G wireless stainless steel slim keyboard full-size with numpad",
     affiliateUrl: "https://amzn.to/4wRIZvE",
     price: "~$38",
-    style: "Full-size with numpad · 2.4 GHz wireless (nano USB receiver) · Stainless steel top · Built-in rechargeable battery · Windows, Surface, Smart TV",
+    style: "4 GHz wireless (nano USB receiver) · Stainless steel top · Built-in rechargeable battery · Windows, Surface, Smart TV",
     pros: [
       { text: "Stainless steel top plate is durable and more fingerprint-resistant than ABS plastic" },
       { text: "6-month battery life per charge at 2 hours of daily use" },
@@ -287,8 +287,8 @@ export const products: ProductReviewCardProps[] = [
       { text: "Windows-focused key layout - Mac function keys are not optimized", severity: "minor" },
     ],
     reviewText: [
-      "The Arteck 2.4G is the right choice for users who want a wireless keyboard with a numpad and do not need multi-device Bluetooth switching. The stainless steel top is the build quality differentiator: it gives the keyboard a premium feel that ABS plastic alternatives at this price do not replicate, and it handles surface wear from daily use without the degradation plastic develops over months. The 6-month battery figure is conservative - users report charging annually at moderate use.",
-      "The caveat is its size: this is a full-size keyboard with a numpad, making it the largest in this guide by a significant margin. If desk space is the constraint, this is not the pick. Where it excels is a home office, media room, or desktop setup where a numpad is useful, wireless freedom matters, and compact keyboard layouts feel too cramped for the task. It is also the most reliable option for Smart TV and Surface pairings via 2.4 GHz, which avoids Bluetooth compatibility issues some TVs have.",
+      "4G is the right choice for users who want a wireless keyboard with a numpad and do not need multi-device Bluetooth switching. The stainless steel top is the build quality differentiator: it gives the keyboard a premium feel that ABS plastic alternatives at this price do not replicate, and it handles surface wear from daily use without the degradation plastic develops over months. The 6-month battery figure is conservative - users report charging annually at moderate use.",
+      "The caveat is its size: this is a full-size keyboard with a numpad, making it the largest in this guide by a significant margin. If desk space is the constraint, this is not the pick. Where it excels is a home office, media room, or desktop setup where a numpad is useful, wireless freedom matters, and compact keyboard layouts feel too cramped for the task. 4 GHz, which avoids Bluetooth compatibility issues some TVs have.",
     ],
     scoreOverall: 7.8,
   },
@@ -315,8 +315,8 @@ export const products: ProductReviewCardProps[] = [
       { text: "6 macro keys add width beyond standard TKL footprint", severity: "minor" },
     ],
     reviewText: [
-      "The SteelSeries Apex 3 TKL differentiates from the Corsair K55 CORE in two meaningful ways: N-Key Rollover and 6 dedicated macro keys. NKRO means every simultaneous key press registers without limit - in fast-paced gaming where movement, ability, and action keys are pressed together, a keyboard without NKRO misses inputs. The 6 macro keys on the left side provide programmable shortcuts without any modifier key combinations, which is genuinely useful for MMO players and users with complex application shortcuts.",
-      "The whisper-quiet switches work in shared spaces, and IP32 matches the Corsair for spill protection. SteelSeries GG ecosystem integration means lighting and macro programming work across Apex devices without separate software installs. Between this and the Corsair K55 CORE TKL at similar prices, the choice depends on specific needs: NKRO and dedicated macro keys favor this pick; existing Corsair iCUE ecosystem users should choose the Corsair.",
+      "The SteelSeries Apex 3 TKL differentiates from the Corsair K55 CORE in two meaningful ways: N-Key Rollover and 6 dedicated macro keys. NKRO means every simultaneous key press registers without limit - in fast-paced gaming where movement, ability, and action keys are pressed together, a keyboard without NKRO misses inputs. The 6 macro keys on the left side provide programmable shortcuts without any modifier key combinations, which is useful for MMO players and users with complex application shortcuts.",
+      "The whisper-quiet switches work in shared spaces, and IP32 matches the Corsair for spill protection. SteelSeries GG ecosystem integration means lighting and macro programming work across Apex devices without separate software installs. Between this and the Corsair K55 CORE TKL at similar prices, the choice depends on specific needs: NKRO and dedicated macro keys favor this pick; existing Corsair ICUE ecosystem users should choose the Corsair.",
     ],
     scoreOverall: 8.3,
   },
@@ -329,7 +329,7 @@ export const products: ProductReviewCardProps[] = [
     imageAlt: "Rii i4 mini Bluetooth keyboard with integrated touchpad black portable",
     affiliateUrl: "https://amzn.to/4nLMZcM",
     price: "$22–$28",
-    style: "Mini QWERTY with integrated touchpad · Dual mode: Bluetooth 4.0 + 2.4 GHz USB dongle · Backlit keys · iOS, Android, Windows, macOS, TV Box, Raspberry Pi",
+    style: "4 GHz USB dongle · Backlit keys · IOS, Android, Windows, macOS, TV Box, Raspberry Pi",
     pros: [
       { text: "Integrated touchpad eliminates the need for a separate mouse" },
       { text: "155 x 89 mm footprint - most compact keyboard in this guide" },
@@ -344,7 +344,7 @@ export const products: ProductReviewCardProps[] = [
     ],
     reviewText: [
       "The Rii i4 occupies a different category from the rest of this guide. It is not designed for full-speed desktop typing sessions - its 155 x 89 mm footprint and compact key pitch make sustained typing slower than a full-size or even a 60% layout. What it is designed for is controlling devices at a distance: Android TV boxes, projectors, Raspberry Pi media centers, smart TVs, and any setup where reaching for a mouse and full-size keyboard is impractical. The integrated touchpad gives you pointer control and keyboard input in one palm-sized unit.",
-      "For students using a TV as a secondary display, running a Raspberry Pi project, or needing wireless input for a media center setup, the Rii i4 is the most capable compact solution under $30. Dual-mode connectivity (Bluetooth 4.0 for pairing, 2.4 GHz dongle when Bluetooth is unavailable) covers every device scenario. Choose this for the secondary and remote-control use cases where its size and touchpad are genuine advantages - not as a primary productivity keyboard.",
+      "For students using a TV as a secondary display, running a Raspberry Pi project, or needing wireless input for a media center setup, the Rii i4 is the most capable compact solution under $30. 4 GHz dongle when Bluetooth is unavailable) covers every device scenario.",
     ],
     scoreOverall: 7.9,
   },
@@ -374,7 +374,7 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "What is the difference between 2.4 GHz wireless and Bluetooth?",
-    a: "A 2.4 GHz keyboard uses a dedicated USB nano receiver that creates a direct wireless link to a single device. This results in lower latency than Bluetooth (typically 1ms vs 10-20ms) and more reliable connections. Bluetooth connects without any USB receiver but has slightly higher latency. For gaming or fast typing where every millisecond counts, 2.4 GHz is the better choice. For multi-device switching between a laptop, desktop, and tablet, Bluetooth is more flexible since most devices have Bluetooth but only one USB port available for a nano receiver.",
+    a: "4 GHz keyboard uses a dedicated USB nano receiver that creates a direct wireless link to a single device. This results in lower latency than Bluetooth (typically 1ms vs 10-20ms) and more reliable connections. Bluetooth connects without any USB receiver but has slightly higher latency. 4 GHz is the better choice. For multi-device switching between a laptop, desktop, and tablet, Bluetooth is more flexible since most devices have Bluetooth but only one USB port available for a nano receiver.",
   },
   {
     q: "Can I use these keyboards on both Mac and Windows?",

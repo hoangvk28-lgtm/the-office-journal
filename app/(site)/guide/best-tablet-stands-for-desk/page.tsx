@@ -52,8 +52,8 @@ const articleSchema = {
   description: guideDescription,
   datePublished: lastUpdated,
   dateModified: lastUpdated,
-  author: { "@type": "Organization", name: "WorkCocoon Editorial Team", url: `${SITE_URL}/author/deskfinds-editorial-team` },
-  publisher: { "@type": "Organization", name: "WorkCocoon", url: SITE_URL },
+  author: { "@type": "Organization", name: "The Office Journal Editorial Team", url: `${SITE_URL}/author/deskfinds-editorial-team` },
+  publisher: { "@type": "Organization", name: "The Office Journal", url: SITE_URL },
   mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-tablet-stands-for-desk` },
   image: fallbackHeroImage,
 };
@@ -178,7 +178,7 @@ export default async function BestTabletStandsForDeskPage() {
             <span className="flex items-center gap-1.5">
               <svg className="w-3.5 h-3.5 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z" /></svg>
               <Link prefetch={false} href="/author/deskfinds-editorial-team" className="hover:text-ink hover:underline transition-colors">
-                WorkCocoon Editorial Team
+                The Office Journal Editorial Team
               </Link>
             </span>
             <span aria-hidden="true">·</span>
@@ -214,7 +214,7 @@ export default async function BestTabletStandsForDeskPage() {
             This guide covers seven picks across the main desk use cases: a reliable all-around stand, a compact aluminum option for phones and small tablets, a rotating stand for video calls and shared viewing, a large-tablet stand that handles up to 15.6&quot;, a portable pick for students who move between locations, a premium arm-style stand, and a budget foldable option.
           </p>
           <p>
-            Unless clearly stated otherwise, WorkCocoon guides are research-based, not hands-on lab tests. We analyze product specs, public product information, and buyer feedback to help you make a better decision.
+            Unless clearly stated otherwise, The Office Journal guides are research-based, not hands-on lab tests. We analyze product specs, public product information, and buyer feedback to help you make a better decision.
           </p>
           <p>
             See also: <Link prefetch={false} href="/guide/best-tablet-stands">Best Tablet Stands (all uses)</Link> | <Link prefetch={false} href="/guide/best-tablet-stands-for-bed">Best Tablet Stands for Bed</Link> | <Link prefetch={false} href="/how-we-review">How We Review</Link>

@@ -44,7 +44,7 @@ const REPLACE: [RegExp, string][] = [
   [/\b([a-z])([A-Z]{1,5})\b/g, (_: string, a: string, b: string) => a.toUpperCase() + b] as unknown as [RegExp, string],
 ];
 
-function fixArticles(s: string): string {
+export function fixArticles(s: string): string {
   return s
     .replace(/\b([Aa]) ([A-Za-z][\w-]*)/g, (m, a, w) => {
       const want = indefiniteArticle(w);
@@ -55,7 +55,7 @@ function fixArticles(s: string): string {
       /^(hour|honest|honor|herb)/i.test(w) ? m : (a === "A" ? "A " : "a ") + w);
 }
 
-function cleanText(s: string): string {
+export function cleanText(s: string): string {
   const paras = s.split(/\n\n/).map((p) => {
     const sentences = p.match(/[^.!?]+[.!?]+(\s|$)|[^.!?]+$/g) ?? [p];
     const kept = sentences
@@ -69,7 +69,7 @@ function cleanText(s: string): string {
   return paras.filter(Boolean).join("\n\n");
 }
 
-function cleanList(arr: unknown): string[] | unknown {
+export function cleanList(arr: unknown): string[] | unknown {
   if (!Array.isArray(arr)) return arr;
   const kept = (arr as string[])
     .filter((x) => typeof x !== "string" || !BAD_SENTENCE.test(x))
@@ -82,17 +82,17 @@ function cleanList(arr: unknown): string[] | unknown {
   return kept.length ? kept : arr;
 }
 
-function deep(v: unknown): unknown {
+export function deep(v: unknown): unknown {
   if (typeof v === "string") return cleanText(v);
   if (Array.isArray(v)) return v.map(deep);
   if (v && typeof v === "object") return Object.fromEntries(Object.entries(v).map(([k, x]) => [k, deep(x)]));
   return v;
 }
 
-const hash = (s: string) => [...s].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
-const pick = <T,>(arr: T[], s: string) => arr[hash(s) % arr.length];
+export const hash = (s: string) => [...s].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
+export const pick = <T,>(arr: T[], s: string) => arr[hash(s) % arr.length];
 
-const OUTCOME: Record<string, string[]> = {
+export const OUTCOME: Record<string, string[]> = {
   "desk-setup": ["for a Better Desk Setup", "for a Cleaner, More Useful Desk", "for Everyday Desk Work"],
   chairs: ["for Everyday Work", "for a Better Home Office", "for Comfortable Workdays"],
   desks: ["for Home Offices", "for Everyday Work", "for a Better Workspace"],
@@ -100,7 +100,7 @@ const OUTCOME: Record<string, string[]> = {
   "work-better": ["for a Better Workday", "for Home-Office Comfort", "for Everyday Work"],
   "workspace-ideas": ["for Small and Everyday Spaces", "for a Better Home Office", "for Real-World Rooms"],
 };
-const CRITERIA: Record<string, string> = {
+export const CRITERIA: Record<string, string> = {
   "desk-setup": "compatibility, build, features and price",
   chairs: "seat height, adjustment, support and warranty",
   desks: "size, height range, stability and features",
@@ -182,4 +182,4 @@ async function main() {
   fs.appendFileSync("scripts/editorial/light-done.txt", done.join("\n") + (done.length ? "\n" : ""));
   console.log("light pass:", done.length);
 }
-main().catch((e) => { console.error(e); process.exit(1); });
+if (process.argv[1]?.endsWith("light.ts")) main().catch((e) => { console.error(e); process.exit(1); });

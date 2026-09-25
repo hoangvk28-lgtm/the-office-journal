@@ -346,7 +346,7 @@ export const faq: { question: string; answer: string }[] = [
   {
     question: "Can a small desk work for both a monitor and a laptop?",
     answer:
-      "Yes. Use a laptop stand to raise the laptop to monitor height and connect a single external keyboard and mouse. Both screens can then be used at eye level without either taking over the main work surface.",
+      "Use a laptop stand to raise the laptop to monitor height and connect a single external keyboard and mouse. Both screens can then be used at eye level without either taking over the main work surface.",
   },
   {
     question: "How can I add storage to a small desk without making it cluttered?",

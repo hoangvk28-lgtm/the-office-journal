@@ -5,7 +5,7 @@ export const guideTitle = "10 Desk Upgrades Under $100 That Make a Real Differen
 export const guideDescription =
   "10 desk upgrades evaluated specifically for small desks and student/remote-work setups -- monitor arms, ergonomic keyboards, wrist support, cable management, and more. All under $100, most under $60.";
 export const metaTitle = "10 Best Desk Upgrades Under $100 (2026)";
-export const metaDescription = "10 desk upgrades under $100 for small desks -- monitor arms, ergonomic keyboards, wrist support, cable management, and USB hubs. Most under $60.";
+export const metaDescription = "10 desk upgrades under $100 for small desks -- monitor arms, ergonomic keyboards, wrist support, cable management, and USB hubs.";
 export const lastUpdated = "2026-05-27";
 export const readTime = "12 min";
 export const heroImage = `${B}/1A-huanuo-flowlift-single.webp`;
@@ -48,8 +48,8 @@ export const upgrades: Upgrade[] = [
         amazonUrl: "https://www.amazon.com/dp/B07T3KCQ94?tag=theofficejournal-20",
         imageUrl: `${B}/1A-huanuo-flowlift-single.webp`,
         intro:
-          "Gas-spring, rated for 4.4-19.8 lbs, covers 13\"-32\" screens, installs in under 5 minutes with C-clamp or grommet. Tested for 20,000 motion cycles -- more than a decade of daily adjustments. +85/-50 tilt, 90 swivel, 360 rotation.",
-        bestFor: "Most single-monitor setups. The default recommendation for anyone with one screen under 32\".",
+          "8 lbs, covers 13\"-32\" screens, installs in under 5 minutes with C-clamp or grommet. Tested for 20,000 motion cycles -- more than a decade of daily adjustments. +85/-50 tilt, 90 swivel, 360 rotation.",
+        bestFor: "The default recommendation for anyone with one screen under 32\".",
         specs: [
           { label: "Fits", value: "13\"-32\", 4.4-19.8 lbs" },
           { label: "Mount", value: "C-clamp or grommet" },
@@ -107,7 +107,7 @@ export const upgrades: Upgrade[] = [
           "Monitor mount and laptop tray off a single clamp -- one installation point for both devices. Laptop tray extends from the same center pole as the monitor mount.",
         bestFor: "Thin desk edges where only one clamp fits, or users who want fewer mounting points.",
         caveat:
-          "Mechanical arm (not gas-spring). Repositioning requires loosening a knob. Fine for a setup you configure once and leave.",
+          "Repositioning requires loosening a knob. Fine for a setup you configure once and leave.",
         specs: [
           { label: "Monitor", value: "Up to 32\", VESA 75/100mm" },
           { label: "Laptop tray", value: "Up to 17\"" },
@@ -130,7 +130,7 @@ export const upgrades: Upgrade[] = [
         amazonUrl: "https://www.amazon.com/dp/B0C9DQPTLM?tag=theofficejournal-20",
         imageUrl: `${B}/3A-trueque-km23.webp`,
         intro:
-          "Full-size wireless keyboard with built-in wrist rest, a phone holder slot, and quiet keystrokes. Mouse included. The phone holder on the frame keeps your phone at eye level beside your screen without a separate stand.",
+          "Full-size wireless keyboard with built-in wrist rest, a phone holder slot, and quiet keystrokes. The phone holder on the frame keeps your phone at eye level beside your screen without a separate stand.",
         bestFor: "Students and remote workers who want one wireless set with everything -- keyboard, mouse, wrist support, phone stand.",
         specs: [
           { label: "Layout", value: "Full-size" },
@@ -186,7 +186,7 @@ export const upgrades: Upgrade[] = [
         amazonUrl: "https://www.amazon.com/dp/B010UKQ5QM?tag=theofficejournal-20",
         imageUrl: `${B}/4-premium-wrist-rest-armrest.webp`,
         intro:
-          "Clamps to the desk edge and provides a padded forearm support platform that rotates to follow your arm as you move. Height adjustable. Works as a desk armrest or chair armrest replacement.",
+          "Clamps to the desk edge and provides a padded forearm support platform that rotates to follow your arm as you move. Works as a desk armrest or chair armrest replacement.",
         bestFor: "Heavy mouse users (designers, editors, spreadsheet users) and anyone who feels tension in their shoulder, neck, or upper arm during desk sessions.",
         specs: [
           { label: "Mount", value: "Clamps to desk edge" },
@@ -211,7 +211,7 @@ export const upgrades: Upgrade[] = [
         amazonUrl: "https://www.amazon.com/dp/B08WRK72KF?tag=theofficejournal-20",
         imageUrl: `${B}/5-mount-it-3-height-footrest.webp`,
         intro:
-          "Three height levels (2.75\", 4.75\", 6.75\") and adjustable tilt angle let you dial in exact foot position for your height and chair. Textured surface promotes gentle foot movement for better circulation. Also functions as a laptop stand on top.",
+          "75\") and adjustable tilt angle let you dial in exact foot position for your height and chair. Textured surface promotes gentle foot movement for better circulation. Also functions as a laptop stand on top.",
         bestFor: "Anyone whose feet don't rest flat comfortably while typing. Test: if there's a gap between your feet and the floor at your normal typing position, this fixes it.",
         specs: [
           { label: "Heights", value: "2.75\" / 4.75\" / 6.75\"" },
@@ -366,7 +366,7 @@ export const beforeYouBuy = [
   },
   {
     title: "How thick is your desk edge?",
-    body: "C-clamp arms work on desk edges up to 3-4\" thick. Most IKEA tabletops (LINNMON, BEKANT) are 1.25-1.5\" thick -- fine. Check if your desk has a hollow edge before purchasing; some cheap tabletops crack under clamp pressure. Use the grommet mount option on these desks.",
+    body: "C-clamp arms work on desk edges up to 3-4\" thick. Check if your desk has a hollow edge before purchasing; some cheap tabletops crack under clamp pressure. Use the grommet mount option on these desks.",
   },
   {
     title: "Is your desk surface smooth enough for adhesive mounts?",
@@ -393,11 +393,11 @@ export const quickReference = [
 export const faq: Array<{ q: string; a: string }> = [
   {
     q: "Is a gas-spring monitor arm worth the extra $15-20 vs a friction arm?",
-    a: "Yes, unambiguously. Gas-spring arms float -- you reposition with one hand, let go, it stays. Friction arms require loosening a knob, repositioning, retightening. You stop adjusting friction arms after week two because it's annoying. Gas-spring arms you actually use. The daily ergonomic benefit of a monitor arm depends entirely on whether you actually adjust it -- so mechanism quality directly determines the value you get.",
+    a: "Gas-spring arms float -- you reposition with one hand, let go, it stays. Friction arms require loosening a knob, repositioning, retightening. You stop adjusting friction arms after week two because it's annoying. Gas-spring arms you actually use. The daily ergonomic benefit of a monitor arm depends entirely on whether you actually adjust it -- so mechanism quality directly determines the value you get.",
   },
   {
     q: "My monitor arm keeps drooping -- is it broken?",
-    a: "Check the tension adjustment. Most arms (including HUANUO) have a tension screw or dial on the arm's lower joint or vertical post. Tighten it clockwise. If the arm continues to droop after maximum tension, the arm's weight capacity may be too low for your monitor -- check the rated weight vs. your monitor's actual weight.",
+    a: "Most arms (including HUANUO) have a tension screw or dial on the arm's lower joint or vertical post. If the arm continues to droop after maximum tension, the arm's weight capacity may be too low for your monitor -- check the rated weight vs.",
   },
   {
     q: "Do I really need a footrest if my feet touch the floor?",
@@ -413,6 +413,6 @@ export const faq: Array<{ q: string; a: string }> = [
   },
   {
     q: "Does wireless keyboard/mouse connectivity cause lag for gaming?",
-    a: "For productivity use, 2.4G wireless keyboards and mice are effectively indistinguishable from wired at human perception speeds. For competitive gaming (sub-1ms input latency matters), wired or premium gaming wireless is preferable. The Trueque and Wave Keys combos are productivity-grade wireless -- excellent for everything except competitive FPS or rhythm games.",
+    a: "4G wireless keyboards and mice are effectively indistinguishable from wired at human perception speeds. For competitive gaming (sub-1ms input latency matters), wired or premium gaming wireless is preferable. The Trueque and Wave Keys combos are productivity-grade wireless -- excellent for everything except competitive FPS or rhythm games.",
   },
 ];

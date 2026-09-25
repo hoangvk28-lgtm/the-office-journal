@@ -40,7 +40,7 @@ export const products: VintageDesk[] = [
     imageUrl: `${BASE}/02-cozy_mid_century_office_corner_with_plants.webp`,
     amazonUrl: "https://www.amazon.com/dp/B00AKKOKRY?tag=theofficejournal-20",
     whyItWorks:
-      "The SAFAVIEH Landon is the most storage-dense desk on this list: 5 drawers in a 36.2\" width. The design is traditional rather than pure MCM - the styling references Victorian and traditional American writing desks. For buyers who want vintage character, substantial storage, and a compact footprint, the Landon delivers all three. Available in Black, Walnut-tone, and Henna Brown finishes. SAFAVIEH is an established furniture brand with a track record across multiple product lines.",
+      "The design is traditional rather than pure MCM - the styling references Victorian and traditional American writing desks. For buyers who want vintage character, substantial storage, and a compact footprint, the Landon delivers all three. Available in Black, Walnut-tone, and Henna Brown finishes. SAFAVIEH is an established furniture brand with a track record across multiple product lines.",
     tradeoffs: [
       "Traditional style - not pure MCM (no tapered legs)",
       "Walnut is a finish color, not walnut wood species",
@@ -48,7 +48,7 @@ export const products: VintageDesk[] = [
       "Verify stock before purchasing - availability varies by color",
     ],
     skipIf:
-      "Skip if you want authentic MCM tapered-leg design - the Linon Melissa (Rank 2) or Modway Render (Rank 3) are the MCM options. Skip if you need more than 36.2\" of surface width.",
+      "Skip if you want authentic MCM tapered-leg design - the Linon Melissa (Rank 2) or Modway Render (Rank 3) are the MCM options.",
     pros: [
       "5 drawers in a 36.2\" footprint - exceptional storage density",
       "SAFAVIEH brand with established consistent quality",
@@ -197,14 +197,14 @@ export const products: VintageDesk[] = [
     imageUrl: `${BASE}/07-cozy_modern_workspace_with_natural_light.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0FMJWHMD4?tag=theofficejournal-20",
     whyItWorks:
-      "The YEXINGlow 47.2\" is the widest desk on this list with solid wood construction and MCM design language - tapered legs, clean lines, two drawers. At 47.2\" wide, this is the most practical single-monitor workstation size in the MCM category on this list. Two drawers in a solid wood MCM desk at this width and price point is uncommon - most MCM desks either sacrifice storage for aesthetics or sacrifice material quality for storage.",
+      "2\" is the widest desk on this list with solid wood construction and MCM design language - tapered legs, clean lines, two drawers. 2\" wide, this is the most practical single-monitor workstation size in the MCM category on this list. Two drawers in a solid wood MCM desk at this width and price point is uncommon - most MCM desks either sacrifice storage for aesthetics or sacrifice material quality for storage.",
     tradeoffs: [
       "YEXINGlow is a newer brand with lower review volume",
       "Walnut tone is a finish - verify wood species in description",
       "Check current availability before purchasing",
     ],
     skipIf:
-      "Skip if brand trust with extensive reviews is a priority - the Linon Melissa (Rank 2) has a more established review history. Skip if 47.2\" is too wide for your space - the YEXINGlow 39.4\" (Rank 7) gives the same desk at a smaller footprint.",
+      "Skip if brand trust with extensive reviews is a priority - the Linon Melissa (Rank 2) has a more established review history. 4\" (Rank 7) gives the same desk at a smaller footprint.",
     pros: [
       "47.2\" solid wood with MCM design and 2 drawers - rare combination",
       "Tapered legs give authentic MCM silhouette",
@@ -228,14 +228,14 @@ export const products: VintageDesk[] = [
     imageUrl: `${BASE}/08-mid_century_modern_study_corner.webp`,
     amazonUrl: "https://www.amazon.com/dp/B0FMJVBM8Z?tag=theofficejournal-20",
     whyItWorks:
-      "The 39.4\" variant of the same YEXINGlow MCM desk - 7.8 inches narrower, same solid wood construction and two-drawer configuration. For tight spaces where 47.2\" is too wide, the 39.4\" gives the MCM aesthetic and storage in a genuinely compact footprint. At 39.4\" wide, this is best suited for laptop plus accessories, or a single small monitor (up to 24\") with a monitor arm.",
+      "8 inches narrower, same solid wood construction and two-drawer configuration. 4\" gives the MCM aesthetic and storage in a compact footprint. 4\" wide, this is best suited for laptop plus accessories, or a single small monitor (up to 24\") with a monitor arm.",
     tradeoffs: [
       "39.4\" limits desk surface for larger monitor setups",
       "Lower review count - newer listing",
       "Verify current availability",
     ],
     skipIf:
-      "Skip if you need 47\"+ of surface width - the YEXINGlow 47.2\" (Rank 6) gives the same desk at a larger footprint. Skip if you need more than a 24\" monitor without a monitor arm.",
+      "2\" (Rank 6) gives the same desk at a larger footprint. Skip if you need more than a 24\" monitor without a monitor arm.",
     pros: [
       "Compact 39.4\" with solid wood, MCM design, and 2 drawers",
       "Fits tight bedroom and apartment spaces",
@@ -265,7 +265,7 @@ export const products: VintageDesk[] = [
       "Lower trust signals vs higher-ranked alternatives",
     ],
     skipIf:
-      "Use as backup only. If any higher-ranked pick is available, prioritize those. The Modway Render (Rank 3) is the next-most-accessible compact MCM desk if budget is constrained.",
+      "If any higher-ranked pick is available, prioritize those. The Modway Render (Rank 3) is the next-most-accessible compact MCM desk if budget is constrained.",
     pros: [
       "Solid rubber wood legs - a real wood element",
       "41\" compact width",

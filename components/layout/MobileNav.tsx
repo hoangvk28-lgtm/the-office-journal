@@ -53,7 +53,7 @@ export function MobileNav() {
       {open && (
         <div
           id={panelId}
-          className="fixed inset-x-0 bottom-0 top-16 z-50 overflow-y-auto border-t border-border bg-bg lg:top-[4.5rem]"
+          className="fixed inset-x-0 bottom-0 top-16 z-50 overflow-y-auto border-t border-border bg-bg lg:top-20"
         >
           <nav aria-label="Mobile" className="mx-auto max-w-[1280px] px-4 pb-10 pt-4 sm:px-6">
             <p className="eyebrow !text-ink-secondary">Departments</p>

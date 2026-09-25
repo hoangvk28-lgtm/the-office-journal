@@ -151,7 +151,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Filing capacity trade-off versus dedicated cabinets",
-    "description": "Compared drawer count against dedicated filing cabinets in other WorkCocoon guides, noting that most combo units here offer 2 drawers versus the 4-drawer capacity of filing-focused cabinets."
+    "description": "Compared drawer count against dedicated filing cabinets in other The Office Journal guides, noting that most combo units here offer 2 drawers versus the 4-drawer capacity of filing-focused cabinets."
   },
   {
     "title": "",
@@ -191,7 +191,7 @@ export const products: GuideProduct[] = [
     "reviews": "18 ratings",
     "imageUrl": "https://m.media-amazon.com/images/I/41TOe+QiX0L._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0GYQLX52Z?tag=theofficejournal-20",
-    "description": "This is the clearest genuine combo in this list, pairing a two-drawer file cabinet for A4 hanging files with three tiers of true open shelving stacked above it, plus a built-in power outlet for charging devices at desk height. At 72 inches tall, it is also the most top-heavy unit here, so anchoring it to the wall before loading the shelves is not optional.\n\nFiling capacity is limited to two drawers, a real trade-off against the four-drawer dedicated cabinets in other WorkCocoon guides.\n\nBuilt-in power outlet is a rare added feature.",
+    "description": "This is the clearest genuine combo in this list, pairing a two-drawer file cabinet for A4 hanging files with three tiers of true open shelving stacked above it, plus a built-in power outlet for charging devices at desk height. At 72 inches tall, it is also the most top-heavy unit here, so anchoring it to the wall before loading the shelves is not optional.\n\nFiling capacity is limited to two drawers, a real trade-off against the four-drawer dedicated cabinets in other The Office Journal guides.\n\nBuilt-in power outlet is a rare added feature.",
     "specs": [
       "2 drawers, fits A4 hanging files",
       "3-tier open shelving",

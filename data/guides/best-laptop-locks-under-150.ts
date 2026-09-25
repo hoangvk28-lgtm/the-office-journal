@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label key/combination management and anchor usability as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated key/combination management and anchor usability figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

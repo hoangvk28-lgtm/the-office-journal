@@ -28,8 +28,8 @@ export function buildMetadata({
   noIndex?: boolean;
   type?: "website" | "article";
 }): Metadata {
-  // Build the display title once, with "| WorkCocoon" appended if not already present.
-  // Use { absolute } so the root layout template (%s | WorkCocoon) never wraps it again.
+  // Build the display title once, with "| The Office Journal" appended if not already present.
+  // Use { absolute } so the root layout template (%s | The Office Journal) never wraps it again.
   const fullTitle = title.includes(SITE_NAME)
     ? title
     : `${title} | ${SITE_NAME}`;

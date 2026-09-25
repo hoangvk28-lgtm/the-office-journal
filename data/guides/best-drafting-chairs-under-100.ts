@@ -169,7 +169,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label seat/back ergonomics and cylinder/base stability as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated seat/back ergonomics and cylinder/base stability figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

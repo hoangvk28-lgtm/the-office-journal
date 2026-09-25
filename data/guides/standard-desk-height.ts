@@ -20,7 +20,7 @@ export const standardDeskHeightGuide: Guide = {
   thumbnailImage:
     "/images/guides/standard-desk-height/01-standard-desk-height-hero.webp",
   lastUpdated: "2026-06-22",
-  author: "WorkCocoon Editorial Team",
+  author: "The Office Journal Editors",
   readTime: "8 min",
   recommendedProductIds: [],
   relatedGuideSlugs: [

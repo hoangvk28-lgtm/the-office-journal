@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Classify shelf/door storage and load/anti-tip/stability as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "Classify shelf/door storage and load/anti-tip/stability as official-documentation-confirmed, The Office Journal-measured, manufacturer-claimed or unverified."
   },
   {
     "title": "",

@@ -4,9 +4,9 @@ import { Container } from "@/components/layout/Container";
 import { buildMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Contact WorkCocoon",
+  title: "Contact The Office Journal",
   description:
-    "Get in touch with the WorkCocoon team. Corrections, product suggestions, buying questions, and press inquiries welcome.",
+    "Get in touch with the The Office Journal team. Corrections, product suggestions, buying questions, and press inquiries welcome.",
   path: "/contact",
 });
 
@@ -104,7 +104,7 @@ export default function ContactPage() {
             <ul className="space-y-1.5 text-sm">
               <li><Link prefetch={false} href="/how-we-review" className="text-brand hover:text-brand-dark transition-colors font-medium">How We Review Products →</Link></li>
               <li><Link prefetch={false} href="/affiliate-disclosure" className="text-brand hover:text-brand-dark transition-colors font-medium">Affiliate Disclosure →</Link></li>
-              <li><Link prefetch={false} href="/about-workcocoon" className="text-brand hover:text-brand-dark transition-colors font-medium">About WorkCocoon →</Link></li>
+              <li><Link prefetch={false} href="/about-workcocoon" className="text-brand hover:text-brand-dark transition-colors font-medium">About The Office Journal →</Link></li>
               <li><Link prefetch={false} href="/privacy-policy" className="text-brand hover:text-brand-dark transition-colors font-medium">Privacy Policy →</Link></li>
             </ul>
           </div>

@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label directivity/room controls and self-noise/distortion as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated directivity/room controls and self-noise/distortion figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

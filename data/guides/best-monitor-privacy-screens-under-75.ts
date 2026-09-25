@@ -169,7 +169,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label light transmittance/color shift and attachment/reversibility as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated light transmittance/color shift and attachment/reversibility figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

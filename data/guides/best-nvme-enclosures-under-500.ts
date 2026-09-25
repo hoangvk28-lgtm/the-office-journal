@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label sustained thermals and TRIM/UASP/SMART as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated sustained thermals and TRIM/UASP/SMART figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

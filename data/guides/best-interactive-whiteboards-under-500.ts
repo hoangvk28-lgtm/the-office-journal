@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Classify touch/write quality and OS/EDLA/device management as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "Classify touch/write quality and OS/EDLA/device management as official-documentation-confirmed, The Office Journal-measured, manufacturer-claimed or unverified."
   },
   {
     "title": "",

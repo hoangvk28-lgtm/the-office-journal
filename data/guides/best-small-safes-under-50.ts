@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label lock/override and anchoring as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated lock/override and anchoring figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

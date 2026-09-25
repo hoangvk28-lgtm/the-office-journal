@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Classify water protection and security/lock/anchoring as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "Classify water protection and security/lock/anchoring as official-documentation-confirmed, The Office Journal-measured, manufacturer-claimed or unverified."
   },
   {
     "title": "",

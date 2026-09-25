@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label onboard multitrack recording and remote-guest inputs as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated onboard multitrack recording and remote-guest inputs figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

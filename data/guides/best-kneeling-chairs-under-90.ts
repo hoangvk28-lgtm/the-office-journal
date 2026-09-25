@@ -169,7 +169,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label pressure/padding and frame stability as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated pressure/padding and frame stability figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

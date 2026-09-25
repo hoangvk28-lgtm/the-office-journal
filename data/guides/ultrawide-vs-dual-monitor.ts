@@ -20,7 +20,7 @@ export const ultrawideVsDualMonitorGuide: Guide = {
   thumbnailImage:
     "/images/guides/ultrawide-vs-dual-monitor/01-ultrawide-vs-dual-monitor-hero.webp",
   lastUpdated: "2026-06-22",
-  author: "WorkCocoon Editorial Team",
+  author: "The Office Journal Editors",
   readTime: "9 min",
   recommendedProductIds: [],
   relatedGuideSlugs: [

@@ -20,7 +20,7 @@ export const ergonomicChairVsGamingChairGuide: Guide = {
   thumbnailImage:
     "/images/guides/ergonomic-chair-vs-gaming-chair/01-ergonomic-chair-vs-gaming-chair-hero.webp",
   lastUpdated: "2026-06-22",
-  author: "WorkCocoon Editorial Team",
+  author: "The Office Journal Editors",
   readTime: "10 min",
   recommendedProductIds: [],
   relatedGuideSlugs: [

@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label mic preamp/processing and game/chat/monitor mixes as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated mic preamp/processing and game/chat/monitor mixes figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

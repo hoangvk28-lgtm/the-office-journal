@@ -132,7 +132,7 @@ export default async function Page() {
     datePublished: lastUpdated,
     dateModified: lastUpdated,
     author: { "@type": "Person", name: "Jamie Cole", url: `${SITE_URL}/author/jamie-cole` },
-    publisher: { "@type": "Organization", name: "WorkCocoon", url: SITE_URL },
+    publisher: { "@type": "Organization", name: "The Office Journal", url: SITE_URL },
     mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/guide/best-7-inch-smart-displays` },
     about: [{"@type":"Thing","name":"Best 7 Inch Smart Display"}],
   };

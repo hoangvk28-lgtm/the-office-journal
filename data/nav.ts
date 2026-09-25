@@ -4,7 +4,7 @@
   children?: { label: string; href: string; description?: string }[];
 }
 
-// Legacy WorkCocoon nav — no longer rendered by the header; kept for reference.
+// Legacy The Office Journal nav — no longer rendered by the header; kept for reference.
 export const mainNav: NavItem[] = [
   {
     label: "Workspace Ideas",

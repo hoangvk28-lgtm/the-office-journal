@@ -169,7 +169,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label driver/features and PD passthrough as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated driver/features and PD passthrough figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

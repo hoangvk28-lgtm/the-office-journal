@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Classify throw/lens/image geometry and input lag/refresh/connectivity as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "Classify throw/lens/image geometry and input lag/refresh/connectivity as official-documentation-confirmed, The Office Journal-measured, manufacturer-claimed or unverified."
   },
   {
     "title": "",

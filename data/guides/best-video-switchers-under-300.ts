@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label multiview/monitoring and streaming/recording as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated multiview/monitoring and streaming/recording figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

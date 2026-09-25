@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Classify enclosure/interlock/class safety and material compatibility + extraction as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "Classify enclosure/interlock/class safety and material compatibility + extraction as official-documentation-confirmed, The Office Journal-measured, manufacturer-claimed or unverified."
   },
   {
     "title": "",

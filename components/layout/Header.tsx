@@ -14,7 +14,7 @@ export function Header() {
     <header className="sticky top-0 z-50 bg-white border-b border-border shadow-sm">
       {/* Top bar */}
       <div className="bg-brand text-ink-inverse text-xs py-1.5 px-4 flex items-center justify-center gap-2">
-        <span className="opacity-90 hidden sm:inline">WorkCocoon earns a commission on qualifying Amazon purchases.</span>
+        <span className="opacity-90 hidden sm:inline">The Office Journal earns a commission on qualifying Amazon purchases.</span>
         <span className="opacity-90 sm:hidden text-[10px] leading-tight whitespace-nowrap">Amazon affiliate links - we earn a commission.</span>
         <Link prefetch={false}
           href="/affiliate-disclosure"
@@ -31,7 +31,7 @@ export function Header() {
         <Link prefetch={false}
           href="/"
           className="group shrink-0 focus-ring flex items-center gap-2"
-          aria-label="WorkCocoon - Home"
+          aria-label="The Office Journal - Home"
         >
           <Image
             src="/logo-icon.png"

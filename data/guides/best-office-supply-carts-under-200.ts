@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label caster/brake behavior and footprint/clearance as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated caster/brake behavior and footprint/clearance figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

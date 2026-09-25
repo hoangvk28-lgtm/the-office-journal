@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label energy efficiency and drain/pump/auto-restart as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated energy efficiency and drain/pump/auto-restart figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

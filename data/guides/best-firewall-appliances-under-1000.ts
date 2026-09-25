@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label CPU/RAM/storage and software/support model as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated CPU/RAM/storage and software/support model figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

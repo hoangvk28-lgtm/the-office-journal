@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "",
-    "description": "Label round-trip latency and digital/monitoring expansion as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+    "description": "We separated round-trip latency and digital/monitoring expansion figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
     "title": "",

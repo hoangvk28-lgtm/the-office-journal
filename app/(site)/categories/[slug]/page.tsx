@@ -82,7 +82,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!category) return {};
   return buildMetadata({
     title: `${category.name} Buying Guides`,
-    description: `Browse ${category.name.toLowerCase()} buying guides and product reviews for small desks, dorm rooms, and compact spaces on WorkCocoon.`,
+    description: `Browse ${category.name.toLowerCase()} buying guides and product reviews for small desks, dorm rooms, and compact spaces on The Office Journal.`,
     path: `/categories/${slug}`,
   });
 }
@@ -127,7 +127,7 @@ export default async function CategoryPage({ params }: Props) {
   const collectionPageSchema = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    name: `${category.name} — WorkCocoon`,
+    name: `${category.name} — The Office Journal`,
     description: category.description,
     url: `${SITE_URL}/categories/${slug}`,
   };

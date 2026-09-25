@@ -184,7 +184,7 @@ export const howWeEvaluated = [
 
 export const introParagraphs = [
   "A laptop cooling pad only earns its desk space if it changes something measurable, either the sustained CPU temperature under a long workload or the comfort of your typing angle. Most listings lean on vague phrases like 'keeps your laptop cool,' but a pad's actual benefit depends on whether its fan placement lines up with your specific laptop's real intake and exhaust vents, which vary by brand and are not determined by screen size alone.",
-  "This is the flagship, broad guide for the laptop cooling pad cluster on WorkCocoon. We compare five pads based on documented sustained-load thermal claims where the listing provides them, fan-to-vent alignment, USB power draw, fan speed versus noise, and elevation angle. Narrower guides in this cluster cover gaming laptops, MacBooks, specific screen sizes, silent and fanless designs, and budget picks, so use this page as the starting point and the others as the deep dive for your specific situation."
+  "This is the flagship, broad guide for the laptop cooling pad cluster on The Office Journal. We compare five pads based on documented sustained-load thermal claims where the listing provides them, fan-to-vent alignment, USB power draw, fan speed versus noise, and elevation angle. Narrower guides in this cluster cover gaming laptops, MacBooks, specific screen sizes, silent and fanless designs, and budget picks, so use this page as the starting point and the others as the deep dive for your specific situation."
 ];
 
 export const lastUpdated = "2026-08-08";

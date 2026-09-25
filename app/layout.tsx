@@ -61,7 +61,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   // Google Analytics and Microsoft Clarity must only fire in production, AND
   // only with this site's own IDs — this file was cloned from DeskFinds and
   // originally had DeskFinds' real GA/Clarity IDs hardcoded here, which would
-  // have sent WorkCocoon's production traffic straight into DeskFinds'
+  // have sent The Office Journal's production traffic straight into DeskFinds'
   // analytics properties. Both are now sourced from env vars with no
   // cross-project fallback, and simply don't render until set.
   const isProd = process.env.NODE_ENV === "production";

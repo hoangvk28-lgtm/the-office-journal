@@ -5,6 +5,8 @@ import { SITE_NAME, SITE_DESCRIPTION, SITE_URL, TWITTER_HANDLE } from "@/lib/seo
 import { ScrollToTop } from "@/components/ScrollToTop";
 import { BackToTopButton } from "@/components/BackToTopButton";
 
+const GOOGLE_ANALYTICS_ID = "G-EK2NY0FM2C";
+
 const inter = Inter({
   variable: "--font-inter",
   subsets: ["latin"],
@@ -59,26 +61,21 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  // Google Analytics and Microsoft Clarity must only fire in production, AND
-  // only with this site's own IDs — this file was cloned from DeskFinds and
-  // originally had DeskFinds' real GA/Clarity IDs hardcoded here, which would
-  // have sent The Office Journal's production traffic straight into DeskFinds'
-  // analytics properties. Both are now sourced from env vars with no
-  // cross-project fallback, and simply don't render until set.
+  // Analytics must only fire in production so local development does not pollute
+  // the site's reports. The GA measurement ID is public and belongs to this site.
   const isProd = process.env.NODE_ENV === "production";
-  const gaId = process.env.NEXT_PUBLIC_GA_ID;
   const clarityId = process.env.NEXT_PUBLIC_CLARITY_ID;
   return (
     <html lang="en" className={`${inter.variable} ${playfair.variable} h-full`}>
       <head>
-        {isProd && gaId && (
+        {isProd && (
           <>
-            <script async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`} />
+            <script async src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_ANALYTICS_ID}`} />
             <script dangerouslySetInnerHTML={{ __html: `
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', '${gaId}');
+              gtag('config', '${GOOGLE_ANALYTICS_ID}');
             `}} />
           </>
         )}

@@ -52,9 +52,10 @@ export const metadata: Metadata = {
     follow: true,
     googleBot: { index: true, follow: true, "max-snippet": -1 },
   },
-  verification: {
-    google: "vKYkSDE1hBxFmjdHk-A7Sa7eLzeQVqqYAgh3fJ26F8U",
-  },
+  // Set NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION to this site's own Search Console token.
+  ...(process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
+    ? { verification: { google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION } }
+    : {}),
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

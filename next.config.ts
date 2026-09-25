@@ -32,8 +32,8 @@ const nextConfig: NextConfig = {
       // non-www → www (301 permanent — tells Google which is canonical)
       {
         source: "/:path*",
-        has: [{ type: "host", value: "workcocoon.com" }],
-        destination: "https://www.workcocoon.com/:path*",
+        has: [{ type: "host", value: "theofficejournal.com" }],
+        destination: "https://www.theofficejournal.com/:path*",
         permanent: true,
       },
       {

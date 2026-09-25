@@ -1,0 +1,127 @@
+{
+  "guideTitle": "The Best 100W Docking Stations for Charging a Laptop Through One Cable",
+  "breadcrumbLabel": "Best Docking Stations with 100W Power Delivery",
+  "metaTitle": "Best Docking Stations with 100W Power Delivery (2026)",
+  "metaDescription": "A 100W dock doesn't always pass 100W to your laptop. We compared eight docks on charging, display outputs, ports and certification, from a compact hub to a Thunderbolt 4 dock.",
+  "introParagraphs": [
+    "A dock rated for 100W power delivery is the upper limit of standard USB-C charging to a single laptop, but the rating isn't always what reaches the laptop. Some of the power budget runs the dock itself and any peripherals charging from it, so check whether the listing gives a separate laptop-charging figure.",
+    "That makes 100W docks a comfortable match for many thin-and-light laptops, and a compromise for larger laptops whose own chargers are rated well above 100W: they may charge slowly, or not keep up, under heavy load.",
+    "Beyond charging, the eight docks here differ in how many displays they drive and at what resolution and refresh rate, in port count, and in whether they are Thunderbolt certified. Our comparison is based on published specifications, not hands-on testing."
+  ],
+  "products": {
+    "plugable-tbt-udm-100w": {
+      "badge": "Best Thunderbolt 4 Dock",
+      "summary": "A Thunderbolt 4 certified dock with 100W charging, dual 4K or single 6K output, SD and Ethernet.",
+      "description": "The Plugable TBT-UDM is the dock to choose if you want certified performance: it is Thunderbolt 4 certified, supports dual 4K or a single 6K display, and charges at up to 100W.\n\nIt has six USB ports, an SD card slot and Ethernet, needs no drivers on Mac or Windows, and Plugable lists it for M4 and M5 MacBook Air and Pro.\n\nIt was the most expensive dock here at the time of writing, and its full bandwidth needs a Thunderbolt or USB4 port on the laptop. Like every 100W dock, it won't match the charging speed of a larger laptop's higher-wattage charger.",
+      "specs": ["Certification: Thunderbolt 4", "Charging: up to 100W", "Displays: dual 4K or single 6K", "Ports: 6x USB, SD, Ethernet", "Setup: driverless (Mac, Windows)"],
+      "pros": ["Thunderbolt 4 certified", "Driverless on Mac and Windows", "SD and Ethernet"],
+      "cons": ["Most expensive here at the time of writing", "Full bandwidth needs a Thunderbolt/USB4 port", "100W ceiling for large laptops"],
+      "bestFor": "Thunderbolt and recent MacBook users who want dependable dual-display docking.",
+      "skipIf": "Your laptop has plain USB-C; a USB-C dock like the Anker Nano costs less."
+    },
+    "anker-prime-160w-14port": {
+      "badge": "Best for Many Peripherals",
+      "summary": "A 14-port dock with 160W total output, dual 4K, 10Gbps data, Ethernet and audio.",
+      "description": "The Anker Prime is the dock for a desk full of devices: 14 ports and 160W of total output, so a laptop and several USB devices can charge together.\n\nIt supports dual 4K displays, 10Gbps data, Ethernet and audio, and Anker lists compatibility with Dell, HP, Lenovo and other laptops.\n\nThe 160W is a total budget: standard USB-C charging to a single laptop is capped at 100W unless both sides support the newer extended power range. It is large, and costs more than most docks here.",
+      "specs": ["Total output: 160W", "Ports: 14", "Displays: dual 4K", "Data: 10Gbps", "Ethernet and audio"],
+      "pros": ["Most ports here", "Headroom for charging peripherals", "Dual 4K"],
+      "cons": ["Laptop charging still limited by USB PD", "Large", "Costs more than most here"],
+      "bestFor": "Charging a laptop plus phones, tablets and accessories at one desk.",
+      "skipIf": "You only connect a few devices; the UGREEN 10-in-1 covers the basics for far less."
+    },
+    "wavlink-13in1-130w-displaylink": {
+      "badge": "Best for Dual Displays on Base M-Series Macs",
+      "summary": "A DisplayLink dock with 130W PD rating, dual 5K/4K output, 2 HDMI, 2 DisplayPort and Ethernet.",
+      "description": "The WAVLINK uses DisplayLink to drive two external displays at up to 5K or 4K at 60Hz, which WAVLINK lists as working across M1 to M4 Macs and Windows. That matters because many base M-series Macs natively support only one external display.\n\nIt has a 130W PD rating, two HDMI and two DisplayPort outputs, Gigabit Ethernet, five USB ports and audio.\n\nDisplayLink requires driver software, adds some processor load and is less suited to color-critical work or gaming. Charging to one laptop is still subject to USB PD limits.",
+      "specs": ["Charging: 130W PD rating", "Displays: dual 5K/4K@60Hz via DisplayLink", "Video ports: 2x HDMI, 2x DisplayPort", "Ethernet: Gigabit", "USB: 5 ports"],
+      "pros": ["Dual displays on Macs that support only one natively", "Many video outputs", "Ethernet"],
+      "cons": ["Requires DisplayLink software", "Adds processor load", "Not for color-critical work"],
+      "bestFor": "Base M-series MacBooks that need two external monitors.",
+      "skipIf": "Your laptop supports multiple displays natively; the Anker Nano avoids DisplayLink for less."
+    },
+    "plugable-triple-display-100w": {
+      "badge": "Three Displays with Caveats",
+      "summary": "A 100W dock with three HDMI outputs: one 4K at 30Hz and two 1080p at 60Hz.",
+      "description": "The Plugable triple-display dock drives three monitors while keeping 100W charging, with support for Windows, macOS and ChromeOS.\n\nRead the display split carefully: one HDMI runs 4K at 30Hz and two run 1080p at 60Hz. It has six 5Gbps USB ports.\n\nA 4K display at 30Hz feels less smooth when moving windows or scrolling, so this suits three modest monitors better than a 4K setup. The listing doesn't mention Ethernet.",
+      "specs": ["Charging: 100W", "Displays: 1x 4K@30Hz + 2x 1080p@60Hz (HDMI)", "USB: 6x 5Gbps", "OS: Windows, macOS, ChromeOS"],
+      "pros": ["Three displays", "ChromeOS support listed", "Six USB ports"],
+      "cons": ["4K only at 30Hz", "Two outputs limited to 1080p", "Ethernet not listed"],
+      "bestFor": "Three 1080p monitors on one dock.",
+      "skipIf": "You want 4K at 60Hz; the UGREEN 10-in-1 offers dual 4K@60Hz for far less."
+    },
+    "ugreen-10in1-100w": {
+      "badge": "Best Value All-Rounder",
+      "summary": "A 10-in-1 dock with 100W, dual 4K@60Hz HDMI, Ethernet and SD/TF reader.",
+      "description": "The UGREEN 10-in-1 covers the everyday essentials for about $40 at the time of writing: 100W charging, dual HDMI at 4K 60Hz or a single 8K 30Hz display, Gigabit Ethernet and an SD/TF card reader.\n\nIts USB-C and USB-A data ports run at 5Gbps.\n\nIt is not Thunderbolt certified, and dual-display output depends on your laptop supporting it over USB-C.",
+      "specs": ["Charging: 100W", "Displays: dual HDMI 4K@60Hz or single 8K@30Hz", "Data: 5Gbps USB-C/A", "Ethernet: Gigabit", "Card reader: SD/TF"],
+      "pros": ["Low price", "Dual 4K@60Hz", "Ethernet and card reader"],
+      "cons": ["Not Thunderbolt", "5Gbps data", "Dual display depends on your laptop"],
+      "bestFor": "An everyday desk dock on a budget.",
+      "skipIf": "You need three displays; the Acer 11-in-1 supports three."
+    },
+    "anker-nano-13in1-100w": {
+      "badge": "Best Compact Triple-Display Dock",
+      "summary": "A 13-in-1 dock with 100W, three displays and a detachable 6-in-1 travel hub.",
+      "description": "The Anker Nano is two products in one: a desk dock supporting three displays via two HDMI and one DisplayPort, and a detachable 6-in-1 hub you can take with you.\n\nIt has a 10Gbps USB-C port, three USB-A ports, SD/TF reader, Ethernet and audio, with 100W charging.\n\nTriple-display support depends on your laptop and operating system, and the detachable hub is one more part to keep track of.",
+      "specs": ["Charging: 100W", "Displays: 3 (2x HDMI + 1x DP)", "Data: 10Gbps USB-C, 3x USB-A", "Detachable 6-in-1 hub", "SD/TF, Ethernet, audio"],
+      "pros": ["Detachable travel hub", "Three displays", "10Gbps USB-C"],
+      "cons": ["Triple display depends on laptop/OS", "Extra part to lose", "Not Thunderbolt"],
+      "bestFor": "Desk-and-travel users who want one dock for both.",
+      "skipIf": "You never travel with a hub; the Acer 11-in-1 offers three displays for less."
+    },
+    "acer-11in1-100w": {
+      "badge": "Best Low-Cost Triple-Display Dock",
+      "summary": "An 11-in-1 dock with 100W, three monitor outputs including 8K DisplayPort, Ethernet and SD/TF.",
+      "description": "The Acer 11-in-1 offers three-monitor support for about $50 at the time of writing, with an 8K DisplayPort output and 4K 60Hz HDMI, plus 100W charging.\n\nIt adds 10Gbps data, Gigabit Ethernet and an SD/TF card reader.\n\nAs with the other USB-C docks, multi-display support depends on your laptop, and it is not Thunderbolt certified.",
+      "specs": ["Charging: 100W", "Displays: 3 (8K DP, 4K@60Hz HDMI)", "Data: 10Gbps", "Ethernet: Gigabit", "Card reader: SD/TF"],
+      "pros": ["Three displays at a low price", "8K DisplayPort output", "Ethernet and card reader"],
+      "cons": ["Not Thunderbolt", "Display support depends on laptop", "Less established than Plugable or Anker"],
+      "bestFor": "A three-monitor setup on a tight budget.",
+      "skipIf": "You want certified bandwidth; the Plugable Thunderbolt 4 dock provides it."
+    },
+    "ugreen-7in1-revodok-100w": {
+      "badge": "Lowest Price, Most Compact",
+      "summary": "A compact aluminum 7-in-1 hub with 100W and dual 4K@60Hz HDMI, the lowest price here.",
+      "description": "The UGREEN Revodok Pro is the least expensive option here, about $27 at the time of writing: a compact aluminum 7-in-1 hub with 100W passthrough charging and dual HDMI at 4K 60Hz.\n\nIts USB-A and USB-C data ports run at 10Gbps, and its size suits a small desk or travel bag.\n\nIt has the fewest ports here, with no SD reader or Ethernet.",
+      "specs": ["Charging: 100W", "Displays: dual HDMI 4K@60Hz", "Data: 10Gbps USB-A/C", "Build: aluminum", "7-in-1"],
+      "pros": ["Lowest price here", "Compact", "Dual 4K@60Hz"],
+      "cons": ["Fewest ports here", "No Ethernet or SD reader", "Not Thunderbolt"],
+      "bestFor": "Travel or a minimal desk with two monitors.",
+      "skipIf": "You need wired networking; the UGREEN 10-in-1 adds Ethernet for about $13 more."
+    }
+  },
+  "buyingCriteria": [
+    { "criterion": "Match charging to your laptop", "explanation": "Compare your laptop's charger wattage with the dock's laptop-charging figure. Laptops with chargers well above 100W may charge slowly on any standard 100W dock." },
+    { "criterion": "Check display output per port", "explanation": "Look at resolution and refresh rate for each output. The Plugable triple dock, for example, runs one display at 4K 30Hz and two at 1080p." },
+    { "criterion": "Confirm your laptop's display support", "explanation": "Many base M-series Macs support one external display natively; DisplayLink docks like the WAVLINK work around that with software." },
+    { "criterion": "Thunderbolt or USB-C", "explanation": "Only the Plugable TBT-UDM here is Thunderbolt 4 certified. Its full bandwidth needs a Thunderbolt or USB4 laptop port." }
+  ],
+  "howWeEvaluated": [
+    { "title": "Charging", "description": "We compared listed power delivery ratings and noted where totals are shared across ports." },
+    { "title": "Displays", "description": "We compared output counts, resolution and refresh rate per port, and DisplayLink use." },
+    { "title": "Ports and certification", "description": "We compared data speeds, Ethernet, card readers and Thunderbolt certification." },
+    { "title": "Price", "description": "We compared prices at the time of writing." }
+  ],
+  "howToChoose": [
+    { "subheading": "By need", "table": { "headers": ["Need", "Consider"], "rows": [
+      ["Thunderbolt/recent MacBook", "Plugable TBT-UDM"],
+      ["Many peripherals", "Anker Prime"],
+      ["Two monitors on a base M-series Mac", "WAVLINK DisplayLink"],
+      ["Everyday value", "UGREEN 10-in-1"],
+      ["Three displays, low cost", "Acer 11-in-1"],
+      ["Desk plus travel", "Anker Nano"],
+      ["Lowest price, compact", "UGREEN Revodok Pro"]
+    ] } }
+  ],
+  "faq": [
+    { "q": "Does a 100W dock charge my laptop at 100W?", "a": "Not necessarily. Some of the budget powers the dock and any connected devices. Check whether the listing states a separate laptop-charging figure." },
+    { "q": "Is 100W enough for a large laptop?", "a": "It depends on the laptop. If its own charger is rated well above 100W, a 100W dock may charge it slowly or not keep up under heavy load." },
+    { "q": "Can a 160W dock charge a laptop faster?", "a": "Not beyond standard USB PD's 100W per device, unless both dock and laptop support the extended power range. A higher total mainly helps charge several devices at once." },
+    { "q": "Why does charging slow with other devices plugged in?", "a": "The dock shares its power budget between the laptop and downstream devices." },
+    { "q": "Does the dock's power adapter matter?", "a": "Yes. Use the adapter supplied or one rated at least as high as the dock requires; a smaller adapter limits what the dock can deliver." }
+  ],
+  "bottomLine": [
+    "For most USB-C laptops, the UGREEN 10-in-1 covers charging, two 4K displays, Ethernet and a card reader for little money; the Acer 11-in-1 adds a third display, and the Revodok Pro is the compact, lowest-cost option.",
+    "For a Thunderbolt laptop, the Plugable TBT-UDM is worth paying more for its certification. The WAVLINK suits base M-series Macs that need two monitors, the Anker Prime a desk full of devices, and the Anker Nano anyone who wants a travel hub too."
+  ]
+}

@@ -1,475 +1,398 @@
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+
 export const guideSlug = "best-docking-stations-compatible-with-lenovo-laptops";
-export const guideTitle = "8 Best Docking Stations Compatible with Lenovo Laptops in 2026";
-export const metaTitle = "Best Docking Stations for Lenovo ThinkPad Laptops (2026)";
-export const metaDescription =
-  "8 best docking stations for Lenovo ThinkPad laptops in 2026, from official Lenovo docks to third-party Thunderbolt alternatives. Compare ports, power, and price.";
+
+export const guideTitle = "The Best Docking Stations for Lenovo Laptops: Official and Third-Party";
+
+export const breadcrumbLabel = "Best Docking Stations for Lenovo Laptops";
+
+export const metaTitle = "Best Docking Stations for Lenovo ThinkPads and Laptops (2026)";
+
+export const metaDescription = "Official Lenovo docks integrate with ThinkPad features; third-party docks add ports or cost less. We compared eight on compatibility, displays, ports and charging.";
+
 export const mainKeyword = "lenovo docking station";
+
 export const introParagraphs = [
-  "Finding a docking station compatible with Lenovo laptops means sorting through more variety than most buyers expect, since Lenovo has shipped multiple physically distinct ThinkPad dock generations that aren't interchangeable, older slide-in mechanical docks, then the ThinkPad USB-C Dock Gen 2 era, and now the current ThinkPad Universal USB-C Dock and Universal Thunderbolt 4 Dock. Matching the dock generation to your specific ThinkPad model year matters more than just looking for the Lenovo name.\n\nBelow are 8 docking stations we evaluated on official Lenovo compatibility, third-party alternative value, port count, and power delivery, ranging from a renewed official Lenovo dock at $59.99 to a 14-port third-party Thunderbolt option built for buyers who want more flexibility than Lenovo's own docks offer.",
+  "Most USB-C and Thunderbolt docks work with Lenovo laptops for displays, charging and peripherals. Lenovo's own docks add closer integration with ThinkPad features; Lenovo designs them around its laptops and publishes compatibility lists, so check that your model is on the list.",
+  "Third-party docks can offer more ports, Thunderbolt certification or a much lower price. Match the dock to your laptop's port: a Thunderbolt 4 or USB4 port can use a Thunderbolt dock fully; a plain USB-C port suits a USB-C dock.",
+  "Our comparison is based on published specifications and compatibility claims, not hands-on testing. One official dock appears both new and renewed here, and the renewed unit cost more at the time of writing."
 ];
+
 export const lastUpdated = "2026-07-18";
+
 export const readTime = "10 min";
+
 export const heroImage = "https://m.media-amazon.com/images/I/31rSOobJGTL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string;
-  rank: number;
-  badge: string;
-  name: string;
-  price: string;
-  rating: string;
-  reviews: string;
-  imageUrl: string;
-  amazonUrl: string;
-  description: string;
-  specs: string[];
-  pros: string[];
-  cons: string[];
-  bestFor: string;
-}
-
-export interface BuyingCriterion {
-  criterion: string;
-  explanation: string;
-}
-
-export interface FaqItem {
-  q: string;
-  a: string;
-}
 
 export const products: GuideProduct[] = [
   {
-    id: "lenovo-thinkpad-universal-usb-c-dock-40ay0090",
-    rank: 1,
-    badge: "Best Official Lenovo Pick",
-    name: "Lenovo ThinkPad Universal USB-C Dock 40AY0090",
-    price: "$123.90",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/31rSOobJGTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09DNL4C9J?tag=theofficejournal-20",
-    description:
-      "This is Lenovo's current-generation official ThinkPad Universal USB-C Dock, and it's validated specifically against Lenovo's own power management firmware, meaning deeper sleep and wake handling plus battery threshold settings behave the way Lenovo designed them to. Third-party docks generally work fine for display and data but may not perfectly replicate that exact wake-from-sleep and lid-close docking behavior.\n\nBefore buying, confirm your ThinkPad model year actually matches this current Universal Dock generation rather than the older USB-C Dock Gen 2 or the discontinued mechanical slide-in ThinkPad Dock, since Lenovo's dock generations aren't interchangeable across model years.\n\nCurrent generation, broad compatibility across recent ThinkPad models. Set against that, pricier than the third-party budget alternatives. Both matter when comparing it to the other picks here.",
-    specs: [
-      "Official Lenovo ThinkPad Universal USB-C Dock",
-      "Validated against Lenovo power management firmware",
-      "Current dock generation (post Gen 2)",
-      "Multiple display outputs",
-      "USB-C connection to laptop",
+    "id": "lenovo-thinkpad-universal-usb-c-dock-40ay0090",
+    "rank": 1,
+    "badge": "Best Official Lenovo Dock",
+    "name": "Lenovo ThinkPad Universal USB-C Dock 40AY0090",
+    "price": "$123.90",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/31rSOobJGTL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09DNL4C9J?tag=theofficejournal-20",
+    "description": "The ThinkPad Universal USB-C Dock is Lenovo's current official USB-C dock, designed for ThinkPads and, according to Lenovo, managed alongside its power and firmware features. It provides multiple display outputs over one USB-C connection.\n\nThe listing summary doesn't give exact ports or charging wattage; check Lenovo's compatibility list and specifications for your model.",
+    "specs": [
+      "Type: official Lenovo USB-C dock (40AY0090)",
+      "Displays: multiple outputs",
+      "Connection: USB-C"
     ],
-    pros: [
-      "Official Lenovo dock tuned for ThinkPad sleep/wake behavior",
-      "Current generation, broad compatibility across recent ThinkPad models",
-      "Reliable power management integration",
-      "Straightforward setup with Lenovo firmware",
+    "pros": [
+      "Official Lenovo support",
+      "Current generation",
+      "Designed for ThinkPads"
     ],
-    cons: [
-      "Pricier than the third-party budget alternatives",
-      "Must confirm generation match with your specific ThinkPad model",
-      "Fewer total ports than some third-party competitors",
+    "cons": [
+      "Port and wattage details not in summary",
+      "Costs more than third-party USB-C docks",
+      "Not Thunderbolt"
     ],
-    bestFor: "ThinkPad owners who want the official dock tuned to Lenovo's exact power management",
+    "bestFor": "ThinkPad owners who want Lenovo's own dock.",
+    "summary": "Lenovo's current ThinkPad Universal USB-C Dock (40AY0090) with multiple display outputs.",
+    "skipIf": "You want more ports for less; the Anker Prime offers 14."
   },
   {
-    id: "lenovo-thinkpad-usb-c-dock-gen-2",
-    rank: 2,
-    badge: "Most Affordable Official Lenovo Dock",
-    name: "Lenovo ThinkPad USB-C Dock Gen 2 (40AS0090US)",
-    price: "$115.00",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/21kWViXaTGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07R68XHZ9?tag=theofficejournal-20",
-    description:
-      "The USB-C Dock Gen 2 is an earlier official Lenovo dock generation than the current Universal USB-C Dock above, and it remains the most affordable official Lenovo option in this guide. It's built for the ThinkPad model years that shipped alongside the Gen 2 era, not the newest Universal Dock generation.\n\nBecause Lenovo's dock generations correspond to specific ThinkPad model years, buyers should check their laptop's exact model number against Lenovo's compatibility list before assuming this Gen 2 dock will work, rather than just matching on the Lenovo brand name.\n\nThe standout detail is that genuine Lenovo firmware and power management support. Balancing that out, older generation, not compatible with every current ThinkPad model.",
-    specs: [
-      "Official Lenovo ThinkPad USB-C Dock, Gen 2",
-      "Earlier dock generation than the current Universal Dock",
-      "USB-C connection",
-      "Multiple display and data ports",
-      "Compact desktop form factor",
+    "id": "lenovo-thinkpad-usb-c-dock-gen-2",
+    "rank": 2,
+    "badge": "Lowest-Cost Official Desk Dock",
+    "name": "Lenovo ThinkPad USB-C Dock Gen 2 (40AS0090US)",
+    "price": "$115.00",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/21kWViXaTGL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07R68XHZ9?tag=theofficejournal-20",
+    "description": "The ThinkPad USB-C Dock Gen 2 is an earlier official generation, slightly cheaper than the Universal Dock at the time of writing, with multiple display and data ports.\n\nAs an older model, check that your ThinkPad is on its compatibility list.",
+    "specs": [
+      "Type: official Lenovo USB-C Dock Gen 2 (40AS0090US)",
+      "Connection: USB-C",
+      "Displays and data: multiple ports"
     ],
-    pros: [
-      "Most affordable official Lenovo dock in this guide",
-      "Genuine Lenovo firmware and power management support",
-      "Compact footprint",
-      "Reliable for its matched ThinkPad generation",
+    "pros": [
+      "Official dock for less",
+      "Compact",
+      "USB-C"
     ],
-    cons: [
-      "Older generation, not compatible with every current ThinkPad model",
-      "Fewer ports than the Universal Dock or third-party alternatives",
-      "Buyers must verify generation match carefully",
+    "cons": [
+      "Older generation",
+      "Compatibility with newer models to confirm",
+      "Details not in summary"
     ],
-    bestFor: "Budget-conscious ThinkPad owners with a model year matching the Gen 2 dock era",
+    "bestFor": "ThinkPads from the Gen 2 era.",
+    "summary": "Lenovo's earlier ThinkPad USB-C Dock Gen 2, the lowest-priced official desk dock here.",
+    "skipIf": "Your ThinkPad is newer; the Universal Dock is current."
   },
   {
-    id: "lenovo-usb-c-dual-display-travel-dock",
-    rank: 3,
-    badge: "Best Compact Official Travel Dock",
-    name: "Lenovo USB-C Dual Display Travel Dock",
-    price: "$59.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/31-ovEq45xL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D2JH1RWR?tag=theofficejournal-20",
-    description:
-      "Lenovo's official travel dock is built compact and light for buyers who need dual display support on the road rather than a full desktop docking setup. It's the cheapest new official Lenovo dock in this guide, trading port count for portability.\n\nIt still carries Lenovo's official firmware support, so ThinkPad owners get the more reliable sleep and wake handling of an official dock without paying for a full-size desktop unit they'd only use occasionally while traveling.\n\nCompact and travel-friendly. That's a real strength, but weigh it against the flip side: fewer ports than the full-size Universal Dock.",
-    specs: [
-      "Official Lenovo travel dock",
-      "Dual display support",
-      "Compact, travel-friendly size",
-      "USB-C connection",
-      "Lightweight design",
+    "id": "lenovo-usb-c-dual-display-travel-dock",
+    "rank": 3,
+    "badge": "Best Official Travel Dock",
+    "name": "Lenovo USB-C Dual Display Travel Dock",
+    "price": "$59.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/31-ovEq45xL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2JH1RWR?tag=theofficejournal-20",
+    "description": "Lenovo's travel dock is compact and light, supports two displays and was the cheapest new official Lenovo dock here at the time of writing.\n\nIt has fewer ports than a desk dock.",
+    "specs": [
+      "Type: official Lenovo travel dock",
+      "Displays: dual",
+      "Connection: USB-C",
+      "Size: compact"
     ],
-    pros: [
-      "Cheapest new official Lenovo dock in this guide",
-      "Compact and travel-friendly",
-      "Official Lenovo firmware support",
-      "Dual display output covers most travel setups",
+    "pros": [
+      "Official and portable",
+      "Dual displays",
+      "Low price"
     ],
-    cons: [
-      "Fewer ports than the full-size Universal Dock",
-      "Lower power output than desktop-class docks",
-      "Not built for a permanent multi-monitor desk setup",
+    "cons": [
+      "Fewer ports",
+      "Charging not stated in summary",
+      "Not a full desk dock"
     ],
-    bestFor: "ThinkPad owners who need an official, portable dual-display dock for travel",
+    "bestFor": "Hot-desking or travel with a Lenovo laptop.",
+    "summary": "Lenovo's compact USB-C travel dock with dual display support.",
+    "skipIf": "You want a permanent desk setup; the Universal Dock has more ports."
   },
   {
-    id: "lenovo-thinkpad-40ay0090us-renewed",
-    rank: 4,
-    badge: "Best Value Renewed Official Dock",
-    name: "Lenovo ThinkPad Docking Station Dual Monitor 40AY0090US (Renewed)",
-    price: "$157.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/414z1GkuogL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DJDVVC7Q?tag=theofficejournal-20",
-    description:
-      "This renewed unit is the same official Lenovo Universal Dock model as the top pick in this guide, just refurbished rather than new, which is a legitimate way to get an official Lenovo dock at a different price point while keeping the same power management validation.\n\nThe one thing to confirm before buying any renewed official Lenovo dock is whether the listing includes the original power brick, since a third-party replacement power brick is the most common complaint with used official docks and can undercut the reliability advantage of buying official in the first place.\n\nRenewed condition offers a legitimate way to buy official Lenovo hardware. On the other hand, confirm the listing includes the original power brick before buying. Both are worth keeping in mind before deciding.",
-    specs: [
-      "Official Lenovo ThinkPad Universal Dock, renewed/refurbished",
+    "id": "lenovo-thinkpad-40ay0090us-renewed",
+    "rank": 4,
+    "badge": "Renewed Official Dock",
+    "name": "Lenovo ThinkPad Docking Station Dual Monitor 40AY0090US (Renewed)",
+    "price": "$157.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/414z1GkuogL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJDVVC7Q?tag=theofficejournal-20",
+    "description": "This is a renewed version of Lenovo's Universal USB-C Dock with dual monitor support. At the time of writing, however, it was listed above the new dock's price, so it only makes sense if the new unit is unavailable or its price rises.\n\nCheck the seller's warranty terms for renewed products.",
+    "specs": [
+      "Type: official Lenovo Universal Dock, renewed",
+      "Displays: dual",
+      "Connection: USB-C"
+    ],
+    "pros": [
+      "Same official model",
       "Dual monitor support",
-      "Validated against Lenovo power management firmware",
-      "USB-C connection",
-      "Renewed/refurbished condition",
+      "Alternative if new is unavailable"
     ],
-    pros: [
-      "Same official Lenovo firmware validation as the new Universal Dock",
-      "Renewed condition offers a legitimate way to buy official Lenovo hardware",
-      "Dual monitor support",
-      "Reliable ThinkPad sleep/wake behavior",
+    "cons": [
+      "Cost more than new at the time of writing",
+      "Renewed condition",
+      "Warranty may differ"
     ],
-    cons: [
-      "Confirm the listing includes the original power brick before buying",
-      "Renewed units may show light cosmetic wear",
-      "Priced close to some new third-party alternatives",
-    ],
-    bestFor: "Buyers who want an official Lenovo dock and are comfortable with a renewed unit",
+    "bestFor": "A fallback when the new dock is out of stock.",
+    "summary": "A renewed 40AY0090 ThinkPad Universal Dock, which cost more than the new unit at the time of writing.",
+    "skipIf": "The new 40AY0090 is available; it cost less."
   },
   {
-    id: "anker-prime-docking-station-14-port-lenovo",
-    rank: 5,
-    badge: "Best Third-Party Budget Alternative",
-    name: "Anker Prime Docking Station 14-Port",
-    price: "$169.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/31ptzq7E2JL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CW9249DK?tag=theofficejournal-20",
-    description:
-      "The Anker Prime gives ThinkPad owners more total ports, 14 in one dock, than any of Lenovo's own docks in this guide, along with up to 160W max output and dual 4K display support through a broadly compatible USB-C connection.\n\nIt covers display and data reliably on any USB-C-equipped ThinkPad, but it isn't tuned to Lenovo's exact power management firmware the way an official dock is, so buyers especially concerned with precise sleep and wake-from-lid-close behavior may still prefer an official Lenovo pick.\n\nA genuine advantage here is that strong 160W max output. The tradeoff is that not tuned to Lenovo's exact sleep/wake power management.",
-    specs: [
-      "14 ports total",
-      "Up to 160W max output",
-      "Dual 4K display support",
-      "10Gbps data transfer",
-      "USB-C connection",
+    "id": "anker-prime-docking-station-14-port-lenovo",
+    "rank": 5,
+    "badge": "Most Ports",
+    "name": "Anker Prime Docking Station 14-Port",
+    "price": "$169.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/31ptzq7E2JL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9249DK?tag=theofficejournal-20",
+    "description": "The Anker Prime gives a Lenovo laptop more ports than any Lenovo dock here, 14, with 160W of total output, dual 4K displays and 10Gbps data.\n\nCharging to the laptop itself is limited to 100W under standard USB-C, with the rest shared among devices.",
+    "specs": [
+      "Ports: 14",
+      "Total output: 160W",
+      "Displays: dual 4K",
+      "Data: 10Gbps"
     ],
-    pros: [
-      "Highest port count of any pick in this guide",
-      "Strong 160W max output",
-      "Dual 4K display support",
-      "Works with any USB-C-equipped ThinkPad regardless of dock generation",
+    "pros": [
+      "Most ports here",
+      "Dual 4K",
+      "Power for peripherals"
     ],
-    cons: [
-      "Not tuned to Lenovo's exact sleep/wake power management",
-      "Larger footprint than Lenovo's own compact docks",
-      "Priced similarly to official Lenovo options",
+    "cons": [
+      "No Lenovo-specific integration",
+      "Large",
+      "Costs more than the official docks"
     ],
-    bestFor: "ThinkPad owners who want more ports than Lenovo's own docks offer",
+    "bestFor": "Desks with many USB devices.",
+    "summary": "A 14-port USB-C dock with 160W total output and dual 4K display support.",
+    "skipIf": "You want Lenovo integration; the Universal Dock is official."
   },
   {
-    id: "plugable-thunderbolt-4-dock-tbt-udm-lenovo",
-    rank: 6,
-    badge: "Best Third-Party Thunderbolt Pick",
-    name: "Plugable Thunderbolt 4 Dock (TBT-UDM)",
-    price: "$199.95",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FGFW5FVD?tag=theofficejournal-20",
-    description:
-      "For ThinkPad models with a genuine Thunderbolt 4 or USB4 port, this Plugable dock carries real Thunderbolt 4 certification, the strict Intel-tested standard that guarantees compatibility in a way generic USB4 docks don't. It supports dual 4K HDMI displays or a single 6K display along with 100W charging.\n\nIt's driverless, which sidesteps the need for Lenovo's own dock utility software, though it still won't replicate Lenovo's exact power management tuning the way an official ThinkPad dock does.\n\nFlexible display output options. That said, only worth the Thunderbolt premium if your ThinkPad has a true TB4/USB4 port. Neither should be a surprise once you know to look for it.",
-    specs: [
-      "Genuine Thunderbolt 4 certification",
-      "Dual 4K HDMI or single 6K display",
-      "100W charging",
-      "Driverless setup",
-      "USB-C/Thunderbolt connection",
+    "id": "plugable-thunderbolt-4-dock-tbt-udm-lenovo",
+    "rank": 6,
+    "badge": "Best for Thunderbolt ThinkPads",
+    "name": "Plugable Thunderbolt 4 Dock (TBT-UDM)",
+    "price": "$199.95",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGFW5FVD?tag=theofficejournal-20",
+    "description": "For ThinkPads with a Thunderbolt 4 or USB4 port, the Plugable TBT-UDM offers certified Thunderbolt 4, dual 4K over HDMI or a single 6K display, 100W charging and driverless setup.\n\nOn a plain USB-C port it won't deliver its full capability.",
+    "specs": [
+      "Connection: certified Thunderbolt 4",
+      "Displays: dual 4K HDMI or single 6K",
+      "Charging: 100W",
+      "Driverless"
     ],
-    pros: [
-      "Certified Thunderbolt 4, not just broadly USB4 compatible",
-      "Flexible display output options",
-      "100W charging",
-      "No driver installation required",
+    "pros": [
+      "Thunderbolt 4 certification",
+      "100W",
+      "6K option"
     ],
-    cons: [
-      "Only worth the Thunderbolt premium if your ThinkPad has a true TB4/USB4 port",
-      "Not tuned to Lenovo's exact power management firmware",
-      "Pricier than the Universal Dock renewed option",
+    "cons": [
+      "Needs a Thunderbolt/USB4 port",
+      "Costs more than official USB-C docks",
+      "No Lenovo-specific integration"
     ],
-    bestFor: "ThinkPad owners with true Thunderbolt/USB4 ports who want certified reliability",
+    "bestFor": "Thunderbolt ThinkPads with two monitors.",
+    "summary": "A certified Thunderbolt 4 dock with 100W, dual 4K HDMI or single 6K, and driverless setup.",
+    "skipIf": "Your laptop has plain USB-C; a USB-C dock is the better match."
   },
   {
-    id: "ugreen-7-in-1-revodok-pro-lenovo",
-    rank: 7,
-    badge: "Cheapest Third-Party Option",
-    name: "UGREEN 7-in-1 Docking Station (Revodok Pro)",
-    price: "$26.96",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/41e9eAIvbjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1XSKZRJ?tag=theofficejournal-20",
-    description:
-      "The UGREEN Revodok Pro is by far the cheapest option in this guide, official or third-party, and still covers dual 4K@60Hz HDMI along with 10Gbps data transfer and 100W PD passthrough in a compact 7-in-1 design.\n\nFor a ThinkPad user who just needs an extra monitor or two and a few USB ports without paying for Lenovo's power management tuning or Thunderbolt certification, this covers the basics at a fraction of the official docks' price.\n\nWorth calling out specifically: dual 4K@60Hz HDMI support. The catch is not Thunderbolt certified.",
-    specs: [
-      "7-in-1 USB-C hub",
-      "Dual 4K@60Hz HDMI",
-      "10Gbps data transfer",
-      "100W PD passthrough",
-      "Compact form factor",
+    "id": "ugreen-7-in-1-revodok-pro-lenovo",
+    "rank": 7,
+    "badge": "Lowest Price",
+    "name": "UGREEN 7-in-1 Docking Station (Revodok Pro)",
+    "price": "$26.96",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/41e9eAIvbjL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1XSKZRJ?tag=theofficejournal-20",
+    "description": "The UGREEN Revodok Pro is by far the cheapest option here, under $30 at the time of writing, with dual 4K at 60Hz over HDMI, 10Gbps data and 100W passthrough charging in a compact hub.\n\nIt has fewer ports and no Ethernet, and dual display depends on your laptop.",
+    "specs": [
+      "Type: 7-in-1 USB-C hub",
+      "Displays: dual 4K@60Hz HDMI",
+      "Data: 10Gbps",
+      "Charging: 100W passthrough"
     ],
-    pros: [
-      "Cheapest pick in this entire guide",
-      "Dual 4K@60Hz HDMI support",
-      "Fast 10Gbps data transfer",
-      "Compact and easy to travel with",
+    "pros": [
+      "Lowest price here",
+      "Compact",
+      "Dual 4K@60Hz"
     ],
-    cons: [
-      "Not Thunderbolt certified",
-      "No Lenovo-specific power management tuning",
-      "Real charging output runs below the rated 100W after dock overhead",
+    "cons": [
+      "Few ports",
+      "No Ethernet",
+      "Dual display depends on laptop"
     ],
-    bestFor: "Budget-conscious ThinkPad owners who just need basic dual-display support",
+    "bestFor": "Budget or travel setups.",
+    "summary": "A compact 7-in-1 USB-C hub with dual 4K@60Hz HDMI, 10Gbps data and 100W passthrough.",
+    "skipIf": "You need wired networking; the Anker Nano adds it."
   },
   {
-    id: "anker-nano-13-in-1-lenovo",
-    rank: 8,
-    badge: "Best Third-Party Mid-Tier",
-    name: "Anker Nano 13-in-1 Laptop Docking Station",
-    price: "$119.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/310OoVrsP4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FCLC1RMM?tag=theofficejournal-20",
-    description:
-      "This Anker Nano dock lands as a solid mid-tier third-party pick for ThinkPad owners, supporting 3 displays at once through a 13-in-1 configuration with a detachable 6-in-1 hub, at a price below both official Lenovo docks and the Thunderbolt-certified third-party options.\n\nIt's priced right between the cheapest third-party hub and the pricier Thunderbolt picks, a reasonable middle ground for buyers who want more than basic dual-display support but don't need certified Thunderbolt or Lenovo's own power management tuning.\n\nDetachable hub adds flexibility. Set against that, not Thunderbolt certified. Both matter when comparing it to the other picks here.",
-    specs: [
-      "13-in-1 with detachable 6-in-1 hub",
-      "Supports 3 displays at once",
-      "10Gbps USB-C data transfer",
-      "Up to 100W max PD",
-      "Modular detachable design",
+    "id": "anker-nano-13-in-1-lenovo",
+    "rank": 8,
+    "badge": "Best Third-Party Mid-Range Dock",
+    "name": "Anker Nano 13-in-1 Laptop Docking Station",
+    "price": "$119.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/310OoVrsP4L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCLC1RMM?tag=theofficejournal-20",
+    "description": "The Anker Nano supports three displays, has a 10Gbps USB-C port and 100W charging, and includes a detachable 6-in-1 hub for travel.\n\nIt was priced close to the official Lenovo docks at the time of writing, and three-display support depends on your laptop.",
+    "specs": [
+      "Displays: 3",
+      "Data: 10Gbps USB-C",
+      "Charging: up to 100W",
+      "Detachable 6-in-1 hub"
     ],
-    pros: [
-      "Supports 3 simultaneous displays at a mid-tier price",
-      "Detachable hub adds flexibility",
-      "Fast 10Gbps data transfer",
-      "Strong port count for the price",
+    "pros": [
+      "Three outputs",
+      "Travel hub",
+      "Compact"
     ],
-    cons: [
-      "Not Thunderbolt certified",
-      "No Lenovo-specific power management tuning",
-      "Detachable design adds a small learning curve",
+    "cons": [
+      "Priced near official docks",
+      "No Lenovo integration",
+      "Triple display depends on laptop"
     ],
-    bestFor: "ThinkPad owners who want triple-display support without paying Thunderbolt prices",
-  },
-];
-
-export interface HowWeEvaluatedItem {
-  title: string;
-  description: string;
-}
-
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  {
-    title: "ThinkPad generation matching",
-    description: "Checked whether each official Lenovo dock's generation, mechanical slide-in, USB-C Dock Gen 2, or current Universal Dock, actually matches the ThinkPad model years it's meant for, rather than assuming any Lenovo-branded dock fits any ThinkPad.",
-  },
-  {
-    title: "Official vs third-party power management fit",
-    description: "Weighed whether official Lenovo docks' validation against Lenovo's own sleep/wake and battery threshold firmware is worth the price premium over third-party docks that handle display and data fine but don't replicate that exact behavior.",
-  },
-  {
-    title: "Renewed dock value and risk",
-    description: "Evaluated renewed/refurbished official Lenovo docks specifically on whether listings include the original power brick, the most common complaint point with used official docks.",
-  },
-  {
-    title: "Port count and power delivery",
-    description: "Compared total ports, display support, and realistic charging wattage after accounting for the roughly 10-15W a dock's own circuitry typically draws from its rated output.",
-  },
-  {
-    title: "Value across official and third-party tiers",
-    description: "Weighed price against features across both official Lenovo docks and third-party alternatives, since the best value pick isn't always the official one.",
-  },
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
-  {
-    "criterion": "Check the real power delivery wattage, not just \"PD\" in the listing",
-    "explanation": "Power delivery (PD) wattage determines whether a dock can actually charge your laptop while it's connected, not just pass a trickle of power through, and this number varies widely, from 60W barely-adequate figures up to 100W or higher business-tier docks.\n\nThis matters because a dock rated below what your laptop actually needs to charge under load, especially a larger laptop or one running demanding tasks while docked, will slowly drain the battery even while \"charging\", a frustrating and easy-to-miss problem.\n\nCheck the listing for the specific PD wattage number, and compare it against your laptop's actual charging brick wattage, not just whether the listing mentions power delivery at all."
-  },
-  {
-    "criterion": "Verify actual display support against your specific laptop and GPU, not just port count",
-    "explanation": "A dock listing multiple HDMI or DisplayPort outputs doesn't guarantee your laptop can actually drive all of them at full resolution and refresh rate simultaneously, that capability depends on your laptop's specific GPU and USB-C controller, which some docks work around using DisplayLink technology and others don't.\n\nThis distinction matters a lot if you're building a dual or triple monitor setup, since a laptop that can't natively drive multiple external displays will show a blank or mirrored screen on a non-DisplayLink dock's extra port, regardless of how many ports the dock has.\n\nCheck whether the dock uses native DisplayPort Alt Mode or DisplayLink chip technology, and separately verify your specific laptop model's documented maximum number of external displays before assuming any multi-port dock will drive them all."
-  },
-  {
-    "criterion": "Match data transfer speeds and Ethernet to what you actually move and how",
-    "explanation": "USB data ports on a dock range widely in real transfer speed, from basic 480Mbps USB 2.0 speeds up to 10Gbps or higher, a gap that matters enormously if you regularly move large files to and from external drives, but barely matters if you're just charging a mouse and keyboard.\n\nEthernet port speed follows the same logic, a dock's Gigabit or 2.5Gb Ethernet port is only as fast as your actual home or office network infrastructure supports, so paying for 2.5Gb Ethernet on a network that tops out at Gigabit gains nothing.\n\nCheck the specific listed speed for each port type you'll actually use regularly, and compare Ethernet speed against your router's actual rated speed, not just the dock's spec sheet in isolation."
-  },
-  {
-    "criterion": "Confirm compatibility with your specific laptop's USB-C or Thunderbolt port",
-    "explanation": "Not every USB-C port supports the same features, some laptops only support USB-C data and charging without any video output over that port at all, while others support full Thunderbolt with much higher bandwidth for multiple 4K displays.\n\nDocks built around Thunderbolt certification generally support more demanding multi-display and high-speed configurations, but require a genuinely Thunderbolt-capable port on your laptop to unlock that performance, plugging a Thunderbolt dock into a USB-C-only port still works but loses the extra bandwidth.\n\nCheck your specific laptop's documented port capabilities (Thunderbolt 3, Thunderbolt 4, or USB-C without Thunderbolt), not just that it has a USB-C-shaped port, before assuming any docking station will unlock its full advertised capability."
-  },
-  {
-    "criterion": "Consider heat and long-term reliability under sustained daily use",
-    "explanation": "A docking station that stays plugged in and under load for 8+ hours a day handles thermal stress very differently than a hub used occasionally for a quick file transfer, and a compact plastic-bodied dock with no real heat dissipation can throttle performance or degrade faster under that kind of sustained daily use than an aluminum-bodied one.\n\nThis matters more for anyone using the dock as their primary daily workstation setup than for occasional or travel use.\n\nCheck reviews specifically for mentions of the dock running hot, disconnecting intermittently after extended use, or degrading over months, rather than relying on the unboxing-day performance most reviews describe."
+    "bestFor": "Three monitors plus a travel hub.",
+    "summary": "A compact 13-in-1 dock with three display outputs, 100W and a detachable travel hub.",
+    "skipIf": "You'd rather have Lenovo's own dock at a similar price."
   }
 ];
 
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
+export const howWeEvaluated = [
+  {
+    "title": "Compatibility",
+    "description": "We separated official Lenovo docks from third-party options and noted port requirements."
+  },
+  {
+    "title": "Displays and ports",
+    "description": "We compared display outputs and port counts."
+  },
+  {
+    "title": "Charging",
+    "description": "We compared power delivery where listed."
+  },
+  {
+    "title": "Price",
+    "description": "We compared prices at the time of writing."
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "Check Lenovo's compatibility list",
+    "explanation": "Official docks list supported models; confirm yours is included."
+  },
+  {
+    "criterion": "Match the port",
+    "explanation": "Thunderbolt 4/USB4 ThinkPads can use the Plugable fully; USB-C models suit USB-C docks."
+  },
+  {
+    "criterion": "Count displays and ports",
+    "explanation": "Check how many monitors your laptop supports and how many devices you connect."
+  },
+  {
+    "criterion": "Compare new and renewed prices",
+    "explanation": "Renewed isn't always cheaper; here it cost more."
+  }
+];
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "subheading": "By need",
     "table": {
       "headers": [
-        "Your priority",
-        "Recommended pick"
+        "Need",
+        "Consider"
       ],
       "rows": [
         [
-          "Highest average rating",
-          "Lenovo ThinkPad Universal USB"
+          "Official, current",
+          "ThinkPad Universal USB-C Dock"
         ],
         [
-          "Largest review base, strongest reliability signal",
-          "Lenovo ThinkPad Universal USB"
+          "Official, lower cost",
+          "ThinkPad USB-C Dock Gen 2"
+        ],
+        [
+          "Official travel",
+          "Lenovo Dual Display Travel Dock"
+        ],
+        [
+          "Thunderbolt ThinkPad",
+          "Plugable TBT-UDM"
+        ],
+        [
+          "Most ports",
+          "Anker Prime"
+        ],
+        [
+          "Three displays",
+          "Anker Nano"
+        ],
+        [
+          "Lowest price",
+          "UGREEN Revodok Pro"
         ]
       ]
     }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Under $27",
-          "UGREEN 7"
-        ],
-        [
-          "Up to $200",
-          "Plugable Thunderbolt 4 Dock"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Thunderbolt vs USB-C Only",
-    "cards": [
-      {
-        "label": "Thunderbolt-certified",
-        "text": "Higher bandwidth for demanding multi-display and high-speed data setups, but requires a genuinely Thunderbolt-capable laptop port. In this comparison: Plugable Thunderbolt 4 Dock, UGREEN 7, Anker Nano 13."
-      },
-      {
-        "label": "USB-C only",
-        "text": "Usually cheaper and works with any USB-C laptop, but with less headroom for multiple high-resolution displays. In this comparison: Lenovo ThinkPad Universal USB, Lenovo ThinkPad USB, Lenovo USB, Lenovo ThinkPad Docking Station Dual Monitor 40AY0090US, Anker Prime Docking Station 14."
-      }
-    ],
-    "note": "Default to USB-C only unless your laptop has a genuine Thunderbolt port and you need the extra display or data bandwidth."
-  },
-  {
-    "subheading": "By Data Transfer Speed",
-    "note": "Check each pick's listed USB data port speed against how often you actually move large files before buying. Lenovo ThinkPad Universal USB is the most-reviewed option here if you want the safer bet."
-  },
-  {
-    "subheading": "For a Dual or Triple Monitor Setup Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Native DisplayPort Alt Mode or DisplayLink chip technology, verified against your specific laptop's documented maximum external display count."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Lenovo ThinkPad Universal USB is worth checking against its listed display support before buying, given its strong review base."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need reliable multi-display support and full-speed charging under daily sustained use, where Plugable Thunderbolt 4 Dock's higher price buys real headroom over the cheaper picks."
-      },
-      {
-        "label": "Save if",
-        "text": "You only need occasional charging and a single extra port, where UGREEN 7 covers the same job at a lower price."
-      }
-    ]
   }
 ];
 
-export const faq: FaqItem[] = [
+export const faq = [
   {
-    q: "Will any Lenovo docking station work with any ThinkPad laptop?",
-    a: "No. Lenovo has shipped multiple physically distinct, non-interchangeable dock generations, the older mechanical slide-in ThinkPad Dock, the USB-C Dock Gen 2 era, and the current Universal USB-C Dock and Universal Thunderbolt 4 Dock. Always check your specific ThinkPad model year against Lenovo's compatibility list rather than assuming any Lenovo-branded dock fits.",
+    "q": "Do I need an official Lenovo dock?",
+    "a": "Not for basic use; third-party docks generally handle displays, charging and peripherals. Official docks add Lenovo-specific integration and support."
   },
   {
-    q: "Is a third-party dock as good as an official Lenovo dock for a ThinkPad?",
-    a: "For display and data, generally yes. But official Lenovo docks are validated specifically against Lenovo's own power management firmware, deeper sleep/wake handling and battery threshold settings, which third-party docks don't always replicate exactly. If precise wake-from-sleep or lid-close docking behavior matters to you, an official dock like the ThinkPad Universal USB-C Dock is the safer choice.",
+    "q": "Is the renewed dock worth it?",
+    "a": "Only if cheaper than new; at the time of writing it cost more."
   },
   {
-    q: "Is it safe to buy a renewed Lenovo docking station?",
-    a: "Renewed official Lenovo docks are a legitimate way to get official hardware at a lower price. The main thing to confirm before buying is whether the listing includes the original power brick, since a third-party replacement power brick is the most common complaint with used official docks.",
+    "q": "Will a Thunderbolt dock work on my ThinkPad?",
+    "a": "Fully only with a Thunderbolt 4 or USB4 port; check your model."
   },
   {
-    q: "Do I need a Thunderbolt dock for my ThinkPad, or is USB-C enough?",
-    a: "It depends on your ThinkPad's actual port. If it has a genuine Thunderbolt 4 or USB4 port, a certified Thunderbolt dock like the Plugable TBT-UDM guarantees compatibility through Intel's certification process. USB4 docks are broadly compatible but aren't held to that same certified standard, so a certified pick removes some guesswork if your ThinkPad supports it.",
+    "q": "How many monitors can I run?",
+    "a": "It depends on your laptop's graphics and port; check Lenovo's specifications."
   },
   {
-    q: "Why isn't my ThinkPad charging at full speed through the dock?",
-    a: "A dock rated for a given wattage typically delivers about 10-15W less to the laptop once its own circuitry draws its share. This matters most on ThinkPad P-series workstation laptops that need 100-170W under load, which may not charge at full speed from a dock rated lower than that real requirement.",
-  },
-  {
-    q: "My ThinkPad's external display keeps flickering or dropping the USB connection through the dock. What should I check first?",
-    a: "Check for a dock firmware update first, Lenovo regularly releases fixes for exactly these display flicker and USB dropout issues. Also check whether you're running dual displays plus a fast file transfer plus a USB drive simultaneously, which can saturate the dock's USB bus and cause disconnects that look like a hardware fault but are really a bandwidth issue.",
-  },
+    "q": "Is the Gen 2 dock still compatible?",
+    "a": "Check Lenovo's list; it's an older generation."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-docking-stations-compatible-with-hp-dell-laptops", title: "Best Docking Stations for HP & Dell Laptops (2026)" },
-  { href: "/guide/best-docking-stations-for-surface-pro-laptop", title: "Best Docking Stations for Surface Pro & Surface Laptop (2026)" },
-  { href: "/guide/best-docking-station-for-laptop", title: "Best Docking Stations for Laptops (2026)" },
+export const bottomLine = [
+  "For a ThinkPad, the official Universal USB-C Dock is the default if your model is listed; the Gen 2 costs slightly less for older models, and the travel dock suits hot-desking.",
+  "For Thunderbolt ThinkPads, the Plugable TBT-UDM is the certified option. The Anker Prime adds the most ports, and the UGREEN Revodok Pro is the lowest-cost hub."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-docking-stations-compatible-with-hp-dell-laptops",
+    "title": "Best Docking Stations for HP & Dell Laptops (2026)"
+  },
+  {
+    "href": "/guide/best-docking-stations-for-surface-pro-laptop",
+    "title": "Best Docking Stations for Surface Pro & Surface Laptop (2026)"
+  },
+  {
+    "href": "/guide/best-docking-station-for-laptop",
+    "title": "Best Docking Stations for Laptops (2026)"
+  }
 ];

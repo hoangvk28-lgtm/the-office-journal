@@ -1,339 +1,395 @@
-export const guideSlug = "best-cute-aesthetic-desk-pads";
-export const guideTitle = "8 Best Cute/Aesthetic Desk Pads in 2026";
-export const metaTitle = "Best Cute/Aesthetic Desk Pads";
-export const metaDescription = "We compared desk pad cute models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
-export const mainKeyword = "desk pad cute";
-export const introParagraphs = [
-  "Best Cute/Aesthetic Desk Pads differ more than titles suggest, so price alone misses what matters.",
-  "Every pick here was judged on verified edge durability, not marketing claims, because these separate real capability from claims."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/51fo7BZCr6L._SL500_.jpg";
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
+export const guideSlug = "best-cute-aesthetic-desk-pads";
+
+export const guideTitle = "The Best Cute and Aesthetic Desk Pads for a Personal Workspace";
+
+export const breadcrumbLabel = "Best Cute Aesthetic Desk Pads";
+
+export const metaTitle = "Best Cute and Aesthetic Desk Pads (2026)";
+
+export const metaDescription = "Decorative desk pads differ in surface, size and edging as much as pattern. We compared eight floral, gingham, scalloped and pastel pads on material, size and cleaning.";
+
+export const mainKeyword = "desk pad cute";
+
+export const introParagraphs = [
+  "A cute desk pad is chosen for its look, but it still has to work as a desk pad. The two practical questions are surface and size: PU leather wipes clean after a spill, while cloth (often lycra or polyester) gives a softer mouse surface but absorbs stains more readily. Most pads here are about 31 to 35 inches wide, enough for a keyboard and mouse.",
+  "Edging matters too. A stitched edge, like the scalloped ohisxiacy pads', is less likely to fray than a raw-cut one.",
+  "All eight pads here cost under $20 at the time of writing. Our comparison is based on listed materials and dimensions, not hands-on testing."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const readTime = "11 min";
+
+export const heroImage = "https://m.media-amazon.com/images/I/51fo7BZCr6L._SL500_.jpg";
 
 export const products: GuideProduct[] = [
   {
-    id: "best-cute-aesthetic-desk-pads-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral",
-    price: "$18.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51fo7BZCr6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFLJ1H8J?tag=theofficejournal-20",
-    description: "iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral is the strongest all-around choice here. More than just a mouse pad, this pink floral desk accessory helps create a coordinated and stylish workspace. The mouse pads for desk with comfortable lycra surface and material to the pads.\n\nHeld up against Scalloped Desk Mat, both cover the basics equally well, what actually separates them is the desk protector mat is flexible enough to be rolled up for easy transport.\n\nGo with this pick if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Aesthetic floral desk decor", "35.4 X 15.7 inches", "Mouse pads for desk with comfortable lycra surface and material to the pads"],
-    pros: ["Aesthetic floral desk decor", "35.4 X 15.7 inches", "Mouse pads for desk with comfortable lycra surface and material to the pads", "Stable rubber base"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
+    "id": "best-cute-aesthetic-desk-pads-1",
+    "rank": 1,
+    "badge": "Best Floral Pad",
+    "name": "iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral",
+    "price": "$18.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51fo7BZCr6L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFLJ1H8J?tag=theofficejournal-20",
+    "description": "The iCasso is the largest pad here at 35.4 x 15.7 inches, with a pink floral print on a lycra cloth surface over a stable rubber base, and it rolls up for transport.\n\nThe cloth surface is comfortable for a mouse but will show spills more than a PU leather pad.",
+    "specs": [
+      "Size: 35.4 x 15.7\"",
+      "Surface: lycra cloth",
+      "Base: rubber",
+      "Pattern: pink floral"
+    ],
+    "pros": [
+      "Largest pad here",
+      "Soft cloth surface",
+      "Rolls up"
+    ],
+    "cons": [
+      "Cloth absorbs spills",
+      "Edge finish not stated",
+      "Pattern-specific"
+    ],
+    "bestFor": "A wide floral pad under keyboard and mouse.",
+    "summary": "A 35.4 x 15.7-inch pink floral pad with a lycra surface and rubber base, the largest here.",
+    "skipIf": "You want wipe-clean; the QiyI PU leather pad is easier to clean."
   },
   {
-    id: "best-cute-aesthetic-desk-pads-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "Scalloped Desk Mat",
-    price: "$14.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41erhE3l4XL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FR4J24PK?tag=theofficejournal-20",
-    description: "Scalloped Desk Mat is a strong alternative worth comparing directly against the top pick. Perfect size for your desk - large 31.5\" x 15.7\" dimensions provide ample space for your keyboard, mouse, and other desk essentials. Premium PU leather construction - made with high-quality PU leather featuring a classic checkered pattern, offering both style and durability.\n\nSet next to iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Perfect size for your desk - large 31.5\" x 15.7\" dimensions", "Premium PU leather construction - made with high-quality PU leather featuring a classic checkered pattern", "Waterproof & easy to clean - spill-resistant surface protects"],
-    pros: ["Perfect size for your desk - large 31.5\" x 15.7\" dimensions", "Premium PU leather construction - made with high-quality PU leather featuring a classic checkered pattern", "Waterproof & easy to clean - spill-resistant surface protects", "Non-slip bottom design - soft velvet base ensures the mat stays firmly in place during use"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-cute-aesthetic-desk-pads-2",
+    "rank": 2,
+    "badge": "Best Checkered Leather Pad",
+    "name": "Scalloped Desk Mat",
+    "price": "$14.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41erhE3l4XL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR4J24PK?tag=theofficejournal-20",
+    "description": "The Scalloped Desk Mat pairs a checkered pattern and scalloped edge with a wipe-clean PU leather surface, 31.5 x 15.7 inches, on a soft velvet non-slip base.\n\nThe listing describes it as waterproof and spill-resistant. Leather-style surfaces can feel slicker for some mice than cloth.",
+    "specs": [
+      "Size: 31.5 x 15.7\"",
+      "Surface: PU leather",
+      "Pattern: checkered, scalloped edge",
+      "Base: velvet, non-slip",
+      "Waterproof (per listing)"
+    ],
+    "pros": [
+      "Wipe-clean",
+      "Scalloped design",
+      "Low price"
+    ],
+    "cons": [
+      "Leather surface may be slick for some mice",
+      "Brand not named",
+      "Velvet base on glass not stated"
+    ],
+    "bestFor": "A checkered look that's easy to wipe clean.",
+    "summary": "A 31.5 x 15.7-inch PU leather checkered pad with scalloped edges and velvet non-slip base.",
+    "skipIf": "You prefer a soft cloth surface; the ohisxiacy gingham pads use lycra."
   },
   {
-    id: "best-cute-aesthetic-desk-pads-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "YSAGi Leather Desk Protector",
-    price: "$9.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31x2y3DtMwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CGT9MQGP?tag=theofficejournal-20",
-    description: "YSAGi Leather Desk Protector is a strong alternative worth comparing directly against the top pick. Durable PU leather material adapted, which can protect your desk from scratches, stains, spills, heat and scuffs. With our large desk pad, say goodbye to small extra mouse pad.\n\nWaterproof leather desk pad, a detail worth checking closely before choosing between this and iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Desk protector", "Large mouse pad", "Easy to clean"],
-    pros: ["Desk protector", "Large mouse pad", "Easy to clean", "About brand ysagi"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-cute-aesthetic-desk-pads-3",
+    "rank": 3,
+    "badge": "Lowest-Cost Leather Protector",
+    "name": "YSAGi Leather Desk Protector",
+    "price": "$9.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31x2y3DtMwL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGT9MQGP?tag=theofficejournal-20",
+    "description": "The YSAGi is a plain PU leather desk protector at about $10 at the time of writing, which YSAGi says protects against scratches, stains, spills, heat and scuffs, and is waterproof and easy to clean.\n\nIt is more practical than decorative, and its size isn't stated in the listing summary; check that it fits your desk.",
+    "specs": [
+      "Surface: PU leather",
+      "Waterproof, easy to clean",
+      "Size: check listing"
+    ],
+    "pros": [
+      "Low price",
+      "Wipe-clean",
+      "Desk protection"
+    ],
+    "cons": [
+      "Size not stated here",
+      "Plain design",
+      "Few details listed"
+    ],
+    "bestFor": "A simple, low-cost protective pad.",
+    "summary": "A low-cost PU leather desk protector described as resisting scratches, stains, spills and heat.",
+    "skipIf": "You want a pattern; most others here are decorative."
   },
   {
-    id: "best-cute-aesthetic-desk-pads-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "Cute Frog Mouse Pad Desk Pad Kawaii Green Decor Mat",
-    price: "$18.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/515kp2qEtdL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C1YFNYFC?tag=theofficejournal-20",
-    description: "Cute Frog Mouse Pad Desk Pad Kawaii Green Decor Mat is a strong alternative worth comparing directly against the top pick. Handpicked pattern are more attractive. Thick cloth padding at top of the mousepad gaming mouse pad allows for optimum speed and accurate control while gaming.\n\niCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Original design mouse mat", "Thick cloth padding at top of the mousepad gaming", "Made of durable heat resistant polyester fabric cloth"],
-    pros: ["Original design mouse mat", "Thick cloth padding at top of the mousepad gaming", "Made of durable heat resistant polyester fabric cloth", "Wide applicability"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-cute-aesthetic-desk-pads-4",
+    "rank": 4,
+    "badge": "Best Kawaii Pattern",
+    "name": "Cute Frog Mouse Pad Desk Pad Kawaii Green Decor Mat",
+    "price": "$18.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/515kp2qEtdL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1YFNYFC?tag=theofficejournal-20",
+    "description": "The Cute Frog pad is the kawaii pick: an original frog design on heat-resistant polyester cloth with thick padding designed for smooth mouse control.\n\nIts size isn't stated in the listing summary, so confirm it covers your keyboard as well as your mouse.",
+    "specs": [
+      "Surface: polyester cloth, thick padding",
+      "Pattern: frog, green",
+      "Size: check listing"
+    ],
+    "pros": [
+      "Playful design",
+      "Padded cloth surface",
+      "Heat-resistant fabric"
+    ],
+    "cons": [
+      "Size not stated here",
+      "Cloth absorbs spills",
+      "Pattern-specific"
+    ],
+    "bestFor": "A playful, cushioned mouse surface.",
+    "summary": "A green frog-print cloth mouse pad with thick padding and heat-resistant polyester.",
+    "skipIf": "You need a stated full-desk size; the QiyI lists 31.5 x 15.7 inches."
   },
   {
-    id: "best-cute-aesthetic-desk-pads-5",
-    rank: 5,
-    badge: "Best Value",
-    name: "Aesthetic Desk Mat",
-    price: "$7.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51yKPBklJaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GXKJ33R9?tag=theofficejournal-20",
-    description: "Aesthetic Desk Mat is the best-value option in this roundup, priced lowest without a real capability gap. This large mouse pad (31.5\" x 11.8\") for desk provides generous space for your keyboard, mouse, and other office supplies. Crafted from high-quality rubber with a dense foam structure, this mouse pad is soft, elastic, and odor-free.\n\nSet next to iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis fits best if you want a genuinely capable pick without paying for headroom you won't use. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Large extended size", "Crafted from high-quality rubber with a dense foam structure", "High-density waterproof surface"],
-    pros: ["Large extended size", "Crafted from high-quality rubber with a dense foam structure", "High-density waterproof surface", "Non-slip rubber base"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
+    "id": "best-cute-aesthetic-desk-pads-5",
+    "rank": 5,
+    "badge": "Lowest Price",
+    "name": "Aesthetic Desk Mat",
+    "price": "$7.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51yKPBklJaL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXKJ33R9?tag=theofficejournal-20",
+    "description": "The Aesthetic Desk Mat is the lowest-priced pad here: 31.5 x 11.8 inches of dense foam rubber with a waterproof surface and non-slip base, described as soft and odor-free.\n\nAt 11.8 inches deep it is shallower than most pads here, so it may not reach under both keyboard and wrists.",
+    "specs": [
+      "Size: 31.5 x 11.8\"",
+      "Material: rubber, dense foam",
+      "Surface: waterproof",
+      "Base: non-slip rubber"
+    ],
+    "pros": [
+      "Lowest price here",
+      "Waterproof surface",
+      "Soft foam"
+    ],
+    "cons": [
+      "Shallow 11.8-inch depth",
+      "Pattern not described",
+      "Brand not named"
+    ],
+    "bestFor": "A budget pad on a shallow desk.",
+    "summary": "A 31.5 x 11.8-inch foam rubber pad with a waterproof surface, the cheapest here.",
+    "skipIf": "You want full coverage; most others are 15.7 inches deep."
   },
   {
-    id: "best-cute-aesthetic-desk-pads-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "ohisxiacy Scalloped‌ Beige Checkered Gingham Desk Mat Cute Pastel Large Mouse",
-    price: "$18.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31eWYecZO5L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G1BWQPNV?tag=theofficejournal-20",
-    description: "ohisxiacy Scalloped‌ Beige Checkered Gingham Desk Mat Cute Pastel Large Mouse is a strong alternative worth comparing directly against the top pick. With dimensions of 31\"*15.7\", this desk pad is large enough to cover most desk. Crafted from good natural rubber and premium lycra cloth, this deskmat is built to withstand daily use.\n\niCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral covers similar ground, though this mouse pad is perfect office or home desk decor accessories or office desk gift for women girl is what tips the choice one way or the other.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Generous size for versatile use", "Easy - to - clean material", "Scalloped stitched edge"],
-    pros: ["Generous size for versatile use", "Easy - to - clean material", "Scalloped stitched edge", "Stylish beige gingham desk mat"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-cute-aesthetic-desk-pads-6",
+    "rank": 6,
+    "badge": "Best Scalloped Gingham (Beige)",
+    "name": "ohisxiacy Scalloped‌ Beige Checkered Gingham Desk Mat Cute Pastel Large Mouse",
+    "price": "$18.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31eWYecZO5L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1BWQPNV?tag=theofficejournal-20",
+    "description": "The ohisxiacy beige gingham pad has a scalloped stitched edge, which is less likely to fray than a raw cut, on a lycra cloth surface over natural rubber. It measures 31 x 15.7 inches.\n\nIt's the soft-surface counterpart to the PU leather Scalloped Desk Mat.",
+    "specs": [
+      "Size: 31 x 15.7\"",
+      "Surface: lycra cloth",
+      "Base: natural rubber",
+      "Edge: scalloped, stitched"
+    ],
+    "pros": [
+      "Stitched scalloped edge",
+      "Soft surface",
+      "Pastel gingham"
+    ],
+    "cons": [
+      "Cloth absorbs spills",
+      "Duplicates the green version",
+      "Light color shows marks"
+    ],
+    "bestFor": "A pastel, cloth-surface desk pad.",
+    "summary": "A 31 x 15.7-inch beige gingham pad with a scalloped stitched edge, lycra surface and rubber base.",
+    "skipIf": "You'd rather have green; the other ohisxiacy listing is the same pad."
   },
   {
-    id: "best-cute-aesthetic-desk-pads-7",
-    rank: 7,
-    badge: "Best Premium Pick",
-    name: "ohisxiacy Scalloped‌ Green Checkered Desk Mat Cute Pastel Large Gaming Mouse",
-    price: "$18.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/412V0ykScFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G1BWMH7R?tag=theofficejournal-20",
-    description: "ohisxiacy Scalloped‌ Green Checkered Desk Mat Cute Pastel Large Gaming Mouse is the priciest pick in this lineup. With dimensions of 31\"*15.7\", this desk pad is large enough to cover most desk. Crafted from good natural rubber and premium lycra cloth, this deskmat is built to withstand daily use.\n\nThe gap between this and iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral isn't in the essentials, it shows up in this mouse pad is perfect office or home desk decor accessories or office desk gift for women girl.\n\nThis makes sense for anyone who are willing to spend the most in this comparison for the fuller feature set that comes with it. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Generous size for versatile use", "Easy - to - clean material", "Scalloped stitched edge"],
-    pros: ["Generous size for versatile use", "Easy - to - clean material", "Scalloped stitched edge", "Stylish green gingham desk mat"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
+    "id": "best-cute-aesthetic-desk-pads-7",
+    "rank": 7,
+    "badge": "Scalloped Gingham (Green)",
+    "name": "ohisxiacy Scalloped‌ Green Checkered Desk Mat Cute Pastel Large Gaming Mouse",
+    "price": "$18.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/412V0ykScFL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1BWMH7R?tag=theofficejournal-20",
+    "description": "This is the ohisxiacy scalloped pad in green checkered: the same 31 x 15.7-inch lycra surface, natural rubber base and stitched scalloped edge, at the same price at the time of writing.\n\nChoose between the two on color.",
+    "specs": [
+      "Size: 31 x 15.7\"",
+      "Surface: lycra cloth",
+      "Base: natural rubber",
+      "Edge: scalloped, stitched"
+    ],
+    "pros": [
+      "Stitched edge",
+      "Soft surface",
+      "Green gingham"
+    ],
+    "cons": [
+      "Cloth absorbs spills",
+      "Duplicates the beige version",
+      "Pattern-specific"
+    ],
+    "bestFor": "The scalloped gingham look in green.",
+    "summary": "The same ohisxiacy scalloped gingham pad in green.",
+    "skipIf": "You prefer beige; the other listing is identical."
   },
   {
-    id: "best-cute-aesthetic-desk-pads-8",
-    rank: 8,
-    badge: "Also Worth Considering",
-    name: "QiyI PU Leather Large Mouse Pad",
-    price: "$13.49",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/4165b4PimxL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08JLW4KWN?tag=theofficejournal-20",
-    description: "QiyI PU Leather Large Mouse Pad is a strong alternative worth comparing directly against the top pick. Extended size desk mat - 80×40cm (31.5×15.7 inch), this cute desk pad is large enough to accommodate your laptop, keyboard, mouse and other office desk accessories. Waterproof & easy to clean desk cover - made of water-resistant and durable PU leather, this rose gold mouse pad help prevent your desk from damages such as scratches, stains, spills and heat.\n\nSide by side with iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral, the real difference worth noting is available in a variety of awesome patterns and vibrant colors for more office decor choices.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Extended size desk mat - 80×40cm (31.5×15.7 inch)", "Waterproof & easy to clean desk cover - made of water-resistant and durable PU leather", "Durable non slip material - dense PU leather material"],
-    pros: ["Extended size desk mat - 80×40cm (31.5×15.7 inch)", "Waterproof & easy to clean desk cover - made of water-resistant and durable PU leather", "Durable non slip material - dense PU leather material", "Smooth surface - smooth surface allows fast mouse movement while maintaining excellent accuracy and control"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-cute-aesthetic-desk-pads-8",
+    "rank": 8,
+    "badge": "Best Patterned PU Leather",
+    "name": "QiyI PU Leather Large Mouse Pad",
+    "price": "$13.49",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/4165b4PimxL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08JLW4KWN?tag=theofficejournal-20",
+    "description": "The QiyI offers the most pattern and color choice in a wipe-clean pad: 80 x 40 cm (31.5 x 15.7 inches) of water-resistant PU leather with a smooth surface designed for fast mouse movement.\n\nIt was one of the lower-priced pads here at the time of writing. Leather-style surfaces can feel slicker than cloth.",
+    "specs": [
+      "Size: 31.5 x 15.7\" (80 x 40 cm)",
+      "Surface: PU leather, water-resistant",
+      "Many patterns and colors"
+    ],
+    "pros": [
+      "Wipe-clean",
+      "Many designs",
+      "Low price"
+    ],
+    "cons": [
+      "Slick for some mice",
+      "Base type not detailed",
+      "Edge finish not stated"
+    ],
+    "bestFor": "A decorative pad that's easy to clean.",
+    "summary": "An 80 x 40 cm PU leather pad in many patterns and colors, with a smooth, water-resistant surface.",
+    "skipIf": "You prefer cloth; the iCasso or ohisxiacy pads are softer."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "Cloth, Leather, or Vinyl Surface Material",
-    "description": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface."
+    "title": "Surface",
+    "description": "We compared PU leather, cloth and foam surfaces."
   },
   {
-    "title": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "description": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface."
+    "title": "Size",
+    "description": "We compared listed dimensions."
   },
   {
-    "title": "Edge Stitching and Curl Resistance Over Time",
-    "description": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage."
+    "title": "Construction",
+    "description": "We noted edges and bases where listed."
   },
   {
-    "title": "Base Grip on Your Specific Desk Surface",
-    "description": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface."
-  },
-  {
-    "title": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "description": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Surface Material",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Soft feel for typing",
-          "Aesthetic Desk Mat"
-        ],
-        [
-          "Balance of feel and durability",
-          "iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral"
-        ],
-        [
-          "Wipeable, polished look",
-          "ohisxiacy Scalloped‌ Green Checkered Desk Mat Cute Pastel Large Gaming Mouse"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Aesthetic Desk Mat"
-        ],
-        [
-          "Mid-range pick",
-          "Scalloped Desk Mat"
-        ],
-        [
-          "Higher budget",
-          "ohisxiacy Scalloped‌ Green Checkered Desk Mat Cute Pastel Large Gaming Mouse"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Cloth vs Leather",
-    "cards": [
-      {
-        "label": "Cloth (e.g. Aesthetic Desk Mat)",
-        "text": "Softer feel, absorbs spills, shows staining faster."
-      },
-      {
-        "label": "Leather/PU (e.g. ohisxiacy Scalloped‌ Green Checkered Desk Mat Cute Pastel Large Gaming Mouse)",
-        "text": "Wipes clean easily, more polished look, higher price."
-      }
-    ],
-    "note": "Match this to how much coffee and food realistically ends up near your desk."
-  },
-  {
-    "subheading": "By Setup Size",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Single keyboard and mouse",
-          "iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral"
-        ],
-        [
-          "Dual monitor, wider setup",
-          "Check for extra-large or extended sizing"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Daily Heavy Use Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
-      },
-      {
-        "label": "In this comparison",
-        "text": "iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral is worth checking against its specific edge construction before assuming any desk pad holds up the same."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want a wipeable, longer-lasting surface with a more polished look, where ohisxiacy Scalloped‌ Green Checkered Desk Mat Cute Pastel Large Gaming Mouse justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want straightforward daily protection and comfort, where Aesthetic Desk Mat already covers the job at the lowest price here."
-      }
-    ]
+    "title": "Price",
+    "description": "We compared prices at the time of writing."
   }
 ];
 
 export const buyingCriteria = [
   {
-    "criterion": "Cloth, Leather, or Vinyl Surface Material",
-    "explanation": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface. PU leather and vinyl desk pads sacrifice a little of that soft feel for a surface you can actually wipe clean, and genuine leather sits between the two, developing a natural patina over years of use rather than just showing wear. Match the material to how much daily abuse (coffee, food, ink) the pad will realistically see."
+    "criterion": "Pick a surface",
+    "explanation": "PU leather (Scalloped, YSAGi, QiyI) wipes clean; cloth (iCasso, ohisxiacy, frog pad) is softer but absorbs spills."
   },
   {
-    "criterion": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "explanation": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface. Lay your keyboard and mouse out in your actual working position, measure the combined width, and add about 4 inches of margin on each side; a 31 by 15 inch pad is a reasonable starting point for most single-monitor setups, but wider dual-monitor arrangements often need more."
+    "criterion": "Check size",
+    "explanation": "Most here are 31 to 35.4 inches wide and 15.7 deep; the Aesthetic Desk Mat is only 11.8 inches deep."
   },
   {
-    "criterion": "Edge Stitching and Curl Resistance Over Time",
-    "explanation": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage. A stitched edge holds its flat shape considerably longer, while an unstitched raw-cut edge is more prone to fraying on cloth pads specifically, in addition to curling. This detail matters more the longer you expect to keep using the same pad daily."
+    "criterion": "Look at edges",
+    "explanation": "Stitched edges, like the scalloped ohisxiacy pads', resist fraying."
   },
   {
-    "criterion": "Base Grip on Your Specific Desk Surface",
-    "explanation": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface. If your desk has a slicker finish, look specifically for a backing material designed for that surface type."
-  },
+    "criterion": "Check the base",
+    "explanation": "Rubber and velvet non-slip bases help the pad stay put."
+  }
+];
+
+export const howToChoose: HowToChooseSection[] = [
   {
-    "criterion": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "explanation": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there. The price jump from cloth to leather buys a wipeable, longer-lasting surface and often a more polished look for a shared or client-facing workspace, but a cloth pad remains the better value if the desk pad's job is purely functional cushioning and mouse tracking."
+    "subheading": "By style and surface",
+    "table": {
+      "headers": [
+        "Preference",
+        "Consider"
+      ],
+      "rows": [
+        [
+          "Floral, largest",
+          "iCasso"
+        ],
+        [
+          "Checkered, wipe-clean",
+          "Scalloped Desk Mat"
+        ],
+        [
+          "Gingham, soft cloth",
+          "ohisxiacy (beige or green)"
+        ],
+        [
+          "Many patterns, wipe-clean",
+          "QiyI"
+        ],
+        [
+          "Kawaii",
+          "Cute Frog pad"
+        ],
+        [
+          "Lowest cost",
+          "Aesthetic Desk Mat or YSAGi"
+        ]
+      ]
+    }
   }
 ];
 
 export const faq = [
   {
-    "q": "What's the difference between a desk pad and a mouse pad?",
-    "a": "A desk pad covers most or all of your desk surface (keyboard, mouse, and often a writing area), while a mouse pad covers just the small area under your mouse; a desk pad protects more of the desk and gives your mouse more room to move but costs more and takes up the whole surface."
+    "q": "Desk pad or mouse pad?",
+    "a": "A desk pad covers keyboard and mouse; a mouse pad covers only the mouse area. Most here are desk-pad size."
   },
   {
-    "q": "What size desk pad do I need?",
-    "a": "Measure your keyboard and mouse laid out side by side in your actual typing position and add roughly 4 inches of margin on each side; around 31 by 15 inches is a reasonable starting size for a single-monitor setup, though wider dual-monitor arrangements often need more."
+    "q": "What size do I need?",
+    "a": "Measure your keyboard and mouse side by side. About 31 x 15.7 inches suits many single-monitor desks."
   },
   {
-    "q": "Is leather or cloth better for a desk pad?",
-    "a": "It depends on priorities: cloth feels better to write and mouse on but absorbs spills and shows staining faster, while leather (or PU leather/vinyl) wipes clean easily and looks more polished, at a higher price point ($30 to $60-plus versus $15 to $30 for cloth)."
+    "q": "Leather or cloth?",
+    "a": "PU leather wipes clean; cloth is softer and designed for mouse tracking but shows stains more."
   },
   {
-    "q": "Will my desk pad curl up at the corners over time?",
-    "a": "It's more likely without reinforced or stitched edges, especially on cloth pads that get rolled up for travel or storage; a stitched edge holds its flat shape considerably longer than an unstitched, raw-cut edge."
+    "q": "Will it curl?",
+    "a": "Stitched edges help a pad stay flat and resist fraying. Unroll new pads and let them settle."
   },
   {
-    "q": "Will a desk pad slide around on my desk?",
-    "a": "It depends on matching the backing material to your desk's surface: a rubber non-slip base grips laminate and wood reliably but can slide more on glass or a glossy lacquered desktop, so check the backing type against your specific desk finish."
-  },
-  {
-    "q": "Can a desk pad double as a mouse pad and a keyboard mat?",
-    "a": "Yes, that's the main appeal of a desk pad over a separate mouse pad, since a properly sized one covers both your keyboard and mouse (and often a writing area) on one continuous surface, avoiding the seam between two separate smaller pads."
+    "q": "Will it slide?",
+    "a": "Rubber or velvet non-slip bases help. Glossy desks may need a grippier base."
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-leather-desk-pads","title":"Best Leather Desk Pads"},{"href":"/guide/best-large-desk-pads","title":"Best Large Desk Pads"},{"href":"/guide/best-desk-pads-with-wrist-support","title":"Best Desk Pads with Wrist Support"}];
+export const bottomLine = [
+  "For a wipe-clean pad, the QiyI offers the most designs and the Scalloped Desk Mat a checkered look with a scalloped edge. For a softer surface, the ohisxiacy gingham pads have stitched edges and the iCasso floral is the largest.",
+  "On the smallest budget, the Aesthetic Desk Mat and YSAGi cost least, though the former is shallow. The frog pad is the playful choice; check its size first."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-leather-desk-pads",
+    "title": "Best Leather Desk Pads"
+  },
+  {
+    "href": "/guide/best-large-desk-pads",
+    "title": "Best Large Desk Pads"
+  },
+  {
+    "href": "/guide/best-desk-pads-with-wrist-support",
+    "title": "Best Desk Pads with Wrist Support"
+  }
+];

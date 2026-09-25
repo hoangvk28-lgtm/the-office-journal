@@ -1,339 +1,367 @@
-export const guideSlug = "best-desk-pads-for-small-desks";
-export const guideTitle = "8 Best Desk Pads for Small Desks in 2026";
-export const metaTitle = "Best Desk Pads for Small Desks";
-export const metaDescription = "We compared desk pad small models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
-export const mainKeyword = "desk pad small";
-export const introParagraphs = [
-  "Best Desk Pads for Small Desks look similar but differ in practice, so the surface material hides real gaps.",
-  "Every pick here was judged on documented size and backing material, because these separate real capability from claims."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/21NnLPUiwgL._SL500_.jpg";
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
+export const guideSlug = "best-desk-pads-for-small-desks";
+
+export const guideTitle = "The Best Desk Pads for Small Desks and Tight Spaces";
+
+export const breadcrumbLabel = "Best Desk Pads for Small Desks";
+
+export const metaTitle = "Best Desk Pads for Small Desks: Compact Mats Under $10 (2026)";
+
+export const metaDescription = "We compared compact desk pads for small desks on size, surface and backing, from 23.6-inch PU pads to a checkered scalloped mat and a Logitech cloth pad, all around $10.";
+
+export const mainKeyword = "desk pad small";
+
+export const introParagraphs = [
+  "On a small desk, a full-size 31-inch pad hangs over the edges or covers space you need for other things. A compact pad around 23.6 x 13.7 inches fits a laptop and mouse, or a compact keyboard and mouse, while still protecting the surface and giving the mouse a consistent track.",
+  "Every pad here costs about $10 or less at the time of writing, and several are near-identical PU pads, so the useful differences are exact size, surface (PU leather or coated cloth) and style.",
+  "Our comparison is based on published specifications and price position, not hands-on testing. Measure the space you want to cover first."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const readTime = "11 min";
+
+export const heroImage = "https://m.media-amazon.com/images/I/21NnLPUiwgL._SL500_.jpg";
 
 export const products: GuideProduct[] = [
   {
-    id: "best-desk-pads-for-small-desks-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Smead Vegan Leather Desk Pad Mat",
-    price: "$6.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/21NnLPUiwgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CKLRPKD8?tag=theofficejournal-20",
-    description: "Smead Vegan Leather Desk Pad Mat is the top pick in this comparison. A fine-grain face bonded to a soft underside that will not slide on wood, glass or laminate, so it stays square to the edge of your desk from monday morning to friday night. Spills bead on the top rather than soaking through, then wipe away with a damp cloth.\n\nWeighing this against Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse, 23.6 By 13.7 inches of pale blush ends up being the detail that matters most for most buyers.\n\nThis one is the right call if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Vegan leather over faux suede", "Coffee happens", "A thin desk mat and a desk writing pad"],
-    pros: ["Vegan leather over faux suede", "Coffee happens", "A thin desk mat and a desk writing pad", "Small desk pad, dusty rose pink"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
+    "id": "best-desk-pads-for-small-desks-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Smead Vegan Leather Desk Pad Mat",
+    "price": "$6.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/21NnLPUiwgL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKLRPKD8?tag=theofficejournal-20",
+    "description": "The Smead is the sensible pick for a small desk: a thin vegan leather pad bonded to a faux suede underside that Smead says will not slide on wood, glass or laminate, and a surface where spills bead up and wipe away.\n\nIt works as both a mouse surface and a writing pad, from an established office-supply brand, for about $7 at the time of writing.\n\nThe listing does not give dimensions, so confirm the size.",
+    "specs": [
+      "Surface: vegan leather",
+      "Back: faux suede",
+      "Spill-resistant",
+      "Size: not stated"
+    ],
+    "pros": [
+      "Grips glass and wood, per Smead",
+      "Low price",
+      "Established brand"
+    ],
+    "cons": [
+      "Dimensions not stated"
+    ],
+    "bestFor": "Small desks, including glass tops.",
+    "summary": "A thin vegan leather pad on a faux suede back that grips wood, glass and laminate.",
+    "skipIf": "You need a confirmed size; the Aothia lists 23.6 x 13.7 inches."
   },
   {
-    id: "best-desk-pads-for-small-desks-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse",
-    price: "$9.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/411bezC-CcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B086BLQZ5L?tag=theofficejournal-20",
-    description: "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse is a strong alternative worth comparing directly against the top pick. Made of durable PU leather material, which protects your desk from scratches, stains, spills, heat and scuffs. 23.6 X 13.7 inch size is large enough to accommodate your laptop, mouse and keyboard.\n\nWe are dedicated to providing our customers with high quality products and superior service, which is the main thing that distinguishes this pick from Smead Vegan Leather Desk Pad Mat.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Protect your desk", "Multifunctional desk pad", "Special non-slip design"],
-    pros: ["Protect your desk", "Multifunctional desk pad", "Special non-slip design", "Waterproof and easy to clean"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-for-small-desks-2",
+    "rank": 2,
+    "badge": "Compact PU Pad",
+    "name": "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse",
+    "price": "$9.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/411bezC-CcL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B086BLQZ5L?tag=theofficejournal-20",
+    "description": "The Aothia is a 23.6 x 13.7-inch waterproof PU pad with a non-slip back, for about $10 at the time of writing, sized for a laptop and mouse.",
+    "specs": [
+      "Size: 23.6 x 13.7\"",
+      "Surface: PU, waterproof",
+      "Non-slip back"
+    ],
+    "pros": [
+      "Stated size",
+      "Wipe clean"
+    ],
+    "cons": [
+      "Near-identical to cheaper pads"
+    ],
+    "bestFor": "Small desks with a laptop and mouse.",
+    "summary": "A 23.6 x 13.7-inch waterproof PU pad with a non-slip back.",
+    "skipIf": "The unbranded 23.6-inch pad costs about $3 less."
   },
   {
-    id: "best-desk-pads-for-small-desks-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "YSAGi Non-Slip Leather Desk Pad",
-    price: "$9.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41WcT-+T-kL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07YFBYSQ4?tag=theofficejournal-20",
-    description: "YSAGi Non-Slip Leather Desk Pad is a strong alternative worth comparing directly against the top pick. Suede material used for the back side for slip resistance. Durable PVC leather for the upper use side, just use cloth to wipe it, very easy to clean, wet cloth would be prefer if there are too much dirt on the mat.\n\nSide by side with Smead Vegan Leather Desk Pad Mat, the real difference worth noting is waterproof, oil-proof, protect your glass/wooden desktop from scratches, stains, and spills.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Anti-slip back side", "Easy to clean", "Wide surface usage"],
-    pros: ["Anti-slip back side", "Easy to clean", "Wide surface usage", "Great choice of mouse pad"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-for-small-desks-3",
+    "rank": 3,
+    "badge": "Suede-Backed YSAGi Pad",
+    "name": "YSAGi Non-Slip Leather Desk Pad",
+    "price": "$9.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41WcT-+T-kL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07YFBYSQ4?tag=theofficejournal-20",
+    "description": "This YSAGi has a PVC leather top that wipes clean and a suede back for slip resistance, for about $10 at the time of writing.\n\nThe listing does not state dimensions.",
+    "specs": [
+      "Surface: PVC leather",
+      "Back: suede",
+      "Size: not stated"
+    ],
+    "pros": [
+      "Suede grip",
+      "Wipe clean"
+    ],
+    "cons": [
+      "Dimensions not stated"
+    ],
+    "bestFor": "Buyers who prefer YSAGi and will check the size.",
+    "summary": "A YSAGi PVC leather pad with a suede back for grip.",
+    "skipIf": "You want a stated size."
   },
   {
-    id: "best-desk-pads-for-small-desks-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "YSAGi Leather Office Desk Pad Protector",
-    price: "$9.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41CF62OPpgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMTPC44X?tag=theofficejournal-20",
-    description: "YSAGi Leather Office Desk Pad Protector is a strong alternative worth comparing directly against the top pick. Durable PU leather material adapted, which can protect your desk from scratches, stains, spills, heat and scuffs. With our large desk pad, say goodbye to small extra mouse pad.\n\nSmead Vegan Leather Desk Pad Mat covers similar ground, though waterproof leather desk pad is what tips the choice one way or the other.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Desk protector", "Large mouse pad", "About brand ysagi"],
-    pros: ["Desk protector", "Large mouse pad", "About brand ysagi", "Good after-sales service"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-for-small-desks-4",
+    "rank": 4,
+    "badge": "YSAGi PU Variant",
+    "name": "YSAGi Leather Office Desk Pad Protector",
+    "price": "$9.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41CF62OPpgL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BMTPC44X?tag=theofficejournal-20",
+    "description": "This YSAGi PU desk protector doubles as a mouse pad and wipes clean, for about $10 at the time of writing. The listing does not state dimensions; YSAGi sells several sizes.",
+    "specs": [
+      "Surface: PU leather",
+      "Size: not stated"
+    ],
+    "pros": [
+      "Wipe clean"
+    ],
+    "cons": [
+      "Dimensions not stated",
+      "Duplicate listing"
+    ],
+    "bestFor": "Buyers choosing a YSAGi variant.",
+    "summary": "Another YSAGi PU leather desk protector listing.",
+    "skipIf": "You want a stated size."
   },
   {
-    id: "best-desk-pads-for-small-desks-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "Leather Desk Pad Protector, Non-Slip Desk Pad(Black, 23.6\" x 13.7\")",
-    price: "$6.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41aoSrfEj3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CNX4MTB9?tag=theofficejournal-20",
-    description: "Leather Desk Pad Protector, Non-Slip Desk Pad(Black, 23.6\" x 13.7\") is a strong alternative worth comparing directly against the top pick. Made of tough and durable PU leather material, this desk pad protector is built to last. Our large desk pad eliminates the need for an extra mouse pad, making your desk look neat and professional.\n\nThe gap between this and Smead Vegan Leather Desk Pad Mat isn't in the essentials, it shows up in measuring 23.6\" x 13.7\", offering ample space to accommodate your laptop, mouse, and keyboard.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Desk protector", "Special non-slip design", "Easy to clean"],
-    pros: ["Desk protector", "Special non-slip design", "Easy to clean", "Wide surface usage"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-for-small-desks-5",
+    "rank": 5,
+    "badge": "Lowest-Cost Compact Pad",
+    "name": "Leather Desk Pad Protector, Non-Slip Desk Pad(Black, 23.6\" x 13.7\")",
+    "price": "$6.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41aoSrfEj3L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNX4MTB9?tag=theofficejournal-20",
+    "description": "This unbranded 23.6 x 13.7-inch black PU pad matches the Aothia in size, with a non-slip design, for about $7 at the time of writing.",
+    "specs": [
+      "Size: 23.6 x 13.7\"",
+      "Surface: PU leather",
+      "Non-slip back"
+    ],
+    "pros": [
+      "Lowest price",
+      "Stated size"
+    ],
+    "cons": [
+      "Unbranded"
+    ],
+    "bestFor": "Budget small desks.",
+    "summary": "A black 23.6 x 13.7-inch PU pad with a non-slip back for about $7.",
+    "skipIf": "You want a named brand."
   },
   {
-    id: "best-desk-pads-for-small-desks-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "Logitech Studio Series Small Mouse Pad",
-    price: "$9.78",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/319GzM0EaHL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09DV56338?tag=theofficejournal-20",
-    description: "Logitech Studio Series Small Mouse Pad is a strong alternative worth comparing directly against the top pick. The studio series mouse pad features a smooth, comfortable cloth surface with a fine weave for effortless, silent gliding on any surface whether in the office or at home. The desk pad's coated surface lets you easily wipe away any accidental mishaps; wipe liquids clean with a damp cloth.\n\nSet next to Smead Vegan Leather Desk Pad Mat, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Move and glide effortlessly", "Spill-repellent, easy to clean", "Crafted with precision"],
-    pros: ["Move and glide effortlessly", "Spill-repellent, easy to clean", "Crafted with precision", "Carefully chosen materials"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-for-small-desks-6",
+    "rank": 6,
+    "badge": "Best Cloth Mouse Pad",
+    "name": "Logitech Studio Series Small Mouse Pad",
+    "price": "$9.78",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/319GzM0EaHL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09DV56338?tag=theofficejournal-20",
+    "description": "The Logitech Studio Series small pad is a cloth mouse pad rather than a desk pad: a fine-weave surface for quiet gliding with a spill-repellent coating that wipes clean.\n\nIt suits a very small desk where only the mouse needs a surface.\n\nIt will not sit under a keyboard or laptop.",
+    "specs": [
+      "Type: small mouse pad",
+      "Surface: coated cloth, spill-repellent"
+    ],
+    "pros": [
+      "Established brand",
+      "Quiet, smooth surface"
+    ],
+    "cons": [
+      "Mouse only"
+    ],
+    "bestFor": "The smallest desks, where only the mouse needs a pad.",
+    "summary": "Logitech's small Studio Series cloth pad with a spill-repellent coating.",
+    "skipIf": "You want keyboard coverage too."
   },
   {
-    id: "best-desk-pads-for-small-desks-7",
-    rank: 7,
-    badge: "Great Alternative",
-    name: "Scalloped Desk Mat",
-    price: "$9.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41tDuGOSlBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FR4QFN15?tag=theofficejournal-20",
-    description: "Scalloped Desk Mat is a strong alternative worth comparing directly against the top pick. The 23.6\" x 11.8\" dimensions provide ample space for your keyboard, mouse, and other desk essentials. Premium PU leather construction - made with high-quality PU leather featuring a classic checkered pattern, offering both style and durability.\n\nSmead Vegan Leather Desk Pad Mat is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["23.6\" x 11.8\" dimensions provide ample space for your keyboard", "Premium PU leather construction - made with high-quality PU leather featuring a classic checkered pattern", "Waterproof & easy to clean - spill-resistant surface protects"],
-    pros: ["23.6\" x 11.8\" dimensions provide ample space for your keyboard", "Premium PU leather construction - made with high-quality PU leather featuring a classic checkered pattern", "Waterproof & easy to clean - spill-resistant surface protects", "Non-slip bottom design - soft velvet base ensures the mat stays firmly in place during use"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-for-small-desks-7",
+    "rank": 7,
+    "badge": "Best Decorative Compact Pad",
+    "name": "Scalloped Desk Mat",
+    "price": "$9.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41tDuGOSlBL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR4QFN15?tag=theofficejournal-20",
+    "description": "The scalloped desk mat adds style to a small desk: 23.6 x 11.8 inches of waterproof PU with a checkered pattern and scalloped edges.\n\nAt 11.8 inches deep it is shallower than the other compact pads, which suits a narrow desk.",
+    "specs": [
+      "Size: 23.6 x 11.8\"",
+      "Surface: PU, checkered",
+      "Scalloped edge",
+      "Waterproof"
+    ],
+    "pros": [
+      "Decorative",
+      "Shallow for narrow desks"
+    ],
+    "cons": [
+      "Less depth for a laptop"
+    ],
+    "bestFor": "Narrow desks where style matters.",
+    "summary": "A 23.6 x 11.8-inch checkered PU mat with scalloped edges.",
+    "skipIf": "You want a plain look."
   },
   {
-    id: "best-desk-pads-for-small-desks-8",
-    rank: 8,
-    badge: "Best Premium Pick",
-    name: "Faux Leather Large Mouse Pad",
-    price: "$9.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41uFPncc29L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GJZDSSKC?tag=theofficejournal-20",
-    description: "Faux Leather Large Mouse Pad is the priciest pick in this lineup. Extended size desk mat - 60×35cm (23.6×13.8 inch), this cute desk pad is large enough to accommodate your mouse, keyboard, computer, laptop, and other desk accessories. Waterproof & easy to clean desk cover - made of water-resistant and durable faux leather, this cute mousepad help prevent your desk from damages such as scratches, stains, spills and heat.\n\nThe gap between this and Smead Vegan Leather Desk Pad Mat isn't in the essentials, it shows up in available in a variety of awesome patterns and vibrant colors for more desk decor choices.\n\nReach for this pick if you are willing to spend the most in this comparison for the fuller feature set that comes with it. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Extended size desk mat - 60×35cm (23.6×13.8 inch)", "Waterproof & easy to clean desk cover - made of water-resistant and durable faux leather", "Durable non slip material - dense PU leather material"],
-    pros: ["Extended size desk mat - 60×35cm (23.6×13.8 inch)", "Waterproof & easy to clean desk cover - made of water-resistant and durable faux leather", "Durable non slip material - dense PU leather material", "Smooth surface - smooth surface allows fast mouse movement while maintaining excellent accuracy and control"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
+    "id": "best-desk-pads-for-small-desks-8",
+    "rank": 8,
+    "badge": "Faux Leather Compact Pad",
+    "name": "Faux Leather Large Mouse Pad",
+    "price": "$9.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41uFPncc29L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJZDSSKC?tag=theofficejournal-20",
+    "description": "This faux leather pad is 23.6 x 13.8 inches (60 x 35 cm), water-resistant, with a non-slip underside, for about $10 at the time of writing.\n\nIt is another near-identical compact pad; choose it if you prefer its color.",
+    "specs": [
+      "Size: 23.6 x 13.8\" (60 x 35 cm)",
+      "Surface: faux leather, water-resistant",
+      "Non-slip underside"
+    ],
+    "pros": [
+      "Stated size",
+      "Wipe clean"
+    ],
+    "cons": [
+      "Near-identical to cheaper pads"
+    ],
+    "bestFor": "Buyers who like its color.",
+    "summary": "A 23.6 x 13.8-inch water-resistant faux leather pad.",
+    "skipIf": "The unbranded pad costs less for the same size."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "Cloth, Leather, or Vinyl Surface Material",
-    "description": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface."
+    "title": "Size and fit",
+    "description": "We recorded stated dimensions and flagged missing ones."
   },
   {
-    "title": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "description": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface."
+    "title": "Surface and backing",
+    "description": "We compared materials and grip claims."
   },
   {
-    "title": "Edge Stitching and Curl Resistance Over Time",
-    "description": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage."
-  },
-  {
-    "title": "Base Grip on Your Specific Desk Surface",
-    "description": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface."
-  },
-  {
-    "title": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "description": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Surface Material",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Soft feel for typing",
-          "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse"
-        ],
-        [
-          "Balance of feel and durability",
-          "Smead Vegan Leather Desk Pad Mat"
-        ],
-        [
-          "Wipeable, polished look",
-          "Faux Leather Large Mouse Pad"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse"
-        ],
-        [
-          "Mid-range pick",
-          "YSAGi Non-Slip Leather Desk Pad"
-        ],
-        [
-          "Higher budget",
-          "Faux Leather Large Mouse Pad"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Cloth vs Leather",
-    "cards": [
-      {
-        "label": "Cloth (e.g. Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse)",
-        "text": "Softer feel, absorbs spills, shows staining faster."
-      },
-      {
-        "label": "Leather/PU (e.g. Faux Leather Large Mouse Pad)",
-        "text": "Wipes clean easily, more polished look, higher price."
-      }
-    ],
-    "note": "Match this to how much coffee and food realistically ends up near your desk."
-  },
-  {
-    "subheading": "By Setup Size",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Single keyboard and mouse",
-          "Smead Vegan Leather Desk Pad Mat"
-        ],
-        [
-          "Dual monitor, wider setup",
-          "Check for extra-large or extended sizing"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Daily Heavy Use Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Smead Vegan Leather Desk Pad Mat is worth checking against its specific edge construction before assuming any desk pad holds up the same."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want a wipeable, longer-lasting surface with a more polished look, where Faux Leather Large Mouse Pad justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want straightforward daily protection and comfort, where Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse already covers the job at the lowest price here."
-      }
-    ]
+    "title": "Price position",
+    "description": "Prices change often, so we treat them as relative position."
   }
 ];
 
 export const buyingCriteria = [
   {
-    "criterion": "Cloth, Leather, or Vinyl Surface Material",
-    "explanation": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface. PU leather and vinyl desk pads sacrifice a little of that soft feel for a surface you can actually wipe clean, and genuine leather sits between the two, developing a natural patina over years of use rather than just showing wear. Match the material to how much daily abuse (coffee, food, ink) the pad will realistically see."
+    "criterion": "Size",
+    "explanation": "Measure the area. Most pads here are about 23.6 x 13.7 inches; the scalloped mat is shallower and the Logitech covers only the mouse."
   },
   {
-    "criterion": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "explanation": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface. Lay your keyboard and mouse out in your actual working position, measure the combined width, and add about 4 inches of margin on each side; a 31 by 15 inch pad is a reasonable starting point for most single-monitor setups, but wider dual-monitor arrangements often need more."
+    "criterion": "Surface",
+    "explanation": "PU and vegan leather wipe clean; the Logitech's coated cloth is quieter under a mouse."
   },
   {
-    "criterion": "Edge Stitching and Curl Resistance Over Time",
-    "explanation": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage. A stitched edge holds its flat shape considerably longer, while an unstitched raw-cut edge is more prone to fraying on cloth pads specifically, in addition to curling. This detail matters more the longer you expect to keep using the same pad daily."
+    "criterion": "Backing",
+    "explanation": "Suede and non-slip backs keep the pad in place; the Smead lists grip on glass."
+  }
+];
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By desk",
+    "table": {
+      "headers": [
+        "Desk",
+        "Consider",
+        "Why"
+      ],
+      "rows": [
+        [
+          "Glass or slippery top",
+          "Smead",
+          "Faux suede grip"
+        ],
+        [
+          "Laptop and mouse",
+          "Unbranded 23.6\" or Aothia",
+          "Stated size"
+        ],
+        [
+          "Narrow desk",
+          "Scalloped mat",
+          "11.8 inches deep"
+        ],
+        [
+          "Mouse only",
+          "Logitech Studio small",
+          "Cloth mouse pad"
+        ]
+      ]
+    }
   },
   {
-    "criterion": "Base Grip on Your Specific Desk Surface",
-    "explanation": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface. If your desk has a slicker finish, look specifically for a backing material designed for that surface type."
-  },
-  {
-    "criterion": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "explanation": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there. The price jump from cloth to leather buys a wipeable, longer-lasting surface and often a more polished look for a shared or client-facing workspace, but a cloth pad remains the better value if the desk pad's job is purely functional cushioning and mouse tracking."
+    "subheading": "By price at the time of writing",
+    "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.",
+    "table": {
+      "headers": [
+        "Price tier",
+        "Pads"
+      ],
+      "rows": [
+        [
+          "About $7",
+          "Smead, unbranded 23.6\""
+        ],
+        [
+          "About $10",
+          "Aothia, YSAGi (both), Logitech, scalloped, faux leather"
+        ]
+      ]
+    }
   }
 ];
 
 export const faq = [
   {
-    "q": "What's the difference between a desk pad and a mouse pad?",
-    "a": "A desk pad covers most or all of your desk surface (keyboard, mouse, and often a writing area), while a mouse pad covers just the small area under your mouse; a desk pad protects more of the desk and gives your mouse more room to move but costs more and takes up the whole surface."
+    "q": "What size pad suits a small desk?",
+    "a": "Around 23.6 x 13.7 inches fits a laptop and mouse. For a very narrow desk, the 11.8-inch-deep scalloped mat is shallower."
   },
   {
-    "q": "What size desk pad do I need?",
-    "a": "Measure your keyboard and mouse laid out side by side in your actual typing position and add roughly 4 inches of margin on each side; around 31 by 15 inches is a reasonable starting size for a single-monitor setup, though wider dual-monitor arrangements often need more."
+    "q": "Will a pad stay put on a glass desk?",
+    "a": "The Smead's faux suede back is listed as gripping glass. Plain rubber backs may slide more on glossy surfaces."
   },
   {
-    "q": "Is leather or cloth better for a desk pad?",
-    "a": "It depends on priorities: cloth feels better to write and mouse on but absorbs spills and shows staining faster, while leather (or PU leather/vinyl) wipes clean easily and looks more polished, at a higher price point ($30 to $60-plus versus $15 to $30 for cloth)."
-  },
-  {
-    "q": "Will my desk pad curl up at the corners over time?",
-    "a": "It's more likely without reinforced or stitched edges, especially on cloth pads that get rolled up for travel or storage; a stitched edge holds its flat shape considerably longer than an unstitched, raw-cut edge."
-  },
-  {
-    "q": "Will a desk pad slide around on my desk?",
-    "a": "It depends on matching the backing material to your desk's surface: a rubber non-slip base grips laminate and wood reliably but can slide more on glass or a glossy lacquered desktop, so check the backing type against your specific desk finish."
-  },
-  {
-    "q": "Can a desk pad double as a mouse pad and a keyboard mat?",
-    "a": "Yes, that's the main appeal of a desk pad over a separate mouse pad, since a properly sized one covers both your keyboard and mouse (and often a writing area) on one continuous surface, avoiding the seam between two separate smaller pads."
+    "q": "Why do so many pads look the same?",
+    "a": "Many brands sell near-identical 23.6-inch PU pads. Choose on price and color."
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-leather-desk-pads","title":"Best Leather Desk Pads"},{"href":"/guide/best-large-desk-pads","title":"Best Large Desk Pads"},{"href":"/guide/best-desk-pads-with-wrist-support","title":"Best Desk Pads with Wrist Support"}];
+export const bottomLine = [
+  "For most small desks, the Smead is the pick, especially on glass, and the unbranded 23.6-inch pad is the cheapest stated-size option. The Aothia and faux leather pads are near-identical alternatives.",
+  "For a narrow desk, the scalloped mat is shallower, and if only the mouse needs a surface, the Logitech Studio small pad is enough."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-leather-desk-pads",
+    "title": "Best Leather Desk Pads"
+  },
+  {
+    "href": "/guide/best-large-desk-pads",
+    "title": "Best Large Desk Pads"
+  },
+  {
+    "href": "/guide/best-desk-pads-with-wrist-support",
+    "title": "Best Desk Pads with Wrist Support"
+  }
+];

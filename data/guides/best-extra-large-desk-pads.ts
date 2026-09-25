@@ -1,339 +1,389 @@
-export const guideSlug = "best-extra-large-desk-pads";
-export const guideTitle = "8 Best Extra-Large Desk Pads in 2026";
-export const metaTitle = "Best Extra-Large Desk Pads";
-export const metaDescription = "We compared desk pad extra large models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
-export const mainKeyword = "desk pad extra large";
-export const introParagraphs = [
-  "Across best extra-large desk pads, range widely in real edge durability, given that differences show up in daily use.",
-  "What separates these picks is honest surface material and stitching quality, since these separate real capability from claims."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41tFFRThURL._SL500_.jpg";
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
+export const guideSlug = "best-extra-large-desk-pads";
+
+export const guideTitle = "The Best Extra-Large Desk Pads for Covering the Whole Work Surface";
+
+export const breadcrumbLabel = "Best Extra-Large Desk Pads";
+
+export const metaTitle = "Best Extra-Large Desk Pads and XXL Desk Mats (2026)";
+
+export const metaDescription = "Truly extra-large desk pads reach 47 to 55 inches wide. We compared eight PU leather and cloth pads on actual size, surface and base, and flag the ones that are standard size.";
+
+export const mainKeyword = "desk pad extra large";
+
+export const introParagraphs = [
+  "\"Large\" means very different things on desk pad listings. In this guide, only two pads are extra-large in the full-desk sense: the 55 x 24-inch AFIING and the 47.2 x 23.6-inch Black Shark, both deep enough to sit under a monitor stand as well as keyboard and mouse. Most others are standard 31- to 35-inch pads, and one is smaller.",
+  "Measure your desk and decide what should sit on the pad. A full-desk mat protects the whole surface and looks unified; a standard pad covers the keyboard and mouse only.",
+  "Then choose the surface: PU leather wipes clean; cloth is designed for mouse tracking and is softer, but absorbs spills. Our comparison is based on published dimensions and materials, not hands-on testing."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const readTime = "11 min";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41tFFRThURL._SL500_.jpg";
 
 export const products: GuideProduct[] = [
   {
-    id: "best-extra-large-desk-pads-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "AFIING Large Desk Mat 55\" x 24\"",
-    price: "$28.21",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41tFFRThURL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DB217D82?tag=theofficejournal-20",
-    description: "AFIING Large Desk Mat 55\" x 24\" is the top pick in this comparison. Made from premium PU leather, this desk mat protects your desktop from scratches, spills, stains, heat, and daily wear. The soft suede backing increases friction resistance and helps keep the desk mat firmly in place during typing, gaming, writing, and everyday office work.\n\nSide by side with Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse, the real difference worth noting is the waterproof surface protects against accidental spills, coffee stains, dust, and scratches.\n\nThis makes sense for anyone who want the strongest all-around pick in this comparison and would rather not keep shopping around. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Protect your desk in style", "Non-slip & stable design", "Extra large workspace"],
-    pros: ["Protect your desk in style", "Non-slip & stable design", "Extra large workspace", "Waterproof & easy to clean"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
+    "id": "best-extra-large-desk-pads-1",
+    "rank": 1,
+    "badge": "Largest Pad: 55 x 24 Inches",
+    "name": "AFIING Large Desk Mat 55\" x 24\"",
+    "price": "$28.21",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41tFFRThURL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB217D82?tag=theofficejournal-20",
+    "description": "The AFIING is the largest pad here, 55 x 24 inches, enough to cover most of a standard desk including under a monitor. It is PU leather, which wipes clean, with a soft suede backing designed to keep it from shifting.\n\nIt was under $30 at the time of writing. Check your desk is at least 55 inches wide, or the edges will overhang.",
+    "specs": [
+      "Size: 55 x 24\"",
+      "Surface: PU leather",
+      "Backing: suede, non-slip"
+    ],
+    "pros": [
+      "Largest here",
+      "Wipe-clean",
+      "Non-slip backing"
+    ],
+    "cons": [
+      "Needs a wide desk",
+      "Leather surface slick for some mice",
+      "Brand less established"
+    ],
+    "bestFor": "Covering a large desk edge to edge.",
+    "summary": "A 55 x 24-inch PU leather mat with a suede non-slip backing, the largest here.",
+    "skipIf": "You prefer a cloth mouse surface; the Black Shark is 47.2 x 23.6-inch cloth."
   },
   {
-    id: "best-extra-large-desk-pads-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse",
-    price: "$9.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/411bezC-CcL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B086BLQZ5L?tag=theofficejournal-20",
-    description: "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse is a strong alternative worth comparing directly against the top pick. Made of durable PU leather material, which protects your desk from scratches, stains, spills, heat and scuffs. 23.6 X 13.7 inch size is large enough to accommodate your laptop, mouse and keyboard.\n\nWe are dedicated to providing our customers with high quality products and superior service, which is the main thing that distinguishes this pick from AFIING Large Desk Mat 55\" x 24\".\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Protect your desk", "Multifunctional desk pad", "Special non-slip design"],
-    pros: ["Protect your desk", "Multifunctional desk pad", "Special non-slip design", "Waterproof and easy to clean"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-extra-large-desk-pads-2",
+    "rank": 2,
+    "badge": "Compact, Not Extra-Large",
+    "name": "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse",
+    "price": "$9.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/411bezC-CcL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B086BLQZ5L?tag=theofficejournal-20",
+    "description": "The Aothia is a low-cost PU leather protector at 23.6 x 13.7 inches, which is compact rather than extra-large: enough for a laptop, or a compact keyboard and mouse.\n\nIt's included as a budget alternative, but it won't cover a full desk.",
+    "specs": [
+      "Size: 23.6 x 13.7\"",
+      "Surface: PU leather",
+      "Non-slip design"
+    ],
+    "pros": [
+      "Low price",
+      "Wipe-clean",
+      "Non-slip"
+    ],
+    "cons": [
+      "Not extra-large",
+      "Smallest here",
+      "Plain design"
+    ],
+    "bestFor": "A compact desk or laptop area.",
+    "summary": "A 23.6 x 13.7-inch PU leather desk protector; smaller than the rest here.",
+    "skipIf": "You want an extra-large pad; the AFIING is 55 inches wide."
   },
   {
-    id: "best-extra-large-desk-pads-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "KTRIO Large Gaming Mouse Pad Desk Mat for Gamer",
-    price: "$10.79",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31fbr5QGnDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0788LMLZL?tag=theofficejournal-20",
-    description: "KTRIO Large Gaming Mouse Pad Desk Mat for Gamer is a strong alternative worth comparing directly against the top pick. 31.5 X 11.8 inch extended size for keyboard and mouse: this x-large mouse pad provides ample space for a gaming mouse, full-size mechanical keyboard, and desk accessories, creating a clean and organized setup. Highly durable design with anti-fray stitched edges: reinforced stitching along the edges prevents fraying and peeling over time.\n\nThe gap between this and AFIING Large Desk Mat 55\" x 24\" isn't in the essentials, it shows up in spill-resistant coating causes liquids to bead up for easy cleanup with a damp cloth.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["31.5 X 11.8 inch extended size for keyboard", "Highly durable design with anti-fray stitched edges", "Superior control surface with micro-weave cloth"],
-    pros: ["31.5 X 11.8 inch extended size for keyboard", "Highly durable design with anti-fray stitched edges", "Superior control surface with micro-weave cloth", "Non-slip rubber base for stable desk grip"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-extra-large-desk-pads-3",
+    "rank": 3,
+    "badge": "Best Budget Cloth Pad",
+    "name": "KTRIO Large Gaming Mouse Pad Desk Mat for Gamer",
+    "price": "$10.79",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31fbr5QGnDL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0788LMLZL?tag=theofficejournal-20",
+    "description": "The KTRIO is a low-cost cloth pad, 31.5 x 11.8 inches, with a micro-weave surface designed for mouse control and stitched edges to resist fraying.\n\nIt covers a keyboard and mouse but is shallow and standard size, not extra-large.",
+    "specs": [
+      "Size: 31.5 x 11.8\"",
+      "Surface: micro-weave cloth",
+      "Edges: stitched"
+    ],
+    "pros": [
+      "Low price",
+      "Stitched edges",
+      "Smooth mouse surface"
+    ],
+    "cons": [
+      "Standard size",
+      "Shallow depth",
+      "Absorbs spills"
+    ],
+    "bestFor": "Keyboard and mouse coverage on a budget.",
+    "summary": "A 31.5 x 11.8-inch micro-weave cloth mat with stitched anti-fray edges.",
+    "skipIf": "You want full-desk coverage; the Black Shark is twice as deep."
   },
   {
-    id: "best-extra-large-desk-pads-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "YSAGi Leather Desk Protector",
-    price: "$13.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41oQvh4OHlL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMTSL48B?tag=theofficejournal-20",
-    description: "YSAGi Leather Desk Protector is a strong alternative worth comparing directly against the top pick. Durable PU leather material adapted, which can protect your desk from scratches, stains, spills, heat and scuffs. With our large desk pad, say goodbye to small extra mouse pad.\n\nAFIING Large Desk Mat 55\" x 24\" lands in a similar spot overall, but the deciding factor between the two is waterproof leather desk pad.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Desk protector", "Large mouse pad", "Easy to clean"],
-    pros: ["Desk protector", "Large mouse pad", "Easy to clean", "About brand ysagi"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-extra-large-desk-pads-4",
+    "rank": 4,
+    "badge": "YSAGi Leather Protector",
+    "name": "YSAGi Leather Desk Protector",
+    "price": "$13.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41oQvh4OHlL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BMTSL48B?tag=theofficejournal-20",
+    "description": "The YSAGi Leather Desk Protector is a plain PU leather pad described as protecting against scratches, stains, spills, heat and scuffs.\n\nYSAGi sells several sizes; this listing's summary doesn't state which, so confirm it's the large size you want. It cost about $4 more than the other YSAGi listing here at the time of writing.",
+    "specs": [
+      "Surface: PU leather",
+      "Easy to clean",
+      "Size: check listing"
+    ],
+    "pros": [
+      "Wipe-clean",
+      "Low price",
+      "Several sizes available"
+    ],
+    "cons": [
+      "Size not stated here",
+      "Overlaps with the other YSAGi",
+      "Plain design"
+    ],
+    "bestFor": "A basic leather pad in the size you choose.",
+    "summary": "A YSAGi PU leather desk protector, size to be confirmed on the listing.",
+    "skipIf": "The other YSAGi listing offers the size you need for less."
   },
   {
-    id: "best-extra-large-desk-pads-5",
-    rank: 5,
-    badge: "Best Value",
-    name: "YSAGi Leather Office Desk Pad Protector",
-    price: "$9.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41CF62OPpgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMTPC44X?tag=theofficejournal-20",
-    description: "YSAGi Leather Office Desk Pad Protector is the best-value option in this roundup, priced lowest without a real capability gap. Durable PU leather material adapted, which can protect your desk from scratches, stains, spills, heat and scuffs. With our large desk pad, say goodbye to small extra mouse pad.\n\nWeighing this against AFIING Large Desk Mat 55\" x 24\", waterproof leather desk pad ends up being the detail that matters most for most buyers.\n\nIt's worth picking this one if you want a genuinely capable pick without paying for headroom you won't use. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Desk protector", "Large mouse pad", "Easy to clean"],
-    pros: ["Desk protector", "Large mouse pad", "Easy to clean", "About brand ysagi"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
+    "id": "best-extra-large-desk-pads-5",
+    "rank": 5,
+    "badge": "Lowest-Cost YSAGi",
+    "name": "YSAGi Leather Office Desk Pad Protector",
+    "price": "$9.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41CF62OPpgL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BMTPC44X?tag=theofficejournal-20",
+    "description": "This YSAGi listing has the same description as the one above and was about $10 at the time of writing.\n\nAs with the other listing, confirm the size before buying; it may be smaller than an extra-large pad.",
+    "specs": [
+      "Surface: PU leather",
+      "Easy to clean",
+      "Size: check listing"
+    ],
+    "pros": [
+      "Lowest price, with the Aothia",
+      "Wipe-clean",
+      "Simple"
+    ],
+    "cons": [
+      "Size not stated here",
+      "Duplicates the other YSAGi",
+      "Plain design"
+    ],
+    "bestFor": "A low-cost leather pad once you've confirmed size.",
+    "summary": "The lower-priced YSAGi PU leather protector listing.",
+    "skipIf": "You need a confirmed extra-large size; the AFIING lists 55 x 24 inches."
   },
   {
-    id: "best-extra-large-desk-pads-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "SteelSeries QcK Gaming Mouse Pad",
-    price: "$29.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/11z29s4uvKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1T1HZCC?tag=theofficejournal-20",
-    description: "SteelSeries QcK Gaming Mouse Pad is a strong alternative worth comparing directly against the top pick. With over 10 million sold, the SteelSeries QcK is the does-it-all surface, empowering gamers around the world and champions on the biggest esports stages to play their best. Encompass your battlestation with a surface you can trust; empower yourself to tackle any challenge with QcK XXL coverage for your keyboard, mouse, and monitor for a clean, sleek gaming setup.\n\nAgainst AFIING Large Desk Mat 55\" x 24\", neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Over 10 million sold", "Encompass your battlestation with a surface you can trust", "Tested by the top mouse sensor manufacturer"],
-    pros: ["Over 10 million sold", "Encompass your battlestation with a surface you can trust", "Tested by the top mouse sensor manufacturer", "Durable, non-slip rubber base is designed to eliminate unwanted"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-extra-large-desk-pads-6",
+    "rank": 6,
+    "badge": "Best-Known Gaming Surface",
+    "name": "SteelSeries QcK Gaming Mouse Pad",
+    "price": "$29.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/11z29s4uvKL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1T1HZCC?tag=theofficejournal-20",
+    "description": "The SteelSeries QcK is one of the best-known cloth gaming surfaces; SteelSeries says over 10 million have been sold and that the surface is tested by a mouse sensor manufacturer. This listing references the XXL size.\n\nIt costs more than most cloth pads here, and the listing summary doesn't state dimensions, so confirm the size variant.",
+    "specs": [
+      "Surface: cloth (QcK)",
+      "Size: XXL (confirm dimensions on listing)",
+      "Sensor-tested (per SteelSeries)"
+    ],
+    "pros": [
+      "Established gaming surface",
+      "Large size option",
+      "Consistent tracking reputation"
+    ],
+    "cons": [
+      "Dimensions not stated here",
+      "Costs more than budget cloth pads",
+      "Cloth absorbs spills"
+    ],
+    "bestFor": "Gamers who want a proven cloth surface in a large size.",
+    "summary": "SteelSeries' QcK cloth mouse pad in an XXL size, a long-running gaming surface.",
+    "skipIf": "You want a wipe-clean surface; the AFIING is PU leather."
   },
   {
-    id: "best-extra-large-desk-pads-7",
-    rank: 7,
-    badge: "Great Alternative",
-    name: "iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral",
-    price: "$18.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51fo7BZCr6L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DFLJ1H8J?tag=theofficejournal-20",
-    description: "iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral is a strong alternative worth comparing directly against the top pick. More than just a mouse pad, this pink floral desk accessory helps create a coordinated and stylish workspace. The mouse pads for desk with comfortable lycra surface and material to the pads.\n\nThe desk protector mat is flexible enough to be rolled up for easy transport, a detail worth checking closely before choosing between this and AFIING Large Desk Mat 55\" x 24\".\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Aesthetic floral desk decor", "35.4 X 15.7 inches", "Mouse pads for desk with comfortable lycra surface and material to the pads"],
-    pros: ["Aesthetic floral desk decor", "35.4 X 15.7 inches", "Mouse pads for desk with comfortable lycra surface and material to the pads", "Stable rubber base"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-extra-large-desk-pads-7",
+    "rank": 7,
+    "badge": "Floral Standard-Size Pad",
+    "name": "iCasso Desk Mat, Mouse Pad for Office Desk, 35.4x15.7in, Pink Floral",
+    "price": "$18.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51fo7BZCr6L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFLJ1H8J?tag=theofficejournal-20",
+    "description": "The iCasso is a decorative pick, 35.4 x 15.7 inches, with a pink floral print on a lycra surface over a rubber base.\n\nIt's a generous standard size rather than extra-large, covering keyboard and mouse but not a monitor stand.",
+    "specs": [
+      "Size: 35.4 x 15.7\"",
+      "Surface: lycra cloth",
+      "Base: rubber",
+      "Pattern: pink floral"
+    ],
+    "pros": [
+      "Decorative",
+      "Soft surface",
+      "Generous standard size"
+    ],
+    "cons": [
+      "Not full-desk size",
+      "Cloth absorbs spills",
+      "Pattern-specific"
+    ],
+    "bestFor": "A decorative pad for keyboard and mouse.",
+    "summary": "A 35.4 x 15.7-inch pink floral lycra pad with a rubber base.",
+    "skipIf": "You want full coverage; the AFIING or Black Shark covers more."
   },
   {
-    id: "best-extra-large-desk-pads-8",
-    rank: 8,
-    badge: "Best Premium Pick",
-    name: "Black Shark Gaming Mouse Pad Desk Mat 47.2” x 23.6”",
-    price: "$35.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/21vQwbaH9vL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09FDDSLR3?tag=theofficejournal-20",
-    description: "Black Shark Gaming Mouse Pad Desk Mat 47.2” x 23.6” is the premium option here, positioned above the rest on price. High-quality soft mouse pads cloth for smooth gliding. Measuring 1200x600x3mm / 47.2” x23.6”x0.12”, this mouse pad large covers the area for a monitor, keyboard, mouse, and headphones, providing plenty of room for professional gaming or office work.\n\nAgainst AFIING Large Desk Mat 55\" x 24\", neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis one is the right call if you are willing to spend the most in this comparison for the fuller feature set that comes with it. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Smooth surface", "Oversize mouse pad", "Simple & durable"],
-    pros: ["Smooth surface", "Oversize mouse pad", "Simple & durable", "Non-slip rubber base"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
+    "id": "best-extra-large-desk-pads-8",
+    "rank": 8,
+    "badge": "Best Extra-Large Cloth Mat",
+    "name": "Black Shark Gaming Mouse Pad Desk Mat 47.2” x 23.6”",
+    "price": "$35.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/21vQwbaH9vL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09FDDSLR3?tag=theofficejournal-20",
+    "description": "The Black Shark is the extra-large cloth option: 47.2 x 23.6 inches and 3mm thick, enough for a monitor stand, keyboard, mouse and headphones, with a soft cloth surface for smooth mouse movement.\n\nIt was the most expensive pad here at the time of writing, and cloth needs spot-cleaning after spills.",
+    "specs": [
+      "Size: 47.2 x 23.6 x 0.12\" (1200 x 600 x 3mm)",
+      "Surface: cloth"
+    ],
+    "pros": [
+      "Extra-large",
+      "Cloth mouse surface",
+      "Stated thickness"
+    ],
+    "cons": [
+      "Most expensive here",
+      "Absorbs spills",
+      "Base type not detailed"
+    ],
+    "bestFor": "A full-desk cloth surface for gaming or office work.",
+    "summary": "A 47.2 x 23.6 x 0.12-inch cloth mat large enough for monitor, keyboard, mouse and headphones.",
+    "skipIf": "You want wipe-clean; the AFIING is PU leather and larger."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "Cloth, Leather, or Vinyl Surface Material",
-    "description": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface."
+    "title": "Size",
+    "description": "We compared listed dimensions and flagged pads that aren't extra-large."
   },
   {
-    "title": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "description": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface."
+    "title": "Surface",
+    "description": "We compared PU leather and cloth."
   },
   {
-    "title": "Edge Stitching and Curl Resistance Over Time",
-    "description": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage."
+    "title": "Construction",
+    "description": "We noted bases, edges and thickness where listed."
   },
   {
-    "title": "Base Grip on Your Specific Desk Surface",
-    "description": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface."
-  },
-  {
-    "title": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "description": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Surface Material",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Soft feel for typing",
-          "YSAGi Leather Office Desk Pad Protector"
-        ],
-        [
-          "Balance of feel and durability",
-          "AFIING Large Desk Mat 55\" x 24\""
-        ],
-        [
-          "Wipeable, polished look",
-          "Black Shark Gaming Mouse Pad Desk Mat 47.2” x 23.6”"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "YSAGi Leather Office Desk Pad Protector"
-        ],
-        [
-          "Mid-range pick",
-          "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse"
-        ],
-        [
-          "Higher budget",
-          "Black Shark Gaming Mouse Pad Desk Mat 47.2” x 23.6”"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Cloth vs Leather",
-    "cards": [
-      {
-        "label": "Cloth (e.g. YSAGi Leather Office Desk Pad Protector)",
-        "text": "Softer feel, absorbs spills, shows staining faster."
-      },
-      {
-        "label": "Leather/PU (e.g. Black Shark Gaming Mouse Pad Desk Mat 47.2” x 23.6”)",
-        "text": "Wipes clean easily, more polished look, higher price."
-      }
-    ],
-    "note": "Match this to how much coffee and food realistically ends up near your desk."
-  },
-  {
-    "subheading": "By Setup Size",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Single keyboard and mouse",
-          "AFIING Large Desk Mat 55\" x 24\""
-        ],
-        [
-          "Dual monitor, wider setup",
-          "Check for extra-large or extended sizing"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Daily Heavy Use Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
-      },
-      {
-        "label": "In this comparison",
-        "text": "AFIING Large Desk Mat 55\" x 24\" is worth checking against its specific edge construction before assuming any desk pad holds up the same."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want a wipeable, longer-lasting surface with a more polished look, where Black Shark Gaming Mouse Pad Desk Mat 47.2” x 23.6” justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want straightforward daily protection and comfort, where YSAGi Leather Office Desk Pad Protector already covers the job at the lowest price here."
-      }
-    ]
+    "title": "Price",
+    "description": "We compared prices at the time of writing."
   }
 ];
 
 export const buyingCriteria = [
   {
-    "criterion": "Cloth, Leather, or Vinyl Surface Material",
-    "explanation": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface. PU leather and vinyl desk pads sacrifice a little of that soft feel for a surface you can actually wipe clean, and genuine leather sits between the two, developing a natural patina over years of use rather than just showing wear. Match the material to how much daily abuse (coffee, food, ink) the pad will realistically see."
+    "criterion": "Check the actual dimensions",
+    "explanation": "Only the AFIING (55 x 24 in) and Black Shark (47.2 x 23.6 in) are full-desk sizes here. Others are 23.6 to 35.4 inches wide."
   },
   {
-    "criterion": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "explanation": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface. Lay your keyboard and mouse out in your actual working position, measure the combined width, and add about 4 inches of margin on each side; a 31 by 15 inch pad is a reasonable starting point for most single-monitor setups, but wider dual-monitor arrangements often need more."
+    "criterion": "Measure your desk",
+    "explanation": "A pad wider than the desk overhangs; one much smaller leaves the monitor area bare."
   },
   {
-    "criterion": "Edge Stitching and Curl Resistance Over Time",
-    "explanation": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage. A stitched edge holds its flat shape considerably longer, while an unstitched raw-cut edge is more prone to fraying on cloth pads specifically, in addition to curling. This detail matters more the longer you expect to keep using the same pad daily."
+    "criterion": "Choose the surface",
+    "explanation": "PU leather wipes clean; cloth is softer and designed for mouse tracking."
   },
   {
-    "criterion": "Base Grip on Your Specific Desk Surface",
-    "explanation": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface. If your desk has a slicker finish, look specifically for a backing material designed for that surface type."
-  },
+    "criterion": "Check the base",
+    "explanation": "A non-slip base, like the AFIING's suede, helps a large mat stay flat and put."
+  }
+];
+
+export const howToChoose: HowToChooseSection[] = [
   {
-    "criterion": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "explanation": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there. The price jump from cloth to leather buys a wipeable, longer-lasting surface and often a more polished look for a shared or client-facing workspace, but a cloth pad remains the better value if the desk pad's job is purely functional cushioning and mouse tracking."
+    "subheading": "By need",
+    "table": {
+      "headers": [
+        "Need",
+        "Consider"
+      ],
+      "rows": [
+        [
+          "Largest, wipe-clean",
+          "AFIING 55 x 24\""
+        ],
+        [
+          "Extra-large cloth",
+          "Black Shark 47.2 x 23.6\""
+        ],
+        [
+          "Proven gaming surface",
+          "SteelSeries QcK XXL"
+        ],
+        [
+          "Budget cloth",
+          "KTRIO"
+        ],
+        [
+          "Decorative",
+          "iCasso"
+        ],
+        [
+          "Low-cost leather",
+          "YSAGi or Aothia"
+        ]
+      ]
+    }
   }
 ];
 
 export const faq = [
   {
-    "q": "What's the difference between a desk pad and a mouse pad?",
-    "a": "A desk pad covers most or all of your desk surface (keyboard, mouse, and often a writing area), while a mouse pad covers just the small area under your mouse; a desk pad protects more of the desk and gives your mouse more room to move but costs more and takes up the whole surface."
+    "q": "What counts as extra-large?",
+    "a": "There's no standard. Here, the AFIING (55 x 24 in) and Black Shark (47.2 x 23.6 in) are large enough to sit under a monitor as well as keyboard and mouse."
   },
   {
-    "q": "What size desk pad do I need?",
-    "a": "Measure your keyboard and mouse laid out side by side in your actual typing position and add roughly 4 inches of margin on each side; around 31 by 15 inches is a reasonable starting size for a single-monitor setup, though wider dual-monitor arrangements often need more."
+    "q": "What size do I need?",
+    "a": "Measure your desk and decide what the pad should cover. Leave a small margin at the edges."
   },
   {
-    "q": "Is leather or cloth better for a desk pad?",
-    "a": "It depends on priorities: cloth feels better to write and mouse on but absorbs spills and shows staining faster, while leather (or PU leather/vinyl) wipes clean easily and looks more polished, at a higher price point ($30 to $60-plus versus $15 to $30 for cloth)."
+    "q": "Leather or cloth?",
+    "a": "Leather wipes clean; cloth is softer and designed for mouse tracking."
   },
   {
-    "q": "Will my desk pad curl up at the corners over time?",
-    "a": "It's more likely without reinforced or stitched edges, especially on cloth pads that get rolled up for travel or storage; a stitched edge holds its flat shape considerably longer than an unstitched, raw-cut edge."
+    "q": "Will a large pad curl?",
+    "a": "Unroll it and let it settle; stitched edges and heavier bases help it lie flat."
   },
   {
-    "q": "Will a desk pad slide around on my desk?",
-    "a": "It depends on matching the backing material to your desk's surface: a rubber non-slip base grips laminate and wood reliably but can slide more on glass or a glossy lacquered desktop, so check the backing type against your specific desk finish."
-  },
-  {
-    "q": "Can a desk pad double as a mouse pad and a keyboard mat?",
-    "a": "Yes, that's the main appeal of a desk pad over a separate mouse pad, since a properly sized one covers both your keyboard and mouse (and often a writing area) on one continuous surface, avoiding the seam between two separate smaller pads."
+    "q": "Will it slide?",
+    "a": "Non-slip bases like suede or rubber help, especially on smooth desks."
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-leather-desk-pads","title":"Best Leather Desk Pads"},{"href":"/guide/best-large-desk-pads","title":"Best Large Desk Pads"},{"href":"/guide/best-desk-pads-with-wrist-support","title":"Best Desk Pads with Wrist Support"}];
+export const bottomLine = [
+  "For a genuinely extra-large pad, the AFIING covers the most in wipe-clean PU leather, and the Black Shark is the cloth equivalent. The SteelSeries QcK XXL is the established gaming surface; confirm its size.",
+  "The remaining pads are standard or smaller sizes; they're useful on a budget, but check dimensions before buying."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-leather-desk-pads",
+    "title": "Best Leather Desk Pads"
+  },
+  {
+    "href": "/guide/best-large-desk-pads",
+    "title": "Best Large Desk Pads"
+  },
+  {
+    "href": "/guide/best-desk-pads-with-wrist-support",
+    "title": "Best Desk Pads with Wrist Support"
+  }
+];

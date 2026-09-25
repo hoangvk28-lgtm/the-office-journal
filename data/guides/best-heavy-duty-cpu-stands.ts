@@ -1,307 +1,351 @@
-export const guideSlug = "best-heavy-duty-cpu-stands";
-export const guideTitle = "6 Best Heavy-Duty CPU Stands in 2026";
-export const metaTitle = "Best Heavy-Duty CPU Stands";
-export const metaDescription = "We compared heavy-duty cpu stands models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
-export const mainKeyword = "heavy-duty cpu stands";
-export const introParagraphs = [
-  "Best Heavy-Duty CPU Stands span a wider range. That means heavy-duty cpu stands, details stay hidden.",
-  "heavy-duty cpu stands comparisons come down to real mounting fit, given that capacity is a tested ceiling."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/415+8Y1WozL._SL500_.jpg";
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
+export const guideSlug = "best-heavy-duty-cpu-stands";
+
+export const guideTitle = "The Best Heavy-Duty CPU Stands for Getting Your PC Off the Floor";
+
+export const breadcrumbLabel = "Best Heavy-Duty CPU Stands";
+
+export const metaTitle = "Best Heavy-Duty CPU Stands and Tower Carts (2026)";
+
+export const metaDescription = "We compared rolling CPU stands on adjustable width and length, stated weight capacity, casters and side rails, and flag which listings give a load rating.";
+
+export const mainKeyword = "heavy-duty cpu stands";
+
+export const introParagraphs = [
+  "A CPU stand lifts a desktop tower off carpet, where dust and blocked vents are a problem, and puts it on casters so you can reach the back panel or clean underneath. For a heavy gaming or workstation tower, the stand's width range, stated load rating and side rails matter most.",
+  "Only one stand here states a weight capacity, the Hovadova adjustable model at 176 lb. The others describe steel construction without a figure, so weigh your tower and treat the unrated stands with more caution. One product, the Korfile, is a desk rather than a stand and is marked as such.",
+  "Our comparison is based on published specifications and price position, not hands-on testing. Prices range from about $20 to $85 at the time of writing."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const readTime = "11 min";
+
+export const heroImage = "https://m.media-amazon.com/images/I/415+8Y1WozL._SL500_.jpg";
 
 export const products: GuideProduct[] = [
   {
-    id: "best-heavy-duty-cpu-stands-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "PUTORSEN Computer Tower Stand Under Desk for Most Mid-Tower",
-    price: "$39.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/415+8Y1WozL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FNWMM9XN?tag=theofficejournal-20",
-    description: "PUTORSEN Computer Tower Stand Under Desk for Most Mid-Tower is the strongest all-around choice here. Protect your desk and your PC tower, this rolling cpu stand is the perfect solution for anyone who doesn’t want to drill holes or scratch furniture. Easily adjust the height from 5.2\" to 11.9\" (13.3 to 30.3 cm) to match your sit-stand desk or workstation.\n\nAgainst Hovadova Adjustable Computer Tower Stand, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nGo with this pick if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A caddy's width adjustment range is what actually determines fit, not the product photo, so measure your tower's real width and check the stated min/max range before buying rather than assuming a 'universal' claim covers your case.",
-    specs: ["No drilling or damage required", "Adjustable height for any setup", "Strong & stable steel construction"],
-    pros: ["No drilling or damage required", "Adjustable height for any setup", "Strong & stable steel construction", "Smooth mobility & space-saving design"],
-    cons: ["Width adjustment range still needs checking against your exact case", "Wheels help mobility but can drift on carpet without locks"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
+    "id": "best-heavy-duty-cpu-stands-1",
+    "rank": 1,
+    "badge": "Best Height-Adjustable Stand",
+    "name": "PUTORSEN Computer Tower Stand Under Desk for Most Mid-Tower",
+    "price": "$39.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/415+8Y1WozL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNWMM9XN?tag=theofficejournal-20",
+    "description": "The PUTORSEN stand is the pick if height matters: it adjusts from 5.2 to 11.9 inches, which PUTORSEN suggests can match a sit-stand desk setup, and it needs no drilling.\n\nIt is steel and designed for most mid-tower cases.\n\nThe listing does not state a weight capacity or width range, so check your case size and weight against PUTORSEN's full specifications, especially for a large or heavy tower.",
+    "specs": [
+      "Height: 5.2–11.9\" adjustable",
+      "Construction: steel",
+      "Fits: most mid-tower cases",
+      "No drilling",
+      "Weight capacity: not stated"
+    ],
+    "pros": [
+      "Adjustable height",
+      "Steel construction",
+      "No installation"
+    ],
+    "cons": [
+      "Weight capacity not stated",
+      "Mid-tower focus"
+    ],
+    "bestFor": "Mid-tower owners who want the PC raised to a set height.",
+    "summary": "A steel tower stand adjustable from 5.2 to 11.9 inches high, for mid-tower cases.",
+    "skipIf": "You need a stated load rating for a heavy tower; the Hovadova adjustable stand lists 176 lb."
   },
   {
-    id: "best-heavy-duty-cpu-stands-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "Hovadova Adjustable Computer Tower Stand",
-    price: "$24.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/317CEfgWSsL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DS5WYM5G?tag=theofficejournal-20",
-    description: "Hovadova Adjustable Computer Tower Stand is a strong alternative worth comparing directly against the top pick. Our cpu holder is adjustable in width, with an adjustable width range of 7.87--10.24 inches and a length of 16.93 inches, it can support most computer towers on the market. Sturdy computer tower stand is made of high-grade steel with a shiny, stylish finish, strong weight capacity, can hold up to 176 lbs, stable structure to.\n\nSet next to PUTORSEN Computer Tower Stand Under Desk for Most Mid-Tower, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Caster wheels make repositioning easy but can drift on carpet or uneven flooring without a locking mechanism, so check for lockable wheels specifically if the stand needs to stay put once positioned.",
-    specs: ["Adjustable width", "High quality", "Ventilated heat dissipation"],
-    pros: ["Adjustable width", "High quality", "Ventilated heat dissipation", "Practical design"],
-    cons: ["Wheels help mobility but can drift on carpet without locks", "Width adjustment range still needs checking against your exact case"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-heavy-duty-cpu-stands-2",
+    "rank": 2,
+    "badge": "Best Rated Capacity",
+    "name": "Hovadova Adjustable Computer Tower Stand",
+    "price": "$24.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/317CEfgWSsL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DS5WYM5G?tag=theofficejournal-20",
+    "description": "The Hovadova adjustable stand is the only stand here with a stated load rating: 176 lb, well above what typical towers weigh. It is steel, adjusts from 7.87 to 10.24 inches wide and is 16.93 inches long.\n\nAn open, ventilated design lets air reach the case's underside, and it costs about $25 at the time of writing.\n\nCheck that your case fits the width range and length; very large full towers may exceed them.",
+    "specs": [
+      "Width: 7.87–10.24\" adjustable",
+      "Length: 16.93\"",
+      "Weight capacity: 176 lb",
+      "Construction: steel",
+      "Ventilated"
+    ],
+    "pros": [
+      "Stated 176 lb rating",
+      "Low price",
+      "Ventilated"
+    ],
+    "cons": [
+      "Fixed length",
+      "Casters not mentioned in listing"
+    ],
+    "bestFor": "Heavy towers that fit its width range.",
+    "summary": "A steel stand adjustable from 7.87 to 10.24 inches wide, rated for 176 lb.",
+    "skipIf": "Your case is longer than about 17 inches; the AGPTEK adjusts to 20 inches."
   },
   {
-    id: "best-heavy-duty-cpu-stands-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "AGPTEK Adjustable CPU Stand",
-    price: "$32.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41Sf7YBwzFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D53MPF7X?tag=theofficejournal-20",
-    description: "AGPTEK Adjustable CPU Stand is a strong alternative worth comparing directly against the top pick. Our computer tower stand features adjustable width and length, with a width range of 6.3inch to 11.8inch and a length range of 15.7inch to 20inch, making it suitable for most computer towers on the market. Equipped with 4pcs 360° rotating caster wheels, this stand allows you to move your computer tower to any desired location effortlessly, facilitating easy floor cleaning.\n\nSet next to PUTORSEN Computer Tower Stand Under Desk for Most Mid-Tower, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A caddy's width adjustment range is what actually determines fit, not the product photo, so measure your tower's real width and check the stated min/max range before buying rather than assuming a 'universal' claim covers your case.",
-    specs: ["Adjustable width and length", "Easy mobility", "Durable material"],
-    pros: ["Adjustable width and length", "Easy mobility", "Durable material", "Space-saving design"],
-    cons: ["Width adjustment range still needs checking against your exact case", "Wheels help mobility but can drift on carpet without locks"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-heavy-duty-cpu-stands-3",
+    "rank": 3,
+    "badge": "Best for Large Cases",
+    "name": "AGPTEK Adjustable CPU Stand",
+    "price": "$32.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Sf7YBwzFL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D53MPF7X?tag=theofficejournal-20",
+    "description": "The AGPTEK is the most adjustable stand here, adjusting from 6.3 to 11.8 inches wide and 15.7 to 20 inches long, which suits larger cases, on four 360-degree casters.\n\nIt costs about $33 at the time of writing.\n\nThe listing does not state a weight capacity, so check with AGPTEK for a heavy full tower.",
+    "specs": [
+      "Width: 6.3–11.8\" adjustable",
+      "Length: 15.7–20\" adjustable",
+      "Casters: 4 x 360°",
+      "Weight capacity: not stated"
+    ],
+    "pros": [
+      "Widest size range",
+      "Rolling casters"
+    ],
+    "cons": [
+      "Weight capacity not stated"
+    ],
+    "bestFor": "Larger towers that need a longer platform.",
+    "summary": "A stand adjustable from 6.3 to 11.8 inches wide and 15.7 to 20 inches long, on four swivel casters.",
+    "skipIf": "You want a stated load rating; the Hovadova lists 176 lb."
   },
   {
-    id: "best-heavy-duty-cpu-stands-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "Adjustable Computer Tower Stand",
-    price: "$24.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41Sb0MsVmIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C89RMK9B?tag=theofficejournal-20",
-    description: "Adjustable Computer Tower Stand is a strong alternative worth comparing directly against the top pick. The protective railings on both sides of the cpu stand are designed to prevent the PC chassis from falling. Four 360°rotating universal wheels can move the computer tower to the position you want, making it easy for you to move to clean the ground.\n\nAgainst PUTORSEN Computer Tower Stand Under Desk for Most Mid-Tower, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Caster wheels make repositioning easy but can drift on carpet or uneven flooring without a locking mechanism, so check for lockable wheels specifically if the stand needs to stay put once positioned.",
-    specs: ["Easy movement", "Sturdy PC stand", "Ventilation and heat dissipation"],
-    pros: ["Easy movement", "Sturdy PC stand", "Ventilation and heat dissipation"],
-    cons: ["Wheels help mobility but can drift on carpet without locks", "Width adjustment range still needs checking against your exact case"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-heavy-duty-cpu-stands-4",
+    "rank": 4,
+    "badge": "Rolling Stand With Side Rails",
+    "name": "Adjustable Computer Tower Stand",
+    "price": "$24.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Sb0MsVmIL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0C89RMK9B?tag=theofficejournal-20",
+    "description": "This unbranded stand has protective rails on both sides to stop the case sliding off and four 360-degree wheels for moving the PC to clean underneath.\n\nIt costs about $25 at the time of writing.\n\nThe listing gives no dimensions or weight rating, which makes it harder to match to a heavy tower.",
+    "specs": [
+      "Side rails",
+      "Casters: 4 x 360°",
+      "Ventilated design",
+      "Dimensions and capacity: not stated"
+    ],
+    "pros": [
+      "Side rails",
+      "Rolling"
+    ],
+    "cons": [
+      "No dimensions or capacity listed",
+      "Unbranded"
+    ],
+    "bestFor": "Standard towers that need to roll.",
+    "summary": "A rolling stand with side rails and four swivel wheels.",
+    "skipIf": "You want specifications to check against; choose a stand that lists them."
   },
   {
-    id: "best-heavy-duty-cpu-stands-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "Hovadova Computer Tower Stand",
-    price: "$19.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41A13obhQPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D6G47BW7?tag=theofficejournal-20",
-    description: "Hovadova Computer Tower Stand is a strong alternative worth comparing directly against the top pick. Our computer stand is adjustable in width, the adjustable width range is 7.87-10.23 inches and the length is 16.9 inches, which can support most computer towers on the market. The hovadova under desk computer stand is designed with protective rails on both sides to prevent the computer case from falling.\n\nPUTORSEN Computer Tower Stand Under Desk for Most Mid-Tower is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A caddy's width adjustment range is what actually determines fit, not the product photo, so measure your tower's real width and check the stated min/max range before buying rather than assuming a 'universal' claim covers your case.",
-    specs: ["Easy to move", "Ventilation cooling", "Sturdy metal PC stand"],
-    pros: ["Easy to move", "Ventilation cooling", "Sturdy metal PC stand"],
-    cons: ["Width adjustment range still needs checking against your exact case", "Wheels help mobility but can drift on carpet without locks"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-heavy-duty-cpu-stands-5",
+    "rank": 5,
+    "badge": "Best Budget Stand",
+    "name": "Hovadova Computer Tower Stand",
+    "price": "$19.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41A13obhQPL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6G47BW7?tag=theofficejournal-20",
+    "description": "The cheaper Hovadova stand adjusts from 7.87 to 10.23 inches wide, is 16.9 inches long, and adds side rails to keep the case in place, for about $20 at the time of writing.\n\nIt is ventilated and designed to move easily.\n\nUnlike the other Hovadova, this listing does not state a weight capacity.",
+    "specs": [
+      "Width: 7.87–10.23\" adjustable",
+      "Length: 16.9\"",
+      "Side rails",
+      "Ventilated",
+      "Weight capacity: not stated"
+    ],
+    "pros": [
+      "Lowest price",
+      "Side rails"
+    ],
+    "cons": [
+      "Weight capacity not stated"
+    ],
+    "bestFor": "Budget buyers with a standard tower.",
+    "summary": "A Hovadova steel stand with side rails, 7.87–10.23 inches wide, for about $20.",
+    "skipIf": "You need a stated load rating; the $25 Hovadova lists 176 lb."
   },
   {
-    id: "best-heavy-duty-cpu-stands-6",
-    rank: 6,
-    badge: "Best Premium Pick",
-    name: "Korfile 54\" Computer Desk with Power Outlets",
-    price: "$84.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/416BZh71CtL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0HH9KNCD6?tag=theofficejournal-20",
-    description: "Korfile 54\" Computer Desk with Power Outlets is the top-tier pick in this comparison. Want a gaming computer desk with storage that adapts to your setup? Need a computer desk with a convenient built-in power hub?\n\nPUTORSEN Computer Tower Stand Under Desk for Most Mid-Tower covers similar ground, though want a gaming desk with customizable RGB ambient lighting? is what tips the choice one way or the other.\n\nReach for this pick if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Caster wheels make repositioning easy but can drift on carpet or uneven flooring without a locking mechanism, so check for lockable wheels specifically if the stand needs to stay put once positioned.",
-    specs: ["Want a gaming computer desk with storage that adapts to your setup", "Need a computer desk with a convenient built-in power hub", "Want a gaming desk with customizable RGB ambient lighting"],
-    pros: ["Want a gaming computer desk with storage that adapts to your setup", "Need a computer desk with a convenient built-in power hub", "Want a gaming desk with customizable RGB ambient lighting", "Need a reversible gaming desk with a long ergonomic monitor riser"],
-    cons: ["Wheels help mobility but can drift on carpet without locks", "Width adjustment range still needs checking against your exact case"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
+    "id": "best-heavy-duty-cpu-stands-6",
+    "rank": 6,
+    "badge": "Desk, Not a Stand",
+    "name": "Korfile 54\" Computer Desk with Power Outlets",
+    "price": "$84.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/416BZh71CtL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0HH9KNCD6?tag=theofficejournal-20",
+    "description": "The Korfile is a 54-inch computer desk rather than a CPU stand. It is included here because it offers a place for a tower along with storage, a built-in power hub and customizable RGB lighting.\n\nIt costs about $85 at the time of writing. If you only need to lift a tower off the floor, any of the stands above is simpler.\n\nThe listing does not detail its tower shelf size or weight rating.",
+    "specs": [
+      "Type: 54\" computer desk",
+      "Built-in power outlets",
+      "Storage",
+      "RGB lighting"
+    ],
+    "pros": [
+      "Desk, storage and power in one"
+    ],
+    "cons": [
+      "Not a CPU stand",
+      "Tower space and rating not detailed"
+    ],
+    "bestFor": "Buyers replacing their desk anyway.",
+    "summary": "A 54-inch computer desk with power outlets, storage and RGB lighting.",
+    "skipIf": "You only need a CPU stand."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "Weight Capacity Should Have Real Margin, Not Just Meet It",
-    "description": "Don't cut it close on weight capacity, a rating that just barely covers your tower's weight leaves no margin for future upgrades (extra drives, a bigger GPU) or for the stress of repeated rolling."
+    "title": "Load rating",
+    "description": "We recorded stated weight capacities and flagged listings without one."
   },
   {
-    "title": "Steel Construction Holds Up Better Than Thin Metal Long-Term",
-    "description": "Not all 'steel' CPU stands are built the same, thickness and frame design affect how well a stand resists bending or sagging under a heavy tower's sustained weight over time."
+    "title": "Fit",
+    "description": "We compared width, length and height ranges."
   },
   {
-    "title": "Width Adjustment Range Must Fit Your Real Case",
-    "description": "A CPU stand's stated 'universal fit' claim only means it fits within a specific width range, not literally any tower, so measure your actual case width and check the stand's stated min/max range against it before buying, rather than trusting a marketing photo showing a generic tower.."
+    "title": "Mobility and safety",
+    "description": "We noted casters and side rails."
   },
   {
-    "title": "Airflow Clearance Matters as Much as Physical Fit",
-    "description": "A CPU stand is supposed to improve airflow by lifting a tower off carpet or a dusty floor, but a poorly designed caddy can block the exact vents it was meant to protect."
-  },
-  {
-    "title": "Floor Caddy vs Under-Desk Hanging Mount",
-    "description": "Floor-based caddies and under-desk hanging mounts solve the same problem differently: a caddy stays mobile and needs no desk modification, while a hanging mount frees up floor space permanently but requires drilling and commits the tower to one fixed spot."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Tower Size",
-    "table": {
-      "headers": [
-        "Your tower",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Small/mini-ITX case",
-          "Hovadova Adjustable Computer Tower Stand"
-        ],
-        [
-          "Standard mid-tower",
-          "PUTORSEN Computer Tower Stand Under Desk for Most Mid-Tower"
-        ],
-        [
-          "Large full-tower",
-          "Korfile 54\" Computer Desk with Power Outlets"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Hovadova Adjustable Computer Tower Stand"
-        ],
-        [
-          "Mid-range pick",
-          "AGPTEK Adjustable CPU Stand"
-        ],
-        [
-          "Higher budget",
-          "Korfile 54\" Computer Desk with Power Outlets"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Rolling Caddy vs Fixed Stand",
-    "cards": [
-      {
-        "label": "Rolling (e.g. Hovadova Adjustable Computer Tower Stand)",
-        "text": "Easy to reposition for cleaning or cable access, needs floor space."
-      },
-      {
-        "label": "Fixed/hanging",
-        "text": "Frees floor space but commits the tower to one spot."
-      }
-    ],
-    "note": "Match this to your actual setup and priorities."
-  },
-  {
-    "subheading": "By Mounting Need",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Floor caddy on carpet",
-          "PUTORSEN Computer Tower Stand Under Desk for Most Mid-Tower"
-        ],
-        [
-          "Under-desk hanging mount",
-          "AGPTEK Adjustable CPU Stand"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For a Heavy Full-Tower PC Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A weight capacity rated comfortably above your tower's actual weight, with a solid steel frame."
-      },
-      {
-        "label": "In this comparison",
-        "text": "PUTORSEN Computer Tower Stand Under Desk for Most Mid-Tower is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need the strongest real-world performance and sturdiest build, where Korfile 54\" Computer Desk with Power Outlets justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want straightforward everyday use without paying for headroom you won't need, where Hovadova Adjustable Computer Tower Stand already covers the job at the lowest price here."
-      }
-    ]
+    "title": "Price position",
+    "description": "Prices change often, so we treat them as relative position."
   }
 ];
 
 export const buyingCriteria = [
   {
-    "criterion": "Weight Capacity Should Have Real Margin, Not Just Meet It",
-    "explanation": "Don't cut it close on weight capacity, a rating that just barely covers your tower's weight leaves no margin for future upgrades (extra drives, a bigger GPU) or for the stress of repeated rolling. Pick a stand rated comfortably above your actual tower weight."
+    "criterion": "Stated weight capacity",
+    "explanation": "Weigh your tower. Only the $25 Hovadova states a rating (176 lb) here."
   },
   {
-    "criterion": "Steel Construction Holds Up Better Than Thin Metal Long-Term",
-    "explanation": "Not all 'steel' CPU stands are built the same, thickness and frame design affect how well a stand resists bending or sagging under a heavy tower's sustained weight over time. Buyer reviews mentioning flex or wobble after months of use are a more reliable signal than the material spec alone."
+    "criterion": "Width and length range",
+    "explanation": "Measure your case. The AGPTEK has the widest range (up to 11.8 x 20 inches)."
   },
   {
-    "criterion": "Width Adjustment Range Must Fit Your Real Case",
-    "explanation": "A CPU stand's stated 'universal fit' claim only means it fits within a specific width range, not literally any tower, so measure your actual case width and check the stand's stated min/max range against it before buying, rather than trusting a marketing photo showing a generic tower."
+    "criterion": "Casters and rails",
+    "explanation": "Casters make cleaning and cable access easier; side rails help keep the case in place."
   },
   {
-    "criterion": "Airflow Clearance Matters as Much as Physical Fit",
-    "explanation": "A CPU stand is supposed to improve airflow by lifting a tower off carpet or a dusty floor, but a poorly designed caddy can block the exact vents it was meant to protect. Confirm your specific case's vent locations stay clear of the stand's frame or base before buying."
+    "criterion": "Airflow",
+    "explanation": "An open frame lets air reach intake vents under the case, especially on carpet."
+  }
+];
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By need",
+    "table": {
+      "headers": [
+        "Need",
+        "Consider",
+        "Why"
+      ],
+      "rows": [
+        [
+          "Heavy tower, stated rating",
+          "Hovadova adjustable ($25)",
+          "176 lb"
+        ],
+        [
+          "Large case",
+          "AGPTEK",
+          "Up to 11.8 x 20 inches"
+        ],
+        [
+          "Height adjustment",
+          "PUTORSEN",
+          "5.2–11.9 inches"
+        ],
+        [
+          "Lowest cost",
+          "Hovadova ($20)",
+          "Side rails"
+        ],
+        [
+          "New desk with power",
+          "Korfile",
+          "Desk, not a stand"
+        ]
+      ]
+    }
   },
   {
-    "criterion": "Floor Caddy vs Under-Desk Hanging Mount",
-    "explanation": "Floor-based caddies and under-desk hanging mounts solve the same problem differently: a caddy stays mobile and needs no desk modification, while a hanging mount frees up floor space permanently but requires drilling and commits the tower to one fixed spot. Pick based on which tradeoff fits your actual room."
+    "subheading": "By price at the time of writing",
+    "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.",
+    "table": {
+      "headers": [
+        "Price tier",
+        "Products"
+      ],
+      "rows": [
+        [
+          "About $20–$33",
+          "Hovadova (both), unbranded stand, AGPTEK"
+        ],
+        [
+          "About $40",
+          "PUTORSEN"
+        ],
+        [
+          "About $85",
+          "Korfile desk"
+        ]
+      ]
+    }
   }
 ];
 
 export const faq = [
   {
-    "q": "How much weight can a CPU stand hold?",
-    "a": "Most range from about 22 to 46 pounds, but treat the rated capacity as a ceiling, not a comfortable daily margin, and choose one rated meaningfully above your tower's actual weight."
+    "q": "Why use a CPU stand?",
+    "a": "It lifts the tower off carpet and dust, keeps vents clear, and makes it easier to move the PC for cleaning or cabling."
   },
   {
-    "q": "Are CPU stands hard to assemble?",
-    "a": "It varies a lot by model, some ship nearly assembled while others need a full multi-step hardware kit; check buyer reviews specifically for assembly-time complaints if quick setup matters to you."
+    "q": "How much weight capacity do I need?",
+    "a": "More than your tower weighs, with margin. Weigh the PC; most listings here do not state a rating."
   },
   {
-    "q": "Can a CPU stand damage my case over time?",
-    "a": "Only if it lacks anti-slip padding at the case contact points, bare metal contact can let the case vibrate and scuff over months of use, so check for rubber or foam padding specifically."
+    "q": "Will my case fit?",
+    "a": "Compare your case's width and length with the stand's adjustable range."
   },
   {
-    "q": "Do CPU stand wheels stay in place on hard floors?",
-    "a": "Only if the stand has a locking mechanism on at least two of the caster wheels; without locks, wheels can drift from vibration or a light bump on hardwood or tile."
-  },
-  {
-    "q": "How do I know if a CPU stand fits my tower?",
-    "a": "Measure your case's actual width and compare it against the stand's stated minimum and maximum width range, don't rely on a 'universal fit' claim alone since that range varies between products."
-  },
-  {
-    "q": "Is a 'gaming' CPU stand actually different from a regular one?",
-    "a": "Usually not functionally, gaming-marketed stands typically share the same core design as general-purpose ones, sometimes with RGB accents, so judge on width range, weight capacity, and wheel quality regardless of the label."
+    "q": "Should I lock the casters?",
+    "a": "If the stand has locking casters, lock them so the PC does not roll when you bump it."
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-cpu-stands","title":"Best CPU Stands in 2026"},{"href":"/guide/best-cpu-stands-with-casters","title":"Best CPU Stands With Casters in 2026"},{"href":"/guide/best-mobile-cpu-stands","title":"Best Mobile CPU Stands in 2026"},{"href":"/guide/best-cpu-stands-for-desktop-towers","title":"Best CPU Stands for Desktop Towers in 2026"}];
+export const bottomLine = [
+  "For a heavy tower, the $25 Hovadova is the safest choice on paper, as the only stand with a stated 176 lb rating. The AGPTEK fits larger cases, and the PUTORSEN adds height adjustment.",
+  "The $20 Hovadova and the unbranded rolling stand suit standard towers on a budget. The Korfile is a desk, worth considering only if you are replacing your desk anyway."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-cpu-stands",
+    "title": "Best CPU Stands in 2026"
+  },
+  {
+    "href": "/guide/best-cpu-stands-with-casters",
+    "title": "Best CPU Stands With Casters in 2026"
+  },
+  {
+    "href": "/guide/best-mobile-cpu-stands",
+    "title": "Best Mobile CPU Stands in 2026"
+  },
+  {
+    "href": "/guide/best-cpu-stands-for-desktop-towers",
+    "title": "Best CPU Stands for Desktop Towers in 2026"
+  }
+];

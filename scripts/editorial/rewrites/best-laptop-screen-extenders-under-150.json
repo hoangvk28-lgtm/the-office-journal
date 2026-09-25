@@ -1,0 +1,84 @@
+{
+  "guideTitle": "The Best Laptop Screen Extenders Under $150 for a Portable Second Screen",
+  "breadcrumbLabel": "Best Laptop Screen Extenders Under $150",
+  "metaTitle": "Best Laptop Screen Extenders Under $150 (2026)",
+  "metaDescription": "Closer to $150, screen extenders add a 15.6-inch detachable panel and refined hinges. We compared four on size, mechanism, rotation, documented display specs and cables.",
+  "introParagraphs": [
+    "A laptop screen extender clips a second display to your laptop's lid, so you get two screens anywhere you can open a laptop. Spending toward $150 mostly buys two things over cheaper models: a larger 15.6-inch panel, or a panel that detaches to work as a standalone monitor.",
+    "Check your laptop's ports before anything else. A single USB-C cable can carry video and power only if the laptop's USB-C port supports video output; otherwise you'll typically need HDMI plus a separate USB cable for power. Also confirm the clamp fits your laptop's lid size and thickness.",
+    "Two of the four extenders here were under $90 at the time of writing, so you may not need the full budget. Our comparison is based on published specifications, not hands-on testing."
+  ],
+  "products": {
+    "best-laptop-screen-extenders-under-150-1": {
+      "badge": "Best Detachable Extender",
+      "summary": "A 15.6-inch 1080p IPS panel that detaches from its mounting arm to use as a standalone monitor.",
+      "description": "The Cevaton is the one to choose if you want more than a lid accessory: its 15.6-inch 1080p IPS panel detaches from the mounting arm, so it can also sit on the desk as a portable monitor.\n\nThe larger screen gives more room for spreadsheets and side-by-side documents than the 14-inch models here.\n\nIt is heavier and bulkier folded than the 14-inch extenders, and standalone use may need a stand or support that isn't included; check the listing for what comes in the box.",
+      "specs": ["Panel: 15.6\" 1080p IPS", "Design: detachable from mounting arm", "Standalone use: supported (stand may be extra)"],
+      "pros": ["Doubles as a portable monitor", "Largest screen here", "More room for dense work"],
+      "cons": ["Heavier and bulkier", "Stand for standalone use may be extra", "Most expensive here at the time of writing"],
+      "bestFor": "A second screen that works both on the laptop and on its own at a desk.",
+      "skipIf": "You carry it daily and want the lightest option; the Miesebe is 1.87 lb."
+    },
+    "best-laptop-screen-extenders-under-150-2": {
+      "badge": "Refined 14-Inch Clip-On",
+      "summary": "KEFEYA's step-up 14-inch 1080p extender with a refined hinge, per KEFEYA.",
+      "description": "The KEFEYA Premium is the brand's upgraded 14-inch 1080p IPS extender: KEFEYA says it improves the hinge mechanism and panel uniformity over its $89.99 base model.\n\nIt stays a thin clip-on design, lighter to carry than the Cevaton.\n\nThe extra cost buys refinement rather than new features, and it costs about $30 more than the ROYY or Miesebe, which offer the same screen size.",
+      "specs": ["Panel: 14\" 1080p IPS", "Design: clip-on", "Improvements: hinge and panel uniformity (per KEFEYA)"],
+      "pros": ["Refined hinge (per manufacturer)", "Thin clip-on design", "Established brand"],
+      "cons": ["Incremental over the cheaper base model", "Costs more than same-size rivals", "Few measurable specs in the listing summary"],
+      "bestFor": "KEFEYA buyers who want the brand's refined version.",
+      "skipIf": "You want documented display specs for less; the ROYY lists brightness and color figures."
+    },
+    "best-laptop-screen-extenders-under-150-3": {
+      "badge": "Best Value",
+      "summary": "A 14-inch extender with documented brightness, contrast and color figures, and every cable included.",
+      "description": "The ROYY offers the most documented specifications for the money: a 14-inch 1080p IPS panel listed at 300 nits, 1000:1 contrast and 72% NTSC color, with 180-degree rotation and all cable types in the box, at the lowest price here at the time of writing.\n\nIt is a clip-on design without detachment.\n\nIts 180-degree rotation is narrower than the Miesebe's 226 degrees.",
+      "specs": ["Panel: 14\" 1080p IPS", "Brightness: 300 nits", "Contrast: 1000:1", "Color: 72% NTSC", "Rotation: 180°", "Cables: all types included"],
+      "pros": ["Lowest price here", "Documented display specs", "All cables included"],
+      "cons": ["Not detachable", "180° rotation", "Weight not stated in the listing summary"],
+      "bestFor": "A 14-inch second screen without paying for extras.",
+      "skipIf": "You want to flip the screen further for presenting; the Miesebe rotates 226 degrees."
+    },
+    "best-laptop-screen-extenders-under-150-4": {
+      "badge": "Best for Travel and Presenting",
+      "summary": "A 0.27-inch, 1.87 lb 14-inch extender with 226-degree rotation and a built-in speaker.",
+      "description": "The Miesebe is the lightest and thinnest option here, 0.27 inches thick and 1.87 lb, and it rotates 226 degrees, useful for turning the screen toward someone across the table.\n\nIt has a 14-inch 1080p IPS panel at 300 nits, 72% sRGB and 60Hz, a built-in speaker and an eye-care mode.\n\nIts color figure is quoted in sRGB, so it isn't directly comparable with the ROYY's NTSC figure, and a small built-in speaker is a convenience rather than a replacement for headphones.",
+      "specs": ["Panel: 14\" 1080p IPS, 60Hz", "Brightness: 300 nits", "Color: 72% sRGB", "Rotation: 226°", "Speaker: built-in", "Size: 0.27\", 1.87 lb"],
+      "pros": ["Lightest and thinnest here", "Widest rotation", "Built-in speaker"],
+      "cons": ["14-inch screen", "Not detachable", "Color figure not directly comparable"],
+      "bestFor": "Daily carrying and showing your screen to others.",
+      "skipIf": "You want a larger screen; the Cevaton is 15.6 inches."
+    }
+  },
+  "buyingCriteria": [
+    { "criterion": "Check your laptop's USB-C", "explanation": "Single-cable use needs a USB-C port with video output (DisplayPort Alt Mode or Thunderbolt). Otherwise expect HDMI plus a USB power cable." },
+    { "criterion": "Confirm clamp fit", "explanation": "Check the supported laptop screen sizes and lid thickness in the listing." },
+    { "criterion": "Detachable or clip-on", "explanation": "A detachable panel, like the Cevaton's, doubles as a portable monitor; clip-on models are thinner and lighter." },
+    { "criterion": "Size versus weight", "explanation": "15.6 inches adds screen space; 14-inch models are easier to carry. The Miesebe is the lightest here." }
+  ],
+  "howWeEvaluated": [
+    { "title": "Panel", "description": "We compared size, resolution and documented brightness, contrast and color figures." },
+    { "title": "Mechanism", "description": "We noted detachable versus clip-on designs and rotation range." },
+    { "title": "Portability", "description": "We compared thickness and weight where listed." },
+    { "title": "Price", "description": "We compared prices at the time of writing." }
+  ],
+  "howToChoose": [
+    { "subheading": "By priority", "table": { "headers": ["Priority", "Consider"], "rows": [
+      ["Detachable, larger screen", "Cevaton 15.6\""],
+      ["Documented specs, lowest price", "ROYY 14\""],
+      ["Lightest, widest rotation", "Miesebe 14\""],
+      ["Refined KEFEYA model", "KEFEYA 14\" Premium"]
+    ] } }
+  ],
+  "faq": [
+    { "q": "Is a detachable extender worth more?", "a": "If you want to use the screen as a standalone monitor, yes. If it always stays on your laptop, a clip-on model does the same job for less." },
+    { "q": "Can I use a 15.6-inch extender with a 13-inch laptop?", "a": "Possibly, but check the mounting clamp's supported laptop sizes and the balance of the setup in the listing." },
+    { "q": "What's the difference between KEFEYA's two models?", "a": "KEFEYA says the Premium improves the hinge and panel uniformity; screen size and resolution are the same." },
+    { "q": "How do I know my USB-C port supports video?", "a": "Check your laptop's specifications for DisplayPort Alt Mode or Thunderbolt on that port." },
+    { "q": "Do I need a separate stand for detached use?", "a": "Check the Cevaton listing; standalone use may require a stand that isn't included." }
+  ],
+  "bottomLine": [
+    "Choose the Cevaton if you want a larger screen that also works as a standalone monitor. For a standard clip-on second screen, the ROYY offers documented specs for the lowest price here.",
+    "The Miesebe is the lightest and rotates furthest, which suits travel and presenting. The KEFEYA Premium is a refinement of a cheaper model rather than a different class of product."
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "guideTitle": "The Best Adjustable CPU Stands for Getting a PC Off the Floor",
+  "breadcrumbLabel": "Best Adjustable CPU Stands",
+  "metaTitle": "Best Adjustable CPU Stands: Width, Height and Wheels (2026)",
+  "metaDescription": "Adjustable CPU stands differ in what adjusts: width, length or height. We compared eight on adjustment range, wheels, rails and build to fit your tower and desk.",
+  "introParagraphs": [
+    "A CPU stand lifts a desktop tower off the floor, which can help keep dust and carpet away from the intake vents and makes the PC easier to roll out for cleaning or cable changes. \"Adjustable\" usually means the width expands to grip the case; a few also adjust length or height.",
+    "Measure your tower's width and depth before comparing. Width ranges here run from about 6.3 to 11.8 inches, and at least one stand adjusts height to sit a tower closer to a standing desk.",
+    "Most stands here have four swivel casters, and several include side rails. Our comparison is based on published dimensions and features, not hands-on testing."
+  ],
+  "products": {
+    "best-adjustable-cpu-stands-1": {
+      "badge": "Best Value Width-Adjustable Stand",
+      "summary": "A metal stand adjusting from 7.87 to 10.23 inches wide, 16.9 inches long, with side rails and wheels.",
+      "description": "The Hovadova is the simple, low-cost choice: a metal stand whose width adjusts from 7.87 to 10.23 inches, 16.9 inches long, with protective rails on both sides, a ventilated base and wheels.\n\nIts 16.9-inch length is shorter than some stands here, so check it against a deeper full-tower case.",
+      "specs": ["Width: 7.87–10.23\" adjustable", "Length: 16.9\"", "Side rails: yes", "Base: ventilated metal", "Wheels: yes"],
+      "pros": ["Low price", "Side rails", "Ventilated base"],
+      "cons": ["Shorter length", "Width only adjusts", "Capacity not stated in the summary"],
+      "bestFor": "Standard mid-tower cases on a budget.",
+      "skipIf": "Your case is long or wide; the AGPTEK adjusts length and width further."
+    },
+    "best-adjustable-cpu-stands-2": {
+      "badge": "Best Height-Adjustable Stand",
+      "summary": "A steel rolling stand whose height adjusts from 5.2 to 11.9 inches, for mid-towers.",
+      "description": "The PUTORSEN adjusts height, from 5.2 to 11.9 inches, which lets you raise a mid-tower closer to a sit-stand desk or lift it well off the carpet. It is steel and needs no drilling.\n\nIt costs more than the width-only stands, and PUTORSEN lists it for most mid-towers; check full-tower fit.",
+      "specs": ["Height: 5.2–11.9\" adjustable", "Construction: steel", "Mounting: freestanding, no drilling", "Fit: most mid-towers (per listing)"],
+      "pros": ["Height adjustment", "Steel build", "No drilling"],
+      "cons": ["Costs more than width-only stands", "Mid-tower focus", "Width range not stated here"],
+      "bestFor": "Raising a tower higher off the floor or nearer a sit-stand desk.",
+      "skipIf": "You only need the tower off the carpet; a width-adjustable stand costs less."
+    },
+    "best-adjustable-cpu-stands-3": {
+      "badge": "Best for Larger Cases",
+      "summary": "A stand 19.29 inches long, adjusting 8.07 to 10.63 inches wide, with two locking casters.",
+      "description": "This stand suits bigger cases: its 19.29-inch length and 8.07- to 10.63-inch width are designed for standard and gaming PC cases, with a ventilated base.\n\nIt has four 360-degree casters, two of which lock, so it can be fixed in place. The brand isn't named in the listing.",
+      "specs": ["Width: 8.07–10.63\" adjustable", "Length: 19.29\"", "Casters: 4, 2 locking", "Base: ventilated"],
+      "pros": ["Long platform", "Locking casters", "Ventilated"],
+      "cons": ["Brand not named", "Width only adjusts", "Capacity not stated in the summary"],
+      "bestFor": "Gaming or full-size cases that need a longer base.",
+      "skipIf": "You want length adjustment too; the AGPTEK adjustable stand offers it."
+    },
+    "best-adjustable-cpu-stands-4": {
+      "badge": "Basic Rolling Stand with Rails",
+      "summary": "An adjustable rolling stand with side rails and four 360-degree wheels.",
+      "description": "This stand covers the basics: side rails to keep the case from slipping off and four 360-degree wheels so you can roll the tower out to clean.\n\nThe listing summary doesn't give its width range or dimensions, so check them against your case before buying.",
+      "specs": ["Side rails: yes", "Wheels: 4, 360°", "Adjustment range: check listing"],
+      "pros": ["Side rails", "Rolls for cleaning", "Low price"],
+      "cons": ["Dimensions not stated here", "Brand not named", "Locking wheels not mentioned"],
+      "bestFor": "A basic rolling platform for a standard case.",
+      "skipIf": "You want stated dimensions; the Hovadova lists its range."
+    },
+    "best-adjustable-cpu-stands-5": {
+      "badge": "Widest Adjustment Range",
+      "summary": "An AGPTEK stand adjusting 6.3 to 11.8 inches wide and 15.7 to 20 inches long.",
+      "description": "The AGPTEK adjustable stand has the widest ranges here: 6.3 to 11.8 inches wide and 15.7 to 20 inches long, so it can fit a slim case or a large tower.\n\nIt rolls on four 360-degree casters. Its price sits in the middle of this guide at the time of writing.",
+      "specs": ["Width: 6.3–11.8\" adjustable", "Length: 15.7–20\" adjustable", "Casters: 4, 360°"],
+      "pros": ["Widest width and length range", "Fits slim to large cases", "Rolling"],
+      "cons": ["Locking casters not mentioned", "Capacity not stated here", "Mid-range price"],
+      "bestFor": "Unusual case sizes, or a stand that may move to a new PC later.",
+      "skipIf": "Your case is a standard mid-tower; the Hovadova costs less."
+    },
+    "best-adjustable-cpu-stands-6": {
+      "badge": "Best Wood-Look Stand",
+      "summary": "A walnut-finish wood and PVC stand with lockable wheels and a ventilated platform.",
+      "description": "The fulkun is the stand to choose if it will be visible: wood pieces with PVC in a walnut finish, with a ventilated platform and four universal wheels that lock.\n\nfulkun describes it as having greater load-bearing capacity, but the listing summary doesn't give a figure or dimensions.",
+      "specs": ["Material: wood + PVC, walnut finish", "Wheels: 4, locking", "Platform: ventilated", "Capacity and dimensions: check listing"],
+      "pros": ["Furniture-like look", "Locking wheels", "Ventilated"],
+      "cons": ["Capacity not quantified", "Dimensions not stated here", "Wood less tolerant of damp floors"],
+      "bestFor": "A tower in view in a living space.",
+      "skipIf": "Looks don't matter; the metal stands cost less."
+    },
+    "best-adjustable-cpu-stands-7": {
+      "badge": "Best Two-Tier Cart",
+      "summary": "EUREKA ERGONOMIC's height-adjustable two-tier PC cart with quiet wheels for carpet.",
+      "description": "The EUREKA ERGONOMIC stand is a two-tier cart rather than a simple platform: height-adjustable, with a second shelf for a UPS, router or storage, and four 360-degree wheels described as quiet and suited to carpet.\n\nIt was the most expensive stand here at the time of writing, several times the price of the basic stands.",
+      "specs": ["Design: 2-tier cart", "Height: adjustable", "Wheels: 4, 360°, quiet (per manufacturer)", "Suited to carpet (per listing)"],
+      "pros": ["Second shelf", "Height adjustable", "Wider, stable base (per listing)"],
+      "cons": ["Most expensive here", "Larger footprint", "Dimensions not stated here"],
+      "bestFor": "A tower plus UPS or router on one rolling cart.",
+      "skipIf": "You only need to lift the tower; any basic stand does that for far less."
+    },
+    "best-adjustable-cpu-stands-8": {
+      "badge": "Lowest Price",
+      "summary": "AGPTEK's basic steel rolling CPU stand with four upgraded wheels.",
+      "description": "The AGPTEK CPU Stand is the least expensive option here: a steel rolling stand with four wheels AGPTEK describes as upgraded.\n\nThe listing summary doesn't state an adjustment range or dimensions, so confirm it fits your case.",
+      "specs": ["Construction: steel", "Wheels: 4", "Adjustment range: check listing"],
+      "pros": ["Lowest price here", "Steel", "Rolling"],
+      "cons": ["Adjustment not detailed", "Dimensions not stated here", "No rails mentioned"],
+      "bestFor": "The simplest, cheapest way to get a tower off the floor.",
+      "skipIf": "You need a wide range; the AGPTEK adjustable model fits more cases."
+    }
+  },
+  "buyingCriteria": [
+    { "criterion": "Measure the case", "explanation": "Compare your tower's width and depth with the stand's range. Widths here run from about 6.3 to 11.8 inches; lengths from 15.7 to 20 inches." },
+    { "criterion": "Decide what should adjust", "explanation": "Most stands adjust width; the AGPTEK adjustable adds length; the PUTORSEN and EUREKA adjust height." },
+    { "criterion": "Check wheels and locks", "explanation": "Locking casters keep the tower from drifting; several listings here don't mention locks." },
+    { "criterion": "Look for rails", "explanation": "Side rails help stop a case from sliding off when rolled." }
+  ],
+  "howWeEvaluated": [
+    { "title": "Adjustment", "description": "We compared width, length and height ranges as listed." },
+    { "title": "Mobility", "description": "We noted wheels and locking casters." },
+    { "title": "Build", "description": "We noted materials, rails and ventilated bases." },
+    { "title": "Price", "description": "We compared prices at the time of writing." }
+  ],
+  "howToChoose": [
+    { "subheading": "By need", "table": { "headers": ["Need", "Consider"], "rows": [
+      ["Standard mid-tower, low cost", "Hovadova"],
+      ["Height adjustment", "PUTORSEN"],
+      ["Long gaming case", "19.29\" Computer Tower Stand"],
+      ["Widest range", "AGPTEK Adjustable"],
+      ["Wood look", "fulkun"],
+      ["Two tiers", "EUREKA ERGONOMIC"],
+      ["Lowest price", "AGPTEK CPU Stand"]
+    ] } }
+  ],
+  "faq": [
+    { "q": "Why use a CPU stand?", "a": "It lifts the tower off the floor, which can reduce dust and carpet fibers near the intake, and lets you roll it out for cleaning." },
+    { "q": "Will it fit my case?", "a": "Compare your case's width and depth with the stand's listed range." },
+    { "q": "Do I need locking wheels?", "a": "They help stop the stand drifting, especially on hard floors. The 19.29-inch stand and fulkun list them." },
+    { "q": "Height or width adjustment?", "a": "Width fits the case; height raises it further, which helps with sit-stand desks." },
+    { "q": "What about weight?", "a": "Most listings here don't state a capacity; check before loading a heavy full tower." }
+  ],
+  "bottomLine": [
+    "For a standard mid-tower, the Hovadova is the low-cost choice with side rails, and the AGPTEK adjustable stand fits the widest range of cases. For long gaming cases, the 19.29-inch stand adds locking casters.",
+    "If you want height, the PUTORSEN raises the tower up to 11.9 inches, and the EUREKA two-tier cart adds a shelf for more money. The fulkun suits a visible spot."
+  ]
+}

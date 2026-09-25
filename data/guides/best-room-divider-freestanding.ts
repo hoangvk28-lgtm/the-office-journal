@@ -1,476 +1,415 @@
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+
 export const guideSlug = "best-room-divider-freestanding";
-export const guideTitle = "8 Best Freestanding Room Dividers in 2026";
-export const metaTitle = "Best Freestanding Room Dividers in 2026 (No Assembly Screens)";
-export const metaDescription =
-  "8 best freestanding room dividers in 2026, from authentic shoji screens to wheeled fabric panels. Compare panel count, weight, and no-assembly setup.";
+
+export const guideTitle = "The Best Freestanding Room Dividers for Privacy Without Drilling";
+
+export const breadcrumbLabel = "Best Freestanding Room Dividers";
+
+export const metaTitle = "Best Freestanding Room Dividers and Folding Screens (2026)";
+
+export const metaDescription = "Freestanding screens rely on panel count, hinges and feet to stay up. We compared eight, from a shoji screen to a wheeled fabric divider, on width, material, weight and setup.";
+
 export const mainKeyword = "room dividers free standing";
+
 export const introParagraphs = [
-  "A freestanding room divider needs to do the opposite job of a wall-mounted bookcase: stand on its own, angle into a stable zigzag, and fold flat when you want the room back. That means panel count, hinge type, and base footprint matter more here than raw weight capacity.",
-  "Below are 8 freestanding room dividers we evaluated on stability without wall support, material quality, and how easily they set up, ranging from a $31 lightweight single panel to a 6-panel authentic shoji screen with nearly 5,000 ratings.",
+  "A freestanding divider has to stand up by itself, so its design matters more than its materials list. Multi-panel screens stay upright by folding into a zigzag; single panels rely on wide feet. Hinges, foot width and weight decide how steady it feels and how easily it moves.",
+  "Width is the other decision. Screens here span 63 to 120 inches flat, but a zigzag takes up less width than the flat measurement, so measure the opening you want to cover and allow for the angles.",
+  "Then choose the look and the light: translucent shoji panels let daylight through, while fabric and woven screens block more. Our comparison is based on published specifications, not hands-on testing."
 ];
+
 export const lastUpdated = "2026-07-18";
+
 export const readTime = "9 min";
+
 export const heroImage = "https://m.media-amazon.com/images/I/51xVErogV9L._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string;
-  rank: number;
-  badge: string;
-  name: string;
-  price: string;
-  rating: string;
-  reviews: string;
-  imageUrl: string;
-  amazonUrl: string;
-  description: string;
-  specs: string[];
-  pros: string[];
-  cons: string[];
-  bestFor: string;
-}
-
-export interface BuyingCriterion {
-  criterion: string;
-  explanation: string;
-}
-
-export interface FaqItem {
-  q: string;
-  a: string;
-}
 
 export const products: GuideProduct[] = [
   {
-    id: "legacy-decor-6-panel-shoji",
-    rank: 1,
-    badge: "Best-Selling",
-    name: "Legacy Decor 6-Panel Shoji Room Divider",
-    price: "$179.00",
-    rating: "4.6",
-    reviews: "4,805",
-    imageUrl: "https://m.media-amazon.com/images/I/51xVErogV9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B00YFQ3F52?tag=theofficejournal-20",
-    description:
-      "With nearly 4,800 ratings, Legacy Decor's shoji screen is the best-selling freestanding divider in this list by a wide margin. A real solid wood grid, not printed vinyl or laminate, holds translucent rice-paper-style panels that let daylight filter through while still creating a genuine visual boundary.\n\nAt 22 lbs it's the lightest 6-panel wood screen here, and two-way hinges plus a fully assembled, ready-to-unfold design mean it goes from box to standing in minutes.\n\nGenuine solid wood grid, not printed vinyl. That's a real strength, but weigh it against the flip side: most expensive pick in this list.",
-    specs: [
-      "105\"W x 71\"H (6 panels)",
-      "Solid wood frame + translucent panels",
-      "No assembly required",
-      "Two-way hinges",
-      "22 lbs (lightest 6-panel wood screen here)",
+    "id": "legacy-decor-6-panel-shoji",
+    "rank": 1,
+    "badge": "Best Shoji Screen",
+    "name": "Legacy Decor 6-Panel Shoji Room Divider",
+    "price": "$179.00",
+    "rating": "4.6",
+    "reviews": "4,805",
+    "imageUrl": "https://m.media-amazon.com/images/I/51xVErogV9L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B00YFQ3F52?tag=theofficejournal-20",
+    "description": "The Legacy Decor shoji is the classic choice: a solid wood grid with translucent panels that let daylight through while marking a clear boundary, and a large, positive base of buyer feedback.\n\nIt is 105 inches wide and 71 inches tall across six panels, uses two-way hinges, arrives assembled and weighs 22 lb.\n\nTranslucent panels offer less privacy than opaque fabric, and it was the most expensive screen here at the time of writing.",
+    "specs": [
+      "Size: 105\"W x 71\"H (6 panels)",
+      "Material: solid wood + translucent panels",
+      "Hinges: two-way",
+      "Weight: 22 lb",
+      "Assembly: none"
     ],
-    pros: [
-      "Best-selling pick with 4,805 ratings",
-      "Genuine solid wood grid, not printed vinyl",
-      "Translucent panels let light filter through",
-      "Lightest 6-panel wood screen in this list at 22 lbs",
+    "pros": [
+      "Solid wood grid",
+      "Lets light through",
+      "No assembly"
     ],
-    cons: [
-      "Most expensive pick in this list",
-      "Translucent panels offer less full privacy than opaque fabric",
-      "Wide 105\" span needs a proportionally wide room",
+    "cons": [
+      "Most expensive here",
+      "Less privacy than opaque panels",
+      "Needs a wide space"
     ],
-    bestFor: "Buyers who want the most-proven, authentic wood shoji screen",
+    "bestFor": "Dividing a room while keeping it light.",
+    "summary": "A 6-panel solid wood shoji screen, 105 inches wide, with translucent panels and no assembly.",
+    "skipIf": "You need full visual privacy; an opaque fabric screen like the HOMSCREENER blocks more."
   },
   {
-    id: "rhf-rattan-4-panel",
-    rank: 2,
-    badge: "Best Handmade Look",
-    name: "RHF 6 ft. 4-Panel Rattan Room Divider",
-    price: "$34.28",
-    rating: "4.5",
-    reviews: "2,024",
-    imageUrl: "https://m.media-amazon.com/images/I/518FUSm-OqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07QQ25W3P?tag=theofficejournal-20",
-    description:
-      "RHF's screen is handmade by professional carpenters using a 5-medallion diamond weave pattern in 100% woven fabric over a rattan-style frame, giving it a bohemian, artisanal look most mass-produced fabric screens can't match. Two-way hinges and a fully ready-to-use design mean no assembly. At this price point, it undercuts nearly every other pick in this list while still delivering a genuinely handcrafted appearance, making it the best value for buyers who want a decorative, rustic-leaning divider. Worth calling out specifically: cheapest quality pick in this list. The catch is narrower 63\" width than most other picks.",
-    specs: [
-      "63\"W x 72\"H (4 panels)",
-      "Rattan-style frame + 100% woven fabric",
-      "No assembly required",
-      "Two-way hinges",
-      "5-medallion diamond weave pattern",
+    "id": "rhf-rattan-4-panel",
+    "rank": 2,
+    "badge": "Best Handmade Look for Less",
+    "name": "RHF 6 ft. 4-Panel Rattan Room Divider",
+    "price": "$34.28",
+    "rating": "4.5",
+    "reviews": "2,024",
+    "imageUrl": "https://m.media-amazon.com/images/I/518FUSm-OqL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07QQ25W3P?tag=theofficejournal-20",
+    "description": "The RHF brings a handmade, bohemian look at a low price: RHF says its 5-medallion diamond weave is handmade, in woven fabric over a rattan-style frame.\n\nIt is 63 inches wide and 72 inches tall, uses two-way hinges and needs no assembly.\n\nIt is the narrowest multi-panel screen here, and woven fabric is less hard-wearing than wood or heavy polyester in a busy spot.",
+    "specs": [
+      "Size: 63\"W x 72\"H (4 panels)",
+      "Material: rattan-style frame + woven fabric",
+      "Hinges: two-way",
+      "Assembly: none"
     ],
-    pros: [
-      "Handmade diamond weave pattern",
-      "Cheapest quality pick in this list at $34.28",
-      "Bohemian, artisanal aesthetic",
-      "No assembly required",
+    "pros": [
+      "Handmade look",
+      "Low price",
+      "No assembly"
     ],
-    cons: [
-      "Narrower 63\" width than most other picks",
-      "Woven fabric is less durable than solid wood or thick polyester",
-      "Rattan-style construction shows wear faster in high-traffic spots",
+    "cons": [
+      "Narrowest multi-panel screen",
+      "Less hard-wearing",
+      "Weight not stated"
     ],
-    bestFor: "Buyers who want a handcrafted, boho-styled divider without a high price tag",
+    "bestFor": "A decorative screen for a small opening.",
+    "summary": "A 4-panel, 63-inch screen with a woven diamond pattern on a rattan-style frame.",
+    "skipIf": "You need wide coverage; the HOMSCREENER spans 88 inches for a little more."
   },
   {
-    id: "rantila-single-panel",
-    rank: 3,
-    badge: "Lightest & Most Flexible",
-    name: "RANTILA Single Large Panel Room Divider",
-    price: "$30.99",
-    rating: "4.3",
-    reviews: "1,590",
-    imageUrl: "https://m.media-amazon.com/images/I/414lHGwu+qL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BMTBSB7R?tag=theofficejournal-20",
-    description:
-      "RANTILA takes a different approach with a single 71-inch-wide panel instead of multiple hinged panels, built from HDPE with a steel frame and UV-protected, waterproof fabric. At just 8.8 lbs it's the lightest divider in this entire list, and 4 stiffeners keep the single panel from sagging or toppling.\n\nBecause there's only one panel, there's no zigzag angle needed for stability, making it the simplest to set up and the easiest to move or store when you don't need it.\n\nSingle-panel design needs no angling for stability. Set against that, single panel offers less width coverage per unit than multi-panel screens. Both matter when comparing it to the other picks here.",
-    specs: [
-      "71\"W x 69.5\"H",
-      "HDPE + steel frame",
-      "UV protected + waterproof fabric",
-      "4 stiffeners for stability",
-      "8.8 lbs (lightest in this list)",
+    "id": "rantila-single-panel",
+    "rank": 3,
+    "badge": "Lightest and Simplest",
+    "name": "RANTILA Single Large Panel Room Divider",
+    "price": "$30.99",
+    "rating": "4.3",
+    "reviews": "1,590",
+    "imageUrl": "https://m.media-amazon.com/images/I/414lHGwu+qL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BMTBSB7R?tag=theofficejournal-20",
+    "description": "The RANTILA takes a different approach: one 71-inch-wide panel on a steel frame with four stiffeners, rather than hinged panels, so there's no zigzag to set.\n\nAt 8.8 lb it is the lightest divider here and the lowest priced at the time of writing. Its HDPE fabric is listed as UV-protected and waterproof, which suits a spot near a window or patio door.\n\nIt's more utilitarian than the wood and woven screens, and buyer feedback is less positive than for the top picks.",
+    "specs": [
+      "Size: 71\"W x 69.5\"H (single panel)",
+      "Material: HDPE fabric + steel frame",
+      "Stiffeners: 4",
+      "UV-protected, waterproof",
+      "Weight: 8.8 lb"
     ],
-    pros: [
-      "Lightest divider in this list at 8.8 lbs",
-      "Single-panel design needs no angling for stability",
-      "UV protected and waterproof, suitable near a window or patio door",
-      "Easiest to move or store of any pick here",
+    "pros": [
+      "Lightest here",
+      "Lowest price",
+      "Weather-resistant fabric"
     ],
-    cons: [
-      "Single panel offers less width coverage per unit than multi-panel screens",
-      "4.3-star rating is on the lower end of this list",
-      "Less decorative than the wood or rattan alternatives",
+    "cons": [
+      "Utilitarian look",
+      "Single panel can't wrap corners",
+      "Less positive feedback"
     ],
-    bestFor: "Buyers who want the lightest, simplest single-panel divider to move often",
+    "bestFor": "Quick, movable screening, indoors or near a patio.",
+    "summary": "An 8.8 lb single 71-inch panel with steel frame and UV-protected, waterproof fabric.",
+    "skipIf": "You want a decorative piece; the FDW or Legacy Decor looks warmer."
   },
   {
-    id: "homscreener-4-panel-fabric",
-    rank: 4,
-    badge: "Widest 4-Panel",
-    name: "HOMSCREENER 4-Panel Fabric Room Divider",
-    price: "$56.99",
-    rating: "4.1",
-    reviews: "1,715",
-    imageUrl: "https://m.media-amazon.com/images/I/31IhKdy8YFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BQMR29TC?tag=theofficejournal-20",
-    description:
-      "HOMSCREENER's steel-frame screen covers 88 inches wide, the widest 4-panel pick in this list, using a heavier 240g polyester coating than most competing fabric screens. Triple-buckle hinges and extra-wide 17.7-inch feet give it a noticeably more stable base than thinner-footed alternatives.\n\nThe fabric is treated to resist wrinkling, so it looks presentable straight out of the box rather than needing to hang and relax first.\n\nA genuine advantage here is that thicker 240g fabric than most competing screens. The tradeoff is lowest rating in this list at 4.1 stars.",
-    specs: [
-      "88\"W x 71.3\"H (4 panels)",
-      "240g polyester + steel frame",
-      "Triple-buckle hinges",
-      "17.7\" wide feet",
-      "Wrinkle-resistant fabric",
+    "id": "homscreener-4-panel-fabric",
+    "rank": 4,
+    "badge": "Best Wide 4-Panel Fabric Screen",
+    "name": "HOMSCREENER 4-Panel Fabric Room Divider",
+    "price": "$56.99",
+    "rating": "4.1",
+    "reviews": "1,715",
+    "imageUrl": "https://m.media-amazon.com/images/I/31IhKdy8YFL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQMR29TC?tag=theofficejournal-20",
+    "description": "The HOMSCREENER covers the most width of the fixed 4-panel screens, 88 inches, with heavier 240g polyester than many fabric screens and wrinkle-resistant treatment.\n\nIts triple-buckle hinges and extra-wide 17.7-inch feet are designed for stability, on a steel frame 71.3 inches tall.\n\nWide feet need floor clearance, and buyer feedback is the least positive here.",
+    "specs": [
+      "Size: 88\"W x 71.3\"H (4 panels)",
+      "Material: 240g polyester + steel",
+      "Hinges: triple-buckle",
+      "Feet: 17.7\" wide",
+      "Wrinkle-resistant"
     ],
-    pros: [
-      "Widest 4-panel pick in this list at 88 inches",
-      "Thicker 240g fabric than most competing screens",
-      "Extra-wide 17.7\" feet add stability",
-      "Wrinkle-resistant, looks finished immediately",
+    "pros": [
+      "Wide coverage",
+      "Heavier fabric",
+      "Wide feet"
     ],
-    cons: [
-      "Lowest rating in this list at 4.1 stars",
-      "Fabric panels offer less structure than solid wood",
-      "Wide feet need more floor clearance than a slimmer base",
+    "cons": [
+      "Least positive feedback here",
+      "Feet take floor space",
+      "Fabric look"
     ],
-    bestFor: "Buyers who need the widest coverage from a 4-panel fabric screen",
+    "bestFor": "Opaque privacy across a wide opening.",
+    "summary": "An 88-inch, 4-panel steel screen with 240g fabric, triple-buckle hinges and 17.7-inch feet.",
+    "skipIf": "You'll move it often; the SUNALLY adds lockable wheels at a similar price."
   },
   {
-    id: "mayoliah-6-panel-120-wide",
-    rank: 5,
-    badge: "Widest Overall",
-    name: "MAYOLIAH 6-Panel Folding Privacy Screen",
-    price: "$89.99",
-    rating: "4.2",
-    reviews: "1,063",
-    imageUrl: "https://m.media-amazon.com/images/I/31WhDsMWr+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0B42BP1HF?tag=theofficejournal-20",
-    description:
-      "At 120 inches wide, MAYOLIAH is the widest divider in this entire list, built from 180g polyester over an iron powder-coated frame. Because it's a genuine 6-panel design, you're not locked into using all 6, it reconfigures down to 2, 3, 4, or 5 panels depending on how much width you actually need.\n\nWider support feet than a typical 4-panel screen help it stay stable across that longer span, and it's backed by a 1-year warranty, a rarity among the fabric screens in this list.\n\nReconfigurable from 2 to 6 panels for different room widths. That's a real strength, but weigh it against the flip side: large, heavy package to unbox and set up.",
-    specs: [
-      "120\"W x 72\"H (6 panels, reconfigurable to 2-6)",
-      "180g polyester + iron powder-coated frame",
-      "Wider support feet",
-      "1-year warranty",
-      "5 configuration options",
+    "id": "mayoliah-6-panel-120-wide",
+    "rank": 5,
+    "badge": "Widest Screen",
+    "name": "MAYOLIAH 6-Panel Folding Privacy Screen",
+    "price": "$89.99",
+    "rating": "4.2",
+    "reviews": "1,063",
+    "imageUrl": "https://m.media-amazon.com/images/I/31WhDsMWr+L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0B42BP1HF?tag=theofficejournal-20",
+    "description": "The MAYOLIAH is the widest divider here at 120 inches, and its panels can be separated to use 2 to 6 at a time, so it adapts to different openings.\n\nIt uses 180g polyester on a powder-coated iron frame, is 72 inches tall, has wider feet and a one-year warranty.\n\nThe full span needs a big room, and it's a larger package to set up.",
+    "specs": [
+      "Size: 120\"W x 72\"H (6 panels, 2–6 configurable)",
+      "Material: 180g polyester + iron frame",
+      "Feet: wider support",
+      "Warranty: 1 year"
     ],
-    pros: [
-      "Widest divider in this list at 120 inches",
-      "Reconfigurable from 2 to 6 panels for different room widths",
-      "1-year warranty, uncommon among fabric screens",
-      "Wider feet add stability across its long span",
+    "pros": [
+      "Widest here",
+      "Reconfigurable",
+      "One-year warranty"
     ],
-    cons: [
-      "Large, heavy package to unbox and set up",
-      "4.2-star rating trails the top picks",
-      "Full 120\" span needs a genuinely wide room",
+    "cons": [
+      "Needs a large room",
+      "Bulky package",
+      "Lighter fabric than the 240g screens"
     ],
-    bestFor: "Large rooms that need the widest possible single divider",
+    "bestFor": "Large rooms, or openings that change size.",
+    "summary": "A 120-inch, 6-panel fabric screen that reconfigures from 2 to 6 panels, with a one-year warranty.",
+    "skipIf": "Your opening is modest; the FDW or HOMSCREENER is smaller and simpler."
   },
   {
-    id: "fdw-wood-mesh-4-panel",
-    rank: 6,
-    badge: "Best-Selling Wood Mesh",
-    name: "FDW 4-Panel Wood Mesh Room Divider",
-    price: "$63.99",
-    rating: "4.4",
-    reviews: "7,623",
-    imageUrl: "https://m.media-amazon.com/images/I/51eN5STzThL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0135AV5XC?tag=theofficejournal-20",
-    description:
-      "FDW's hand-woven wood mesh is the most-reviewed pick in this entire list at over 7,600 ratings, combining an eco wood frame with a classic woven-mesh panel design that reads as more substantial than a fabric screen without the price of a full solid-wood shoji.\n\nAt 15.4 lbs it folds down compactly for storage, and metal hinges hold up better over repeated folding than the plastic hinges found on some cheaper fabric screens.\n\nWorth calling out specifically: hand-woven mesh looks more substantial than plain fabric. The catch is mesh weave offers less full privacy than a solid panel.",
-    specs: [
-      "70.5\"W x 71\"H (4 panels)",
-      "Wood frame + hand-woven mesh",
+    "id": "fdw-wood-mesh-4-panel",
+    "rank": 6,
+    "badge": "Best Value Wood-Look Screen",
+    "name": "FDW 4-Panel Wood Mesh Room Divider",
+    "price": "$63.99",
+    "rating": "4.4",
+    "reviews": "7,623",
+    "imageUrl": "https://m.media-amazon.com/images/I/51eN5STzThL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0135AV5XC?tag=theofficejournal-20",
+    "description": "The FDW offers a wood look for a moderate price: hand-woven mesh panels in a wood frame, with the largest base of buyer feedback in this guide.\n\nIt is 70.5 inches wide and 71 inches tall, uses metal hinges and weighs 15.4 lb, so it folds compactly.\n\nThe mesh weave lets some light and view through, and it's narrower than the widest screens.",
+    "specs": [
+      "Size: 70.5\"W x 71\"H (4 panels)",
+      "Material: wood frame + hand-woven mesh",
+      "Hinges: metal",
+      "Weight: 15.4 lb"
+    ],
+    "pros": [
+      "Most buyer feedback here",
       "Metal hinges",
-      "15.4 lbs",
-      "Foldable, compact storage",
+      "Light and foldable"
     ],
-    pros: [
-      "Most-reviewed pick in this entire list at 7,623 ratings",
-      "Hand-woven mesh looks more substantial than plain fabric",
-      "Metal hinges outlast plastic alternatives",
-      "Lightweight and foldable for storage",
+    "cons": [
+      "Mesh isn't fully opaque",
+      "Narrower coverage",
+      "Lighter-duty wood"
     ],
-    cons: [
-      "Mesh weave offers less full privacy than a solid panel",
-      "Narrower than the widest picks in this list",
-      "Eco wood is lighter-duty than a solid hardwood frame",
+    "bestFor": "A natural-looking screen at a moderate price.",
+    "summary": "A 4-panel woven wood mesh screen with metal hinges, 15.4 lb, with the most buyer feedback here.",
+    "skipIf": "You want an authentic shoji look; the Legacy Decor is solid wood."
+  },
+  {
+    "id": "sunally-wheeled-4-panel",
+    "rank": 7,
+    "badge": "Best for Moving Often",
+    "name": "SUNALLY 4-Panel Room Divider with Lockable Wheels",
+    "price": "$58.49",
+    "rating": "4.2",
+    "reviews": "554",
+    "imageUrl": "https://m.media-amazon.com/images/I/412nDJFwHPL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMDTGYK2?tag=theofficejournal-20",
+    "description": "The SUNALLY is the only divider here on lockable wheels, so it rolls to a new spot and locks, useful for a home office that becomes a guest area at weekends.\n\nIt has 240g polyester on a powder-coated steel frame, 88 inches wide and 72 inches tall, with extended feet.\n\nWheels add bulk to the base, and it has less buyer feedback than the most popular screens.",
+    "specs": [
+      "Size: 88\"W x 72\"H (4 panels)",
+      "Material: 240g polyester + steel",
+      "Mobility: lockable wheels",
+      "Feet: extended"
     ],
-    bestFor: "Buyers who want the most-proven wood-look divider at a mid-range price",
-  },
-  {
-    id: "sunally-wheeled-4-panel",
-    rank: 7,
-    badge: "Only Lockable Wheels",
-    name: "SUNALLY 4-Panel Room Divider with Lockable Wheels",
-    price: "$58.49",
-    rating: "4.2",
-    reviews: "554",
-    imageUrl: "https://m.media-amazon.com/images/I/412nDJFwHPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FMDTGYK2?tag=theofficejournal-20",
-    description:
-      "SUNALLY is the only divider in this list mounted on lockable wheels, letting you roll it to a new position and lock it in place rather than lifting and repositioning a static base. That's a genuine advantage if your room's layout changes often, like a shared home office that becomes a guest space on weekends.\n\n240g polyester fabric over a powder-coated steel frame with extended, widened feet keeps it stable even with the added weight and mobility of the wheels.\n\nEasiest to reposition of any pick here. Set against that, smallest review sample among the fabric screens at 554 ratings. Both matter when comparing it to the other picks here.",
-    specs: [
-      "88\"W x 72\"H (4 panels)",
-      "240g polyester + powder-coated steel",
-      "Lockable wheels (unique in this list)",
-      "Extended, widened feet",
-      "88\" width",
+    "pros": [
+      "Lockable wheels",
+      "Wide coverage",
+      "Heavier fabric"
     ],
-    pros: [
-      "Only pick in this list with lockable wheels",
-      "Easiest to reposition of any pick here",
-      "Thick 240g fabric",
-      "Extended feet keep it stable despite the wheels",
+    "cons": [
+      "Bulkier base",
+      "Less buyer feedback",
+      "Fabric look"
     ],
-    cons: [
-      "Smallest review sample among the fabric screens at 554 ratings",
-      "Wheels add bulk to the base compared to a flat-footed screen",
-      "4.2-star rating trails the top picks",
+    "bestFor": "Rooms whose layout changes during the week.",
+    "summary": "An 88-inch, 4-panel fabric screen on lockable wheels, the only wheeled divider here.",
+    "skipIf": "It will stay in one place; the HOMSCREENER is similar without wheels."
+  },
+  {
+    "id": "homcom-6-panel-pp-woven",
+    "rank": 8,
+    "badge": "Best Woven Screen for Durability",
+    "name": "HOMCOM 6-Panel PP Hand-Woven Room Divider",
+    "price": "$98.99",
+    "rating": "4.5",
+    "reviews": "371",
+    "imageUrl": "https://m.media-amazon.com/images/I/51gHMv9twBL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1V2K8XC?tag=theofficejournal-20",
+    "description": "The HOMCOM swaps paper-fiber weave for polypropylene panels, which should resist tearing and moisture better, on a paulownia wood frame with an arched top.\n\nIt spans 106.3 inches across six panels, is 70.9 inches tall, needs no assembly and has a 90-day warranty.\n\nIt costs more than most screens here at the time of writing, and polypropylene looks more synthetic than natural weave.",
+    "specs": [
+      "Size: 106.3\"W x 70.9\"H (6 panels)",
+      "Material: paulownia frame + PP panels",
+      "Top: arched",
+      "Assembly: none",
+      "Warranty: 90 days"
     ],
-    bestFor: "Rooms where the layout changes often and you need to roll the divider around",
-  },
-  {
-    id: "homcom-6-panel-pp-woven",
-    rank: 8,
-    badge: "Most Durable Woven",
-    name: "HOMCOM 6-Panel PP Hand-Woven Room Divider",
-    price: "$98.99",
-    rating: "4.5",
-    reviews: "371",
-    imageUrl: "https://m.media-amazon.com/images/I/51gHMv9twBL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1V2K8XC?tag=theofficejournal-20",
-    description:
-      "HOMCOM swaps traditional paper-fiber weave for polypropylene panels on a paulownia wood frame, a durability upgrade since PP resists tearing and moisture far better than paper-based woven screens over time. An arched top design gives it a softer, more finished silhouette than a flat-topped screen.\n\nIt requires no assembly and comes with a 90-day warranty, and the 6-panel width gives it enough coverage for a standard room divide without reaching the extreme widths of the MAYOLIAH.\n\nA genuine advantage here is that arched top adds a more finished silhouette. The tradeoff is second most expensive pick in this list.",
-    specs: [
-      "106.3\"W x 70.9\"H (6 panels)",
-      "Paulownia wood frame + PP panels",
-      "Arched top design",
-      "No assembly required",
-      "90-day warranty",
+    "pros": [
+      "Moisture-resistant PP panels",
+      "Wide coverage",
+      "No assembly"
     ],
-    pros: [
-      "PP panels are more durable than traditional paper-fiber weave",
-      "Arched top adds a more finished silhouette",
-      "No assembly required",
-      "Wide 106.3\" coverage",
+    "cons": [
+      "Costs more than most here",
+      "Synthetic look",
+      "Short warranty"
     ],
-    cons: [
-      "Second most expensive pick in this list",
-      "Smaller review sample than the best-selling picks",
-      "PP panels have a more synthetic look than natural wood or rattan",
-    ],
-    bestFor: "Buyers who want a woven-look screen that holds up better than paper-fiber alternatives",
-  },
-];
-
-export interface HowWeEvaluatedItem {
-  title: string;
-  description: string;
-}
-
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  {
-    title: "Freestanding stability",
-    description: "Scored on panel count, hinge type, and foot width, since a freestanding screen relies entirely on its own base and angle to stay upright with no wall support.",
-  },
-  {
-    title: "Material durability",
-    description: "Compared solid wood, rattan-style weave, polypropylene, and polyester fabric panels against how well each resists tearing, moisture, and wear over repeated folding.",
-  },
-  {
-    title: "Setup and portability",
-    description: "Assessed assembly requirements, weight, and how easily one person can fold, move, or store the divider when it's not needed.",
-  },
-  {
-    title: "Light and privacy trade-off",
-    description: "Weighed how much visual privacy each design offers against how much light and air it lets through, from fully opaque fabric to translucent shoji panels.",
-  },
-  {
-    title: "Value for price",
-    description: "Weighed panel count, material quality, and included features like warranties or wheels against price across a range of price points in this comparison.",
-  },
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
-  {
-    "criterion": "Check freestanding stability against your actual floor type, not just an empty room demo",
-    "explanation": "A freestanding divider relies entirely on its own base footprint and panel angle for stability, with no wall support, and how well it actually stays upright varies depending on floor type, a divider that stands solidly on carpet can behave differently on hardwood or tile, and panels catching a draft from an HVAC vent can wobble more than expected.\n\nThis matters because a divider that looks stable in a still product photo can still tip or shift with regular foot traffic brushing past it.\n\nCheck reviews specifically for real-world stability mentions on floor types similar to yours, and check the base footprint width relative to the divider's height, since a taller divider needs a wider base to stay stable."
-  },
-  {
-    "criterion": "Confirm genuine sound dampening if acoustic privacy is the actual goal, not just visual blocking",
-    "explanation": "A room divider marketed as \"acoustic\" should use a real sound-dampening material, typically a felt or fabric-wrapped panel core, that measurably reduces noise transmission, distinct from a simple solid panel or bookcase that only blocks the sightline without doing anything meaningful for sound.\n\nThis distinction matters directly if noise reduction for calls or focused work is your actual goal, since a purely visual divider does very little to dampen adjacent conversation or ambient noise regardless of how solid it looks.\n\nCheck the listing specifically for a stated acoustic material, not just the word \"acoustic\" in the title with no supporting material description."
-  },
-  {
-    "criterion": "Match panel height to your ceiling and the actual privacy level you need",
-    "explanation": "Panel height determines both visual privacy and how much of the room's overall openness the divider preserves, a shorter divider maintains more light and airflow but offers less real privacy, while a taller divider that extends closer to the ceiling gives stronger separation at the cost of feeling like a more permanent wall.\n\nThis matters more in a room with a high ceiling, where a standard-height divider can look and feel undersized, and less in a room with a standard 8-foot ceiling where most divider heights work proportionally.\n\nCheck the listed divider height against your room's actual ceiling height and how much visual openness you want to preserve, not just the divider's general size category."
-  },
-  {
-    "criterion": "Weigh assembly and mounting requirements against whether you're renting or own the space",
-    "explanation": "Room dividers span a wide range of setup requirements, from a no-drill freestanding panel that requires zero installation to a wall-mounted or track-based divider requiring drilling and potentially professional installation, and which one is appropriate depends heavily on whether you're in a rented space where drilling isn't an option, or a space you own where a more permanent installation is fine.\n\nThis matters directly for a renter, discovering after purchase that a divider requires wall-mounting hardware is a real and avoidable problem in a space where drilling isn't allowed.\n\nCheck the listing specifically for the mounting method, freestanding, no-drill, or requiring wall anchors, before ordering, especially in a rented space."
-  },
-  {
-    "criterion": "Consider mobility needs if the divider will move between rooms or configurations regularly",
-    "explanation": "A divider on wheels or casters can be repositioned easily between rooms or reconfigured for different layouts throughout the week, useful for anyone who needs flexible zoning rather than a permanent room split, but wheels also mean the divider is inherently less stable than a fixed-base design and can shift underfoot if bumped.\n\nThis matters more if you genuinely need to move the divider often, like separating a home office from a living space only during work hours, less if it'll stay in one position long-term.\n\nCheck whether casters are lockable to prevent unwanted movement once positioned, and weigh mobility against the reduced stability it typically brings."
+    "bestFor": "A woven-look screen for a humid or busy room.",
+    "summary": "A 6-panel polypropylene woven screen on a paulownia frame, 106.3 inches wide, with an arched top.",
+    "skipIf": "You prefer natural materials; the FDW or RHF looks less synthetic."
   }
 ];
 
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
+export const howWeEvaluated = [
+  {
+    "title": "Stability",
+    "description": "We compared panel count, hinges, feet and stiffeners."
+  },
+  {
+    "title": "Size",
+    "description": "We compared flat width and height."
+  },
+  {
+    "title": "Material",
+    "description": "We compared wood, woven, polypropylene and fabric panels."
+  },
+  {
+    "title": "Portability and price",
+    "description": "We compared weight, wheels, assembly and prices at the time of writing."
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "Plan for the zigzag",
+    "explanation": "Multi-panel screens need to angle to stand, so they cover less than their flat width. Measure the opening and allow for the fold."
+  },
+  {
+    "criterion": "Check the base",
+    "explanation": "Wider feet (HOMSCREENER, MAYOLIAH, SUNALLY) and stiffeners (RANTILA) add stability; consider floor type and foot traffic."
+  },
+  {
+    "criterion": "Decide on light versus privacy",
+    "explanation": "Shoji and mesh let light through; polyester and HDPE block more."
+  },
+  {
+    "criterion": "Weigh mobility",
+    "explanation": "The SUNALLY rolls; the RANTILA (8.8 lb) and FDW (15.4 lb) are easy to carry."
+  }
+];
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Panel Count",
+    "subheading": "By priority",
     "table": {
       "headers": [
-        "Your priority",
-        "Recommended pick"
+        "Priority",
+        "Consider"
       ],
       "rows": [
         [
-          "6-panel width",
-          "Legacy Decor 6"
+          "Light-filtering shoji",
+          "Legacy Decor"
         ],
         [
-          "6-panel width",
-          "MAYOLIAH 6"
+          "Handmade look for less",
+          "RHF"
         ],
         [
-          "6-panel width",
-          "HOMCOM 6"
+          "Lightest, simplest",
+          "RANTILA"
+        ],
+        [
+          "Opaque, wide, fixed",
+          "HOMSCREENER"
+        ],
+        [
+          "Widest, reconfigurable",
+          "MAYOLIAH"
+        ],
+        [
+          "Wood look, most feedback",
+          "FDW"
+        ],
+        [
+          "Moves often",
+          "SUNALLY"
+        ],
+        [
+          "Moisture-resistant weave",
+          "HOMCOM"
         ]
       ]
     }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Under $31",
-          "RANTILA Single Large Panel Room Divider"
-        ],
-        [
-          "Up to $179",
-          "Legacy Decor 6"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "On Wheels vs Fixed Base",
-    "cards": [
-      {
-        "label": "On wheels",
-        "text": "Repositionable between rooms or layouts, worth locking casters once positioned. In this comparison: SUNALLY 4."
-      },
-      {
-        "label": "Fixed base",
-        "text": "More stable for a divider that stays in one spot long-term. In this comparison: Legacy Decor 6, RHF 6 ft. 4, RANTILA Single Large Panel Room Divider, HOMSCREENER 4, MAYOLIAH 6, FDW 4, HOMCOM 6."
-      }
-    ],
-    "note": "Default to a fixed base unless you genuinely need to reposition the divider often."
-  },
-  {
-    "subheading": "By Panel Height",
-    "note": "Check each pick's listed panel height against your room's ceiling and the actual privacy level you need before buying. FDW 4 is the most-reviewed option here if you want the safer bet."
-  },
-  {
-    "subheading": "For a Rented Space Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
-      },
-      {
-        "label": "In this comparison",
-        "text": "FDW 4 is worth checking against its listed mounting method before buying, given its strong review base."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need real acoustic dampening or a taller, more stable divider, where Legacy Decor 6's material and construction give real headroom over the cheaper picks."
-      },
-      {
-        "label": "Save if",
-        "text": "You just need light visual separation without noise or stability concerns, where RANTILA Single Large Panel Room Divider covers the same job at a lower price."
-      }
-    ]
   }
 ];
 
-export const faq: FaqItem[] = [
+export const faq = [
   {
-    q: "How do freestanding room dividers stay up without a wall?",
-    a: "They rely on their own base design rather than wall support. Multi-panel screens stay upright by angling their panels into a zigzag shape, which creates lateral stability, while single-panel designs like the RANTILA use a wider steel-reinforced foot instead.",
+    "q": "How do freestanding dividers stay up?",
+    "a": "Multi-panel screens stand by angling into a zigzag; single panels like the RANTILA use wide, stiffened feet."
   },
   {
-    q: "How many panels should a freestanding room divider have?",
-    a: "More panels let the screen fold into a tighter, more stable zigzag and take up less floor depth for a given width, which is why 6-panel screens like the Legacy Decor Shoji or HOMCOM tend to feel sturdier at wide spans than a 4-panel screen covering the same width.",
+    "q": "How many panels should I get?",
+    "a": "More panels cover more width and fold into more positions. Choose based on the width you need to cover once angled."
   },
   {
-    q: "Which freestanding room divider is easiest to move?",
-    a: "The SUNALLY 4-Panel with Lockable Wheels is the only pick built for frequent repositioning, since it rolls and locks in place. For occasional moves without wheels, the RANTILA Single Panel at 8.8 lbs and the FDW Wood Mesh at 15.4 lbs are both light enough for one person to carry.",
+    "q": "Which is easiest to move?",
+    "a": "The SUNALLY rolls on lockable wheels. The RANTILA and FDW are light enough to carry."
   },
   {
-    q: "Do fabric room dividers sag or lose shape over time?",
-    a: "Lower-grade fabric can sag or wrinkle with repeated folding, which is why the thicker 240g polyester used in the HOMSCREENER and SUNALLY picks holds its shape better than thinner fabric screens. PP-woven panels, like HOMCOM's, resist sagging and moisture even better than polyester.",
+    "q": "Do fabric screens sag?",
+    "a": "Heavier fabric, like the 240g polyester on the HOMSCREENER and SUNALLY, is designed to hold shape better than thinner fabric."
   },
   {
-    q: "What's the actual footprint of a screen once it's set up?",
-    a: "A screen's listed width is measured flat and unfolded. Once you angle the panels into the zigzag needed for freestanding stability, the real footprint shrinks by roughly 30-40% compared to that flat measurement, so leave extra room when planning where it will go.",
-  },
+    "q": "How much space does a set-up screen take?",
+    "a": "Less width and more depth than its flat measurement. Unfold it in the space to check before settling on a position."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-room-divider-studio-apartment", title: "Best Room Dividers for Studio Apartments (2026)" },
-  { href: "/guide/best-room-divider-with-shelves", title: "Best Room Dividers with Shelves (2026)" },
-  { href: "/guide/best-room-divider-bookcase", title: "Best Room Divider Bookcases (2026)" },
+export const bottomLine = [
+  "For a light, classic divider, the Legacy Decor shoji is worth paying more for; the FDW gives a wood look for less with the most buyer feedback, and the RHF is the low-cost decorative option.",
+  "For opaque privacy, the HOMSCREENER covers a wide opening and the SUNALLY adds wheels. The MAYOLIAH suits the largest rooms, and the RANTILA is the lightest, simplest screen to move."
+];
+
+export const sectionHeadings = {
+  "howWeChose": "How We Chose These Dividers",
+  "whatToLookFor": "What to Look for in a Freestanding Room Divider",
+  "howToChoose": "How to Choose a Freestanding Divider"
+};
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-room-divider-studio-apartment",
+    "title": "Best Room Dividers for Studio Apartments (2026)"
+  },
+  {
+    "href": "/guide/best-room-divider-with-shelves",
+    "title": "Best Room Dividers with Shelves (2026)"
+  },
+  {
+    "href": "/guide/best-room-divider-bookcase",
+    "title": "Best Room Divider Bookcases (2026)"
+  }
 ];

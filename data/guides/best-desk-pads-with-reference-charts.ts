@@ -1,339 +1,397 @@
-export const guideSlug = "best-desk-pads-with-reference-charts";
-export const guideTitle = "8 Best Desk Pads with Reference Charts in 2026";
-export const metaTitle = "Best Desk Pads with Reference Charts";
-export const metaDescription = "We compared desk pad with excel shortcuts models by verified specs and real-world tradeoffs, not marketing claims alone.";
-export const mainKeyword = "desk pad with excel shortcuts";
-export const introParagraphs = [
-  "Across best desk pads with reference charts, range widely in real edge durability, given that differences show up in daily use.",
-  "What separates these picks is verified edge durability, not marketing claims, since these separate real capability from claims."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41ju+Cq82hL._SL500_.jpg";
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
+export const guideSlug = "best-desk-pads-with-reference-charts";
+
+export const guideTitle = "The Best Desk Pads with Printed Planning Grids and Calendars";
+
+export const breadcrumbLabel = "Best Desk Pads with Reference Charts";
+
+export const metaTitle = "Best Desk Pads with Reference Charts and Calendars (2026)";
+
+export const metaDescription = "Few desk pads include printed reference charts. We compared four calendar desk pads, which give dates at a glance, against four plain leather pads you can pair with your own chart.";
+
+export const mainKeyword = "desk pad with excel shortcuts";
+
+export const introParagraphs = [
+  "If you want information printed where you work, the closest thing among these picks is a desk pad calendar: a large paper grid of dates on the desk, some with extras such as Julian dates. None of the eight listings here describes printed reference charts such as conversion tables or shortcut sheets.",
+  "So this guide splits in two. Four calendar pads put dates and planning space in front of you; four leather or PU desk pads protect the desk, and you can keep your own reference sheet beside or under a clear protector.",
+  "Our comparison is based on listed sizes, date ranges and materials, not hands-on testing. Calendar pads are dated, so check the months covered before buying."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const readTime = "11 min";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41ju+Cq82hL._SL500_.jpg";
 
 export const products: GuideProduct[] = [
   {
-    id: "best-desk-pads-with-reference-charts-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Desk Calendar 2026-2027 with Desk Mat, 22\" x 17\" Large Desk Pad Calendar Runs",
-    price: "$21.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41ju+Cq82hL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FLPNDP8T?tag=theofficejournal-20",
-    description: "Desk Calendar 2026-2027 with Desk Mat, 22\" x 17\" Large Desk Pad Calendar Runs is the strongest all-around choice here. This large desk calendar covers 18 months from july 2026 to december 2027. This large desk calendar (22x17 inches) offers ample daily planning space.\n\nAgainst Elizo Real Leather Desk Mat Set (32x16) Large Desk Cover Desk Blotter Protector, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nChoose this if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Large desk calendar covers 18 months from july 2026 to december", "Large desk calendar (22x17 inches) offers ample daily planning space", "Reusable double-layer PU leather backboard protects the desktop from scratches and stains"],
-    pros: ["Large desk calendar covers 18 months from july 2026 to december", "Large desk calendar (22x17 inches) offers ample daily planning space", "Reusable double-layer PU leather backboard protects the desktop from scratches and stains", "Every page comes equipped with a to-do list and dedicated notes space"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
+    "id": "best-desk-pads-with-reference-charts-1",
+    "rank": 1,
+    "badge": "Best Calendar Pad with Backboard",
+    "name": "Desk Calendar 2026-2027 with Desk Mat, 22\" x 17\" Large Desk Pad Calendar Runs",
+    "price": "$21.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41ju+Cq82hL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLPNDP8T?tag=theofficejournal-20",
+    "description": "This calendar pad combines planning and desk protection: an 18-month paper calendar from July 2026 to December 2027, 22 x 17 inches, on a reusable double-layer PU leather backboard.\n\nWhen the calendar runs out, the backboard can carry a new pad. Paper pages don't suit a mouse, so plan to keep your mouse to one side.",
+    "specs": [
+      "Size: 22 x 17\"",
+      "Dates: July 2026–December 2027 (18 months)",
+      "Backboard: reusable double-layer PU leather"
+    ],
+    "pros": [
+      "Long 18-month range",
+      "Reusable backboard",
+      "Large planning grid"
+    ],
+    "cons": [
+      "Paper surface not for mousing",
+      "Dated product",
+      "Brand not named"
+    ],
+    "bestFor": "Planning at a glance on a desk you also want protected.",
+    "summary": "A 22 x 17-inch, 18-month calendar (July 2026 to December 2027) on a reusable PU leather backboard.",
+    "skipIf": "You only need a calendar year; the AT-A-GLANCE covers 2027 for less."
   },
   {
-    id: "best-desk-pads-with-reference-charts-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "Elizo Real Leather Desk Mat Set (32x16) Large Desk Cover Desk Blotter Protector",
-    price: "$39.97",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41MXmxgXWXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BKTZGQ41?tag=theofficejournal-20",
-    description: "Elizo Real Leather Desk Mat Set (32x16) Large Desk Cover Desk Blotter Protector is a strong alternative worth comparing directly against the top pick. Our exclusive full grain leather desk mat and stylish desk accessories will protect your desk in style. At an unmatched thickness of 2mm our large desk pad is like no others.\n\nHeld up against Desk Calendar 2026-2027 with Desk Mat, 22\" x 17\" Large Desk Pad Calendar Runs, both cover the basics equally well, what actually separates them is amazing desk blotter pad plus a beautiful leather tray and leather coaster set.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Exclusive full grain leather desk mat and stylish desk accessories will protect your desk in style", "Engineered luxury", "Leather tray coaster"],
-    pros: ["Exclusive full grain leather desk mat and stylish desk accessories will protect your desk in style", "Engineered luxury", "Leather tray coaster", "Stylish & sleek gift set"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-reference-charts-2",
+    "rank": 2,
+    "badge": "Best Full-Grain Leather Set",
+    "name": "Elizo Real Leather Desk Mat Set (32x16) Large Desk Cover Desk Blotter Protector",
+    "price": "$39.97",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41MXmxgXWXL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKTZGQ41?tag=theofficejournal-20",
+    "description": "The Elizo set is a real leather option: a full-grain leather desk mat, 32 x 16 inches and 2mm thick, with matching desk accessories including a leather tray coaster.\n\nIt has no printed charts or calendar; it's here as a durable base for your own reference sheets.",
+    "specs": [
+      "Size: 32 x 16\"",
+      "Material: full-grain leather, 2mm",
+      "Accessories: matching set incl. tray coaster"
+    ],
+    "pros": [
+      "Real leather",
+      "Matching accessories",
+      "Stated thickness"
+    ],
+    "cons": [
+      "No printed information",
+      "Costs more than PU pads",
+      "Leather needs care"
+    ],
+    "bestFor": "A leather desk surface with coordinated accessories.",
+    "summary": "A 32 x 16-inch, 2mm full-grain leather desk mat with matching accessories including a coaster.",
+    "skipIf": "You want dates on the desk; a calendar pad suits that."
   },
   {
-    id: "best-desk-pads-with-reference-charts-3",
-    rank: 3,
-    badge: "Best Value",
-    name: "Taja Desk Calendar 2026-2027",
-    price: "$7.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51Hq1rYzi0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GWDYQBHX?tag=theofficejournal-20",
-    description: "Taja Desk Calendar 2026-2027 is the most affordable pick here that still clears the capability floor for this category. 2027 Desk calendar (17\" x 12\") provides generous space for monthly planning and organization. Each daily grid measures a spacious 2.3\" x 2.3\", offering plenty of room for tasks, appointments, and reminders.\n\nDesk Calendar 2026-2027 with Desk Mat, 22\" x 17\" Large Desk Pad Calendar Runs is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis one is the right call if you want a genuinely capable pick without paying for headroom you won't use. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Stay on track with long-term planning", "Ample space & thoughtful layout", "Premium 120 gsm paper: crafted from high-quality 120 gsm paper"],
-    pros: ["Stay on track with long-term planning", "Ample space & thoughtful layout", "Premium 120 gsm paper: crafted from high-quality 120 gsm paper", "Protected & sturdy for daily use"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
+    "id": "best-desk-pads-with-reference-charts-3",
+    "rank": 3,
+    "badge": "Lowest-Cost Calendar",
+    "name": "Taja Desk Calendar 2026-2027",
+    "price": "$7.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51Hq1rYzi0L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWDYQBHX?tag=theofficejournal-20",
+    "description": "The Taja calendar is the least expensive option here: a 17 x 12-inch 2027 calendar with 2.3 x 2.3-inch daily squares on 120gsm paper.\n\nIt's smaller than a full desk pad, so it sits beside the keyboard rather than under it.",
+    "specs": [
+      "Size: 17 x 12\"",
+      "Dates: 2027",
+      "Daily squares: 2.3 x 2.3\"",
+      "Paper: 120gsm"
+    ],
+    "pros": [
+      "Lowest price here",
+      "Heavier paper",
+      "Clear daily squares"
+    ],
+    "cons": [
+      "Small",
+      "Paper only",
+      "Dated product"
+    ],
+    "bestFor": "A compact monthly planner on the desk.",
+    "summary": "A 17 x 12-inch 2027 calendar with 2.3-inch daily squares on 120gsm paper.",
+    "skipIf": "You want the calendar under your keyboard; the 22 x 17-inch pad is larger."
   },
   {
-    id: "best-desk-pads-with-reference-charts-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "Gallaway Leather Desk Mat",
-    price: "$29.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41OodagX1OL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07QT81VRS?tag=theofficejournal-20",
-    description: "Gallaway Leather Desk Mat is a strong alternative worth comparing directly against the top pick. Make your work space comfortable with even stitching workmanship. The PU leather top of this keyboard mat keeps things comfortably classy, while the non-slip felt base stops the mouse mat from sliding around your glass or wooden desk.\n\nDesk Calendar 2026-2027 with Desk Mat, 22\" x 17\" Large Desk Pad Calendar Runs is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Elevate your space", "Form and function", "We will take care"],
-    pros: ["Elevate your space", "Form and function", "We will take care", "Class & style included"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-reference-charts-4",
+    "rank": 4,
+    "badge": "Best PU Leather Pad with Felt Base",
+    "name": "Gallaway Leather Desk Mat",
+    "price": "$29.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41OodagX1OL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07QT81VRS?tag=theofficejournal-20",
+    "description": "The Gallaway is a stitched PU leather desk mat with a non-slip felt base that Gallaway says stops it sliding on glass or wooden desks.\n\nIt has no printed content, and its size isn't given in the listing summary.",
+    "specs": [
+      "Material: PU leather, stitched edges",
+      "Base: non-slip felt",
+      "Size: check listing"
+    ],
+    "pros": [
+      "Stitched edges",
+      "Felt base for glass desks",
+      "Moderate price"
+    ],
+    "cons": [
+      "No printed information",
+      "Size not stated here",
+      "PU rather than leather"
+    ],
+    "bestFor": "A glass or wood desk that needs a non-slip pad.",
+    "summary": "A stitched PU leather desk mat with a non-slip felt base for glass or wood desks.",
+    "skipIf": "You want a stated size; the Aothia lists 15.7-inch depth."
   },
   {
-    id: "best-desk-pads-with-reference-charts-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "AT-A-GLANCE 2027 Desk Pad Calendar",
-    price: "$11.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41hLTxuy2ZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GVGSF9WV?tag=theofficejournal-20",
-    description: "AT-A-GLANCE 2027 Desk Pad Calendar is a strong alternative worth comparing directly against the top pick. This monthly desk pad calendar covers 12 months from january 2027, december 2027 with julian dates. High-quality paper features ink bleed resistance.\n\nPages are perforated for clean tear off at the end of each month, a detail worth checking closely before choosing between this and Desk Calendar 2026-2027 with Desk Mat, 22\" x 17\" Large Desk Pad Calendar Runs.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Monthly desk pad calendar covers 12 months from january", "High-quality paper features ink bleed resistance", "Monthly pages have ruled daily blocks"],
-    pros: ["Monthly desk pad calendar covers 12 months from january", "High-quality paper features ink bleed resistance", "Monthly pages have ruled daily blocks", "Pages are perforated for clean tear off at the end of each month"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-reference-charts-5",
+    "rank": 5,
+    "badge": "Best Calendar with Julian Dates",
+    "name": "AT-A-GLANCE 2027 Desk Pad Calendar",
+    "price": "$11.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41hLTxuy2ZL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVGSF9WV?tag=theofficejournal-20",
+    "description": "The AT-A-GLANCE pad is the closest thing here to a reference chart: its 2027 monthly pages include Julian dates, useful in logistics, manufacturing and scheduling, with ruled daily blocks.\n\nAT-A-GLANCE says its paper resists ink bleed. It covers January to December 2027.",
+    "specs": [
+      "Dates: January–December 2027",
+      "Extras: Julian dates",
+      "Daily blocks: ruled",
+      "Paper: ink-bleed resistant (per manufacturer)"
+    ],
+    "pros": [
+      "Julian dates",
+      "Established brand",
+      "Ruled blocks"
+    ],
+    "cons": [
+      "Paper surface not for mousing",
+      "Size not stated here",
+      "Dated product"
+    ],
+    "bestFor": "Workplaces that use Julian dates.",
+    "summary": "AT-A-GLANCE's 2027 monthly desk pad calendar with Julian dates and ruled daily blocks.",
+    "skipIf": "Your year starts mid-2026; the 18-month calendar pad covers that."
   },
   {
-    id: "best-desk-pads-with-reference-charts-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "Aothia Leather Office Desk Pad Protector",
-    price: "$13.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/4167ktE912L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B082F5ZLS5?tag=theofficejournal-20",
-    description: "Aothia Leather Office Desk Pad Protector is a strong alternative worth comparing directly against the top pick. Made of durable PU leather material, which protects your desk from scratches, stains, spills, heat and scuffs. X 15.7 inch size is large enough to accommodate your laptop, mouse and keyboard.\n\nWeighing this against Desk Calendar 2026-2027 with Desk Mat, 22\" x 17\" Large Desk Pad Calendar Runs, we are dedicated to providing our customers with high quality products and superior service ends up being the detail that matters most for most buyers.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Protect your desk", "Multifunctional desk pad", "Special non-slip design"],
-    pros: ["Protect your desk", "Multifunctional desk pad", "Special non-slip design", "Waterproof and easy to clean"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-reference-charts-6",
+    "rank": 6,
+    "badge": "Best Low-Cost PU Pad",
+    "name": "Aothia Leather Office Desk Pad Protector",
+    "price": "$13.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/4167ktE912L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B082F5ZLS5?tag=theofficejournal-20",
+    "description": "The Aothia is a simple PU leather protector described as guarding against scratches, stains, spills, heat and scuffs, large enough for a laptop, keyboard and mouse, with a non-slip design.\n\nIt has no printed content; it's a low-cost base surface.",
+    "specs": [
+      "Material: PU leather",
+      "Depth: 15.7\"",
+      "Non-slip design"
+    ],
+    "pros": [
+      "Low price",
+      "Wipe-clean",
+      "Covers keyboard and mouse"
+    ],
+    "cons": [
+      "No printed information",
+      "Full width not stated in summary",
+      "Plain design"
+    ],
+    "bestFor": "An inexpensive protective pad.",
+    "summary": "A PU leather desk protector 15.7 inches deep with a non-slip design.",
+    "skipIf": "You want real leather; the Elizo or YSAGi uses it."
   },
   {
-    id: "best-desk-pads-with-reference-charts-7",
-    rank: 7,
-    badge: "Best Premium Pick",
-    name: "YSAGi Genuine Leather Desk Mat",
-    price: "$49.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41XSshKtErL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D3M2YT2P?tag=theofficejournal-20",
-    description: "YSAGi Genuine Leather Desk Mat is the premium option here, positioned above the rest on price. Our experienced craftsman went through multiple crafts, tried again and again and finally prepared ysagi hand craft premium leather desk mat to yours. Rubber base with anti-slip lines on the bottom, cling to the desk.\n\nDesk Calendar 2026-2027 with Desk Mat, 22\" x 17\" Large Desk Pad Calendar Runs lands in a similar spot overall, but the deciding factor between the two is 4Mm thickness designed, super durable and sturdy, and very soft feeling.\n\nThis makes sense for anyone who are willing to spend the most in this comparison for the fuller feature set that comes with it. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Genuine cow leather", "Anti-slip rubber base", "Large thick desk pad"],
-    pros: ["Genuine cow leather", "Anti-slip rubber base", "Large thick desk pad", "Manual stitched craft"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
+    "id": "best-desk-pads-with-reference-charts-7",
+    "rank": 7,
+    "badge": "Best Genuine Leather Pad",
+    "name": "YSAGi Genuine Leather Desk Mat",
+    "price": "$49.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41XSshKtErL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3M2YT2P?tag=theofficejournal-20",
+    "description": "The YSAGi Genuine Leather mat uses cow leather, which YSAGi says is handcrafted, on a rubber base with anti-slip lines. It is described as large and thick.\n\nIt was the most expensive pad here at the time of writing and has no printed content.",
+    "specs": [
+      "Material: genuine cow leather",
+      "Base: anti-slip rubber",
+      "Size and thickness: check listing"
+    ],
+    "pros": [
+      "Genuine leather",
+      "Rubber anti-slip base",
+      "Thick pad"
+    ],
+    "cons": [
+      "Most expensive here",
+      "No printed information",
+      "Exact size not stated here"
+    ],
+    "bestFor": "A long-term leather desk surface.",
+    "summary": "YSAGi's genuine cow leather desk mat with anti-slip rubber base, the most expensive here.",
+    "skipIf": "Budget matters; the Aothia is a fraction of the price."
   },
   {
-    id: "best-desk-pads-with-reference-charts-8",
-    rank: 8,
-    badge: "Also Worth Considering",
-    name: "Aesthetic 2026-2027 Desk Calendar",
-    price: "$8.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31xMdjEIPZL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GQT9L1RZ?tag=theofficejournal-20",
-    description: "Aesthetic 2026-2027 Desk Calendar is a strong alternative worth comparing directly against the top pick. Be organized & stay on top of things 2026-2027: with the gorgeous desk calendar running from 2026/06 to 2027/12 planning ahead & boosting your productivity is super easy! Besides being a premium planning tool, the desk calendars are great decoration for your desk or wall; the modern minimalistic black & white designs add a relaxed atmosphere to your office, home or classroom.\n\nWeighing this against Desk Calendar 2026-2027 with Desk Mat, 22\" x 17\" Large Desk Pad Calendar Runs, a durable birthday calendar so you can plan easily thanks to the high-quality materials ends up being the detail that matters most for most buyers.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Be organized & stay on top of things 2026-2027", "Your unique academic wall calendar 2026 and 2027: use", "Clean minimalistic design"],
-    pros: ["Be organized & stay on top of things 2026-2027", "Your unique academic wall calendar 2026 and 2027: use", "Clean minimalistic design", "Flexible use"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-reference-charts-8",
+    "rank": 8,
+    "badge": "Minimal Design Calendar",
+    "name": "Aesthetic 2026-2027 Desk Calendar",
+    "price": "$8.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31xMdjEIPZL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQT9L1RZ?tag=theofficejournal-20",
+    "description": "The Aesthetic calendar runs from June 2026 to December 2027 in a minimalist black-and-white design, and can be used on a desk or a wall.\n\nIts size isn't stated in the listing summary, so check whether it fits under your keyboard.",
+    "specs": [
+      "Dates: June 2026–December 2027",
+      "Design: black and white, minimalist",
+      "Use: desk or wall"
+    ],
+    "pros": [
+      "Long date range",
+      "Minimal design",
+      "Low price"
+    ],
+    "cons": [
+      "Size not stated here",
+      "Paper only",
+      "Dated product"
+    ],
+    "bestFor": "A clean, minimal planning calendar.",
+    "summary": "A black-and-white June 2026 to December 2027 calendar that also works on a wall.",
+    "skipIf": "You want a backboard to protect the desk; the 22 x 17-inch calendar pad includes one."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "Cloth, Leather, or Vinyl Surface Material",
-    "description": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface."
+    "title": "Printed content",
+    "description": "We checked what each listing prints on the surface."
   },
   {
-    "title": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "description": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface."
+    "title": "Size and range",
+    "description": "We compared dimensions and calendar date ranges."
   },
   {
-    "title": "Edge Stitching and Curl Resistance Over Time",
-    "description": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage."
+    "title": "Material",
+    "description": "We compared paper, PU leather and genuine leather."
   },
   {
-    "title": "Base Grip on Your Specific Desk Surface",
-    "description": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface."
-  },
-  {
-    "title": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "description": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Surface Material",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Soft feel for typing",
-          "Taja Desk Calendar 2026-2027"
-        ],
-        [
-          "Balance of feel and durability",
-          "Desk Calendar 2026-2027 with Desk Mat, 22\" x 17\" Large Desk Pad Calendar Runs"
-        ],
-        [
-          "Wipeable, polished look",
-          "YSAGi Genuine Leather Desk Mat"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Taja Desk Calendar 2026-2027"
-        ],
-        [
-          "Mid-range pick",
-          "Elizo Real Leather Desk Mat Set (32x16) Large Desk Cover Desk Blotter Protector"
-        ],
-        [
-          "Higher budget",
-          "YSAGi Genuine Leather Desk Mat"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Cloth vs Leather",
-    "cards": [
-      {
-        "label": "Cloth (e.g. Taja Desk Calendar 2026-2027)",
-        "text": "Softer feel, absorbs spills, shows staining faster."
-      },
-      {
-        "label": "Leather/PU (e.g. YSAGi Genuine Leather Desk Mat)",
-        "text": "Wipes clean easily, more polished look, higher price."
-      }
-    ],
-    "note": "Match this to how much coffee and food realistically ends up near your desk."
-  },
-  {
-    "subheading": "By Setup Size",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Single keyboard and mouse",
-          "Desk Calendar 2026-2027 with Desk Mat, 22\" x 17\" Large Desk Pad Calendar Runs"
-        ],
-        [
-          "Dual monitor, wider setup",
-          "Check for extra-large or extended sizing"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Daily Heavy Use Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Desk Calendar 2026-2027 with Desk Mat, 22\" x 17\" Large Desk Pad Calendar Runs is worth checking against its specific edge construction before assuming any desk pad holds up the same."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want a wipeable, longer-lasting surface with a more polished look, where YSAGi Genuine Leather Desk Mat justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want straightforward daily protection and comfort, where Taja Desk Calendar 2026-2027 already covers the job at the lowest price here."
-      }
-    ]
+    "title": "Price",
+    "description": "We compared prices at the time of writing."
   }
 ];
 
 export const buyingCriteria = [
   {
-    "criterion": "Cloth, Leather, or Vinyl Surface Material",
-    "explanation": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface. PU leather and vinyl desk pads sacrifice a little of that soft feel for a surface you can actually wipe clean, and genuine leather sits between the two, developing a natural patina over years of use rather than just showing wear. Match the material to how much daily abuse (coffee, food, ink) the pad will realistically see."
+    "criterion": "Check what's actually printed",
+    "explanation": "None of these lists reference charts. Calendar pads show dates; the AT-A-GLANCE adds Julian dates."
   },
   {
-    "criterion": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "explanation": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface. Lay your keyboard and mouse out in your actual working position, measure the combined width, and add about 4 inches of margin on each side; a 31 by 15 inch pad is a reasonable starting point for most single-monitor setups, but wider dual-monitor arrangements often need more."
+    "criterion": "Check the date range",
+    "explanation": "Ranges here run from calendar-year 2027 to 18 months from mid-2026."
   },
   {
-    "criterion": "Edge Stitching and Curl Resistance Over Time",
-    "explanation": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage. A stitched edge holds its flat shape considerably longer, while an unstitched raw-cut edge is more prone to fraying on cloth pads specifically, in addition to curling. This detail matters more the longer you expect to keep using the same pad daily."
+    "criterion": "Plan for the mouse",
+    "explanation": "Paper calendar surfaces aren't made for mousing; keep a mouse pad to one side."
   },
   {
-    "criterion": "Base Grip on Your Specific Desk Surface",
-    "explanation": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface. If your desk has a slicker finish, look specifically for a backing material designed for that surface type."
-  },
+    "criterion": "For your own charts, choose a durable base",
+    "explanation": "A leather or PU pad protects the desk; keep your reference sheet beside it."
+  }
+];
+
+export const howToChoose: HowToChooseSection[] = [
   {
-    "criterion": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "explanation": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there. The price jump from cloth to leather buys a wipeable, longer-lasting surface and often a more polished look for a shared or client-facing workspace, but a cloth pad remains the better value if the desk pad's job is purely functional cushioning and mouse tracking."
+    "subheading": "By need",
+    "table": {
+      "headers": [
+        "Need",
+        "Consider"
+      ],
+      "rows": [
+        [
+          "Julian dates",
+          "AT-A-GLANCE 2027"
+        ],
+        [
+          "18-month calendar with backboard",
+          "22 x 17\" calendar pad"
+        ],
+        [
+          "Small, low-cost calendar",
+          "Taja"
+        ],
+        [
+          "Minimal calendar",
+          "Aesthetic 2026–2027"
+        ],
+        [
+          "Genuine leather base",
+          "Elizo or YSAGi"
+        ],
+        [
+          "Low-cost PU base",
+          "Aothia or Gallaway"
+        ]
+      ]
+    }
   }
 ];
 
 export const faq = [
   {
-    "q": "What's the difference between a desk pad and a mouse pad?",
-    "a": "A desk pad covers most or all of your desk surface (keyboard, mouse, and often a writing area), while a mouse pad covers just the small area under your mouse; a desk pad protects more of the desk and gives your mouse more room to move but costs more and takes up the whole surface."
+    "q": "Do any include reference charts?",
+    "a": "Not among these listings. The AT-A-GLANCE calendar includes Julian dates, the nearest to a printed reference."
   },
   {
-    "q": "What size desk pad do I need?",
-    "a": "Measure your keyboard and mouse laid out side by side in your actual typing position and add roughly 4 inches of margin on each side; around 31 by 15 inches is a reasonable starting size for a single-monitor setup, though wider dual-monitor arrangements often need more."
+    "q": "Can I use a mouse on a calendar pad?",
+    "a": "Paper isn't designed for it. Keep a mouse pad beside the calendar."
   },
   {
-    "q": "Is leather or cloth better for a desk pad?",
-    "a": "It depends on priorities: cloth feels better to write and mouse on but absorbs spills and shows staining faster, while leather (or PU leather/vinyl) wipes clean easily and looks more polished, at a higher price point ($30 to $60-plus versus $15 to $30 for cloth)."
+    "q": "What date range do I need?",
+    "a": "Match it to your planning year; 18-month pads starting mid-2026 suit academic years."
   },
   {
-    "q": "Will my desk pad curl up at the corners over time?",
-    "a": "It's more likely without reinforced or stitched edges, especially on cloth pads that get rolled up for travel or storage; a stitched edge holds its flat shape considerably longer than an unstitched, raw-cut edge."
+    "q": "Leather or PU?",
+    "a": "Genuine leather, like the Elizo or YSAGi, costs more; PU wipes clean for less."
   },
   {
-    "q": "Will a desk pad slide around on my desk?",
-    "a": "It depends on matching the backing material to your desk's surface: a rubber non-slip base grips laminate and wood reliably but can slide more on glass or a glossy lacquered desktop, so check the backing type against your specific desk finish."
-  },
-  {
-    "q": "Can a desk pad double as a mouse pad and a keyboard mat?",
-    "a": "Yes, that's the main appeal of a desk pad over a separate mouse pad, since a properly sized one covers both your keyboard and mouse (and often a writing area) on one continuous surface, avoiding the seam between two separate smaller pads."
+    "q": "Can I keep my own chart on a leather pad?",
+    "a": "Yes, beside the pad or under a clear protector, if you use one."
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-leather-desk-pads","title":"Best Leather Desk Pads"},{"href":"/guide/best-large-desk-pads","title":"Best Large Desk Pads"},{"href":"/guide/best-desk-pads-with-wrist-support","title":"Best Desk Pads with Wrist Support"}];
+export const bottomLine = [
+  "If you want information on the desk, the AT-A-GLANCE calendar with Julian dates is the closest to a reference chart here, and the 22 x 17-inch calendar pad adds a reusable backboard.",
+  "If you'd rather keep your own chart, pair it with a leather base: the Elizo set or YSAGi for genuine leather, or the Aothia or Gallaway for less."
+];
+
+export const sectionHeadings = {
+  "howWeChose": "How We Chose These Desk Pads",
+  "whatToLookFor": "What to Look for in a Desk Pad with Printed Information",
+  "howToChoose": "How to Choose Between a Calendar Pad and a Plain Pad"
+};
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-leather-desk-pads",
+    "title": "Best Leather Desk Pads"
+  },
+  {
+    "href": "/guide/best-large-desk-pads",
+    "title": "Best Large Desk Pads"
+  },
+  {
+    "href": "/guide/best-desk-pads-with-wrist-support",
+    "title": "Best Desk Pads with Wrist Support"
+  }
+];

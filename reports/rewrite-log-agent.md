@@ -430,3 +430,419 @@ Per-article rewrite reports (rule 37), second editor. Newest at the bottom.
 - **Facts needing verification:** FlowLift Pro ($29.99) described as 'slightly pricier than the base FlowLift' ($33.22) — prices inverted; source FAQ says only Ergotron arms are rated for curved/ultrawide but TitanLift is rated to 49"; NB SmooVex weight rating not listed; Ergotron warranty length not stated; WALI grommet option unclear.
 - **Possibly redundant:** FlowLift vs FlowLift Pro (Pro cheaper and better-specced at time of writing); ErGear vs WALI at same price.
 - **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-standing-desks-with-built-in-power-outlets — /guide/best-standing-desks-with-built-in-power-outlets
+- **Old title:** 8 Best Standing Desks with Built-In Power Outlets in 2026
+- **New SEO title:** Best Standing Desks With Built-In Power Outlets and USB-C (2026)
+- **New H1:** The Best Standing Desks With Built-In Power, and Alternatives Worth Considering
+- **Editorial angle:** honest scarcity: one confirmed built-in-power desk, seven alternatives marked as needing a power strip.
+- **Sections rewritten:** all (intro, 8 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "Set against that…", "Both matter when comparing…", "A genuine advantage here…", "Neither should be a surprise…", "That's a real strength, but weigh it against the flip side", "Worth calling out specifically"; generic review-count criteria and spend-more cards.
+- **Unsupported claims removed:** star ratings/review counts; "USB-C ranges 18W to 100W"; "desks travel 20 to 26 inches"; "thicker maple top better supports grommet accessories"; 'strong overall build quality'.
+- **Facts needing verification:** 7 of 8 products do not confirm built-in power — off-brief; Huuger 47x24 surge protection and USB-C wattage not stated.
+- **Possibly redundant:** 7 no-outlet desks; several duplicate other desk guides (AODK, OffiGo U).
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes — MANUAL_REVIEW: 7/8 off-brief products; guide premise needs editorial decision
+
+---
+## best-hdmi-portable-monitors — /guide/best-hdmi-portable-monitors
+- **Old title:** 7 Best HDMI Portable Monitors in 2026
+- **New SEO title:** Best HDMI Portable Monitors for Consoles and Older Laptops (2026)
+- **New H1:** The Best HDMI Portable Monitors for Consoles, Older Laptops and PCs
+- **Editorial angle:** full-size vs mini-HDMI and the unavoidable separate power cable, then stand/mounting and warranty.
+- **Sections rewritten:** all (intro, 7 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "It earns the top spot in this comparison over…", "Worth knowing before you decide… On the other side… That's the main tradeoff to weigh against everything above", "Here's the honest tradeoff", rank-comparison boilerplate; refresh-rate criteria copied from high-refresh guides (Steam Deck/ROG Ally, 144Hz) irrelevant to 60Hz monitors; 'Maximum refresh headroom: MNN 60Hz' table.
+- **Unsupported claims removed:** 'Honestly Reviewed', 'we evaluated'; star ratings/review counts; "most portable monitors cap 4K at 30Hz over HDMI"; "durable metal build compared to plastic-only competitors"; panel-defect prevalence claims.
+- **Facts needing verification:** cocopar described as 'only pick with a full-size HDMI port' but UPERFECT also has full-size HDMI; ARZOPA and MNN HDMI port size not specified; UPERFECT USB-C video support unclear.
+- **Possibly redundant:** KYY with cover vs KYY console bundle (same price, near-identical).
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-docking-stations-for-macbook-air — /guide/best-docking-stations-for-macbook-air
+- **Old title:** 8 Best Docking Stations for MacBook Air in 2026
+- **New SEO title:** Best Docking Stations for MacBook Air: Single, Dual and Triple Displays (2026)
+- **New H1:** The Best Docking Stations for MacBook Air, Matched to Your Chip
+- **Editorial angle:** chip display limits first, then DisplayLink vs native; flags that basic hubs' dual HDMI mirrors on macOS.
+- **Sections rewritten:** all (intro, 8 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "Neither should be a surprise…", "Worth calling out specifically", "Set against that…", "Both matter when comparing…", "The standout detail is…", "A genuine advantage here…", "That's a real strength, but weigh it against the flip side"; Thunderbolt card listing Anker 8-in-1 and UGREEN hubs as Thunderbolt; truncated names ('UGREEN 10', 'TobenONE 18').
+- **Unsupported claims removed:** star/review claims; "thermal throttling after 20–30 minutes"; "60–65W dock is enough"; "Anker's longer driver track record"; Anker 8-in-1 "DisplayLink-style compression" (listing doesn't say DisplayLink).
+- **Facts needing verification:** Anker 8-in-1 and UGREEN Revodok 210 list dual HDMI but macOS does not support MST extended displays on standard hubs — dual output likely mirrors on a MacBook Air; M5 MacBook Air support claims from Plugable/TobenONE listings; Plugable dual 4K on Air depends on chip.
+- **Possibly redundant:** TobenONE 18-in-2 vs 17-in-2.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes (dual-HDMI hub claims on macOS)
+
+---
+## best-portable-docking-stations-for-remote-work — /guide/best-portable-docking-stations-for-remote-work
+- **Old title:** 8 Best Portable Docking Stations for Remote Work in 2026
+- **New SEO title:** Best Portable Docking Stations for Remote Work (2026)
+- **New H1:** The Best Portable Docking Stations for Working From Anywhere
+- **Editorial angle:** portable bus-powered hub vs fixed powered dock, with laptop display limits flagged.
+- **Sections rewritten:** all (intro, 8 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "A genuine advantage here…", "Neither should be a surprise…", "Worth calling out specifically", "Set against that…", "Both matter when comparing…", "The standout detail is…", "That's a real strength, but weigh it against the flip side"; truncated names ('UGREEN 10', 'HP USB').
+- **Unsupported claims removed:** 'we evaluated … how each actually behaves'; star/review claims; airport security 'separate bin' claims; "IT departments more likely to have pre-approved drivers" (softened); "VPN clients conflict with non-OEM networking"; "most hotel HDTVs run older HDMI with HDCP"; bus-powered 'can't charge laptop' (pass-through clarified).
+- **Facts needing verification:** 'ugreen-14-in-1-multiport' listing name is generic ('USB C Laptop Docking Station…') — brand not confirmed as UGREEN; Anker 8-in-1 USB-A speed not listed; HP Dock G5 adapter wattage not listed.
+- **Possibly redundant:** UGREEN Revodok Pro 210, HP Dock G5, Anker Nano and Anker 8-in-1 also in other dock guides.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-laptop-screen-extenders-under-200 — /guide/best-laptop-screen-extenders-under-200
+- **Old title:** 4 Best Laptop Screen Extenders Under $200 in 2026
+- **New SEO title:** Best Laptop Screen Extenders Under $200: Single and Triple-Screen (2026)
+- **New H1:** The Best Laptop Screen Extenders Under $200: One Extra Screen or Two
+- **Editorial angle:** one extra screen vs two, gated by laptop video ports and Mac display limits.
+- **Sections rewritten:** all (intro, 4 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** internal cross-references to 'the under $150 tier/guide', "a real capability jump", "genuinely".
+- **Unsupported claims removed:** "reduces hinge stress" as durability fact; "warranty disclosure signals a more trustworthy listing"; 'coding, trading' use examples; "Cevaton larger internal battery reserve" (unclear spec).
+- **Facts needing verification:** #2 and #4 are unbranded listings; Cevaton panel specs/weight not listed; ZUMWALT 'H5-T cable' requirement per listing.
+- **Possibly redundant:** #2 vs #3 (both 15.6" detachable singles).
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-desk-pads-with-pockets — /guide/best-desk-pads-with-pockets
+- **Old title:** 8 Best Desk Pads with Pockets in 2026
+- **New SEO title:** Best Desk Pads With Pockets and Edge Lips (2026)
+- **New H1:** The Best Desk Pads With Lips and Edge Protection (and What About Pockets?)
+- **Editorial angle:** honest: pockets not listed; compare edge lip, size, surface, backing.
+- **Sections rewritten:** all (broken template source: pasted listing copy, cloth-pad cons on leather pads, generic criteria).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", "clears the capability floor", seller copy as pros ('Product size', 'Cleaning method'), cloth-top cons on PU pads.
+- **Unsupported claims removed:** 'verified specs', 'real usage floor'; cloth/leather price ranges; "31 x 15 inch starting point"; stitched-edge curl claims.
+- **Facts needing verification:** NO product lists a pocket — guide premise unmet; BUBM $96.59 for a pad near-identical to AKOZLIN ($54.99); Lifup and patterned mat dimensions missing; grip-lip pad price likely for smallest size.
+- **Possibly redundant:** AKOZLIN vs BUBM (same construction).
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes — MANUAL_REVIEW: premise (pockets) unmet by all products
+
+---
+## best-custom-personalized-desk-pads — /guide/best-custom-personalized-desk-pads
+- **Old title:** 8 Best Custom/Personalized Desk Pads in 2026
+- **New SEO title:** Best Custom and Personalized Desk Pads (2026)
+- **New H1:** The Best Custom and Personalized Desk Pads, From Photo Mats to Engraved Leather
+- **Editorial angle:** mouse pad vs desk mat size, printed vs leather personalization.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", "priced lowest without a real capability gap", seller copy as specs ('Make it yours', 'An heirloom-worthy gift').
+- **Unsupported claims removed:** 'heirloom-worthy', 'esports-grade precision'; 'meticulously crafted'; cloth/leather generic criteria.
+- **Facts needing verification:** Dimensions missing for ELIZO, large neoprene mat, Ssedltbc, neoprene mouse pad, multi-size mat, XXL mat; old title uses 'Custom/Personalized'.
+- **Possibly redundant:** Ssedltbc vs neoprene mouse pad; three printed rubber desk mats.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-desk-pads-for-home-office — /guide/best-desk-pads-for-home-office
+- **Old title:** 8 Best Desk Pads for Home Office in 2026
+- **New SEO title:** Best Desk Pads for Home Office: PU Leather, Felt and Decorative (2026)
+- **New H1:** The Best Desk Pads for a Home Office on a Small Budget
+- **Editorial angle:** material (wipe-clean vs soft) and size for inexpensive home desk pads; duplicates flagged.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", "clears the capability floor", seller copy as specs.
+- **Unsupported claims removed:** 'verified specs'; generic cloth/leather price ranges and stitching claims; "superior service".
+- **Facts needing verification:** Three YSAGi listings (#2, #4, #7) and two Aothia (#1, #3) look like variants; YSAGi, Ralxion dimensions missing; Aothia #3 width truncated in listing ('X 15.7 inch').
+- **Possibly redundant:** YSAGi x3, Aothia x2 — consolidate to one entry each.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes (heavy duplication)
+
+---
+## best-vintage-style-desk-pads — /guide/best-vintage-style-desk-pads
+- **Old title:** 6 Best Vintage-Style Desk Pads in 2026
+- **New SEO title:** Best Vintage-Style Desk Pads: Real Leather, Distressed PU and Printed (2026)
+- **New H1:** The Best Vintage-Style Desk Pads for a Warm, Classic Desk
+- **Editorial angle:** real leather vs look-alike vs printed, then thickness and size.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", seller copy ('amazing texture', 'unmatched thickness', 'like no others').
+- **Unsupported claims removed:** 'self-healing leather'; "superior printing technology"; generic cloth/leather criteria.
+- **Facts needing verification:** Auhoahsil listing does not describe a vintage design (gaming rubber mouse pad) — check fit; distressed PU, YSAGi, Nordik dimensions not stated; Elizo accessories unspecified.
+- **Possibly redundant:** none major.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-desk-pads-for-dual-monitor-setups — /guide/best-desk-pads-for-dual-monitor-setups
+- **Old title:** 8 Best Desk Pads for Dual Monitor Setups in 2026
+- **New SEO title:** Best Large Desk Pads for Dual Monitor Setups (2026)
+- **New H1:** The Best Extra-Large Desk Pads for Dual Monitor Setups
+- **Editorial angle:** coverage (keyboard/mouse vs under monitors) first, then material and thickness.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", "priced lowest without a real capability gap", seller/brand marketing copy.
+- **Unsupported claims removed:** "reducing wrist fatigue"; "champions on the biggest esports stages"; generic cloth/leather price and stitching claims.
+- **Facts needing verification:** SteelSeries QcK XXL, AFIING cork mat and YSAGi dimensions not stated.
+- **Possibly redundant:** Cmhoo vs coated 35.4" mat (same size).
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-heavy-duty-cpu-stands — /guide/best-heavy-duty-cpu-stands
+- **Old title:** 6 Best Heavy-Duty CPU Stands in 2026
+- **New SEO title:** Best Heavy-Duty CPU Stands and Tower Carts (2026)
+- **New H1:** The Best Heavy-Duty CPU Stands for Getting Your PC Off the Floor
+- **Editorial angle:** heavy-duty claim tested against stated load ratings; fit and mobility.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", seller copy ('shiny, stylish finish').
+- **Unsupported claims removed:** 'heavy-duty' claims without ratings; 'strong weight capacity' for unrated stands.
+- **Facts needing verification:** Only Hovadova #2 states capacity (176 lb); PUTORSEN description mixes 'rolling stand' and height adjustment 5.2–11.9" — confirm product type; #4 unbranded with no specs; Korfile is a desk (off-topic).
+- **Possibly redundant:** Two Hovadova stands; Korfile off-topic.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes (Korfile off-topic; unrated 'heavy-duty' stands)
+
+---
+## best-docking-stations-for-4k-120hz-monitors — /guide/best-docking-stations-for-4k-120hz-monitors
+- **Old title:** 8 Best Docking Stations for 4K 120Hz Monitors in 2026
+- **New SEO title:** Best Docking Stations for 4K 120Hz and 144Hz Monitors (2026)
+- **New H1:** The Best Docking Stations for 4K 120Hz Monitors, and Which Actually Reach 120Hz
+- **Editorial angle:** honest refresh-rate check per dock; laptop bandwidth and DisplayLink/macOS caveats.
+- **Sections rewritten:** all (intro, 8 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** generic dock criteria; source boilerplate trimmed.
+- **Unsupported claims removed:** "DisplayLink docks are capped at 4K@60Hz on macOS regardless of dock spec" (softened); "4K@120Hz on Mac requires Pro/Max chip" (softened); star/review claims.
+- **Facts needing verification:** 5 of 8 products do not list 4K 120Hz (TobenONE 20-in-1, AV Access, Plugable, WAVLINK, Anker Prime); two unbranded listings (#3, #8).
+- **Possibly redundant:** Plugable, WAVLINK, Anker Prime also in other dock guides.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes (5/8 off-brief)
+
+---
+## best-desk-pads-with-wrist-support — /guide/best-desk-pads-with-wrist-support
+- **Old title:** 8 Best Desk Pads with Wrist Support in 2026
+- **New SEO title:** Best Desk Pads With Wrist Rests: Sets, Foam and Tilt Stands (2026)
+- **New H1:** The Best Desk Pads With Wrist Rests for Typing and Mousing
+- **Editorial angle:** set vs single-piece, rest height and material; wrist rests framed as comfort aids, not treatment.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", "clears the capability floor".
+- **Unsupported claims removed:** "reducing strain on tendons and joints" (Vaydeer); "ergonomically designed"; generic cloth/leather criteria.
+- **Facts needing verification:** #1 floral set has no specs; MIBITRI dimensions and contents unclear; #5 unbranded; Vaydeer and MOSISO #7 include no desk pad.
+- **Possibly redundant:** MOSISO set vs waterproof set (similar sizes).
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-wireless-charging-desk-pads — /guide/best-wireless-charging-desk-pads
+- **Old title:** 8 Best Wireless-Charging Desk Pads in 2026
+- **New SEO title:** Best Wireless-Charging Desk Pads and Mouse Mats (2026)
+- **New H1:** The Best Wireless-Charging Desk Pads for a Cable-Free Phone Spot
+- **Editorial angle:** charging capability (devices, wattage, adapter) first, then size, surface and lighting.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", "priced lowest without a real capability gap".
+- **Unsupported claims removed:** "hassle-free charging", "immersive gaming"; generic cloth/leather criteria.
+- **Facts needing verification:** Adapter inclusion not stated for any product; RGB stand mat and VOVIPO size/wattage partly missing; TopMade #5 wattage not stated; several unbranded listings.
+- **Possibly redundant:** TopMade #1 vs #5.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-desk-pads-for-writing — /guide/best-desk-pads-for-writing
+- **Old title:** 8 Best Desk Pads for Writing in 2026
+- **New SEO title:** Best Desk Pads for Writing: Clear, Leather Blotter and Paper Pads (2026)
+- **New H1:** The Best Desk Pads for Writing by Hand
+- **Editorial angle:** writing surface feel and purpose (show desk, blotter, paper, everyday PU).
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", seller copy ('Smoootthhhh', 'Oops', 'Trick the eye').
+- **Unsupported claims removed:** 'guiltless doodling'; generic cloth/leather criteria.
+- **Facts needing verification:** Oterri, YSAGi, Cossini dimensions missing; Aothia #6 width truncated; YSAGi x2 and Aothia x2 duplicates across desk-pad guides.
+- **Possibly redundant:** YSAGi #5/#8, Aothia #3/#6.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes (duplication)
+
+---
+## best-desk-pads-for-office-use — /guide/best-desk-pads-for-office-use
+- **Old title:** 8 Best Desk Pads for Office Use in 2026
+- **New SEO title:** Best Desk Pads for Office Use: Inexpensive PU Leather Picks (2026)
+- **New H1:** The Best Desk Pads for Office Use Under $20
+- **Editorial angle:** size is the main choice among near-identical PU pads.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", "priced lowest without a real capability gap".
+- **Unsupported claims removed:** 'premium PU', 'high quality workmanship'; generic criteria.
+- **Facts needing verification:** YSAGi #1/#4 duplicates without dimensions; MOSISO #6 is a wrist-rest set (off-topic); four near-identical 23.6" PU pads.
+- **Possibly redundant:** YSAGi x2; Aothia/AFIING/Niniubye 23.6" pads; overlaps other desk-pad guides.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes (duplication; off-topic MOSISO)
+
+---
+## best-desk-pads-for-small-desks — /guide/best-desk-pads-for-small-desks
+- **Old title:** 8 Best Desk Pads for Small Desks in 2026
+- **New SEO title:** Best Desk Pads for Small Desks: Compact Mats Under $10 (2026)
+- **New H1:** The Best Desk Pads for Small Desks and Tight Spaces
+- **Editorial angle:** compact size and grip; near-identical pads flagged.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", seller copy ('Coffee happens', 'About brand ysagi').
+- **Unsupported claims removed:** 'built to last'; 'premium PU'; generic criteria.
+- **Facts needing verification:** Smead and YSAGi dimensions missing; 'Faux Leather Large Mouse Pad' badge 'Best Premium Pick' at $9.99 (same as others); Logitech is a mouse pad, not a desk pad.
+- **Possibly redundant:** Aothia, unbranded 23.6", faux leather pad near-identical; YSAGi x2.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes (duplication)
+
+---
+## best-desk-pads-under-30 — /guide/best-desk-pads-under-30
+- **Old title:** 6 Best Desk Pads Under $30 in 2026
+- **New SEO title:** Best Desk Pads Under $30: Felt Mats for Every Desk Size (2026)
+- **New H1:** The Best Felt Desk Pads Under $30
+- **Editorial angle:** all felt, so size, grip and finish decide; spill caveat.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", seller copy ('premium', 'sophisticated').
+- **Unsupported claims removed:** 'super soft and durable'; 'keeps warm in winter and prevents sweat'; generic cloth/leather criteria.
+- **Facts needing verification:** DAWNTREES large $32.99 exceeds the $30 ceiling; DAWNTREES #4 and Bright Stone dimensions missing; #6 unbranded.
+- **Possibly redundant:** DAWNTREES #1 vs #4.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes (one product over budget)
+
+---
+## best-tablet-stands-under-10 — /guide/best-tablet-stands-under-10
+- **Old title:** 4 Best Tablet Stands Under $10 in 2026
+- **New SEO title:** Best Tablet Stands Under $10: Adjustable iPad Holders (2026)
+- **New H1:** The Best Tablet Stands Under $10 for Desk and Travel
+- **Editorial angle:** fit (size and case thickness), stability vs portability.
+- **Sections rewritten:** all (intro, 4 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "genuinely" repeated; 'rarely found at this price'.
+- **Unsupported claims removed:** "reduce neck fatigue, back pain, and eye strain" (softened); "premium metal"; "no-tip design" (attributed as design intent).
+- **Facts needing verification:** Tonmom and VOVIGGOL case thickness limits not stated.
+- **Possibly redundant:** none.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-rolling-cpu-stands — /guide/best-rolling-cpu-stands
+- **Old title:** 8 Best Rolling CPU Stands in 2026
+- **New SEO title:** Best Rolling CPU Stands and PC Tower Carts (2026)
+- **New H1:** The Best Rolling CPU Stands and Tower Carts
+- **Editorial angle:** low under-desk stand vs desk-height cart; fit and rails; capacity gaps flagged.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", seller copy ('Desk space extention', 'Design advantages').
+- **Unsupported claims removed:** 'high-quality materials', 'solid metal construction' claims beyond listing.
+- **Facts needing verification:** No product states a weight capacity; ZUAVIALA outlet surge protection not stated; several unbranded.
+- **Possibly redundant:** ZUAVIALA x2, VIVO x2; railed stand and Hovadova also in best-heavy-duty-cpu-stands.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-cpu-stands-for-large-pc-towers — /guide/best-cpu-stands-for-large-pc-towers
+- **Old title:** 8 Best CPU Stands for Large PC Towers in 2026
+- **New SEO title:** Best CPU Stands for Large PC Towers: Size and Capacity Compared (2026)
+- **New H1:** The Best CPU Stands for Large and Heavy PC Towers
+- **Editorial angle:** fit and stated load rating for large towers; unrated stands flagged.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", seller copy ('Built like a tank').
+- **Unsupported claims removed:** 'industrial-grade', 'unlike flimsy plastic wheels'.
+- **Facts needing verification:** Only GreenForest states capacity; YOSE listing has no specs ('See full specifications on the product listing'); Liitrton width range truncated (from 9.06"); #1 ranked 'Best Overall' despite no size or load data.
+- **Possibly redundant:** ZUAVIALA x2; overlaps best-rolling-cpu-stands and best-heavy-duty-cpu-stands.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes (YOSE has no specs)
+
+---
+## best-cpu-bottom-stands — /guide/best-cpu-bottom-stands
+- **Old title:** 6 Best CPU Bottom Stands in 2026
+- **New SEO title:** Best CPU Floor Stands: Low Rolling Stands and Carts (2026)
+- **New H1:** The Best CPU Stands for Lifting a PC Off the Floor
+- **Editorial angle:** lift height, stated fit and locking wheels for low stands; cart as separate option.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick", seller copy ('B.protection stably it is very great stand').
+- **Unsupported claims removed:** "essential for cooling" (softened); 'sturdy'.
+- **Facts needing verification:** No capacities listed; YOSE has no specs; ZUAVIALA ranked #1 'Best Overall' but is a desk-height cart, not a bottom stand.
+- **Possibly redundant:** Heavy overlap with best-rolling-cpu-stands and best-cpu-stands-for-large-pc-towers (same products).
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes (near-duplicate guide; consider consolidation)
+
+---
+## best-cpu-stands-under-40 — /guide/best-cpu-stands-under-40
+- **Old title:** 6 Best CPU Stands Under $40 in 2026
+- **New SEO title:** Best CPU Stands Under $40: Rolling, Cooled and Charging Stands (2026)
+- **New H1:** The Best CPU Stands Under $40, From Basic Dollies to Fan-Cooled Stands
+- **Editorial angle:** fit and capacity first; extras only if they solve a problem.
+- **Sections rewritten:** all (broken template source).
+- **Template phrases removed:** "a strong alternative worth comparing directly against the top pick".
+- **Unsupported claims removed:** 'harmoniously combines the natural charm of walnut'; fan cooling benefit claims (softened).
+- **Facts needing verification:** suptek width range contradictory (7.8–14" vs 5.5–9.8"); YOSE ranked 'Best Overall' with no specs; ZIIWIND charging outputs unstated.
+- **Possibly redundant:** YOSE and Hovadova also in other CPU-stand guides.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes (suptek width conflict; YOSE #1 with no specs)
+
+---
+## best-docking-station-for-laptop — /guide/best-docking-station-for-laptop
+- **Old title:** 8 Best Docking Stations for Laptops in 2026
+- **New SEO title:** Best Docking Stations for Laptops: USB-C Hubs and Thunderbolt 4 Docks (2026)
+- **New H1:** The Best Laptop Docking Stations, From $27 Hubs to Thunderbolt 4
+- **Editorial angle:** hub vs powered vs Thunderbolt; laptop display support.
+- **Sections rewritten:** all (intro, 8 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "genuinely" repeated; badges 'Cheapest Overall (Anker)'.
+- **Unsupported claims removed:** "'will work' tier rather than 'should work'" certification framing (softened); "Anker's build quality".
+- **Facts needing verification:** Acer 9-in-1 has almost no specs; dual 4K on hubs depends on laptop (mirroring on base Macs).
+- **Possibly redundant:** Overlaps other dock guides (Anker Prime, UGREEN 7-in-1, Plugable, Anker Nano).
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-usb-c-docking-stations — /guide/best-usb-c-docking-stations
+- **Old title:** 8 Best USB-C Docking Stations in 2026
+- **New SEO title:** Best USB-C Docking Stations: Budget Hubs to HP Business Docks (2026)
+- **New H1:** The Best USB-C Docking Stations for Everyday Desks
+- **Editorial angle:** hub vs powered dock; charging wattage; laptop display support.
+- **Sections rewritten:** all (intro, 8 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "genuinely" repeated; 'a genuine step up'.
+- **Unsupported claims removed:** "aluminum helps with durability"; "most 60–85W hubs can't fully charge" (softened); 'independent PD circuitry'.
+- **Facts needing verification:** Acer 9-in-1 specs sparse; HP G5 charging wattage and G6 ports not listed.
+- **Possibly redundant:** Near-identical product set to best-docking-station-for-laptop — consider consolidating.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes (near-duplicate guide)
+
+---
+## best-docking-stations-for-surface-pro-laptop — /guide/best-docking-stations-for-surface-pro-laptop
+- **Old title:** 8 Best Docking Stations for Surface Pro & Surface Laptop in 2026
+- **New SEO title:** Best Docking Stations for Surface Pro and Surface Laptop (2026)
+- **New H1:** The Best USB-C and Thunderbolt Docks for Surface Pro and Surface Laptop
+- **Editorial angle:** check your Surface's ports (USB-C vs Thunderbolt), then portability vs desk dock.
+- **Sections rewritten:** all (intro, 8 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "genuinely", "genuine Thunderbolt 4 certification … guarantees compatibility" (softened).
+- **Unsupported claims removed:** "Surface owners undock far more often than clamshell users"; "built for Surface Pro 8 and later, Surface Laptop 4 and later" (unverified model list).
+- **Facts needing verification:** Which Surface models support Thunderbolt 4 (not all); no product is Surface-specific; Microsoft Surface Dock not in product set.
+- **Possibly redundant:** Same core product set as other dock guides.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-docking-stations-compatible-with-hp-dell-laptops — /guide/best-docking-stations-compatible-with-hp-dell-laptops
+- **Old title:** 8 Best Docking Stations Compatible with HP & Dell Laptops in 2026
+- **New SEO title:** Best Docking Stations for HP and Dell Laptops: G5, G6 and WD22TB4 (2026)
+- **New H1:** The Best HP and Dell Docking Stations for Business Laptops
+- **Editorial angle:** manufacturer docks matched by wattage and connection; renewed as budget route.
+- **Sections rewritten:** all (intro, 8 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "genuine Thunderbolt 4", Dell naming 'decoding' paragraph.
+- **Unsupported claims removed:** "stricter enterprise durability and compatibility testing"; 'Business-tier durability standard'.
+- **Facts needing verification:** HP G5 wattage not listed; G5 Essential ($106) priced above full G5 ($97.99); renewed G5 bundle ($134.99) priced above new G5; WD22TB4 #8 wattage version not stated.
+- **Possibly redundant:** Three HP G5 variants; three WD22TB4 variants.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-displaylink-docking-stations — /guide/best-displaylink-docking-stations
+- **Old title:** 7 Best DisplayLink Docking Stations in 2026
+- **New SEO title:** Best DisplayLink Docking Stations for Triple Monitors (2026)
+- **New H1:** The Best DisplayLink Docking Stations for Extra Monitors
+- **Editorial angle:** use DisplayLink only when the laptop cannot drive the monitors natively.
+- **Sections rewritten:** all (intro, 7 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "genuinely rare spec", "genuine triple-display capability".
+- **Unsupported claims removed:** "DisplayLink's known color calibration limitations" (softened); 'USB4-class hub' label for Anker Prime (unverified).
+- **Facts needing verification:** Anker Prime DL7400 listed for Windows only; Plugable triple display 4K at 30Hz only; three products are non-DisplayLink alternatives by design.
+- **Possibly redundant:** Plugable TBT-UDM and Anker Prime also in other dock guides.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-docking-stations-for-two-laptops — /guide/best-docking-stations-for-two-laptops
+- **Old title:** 8 Best Docking Stations for Two Laptops in 2026
+- **New SEO title:** Best KVM Docking Stations for Two Laptops (2026)
+- **New H1:** The Best Docking Stations for Two Laptops on One Desk
+- **Editorial angle:** all-in-one KVM vs separate docks; charging per laptop.
+- **Sections rewritten:** all (intro, 8 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "guaranteed 40Gbps" TB4 framing; 'closing the power gap that trips up buyers'.
+- **Unsupported claims removed:** "the only all-in-one KVM dock rated at 100W" (13-in-1 also lists 100W).
+- **Facts needing verification:** AV Access 100W 'only 100W KVM' claim conflicts with 13-in-1 KVM (100W); AV Access 8K laptop charging not stated; 4 of 8 are single-host docks.
+- **Possibly redundant:** Single-host docks duplicate other dock guides.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** yes (half the list is non-KVM)
+
+---
+## best-docking-stations-for-dell-laptops — /guide/best-docking-stations-for-dell-laptops
+- **Old title:** 8 Best Docking Stations for Dell Laptops in 2026
+- **New SEO title:** Best Docking Stations for Dell Laptops: SD25TB4, WD22TB4 and Alternatives (2026)
+- **New H1:** The Best Docking Stations for Dell Laptops
+- **Editorial angle:** Dell docks for integration and charging; third-party for mixed brands.
+- **Sections rewritten:** all (intro, 8 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "something a third-party dock can't replicate" (softened).
+- **Unsupported claims removed:** "Dell proprietary power protocol" exclusivity stated as fact (attributed); 'Best Modular Dock' badge without modular spec.
+- **Facts needing verification:** HP G5 wattage not listed; Dell Pro vs SD25TB4 180W bundle naming; WD19TBS listed as Thunderbolt 3 (source badge text said 'Thunderbolt dock').
+- **Possibly redundant:** Two SD25TB4 configurations; overlaps hp-dell guide.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-docking-stations-for-small-desks — /guide/best-docking-stations-for-small-desks
+- **Old title:** 8 Best Docking Stations for Small Desks in 2026
+- **New SEO title:** Best Compact Docking Stations for Small Desks (2026)
+- **New H1:** The Best Compact Docking Stations for Small Desks
+- **Editorial angle:** footprint first, then laptop display support and ports.
+- **Sections rewritten:** all (intro, 8 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "punches above its footprint", "genuinely demanding setup", "tuned for Mac's display behavior".
+- **Unsupported claims removed:** PULWTOP 'tuned for Mac' (it uses DisplayLink per its listing in another guide — reworded); 'safer pick for managed IT'.
+- **Facts needing verification:** Acer 11-in-1 three-display support likely MST (not extended on macOS); PULWTOP DisplayLink status inferred from its other-guide listing.
+- **Possibly redundant:** Overlaps several dock guides.
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no
+
+---
+## best-docking-stations-with-sd-card-readers — /guide/best-docking-stations-with-sd-card-readers
+- **Old title:** 8 Best Docking Stations with SD Card Readers in 2026
+- **New SEO title:** Best Docking Stations With SD Card Readers (2026)
+- **New H1:** The Best Docking Stations With SD Card Readers
+- **Editorial angle:** card slot type and reader standard, then dock features.
+- **Sections rewritten:** all (intro, 8 products with verdict/Best for/Skip if, criteria, How We Chose, How to Choose, FAQ, bottom line).
+- **Template phrases removed:** "genuinely high-end", "genuinely compact".
+- **Unsupported claims removed:** "UHS-I" assigned to Anker/Plugable readers without listing support; 'like nearly every dock in this price range'.
+- **Facts needing verification:** Card-reader standard only stated for UGREEN Max 213 (SD 4.0) and Revodok 210 (SD 3.0); Anker 8-in-1 described as 'cheapest' but UGREEN ($39.99) and generic 14-in-1 ($44.99) cost less.
+- **Possibly redundant:** Selore vs MOKiN (same layout).
+- **Metadata updated:** yes · **Structured data updated:** yes · **Affiliate tag issue:** no · **Manual review:** no

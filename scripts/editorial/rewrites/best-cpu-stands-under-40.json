@@ -1,0 +1,107 @@
+{
+  "guideTitle": "The Best CPU Stands Under $40, From Basic Dollies to Fan-Cooled Stands",
+  "breadcrumbLabel": "Best CPU Stands Under $40",
+  "metaTitle": "Best CPU Stands Under $40: Rolling, Cooled and Charging Stands (2026)",
+  "metaDescription": "We compared CPU stands under $40 on size range, load rating, casters and extras such as cooling fans, a wood finish and a charging station.",
+  "introParagraphs": [
+    "Under $40 you can get more than a basic dolly. The stands here range from a $14 rolling base to options with a stated 110 lb rating, built-in cooling fans, a walnut-look finish and a two-tier stand with a charging station.",
+    "Start with fit: compare your case's width with the stand's range. Then decide whether an extra is worth paying for. Fans help only if your case draws air from the bottom; a charging tier helps if your desk is short of outlets.",
+    "Our comparison is based on published specifications and price position, not hands-on testing."
+  ],
+  "products": {
+    "best-cpu-stands-under-40-1": {
+      "badge": "Lowest Price (Few Specs)",
+      "summary": "A YOSE stand at about $14, with almost no listed specifications.",
+      "description": "The YOSE is the cheapest stand here, but its listing gives almost no specifications: no size range, capacity or caster details.\n\nIt is a reasonable gamble for a standard tower if you can confirm fit from the photos; otherwise the Hovadova or suptek list more.",
+      "specs": ["Specifications: not listed"],
+      "pros": ["Lowest price"],
+      "cons": ["No specifications listed"],
+      "bestFor": "Standard towers where fit can be checked from photos.",
+      "skipIf": "You want stated dimensions or capacity."
+    },
+    "best-cpu-stands-under-40-2": {
+      "badge": "Best Budget Stand With Locks",
+      "summary": "A Hovadova stand with four 360° locking casters and tool-free setup.",
+      "description": "This Hovadova stand is the budget pick with locking casters, which keep the PC in place once positioned, and tool-free setup, for about $17 at the time of writing.\n\nThe listing does not state a size range or capacity.",
+      "specs": ["Casters: 4 x 360°, locking", "Tool-free setup"],
+      "pros": ["Locking wheels", "Low price"],
+      "cons": ["Size range and capacity not stated"],
+      "bestFor": "Standard towers that should stay put.",
+      "skipIf": "You need a stated load rating; the suptek lists 110 lb."
+    },
+    "best-cpu-stands-under-40-3": {
+      "badge": "Best Stated Capacity",
+      "summary": "A suptek rolling stand rated for 110 lb with a hollow, ventilated design.",
+      "description": "The suptek is the stand with a stated load rating: 110 lb, with a hollow design for airflow and casters, for about $25 at the time of writing.\n\nThe listing gives conflicting width figures (7.8 to 14 inches in one place, 5.5 to 9.8 inches in another), so confirm the range for your case.",
+      "specs": ["Load rating: 110 lb", "Width: conflicting figures in listing", "Hollow, ventilated design", "Rolling"],
+      "pros": ["Stated 110 lb rating", "Ventilated"],
+      "cons": ["Width range unclear"],
+      "bestFor": "Heavier towers on a budget.",
+      "skipIf": "You want a clear width range; check with the seller first."
+    },
+    "best-cpu-stands-under-40-4": {
+      "badge": "Best Looking Stand",
+      "summary": "A walnut-look wood and PVC stand with a perforated platform.",
+      "description": "The fulkun is the choice if the stand will be seen: wood pieces with PVC in a walnut look, with a perforated top for ventilation and casters.\n\nIt costs about $29 at the time of writing. The listing does not state size range or capacity.",
+      "specs": ["Material: wood and PVC, walnut look", "Perforated platform", "Rolling"],
+      "pros": ["Furniture-like look", "Ventilated"],
+      "cons": ["Size range and capacity not stated"],
+      "bestFor": "Visible setups where appearance matters.",
+      "skipIf": "You need a stated capacity."
+    },
+    "best-cpu-stands-under-40-5": {
+      "badge": "Best With Cooling Fans",
+      "summary": "A Hovadova stand with two built-in fans, adjustable from 9.05 to 12.59 inches wide.",
+      "description": "The fan-equipped Hovadova adds two fans under the tower to move air beneath it, and adjusts from 9.05 to 12.59 inches wide, which suits wider cases.\n\nIt costs about $33 at the time of writing. Fans help most with cases that draw air from the bottom, and they need power.",
+      "specs": ["Built-in fans: 2", "Width: 9.05–12.59\"", "Rolling"],
+      "pros": ["Active airflow", "Fits wider cases"],
+      "cons": ["Needs power for fans", "Capacity not stated"],
+      "bestFor": "Gaming towers with bottom intakes.",
+      "skipIf": "Your case has no bottom intake; a plain stand is enough."
+    },
+    "best-cpu-stands-under-40-6": {
+      "badge": "Best Two-Tier Stand With Charging",
+      "summary": "A ZIIWIND two-tier stand adjustable from 19.7 to 31.5 inches with a charging station.",
+      "description": "The ZIIWIND is a two-tier stand, 16.9 x 11.4 inches with height adjustable from 19.7 to 31.5 inches, that holds the tower and adds a charging station for other devices.\n\nIt can sit under or beside the desk and costs about $40 at the time of writing.\n\nThe listing does not state capacity or the charging station's outputs.",
+      "specs": ["Footprint: 16.9 x 11.4\"", "Height: 19.7–31.5\"", "Two tiers", "Charging station (outputs not stated)"],
+      "pros": ["Storage and charging", "Adjustable height"],
+      "cons": ["Charging outputs and capacity not stated"],
+      "bestFor": "Desks short of outlets or storage.",
+      "skipIf": "You only need to lift the tower; a $15 stand does."
+    }
+  },
+  "buyingCriteria": [
+    { "criterion": "Fit", "explanation": "Compare your case width with the stand's range; the fan Hovadova lists 9.05–12.59 inches." },
+    { "criterion": "Load rating", "explanation": "Only the suptek states one (110 lb)." },
+    { "criterion": "Extras", "explanation": "Fans, a wood finish or a charging tier add cost; choose them only if they solve a problem." },
+    { "criterion": "Casters", "explanation": "Locking casters keep the PC in place." }
+  ],
+  "howWeEvaluated": [
+    { "title": "Fit and capacity", "description": "We recorded stated size ranges and load ratings, and flagged conflicts." },
+    { "title": "Features", "description": "We compared casters, fans, finish and charging." },
+    { "title": "Price position", "description": "All cost under $40 at the time of writing." }
+  ],
+  "howToChoose": [
+    { "subheading": "By need", "table": { "headers": ["Need", "Consider", "Why"], "rows": [
+      ["Heavier tower", "suptek", "110 lb rating"],
+      ["Bottom-intake cooling", "Hovadova with fans", "Two fans"],
+      ["Visible setup", "fulkun", "Walnut look"],
+      ["Charging and storage", "ZIIWIND", "Two tiers"],
+      ["Lowest cost", "YOSE or Hovadova", "About $14–$17"]
+    ] } },
+    { "subheading": "By price at the time of writing", "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.", "table": { "headers": ["Price tier", "Stands"], "rows": [
+      ["About $14–$17", "YOSE, Hovadova"],
+      ["About $25–$33", "suptek, fulkun, Hovadova with fans"],
+      ["About $40", "ZIIWIND"]
+    ] } }
+  ],
+  "faq": [
+    { "q": "Do cooling fans in a stand help?", "a": "They add airflow under the case, which helps most if your case draws air from the bottom." },
+    { "q": "How much weight can these hold?", "a": "Only the suptek states a capacity (110 lb). Check with the seller for the others." },
+    { "q": "Is a two-tier stand worth it?", "a": "If your desk lacks storage or outlets, yes. Otherwise a simple stand is enough." }
+  ],
+  "bottomLine": [
+    "For a heavier tower, the suptek is the pick with a stated 110 lb rating, once you confirm its width. The Hovadova with fans suits gaming towers with bottom intakes, and the fulkun suits visible setups.",
+    "The ZIIWIND adds storage and charging, and the YOSE and basic Hovadova are the budget options for standard towers."
+  ]
+}

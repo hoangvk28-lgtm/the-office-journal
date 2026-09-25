@@ -141,4 +141,142 @@ export const guideDeks: Record<string, string> = {
     "Eight chairs all rated for 400 lb, compared on the evidence behind that figure (gas lift class and base testing) plus seat, recline and warranty.",
   "best-gaming-chair-recliner":
     "Eight reclining gaming chairs compared on recline range, footrest, weight rating and warranty, from console recliners to flat-back desk chairs.",
+  "best-standing-desks-with-built-in-power-outlets":
+    "",
+  "best-hdmi-portable-monitors":
+    "",
+  "best-docking-stations-for-macbook-air":
+    "",
+  "best-portable-docking-stations-for-remote-work":
+    "",
+  "best-laptop-screen-extenders-under-200":
+    "",
+  "best-desk-pads-with-pockets":
+    "",
+  "best-custom-personalized-desk-pads":
+    "",
+  "best-desk-pads-for-home-office":
+    "",
+  "best-vintage-style-desk-pads":
+    "",
+  "best-desk-pads-for-dual-monitor-setups":
+    "",
+  "best-heavy-duty-cpu-stands":
+    "",
+  "best-docking-stations-for-4k-120hz-monitors":
+    "",
+  "best-desk-pads-with-wrist-support":
+    "",
+  "best-wireless-charging-desk-pads":
+    "",
+  "best-desk-pads-for-writing":
+    "",
+  "best-desk-pads-for-office-use":
+    "",
+  "best-desk-pads-for-small-desks":
+    "",
+  "best-desk-pads-under-30":
+    "",
+  "best-tablet-stands-under-10":
+    "",
+  "best-rolling-cpu-stands":
+    "",
+  "best-cpu-stands-for-large-pc-towers":
+    "",
+  "best-cpu-bottom-stands":
+    "",
+  "best-cpu-stands-under-40":
+    "",
+  "best-docking-station-for-laptop":
+    "",
+  "best-usb-c-docking-stations":
+    "",
+  "best-docking-stations-for-surface-pro-laptop":
+    "",
+  "best-docking-stations-compatible-with-hp-dell-laptops":
+    "",
+  "best-displaylink-docking-stations":
+    "",
+  "best-docking-stations-for-two-laptops":
+    "",
+  "best-docking-stations-for-dell-laptops":
+    "",
+  "best-docking-stations-for-small-desks":
+    "",
+  "best-docking-stations-with-sd-card-readers":
+    "",
+  "best-standing-desk-frames":
+    "Seven complete standing desks with matched tops and one converter, compared on size, depth, presets and built-in power.",
+  "best-standing-desks-under-1000":
+    "Every option here cost under $220 when we checked, so we mapped what each price step buys across five complete desks and three converters.",
+  "best-budget-digital-notebooks":
+    "Under $30, a digital notebook means a reusable Rocketbook, so we compared seven by size, page style, binding and whether a pen is included.",
+  "best-docking-stations-with-100w-power-delivery":
+    "Eight docks compared on laptop charging, display output per port, ports and certification, from a compact hub to a Thunderbolt 4 dock.",
+  "best-laptop-screen-extenders-under-150":
+    "Four laptop screen extenders compared on panel size, detachable versus clip-on design, rotation and documented display specs.",
+  "best-room-divider-with-shelves":
+    "Seven shelving dividers compared on height, width, shelf capacity and anti-tip hardware, from S-shaped shelves to a folding screen.",
+  "best-room-divider-freestanding":
+    "Eight freestanding screens compared on width, stability, material and portability, from a solid wood shoji to a wheeled fabric divider.",
+  "best-magnetic-desk-pads":
+    "Eight magnetic desk pads compared by what the magnets actually do (cable control, snap-on organizers or phone charging) plus size and surface.",
+  "best-cute-aesthetic-desk-pads":
+    "Eight decorative desk pads under $20 compared on surface, size and edging, from floral and gingham cloth to patterned PU leather.",
+  "best-ultra-thin-desk-pads":
+    "Few desk pads state their thickness, so we compared eight thin leather, felt and hard mats on size and surface, and flag the thicker charging pads.",
+  "best-desk-pads-with-reference-charts":
+    "None of these pads print reference charts, so we compared four calendar desk pads with four leather and PU pads you can pair with your own chart.",
+  "best-adjustable-cpu-stands":
+    "Eight CPU stands compared on what adjusts (width, length or height), plus wheels, rails and build.",
+  "best-cpu-stands-under-50":
+    "Six CPU stands under $50 compared across rolling platforms, two-tier carts and an under-desk mount, on fit, wheels and stated capacity.",
+  "best-extra-large-desk-pads":
+    "Eight desk pads compared on real dimensions, surface and base, with only two reaching true full-desk size.",
+  "best-desk-pad-calendars":
+    "Six desk pad calendars compared on date range, size, paper and protective extras such as a backboard or film.",
+  "best-desk-pad-protectors":
+    "Eight low-cost desk protectors compared on PU leather versus clear PVC, stated size, thickness and base.",
+  "best-non-slip-desk-pads":
+    "Eight low-cost PU leather desk pads compared on how they grip, size and material, with most listings saying little about their backing.",
+  "best-hexagon-shaped-desk-pads":
+    "Five rectangular desk pads with hexagon honeycomb prints compared on size, coating and base.",
+  "best-anime-desk-pads":
+    "Eight anime desk pads compared on size, coating, edging and base, from Japanese-style prints to One Piece and Dragon Ball Z designs.",
+  "best-desk-pads-under-50":
+    "Eight desk pads well under $50 compared on size, surface and base, from $10 compact protectors to full-desk mats.",
+  "best-tablet-stands-under-30":
+    "Four low-cost aluminum tablet stands compared on device size range, stated load rating, adjustment and folding.",
+  "best-cpu-stands-with-wheels":
+    "Eight rolling CPU stands compared on case fit, locking casters, side rails and extras such as a desk-height cart with power.",
+  "best-cpu-stands-for-carpet":
+    "Six CPU stands for carpet compared on clearance, case fit and stability, from low rolling bases to a two-tier cart with charging.",
+  "best-cpu-stands-under-25":
+    "Six rolling CPU stands under $25 compared on adjustment, locking wheels and stated capacity.",
+  "best-cpu-stands-under-75":
+    "Six CPU stands up to $75 compared on format and fit, from rolling bases to a charging cart and a standing-desk mount.",
+  "best-docking-station-for-dual-monitor-multi-monitor-setups":
+    "Eight docks compared on how they drive two or more monitors, from a DisplayLink dock to Thunderbolt 4 and 5, and what your laptop must support.",
+  "best-docking-stations-for-macbook-pro":
+    "Eight docks compared for MacBook Pro on display support by chip, Thunderbolt versus USB-C, ports and charging.",
+  "best-docking-stations-compatible-with-lenovo-laptops":
+    "Four official Lenovo docks and four third-party alternatives compared on compatibility, displays, ports and charging.",
+  "best-thunderbolt-4-docking-stations":
+    "Seven docks compared on Thunderbolt certification, displays, charging and ports, including DisplayLink alternatives for three monitors.",
+  "best-triple-monitor-docking-stations":
+    "Eight docks compared on how they reach three monitors (DisplayLink, native MST or a laptop port) plus resolution and charging.",
+  "best-kvm-docking-stations-for-two-computers":
+    "Five KVM docks compared on host types, monitor count, per-laptop charging and refresh rate, plus three single-computer alternatives.",
+  "best-docking-stations-for-4k-monitors":
+    "Eight docks compared on real 4K refresh rates, display count and native versus DisplayLink output.",
+  "best-docking-stations-with-2-5gb-ethernet":
+    "Seven docks compared on whether they actually confirm 2.5Gb Ethernet, plus displays, charging and ports.",
+  "best-vertical-docking-stations-for-clean-desk-setups":
+    "Two vertical stand-docks and six compact docks compared on form factor, displays, ports and charging for a clamshell setup.",
+  "best-docking-stations-for-gaming-laptops":
+    "Seven docks compared for gaming laptops on native versus DisplayLink output, refresh rate, charging limits and ports.",
+  "best-monitor-arm-desk-mounts":
+    "Eight single monitor arms compared on clamp, grommet or wall mounting, weight range, screen size and VESA.",
+  "best-split-ergonomic-keyboards":
+    "Eight split keyboards compared on split type, tenting, layout and connection, from a curved one-piece board to a programmable separable design.",
 };

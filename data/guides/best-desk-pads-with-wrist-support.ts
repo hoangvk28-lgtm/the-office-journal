@@ -1,339 +1,400 @@
-export const guideSlug = "best-desk-pads-with-wrist-support";
-export const guideTitle = "8 Best Desk Pads with Wrist Support in 2026";
-export const metaTitle = "Best Desk Pads with Wrist Support";
-export const metaDescription = "We compared desk pad with wrist support models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real.";
-export const mainKeyword = "desk pad with wrist support";
-export const introParagraphs = [
-  "Across best desk pads with wrist support, range widely in real edge durability, given that differences show up in daily use.",
-  "What separates these picks is documented size and backing material, since these separate real capability from claims."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/51lsuHnSKpL._SL500_.jpg";
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
+export const guideSlug = "best-desk-pads-with-wrist-support";
+
+export const guideTitle = "The Best Desk Pads With Wrist Rests for Typing and Mousing";
+
+export const breadcrumbLabel = "Best Desk Pads With Wrist Support";
+
+export const metaTitle = "Best Desk Pads With Wrist Rests: Sets, Foam and Tilt Stands (2026)";
+
+export const metaDescription = "We compared desk pad sets with keyboard and mouse wrist rests on size, foam thickness, material and extras, from $13 wrist-rest sets to a memory-foam XXL pad.";
+
+export const mainKeyword = "desk pad with wrist support";
+
+export const introParagraphs = [
+  "A wrist rest gives the heel of your hand somewhere to settle between bursts of typing or mousing. Most products here are sets: a large desk pad plus separate keyboard and mouse rests, often with a coaster. One is a single pad with a built-in foam edge, and one is a keyboard stand with an integrated rest.",
+  "Compare the rest's height and firmness, which should roughly match your keyboard's front edge, and the pad size. Many ergonomics guides suggest resting on the rest during pauses rather than planting your wrists while you type; a wrist rest is a comfort aid, not a treatment for pain.",
+  "Our comparison is based on published specifications and price position, not hands-on testing. Prices range from about $13 to $50 at the time of writing."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const readTime = "11 min";
+
+export const heroImage = "https://m.media-amazon.com/images/I/51lsuHnSKpL._SL500_.jpg";
 
 export const products: GuideProduct[] = [
   {
-    id: "best-desk-pads-with-wrist-support-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Desk Mat, Large Gaming Mouse Pad with Wrist Rest, 4in1 XXL Mousepad Floral",
-    price: "$18.04",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51lsuHnSKpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C3CTCP86?tag=theofficejournal-20",
-    description: "Desk Mat, Large Gaming Mouse Pad with Wrist Rest, 4in1 XXL Mousepad Floral is our overall pick in this lineup.\n\nMOSISO Keyboard Mouse Pad Set is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nReach for this pick if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["4-In-1 gaming mouse pad set", "Ergonomic design desk pad", "Precise mouse control"],
-    pros: ["4-In-1 gaming mouse pad set", "Ergonomic design desk pad", "Precise mouse control", "Anti slip & stitching edge"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
+    "id": "best-desk-pads-with-wrist-support-1",
+    "rank": 1,
+    "badge": "Floral 4-in-1 Set",
+    "name": "Desk Mat, Large Gaming Mouse Pad with Wrist Rest, 4in1 XXL Mousepad Floral",
+    "price": "$18.04",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51lsuHnSKpL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3CTCP86?tag=theofficejournal-20",
+    "description": "This floral 4-in-1 set pairs an XXL gaming-style desk mat with a wrist rest, for about $18 at the time of writing.\n\nThe listing gives almost no specifications: no dimensions, rest height or material. Check the product photos, or compare with the MOSISO or QiyI sets, which list their sizes.",
+    "specs": [
+      "Type: 4-in-1 set with wrist rest",
+      "Design: floral",
+      "Dimensions and materials: not stated"
+    ],
+    "pros": [
+      "Decorative design",
+      "Low price"
+    ],
+    "cons": [
+      "Specifications not listed"
+    ],
+    "bestFor": "Buyers who like the floral design and will check the photos.",
+    "summary": "A floral XXL desk mat with wrist rest in a 4-in-1 set.",
+    "skipIf": "You want stated sizes; the MOSISO and QiyI sets list them."
   },
   {
-    id: "best-desk-pads-with-wrist-support-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "MOSISO Keyboard Mouse Pad Set",
-    price: "$17.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/21h7H56e7wL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DGT1KP2X?tag=theofficejournal-20",
-    description: "MOSISO Keyboard Mouse Pad Set is a strong alternative worth comparing directly against the top pick. 35.43 X 15.75 inch; dimension of rectangular keyboard wrist rest: 17.12 x 2.95 inch; dimension of rectangula mouse pad with wrist rest support: 9.65 x 7.09 inch; dimension of coaster: 3.9 inch (diameter). This mouse pad with wrist rest is ergonomically designed with breathable neoprene cloth and silicone lining.\n\nNon-slip base can firmly grasp the desk to prevent sliding or any unintentional movement, which is the main thing that distinguishes this pick from Desk Mat, Large Gaming Mouse Pad with Wrist Rest, 4in1 XXL Mousepad Floral.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Dimension of large gaming mouse pad", "Mouse pad with wrist rest is ergonomically designed with breathable neoprene cloth and silicone lining", "Large mousepad will provide you enough space to operate your computer mouse and keyboard"],
-    pros: ["Dimension of large gaming mouse pad", "Mouse pad with wrist rest is ergonomically designed with breathable neoprene cloth and silicone lining", "Large mousepad will provide you enough space to operate your computer mouse and keyboard", "Edges is reinforced to endure long-time use"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-wrist-support-2",
+    "rank": 2,
+    "badge": "Best Budget Complete Set",
+    "name": "MOSISO Keyboard Mouse Pad Set",
+    "price": "$17.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/21h7H56e7wL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGT1KP2X?tag=theofficejournal-20",
+    "description": "The MOSISO set is the budget complete kit: a 35.43 x 15.75-inch desk pad, a 17.12 x 2.95-inch keyboard wrist rest, a 9.65 x 7.09-inch mouse pad with built-in rest and a coaster, in breathable neoprene cloth with silicone lining.\n\nIt costs about $18 at the time of writing and lists all its dimensions.\n\nThe listing does not give the rests' height.",
+    "specs": [
+      "Desk pad: 35.43 x 15.75\"",
+      "Keyboard rest: 17.12 x 2.95\"",
+      "Mouse pad with rest: 9.65 x 7.09\"",
+      "Coaster",
+      "Material: neoprene cloth, silicone"
+    ],
+    "pros": [
+      "Complete set",
+      "All sizes listed",
+      "Low price"
+    ],
+    "cons": [
+      "Rest height not listed",
+      "Cloth absorbs spills"
+    ],
+    "bestFor": "A full matching set on a budget.",
+    "summary": "A 35.4 x 15.8-inch pad with keyboard and mouse rests and a coaster.",
+    "skipIf": "You want wipe-clean PU; the QiyI set uses PU leather."
   },
   {
-    id: "best-desk-pads-with-wrist-support-3",
-    rank: 3,
-    badge: "Best Premium Pick",
-    name: "ENHANCE XXL Large Mouse Pad for Desk with 2XL Ergonomic Memory Foam Wrist Rest",
-    price: "$49.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31ZIAd-KksL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07BLK1JSC?tag=theofficejournal-20",
-    description: "ENHANCE XXL Large Mouse Pad for Desk with 2XL Ergonomic Memory Foam Wrist Rest is the top-tier pick in this comparison. Over 434 square inches of surface area: measuring at 31.5 x 13.78 x 1 inches this large mousepad provides enough space for your mouse, keyboard, and mouse bungee (please ensure it fits on your desk). A 1 inch memory foam padding on the bottom part of the mousepad provides wrist support for both typing and using a mouse, offering multiple functions and extreme comfort.\n\nSet next to Desk Mat, Large Gaming Mouse Pad with Wrist Rest, 4in1 XXL Mousepad Floral, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nGo with this pick if you are willing to spend the most in this comparison for the fuller feature set that comes with it. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Over 434 square inches of surface area: measuring at 31.5 x", "Mouse pad with wrist support", "Desk mouse pad with 2xl wrist support has high quality stitched edges that prevent unsightly seams"],
-    pros: ["Over 434 square inches of surface area: measuring at 31.5 x", "Mouse pad with wrist support", "Desk mouse pad with 2xl wrist support has high quality stitched edges that prevent unsightly seams", "Non-slip rubber grip"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
+    "id": "best-desk-pads-with-wrist-support-3",
+    "rank": 3,
+    "badge": "Best Single-Piece Foam Pad",
+    "name": "ENHANCE XXL Large Mouse Pad for Desk with 2XL Ergonomic Memory Foam Wrist Rest",
+    "price": "$49.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31ZIAd-KksL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07BLK1JSC?tag=theofficejournal-20",
+    "description": "The ENHANCE XXL is the one-piece option: a 31.5 x 13.78-inch mat with a 1-inch memory foam strip along the front, which supports the wrists for both typing and mousing without separate rests to arrange.\n\nIt is the most expensive product here at about $50 at the time of writing.\n\nA fixed foam edge suits a keyboard and mouse sitting side by side at the front; it is less flexible than separate rests.",
+    "specs": [
+      "Size: 31.5 x 13.78 x 1\"",
+      "Wrist support: 1\" memory foam, full width"
+    ],
+    "pros": [
+      "One piece, nothing to align",
+      "Full-width support"
+    ],
+    "cons": [
+      "Most expensive",
+      "Fixed position"
+    ],
+    "bestFor": "Desks where keyboard and mouse sit in a line at the front.",
+    "summary": "A 31.5 x 13.78-inch mat with a 1-inch memory foam wrist edge across the front.",
+    "skipIf": "You want to position rests separately; a set is more flexible."
   },
   {
-    id: "best-desk-pads-with-wrist-support-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "QiyI PU Leather Desk Mat Set",
-    price: "$25.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/5156y-jLERL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0G65H7TCZ?tag=theofficejournal-20",
-    description: "QiyI PU Leather Desk Mat Set is a strong alternative worth comparing directly against the top pick. Includes a large extended desk pad (31.5×15.7 inch), an ergonomic keyboard wrist rest (17.3×3.3 inch), a comfortable mouse wrist rest (5.3×3.3 inch), and a matching cup coaster (3.9×3.9 inch). The keyboard and mouse wrist rests feature 0.79 in thick dual-layer slow-rebound memory foam for both softness and stable support.\n\nSide by side with Desk Mat, Large Gaming Mouse Pad with Wrist Rest, 4in1 XXL Mousepad Floral, the real difference worth noting is choose from vibrant, high-quality printed patterns to match your style.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["4-In-1 PU leather mouse pad set", "Ergonomic comfort & dual support", "Smooth waterproof PU leather surface"],
-    pros: ["4-In-1 PU leather mouse pad set", "Ergonomic comfort & dual support", "Smooth waterproof PU leather surface", "Non-slip base"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-wrist-support-4",
+    "rank": 4,
+    "badge": "Best PU Leather Set",
+    "name": "QiyI PU Leather Desk Mat Set",
+    "price": "$25.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/5156y-jLERL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0G65H7TCZ?tag=theofficejournal-20",
+    "description": "The QiyI set is the wipe-clean option: a 31.5 x 15.7-inch PU leather pad with a 17.3 x 3.3-inch keyboard rest, a 5.3 x 3.3-inch mouse rest and a coaster.\n\nQiyI lists the rests as 0.79 inches thick with dual-layer slow-rebound memory foam.\n\nIt costs about $26 at the time of writing, more than the cloth sets.",
+    "specs": [
+      "Desk pad: 31.5 x 15.7\", PU leather",
+      "Keyboard rest: 17.3 x 3.3\"",
+      "Mouse rest: 5.3 x 3.3\"",
+      "Rest thickness: 0.79\", memory foam",
+      "Coaster"
+    ],
+    "pros": [
+      "Wipe-clean PU",
+      "Stated rest thickness",
+      "Complete set"
+    ],
+    "cons": [
+      "Costs more than cloth sets"
+    ],
+    "bestFor": "A tidy, wipe-clean desk with wrist rests.",
+    "summary": "A 31.5 x 15.7-inch PU pad with 0.79-inch memory foam keyboard and mouse rests.",
+    "skipIf": "You prefer cloth; the MOSISO is cheaper."
   },
   {
-    id: "best-desk-pads-with-wrist-support-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "Large Mouse Pad and Keyboard Wrist Rest",
-    price: "$18.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31FOqMpGpNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1RJS5S8?tag=theofficejournal-20",
-    description: "Large Mouse Pad and Keyboard Wrist Rest is a strong alternative worth comparing directly against the top pick. Ergonomic mouse pad includes large desk pad (35.4×15.75 inch), keyboard wrist rest (17.32\" x 3.15\" x 0.98\"), mouse wrist rest (5.4\" x 3.15\" x 0.98\"), cup coaster (3.9\" x 3.9\"). Equipped with waterproof coating, effectively prevents damage from spilled drinks or other accidents.\n\nDesk Mat, Large Gaming Mouse Pad with Wrist Rest, 4in1 XXL Mousepad Floral is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["4-In-1 mouse pad set", "Waterproof and easy to clean", "Smooth surface"],
-    pros: ["4-In-1 mouse pad set", "Waterproof and easy to clean", "Smooth surface", "Stitched edges"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-wrist-support-5",
+    "rank": 5,
+    "badge": "Best Waterproof Cloth Set",
+    "name": "Large Mouse Pad and Keyboard Wrist Rest",
+    "price": "$18.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31FOqMpGpNL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1RJS5S8?tag=theofficejournal-20",
+    "description": "This set has a 35.4 x 15.75-inch pad with a waterproof coating, a 17.32 x 3.15 x 0.98-inch keyboard rest, a 5.4 x 3.15 x 0.98-inch mouse rest and a coaster, for about $19 at the time of writing.\n\nThe 0.98-inch rests are slightly taller than the QiyI's. The brand is not named in the listing.",
+    "specs": [
+      "Desk pad: 35.4 x 15.75\", waterproof coating",
+      "Keyboard rest: 17.32 x 3.15 x 0.98\"",
+      "Mouse rest: 5.4 x 3.15 x 0.98\"",
+      "Coaster"
+    ],
+    "pros": [
+      "Waterproof coating",
+      "Rest heights listed",
+      "Large pad"
+    ],
+    "cons": [
+      "Unbranded"
+    ],
+    "bestFor": "Buyers who want a cloth set that handles spills.",
+    "summary": "A 35.4 x 15.75-inch waterproof-coated pad with 0.98-inch rests and a coaster.",
+    "skipIf": "You want a named brand; the MOSISO is similar."
   },
   {
-    id: "best-desk-pads-with-wrist-support-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "MIBITRI Keyboard Mouse Pad Set",
-    price: "$18.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41C38bIKV+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F7Y1LVXX?tag=theofficejournal-20",
-    description: "MIBITRI Keyboard Mouse Pad Set is a strong alternative worth comparing directly against the top pick. The curved design of these two wrist rests fits perfectly on the wrist. The durable stitched edges protect the pad from wear, deformation and degum.\n\n31.5\" × 11.8\" × 0.1\", Keyboard wrist rest: 17.32\" x 3.34\" x 1\", mouse wrist rest: 5.5\" x 3.34\" x 1\", which is the main thing that distinguishes this pick from Desk Mat, Large Gaming Mouse Pad with Wrist Rest, 4in1 XXL Mousepad Floral.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Memory foam wrist support", "Durable stitched edges", "Non-slip rubber base"],
-    pros: ["Memory foam wrist support", "Durable stitched edges", "Non-slip rubber base", "31.5\" × 11.8\" × 0.1\""],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-wrist-support-6",
+    "rank": 6,
+    "badge": "Curved Rest Set",
+    "name": "MIBITRI Keyboard Mouse Pad Set",
+    "price": "$18.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41C38bIKV+L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7Y1LVXX?tag=theofficejournal-20",
+    "description": "The MIBITRI set has curved keyboard and mouse wrist rests and stitched edges, which MIBITRI says resist wear and peeling.\n\nThe listing does not give dimensions or say whether a large desk pad is included, so check before ordering.",
+    "specs": [
+      "Curved keyboard and mouse wrist rests",
+      "Stitched edges",
+      "Dimensions: not stated"
+    ],
+    "pros": [
+      "Curved rests",
+      "Stitched edges"
+    ],
+    "cons": [
+      "Dimensions not stated",
+      "Contents unclear"
+    ],
+    "bestFor": "Buyers who prefer curved rests.",
+    "summary": "A keyboard and mouse pad set with curved wrist rests and stitched edges.",
+    "skipIf": "You want a stated, complete set; the MOSISO or QiyI list theirs."
   },
   {
-    id: "best-desk-pads-with-wrist-support-7",
-    rank: 7,
-    badge: "Best Value",
-    name: "MOSISO Wrist Rest Support for Mouse Pad& Keyboard Set",
-    price: "$12.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31ckd3mm-yL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DCVVZ6CT?tag=theofficejournal-20",
-    description: "MOSISO Wrist Rest Support for Mouse Pad& Keyboard Set is the most affordable pick here that still clears the capability floor for this category. 17.32 X 3.15 inch, that of circle curved mousepad wrist support: 9.65 x 8.66 inch, dimension of coaster: 3.9 inch (diameter). Non-slip base can firmly grasp the desk to prevent sliding or any unintentional movement.\n\nDesk Mat, Large Gaming Mouse Pad with Wrist Rest, 4in1 XXL Mousepad Floral lands in a similar spot overall, but the deciding factor between the two is the filled cushion part will slowly rebound when leave it, not easy to deform.\n\nThis makes sense for anyone who want a genuinely capable pick without paying for headroom you won't use. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Dimension of keyboard wrist rest", "Non-slip base can firmly grasp the desk to prevent sliding or any unintentional movement", "Filled cushion part will slowly rebound when leave"],
-    pros: ["Dimension of keyboard wrist rest", "Non-slip base can firmly grasp the desk to prevent sliding or any unintentional movement", "Filled cushion part will slowly rebound when leave", "Mouse pad and keyboard wrist rest is suitable"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
+    "id": "best-desk-pads-with-wrist-support-7",
+    "rank": 7,
+    "badge": "Lowest-Cost Wrist Rests",
+    "name": "MOSISO Wrist Rest Support for Mouse Pad& Keyboard Set",
+    "price": "$12.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31ckd3mm-yL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCVVZ6CT?tag=theofficejournal-20",
+    "description": "This MOSISO set is the cheapest way to add wrist rests to an existing desk: a 17.32 x 3.15-inch keyboard rest, a 9.65 x 8.66-inch curved mouse pad with rest and a coaster, with a non-slip base.\n\nIt does not include a large desk pad, so it suits a desk that already has one.",
+    "specs": [
+      "Keyboard rest: 17.32 x 3.15\"",
+      "Curved mouse pad with rest: 9.65 x 8.66\"",
+      "Coaster",
+      "Non-slip base"
+    ],
+    "pros": [
+      "Lowest price",
+      "Adds rests to any desk"
+    ],
+    "cons": [
+      "No large desk pad"
+    ],
+    "bestFor": "Adding wrist rests to an existing setup.",
+    "summary": "A MOSISO keyboard rest, curved mouse pad rest and coaster, without a large desk pad.",
+    "skipIf": "You want a full desk pad included."
   },
   {
-    id: "best-desk-pads-with-wrist-support-8",
-    rank: 8,
-    badge: "Also Worth Considering",
-    name: "Vaydeer Wrist Rest with Keyboard Stand Computer Ergonomic Wrist Support Pad",
-    price: "$24.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41f3AqjZwzL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F383DTDK?tag=theofficejournal-20",
-    description: "Vaydeer Wrist Rest with Keyboard Stand Computer Ergonomic Wrist Support Pad is a strong alternative worth comparing directly against the top pick. Tired of constantly adjusting a misaligned wrist rest that slides out of place? 12.5° For maximum wrist support during extended work sessions, reducing strain on tendons and joints, and 3° for a more subtle elevation ideal for quick tasks or casual use.\n\nDesk Mat, Large Gaming Mouse Pad with Wrist Rest, 4in1 XXL Mousepad Floral lands in a similar spot overall, but the deciding factor between the two is sink your wrists into the sumptuous embrace of our super soft memory foam desk wrist pad.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["2-In-1 keyboard stand with wrist rest", "2-Angle ergonomic adjustability", "Silicone bottom renders unmatched stability"],
-    pros: ["2-In-1 keyboard stand with wrist rest", "2-Angle ergonomic adjustability", "Silicone bottom renders unmatched stability", "Indulge in cloud-like softness"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-wrist-support-8",
+    "rank": 8,
+    "badge": "Best Keyboard Stand With Rest",
+    "name": "Vaydeer Wrist Rest with Keyboard Stand Computer Ergonomic Wrist Support Pad",
+    "price": "$24.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41f3AqjZwzL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F383DTDK?tag=theofficejournal-20",
+    "description": "The Vaydeer is a keyboard stand rather than a desk pad: it tilts the keyboard at 12.5 or 3 degrees and includes a wrist rest that stays aligned with it, addressing rests that slide out of place.\n\nPositive keyboard tilt is a matter of preference, and many ergonomics guides favor a flat or slightly negative angle, so the 3-degree setting may suit more people than 12.5.\n\nIt costs about $25 at the time of writing and does not cover the desk.",
+    "specs": [
+      "Type: keyboard stand with wrist rest",
+      "Tilt: 12.5° or 3°",
+      "Integrated rest"
+    ],
+    "pros": [
+      "Rest stays aligned",
+      "Two tilt settings"
+    ],
+    "cons": [
+      "Not a desk pad",
+      "Positive tilt not for everyone"
+    ],
+    "bestFor": "People whose wrist rest keeps sliding away from the keyboard.",
+    "summary": "A Vaydeer keyboard stand with integrated wrist rest and 12.5° or 3° tilt.",
+    "skipIf": "You want desk coverage; choose a pad set."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "Cloth, Leather, or Vinyl Surface Material",
-    "description": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface."
+    "title": "Contents and sizes",
+    "description": "We recorded what each set includes and its listed dimensions."
   },
   {
-    "title": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "description": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface."
+    "title": "Rest construction",
+    "description": "We noted rest thickness and foam type where listed."
   },
   {
-    "title": "Edge Stitching and Curl Resistance Over Time",
-    "description": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage."
-  },
-  {
-    "title": "Base Grip on Your Specific Desk Surface",
-    "description": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface."
-  },
-  {
-    "title": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "description": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Surface Material",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Soft feel for typing",
-          "MOSISO Wrist Rest Support for Mouse Pad& Keyboard Set"
-        ],
-        [
-          "Balance of feel and durability",
-          "Desk Mat, Large Gaming Mouse Pad with Wrist Rest, 4in1 XXL Mousepad Floral"
-        ],
-        [
-          "Wipeable, polished look",
-          "ENHANCE XXL Large Mouse Pad for Desk with 2XL Ergonomic Memory Foam Wrist Rest"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "MOSISO Wrist Rest Support for Mouse Pad& Keyboard Set"
-        ],
-        [
-          "Mid-range pick",
-          "MOSISO Keyboard Mouse Pad Set"
-        ],
-        [
-          "Higher budget",
-          "ENHANCE XXL Large Mouse Pad for Desk with 2XL Ergonomic Memory Foam Wrist Rest"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Cloth vs Leather",
-    "cards": [
-      {
-        "label": "Cloth (e.g. MOSISO Wrist Rest Support for Mouse Pad& Keyboard Set)",
-        "text": "Softer feel, absorbs spills, shows staining faster."
-      },
-      {
-        "label": "Leather/PU (e.g. ENHANCE XXL Large Mouse Pad for Desk with 2XL Ergonomic Memory Foam Wrist Rest)",
-        "text": "Wipes clean easily, more polished look, higher price."
-      }
-    ],
-    "note": "Match this to how much coffee and food realistically ends up near your desk."
-  },
-  {
-    "subheading": "By Setup Size",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Single keyboard and mouse",
-          "Desk Mat, Large Gaming Mouse Pad with Wrist Rest, 4in1 XXL Mousepad Floral"
-        ],
-        [
-          "Dual monitor, wider setup",
-          "Check for extra-large or extended sizing"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Daily Heavy Use Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Desk Mat, Large Gaming Mouse Pad with Wrist Rest, 4in1 XXL Mousepad Floral is worth checking against its specific edge construction before assuming any desk pad holds up the same."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want a wipeable, longer-lasting surface with a more polished look, where ENHANCE XXL Large Mouse Pad for Desk with 2XL Ergonomic Memory Foam Wrist Rest justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want straightforward daily protection and comfort, where MOSISO Wrist Rest Support for Mouse Pad& Keyboard Set already covers the job at the lowest price here."
-      }
-    ]
+    "title": "Price position",
+    "description": "Prices change often, so we treat them as relative position."
   }
 ];
 
 export const buyingCriteria = [
   {
-    "criterion": "Cloth, Leather, or Vinyl Surface Material",
-    "explanation": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface. PU leather and vinyl desk pads sacrifice a little of that soft feel for a surface you can actually wipe clean, and genuine leather sits between the two, developing a natural patina over years of use rather than just showing wear. Match the material to how much daily abuse (coffee, food, ink) the pad will realistically see."
+    "criterion": "Set or single piece",
+    "explanation": "Sets give separate keyboard and mouse rests you can position; the ENHANCE builds foam into the pad's front edge."
   },
   {
-    "criterion": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "explanation": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface. Lay your keyboard and mouse out in your actual working position, measure the combined width, and add about 4 inches of margin on each side; a 31 by 15 inch pad is a reasonable starting point for most single-monitor setups, but wider dual-monitor arrangements often need more."
+    "criterion": "Rest height",
+    "explanation": "The rest should roughly match your keyboard's front edge. Listed heights here are 0.79 to 1 inch."
   },
   {
-    "criterion": "Edge Stitching and Curl Resistance Over Time",
-    "explanation": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage. A stitched edge holds its flat shape considerably longer, while an unstitched raw-cut edge is more prone to fraying on cloth pads specifically, in addition to curling. This detail matters more the longer you expect to keep using the same pad daily."
+    "criterion": "Material",
+    "explanation": "PU (QiyI) wipes clean; cloth and neoprene feel softer but absorb spills unless coated."
   },
   {
-    "criterion": "Base Grip on Your Specific Desk Surface",
-    "explanation": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface. If your desk has a slicker finish, look specifically for a backing material designed for that surface type."
+    "criterion": "Pad size",
+    "explanation": "Desk pads here run from 31.5 to 35.4 inches wide; the MOSISO rest-only set and Vaydeer stand have no large pad."
+  }
+];
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By need",
+    "table": {
+      "headers": [
+        "Need",
+        "Consider",
+        "Why"
+      ],
+      "rows": [
+        [
+          "Complete set, budget",
+          "MOSISO set",
+          "All sizes listed"
+        ],
+        [
+          "Wipe-clean set",
+          "QiyI PU set",
+          "0.79\" memory foam rests"
+        ],
+        [
+          "Spill-resistant cloth",
+          "Waterproof-coated set",
+          "0.98\" rests"
+        ],
+        [
+          "One piece",
+          "ENHANCE XXL",
+          "1\" foam edge"
+        ],
+        [
+          "Add rests only",
+          "MOSISO rest set",
+          "About $13"
+        ],
+        [
+          "Rest that stays put",
+          "Vaydeer stand",
+          "Integrated rest"
+        ]
+      ]
+    }
   },
   {
-    "criterion": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "explanation": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there. The price jump from cloth to leather buys a wipeable, longer-lasting surface and often a more polished look for a shared or client-facing workspace, but a cloth pad remains the better value if the desk pad's job is purely functional cushioning and mouse tracking."
+    "subheading": "By price at the time of writing",
+    "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.",
+    "table": {
+      "headers": [
+        "Price tier",
+        "Products"
+      ],
+      "rows": [
+        [
+          "About $13–$19",
+          "MOSISO rest set, MOSISO set, floral set, waterproof set, MIBITRI"
+        ],
+        [
+          "About $25–$26",
+          "Vaydeer, QiyI"
+        ],
+        [
+          "About $50",
+          "ENHANCE XXL"
+        ]
+      ]
+    }
   }
 ];
 
 export const faq = [
   {
-    "q": "What's the difference between a desk pad and a mouse pad?",
-    "a": "A desk pad covers most or all of your desk surface (keyboard, mouse, and often a writing area), while a mouse pad covers just the small area under your mouse; a desk pad protects more of the desk and gives your mouse more room to move but costs more and takes up the whole surface."
+    "q": "Should I rest my wrists while typing?",
+    "a": "Many ergonomics guides suggest using a rest during pauses and keeping the wrists floating while typing. Use whatever feels comfortable, and see a clinician about persistent pain."
   },
   {
-    "q": "What size desk pad do I need?",
-    "a": "Measure your keyboard and mouse laid out side by side in your actual typing position and add roughly 4 inches of margin on each side; around 31 by 15 inches is a reasonable starting size for a single-monitor setup, though wider dual-monitor arrangements often need more."
+    "q": "How high should a wrist rest be?",
+    "a": "Roughly level with the front edge of your keyboard."
   },
   {
-    "q": "Is leather or cloth better for a desk pad?",
-    "a": "It depends on priorities: cloth feels better to write and mouse on but absorbs spills and shows staining faster, while leather (or PU leather/vinyl) wipes clean easily and looks more polished, at a higher price point ($30 to $60-plus versus $15 to $30 for cloth)."
+    "q": "Memory foam or gel?",
+    "a": "The products here use memory foam or cloth-covered foam; memory foam slowly conforms to the wrist."
   },
   {
-    "q": "Will my desk pad curl up at the corners over time?",
-    "a": "It's more likely without reinforced or stitched edges, especially on cloth pads that get rolled up for travel or storage; a stitched edge holds its flat shape considerably longer than an unstitched, raw-cut edge."
-  },
-  {
-    "q": "Will a desk pad slide around on my desk?",
-    "a": "It depends on matching the backing material to your desk's surface: a rubber non-slip base grips laminate and wood reliably but can slide more on glass or a glossy lacquered desktop, so check the backing type against your specific desk finish."
-  },
-  {
-    "q": "Can a desk pad double as a mouse pad and a keyboard mat?",
-    "a": "Yes, that's the main appeal of a desk pad over a separate mouse pad, since a properly sized one covers both your keyboard and mouse (and often a writing area) on one continuous surface, avoiding the seam between two separate smaller pads."
+    "q": "Do I need a full set?",
+    "a": "If you already have a desk pad, a rest-only set like the MOSISO is enough."
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-leather-desk-pads","title":"Best Leather Desk Pads"},{"href":"/guide/best-large-desk-pads","title":"Best Large Desk Pads"},{"href":"/guide/best-desk-pads-with-wrist-support","title":"Best Desk Pads with Wrist Support"}];
+export const bottomLine = [
+  "For a complete setup, the MOSISO set is the budget choice with every size listed, the QiyI adds wipe-clean PU and memory foam, and the waterproof-coated set suits spill-prone desks. The ENHANCE is worth paying more for if you want one piece with full-width foam.",
+  "If you already have a desk pad, the MOSISO rest set adds support for little money, and the Vaydeer suits anyone whose rest keeps drifting from the keyboard."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-leather-desk-pads",
+    "title": "Best Leather Desk Pads"
+  },
+  {
+    "href": "/guide/best-large-desk-pads",
+    "title": "Best Large Desk Pads"
+  },
+  {
+    "href": "/guide/best-desk-pads-with-wrist-support",
+    "title": "Best Desk Pads with Wrist Support"
+  }
+];

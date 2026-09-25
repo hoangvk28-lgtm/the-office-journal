@@ -1,339 +1,415 @@
-export const guideSlug = "best-desk-pads-with-pockets";
-export const guideTitle = "8 Best Desk Pads with Pockets in 2026";
-export const metaTitle = "Best Desk Pads with Pockets";
-export const metaDescription = "We compared desk pad with pockets models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
-export const mainKeyword = "desk pad with pockets";
-export const introParagraphs = [
-  "Across best desk pads with pockets, vary more than the keyword suggests, given that the real gap is in the details.",
-  "What separates these picks is verified edge durability, not marketing claims, since these separate real capability from claims."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/21ylmYjbL-L._SL500_.jpg";
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
+export const guideSlug = "best-desk-pads-with-pockets";
+
+export const guideTitle = "The Best Desk Pads With Lips and Edge Protection (and What About Pockets?)";
+
+export const breadcrumbLabel = "Best Desk Pads With Pockets";
+
+export const metaTitle = "Best Desk Pads With Pockets and Edge Lips (2026)";
+
+export const metaDescription = "None of the desk pads here list a built-in pocket. We compare leather-look and TPU pads with edge lips, sizes and backings, and explain what to look for if you need storage.";
+
+export const mainKeyword = "desk pad with pockets";
+
+export const introParagraphs = [
+  "A desk pad with a pocket or document sleeve keeps papers and a pen at hand without cluttering the surface. The eight pads in this guide, however, do not list a pocket in their specifications; several instead have a lip that folds over the desk edge, which protects the edge and holds the pad in place. We say so plainly rather than infer a feature the listings do not state.",
+  "If a pocket is essential, check product photos or ask the seller before buying. Otherwise, the useful comparisons here are size, surface material (PU leather-look or TPU), whether there is an edge lip, and the backing.",
+  "Our comparison is based on published specifications and price position, not hands-on testing. Prices range from about $10 to $97 at the time of writing."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const readTime = "11 min";
+
+export const heroImage = "https://m.media-amazon.com/images/I/21ylmYjbL-L._SL500_.jpg";
 
 export const products: GuideProduct[] = [
   {
-    id: "best-desk-pads-with-pockets-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "AKOZLIN Non-Slip 35.4\"x 15.8\" Soft PU Leather Surface Office Desk Mouse Mat Pad",
-    price: "$54.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/21ylmYjbL-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CD821N6S?tag=theofficejournal-20",
-    description: "AKOZLIN Non-Slip 35.4\"x 15.8\" Soft PU Leather Surface Office Desk Mouse Mat Pad is the top pick in this comparison. Wring out wet towel to scrub the mat, the mat is waterproof and wide surface area, with enough room for your laptop, keyboard, mouse, sketchbook or journal, this is the ideal partner for work. We pack the pad in a large box with air bubble film which can make the pad flat, but not roll it, when the desk pad flat can protect the lip effectively.no damaged.\n\nDesk Mat with Edge Protector for Keyboard and Mouse is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nThis one is the right call if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["35.4\"X 15.8\"", "4 Layers, PU, which make it smooth and soft;second:hard PVC", "Of the desk mat with edge-locked"],
-    pros: ["35.4\"X 15.8\"", "4 Layers, PU, which make it smooth and soft;second:hard PVC", "Of the desk mat with edge-locked", "Cleaning method"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
+    "id": "best-desk-pads-with-pockets-1",
+    "rank": 1,
+    "badge": "Best Overall With Edge Lip",
+    "name": "AKOZLIN Non-Slip 35.4\"x 15.8\" Soft PU Leather Surface Office Desk Mouse Mat Pad",
+    "price": "$54.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/21ylmYjbL-L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CD821N6S?tag=theofficejournal-20",
+    "description": "The AKOZLIN is the most complete pad here: a 35.4 x 15.8-inch pad with a soft PU leather surface over a harder PVC layer, and a full lip that locks over the desk's front edge.\n\nThe size fits a laptop or keyboard and mouse with room for a notebook. AKOZLIN says it ships flat, not rolled, to protect the lip, and the surface is waterproof and wipes clean.\n\nNo pocket is listed. It costs more than most plain pads here.",
+    "specs": [
+      "Size: 35.4 x 15.8\"",
+      "Construction: 4 layers, PU surface, PVC core",
+      "Edge lip: full, locks over desk edge",
+      "Waterproof, wipe clean",
+      "Pocket: not listed"
+    ],
+    "pros": [
+      "Edge lip protects and anchors",
+      "Generous size",
+      "Ships flat"
+    ],
+    "cons": [
+      "No pocket listed",
+      "Costs more than plain pads"
+    ],
+    "bestFor": "Desks where the front edge needs protection and the pad should stay put.",
+    "summary": "A 35.4 x 15.8-inch four-layer PU pad with an edge lip that locks over the desk.",
+    "skipIf": "You need a pocket; confirm with the seller or look for a pad that lists one."
   },
   {
-    id: "best-desk-pads-with-pockets-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "Desk Mat with Edge Protector for Keyboard and Mouse",
-    price: "$29.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/21PkqmQyk3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CD7XN8SG?tag=theofficejournal-20",
-    description: "Desk Mat with Edge Protector for Keyboard and Mouse is a strong alternative worth comparing directly against the top pick. Sized at 29.52” × 17.71” with 2.5mm thickness and a 0.6” full-length desk lip, this desk mat with edge lip provides ample workspace while fitting cleanly along standard desks. Constructed with a smooth tpu desk mat surface, reinforced inner layers for shape stability, and a textured anti-slip base.\n\nThe tpu top layer resists spills, scratches, and daily wear, a detail worth checking closely before choosing between this and AKOZLIN Non-Slip 35.4\"x 15.8\" Soft PU Leather Surface Office Desk Mouse Mat Pad.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Perfect size desk mat with full lip", "Constructed with a smooth tpu desk mat surface", "Ergonomic curved edge desk protector"],
-    pros: ["Perfect size desk mat with full lip", "Constructed with a smooth tpu desk mat surface", "Ergonomic curved edge desk protector", "Waterproof & scratch-resistant desk pad"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-pockets-2",
+    "rank": 2,
+    "badge": "Best TPU Pad With Lip",
+    "name": "Desk Mat with Edge Protector for Keyboard and Mouse",
+    "price": "$29.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/21PkqmQyk3L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CD7XN8SG?tag=theofficejournal-20",
+    "description": "This edge-protector mat uses a smooth TPU surface, which the seller says resists spills, scratches and wear, with a 0.6-inch curved lip along the front edge.\n\nAt 29.52 x 17.71 inches and 2.5mm thick, it is deeper than most pads here, and the textured base helps it grip.\n\nIt is narrower than the AKOZLIN and lists no pocket.",
+    "specs": [
+      "Size: 29.52 x 17.71\", 2.5mm",
+      "Surface: TPU",
+      "Edge lip: 0.6\", curved",
+      "Base: textured anti-slip",
+      "Pocket: not listed"
+    ],
+    "pros": [
+      "Curved edge lip",
+      "Deeper surface",
+      "Spill-resistant TPU (seller claim)"
+    ],
+    "cons": [
+      "Narrower",
+      "No pocket listed"
+    ],
+    "bestFor": "Buyers who want an edge lip at a moderate price.",
+    "summary": "A 29.5 x 17.7-inch TPU mat with a 0.6-inch curved edge lip and textured anti-slip base.",
+    "skipIf": "You need a wide pad for keyboard and mouse; the AKOZLIN is 35.4 inches."
   },
   {
-    id: "best-desk-pads-with-pockets-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "Lifup Office Desk Pad",
-    price: "$39.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41qJgB18gRL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F2YSF5YT?tag=theofficejournal-20",
-    description: "Lifup Office Desk Pad is a strong alternative worth comparing directly against the top pick. Made from premium PU leather, which can protect your desk from scratches, stains, spills, heat and scuffs. Our desk pad provides a shield against spills like water, drinks, and ink, keeping your desktop immaculate.\n\nSet next to AKOZLIN Non-Slip 35.4\"x 15.8\" Soft PU Leather Surface Office Desk Mouse Mat Pad, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Protect your desk", "Waterproof and easy to clean", "Edge protectuion"],
-    pros: ["Protect your desk", "Waterproof and easy to clean", "Edge protectuion", "Smooth gliding"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-pockets-3",
+    "rank": 3,
+    "badge": "Leather-Look Alternative",
+    "name": "Lifup Office Desk Pad",
+    "price": "$39.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41qJgB18gRL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2YSF5YT?tag=theofficejournal-20",
+    "description": "The Lifup is a PU leather pad that the seller says protects against scratches, spills, heat and ink, with edge protection and a smooth surface for a mouse.\n\nThe listing does not state dimensions, so check the size options before ordering.\n\nNo pocket is listed.",
+    "specs": [
+      "Surface: PU leather",
+      "Edge protection",
+      "Waterproof",
+      "Size: not stated",
+      "Pocket: not listed"
+    ],
+    "pros": [
+      "Wipe-clean PU",
+      "Edge protection"
+    ],
+    "cons": [
+      "Dimensions not listed",
+      "No pocket listed"
+    ],
+    "bestFor": "Buyers who want a leather-look pad and will confirm the size.",
+    "summary": "A PU leather desk pad with edge protection and a waterproof surface.",
+    "skipIf": "You want stated dimensions; the AKOZLIN and edge-protector mat list theirs."
   },
   {
-    id: "best-desk-pads-with-pockets-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "Office PU Leather Desk Pad, Non-Slip Writingmat with Full Grip Fixation Lip",
-    price: "$20.72",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41VfojsS1LL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B095KBRRQQ?tag=theofficejournal-20",
-    description: "Office PU Leather Desk Pad, Non-Slip Writingmat with Full Grip Fixation Lip is a strong alternative worth comparing directly against the top pick. 60X40 cm, 80x40 cm, 90x40 cm, 100x50 cm, 120x60 cm. Synthetic leather + non-slip suede underside.\n\nHeld up against AKOZLIN Non-Slip 35.4\"x 15.8\" Soft PU Leather Surface Office Desk Mouse Mat Pad, both cover the basics equally well, what actually separates them is the hard-wearing desk pad is water-repellent and scratch-resistant.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Product size", "Durable leather", "Hard-wearing desk pad is water-repellent and scratch-resistant"],
-    pros: ["Product size", "Durable leather", "Hard-wearing desk pad is water-repellent and scratch-resistant", "Large enough surface"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-pockets-4",
+    "rank": 4,
+    "badge": "Best Size Range",
+    "name": "Office PU Leather Desk Pad, Non-Slip Writingmat with Full Grip Fixation Lip",
+    "price": "$20.72",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41VfojsS1LL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B095KBRRQQ?tag=theofficejournal-20",
+    "description": "This PU leather writing mat is the pick if you need a specific size: it comes in 60 x 40, 80 x 40, 90 x 40, 100 x 50 and 120 x 60 cm, with a full grip lip and a non-slip suede underside.\n\nThe seller describes it as water-repellent and scratch-resistant, at about $21 at the time of writing.\n\nNo pocket is listed, and the price shown may apply to one size only.",
+    "specs": [
+      "Sizes: 60x40 to 120x60 cm",
+      "Surface: synthetic leather",
+      "Grip lip",
+      "Base: non-slip suede",
+      "Pocket: not listed"
+    ],
+    "pros": [
+      "Wide size choice",
+      "Grip lip",
+      "Low price"
+    ],
+    "cons": [
+      "Price varies by size",
+      "No pocket listed"
+    ],
+    "bestFor": "Desks that need a particular size, including large ones.",
+    "summary": "A PU pad with a full grip lip, sold in sizes from 60 x 40 cm to 120 x 60 cm.",
+    "skipIf": "You want a pocket; confirm with the seller."
   },
   {
-    id: "best-desk-pads-with-pockets-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "Desk Mat for Desktop",
-    price: "$18.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51OS8uekWCL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GCDK1795?tag=theofficejournal-20",
-    description: "Desk Mat for Desktop is a strong alternative worth comparing directly against the top pick. This large desk mat is large enough to accommodate your laptop, keyboard, mouse, coffee mug, and more. This cute, colorful patterned mouse pad is made of waterproof and durable PU leather, helping to protect your desktop from scratches, stains, liquid splashes, and high temperatures.\n\nAKOZLIN Non-Slip 35.4\"x 15.8\" Soft PU Leather Surface Office Desk Mouse Mat Pad is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Extended desktop protector size", "Waterproof and easy-to-clean desktop pad", "Made with premium PU material, the desk mat"],
-    pros: ["Extended desktop protector size", "Waterproof and easy-to-clean desktop pad", "Made with premium PU material, the desk mat", "Non-slip base"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-pockets-5",
+    "rank": 5,
+    "badge": "Best Patterned Pad",
+    "name": "Desk Mat for Desktop",
+    "price": "$18.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51OS8uekWCL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCDK1795?tag=theofficejournal-20",
+    "description": "This patterned desk mat suits anyone who wants some color: a waterproof PU leather mat with a cute pattern and a non-slip base, large enough for a laptop, keyboard and mouse according to the seller.\n\nThe listing does not give dimensions.\n\nNo pocket or edge lip is listed.",
+    "specs": [
+      "Surface: PU leather, patterned",
+      "Waterproof",
+      "Non-slip base",
+      "Size: not stated",
+      "Pocket: not listed"
+    ],
+    "pros": [
+      "Colorful design",
+      "Low price"
+    ],
+    "cons": [
+      "Dimensions not listed",
+      "No lip or pocket"
+    ],
+    "bestFor": "Home desks where a playful look is welcome.",
+    "summary": "A colorful patterned PU desk mat with a non-slip base.",
+    "skipIf": "You want a plain, professional look."
   },
   {
-    id: "best-desk-pads-with-pockets-6",
-    rank: 6,
-    badge: "Best Premium Pick",
-    name: "BUBM Non-Slip 31.5”x 15.8\" Soft Leather Surface Office Desk Mouse Mat Pad",
-    price: "$96.59",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51kd5Yn5aML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07K57SBNT?tag=theofficejournal-20",
-    description: "BUBM Non-Slip 31.5”x 15.8\" Soft Leather Surface Office Desk Mouse Mat Pad is the premium option here, positioned above the rest on price. Pack the pad in a large box with air bubble film which can make the pad flat, but not roll it, when the desk pad flat can protect the lip effectively.no damaged. Wide surface area, with enough room for your laptop, keyboard, mouse, sketchbook or journal.\n\nAKOZLIN Non-Slip 35.4\"x 15.8\" Soft PU Leather Surface Office Desk Mouse Mat Pad is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nGo with this pick if you are willing to spend the most in this comparison for the fuller feature set that comes with it. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["31.5”X 15.8\"", "4 Layers, PU leather, which make it smooth and soft;second:hard PVC", "Full lip of the desk mat with edge-locked"],
-    pros: ["31.5”X 15.8\"", "4 Layers, PU leather, which make it smooth and soft;second:hard PVC", "Full lip of the desk mat with edge-locked", "Pack the pad in a large box with air"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
+    "id": "best-desk-pads-with-pockets-6",
+    "rank": 6,
+    "badge": "BUBM Lipped Pad (Check Price)",
+    "name": "BUBM Non-Slip 31.5”x 15.8\" Soft Leather Surface Office Desk Mouse Mat Pad",
+    "price": "$96.59",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51kd5Yn5aML._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07K57SBNT?tag=theofficejournal-20",
+    "description": "The BUBM pad is similar in construction to the AKOZLIN: four layers with a soft PU surface over a harder PVC core, and a full lip that locks over the desk edge, shipped flat.\n\nAt 31.5 x 15.8 inches it is slightly narrower than the AKOZLIN.\n\nAt about $97 at the time of writing it costs much more than the near-identical AKOZLIN, which is hard to justify from the specifications. No pocket is listed.",
+    "specs": [
+      "Size: 31.5 x 15.8\"",
+      "Construction: 4 layers, PU surface, PVC core",
+      "Edge lip: full, locked",
+      "Pocket: not listed"
+    ],
+    "pros": [
+      "Edge lip",
+      "Ships flat"
+    ],
+    "cons": [
+      "Much more expensive than the similar AKOZLIN",
+      "No pocket listed"
+    ],
+    "bestFor": "Buyers who prefer BUBM, if the price drops.",
+    "summary": "A 31.5 x 15.8-inch four-layer PU pad with an edge-locked lip.",
+    "skipIf": "The AKOZLIN costs less for a larger, similar pad."
   },
   {
-    id: "best-desk-pads-with-pockets-7",
-    rank: 7,
-    badge: "Great Alternative",
-    name: "Hsurbtra Desk Pad",
-    price: "$11.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41Hml9Vg32L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08T1FQGB2?tag=theofficejournal-20",
-    description: "Hsurbtra Desk Pad is a strong alternative worth comparing directly against the top pick. Measures 30 x 14 inches, the desk pad can fully cover the desktop to protect your table from scratches or stainsand, large enough to accommodate your laptop, mouse, keyboard, books. Made of synthetic leather and finishing with treatments of buffing, coating and glazing.\n\nHeld up against AKOZLIN Non-Slip 35.4\"x 15.8\" Soft PU Leather Surface Office Desk Mouse Mat Pad, both cover the basics equally well, what actually separates them is suede material used for the back side for slip resistance.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Large and perfect size", "High quality material", "Multifunctional desk mat"],
-    pros: ["Large and perfect size", "High quality material", "Multifunctional desk mat", "Non-slip base & waterproof surface"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
+    "id": "best-desk-pads-with-pockets-7",
+    "rank": 7,
+    "badge": "Best Budget Leather-Look Pad",
+    "name": "Hsurbtra Desk Pad",
+    "price": "$11.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Hml9Vg32L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08T1FQGB2?tag=theofficejournal-20",
+    "description": "The Hsurbtra is the budget leather-look pad: 30 x 14 inches of coated synthetic leather with a suede back for grip and a waterproof surface.\n\nIt is large enough for a laptop and mouse.\n\nIt has no edge lip or listed pocket.",
+    "specs": [
+      "Size: 30 x 14\"",
+      "Surface: synthetic leather",
+      "Back: suede, non-slip",
+      "Pocket: not listed"
+    ],
+    "pros": [
+      "Low price",
+      "Non-slip back"
+    ],
+    "cons": [
+      "No lip or pocket",
+      "Smaller than the lipped pads"
+    ],
+    "bestFor": "Budget buyers who want a simple leather-look pad.",
+    "summary": "A 30 x 14-inch synthetic leather pad with a suede non-slip back for about $12.",
+    "skipIf": "You want an edge lip; the edge-protector mat or AKOZLIN have one."
   },
   {
-    id: "best-desk-pads-with-pockets-8",
-    rank: 8,
-    badge: "Best Value",
-    name: "Faux Leather Large Mouse Pad",
-    price: "$9.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41SQtu5JltL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXKCK2NF?tag=theofficejournal-20",
-    description: "Faux Leather Large Mouse Pad is the most affordable pick here that still clears the capability floor for this category. This pink flower desk pad measures 31.5\"×11.8\"(80×30cm), which is large enough to accommodate your laptop, keyboard, mouse, coffee cup and more. Made of water-resistant and durable PU leather, which protects your desktop from scratches, stains, heat and spills.easy to clean, just wipe with a wet cloth or tissue.\n\nThe gap between this and AKOZLIN Non-Slip 35.4\"x 15.8\" Soft PU Leather Surface Office Desk Mouse Mat Pad isn't in the essentials, it shows up in non-slip base can firmly grip the desktop to provide stable operation of the mouse and keyboard.\n\nReach for this pick if you want a genuinely capable pick without paying for headroom you won't use. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Extended size desk mat", "Protect your desk with ease", "Textured surface"],
-    pros: ["Extended size desk mat", "Protect your desk with ease", "Textured surface", "Non-slip desk cover"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
+    "id": "best-desk-pads-with-pockets-8",
+    "rank": 8,
+    "badge": "Lowest-Cost Option",
+    "name": "Faux Leather Large Mouse Pad",
+    "price": "$9.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41SQtu5JltL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXKCK2NF?tag=theofficejournal-20",
+    "description": "This faux leather mat is the cheapest here: a 31.5 x 11.8-inch pink floral PU pad that wipes clean and grips with a non-slip base.\n\nAt 11.8 inches deep it is shallow, better for a keyboard and mouse than a laptop plus notebook.\n\nNo lip or pocket is listed.",
+    "specs": [
+      "Size: 31.5 x 11.8\"",
+      "Surface: PU, floral",
+      "Non-slip base",
+      "Pocket: not listed"
+    ],
+    "pros": [
+      "Lowest price",
+      "Wipe clean"
+    ],
+    "cons": [
+      "Shallow",
+      "No lip or pocket"
+    ],
+    "bestFor": "A keyboard-and-mouse strip on a budget.",
+    "summary": "A 31.5 x 11.8-inch floral PU mat with a non-slip base for about $10.",
+    "skipIf": "You need depth for a laptop and notebook."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "Cloth, Leather, or Vinyl Surface Material",
-    "description": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface."
+    "title": "Features",
+    "description": "We checked each listing for pockets and edge lips."
   },
   {
-    "title": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "description": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface."
+    "title": "Size and material",
+    "description": "We recorded dimensions and surface materials, and flagged missing sizes."
   },
   {
-    "title": "Edge Stitching and Curl Resistance Over Time",
-    "description": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage."
-  },
-  {
-    "title": "Base Grip on Your Specific Desk Surface",
-    "description": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface."
-  },
-  {
-    "title": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "description": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Surface Material",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Soft feel for typing",
-          "Faux Leather Large Mouse Pad"
-        ],
-        [
-          "Balance of feel and durability",
-          "AKOZLIN Non-Slip 35.4\"x 15.8\" Soft PU Leather Surface Office Desk Mouse Mat Pad"
-        ],
-        [
-          "Wipeable, polished look",
-          "BUBM Non-Slip 31.5”x 15.8\" Soft Leather Surface Office Desk Mouse Mat Pad"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Faux Leather Large Mouse Pad"
-        ],
-        [
-          "Mid-range pick",
-          "Desk Mat with Edge Protector for Keyboard and Mouse"
-        ],
-        [
-          "Higher budget",
-          "BUBM Non-Slip 31.5”x 15.8\" Soft Leather Surface Office Desk Mouse Mat Pad"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Cloth vs Leather",
-    "cards": [
-      {
-        "label": "Cloth (e.g. Faux Leather Large Mouse Pad)",
-        "text": "Softer feel, absorbs spills, shows staining faster."
-      },
-      {
-        "label": "Leather/PU (e.g. BUBM Non-Slip 31.5”x 15.8\" Soft Leather Surface Office Desk Mouse Mat Pad)",
-        "text": "Wipes clean easily, more polished look, higher price."
-      }
-    ],
-    "note": "Match this to how much coffee and food realistically ends up near your desk."
-  },
-  {
-    "subheading": "By Setup Size",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Single keyboard and mouse",
-          "AKOZLIN Non-Slip 35.4\"x 15.8\" Soft PU Leather Surface Office Desk Mouse Mat Pad"
-        ],
-        [
-          "Dual monitor, wider setup",
-          "Check for extra-large or extended sizing"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Daily Heavy Use Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
-      },
-      {
-        "label": "In this comparison",
-        "text": "AKOZLIN Non-Slip 35.4\"x 15.8\" Soft PU Leather Surface Office Desk Mouse Mat Pad is worth checking against its specific edge construction before assuming any desk pad holds up the same."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want a wipeable, longer-lasting surface with a more polished look, where BUBM Non-Slip 31.5”x 15.8\" Soft Leather Surface Office Desk Mouse Mat Pad justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want straightforward daily protection and comfort, where Faux Leather Large Mouse Pad already covers the job at the lowest price here."
-      }
-    ]
+    "title": "Price position",
+    "description": "Prices change often, so we treat them as relative position."
   }
 ];
 
 export const buyingCriteria = [
   {
-    "criterion": "Cloth, Leather, or Vinyl Surface Material",
-    "explanation": "A cloth-top desk pad glides smoothly under a mouse and feels comfortable to write on, but it absorbs spills and shows wear and staining faster than a wipeable surface. PU leather and vinyl desk pads sacrifice a little of that soft feel for a surface you can actually wipe clean, and genuine leather sits between the two, developing a natural patina over years of use rather than just showing wear. Match the material to how much daily abuse (coffee, food, ink) the pad will realistically see."
+    "criterion": "Pocket or sleeve",
+    "explanation": "None of these listings state a pocket. If you need one, check photos or ask the seller."
   },
   {
-    "criterion": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "explanation": "Sizing a desk pad around the keyboard alone is a common mistake, since your mouse hand ends up working off the pad entirely on the bare desk surface. Lay your keyboard and mouse out in your actual working position, measure the combined width, and add about 4 inches of margin on each side; a 31 by 15 inch pad is a reasonable starting point for most single-monitor setups, but wider dual-monitor arrangements often need more."
+    "criterion": "Edge lip",
+    "explanation": "A lip over the front edge protects it and keeps the pad from sliding. The AKOZLIN, BUBM, edge-protector mat and grip-lip pad have one."
   },
   {
-    "criterion": "Edge Stitching and Curl Resistance Over Time",
-    "explanation": "A desk pad without reinforced or stitched edges is more likely to curl up at the corners after months of use, especially cloth pads that get repeatedly rolled up for travel or storage. A stitched edge holds its flat shape considerably longer, while an unstitched raw-cut edge is more prone to fraying on cloth pads specifically, in addition to curling. This detail matters more the longer you expect to keep using the same pad daily."
+    "criterion": "Size",
+    "explanation": "Measure the area for keyboard, mouse and anything you write on. Sizes here run from 30 x 14 inches to 120 x 60 cm."
   },
   {
-    "criterion": "Base Grip on Your Specific Desk Surface",
-    "explanation": "Whether a desk pad actually stays put depends on matching its backing to your desk's surface finish, not just trusting a generic 'non-slip' claim: a rubber base grips laminate and wood desks reliably, but the same rubber can slide more easily on glass or a glossy lacquered surface. If your desk has a slicker finish, look specifically for a backing material designed for that surface type."
+    "criterion": "Surface",
+    "explanation": "PU leather and TPU wipe clean; seller claims about scratch resistance are claims."
   },
   {
-    "criterion": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "explanation": "Solid cloth desk pads typically run $15 to $30, leather versions start around $30 to $60, and premium materials or larger custom sizes go higher from there. The price jump from cloth to leather buys a wipeable, longer-lasting surface and often a more polished look for a shared or client-facing workspace, but a cloth pad remains the better value if the desk pad's job is purely functional cushioning and mouse tracking."
+    "criterion": "Backing",
+    "explanation": "Suede or textured backs help the pad stay put."
+  }
+];
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By priority",
+    "table": {
+      "headers": [
+        "Priority",
+        "Consider",
+        "Why"
+      ],
+      "rows": [
+        [
+          "Edge lip, wide",
+          "AKOZLIN",
+          "35.4 x 15.8 inches"
+        ],
+        [
+          "Edge lip, moderate price",
+          "Edge-protector TPU mat",
+          "0.6-inch curved lip"
+        ],
+        [
+          "A specific size",
+          "Grip-lip PU pad",
+          "60x40 to 120x60 cm"
+        ],
+        [
+          "Budget leather look",
+          "Hsurbtra",
+          "About $12"
+        ],
+        [
+          "Color",
+          "Patterned mat or floral mat",
+          "Playful designs"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "By price at the time of writing",
+    "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.",
+    "table": {
+      "headers": [
+        "Price tier",
+        "Pads"
+      ],
+      "rows": [
+        [
+          "About $10–$21",
+          "Floral mat, Hsurbtra, patterned mat, grip-lip pad"
+        ],
+        [
+          "About $30–$55",
+          "Edge-protector mat, Lifup, AKOZLIN"
+        ],
+        [
+          "About $97",
+          "BUBM"
+        ]
+      ]
+    }
   }
 ];
 
 export const faq = [
   {
-    "q": "What's the difference between a desk pad and a mouse pad?",
-    "a": "A desk pad covers most or all of your desk surface (keyboard, mouse, and often a writing area), while a mouse pad covers just the small area under your mouse; a desk pad protects more of the desk and gives your mouse more room to move but costs more and takes up the whole surface."
+    "q": "Do any of these pads have pockets?",
+    "a": "None of the listings state a pocket or document sleeve. Check photos or ask the seller if you need one."
+  },
+  {
+    "q": "What does an edge lip do?",
+    "a": "It folds over the desk's front edge, protecting it and anchoring the pad."
   },
   {
     "q": "What size desk pad do I need?",
-    "a": "Measure your keyboard and mouse laid out side by side in your actual typing position and add roughly 4 inches of margin on each side; around 31 by 15 inches is a reasonable starting size for a single-monitor setup, though wider dual-monitor arrangements often need more."
+    "a": "Lay out your keyboard, mouse and notebook as you use them, measure, and add some margin."
   },
   {
-    "q": "Is leather or cloth better for a desk pad?",
-    "a": "It depends on priorities: cloth feels better to write and mouse on but absorbs spills and shows staining faster, while leather (or PU leather/vinyl) wipes clean easily and looks more polished, at a higher price point ($30 to $60-plus versus $15 to $30 for cloth)."
+    "q": "Is PU leather or TPU better?",
+    "a": "Both wipe clean. PU gives a leather look; TPU is smoother. Choose on look and feel."
   },
   {
-    "q": "Will my desk pad curl up at the corners over time?",
-    "a": "It's more likely without reinforced or stitched edges, especially on cloth pads that get rolled up for travel or storage; a stitched edge holds its flat shape considerably longer than an unstitched, raw-cut edge."
-  },
-  {
-    "q": "Will a desk pad slide around on my desk?",
-    "a": "It depends on matching the backing material to your desk's surface: a rubber non-slip base grips laminate and wood reliably but can slide more on glass or a glossy lacquered desktop, so check the backing type against your specific desk finish."
-  },
-  {
-    "q": "Can a desk pad double as a mouse pad and a keyboard mat?",
-    "a": "Yes, that's the main appeal of a desk pad over a separate mouse pad, since a properly sized one covers both your keyboard and mouse (and often a writing area) on one continuous surface, avoiding the seam between two separate smaller pads."
+    "q": "Will the pad slide?",
+    "a": "Suede or textured backs and edge lips help it stay in place."
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-leather-desk-pads","title":"Best Leather Desk Pads"},{"href":"/guide/best-large-desk-pads","title":"Best Large Desk Pads"},{"href":"/guide/best-desk-pads-with-wrist-support","title":"Best Desk Pads with Wrist Support"}];
+export const bottomLine = [
+  "None of these pads list a pocket, so if storage is essential, confirm with the seller. For a pad that stays put and protects the edge, the AKOZLIN is the complete choice and the TPU edge-protector mat the value alternative; the BUBM is similar to the AKOZLIN but far pricier.",
+  "For a plain pad, the grip-lip PU pad offers the most sizes, the Hsurbtra is the budget leather look, and the patterned and floral mats add color for little money."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-leather-desk-pads",
+    "title": "Best Leather Desk Pads"
+  },
+  {
+    "href": "/guide/best-large-desk-pads",
+    "title": "Best Large Desk Pads"
+  },
+  {
+    "href": "/guide/best-desk-pads-with-wrist-support",
+    "title": "Best Desk Pads with Wrist Support"
+  }
+];

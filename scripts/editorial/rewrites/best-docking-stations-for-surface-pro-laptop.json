@@ -1,0 +1,127 @@
+{
+  "guideTitle": "The Best USB-C and Thunderbolt Docks for Surface Pro and Surface Laptop",
+  "breadcrumbLabel": "Best Docks for Surface",
+  "metaTitle": "Best Docking Stations for Surface Pro and Surface Laptop (2026)",
+  "metaDescription": "We compared USB-C hubs and Thunderbolt 4 docks for recent Surface Pro and Surface Laptop models on displays, charging, ports and portability.",
+  "introParagraphs": [
+    "Recent Surface Pro and Surface Laptop models have USB-C, and some models also support Thunderbolt 4, so they work with standard USB-C hubs and Thunderbolt docks as well as Microsoft's own Surface Connect docks (not covered here). Check which ports your specific model has before choosing between a hub and a Thunderbolt dock.",
+    "Surface devices are often undocked and carried, so size matters as much as port count. Small hubs pass through your charger's power; larger docks and Thunderbolt docks supply their own and suit a permanent desk. How many external monitors you can run depends on the Surface model.",
+    "Our comparison is based on published specifications and price position, not hands-on testing. Prices range from about $27 to $270 at the time of writing."
+  ],
+  "products": {
+    "anker-prime-docking-station-14-port": {
+      "badge": "Best Powered Desk Dock",
+      "summary": "A 14-port USB-C dock with up to 160W output, dual 4K and 10Gbps data.",
+      "description": "The Anker Prime is the full desk dock for a USB-C Surface: 14 ports, up to 160W total output, dual 4K display support and 10Gbps data, listed for USB-C Windows laptops.\n\nIt stays on the desk and charges the Surface through one cable. It costs about $170 at the time of writing.",
+      "specs": ["Ports: 14", "Output: up to 160W", "Dual 4K", "10Gbps data"],
+      "pros": ["Most ports", "Own power"],
+      "cons": ["Desk-only size", "Expensive"],
+      "bestFor": "A permanent Surface desk with many peripherals.",
+      "skipIf": "You carry your dock; the Anker Nano is smaller."
+    },
+    "plugable-16-in-1-thunderbolt-4-dock": {
+      "badge": "Best Thunderbolt 4 Dock",
+      "summary": "A certified 16-in-1 Thunderbolt 4 dock with dual 4K, 100W charging and driverless setup.",
+      "description": "The Plugable 16-in-1 is the most complete dock for a Surface with Thunderbolt 4: certified, driverless, 16 ports, dual 4K display support and 100W charging.\n\nIt is the most expensive dock here at about $270 at the time of writing. On a Surface without Thunderbolt, a USB-C dock is the better value.",
+      "specs": ["Thunderbolt 4 certified", "Ports: 16", "Dual 4K", "Charging: 100W", "Driverless"],
+      "pros": ["Most ports on a TB4 dock", "Certified", "100W"],
+      "cons": ["Most expensive"],
+      "bestFor": "Thunderbolt-equipped Surface models at a full desk.",
+      "skipIf": "Your Surface lacks Thunderbolt."
+    },
+    "ugreen-7-in-1-revodok-pro": {
+      "badge": "Best Budget Hub",
+      "summary": "A 7-in-1 hub with dual 4K 60Hz HDMI, 10Gbps data and 100W pass-through.",
+      "description": "The UGREEN Revodok Pro 7-in-1 is the low-cost choice: two HDMI outputs listed for 4K 60Hz, 10Gbps data and 100W pass-through in a compact body, for about $27 at the time of writing.\n\nIt has no Ethernet or card reader.",
+      "specs": ["Outputs: 2 x HDMI 4K 60Hz", "10Gbps data", "Power pass-through: 100W", "Compact"],
+      "pros": ["Lowest price", "Compact"],
+      "cons": ["No Ethernet or SD"],
+      "bestFor": "Surface owners who need a monitor and a few ports.",
+      "skipIf": "You need Ethernet; the Anker 8-in-1 has it."
+    },
+    "plugable-thunderbolt-4-dock-tbt-udm": {
+      "badge": "Best Value Thunderbolt 4 Dock",
+      "summary": "A certified Thunderbolt 4 dock with dual 4K or single 6K and 100W charging.",
+      "description": "The Plugable TBT-UDM is the smaller, cheaper Thunderbolt 4 option: certified and driverless, with dual 4K HDMI or single 6K display support and 100W charging, in a compact desktop footprint.\n\nIt costs about $70 less than the Plugable 16-in-1 at the time of writing.",
+      "specs": ["Thunderbolt 4 certified", "Dual 4K HDMI or single 6K", "Charging: 100W", "Driverless", "Compact"],
+      "pros": ["Certified", "Smaller and cheaper than the 16-in-1"],
+      "cons": ["Fewer ports than the 16-in-1"],
+      "bestFor": "Thunderbolt Surface models on a smaller desk.",
+      "skipIf": "You need the most ports; the 16-in-1 has more."
+    },
+    "anker-laptop-docking-station-8-in-1": {
+      "badge": "Best Budget Hub With Ethernet",
+      "summary": "An 8-in-1 hub with two HDMI ports, Ethernet and 85W pass-through.",
+      "description": "The Anker 8-in-1 adds gigabit Ethernet to two HDMI outputs and 85W pass-through in a compact size, for about $54 at the time of writing.\n\nIts small size suits Surface owners who undock often.",
+      "specs": ["Outputs: 2 x HDMI", "Gigabit Ethernet", "Power pass-through: 85W", "Compact"],
+      "pros": ["Ethernet", "Portable"],
+      "cons": ["85W pass-through"],
+      "bestFor": "Surface users who want wired networking in a small hub.",
+      "skipIf": "You do not need Ethernet."
+    },
+    "acer-usb-c-docking-station-9-in-1": {
+      "badge": "Budget Hub (Few Specs)",
+      "summary": "An Acer 9-in-1 hub with two HDMI ports for about $35.",
+      "description": "The Acer 9-in-1 offers two HDMI outputs in a compact dock for about $35 at the time of writing, but the listing gives few other details.",
+      "specs": ["Ports: 9-in-1", "Outputs: 2 x HDMI"],
+      "pros": ["Low price"],
+      "cons": ["Few specifications"],
+      "bestFor": "Simple two-monitor setups.",
+      "skipIf": "You want stated specifications."
+    },
+    "anker-nano-laptop-docking-station-8-in-1": {
+      "badge": "Most Portable",
+      "summary": "A nano 8-in-1 hub with 4K HDMI, SD/TF and 85W pass-through.",
+      "description": "The Anker Nano 8-in-1 is the most portable option here, with 4K 60Hz HDMI, 10Gbps USB-C, two USB-A ports, an SD/TF reader and 85W pass-through, for about $30 at the time of writing.",
+      "specs": ["HDMI 4K 60Hz", "SD/TF", "Power pass-through: 85W", "Nano size"],
+      "pros": ["Smallest", "Card reader"],
+      "cons": ["No Ethernet"],
+      "bestFor": "Surface owners who carry a hub.",
+      "skipIf": "You need Ethernet."
+    },
+    "anker-nano-13-in-1-laptop-docking-station": {
+      "badge": "Best for Three Displays",
+      "summary": "A 13-in-1 dock with 2 HDMI + DisplayPort and a detachable travel hub.",
+      "description": "The Anker Nano 13-in-1 supports up to three displays, with 10Gbps USB-C, up to 100W power delivery and a detachable 6-in-1 module that can travel with the Surface.\n\nThree displays depend on your Surface model's support.",
+      "specs": ["Displays: up to 3", "10Gbps USB-C", "Up to 100W", "Detachable 6-in-1"],
+      "pros": ["Three displays", "Travel module"],
+      "cons": ["Model-dependent display count"],
+      "bestFor": "Multi-monitor Surface desks without a Thunderbolt dock.",
+      "skipIf": "You use one or two monitors."
+    }
+  },
+  "buyingCriteria": [
+    { "criterion": "Your Surface's ports", "explanation": "Check whether your model has Thunderbolt 4 or USB-C only." },
+    { "criterion": "Portability", "explanation": "If you undock often, a small hub (Anker Nano, UGREEN) is easier to carry." },
+    { "criterion": "Charging", "explanation": "Hubs pass through your charger; powered and Thunderbolt docks supply up to 100–160W." },
+    { "criterion": "Displays", "explanation": "External monitor support varies by Surface model." }
+  ],
+  "howWeEvaluated": [
+    { "title": "Connection type", "description": "We separated USB-C hubs, powered docks and certified Thunderbolt 4 docks." },
+    { "title": "Displays, charging and ports", "description": "We compared listed outputs, power and extras." },
+    { "title": "Size and price", "description": "We considered portability and price position." }
+  ],
+  "howToChoose": [
+    { "subheading": "By need", "table": { "headers": ["Need", "Consider", "Why"], "rows": [
+      ["Thunderbolt Surface, full desk", "Plugable 16-in-1", "16 ports, 100W"],
+      ["Thunderbolt Surface, compact", "Plugable TBT-UDM", "Certified, smaller"],
+      ["USB-C desk dock", "Anker Prime", "14 ports, 160W"],
+      ["Carry with the Surface", "Anker Nano 8-in-1", "Smallest"],
+      ["Budget", "UGREEN 7-in-1", "About $27"]
+    ] } },
+    { "subheading": "By price at the time of writing", "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.", "table": { "headers": ["Price tier", "Docks"], "rows": [
+      ["About $27–$54", "UGREEN, Anker Nano 8-in-1, Acer, Anker 8-in-1"],
+      ["About $120–$170", "Anker Nano 13-in-1, Anker Prime"],
+      ["About $200–$270", "Plugable TBT-UDM, Plugable 16-in-1"]
+    ] } }
+  ],
+  "faq": [
+    { "q": "Do I need a Surface Dock?", "a": "No. Recent Surface models with USB-C work with standard USB-C hubs and, if they support it, Thunderbolt docks. Microsoft's Surface Connect docks are an alternative not covered here." },
+    { "q": "Does my Surface support Thunderbolt?", "a": "It depends on the model. Check Microsoft's specifications for yours." },
+    { "q": "How many monitors can my Surface run?", "a": "It depends on the model; check Microsoft's documentation before buying a multi-display dock." }
+  ],
+  "bottomLine": [
+    "For a Surface you carry, the Anker Nano 8-in-1 and UGREEN 7-in-1 are the compact, inexpensive choices, and the Anker 8-in-1 adds Ethernet.",
+    "At a permanent desk, the Plugable Thunderbolt docks suit Thunderbolt-equipped models, the Anker Prime is the powered USB-C option, and the Anker Nano 13-in-1 handles three displays."
+  ]
+}

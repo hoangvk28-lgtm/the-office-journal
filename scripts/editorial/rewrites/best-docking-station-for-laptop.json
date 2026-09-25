@@ -1,0 +1,129 @@
+{
+  "guideTitle": "The Best Laptop Docking Stations, From $27 Hubs to Thunderbolt 4",
+  "breadcrumbLabel": "Best Laptop Docking Stations",
+  "metaTitle": "Best Docking Stations for Laptops: USB-C Hubs and Thunderbolt 4 Docks (2026)",
+  "metaDescription": "We compared laptop docking stations on display outputs, charging, ports and Thunderbolt certification, from budget UGREEN and Anker hubs to Plugable and UGREEN Thunderbolt 4 docks.",
+  "introParagraphs": [
+    "A laptop dock turns one cable into a desk setup: monitors, keyboard, mouse, network and charging. The first decision is between a USB-C hub, which is inexpensive and passes through your laptop charger's power, and a powered dock or Thunderbolt 4 dock, which costs more and adds its own power and bandwidth.",
+    "Then check what your laptop supports. Two or three external monitors through a dock depend on the laptop's USB-C or Thunderbolt port; many laptops, and base Apple M-series MacBooks, support fewer external displays than a dock's port count suggests. Thunderbolt 4 certification helps with compatibility on Thunderbolt laptops.",
+    "Our comparison is based on published specifications and price position, not hands-on testing. Prices range from about $27 to $200 at the time of writing."
+  ],
+  "products": {
+    "anker-prime-docking-station-14-port": {
+      "badge": "Best Powered Desk Dock",
+      "summary": "A 14-port dock with up to 160W output, 10Gbps data and dual 4K support.",
+      "description": "The Anker Prime is the most complete non-Thunderbolt dock here: 14 ports, up to 160W total output, 10Gbps data and dual 4K display support, listed for Dell, HP, Lenovo and other Windows laptops.\n\nIt suits a permanent desk with many peripherals and a laptop that should charge through the dock.\n\nIt costs about $170 at the time of writing, close to the Thunderbolt docks.",
+      "specs": ["Ports: 14", "Output: up to 160W", "10Gbps data", "Dual 4K", "Listed for Windows laptops"],
+      "pros": ["Most ports and power here", "Fast data"],
+      "cons": ["Expensive for a non-Thunderbolt dock"],
+      "bestFor": "Windows desks with many peripherals.",
+      "skipIf": "You have a Thunderbolt laptop; a certified TB4 dock may suit better at a similar price."
+    },
+    "anker-laptop-docking-station-8-in-1": {
+      "badge": "Best Budget Hub With Ethernet",
+      "summary": "An 8-in-1 hub with two HDMI ports, gigabit Ethernet, 85W pass-through and SD.",
+      "description": "The Anker 8-in-1 is the budget pick if you need wired networking: two HDMI outputs listed for dual 4K, gigabit Ethernet, 85W power pass-through and an SD slot, for about $54 at the time of writing.\n\nDual displays depend on your laptop, and you need your own charger for pass-through.",
+      "specs": ["Outputs: 2 x HDMI (dual 4K listed)", "Gigabit Ethernet", "Power pass-through: 85W", "SD slot"],
+      "pros": ["Ethernet", "Two HDMI outputs"],
+      "cons": ["Charger not included", "Dual display laptop-dependent"],
+      "bestFor": "Home offices that need Ethernet and two monitors.",
+      "skipIf": "You do not need Ethernet; the UGREEN 7-in-1 costs half as much."
+    },
+    "ugreen-7-in-1-docking-station-revodok-pro": {
+      "badge": "Best Budget Hub",
+      "summary": "An aluminum 7-in-1 hub with dual 4K 60Hz HDMI, 10Gbps data and 100W pass-through.",
+      "description": "The UGREEN 7-in-1 is the lowest-priced option here at about $27 at the time of writing, with two HDMI outputs listed for 4K 60Hz, 10Gbps USB-A and USB-C data, and 100W pass-through in an aluminum body.\n\nIt has no Ethernet or card reader.",
+      "specs": ["Outputs: 2 x HDMI 4K 60Hz", "10Gbps USB-A/C", "Power pass-through: 100W", "Aluminum"],
+      "pros": ["Lowest price", "Fast data", "100W pass-through"],
+      "cons": ["No Ethernet or SD"],
+      "bestFor": "Simple two-monitor setups on a budget.",
+      "skipIf": "You need Ethernet; the Anker 8-in-1 has it."
+    },
+    "anker-nano-13-in-1-laptop-docking-station": {
+      "badge": "Best for Three Displays",
+      "summary": "A 13-in-1 dock with two HDMI and a DisplayPort, plus a detachable 6-in-1 travel hub.",
+      "description": "The Anker Nano 13-in-1 supports three displays (two HDMI and one DisplayPort), with 10Gbps USB-C, three USB-A ports and up to 100W power delivery.\n\nIts detachable 6-in-1 module can travel with you while the main dock stays on the desk.\n\nThree displays depend on your laptop, and it costs about $120 at the time of writing.",
+      "specs": ["Displays: up to 3 (2 x HDMI, 1 x DP)", "10Gbps USB-C, 3 x USB-A", "Power delivery: up to 100W", "Detachable 6-in-1 hub"],
+      "pros": ["Three displays", "Detachable travel hub"],
+      "cons": ["Laptop-dependent display count"],
+      "bestFor": "Three-monitor desks that also travel.",
+      "skipIf": "You use one or two monitors; a cheaper hub is enough."
+    },
+    "acer-usb-c-docking-station-9-in-1": {
+      "badge": "Budget Hub (Few Specs)",
+      "summary": "An Acer 9-in-1 hub with two HDMI ports for about $35.",
+      "description": "The Acer 9-in-1 offers two HDMI ports for about $35 at the time of writing.\n\nThe listing gives few other details: no power delivery, data speed or Ethernet information. Check the full listing before buying.",
+      "specs": ["Ports: 9-in-1", "Outputs: 2 x HDMI"],
+      "pros": ["Low price", "Laptop brand"],
+      "cons": ["Few specifications listed"],
+      "bestFor": "Simple two-monitor setups, especially with an Acer laptop.",
+      "skipIf": "You want stated specifications; the UGREEN 7-in-1 lists more for less."
+    },
+    "anker-nano-laptop-docking-station-8-in-1": {
+      "badge": "Most Compact Hub",
+      "summary": "A pocket-size 8-in-1 hub with 4K HDMI, 10Gbps USB-C, SD/TF and 85W pass-through.",
+      "description": "The Anker Nano 8-in-1 is the compact option: 4K 60Hz HDMI, a 10Gbps USB-C port, two USB-A ports, an SD/TF reader and 85W pass-through, for about $30 at the time of writing.\n\nIt suits travel as well as the desk.",
+      "specs": ["HDMI: 4K 60Hz", "10Gbps USB-C, 2 x USB-A", "SD/TF reader", "Power pass-through: 85W"],
+      "pros": ["Compact", "Card reader", "Low price"],
+      "cons": ["No Ethernet"],
+      "bestFor": "Travel and small desks.",
+      "skipIf": "You need Ethernet; the Anker 8-in-1 has it."
+    },
+    "plugable-thunderbolt-4-dock-tbt-udm": {
+      "badge": "Best Thunderbolt 4 Dock",
+      "summary": "A certified, driverless Thunderbolt 4 dock with 100W charging, dual 4K or single 6K.",
+      "description": "The Plugable TBT-UDM is Thunderbolt 4 certified, which means it has passed Intel's certification for compatibility with Thunderbolt laptops. It is driverless, charges at 100W, and supports dual 4K HDMI displays or a single 6K display, with six USB ports, SD and Ethernet.\n\nIt costs about $200 at the time of writing, the most here.",
+      "specs": ["Thunderbolt 4 certified", "Charging: 100W", "Dual 4K HDMI or single 6K", "USB: 6; SD; Ethernet", "Driverless"],
+      "pros": ["Certified compatibility", "100W charging", "Full ports"],
+      "cons": ["Most expensive"],
+      "bestFor": "Thunderbolt laptops that should charge and connect through one cable.",
+      "skipIf": "Your laptop lacks Thunderbolt; a USB-C hub costs far less."
+    },
+    "ugreen-8-in-1-thunderbolt-4-revodok-max-208": {
+      "badge": "Best Value Thunderbolt 4 Dock",
+      "summary": "A certified Thunderbolt 4 dock with three TB4 ports, dual 4K or single 8K, and 85W charging.",
+      "description": "The UGREEN Revodok Max 208 is a Thunderbolt 4 certified dock at 40Gbps with three Thunderbolt 4 ports, supporting dual 4K 60Hz or a single 8K display, 85W charging, gigabit Ethernet and three USB-A ports.\n\nUGREEN lists compatibility with Macs from M1 to M4 Pro and Max. It costs about $25 less than the Plugable at the time of writing, with less charging power.",
+      "specs": ["Thunderbolt 4 certified, 40Gbps", "3 x Thunderbolt 4", "Dual 4K 60Hz or single 8K", "Charging: 85W", "Gigabit Ethernet, 3 x USB-A"],
+      "pros": ["Three downstream TB4 ports", "Cheaper than the Plugable"],
+      "cons": ["85W charging"],
+      "bestFor": "Thunderbolt laptops that need extra Thunderbolt ports.",
+      "skipIf": "Your laptop needs more than 85W; the Plugable offers 100W."
+    }
+  },
+  "buyingCriteria": [
+    { "criterion": "Hub or dock", "explanation": "Hubs pass through your charger's power; powered and Thunderbolt docks supply their own." },
+    { "criterion": "Displays your laptop supports", "explanation": "Two or three outputs only help if the laptop can drive them. Check its documentation." },
+    { "criterion": "Charging", "explanation": "Match or exceed your laptop charger's wattage: 85W to 160W here." },
+    { "criterion": "Ports", "explanation": "Ethernet, SD readers and fast USB vary. Buy the ports you use." },
+    { "criterion": "Thunderbolt 4", "explanation": "Certified docks (Plugable, UGREEN Max) suit Thunderbolt laptops and offer more bandwidth." }
+  ],
+  "howWeEvaluated": [
+    { "title": "Type and power", "description": "We separated hubs, powered docks and Thunderbolt docks and recorded charging wattage." },
+    { "title": "Displays and ports", "description": "We compared listed outputs, data speeds and extras." },
+    { "title": "Price position", "description": "Prices change often, so we treat them as relative position." }
+  ],
+  "howToChoose": [
+    { "subheading": "By need", "table": { "headers": ["Need", "Consider", "Why"], "rows": [
+      ["Cheapest two-monitor hub", "UGREEN 7-in-1", "About $27"],
+      ["Ethernet on a budget", "Anker 8-in-1", "Gigabit, two HDMI"],
+      ["Travel", "Anker Nano 8-in-1", "Compact"],
+      ["Three monitors", "Anker Nano 13-in-1", "2 HDMI + DP"],
+      ["Many peripherals, Windows", "Anker Prime", "14 ports, 160W"],
+      ["Thunderbolt laptop", "Plugable or UGREEN Max 208", "Certified TB4"]
+    ] } },
+    { "subheading": "By price at the time of writing", "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.", "table": { "headers": ["Price tier", "Docks"], "rows": [
+      ["About $27–$54", "UGREEN 7-in-1, Anker Nano 8-in-1, Acer 9-in-1, Anker 8-in-1"],
+      ["About $120", "Anker Nano 13-in-1"],
+      ["About $170–$200", "Anker Prime, UGREEN Max 208, Plugable"]
+    ] } }
+  ],
+  "faq": [
+    { "q": "Do I need a Thunderbolt dock?", "a": "Only if your laptop has Thunderbolt and you want its bandwidth, or the dock's certification. A USB-C hub covers most simple setups." },
+    { "q": "Will a dock charge my laptop?", "a": "Powered docks do. Hubs pass through power from your charger; check the listed wattage." },
+    { "q": "Why won't my second monitor show a separate image?", "a": "Your laptop may support fewer external displays over USB-C than the dock has outputs, or may mirror. Check its documentation." }
+  ],
+  "bottomLine": [
+    "For most laptops, a hub is enough: the UGREEN 7-in-1 for two monitors at the lowest price, the Anker 8-in-1 if you need Ethernet, the Anker Nano for travel, and the Nano 13-in-1 for three displays.",
+    "For a Thunderbolt laptop, the UGREEN Revodok Max 208 is the value certified dock and the Plugable adds 100W charging. The Anker Prime suits Windows desks with many peripherals."
+  ]
+}

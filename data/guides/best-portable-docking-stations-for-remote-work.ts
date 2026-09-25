@@ -1,491 +1,438 @@
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+
 export const guideSlug = "best-portable-docking-stations-for-remote-work";
-export const guideTitle = "8 Best Portable Docking Stations for Remote Work in 2026";
-export const metaTitle = "Best Portable Docking Stations for Remote Work in 2026";
-export const metaDescription =
-  "8 best portable docking stations for remote work in 2026, from a $26.96 bus-powered hub to a $169.99 AC-powered desk anchor. Compare weight, power, and ports.";
+
+export const guideTitle = "The Best Portable Docking Stations for Working From Anywhere";
+
+export const breadcrumbLabel = "Best Portable Docking Stations";
+
+export const metaTitle = "Best Portable Docking Stations for Remote Work (2026)";
+
+export const metaDescription = "We compared travel hubs and powered docks for remote work on size, display outputs, power pass-through, Ethernet and card readers, from pocket hubs to an all-day desk dock.";
+
 export const mainKeyword = "portable docking station for remote work";
+
 export const introParagraphs = [
-  "A docking station for remote work has to do two different jobs depending on where you are: sit quietly on a home desk running three monitors, or fold into a bag and survive a coffee shop, a co-working space, and a hotel room in the same week. Bus-powered hubs that draw power straight from your laptop pack down small but can't charge your laptop while running displays, while AC-powered docks add a brick and some weight in exchange for charging your laptop and driving displays at the same time.",
-  "Below are 8 portable docking stations for remote work we evaluated on weight, port mix, power delivery, and how each one actually behaves once you're away from a home office, ranging from a $26.96 pocketable 7-in-1 hub to a $169.99 14-port dock built for a stable, all-day desk setup.",
+  "A remote worker's dock often has two jobs: sit on a home desk running monitors, and travel to a hotel, café or co-working desk. Small hubs that draw power from the laptop are easy to carry; powered docks with their own adapter can charge the laptop and run more, but they are bigger and stay put.",
+  "Whatever you choose, how many monitors you can run depends on your laptop. Many laptops, including base Apple M-series models, support only one or two external displays over USB-C, and a hub's dual HDMI may mirror rather than extend. Check your laptop's documentation first.",
+  "Our comparison is based on published specifications, port configurations, power design and price position, not hands-on testing. Prices range from about $27 to $170 at the time of writing."
 ];
+
 export const lastUpdated = "2026-07-18";
+
 export const readTime = "10 min";
+
 export const heroImage = "https://m.media-amazon.com/images/I/41HZ73O5J4L._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string;
-  rank: number;
-  badge: string;
-  name: string;
-  price: string;
-  rating: string;
-  reviews: string;
-  imageUrl: string;
-  amazonUrl: string;
-  description: string;
-  specs: string[];
-  pros: string[];
-  cons: string[];
-  bestFor: string;
-}
-
-export interface BuyingCriterion {
-  criterion: string;
-  explanation: string;
-}
-
-export interface FaqItem {
-  q: string;
-  a: string;
-}
 
 export const products: GuideProduct[] = [
   {
-    id: "ugreen-10-in-1-revodok-pro-210",
-    rank: 1,
-    badge: "Best Overall for Remote Work",
-    name: "UGREEN 10-in-1 USB C Docking Station (Revodok Pro 210)",
-    price: "$39.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/41HZ73O5J4L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BXDQS4BD?tag=theofficejournal-20",
-    description:
-      "The UGREEN Revodok Pro 210 balances a genuinely portable footprint with dual 4K HDMI output, gigabit ethernet, and 100W pass-through charging, which is the combination most remote workers need without carrying two devices. It is bus-powered, so it draws from your laptop rather than needing its own brick, which keeps it light enough for a daily bag.\n\nA 5Gbps USB-C and USB-A data port plus an SD/TF 3.0 card reader round it out for anyone offloading photos or video on the road. Because it has no power brick of its own, it also clears airport security screening without needing a separate bin the way plug-in docks do.\n\nA genuine advantage here is that dual 4K output covers most remote desk setups. The tradeoff is that bus-powered, so it can't charge your laptop and power displays simultaneously the way an AC dock can.",
-    specs: [
-      "10-in-1 USB-C hub, bus-powered",
-      "Dual HDMI, single 8K@30Hz or dual 4K@60Hz",
-      "100W PD pass-through charging",
-      "Gigabit ethernet, 5Gbps USB-C/USB-A data",
-      "SD/TF 3.0 card reader",
+    "id": "ugreen-10-in-1-revodok-pro-210",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "UGREEN 10-in-1 USB C Docking Station (Revodok Pro 210)",
+    "price": "$39.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/41HZ73O5J4L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXDQS4BD?tag=theofficejournal-20",
+    "description": "The UGREEN Revodok Pro 210 is the sensible all-rounder for travel and home: a compact 10-in-1 hub with HDMI (listed for dual 4K 60Hz or a single 8K 30Hz display), 100W power pass-through, gigabit Ethernet, 5Gbps USB-C and USB-A, and an SD/TF reader.\n\nIt needs no power brick of its own, so it is light for a daily bag, and wired Ethernet is useful where hotel or café Wi-Fi is unreliable.\n\nTo charge the laptop you plug your own charger into its pass-through port. Dual-display support depends on your laptop.",
+    "specs": [
+      "Ports: 10-in-1, bus-powered",
+      "Display: dual 4K 60Hz or single 8K 30Hz (laptop-dependent)",
+      "Power pass-through: 100W",
+      "Gigabit Ethernet, 5Gbps USB",
+      "SD/TF reader"
     ],
-    pros: [
-      "No separate power brick to pack or forget",
-      "Dual 4K output covers most remote desk setups",
-      "Gigabit ethernet for reliable video calls",
-      "Clears airport security without a separate bin",
+    "pros": [
+      "Light, no brick",
+      "Ethernet and card reader",
+      "100W pass-through"
     ],
-    cons: [
-      "Bus-powered, so it can't charge your laptop and power displays simultaneously the way an AC dock can",
-      "USB-A data port speed varies by use, verify before relying on it for a 4K webcam",
-      "Not self-powered, needs a laptop with enough USB-C power output",
+    "cons": [
+      "Needs your own charger for pass-through",
+      "Dual display depends on laptop"
     ],
-    bestFor: "Remote workers who want one light, bus-powered dock for hotel rooms and co-working desks",
+    "bestFor": "Remote workers who want one light hub for home and travel.",
+    "summary": "A compact 10-in-1 hub with HDMI, 100W pass-through, Ethernet and an SD/TF reader.",
+    "skipIf": "You want the dock to charge the laptop by itself; the Anker Prime or HP Dock G5 have their own power."
   },
   {
-    id: "anker-prime-14-port-160w",
-    rank: 2,
-    badge: "Best AC-Powered All-Day Dock",
-    name: "Anker Prime Docking Station, 14-Port with 160W Max Output",
-    price: "$169.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/31ptzq7E2JL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CW9249DK?tag=theofficejournal-20",
-    description:
-      "The Anker Prime is the pick for remote workers who have one anchor location, a home office or a permanent desk at a co-working space, and want a dock that stays plugged in and charges the laptop while driving dual 4K displays at the same time. Its own 160W power supply means it isn't limited by what the laptop's USB-C port can output.\n\nA real-time smart interface, 10Gbps data transfer, and dedicated audio and ethernet ports make it feel closer to a permanent workstation than a travel accessory. It's heavier than the bus-powered picks in this list, so it's better left at a fixed location than carried daily.\n\nOwn power supply, not limited by laptop USB-C output. That said, power brick must go in a separate bin at airport security. Neither should be a surprise once you know to look for it.",
-    specs: [
-      "14-Port dock with dedicated 160W power supply",
+    "id": "anker-prime-14-port-160w",
+    "rank": 2,
+    "badge": "Best Desk Dock",
+    "name": "Anker Prime Docking Station, 14-Port with 160W Max Output",
+    "price": "$169.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/31ptzq7E2JL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9249DK?tag=theofficejournal-20",
+    "description": "The Anker Prime is the pick for a fixed home or co-working desk: a 14-port dock with its own 160W power supply, so it can charge the laptop while running two 4K displays and peripherals.\n\nIt adds 10Gbps data, audio and Ethernet ports, and a small display showing real-time status.\n\nIt is the most expensive dock here at the time of writing and too bulky for daily carrying.",
+    "specs": [
+      "Ports: 14",
+      "Power: dedicated 160W supply",
       "Dual 4K display support",
-      "10Gbps fast data transfer",
-      "Dedicated audio and ethernet ports",
-      "Real-time smart interface display",
+      "10Gbps data",
+      "Ethernet, audio",
+      "Status display"
     ],
-    pros: [
-      "Charges laptop and drives dual 4K displays at the same time",
-      "Own power supply, not limited by laptop USB-C output",
-      "10Gbps data transfer is fast for large file work",
-      "Feels like a permanent desk anchor, not a travel hub",
+    "pros": [
+      "Charges the laptop on its own",
+      "Most ports here",
+      "Fast data"
     ],
-    cons: [
-      "Power brick must go in a separate bin at airport security",
-      "Heaviest pick in this list, not ideal for daily carry",
-      "Overkill if you only need a single external display",
+    "cons": [
+      "Most expensive here",
+      "Not for travel"
     ],
-    bestFor: "Remote workers with a fixed desk who want charging and dual 4K displays running at once",
+    "bestFor": "A permanent desk that one cable should fully power.",
+    "summary": "A 14-port dock with its own 160W power supply, dual 4K support and 10Gbps data.",
+    "skipIf": "You carry your dock daily; a UGREEN or Anker Nano hub is lighter."
   },
   {
-    id: "hp-usb-c-dock-g5",
-    rank: 3,
-    badge: "Best for IT-Managed Laptops",
-    name: "HP USB-C Dock G5, 11-in-1 Adapter",
-    price: "$97.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/31RkQ3P6p3L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08TQPTPCK?tag=theofficejournal-20",
-    description:
-      "HP built the Dock G5 to work across both USB-C and Thunderbolt-enabled laptops, which matters for remote workers issued a corporate machine they didn't choose themselves. It handles charging, networking, and data transfer in one 11-in-1 unit designed with secure and remote management scenarios in mind.\n\nBecause it's an HP-branded business dock, IT departments are more likely to have pre-approved drivers for it, which sidesteps the driver-approval friction that can slow down third-party docks on locked-down corporate laptops.\n\nWorth calling out specifically: more likely to already be IT-approved on corporate devices. The catch is pricier than the bus-powered hub-style picks.",
-    specs: [
-      "11-in-1 adapter",
-      "Works with both USB-C and Thunderbolt-enabled laptops",
-      "Charging, networking, and data transfer support",
-      "Designed for secure and remote management use",
-      "Business-grade build",
+    "id": "hp-usb-c-dock-g5",
+    "rank": 3,
+    "badge": "Best for Company Laptops",
+    "name": "HP USB-C Dock G5, 11-in-1 Adapter",
+    "price": "$97.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/31RkQ3P6p3L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08TQPTPCK?tag=theofficejournal-20",
+    "description": "The HP USB-C Dock G5 is the choice if you work on a company-issued laptop: a powered 11-in-1 business dock that HP lists for both USB-C and Thunderbolt laptops, with charging, networking and data in one unit.\n\nHP designs it with managed business environments in mind, and a business-brand dock may be easier to get approved by an IT department. Check with IT before buying any dock for a managed laptop.\n\nIt needs an outlet and costs more than the travel hubs.",
+    "specs": [
+      "Ports: 11-in-1",
+      "Power: own adapter",
+      "USB-C and Thunderbolt laptops",
+      "Charging, Ethernet, data"
     ],
-    pros: [
-      "Compatible with both USB-C and Thunderbolt laptops",
-      "More likely to already be IT-approved on corporate devices",
-      "Built for secure remote management scenarios",
-      "Solid mid-weight balance between portability and ports",
+    "pros": [
+      "Own power supply",
+      "Business-focused design",
+      "USB-C and Thunderbolt support"
     ],
-    cons: [
-      "Pricier than the bus-powered hub-style picks",
-      "Business-focused design, fewer consumer-facing extras",
-      "Still needs an outlet, not bus-powered",
+    "cons": [
+      "Needs an outlet",
+      "Costs more than hubs"
     ],
-    bestFor: "Remote workers on a corporate-issued laptop who need an IT-friendly dock",
+    "bestFor": "Remote workers on corporate-managed laptops.",
+    "summary": "HP's powered 11-in-1 business dock for USB-C and Thunderbolt laptops.",
+    "skipIf": "You need something to carry; a travel hub is lighter."
   },
   {
-    id: "ugreen-7-in-1-revodok-pro",
-    rank: 4,
-    badge: "Lightest Travel Pick",
-    name: "UGREEN 7-in-1 Docking Station Dual Monitor (Revodok Pro)",
-    price: "$26.96",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/41e9eAIvbjL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1XSKZRJ?tag=theofficejournal-20",
-    description:
-      "At the cheapest price and among the lightest builds in this list, the UGREEN 7-in-1 still manages dual 4K@60Hz HDMI output and 10Gbps USB-A/C data ports in an aluminum shell. That combination of low weight and real dual-display support is rare at this price.\n\nIts 100W PD pass-through keeps a laptop topped up while docked, and the aluminum body dissipates heat better than plastic hubs of similar size, useful for anyone running it for full workdays in a warm coffee shop or shared office.\n\nDual 4K@60Hz output despite its compact size. Set against that, fewer total ports than the higher-end picks. Both matter when comparing it to the other picks here.",
-    specs: [
-      "7-in-1 USB-C hub",
-      "Dual 4K@60Hz HDMI display support",
-      "10Gbps USB-A/C data ports",
-      "100W PD pass-through charging",
-      "Aluminum housing",
+    "id": "ugreen-7-in-1-revodok-pro",
+    "rank": 4,
+    "badge": "Best Budget Travel Hub",
+    "name": "UGREEN 7-in-1 Docking Station Dual Monitor (Revodok Pro)",
+    "price": "$26.96",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/41e9eAIvbjL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1XSKZRJ?tag=theofficejournal-20",
+    "description": "The UGREEN Revodok Pro 7-in-1 is the lowest-priced hub here: an aluminum 7-in-1 with HDMI listed for dual 4K 60Hz, 10Gbps USB-A and USB-C data, and 100W power pass-through.\n\nAluminum should shed heat better than plastic, and it is small enough to live in a laptop bag.\n\nIt has no SD reader or Ethernet, and dual-display support depends on your laptop.",
+    "specs": [
+      "Ports: 7-in-1, bus-powered",
+      "Display: HDMI, dual 4K 60Hz listed (laptop-dependent)",
+      "10Gbps USB-A/C",
+      "Power pass-through: 100W",
+      "Aluminum housing"
     ],
-    pros: [
-      "Cheapest pick in this list at $26.96",
-      "Dual 4K@60Hz output despite its compact size",
-      "Aluminum housing manages heat better than plastic hubs",
-      "10Gbps data ports are fast for its price tier",
+    "pros": [
+      "Lowest price here",
+      "10Gbps data",
+      "Aluminum"
     ],
-    cons: [
-      "Fewer total ports than the higher-end picks",
-      "Bus-powered, can't charge and power displays with full independence",
-      "No SD card reader on this specific model",
+    "cons": [
+      "No Ethernet or SD reader",
+      "Fewer ports"
     ],
-    bestFor: "Budget-focused remote workers who still want real dual-4K support in the lightest package",
+    "bestFor": "Budget travelers who need a monitor and fast USB.",
+    "summary": "A 7-in-1 aluminum hub with HDMI, 10Gbps data and 100W pass-through for about $27.",
+    "skipIf": "You need Ethernet; the Revodok Pro 210 has it."
   },
   {
-    id: "anker-nano-8-in-1",
-    rank: 5,
-    badge: "Most Portable",
-    name: "Anker Nano Laptop Docking Station Dual Monitor, 8-in-1",
-    price: "$29.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/415StnCe4ML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GWH4ZZ7T?tag=theofficejournal-20",
-    description:
-      "Anker's Nano line is built around one goal, shrinking the dock as small as possible without dropping the ports a remote worker actually uses daily. It packs 4K@60Hz HDMI, a 10Gbps USB-C port, two USB-A ports, and an SD/TF card reader into a genuinely pocket-sized shell.\n\n85W PD pass-through covers most ultrabooks, though heavier gaming or workstation laptops may want more headroom. Because it has no brick, it's one of the easiest docks in this list to clear airport security with.\n\nThe standout detail is that 10Gbps USB-C data port is fast for its size. Balancing that out, single external display only.",
-    specs: [
-      "8-in-1 USB-C dock, nano form factor",
-      "4K@60Hz HDMI",
-      "10Gbps USB-C, 2 USB-A ports",
-      "85W PD pass-through",
-      "SD/TF card reader",
+    "id": "anker-nano-8-in-1",
+    "rank": 5,
+    "badge": "Most Portable",
+    "name": "Anker Nano Laptop Docking Station Dual Monitor, 8-in-1",
+    "price": "$29.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/415StnCe4ML._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWH4ZZ7T?tag=theofficejournal-20",
+    "description": "The Anker Nano is the smallest hub here, for minimalist travel: 4K 60Hz HDMI, a 10Gbps USB-C port, two USB-A ports, an SD/TF reader and 85W pass-through.\n\nIt is small enough to pocket.\n\nIt supports a single external display, and 85W pass-through may not keep up with higher-power laptops.",
+    "specs": [
+      "Ports: 8-in-1, nano form",
+      "Display: one 4K 60Hz HDMI",
+      "10Gbps USB-C, 2 x USB-A",
+      "SD/TF reader",
+      "Power pass-through: 85W"
     ],
-    pros: [
-      "Smallest, most pocketable footprint in this list",
-      "10Gbps USB-C data port is fast for its size",
-      "No brick, so it clears security screening easily",
-      "SD/TF reader is handy for photo or video offload on the go",
+    "pros": [
+      "Smallest here",
+      "Card reader",
+      "Fast USB-C"
     ],
-    cons: [
-      "Single external display only",
-      "85W PD may not fully power larger laptops while charging",
-      "Fewer ports overall than the 10-in-1 and 13-in-1 picks",
+    "cons": [
+      "One display",
+      "85W pass-through"
     ],
-    bestFor: "Minimalist travelers who want the smallest possible dock with a single external display",
+    "bestFor": "Travelers who want the smallest hub for one monitor.",
+    "summary": "A pocket-size 8-in-1 hub with 4K HDMI, 10Gbps USB-C, SD/TF and 85W pass-through.",
+    "skipIf": "You need Ethernet; the Revodok Pro 210 includes it."
   },
   {
-    id: "anker-13-in-1-triple-display",
-    rank: 6,
-    badge: "Best for Hotel and Co-Working Setups",
-    name: "Anker Laptop Docking Station, 13-in-1 Triple Display",
-    price: "$139.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/31AV-seE2eL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B088F7SY6S?tag=theofficejournal-20",
-    description:
-      "This 13-in-1 Anker dock supports triple display output across 2 HDMI ports and 1 DisplayPort, which suits a remote worker who sets up a temporary multi-monitor desk at a hotel business center or a co-working space with a spare monitor available. 10Gbps USB-C and 5Gbps USB-A data ports keep large file transfers reasonably quick.\n\n85W charging, ethernet, audio, and an SD reader round out the port list. One caveat worth knowing before connecting to a hotel TV: most hotel HDTVs run older HDMI versions with HDCP content protection, so a dock will usually mirror a desktop display fine but streaming apps on that same TV may still be blocked.\n\nFast 10Gbps USB-C data transfer. That's a real strength, but weigh it against the flip side: heavier and bulkier than the nano-style picks.",
-    specs: [
-      "13-in-1 USB-C docking station",
-      "Triple display, 2x HDMI + 1x DisplayPort",
-      "10Gbps USB-C, 5Gbps USB-A data",
-      "85W charging, ethernet, audio, SD reader",
-      "Compatible with Dell, HP, Lenovo and more",
+    "id": "anker-13-in-1-triple-display",
+    "rank": 6,
+    "badge": "Best for Three Displays",
+    "name": "Anker Laptop Docking Station, 13-in-1 Triple Display",
+    "price": "$139.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/31AV-seE2eL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B088F7SY6S?tag=theofficejournal-20",
+    "description": "The Anker 13-in-1 is the dock for a multi-monitor setup: two HDMI ports and a DisplayPort for up to three displays, plus 10Gbps USB-C, 5Gbps USB-A, Ethernet, audio and an SD reader, with 85W charging.\n\nAnker lists compatibility with Dell, HP and Lenovo laptops. Triple display depends on your laptop supporting it.\n\nIt is bulkier than the travel hubs. If you connect to a hotel TV, protected streaming content may not play over any dock, depending on the TV and app.",
+    "specs": [
+      "Ports: 13-in-1",
+      "Displays: 2 x HDMI, 1 x DisplayPort (up to 3, laptop-dependent)",
+      "10Gbps USB-C, 5Gbps USB-A",
+      "Ethernet, audio, SD",
+      "Charging: 85W"
     ],
-    pros: [
-      "Triple display support is rare at this price tier",
-      "Fast 10Gbps USB-C data transfer",
-      "Full port mix, ethernet, audio, and SD reader included",
-      "Works well for temporary co-working or hotel business center setups",
+    "pros": [
+      "Up to three displays",
+      "Full port set",
+      "Ethernet and SD"
     ],
-    cons: [
-      "Heavier and bulkier than the nano-style picks",
-      "Hotel TVs with HDCP restrictions may still block streaming apps even when the dock connects fine",
-      "85W charging may be limiting for power-hungry laptops",
+    "cons": [
+      "Bulkier",
+      "Triple display depends on laptop",
+      "85W charging"
     ],
-    bestFor: "Remote workers who need triple-display output at a hotel or co-working desk",
+    "bestFor": "Desks, or co-working spaces, where you connect several monitors.",
+    "summary": "A 13-in-1 dock with two HDMI and one DisplayPort for up to three displays.",
+    "skipIf": "You only use one monitor; a travel hub is smaller and cheaper."
   },
   {
-    id: "anker-8-in-1-85w",
-    rank: 7,
-    badge: "Best Budget Dual Monitor Pick",
-    name: "Anker Laptop Docking Station Dual Monitor, 8-in-1",
-    price: "$53.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/41jaFGKHJgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0874M3KW4?tag=theofficejournal-20",
-    description:
-      "This 8-in-1 Anker dock hits a middle ground between the ultra-cheap nano hubs and the pricier multi-display docks, offering dual 4K HDMI output, gigabit ethernet, and 85W power delivery in a compact travel-friendly shell. An SD card reader covers basic photo offload needs.\n\nOne detail worth checking before relying on it for video calls: the included USB-A port on many docks in this price tier runs USB 2.0, which is fine for a standard 1080p webcam but not enough bandwidth for a full-resolution 4K webcam, so verify the port speed against your specific camera if image quality matters for client calls.\n\nGigabit ethernet is useful for stable video calls. On the other hand, uSB-A port is often USB 2.0, insufficient for a 4K webcam. Both are worth keeping in mind before deciding.",
-    specs: [
-      "8-in-1 USB-C hub",
-      "4K dual monitor with 2 HDMI ports",
-      "1 Gbps ethernet hub",
-      "85W power delivery",
-      "SD card reader",
+    "id": "anker-8-in-1-85w",
+    "rank": 7,
+    "badge": "Best Mid-Range Hub With Ethernet",
+    "name": "Anker Laptop Docking Station Dual Monitor, 8-in-1",
+    "price": "$53.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/41jaFGKHJgL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0874M3KW4?tag=theofficejournal-20",
+    "description": "The Anker 8-in-1 sits between the travel hubs and the larger docks: two HDMI outputs, gigabit Ethernet, 85W power delivery and an SD reader in a compact shell.\n\nWired Ethernet helps with video calls on unreliable Wi-Fi.\n\nA charger is not included, the listing does not state USB-A speed (check it if you use a 4K webcam), and dual display depends on your laptop.",
+    "specs": [
+      "Ports: 8-in-1",
+      "Displays: 2 x HDMI (laptop-dependent)",
+      "Gigabit Ethernet",
+      "Power delivery: 85W",
+      "SD reader"
     ],
-    pros: [
-      "Dual HDMI output at a mid-range price",
-      "Gigabit ethernet is useful for stable video calls",
-      "Compact enough for regular travel",
-      "85W power delivery covers most ultrabooks",
+    "pros": [
+      "Ethernet",
+      "Two HDMI outputs",
+      "Compact"
     ],
-    cons: [
-      "USB-A port is often USB 2.0, insufficient for a 4K webcam",
-      "Charger not included in the box",
-      "No Thunderbolt or USB4 support",
+    "cons": [
+      "Charger not included",
+      "USB-A speed not listed"
     ],
-    bestFor: "Remote workers who want dual-HDMI output on a mid-range budget",
+    "bestFor": "Remote workers who want Ethernet and HDMI in a small hub.",
+    "summary": "An 8-in-1 hub with dual HDMI, gigabit Ethernet, SD and 85W pass-through.",
+    "skipIf": "You want 100W pass-through; the UGREEN hubs list it."
   },
   {
-    id: "ugreen-14-in-1-multiport",
-    rank: 8,
-    badge: "Best Cafe-Friendly Bus-Powered Pick",
-    name: "USB C Laptop Docking Station Dual Monitor, 14-in-1 Multiport Adapter",
-    price: "$44.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/5190VfU0ZEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D2BW24HM?tag=theofficejournal-20",
-    description:
-      "This 14-in-1 hub packs dual HDMI, DisplayPort, gigabit ethernet, 4 USB ports, 2 USB-C ports, a 100W PD charger port, an SD/TF reader, and audio into one bus-powered unit. That port density makes it a strong cafe or co-working companion since it needs no outlet of its own to function as a hub.\n\nBeing bus-powered means it draws battery from your laptop rather than an outlet, a real consideration on a longer cafe session without a free plug nearby, since running a docked setup off battery alone drains a laptop noticeably faster per hour than plugging in directly.\n\nA genuine advantage here is that no outlet required to function as a hub. The tradeoff is that running docked off laptop battery alone drains it faster per hour than an AC dock would.",
-    specs: [
-      "14-in-1 multiport adapter, bus-powered",
-      "Dual HDMI + DisplayPort, 4K support",
-      "Gigabit ethernet",
-      "4 USB-A, 2 USB-C ports",
-      "100W PD charging port, SD/TF reader, audio",
+    "id": "ugreen-14-in-1-multiport",
+    "rank": 8,
+    "badge": "Most Ports Without a Power Brick",
+    "name": "USB C Laptop Docking Station Dual Monitor, 14-in-1 Multiport Adapter",
+    "price": "$44.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/5190VfU0ZEL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2BW24HM?tag=theofficejournal-20",
+    "description": "This 14-in-1 adapter packs the most ports into a hub without its own power supply: two HDMI ports and a DisplayPort, gigabit Ethernet, four USB-A and two USB-C ports, a 100W pass-through port, an SD/TF reader and audio.\n\nIt is a full desk setup that still fits in a bag.\n\nTo charge the laptop you need to plug a charger into it; without one, everything runs from the laptop's battery. It is bulkier than the nano hubs.",
+    "specs": [
+      "Ports: 14-in-1, bus-powered",
+      "Displays: 2 x HDMI, DisplayPort (laptop-dependent)",
+      "Gigabit Ethernet",
+      "USB: 4 x USB-A, 2 x USB-C",
+      "100W pass-through, SD/TF, audio"
     ],
-    pros: [
-      "High port density in a bus-powered unit",
-      "No outlet required to function as a hub",
-      "Gigabit ethernet plus dual video output",
-      "Includes SD/TF card reader and audio jack",
+    "pros": [
+      "Most ports in a brick-free hub",
+      "Ethernet and card reader",
+      "Multiple video outputs"
     ],
-    cons: [
-      "Running docked off laptop battery alone drains it faster per hour than an AC dock would",
-      "100W PD port needs a separate charger plugged in to actually charge the laptop",
-      "Bulkier than the nano-class bus-powered picks",
+    "cons": [
+      "Runs from laptop battery unless you add a charger",
+      "Bulkier than nano hubs"
     ],
-    bestFor: "Cafe and co-working remote workers who want a full port set without needing an outlet",
-  },
-];
-
-export interface HowWeEvaluatedItem {
-  title: string;
-  description: string;
-}
-
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  {
-    title: "Bus-powered vs. AC-powered design",
-    description: "Weighed whether each dock draws power from the laptop or its own brick, since that single design choice decides whether it can charge the laptop and drive displays at the same time.",
-  },
-  {
-    title: "Weight and travel footprint",
-    description: "Compared physical size and weight against the port count offered, since a portable dock that's actually heavy defeats its own purpose.",
-  },
-  {
-    title: "Port speed accuracy",
-    description: "Checked whether advertised USB-A and USB-C ports actually deliver the data speeds needed for tasks like 4K webcam video, not just the headline port count.",
-  },
-  {
-    title: "Real-world remote-work scenarios",
-    description: "Considered hotel HDTV compatibility, airport security friction from power bricks, and cafe outlet availability, situations a home-office-only dock review would never surface.",
-  },
-  {
-    title: "Value for price",
-    description: "Weighed port mix, power delivery wattage, and build quality against price, since the cheapest and most expensive picks in this list sit at very different points on that curve.",
-  },
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
-  {
-    "criterion": "Check the real power delivery wattage, not just \"PD\" in the listing",
-    "explanation": "Power delivery (PD) wattage determines whether a dock can actually charge your laptop while it's connected, not just pass a trickle of power through, and this number varies widely, from 60W barely-adequate figures up to 100W or higher business-tier docks.\n\nThis matters because a dock rated below what your laptop actually needs to charge under load, especially a larger laptop or one running demanding tasks while docked, will slowly drain the battery even while \"charging\", a frustrating and easy-to-miss problem.\n\nCheck the listing for the specific PD wattage number, and compare it against your laptop's actual charging brick wattage, not just whether the listing mentions power delivery at all."
-  },
-  {
-    "criterion": "Verify actual display support against your specific laptop and GPU, not just port count",
-    "explanation": "A dock listing multiple HDMI or DisplayPort outputs doesn't guarantee your laptop can actually drive all of them at full resolution and refresh rate simultaneously, that capability depends on your laptop's specific GPU and USB-C controller, which some docks work around using DisplayLink technology and others don't.\n\nThis distinction matters a lot if you're building a dual or triple monitor setup, since a laptop that can't natively drive multiple external displays will show a blank or mirrored screen on a non-DisplayLink dock's extra port, regardless of how many ports the dock has.\n\nCheck whether the dock uses native DisplayPort Alt Mode or DisplayLink chip technology, and separately verify your specific laptop model's documented maximum number of external displays before assuming any multi-port dock will drive them all."
-  },
-  {
-    "criterion": "Match data transfer speeds and Ethernet to what you actually move and how",
-    "explanation": "USB data ports on a dock range widely in real transfer speed, from basic 480Mbps USB 2.0 speeds up to 10Gbps or higher, a gap that matters enormously if you regularly move large files to and from external drives, but barely matters if you're just charging a mouse and keyboard.\n\nEthernet port speed follows the same logic, a dock's Gigabit or 2.5Gb Ethernet port is only as fast as your actual home or office network infrastructure supports, so paying for 2.5Gb Ethernet on a network that tops out at Gigabit gains nothing.\n\nCheck the specific listed speed for each port type you'll actually use regularly, and compare Ethernet speed against your router's actual rated speed, not just the dock's spec sheet in isolation."
-  },
-  {
-    "criterion": "Confirm compatibility with your specific laptop's USB-C or Thunderbolt port",
-    "explanation": "Not every USB-C port supports the same features, some laptops only support USB-C data and charging without any video output over that port at all, while others support full Thunderbolt with much higher bandwidth for multiple 4K displays.\n\nDocks built around Thunderbolt certification generally support more demanding multi-display and high-speed configurations, but require a genuinely Thunderbolt-capable port on your laptop to unlock that performance, plugging a Thunderbolt dock into a USB-C-only port still works but loses the extra bandwidth.\n\nCheck your specific laptop's documented port capabilities (Thunderbolt 3, Thunderbolt 4, or USB-C without Thunderbolt), not just that it has a USB-C-shaped port, before assuming any docking station will unlock its full advertised capability."
-  },
-  {
-    "criterion": "Consider heat and long-term reliability under sustained daily use",
-    "explanation": "A docking station that stays plugged in and under load for 8+ hours a day handles thermal stress very differently than a hub used occasionally for a quick file transfer, and a compact plastic-bodied dock with no real heat dissipation can throttle performance or degrade faster under that kind of sustained daily use than an aluminum-bodied one.\n\nThis matters more for anyone using the dock as their primary daily workstation setup than for occasional or travel use.\n\nCheck reviews specifically for mentions of the dock running hot, disconnecting intermittently after extended use, or degrading over months, rather than relying on the unboxing-day performance most reviews describe."
+    "bestFor": "Remote workers who want a full port set in a portable hub.",
+    "summary": "A 14-in-1 bus-powered adapter with dual HDMI, DisplayPort, Ethernet and 100W pass-through.",
+    "skipIf": "You travel light; the Anker Nano or UGREEN 7-in-1 are smaller."
   }
 ];
 
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
+export const howWeEvaluated = [
+  {
+    "title": "Power design",
+    "description": "We separated bus-powered hubs from docks with their own power supply."
+  },
+  {
+    "title": "Display outputs",
+    "description": "We recorded listed outputs and noted that support depends on the laptop."
+  },
+  {
+    "title": "Ports",
+    "description": "We compared USB speeds, Ethernet, card readers and audio."
+  },
+  {
+    "title": "Portability and price",
+    "description": "We weighed size and price position. Prices change often, so we treat them as relative position."
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "Bus-powered or powered",
+    "explanation": "Bus-powered hubs are small and need your laptop charger plugged into them to charge the laptop. Powered docks (Anker Prime, HP Dock G5) have their own supply."
+  },
+  {
+    "criterion": "Displays your laptop supports",
+    "explanation": "Hubs listing two or three outputs rely on the laptop. Check its maximum external displays over USB-C; some laptops mirror rather than extend."
+  },
+  {
+    "criterion": "Pass-through wattage",
+    "explanation": "Compare with your laptop charger. 85W suits many ultrabooks; 100W leaves more headroom."
+  },
+  {
+    "criterion": "Ethernet and card reader",
+    "explanation": "Wired Ethernet helps calls on poor Wi-Fi; a card reader helps anyone moving photos or video."
+  },
+  {
+    "criterion": "Size",
+    "explanation": "The Anker Nano and UGREEN 7-in-1 are the easiest to carry; the Anker Prime and HP are desk-only."
+  }
+];
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "subheading": "By how you work",
     "table": {
       "headers": [
-        "Your priority",
-        "Recommended pick"
+        "Situation",
+        "Consider",
+        "Why"
       ],
       "rows": [
         [
-          "Highest average rating",
-          "UGREEN 10"
+          "Home and travel, one hub",
+          "UGREEN Revodok Pro 210",
+          "Ethernet, SD, 100W pass-through"
         ],
         [
-          "Largest review base, strongest reliability signal",
-          "UGREEN 10"
+          "Travel, smallest",
+          "Anker Nano 8-in-1",
+          "Pocket-size"
+        ],
+        [
+          "Travel, lowest cost",
+          "UGREEN 7-in-1",
+          "About $27"
+        ],
+        [
+          "Full ports, no brick",
+          "14-in-1 multiport",
+          "Most ports in a hub"
+        ],
+        [
+          "Several monitors",
+          "Anker 13-in-1",
+          "Up to three displays"
+        ],
+        [
+          "Fixed desk, one cable",
+          "Anker Prime",
+          "Own 160W supply"
+        ],
+        [
+          "Company laptop",
+          "HP USB-C Dock G5",
+          "Business dock"
         ]
       ]
     }
   },
   {
-    "subheading": "By Budget",
+    "subheading": "By price at the time of writing",
+    "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.",
     "table": {
       "headers": [
-        "Budget",
-        "Recommended pick"
+        "Price tier",
+        "Docks"
       ],
       "rows": [
         [
-          "Under $27",
-          "UGREEN 7"
+          "About $27–$54",
+          "UGREEN 7-in-1, Anker Nano, UGREEN Revodok Pro 210, 14-in-1, Anker 8-in-1"
         ],
         [
-          "Up to $170",
-          "Anker Prime Docking Station"
+          "About $98–$140",
+          "HP USB-C Dock G5, Anker 13-in-1"
+        ],
+        [
+          "About $170",
+          "Anker Prime"
         ]
       ]
     }
-  },
-  {
-    "subheading": "Thunderbolt vs USB-C Only",
-    "cards": [
-      {
-        "label": "Thunderbolt-certified",
-        "text": "Higher bandwidth for demanding multi-display and high-speed data setups, but requires a genuinely Thunderbolt-capable laptop port. In this comparison: HP USB."
-      },
-      {
-        "label": "USB-C only",
-        "text": "Usually cheaper and works with any USB-C laptop, but with less headroom for multiple high-resolution displays. In this comparison: UGREEN 10, Anker Prime Docking Station, UGREEN 7, Anker Nano Laptop Docking Station Dual Monitor, Anker Laptop Docking Station, Anker Laptop Docking Station Dual Monitor, USB C Laptop Docking Station Dual Monitor."
-      }
-    ],
-    "note": "Default to USB-C only unless your laptop has a genuine Thunderbolt port and you need the extra display or data bandwidth."
-  },
-  {
-    "subheading": "By Ethernet Support",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Wired Ethernet needed",
-          "UGREEN 10"
-        ],
-        [
-          "Wi-Fi only is fine",
-          "HP USB"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For a Dual or Triple Monitor Setup Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Native DisplayPort Alt Mode or DisplayLink chip technology, verified against your specific laptop's documented maximum external display count."
-      },
-      {
-        "label": "In this comparison",
-        "text": "UGREEN 10 is worth checking against its listed display support before buying, given its strong review base."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need reliable multi-display support and full-speed charging under daily sustained use, where Anker Prime Docking Station's higher price buys real headroom over the cheaper picks."
-      },
-      {
-        "label": "Save if",
-        "text": "You only need occasional charging and a single extra port, where UGREEN 7 covers the same job at a lower price."
-      }
-    ]
   }
 ];
 
-export const faq: FaqItem[] = [
+export const faq = [
   {
-    q: "What's the difference between a bus-powered and an AC-powered portable docking station?",
-    a: "A bus-powered dock draws all of its power from the laptop's USB-C port, so it can run connected displays and peripherals but can't fully charge the laptop at the same time. An AC-powered dock, like the Anker Prime 14-Port in this list, has its own power brick and can charge the laptop while driving displays simultaneously, at the cost of extra weight and a brick to carry.",
+    "q": "What's the difference between a bus-powered hub and a powered dock?",
+    "a": "A bus-powered hub takes power from the laptop and can pass through power from your charger. A powered dock has its own supply and can charge the laptop directly, but it is larger."
   },
   {
-    q: "Will a portable docking station work with a hotel room TV?",
-    a: "Usually for mirroring a desktop display, yes. But most hotel HDTVs run older HDMI versions with HDCP content protection, so streaming apps with protected content may still be blocked on that TV even though the dock itself connects and outputs video correctly. This is a limitation of the hotel TV, not the dock.",
+    "q": "Will a dock work with a hotel TV?",
+    "a": "Usually for showing your screen over HDMI. Some streaming apps may block protected content on external displays, depending on the TV and app."
   },
   {
-    q: "Do portable docking stations cause problems at airport security?",
-    a: "A compact dock with its own external power brick typically needs to go in a separate bin, the same as a laptop charger. A bus-powered hub with no brick of its own, like the UGREEN 7-in-1 or Anker Nano in this list, usually clears security screening without any extra steps.",
+    "q": "Can I use a hub at a café without an outlet?",
+    "a": "Yes, but everything runs from your laptop battery, so it will drain faster than working plugged in."
   },
   {
-    q: "Can I use a portable docking station at a cafe without a power outlet?",
-    a: "Yes, a bus-powered dock like the UGREEN 14-in-1 Multiport needs no outlet of its own since it draws power from the laptop. Keep in mind that running a full docked setup off laptop battery alone drains the battery measurably faster per hour than working plugged in, so it's better suited to shorter sessions.",
+    "q": "Why does my webcam look worse through a hub?",
+    "a": "Some hub USB-A ports are slower than a laptop's own ports. Check the port speed, or connect a high-resolution webcam directly to the laptop."
   },
   {
-    q: "Why does my webcam look blurry through a portable docking station?",
-    a: "The USB-A port on many portable docks runs USB 2.0, which comfortably supports a standard 1080p webcam but doesn't have the bandwidth for a full-resolution 4K webcam. If webcam quality matters for client calls, verify the specific port speed on the dock's listing or connect the 4K webcam directly to a USB 3.0 port on the laptop instead.",
-  },
-  {
-    q: "Which portable docking station is best for a corporate-managed laptop?",
-    a: "The HP USB-C Dock G5 is the strongest fit for a company-issued laptop, since business-brand docks are more likely to already be IT-approved and it's built with secure remote management scenarios in mind. If you rely on VPN software, check with your IT department before buying any third-party dock, since some corporate VPN clients can conflict with non-OEM networking hardware.",
-  },
+    "q": "Which dock suits a corporate laptop?",
+    "a": "The HP USB-C Dock G5 is designed for business use. Check with your IT department before connecting any dock to a managed laptop."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-usb-c-docking-stations", title: "Best USB-C Docking Stations (2026)" },
-  { href: "/guide/best-docking-stations-for-small-desks", title: "Best Docking Stations for Small Desks (2026)" },
-  { href: "/guide/best-budget-docking-stations-under-100", title: "Best Budget Docking Stations Under $100 (2026)" },
+export const bottomLine = [
+  "For most remote workers, the UGREEN Revodok Pro 210 covers home and travel in one light hub with Ethernet and a card reader. The Anker Nano and UGREEN 7-in-1 are the smaller, cheaper travel options, and the 14-in-1 fits the most ports in a hub without a brick.",
+  "For a fixed desk, the Anker Prime is worth paying more for as a one-cable dock with its own power, the HP Dock G5 suits company laptops, and the Anker 13-in-1 is the choice for multiple monitors, provided your laptop supports them."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-usb-c-docking-stations",
+    "title": "Best USB-C Docking Stations (2026)"
+  },
+  {
+    "href": "/guide/best-docking-stations-for-small-desks",
+    "title": "Best Docking Stations for Small Desks (2026)"
+  },
+  {
+    "href": "/guide/best-budget-docking-stations-under-100",
+    "title": "Best Budget Docking Stations Under $100 (2026)"
+  }
 ];

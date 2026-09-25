@@ -1,0 +1,124 @@
+{
+  "guideTitle": "The Best HDMI Portable Monitors for Consoles, Older Laptops and PCs",
+  "breadcrumbLabel": "Best HDMI Portable Monitors",
+  "metaTitle": "Best HDMI Portable Monitors for Consoles and Older Laptops (2026)",
+  "metaDescription": "We compared 15.6-inch HDMI portable monitors on full-size versus mini-HDMI, power setup, stand design, VESA mounting and warranty, for consoles, desktops and laptops without USB-C video.",
+  "introParagraphs": [
+    "An HDMI portable monitor is the answer when your device cannot send video over USB-C: consoles such as the PS5 and Xbox Series X|S, many desktop graphics cards and older laptops. Every monitor here accepts HDMI, but the port differs. Some use full-size HDMI, which takes a standard cable; others use mini-HDMI, which needs the right cable or an adapter.",
+    "The other practical point is power. HDMI carries no power, so when you connect over HDMI each of these monitors also needs a USB cable to a wall adapter or powered port. Stands differ too: folding covers, built-in kickstands, or VESA holes for a monitor arm.",
+    "All seven are 15.6-inch 1080p IPS monitors. Our comparison is based on published specifications, included accessories, warranty terms and price position, not hands-on testing."
+  ],
+  "products": {
+    "kyy-156-1080p-portable-monitor-cover": {
+      "badge": "Best Overall",
+      "summary": "A widely reviewed 15.6-inch 1080p monitor with mini-HDMI, two USB-C ports and a cover-stand.",
+      "description": "The KYY with smart cover is the sensible all-rounder: a 15.6-inch 1080p IPS panel with two USB-C ports and mini-HDMI, and a mini-HDMI-to-HDMI cable in the box. It is the most widely reviewed monitor here.\n\nAt 1.7 lb and 0.3 inches thick it travels easily, and it has built-in speakers and a headphone jack. The magnetic cover doubles as a stand with two angle positions.\n\nThe mini-HDMI port ties you to the included cable or an adapter, and on HDMI it still needs USB power.",
+      "specs": ["Panel: 15.6\" 1080p IPS", "Inputs: 2 x USB-C, mini-HDMI", "Mini-HDMI-to-HDMI cable included", "Stand: magnetic cover, two angles", "Weight: 1.7 lb", "Speakers, 3.5mm audio out"],
+      "pros": ["Most widely reviewed here", "HDMI cable included", "Light and slim"],
+      "cons": ["Mini-HDMI rather than full-size", "Only two stand angles", "Needs USB power over HDMI"],
+      "bestFor": "Most buyers connecting a laptop, phone or console, at home or on the move.",
+      "skipIf": "You want a standard HDMI port; the UPERFECT or cocopar have full-size HDMI."
+    },
+    "cocopar-156-1080p-vesa-mountable": {
+      "badge": "Best Color and Mounting Options",
+      "summary": "Full-size HDMI, two USB-C ports, 85% sRGB and VESA mounting holes.",
+      "description": "The cocopar is the step up: a full-size HDMI port with two full-featured USB-C ports, a panel listed at 85 percent sRGB, and VESA mounting holes on the back for a monitor arm. It is also the best-rated monitor here.\n\nIt weighs 1.5 lb without its case and includes a smart stand case.\n\nIt is the most expensive monitor here at the time of writing, the case adds weight (2.4 lb together), and it still needs USB power over HDMI.",
+      "specs": ["Panel: 15.6\" 1080p IPS, 85% sRGB", "Inputs: 2 x USB-C, full-size HDMI", "VESA mounting holes", "Weight: 1.5 lb (2.4 lb with case)", "Smart stand case included"],
+      "pros": ["Full-size HDMI", "VESA mounting", "Wider listed color coverage"],
+      "cons": ["Most expensive here", "Heavier with the case", "Needs USB power over HDMI"],
+      "bestFor": "Buyers who want full-size HDMI, better color on paper and arm mounting.",
+      "skipIf": "Price matters most; the UPERFECT has full-size HDMI and VESA for much less."
+    },
+    "uperfect-156-fhd-vesa-otg": {
+      "badge": "Best Value Full-Size HDMI",
+      "summary": "Full-size HDMI, dual USB-C, an OTG port and a 75 x 75mm VESA mount for about $66.",
+      "description": "The UPERFECT is the value pick for consoles, desktop graphics cards and older PCs: a standard full-size HDMI input, two USB-C ports, an OTG port for a mouse or keyboard, and a 75 x 75mm VESA mount.\n\nIt has a flicker-free backlight, built-in speakers and a lined smart cover, and it is well reviewed for its price.\n\nThe listing does not clearly confirm USB-C video (DisplayPort Alt Mode), so treat HDMI as the main video input, and it needs USB power over HDMI.",
+      "specs": ["Panel: 15.6\" 1080p IPS, flicker-free", "Inputs: full-size HDMI, 2 x USB-C, OTG", "VESA: 75 x 75mm", "Smart cover", "Built-in speakers"],
+      "pros": ["Full-size HDMI", "VESA mount", "OTG port"],
+      "cons": ["USB-C video not clearly confirmed", "Needs USB power over HDMI"],
+      "bestFor": "Consoles, desktops and older laptops that output full-size HDMI.",
+      "skipIf": "You mainly connect a USB-C laptop; the KYY supports USB-C clearly."
+    },
+    "asus-zenscreen-mb169ck-156": {
+      "badge": "Best Warranty",
+      "summary": "ASUS's ZenScreen with a three-year warranty, TÜV eye-care certification and a 360° kickstand.",
+      "description": "The ASUS ZenScreen MB169CK is the choice if warranty and build matter: ASUS backs it for three years, the longest here, and lists TÜV certification for low blue light and flicker-free operation.\n\nA 360-degree kickstand replaces the folding cover, it has a tripod socket, and ASUS's auto-rotate software helps with portrait use on Windows. Inputs are two USB-C ports and mini-HDMI.\n\nMini-HDMI means checking your cable, and it costs more than the KYY and UPERFECT without a large specification advantage.",
+      "specs": ["Panel: 15.6\" 1080p IPS, anti-glare", "Inputs: 2 x USB-C, mini-HDMI", "Stand: 360° kickstand, tripod socket", "TÜV low blue light and flicker-free", "Weight: 0.78kg", "Warranty: 3 years"],
+      "pros": ["Three-year warranty", "Certified eye-care features", "Sturdy kickstand"],
+      "cons": ["Mini-HDMI", "Auto-rotate is Windows-focused", "Costs more than similar monitors"],
+      "bestFor": "Buyers who value a longer warranty and an established brand.",
+      "skipIf": "You want full-size HDMI; the UPERFECT costs less and has it."
+    },
+    "arzopa-156-fhd-kickstand": {
+      "badge": "Best Built-In Kickstand",
+      "summary": "A metal-bodied monitor with a kickstand built into the housing and listed console support.",
+      "description": "The ARZOPA builds its kickstand into the metal housing, so there is no cover to carry or lose. It supports duplicate, extend and second-screen modes, and ARZOPA lists compatibility with PS4, PS5, Xbox and Switch as well as computers.\n\nIt weighs 1.6 lb and is well rated by buyers.\n\nThe listing does not specify full-size or mini-HDMI, so check before buying for a console, and it has no VESA mount.",
+      "specs": ["Panel: 15.6\" 1080p IPS", "Inputs: USB-C and HDMI (port size not specified)", "Built-in kickstand, metal housing", "Weight: 1.6 lb", "Listed console compatibility"],
+      "pros": ["Kickstand always attached", "Metal housing", "Listed console support"],
+      "cons": ["HDMI port size not stated", "No VESA mount"],
+      "bestFor": "People who set the monitor up often and want the stand built in.",
+      "skipIf": "You want to mount it on an arm; the cocopar or UPERFECT have VESA holes."
+    },
+    "kyy-156-fhd-gaming-hdmi-cable-included": {
+      "badge": "Best Console Bundle",
+      "summary": "A KYY with HDR mode, HDMI and USB-C cables and a screen protector in the box.",
+      "description": "This KYY is the pick if you want everything for a console in the box: it includes a mini-HDMI-to-HDMI cable, two USB-C cables and a screen protector, and adds an HDR mode with a listed 1000:1 contrast ratio.\n\nIt otherwise matches the top KYY: 1.7 lb, 0.3 inches thick, two USB-C ports, mini-HDMI and a two-angle folding cover, for the same price at the time of writing.\n\nThe port is still mini-HDMI, and it needs USB power over HDMI.",
+      "specs": ["Panel: 15.6\" 1080p IPS, HDR mode, 1000:1", "Inputs: 2 x USB-C, mini-HDMI", "Includes mini-HDMI cable, 2 USB-C cables, screen protector", "Stand: folding cover, two angles", "Weight: 1.7 lb"],
+      "pros": ["Cables included", "Screen protector included", "Same price as the top KYY"],
+      "cons": ["Mini-HDMI", "Two stand angles"],
+      "bestFor": "Console players who want all the cables included.",
+      "skipIf": "You want full-size HDMI; the UPERFECT has it."
+    },
+    "mnn-156-fhd-budget-usb-c-hdmi": {
+      "badge": "Lowest-Cost Option",
+      "summary": "A 15.6-inch 1080p monitor with HDR mode, two USB-C ports and HDMI for about $50.",
+      "description": "The MNN is the lowest-priced monitor here at about $50 at the time of writing, with a 1080p IPS panel, an HDR mode, two full-featured USB-C ports and HDMI, and a smart cover that doubles as a stand.\n\nIt supports copy, extended and portrait modes and has a large review base for its price.\n\nBuyer feedback is a little weaker than for the other picks, the listing does not confirm full-size or mini-HDMI, and there is no VESA mount.",
+      "specs": ["Panel: 15.6\" 1080p IPS, 60Hz, HDR mode", "Inputs: 2 x USB-C, HDMI (size not specified)", "Stand: smart cover", "Copy, extended, portrait modes"],
+      "pros": ["Lowest price here", "Two USB-C ports", "Large review base"],
+      "cons": ["HDMI port size not stated", "No VESA mount", "Slightly weaker buyer feedback"],
+      "bestFor": "Tight budgets.",
+      "skipIf": "You need to know the HDMI port type for a console; choose a model that states it."
+    }
+  },
+  "buyingCriteria": [
+    { "criterion": "Full-size or mini-HDMI", "explanation": "Full-size HDMI (cocopar, UPERFECT) takes a standard cable from a console or graphics card. Mini-HDMI (both KYYs, ASUS) needs the right cable. The ARZOPA and MNN listings do not specify." },
+    { "criterion": "Power over HDMI", "explanation": "HDMI carries no power. Plan for a USB cable to a wall adapter or powered port whenever you use HDMI." },
+    { "criterion": "Stand and mounting", "explanation": "Folding covers are light but offer few angles; kickstands (ASUS, ARZOPA) are always attached; VESA holes (cocopar, UPERFECT) allow a monitor arm." },
+    { "criterion": "Included cables", "explanation": "The KYY monitors include a mini-HDMI-to-HDMI cable; the KYY console bundle adds USB-C cables and a screen protector." },
+    { "criterion": "Warranty", "explanation": "The ASUS lists three years, the longest here. Check the other listings for warranty terms." }
+  ],
+  "howWeEvaluated": [
+    { "title": "HDMI port type", "description": "We recorded whether each monitor uses full-size or mini-HDMI and flagged listings that do not say." },
+    { "title": "Power and cables", "description": "We noted power requirements over HDMI and included cables." },
+    { "title": "Stand and mounting", "description": "We compared covers, kickstands and VESA mounting." },
+    { "title": "Panel, warranty and price", "description": "We compared listed color coverage, certifications and warranties against price position. Prices change often, so we treat them as relative position." }
+  ],
+  "howToChoose": [
+    { "subheading": "By setup", "table": { "headers": ["Setup", "Consider", "Why"], "rows": [
+      ["All-round, widely reviewed", "KYY with cover", "USB-C and mini-HDMI, cable included"],
+      ["Console, full-size HDMI", "UPERFECT", "Full-size HDMI, VESA, OTG"],
+      ["Console, everything in the box", "KYY console bundle", "Cables and screen protector"],
+      ["Better color and arm mounting", "cocopar", "85% sRGB, full-size HDMI, VESA"],
+      ["Long warranty", "ASUS ZenScreen", "Three years, kickstand"],
+      ["Built-in stand", "ARZOPA", "Metal kickstand"],
+      ["Lowest cost", "MNN", "About $50"]
+    ] } },
+    { "subheading": "By price at the time of writing", "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.", "table": { "headers": ["Price tier", "Monitors"], "rows": [
+      ["About $50–$66", "MNN, KYY (both), UPERFECT"],
+      ["About $80–$89", "ARZOPA, ASUS ZenScreen"],
+      ["About $110", "cocopar"]
+    ] } }
+  ],
+  "faq": [
+    { "q": "Does an HDMI portable monitor need its own power?", "a": "Yes. HDMI carries video only, so each monitor here needs a USB cable to a wall adapter, powered USB port or second port on your device when using HDMI." },
+    { "q": "Can I use a USB-C-only portable monitor with a PS5 or Xbox?", "a": "Not directly. Those consoles output video over HDMI, so you need a monitor with an HDMI input like the ones here." },
+    { "q": "What's the difference between full-size and mini-HDMI?", "a": "Full-size HDMI takes a standard cable. Mini-HDMI is smaller and needs a mini-HDMI-to-HDMI cable or adapter. The cocopar and UPERFECT use full-size; both KYYs and the ASUS use mini-HDMI." },
+    { "q": "Which monitor is easiest to set up for a console?", "a": "The KYY console bundle includes the cables you need. If you prefer a standard HDMI port, the UPERFECT avoids adapters." },
+    { "q": "Can I mount a portable monitor on an arm?", "a": "Only if it has VESA holes. Here, the cocopar and UPERFECT (75 x 75mm) do; the others rely on a cover or kickstand." },
+    { "q": "What refresh rate will I get?", "a": "All seven are 1080p 60Hz monitors, which suits office work and most console play." }
+  ],
+  "bottomLine": [
+    "For most people, the KYY with smart cover is the proven all-rounder, and its console bundle version adds all the cables. If you want a standard HDMI port, the UPERFECT is the value choice with VESA mounting, and the cocopar adds better listed color at a higher price.",
+    "The ASUS ZenScreen is worth paying more for if you want a three-year warranty and a sturdy kickstand, the ARZOPA suits anyone who wants the stand built in, and the MNN is the budget option, though check its HDMI port type before relying on it for a console."
+  ]
+}

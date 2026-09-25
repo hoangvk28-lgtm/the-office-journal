@@ -1,0 +1,99 @@
+{
+  "guideTitle": "The Best Hexagon Desk Pads, from Honeycomb Prints to Full-Desk Mats",
+  "breadcrumbLabel": "Best Hexagon Desk Pads",
+  "metaTitle": "Best Hexagon and Honeycomb Desk Pads (2026)",
+  "metaDescription": "These desk pads are rectangular with hexagon honeycomb prints. We compared five on size, surface, coating and base so you can pick the right pattern at the right size.",
+  "introParagraphs": [
+    "One clarification first: all five pads here are rectangular with a hexagon honeycomb print, not cut in a hexagon shape. If you want a pad that is itself hexagonal, these won't be it.",
+    "Among the honeycomb prints, the practical choice is size. Two are 31.5 x 11.8 inches, which covers a keyboard and mouse on a shallow strip; three are 35.4 x 15.7 inches, which covers more of the desk. All use cloth surfaces, some with a waterproof coating.",
+    "All five cost under $20 at the time of writing. Our comparison is based on listed dimensions and materials, not hands-on testing."
+  ],
+  "products": {
+    "best-hexagon-shaped-desk-pads-1": {
+      "badge": "Blue and Red Honeycomb, Standard Size",
+      "summary": "A 31.5 x 11.8-inch, 3mm-thick cloth pad with a blue-and-red hexagon honeycomb print.",
+      "description": "This pad prints a blue-and-red honeycomb pattern on a 31.5 x 11.8-inch cloth surface, 3mm thick, enough to cover a keyboard and mouse.\n\nIts 11.8-inch depth is shallower than the XXL pads here, so it won't reach under a monitor.",
+      "specs": ["Size: 31.5 x 11.8\" (800 x 300 mm)", "Thickness: 3mm", "Surface: cloth", "Print: blue/red honeycomb"],
+      "pros": ["Stated size and thickness", "Moderate price", "Two-color pattern"],
+      "cons": ["Shallow depth", "Cloth absorbs spills", "Base not described"],
+      "bestFor": "A keyboard-and-mouse strip with a honeycomb look.",
+      "skipIf": "You want more coverage; the XXL pads are 35.4 x 15.7 inches."
+    },
+    "best-hexagon-shaped-desk-pads-2": {
+      "badge": "Best XXL Honeycomb (Blue)",
+      "summary": "A 35.4 x 15.7-inch blue honeycomb pad with waterproof coating and rubber base.",
+      "description": "The blue XXL honeycomb pad covers more of the desk, 35.4 x 15.7 inches, with a superfine cloth surface, a waterproof coating that wipes clean and a non-slip rubber base.\n\nIt's the same design as the red XXL pad at the same price; choose by color.",
+      "specs": ["Size: 35.4 x 15.7\"", "Surface: superfine cloth, waterproof coating", "Base: non-slip rubber", "Print: blue honeycomb"],
+      "pros": ["Large coverage", "Waterproof coating", "Rubber base"],
+      "cons": ["Duplicates the red version", "Thickness not stated", "Bold pattern"],
+      "bestFor": "A full keyboard-and-mouse area in blue.",
+      "skipIf": "You prefer red; the red XXL pad is identical."
+    },
+    "best-hexagon-shaped-desk-pads-3": {
+      "badge": "Lowest Price (Gold)",
+      "summary": "A 31.5 x 11.8-inch, 3mm gold honeycomb cloth pad, the cheapest here.",
+      "description": "The gold honeycomb pad is the least expensive here, under $10 at the time of writing: 31.5 x 11.8 inches, 3mm thick, with a gold hexagon print.\n\nLike the other 31.5-inch pad, it's shallow and covers keyboard and mouse only.",
+      "specs": ["Size: 31.5 x 11.8\"", "Thickness: 3mm", "Surface: cloth", "Print: gold honeycomb"],
+      "pros": ["Lowest price here", "Stated thickness", "Distinct gold look"],
+      "cons": ["Shallow depth", "Base not described", "Cloth absorbs spills"],
+      "bestFor": "A low-cost honeycomb pad.",
+      "skipIf": "You need a deeper surface; an XXL pad covers 15.7 inches."
+    },
+    "best-hexagon-shaped-desk-pads-4": {
+      "badge": "XXL Honeycomb (Red)",
+      "summary": "The red version of the 35.4 x 15.7-inch waterproof-coated honeycomb pad.",
+      "description": "This is the red counterpart of the blue XXL pad: 35.4 x 15.7 inches, superfine cloth with a waterproof coating, and a non-slip rubber base, at the same price at the time of writing.",
+      "specs": ["Size: 35.4 x 15.7\"", "Surface: superfine cloth, waterproof coating", "Base: non-slip rubber", "Print: red honeycomb"],
+      "pros": ["Large coverage", "Waterproof coating", "Rubber base"],
+      "cons": ["Duplicates the blue version", "Thickness not stated", "Bold pattern"],
+      "bestFor": "A full keyboard-and-mouse area in red.",
+      "skipIf": "You prefer blue; the blue XXL pad is identical."
+    },
+    "best-hexagon-shaped-desk-pads-5": {
+      "badge": "High-Definition Print (Red)",
+      "summary": "A 35.4 x 15.7-inch red honeycomb \"science technology\" print with a smooth, soft surface.",
+      "description": "This pad offers a different red honeycomb design at 35.4 x 15.7 inches, with a smooth, soft surface and printing the maker describes as high-definition.\n\nIt was the most expensive pad here at the time of writing, by a dollar. The listing summary doesn't mention a waterproof coating or base type.",
+      "specs": ["Size: 35.4 x 15.7\"", "Surface: smooth, soft cloth", "Print: red honeycomb, high-definition (per listing)"],
+      "pros": ["Large coverage", "Distinct design", "Soft surface"],
+      "cons": ["Most expensive here", "Waterproofing not mentioned", "Base not described"],
+      "bestFor": "A detailed tech-style honeycomb print.",
+      "skipIf": "You want a waterproof coating; the blue or red XXL pads list one."
+    }
+  },
+  "sectionHeadings": {
+    "howWeChose": "How We Chose These Desk Pads",
+    "whatToLookFor": "What to Look for in a Honeycomb Desk Pad",
+    "howToChoose": "How to Choose a Hexagon Desk Pad"
+  },
+  "buyingCriteria": [
+    { "criterion": "Pattern, not shape", "explanation": "These are rectangular pads with hexagon prints. Look elsewhere for a hexagon-cut pad." },
+    { "criterion": "Choose the size", "explanation": "31.5 x 11.8 inches covers keyboard and mouse; 35.4 x 15.7 inches covers more desk." },
+    { "criterion": "Check spill protection", "explanation": "The blue and red XXL pads list a waterproof coating." },
+    { "criterion": "Check the base", "explanation": "A rubber base, listed on the XXL pads, helps stop sliding." }
+  ],
+  "howWeEvaluated": [
+    { "title": "Size", "description": "We compared listed dimensions and thickness." },
+    { "title": "Surface", "description": "We noted cloth type and coatings." },
+    { "title": "Base", "description": "We noted listed non-slip bases." },
+    { "title": "Price", "description": "We compared prices at the time of writing." }
+  ],
+  "howToChoose": [
+    { "subheading": "By need", "table": { "headers": ["Need", "Consider"], "rows": [
+      ["Lowest price", "Gold honeycomb 31.5\""],
+      ["Two-color strip", "Blue/red honeycomb 31.5\""],
+      ["Large, waterproof", "Blue or red XXL"],
+      ["Different red design", "Red Honeycomb Science Technology"]
+    ] } }
+  ],
+  "faq": [
+    { "q": "Are these hexagon-shaped?", "a": "No. They're rectangular with hexagon honeycomb prints." },
+    { "q": "What size should I get?", "a": "35.4 x 15.7 inches if you want keyboard, mouse and some desk covered; 31.5 x 11.8 inches for a narrower strip." },
+    { "q": "Are they waterproof?", "a": "The blue and red XXL pads list a waterproof coating; others don't mention one." },
+    { "q": "Will they slide?", "a": "The XXL pads list rubber bases; check the others' listings." },
+    { "q": "Are they good for gaming?", "a": "They use cloth surfaces designed for mice; performance details aren't specified." }
+  ],
+  "bottomLine": [
+    "For the most coverage and spill protection, the blue or red XXL honeycomb pads are the practical choice. The gold 31.5-inch pad is the lowest-cost option.",
+    "If you specifically want a hexagon-cut pad, none of these fit that brief."
+  ]
+}

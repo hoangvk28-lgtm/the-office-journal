@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 /** Verify commerce/identity fields are byte-identical to the saved original.
  *  npx tsx --tsconfig tsconfig.json scripts/editorial/check.ts <slug> <original.ts> */
 import path from "node:path";

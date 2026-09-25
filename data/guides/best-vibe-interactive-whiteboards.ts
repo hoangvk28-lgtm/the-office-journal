@@ -1,111 +1,6 @@
-export const guideSlug = "best-vibe-interactive-whiteboards";
-export const guideTitle = "Best Vibe Interactive Whiteboards";
-export const metaTitle = "Best Vibe Interactive Whiteboards";
-export const metaDescription = "We separated Vibe's S1 55-inch and 75-inch VibeOS models and compared their touch response, app ecosystem, and fleet management features.";
-export const mainKeyword = "vibe interactive whiteboard";
-export const introParagraphs = [
-  "Vibe's current S1 lineup runs VibeOS on Chromium OS across both 55 and 75-inch sizes, positioned specifically as an all-in-one conference device with a genuinely deep 250+ app ecosystem rather than a classroom-first product.",
-  "We compared the two sizes' documented touch response times (the 55-inch actually runs faster than the 75-inch at under 8ms versus under 10ms), verified Chromium OS security and fleet management claims, and checked app-store depth against Google Workspace and Microsoft 365 compatibility."
-];
-export const lastUpdated = "2026-08-15";
-export const readTime = "6 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41XljAUHgNL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-vibe-interactive-whiteboards-1",
-    rank: 1,
-    badge: "Best 75-Inch Vibe Board",
-    name: "Vibe S1 75in All-in-One Smart Board",
-    price: "$7,899.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41XljAUHgNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CH15YS6Y?tag=theofficejournal-20",
-    description: "The Vibe S1 75-inch runs VibeOS on Chromium OS with an Arm RK3588 chip, 8GB RAM, and 128GB storage, delivering 20-point infrared touch at under 10ms response time, genuinely fast for a board this size.\n\n250+ apps are accessible through the Vibe App Store spanning Google Workspace to Microsoft 365, and enterprise-level Chromium OS security pairs with fleet management letting IT admins securely manage users and devices across a deployment.",
-    specs: ["75in 4K, VibeOS on Chromium OS","20-point touch, under 10ms response","250+ apps via Vibe App Store"],
-    pros: ["Under-10ms touch response is genuinely fast for this size","250+ apps spanning Google Workspace and Microsoft 365","Chromium OS enterprise security with fleet management"],
-    cons: ["Chromium OS ecosystem narrower than full Android/Windows app pools","128GB storage modest for heavy multimedia use"],
-    bestFor: "buyers prioritizing 75in 4k, vibeos on chromium os",
-  },
-  {
-    id: "best-vibe-interactive-whiteboards-2",
-    rank: 2,
-    badge: "Best 55-Inch Vibe Board (Huddle Rooms)",
-    name: "Vibe S1 55in All-in-One Smart Board",
-    price: "$3,699.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41KKp-Jd+LL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CJM28JLM?tag=theofficejournal-20",
-    description: "The 55-inch Vibe S1 targets huddle rooms and smaller teams specifically, with 10-point infrared touch at under 8ms response time, even faster than its 75-inch sibling, and the same VibeOS on Chromium OS foundation.\n\nThe same 250+ app ecosystem, Arm RK3588 chip with 8GB RAM and 128GB storage, and enterprise-grade fleet management carry over, positioned explicitly for smaller-team collaboration rather than large classroom deployment.",
-    specs: ["55in 4K, VibeOS on Chromium OS","10-point touch, under 8ms response","250+ apps via Vibe App Store"],
-    pros: ["Under-8ms touch response even faster than the 75-inch model","Purpose-built sizing for huddle rooms and small teams","Same enterprise security and fleet management as the larger model"],
-    cons: ["10-point touch lower than the 75-inch model's 20-point ceiling","Chromium OS app ecosystem narrower than Android/Windows"],
-    bestFor: "buyers prioritizing 55in 4k, vibeos on chromium os",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Product Architecture",
-    "description": "Classified each product as a flat-panel display, projector-based interactive system, or portable conversion hardware, since these serve fundamentally different room setups and budgets."
-  },
-  {
-    "title": "Touch & Writing Behavior",
-    "description": "Checked documented touch-point count, simultaneous-writer capacity, response latency, and touch technology (infrared, PCAP, or sensor-bar) rather than assuming higher touch-point numbers always mean a better writing experience."
-  },
-  {
-    "title": "OS, EDLA & Software Lifecycle",
-    "description": "Verified whether each board has genuine Google EDLA certification, which Android or Windows generation it runs, and whether an OPS slot requires a separately purchased module for full functionality."
-  },
-  {
-    "title": "Connectivity & Collaboration",
-    "description": "Tested claims around wireless casting device limits, touch-back control, video conferencing platform compatibility (Zoom, Teams, Meet, Webex), and camera/microphone hardware quality where documented."
-  },
-  {
-    "title": "Build, Mounting & Support",
-    "description": "Weighed panel weight, included wall mount versus separately sold stands, warranty length, and after-sales support commitments against the realistic deployment cost."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "55-Inch vs 75-Inch S1",
-    "table": {
-      "headers": [
-        "Size",
-        "Touch response",
-        "Best for"
-      ],
-      "rows": [
-        [
-          "55in",
-          "Under 8ms",
-          "Huddle rooms, small teams"
-        ],
-        [
-          "75in",
-          "Under 10ms",
-          "Larger meeting rooms, bigger teams"
-        ]
-      ]
-    }
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
 export const buyingCriteria = [
   {
@@ -145,7 +40,7 @@ export const faq = [
   },
   {
     "q": "Does a higher touch-point count always mean a better writing experience?",
-    "a": "Not necessarily. Touch-point count measures how many contact points the sensor can track, but the number of people who can write clean, independent lines simultaneously is usually lower and separately documented by the manufacturer. Check the stated simultaneous-writer number, not just the raw touch-point spec, before assuming a 60-point board beats a 20-point one for group use."
+    "a": "Touch-point count measures how many contact points the sensor can track, but the number of people who can write clean, independent lines simultaneously is usually lower and separately documented by the manufacturer. Check the stated simultaneous-writer number, not just the raw touch-point spec, before assuming a 60-point board beats a 20-point one for group use."
   },
   {
     "q": "Do I need to buy anything extra to run Windows on a board with an OPS slot?",
@@ -157,4 +52,145 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-interactive-whiteboards-for-office","title":"7 Best Interactive Whiteboards for Office"},{"href":"/guide/best-interactive-whiteboards-for-business","title":"7 Best Interactive Whiteboards for Business"},{"href":"/guide/best-interactive-whiteboards-for-teams","title":"6 Best Interactive Whiteboards for Teams"}];
+export const guideSlug = "best-vibe-interactive-whiteboards";
+
+export const guideTitle = "The Best Vibe Interactive Whiteboards for a Cleaner, More Useful Desk";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41XljAUHgNL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Larger meeting rooms, bigger teams"
+        ]
+      ]
+    }
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Classified each product as a flat-panel display, projector-based interactive system, or portable conversion hardware, since these serve fundamentally different room setups and budgets."
+  },
+  {
+    "title": "",
+    "description": "Checked documented touch-point count, simultaneous-writer capacity, response latency, and touch technology (infrared, PCAP, or sensor-bar) rather than assuming higher touch-point numbers always mean a better writing experience."
+  },
+  {
+    "title": "OS, EDLA & Software Lifecycle",
+    "description": "Verified whether each board has genuine Google EDLA certification, which Android or Windows generation it runs, and whether an OPS slot requires a separately purchased module for full functionality."
+  },
+  {
+    "title": "",
+    "description": "Tested claims around wireless casting device limits, touch-back control, video conferencing platform compatibility (Zoom, Teams, Meet, Webex), and camera/microphone hardware quality where documented."
+  },
+  {
+    "title": "",
+    "description": "Weighed panel weight, included wall mount versus separately sold stands, warranty length, and after-sales support commitments against the realistic deployment cost."
+  }
+];
+
+export const introParagraphs = [
+  "Vibe's current S1 lineup runs VibeOS on Chromium OS across both 55 and 75-inch sizes, positioned specifically as an all-in-one conference device with a deep 250+ app ecosystem rather than a classroom-first product.",
+  "We compared the two sizes' documented touch response times (the 55-inch actually runs faster than the 75-inch at under 8ms versus under 10ms), verified Chromium OS security and fleet management claims, and checked app-store depth against Google Workspace and Microsoft 365 compatibility."
+];
+
+export const lastUpdated = "2026-08-15";
+
+export const mainKeyword = "vibe interactive whiteboard";
+
+export const metaDescription = "A practical comparison of 2 vibe interactive whiteboards, focused on compatibility, build, features and price, and the trade-offs between them.";
+
+export const metaTitle = "Best Vibe Interactive Whiteboards for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-vibe-interactive-whiteboards-1",
+    "rank": 1,
+    "badge": "Best 75-Inch Vibe Board",
+    "name": "Vibe S1 75in All-in-One Smart Board",
+    "price": "$7,899.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41XljAUHgNL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH15YS6Y?tag=theofficejournal-20",
+    "description": "The Vibe S1 75-inch runs VibeOS on Chromium OS with an Arm RK3588 chip, 8GB RAM, and 128GB storage, delivering 20-point infrared touch at under 10ms response time, fast for a board this size.\n\n250+ apps are accessible through the Vibe App Store spanning Google Workspace to Microsoft 365, and enterprise-level Chromium OS security pairs with fleet management letting IT admins securely manage users and devices across a deployment.",
+    "specs": [
+      "75in 4K, VibeOS on Chromium OS",
+      "20-point touch, under 10ms response",
+      "250+ apps via Vibe App Store"
+    ],
+    "pros": [
+      "Under-10ms touch response is fast for this size",
+      "250+ apps spanning Google Workspace and Microsoft 365",
+      "Chromium OS enterprise security with fleet management"
+    ],
+    "cons": [
+      "Chromium OS ecosystem narrower than full Android/Windows app pools",
+      "128GB storage modest for heavy multimedia use"
+    ],
+    "bestFor": "Buyers prioritizing 75in 4k, vibeos on chromium os"
+  },
+  {
+    "id": "best-vibe-interactive-whiteboards-2",
+    "rank": 2,
+    "badge": "Best 55-Inch Vibe Board (Huddle Rooms)",
+    "name": "Vibe S1 55in All-in-One Smart Board",
+    "price": "$3,699.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41KKp-Jd+LL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJM28JLM?tag=theofficejournal-20",
+    "description": "The 55-inch Vibe S1 targets huddle rooms and smaller teams specifically, with 10-point infrared touch at under 8ms response time, even faster than its 75-inch sibling, and the same VibeOS on Chromium OS foundation.\n\nThe same 250+ app ecosystem, Arm RK3588 chip with 8GB RAM and 128GB storage, and enterprise-grade fleet management carry over, positioned explicitly for smaller-team collaboration rather than large classroom deployment.",
+    "specs": [
+      "55in 4K, VibeOS on Chromium OS",
+      "10-point touch, under 8ms response",
+      "250+ apps via Vibe App Store"
+    ],
+    "pros": [
+      "Under-8ms touch response even faster than the 75-inch model",
+      "Purpose-built sizing for huddle rooms and small teams",
+      "Same enterprise security and fleet management as the larger model"
+    ],
+    "cons": [
+      "10-point touch lower than the 75-inch model's 20-point ceiling",
+      "Chromium OS app ecosystem narrower than Android/Windows"
+    ],
+    "bestFor": "Buyers prioritizing 55in 4k, vibeos on chromium os"
+  }
+];
+
+export const readTime = "6 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-interactive-whiteboards-for-office",
+    "title": "7 Best Interactive Whiteboards for Office"
+  },
+  {
+    "href": "/guide/best-interactive-whiteboards-for-business",
+    "title": "7 Best Interactive Whiteboards for Business"
+  },
+  {
+    "href": "/guide/best-interactive-whiteboards-for-teams",
+    "title": "6 Best Interactive Whiteboards for Teams"
+  }
+];
+
+export const breadcrumbLabel = "Best Vibe Interactive Whiteboards";

@@ -1,262 +1,6 @@
-export const guideSlug = "best-vertical-mouse-pads";
-export const guideTitle = "6 Best Vertical Mouse Pads in 2026";
-export const metaTitle = "Best Vertical Mouse Pads";
-export const metaDescription = "We compared mouse pad vertical models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
-export const mainKeyword = "mouse pad vertical";
-export const introParagraphs = [
-  "Best Vertical Mouse Pads look similar but differ in practice, so the surface material hides real gaps.",
-  "Every pick here was judged on honest surface material and stitching quality, because this predicts real day-to-day durability."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41-YyWMfNvL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-vertical-mouse-pads-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion",
-    price: "$24.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41-YyWMfNvL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DB6F58HS?tag=theofficejournal-20",
-    description: "Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion is our overall pick in this lineup. The slope with raised massage points design conforms to ergonomic curves. Filled with super thick integrated memory foam, it is not easy to deform, super soft and rebounds slowly, providing a soothing and relaxing support for the wrist.\n\nAgainst EooCoo Mouse Pad with Gel Wrist Rest, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis fits best if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
-    specs: ["Wrist joint care", "Full of memory foam", "High spun glossy fabric"],
-    pros: ["Wrist joint care", "Full of memory foam", "High spun glossy fabric", "Diversified use"],
-    cons: ["Cloth surfaces can fray at the edges without reinforced stitching", "Very large sizes take up real desk space some setups can't spare"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-vertical-mouse-pads-2",
-    rank: 2,
-    badge: "Best Value",
-    name: "EooCoo Mouse Pad with Gel Wrist Rest",
-    price: "$9.98",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31hLN9-6TNL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXPY5F4J?tag=theofficejournal-20",
-    description: "EooCoo Mouse Pad with Gel Wrist Rest is the most affordable pick here that still clears the capability floor for this category. The best and unique feature of this mouse pads is the ergonomic concave design in the gel wrist pad. Our mouse pad measures approximately 10.2 x 7.5 inches(l x w), 1.2inch thick.\n\nArmanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion lands in a similar spot overall, but the deciding factor between the two is the non-slip PU base prevents the pad from sliding around, offering stable operation.\n\nThis one is the right call if you want a genuinely capable pick without paying for headroom you won't use. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
-    specs: ["Gel wrist support", "Practical ergonomic concave design", "Smooth fabric covering"],
-    pros: ["Gel wrist support", "Practical ergonomic concave design", "Smooth fabric covering", "Non-slip PU base"],
-    cons: ["Very large sizes take up real desk space some setups can't spare", "Cloth surfaces can fray at the edges without reinforced stitching"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
-  },
-  {
-    id: "best-vertical-mouse-pads-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "TECKNET Ergonomic Mouse Pad with Wrist Rest, Soft Comfortable Massage Design",
-    price: "$19.98",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41oDSJPAUML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DXQ23NNV?tag=theofficejournal-20",
-    description: "TECKNET Ergonomic Mouse Pad with Wrist Rest, Soft Comfortable Massage Design is a strong alternative worth comparing directly against the top pick. Stay refreshed with built-in massage beads that reduce arm fatigue and improve air circulation. Crafted with high-quality memory foam and fabric, this gaming mouse pad ensures durability, comfort, and precise cursor control.\n\nArmanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
-    specs: ["Ergonomic comfort & support", "Massage beads for fatigue relief", "Crafted with high-quality memory foam and fabric"],
-    pros: ["Ergonomic comfort & support", "Massage beads for fatigue relief", "Crafted with high-quality memory foam and fabric", "Non-slip PU base for stability"],
-    cons: ["Cloth surfaces can fray at the edges without reinforced stitching", "Very large sizes take up real desk space some setups can't spare"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-vertical-mouse-pads-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "MROCO Ergonomic Mouse Pad with Gel Wrist Rest",
-    price: "See price on Amazon",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31OldV+I7IL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07DVCGX7G?tag=theofficejournal-20",
-    description: "MROCO Ergonomic Mouse Pad with Gel Wrist Rest is a strong alternative worth comparing directly against the top pick. The ergonomic wrist rest contains soft gel to provide soothing comfort and effective support, helping reduce wrist strain and the risk of repetitive motion disorders. The premium lycra cloth surface provides a silky-smooth, comfortable feel for your wrist and hand while moving the mouse.\n\nArmanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
-    specs: ["Comfortable gel cushioning", "Smooth and comfortable surface", "Firm desktop grip"],
-    pros: ["Comfortable gel cushioning", "Smooth and comfortable surface", "Firm desktop grip", "Optimal size and ergonomic shape"],
-    cons: ["Very large sizes take up real desk space some setups can't spare", "Cloth surfaces can fray at the edges without reinforced stitching"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-vertical-mouse-pads-5",
-    rank: 5,
-    badge: "Best Premium Pick",
-    name: "Hokafenle Ergonomic Mouse Pad Wrist Support",
-    price: "$24.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51FGQsRveyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BV1RSXBY?tag=theofficejournal-20",
-    description: "Hokafenle Ergonomic Mouse Pad Wrist Support is the premium option here, positioned above the rest on price. The ergonomic 8-degree massage slope design can improve carpal tunnel syndrome, alleviate wrist pain, and keep the wrist in the most comfortable state. Lycra fabric has a smooth surface without pilling and accurate positioning, allowing everyone to work comfortably.\n\nArmanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion lands in a similar spot overall, but the deciding factor between the two is high quality integrated molding with slow rebound memory foam, not easily deformed.\n\nGo with this pick if you are willing to spend the most in this comparison for the fuller feature set that comes with it. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
-    specs: ["Ergonomic slop", "Cursor positioning", "Massage rebound"],
-    pros: ["Ergonomic slop", "Cursor positioning", "Massage rebound", "11.8X7.9x1.2 inches (300x200x30mm)"],
-    cons: ["Cloth surfaces can fray at the edges without reinforced stitching", "Very large sizes take up real desk space some setups can't spare"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-vertical-mouse-pads-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "YIWEI Ergonomic Mouse Pad with Wrist Rest for Carpal Tunnel Pain Relief",
-    price: "$16.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41bhCs5lBaL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1BNS1H2?tag=theofficejournal-20",
-    description: "YIWEI Ergonomic Mouse Pad with Wrist Rest for Carpal Tunnel Pain Relief is a strong alternative worth comparing directly against the top pick. Ergonomic 8° slope & massage bumps design:featuring a distinct 8-degree therapeutic slope and integrated massage bumps, this design conforms to natural wrist contours. Engineered for reliable performance, the lycra cloth surface provides a micro-textured finish for high-precision tracking.\n\nThe gap between this and Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion isn't in the essentials, it shows up in the yiwei pro is compatible with wired, wireless, and vertical ergonomic mice.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
-    specs: ["Ergonomic 8° slope & massage bumps design", "Precision surface for gaming & design", "Comfort for extended work sessions"],
-    pros: ["Ergonomic 8° slope & massage bumps design", "Precision surface for gaming & design", "Comfort for extended work sessions", "Stable non-slip rubber base"],
-    cons: ["Very large sizes take up real desk space some setups can't spare", "Cloth surfaces can fray at the edges without reinforced stitching"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Cloth vs Hard Surface Tracking Feel",
-    "description": "Cloth mouse pads give a slightly higher-friction glide that many people find more controlled for precision work and slower, deliberate aiming in games, while hard plastic or glass surfaces let the sensor glide faster with less resistance, which favors quick-flick movements but can feel less controlled at first."
-  },
-  {
-    "title": "Base Material and Anti-Slip Grip",
-    "description": "Whether a mouse pad stays in place during actual use comes down to its backing, not its top surface: rubber backing tends to grip a desk far better than thinner synthetic backing, which can slide or curl at the edges over time, especially on a glossy desk."
-  },
-  {
-    "title": "Size vs Your Actual Mouse Movement Range",
-    "description": "Mouse pad sizing isn't about desk space alone, it's about matching the pad to your actual sensitivity and playstyle."
-  },
-  {
-    "title": "Stitched Edges and Long-Term Fraying",
-    "description": "Fraying at the edges is one of the most common complaints on cheaper cloth mouse pads, since the fabric edge takes constant friction from wrist and palm movement over time."
-  },
-  {
-    "title": "Wrist Rest Firmness: Gel vs Memory Foam",
-    "description": "Gel wrist rests stay cooler and firmer under sustained pressure, which some people prefer for support during long sessions, while memory foam contours more closely to the wrist's shape and can feel softer initially but compresses over time with heavy daily use."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Tracking Surface Feel",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Controlled, precise movement",
-          "Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion"
-        ],
-        [
-          "Fast, low-friction glide",
-          "Hokafenle Ergonomic Mouse Pad Wrist Support"
-        ],
-        [
-          "Budget cloth surface",
-          "EooCoo Mouse Pad with Gel Wrist Rest"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "EooCoo Mouse Pad with Gel Wrist Rest"
-        ],
-        [
-          "Mid-range pick",
-          "TECKNET Ergonomic Mouse Pad with Wrist Rest, Soft Comfortable Massage Design"
-        ],
-        [
-          "Higher budget",
-          "Hokafenle Ergonomic Mouse Pad Wrist Support"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Cloth vs Hard Surface",
-    "cards": [
-      {
-        "label": "Cloth surface (e.g. Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion)",
-        "text": "Slightly higher friction, often preferred for controlled, precise movement."
-      },
-      {
-        "label": "Hard surface (e.g. Hokafenle Ergonomic Mouse Pad Wrist Support)",
-        "text": "Faster, lower-friction glide, better suited to quick flick-based movement."
-      }
-    ],
-    "note": "Match this to your DPI settings and grip style, not just which one looks more premium."
-  },
-  {
-    "subheading": "By Size vs Your Desk Space",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Small or shared desk",
-          "EooCoo Mouse Pad with Gel Wrist Rest"
-        ],
-        [
-          "Standard desk",
-          "Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion"
-        ],
-        [
-          "Large desk, low DPI, wide swipes",
-          "Hokafenle Ergonomic Mouse Pad Wrist Support"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Daily, Heavy Use Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where Hokafenle Ergonomic Mouse Pad Wrist Support justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want a straightforward cloth pad for everyday use, where EooCoo Mouse Pad with Gel Wrist Rest already covers the job at the lowest price here."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
 export const buyingCriteria = [
   {
@@ -308,4 +52,346 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-mouse-pads","title":"Best Mouse Pads"},{"href":"/guide/best-gaming-mouse-pads","title":"Best Gaming Mouse Pads"},{"href":"/guide/best-mouse-pads-with-wrist-rest","title":"Best Mouse Pads With Wrist Rest"}];
+export const guideSlug = "best-vertical-mouse-pads";
+
+export const guideTitle = "The Best Vertical Mouse Pads for Everyday Desk Work";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41-YyWMfNvL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion"
+        ],
+        [
+          "",
+          "Hokafenle Ergonomic Mouse Pad Wrist Support"
+        ],
+        [
+          "",
+          "EooCoo Mouse Pad with Gel Wrist Rest"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          "EooCoo Mouse Pad with Gel Wrist Rest"
+        ],
+        [
+          "",
+          "TECKNET Ergonomic Mouse Pad with Wrist Rest, Soft Comfortable Massage Design"
+        ],
+        [
+          "",
+          "Hokafenle Ergonomic Mouse Pad Wrist Support"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion)",
+        "text": "Slightly higher friction, often preferred for controlled, precise movement."
+      },
+      {
+        "label": "Hokafenle Ergonomic Mouse Pad Wrist Support)",
+        "text": "Faster, lower-friction glide, better suited to quick flick-based movement."
+      }
+    ],
+    "note": "Match this to your DPI settings and grip style, not just which one looks more premium."
+  },
+  {
+    "subheading": "By Size vs Your Desk Space",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "EooCoo Mouse Pad with Gel Wrist Rest"
+        ],
+        [
+          "",
+          "Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion"
+        ],
+        [
+          "Large desk, low DPI, wide swipes",
+          "Hokafenle Ergonomic Mouse Pad Wrist Support"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For Daily, Heavy Use Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
+      },
+      {
+        "label": "",
+        "text": "Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where Hokafenle Ergonomic Mouse Pad Wrist Support justifies the extra cost."
+      },
+      {
+        "label": "",
+        "text": "You want a straightforward cloth pad for everyday use, where EooCoo Mouse Pad with Gel Wrist Rest already covers the job at the lowest price here."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "Cloth vs Hard Surface Tracking Feel",
+    "description": "Cloth mouse pads give a slightly higher-friction glide that many people find more controlled for precision work and slower, deliberate aiming in games, while hard plastic or glass surfaces let the sensor glide faster with less resistance, which favors quick-flick movements but can feel less controlled at first."
+  },
+  {
+    "title": "Base Material and Anti-Slip Grip",
+    "description": "Whether a mouse pad stays in place during actual use comes down to its backing, not its top surface: rubber backing tends to grip a desk far better than thinner synthetic backing, which can slide or curl at the edges over time, especially on a glossy desk."
+  },
+  {
+    "title": "Size vs Your Actual Mouse Movement Range",
+    "description": "Mouse pad sizing isn't about desk space alone, it's about matching the pad to your actual sensitivity and playstyle."
+  },
+  {
+    "title": "Stitched Edges and Long-Term Fraying",
+    "description": "Fraying at the edges is one of the most common complaints on cheaper cloth mouse pads, since the fabric edge takes constant friction from wrist and palm movement over time."
+  },
+  {
+    "title": "Wrist Rest Firmness: Gel vs Memory Foam",
+    "description": "Gel wrist rests stay cooler and firmer under sustained pressure, which some people prefer for support during long sessions, while memory foam contours more closely to the wrist's shape and can feel softer initially but compresses over time with heavy daily use."
+  }
+];
+
+export const introParagraphs = [
+  "Best Vertical Mouse Pads look similar but differ in practice, so the surface material hides real gaps.",
+  "Every pick here was judged on honest surface material and stitching quality, because this predicts real day-to-day durability."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const mainKeyword = "mouse pad vertical";
+
+export const metaDescription = "How 6 vertical mouse pads compare on compatibility, build, features and price, with clear notes on who each one suits.";
+
+export const metaTitle = "Best Vertical Mouse Pads for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-vertical-mouse-pads-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion",
+    "price": "$24.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41-YyWMfNvL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB6F58HS?tag=theofficejournal-20",
+    "description": "Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion is our overall pick in this lineup. The slope with raised massage points design conforms to ergonomic curves. Filled with super thick integrated memory foam, it is not easy to deform, super soft and rebounds slowly, providing a soothing and relaxing support for the wrist.\n\nAgainst EooCoo Mouse Pad with Gel Wrist Rest, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis fits best if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
+    "specs": [
+      "Wrist joint care",
+      "Full of memory foam",
+      "High spun glossy fabric"
+    ],
+    "pros": [
+      "Wrist joint care",
+      "Full of memory foam",
+      "High spun glossy fabric",
+      "Diversified use"
+    ],
+    "cons": [
+      "Cloth surfaces can fray at the edges without reinforced stitching",
+      "Very large sizes take up real desk space some setups can't spare"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-vertical-mouse-pads-2",
+    "rank": 2,
+    "badge": "Best Value",
+    "name": "EooCoo Mouse Pad with Gel Wrist Rest",
+    "price": "$9.98",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31hLN9-6TNL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXPY5F4J?tag=theofficejournal-20",
+    "description": "EooCoo Mouse Pad with Gel Wrist Rest is the most affordable pick here that still clears the capability floor for this category. The best and unique feature of this mouse pads is the ergonomic concave design in the gel wrist pad.\n\nArmanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion lands in a similar spot overall, but the deciding factor between the two is the non-slip PU base prevents the pad from sliding around, offering stable operation.\n\nThis one is the right call if you want a capable pick without paying for headroom you won't use. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
+    "specs": [
+      "Gel wrist support",
+      "Practical ergonomic concave design",
+      "Smooth fabric covering"
+    ],
+    "pros": [
+      "Gel wrist support",
+      "Practical ergonomic concave design",
+      "Smooth fabric covering",
+      "Non-slip PU base"
+    ],
+    "cons": [
+      "Very large sizes take up real desk space some setups can't spare",
+      "Cloth surfaces can fray at the edges without reinforced stitching"
+    ],
+    "bestFor": "Buyers who want a capable pick without paying for headroom you won't use"
+  },
+  {
+    "id": "best-vertical-mouse-pads-3",
+    "rank": 3,
+    "badge": "Solid Alternative",
+    "name": "TECKNET Ergonomic Mouse Pad with Wrist Rest, Soft Comfortable Massage Design",
+    "price": "$19.98",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41oDSJPAUML._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXQ23NNV?tag=theofficejournal-20",
+    "description": "TECKNET Ergonomic Mouse Pad with Wrist Rest, Soft Comfortable Massage Design is a strong alternative worth comparing directly against the top pick. Stay refreshed with built-in massage beads that reduce arm fatigue and improve air circulation. Crafted with high-quality memory foam and fabric, this gaming mouse pad ensures durability, comfort, and precise cursor control.\n\nArmanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
+    "specs": [
+      "Ergonomic comfort & support",
+      "Massage beads for fatigue relief",
+      "Crafted with high-quality memory foam and fabric"
+    ],
+    "pros": [
+      "Ergonomic comfort & support",
+      "Massage beads for fatigue relief",
+      "Crafted with high-quality memory foam and fabric",
+      "Non-slip PU base for stability"
+    ],
+    "cons": [
+      "Cloth surfaces can fray at the edges without reinforced stitching",
+      "Very large sizes take up real desk space some setups can't spare"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-vertical-mouse-pads-4",
+    "rank": 4,
+    "badge": "Another Strong Option",
+    "name": "MROCO Ergonomic Mouse Pad with Gel Wrist Rest",
+    "price": "See price on Amazon",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31OldV+I7IL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07DVCGX7G?tag=theofficejournal-20",
+    "description": "MROCO Ergonomic Mouse Pad with Gel Wrist Rest is a strong alternative worth comparing directly against the top pick. The ergonomic wrist rest contains soft gel to provide soothing comfort and effective support, helping reduce wrist strain and the risk of repetitive motion disorders. The premium lycra cloth surface provides a silky-smooth, comfortable feel for your wrist and hand while moving the mouse.\n\nArmanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
+    "specs": [
+      "Comfortable gel cushioning",
+      "Smooth and comfortable surface",
+      "Firm desktop grip"
+    ],
+    "pros": [
+      "Comfortable gel cushioning",
+      "Smooth and comfortable surface",
+      "Firm desktop grip",
+      "Optimal size and ergonomic shape"
+    ],
+    "cons": [
+      "Very large sizes take up real desk space some setups can't spare",
+      "Cloth surfaces can fray at the edges without reinforced stitching"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-vertical-mouse-pads-5",
+    "rank": 5,
+    "badge": "Best Premium Pick",
+    "name": "Hokafenle Ergonomic Mouse Pad Wrist Support",
+    "price": "$24.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51FGQsRveyL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BV1RSXBY?tag=theofficejournal-20",
+    "description": "Hokafenle Ergonomic Mouse Pad Wrist Support is the premium option here, positioned above the rest on price. The ergonomic 8-degree massage slope design can improve carpal tunnel syndrome, alleviate wrist pain, and keep the wrist in the most comfortable state. Lycra fabric has a smooth surface without pilling and accurate positioning, allowing everyone to work comfortably.\n\nArmanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion lands in a similar spot overall, but the deciding factor between the two is high quality integrated molding with slow rebound memory foam, not easily deformed.\n\nGo with this pick if you are willing to spend the most in this comparison for the fuller feature set that comes with it. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
+    "specs": [
+      "Ergonomic slop",
+      "Cursor positioning",
+      "Massage rebound"
+    ],
+    "pros": [
+      "Ergonomic slop",
+      "Cursor positioning",
+      "Massage rebound",
+      "11.8X7.9x1.2 inches (300x200x30mm)"
+    ],
+    "cons": [
+      "Cloth surfaces can fray at the edges without reinforced stitching",
+      "Very large sizes take up real desk space some setups can't spare"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it"
+  },
+  {
+    "id": "best-vertical-mouse-pads-6",
+    "rank": 6,
+    "badge": "Worth a Look",
+    "name": "YIWEI Ergonomic Mouse Pad with Wrist Rest for Carpal Tunnel Pain Relief",
+    "price": "$16.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41bhCs5lBaL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1BNS1H2?tag=theofficejournal-20",
+    "description": "YIWEI Ergonomic Mouse Pad with Wrist Rest for Carpal Tunnel Pain Relief is a strong alternative worth comparing directly against the top pick. Ergonomic 8° slope & massage bumps design:featuring a distinct 8-degree therapeutic slope and integrated massage bumps, this design conforms to natural wrist contours. Engineered for reliable performance, the lycra cloth surface provides a micro-textured finish for high-precision tracking.\n\nThe gap between this and Armanza Ergonomic Joint Wrist Support Mouse Pad with Memory Foam Cushion isn't in the essentials, it shows up in the yiwei pro is compatible with wired, wireless, and vertical ergonomic mice.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
+    "specs": [
+      "Ergonomic 8° slope & massage bumps design",
+      "Precision surface for gaming & design",
+      "Comfort for extended work sessions"
+    ],
+    "pros": [
+      "Ergonomic 8° slope & massage bumps design",
+      "Precision surface for gaming & design",
+      "Comfort for extended work sessions",
+      "Stable non-slip rubber base"
+    ],
+    "cons": [
+      "Very large sizes take up real desk space some setups can't spare",
+      "Cloth surfaces can fray at the edges without reinforced stitching"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  }
+];
+
+export const readTime = "11 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-mouse-pads",
+    "title": "Best Mouse Pads"
+  },
+  {
+    "href": "/guide/best-gaming-mouse-pads",
+    "title": "Best Gaming Mouse Pads"
+  },
+  {
+    "href": "/guide/best-mouse-pads-with-wrist-rest",
+    "title": "Best Mouse Pads With Wrist Rest"
+  }
+];
+
+export const breadcrumbLabel = "Best Vertical Mouse Pads";

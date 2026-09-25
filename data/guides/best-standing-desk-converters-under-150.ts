@@ -1,218 +1,6 @@
-export const guideSlug = "best-standing-desk-converters-under-150";
-export const guideTitle = "4 Best Standing Desk Converters Under $150 in 2026";
-export const metaTitle = "Best Standing Desk Converters Under $150 in 2026";
-export const metaDescription = "We compared best standing desk converters under $150 by verified current price and real capability, not just the price ceiling alone.";
-export const mainKeyword = "standing desk converters under $150";
-export const introParagraphs = [
-  "Best Standing Desk Converters Under $150 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
-  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
-];
-export const lastUpdated = "2026-08-22";
-export const readTime = "8 min";
-export const heroImage = "https://m.media-amazon.com/images/I/413vrLzk5eL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-standing-desk-converters-under-150-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "JOY worker Standing Desk Converter",
-    price: "$129.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/413vrLzk5eL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BZC5W7BK?tag=theofficejournal-20",
-    description: "JOY worker Standing Desk Converter is the top pick in this comparison. Wide 31.5\" x 15.7\" top tier, providing ample room for up to dual monitors set up. The riser comes with almost everything assembled.\n\nIt sits close to FITUEYES Height Adjustable Standing Desk 32” Wide Sit to Stand Converter on paper, so the real decision comes down to a specific detail rather than a big capability gap: sturdy & stable adjustable desk: crafted from durable particle board and patented x-shaped frame, ensuring rising desk converter has the capacity to hold up to 28.6lbs on the top tier and up to 4.4lbs on the lower tier.\n\nThis fits best if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Wide 31.5\" x 15.7\" top tier", "The riser comes with almost everything assembled", "Sturdy & stable adjustable desk: crafted from durable particle"],
-    pros: ["Wide 31.5\" x 15.7\" top tier, providing ample room for up", "Riser comes with almost everything assembled", "Sturdy & stable adjustable desk: crafted from durable particle board"],
-    cons: ["Verify exact fit and specs against your device before buying", "Compatibility varies by exact model, double-check before ordering"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-standing-desk-converters-under-150-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "FITUEYES Height Adjustable Standing Desk 32” Wide Sit to Stand Converter",
-    price: "$127.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51Z4mzo+NKS._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B07LCCJD6B?tag=theofficejournal-20",
-    description: "FITUEYES Height Adjustable Standing Desk 32” Wide Sit to Stand Converter is a strong alternative worth comparing directly against the top pick. The top surface measures 31.5” x 15.7” providing plenty of space for single monitor, dual monitor, and laptop + computer monitor setups. Go from sitting to standing in one easy smooth motion with dual gas spring force.\n\nAgainst JOY worker Standing Desk Converter, the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: adjustable workstation allows you to find that needed healthy balance between sitting and standing up throughout the day.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["The top surface measures 31.5” x 15.7” providing plenty of space", "Go from sitting to standing in one easy smooth motion with dual", "Adjustable workstation allows you to find that needed healthy"],
-    pros: ["Top surface measures 31.5” x 15.7” providing plenty of space", "Go from sitting to standing in one easy smooth motion", "Adjustable workstation allows you to find that needed healthy balance between"],
-    cons: ["Confirm this stays in stock at the price checked here", "Setup or mounting hardware may be sold separately"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-standing-desk-converters-under-150-3",
-    rank: 3,
-    badge: "Best Value",
-    name: "Height Adjustable Standing Desk Converter Keyboard Riser 23.6 Inch Black",
-    price: "$39.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41KtJwtMsYL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F8JS4L73?tag=theofficejournal-20",
-    description: "Height Adjustable Standing Desk Converter Keyboard Riser 23.6 Inch Black is the most affordable pick here that still clears the capability floor for this price tier. 13.3 x 23.6-inch desktop dimensions. Non-slip base paired with a heavy-duty scissor-lift mechanism ensures stability and longevity, providing reliable support for your laptop, keyboard, and mouse.\n\nIt sits close to JOY worker Standing Desk Converter on paper, so the real decision comes down to a specific detail rather than a big capability gap: manual lift rod design operates exceptionally smoothly, effortlessly switching between seated (fits standard desk height) and standing(ergonomic comfort height) positions.\n\nChoose this if you want to stay at the lower end of this price tier without dropping below the real capability floor. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["13.3 x 23.6-inch desktop dimensions", "Non-slip base paired with a heavy-duty scissor-lift mechanism", "Manual lift rod design operates exceptionally smoothly"],
-    pros: ["13.3 x 23.6-inch desktop dimensions", "Non-slip base paired with a heavy-duty scissor-lift mechanism ensures stability", "Manual lift rod design operates exceptionally smoothly, effortlessly switching between seated"],
-    cons: ["Manufacturer claims here aren't independently lab-verified", "Budget tier means fewer premium finish options"],
-    bestFor: "buyers who want to stay at the lower end of this price tier without dropping below the real capability floor",
-  },
-  {
-    id: "best-standing-desk-converters-under-150-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "Adjustable Height Standing Desk Converter Keyboard Riser 23.6 Inch Black",
-    price: "$49.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41azPSHnDnL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F4FN3SNT?tag=theofficejournal-20",
-    description: "Adjustable Height Standing Desk Converter Keyboard Riser 23.6 Inch Black is a strong alternative worth comparing directly against the top pick. The 23.6“ x 13.3” desktop provides plenty of space for your monitor, laptop, keyboard and other office essentials. This standing desk converter can easily adjust the height.\n\nAgainst JOY worker Standing Desk Converter, the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: this is a manually operated elevated standing desk converter.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["The 23.6“ x 13.3” desktop provides plenty of space for your", "This standing desk converter can easily adjust the height", "This is a manually operated elevated standing desk converter"],
-    pros: ["23.6“ x 13.3” desktop provides plenty of space for your monitor,", "Standing desk converter can easily adjust the height", "Is a manually operated elevated standing desk converter"],
-    cons: ["Compatibility varies by exact model, double-check before ordering", "Verify exact fit and specs against your device before buying"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Live price gate",
-    "description": "every recommended product must be new, in stock and up to $150 on the article refresh date; stale sale prices are automatically disqualified."
-  },
-  {
-    "title": "Budget-ladder context",
-    "description": "explicitly show what changes between the next-lower tier, the constrained value converter tier, and the next-higher tier so this page is not a cloned generic ranking."
-  },
-  {
-    "title": "Capability-per-dollar score",
-    "description": "normalize price against true sit-stand workspace, work-surface/keyboard area and the minimum usable setup cost rather than raw feature count."
-  },
-  {
-    "title": "Evidence split",
-    "description": "label height range and loaded stability as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
-  },
-  {
-    "title": "Threshold-specific ownership verdict",
-    "description": "judge lift effort/desk footprint, warranty/support, replacement accessories and the chance that a buyer should save money or step up a tier instead of spending the full $150."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Priority Up to $150",
-    "table": {
-      "headers": [
-        "If you mainly need",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "The best all-around option in this comparison",
-          "JOY worker Standing Desk Converter"
-        ],
-        [
-          "A strong alternative with a different tradeoff",
-          "Height Adjustable Standing Desk Converter Keyboard Riser 23.6 Inch Black"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget Within This Tier",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Height Adjustable Standing Desk Converter Keyboard Riser 23.6 Inch Black"
-        ],
-        [
-          "Best overall value",
-          "JOY worker Standing Desk Converter"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "JOY worker Standing vs Adjustable Height Standing",
-    "cards": [
-      {
-        "label": "JOY worker Standing Desk Converter",
-        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
-      },
-      {
-        "label": "Adjustable Height Standing Desk Converter Keyboard Riser 23.6 Inch Black",
-        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
-      }
-    ],
-    "note": "Most buyers should default to JOY worker Standing Desk Converter unless your specific use case points toward Adjustable Height Standing Desk Converter Keyboard Riser 23.6 Inch Black's particular tradeoffs."
-  },
-  {
-    "subheading": "By Secondary Feature Priority",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Matches this guide's core use case most closely",
-          "JOY worker Standing Desk Converter"
-        ],
-        [
-          "A close secondary option worth comparing",
-          "Height Adjustable Standing Desk Converter Keyboard Riser 23.6 Inch Black"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For This Guide's Core Use Case Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
-      },
-      {
-        "label": "In this comparison",
-        "text": "JOY worker Standing Desk Converter is worth checking first against that specific requirement before comparing the rest of this lineup."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need the fuller feature set found on Adjustable Height Standing Desk Converter Keyboard Riser 23.6 Inch Black, where the extra capability has a real, verifiable use case for you."
-      },
-      {
-        "label": "Save if",
-        "text": "Your requirements are covered by Height Adjustable Standing Desk Converter Keyboard Riser 23.6 Inch Black without needing the higher-tier features."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
 export const buyingCriteria = [
   {
@@ -244,7 +32,7 @@ export const faq = [
   },
   {
     "q": "Does the cheapest option in a price tier always mean lower quality?",
-    "a": "Not necessarily. Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
+    "a": "Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
   },
   {
     "q": "Is it worth stepping up to the next price tier?",
@@ -260,4 +48,274 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-standing-desk-converters-under-50","title":"Best Standing Desk Converters Under $50"},{"href":"/guide/best-standing-desk-converters-under-100","title":"Best Standing Desk Converters Under $100"},{"href":"/guide/best-standing-desk-converters-under-300","title":"Best Standing Desk Converters Under $300"}];
+export const guideSlug = "best-standing-desk-converters-under-150";
+
+export const guideTitle = "The Best Standing Desk Converters Under $150 Worth Considering";
+
+export const heroImage = "https://m.media-amazon.com/images/I/413vrLzk5eL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Priority Up to $150",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "The best all-around option in this comparison",
+          "JOY worker Standing Desk Converter"
+        ],
+        [
+          "A strong alternative with a different tradeoff",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "By Budget Within This Tier",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          ""
+        ],
+        [
+          "",
+          "JOY worker Standing Desk Converter"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "JOY worker Standing vs Adjustable Height Standing",
+    "cards": [
+      {
+        "label": "JOY worker Standing Desk Converter",
+        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
+      },
+      {
+        "label": "",
+        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
+      }
+    ],
+    "note": "6 Inch Black's particular tradeoffs."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Matches this guide's core use case most closely",
+          "JOY worker Standing Desk Converter"
+        ],
+        [
+          "A close secondary option worth comparing",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For This Guide's Core Use Case Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
+      },
+      {
+        "label": "",
+        "text": "JOY worker Standing Desk Converter is worth checking first against that specific requirement before comparing the rest of this lineup."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "6 Inch Black, where the extra capability has a real, verifiable use case for you."
+      },
+      {
+        "label": "",
+        "text": "6 Inch Black without needing the higher-tier features."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Every recommended product must be new, in stock and up to $150 on the article refresh date; stale sale prices are automatically disqualified."
+  },
+  {
+    "title": "",
+    "description": "Explicitly show what changes between the next-lower tier, the constrained value converter tier, and the next-higher tier so this page is not a cloned generic ranking."
+  },
+  {
+    "title": "",
+    "description": "Normalize price against true sit-stand workspace, work-surface/keyboard area and the minimum usable setup cost rather than raw feature count."
+  },
+  {
+    "title": "",
+    "description": "Label height range and loaded stability as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+  },
+  {
+    "title": "",
+    "description": "Judge lift effort/desk footprint, warranty/support, replacement accessories and the chance that a buyer should save money or step up a tier instead of spending the full $150."
+  }
+];
+
+export const introParagraphs = [
+  "Best Standing Desk Converters Under $150 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
+  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
+];
+
+export const lastUpdated = "2026-08-22";
+
+export const mainKeyword = "standing desk converters under $150";
+
+export const metaDescription = "How 4 standing desk converters under $150 compare on size, height range, stability and features, with clear notes on who each one suits.";
+
+export const metaTitle = "Best Standing Desk Converters Under $150 (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-standing-desk-converters-under-150-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "JOY worker Standing Desk Converter",
+    "price": "$129.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/413vrLzk5eL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZC5W7BK?tag=theofficejournal-20",
+    "description": "JOY worker Standing Desk Converter is the top pick in this comparison. 7\" top tier, providing ample room for up to dual monitors set up. The riser comes with almost everything assembled.\n\n4lbs on the lower tier.\n\nThis fits best if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Wide 31.5\" x 15.7\" top tier",
+      "The riser comes with almost everything assembled",
+      "Sturdy & stable adjustable desk: crafted from durable particle"
+    ],
+    "pros": [
+      "Wide 31.5\" x 15.7\" top tier, providing ample room for up",
+      "Riser comes with almost everything assembled",
+      "Sturdy & stable adjustable desk: crafted from durable particle board"
+    ],
+    "cons": [
+      "Verify exact fit and specs against your device before buying",
+      "Compatibility varies by exact model, double-check before ordering"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-standing-desk-converters-under-150-2",
+    "rank": 2,
+    "badge": "Also Worth Considering",
+    "name": "FITUEYES Height Adjustable Standing Desk 32” Wide Sit to Stand Converter",
+    "price": "$127.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51Z4mzo+NKS._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B07LCCJD6B?tag=theofficejournal-20",
+    "description": "FITUEYES Height Adjustable Standing Desk 32” Wide Sit to Stand Converter is a strong alternative worth comparing directly against the top pick. 7” providing plenty of space for single monitor, dual monitor, and laptop + computer monitor setups. Go from sitting to standing in one easy smooth motion with dual gas spring force.\n\nAgainst JOY worker Standing Desk Converter, the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: adjustable workstation allows you to find that needed healthy balance between sitting and standing up throughout the day.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "The top surface measures 31.5” x 15.7” providing plenty of space",
+      "Go from sitting to standing in one easy smooth motion with dual",
+      "Adjustable workstation allows you to find that needed healthy"
+    ],
+    "pros": [
+      "Top surface measures 31.5” x 15.7” providing plenty of space",
+      "Go from sitting to standing in one easy smooth motion",
+      "Adjustable workstation allows you to find that needed healthy balance between"
+    ],
+    "cons": [
+      "Confirm this stays in stock at the price checked here",
+      "Setup or mounting hardware may be sold separately"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-standing-desk-converters-under-150-3",
+    "rank": 3,
+    "badge": "Best Value",
+    "name": "Height Adjustable Standing Desk Converter Keyboard Riser 23.6 Inch Black",
+    "price": "$39.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41KtJwtMsYL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8JS4L73?tag=theofficejournal-20",
+    "description": "6 Inch Black is the most affordable pick here that still clears the capability floor for this price tier. Non-slip base paired with a heavy-duty scissor-lift mechanism ensures stability and longevity, providing reliable support for your laptop, keyboard, and mouse.\n\nIt sits close to JOY worker Standing Desk Converter on paper, so the real decision comes down to a specific detail rather than a big capability gap: manual lift rod design operates exceptionally smoothly, effortlessly switching between seated (fits standard desk height) and standing(ergonomic comfort height) positions.\n\nChoose this if you want to stay at the lower end of this price tier without dropping below the real capability floor. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "13.3 x 23.6-inch desktop dimensions",
+      "Non-slip base paired with a heavy-duty scissor-lift mechanism",
+      "Manual lift rod design operates exceptionally smoothly"
+    ],
+    "pros": [
+      "13.3 x 23.6-inch desktop dimensions",
+      "Non-slip base paired with a heavy-duty scissor-lift mechanism ensures stability",
+      "Manual lift rod design operates exceptionally smoothly, effortlessly switching between seated"
+    ],
+    "cons": [
+      "Manufacturer claims here aren't independently lab-verified",
+      "Budget tier means fewer premium finish options"
+    ],
+    "bestFor": "Buyers who want to stay at the lower end of this price tier without dropping below the real capability floor"
+  },
+  {
+    "id": "best-standing-desk-converters-under-150-4",
+    "rank": 4,
+    "badge": "Another Strong Option",
+    "name": "Adjustable Height Standing Desk Converter Keyboard Riser 23.6 Inch Black",
+    "price": "$49.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41azPSHnDnL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4FN3SNT?tag=theofficejournal-20",
+    "description": "6 Inch Black is a strong alternative worth comparing directly against the top pick. 3” desktop provides plenty of space for your monitor, laptop, keyboard and other office essentials. This standing desk converter can easily adjust the height.\n\nAgainst JOY worker Standing Desk Converter, the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: this is a manually operated elevated standing desk converter.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "The 23.6“ x 13.3” desktop provides plenty of space for your",
+      "This standing desk converter can easily adjust the height",
+      "This is a manually operated elevated standing desk converter"
+    ],
+    "pros": [
+      "23.6“ x 13.3” desktop provides plenty of space for your monitor,",
+      "Standing desk converter can easily adjust the height",
+      "Is a manually operated elevated standing desk converter"
+    ],
+    "cons": [
+      "Compatibility varies by exact model, double-check before ordering",
+      "Verify exact fit and specs against your device before buying"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  }
+];
+
+export const readTime = "8 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-standing-desk-converters-under-50",
+    "title": "Best Standing Desk Converters Under $50"
+  },
+  {
+    "href": "/guide/best-standing-desk-converters-under-100",
+    "title": "Best Standing Desk Converters Under $100"
+  },
+  {
+    "href": "/guide/best-standing-desk-converters-under-300",
+    "title": "Best Standing Desk Converters Under $300"
+  }
+];
+
+export const breadcrumbLabel = "Best Standing Desk Converters Under $150";

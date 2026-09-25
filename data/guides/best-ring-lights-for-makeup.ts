@@ -1,274 +1,6 @@
-export const guideSlug = "best-ring-lights-for-makeup";
-export const guideTitle = "7 Best Ring Lights for Makeup in 2026";
-export const metaTitle = "Best Ring Lights for Makeup";
-export const metaDescription = "We compared a ring light for makeup models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
-export const mainKeyword = "a ring light for makeup";
-export const introParagraphs = [
-  "Best Ring Lights for Makeup aren't as interchangeable as they seem. That means a title alone won't tell you enough.",
-  "This roundup weighs honest color temperature and mount type, given that this is the real gap to watch."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/41fDvi1ZJEL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-ring-lights-for-makeup-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "UBeesize 12\" LED Ring Light with 62\" Tripod Stand",
-    price: "$29.69",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41fDvi1ZJEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08L5VKNWR?tag=theofficejournal-20",
-    description: "UBeesize 12\" LED Ring Light with 62\" Tripod Stand is the strongest all-around choice here. Equipped with 240 high-efficiency leds, this 10w ring light delivers bright, stable and evenly diffused illumination. Adjust power, color temperature and brightness directly from the responsive touch-control panel.\n\nSet next to EMART 10\" Ring Light with 55\" Extendable Tripod Stands and Phone Holder, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nIt's worth picking this one if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Many brands inflate their listed lux rating by 2 to 3 times what the light actually outputs at a standardized distance, so treat the number on the box as a starting point, not a guarantee.",
-    specs: ["240 high-efficiency leds", "Adjust power, color temperature and brightness directly from the responsive touch-control panel", "62-Inch tripod & handheld selfie stick"],
-    pros: ["240 high-efficiency leds", "Adjust power, color temperature and brightness directly from the responsive touch-control panel", "62-Inch tripod & handheld selfie stick", "Rotatable light head and adjustable phone holder make it easy to switch between portrait"],
-    cons: ["Listed lux ratings are often inflated 2 to 3x by the brand", "Larger diameter alone doesn't guarantee brighter, more even light"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-ring-lights-for-makeup-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "EMART 10\" Ring Light with 55\" Extendable Tripod Stands and Phone Holder",
-    price: "$18.89",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/411b-RrcpqL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CC4RQ5YL?tag=theofficejournal-20",
-    description: "EMART 10\" Ring Light with 55\" Extendable Tripod Stands and Phone Holder is a strong alternative worth comparing directly against the top pick. Our 10 inch ring light with stand has 3 colour temperature (white, warm white and yellow white) and 10 brightness levels, a variety of options fill light for your video recording and picture. Our ringlight tripod stand can be adjust from 20\" to 51\" that applies to desktop or floor.\n\nSet next to UBeesize 12\" LED Ring Light with 62\" Tripod Stand, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A larger diameter doesn't automatically mean brighter or more even light, a well-engineered smaller ring can outperform a cheap oversized one, so check independent lux measurements when they're available.",
-    specs: ["Dimmable LED fill light", "Adjustable light tripod stand", "2 Remote control"],
-    pros: ["Dimmable LED fill light", "Adjustable light tripod stand", "2 Remote control", "Ring light comes with 2 types of phoner holder compatible for most phones"],
-    cons: ["Larger diameter alone doesn't guarantee brighter, more even light", "Listed lux ratings are often inflated 2 to 3x by the brand"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-ring-lights-for-makeup-3",
-    rank: 3,
-    badge: "Best Premium Pick",
-    name: "Desk Ring Light with Stand for Computer",
-    price: "$39.98",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41r5nA1roKL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B095741MZS?tag=theofficejournal-20",
-    description: "Desk Ring Light with Stand for Computer is the priciest pick in this lineup. This ringlight features an large 10.5\" lamp head with 120 pieces LED, and its impressively curved design sets it apart from other flat lamp shades. This halo light with stand features a dimmable function with 3 color temperatures and 10 brightness levels (3000k-6500k), allowing you to customize the lighting to your specific needs.\n\nUBeesize 12\" LED Ring Light with 62\" Tripod Stand is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nChoose this if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Many brands inflate their listed lux rating by 2 to 3 times what the light actually outputs at a standardized distance, so treat the number on the box as a starting point, not a guarantee.",
-    specs: ["Brighter and softer", "Adjustable lighting", "Height of this circle light can be extended from 23 inches"],
-    pros: ["Brighter and softer", "Adjustable lighting", "Height of this circle light can be extended from 23 inches", "Stable base & flexible phone holder"],
-    cons: ["Listed lux ratings are often inflated 2 to 3x by the brand", "Larger diameter alone doesn't guarantee brighter, more even light"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-ring-lights-for-makeup-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "SENSYNE Ring Light with Stand",
-    price: "$25.64",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41kFDjToliL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08B3X7NXC?tag=theofficejournal-20",
-    description: "SENSYNE Ring Light with Stand is a strong alternative worth comparing directly against the top pick. 3 Color modes (warm, natural, cool) with 10 brightness levels let you easily create soft, even lighting for tiktok, zoom calls, makeup, and video recording. Extendable from 15.7\" to 50\", perfect for desk use, standing filming, or full-body shots.\n\nSet next to UBeesize 12\" LED Ring Light with 62\" Tripod Stand, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A larger diameter doesn't automatically mean brighter or more even light, a well-engineered smaller ring can outperform a cheap oversized one, so check independent lux measurements when they're available.",
-    specs: ["Perfect lighting for video, makeup & streaming", "50\" Adjustable tripod, desk to full height", "Flexible phone holder and adjustable head allow portrait"],
-    pros: ["Perfect lighting for video, makeup & streaming", "50\" Adjustable tripod, desk to full height", "Flexible phone holder and adjustable head allow portrait", "Wireless remote, shoot hands-free"],
-    cons: ["Larger diameter alone doesn't guarantee brighter, more even light", "Listed lux ratings are often inflated 2 to 3x by the brand"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-ring-lights-for-makeup-5",
-    rank: 5,
-    badge: "Best Value",
-    name: "ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip",
-    price: "$13.76",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41DFP3dJ-xL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C2C9QT91?tag=theofficejournal-20",
-    description: "ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip is the best-value option in this roundup, priced lowest without a real capability gap. The selfie light has 3 light modes (white, natural, warm) from 2500k-6500k color temperature adjustable to meet all your needs, allowing you to be charming in any surroundings. Portable phone light clip only weighs 95g, perfectly fits in your pocket or pouch (dimension: 3.9*2.8*0.78in).\n\nUBeesize 12\" LED Ring Light with 62\" Tripod Stand is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nReach for this pick if you want a genuinely capable pick without paying for headroom you won't use. Many brands inflate their listed lux rating by 2 to 3 times what the light actually outputs at a standardized distance, so treat the number on the box as a starting point, not a guarantee.",
-    specs: ["Best light effect cri 97+", "3 Light modes & 10 brightness levels", "Multi-function design"],
-    pros: ["Best light effect cri 97+", "3 Light modes & 10 brightness levels", "Multi-function design", "Compact pocket size"],
-    cons: ["Listed lux ratings are often inflated 2 to 3x by the brand", "Larger diameter alone doesn't guarantee brighter, more even light"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
-  },
-  {
-    id: "best-ring-lights-for-makeup-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "Weilisi 10\" Ring Light with Stand 72'' Tall & Phone Holder, 38 Color Modes",
-    price: "$25.49",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51hLOYHG5nL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08JPCSDMP?tag=theofficejournal-20",
-    description: "Weilisi 10\" Ring Light with Stand 72'' Tall & Phone Holder, 38 Color Modes is a strong alternative worth comparing directly against the top pick. New RGB dynamic modes and 3 normal colors: selfie ring light has warm light, white light, daylight, red, yellow, green, sky blue, blue, purple, RGB light provide 39 dynamic, breathing and illusory color mode. Our light ring features exclusive stepless speed regulation and dimming.\n\nUBeesize 12\" LED Ring Light with 62\" Tripod Stand lands in a similar spot overall, but the deciding factor between the two is this tripod for the ring light reaches a maximum height of 62\" and an overall height of up to 72\".\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A larger diameter doesn't automatically mean brighter or more even light, a well-engineered smaller ring can outperform a cheap oversized one, so check independent lux measurements when they're available.",
-    specs: ["New RGB dynamic modes and 3 normal colors", "Precise control", "Tripod for the ring light reaches a maximum height of 62\""],
-    pros: ["New RGB dynamic modes and 3 normal colors", "Precise control", "Tripod for the ring light reaches a maximum height of 62\"", "Versatility at its best"],
-    cons: ["Larger diameter alone doesn't guarantee brighter, more even light", "Listed lux ratings are often inflated 2 to 3x by the brand"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-ring-lights-for-makeup-7",
-    rank: 7,
-    badge: "Great Alternative",
-    name: "Desk Ring Light with Telescopic Stand",
-    price: "$22.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31L3-vQN40L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D1BTCVL5?tag=theofficejournal-20",
-    description: "Desk Ring Light with Telescopic Stand is a strong alternative worth comparing directly against the top pick. The 5 inch ring light is dimmable which has 3 color modes, each modes has 10 brightness levels, it is soft and bright enough to need your lighting need. The ring light table stand is telescopic, height can be adjustable from 8.5inch/21.5cm to 17.3inch/44cm.\n\nThe connector to ring light on stand is rotatable, then you can adjust the ring light angle easily, which is the main thing that distinguishes this pick from UBeesize 12\" LED Ring Light with 62\" Tripod Stand.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Many brands inflate their listed lux rating by 2 to 3 times what the light actually outputs at a standardized distance, so treat the number on the box as a starting point, not a guarantee.",
-    specs: ["Dimmable light", "Extendable stand", "Connector to ring light on stand is rotatable"],
-    pros: ["Dimmable light", "Extendable stand", "Connector to ring light on stand is rotatable", "Compact & lightweight"],
-    cons: ["Listed lux ratings are often inflated 2 to 3x by the brand", "Larger diameter alone doesn't guarantee brighter, more even light"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Ring Size vs Your Actual Shooting Distance",
-    "description": "Match the ring's diameter to your real shooting distance rather than assuming bigger is always better: an 8-inch ring covers close-up makeup work under 30cm, a 10-inch ring is the sweet spot for typical video-call distance (45 to 60cm behind a monitor), and anything beyond 80cm for full-body streaming benefits from 12 inches or more."
-  },
-  {
-    "title": "Lux Ratings Are Often Inflated 2 to 3x",
-    "description": "Many ring light listings advertise a lux rating that's inflated 2 to 3 times what the light actually outputs at a realistic distance, so a listed '3000 lux' figure might genuinely deliver closer to 1000 to 1500 lux once you're actually sitting at typical desk distance."
-  },
-  {
-    "title": "Diameter Doesn't Guarantee Brightness",
-    "description": "Size and brightness are two separate specs that don't automatically scale together: a poorly built large ring light can underperform a smaller, better-engineered one at the exact same distance, since LED density and power delivery matter more than diameter alone."
-  },
-  {
-    "title": "Dimmable Range and Color Temperature Adjustment",
-    "description": "A ring light with a genuinely wide dimmable range (not just on/off or a couple of fixed steps) lets you match the light to your room's existing lighting rather than blowing out your camera in a bright room or leaving you underlit in a dim one."
-  },
-  {
-    "title": "Mount Type: Desk Stand vs Clamp vs Tripod",
-    "description": "The mounting style affects your desk space more than any other single spec: a desk stand is simplest but occupies permanent desk real estate, a clamp mount frees up that space but requires enough clamp throat depth for your specific desk edge, and a tripod trades a larger floor footprint for the most flexible positioning, useful if you need the ring light higher or further back than a desk mount allows.."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Shooting Distance",
-    "table": {
-      "headers": [
-        "Your distance",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Close-up, under 30cm",
-          "ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip"
-        ],
-        [
-          "Video-call distance, 45-60cm",
-          "UBeesize 12\" LED Ring Light with 62\" Tripod Stand"
-        ],
-        [
-          "Full-body, 80cm+",
-          "Desk Ring Light with Stand for Computer"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip"
-        ],
-        [
-          "Mid-range pick",
-          "EMART 10\" Ring Light with 55\" Extendable Tripod Stands and Phone Holder"
-        ],
-        [
-          "Higher budget",
-          "Desk Ring Light with Stand for Computer"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Desk Stand vs Clamp Mount",
-    "cards": [
-      {
-        "label": "Desk stand (e.g. UBeesize 12\" LED Ring Light with 62\" Tripod Stand)",
-        "text": "Simple setup, but occupies permanent desk space."
-      },
-      {
-        "label": "Clamp mount",
-        "text": "Frees up desk space, but needs enough clamp depth for your desk edge."
-      }
-    ],
-    "note": "Match this to how much desk surface you're willing to give up permanently."
-  },
-  {
-    "subheading": "By Color Temperature Needs",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Matches varying room light",
-          "Check for a wide, adjustable color temperature range"
-        ],
-        [
-          "Fixed single-purpose setup",
-          "UBeesize 12\" LED Ring Light with 62\" Tripod Stand"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Video Calls Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A 10 to 12 inch diameter and a real (not inflated) lux rating at video-call distance."
-      },
-      {
-        "label": "In this comparison",
-        "text": "UBeesize 12\" LED Ring Light with 62\" Tripod Stand is worth checking against its specific lux rating before assuming any ring light performs the same at your desk distance."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want verified brightness, adjustable color temperature, and reliable build quality, where Desk Ring Light with Stand for Computer justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You just need basic, even lighting for occasional video calls, where ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip already covers the job at the lowest price here."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
 export const buyingCriteria = [
   {
@@ -277,15 +9,15 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Lux Ratings Are Often Inflated 2 to 3x",
-    "explanation": "Many ring light listings advertise a lux rating that's inflated 2 to 3 times what the light actually outputs at a realistic distance, so a listed '3000 lux' figure might genuinely deliver closer to 1000 to 1500 lux once you're actually sitting at typical desk distance. Where possible, look for lux figures measured at a standardized distance (0.5m or 1m) rather than trusting a single headline number with no distance specified."
+    "explanation": "Many ring light listings advertise a lux rating that's inflated 2 to 3 times what the light actually outputs at a realistic distance, so a listed '3000 lux' figure might deliver closer to 1000 to 1500 lux once you're actually sitting at typical desk distance. 5m or 1m) rather than trusting a single headline number with no distance specified."
   },
   {
-    "criterion": "Diameter Doesn't Guarantee Brightness",
+    "criterion": "",
     "explanation": "Size and brightness are two separate specs that don't automatically scale together: a poorly built large ring light can underperform a smaller, better-engineered one at the exact same distance, since LED density and power delivery matter more than diameter alone. Compare actual lux output at a matched distance across products rather than assuming the largest ring in a lineup is also the brightest."
   },
   {
     "criterion": "Dimmable Range and Color Temperature Adjustment",
-    "explanation": "A ring light with a genuinely wide dimmable range (not just on/off or a couple of fixed steps) lets you match the light to your room's existing lighting rather than blowing out your camera in a bright room or leaving you underlit in a dim one. Adjustable color temperature (typically 3000K warm to 6500K daylight) matters just as much, since a fixed-temperature light can clash badly with your room's ambient lighting on camera."
+    "explanation": "A ring light with a wide dimmable range (not just on/off or a couple of fixed steps) lets you match the light to your room's existing lighting rather than blowing out your camera in a bright room or leaving you underlit in a dim one. Adjustable color temperature (typically 3000K warm to 6500K daylight) matters just as much, since a fixed-temperature light can clash badly with your room's ambient lighting on camera."
   },
   {
     "criterion": "Mount Type: Desk Stand vs Clamp vs Tripod",
@@ -320,4 +52,370 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-ring-lights","title":"Best Ring Lights"},{"href":"/guide/best-ring-lights-for-webcam","title":"Best Ring Lights for Webcam"},{"href":"/guide/best-ring-lights-with-stand","title":"Best Ring Lights with Stand"}];
+export const guideSlug = "best-ring-lights-for-makeup";
+
+export const guideTitle = "The Best Ring Lights for Makeup Worth Considering";
+
+export const heroImage = "https://m.media-amazon.com/images/I/41fDvi1ZJEL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip"
+        ],
+        [
+          "",
+          "UBeesize 12\" LED Ring Light with 62\" Tripod Stand"
+        ],
+        [
+          "",
+          "Desk Ring Light with Stand for Computer"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          "ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip"
+        ],
+        [
+          "",
+          "EMART 10\" Ring Light with 55\" Extendable Tripod Stands and Phone Holder"
+        ],
+        [
+          "",
+          "Desk Ring Light with Stand for Computer"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "Desk Stand vs Clamp Mount",
+    "cards": [
+      {
+        "label": "UBeesize 12\" LED Ring Light with 62\" Tripod Stand)",
+        "text": "Simple setup, but occupies permanent desk space."
+      },
+      {
+        "label": "",
+        "text": "Frees up desk space, but needs enough clamp depth for your desk edge."
+      }
+    ],
+    "note": "Match this to how much desk surface you're willing to give up permanently."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "Check for a wide, adjustable color temperature range"
+        ],
+        [
+          "",
+          "UBeesize 12\" LED Ring Light with 62\" Tripod Stand"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "A 10 to 12 inch diameter and a real (not inflated) lux rating at video-call distance."
+      },
+      {
+        "label": "",
+        "text": "UBeesize 12\" LED Ring Light with 62\" Tripod Stand is worth checking against its specific lux rating before assuming any ring light performs the same at your desk distance."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You want verified brightness, adjustable color temperature, and reliable build quality, where Desk Ring Light with Stand for Computer justifies the extra cost."
+      },
+      {
+        "label": "",
+        "text": "You just need basic, even lighting for occasional video calls, where ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip already covers the job at the lowest price here."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "Ring Size vs Your Actual Shooting Distance",
+    "description": "Match the ring's diameter to your real shooting distance rather than assuming bigger is always better: an 8-inch ring covers close-up makeup work under 30cm, a 10-inch ring is the sweet spot for typical video-call distance (45 to 60cm behind a monitor), and anything beyond 80cm for full-body streaming benefits from 12 inches or more."
+  },
+  {
+    "title": "Lux Ratings Are Often Inflated 2 to 3x",
+    "description": "Many ring light listings advertise a lux rating that's inflated 2 to 3 times what the light actually outputs at a realistic distance, so a listed '3000 lux' figure might deliver closer to 1000 to 1500 lux once you're actually sitting at typical desk distance."
+  },
+  {
+    "title": "",
+    "description": "Size and brightness are two separate specs that don't automatically scale together: a poorly built large ring light can underperform a smaller, better-engineered one at the exact same distance, since LED density and power delivery matter more than diameter alone."
+  },
+  {
+    "title": "Dimmable Range and Color Temperature Adjustment",
+    "description": "A ring light with a wide dimmable range (not just on/off or a couple of fixed steps) lets you match the light to your room's existing lighting rather than blowing out your camera in a bright room or leaving you underlit in a dim one."
+  },
+  {
+    "title": "Mount Type: Desk Stand vs Clamp vs Tripod",
+    "description": "The mounting style affects your desk space more than any other single spec: a desk stand is simplest but occupies permanent desk real estate, a clamp mount frees up that space but requires enough clamp throat depth for your specific desk edge, and a tripod trades a larger floor footprint for the most flexible positioning, useful if you need the ring light higher or further back than a desk mount allows.."
+  }
+];
+
+export const introParagraphs = [
+  "Best Ring Lights for Makeup aren't as interchangeable as they seem. That means a title alone won't tell you enough.",
+  "This roundup weighs honest color temperature and mount type, given that this is the real gap to watch."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const mainKeyword = "a ring light for makeup";
+
+export const metaDescription = "How 7 ring lights for makeup compare on brightness, color temperature, adjustability and power, with clear notes on who each one suits.";
+
+export const metaTitle = "Best Ring Lights for Makeup (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-ring-lights-for-makeup-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "UBeesize 12\" LED Ring Light with 62\" Tripod Stand",
+    "price": "$29.69",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41fDvi1ZJEL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08L5VKNWR?tag=theofficejournal-20",
+    "description": "UBeesize 12\" LED Ring Light with 62\" Tripod Stand is the strongest all-around choice here. Equipped with 240 high-efficiency leds, this 10w ring light delivers bright, stable and evenly diffused illumination. Adjust power, color temperature and brightness directly from the responsive touch-control panel.\n\nSet next to EMART 10\" Ring Light with 55\" Extendable Tripod Stands and Phone Holder, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nIt's worth picking this one if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Many brands inflate their listed lux rating by 2 to 3 times what the light actually outputs at a standardized distance, so treat the number on the box as a starting point, not a guarantee.",
+    "specs": [
+      "240 high-efficiency leds",
+      "Adjust power, color temperature and brightness directly from the responsive touch-control panel",
+      "62-Inch tripod & handheld selfie stick"
+    ],
+    "pros": [
+      "240 high-efficiency leds",
+      "Adjust power, color temperature and brightness directly from the responsive touch-control panel",
+      "62-Inch tripod & handheld selfie stick",
+      "Rotatable light head and adjustable phone holder make it easy to switch between portrait"
+    ],
+    "cons": [
+      "Listed lux ratings are often inflated 2 to 3x by the brand",
+      "Larger diameter alone doesn't guarantee brighter, more even light"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-ring-lights-for-makeup-2",
+    "rank": 2,
+    "badge": "Also Worth Considering",
+    "name": "EMART 10\" Ring Light with 55\" Extendable Tripod Stands and Phone Holder",
+    "price": "$18.89",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/411b-RrcpqL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC4RQ5YL?tag=theofficejournal-20",
+    "description": "EMART 10\" Ring Light with 55\" Extendable Tripod Stands and Phone Holder is a strong alternative worth comparing directly against the top pick. Our 10 inch ring light with stand has 3 colour temperature (white, warm white and yellow white) and 10 brightness levels, a variety of options fill light for your video recording and picture. Our ringlight tripod stand can be adjust from 20\" to 51\" that applies to desktop or floor.\n\nSet next to UBeesize 12\" LED Ring Light with 62\" Tripod Stand, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A larger diameter doesn't automatically mean brighter or more even light, a well-engineered smaller ring can outperform a cheap oversized one, so check independent lux measurements when they're available.",
+    "specs": [
+      "Dimmable LED fill light",
+      "Adjustable light tripod stand",
+      "2 Remote control"
+    ],
+    "pros": [
+      "Dimmable LED fill light",
+      "Adjustable light tripod stand",
+      "2 Remote control",
+      "Ring light comes with 2 types of phoner holder compatible for most phones"
+    ],
+    "cons": [
+      "Larger diameter alone doesn't guarantee brighter, more even light",
+      "Listed lux ratings are often inflated 2 to 3x by the brand"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-ring-lights-for-makeup-3",
+    "rank": 3,
+    "badge": "Best Premium Pick",
+    "name": "Desk Ring Light with Stand for Computer",
+    "price": "$39.98",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41r5nA1roKL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B095741MZS?tag=theofficejournal-20",
+    "description": "Desk Ring Light with Stand for Computer is the priciest pick in this lineup. 5\" lamp head with 120 pieces LED, and its impressively curved design sets it apart from other flat lamp shades. This halo light with stand features a dimmable function with 3 color temperatures and 10 brightness levels (3000k-6500k), allowing you to customize the lighting to your specific needs.\n\nUBeesize 12\" LED Ring Light with 62\" Tripod Stand is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nChoose this if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Many brands inflate their listed lux rating by 2 to 3 times what the light actually outputs at a standardized distance, so treat the number on the box as a starting point, not a guarantee.",
+    "specs": [
+      "Brighter and softer",
+      "Adjustable lighting",
+      "Height of this circle light can be extended from 23 inches"
+    ],
+    "pros": [
+      "Brighter and softer",
+      "Adjustable lighting",
+      "Height of this circle light can be extended from 23 inches",
+      "Stable base & flexible phone holder"
+    ],
+    "cons": [
+      "Listed lux ratings are often inflated 2 to 3x by the brand",
+      "Larger diameter alone doesn't guarantee brighter, more even light"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it"
+  },
+  {
+    "id": "best-ring-lights-for-makeup-4",
+    "rank": 4,
+    "badge": "Another Strong Option",
+    "name": "SENSYNE Ring Light with Stand",
+    "price": "$25.64",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41kFDjToliL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08B3X7NXC?tag=theofficejournal-20",
+    "description": "SENSYNE Ring Light with Stand is a strong alternative worth comparing directly against the top pick. 3 Color modes (warm, natural, cool) with 10 brightness levels let you easily create soft, even lighting for tiktok, zoom calls, makeup, and video recording. 7\" to 50\", well suited to desk use, standing filming, or full-body shots.\n\nSet next to UBeesize 12\" LED Ring Light with 62\" Tripod Stand, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nIt's worth picking this one if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A larger diameter doesn't automatically mean brighter or more even light, a well-engineered smaller ring can outperform a cheap oversized one, so check independent lux measurements when they're available.",
+    "specs": [
+      "well suited lighting for video, makeup & streaming",
+      "50\" Adjustable tripod, desk to full height",
+      "Flexible phone holder and adjustable head allow portrait"
+    ],
+    "pros": [
+      "well suited lighting for video, makeup & streaming",
+      "50\" Adjustable tripod, desk to full height",
+      "Flexible phone holder and adjustable head allow portrait",
+      "Wireless remote, shoot hands-free"
+    ],
+    "cons": [
+      "Larger diameter alone doesn't guarantee brighter, more even light",
+      "Listed lux ratings are often inflated 2 to 3x by the brand"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-ring-lights-for-makeup-5",
+    "rank": 5,
+    "badge": "Best Value",
+    "name": "ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip",
+    "price": "$13.76",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41DFP3dJ-xL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2C9QT91?tag=theofficejournal-20",
+    "description": "ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip is the best-value option in this roundup, priced lowest without a real capability gap. The selfie light has 3 light modes (white, natural, warm) from 2500k-6500k color temperature adjustable to meet all your needs, allowing you to be charming in any surroundings.\n\nUBeesize 12\" LED Ring Light with 62\" Tripod Stand is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nReach for this pick if you want a capable pick without paying for headroom you won't use. Many brands inflate their listed lux rating by 2 to 3 times what the light actually outputs at a standardized distance, so treat the number on the box as a starting point, not a guarantee.",
+    "specs": [
+      "Best light effect cri 97+",
+      "3 Light modes & 10 brightness levels",
+      "Multi-function design"
+    ],
+    "pros": [
+      "Best light effect cri 97+",
+      "3 Light modes & 10 brightness levels",
+      "Multi-function design",
+      "Compact pocket size"
+    ],
+    "cons": [
+      "Listed lux ratings are often inflated 2 to 3x by the brand",
+      "Larger diameter alone doesn't guarantee brighter, more even light"
+    ],
+    "bestFor": "Buyers who want a capable pick without paying for headroom you won't use"
+  },
+  {
+    "id": "best-ring-lights-for-makeup-6",
+    "rank": 6,
+    "badge": "Worth a Look",
+    "name": "Weilisi 10\" Ring Light with Stand 72'' Tall & Phone Holder, 38 Color Modes",
+    "price": "$25.49",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51hLOYHG5nL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08JPCSDMP?tag=theofficejournal-20",
+    "description": "Weilisi 10\" Ring Light with Stand 72'' Tall & Phone Holder, 38 Color Modes is a strong alternative worth comparing directly against the top pick. New RGB dynamic modes and 3 normal colors: selfie ring light has warm light, white light, daylight, red, yellow, green, sky blue, blue, purple, RGB light provide 39 dynamic, breathing and illusory color mode. Our light ring features exclusive stepless speed regulation and dimming.\n\nUBeesize 12\" LED Ring Light with 62\" Tripod Stand lands in a similar spot overall, but the deciding factor between the two is this tripod for the ring light reaches a maximum height of 62\" and an overall height of up to 72\".\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A larger diameter doesn't automatically mean brighter or more even light, a well-engineered smaller ring can outperform a cheap oversized one, so check independent lux measurements when they're available.",
+    "specs": [
+      "New RGB dynamic modes and 3 normal colors",
+      "Precise control",
+      "Tripod for the ring light reaches a maximum height of 62\""
+    ],
+    "pros": [
+      "New RGB dynamic modes and 3 normal colors",
+      "Precise control",
+      "Tripod for the ring light reaches a maximum height of 62\"",
+      "Versatility at its best"
+    ],
+    "cons": [
+      "Larger diameter alone doesn't guarantee brighter, more even light",
+      "Listed lux ratings are often inflated 2 to 3x by the brand"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-ring-lights-for-makeup-7",
+    "rank": 7,
+    "badge": "Great Alternative",
+    "name": "Desk Ring Light with Telescopic Stand",
+    "price": "$22.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31L3-vQN40L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1BTCVL5?tag=theofficejournal-20",
+    "description": "Desk Ring Light with Telescopic Stand is a strong alternative worth comparing directly against the top pick. The 5 inch ring light is dimmable which has 3 color modes, each modes has 10 brightness levels, it is soft and bright enough to need your lighting need.\n\nThe connector to ring light on stand is rotatable, then you can adjust the ring light angle easily, which is the main thing that distinguishes this pick from UBeesize 12\" LED Ring Light with 62\" Tripod Stand.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Many brands inflate their listed lux rating by 2 to 3 times what the light actually outputs at a standardized distance, so treat the number on the box as a starting point, not a guarantee.",
+    "specs": [
+      "Dimmable light",
+      "Extendable stand",
+      "Connector to ring light on stand is rotatable"
+    ],
+    "pros": [
+      "Dimmable light",
+      "Extendable stand",
+      "Connector to ring light on stand is rotatable",
+      "Compact & lightweight"
+    ],
+    "cons": [
+      "Listed lux ratings are often inflated 2 to 3x by the brand",
+      "Larger diameter alone doesn't guarantee brighter, more even light"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  }
+];
+
+export const readTime = "11 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-ring-lights",
+    "title": "Best Ring Lights"
+  },
+  {
+    "href": "/guide/best-ring-lights-for-webcam",
+    "title": "Best Ring Lights for Webcam"
+  },
+  {
+    "href": "/guide/best-ring-lights-with-stand",
+    "title": "Best Ring Lights with Stand"
+  }
+];
+
+export const breadcrumbLabel = "Best Ring Lights for Makeup";

@@ -1,173 +1,6 @@
-export const guideSlug = "best-small-interactive-whiteboards";
-export const guideTitle = "7 Best Small Interactive Whiteboards";
-export const metaTitle = "Best Small Interactive Whiteboards";
-export const metaDescription = "We defined small as under 55 inches explicitly and separated true interactive whiteboards from touch monitors and portable conversion systems.";
-export const mainKeyword = "interactive whiteboard small";
-export const introParagraphs = [
-  "Most major interactive flat-panel brands start at 55 inches, so a genuine small interactive whiteboard search needs to look at specialty 43/50-inch touch monitors or portable conversion systems rather than a scaled-down mainstream panel.",
-  "We defined small explicitly as under 55 inches for this comparison, excluded ordinary touch monitors lacking a real whiteboard software ecosystem, and included portable projector/sensor systems as a genuine small-footprint alternative."
-];
-export const lastUpdated = "2026-08-15";
-export const readTime = "10 min";
-export const heroImage = "https://m.media-amazon.com/images/I/415xqaw04BL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-small-interactive-whiteboards-1",
-    rank: 1,
-    badge: "Best 43-Inch Smart Board",
-    name: "AYSTeKMann 43in Smart Board",
-    price: "$999.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/415xqaw04BL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FQP2BZFS?tag=theofficejournal-20",
-    description: "This compact 43-inch board runs the newest Android 16 OS with 6 TOPS of computing power and 128GB ROM, genuinely current-generation software for a smaller huddle-room or desk-adjacent size class.\n\nA 100% NTSC color gamut and 500 nits brightness on the 4K panel make it notably vivid for its size, and the manufacturer's 20 years of large touch screen manufacturing experience backs 24/7 after-sales support.",
-    specs: ["43in 4K, Android 16, 100% NTSC gamut","500 nits brightness","16-device wireless casting"],
-    pros: ["Android 16 is the newest OS generation in this entire comparison","100% NTSC color gamut, genuinely vivid for its size class","500 nits brightness above typical panel brightness"],
-    cons: ["43in size suits huddle rooms, not classrooms","Newer/smaller brand with less established track record"],
-    bestFor: "buyers prioritizing 43in 4k, android 16, 100% ntsc gamut",
-  },
-  {
-    id: "best-small-interactive-whiteboards-2",
-    rank: 2,
-    badge: "Best 55-Inch Entry",
-    name: "BIG VUE Plus 55in Smart Board",
-    price: "$994.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41L8G06liXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FKVTTKC4?tag=theofficejournal-20",
-    description: "BIG VUE's board packs a native 3840x2160 4K panel with 10.7 billion colors and a 1200:1 contrast ratio, running Android 14 on an A16 processor with 8GB RAM and a generous 256GB of storage, more than most rivals in this comparison.\n\nIR touch supports up to 60 points with both 2.8mm and 8mm pen tip recognition, and an OPS expansion slot lets buyers add a Windows module later without replacing the whole unit. A built-in 48MP AI camera and microphone round out the collaboration hardware.",
-    specs: ["55in 4K, 256GB storage, 60-point touch","OPS expansion slot for Windows","48MP AI camera + microphone"],
-    pros: ["256GB storage well above the 128GB norm in this category","60-point touch among the highest in this comparison","OPS slot future-proofs for a Windows upgrade"],
-    cons: ["OPS module sold separately, not included","3-year onsite warranty limited to installations across India"],
-    bestFor: "buyers prioritizing 55in 4k, 256gb storage, 60-point touch",
-  },
-  {
-    id: "best-small-interactive-whiteboards-3",
-    rank: 3,
-    badge: "Runner-Up 55-Inch",
-    name: "JASZDOT 55in Smart Board",
-    price: "$1,199.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/5198SyrefwL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D5Y8W3MD?tag=theofficejournal-20",
-    description: "JASZDOT's 55-inch board runs Android 14 with 8GB RAM and 128GB storage, a genuine 4K UHD panel at over 400 nits brightness with flicker-free eye-care technology, and 20-point infrared touch at plus-or-minus 1mm precision and 6ms response.\n\nConnectivity is unusually thorough: front ports include 2 USB, HDMI, and touch input for quick device swaps, while the rear adds a second HDMI, RS232, and a TF card slot, and the bottom panel adds LAN, VGA, and DisplayPort for a genuinely complete multimedia setup.",
-    specs: ["55in 4K, Android 14, 400+ nits","20-point IR touch, 6ms response","Front, rear, and bottom port banks"],
-    pros: ["400+ nit brightness with flicker-free eye-care tech","Unusually complete front/rear/bottom port layout","Includes screen casting box in the box contents"],
-    cons: ["20-point touch lower than some 40/50-point rivals","Infrared touch rather than PCAP"],
-    bestFor: "buyers prioritizing 55in 4k, android 14, 400+ nits",
-  },
-  {
-    id: "best-small-interactive-whiteboards-4",
-    rank: 4,
-    badge: "Budget 55-Inch",
-    name: "YCKJNB 55in Smart Board",
-    price: "$1,199.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51nBQQUqa7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DBLBH7VW?tag=theofficejournal-20",
-    description: "The 55-inch version of YCKJNB's board shares its larger sibling's 13MP camera, 8-array microphones, and dual 20W speaker setup tuned for video conferencing, in a size better suited to smaller huddle rooms or home offices.\n\nThe same 20-point infrared multi-touch, open app ecosystem, and 4-user wireless screen projection with reverse touch control carry over from the 65-inch model, just at a smaller physical footprint.",
-    specs: ["55in 4K, 13MP camera, 8-mic array","20-point IR touch","4-user wireless projection with touchback"],
-    pros: ["Same conferencing-focused hardware as the 65-inch model in a smaller size","Reverse touch control for remote demonstrations","24-hour after-sales service commitment"],
-    cons: ["4-user wireless projection cap lower than some rivals","Stand sold separately from included wall mount"],
-    bestFor: "buyers prioritizing 55in 4k, 13mp camera, 8-mic array",
-  },
-  {
-    id: "best-small-interactive-whiteboards-5",
-    rank: 5,
-    badge: "Best Fleet-Managed 55-Inch",
-    name: "EUNIVON 55in Interactive Whiteboard",
-    price: "$1,049.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41fDIgxGn+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C3MVF134?tag=theofficejournal-20",
-    description: "EUNIVON's board runs Android 14 on a Cortex-A55 x8 CPU with 8GB RAM, and screencasts from Mac, Windows, iOS, and Android devices or connects via HDMI, with annotation available on top of any shared content.\n\nEnterprise-grade security with fleet management on the smart panel lets IT admins manage information securely across a deployment, and the open app ecosystem covers everything from classroom teaching to home movie watching, a genuinely dual-purpose positioning.",
-    specs: ["55in 4K, Android 14, Cortex-A55 x8","Fleet management for IT admins","HDMI + wireless screencast"],
-    pros: ["Fleet management built into the OS for multi-unit deployments","Cortex-A55 x8 CPU with 8GB RAM for smooth multitasking","Positioned for both classroom and home use"],
-    cons: ["Fewer documented port specifics than some rivals","Camera/mic hardware not detailed in the listing"],
-    bestFor: "buyers prioritizing 55in 4k, android 14, cortex-a55 x8",
-  },
-  {
-    id: "best-small-interactive-whiteboards-6",
-    rank: 6,
-    badge: "Best Portable Small-Footprint Alternative",
-    name: "IPEVO IW2 Wireless Interactive Whiteboard System",
-    price: "$175.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31XwL44tfoL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B01MZXDGZ2?tag=theofficejournal-20",
-    description: "The IPEVO IW2 turns any flat surface into an interactive whiteboard using an included Interactive Pen with no Wi-Fi required, at a fraction of the price of a fixed flat-panel system, genuinely portable conversion hardware rather than an all-in-one display.\n\nFree IPEVO Annotator software handles drawing and annotation for remote teaching, and the pen doubles as a mouse-cursor remote for online conferencing, letting you sketch and share ideas through any video conferencing software while collaborating across distance.",
-    specs: ["Portable pen-based conversion system","No Wi-Fi required","Free IPEVO Annotator software included"],
-    pros: ["Hundreds of dollars cheaper than a fixed flat-panel system","No Wi-Fi dependency, genuinely offline-capable","Lightweight and portable for room-to-room use"],
-    cons: ["Requires an existing flat surface and separate display/projector","Lower interactive area precision than a dedicated flat panel"],
-    bestFor: "buyers prioritizing portable pen-based conversion system",
-  },
-  {
-    id: "best-small-interactive-whiteboards-7",
-    rank: 7,
-    badge: "Best Auto-Calibration Small Alternative",
-    name: "Portable Interactive Whiteboard Sensor System",
-    price: "$139.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31dOIZ7eXEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D14MCG58?tag=theofficejournal-20",
-    description: "This portable system connects to a computer via USB and a projector via HDMI/VGA, turning nearly any wall or projection surface into an interactive whiteboard, compatible across Windows XP through Windows 11 for broad legacy compatibility.\n\nA 360-degree adjustable design plus automatic calibration means setup after moving rooms is fast without manual recalibration steps, and the high-precision smart pen supports multiple simultaneous users writing on surfaces up to 90 inches.",
-    specs: ["Portable sensor + pen system, up to 90in surface","Automatic calibration","USB to computer, HDMI/VGA to projector"],
-    pros: ["Automatic calibration eliminates manual setup after moving rooms","Supports large surfaces up to 90 inches","Compact and easy to carry between rooms"],
-    cons: ["Requires a separate projector and compatible surface","Multi-user writing depends on strong light control"],
-    bestFor: "buyers prioritizing portable sensor + pen system, up to 90in surface",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Product Architecture",
-    "description": "Classified each product as a flat-panel display, projector-based interactive system, or portable conversion hardware, since these serve fundamentally different room setups and budgets."
-  },
-  {
-    "title": "Touch & Writing Behavior",
-    "description": "Checked documented touch-point count, simultaneous-writer capacity, response latency, and touch technology (infrared, PCAP, or sensor-bar) rather than assuming higher touch-point numbers always mean a better writing experience."
-  },
-  {
-    "title": "OS, EDLA & Software Lifecycle",
-    "description": "Verified whether each board has genuine Google EDLA certification, which Android or Windows generation it runs, and whether an OPS slot requires a separately purchased module for full functionality."
-  },
-  {
-    "title": "Connectivity & Collaboration",
-    "description": "Tested claims around wireless casting device limits, touch-back control, video conferencing platform compatibility (Zoom, Teams, Meet, Webex), and camera/microphone hardware quality where documented."
-  },
-  {
-    "title": "Build, Mounting & Support",
-    "description": "Weighed panel weight, included wall mount versus separately sold stands, warranty length, and after-sales support commitments against the realistic deployment cost."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "Defining Small",
-    "note": "For this comparison, small means under 55 inches, a genuinely thinner product pool than the mainstream 55-98in tiers. 43-inch options like AYSTeKMann's board run current Android 16, while portable sensor systems offer an even smaller physical footprint at the cost of needing a separate projector."
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
 export const buyingCriteria = [
   {
@@ -211,7 +44,7 @@ export const faq = [
   },
   {
     "q": "Does a higher touch-point count always mean a better writing experience?",
-    "a": "Not necessarily. Touch-point count measures how many contact points the sensor can track, but the number of people who can write clean, independent lines simultaneously is usually lower and separately documented by the manufacturer. Check the stated simultaneous-writer number, not just the raw touch-point spec, before assuming a 60-point board beats a 20-point one for group use."
+    "a": "Touch-point count measures how many contact points the sensor can track, but the number of people who can write clean, independent lines simultaneously is usually lower and separately documented by the manufacturer. Check the stated simultaneous-writer number, not just the raw touch-point spec, before assuming a 60-point board beats a 20-point one for group use."
   },
   {
     "q": "Do I need to buy anything extra to run Windows on a board with an OPS slot?",
@@ -219,4 +52,262 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-43-inch-interactive-whiteboards","title":"6 Best 43-Inch Interactive Whiteboards"},{"href":"/guide/best-50-inch-interactive-whiteboards","title":"5 Best 50-Inch Interactive Whiteboards"},{"href":"/guide/best-55-inch-interactive-whiteboards","title":"8 Best 55-Inch Interactive Whiteboards"}];
+export const guideSlug = "best-small-interactive-whiteboards";
+
+export const guideTitle = "The Best Small Interactive Whiteboards for a Cleaner, More Useful Desk";
+
+export const heroImage = "https://m.media-amazon.com/images/I/415xqaw04BL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "note": "For this comparison, small means under 55 inches, a thinner product pool than the mainstream 55-98in tiers. 43-inch options like AYSTeKMann's board run current Android 16, while portable sensor systems offer an even smaller physical footprint at the cost of needing a separate projector."
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Classified each product as a flat-panel display, projector-based interactive system, or portable conversion hardware, since these serve fundamentally different room setups and budgets."
+  },
+  {
+    "title": "",
+    "description": "Checked documented touch-point count, simultaneous-writer capacity, response latency, and touch technology (infrared, PCAP, or sensor-bar) rather than assuming higher touch-point numbers always mean a better writing experience."
+  },
+  {
+    "title": "OS, EDLA & Software Lifecycle",
+    "description": "Verified whether each board has genuine Google EDLA certification, which Android or Windows generation it runs, and whether an OPS slot requires a separately purchased module for full functionality."
+  },
+  {
+    "title": "",
+    "description": "Tested claims around wireless casting device limits, touch-back control, video conferencing platform compatibility (Zoom, Teams, Meet, Webex), and camera/microphone hardware quality where documented."
+  },
+  {
+    "title": "",
+    "description": "Weighed panel weight, included wall mount versus separately sold stands, warranty length, and after-sales support commitments against the realistic deployment cost."
+  }
+];
+
+export const introParagraphs = [
+  "Most major interactive flat-panel brands start at 55 inches, so a genuine small interactive whiteboard search needs to look at specialty 43/50-inch touch monitors or portable conversion systems rather than a scaled-down mainstream panel.",
+  "We defined small explicitly as under 55 inches for this comparison, excluded ordinary touch monitors lacking a real whiteboard software ecosystem, and included portable projector/sensor systems as a genuine small-footprint alternative."
+];
+
+export const lastUpdated = "2026-08-15";
+
+export const mainKeyword = "interactive whiteboard small";
+
+export const metaDescription = "A practical comparison of 7 small interactive whiteboards, focused on compatibility, build, features and price, and the trade-offs between them.";
+
+export const metaTitle = "Best Small Interactive Whiteboards for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-small-interactive-whiteboards-1",
+    "rank": 1,
+    "badge": "Best 43-Inch Smart Board",
+    "name": "AYSTeKMann 43in Smart Board",
+    "price": "$999.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/415xqaw04BL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQP2BZFS?tag=theofficejournal-20",
+    "description": "This compact 43-inch board runs the newest Android 16 OS with 6 TOPS of computing power and 128GB ROM, current-generation software for a smaller huddle-room or desk-adjacent size class.\n\nA 100% NTSC color gamut and 500 nits brightness on the 4K panel make it notably vivid for its size, and the manufacturer's 20 years of large touch screen manufacturing experience backs 24/7 after-sales support.",
+    "specs": [
+      "43in 4K, Android 16, 100% NTSC gamut",
+      "500 nits brightness",
+      "16-device wireless casting"
+    ],
+    "pros": [
+      "Android 16 is the newest OS generation in this entire comparison",
+      "100% NTSC color gamut, vivid for its size class",
+      "500 nits brightness above typical panel brightness"
+    ],
+    "cons": [
+      "43in size suits huddle rooms, not classrooms",
+      "Newer/smaller brand with less established track record"
+    ],
+    "bestFor": "Buyers prioritizing 43in 4k, android 16, 100% ntsc gamut"
+  },
+  {
+    "id": "best-small-interactive-whiteboards-2",
+    "rank": 2,
+    "badge": "Best 55-Inch Entry",
+    "name": "BIG VUE Plus 55in Smart Board",
+    "price": "$994.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41L8G06liXL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKVTTKC4?tag=theofficejournal-20",
+    "description": "7 billion colors and a 1200:1 contrast ratio, running Android 14 on an A16 processor with 8GB RAM and a generous 256GB of storage, more than most rivals in this comparison.\n\n8mm and 8mm pen tip recognition, and an OPS expansion slot lets buyers add a Windows module later without replacing the whole unit. A built-in 48MP AI camera and microphone round out the collaboration hardware.",
+    "specs": [
+      "55in 4K, 256GB storage, 60-point touch",
+      "OPS expansion slot for Windows",
+      "48MP AI camera + microphone"
+    ],
+    "pros": [
+      "256GB storage well above the 128GB norm in this category",
+      "60-point touch among the highest in this comparison",
+      "OPS slot future-proofs for a Windows upgrade"
+    ],
+    "cons": [
+      "OPS module sold separately, not included",
+      "3-year onsite warranty limited to installations across India"
+    ],
+    "bestFor": "Buyers prioritizing 55in 4k, 256gb storage, 60-point touch"
+  },
+  {
+    "id": "best-small-interactive-whiteboards-3",
+    "rank": 3,
+    "badge": "Runner-Up 55-Inch",
+    "name": "JASZDOT 55in Smart Board",
+    "price": "$1,199.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/5198SyrefwL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5Y8W3MD?tag=theofficejournal-20",
+    "description": "JASZDOT's 55-inch board runs Android 14 with 8GB RAM and 128GB storage, a genuine 4K UHD panel at over 400 nits brightness with flicker-free eye-care technology, and 20-point infrared touch at plus-or-minus 1mm precision and 6ms response.\n\nConnectivity is unusually thorough: front ports include 2 USB, HDMI, and touch input for quick device swaps, while the rear adds a second HDMI, RS232, and a TF card slot, and the bottom panel adds LAN, VGA, and DisplayPort for a complete multimedia setup.",
+    "specs": [
+      "55in 4K, Android 14, 400+ nits",
+      "20-point IR touch, 6ms response",
+      "Front, rear, and bottom port banks"
+    ],
+    "pros": [
+      "400+ nit brightness with flicker-free eye-care tech",
+      "Unusually complete front/rear/bottom port layout",
+      "Includes screen casting box in the box contents"
+    ],
+    "cons": [
+      "20-point touch lower than some 40/50-point rivals",
+      "Infrared touch rather than PCAP"
+    ],
+    "bestFor": "Buyers prioritizing 55in 4k, android 14, 400+ nits"
+  },
+  {
+    "id": "best-small-interactive-whiteboards-4",
+    "rank": 4,
+    "badge": "Budget 55-Inch",
+    "name": "YCKJNB 55in Smart Board",
+    "price": "$1,199.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51nBQQUqa7L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBLBH7VW?tag=theofficejournal-20",
+    "description": "The 55-inch version of YCKJNB's board shares its larger sibling's 13MP camera, 8-array microphones, and dual 20W speaker setup tuned for video conferencing, in a size better suited to smaller huddle rooms or home offices.\n\nThe same 20-point infrared multi-touch, open app ecosystem, and 4-user wireless screen projection with reverse touch control carry over from the 65-inch model, just at a smaller physical footprint.",
+    "specs": [
+      "55in 4K, 13MP camera, 8-mic array",
+      "20-point IR touch",
+      "4-user wireless projection with touchback"
+    ],
+    "pros": [
+      "Same conferencing-focused hardware as the 65-inch model in a smaller size",
+      "Reverse touch control for remote demonstrations",
+      "24-hour after-sales service commitment"
+    ],
+    "cons": [
+      "4-user wireless projection cap lower than some rivals",
+      "Stand sold separately from included wall mount"
+    ],
+    "bestFor": "Buyers prioritizing 55in 4k, 13mp camera, 8-mic array"
+  },
+  {
+    "id": "best-small-interactive-whiteboards-5",
+    "rank": 5,
+    "badge": "Best Fleet-Managed 55-Inch",
+    "name": "EUNIVON 55in Interactive Whiteboard",
+    "price": "$1,049.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41fDIgxGn+L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3MVF134?tag=theofficejournal-20",
+    "description": "EUNIVON's board runs Android 14 on a Cortex-A55 x8 CPU with 8GB RAM, and screencasts from Mac, Windows, IOS, and Android devices or connects via HDMI, with annotation available on top of any shared content.\n\nEnterprise-grade security with fleet management on the smart panel lets IT admins manage information securely across a deployment, and the open app ecosystem covers everything from classroom teaching to home movie watching, a dual-purpose positioning.",
+    "specs": [
+      "55in 4K, Android 14, Cortex-A55 x8",
+      "Fleet management for IT admins",
+      "HDMI + wireless screencast"
+    ],
+    "pros": [
+      "Fleet management built into the OS for multi-unit deployments",
+      "Cortex-A55 x8 CPU with 8GB RAM for smooth multitasking",
+      "Positioned for both classroom and home use"
+    ],
+    "cons": [
+      "Fewer documented port specifics than some rivals",
+      "Camera/mic hardware not detailed in the listing"
+    ],
+    "bestFor": "Buyers prioritizing 55in 4k, android 14, cortex-a55 x8"
+  },
+  {
+    "id": "best-small-interactive-whiteboards-6",
+    "rank": 6,
+    "badge": "Best Portable Small-Footprint Alternative",
+    "name": "IPEVO IW2 Wireless Interactive Whiteboard System",
+    "price": "$175.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31XwL44tfoL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B01MZXDGZ2?tag=theofficejournal-20",
+    "description": "The IPEVO IW2 turns any flat surface into an interactive whiteboard using an included Interactive Pen with no Wi-Fi required, at a fraction of the price of a fixed flat-panel system, portable conversion hardware rather than an all-in-one display.\n\nFree IPEVO Annotator software handles drawing and annotation for remote teaching, and the pen doubles as a mouse-cursor remote for online conferencing, letting you sketch and share ideas through any video conferencing software while collaborating across distance.",
+    "specs": [
+      "Portable pen-based conversion system",
+      "No Wi-Fi required",
+      "Free IPEVO Annotator software included"
+    ],
+    "pros": [
+      "Hundreds of dollars cheaper than a fixed flat-panel system",
+      "No Wi-Fi dependency, offline-capable",
+      "Lightweight and portable for room-to-room use"
+    ],
+    "cons": [
+      "Requires an existing flat surface and separate display/projector",
+      "Lower interactive area precision than a dedicated flat panel"
+    ],
+    "bestFor": "Buyers prioritizing portable pen-based conversion system"
+  },
+  {
+    "id": "best-small-interactive-whiteboards-7",
+    "rank": 7,
+    "badge": "Best Auto-Calibration Small Alternative",
+    "name": "Portable Interactive Whiteboard Sensor System",
+    "price": "$139.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31dOIZ7eXEL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D14MCG58?tag=theofficejournal-20",
+    "description": "This portable system connects to a computer via USB and a projector via HDMI/VGA, turning nearly any wall or projection surface into an interactive whiteboard, compatible across Windows XP through Windows 11 for broad legacy compatibility.\n\nA 360-degree adjustable design plus automatic calibration means setup after moving rooms is fast without manual recalibration steps, and the high-precision smart pen supports multiple simultaneous users writing on surfaces up to 90 inches.",
+    "specs": [
+      "Portable sensor + pen system, up to 90in surface",
+      "Automatic calibration",
+      "USB to computer, HDMI/VGA to projector"
+    ],
+    "pros": [
+      "Automatic calibration eliminates manual setup after moving rooms",
+      "Supports large surfaces up to 90 inches",
+      "Compact and easy to carry between rooms"
+    ],
+    "cons": [
+      "Requires a separate projector and compatible surface",
+      "Multi-user writing depends on strong light control"
+    ],
+    "bestFor": "Buyers prioritizing portable sensor + pen system, up to 90in surface"
+  }
+];
+
+export const readTime = "10 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-43-inch-interactive-whiteboards",
+    "title": "6 Best 43-Inch Interactive Whiteboards"
+  },
+  {
+    "href": "/guide/best-50-inch-interactive-whiteboards",
+    "title": "5 Best 50-Inch Interactive Whiteboards"
+  },
+  {
+    "href": "/guide/best-55-inch-interactive-whiteboards",
+    "title": "8 Best 55-Inch Interactive Whiteboards"
+  }
+];
+
+export const breadcrumbLabel = "Best Small Interactive Whiteboards";

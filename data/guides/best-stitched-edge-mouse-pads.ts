@@ -1,294 +1,6 @@
-export const guideSlug = "best-stitched-edge-mouse-pads";
-export const guideTitle = "8 Best Stitched-Edge Mouse Pads in 2026";
-export const metaTitle = "Best Stitched-Edge Mouse Pads";
-export const metaDescription = "We compared mouse pad stitched edge models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage.";
-export const mainKeyword = "mouse pad stitched edge";
-export const introParagraphs = [
-  "Across best stitched-edge mouse pads, range widely in backing and edge quality, given that differences show up in daily use.",
-  "What separates these picks is real tracking feel and backing grip, since these details matter more than claims."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/217bVmKfJpL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-stitched-edge-mouse-pads-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black",
-    price: "$9.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/217bVmKfJpL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GNSXXNRT?tag=theofficejournal-20",
-    description: "Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black is the strongest all-around choice here. The micro-woven surface is optimized for optical sensor tracking and ensures that your mouse movements are easy and fluid. Mm anti-fray cloth gaming mouse pads feature a grippy natural rubber base so your mouse mat stays stable and secure.\n\nWeighing this against Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black, with plenty of sizes to choose from, there’s one that’s just right for your setup ends up being the detail that matters most for most buyers.\n\nThis fits best if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
-    specs: ["Micro-woven cloth surface", "Natural rubber base", "Anti-fray stitched edges"],
-    pros: ["Micro-woven cloth surface", "Natural rubber base", "Anti-fray stitched edges", "Available in multiple sizes"],
-    cons: ["Cloth surfaces can fray at the edges without reinforced stitching", "Very large sizes take up real desk space some setups can't spare"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-stitched-edge-mouse-pads-2",
-    rank: 2,
-    badge: "Best Premium Pick",
-    name: "Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black",
-    price: "$39.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/11nBA7jDfGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08JH8C5T5?tag=theofficejournal-20",
-    description: "Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black is the priciest pick in this lineup. Liquids slide right off the surface so your mouse pad is easy to wipe clean even after an accident. Creates a dense surface for a faster and smoother glide for your mouse.\n\nHeld up against Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black, both cover the basics equally well, what actually separates them is 360° Of stitching guards against surface peeling.\n\nThis makes sense for anyone who are willing to spend the most in this comparison for the fuller feature set that comes with it. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
-    specs: ["Spill-proof, stain-resistant coating", "Micro-weave fabric", "Massive size"],
-    pros: ["Spill-proof, stain-resistant coating", "Micro-weave fabric", "Massive size", "4Mm-thick plush rubber construction"],
-    cons: ["Very large sizes take up real desk space some setups can't spare", "Cloth surfaces can fray at the edges without reinforced stitching"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-stitched-edge-mouse-pads-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "SteelSeries QcK Large Gaming Mousepad, Black, Non-Slip Silicone Rubber Base",
-    price: "$16.95",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/21wbGWqKwML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B000UVRU6G?tag=theofficejournal-20",
-    description: "SteelSeries QcK Large Gaming Mousepad, Black, Non-Slip Silicone Rubber Base is a strong alternative worth comparing directly against the top pick. An optimal surface for mouse precision and performance, the proprietary micro-woven cloth makes the SteelSeries QcK trusted by pros around the world, with over 15 million sold. Tested by the top mouse sensor manufacturer, the high thread count and smooth surface optimize mouse tracking accuracy for both optical and laser sensors.\n\nAgainst Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
-    specs: ["Optimal surface for mouse precision and performance", "Tested by the top mouse sensor manufacturer", "Durable, non-slip rubber base is designed to eliminate unwanted"],
-    pros: ["Optimal surface for mouse precision and performance", "Tested by the top mouse sensor manufacturer", "Durable, non-slip rubber base is designed to eliminate unwanted", "For the past 15 years"],
-    cons: ["Cloth surfaces can fray at the edges without reinforced stitching", "Very large sizes take up real desk space some setups can't spare"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-stitched-edge-mouse-pads-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "Large Gaming Mouse Pad",
-    price: "$9.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/21aDvMeuTTL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0F1D521FR?tag=theofficejournal-20",
-    description: "Large Gaming Mouse Pad is a strong alternative worth comparing directly against the top pick. With rubberized non-slip grip and texture, letting you use dis large mouse pad for desk on any surface. The surface of this large mouse pad is made of waterproof material to protect your desktop from spilled water and drinks.\n\nCorsair MM Anti-Fray Cloth Gaming Mouse Pad, Black covers similar ground, though with comfortable lycra surface and breathable material to the pads is what tips the choice one way or the other.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
-    specs: ["Large gaming mouse pad non-slip rubber base", "Waterproof and easy to clean", "Multifunctional large mouse pad"],
-    pros: ["Large gaming mouse pad non-slip rubber base", "Waterproof and easy to clean", "Multifunctional large mouse pad", "Comfortable lycra surface and breathable material to the pads"],
-    cons: ["Very large sizes take up real desk space some setups can't spare", "Cloth surfaces can fray at the edges without reinforced stitching"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-stitched-edge-mouse-pads-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "Large Extended Gaming Mouse Pad with Stitched Edges (31.5X15.7In) Mousepad",
-    price: "$13.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31Rx7zvpbbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B087P6HQDT?tag=theofficejournal-20",
-    description: "Large Extended Gaming Mouse Pad with Stitched Edges (31.5X15.7In) Mousepad is a strong alternative worth comparing directly against the top pick. The size of 31.5 x 15.7 x 0.12 inch will fit your desktop perfect, can put your mouse, gaming keyboard and other desk items. Made of high elasticity natural rubber, this mouse mat is non-toxic and has no hazardous substances, safe for use.\n\nHeld up against Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black, both cover the basics equally well, what actually separates them is effectively prevent damage from spilled drinks or other accidents.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
-    specs: ["Size of 31.5 x 15.7 x 0.12 inch will", "Get the best control", "Waterproof coating"],
-    pros: ["Size of 31.5 x 15.7 x 0.12 inch will", "Get the best control", "Waterproof coating", "Wide applicability"],
-    cons: ["Cloth surfaces can fray at the edges without reinforced stitching", "Very large sizes take up real desk space some setups can't spare"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-stitched-edge-mouse-pads-6",
-    rank: 6,
-    badge: "Best Value",
-    name: "Mouse Pad, Large Gaming Mouse Pad with Double Stitched Edges 14.9 x 11.7 in",
-    price: "$7.98",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31hg0R3spSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B087P7QBM9?tag=theofficejournal-20",
-    description: "Mouse Pad, Large Gaming Mouse Pad with Double Stitched Edges 14.9 x 11.7 in is a budget-friendly pick that doesn't skip the essentials. The size of 370×295×3mm(14.9\"x11.7\"x0.12\"), ideal for gaming and office use.it mskes your mouse to move without taking up too much space, the use of an area sufficient to meet the usual work and surf the internet. This mouse pad has delicate edges which can protect the pad from wear, deformation, and degumming.with waterproof coating, can be easily cleaned with a damp cloth.\n\nCorsair MM Anti-Fray Cloth Gaming Mouse Pad, Black is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nChoose this if you want a genuinely capable pick without paying for headroom you won't use. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
-    specs: ["Suitable design", "Non-slip rubber base", "Durable stitched edges"],
-    pros: ["Suitable design", "Non-slip rubber base", "Durable stitched edges", "Mouse pad liquid stain can be washed with water"],
-    cons: ["Very large sizes take up real desk space some setups can't spare", "Cloth surfaces can fray at the edges without reinforced stitching"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
-  },
-  {
-    id: "best-stitched-edge-mouse-pads-7",
-    rank: 7,
-    badge: "Great Alternative",
-    name: "Keychron Large Gaming Mouse Pad 17.7 × 15.7 inch (450 × 400 mm)",
-    price: "$14.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/21IkpfYf1TL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C4ZH1TD8?tag=theofficejournal-20",
-    description: "Keychron Large Gaming Mouse Pad 17.7 × 15.7 inch (450 × 400 mm) is a strong alternative worth comparing directly against the top pick. This mouse pad is designed to provide a spacious and dedicated area for your mouse, offering ample, unrestricted movement compared to smaller, standard mouse pads. Premium polyester fabric with subtle textile sheen: crafted from high-density polyester micro-weave fabric with a natural rubber base.\n\nCorsair MM Anti-Fray Cloth Gaming Mouse Pad, Black covers similar ground, though flexible and lightweight for easy rolling and storage without noticeable creases is what tips the choice one way or the other.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
-    specs: ["Dedicated mouse pad for unrestricted movement", "Smooth & precise control,  optimized for optical mice", "Premium polyester fabric with subtle textile sheen: crafted"],
-    pros: ["Dedicated mouse pad for unrestricted movement", "Smooth & precise control,  optimized for optical mice", "Premium polyester fabric with subtle textile sheen: crafted", "Anti-fray stitched edges & non-slip natural rubber base"],
-    cons: ["Cloth surfaces can fray at the edges without reinforced stitching", "Very large sizes take up real desk space some setups can't spare"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-stitched-edge-mouse-pads-8",
-    rank: 8,
-    badge: "Also Worth Considering",
-    name: "Logitech G440 Hard Gaming Mouse Pad (340x280x5)",
-    price: "$15.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/11n1OjG-YIL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BHMK6B2X?tag=theofficejournal-20",
-    description: "Logitech G440 Hard Gaming Mouse Pad (340x280x5) is a strong alternative worth comparing directly against the top pick. The hard surface of the mousepad gives the right amount of resistance to the mouse feet for sudden starts, stops, and rapid movement in low-dpi gaming and improved cursor control. Provides optimal imagery for the sensor to translate mouse movement into cursor movement in high speed gaming.\n\nCorsair MM Anti-Fray Cloth Gaming Mouse Pad, Black lands in a similar spot overall, but the deciding factor between the two is gaming mousepad made to last with a hard tracking surface and strong polymer core.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
-    specs: ["Low surface friction", "Consistent surface texture", "Designed for optimal performance"],
-    pros: ["Low surface friction", "Consistent surface texture", "Designed for optimal performance", "Stable, rigid, no-slip base"],
-    cons: ["Very large sizes take up real desk space some setups can't spare", "Cloth surfaces can fray at the edges without reinforced stitching"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Cloth vs Hard Surface Tracking Feel",
-    "description": "Cloth mouse pads give a slightly higher-friction glide that many people find more controlled for precision work and slower, deliberate aiming in games, while hard plastic or glass surfaces let the sensor glide faster with less resistance, which favors quick-flick movements but can feel less controlled at first."
-  },
-  {
-    "title": "Base Material and Anti-Slip Grip",
-    "description": "Whether a mouse pad stays in place during actual use comes down to its backing, not its top surface: rubber backing tends to grip a desk far better than thinner synthetic backing, which can slide or curl at the edges over time, especially on a glossy desk."
-  },
-  {
-    "title": "Size vs Your Actual Mouse Movement Range",
-    "description": "Mouse pad sizing isn't about desk space alone, it's about matching the pad to your actual sensitivity and playstyle."
-  },
-  {
-    "title": "Stitched Edges and Long-Term Fraying",
-    "description": "Fraying at the edges is one of the most common complaints on cheaper cloth mouse pads, since the fabric edge takes constant friction from wrist and palm movement over time."
-  },
-  {
-    "title": "Wrist Rest Firmness: Gel vs Memory Foam",
-    "description": "Gel wrist rests stay cooler and firmer under sustained pressure, which some people prefer for support during long sessions, while memory foam contours more closely to the wrist's shape and can feel softer initially but compresses over time with heavy daily use."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Tracking Surface Feel",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Controlled, precise movement",
-          "Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black"
-        ],
-        [
-          "Fast, low-friction glide",
-          "Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black"
-        ],
-        [
-          "Budget cloth surface",
-          "Mouse Pad, Large Gaming Mouse Pad with Double Stitched Edges 14.9 x 11.7 in"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Mouse Pad, Large Gaming Mouse Pad with Double Stitched Edges 14.9 x 11.7 in"
-        ],
-        [
-          "Mid-range pick",
-          "SteelSeries QcK Large Gaming Mousepad, Black, Non-Slip Silicone Rubber Base"
-        ],
-        [
-          "Higher budget",
-          "Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Cloth vs Hard Surface",
-    "cards": [
-      {
-        "label": "Cloth surface (e.g. Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black)",
-        "text": "Slightly higher friction, often preferred for controlled, precise movement."
-      },
-      {
-        "label": "Hard surface (e.g. Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black)",
-        "text": "Faster, lower-friction glide, better suited to quick flick-based movement."
-      }
-    ],
-    "note": "Match this to your DPI settings and grip style, not just which one looks more premium."
-  },
-  {
-    "subheading": "By Size vs Your Desk Space",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Small or shared desk",
-          "Mouse Pad, Large Gaming Mouse Pad with Double Stitched Edges 14.9 x 11.7 in"
-        ],
-        [
-          "Standard desk",
-          "Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black"
-        ],
-        [
-          "Large desk, low DPI, wide swipes",
-          "Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Daily, Heavy Use Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want a straightforward cloth pad for everyday use, where Mouse Pad, Large Gaming Mouse Pad with Double Stitched Edges 14.9 x 11.7 in already covers the job at the lowest price here."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
 export const buyingCriteria = [
   {
@@ -340,4 +52,402 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-mouse-pads","title":"Best Mouse Pads"},{"href":"/guide/best-gaming-mouse-pads","title":"Best Gaming Mouse Pads"},{"href":"/guide/best-mouse-pads-with-wrist-rest","title":"Best Mouse Pads With Wrist Rest"}];
+export const guideSlug = "best-stitched-edge-mouse-pads";
+
+export const guideTitle = "The Best Stitched-Edge Mouse Pads for a Better Desk Setup";
+
+export const heroImage = "https://m.media-amazon.com/images/I/217bVmKfJpL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black"
+        ],
+        [
+          "",
+          "Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          ""
+        ],
+        [
+          "",
+          "SteelSeries QcK Large Gaming Mousepad, Black, Non-Slip Silicone Rubber Base"
+        ],
+        [
+          "",
+          "Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black)",
+        "text": "Slightly higher friction, often preferred for controlled, precise movement."
+      },
+      {
+        "label": "Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black)",
+        "text": "Faster, lower-friction glide, better suited to quick flick-based movement."
+      }
+    ],
+    "note": "Match this to your DPI settings and grip style, not just which one looks more premium."
+  },
+  {
+    "subheading": "By Size vs Your Desk Space",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black"
+        ],
+        [
+          "Large desk, low DPI, wide swipes",
+          "Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For Daily, Heavy Use Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
+      },
+      {
+        "label": "",
+        "text": "Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black justifies the extra cost."
+      },
+      {
+        "label": "",
+        "text": "7 in already covers the job at the lowest price here."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "Cloth vs Hard Surface Tracking Feel",
+    "description": "Cloth mouse pads give a slightly higher-friction glide that many people find more controlled for precision work and slower, deliberate aiming in games, while hard plastic or glass surfaces let the sensor glide faster with less resistance, which favors quick-flick movements but can feel less controlled at first."
+  },
+  {
+    "title": "Base Material and Anti-Slip Grip",
+    "description": "Whether a mouse pad stays in place during actual use comes down to its backing, not its top surface: rubber backing tends to grip a desk far better than thinner synthetic backing, which can slide or curl at the edges over time, especially on a glossy desk."
+  },
+  {
+    "title": "Size vs Your Actual Mouse Movement Range",
+    "description": "Mouse pad sizing isn't about desk space alone, it's about matching the pad to your actual sensitivity and playstyle."
+  },
+  {
+    "title": "Stitched Edges and Long-Term Fraying",
+    "description": "Fraying at the edges is one of the most common complaints on cheaper cloth mouse pads, since the fabric edge takes constant friction from wrist and palm movement over time."
+  },
+  {
+    "title": "Wrist Rest Firmness: Gel vs Memory Foam",
+    "description": "Gel wrist rests stay cooler and firmer under sustained pressure, which some people prefer for support during long sessions, while memory foam contours more closely to the wrist's shape and can feel softer initially but compresses over time with heavy daily use."
+  }
+];
+
+export const introParagraphs = [
+  "Across best stitched-edge mouse pads, range widely in backing and edge quality, given that differences show up in daily use.",
+  "What separates these picks is real tracking feel and backing grip, since these details matter more than claims."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const mainKeyword = "mouse pad stitched edge";
+
+export const metaDescription = "We compared 8 stitched-edge mouse pads on compatibility, build, features and price to help you choose the right one for your space.";
+
+export const metaTitle = "Best Stitched-Edge Mouse Pads for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-stitched-edge-mouse-pads-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black",
+    "price": "$9.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/217bVmKfJpL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GNSXXNRT?tag=theofficejournal-20",
+    "description": "Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black is the strongest all-around choice here. The micro-woven surface is optimized for optical sensor tracking and ensures that your mouse movements are easy and fluid. Mm anti-fray cloth gaming mouse pads feature a grippy natural rubber base so your mouse mat stays stable and secure.\n\nWeighing this against Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black, with plenty of sizes to choose from, there’s one that’s just right for your setup ends up being the detail that matters most for most buyers.\n\nThis fits best if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
+    "specs": [
+      "Micro-woven cloth surface",
+      "Natural rubber base",
+      "Anti-fray stitched edges"
+    ],
+    "pros": [
+      "Micro-woven cloth surface",
+      "Natural rubber base",
+      "Anti-fray stitched edges",
+      "Available in multiple sizes"
+    ],
+    "cons": [
+      "Cloth surfaces can fray at the edges without reinforced stitching",
+      "Very large sizes take up real desk space some setups can't spare"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-stitched-edge-mouse-pads-2",
+    "rank": 2,
+    "badge": "Best Premium Pick",
+    "name": "Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black",
+    "price": "$39.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/11nBA7jDfGL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08JH8C5T5?tag=theofficejournal-20",
+    "description": "Corsair MM350 PRO Spill-Proof Cloth Gaming Mouse Pad, Extended XL, Black is the priciest pick in this lineup. Liquids slide right off the surface so your mouse pad is easy to wipe clean even after an accident. Creates a dense surface for a faster and smoother glide for your mouse.\n\nHeld up against Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black, both cover the basics equally well, what actually separates them is 360° Of stitching guards against surface peeling.\n\nThis makes sense for anyone who are willing to spend the most in this comparison for the fuller feature set that comes with it. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
+    "specs": [
+      "Spill-proof, stain-resistant coating",
+      "Micro-weave fabric",
+      "Massive size"
+    ],
+    "pros": [
+      "Spill-proof, stain-resistant coating",
+      "Micro-weave fabric",
+      "Massive size",
+      "4Mm-thick plush rubber construction"
+    ],
+    "cons": [
+      "Very large sizes take up real desk space some setups can't spare",
+      "Cloth surfaces can fray at the edges without reinforced stitching"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it"
+  },
+  {
+    "id": "best-stitched-edge-mouse-pads-3",
+    "rank": 3,
+    "badge": "Solid Alternative",
+    "name": "SteelSeries QcK Large Gaming Mousepad, Black, Non-Slip Silicone Rubber Base",
+    "price": "$16.95",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/21wbGWqKwML._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B000UVRU6G?tag=theofficejournal-20",
+    "description": "SteelSeries QcK Large Gaming Mousepad, Black, Non-Slip Silicone Rubber Base is a strong alternative worth comparing directly against the top pick. An optimal surface for mouse precision and performance, the proprietary micro-woven cloth makes the SteelSeries QcK trusted by pros around the world, with over 15 million sold. Tested by the top mouse sensor manufacturer, the high thread count and smooth surface optimize mouse tracking accuracy for both optical and laser sensors.\n\nAgainst Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
+    "specs": [
+      "Optimal surface for mouse precision and performance",
+      "Tested by the top mouse sensor manufacturer",
+      "Durable, non-slip rubber base is designed to eliminate unwanted"
+    ],
+    "pros": [
+      "Optimal surface for mouse precision and performance",
+      "Tested by the top mouse sensor manufacturer",
+      "Durable, non-slip rubber base is designed to eliminate unwanted",
+      "For the past 15 years"
+    ],
+    "cons": [
+      "Cloth surfaces can fray at the edges without reinforced stitching",
+      "Very large sizes take up real desk space some setups can't spare"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-stitched-edge-mouse-pads-4",
+    "rank": 4,
+    "badge": "Another Strong Option",
+    "name": "Large Gaming Mouse Pad",
+    "price": "$9.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/21aDvMeuTTL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1D521FR?tag=theofficejournal-20",
+    "description": "Large Gaming Mouse Pad is a strong alternative worth comparing directly against the top pick. With rubberized non-slip grip and texture, letting you use dis large mouse pad for desk on any surface. The surface of this large mouse pad is made of waterproof material to protect your desktop from spilled water and drinks.\n\nCorsair MM Anti-Fray Cloth Gaming Mouse Pad, Black covers similar ground, though with comfortable lycra surface and breathable material to the pads is what tips the choice one way or the other.\n\nReach for this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
+    "specs": [
+      "Large gaming mouse pad non-slip rubber base",
+      "Waterproof and easy to clean",
+      "Multifunctional large mouse pad"
+    ],
+    "pros": [
+      "Large gaming mouse pad non-slip rubber base",
+      "Waterproof and easy to clean",
+      "Multifunctional large mouse pad",
+      "Comfortable lycra surface and breathable material to the pads"
+    ],
+    "cons": [
+      "Very large sizes take up real desk space some setups can't spare",
+      "Cloth surfaces can fray at the edges without reinforced stitching"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-stitched-edge-mouse-pads-5",
+    "rank": 5,
+    "badge": "Runner-Up Pick",
+    "name": "Large Extended Gaming Mouse Pad with Stitched Edges (31.5X15.7In) Mousepad",
+    "price": "$13.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Rx7zvpbbL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B087P6HQDT?tag=theofficejournal-20",
+    "description": "7In) Mousepad is a strong alternative worth comparing directly against the top pick. 12 inch will fit your desktop well suited, can put your mouse, gaming keyboard and other desk items. Made of high elasticity natural rubber, this mouse mat is non-toxic and has no hazardous substances, safe for use.\n\nHeld up against Corsair MM Anti-Fray Cloth Gaming Mouse Pad, Black, both cover the basics equally well, what actually separates them is effectively prevent damage from spilled drinks or other accidents.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
+    "specs": [
+      "Size of 31.5 x 15.7 x 0.12 inch will",
+      "Get the best control",
+      "Waterproof coating"
+    ],
+    "pros": [
+      "Size of 31.5 x 15.7 x 0.12 inch will",
+      "Get the best control",
+      "Waterproof coating",
+      "Wide applicability"
+    ],
+    "cons": [
+      "Cloth surfaces can fray at the edges without reinforced stitching",
+      "Very large sizes take up real desk space some setups can't spare"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-stitched-edge-mouse-pads-6",
+    "rank": 6,
+    "badge": "Best Value",
+    "name": "Mouse Pad, Large Gaming Mouse Pad with Double Stitched Edges 14.9 x 11.7 in",
+    "price": "$7.98",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31hg0R3spSL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B087P7QBM9?tag=theofficejournal-20",
+    "description": "7 in is a low-cost pick that doesn't skip the essentials. It mskes your mouse to move without taking up too much space, the use of an area sufficient to meet the usual work and surf the internet. With waterproof coating, can be easily cleaned with a damp cloth.\n\nCorsair MM Anti-Fray Cloth Gaming Mouse Pad, Black is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nChoose this if you want a capable pick without paying for headroom you won't use. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
+    "specs": [
+      "Suitable design",
+      "Non-slip rubber base",
+      "Durable stitched edges"
+    ],
+    "pros": [
+      "Suitable design",
+      "Non-slip rubber base",
+      "Durable stitched edges",
+      "Mouse pad liquid stain can be washed with water"
+    ],
+    "cons": [
+      "Very large sizes take up real desk space some setups can't spare",
+      "Cloth surfaces can fray at the edges without reinforced stitching"
+    ],
+    "bestFor": "Buyers who want a capable pick without paying for headroom you won't use"
+  },
+  {
+    "id": "best-stitched-edge-mouse-pads-7",
+    "rank": 7,
+    "badge": "Great Alternative",
+    "name": "Keychron Large Gaming Mouse Pad 17.7 × 15.7 inch (450 × 400 mm)",
+    "price": "$14.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/21IkpfYf1TL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4ZH1TD8?tag=theofficejournal-20",
+    "description": "7 inch (450 × 400 mm) is a strong alternative worth comparing directly against the top pick. This mouse pad is designed to provide a spacious and dedicated area for your mouse, offering ample, unrestricted movement compared to smaller, standard mouse pads. Premium polyester fabric with subtle textile sheen: crafted from high-density polyester micro-weave fabric with a natural rubber base.\n\nCorsair MM Anti-Fray Cloth Gaming Mouse Pad, Black covers similar ground, though flexible and lightweight for easy rolling and storage without noticeable creases is what tips the choice one way or the other.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth pad without a stitched, reinforced edge can fray at the corners after months of daily wrist and mouse contact, so check for that detail if you want it to last.",
+    "specs": [
+      "Dedicated mouse pad for unrestricted movement",
+      "Smooth & precise control, optimized for optical mice",
+      "Premium polyester fabric with subtle textile sheen: crafted"
+    ],
+    "pros": [
+      "Dedicated mouse pad for unrestricted movement",
+      "Smooth & precise control, optimized for optical mice",
+      "Premium polyester fabric with subtle textile sheen: crafted",
+      "Anti-fray stitched edges & non-slip natural rubber base"
+    ],
+    "cons": [
+      "Cloth surfaces can fray at the edges without reinforced stitching",
+      "Very large sizes take up real desk space some setups can't spare"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-stitched-edge-mouse-pads-8",
+    "rank": 8,
+    "badge": "Also Worth Considering",
+    "name": "Logitech G440 Hard Gaming Mouse Pad (340x280x5)",
+    "price": "$15.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/11n1OjG-YIL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHMK6B2X?tag=theofficejournal-20",
+    "description": "Logitech G440 Hard Gaming Mouse Pad (340x280x5) is a strong alternative worth comparing directly against the top pick. The hard surface of the mousepad gives the right amount of resistance to the mouse feet for sudden starts, stops, and rapid movement in low-dpi gaming and improved cursor control. Provides optimal imagery for the sensor to translate mouse movement into cursor movement in high speed gaming.\n\nCorsair MM Anti-Fray Cloth Gaming Mouse Pad, Black lands in a similar spot overall, but the deciding factor between the two is gaming mousepad made to last with a hard tracking surface and strong polymer core.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Bigger isn't automatically better here, an oversized pad on a small desk just wastes space, so measure your actual mouse swipe distance at your normal sensitivity before sizing up.",
+    "specs": [
+      "Low surface friction",
+      "Consistent surface texture",
+      "Designed for optimal performance"
+    ],
+    "pros": [
+      "Low surface friction",
+      "Consistent surface texture",
+      "Designed for optimal performance",
+      "Stable, rigid, no-slip base"
+    ],
+    "cons": [
+      "Very large sizes take up real desk space some setups can't spare",
+      "Cloth surfaces can fray at the edges without reinforced stitching"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  }
+];
+
+export const readTime = "11 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-mouse-pads",
+    "title": "Best Mouse Pads"
+  },
+  {
+    "href": "/guide/best-gaming-mouse-pads",
+    "title": "Best Gaming Mouse Pads"
+  },
+  {
+    "href": "/guide/best-mouse-pads-with-wrist-rest",
+    "title": "Best Mouse Pads With Wrist Rest"
+  }
+];
+
+export const breadcrumbLabel = "Best Stitched-Edge Mouse Pads";

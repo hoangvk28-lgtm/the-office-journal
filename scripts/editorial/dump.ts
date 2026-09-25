@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 /** Compact editorial view of a rich guide: npx tsx ... dump.ts <slug> */
 import path from "node:path";
 import { pathToFileURL } from "node:url";

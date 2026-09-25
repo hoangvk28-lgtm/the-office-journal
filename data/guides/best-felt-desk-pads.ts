@@ -1,258 +1,6 @@
-export const guideSlug = "best-felt-desk-pads";
-export const guideTitle = "6 Best Felt Desk Pads in 2026";
-export const metaTitle = "Best Felt Desk Pads";
-export const metaDescription = "We compared desk pad felt models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
-export const mainKeyword = "desk pad felt";
-export const introParagraphs = [
-  "Best Felt Desk Pads span budget cloth pads to premium leather versions, which is exactly why your peripherals change what you actually need.",
-  "We compared this lineup on documented size and backing material, since marketing copy tends to obscure this."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/51zw8rzQFGL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-felt-desk-pads-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "DAWNTREES Felt Desk Mat",
-    price: "$14.89",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51zw8rzQFGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09MVT9Y98?tag=theofficejournal-20",
-    description: "DAWNTREES Felt Desk Mat is our overall pick in this lineup. The desk pad is made of top felt cloth, which is super soft and durable. The correct product dimensions are length 36 inches x width 12 inches.\n\nThe gap between this and Nordik Felt Desk Mat isn't in the essentials, it shows up in felt naturally absorbs water and will return to normal state within no time.\n\nThis makes sense for anyone who want the strongest all-around pick in this comparison and would rather not keep shopping around. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["High quality", "Large sized", "Easy to clean and water absorbing"],
-    pros: ["High quality", "Large sized", "Easy to clean and water absorbing", "Desk protection"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-felt-desk-pads-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "Nordik Felt Desk Mat",
-    price: "$24.97",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41+Gtgg8jyL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CQBMX7C6?tag=theofficejournal-20",
-    description: "Nordik Felt Desk Mat is a strong alternative worth comparing directly against the top pick. Crafted from premium, soft, and warm felt without stitching for a seamless look, featuring anti-slip rubber drip dots to ensure the mat stays in place, enhancing desk stability and user experience. Adorned with a sophisticated leather logo tab, available in a selection of warm, contemporary colors, meticulously designed to complement and elevate the aesthetics of both office and home workspaces.\n\nSet next to DAWNTREES Felt Desk Mat, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Crafted from premium, soft, and warm felt without stitching for a seamless look", "Adorned with a sophisticated leather logo tab", "Generously sized at 35x17 inches"],
-    pros: ["Crafted from premium, soft, and warm felt without stitching for a seamless look", "Adorned with a sophisticated leather logo tab", "Generously sized at 35x17 inches", "Extra wide, robustly constructed designer storage tube, ensuring elegant and protective storage"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-felt-desk-pads-3",
-    rank: 3,
-    badge: "Best Premium Pick",
-    name: "DAWNTREES Large Felt Desk Mat",
-    price: "$32.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51J2v5kEtrL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D3X1RNQG?tag=theofficejournal-20",
-    description: "DAWNTREES Large Felt Desk Mat is the top-tier pick in this comparison. The table mat is made of top felt fabric, which is soft. 47.2\"X 23.6\"(120cmx60cm).this desk mat almost covers the entire desktop, accommodates your laptop, mouse and keyboard.\n\nSet next to DAWNTREES Felt Desk Mat, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who are willing to spend the most in this comparison for the fuller feature set that comes with it. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["High quality", "Large sized", "Tabletop protector"],
-    pros: ["High quality", "Large sized", "Tabletop protector", "Easy to clean and water absorbing"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-felt-desk-pads-4",
-    rank: 4,
-    badge: "Another Strong Option",
-    name: "DAWNTREES Felt Desk Pad",
-    price: "$14.49",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51YcV3OQc-L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09MVVQKSY?tag=theofficejournal-20",
-    description: "DAWNTREES Felt Desk Pad is a strong alternative worth comparing directly against the top pick. The desk pad is made of top felt cloth, which is super soft and durable. Felt based tabletop protector protects glass, wood or plastic tabletops from scratches, spills, heat and abrasions.\n\nThe gap between this and DAWNTREES Felt Desk Mat isn't in the essentials, it shows up in felt naturally absorbs water and will return to normal state within no time.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["High quality", "Large sized", "Tabletop protector"],
-    pros: ["High quality", "Large sized", "Tabletop protector", "Easy to clean and water absorbing"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-felt-desk-pads-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "Bright Stone Felt Desk Mat, Non-Slip Mouse Pad",
-    price: "$16.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51z3z7yI6+L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09X9YBSR5?tag=theofficejournal-20",
-    description: "Bright Stone Felt Desk Mat, Non-Slip Mouse Pad is a strong alternative worth comparing directly against the top pick. Our felt desk mat has a fine texture.keeps warm in winter and prevents sweat from sticking to the table in summer.it is a very suitable office supply for smooth writing. This large desk pad is made of 3mm anti-scald and abrasion-resistant felt material.\n\nSet next to DAWNTREES Felt Desk Mat, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
-    specs: ["Preferable felt material", "Protect your desk", "Special anti-slip design"],
-    pros: ["Preferable felt material", "Protect your desk", "Special anti-slip design", "Multifunctional desk pad"],
-    cons: ["Cloth tops show wear faster than a wipeable leather or PU surface", "A too-small size still leaves your mouse hand off the pad"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-felt-desk-pads-6",
-    rank: 6,
-    badge: "Best Value",
-    name: "Large Felt Desk mat",
-    price: "$9.98",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/418LlWYB6fL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CZDJ7W47?tag=theofficejournal-20",
-    description: "Large Felt Desk mat is a budget-friendly pick that doesn't skip the essentials. 1 Pcs felt desk mat size 40*16 inches/(100*40cm), this desk mat offers plenty of space for a laptop, making it ideal for working in the bedroom or playing video games. Felt mouse pad is made of felt, back has drip plastic anti-slip points to prevent you from sliding on the table mat.\n\nSet next to DAWNTREES Felt Desk Mat, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nIt's worth picking this one if you want a genuinely capable pick without paying for headroom you won't use. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
-    specs: ["Quantity and size", "High quality material", "Multifunctional design"],
-    pros: ["Quantity and size", "High quality material", "Multifunctional design", "Widely used"],
-    cons: ["A too-small size still leaves your mouse hand off the pad", "Cloth tops show wear faster than a wipeable leather or PU surface"],
-    bestFor: "buyers who want a genuinely capable pick without paying for headroom you won't use",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Cloth, Leather, or Vinyl Surface Material",
-    "description": "The surface material trades feel for maintenance: cloth is the most comfortable to write and mouse on but soaks up spills and shows staining over time, PU leather and vinyl wipe clean easily at the cost of a slightly less soft surface, and genuine leather ages into a patina that some people prefer rather than just wearing out."
-  },
-  {
-    "title": "Sizing for Both Keyboard and Mouse, Not Just One",
-    "description": "A desk pad sized only for your keyboard still leaves your mouse hand working directly on the bare desk, which defeats much of the point of having one."
-  },
-  {
-    "title": "Edge Stitching and Curl Resistance Over Time",
-    "description": "Corner curling and edge fraying are the two most common ways a desk pad wears out, and both are mitigated by the same detail: reinforced or stitched edges."
-  },
-  {
-    "title": "Base Grip on Your Specific Desk Surface",
-    "description": "A desk pad's backing material determines whether it stays in place on your specific desk surface: a rubber non-slip base grips a laminate or wood desk well, but the same base can slide more on a glass or glossy-lacquered desktop."
-  },
-  {
-    "title": "Cost Difference Between Cloth, Leather, and Premium Materials",
-    "description": "Budget expectations vary meaningfully by material: cloth desk pads generally cost $15 to $30, leather starts around $30 to $60 and climbs from there for larger or premium versions."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Surface Material",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Soft feel for typing",
-          "Large Felt Desk mat"
-        ],
-        [
-          "Balance of feel and durability",
-          "DAWNTREES Felt Desk Mat"
-        ],
-        [
-          "Wipeable, polished look",
-          "DAWNTREES Large Felt Desk Mat"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Large Felt Desk mat"
-        ],
-        [
-          "Mid-range pick",
-          "Nordik Felt Desk Mat"
-        ],
-        [
-          "Higher budget",
-          "DAWNTREES Large Felt Desk Mat"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Cloth vs Leather",
-    "cards": [
-      {
-        "label": "Cloth (e.g. Large Felt Desk mat)",
-        "text": "Softer feel, absorbs spills, shows staining faster."
-      },
-      {
-        "label": "Leather/PU (e.g. DAWNTREES Large Felt Desk Mat)",
-        "text": "Wipes clean easily, more polished look, higher price."
-      }
-    ],
-    "note": "Match this to how much coffee and food realistically ends up near your desk."
-  },
-  {
-    "subheading": "By Setup Size",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Single keyboard and mouse",
-          "DAWNTREES Felt Desk Mat"
-        ],
-        [
-          "Dual monitor, wider setup",
-          "Check for extra-large or extended sizing"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For Daily Heavy Use Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
-      },
-      {
-        "label": "In this comparison",
-        "text": "DAWNTREES Felt Desk Mat is worth checking against its specific edge construction before assuming any desk pad holds up the same."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You want a wipeable, longer-lasting surface with a more polished look, where DAWNTREES Large Felt Desk Mat justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want straightforward daily protection and comfort, where Large Felt Desk mat already covers the job at the lowest price here."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
 export const buyingCriteria = [
   {
@@ -304,4 +52,342 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-leather-desk-pads","title":"Best Leather Desk Pads"},{"href":"/guide/best-large-desk-pads","title":"Best Large Desk Pads"},{"href":"/guide/best-desk-pads-with-wrist-support","title":"Best Desk Pads with Wrist Support"}];
+export const guideSlug = "best-felt-desk-pads";
+
+export const guideTitle = "The Best Felt Desk Pads for a Cleaner, More Useful Desk";
+
+export const heroImage = "https://m.media-amazon.com/images/I/51zw8rzQFGL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "Balance of feel and durability",
+          ""
+        ],
+        [
+          "",
+          "DAWNTREES Large Felt Desk Mat"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "DAWNTREES Large Felt Desk Mat"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "Softer feel, absorbs spills, shows staining faster."
+      },
+      {
+        "label": "DAWNTREES Large Felt Desk Mat)",
+        "text": "Wipes clean easily, more polished look, higher price."
+      }
+    ],
+    "note": "Match this to how much coffee and food realistically ends up near your desk."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          "Check for extra-large or extended sizing"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For Daily Heavy Use Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
+      },
+      {
+        "label": "",
+        "text": "DAWNTREES Felt Desk Mat is worth checking against its specific edge construction before assuming any desk pad holds up the same."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You want a wipeable, longer-lasting surface with a more polished look, where DAWNTREES Large Felt Desk Mat justifies the extra cost."
+      },
+      {
+        "label": "",
+        "text": "You want straightforward daily protection and comfort, where Large Felt Desk mat already covers the job at the lowest price here."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "Cloth, Leather, or Vinyl Surface Material",
+    "description": "The surface material trades feel for maintenance: cloth is the most comfortable to write and mouse on but soaks up spills and shows staining over time, PU leather and vinyl wipe clean easily at the cost of a slightly less soft surface, and genuine leather ages into a patina that some people prefer rather than just wearing out."
+  },
+  {
+    "title": "Sizing for Both Keyboard and Mouse, Not Just One",
+    "description": "A desk pad sized only for your keyboard still leaves your mouse hand working directly on the bare desk, which defeats much of the point of having one."
+  },
+  {
+    "title": "Edge Stitching and Curl Resistance Over Time",
+    "description": "Corner curling and edge fraying are the two most common ways a desk pad wears out, and both are mitigated by the same detail: reinforced or stitched edges."
+  },
+  {
+    "title": "Base Grip on Your Specific Desk Surface",
+    "description": "A desk pad's backing material determines whether it stays in place on your specific desk surface: a rubber non-slip base grips a laminate or wood desk well, but the same base can slide more on a glass or glossy-lacquered desktop."
+  },
+  {
+    "title": "Cost Difference Between Cloth, Leather, and Premium Materials",
+    "description": "Budget expectations vary meaningfully by material: cloth desk pads generally cost $15 to $30, leather starts around $30 to $60 and climbs from there for larger or premium versions."
+  }
+];
+
+export const introParagraphs = [
+  "Best Felt Desk Pads span budget cloth pads to premium leather versions, which is exactly why your peripherals change what you actually need.",
+  "We compared this lineup on documented size and backing material, since marketing copy tends to obscure this."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const mainKeyword = "desk pad felt";
+
+export const metaDescription = "A practical comparison of 6 felt desk pads, focused on compatibility, build, features and price, and the trade-offs between them.";
+
+export const metaTitle = "Best Felt Desk Pads for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-felt-desk-pads-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "DAWNTREES Felt Desk Mat",
+    "price": "$14.89",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51zw8rzQFGL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09MVT9Y98?tag=theofficejournal-20",
+    "description": "DAWNTREES Felt Desk Mat is our overall pick in this lineup. The desk pad is made of top felt cloth, which is super soft and durable. The correct product dimensions are length 36 inches x width 12 inches.\n\nThe gap between this and Nordik Felt Desk Mat isn't in the essentials, it shows up in felt naturally absorbs water and will return to normal state within no time.\n\nThis makes sense for anyone who want the strongest all-around pick in this comparison and would rather not keep shopping around. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
+    "specs": [
+      "High quality",
+      "Large sized",
+      "Easy to clean and water absorbing"
+    ],
+    "pros": [
+      "High quality",
+      "Large sized",
+      "Easy to clean and water absorbing",
+      "Desk protection"
+    ],
+    "cons": [
+      "Cloth tops show wear faster than a wipeable leather or PU surface",
+      "A too-small size still leaves your mouse hand off the pad"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-felt-desk-pads-2",
+    "rank": 2,
+    "badge": "Also Worth Considering",
+    "name": "Nordik Felt Desk Mat",
+    "price": "$24.97",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41+Gtgg8jyL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQBMX7C6?tag=theofficejournal-20",
+    "description": "Nordik Felt Desk Mat is a strong alternative worth comparing directly against the top pick. Crafted from premium, soft, and warm felt without stitching for a seamless look, featuring anti-slip rubber drip dots to ensure the mat stays in place, enhancing desk stability and user experience. Adorned with a sophisticated leather logo tab, available in a selection of warm, contemporary colors, meticulously designed to complement and elevate the aesthetics of both office and home workspaces.\n\nSet next to DAWNTREES Felt Desk Mat, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis fits best if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
+    "specs": [
+      "Crafted from premium, soft, and warm felt without stitching for a seamless look",
+      "Adorned with a sophisticated leather logo tab",
+      "Generously sized at 35x17 inches"
+    ],
+    "pros": [
+      "Crafted from premium, soft, and warm felt without stitching for a seamless look",
+      "Adorned with a sophisticated leather logo tab",
+      "Generously sized at 35x17 inches",
+      "Extra wide, robustly constructed designer storage tube, ensuring elegant and protective storage"
+    ],
+    "cons": [
+      "A too-small size still leaves your mouse hand off the pad",
+      "Cloth tops show wear faster than a wipeable leather or PU surface"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-felt-desk-pads-3",
+    "rank": 3,
+    "badge": "Best Premium Pick",
+    "name": "DAWNTREES Large Felt Desk Mat",
+    "price": "$32.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51J2v5kEtrL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3X1RNQG?tag=theofficejournal-20",
+    "description": "DAWNTREES Large Felt Desk Mat is the top-tier pick in this comparison. The table mat is made of top felt fabric, which is soft. This desk mat almost covers the entire desktop, accommodates your laptop, mouse and keyboard.\n\nSet next to DAWNTREES Felt Desk Mat, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who are willing to spend the most in this comparison for the fuller feature set that comes with it. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
+    "specs": [
+      "High quality",
+      "Large sized",
+      "Tabletop protector"
+    ],
+    "pros": [
+      "High quality",
+      "Large sized",
+      "Tabletop protector",
+      "Easy to clean and water absorbing"
+    ],
+    "cons": [
+      "Cloth tops show wear faster than a wipeable leather or PU surface",
+      "A too-small size still leaves your mouse hand off the pad"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it"
+  },
+  {
+    "id": "best-felt-desk-pads-4",
+    "rank": 4,
+    "badge": "Another Strong Option",
+    "name": "DAWNTREES Felt Desk Pad",
+    "price": "$14.49",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51YcV3OQc-L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09MVVQKSY?tag=theofficejournal-20",
+    "description": "DAWNTREES Felt Desk Pad is a strong alternative worth comparing directly against the top pick. The desk pad is made of top felt cloth, which is super soft and durable. Felt based tabletop protector protects glass, wood or plastic tabletops from scratches, spills, heat and abrasions.\n\nThe gap between this and DAWNTREES Felt Desk Mat isn't in the essentials, it shows up in felt naturally absorbs water and will return to normal state within no time.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
+    "specs": [
+      "High quality",
+      "Large sized",
+      "Tabletop protector"
+    ],
+    "pros": [
+      "High quality",
+      "Large sized",
+      "Tabletop protector",
+      "Easy to clean and water absorbing"
+    ],
+    "cons": [
+      "A too-small size still leaves your mouse hand off the pad",
+      "Cloth tops show wear faster than a wipeable leather or PU surface"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-felt-desk-pads-5",
+    "rank": 5,
+    "badge": "Runner-Up Pick",
+    "name": "Bright Stone Felt Desk Mat, Non-Slip Mouse Pad",
+    "price": "$16.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51z3z7yI6+L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B09X9YBSR5?tag=theofficejournal-20",
+    "description": "Bright Stone Felt Desk Mat, Non-Slip Mouse Pad is a strong alternative worth comparing directly against the top pick. It is a very suitable office supply for smooth writing. This large desk pad is made of 3mm anti-scald and abrasion-resistant felt material.\n\nSet next to DAWNTREES Felt Desk Mat, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A cloth-top desk pad shows wear and staining faster than a wipeable PU leather or vinyl surface, so factor in how often you're willing to clean or replace it.",
+    "specs": [
+      "Preferable felt material",
+      "Protect your desk",
+      "Special anti-slip design"
+    ],
+    "pros": [
+      "Preferable felt material",
+      "Protect your desk",
+      "Special anti-slip design",
+      "Multifunctional desk pad"
+    ],
+    "cons": [
+      "Cloth tops show wear faster than a wipeable leather or PU surface",
+      "A too-small size still leaves your mouse hand off the pad"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-felt-desk-pads-6",
+    "rank": 6,
+    "badge": "Best Value",
+    "name": "Large Felt Desk mat",
+    "price": "$9.98",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/418LlWYB6fL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZDJ7W47?tag=theofficejournal-20",
+    "description": "Large Felt Desk mat is a low-cost pick that doesn't skip the essentials. 1 Pcs felt desk mat size 40*16 inches/(100*40cm), this desk mat offers plenty of space for a laptop, making it ideal for working in the bedroom or playing video games. Felt mouse pad is made of felt, back has drip plastic anti-slip points to prevent you from sliding on the table mat.\n\nSet next to DAWNTREES Felt Desk Mat, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nIt's worth picking this one if you want a capable pick without paying for headroom you won't use. A desk pad sized just for your keyboard still leaves your mouse hand working off the bare desk, so measure your keyboard and mouse side by side before picking a size.",
+    "specs": [
+      "Quantity and size",
+      "High quality material",
+      "Multifunctional design"
+    ],
+    "pros": [
+      "Quantity and size",
+      "High quality material",
+      "Multifunctional design",
+      "Widely used"
+    ],
+    "cons": [
+      "A too-small size still leaves your mouse hand off the pad",
+      "Cloth tops show wear faster than a wipeable leather or PU surface"
+    ],
+    "bestFor": "Buyers who want a capable pick without paying for headroom you won't use"
+  }
+];
+
+export const readTime = "11 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-leather-desk-pads",
+    "title": "Best Leather Desk Pads"
+  },
+  {
+    "href": "/guide/best-large-desk-pads",
+    "title": "Best Large Desk Pads"
+  },
+  {
+    "href": "/guide/best-desk-pads-with-wrist-support",
+    "title": "Best Desk Pads with Wrist Support"
+  }
+];
+
+export const breadcrumbLabel = "Best Felt Desk Pads";

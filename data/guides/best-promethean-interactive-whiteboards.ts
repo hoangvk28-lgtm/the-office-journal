@@ -1,111 +1,6 @@
-export const guideSlug = "best-promethean-interactive-whiteboards";
-export const guideTitle = "Best Promethean Interactive Whiteboards";
-export const metaTitle = "Best Promethean Interactive Whiteboards";
-export const metaDescription = "We mapped Promethean's current ActivPanel LE and V10 Premium families by OS flexibility, EDLA certification, and configuration options.";
-export const mainKeyword = "interactive whiteboard promethean";
-export const introParagraphs = [
-  "Promethean's current lineup splits between the ActivPanel LE, an EDLA-certified Android board with immediate Google service access, and the ActivPanel V10 Premium, a fully configurable panel where buyers choose size, OS, and accessories at purchase.",
-  "We compared exact-model configuration options, verified EDLA certification status, and checked which operating modes (standalone Android, external PC, or OPS module) each ActivPanel generation actually supports before ranking."
-];
-export const lastUpdated = "2026-08-15";
-export const readTime = "6 min";
-export const heroImage = "https://m.media-amazon.com/images/I/31vDfifmyGL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-promethean-interactive-whiteboards-1",
-    rank: 1,
-    badge: "Best EDLA-Certified ActivPanel",
-    name: "Promethean ActivPanel LE 65in Digital Whiteboard",
-    price: "$1,569.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31vDfifmyGL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0FM8Z5C31?tag=theofficejournal-20",
-    description: "The ActivPanel LE is genuinely EDLA certified with accessible Google search, a familiar menu bar, and quick access to Google Docs, Slides, Drive, Meet, and YouTube, alongside Promethean's own Essential apps: Annotate, Explain Everything Whiteboard, Screen Share, Spinner, and Timer.\n\nIt runs independently on Android OS, pairs with any connected computer, or accepts a Promethean OPS module to switch to Chrome or Windows OS entirely, genuine flexibility across three operating modes. Setup requires no time-consuming training, backed by 3-year onsite support.",
-    specs: ["65in 4K, EDLA-certified","3 operating modes: Android, external PC, or OPS","3-year onsite support included"],
-    pros: ["Genuine 3-way flexibility between Android, external PC, and OPS module","3-year onsite support included, not just a warranty registration","Immediate access to both Google apps and Promethean's own Essential suite"],
-    cons: ["OPS module for Chrome/Windows sold separately","Fewer premium AI-camera features than some newer rivals"],
-    bestFor: "buyers prioritizing 65in 4k, edla-certified",
-  },
-  {
-    id: "best-promethean-interactive-whiteboards-2",
-    rank: 2,
-    badge: "Best Configurable ActivPanel",
-    name: "Promethean ActivPanel V10 Premium 55in",
-    price: "$2,219.00",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/418O4laib8L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0DW9GCDJ4?tag=theofficejournal-20",
-    description: "The V10 Premium is genuinely configurable at purchase: buyers choose panel size, operating system (i5 Windows OPS, N97 Windows OPS, Chromebox, or Android OPS), and accessories, avoiding the compromise of a fixed hardware bundle.\n\nTouch-enabled picture-in-picture lets you view and interact with two connected sources simultaneously without switching inputs, a genuine productivity feature for comparing materials or monitoring a video call while presenting, on top of a built-in soundbar and 8-array mic.",
-    specs: ["55in 4K, configurable OS options","Touch-enabled picture-in-picture","Panel only, OS chosen separately"],
-    pros: ["Genuinely configurable panel/OS/accessory combination at purchase","Touch-enabled picture-in-picture for dual-source workflows","Built-in soundbar and 8-array mic"],
-    cons: ["Panel-only listing, OS module purchased separately","Configuration complexity requires more upfront decision-making"],
-    bestFor: "buyers prioritizing 55in 4k, configurable os options",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Product Architecture",
-    "description": "Classified each product as a flat-panel display, projector-based interactive system, or portable conversion hardware, since these serve fundamentally different room setups and budgets."
-  },
-  {
-    "title": "Touch & Writing Behavior",
-    "description": "Checked documented touch-point count, simultaneous-writer capacity, response latency, and touch technology (infrared, PCAP, or sensor-bar) rather than assuming higher touch-point numbers always mean a better writing experience."
-  },
-  {
-    "title": "OS, EDLA & Software Lifecycle",
-    "description": "Verified whether each board has genuine Google EDLA certification, which Android or Windows generation it runs, and whether an OPS slot requires a separately purchased module for full functionality."
-  },
-  {
-    "title": "Connectivity & Collaboration",
-    "description": "Tested claims around wireless casting device limits, touch-back control, video conferencing platform compatibility (Zoom, Teams, Meet, Webex), and camera/microphone hardware quality where documented."
-  },
-  {
-    "title": "Build, Mounting & Support",
-    "description": "Weighed panel weight, included wall mount versus separately sold stands, warranty length, and after-sales support commitments against the realistic deployment cost."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "ActivPanel LE vs V10 Premium",
-    "table": {
-      "headers": [
-        "Model",
-        "Configuration",
-        "Best for"
-      ],
-      "rows": [
-        [
-          "ActivPanel LE",
-          "Fixed EDLA Android config",
-          "Straightforward classroom/office deployment"
-        ],
-        [
-          "ActivPanel V10 Premium",
-          "Choose size/OS/accessories",
-          "IT departments wanting hardware customization"
-        ]
-      ]
-    }
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
 export const buyingCriteria = [
   {
@@ -149,7 +44,7 @@ export const faq = [
   },
   {
     "q": "Does a higher touch-point count always mean a better writing experience?",
-    "a": "Not necessarily. Touch-point count measures how many contact points the sensor can track, but the number of people who can write clean, independent lines simultaneously is usually lower and separately documented by the manufacturer. Check the stated simultaneous-writer number, not just the raw touch-point spec, before assuming a 60-point board beats a 20-point one for group use."
+    "a": "Touch-point count measures how many contact points the sensor can track, but the number of people who can write clean, independent lines simultaneously is usually lower and separately documented by the manufacturer. Check the stated simultaneous-writer number, not just the raw touch-point spec, before assuming a 60-point board beats a 20-point one for group use."
   },
   {
     "q": "How much does a large interactive whiteboard weigh, and does that matter for installation?",
@@ -157,4 +52,145 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-smart-board-interactive-whiteboards","title":"8 Best SMART Board Interactive Whiteboards"},{"href":"/guide/best-viewsonic-interactive-whiteboards","title":"8 Best ViewSonic Interactive Whiteboards"},{"href":"/guide/best-benq-interactive-whiteboards","title":"7 Best BenQ Interactive Whiteboards"}];
+export const guideSlug = "best-promethean-interactive-whiteboards";
+
+export const guideTitle = "The Best Promethean Interactive Whiteboards for a Cleaner, More Useful Desk";
+
+export const heroImage = "https://m.media-amazon.com/images/I/31vDfifmyGL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "ActivPanel LE vs V10 Premium",
+    "table": {
+      "headers": [
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "IT departments wanting hardware customization"
+        ]
+      ]
+    }
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Classified each product as a flat-panel display, projector-based interactive system, or portable conversion hardware, since these serve fundamentally different room setups and budgets."
+  },
+  {
+    "title": "",
+    "description": "Checked documented touch-point count, simultaneous-writer capacity, response latency, and touch technology (infrared, PCAP, or sensor-bar) rather than assuming higher touch-point numbers always mean a better writing experience."
+  },
+  {
+    "title": "OS, EDLA & Software Lifecycle",
+    "description": "Verified whether each board has genuine Google EDLA certification, which Android or Windows generation it runs, and whether an OPS slot requires a separately purchased module for full functionality."
+  },
+  {
+    "title": "",
+    "description": "Tested claims around wireless casting device limits, touch-back control, video conferencing platform compatibility (Zoom, Teams, Meet, Webex), and camera/microphone hardware quality where documented."
+  },
+  {
+    "title": "",
+    "description": "Weighed panel weight, included wall mount versus separately sold stands, warranty length, and after-sales support commitments against the realistic deployment cost."
+  }
+];
+
+export const introParagraphs = [
+  "Promethean's current lineup splits between the ActivPanel LE, an EDLA-certified Android board with immediate Google service access, and the ActivPanel V10 Premium, a fully configurable panel where buyers choose size, OS, and accessories at purchase.",
+  "We compared exact-model configuration options, verified EDLA certification status, and checked which operating modes (standalone Android, external PC, or OPS module) each ActivPanel generation actually supports before ranking."
+];
+
+export const lastUpdated = "2026-08-15";
+
+export const mainKeyword = "interactive whiteboard promethean";
+
+export const metaDescription = "A practical comparison of 2 promethean interactive whiteboards, focused on compatibility, build, features and price, and the trade-offs between them.";
+
+export const metaTitle = "Best Promethean Interactive Whiteboards for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-promethean-interactive-whiteboards-1",
+    "rank": 1,
+    "badge": "Best EDLA-Certified ActivPanel",
+    "name": "Promethean ActivPanel LE 65in Digital Whiteboard",
+    "price": "$1,569.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31vDfifmyGL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM8Z5C31?tag=theofficejournal-20",
+    "description": "The ActivPanel LE is EDLA certified with accessible Google search, a familiar menu bar, and quick access to Google Docs, Slides, Drive, Meet, and YouTube, alongside Promethean's own Essential apps: Annotate, Explain Everything Whiteboard, Screen Share, Spinner, and Timer.\n\nIt runs independently on Android OS, pairs with any connected computer, or accepts a Promethean OPS module to switch to Chrome or Windows OS entirely, genuine flexibility across three operating modes. Setup requires no time-consuming training, backed by 3-year onsite support.",
+    "specs": [
+      "65in 4K, EDLA-certified",
+      "3 operating modes: Android, external PC, or OPS",
+      "3-year onsite support included"
+    ],
+    "pros": [
+      "Genuine 3-way flexibility between Android, external PC, and OPS module",
+      "3-year onsite support included, not just a warranty registration",
+      "Immediate access to both Google apps and Promethean's own Essential suite"
+    ],
+    "cons": [
+      "OPS module for Chrome/Windows sold separately",
+      "Fewer premium AI-camera features than some newer rivals"
+    ],
+    "bestFor": "Buyers prioritizing 65in 4k, edla-certified"
+  },
+  {
+    "id": "best-promethean-interactive-whiteboards-2",
+    "rank": 2,
+    "badge": "Best Configurable ActivPanel",
+    "name": "Promethean ActivPanel V10 Premium 55in",
+    "price": "$2,219.00",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/418O4laib8L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW9GCDJ4?tag=theofficejournal-20",
+    "description": "The V10 Premium is configurable at purchase: buyers choose panel size, operating system (i5 Windows OPS, N97 Windows OPS, Chromebox, or Android OPS), and accessories, avoiding the compromise of a fixed hardware bundle.\n\nTouch-enabled picture-in-picture lets you view and interact with two connected sources simultaneously without switching inputs, a genuine productivity feature for comparing materials or monitoring a video call while presenting, on top of a built-in soundbar and 8-array mic.",
+    "specs": [
+      "55in 4K, configurable OS options",
+      "Touch-enabled picture-in-picture",
+      "Panel only, OS chosen separately"
+    ],
+    "pros": [
+      "configurable panel/OS/accessory combination at purchase",
+      "Touch-enabled picture-in-picture for dual-source workflows",
+      "Built-in soundbar and 8-array mic"
+    ],
+    "cons": [
+      "Panel-only listing, OS module purchased separately",
+      "Configuration complexity requires more upfront decision-making"
+    ],
+    "bestFor": "Buyers prioritizing 55in 4k, configurable os options"
+  }
+];
+
+export const readTime = "6 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-smart-board-interactive-whiteboards",
+    "title": "8 Best SMART Board Interactive Whiteboards"
+  },
+  {
+    "href": "/guide/best-viewsonic-interactive-whiteboards",
+    "title": "8 Best ViewSonic Interactive Whiteboards"
+  },
+  {
+    "href": "/guide/best-benq-interactive-whiteboards",
+    "title": "7 Best BenQ Interactive Whiteboards"
+  }
+];
+
+export const breadcrumbLabel = "Best Promethean Interactive Whiteboards";

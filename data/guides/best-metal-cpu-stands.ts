@@ -1,258 +1,6 @@
-export const guideSlug = "best-metal-cpu-stands";
-export const guideTitle = "6 Best Metal CPU Stands in 2026";
-export const metaTitle = "Best Metal CPU Stands";
-export const metaDescription = "We compared metal cpu stands models by verified specs and real-world tradeoffs, not marketing claims alone. Every pick is checked against a real usage floor.";
-export const mainKeyword = "metal cpu stands";
-export const introParagraphs = [
-  "Best Metal CPU Stands range widely on paper, so metal cpu stands, one spec isn't enough.",
-  "metal cpu stands: we weighed true airflow clearance, since mounting changes floor space."
-];
-export const lastUpdated = "2026-08-31";
-export const readTime = "11 min";
-export const heroImage = "https://m.media-amazon.com/images/I/318IsyAsPXL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-metal-cpu-stands-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "Adjustable Computer Tower Stand",
-    price: "$16.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/318IsyAsPXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0C4T42TPC?tag=theofficejournal-20",
-    description: "Adjustable Computer Tower Stand is the strongest all-around choice here. Hovadova computer tower stand elevates your PC off the floor, protecting your PC from dust, spills, carpet fibers and moisture. This PC stand features four 360° smooth-rolling casters for effortless movement of your computer tower!\n\nAgainst Hovadova Computer Tower Stand, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nIt's worth picking this one if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A caddy's width adjustment range is what actually determines fit, not the product photo, so measure your tower's real width and check the stated min/max range before buying rather than assuming a 'universal' claim covers your case.",
-    specs: ["Safe & practical design", "Easy mobility & locking wheels", "Sturdy build & tool-free setup"],
-    pros: ["Safe & practical design", "Easy mobility & locking wheels", "Sturdy build & tool-free setup", "Enhanced ventilation & cooling"],
-    cons: ["Width adjustment range still needs checking against your exact case", "Wheels help mobility but can drift on carpet without locks"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-metal-cpu-stands-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "Hovadova Computer Tower Stand",
-    price: "$19.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41A13obhQPL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D6G47BW7?tag=theofficejournal-20",
-    description: "Hovadova Computer Tower Stand is a strong alternative worth comparing directly against the top pick. Our computer stand is adjustable in width, the adjustable width range is 7.87-10.23 inches and the length is 16.9 inches, which can support most computer towers on the market. The hovadova under desk computer stand is designed with protective rails on both sides to prevent the computer case from falling.\n\nAgainst Adjustable Computer Tower Stand, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Caster wheels make repositioning easy but can drift on carpet or uneven flooring without a locking mechanism, so check for lockable wheels specifically if the stand needs to stay put once positioned.",
-    specs: ["Easy to move", "Ventilation cooling", "Sturdy metal PC stand"],
-    pros: ["Easy to move", "Ventilation cooling", "Sturdy metal PC stand", "Adjustable width"],
-    cons: ["Wheels help mobility but can drift on carpet without locks", "Width adjustment range still needs checking against your exact case"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-metal-cpu-stands-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "AGPTEK Adjustable CPU Stand",
-    price: "$32.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41Sf7YBwzFL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D53MPF7X?tag=theofficejournal-20",
-    description: "AGPTEK Adjustable CPU Stand is a strong alternative worth comparing directly against the top pick. Our computer tower stand features adjustable width and length, with a width range of 6.3inch to 11.8inch and a length range of 15.7inch to 20inch, making it suitable for most computer towers on the market. Equipped with 4pcs 360° rotating caster wheels, this stand allows you to move your computer tower to any desired location effortlessly, facilitating easy floor cleaning.\n\nSet next to Adjustable Computer Tower Stand, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A caddy's width adjustment range is what actually determines fit, not the product photo, so measure your tower's real width and check the stated min/max range before buying rather than assuming a 'universal' claim covers your case.",
-    specs: ["Adjustable width and length", "Easy mobility", "Durable material"],
-    pros: ["Adjustable width and length", "Easy mobility", "Durable material", "Space-saving design"],
-    cons: ["Width adjustment range still needs checking against your exact case", "Wheels help mobility but can drift on carpet without locks"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-metal-cpu-stands-4",
-    rank: 4,
-    badge: "Best Premium Pick",
-    name: "YBING Computer Tower Stand",
-    price: "$34.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/41cy7YTmQ9L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BFWCN59M?tag=theofficejournal-20",
-    description: "YBING Computer Tower Stand is the priciest pick in this lineup. 360 ° Mobile PC tower stand: never lift a heavy computer tower again. Each layer of the cpu holder cart with shelf can bear 40 pounds.\n\nAdjustable Computer Tower Stand is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nIt's worth picking this one if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Caster wheels make repositioning easy but can drift on carpet or uneven flooring without a locking mechanism, so check for lockable wheels specifically if the stand needs to stay put once positioned.",
-    specs: ["360 ° Mobile PC tower stand: never lift a heavy computer tower again", "Applicable to most cpu towers", "Robust frame"],
-    pros: ["360 ° Mobile PC tower stand: never lift a heavy computer tower again", "Applicable to most cpu towers", "Robust frame", "Away from the ground& conducive to heat dissipation"],
-    cons: ["Wheels help mobility but can drift on carpet without locks", "Width adjustment range still needs checking against your exact case"],
-    bestFor: "buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it",
-  },
-  {
-    id: "best-metal-cpu-stands-5",
-    rank: 5,
-    badge: "Runner-Up Pick",
-    name: "VIVO Large Computer Tower Desktop ATX-Case",
-    price: "$29.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31DOiz9vjAL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BRDCFQ3K?tag=theofficejournal-20",
-    description: "VIVO Large Computer Tower Desktop ATX-Case is a strong alternative worth comparing directly against the top pick. This cart features four caster wheels for smooth motion and convenient placement. High grade steel material makes the cart durable and keeps your computer secure.\n\nSet next to Adjustable Computer Tower Stand, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A caddy's width adjustment range is what actually determines fit, not the product photo, so measure your tower's real width and check the stated min/max range before buying rather than assuming a 'universal' claim covers your case.",
-    specs: ["Sturdy construction", "Low profile", "Minimal assembly"],
-    pros: ["Sturdy construction", "Low profile", "Minimal assembly"],
-    cons: ["Width adjustment range still needs checking against your exact case", "Wheels help mobility but can drift on carpet without locks"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-metal-cpu-stands-6",
-    rank: 6,
-    badge: "Worth a Look",
-    name: "Liitrton Mobile CPU Stand Adjustable Computer Tower Stand Fits Most PC",
-    price: "$14.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31hxCzq3j0L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B083DMYKC9?tag=theofficejournal-20",
-    description: "Liitrton Mobile CPU Stand Adjustable Computer Tower Stand Fits Most PC is a strong alternative worth comparing directly against the top pick. The PC stand has four casters that can rotate 360 ​​degrees. The PC floor stand is adjustable length and width to fit most computer towers, length adjustable range is 16.93 to 22.44 inches, and width adjustable range is 9.06 to 14.57 inches.\n\nAgainst Adjustable Computer Tower Stand, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Caster wheels make repositioning easy but can drift on carpet or uneven flooring without a locking mechanism, so check for lockable wheels specifically if the stand needs to stay put once positioned.",
-    specs: ["Mobile cpu stand", "Adjustable length and width", "Sturdy structure"],
-    pros: ["Mobile cpu stand", "Adjustable length and width", "Sturdy structure", "Non-slip surface"],
-    cons: ["Wheels help mobility but can drift on carpet without locks", "Width adjustment range still needs checking against your exact case"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Steel Construction Holds Up Better Than Thin Metal Long-Term",
-    "description": "A CPU stand supporting 30-plus pounds of tower needs genuine structural rigidity, thin sheet metal or a flimsy frame can flex or bend under sustained weight over months of use, while a solid steel frame holds its shape."
-  },
-  {
-    "title": "Anti-Slip Pads Protect the Case From Vibration Damage",
-    "description": "A CPU stand without rubber or foam anti-slip pads where the case rests can let a tower vibrate against bare metal over time, a slow source of scuffing or loosened panels."
-  },
-  {
-    "title": "Locking Casters Prevent Drift on Hard Floors",
-    "description": "Wheels are genuinely useful for pulling a tower out to clean behind it, but without a locking mechanism on at least two wheels, a stand on hard flooring can drift from vibration alone."
-  },
-  {
-    "title": "Floor Caddy vs Under-Desk Hanging Mount",
-    "description": "Floor-based caddies and under-desk hanging mounts solve the same problem differently: a caddy stays mobile and needs no desk modification, while a hanging mount frees up floor space permanently but requires drilling and commits the tower to one fixed spot."
-  },
-  {
-    "title": "Gaming-Marketed Stands Rarely Add Real Function Over Basic Ones",
-    "description": "A CPU stand marketed specifically 'for gaming PCs' is usually the same core caddy design as a general-purpose one, sometimes with RGB accents or a more aggressive-looking frame, neither of which changes how well it actually holds and protects your tower."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Tower Size",
-    "table": {
-      "headers": [
-        "Your tower",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Small/mini-ITX case",
-          "Hovadova Computer Tower Stand"
-        ],
-        [
-          "Standard mid-tower",
-          "Adjustable Computer Tower Stand"
-        ],
-        [
-          "Large full-tower",
-          "YBING Computer Tower Stand"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "Hovadova Computer Tower Stand"
-        ],
-        [
-          "Mid-range pick",
-          "AGPTEK Adjustable CPU Stand"
-        ],
-        [
-          "Higher budget",
-          "YBING Computer Tower Stand"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "Rolling Caddy vs Fixed Stand",
-    "cards": [
-      {
-        "label": "Rolling (e.g. Hovadova Computer Tower Stand)",
-        "text": "Easy to reposition for cleaning or cable access, needs floor space."
-      },
-      {
-        "label": "Fixed/hanging",
-        "text": "Frees floor space but commits the tower to one spot."
-      }
-    ],
-    "note": "Match this to your actual setup and priorities."
-  },
-  {
-    "subheading": "By Mounting Need",
-    "table": {
-      "headers": [
-        "Your setup",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Floor caddy on carpet",
-          "Adjustable Computer Tower Stand"
-        ],
-        [
-          "Under-desk hanging mount",
-          "AGPTEK Adjustable CPU Stand"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For a Heavy Full-Tower PC Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "A weight capacity rated comfortably above your tower's actual weight, with a solid steel frame."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Adjustable Computer Tower Stand is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need the strongest real-world performance and sturdiest build, where YBING Computer Tower Stand justifies the extra cost."
-      },
-      {
-        "label": "Save if",
-        "text": "You want straightforward everyday use without paying for headroom you won't need, where Hovadova Computer Tower Stand already covers the job at the lowest price here."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
 export const buyingCriteria = [
   {
@@ -265,7 +13,7 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Locking Casters Prevent Drift on Hard Floors",
-    "explanation": "Wheels are genuinely useful for pulling a tower out to clean behind it, but without a locking mechanism on at least two wheels, a stand on hard flooring can drift from vibration alone. If stability matters more than constant repositioning, prioritize a stand with lockable casters."
+    "explanation": "Wheels are useful for pulling a tower out to clean behind it, but without a locking mechanism on at least two wheels, a stand on hard flooring can drift from vibration alone. If stability matters more than constant repositioning, prioritize a stand with lockable casters."
   },
   {
     "criterion": "Floor Caddy vs Under-Desk Hanging Mount",
@@ -304,4 +52,345 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-cpu-stands","title":"Best CPU Stands in 2026"},{"href":"/guide/best-under-desk-cpu-stands","title":"Best Under-Desk CPU Stands in 2026"},{"href":"/guide/best-cpu-stands-for-desktop-towers","title":"Best CPU Stands for Desktop Towers in 2026"},{"href":"/guide/best-cpu-stands-with-casters","title":"Best CPU Stands With Casters in 2026"}];
+export const guideSlug = "best-metal-cpu-stands";
+
+export const guideTitle = "The Best Metal CPU Stands for Everyday Desk Work";
+
+export const heroImage = "https://m.media-amazon.com/images/I/318IsyAsPXL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "Rolling Caddy vs Fixed Stand",
+    "cards": [
+      {
+        "label": "",
+        "text": "Easy to reposition for cleaning or cable access, needs floor space."
+      },
+      {
+        "label": "",
+        "text": "Frees floor space but commits the tower to one spot."
+      }
+    ],
+    "note": "Match this to your actual setup and priorities."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For a Heavy Full-Tower PC Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "A weight capacity rated comfortably above your tower's actual weight, with a solid steel frame."
+      },
+      {
+        "label": "",
+        "text": "Adjustable Computer Tower Stand is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need the strongest real-world performance and sturdiest build, where YBING Computer Tower Stand justifies the extra cost."
+      },
+      {
+        "label": "",
+        "text": "You want straightforward everyday use without paying for headroom you won't need, where Hovadova Computer Tower Stand already covers the job at the lowest price here."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "Steel Construction Holds Up Better Than Thin Metal Long-Term",
+    "description": "A CPU stand supporting 30-plus pounds of tower needs genuine structural rigidity, thin sheet metal or a flimsy frame can flex or bend under sustained weight over months of use, while a solid steel frame holds its shape."
+  },
+  {
+    "title": "Anti-Slip Pads Protect the Case From Vibration Damage",
+    "description": "A CPU stand without rubber or foam anti-slip pads where the case rests can let a tower vibrate against bare metal over time, a slow source of scuffing or loosened panels."
+  },
+  {
+    "title": "Locking Casters Prevent Drift on Hard Floors",
+    "description": "Wheels are useful for pulling a tower out to clean behind it, but without a locking mechanism on at least two wheels, a stand on hard flooring can drift from vibration alone."
+  },
+  {
+    "title": "Floor Caddy vs Under-Desk Hanging Mount",
+    "description": "Floor-based caddies and under-desk hanging mounts solve the same problem differently: a caddy stays mobile and needs no desk modification, while a hanging mount frees up floor space permanently but requires drilling and commits the tower to one fixed spot."
+  },
+  {
+    "title": "Gaming-Marketed Stands Rarely Add Real Function Over Basic Ones",
+    "description": "A CPU stand marketed specifically 'for gaming PCs' is usually the same core caddy design as a general-purpose one, sometimes with RGB accents or a more aggressive-looking frame, neither of which changes how well it actually holds and protects your tower."
+  }
+];
+
+export const introParagraphs = [
+  "Best Metal CPU Stands range widely on paper, so metal cpu stands, one spec isn't enough.",
+  "Metal cpu stands: we weighed true airflow clearance, since mounting changes floor space."
+];
+
+export const lastUpdated = "2026-08-31";
+
+export const mainKeyword = "metal cpu stands";
+
+export const metaDescription = "How 6 metal CPU stands compare on compatibility, build, features and price, with clear notes on who each one suits.";
+
+export const metaTitle = "Best Metal CPU Stands for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-metal-cpu-stands-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "Adjustable Computer Tower Stand",
+    "price": "$16.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/318IsyAsPXL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4T42TPC?tag=theofficejournal-20",
+    "description": "Adjustable Computer Tower Stand is the strongest all-around choice here. Hovadova computer tower stand elevates your PC off the floor, protecting your PC from dust, spills, carpet fibers and moisture. This PC stand features four 360° smooth-rolling casters for effortless movement of your computer tower!\n\nAgainst Hovadova Computer Tower Stand, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nIt's worth picking this one if you want the strongest all-around pick in this comparison and would rather not keep shopping around. A caddy's width adjustment range is what actually determines fit, not the product photo, so measure your tower's real width and check the stated min/max range before buying rather than assuming a 'universal' claim covers your case.",
+    "specs": [
+      "Safe & practical design",
+      "Easy mobility & locking wheels",
+      "Sturdy build & tool-free setup"
+    ],
+    "pros": [
+      "Safe & practical design",
+      "Easy mobility & locking wheels",
+      "Sturdy build & tool-free setup",
+      "Enhanced ventilation & cooling"
+    ],
+    "cons": [
+      "Width adjustment range still needs checking against your exact case",
+      "Wheels help mobility but can drift on carpet without locks"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-metal-cpu-stands-2",
+    "rank": 2,
+    "badge": "Also Worth Considering",
+    "name": "Hovadova Computer Tower Stand",
+    "price": "$19.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41A13obhQPL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6G47BW7?tag=theofficejournal-20",
+    "description": "Hovadova Computer Tower Stand is a strong alternative worth comparing directly against the top pick. 9 inches, which can support most computer towers on the market. The hovadova under desk computer stand is designed with protective rails on both sides to prevent the computer case from falling.\n\nAgainst Adjustable Computer Tower Stand, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nGo with this pick if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Caster wheels make repositioning easy but can drift on carpet or uneven flooring without a locking mechanism, so check for lockable wheels specifically if the stand needs to stay put once positioned.",
+    "specs": [
+      "Easy to move",
+      "Ventilation cooling",
+      "Sturdy metal PC stand"
+    ],
+    "pros": [
+      "Easy to move",
+      "Ventilation cooling",
+      "Sturdy metal PC stand",
+      "Adjustable width"
+    ],
+    "cons": [
+      "Wheels help mobility but can drift on carpet without locks",
+      "Width adjustment range still needs checking against your exact case"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-metal-cpu-stands-3",
+    "rank": 3,
+    "badge": "Solid Alternative",
+    "name": "AGPTEK Adjustable CPU Stand",
+    "price": "$32.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Sf7YBwzFL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D53MPF7X?tag=theofficejournal-20",
+    "description": "AGPTEK Adjustable CPU Stand is a strong alternative worth comparing directly against the top pick. 7inch to 20inch, making it suitable for most computer towers on the market. Equipped with 4pcs 360° rotating caster wheels, this stand allows you to move your computer tower to any desired location effortlessly, facilitating easy floor cleaning.\n\nSet next to Adjustable Computer Tower Stand, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A caddy's width adjustment range is what actually determines fit, not the product photo, so measure your tower's real width and check the stated min/max range before buying rather than assuming a 'universal' claim covers your case.",
+    "specs": [
+      "Adjustable width and length",
+      "Easy mobility",
+      "Durable material"
+    ],
+    "pros": [
+      "Adjustable width and length",
+      "Easy mobility",
+      "Durable material",
+      "Space-saving design"
+    ],
+    "cons": [
+      "Width adjustment range still needs checking against your exact case",
+      "Wheels help mobility but can drift on carpet without locks"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-metal-cpu-stands-4",
+    "rank": 4,
+    "badge": "Best Premium Pick",
+    "name": "YBING Computer Tower Stand",
+    "price": "$34.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/41cy7YTmQ9L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFWCN59M?tag=theofficejournal-20",
+    "description": "YBING Computer Tower Stand is the priciest pick in this lineup. 360 ° Mobile PC tower stand: never lift a heavy computer tower again. Each layer of the cpu holder cart with shelf can bear 40 pounds.\n\nAdjustable Computer Tower Stand is a reasonable point of comparison here, close enough that the actual listing details are worth checking before deciding between them.\n\nIt's worth picking this one if you are willing to spend the most in this comparison for the fuller feature set that comes with it. Caster wheels make repositioning easy but can drift on carpet or uneven flooring without a locking mechanism, so check for lockable wheels specifically if the stand needs to stay put once positioned.",
+    "specs": [
+      "360 ° Mobile PC tower stand: never lift a heavy computer tower again",
+      "Applicable to most cpu towers",
+      "Robust frame"
+    ],
+    "pros": [
+      "360 ° Mobile PC tower stand: never lift a heavy computer tower again",
+      "Applicable to most cpu towers",
+      "Robust frame",
+      "Away from the ground& conducive to heat dissipation"
+    ],
+    "cons": [
+      "Wheels help mobility but can drift on carpet without locks",
+      "Width adjustment range still needs checking against your exact case"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this comparison for the fuller feature set that comes with it"
+  },
+  {
+    "id": "best-metal-cpu-stands-5",
+    "rank": 5,
+    "badge": "Runner-Up Pick",
+    "name": "VIVO Large Computer Tower Desktop ATX-Case",
+    "price": "$29.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31DOiz9vjAL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRDCFQ3K?tag=theofficejournal-20",
+    "description": "VIVO Large Computer Tower Desktop ATX-Case is a strong alternative worth comparing directly against the top pick. This cart features four caster wheels for smooth motion and convenient placement. High grade steel material makes the cart durable and keeps your computer secure.\n\nSet next to Adjustable Computer Tower Stand, the two land close enough on paper that it's worth comparing both listings directly on the spec that matters most for your setup.\n\nThis makes sense for anyone who want a genuine alternative to the top pick with a different tradeoff worth comparing directly. A caddy's width adjustment range is what actually determines fit, not the product photo, so measure your tower's real width and check the stated min/max range before buying rather than assuming a 'universal' claim covers your case.",
+    "specs": [
+      "Sturdy construction",
+      "Low profile",
+      "Minimal assembly"
+    ],
+    "pros": [
+      "Sturdy construction",
+      "Low profile",
+      "Minimal assembly"
+    ],
+    "cons": [
+      "Width adjustment range still needs checking against your exact case",
+      "Wheels help mobility but can drift on carpet without locks"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-metal-cpu-stands-6",
+    "rank": 6,
+    "badge": "Worth a Look",
+    "name": "Liitrton Mobile CPU Stand Adjustable Computer Tower Stand Fits Most PC",
+    "price": "$14.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31hxCzq3j0L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B083DMYKC9?tag=theofficejournal-20",
+    "description": "Liitrton Mobile CPU Stand Adjustable Computer Tower Stand Fits Most PC is a strong alternative worth comparing directly against the top pick. The PC stand has four casters that can rotate 360 ​​degrees.\n\nAgainst Adjustable Computer Tower Stand, neither pick has an obvious edge on paper, so the deciding factor comes down to whichever spec matters most for your specific use case.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Caster wheels make repositioning easy but can drift on carpet or uneven flooring without a locking mechanism, so check for lockable wheels specifically if the stand needs to stay put once positioned.",
+    "specs": [
+      "Mobile cpu stand",
+      "Adjustable length and width",
+      "Sturdy structure"
+    ],
+    "pros": [
+      "Mobile cpu stand",
+      "Adjustable length and width",
+      "Sturdy structure",
+      "Non-slip surface"
+    ],
+    "cons": [
+      "Wheels help mobility but can drift on carpet without locks",
+      "Width adjustment range still needs checking against your exact case"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  }
+];
+
+export const readTime = "11 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-cpu-stands",
+    "title": "Best CPU Stands in 2026"
+  },
+  {
+    "href": "/guide/best-under-desk-cpu-stands",
+    "title": "Best Under-Desk CPU Stands in 2026"
+  },
+  {
+    "href": "/guide/best-cpu-stands-for-desktop-towers",
+    "title": "Best CPU Stands for Desktop Towers in 2026"
+  },
+  {
+    "href": "/guide/best-cpu-stands-with-casters",
+    "title": "Best CPU Stands With Casters in 2026"
+  }
+];
+
+export const breadcrumbLabel = "Best Metal CPU Stands";

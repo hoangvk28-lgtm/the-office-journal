@@ -1,103 +1,6 @@
-export const guideSlug = "best-dell-usb-c-ethernet-adapters";
-export const guideTitle = "Best Dell USB-C Ethernet Adapters in 2026";
-export const metaTitle = "Best Dell USB-C Ethernet Adapters";
-export const metaDescription = "Dell's current lineup spans a PXE Boot-capable Gigabit adapter and a 2.5G step-up. We verified both before ranking.";
-export const mainKeyword = "dell usb-c ethernet adapters";
-export const introParagraphs = [
-  "Dell currently sells two verified USB-C Ethernet adapters: a Gigabit model with genuine PXE Boot support for IT deployment scenarios, and a newer 2.5G adapter for faster wired networking.",
-  "Both are legitimate Dell OEM accessories, though the 2.5G listing in particular publishes less extended detail than the PXE-focused Gigabit model."
-];
-export const lastUpdated = "2026-08-13";
-export const readTime = "6 min";
-export const heroImage = "https://m.media-amazon.com/images/I/21lIPkF8-GL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-dell-usb-c-ethernet-adapters-1",
-    rank: 1,
-    badge: "Best for IT/PXE Boot",
-    name: "Dell USB-C to Ethernet Adapter (PXE Boot)",
-    price: "$19.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/21lIPkF8-GL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B016FK6SCW?tag=theofficejournal-20",
-    description: "A Gigabit-speed adapter with a built-in driver for easy setup, notable for explicitly enabling PXE Boot on devices lacking onboard Ethernet as long as they have a USB-C port, a genuine IT-deployment feature.\n\nCompact and portable, positioned as a straightforward way to extend bandwidth by establishing a new wired connection on Dell hardware lacking Ethernet.",
-    specs: ["Gigabit link speed","Built-in driver, PXE Boot support","Compact, portable design"],
-    pros: ["Explicit PXE Boot support, useful for IT imaging and deployment","Built-in driver simplifies setup","Compact and portable for business travel","Genuine Dell OEM accessory"],
-    cons: ["Higher price than generic Gigabit adapters without PXE support","Limited published detail on OS compatibility beyond PXE use case"],
-    bestFor: "buyers prioritizing gigabit link speed",
-  },
-  {
-    id: "best-dell-usb-c-ethernet-adapters-2",
-    rank: 2,
-    badge: "Best 2.5G Upgrade",
-    name: "Dell USB-C to 2.5G Ethernet Adapter",
-    price: "$24.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/11g1HMNYHSL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CWPKWRS4?tag=theofficejournal-20",
-    description: "Dell's 2.5G step-up from its Gigabit PXE adapter, positioned as a quick and easy replacement adapter for efficient networking on Dell hardware.\n\nThe listing itself is sparse on extended feature detail, so buyers wanting explicit chipset or driver documentation should check Dell's support site directly before purchasing.",
-    specs: ["2.5G Ethernet","Dell OEM accessory","Quick-connect design"],
-    pros: ["Genuine Dell OEM 2.5G adapter","Straightforward quick-connect design","Positioned specifically for hassle-free replacement"],
-    cons: ["Listing provides limited published chipset or driver detail","Premium OEM pricing versus third-party 2.5G alternatives"],
-    bestFor: "buyers prioritizing 2.5g ethernet",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Ethernet Speed & Chipset",
-    "description": "Verified the actual rated Ethernet speed (1G/2.5G/5G/10G) and, where published, the specific Realtek, Marvell, or other controller chip driving it, rather than assuming USB-C connector shape implies a speed tier."
-  },
-  {
-    "title": "Host & OS Compatibility",
-    "description": "Checked explicit USB generation requirements (USB 3.0 vs USB 3.2 Gen 2 vs Thunderbolt/USB4) and confirmed OS support, since several products in this cluster have real exclusions (Android, Nintendo Switch, older Apple silicon)."
-  },
-  {
-    "title": "Real-World Documentation",
-    "description": "Favored listings that publish honest real-world throughput or explicit host-speed caveats over ones that only quote the theoretical link rate."
-  },
-  {
-    "title": "Build Quality & Durability",
-    "description": "Weighed braided cable construction, aluminum housing, and reinforced connectors, since these adapters see frequent plug/unplug cycles in daily use."
-  },
-  {
-    "title": "Genuine Feature Differentiators",
-    "description": "Prioritized real differences like Wake-on-LAN, PXE boot, PD passthrough wattage, and multiport expansion over marketing language that repeats across nearly identical adapters."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "PXE Boot vs Standard Networking",
-    "intro": "The PXE Boot feature on Dell's Gigabit adapter is specifically useful for IT departments imaging devices without onboard Ethernet, a niche but genuine business use case most consumer adapters don't support.",
-    "cards": [
-      {
-        "label": "IT deployment / device imaging",
-        "text": "Dell's PXE Boot adapter is purpose-built for this exact workflow."
-      },
-      {
-        "label": "General faster networking",
-        "text": "The 2.5G adapter is the newer, higher-throughput option if you don't need PXE."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
 export const buyingCriteria = [
   {
@@ -106,7 +9,7 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Multi-gig speeds need a fast enough USB port",
-    "explanation": "A 2.5G, 5G, or 10G adapter plugged into a basic USB 3.0 (5Gbps) port will not reach its rated Ethernet speed. 2.5G generally works on 5Gbps ports; 5G and 10G typically need a USB 3.2 Gen 2 (10Gbps) port or Thunderbolt/USB4 host."
+    "explanation": "0 (5Gbps) port will not reach its rated Ethernet speed. 2 Gen 2 (10Gbps) port or Thunderbolt/USB4 host."
   },
   {
     "criterion": "Check OS and driver requirements before buying",
@@ -133,4 +36,138 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-hp-usb-c-ethernet-adapters","title":"Best HP USB-C Ethernet Adapters in 2026"},{"href":"/guide/best-lenovo-usb-c-ethernet-adapters","title":"Best Lenovo USB-C Ethernet Adapters in 2026"},{"href":"/guide/best-usb-c-to-2-5gbe-ethernet-adapters","title":"8 Best USB-C to 2.5GbE Ethernet Adapters"}];
+export const guideSlug = "best-dell-usb-c-ethernet-adapters";
+
+export const guideTitle = "The Best Dell USB-C Ethernet Adapters for Everyday Desk Work";
+
+export const heroImage = "https://m.media-amazon.com/images/I/21lIPkF8-GL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "PXE Boot vs Standard Networking",
+    "intro": "The PXE Boot feature on Dell's Gigabit adapter is specifically useful for IT departments imaging devices without onboard Ethernet, a niche but genuine business use case most consumer adapters don't support.",
+    "cards": [
+      {
+        "label": "IT deployment / device imaging",
+        "text": "Dell's PXE Boot adapter is purpose-built for this exact workflow."
+      },
+      {
+        "label": "",
+        "text": "5G adapter is the newer, higher-throughput option if you don't need PXE."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "5G/5G/10G) and, where published, the specific Realtek, Marvell, or other controller chip driving it, rather than assuming USB-C connector shape implies a speed tier."
+  },
+  {
+    "title": "",
+    "description": "2 Gen 2 vs Thunderbolt/USB4) and confirmed OS support, since several products in this cluster have real exclusions (Android, Nintendo Switch, older Apple silicon)."
+  },
+  {
+    "title": "",
+    "description": "Favored listings that publish honest real-world throughput or explicit host-speed caveats over ones that only quote the theoretical link rate."
+  },
+  {
+    "title": "",
+    "description": "Weighed braided cable construction, aluminum housing, and reinforced connectors, since these adapters see frequent plug/unplug cycles in daily use."
+  },
+  {
+    "title": "",
+    "description": "Prioritized real differences like Wake-on-LAN, PXE boot, PD passthrough wattage, and multiport expansion over marketing language that repeats across nearly identical adapters."
+  }
+];
+
+export const introParagraphs = [
+  "5G adapter for faster wired networking.",
+  "5G listing in particular publishes less extended detail than the PXE-focused Gigabit model."
+];
+
+export const lastUpdated = "2026-08-13";
+
+export const mainKeyword = "dell usb-c ethernet adapters";
+
+export const metaDescription = "How 2 dell USB-C ethernet adapters compare on compatibility, build, features and price, with clear notes on who each one suits.";
+
+export const metaTitle = "Best Dell USB-C Ethernet Adapters for Home Offices (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-dell-usb-c-ethernet-adapters-1",
+    "rank": 1,
+    "badge": "Best for IT/PXE Boot",
+    "name": "Dell USB-C to Ethernet Adapter (PXE Boot)",
+    "price": "$19.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/21lIPkF8-GL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B016FK6SCW?tag=theofficejournal-20",
+    "description": "A Gigabit-speed adapter with a built-in driver for easy setup, notable for explicitly enabling PXE Boot on devices lacking onboard Ethernet as long as they have a USB-C port, a genuine IT-deployment feature.\n\nCompact and portable, positioned as a straightforward way to extend bandwidth by establishing a new wired connection on Dell hardware lacking Ethernet.",
+    "specs": [
+      "Gigabit link speed",
+      "Built-in driver, PXE Boot support",
+      "Compact, portable design"
+    ],
+    "pros": [
+      "Explicit PXE Boot support, useful for IT imaging and deployment",
+      "Built-in driver simplifies setup",
+      "Compact and portable for business travel",
+      "Genuine Dell OEM accessory"
+    ],
+    "cons": [
+      "Higher price than generic Gigabit adapters without PXE support",
+      "Limited published detail on OS compatibility beyond PXE use case"
+    ],
+    "bestFor": "Buyers prioritizing gigabit link speed"
+  },
+  {
+    "id": "best-dell-usb-c-ethernet-adapters-2",
+    "rank": 2,
+    "badge": "Best 2.5G Upgrade",
+    "name": "Dell USB-C to 2.5G Ethernet Adapter",
+    "price": "$24.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/11g1HMNYHSL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWPKWRS4?tag=theofficejournal-20",
+    "description": "5G step-up from its Gigabit PXE adapter, positioned as a quick and easy replacement adapter for efficient networking on Dell hardware.\n\nThe listing itself is sparse on extended feature detail, so buyers wanting explicit chipset or driver documentation should check Dell's support site directly before purchasing.",
+    "specs": [
+      "2.5G Ethernet",
+      "Dell OEM accessory",
+      "Quick-connect design"
+    ],
+    "pros": [
+      "Genuine Dell OEM 2.5G adapter",
+      "Straightforward quick-connect design",
+      "Positioned specifically for hassle-free replacement"
+    ],
+    "cons": [
+      "Listing provides limited published chipset or driver detail",
+      "Premium OEM pricing versus third-party 2.5G alternatives"
+    ],
+    "bestFor": "buyers prioritizing 2.5g ethernet"
+  }
+];
+
+export const readTime = "6 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-hp-usb-c-ethernet-adapters",
+    "title": "Best HP USB-C Ethernet Adapters in 2026"
+  },
+  {
+    "href": "/guide/best-lenovo-usb-c-ethernet-adapters",
+    "title": "Best Lenovo USB-C Ethernet Adapters in 2026"
+  },
+  {
+    "href": "/guide/best-usb-c-to-2-5gbe-ethernet-adapters",
+    "title": "8 Best USB-C to 2.5GbE Ethernet Adapters"
+  }
+];
+
+export const breadcrumbLabel = "Best Dell USB-C Ethernet Adapters";

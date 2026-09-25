@@ -1,490 +1,427 @@
+// Editorial rewrite for The Office Journal (docs/editorial-guide.md).
+// Commerce fields (ids, ranks, prices, images, affiliate URLs) are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
+
 export const guideSlug = "best-docking-stations-for-chromebooks";
-export const guideTitle = "8 Best Docking Stations for Chromebooks in 2026";
-export const metaTitle = "Best Docking Stations for Chromebooks in 2026 (USB-C & DisplayLink)";
-export const metaDescription =
-  "8 best docking stations for Chromebooks in 2026, covering USB-C Alt Mode limits, DisplayLink dual-display setups, and Thunderbolt Chromebook compatibility.";
+
+export const guideTitle = "The Best Docking Stations for Chromebooks, Matched to What ChromeOS Can Drive";
+
+export const breadcrumbLabel = "Best Docking Stations for Chromebooks";
+
+export const metaTitle = "Best Docking Stations for Chromebooks: USB-C, DisplayLink and Multi-Display (2026)";
+
+export const metaDescription = "We compared Chromebook docks on how they drive extra monitors (native USB-C output or DisplayLink), charging wattage, ports and ChromeOS support, from an 8-in-1 hub to a certified 12-in-1 dock.";
+
 export const mainKeyword = "docking station for chromebook";
+
 export const introParagraphs = [
-  "A docking station that works flawlessly on a Windows laptop can behave very differently once it's plugged into a Chromebook, since Chrome OS handles external displays, USB bandwidth, and power delivery on its own set of rules. Most Chromebooks only drive a single external display at 4K 60Hz over native USB-C DisplayPort Alt Mode, and getting a second monitor working at all usually means the dock relies on DisplayLink rather than Alt Mode alone.",
-  "Below are 8 docking stations for Chromebooks we evaluated on Chrome OS display compatibility, DisplayLink driver support, charging behavior at typical Chromebook wattages, and overall port layout, ranging from a budget-friendly 8-in-1 hub to a 12-in-1 dock built specifically with Chromebook certification in mind.",
+  "The limit on a Chromebook dock is usually the Chromebook, not the dock. How many external monitors you can run depends on what the laptop's USB-C or Thunderbolt port supports, and many Chromebooks are more limited here than a typical Windows laptop. A dock with five video outputs cannot add displays the laptop itself cannot drive, unless it uses DisplayLink, which renders extra screens through software.",
+  "That makes the first question how a dock drives its monitors. Docks that use the laptop's native output need no software but depend on the laptop; DisplayLink docks need the DisplayLink extension on ChromeOS but can add screens beyond the native limit. Charging is simpler: check the dock's power delivery against your Chromebook's charger rather than paying for wattage you will not use.",
+  "The eight docks below run from about $45 to $170 at the time of writing. Our comparison is based on published specifications, listed OS compatibility, charging wattage and price position, not hands-on testing. Check your Chromebook maker's documentation for its supported number of external displays before buying any multi-monitor dock."
 ];
+
 export const lastUpdated = "2026-07-18";
+
 export const readTime = "9 min";
+
 export const heroImage = "https://m.media-amazon.com/images/I/41ROxKA58EL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string;
-  rank: number;
-  badge: string;
-  name: string;
-  price: string;
-  rating: string;
-  reviews: string;
-  imageUrl: string;
-  amazonUrl: string;
-  description: string;
-  specs: string[];
-  pros: string[];
-  cons: string[];
-  bestFor: string;
-}
-
-export interface BuyingCriterion {
-  criterion: string;
-  explanation: string;
-}
-
-export interface FaqItem {
-  q: string;
-  a: string;
-}
 
 export const products: GuideProduct[] = [
   {
-    id: "plugable-12-in-1-chromebook-certified",
-    rank: 1,
-    badge: "Chromebook Certified",
-    name: "Plugable 12-in-1 Dual 4K USB-C Docking Station (Chromebook Certified)",
-    price: "$159.95",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/41ROxKA58EL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0BSG1V54Y?tag=theofficejournal-20",
-    description:
-      "This is the only dock in this list explicitly marketed as Chromebook certified, which matters because Chrome OS handles USB bandwidth allocation and external display output differently than Windows. Its dual 4K output relies on DisplayLink rather than native Alt Mode alone, so it can drive two external monitors from Chromebooks that would otherwise be limited to a single display.\n\nSixty watts of charging comfortably covers the 45-65W typical Chromebook charging range without wasted overhead, and the 12-port layout gives classroom and shared-desk setups enough Ethernet, USB, and display options in one cable.\n\nTrue dual external display support via DisplayLink. On the other hand, requires installing the DisplayLink for ChromeOS extension. Both are worth keeping in mind before deciding.",
-    specs: [
-      "Chromebook, Windows, and ChromeOS certified",
-      "Dual 4K display via DisplayLink",
-      "60W charging",
-      "12-in-1 port layout",
-      "Built-in Ethernet",
+    "id": "plugable-12-in-1-chromebook-certified",
+    "rank": 1,
+    "badge": "Best Chromebook-Certified Dock",
+    "name": "Plugable 12-in-1 Dual 4K USB-C Docking Station (Chromebook Certified)",
+    "price": "$159.95",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/41ROxKA58EL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0BSG1V54Y?tag=theofficejournal-20",
+    "description": "The Plugable 12-in-1 is the safest starting point if two external monitors on a Chromebook is the goal: it is the only dock here that Plugable lists as Chromebook certified, and its dual 4K output uses DisplayLink rather than depending on the laptop's native display support alone.\n\nThat matters on Chromebooks limited to one external display over USB-C, where DisplayLink is the practical route to a second screen. The cost is a setup step: you need the DisplayLink extension for ChromeOS installed. The 12-port layout and built-in Ethernet suit a shared or classroom desk.\n\nIts 60W charging is the lowest rating here; check it against your Chromebook's charger.",
+    "specs": [
+      "Displays: dual 4K via DisplayLink",
+      "Charging: 60W",
+      "Ports: 12-in-1 including Ethernet",
+      "Listed compatibility: Chromebook certified; Windows, ChromeOS"
     ],
-    pros: [
-      "Only Chromebook-certified pick in this list",
-      "True dual external display support via DisplayLink",
-      "60W charging matches typical Chromebook wattage needs",
-      "Strong port variety for classroom or shared setups",
+    "pros": [
+      "Only Chromebook-certified dock in this guide",
+      "DisplayLink can add a second screen beyond native limits",
+      "Ethernet and a broad port mix"
     ],
-    cons: [
-      "Requires installing the DisplayLink for ChromeOS extension",
-      "Pricier than the single-display budget picks",
-      "Dual-display setup adds a driver step most Windows users skip",
+    "cons": [
+      "Needs the DisplayLink extension installed",
+      "60W is the lowest charging rating here",
+      "Costs more than the budget hubs"
     ],
-    bestFor: "Buyers who specifically need dual external monitors on a Chromebook",
+    "bestFor": "A Chromebook that needs two external monitors with the least compatibility guesswork.",
+    "summary": "The only dock here listed as Chromebook certified, with DisplayLink for two 4K monitors.",
+    "skipIf": "You only need one external monitor; the Anker 8-in-1 or the unbranded 14-in-1 hub covers that for far less."
   },
   {
-    id: "plugable-triple-display-100w",
-    rank: 2,
-    badge: "Best for Thunderbolt Chromebooks",
-    name: "Plugable USB-C Triple Display Docking Station",
-    price: "$159.95",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/31VkRux4RUL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08DDH5CPW?tag=theofficejournal-20",
-    description:
-      "A small but growing number of premium Chromebooks now ship with real Thunderbolt 4 ports rather than standard USB-C Alt Mode, and this dock's 100W PD and triple-display capability is built for that class of device. On a Thunderbolt Chromebook it can push a genuinely multi-monitor setup that a standard Alt Mode Chromebook simply cannot support.\n\nOn a standard USB-C Chromebook without Thunderbolt, this dock still works but is limited to whatever Alt Mode bandwidth the laptop itself allows, so its extra display headroom goes mostly unused. Six USB ports at 5Gbps round out a genuinely productivity-focused layout.\n\nA genuine advantage here is that 100W PD exceeds any Chromebook's charging requirement. The tradeoff is that triple-display capability is wasted on non-Thunderbolt Chromebooks.",
-    specs: [
-      "100W USB-C Power Delivery",
-      "Triple HDMI output (1x 4K 30Hz, 2x 1080p 60Hz)",
-      "6x USB 5Gbps ports",
-      "Windows, macOS, ChromeOS compatible",
+    "id": "plugable-triple-display-100w",
+    "rank": 2,
+    "badge": "Best for Three Screens at 1080p",
+    "name": "Plugable USB-C Triple Display Docking Station",
+    "price": "$159.95",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/31VkRux4RUL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08DDH5CPW?tag=theofficejournal-20",
+    "description": "The Plugable Triple Display dock suits a Chromebook desk that wants three screens for documents and dashboards rather than three 4K panels: its HDMI outputs are listed as one 4K at 30Hz and two 1080p at 60Hz.\n\nIt adds six USB 5Gbps ports and 100W power delivery, and Plugable lists Windows, macOS and ChromeOS compatibility. The previous version of this guide positioned it as a Thunderbolt dock, but the listing describes a USB-C dock, and it does not state how it reaches three outputs on ChromeOS, so check Plugable's notes for your model.\n\nThe 4K output runs at 30Hz, which can feel sluggish for scrolling and mouse movement.",
+    "specs": [
+      "Displays: 3x HDMI (1x 4K 30Hz, 2x 1080p 60Hz)",
+      "Charging: 100W USB-C PD",
+      "USB: 6x 5Gbps",
+      "Listed compatibility: Windows, macOS, ChromeOS"
     ],
-    pros: [
-      "Full capability unlocked on Thunderbolt Chromebooks",
-      "100W PD exceeds any Chromebook's charging requirement",
-      "6 USB ports for a genuinely multi-device desk",
-      "Broad OS compatibility beyond just Chrome OS",
+    "pros": [
+      "Three HDMI outputs",
+      "Six USB ports",
+      "100W charging covers typical Chromebook chargers"
     ],
-    cons: [
-      "Triple-display capability is wasted on non-Thunderbolt Chromebooks",
-      "Bulkier than the compact single-cable hubs",
-      "Higher price for capability most Chromebook owners won't use",
+    "cons": [
+      "4K output limited to 30Hz",
+      "Two outputs are 1080p only",
+      "Display method on ChromeOS not stated in the listing"
     ],
-    bestFor: "Owners of newer Thunderbolt-equipped Chromebooks who want full multi-monitor output",
+    "bestFor": "Three screens for documents, email and dashboards where 1080p is enough.",
+    "summary": "Three HDMI outputs, six USB ports and 100W charging, with ChromeOS listed.",
+    "skipIf": "You want two sharp 4K monitors; the Plugable 12-in-1 or UD-MSTH2 is the better fit."
   },
   {
-    id: "plugable-dual-monitor-65w",
-    rank: 3,
-    badge: "Best Dual-Monitor Value",
-    name: "Plugable USB-C Docking Station Dual Monitor 4K 60Hz (UD-MSTH2)",
-    price: "$119.95",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/41X9Es+HsDL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CKJNZRW3?tag=theofficejournal-20",
-    description:
-      "This dock is driverless on Windows and ChromeOS for its core functions, which removes some of the setup friction that trips up first-time Chromebook dock buyers. Dual 4K 60Hz output over two HDMI ports gives it real multi-monitor capability at a lower price than the Chromebook-certified pick above.\n\n65W charging sits comfortably above the 45-65W most Chromebooks actually draw, and Gigabit Ethernet plus three USB-A 5Gbps ports cover the basics without unnecessary extras. It's a solid middle ground for buyers who want dual displays without paying for Thunderbolt-class throughput they won't use.\n\nDriverless setup reduces Chrome OS configuration steps. That said, not officially Chromebook certified like the top pick. Neither should be a surprise once you know to look for it.",
-    specs: [
-      "Dual 4K 60Hz via 2x HDMI",
-      "65W charging",
-      "Gigabit Ethernet",
-      "USB-C + 3x USB-A 5Gbps",
-      "Driverless on Windows/ChromeOS",
+    "id": "plugable-dual-monitor-65w",
+    "rank": 3,
+    "badge": "Best Driverless Dual-Monitor Dock",
+    "name": "Plugable USB-C Docking Station Dual Monitor 4K 60Hz (UD-MSTH2)",
+    "price": "$119.95",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/41X9Es+HsDL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKJNZRW3?tag=theofficejournal-20",
+    "description": "The Plugable UD-MSTH2 is the choice if you want two 4K 60Hz monitors without installing an extension, and your Chromebook's documentation confirms it supports two external displays natively.\n\nPlugable lists it as driverless on Windows and ChromeOS, with dual HDMI 4K 60Hz, 65W charging, Gigabit Ethernet and three USB-A 5Gbps ports plus USB-C. Because it relies on the laptop's own display output rather than DisplayLink, it cannot add a second screen to a Chromebook limited to one.\n\nThat is the key difference from the certified 12-in-1: less setup, but less help when the laptop is the bottleneck.",
+    "specs": [
+      "Displays: 2x HDMI, 4K 60Hz",
+      "Charging: 65W",
+      "Ethernet: Gigabit",
+      "USB: USB-C + 3x USB-A 5Gbps",
+      "Driverless on Windows and ChromeOS (listed)"
     ],
-    pros: [
-      "Dual 4K 60Hz output at a lower price than the certified pick",
-      "Driverless setup reduces Chrome OS configuration steps",
-      "65W charging matches real Chromebook power needs",
-      "Includes Gigabit Ethernet",
+    "pros": [
+      "No driver or extension needed",
+      "4K 60Hz on both outputs where supported",
+      "Costs less than the certified dock"
     ],
-    cons: [
-      "Not officially Chromebook certified like the top pick",
-      "Dual-display performance still depends on the laptop's own Alt Mode support",
-      "Fewer total ports than the 12-in-1 pick",
+    "cons": [
+      "Second display depends on the Chromebook's native support",
+      "Not listed as Chromebook certified",
+      "Fewer ports than the 12-in-1"
     ],
-    bestFor: "Buyers who want dual 4K monitors without paying for Chromebook-specific certification",
+    "bestFor": "A Chromebook documented to support two external displays, where a driver-free setup matters.",
+    "summary": "Dual 4K 60Hz over HDMI with no driver install, if your Chromebook supports it natively.",
+    "skipIf": "Your Chromebook supports only one external display; a DisplayLink dock such as the Plugable 12-in-1 is the better fit."
   },
   {
-    id: "anker-prime-14-port-160w",
-    rank: 4,
-    badge: "Best High-Power Option",
-    name: "Anker Prime Docking Station, 14-Port with 160W Max Output",
-    price: "$169.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/31ptzq7E2JL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0CW9249DK?tag=theofficejournal-20",
-    description:
-      "The Anker Prime's 160W max output is far beyond what any Chromebook needs to charge, since even premium Chromebooks typically top out at 65W, but that headroom means the dock can also power other connected devices without straining. Its Real-Time Smart Interface display shows connection status at a glance, useful when troubleshooting whether a Chrome OS display issue is the dock or the laptop's Alt Mode limitation.\n\nDual 4K display support and 10Gbps data transfer make it a genuinely capable 14-port hub, though a Chromebook user will use only a fraction of its power delivery ceiling. It's better suited to a mixed household where the same dock also serves a Windows or Mac laptop.\n\nWorth calling out specifically: real-time status display helps diagnose connection issues. The catch is most of its 160W power ceiling goes unused by a Chromebook.",
-    specs: [
-      "14-port docking station",
-      "160W max output",
-      "10Gbps fast data transfer",
-      "Dual 4K displays",
-      "Real-Time Smart Interface display",
+    "id": "anker-prime-14-port-160w",
+    "rank": 4,
+    "badge": "Best for Mixed-Laptop Households",
+    "name": "Anker Prime Docking Station, 14-Port with 160W Max Output",
+    "price": "$169.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/31ptzq7E2JL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9249DK?tag=theofficejournal-20",
+    "description": "The Anker Prime makes sense when the same dock serves a Chromebook and a more power-hungry Windows or Mac laptop: its 160W maximum output is far beyond what a Chromebook needs, but it leaves room for the other machine and connected devices.\n\nIt lists 14 ports, dual 4K display support and 10Gbps data, and its built-in status screen shows connection details, which may help when working out whether a display problem is the dock or the laptop.\n\nFor a Chromebook-only desk it is the most expensive dock here, and most of its power headroom would go unused.",
+    "specs": [
+      "Ports: 14",
+      "Output: 160W max",
+      "Data: 10Gbps",
+      "Displays: dual 4K",
+      "Built-in status display"
     ],
-    pros: [
-      "160W output leaves large headroom for other connected devices",
-      "Real-time status display helps diagnose connection issues",
-      "Dual 4K display support",
-      "Fast 10Gbps data transfer",
+    "pros": [
+      "Power headroom for a larger laptop on the same desk",
+      "Status screen for troubleshooting",
+      "10Gbps data"
     ],
-    cons: [
-      "Most of its 160W power ceiling goes unused by a Chromebook",
-      "Premium price for capability beyond Chromebook needs",
-      "Best value when shared across multiple laptop types",
+    "cons": [
+      "Most expensive dock here",
+      "Power headroom mostly unused by a Chromebook",
+      "Dual display still depends on the host's support"
     ],
-    bestFor: "Households that dock both a Chromebook and a higher-power Windows or Mac laptop on the same unit",
+    "bestFor": "A desk shared by a Chromebook and a higher-power Windows or Mac laptop.",
+    "summary": "A 14-port dock with 160W total output and a status screen, for a desk shared with a bigger laptop.",
+    "skipIf": "Only a Chromebook will use it; the Plugable UD-MSTH2 or 12-in-1 costs less for the same monitor count."
   },
   {
-    id: "anker-8-in-1-85w",
-    rank: 5,
-    badge: "Best Budget Pick",
-    name: "Anker Laptop Docking Station Dual Monitor, 8-in-1 USB C Hub",
-    price: "$53.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/41jaFGKHJgL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0874M3KW4?tag=theofficejournal-20",
-    description:
-      "at a budget-friendly price, this is the most affordable way to add dual HDMI monitor support to a Chromebook setup, and 85W passthrough charging covers even the higher end of typical Chromebook wattage with room to spare. The 8-in-1 layout keeps things simple, HDMI, Ethernet, USB-A, and an SD card reader without an overwhelming port count. Dual monitor output still depends on the Chromebook's own display capability, so budget Chromebooks without DisplayPort Alt Mode won't gain dual-display support just by adding this hub. For buyers whose Chromebook already handles one external display well, this is the cheapest way to try a second. 85W charging comfortably exceeds Chromebook power needs. Set against that, dual display support depends entirely on the Chromebook's own Alt Mode capability. Both matter when comparing it to the other picks here.",
-    specs: [
-      "8-in-1 USB-C hub",
-      "Dual monitor via 2x HDMI",
-      "85W Power Delivery",
-      "1 Gbps Ethernet",
-      "SD card reader",
+    "id": "anker-8-in-1-85w",
+    "rank": 5,
+    "badge": "Best Compact Hub",
+    "name": "Anker Laptop Docking Station Dual Monitor, 8-in-1 USB C Hub",
+    "price": "$53.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/41jaFGKHJgL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0874M3KW4?tag=theofficejournal-20",
+    "description": "The Anker 8-in-1 is the sensible buy for a Chromebook that already drives one external monitor well and mainly needs ports: two HDMI outputs, Gigabit Ethernet, USB-A and an SD card reader in a compact hub.\n\nIt lists 85W passthrough charging, though you supply the USB-C charger yourself. There is no DisplayLink chip, so the second HDMI port only adds a monitor if your Chromebook supports two external displays natively.\n\nThe unbranded 14-in-1 costs a little less at the time of writing and has more ports, but Anker is the more established brand.",
+    "specs": [
+      "Type: 8-in-1 USB-C hub",
+      "Displays: 2x HDMI (host-dependent)",
+      "Charging: 85W passthrough",
+      "Ethernet: 1Gbps",
+      "SD card reader"
     ],
-    pros: [
-      "Lowest price in this list",
-      "85W charging comfortably exceeds Chromebook power needs",
-      "Includes an SD card reader most competitors skip",
-      "Compact 8-in-1 layout",
+    "pros": [
+      "Compact, simple port set",
+      "SD card reader and Ethernet",
+      "85W passthrough"
     ],
-    cons: [
-      "Dual display support depends entirely on the Chromebook's own Alt Mode capability",
-      "No DisplayLink chipset, so it won't add a second display on Alt-Mode-limited Chromebooks",
-      "Charger not included",
+    "cons": [
+      "Second display depends on the Chromebook's native support",
+      "No DisplayLink",
+      "Charger not included"
     ],
-    bestFor: "Budget buyers whose Chromebook already supports one external display and just needs the ports",
+    "bestFor": "A Chromebook with one external monitor that needs Ethernet, USB and an SD reader.",
+    "summary": "An 8-in-1 hub with two HDMI ports, Ethernet, an SD reader and 85W passthrough.",
+    "skipIf": "You need a second monitor on a Chromebook limited to one; the Plugable 12-in-1 is the better fit."
   },
   {
-    id: "generic-14-in-1-100w-usb-c",
-    rank: 6,
-    badge: "Best Port Selection",
-    name: "USB C Laptop Docking Station Dual Monitor HDMI, 14-in-1 USB C Hub",
-    price: "$44.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/5190VfU0ZEL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D2BW24HM?tag=theofficejournal-20",
-    description:
-      "This 14-in-1 hub packs dual HDMI, DisplayPort, Ethernet, four USB-A ports, two USB-C ports, SD/TF card slots, and audio into one compact unit at the lowest price in this list. It's built around the assumption that the connected laptop already supports the display and charging capability the ports expose, which is exactly the caveat a Chromebook buyer needs to understand before purchasing.\n\n100W PD passthrough charging is more than any Chromebook draws, and the SD/TF reader adds real value for anyone moving photos or files off external media. Just confirm your specific Chromebook model supports Alt Mode video output before expecting the dual-HDMI ports to both drive a display.\n\nThe standout detail is that 100W PD passthrough exceeds Chromebook charging needs. Balancing that out, no DisplayLink chipset, dual display depends on the Chromebook's native Alt Mode support.",
-    specs: [
-      "14-in-1 USB-C hub",
-      "Dual HDMI + DisplayPort",
-      "100W PD passthrough",
-      "4x USB-A + 2x USB-C",
-      "SD/TF card reader + audio",
+    "id": "generic-14-in-1-100w-usb-c",
+    "rank": 6,
+    "badge": "Best Budget Port Count",
+    "name": "USB C Laptop Docking Station Dual Monitor HDMI, 14-in-1 USB C Hub",
+    "price": "$44.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/5190VfU0ZEL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2BW24HM?tag=theofficejournal-20",
+    "description": "The unbranded 14-in-1 is the lowest-priced dock here at the time of writing and has the most ports for the money: dual HDMI and DisplayPort, four USB-A, two USB-C, Ethernet, SD/TF slots and audio.\n\nIt lists 100W passthrough charging. Like the Anker hub, it has no DisplayLink chip, so its video outputs only work up to what your Chromebook supports natively.\n\nThe trade-off is brand: it is a generic unit with less documentation than Anker or Plugable, so ChromeOS-specific support information is thin.",
+    "specs": [
+      "Type: 14-in-1 USB-C hub",
+      "Displays: 2x HDMI + DisplayPort (host-dependent)",
+      "Charging: 100W passthrough",
+      "USB: 4x USB-A + 2x USB-C",
+      "SD/TF reader, audio"
     ],
-    pros: [
-      "Lowest price relative to port count in this list",
-      "100W PD passthrough exceeds Chromebook charging needs",
-      "SD/TF reader plus audio jack in one hub",
-      "Compact and portable",
+    "pros": [
+      "Lowest price in this guide",
+      "Most ports for the money",
+      "SD/TF reader and audio jack"
     ],
-    cons: [
-      "No DisplayLink chipset, dual display depends on the Chromebook's native Alt Mode support",
-      "Generic branding with a shorter track record than Anker or Plugable",
-      "Video output ports may go partially unused on budget Chromebook models",
+    "cons": [
+      "No DisplayLink; extra outputs depend on the Chromebook",
+      "Generic brand with limited documentation",
+      "Some video outputs may go unused"
     ],
-    bestFor: "Buyers who want the most ports for the price and already know their Chromebook's display limits",
+    "bestFor": "A budget Chromebook desk that needs many ports and knows its display limits.",
+    "summary": "The lowest price here, with 14 ports including dual HDMI, DisplayPort and SD/TF.",
+    "skipIf": "You want clear ChromeOS support documentation; the Plugable docks are the better fit."
   },
   {
-    id: "selore-triple-4k-smart-display",
-    rank: 7,
-    badge: "Best for Triple Display (Thunderbolt Chromebooks)",
-    name: "Selore Laptop Docking Station 3 Monitors, Triple 4K Display",
-    price: "$69.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/41iZIRUZlQL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GKP61LKH?tag=theofficejournal-20",
-    description:
-      "Triple 4K display output across 3 HDMI and 2 DP ports makes this dock capable of far more than a standard USB-C Chromebook can drive on its own, so its real value shows up on Thunderbolt Chromebooks or when connected to a secondary Windows or Mac machine. A built-in smart display shows weather and connection status, a small but genuinely useful touch for a shared desk.\n\n100W PD and Gigabit Ethernet round out the spec sheet, and the SD/microSD reader is handy for anyone regularly offloading photos. Standard Alt Mode Chromebooks will only realize a fraction of this dock's display capability, so match expectations to your laptop's actual display output spec before buying for triple-monitor use.\n\nBuilt-in smart display for status at a glance. That's a real strength, but weigh it against the flip side: triple-display capability requires a Thunderbolt Chromebook or non-Chromebook host to fully use.",
-    specs: [
-      "Triple 4K display (3 HDMI, 2 DP)",
-      "100W Power Delivery",
-      "10Gbps USB A/C",
-      "Gigabit Ethernet",
-      "SD/microSD reader + smart display",
+    "id": "selore-triple-4k-smart-display",
+    "rank": 7,
+    "badge": "Best for Mixed Hosts With Three Screens",
+    "name": "Selore Laptop Docking Station 3 Monitors, Triple 4K Display",
+    "price": "$69.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/41iZIRUZlQL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKP61LKH?tag=theofficejournal-20",
+    "description": "The Selore dock is worth considering when a Chromebook shares the desk with a laptop that can use its triple-display output: it lists three HDMI and two DisplayPort ports, 100W PD, Gigabit Ethernet and 10Gbps USB-A and USB-C.\n\nOn a Chromebook, the number of screens you get depends on what the laptop supports natively, so on many models some of those outputs will go unused; the listing does not say it uses DisplayLink. The previous version of this guide tied its triple-display use to Thunderbolt Chromebooks, but the listing describes a USB-C dock, so check the maker's compatibility notes.\n\nIts built-in display shows weather and connection status, and it adds an SD/microSD reader.",
+    "specs": [
+      "Displays: 3x HDMI + 2x DP (triple 4K listed)",
+      "Charging: 100W PD",
+      "USB: 10Gbps USB-A/C",
+      "Ethernet: Gigabit",
+      "SD/microSD reader, info display"
     ],
-    pros: [
-      "Triple 4K display capability, the highest ceiling in this list",
-      "Built-in smart display for status at a glance",
-      "100W PD well above Chromebook charging needs",
-      "Includes SD/microSD card reader",
+    "pros": [
+      "Most video outputs here",
+      "SD/microSD reader",
+      "Costs less than the MOKiN"
     ],
-    cons: [
-      "Triple-display capability requires a Thunderbolt Chromebook or non-Chromebook host to fully use",
-      "Standard USB-C Chromebooks will only drive a fraction of its display outputs",
-      "Larger footprint than the compact budget hubs",
+    "cons": [
+      "Triple display depends on the host laptop",
+      "Chromebooks may use only some outputs",
+      "Larger footprint than the hubs"
     ],
-    bestFor: "Owners of Thunderbolt Chromebooks or mixed-device desks who want triple-monitor headroom",
+    "bestFor": "A shared desk where a Windows or Mac laptop also needs three monitors.",
+    "summary": "Five video outputs, 100W PD and a small info display, for desks that also host a Windows laptop.",
+    "skipIf": "The dock will only serve a Chromebook; the Plugable 12-in-1 or UD-MSTH2 is the better fit."
   },
   {
-    id: "mokin-triple-4k-smart-display",
-    rank: 8,
-    badge: "Best Alternative Triple Display",
-    name: "MOKiN USB C Docking Station 3 Monitors, Triple Display",
-    price: "$79.99",
-    rating: "New listing",
-    reviews: "Not yet rated",
-    imageUrl: "https://m.media-amazon.com/images/I/41VyJOXfkbL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0H2YRP5FS?tag=theofficejournal-20",
-    description:
-      "MOKiN's triple-display dock mirrors the Selore pick's capability closely, 3 HDMI and 2 DP ports, 100W PD, Gigabit Ethernet, and a built-in smart display, giving buyers a close alternative if one is out of stock. Its 10Gbps USB A/C ports and SD/TF reader match the same feature set at a slightly higher price.\n\nAs with the Selore pick, the triple-monitor ceiling only fully applies to Thunderbolt Chromebooks or non-Chromebook hosts; a standard USB-C Alt Mode Chromebook won't unlock every port's display potential. It's a reasonable second option for buyers comparing triple-display docks side by side.\n\nSmart display shows connection status at a glance. On the other hand, slightly pricier than the comparable Selore pick. Both are worth keeping in mind before deciding.",
-    specs: [
-      "Triple display (3 HDMI, 2 DP)",
-      "100W Power Delivery",
-      "10Gbps USB A/C",
-      "Gigabit Ethernet",
-      "SD/TF reader + smart display",
+    "id": "mokin-triple-4k-smart-display",
+    "rank": 8,
+    "badge": "Alternative Triple-Output Dock",
+    "name": "MOKiN USB C Docking Station 3 Monitors, Triple Display",
+    "price": "$79.99",
+    "rating": "New listing",
+    "reviews": "Not yet rated",
+    "imageUrl": "https://m.media-amazon.com/images/I/41VyJOXfkbL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2YRP5FS?tag=theofficejournal-20",
+    "description": "The MOKiN is here as a close alternative to the Selore rather than a distinct pick: it lists the same three HDMI and two DisplayPort outputs, 100W PD, Gigabit Ethernet, 10Gbps USB-A and USB-C, an SD/TF reader and a built-in status display.\n\nIt costs slightly more at the time of writing, and MOKiN lists Mac, Dell and HP compatibility. The same caution applies on a Chromebook: the number of monitors you get depends on the laptop, not the port count.\n\nBuy it if the Selore is unavailable or you prefer its listed compatibility notes.",
+    "specs": [
+      "Displays: 3x HDMI + 2x DP",
+      "Charging: 100W PD",
+      "USB: 10Gbps USB-A/C",
+      "Ethernet: Gigabit",
+      "SD/TF reader, status display"
     ],
-    pros: [
-      "Near-identical spec sheet to the top triple-display pick",
-      "Smart display shows connection status at a glance",
-      "100W PD covers any Chromebook's charging needs with room to spare",
-      "Broad Mac/Dell/HP compatibility listed",
+    "pros": [
+      "Near-identical feature set to the Selore",
+      "Mac, Dell and HP compatibility listed",
+      "Status display"
     ],
-    cons: [
-      "Slightly pricier than the comparable Selore pick",
-      "Same Alt Mode ceiling applies on standard Chromebooks",
-      "Smaller brand footprint than Anker or Plugable",
+    "cons": [
+      "Costs more than the Selore",
+      "Triple display depends on the host laptop",
+      "Largely redundant with the Selore"
     ],
-    bestFor: "Buyers comparing triple-display dock options who want a close alternative to the top pick",
-  },
-];
-
-export interface HowWeEvaluatedItem {
-  title: string;
-  description: string;
-}
-
-export const howWeEvaluated: HowWeEvaluatedItem[] = [
-  {
-    title: "Chrome OS display compatibility",
-    description: "Checked whether dual or triple display claims depend on native USB-C Alt Mode, DisplayLink, or Thunderbolt, since Chrome OS handles each path very differently.",
-  },
-  {
-    title: "DisplayLink for ChromeOS support",
-    description: "Confirmed which docks rely on a DisplayLink chipset that requires installing the DisplayLink for ChromeOS extension to unlock a second monitor.",
-  },
-  {
-    title: "Charging wattage fit",
-    description: "Compared each dock's PD output against the 45-65W range most Chromebooks actually charge at, flagging where extra wattage is unused headroom rather than a real benefit.",
-  },
-  {
-    title: "Port layout for shared and classroom use",
-    description: "Weighed Ethernet, USB-A/C count, and card readers against typical Chromebook use cases like classrooms, shared desks, and lightweight productivity work.",
-  },
-  {
-    title: "Value relative to Chromebook needs",
-    description: "Scored whether a dock's premium features, like 160W output or triple 4K display, actually translate into a benefit for a Chromebook host rather than capability that goes unused.",
-  },
-];
-
-export const buyingCriteria: BuyingCriterion[] = [
-  {
-    "criterion": "Check the real power delivery wattage, not just \"PD\" in the listing",
-    "explanation": "Power delivery (PD) wattage determines whether a dock can actually charge your laptop while it's connected, not just pass a trickle of power through, and this number varies widely, from 60W barely-adequate figures up to 100W or higher business-tier docks.\n\nThis matters because a dock rated below what your laptop actually needs to charge under load, especially a larger laptop or one running demanding tasks while docked, will slowly drain the battery even while \"charging\", a frustrating and easy-to-miss problem.\n\nCheck the listing for the specific PD wattage number, and compare it against your laptop's actual charging brick wattage, not just whether the listing mentions power delivery at all."
-  },
-  {
-    "criterion": "Verify actual display support against your specific laptop and GPU, not just port count",
-    "explanation": "A dock listing multiple HDMI or DisplayPort outputs doesn't guarantee your laptop can actually drive all of them at full resolution and refresh rate simultaneously, that capability depends on your laptop's specific GPU and USB-C controller, which some docks work around using DisplayLink technology and others don't.\n\nThis distinction matters a lot if you're building a dual or triple monitor setup, since a laptop that can't natively drive multiple external displays will show a blank or mirrored screen on a non-DisplayLink dock's extra port, regardless of how many ports the dock has.\n\nCheck whether the dock uses native DisplayPort Alt Mode or DisplayLink chip technology, and separately verify your specific laptop model's documented maximum number of external displays before assuming any multi-port dock will drive them all."
-  },
-  {
-    "criterion": "Match data transfer speeds and Ethernet to what you actually move and how",
-    "explanation": "USB data ports on a dock range widely in real transfer speed, from basic 480Mbps USB 2.0 speeds up to 10Gbps or higher, a gap that matters enormously if you regularly move large files to and from external drives, but barely matters if you're just charging a mouse and keyboard.\n\nEthernet port speed follows the same logic, a dock's Gigabit or 2.5Gb Ethernet port is only as fast as your actual home or office network infrastructure supports, so paying for 2.5Gb Ethernet on a network that tops out at Gigabit gains nothing.\n\nCheck the specific listed speed for each port type you'll actually use regularly, and compare Ethernet speed against your router's actual rated speed, not just the dock's spec sheet in isolation."
-  },
-  {
-    "criterion": "Confirm compatibility with your specific laptop's USB-C or Thunderbolt port",
-    "explanation": "Not every USB-C port supports the same features, some laptops only support USB-C data and charging without any video output over that port at all, while others support full Thunderbolt with much higher bandwidth for multiple 4K displays.\n\nDocks built around Thunderbolt certification generally support more demanding multi-display and high-speed configurations, but require a genuinely Thunderbolt-capable port on your laptop to unlock that performance, plugging a Thunderbolt dock into a USB-C-only port still works but loses the extra bandwidth.\n\nCheck your specific laptop's documented port capabilities (Thunderbolt 3, Thunderbolt 4, or USB-C without Thunderbolt), not just that it has a USB-C-shaped port, before assuming any docking station will unlock its full advertised capability."
-  },
-  {
-    "criterion": "Consider heat and long-term reliability under sustained daily use",
-    "explanation": "A docking station that stays plugged in and under load for 8+ hours a day handles thermal stress very differently than a hub used occasionally for a quick file transfer, and a compact plastic-bodied dock with no real heat dissipation can throttle performance or degrade faster under that kind of sustained daily use than an aluminum-bodied one.\n\nThis matters more for anyone using the dock as their primary daily workstation setup than for occasional or travel use.\n\nCheck reviews specifically for mentions of the dock running hot, disconnecting intermittently after extended use, or degrading over months, rather than relying on the unboxing-day performance most reviews describe."
+    "bestFor": "Anyone who wants the Selore's layout when the Selore is unavailable.",
+    "summary": "A near match for the Selore's specifications at a slightly higher price.",
+    "skipIf": "The Selore is in stock at a lower price; it covers the same job."
   }
 ];
 
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
+export const howWeEvaluated = [
+  {
+    "title": "Display method",
+    "description": "We noted whether each dock relies on the laptop's native output or on DisplayLink, and what that means for a Chromebook."
+  },
+  {
+    "title": "ChromeOS listing",
+    "description": "We checked whether each maker lists ChromeOS support or Chromebook certification."
+  },
+  {
+    "title": "Charging",
+    "description": "We compared power delivery ratings against typical Chromebook chargers, treating extra wattage as headroom rather than a benefit in itself."
+  },
+  {
+    "title": "Ports and price",
+    "description": "We compared Ethernet, USB, card readers and price position at the time of writing."
+  }
+];
+
+export const buyingCriteria = [
+  {
+    "criterion": "Check how many displays your Chromebook supports",
+    "explanation": "Your Chromebook maker's documentation sets the ceiling for docks that use native USB-C video. A dock with more outputs cannot exceed it unless it uses DisplayLink."
+  },
+  {
+    "criterion": "Know whether the dock uses DisplayLink",
+    "explanation": "DisplayLink docks can add screens beyond the native limit but need the DisplayLink extension on ChromeOS. Native-output docks need no software but depend entirely on the laptop."
+  },
+  {
+    "criterion": "Match charging wattage to your charger",
+    "explanation": "Compare the dock's power delivery rating with your Chromebook's charger. Higher wattage than the laptop needs is harmless but mainly helps if a larger laptop shares the dock."
+  },
+  {
+    "criterion": "Look for ChromeOS in the compatibility list",
+    "explanation": "A Chromebook-certified or ChromeOS-listed dock carries less guesswork than a generic hub. Check the maker's notes for your specific model."
+  }
+];
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
+    "subheading": "By situation",
     "table": {
       "headers": [
-        "Your priority",
-        "Recommended pick"
+        "Situation",
+        "Consider"
       ],
       "rows": [
         [
-          "Highest average rating",
-          "Plugable 12"
+          "Two monitors on a Chromebook limited to one",
+          "Plugable 12-in-1 (DisplayLink)"
         ],
         [
-          "Largest review base, strongest reliability signal",
-          "Plugable 12"
+          "Two 4K monitors, Chromebook supports them natively",
+          "Plugable UD-MSTH2"
+        ],
+        [
+          "Three 1080p-class screens",
+          "Plugable Triple Display"
+        ],
+        [
+          "One monitor plus ports",
+          "Anker 8-in-1 or the unbranded 14-in-1"
+        ],
+        [
+          "Shared with a larger laptop",
+          "Anker Prime 14-port"
+        ],
+        [
+          "Shared with a laptop needing three screens",
+          "Selore or MOKiN"
         ]
       ]
     }
   },
   {
-    "subheading": "By Budget",
+    "subheading": "By price at the time of writing",
+    "intro": "Prices change frequently; these tiers reflect typical prices when this guide was updated.",
     "table": {
       "headers": [
-        "Budget",
-        "Recommended pick"
+        "Price tier",
+        "Docks"
       ],
       "rows": [
         [
-          "Under $45",
-          "USB C Laptop Docking Station Dual Monitor HDMI"
+          "About $45–$55",
+          "Unbranded 14-in-1, Anker 8-in-1"
         ],
         [
-          "Up to $170",
-          "Anker Prime Docking Station"
+          "About $70–$80",
+          "Selore, MOKiN"
+        ],
+        [
+          "About $120–$170",
+          "Plugable UD-MSTH2, Plugable 12-in-1, Plugable Triple Display, Anker Prime"
         ]
       ]
     }
-  },
-  {
-    "subheading": "Thunderbolt vs USB-C Only",
-    "cards": [
-      {
-        "label": "Thunderbolt-certified",
-        "text": "Higher bandwidth for demanding multi-display and high-speed data setups, but requires a genuinely Thunderbolt-capable laptop port. In this comparison: Plugable USB, Plugable USB, Selore Laptop Docking Station 3 Monitors, MOKiN USB C Docking Station 3 Monitors."
-      },
-      {
-        "label": "USB-C only",
-        "text": "Usually cheaper and works with any USB-C laptop, but with less headroom for multiple high-resolution displays. In this comparison: Plugable 12, Anker Prime Docking Station, Anker Laptop Docking Station Dual Monitor, USB C Laptop Docking Station Dual Monitor HDMI."
-      }
-    ],
-    "note": "Default to USB-C only unless your laptop has a genuine Thunderbolt port and you need the extra display or data bandwidth."
-  },
-  {
-    "subheading": "By Ethernet Support",
-    "table": {
-      "headers": [
-        "Your priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Wired Ethernet needed",
-          "Plugable 12"
-        ],
-        [
-          "Wi-Fi only is fine",
-          "Plugable USB"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For a Dual or Triple Monitor Setup Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "Native DisplayPort Alt Mode or DisplayLink chip technology, verified against your specific laptop's documented maximum external display count."
-      },
-      {
-        "label": "In this comparison",
-        "text": "Plugable 12 is worth checking against its listed display support before buying, given its strong review base."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need reliable multi-display support and full-speed charging under daily sustained use, where Anker Prime Docking Station's higher price buys real headroom over the cheaper picks."
-      },
-      {
-        "label": "Save if",
-        "text": "You only need occasional charging and a single extra port, where USB C Laptop Docking Station Dual Monitor HDMI covers the same job at a lower price."
-      }
-    ]
   }
 ];
 
-export const faq: FaqItem[] = [
+export const faq = [
   {
-    q: "Can any USB-C dock give my Chromebook a second monitor?",
-    a: "No. Most Chromebooks support only one external display natively through USB-C DisplayPort Alt Mode. Adding a second monitor reliably requires a dock built around a DisplayLink chipset, like the Plugable 12-in-1 Chromebook Certified pick, plus installing the DisplayLink for ChromeOS extension from the Chrome Web Store.",
+    "q": "Can any USB-C dock give my Chromebook a second monitor?",
+    "a": "Only if the Chromebook supports two external displays natively, or the dock uses DisplayLink. Check your model's documentation first."
   },
   {
-    q: "Do Chromebooks need a 100W or higher power delivery dock?",
-    a: "No. Most Chromebooks charge at 45-65W maximum, so a 60-65W dock like the Plugable 12-in-1 or the Plugable UD-MSTH2 already covers real charging needs. Higher-wattage docks aren't harmful, but that extra capacity mainly benefits a household also docking a higher-power Windows or Mac laptop on the same unit.",
+    "q": "What is the DisplayLink extension for ChromeOS?",
+    "a": "DisplayLink docks drive extra monitors through software. On a Chromebook, you install the DisplayLink extension so ChromeOS can use those outputs. The Plugable 12-in-1 in this guide uses DisplayLink."
   },
   {
-    q: "Why do Android apps look wrong on my external monitor when docked?",
-    a: "This is a known Chrome OS behavior, not a dock issue. When a Chromebook in tablet or tent mode connects to an external display, Android apps running through the Play Store layer can fail to resize correctly for the larger screen. Switching the Chromebook to standard clamshell mode before docking usually fixes it.",
+    "q": "Does a Chromebook need a 100W dock?",
+    "a": "Not usually. Compare the dock's rating with your Chromebook's charger. Higher-wattage docks do no harm, but the extra capacity mainly helps if a larger laptop shares the dock."
   },
   {
-    q: "Does a Thunderbolt-rated dock work better on any Chromebook?",
-    a: "Only on Chromebooks that actually have a Thunderbolt 4 port, a small but growing category of premium models. On a standard USB-C Alt Mode Chromebook, a Thunderbolt dock still works but is limited to Alt Mode speeds and display output, so its extra bandwidth goes unused.",
+    "q": "Why do Android apps look wrong on an external monitor?",
+    "a": "Android apps on ChromeOS do not always resize well when the display changes. Using the Chromebook in laptop mode and reopening the app after connecting the monitor may help; it is not usually a dock fault."
   },
   {
-    q: "Why does my webcam cut out during a video call on a docked Chromebook?",
-    a: "Chrome OS allocates USB bandwidth for webcams and microphones differently than Windows does, and running a webcam through the same hub layer that's driving an external display via DisplayLink can create bandwidth contention. Plugging the webcam into a direct USB-A port on the dock rather than a shared USB-C hub port typically resolves the dropout.",
-  },
-  {
-    q: "Is a Chromebook-certified dock worth paying more for?",
-    a: "If dual external displays or classroom-scale reliability matter, yes. The Plugable 12-in-1 is the only pick in this list explicitly Chromebook certified, meaning its DisplayLink implementation and charging behavior have been verified against Chrome OS specifically rather than assumed compatible because it lists ChromeOS support generically.",
-  },
+    "q": "Is a Chromebook-certified dock worth paying more for?",
+    "a": "If you need a second monitor or run several Chromebooks in a shared setting, certification removes some guesswork. For one monitor and a few ports, a cheaper hub is often enough."
+  }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [
-  { href: "/guide/best-thunderbolt-4-docking-stations", title: "8 Best Thunderbolt 4 Docking Stations (2026)" },
-  { href: "/guide/best-usb-c-docking-stations", title: "Best USB-C Docking Stations (2026)" },
-  { href: "/guide/best-budget-docking-stations-under-100", title: "8 Best Budget Docking Stations Under $100 (2026)" },
+export const bottomLine = [
+  "Start with your Chromebook's documented external-display limit. If it supports only one and you want two, the Plugable 12-in-1 is the clearest choice here because it uses DisplayLink and is listed as Chromebook certified. If your laptop already supports two, the Plugable UD-MSTH2 avoids the extension step.",
+  "For one monitor and more ports, the Anker 8-in-1 or the unbranded 14-in-1 covers the job for much less. The Anker Prime, Selore and MOKiN make more sense on desks shared with a Windows or Mac laptop that can use their extra power or outputs."
+];
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-thunderbolt-4-docking-stations",
+    "title": "8 Best Thunderbolt 4 Docking Stations (2026)"
+  },
+  {
+    "href": "/guide/best-usb-c-docking-stations",
+    "title": "Best USB-C Docking Stations (2026)"
+  },
+  {
+    "href": "/guide/best-budget-docking-stations-under-100",
+    "title": "8 Best Budget Docking Stations Under $100 (2026)"
+  }
 ];

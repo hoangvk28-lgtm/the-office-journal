@@ -1,234 +1,6 @@
-export const guideSlug = "best-drafting-chairs-under-100";
-export const guideTitle = "5 Best Drafting Chairs Under $100 in 2026";
-export const metaTitle = "Best Drafting Chairs Under $100 in 2026";
-export const metaDescription = "We compared best drafting chairs under $100 by verified current price and real capability, not just the price ceiling alone.";
-export const mainKeyword = "drafting chairs under $100";
-export const introParagraphs = [
-  "Best Drafting Chairs Under $100 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
-  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
-];
-export const lastUpdated = "2026-08-22";
-export const readTime = "10 min";
-export const heroImage = "https://m.media-amazon.com/images/I/31uA1B1K8HL._SL500_.jpg";
-
-export interface GuideProduct {
-  id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
-  imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-}
-
-export const products: GuideProduct[] = [
-  {
-    id: "best-drafting-chairs-under-100-1",
-    rank: 1,
-    badge: "Best Overall",
-    name: "SUPERJARE Drafting Chair with Backrest",
-    price: "$74.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31uA1B1K8HL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08YCY8JWY?tag=theofficejournal-20",
-    description: "SUPERJARE Drafting Chair with Backrest is the top pick in this comparison. 360° swivel & adjustable height for counters: equipped with a premium hydraulic gas lift offering a 8.6\" height stroke and a 360-degree rotating seat. Comes with a detachable backrest and an adjustable circular metal footrest.\n\nAgainst SUPERJARE Drafting Chair with Backrest (360° swivel & adjustable), the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: &300 lbs weight capacity: built with a reinforced chrome metal base and industrial-grade casters.\n\nThis fits best if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["360° swivel & adjustable height for counters: equipped with a", "Comes with a detachable backrest and an adjustable circular metal", "300 lbs weight capacity: built with a reinforced chrome metal"],
-    pros: ["360° swivel & adjustable height for counters: equipped with a premium", "Detachable backrest and an adjustable circular metal footrest", "300 lbs weight capacity: built with a reinforced chrome metal base"],
-    cons: ["Verify exact fit and specs against your device before buying", "Compatibility varies by exact model, double-check before ordering"],
-    bestFor: "buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around",
-  },
-  {
-    id: "best-drafting-chairs-under-100-2",
-    rank: 2,
-    badge: "Also Worth Considering",
-    name: "SUPERJARE Drafting Chair with Backrest (360° swivel & adjustable)",
-    price: "$74.97",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31LELeF-qfL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B082F6Z98J?tag=theofficejournal-20",
-    description: "SUPERJARE Drafting Chair with Backrest (360° swivel & adjustable) is a strong alternative worth comparing directly against the top pick. 360° swivel & adjustable height for counters: equipped with a premium hydraulic gas lift offering a 8.6\" height stroke and a 360-degree rotating seat. Comes with a detachable backrest and an adjustable circular metal footrest.\n\nCompared with SUPERJARE Drafting Chair with Backrest, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: & 300 lbs weight capacity: built with a reinforced chrome metal base and industrial-grade casters.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["360° swivel & adjustable height for counters: equipped with a", "Comes with a detachable backrest and an adjustable circular metal", "300 lbs weight capacity: built with a reinforced chrome metal"],
-    pros: ["360° swivel & adjustable height for counters: equipped with a premium", "Detachable backrest and an adjustable circular metal footrest", "300 lbs weight capacity: built with a reinforced chrome metal base"],
-    cons: ["Confirm this stays in stock at the price checked here", "Setup or mounting hardware may be sold separately"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-drafting-chairs-under-100-3",
-    rank: 3,
-    badge: "Solid Alternative",
-    name: "Brick Attic Drafting Chair with Backrest,  Adjustable Foot Rest Rolling Stool",
-    price: "$79.99",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31NElNtvUXL._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0D8KX7LB6?tag=theofficejournal-20",
-    description: "Brick Attic Drafting Chair with Backrest,  Adjustable Foot Rest Rolling Stool is a strong alternative worth comparing directly against the top pick. 15.8-inch cushion, more suitable for the comfortable size of most people; 23.6-inch five-star casters drafting chair, less prone to tipping over and more stable. Adjustable height and footrest ring: the height of the rolling chair can be adjusted from 33.86 inches to 41.75 inches, making it suitable for users of varying heights.\n\nAgainst SUPERJARE Drafting Chair with Backrest, the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: the pu leather backrest of this standing chair can be removed as needed.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["15.8-inch cushion, more suitable for the comfortable size of most", "Adjustable height and footrest ring: the height of the rolling", "The pu leather backrest of this standing chair can be removed as"],
-    pros: ["15.8-inch cushion, more suitable for the comfortable size of most people;", "Adjustable height and footrest ring: the height of the rolling chair", "Pu leather backrest of this standing chair can be removed as needed"],
-    cons: ["Manufacturer claims here aren't independently lab-verified", "Budget tier means fewer premium finish options"],
-    bestFor: "buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly",
-  },
-  {
-    id: "best-drafting-chairs-under-100-4",
-    rank: 4,
-    badge: "Best Value",
-    name: "BestOffice | Tall Drafting Chair | Black | with Lumbar Support",
-    price: "$61.98",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/31CkDHb+PML._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B08B87QY7C?tag=theofficejournal-20",
-    description: "BestOffice | Tall Drafting Chair | Black | with Lumbar Support is the most affordable pick here that still clears the capability floor for this price tier. Drafting chair comes with all hardware & necessary tools. New mid back drafting chair designed with human-oriented ergonomic construction that lasts long and thickly cushioned for maximum comfort.\n\nSet it next to SUPERJARE Drafting Chair with Backrest and the two are closely matched on the fundamentals, so the real decision comes down to a specific detail rather than a big capability gap: ergonomic drafting chair covered by breathable mesh and mid back lumbar support protecting your spinal.\n\nChoose this if you want to stay at the lower end of this price tier without dropping below the real capability floor. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["Drafting chair comes with all hardware & necessary tools", "New mid back drafting chair designed with human-oriented", "Ergonomic drafting chair covered by breathable mesh and mid back"],
-    pros: ["Drafting chair comes with all hardware & necessary tools", "New mid back drafting chair designed with human-oriented ergonomic construction that", "Ergonomic drafting chair covered by breathable mesh and mid back lumbar"],
-    cons: ["Compatibility varies by exact model, double-check before ordering", "Verify exact fit and specs against your device before buying"],
-    bestFor: "buyers who want to stay at the lower end of this price tier without dropping below the real capability floor",
-  },
-  {
-    id: "best-drafting-chairs-under-100-5",
-    rank: 5,
-    badge: "Best Premium Pick",
-    name: "Marsail Drafting Chair",
-    price: "$98.94",
-    rating: null,
-    reviews: null,
-    imageUrl: "https://m.media-amazon.com/images/I/51QWWjPKw7L._SL500_.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B0GJ9GJNWR?tag=theofficejournal-20",
-    description: "Marsail Drafting Chair is the priciest pick in this lineup. This drafting chair boasts a maximum seat height of 30.7” with an 7.9” adjustable range, so it suits a variety of users. This drafting chair features a 3.15” thick high-quality foam seat, delivering exceptional comfort during extended work sessions.\n\nIt sits close to SUPERJARE Drafting Chair with Backrest on paper, so the real decision comes down to a specific detail rather than a big capability gap: designed for maximum comfort, this tall office chair has a adjustable 2d lumbar support helping promote better posture and circulation.\n\nThis fits best if you are willing to spend the most in this tier for the fuller feature set that comes with it. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
-    specs: ["This drafting chair boasts a maximum seat height of 30.7” with an", "This drafting chair features a 3.15” thick high-quality foam seat", "Designed for maximum comfort"],
-    pros: ["Drafting chair boasts a maximum seat height of 30.7” with", "Drafting chair features a 3.15” thick high-quality foam seat, delivering exceptional", "Designed for maximum comfort, this tall office chair has a adjustable"],
-    cons: ["Setup or mounting hardware may be sold separately", "Confirm this stays in stock at the price checked here"],
-    bestFor: "buyers who are willing to spend the most in this tier for the fuller feature set that comes with it",
-  }
-];
-
-export const howWeEvaluated = [
-  {
-    "title": "Live price gate",
-    "description": "every pick must be new, in stock and up to $100 on the update date; expired sale pricing removes it from the qualifying set."
-  },
-  {
-    "title": "Budget-ladder context",
-    "description": "show the previous tier, budget drafting chair tier and next-higher tier so readers see the real capability step instead of duplicate lists."
-  },
-  {
-    "title": "Capability-per-dollar score",
-    "description": "normalize loaded seat-height range, foot-ring usability and required accessory/setup cost against price."
-  },
-  {
-    "title": "Evidence split",
-    "description": "label seat/back ergonomics and cylinder/base stability as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
-  },
-  {
-    "title": "Ownership/step-up verdict",
-    "description": "judge desk-height/arm clearance, warranty, software/parts/support and whether the reader should spend less or move above $100 for a meaningful upgrade."
-  }
-];
-
-export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
-  table?: { headers: string[]; rows: string[][] };
-  cards?: { label: string; text: string }[];
-  note?: string;
-}
-
-export const howToChoose: HowToChooseSection[] = [
-  {
-    "subheading": "By Priority Up to $100",
-    "table": {
-      "headers": [
-        "If you mainly need",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "The best all-around option in this comparison",
-          "SUPERJARE Drafting Chair with Backrest"
-        ],
-        [
-          "A strong alternative with a different tradeoff",
-          "Brick Attic Drafting Chair with Backrest,  Adjustable Foot Rest Rolling Stool"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget Within This Tier",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Lowest price in this lineup",
-          "BestOffice | Tall Drafting Chair | Black | with Lumbar Support"
-        ],
-        [
-          "Best overall value",
-          "SUPERJARE Drafting Chair with Backrest"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "SUPERJARE Drafting Chair vs Marsail Drafting Chair",
-    "cards": [
-      {
-        "label": "SUPERJARE Drafting Chair with Backrest",
-        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
-      },
-      {
-        "label": "Marsail Drafting Chair",
-        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
-      }
-    ],
-    "note": "Most buyers should default to SUPERJARE Drafting Chair with Backrest unless your specific use case points toward Marsail Drafting Chair's particular tradeoffs."
-  },
-  {
-    "subheading": "By Secondary Feature Priority",
-    "table": {
-      "headers": [
-        "Priority",
-        "Recommended pick"
-      ],
-      "rows": [
-        [
-          "Matches this guide's core use case most closely",
-          "SUPERJARE Drafting Chair with Backrest"
-        ],
-        [
-          "A close secondary option worth comparing",
-          "Brick Attic Drafting Chair with Backrest,  Adjustable Foot Rest Rolling Stool"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "For This Guide's Core Use Case Specifically",
-    "cards": [
-      {
-        "label": "Look for",
-        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
-      },
-      {
-        "label": "In this comparison",
-        "text": "SUPERJARE Drafting Chair with Backrest is worth checking first against that specific requirement before comparing the rest of this lineup."
-      }
-    ]
-  },
-  {
-    "subheading": "When to Spend More",
-    "cards": [
-      {
-        "label": "Spend more if",
-        "text": "You need the fuller feature set found on Marsail Drafting Chair, where the extra capability has a real, verifiable use case for you."
-      },
-      {
-        "label": "Save if",
-        "text": "Your requirements are covered by BestOffice | Tall Drafting Chair | Black | with Lumbar Support without needing the higher-tier features."
-      }
-    ]
-  }
-];
+// Light editorial pass for The Office Journal (scripts/editorial/light.ts).
+// Commerce fields are carried over unchanged.
+import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGuidePage";
 
 export const buyingCriteria = [
   {
@@ -260,7 +32,7 @@ export const faq = [
   },
   {
     "q": "Does the cheapest option in a price tier always mean lower quality?",
-    "a": "Not necessarily. Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
+    "a": "Within a defined price ceiling, the cheapest qualifying pick can still meet the core capability floor for that tier; the real question is whether it meets your specific requirements, not just the price ceiling."
   },
   {
     "q": "Is it worth stepping up to the next price tier?",
@@ -276,4 +48,301 @@ export const faq = [
   }
 ];
 
-export const relatedGuides: { href: string; title: string }[] = [{"href":"/guide/best-drafting-chairs-under-50","title":"Best Drafting Chairs Under $50"},{"href":"/guide/best-drafting-chairs-under-150","title":"Best Drafting Chairs Under $150"},{"href":"/guide/best-drafting-chairs-under-200","title":"Best Drafting Chairs Under $200"}];
+export const guideSlug = "best-drafting-chairs-under-100";
+
+export const guideTitle = "The Best Drafting Chairs Under $100, Compared";
+
+export const heroImage = "https://m.media-amazon.com/images/I/31uA1B1K8HL._SL500_.jpg";
+
+export const howToChoose: HowToChooseSection[] = [
+  {
+    "subheading": "By Priority Up to $100",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "The best all-around option in this comparison",
+          "SUPERJARE Drafting Chair with Backrest"
+        ],
+        [
+          "A strong alternative with a different tradeoff",
+          "Brick Attic Drafting Chair with Backrest, Adjustable Foot Rest Rolling Stool"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "By Budget Within This Tier",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Lowest price in this lineup",
+          "BestOffice | Tall Drafting Chair | Black | with Lumbar Support"
+        ],
+        [
+          "",
+          "SUPERJARE Drafting Chair with Backrest"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "SUPERJARE Drafting Chair vs Marsail Drafting Chair",
+    "cards": [
+      {
+        "label": "SUPERJARE Drafting Chair with Backrest",
+        "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
+      },
+      {
+        "label": "",
+        "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
+      }
+    ],
+    "note": "Most buyers should default to SUPERJARE Drafting Chair with Backrest unless your specific use case points toward Marsail Drafting Chair's particular tradeoffs."
+  },
+  {
+    "subheading": "",
+    "table": {
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Matches this guide's core use case most closely",
+          "SUPERJARE Drafting Chair with Backrest"
+        ],
+        [
+          "A close secondary option worth comparing",
+          "Brick Attic Drafting Chair with Backrest, Adjustable Foot Rest Rolling Stool"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For This Guide's Core Use Case Specifically",
+    "cards": [
+      {
+        "label": "",
+        "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
+      },
+      {
+        "label": "",
+        "text": "SUPERJARE Drafting Chair with Backrest is worth checking first against that specific requirement before comparing the rest of this lineup."
+      }
+    ]
+  },
+  {
+    "subheading": "",
+    "cards": [
+      {
+        "label": "",
+        "text": "You need the fuller feature set found on Marsail Drafting Chair, where the extra capability has a real, verifiable use case for you."
+      },
+      {
+        "label": "",
+        "text": "Your requirements are covered by BestOffice | Tall Drafting Chair | Black | with Lumbar Support without needing the higher-tier features."
+      }
+    ]
+  }
+];
+
+export const howWeEvaluated = [
+  {
+    "title": "",
+    "description": "Every pick must be new, in stock and up to $100 on the update date; expired sale pricing removes it from the qualifying set."
+  },
+  {
+    "title": "",
+    "description": "Show the previous tier, budget drafting chair tier and next-higher tier so readers see the real capability step instead of duplicate lists."
+  },
+  {
+    "title": "",
+    "description": "Normalize loaded seat-height range, foot-ring usability and required accessory/setup cost against price."
+  },
+  {
+    "title": "",
+    "description": "Label seat/back ergonomics and cylinder/base stability as official-documentation-confirmed, WorkCocoon-measured, manufacturer-claimed or unverified."
+  },
+  {
+    "title": "",
+    "description": "Judge desk-height/arm clearance, warranty, software/parts/support and whether the reader should spend less or move above $100 for a meaningful upgrade."
+  }
+];
+
+export const introParagraphs = [
+  "Best Drafting Chairs Under $100 listings span a wide range of real capability even within the same price ceiling, and comparing them on price alone misses which picks actually meet the core use case.",
+  "We compared this lineup on verified specs pulled directly from current listings, checked against a real capability floor for this exact price tier, rather than ranking by price or feature count alone."
+];
+
+export const lastUpdated = "2026-08-22";
+
+export const mainKeyword = "drafting chairs under $100";
+
+export const metaDescription = "We compared 5 drafting chairs under $100 on seat height, adjustment, support and warranty to help you choose the right one for your space.";
+
+export const metaTitle = "Best Drafting Chairs Under $100 (2026)";
+
+export const products: GuideProduct[] = [
+  {
+    "id": "best-drafting-chairs-under-100-1",
+    "rank": 1,
+    "badge": "Best Overall",
+    "name": "SUPERJARE Drafting Chair with Backrest",
+    "price": "$74.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31uA1B1K8HL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08YCY8JWY?tag=theofficejournal-20",
+    "description": "SUPERJARE Drafting Chair with Backrest is the top pick in this comparison. 6\" height stroke and a 360-degree rotating seat. Comes with a detachable backrest and an adjustable circular metal footrest.\n\nAgainst SUPERJARE Drafting Chair with Backrest (360° swivel & adjustable), the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: &300 lbs weight capacity: built with a reinforced chrome metal base and industrial-grade casters.\n\nThis fits best if you want the strongest all-around pick in this comparison and would rather not keep shopping around. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "360° swivel & adjustable height for counters: equipped with a",
+      "Comes with a detachable backrest and an adjustable circular metal",
+      "300 lbs weight capacity: built with a reinforced chrome metal"
+    ],
+    "pros": [
+      "360° swivel & adjustable height for counters: equipped with a premium",
+      "Detachable backrest and an adjustable circular metal footrest",
+      "300 lbs weight capacity: built with a reinforced chrome metal base"
+    ],
+    "cons": [
+      "Verify exact fit and specs against your device before buying",
+      "Compatibility varies by exact model, double-check before ordering"
+    ],
+    "bestFor": "Buyers who want the strongest all-around pick in this comparison and would rather not keep shopping around"
+  },
+  {
+    "id": "best-drafting-chairs-under-100-2",
+    "rank": 2,
+    "badge": "Also Worth Considering",
+    "name": "SUPERJARE Drafting Chair with Backrest (360° swivel & adjustable)",
+    "price": "$74.97",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31LELeF-qfL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B082F6Z98J?tag=theofficejournal-20",
+    "description": "SUPERJARE Drafting Chair with Backrest (360° swivel & adjustable) is a strong alternative worth comparing directly against the top pick. 6\" height stroke and a 360-degree rotating seat. Comes with a detachable backrest and an adjustable circular metal footrest.\n\nCompared with SUPERJARE Drafting Chair with Backrest, the core capability is similar, so the real decision comes down to a specific detail rather than a big capability gap: & 300 lbs weight capacity: built with a reinforced chrome metal base and industrial-grade casters.\n\nChoose this if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "360° swivel & adjustable height for counters: equipped with a",
+      "Comes with a detachable backrest and an adjustable circular metal",
+      "300 lbs weight capacity: built with a reinforced chrome metal"
+    ],
+    "pros": [
+      "360° swivel & adjustable height for counters: equipped with a premium",
+      "Detachable backrest and an adjustable circular metal footrest",
+      "300 lbs weight capacity: built with a reinforced chrome metal base"
+    ],
+    "cons": [
+      "Confirm this stays in stock at the price checked here",
+      "Setup or mounting hardware may be sold separately"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-drafting-chairs-under-100-3",
+    "rank": 3,
+    "badge": "Solid Alternative",
+    "name": "Brick Attic Drafting Chair with Backrest,  Adjustable Foot Rest Rolling Stool",
+    "price": "$79.99",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31NElNtvUXL._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8KX7LB6?tag=theofficejournal-20",
+    "description": "Brick Attic Drafting Chair with Backrest, Adjustable Foot Rest Rolling Stool is a strong alternative worth comparing directly against the top pick. 6-inch five-star casters drafting chair, less prone to tipping over and more stable. 75 inches, making it suitable for users of varying heights.\n\nAgainst SUPERJARE Drafting Chair with Backrest, the gap isn't in the basics, so the real decision comes down to a specific detail rather than a big capability gap: the pu leather backrest of this standing chair can be removed as needed.\n\nThis one is the right call if you want a genuine alternative to the top pick with a different tradeoff worth comparing directly. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "15.8-inch cushion, more suitable for the comfortable size of most",
+      "Adjustable height and footrest ring: the height of the rolling",
+      "The pu leather backrest of this standing chair can be removed as"
+    ],
+    "pros": [
+      "15.8-inch cushion, more suitable for the comfortable size of most people;",
+      "Adjustable height and footrest ring: the height of the rolling chair",
+      "Pu leather backrest of this standing chair can be removed as needed"
+    ],
+    "cons": [
+      "Manufacturer claims here aren't independently lab-verified",
+      "Budget tier means fewer premium finish options"
+    ],
+    "bestFor": "Buyers who want a genuine alternative to the top pick with a different tradeoff worth comparing directly"
+  },
+  {
+    "id": "best-drafting-chairs-under-100-4",
+    "rank": 4,
+    "badge": "Best Value",
+    "name": "BestOffice | Tall Drafting Chair | Black | with Lumbar Support",
+    "price": "$61.98",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/31CkDHb+PML._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B08B87QY7C?tag=theofficejournal-20",
+    "description": "BestOffice | Tall Drafting Chair | Black | with Lumbar Support is the most affordable pick here that still clears the capability floor for this price tier. Drafting chair comes with all hardware & necessary tools. New mid back drafting chair designed with human-oriented ergonomic construction that lasts long and thickly cushioned for maximum comfort.\n\nSet it next to SUPERJARE Drafting Chair with Backrest and the two are closely matched on the fundamentals, so the real decision comes down to a specific detail rather than a big capability gap: ergonomic drafting chair covered by breathable mesh and mid back lumbar support protecting your spinal.\n\nChoose this if you want to stay at the lower end of this price tier without dropping below the real capability floor. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "Drafting chair comes with all hardware & necessary tools",
+      "New mid back drafting chair designed with human-oriented",
+      "Ergonomic drafting chair covered by breathable mesh and mid back"
+    ],
+    "pros": [
+      "Drafting chair comes with all hardware & necessary tools",
+      "New mid back drafting chair designed with human-oriented ergonomic construction that",
+      "Ergonomic drafting chair covered by breathable mesh and mid back lumbar"
+    ],
+    "cons": [
+      "Compatibility varies by exact model, double-check before ordering",
+      "Verify exact fit and specs against your device before buying"
+    ],
+    "bestFor": "Buyers who want to stay at the lower end of this price tier without dropping below the real capability floor"
+  },
+  {
+    "id": "best-drafting-chairs-under-100-5",
+    "rank": 5,
+    "badge": "Best Premium Pick",
+    "name": "Marsail Drafting Chair",
+    "price": "$98.94",
+    "rating": null,
+    "reviews": null,
+    "imageUrl": "https://m.media-amazon.com/images/I/51QWWjPKw7L._SL500_.jpg",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ9GJNWR?tag=theofficejournal-20",
+    "description": "Marsail Drafting Chair is the priciest pick in this lineup. 9” adjustable range, so it suits a variety of users. 15” thick high-quality foam seat, delivering exceptional comfort during extended work sessions.\n\nIt sits close to SUPERJARE Drafting Chair with Backrest on paper, so the real decision comes down to a specific detail rather than a big capability gap: designed for maximum comfort, this tall office chair has an adjustable 2d lumbar support helping promote better posture and circulation.\n\nThis fits best if you are willing to spend the most in this tier for the fuller feature set that comes with it. Retail pricing on this listing can shift with sales or stock changes, so confirm the current price and availability before buying rather than relying on the figure shown here.",
+    "specs": [
+      "This drafting chair boasts a maximum seat height of 30.7” with an",
+      "This drafting chair features a 3.15” thick high-quality foam seat",
+      "Designed for maximum comfort"
+    ],
+    "pros": [
+      "Drafting chair boasts a maximum seat height of 30.7” with",
+      "Drafting chair features a 3.15” thick high-quality foam seat, delivering exceptional",
+      "Designed for maximum comfort, this tall office chair has an adjustable"
+    ],
+    "cons": [
+      "Setup or mounting hardware may be sold separately",
+      "Confirm this stays in stock at the price checked here"
+    ],
+    "bestFor": "Buyers who are willing to spend the most in this tier for the fuller feature set that comes with it"
+  }
+];
+
+export const readTime = "10 min";
+
+export const relatedGuides = [
+  {
+    "href": "/guide/best-drafting-chairs-under-50",
+    "title": "Best Drafting Chairs Under $50"
+  },
+  {
+    "href": "/guide/best-drafting-chairs-under-150",
+    "title": "Best Drafting Chairs Under $150"
+  },
+  {
+    "href": "/guide/best-drafting-chairs-under-200",
+    "title": "Best Drafting Chairs Under $200"
+  }
+];
+
+export const breadcrumbLabel = "Best Drafting Chairs Under $100";

@@ -30,11 +30,17 @@ export function GuideProductPick({ product: p, total }: { product: GuideProduct;
     <article id={p.id} aria-labelledby={`${p.id}-name`} className="scroll-mt-32 border-t border-border py-10 first:border-t-0 first:pt-2 lg:scroll-mt-24">
       <div className="grid gap-6 md:grid-cols-[38fr_62fr] md:gap-10">
         <div>
-          <div className="relative aspect-square overflow-hidden bg-surface md:sticky md:top-28">
+          <a
+            href={withAmazonTag(p.amazonUrl)}
+            target="_blank"
+            rel="noopener noreferrer sponsored"
+            aria-label={`${p.name} on Amazon (opens in a new tab)`}
+            className="group relative block aspect-square overflow-hidden bg-surface focus-ring md:sticky md:top-28"
+          >
             {p.imageUrl && (
-              <SafeImage src={p.imageUrl} alt={p.name} fill sizes="(max-width: 768px) 100vw, 320px" className="object-contain p-6" unoptimized />
+              <SafeImage src={p.imageUrl} alt={p.name} fill sizes="(max-width: 768px) 100vw, 320px" className="object-contain p-6 transition-transform duration-300 group-hover:scale-[1.02]" unoptimized />
             )}
-          </div>
+          </a>
         </div>
 
         <div className="min-w-0">
@@ -45,7 +51,15 @@ export function GuideProductPick({ product: p, total }: { product: GuideProduct;
             </span>
           </p>
           <h3 id={`${p.id}-name`} className="mt-2 text-[1.625rem] leading-tight sm:text-[1.875rem]">
-            {p.name}
+            <a
+              href={withAmazonTag(p.amazonUrl)}
+              target="_blank"
+              rel="noopener noreferrer sponsored"
+              className="!text-ink transition-colors hover:!text-brand focus-ring"
+            >
+              {p.name}
+              <span className="sr-only"> on Amazon (opens in a new tab)</span>
+            </a>
           </h3>
 
           {verdict && (

@@ -198,3 +198,14 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-dual-vertical-laptop-stands", title: "Best Dual Vertical Laptop Stands (2026)" },
   { href: "/guide/best-vertical-laptop-stands-for-desk-setup", title: "Best Vertical Laptop Stands for Desk Setup (2026)" }
 ];
+
+export const introParagraphs: string[] = [
+  "8 vertical MacBook stands ranked by Amazon buyer rating and verified review count.",
+  "A vertical MacBook stand stores the laptop in portrait orientation on the desk surface while connected to an external monitor in clamshell mode. The stand frees desk space equal to the laptop footprint and positions the laptop where cable connections are deliberate rather than ad hoc.",
+  "This guide covers eight vertical MacBook stands ranked by Amazon buyer rating and verified review count, including passive aluminum holders, model-specific arc designs, combined hub-stands, and Thunderbolt 4 docking stations.",
+  "8 stars, lifetime warranty and universal fit for all MacBook models."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

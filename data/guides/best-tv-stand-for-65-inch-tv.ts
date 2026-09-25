@@ -180,3 +180,13 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-for-55-inch-tv", title: "Best TV Stands for 55 Inch TVs (2026)" },
   { href: "/guide/best-tv-stand-for-75-inch-tv", title: "Best TV Stands for 75 Inch TVs (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A 65 inch TV sits between the compact 55 inch class and the largest 75 inch and up sets, which means the right stand needs enough top width and weight capacity for a heavier panel without oversizing your wall run.",
+  "This guide covers seven TV stands sized for 65 inch TVs, ranked by base fit, storage style, weight capacity, and price, from a budget LED console under $65 to a fireplace-equipped stand near $320.",
+  "See the full rankings above for all seven picks with pros, cons, and best-for summaries."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

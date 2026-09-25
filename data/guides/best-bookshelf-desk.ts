@@ -365,3 +365,7 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-bookshelf-tv-stand", title: "Best Bookshelf TV Stands in 2026" },
   { href: "/guide/best-bookshelf-room-divider", title: "Best Bookshelf Room Dividers in 2026" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

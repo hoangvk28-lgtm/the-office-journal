@@ -197,3 +197,14 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-adjustable-under-desk-footrests", title: "Best Adjustable Under-Desk Footrests (2026)" },
   { href: "/guide/best-rocking-footrests-under-desk", title: "Best Rocking Footrests Under Desk (2026)" }
 ];
+
+export const introParagraphs: string[] = [
+  "8 under-desk footrests ranked by Amazon buyer rating and verified review count.",
+  "An under-desk footrest addresses one of the most common seated ergonomics problems: feet that do not rest flat on the floor. When the feet dangle, the thigh pressure on the seat edge cuts off circulation and adds tension to the lower back. A footrest restores the natural foot-to-floor angle without lowering the desk or chair.",
+  "This guide covers eight under-desk footrests ranked by Amazon buyer rating and verified review count, including memory foam, rocker, wood, and mesh options that cover the main footrest types at different price points.",
+  "5 stars, most reviewed under-desk footrest in the category."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

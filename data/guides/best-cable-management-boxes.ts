@@ -197,3 +197,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-wood-cable-management-boxes", title: "Best Wood Cable Management Boxes (2026)" },
   { href: "/guide/best-under-desk-storage-drawers", title: "Best Under-Desk Storage Drawers (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "Cable management boxes solve the most visible desk organization problem: the power strip and cable tangle that accumulates behind every desk, entertainment center, and workstation. The right box hides the clutter, protects children and pets from live cables, and integrates into the desk aesthetic rather than looking like an organizer product.",
+  "This guide covers eight top-rated cable management boxes ranked by buyer feedback, size, material, safety features, and value, including plastic boxes, wood-lid options, under-desk trays, and natural rattan designs."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

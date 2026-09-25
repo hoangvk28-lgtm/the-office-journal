@@ -360,3 +360,7 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-bookshelf-ladder", title: "Best Ladder Bookshelves in 2026" },
   { href: "/guide/best-bookshelf-for-bedroom", title: "Best Bookshelves for Bedroom in 2026" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

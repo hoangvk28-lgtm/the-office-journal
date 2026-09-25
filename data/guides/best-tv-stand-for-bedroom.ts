@@ -199,3 +199,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-with-mount", title: "Best TV Stands with Mount (2026)" },
   { href: "/guide/best-charging-stations-for-bedside-table", title: "Best Charging Stations for Bedside Table (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A bedroom TV stand has different priorities than a living room console: lower profile so the screen sits at a comfortable lying-down viewing angle, a smaller footprint for tighter rooms, and often extra storage since bedrooms rarely have a separate dresser and media unit.",
+  "Before buying, measure the space between your bed and the wall the stand will sit against, and check whether a dresser-combo design actually gives you the drawer capacity you need."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

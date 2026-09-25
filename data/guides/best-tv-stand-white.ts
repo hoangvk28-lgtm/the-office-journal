@@ -205,3 +205,7 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-with-storage", title: "Best TV Stands with Storage" },
   { href: "/guide/best-tv-stand-for-65-inch-tv", title: "Best TV Stands for 65-Inch TVs" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

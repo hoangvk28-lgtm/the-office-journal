@@ -198,3 +198,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-standing-desk-for-dual-monitors", title: "Best Standing Desks for Dual Monitors (2026)" },
   { href: "/guide/best-standing-desk-under-1000", title: "Best Standing Desks Under $1000 (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A glass standing desk adds a clean, open aesthetic to a home office while providing a smooth working surface. Tempered safety glass is the standard for all desks in this category.",
+  "This guide covers eight glass standing desks ranked by glass type (clear, frosted, dry-erase white), built-in features (drawer, USB charging, monitor riser, RGB), and price."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

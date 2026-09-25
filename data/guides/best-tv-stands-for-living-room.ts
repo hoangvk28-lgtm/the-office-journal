@@ -181,3 +181,13 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-cable-management-boxes-for-desks", title: "Best Cable Management Boxes for Desks (2026)" },
   { href: "/guide/best-under-desk-storage-drawers", title: "Best Under Desk Storage Drawers (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A good living room TV stand does more than hold your screen. Its height, width, and storage layout need to match your sofa's seated eye line and the overall scale of the room, not just the TV's diagonal size.",
+  "This guide covers seven living room TV stands ranked by stand height relative to seated eye level, storage layout, and TV fit, from a low-cost console under $60 to furniture-grade farmhouse and mid-century picks.",
+  "See the full rankings above for all seven picks with pros, cons, and best-for summaries."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

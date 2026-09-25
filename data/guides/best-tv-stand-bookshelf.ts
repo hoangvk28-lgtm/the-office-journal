@@ -173,3 +173,7 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-small", title: "Best Small TV Stands (2026)" },
   { href: "/guide/best-tv-stand-and-coffee-table-set", title: "Best TV Stand and Coffee Table Sets (2026)" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

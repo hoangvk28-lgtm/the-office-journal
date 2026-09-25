@@ -219,3 +219,7 @@ export const faq: { q: string; a: string }[] = [
 export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-glass", title: "Best Glass TV Stands (2026)" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

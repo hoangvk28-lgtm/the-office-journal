@@ -197,3 +197,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-walking-pads", title: "Best Walking Pads (2026)" },
   { href: "/guide/best-walking-pads-for-home-offices", title: "Best Walking Pads for Home Offices (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "Compact walking pads solve the space problem of standard treadmills by folding to 4 to 6 inches thin for storage under beds and sofas, or folding in half for closet storage. Many measure under 35 inches long, fitting under desks in alcoves and tight spaces.",
+  "This guide covers eight compact walking pads ranked by folded profile, belt width, noise level, and value for apartment users and small home offices."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

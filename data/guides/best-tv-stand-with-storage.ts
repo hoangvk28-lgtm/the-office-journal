@@ -197,3 +197,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-with-mount", title: "Best TV Stands with Mount (2026)" },
   { href: "/guide/best-tv-stand-for-bedroom", title: "Best TV Stands for Bedroom (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A TV stand with real storage does more than hold a screen. It hides cable boxes, game consoles, and cords behind closed doors or drawers while still leaving room for a soundbar or streaming device to work properly.",
+  "This guide covers eight TV stands ranked by storage type, weight capacity, and how well their doors handle remote signals, from low-cost drawer consoles to wide, reinforced cabinets built for large TVs."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

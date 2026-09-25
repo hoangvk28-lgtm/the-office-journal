@@ -197,3 +197,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-compact-walking-pads-for-small-spaces", title: "Best Compact Walking Pads for Small Spaces (2026)" },
   { href: "/guide/best-walking-pads", title: "Best Walking Pads (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "Home-office walking pads face different requirements than gym treadmills: quiet enough for video calls, compact enough for room aesthetics, and reliable enough for daily use without maintenance interruptions.",
+  "This guide covers eight walking pads for home offices ranked by noise level, daily-use durability, app connectivity, and value, including options under $100 and premium quiet-motor models."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

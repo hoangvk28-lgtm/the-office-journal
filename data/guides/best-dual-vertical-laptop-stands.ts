@@ -198,3 +198,14 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-adjustable-vertical-laptop-stands", title: "Best Adjustable Vertical Laptop Stands (2026)" },
   { href: "/guide/best-vertical-macbook-stands", title: "Best Vertical MacBook Stands (2026)" }
 ];
+
+export const introParagraphs: string[] = [
+  "8 dual vertical laptop stands ranked by Amazon buyer rating and verified review count.",
+  "A dual vertical laptop stand stores two devices in portrait orientation simultaneously, combining the footprint of two devices into the footprint of one side-by-side unit. For users who manage a work laptop and a personal laptop or a laptop and tablet, a dual stand is more efficient than two single stands.",
+  "This guide covers eight dual vertical laptop stands ranked by Amazon buyer rating and verified review count, from affordable plastic two-slot options to premium aluminum designs and hub-integrated units.",
+  "8 stars, two independent adjustable slots and lifetime warranty."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

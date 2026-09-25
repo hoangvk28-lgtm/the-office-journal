@@ -164,3 +164,13 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-for-75-inch-tv", title: "Best TV Stands for 75 Inch TVs (2026)" },
   { href: "/guide/best-tv-stand-for-55-inch-tv", title: "Best TV Stands for 55 Inch TVs (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "An 85 inch TV can weigh 80 to 100+ lbs on its own, well beyond what a generic universal TV stand is rated to hold, and its foot spread often exceeds the width many \"large screen\" consoles were actually designed around.",
+  "This guide covers six extra-wide TV stands ranked by top weight capacity, console width, and storage layout, from a 129 dollar budget pick up to a 118 inch extra-wide console rated for 270 lbs.",
+  "See the full rankings above for all six picks with pros, cons, and best-for summaries."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

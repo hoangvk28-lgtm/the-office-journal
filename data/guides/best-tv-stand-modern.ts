@@ -226,3 +226,7 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-black", title: "Best Black TV Stands" },
   { href: "/guide/best-tv-stand-for-65-inch-tv", title: "Best TV Stands for a 65 Inch TV" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

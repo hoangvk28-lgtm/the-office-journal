@@ -224,3 +224,7 @@ export const faq: FaqItem[] = [
 export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-with-fireplace", title: "Best TV Stands with Fireplace (2026)" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

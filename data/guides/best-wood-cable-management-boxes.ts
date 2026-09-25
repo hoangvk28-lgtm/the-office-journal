@@ -198,3 +198,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-cable-management-boxes", title: "Best Cable Management Boxes (2026)" },
   { href: "/guide/best-under-desk-storage-drawers", title: "Best Under-Desk Storage Drawers (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "Wood cable management boxes bring natural material aesthetics to desk organization, matching premium wood desks and styled home offices far better than plastic alternatives. Solid wood, bamboo, and handwoven rattan options provide distinct aesthetic profiles for different desk styles.",
+  "This guide covers eight wood cable management boxes ranked by material quality, interior size, lid mechanism, and value, from budget bamboo picks to premium handcrafted mango wood."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

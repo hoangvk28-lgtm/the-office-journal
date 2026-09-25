@@ -275,3 +275,18 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-rolling-carts-with-drawers", title: "Best Rolling Carts with Drawers (2026)" },
   { href: "/guide/best-rolling-carts-home-office", title: "Best Rolling Carts for Home Offices (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "Eight printer stands with file drawer capability ranked by review volume and buyer satisfaction. Lateral, vertical, fabric, and locking options compared.",
+  "If you have both a printer and a pile of active documents with no good place for either, a printer stand with file drawers is one of the more space-efficient answers available. It puts the printer at a workable height while giving you hanging file storage directly below, in the same footprint. The result is a piece of furniture that earns its floor space by doing two jobs instead of one.",
+  "The selection gets complicated fast. Not every rolling cabinet actually supports hanging files: some listings say \"file storage\" but mean open shelves sized for folders, not lateral hanging rails. The drawer orientation matters too. A lateral drawer gives you a wider top surface for your printer, while a vertical format is narrower but taller and may crowd the printer to one side. If locking drawers are important to you, that narrows the field further since most models at this price do not include a lock.",
+  "Not all rolling cabinets support hanging files. Look for listings that explicitly state A4, Letter, or Legal file support. The VASAGLE CUSTOS models confirm this in their product titles. DEVAISE models list file hanging in the description, which should be verified in the current listing specs.",
+  "Most rolling file cabinet printer stands in this price range do not include a lock. The VASAGLE 4-Drawer Vertical and Letaya metal cabinet are the two options with confirmed locking drawers. Consumer-grade cam locks are standard at this price, not high-security mechanisms.",
+  "Filter by file format, drawer count, and finish."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];
+
+export const buyingCriteria: { criterion: string; explanation: string }[] = [];

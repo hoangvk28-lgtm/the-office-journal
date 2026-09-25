@@ -180,3 +180,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-for-55-inch-tv", title: "Best TV Stands for 55 Inch TVs (2026)" },
   { href: "/guide/best-cable-management-boxes-for-desks", title: "Best Cable Management Boxes for Desks (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A 75-inch TV puts more demand on a stand than smaller screens: the base footprint is wider, the panel is heavier, and a stand rated for a 55-inch TV will often be too narrow or under-rated to safely hold it.",
+  "Before buying, check the stand's width against your TV's actual base foot spread (not just diagonal size), and confirm the weight capacity has margin for the TV plus a soundbar or media console."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

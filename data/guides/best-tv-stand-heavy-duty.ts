@@ -360,3 +360,7 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-universal", title: "Best Universal TV Stands in 2026" },
   { href: "/guide/best-tv-stand-oak", title: "Best Oak TV Stands in 2026" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

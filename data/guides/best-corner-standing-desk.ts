@@ -198,3 +198,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-standing-desk-for-dual-monitors", title: "Best Standing Desks for Dual Monitors (2026)" },
   { href: "/guide/best-standing-desk-under-1000", title: "Best Standing Desks Under $1000 (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A corner standing desk maximizes your available wall space by using two walls simultaneously, giving you more surface area than a straight desk of the same listed width.",
+  "This guide covers eight L-shaped electric standing desks ranked by frame stability, motor configuration, desktop size, and price, from budget options under $200 to heavy-duty triple-motor frames."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

@@ -266,3 +266,18 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-desk-shelves-small-desks", title: "Best Desk Shelves for Small Desks (2026)" },
   { href: "/guide/small-desk-organization-ideas", title: "Small Desk Organization Ideas" },
 ];
+
+export const introParagraphs: string[] = [
+  "Eight desk hutches for small desks ranked by review count and rating. Covers open-shelf hutches, pegboard models, and adjustable-width designs from 16 to 40 inches. Each pick evaluated for width fit, shelf count, and suitability for desks under 40 inches.",
+  "Finding a desk hutch that fits a small desk without overwhelming it is harder than it looks. Most hutches are designed for large L-shaped desks or executive workstations, and a 48-inch hutch on a 32-inch desk creates more problems than it solves. The right hutch for a small desk has to fit the width precisely, add meaningful vertical storage, and leave enough clear desk surface to actually work.",
+  "The key variables are width, shelf count, and whether a pegboard panel adds value for your specific accessories. Adjustable-width models solve the fit problem but often sacrifice shelf count. Fixed-width models offer more shelf options but require measuring the desk before buying. Neither format is universally better.",
+  "A desk hutch wider than your monitor creates visual framing and leaves shelf space on both sides. A hutch narrower than the monitor blocks it or requires positioning the hutch off to one side. For a 24-inch monitor, a 37-inch hutch gives clearance on both sides. 6-inch hutch is a closer fit. Always measure the monitor width alongside the desk width before choosing a hutch size.",
+  "Pegboard hutches add a hook-ready panel to the back of the unit for hanging headphones, cables, scissors, and small tools. They cost $5-10 more than equivalent plain-shelf models and are worth the premium if you regularly need to store hanging accessories. If your main storage need is books and binders, the extra cost adds no functional benefit over a standard open-shelf hutch.",
+  "Filter by width, shelf count, and finish."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];
+
+export const buyingCriteria: { criterion: string; explanation: string }[] = [];

@@ -357,3 +357,7 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-bookshelf-nightstand", title: "Best Bookshelf Nightstands in 2026" },
   { href: "/guide/best-bed-frame-with-headboard", title: "Best Bed Frames with Headboard in 2026" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

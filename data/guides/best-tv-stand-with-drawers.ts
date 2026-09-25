@@ -180,3 +180,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-with-storage", title: "Best TV Stands with Storage (2026)" },
   { href: "/guide/best-tv-stand-for-55-inch-tv", title: "Best TV Stands for 55 Inch TVs (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A TV stand with drawers gives you enclosed, quick-access storage for remotes, cables, and controllers without the swing clearance a cabinet door needs.",
+  "See the full rankings above for all seven picks with pros, cons, and best-for summaries."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

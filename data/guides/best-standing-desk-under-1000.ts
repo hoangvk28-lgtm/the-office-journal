@@ -198,3 +198,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-standing-desks-for-gaming", title: "Best Standing Desks for Gaming (2026)" },
   { href: "/guide/best-walnut-standing-desk", title: "Best Walnut Standing Desks (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "The under $1000 range covers everything from reliable budget desks under $250 to commercial-grade BIFMA-certified options and premium bamboo frames approaching the $1000 ceiling.",
+  "This guide covers eight standing desks under $1000 ranked by warranty, motor quality, surface material, and certification, starting at $208 and ending just under $1000."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

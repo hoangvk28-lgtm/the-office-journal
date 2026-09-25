@@ -196,3 +196,14 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-lap-desks-with-cushion", title: "Best Lap Desks with Cushion (2026)" },
   { href: "/guide/best-lap-desks-for-laptops", title: "Best Lap Desks for Laptops (2026)" }
 ];
+
+export const introParagraphs: string[] = [
+  "8 lap desks for bed ranked by Amazon buyer rating and verified review count.",
+  "Using a laptop in bed without a lap desk puts the device directly on soft bedding that blocks bottom vents and causes overheating. A lap desk provides a hard surface that elevates the laptop above the mattress, keeps vents clear, and protects legs from the heat the laptop generates.",
+  "This guide covers eight lap desks for bed use ranked by Amazon buyer rating and verified review count, including cushioned flat boards, adjustable-angle designs, height-adjustable models, and foldable options for small bedroom storage.",
+  "7 stars, five heights plus four angles for every in-bed working position."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

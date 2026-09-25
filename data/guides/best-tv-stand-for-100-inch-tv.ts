@@ -223,3 +223,7 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-90-inch", title: "Best TV Stands for 90 Inch TVs (2026)" },
   { href: "/guide/best-tv-stand-for-85-inch-tv", title: "Best TV Stands for 85 Inch TVs (2026)" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

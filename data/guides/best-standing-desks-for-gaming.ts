@@ -198,3 +198,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-standing-desk-for-dual-monitors", title: "Best Standing Desks for Dual Monitors (2026)" },
   { href: "/guide/best-standing-desk-under-1000", title: "Best Standing Desks Under $1000 (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A standing desk for gaming lets you alternate between sitting and standing during long sessions, reducing fatigue and back strain without changing your gaming position.",
+  "This guide covers eight standing desks for gaming ranked by shape (wing, L-shaped, straight), RGB features, weight capacity, and price, from budget options under $130 to premium $1,000+ battlestation desks."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

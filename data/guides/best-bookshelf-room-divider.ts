@@ -336,3 +336,7 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-bookshelf-desk", title: "Best Bookshelf Desks in 2026" },
   { href: "/guide/best-bookshelf-with-drawers", title: "Best Bookshelves with Drawers in 2026" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

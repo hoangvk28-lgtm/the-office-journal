@@ -198,3 +198,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-standing-desk-under-1000", title: "Best Standing Desks Under $1000 (2026)" },
   { href: "/guide/best-corner-standing-desk", title: "Best Corner Standing Desks (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A walnut standing desk adds a warm executive aesthetic to a home office at a fraction of the cost of solid walnut furniture, using walnut-tone laminate over MDF that looks similar at normal viewing distance.",
+  "This guide covers eight walnut standing desks ranked by walnut tone (black, dark, special), size (32 to 79 inches), special features (drawers, L-shaped, 3-stage legs), and value."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

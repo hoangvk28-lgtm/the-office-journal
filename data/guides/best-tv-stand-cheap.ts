@@ -206,3 +206,7 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-solid-wood", title: "Best Solid Wood TV Stands (2026)" },
   { href: "/guide/best-tv-stand-black", title: "Best Black TV Stands (2026)" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

@@ -198,3 +198,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-standing-desk-under-1000", title: "Best Standing Desks Under $1000 (2026)" },
   { href: "/guide/best-standing-desk-48-inch", title: "Best 48 Inch Standing Desks (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A standing desk for dual monitors needs at least 55 inches of surface width, a stable frame that handles the combined monitor weight, and a height range that covers both your sitting and standing positions.",
+  "This guide covers eight standing desks for dual monitors ranked by width (48 to 72 inches), surface depth, motor configuration, and special features like bamboo tops, risers, and drawers."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

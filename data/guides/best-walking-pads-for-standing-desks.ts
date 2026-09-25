@@ -198,3 +198,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-compact-walking-pads-for-small-spaces", title: "Best Compact Walking Pads for Small Spaces (2026)" },
   { href: "/guide/best-walking-pads-with-incline", title: "Best Walking Pads with Incline (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "5 mph you can type accurately and join video calls while covering 3 to 5 miles over a full work day.",
+  "This guide covers eight walking pads for standing desks ranked by motor power, incline capability, noise level, and weight capacity, covering budget options under $150 and premium 2-in-1 models up to $400."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

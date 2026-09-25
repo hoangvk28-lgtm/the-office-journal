@@ -194,3 +194,15 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-adjustable-under-desk-footrests", title: "Best Adjustable Under-Desk Footrests (2026)" },
   { href: "/guide/best-under-desk-footrests-for-short-people", title: "Best Under-Desk Footrests for Short People (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "8 wooden footrests for desk ranked by Amazon buyer rating and verified review count.",
+  "Wood footrests occupy a different position in the market than foam alternatives. The material does not compress over time, provides a firmer rocking surface, and matches the aesthetic of wood desks and natural material desk setups. The trade-off is that wood is harder underfoot, louder when rocking, and not suited for bare-foot use.",
+  "This guide covers eight wooden footrests ranked by Amazon buyer rating and verified review count, including cherry wood rockers, lauan hardwood adjustable platforms, bamboo options, and a premium steel-roller wood rocker."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];
+
+export const buyingCriteria: { criterion: string; explanation: string }[] = [];

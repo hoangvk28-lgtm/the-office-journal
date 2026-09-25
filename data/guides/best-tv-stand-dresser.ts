@@ -355,3 +355,7 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-for-bedroom", title: "Best TV Stands for Bedroom (2026)" },
   { href: "/guide/best-tv-stand-with-storage", title: "Best TV Stands with Storage (2026)" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

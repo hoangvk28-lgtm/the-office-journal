@@ -180,3 +180,13 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-cable-management-boxes-for-desks", title: "Best Cable Management Boxes for Desks (2026)" },
   { href: "/guide/best-under-desk-storage-drawers", title: "Best Under Desk Storage Drawers (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "Choosing a TV stand for a 55 inch TV comes down to three things competitors rarely explain clearly: whether the top surface actually supports your TV plus a soundbar and streaming gear, whether a corner or floating design fits your specific room layout, and how much enclosed versus open storage you actually need for the equipment behind the screen.",
+  "This guide covers seven 55 inch TV stands ranked by weight capacity, storage style, and real clearance considerations, spanning a budget console under $60, a floating wall-mount option, two corner-fit designs, a modern LED gaming stand, and a fireplace-equipped console.",
+  "See the full rankings above for all seven picks with pros, cons, and best-for summaries."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

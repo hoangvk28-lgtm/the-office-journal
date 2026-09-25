@@ -198,3 +198,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-standing-desk-for-dual-monitors", title: "Best Standing Desks for Dual Monitors (2026)" },
   { href: "/guide/best-corner-standing-desk", title: "Best Corner Standing Desks (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A 48-inch standing desk is the most popular compact size, fitting comfortably in most bedrooms, studios, and small home offices while handling a single monitor or laptop plus peripherals.",
+  "This guide covers eight 48-inch electric standing desks ranked by price, special features (drawer, power strip, USB ports), depth (24 vs 30 inch), and brand warranty."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

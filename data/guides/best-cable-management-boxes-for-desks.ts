@@ -198,3 +198,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-wood-cable-management-boxes", title: "Best Wood Cable Management Boxes (2026)" },
   { href: "/guide/best-under-desk-storage-drawers", title: "Best Under-Desk Storage Drawers (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "Cable management boxes hide power strips, surge protectors, and cable clusters from view, turning the tangled wire pile behind a desk into a clean organized unit. They work on desk surfaces, floors, and under desk surfaces via clamp-mount trays.",
+  "This guide covers eight cable management boxes for desks ranked by size, design, safety features, and value, including on-desk boxes and under-desk clamp trays."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

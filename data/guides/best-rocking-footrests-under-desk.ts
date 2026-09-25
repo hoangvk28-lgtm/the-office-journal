@@ -156,3 +156,15 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-adjustable-under-desk-footrests", title: "Best Adjustable Under-Desk Footrests (2026)" },
   { href: "/guide/best-under-desk-footrests-for-short-people", title: "Best Under-Desk Footrests for Short People (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "8 rocking footrests ranked by Amazon buyer rating and verified review count.",
+  "Static footrests reduce the fatigue of dangling feet but do not address the circulation issue that comes from holding the feet in one position for hours. Rocking footrests introduce a gentle back-and-forth movement that activates calf muscles and improves blood flow during sedentary work sessions.",
+  "This guide covers eight rocking footrests ranked by Amazon buyer rating and verified review count, including wood balance boards, foam rockers, and three-position designs that include a flat static mode."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];
+
+export const buyingCriteria: { criterion: string; explanation: string }[] = [];

@@ -197,3 +197,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-compact-walking-pads-for-small-spaces", title: "Best Compact Walking Pads for Small Spaces (2026)" },
   { href: "/guide/best-walking-pads-with-incline", title: "Best Walking Pads with Incline (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "Walking pads are compact under-desk treadmills designed for 1 to 4 mph walking during desk work or light cardio. They fold flat for storage under furniture, operate quietly enough for home and office use, and require minimal maintenance compared to full-size treadmills.",
+  "This guide covers eight top-rated walking pads ranked by buyer feedback, noise level, weight capacity, incline capability, and value across all budgets from $89 to $400."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

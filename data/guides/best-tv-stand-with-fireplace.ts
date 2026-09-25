@@ -197,3 +197,13 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-cable-management-boxes-for-desks", title: "Best Cable Management Boxes for Desks (2026)" },
   { href: "/guide/best-under-desk-storage-drawers", title: "Best Under Desk Storage Drawers (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A TV stand with a fireplace bundles an electric fireplace insert into the console itself, so unlike a standard media stand, the fireplace insert is usually included in the purchase rather than sold separately.",
+  "Before buying, confirm the insert's clearance requirements, check the stand's top weight capacity against your TV and any soundbar you plan to add, and consider whether the fireplace will share an electrical circuit with other AV equipment.",
+  "This guide covers eight fireplace TV stands ranked by insert size, TV weight capacity, cabinet style, and price, from budget corner units under $250 to solid wood premium consoles."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

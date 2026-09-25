@@ -197,3 +197,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-cable-management-boxes-for-desks", title: "Best Cable Management Boxes for Desks (2026)" },
   { href: "/guide/best-under-desk-storage-drawers", title: "Best Under Desk Storage Drawers (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A TV stand on wheels lets you move your screen between rooms, reposition it for glare-free viewing, or roll it away entirely, something a fixed console or wall mount cannot do.",
+  "This guide covers eight rolling TV carts ranked by weight capacity, height range, wheel locking design, and base stability, from budget picks under $100 to a heavy-duty 250 lb cart built for large-screen displays."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

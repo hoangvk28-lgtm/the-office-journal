@@ -369,3 +369,7 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-bookshelf-with-storage", title: "Best Bookshelves with Storage in 2026" },
   { href: "/guide/best-bookshelf-5-tier", title: "Best 5-Tier Bookshelves in 2026" },
 ];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

@@ -197,3 +197,14 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-lap-desks-for-bed", title: "Best Lap Desks for Bed (2026)" },
   { href: "/guide/best-lap-desks-for-laptops", title: "Best Lap Desks for Laptops (2026)" }
 ];
+
+export const introParagraphs: string[] = [
+  "8 lap desks with cushion ranked by Amazon buyer rating and verified review count.",
+  "The cushion base on a lap desk serves two functions: it distributes the hard surface pressure away from the legs and creates a slight air gap that reduces heat transfer from the laptop. Without a cushion, a hard lap desk board puts concentrated pressure on the thighs and transfers laptop heat directly.",
+  "This guide covers eight cushion lap desks ranked by Amazon buyer rating and verified review count, from standard pillow foam bases and bean bag fill to memory foam options and premium adjustable models with cushion bases.",
+  "7 stars, integrated mouse pad and dual bolster cushion base."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

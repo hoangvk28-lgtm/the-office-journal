@@ -198,3 +198,11 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-walking-pads-for-standing-desks", title: "Best Walking Pads for Standing Desks (2026)" },
   { href: "/guide/best-compact-walking-pads-for-small-spaces", title: "Best Compact Walking Pads for Small Spaces (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "This guide covers eight incline walking pads ranked by maximum incline grade, incline levels, motor power, and noise level, including auto-incline and manual-incline options."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

@@ -198,3 +198,14 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-dual-vertical-laptop-stands", title: "Best Dual Vertical Laptop Stands (2026)" },
   { href: "/guide/best-vertical-macbook-stands", title: "Best Vertical MacBook Stands (2026)" }
 ];
+
+export const introParagraphs: string[] = [
+  "8 adjustable vertical laptop stands ranked by Amazon buyer rating and verified review count.",
+  "A fixed vertical stand works well when you only have one laptop of one specific thickness. An adjustable vertical stand slides to fit different laptop thicknesses and accommodates households or offices where multiple devices share the same stand. The adjustment mechanism is the defining feature.",
+  "This guide covers eight adjustable vertical laptop stands ranked by Amazon buyer rating and verified review count, from budget ABS models to premium aluminum with smooth slide mechanisms.",
+  "71 inch adjustment range covering all consumer laptop thicknesses."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

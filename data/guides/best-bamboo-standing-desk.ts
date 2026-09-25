@@ -198,3 +198,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-standing-desk-for-dual-monitors", title: "Best Standing Desks for Dual Monitors (2026)" },
   { href: "/guide/best-standing-desk-under-1000", title: "Best Standing Desks Under $1000 (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A bamboo standing desk replaces MDF or laminate with FSC-certified bamboo - a surface that is harder, more moisture-resistant, and grown from one of the fastest-renewing raw materials in furniture production.",
+  "This guide covers eight bamboo electric standing desks ranked by FSC certification, bamboo construction (one-piece vs laminate), motor type (single vs dual), height range, and price."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

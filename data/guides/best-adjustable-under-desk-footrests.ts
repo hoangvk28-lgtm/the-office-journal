@@ -156,3 +156,16 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-rocking-footrests-under-desk", title: "Best Rocking Footrests Under Desk (2026)" },
   { href: "/guide/best-wooden-footrests-for-desk", title: "Best Wooden Footrests for Desk (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "8 adjustable under-desk footrests ranked by Amazon buyer rating and verified review count.",
+  "A fixed-height footrest works well when the desk and chair height never change. For users who adjust their desk height throughout the day, share a desk with another person, or switch between a standard office chair and a drafting stool, a fixed footrest creates a different ergonomic problem every time the setup changes.",
+  "This guide covers eight adjustable under-desk footrests ranked by Amazon buyer rating and verified review count, focusing on models with meaningful height or angle adjustment rather than fixed single-position designs.",
+  "4 stars, two height settings with massage surface."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];
+
+export const buyingCriteria: { criterion: string; explanation: string }[] = [];

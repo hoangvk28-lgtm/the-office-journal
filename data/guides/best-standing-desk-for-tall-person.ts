@@ -199,3 +199,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-standing-desk-under-1000", title: "Best Standing Desks Under $1000 (2026)" },
   { href: "/guide/best-standing-desk-for-dual-monitors", title: "Best Standing Desks for Dual Monitors (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A standing desk for tall people needs a maximum height of at least 50 inches to reach ergonomic standing angles for users 6'2\" and above - most standard desks cap at 47 to 48 inches.",
+  "This guide covers eight standing desks for tall users ranked by maximum height (50 to 52 inches), motor stage count (2-stage vs 3-stage), surface width, and price."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

@@ -198,3 +198,12 @@ export const relatedGuides: { href: string; title: string }[] = [
   { href: "/guide/best-tv-stand-for-55-inch-tv", title: "Best TV Stands for 55 Inch TVs (2026)" },
   { href: "/guide/best-cable-management-boxes-for-desks", title: "Best Cable Management Boxes for Desks (2026)" },
 ];
+
+export const introParagraphs: string[] = [
+  "A TV stand with mount builds the wall-mount look into the furniture itself: a steel bracket or pole on the back panel holds the TV a few inches above the console top, so the screen appears to float without any wall drilling.",
+  "This guide covers eight built-in mount consoles ranked by VESA compatibility, mount weight rating, swivel and tilt range, and storage, from budget corner units under $60 to furniture-grade cabinets with power outlets and LED lighting."
+];
+
+export const howWeEvaluated: { title: string; description: string }[] = [];
+
+export const howToChoose: { subheading: string }[] = [];

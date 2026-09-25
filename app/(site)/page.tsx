@@ -21,7 +21,7 @@ export const revalidate = 86400;
 const OG_IMAGE = publicAsset("images/brand/the-office-journal-og.jpg");
 
 export const metadata: Metadata = buildMetadata({
-  title: "The Office Journal — Office Furniture, Desk Setup & Workspace Guides",
+  title: "The Office Journal | Home Office Ideas & Buying Guides",
   description:
     "Independent guides, reviews and workspace ideas covering office furniture, desk setups, lighting, ergonomics and better ways to work.",
   path: "/",

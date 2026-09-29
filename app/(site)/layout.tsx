@@ -1,4 +1,5 @@
 import { SiteHeader } from "@/components/layout/SiteHeader";
+import { SiteDisclosureBar } from "@/components/affiliate/SiteDisclosureBar";
 import { SiteFooter } from "@/components/layout/SiteFooter";
 import { SITE_NAME, SITE_DESCRIPTION, SITE_URL } from "@/lib/seo";
 
@@ -35,6 +36,7 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
         dangerouslySetInnerHTML={{ __html: JSON.stringify(siteSchema) }}
       />
       <SiteHeader />
+      <SiteDisclosureBar />
       <main className="flex-1">{children}</main>
       <SiteFooter />
     </div>

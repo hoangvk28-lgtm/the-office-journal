@@ -193,13 +193,6 @@ export function RichGuidePage(props: RichGuidePageProps) {
               {products.length} products evaluated
             </p>
           </div>
-          <p className="mt-2 text-[0.8125rem] leading-snug text-ink-secondary">
-            We may earn a commission from purchases made through links in this guide.{" "}
-            <Link prefetch={false} href="/affiliate-disclosure" className="!text-ink-secondary underline underline-offset-2 hover:!text-ink">
-              Learn more
-            </Link>
-            .
-          </p>
         </header>
 
         {/* Skip the hero when it would just repeat a product shot shown below. */}

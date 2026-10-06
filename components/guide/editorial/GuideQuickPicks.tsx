@@ -7,8 +7,8 @@ const priceLinkClass =
 
 function Thumb({ src, alt, size }: { src: string; alt: string; size: string }) {
   return (
-    <div className={`relative shrink-0 overflow-hidden bg-surface ${size}`}>
-      {src && <SafeImage src={src} alt={alt} fill sizes="96px" className="object-contain p-1.5" unoptimized />}
+    <div className={`relative shrink-0 overflow-hidden bg-[#efe9df] ${size}`}>
+      {src && <SafeImage src={src} alt={alt} fill sizes="96px" className="object-contain p-1.5 mix-blend-multiply" unoptimized />}
     </div>
   );
 }
@@ -57,7 +57,7 @@ export function GuideQuickPicks({ products }: { products: GuideProduct[] }) {
           <thead>
             <tr className="border-b border-ink text-[0.8125rem] uppercase tracking-[0.08em] text-ink-secondary">
               <th scope="col" className="py-3 pr-4 font-semibold">Pick</th>
-              {hasSummaries && <th scope="col" className="py-3 pr-4 font-semibold">Why it’s here</th>}
+              {hasSummaries && <th scope="col" className="py-3 pr-4 font-semibold">Why it stands out</th>}
               <th scope="col" className="py-3 pr-4 font-semibold">Best for</th>
               {!hasSummaries && <th scope="col" className="py-3 pr-4 font-semibold">Key spec</th>}
               <th scope="col" className="py-3 font-semibold"><span className="sr-only">Price</span></th>

@@ -33,6 +33,8 @@ export interface GuideProduct {
   skipIf?: string | string[];
   /** Optional one-sentence reason the pick is in the guide (Quick Picks). */
   summary?: string;
+  /** Optional 1-2 sentence "The catch": the most important real trade-off. */
+  catch?: string;
 }
 
 export interface HowToChooseSection {
@@ -184,7 +186,7 @@ export function RichGuidePage(props: RichGuidePageProps) {
           <h1 className="mt-3 text-[2.125rem] leading-[1.1] sm:text-[2.75rem] lg:text-[3rem]">{guideTitle}</h1>
           <p className="mt-3 text-[1.125rem] leading-relaxed sm:text-[1.25rem]">{dek}</p>
           <div className="mt-4 text-sm leading-relaxed text-ink-secondary">
-            <p>By <span className="font-medium text-ink">Jamie Cole</span>, Lead Product Researcher</p>
+            <p>By <Link prefetch={false} href="/author/jamie-cole" rel="author" className="font-medium !text-ink hover:!text-brand">Jamie Cole</Link>, Lead Product Researcher</p>
             <p>
               <time dateTime={lastUpdated}>Updated {formatDate(lastUpdated)}</time>
               <span aria-hidden> · </span>

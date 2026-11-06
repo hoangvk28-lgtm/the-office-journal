@@ -8,6 +8,7 @@ import { getSiloBySlug } from "@/data/silos";
 import { guideDeks } from "@/data/guide-deks";
 import { guideSectionHeadings, type GuideSectionHeadings } from "@/lib/guide-headings";
 import { SafeImage } from "@/components/editorial/SafeImage";
+import { getGuidePhotos, type GuidePhoto } from "@/data/guide-photos";
 import { GuideQuickPicks } from "@/components/guide/editorial/GuideQuickPicks";
 import { GuideProductPick } from "@/components/guide/editorial/GuideProductPick";
 import { GuideJumpTo, GuideTocSidebar, type TocItem } from "@/components/guide/editorial/GuideToc";
@@ -80,6 +81,24 @@ function toAmazonSearchQuery(mainKeyword: string | undefined, slug: string) {
   return kw.replace(/\s+/g, "+");
 }
 
+function GuidePhotoFigure({ photo }: { photo: GuidePhoto }) {
+  return (
+    <figure className="mt-6 max-w-[68ch]">
+      <div className="relative overflow-hidden rounded-md bg-cta-light" style={{ aspectRatio: `${photo.width} / ${photo.height}`, maxHeight: "32rem" }}>
+        <SafeImage
+          src={photo.src}
+          alt={photo.alt}
+          fill
+          sizes="(max-width: 768px) 100vw, 680px"
+          className="object-contain"
+          loading="lazy"
+        />
+      </div>
+      <figcaption className="mt-2 text-sm leading-snug text-ink-secondary">{photo.alt}</figcaption>
+    </figure>
+  );
+}
+
 export function RichGuidePage(props: RichGuidePageProps) {
   const {
     slug, guideTitle, metaDescription, mainKeyword, readTime,
@@ -91,6 +110,15 @@ export function RichGuidePage(props: RichGuidePageProps) {
   const buyingCriteria = props.buyingCriteria ?? [];
   const faq = props.faq ?? [];
   const relatedGuides = props.relatedGuides ?? [];
+  // Real photos placed between buying criteria (after #2 and #4) and after the
+  // first "How to Choose" subsection. Leftovers fall through to the next slot.
+  const photos = getGuidePhotos(slug);
+  const critSlots = buyingCriteria.length >= 4 ? [1, 3] : buyingCriteria.length >= 2 ? [1] : [];
+  const critPhoto = new Map<number, GuidePhoto>();
+  critSlots.forEach((idx, n) => { if (photos[n]) critPhoto.set(idx, photos[n]); });
+  const chooseStart = critPhoto.size;
+  const choosePhoto = new Map<number, GuidePhoto>();
+  photos.slice(chooseStart).forEach((p, n) => { if (howToChoose[n]) choosePhoto.set(n, p); });
 
   const breadcrumbTitle = props.breadcrumbLabel ?? toBreadcrumbTitle(guideTitle);
   const amazonQuery = toAmazonSearchQuery(mainKeyword, slug);
@@ -263,6 +291,7 @@ export function RichGuidePage(props: RichGuidePageProps) {
                       <div className="mt-3 max-w-[68ch] space-y-4 text-base leading-relaxed">
                         {item.explanation.split("\n\n").map((para, pi) => <p key={pi}>{para}</p>)}
                       </div>
+                      {critPhoto.has(i) && <GuidePhotoFigure photo={critPhoto.get(i)!} />}
                     </li>
                   ))}
                 </ol>
@@ -324,6 +353,7 @@ export function RichGuidePage(props: RichGuidePageProps) {
                         </dl>
                       )}
                       {sub.note && <p className="mt-3 text-sm leading-relaxed text-ink-secondary">{sub.note}</p>}
+                      {choosePhoto.has(i) && <GuidePhotoFigure photo={choosePhoto.get(i)!} />}
                     </div>
                   ))}
                 </div>

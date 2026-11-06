@@ -300,6 +300,208 @@ export const guidePhotoSets: Record<string, GuidePhoto[]> = {
       "width": 1400,
       "height": 788
     }
+  ],
+  "air-purifier": [
+    {
+      "src": "/images/guide-photos/air-purifier-01.webp",
+      "alt": "Hand holding a dust-clogged air purifier filter over a sink before cleaning",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "src": "/images/guide-photos/air-purifier-02.webp",
+      "alt": "DIY air purifier made from a white box fan with a filter strapped to the back",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "src": "/images/guide-photos/air-purifier-03.webp",
+      "alt": "Open air purifier housing showing the pleated filter panel inside",
+      "width": 788,
+      "height": 1400
+    },
+    {
+      "src": "/images/guide-photos/air-purifier-04.webp",
+      "alt": "White round tower air purifier with a top control panel and side intake slats",
+      "width": 1118,
+      "height": 1200
+    }
+  ],
+  "air-quality-monitor": [
+    {
+      "src": "/images/guide-photos/air-quality-monitor-01.webp",
+      "alt": "DIY air quality monitor built from a Raspberry Pi, breadboard and particle sensor",
+      "width": 1400,
+      "height": 795
+    },
+    {
+      "src": "/images/guide-photos/air-quality-monitor-02.webp",
+      "alt": "Small air quality display module in a clear acrylic case on a countertop",
+      "width": 1400,
+      "height": 1050
+    }
+  ],
+  "business-card-holder": [
+    {
+      "src": "/images/guide-photos/business-card-holder-01.webp",
+      "alt": "Wooden slide-lid business card box with an engraved lid",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "src": "/images/guide-photos/business-card-holder-02.webp",
+      "alt": "Metal desk card holder built from bicycle gears and a chain",
+      "width": 1080,
+      "height": 816
+    },
+    {
+      "src": "/images/guide-photos/business-card-holder-03.webp",
+      "alt": "Wooden card box next to an acrylic pen stand holding a turned pen",
+      "width": 1120,
+      "height": 1400
+    },
+    {
+      "src": "/images/guide-photos/business-card-holder-04.webp",
+      "alt": "Yellow 3D-printed card case shown closed and open with a stack of cards inside",
+      "width": 960,
+      "height": 1080
+    },
+    {
+      "src": "/images/guide-photos/business-card-holder-05.webp",
+      "alt": "Brown leather card pouch with a flap closure and hand stitching",
+      "width": 1400,
+      "height": 788
+    },
+    {
+      "src": "/images/guide-photos/business-card-holder-06.webp",
+      "alt": "Pocket-size inlaid wooden card case held in one hand",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "src": "/images/guide-photos/business-card-holder-07.webp",
+      "alt": "Hand-tooled leather card holder with a U-shaped cutout, filled with blank cards",
+      "width": 1400,
+      "height": 1400
+    }
+  ],
+  "dehumidifier": [
+    {
+      "src": "/images/guide-photos/dehumidifier-01.webp",
+      "alt": "Compact white dehumidifier with a blue water tank on a windowsill",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "src": "/images/guide-photos/dehumidifier-02.webp",
+      "alt": "Dehumidifier with the cover off, showing a dusty condenser coil",
+      "width": 788,
+      "height": 1400
+    }
+  ],
+  "desk-fan": [
+    {
+      "src": "/images/guide-photos/desk-fan-01.webp",
+      "alt": "Vintage oscillating desk fan with green blades and a wire cage on a workbench",
+      "width": 981,
+      "height": 1400
+    },
+    {
+      "src": "/images/guide-photos/desk-fan-02.webp",
+      "alt": "Restored desk fan with yellow blades and a black base",
+      "width": 480,
+      "height": 854
+    },
+    {
+      "src": "/images/guide-photos/desk-fan-03.webp",
+      "alt": "Retro robot-shaped fan with lit eyes and a front grille",
+      "width": 993,
+      "height": 1400
+    },
+    {
+      "src": "/images/guide-photos/desk-fan-04.webp",
+      "alt": "Cream vintage desk fan on a table beside a bookshelf",
+      "width": 854,
+      "height": 480
+    },
+    {
+      "src": "/images/guide-photos/desk-fan-05.webp",
+      "alt": "Antique brass-blade desk fan in a workshop",
+      "width": 788,
+      "height": 1400
+    },
+    {
+      "src": "/images/guide-photos/desk-fan-06.webp",
+      "alt": "Antique desk fan with brass blades, brass cage and a black cast base",
+      "width": 944,
+      "height": 1400
+    },
+    {
+      "src": "/images/guide-photos/desk-fan-07.webp",
+      "alt": "Vintage desk fan with its cord coiled, waiting for restoration",
+      "width": 1400,
+      "height": 1050
+    }
+  ],
+  "humidifier": [
+    {
+      "src": "/images/guide-photos/humidifier-01.webp",
+      "alt": "Small white humidifier on a bedroom floor, mist rising, with a curious cat beside it",
+      "width": 960,
+      "height": 1280
+    }
+  ],
+  "label-printer": [
+    {
+      "src": "/images/guide-photos/label-printer-01.webp",
+      "alt": "Printed \"Dog\" label with an icon stuck on a spaniel's forehead",
+      "width": 1054,
+      "height": 1400
+    },
+    {
+      "src": "/images/guide-photos/label-printer-02.webp",
+      "alt": "Zebra desktop label printer on an office desk next to shipping paperwork",
+      "width": 854,
+      "height": 480
+    }
+  ],
+  "letter-tray": [
+    {
+      "src": "/images/guide-photos/letter-tray-01.webp",
+      "alt": "Handmade walnut letter tray with dovetailed corners on a workbench",
+      "width": 1400,
+      "height": 1050
+    }
+  ],
+  "printer": [
+    {
+      "src": "/images/guide-photos/printer-01.webp",
+      "alt": "Pocket-size cylindrical mobile printer sitting on a sheet of paper",
+      "width": 636,
+      "height": 358
+    }
+  ],
+  "stapler": [
+    {
+      "src": "/images/guide-photos/stapler-01.webp",
+      "alt": "Close-up of a black desk stapler beside an office phone",
+      "width": 640,
+      "height": 640
+    }
+  ],
+  "tape-dispenser": [
+    {
+      "src": "/images/guide-photos/tape-dispenser-01.webp",
+      "alt": "Green chameleon tape dispenser on a desk in front of a monitor",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "src": "/images/guide-photos/tape-dispenser-02.webp",
+      "alt": "Electric tape dispenser cutting a strip of yellow tape",
+      "width": 960,
+      "height": 540
+    }
   ]
 };
 
@@ -313,6 +515,18 @@ const RULES: { test: RegExp; sets: string[] }[] = [
   { test: /desk-shel|desk-hutch|over-desk-shel/, sets: ["desk-shelf"] },
   { test: /drawer-organi/, sets: ["drawer-organizer", "desk-organizer"] },
   { test: /desk-organi|desktop-organi/, sets: ["desk-organizer"] },
+  { test: /dehumidifier/, sets: ["dehumidifier"] },
+  { test: /humidifier/, sets: ["humidifier"] },
+  { test: /air-purifier/, sets: ["air-purifier", "air-quality-monitor"] },
+  { test: /air-quality/, sets: ["air-quality-monitor", "air-purifier"] },
+  { test: /desk-fan/, sets: ["desk-fan"] },
+  { test: /3d-printer/, sets: [] },
+  { test: /label-(printer|maker)/, sets: ["label-printer", "printer"] },
+  { test: /printer/, sets: ["printer", "label-printer"] },
+  { test: /letter-tray|paper-tray|desk-tray|document-tray/, sets: ["letter-tray"] },
+  { test: /stapler/, sets: ["stapler"] },
+  { test: /tape-dispenser/, sets: ["tape-dispenser"] },
+  { test: /business-card|card-holder/, sets: ["business-card-holder"] },
 ];
 
 function hash(s: string) { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) >>> 0; return h; }

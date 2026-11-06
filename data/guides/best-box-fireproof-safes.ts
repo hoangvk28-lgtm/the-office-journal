@@ -9,11 +9,11 @@ export const buyingCriteria = [
     "explanation": "Verify box fireproof safes's specific fire classification rather than assuming a chest-style box automatically carries the same rating as a full-size safe."
   },
   {
-    "criterion": "",
+    "criterion": "Check Water Resistance Separately",
     "explanation": "A fireproof rating does not guarantee waterproofing; check the water claim independently before assuming basement or flood-zone protection."
   },
   {
-    "criterion": "",
+    "criterion": "Calculate Loaded Carry Weight",
     "explanation": "Chests are marketed on portability, so weigh them loaded with real documents and media, not just empty, before assuming one person can carry it out during an evacuation."
   },
   {
@@ -61,11 +61,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Verify box fireproof safes's specific fire classification rather than assuming a chest-style box automatically carries the same rating as a full-size safe."
   },
   {
-    "subheading": "",
+    "subheading": "Check Water Resistance Separately",
     "note": "A fireproof rating does not guarantee waterproofing; check the water claim independently before assuming basement or flood-zone protection."
   },
   {
-    "subheading": "",
+    "subheading": "Calculate Loaded Carry Weight",
     "note": "Chests are marketed on portability, so weigh them loaded with real documents and media, not just empty, before assuming one person can carry it out during an evacuation."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Recorded fire duration and test temperature separately for each model rather than accepting a vague 'fireproof' label, since a 30-minute rating and a 2-hour rating protect very differently in a real house fire."
   },
   {
-    "title": "",
+    "title": "Water Evidence Verified Independently",
     "description": "Checked water-resistance claims (submersion depth, duration) as a separate fact from the fire rating, since the two protections are tested and certified independently even on the same product."
   },
   {

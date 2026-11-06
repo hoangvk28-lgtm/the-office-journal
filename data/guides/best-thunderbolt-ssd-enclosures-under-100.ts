@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41XhHxmIEZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,11 +74,11 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Tool-free installation with quality lab testing",
-          ""
+          "Lexar E750 40Gbps M.2 NVMe SSD Enclosure"
         ],
         [
           "Intel-certified genuine Thunderbolt 3 technology",
-          ""
+          "SABRENT Thunderbolt 3 M.2 NVMe SSD Enclosure"
         ],
         [
           "Established engineering with the most flexible port compatibility",
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $80",
+          "ICY BOX ($79.99)"
         ],
         [
-          "",
-          ""
+          "Under $89",
+          "OWC ($88.99)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "Lexar E750 or SABRENT (both $89.99)"
         ]
       ]
     }
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Genuine Thunderbolt 3 Certification vs Broader USB4 Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Genuine Thunderbolt 3 (SABRENT)",
         "text": "Provides formal Intel certification specifically for Thunderbolt 3, but requires a genuine Thunderbolt 3 port and won't work with standard USB-C."
       },
       {
@@ -125,11 +125,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you specifically have a Thunderbolt 3 port and want formally certified technology, the SABRENT pick delivers that. If you need broader compatibility across different computers and port types, the other three picks offer more flexibility."
   },
   {
-    "subheading": "",
+    "subheading": "By Installation Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your installation preference",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -138,7 +138,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Comfortable using an included screwdriver",
-          ""
+          "OWC (screwdriver included)"
         ]
       ]
     }
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Buyer Prioritizing Long-Term Warranty Security Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A tiered warranty structure that extends coverage further when purchasing a complete solution, rather than a single flat warranty period regardless of configuration."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The OWC pick's tiered warranty specifically extends to 3 years when purchased as a complete solution with an OWC SSD, longer than the flat 24-month coverage on the ICY BOX pick."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a flexible tiered warranty with a complete accessory package, where the OWC pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want established brand engineering with flexible compatibility, where the ICY BOX pick covers that for about $9 less."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Warranty Structure",
     "description": "Compared tiered warranty offerings and stated coverage length across the lineup."
   },
   {
-    "title": "",
+    "title": "Certification Claims",
     "description": "Distinguished genuine Intel-certified Thunderbolt technology from broader compatibility claims."
   },
   {
-    "title": "",
+    "title": "Installation Method",
     "description": "Compared tool-free versus screwdriver-required installation across all four picks."
   },
   {
-    "title": "",
+    "title": "Port Compatibility",
     "description": "Checked Thunderbolt-only versus broader USB4 and backward compatibility."
   },
   {
-    "title": "",
+    "title": "Brand Quality Assurance",
     "description": "Compared stated in-house testing processes and brand track record."
   }
 ];

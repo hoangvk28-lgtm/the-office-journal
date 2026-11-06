@@ -53,20 +53,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/41c1kZ9IKNL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Movement Type",
     "table": {
       "headers": [
-        "",
+        "What you want",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "A quiet, non-ticking movement",
+          "QIYAODECO Vintage Table Clock Silent Mantel Gold Analog 8.3x9.1in"
         ],
         [
           "A digital, fully silent display",
-          ""
+          "KENJIEY Flip Clock"
         ],
         [
           "Maximum visual personality (flip or mechanical action)",
@@ -76,37 +76,37 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $40",
           "Mooas Flip Desk Clock (Black)"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "QIYAODECO Vintage Table Clock Silent Mantel Gold Analog 8.3x9.1in"
         ],
         [
           "No firm budget ceiling, prioritizing material or brand",
-          ""
+          "KENJIEY Flip Clock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs Corded",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-Powered",
         "text": "Runs on batteries alone, so it can sit anywhere on a desk or shelf with no cord in the way, at the cost of an eventual battery swap."
       },
       {
-        "label": "",
+        "label": "Corded (Plug-In)",
         "text": "Draws continuous power from a wall outlet, often adding features like USB charging ports or a battery backup for outages, but it has to sit within cord length of a plug. In this comparison: none in this specific roundup, since most picks here are battery powered."
       }
     ],
@@ -116,17 +116,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Purpose: Everyday Use vs Gift",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your purpose",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday functional desk use",
           "Mooas Flip Desk Clock (Black)"
         ],
         [
           "A gift or milestone piece",
-          ""
+          "Wkevnu Vintage Flip Clock"
         ]
       ]
     }
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buying as a Gift Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine material language, such as hand carved, real marble, or real crystal, rather than a marble-look or crystal-look plastic finish, plus a stated production or engraving lead time if personalization is involved."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Wkevnu Vintage Flip Clock fits this specifically: Genuine flip mechanism at an accessible price tier. That's the kind of detail that signals a deliberate gift rather than a purely functional purchase."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what KENJIEY Flip Clock offers: Genuine gear-driven flip mechanism. That's a real material or craftsmanship upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Mooas Flip Desk Clock (Black) already covers the essentials: Genuine flip mechanism, not a printed retro face. The main thing you'd be paying extra for elsewhere in this list is styling rather than function."
       }
     ]

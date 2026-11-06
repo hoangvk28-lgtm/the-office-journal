@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/31685mw+XnL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "QWORK 4 Pack Flexible Document Holder for Monitor"
         ],
         [
-          "",
+          "Continuous transcription/typing",
           "3M Desktop Document Holder for Monitor"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "QWORK 4 Pack Flexible Document Holder for Monitor"
         ],
         [
-          "",
+          "Mid-range pick",
           "1\" Transparent Acrylic Monitor Memo Board"
         ],
         [
-          "",
+          "Higher budget",
           "QWORK 4 Pack Flexible Document Holder for Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Freestanding",
     "cards": [
       {
         "label": "QWORK 4 Pack Flexible Document Holder for Monitor)",
         "text": "Sits between monitor and keyboard, minimal head movement."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits beside the monitor at eye level, more placement flexibility."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Letter/A4 size",
           "3M Desktop Document Holder for Monitor"
         ],
         [
-          "",
+          "Legal size or larger",
           "1\" Transparent Acrylic Monitor Memo Board"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Transcription Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A line guide feature and independently adjustable angle and height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3M Desktop Document Holder for Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where QWORK 4 Pack Flexible Document Holder for Monitor justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where QWORK 4 Pack Flexible Document Holder for Monitor already covers the job at the lowest price here."
       }
     ]

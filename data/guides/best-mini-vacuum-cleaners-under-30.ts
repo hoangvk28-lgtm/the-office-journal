@@ -36,7 +36,7 @@ export const faq = [
     "a": "Corded gives consistent suction with no battery to manage and costs less, while cordless offers real portability but typically runs only 8 to 22 minutes with suction weakening as the charge drains."
   },
   {
-    "q": "",
+    "q": "Are mini vacuums loud?",
     "a": "Cordless models typically run around 55 to 62 DB, noticeable in a quiet shared office; check buyer reviews for real-world noise impressions if discretion matters."
   },
   {
@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ES4+OEA1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Keyboard crumbs",
           "IFTHFOUR Computer Vacuum Cleaner Cordless"
         ],
         [
-          "",
+          "Whole-desk cleaning",
           "Vishui Mini Desk Vacuum Cleaner"
         ],
         [
-          "",
+          "Car interior",
           "KIMO Leaf Blower Cordless with Battery and Charger"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "IFTHFOUR Computer Vacuum Cleaner Cordless"
         ],
         [
-          "",
+          "Mid-range pick",
           "LYFUHUI Car Handheld Vacuum Cordless 13000 PA Suction Power"
         ],
         [
-          "",
+          "Higher budget",
           "KIMO Leaf Blower Cordless with Battery and Charger"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Corded vs Cordless",
     "cards": [
       {
         "label": "IFTHFOUR Computer Vacuum Cleaner Cordless)",
         "text": "Consistent suction, no battery to manage, lower price."
       },
       {
-        "label": "",
+        "label": "Cordless",
         "text": "Portable and quiet, but suction fades as the battery drains."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Suction Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday light cleaning",
           "Vishui Mini Desk Vacuum Cleaner"
         ],
         [
-          "",
+          "Maximum suction power",
           "LYFUHUI Car Handheld Vacuum Cordless 13000 PA Suction Power"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tight Keyboard Crevices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A narrow brush or crevice nozzle attachment included in the box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Vishui Mini Desk Vacuum Cleaner is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where KIMO Leaf Blower Cordless with Battery and Charger justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where IFTHFOUR Computer Vacuum Cleaner Cordless already covers the job at the lowest price here."
       }
     ]

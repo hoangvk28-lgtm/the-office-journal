@@ -55,80 +55,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip & Camera Tripod Adapter Rechargeable 2200mAh CRI 97+"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Cyezcor Video Conference Lighting Kit"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $11",
           "Anautin Ring Light for Video Conference Lighting"
         ],
         [
-          "",
+          "Up to $22",
           "Evershop Ring Light for Laptop Desk Clip On"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs Wired",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-powered",
         "text": "No extra cable to route, freely repositionable, but needs charging. In this comparison: ALTSON 60 LED Portable Selfie Light Video Conference Lighting with Clip & Camera Tripod Adapter Rechargeable 2200mAh CRI 97+."
       },
       {
-        "label": "",
+        "label": "Wired (USB-powered)",
         "text": "Reliably powered as long as it's plugged in, no charging to remember. In this comparison: Cyezcor Video Conference Lighting Kit, Video Conference Lighting Kit, Evershop Ring Light for Laptop Desk Clip On, InnoGear Ring Light for Computer On, Anautin Ring Light for Video Conference Lighting."
       }
     ],
     "note": "Default to wired unless cable-free positioning matters for your desk setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Color Temperature Adjustability",
     "note": "Check each pick's listed color temperature range in Kelvin against your room's existing ambient lighting before buying, not just brightness alone."
   },
   {
     "subheading": "For Accurate Skin Tone on Camera Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed CRI rating of 95 or higher, not just brightness or wattage figures, since CRI is what actually determines how natural skin tone looks on camera."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Cyezcor Video Conference Lighting Kit discloses a CRI rating worth checking before buying."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Accurate color rendering and adjustability matter for how you look on calls, where Evershop Ring Light for Laptop Desk Clip On's features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic supplemental lighting for occasional calls, where Anautin Ring Light for Video Conference Lighting covers the same job at a lower price."
       }
     ]
@@ -145,8 +145,8 @@ export const howWeEvaluated = [
     "description": "Considered whether each pick offers just clip mounting or also a stand option, and noted that clip thickness compatibility with your specific screen should be verified regardless of which pick you choose."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Review base as evidence of reliable real-world clip fit and build quality",
+    "description": "Weighed larger, more established review bases more heavily as evidence that a clip-on design fits a wide range of monitors and laptops reliably."
   }
 ];
 

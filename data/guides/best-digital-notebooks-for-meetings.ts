@@ -53,7 +53,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/31x5OLmX1ZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
         "What you need it for",
@@ -61,30 +61,30 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "",
+          "Everyday note-taking and reading",
           "Rocketbook Core Reusable Spiral Notebook"
         ],
         [
-          "",
+          "AI-assisted or document-heavy work",
           "ReMarkable Paper Pro with Marker Plus"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $30",
           "Rocketbook Core Reusable Spiral Notebook"
         ],
         [
-          "",
+          "Mid-range",
           "ReMarkable 2 with Marker Plus"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "AI Features Included vs Subscription-Gated",
     "cards": [
       {
-        "label": "",
+        "label": "Included, No Subscription",
         "text": "AI note tools come with the purchase price, no ongoing cost. In this comparison: check each listing's terms directly."
       },
       {
-        "label": "",
+        "label": "Subscription-Gated",
         "text": "Advanced AI features require an ongoing paid plan on top of the hardware price. In this comparison: reMarkable 2 with Marker Plus, reMarkable Paper Pro with Marker Plus."
       }
     ],
@@ -112,43 +112,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "ReMarkable 2 with Marker Plus"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "ReMarkable 2 with Marker Plus"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Handwriting-to-Text Conversion Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of handwriting-to-text conversion (not just \"AI\" generally), and whether that specific feature is included or requires a subscription."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Noteorius Smart Notebook with Pen and Folio fits this specifically: Real-time sync for near-instant note sharing."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what reMarkable Paper Pro with Marker Plus offers: Color display for action-item coding. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Rocketbook Core Reusable Spiral Notebook already covers the essentials: low-cost for meeting note filing. The main thing you'd be paying extra for elsewhere in this list is features or storage you may not need."
       }
     ]
@@ -166,7 +166,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Structured formats credited where explicitly offered",
-    "description": ""
+    "description": "Noted planner or agenda-style page layouts as a genuine advantage for buyers with recurring structured meetings."
   },
   {
     "title": "Cross-platform compatibility checked for team use",

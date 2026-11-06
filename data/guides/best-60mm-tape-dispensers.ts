@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41BG3frrzUL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "Rotary Disc Tape Cutting Machine"
         ],
         [
           "Regular desk or office use",
-          ""
+          "TENDO Basic Line"
         ],
         [
-          "",
+          "High-volume packing",
           "Automatic Tape Dispenser, Ribbon Cutting Machine, 6-60mm Width"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "Rotary Disc Tape Cutting Machine"
         ],
         [
-          "",
+          "Mid-range pick",
           "BEAMNOVA Upgraded Pink Ribbon Cutter Machine Automatic Tape Dispenser"
         ],
         [
-          "",
+          "Higher budget",
           "Automatic Tape Dispenser, Ribbon Cutting Machine, 6-60mm Width"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "Rotary Disc Tape Cutting Machine)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard clear or packing tape",
-          ""
+          "TENDO Basic Line"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "BEAMNOVA Upgraded Pink Ribbon Cutter Machine Automatic Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TENDO Basic Line is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Automatic Tape Dispenser, Ribbon Cutting Machine, 6-60mm Width justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Rotary Disc Tape Cutting Machine already covers the job at the lowest price here."
       }
     ]

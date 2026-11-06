@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HUANUO Printer Stand with Cable Management and Storage Drawer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HUANUO Printer Stand with Cable Management and Storage Drawer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $26",
+          "Sywhitta 3"
         ],
         [
-          "",
-          ""
+          "Up to $95",
+          "DEVAISE 3"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Weight Capacity vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Sywhitta 3",
         "text": "The lower-priced option in this comparison, worth checking its weight capacity against your printer's actual weight."
       },
       {
-        "label": "",
+        "label": "DEVAISE 3",
         "text": "The higher-priced option, worth it if it offers real capacity or stability headroom above the cheaper pick."
       }
     ],
     "note": "Default to Sywhitta 3 unless your printer's weight calls for more capacity."
   },
   {
-    "subheading": "",
+    "subheading": "By Ventilation Clearance",
     "note": "Check each pick's design for open clearance around your printer's exhaust and paper output path before buying, not just its front-facing dimensions."
   },
   {
     "subheading": "For a Heavy All-in-One Printer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weight capacity with real margin above your printer's actual listed weight, and genuine vibration stability confirmed in reviews, not just static capacity."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since weight capacity isn't consistently disclosed across every stand in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your printer is heavy or used frequently throughout the day, where DEVAISE 3's capacity and stability give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You have a light, compact printer used only occasionally, where Sywhitta 3 covers the same job at a lower price."
       }
     ]
@@ -150,15 +150,15 @@ export const howWeEvaluated = [
     "description": "Compared plastic versus rubber caster wheels, since plastic casters can mark or scratch hardwood floors over time while rubber wheels roll more quietly and grip better."
   },
   {
-    "title": "",
+    "title": "Stability while printing",
     "description": "Weighed frame rigidity and caster locking ability, since vibration during an active print job combined with a weak lock can cause a rolling stand to drift a few inches mid-job."
   },
   {
-    "title": "",
+    "title": "Per-shelf and total capacity",
     "description": "Checked shelf material, metal, plastic, or fabric-lined drawers, against realistic printer and supply weight rather than assuming every tier holds the same load."
   },
   {
-    "title": "",
+    "title": "Cable and floor-clearance realism",
     "description": "Considered cord length relative to rolling distance, since a short power cable limits how far a stand can actually roll before the cord goes taut and gets yanked."
   },
   {

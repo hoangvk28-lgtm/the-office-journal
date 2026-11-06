@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41M3yXoryHL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $350",
+          "4-Position Power Strip Cart ($349.99)"
         ],
         [
-          "",
-          ""
+          "Under $360",
+          "OFLILAK ($359.99)"
         ],
         [
-          "",
-          ""
+          "Under $380",
+          "ALT Technology ($379.90)"
         ],
         [
-          "",
-          ""
+          "Around $547",
+          "Pearington ($547.28)"
         ]
       ]
     }
@@ -129,24 +129,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your organization's procurement policy specifically requires UL-certified electrical equipment, the ALT Technology pick's explicit UL approval satisfies that requirement directly. If general surge protection is sufficient, the Pearington or OFLILAK picks cover that need."
   },
   {
-    "subheading": "",
+    "subheading": "By Maximum Laptop Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your laptop size",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Up to 13 inches",
+          "Pearington"
         ],
         [
-          "",
-          ""
+          "Up to 14 inches",
+          "ALT Technology"
         ],
         [
-          "",
-          ""
+          "Up to 16.3 inches",
+          "4-Position Power Strip Cart"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a School District Standardizing Cart Purchases Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Precise, documented slot dimensions in the listing, so procurement staff can confirm fit against the district's specific device model before bulk ordering."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5in height) specifically support confident bulk procurement decisions."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest device capacity with front-and-back locking access and surge protection, where the Pearington pick delivers all three at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need 36-device capacity for larger laptops without surge protection, where the 4-Position Power Strip cart covers that for about $197 less."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Device Capacity",
     "description": "Compared stated device counts ranging from 32 to 36 units across the lineup."
   },
   {
-    "title": "",
+    "title": "Maximum Screen Size Compatibility",
     "description": "Compared stated maximum laptop or tablet screen sizes each cart supports."
   },
   {
-    "title": "",
+    "title": "Lock and Access Design",
     "description": "Checked front-only versus front-and-back locking access across all four picks."
   },
   {
-    "title": "",
+    "title": "Electrical Safety Certification",
     "description": "Compared UL approval, surge protection, and circuit safety features across the lineup."
   },
   {
-    "title": "",
+    "title": "Build Quality",
     "description": "Compared steel construction, anti-rust treatment, and padded shelf design for device protection."
   }
 ];

@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/417sCYQ-ZAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Casual desk use",
           "House Gem Coffee Mug Warmer for Desk"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "12V Car Heating Cup Travel Coffee Maker Cup Insulated Water Heater Mug"
         ],
         [
-          "",
+          "Gift or bundle use",
           "Portable Bottle Warmer for Travel, Fast Heating & Milk Warmer On The Go"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "House Gem Coffee Mug Warmer for Desk"
         ],
         [
-          "",
+          "Mid-range pick",
           "FVPE Car Electric Kettle with Boil & Keep Warm for Commute/Travel, 450ML"
         ],
         [
-          "",
+          "Higher budget",
           "Portable Bottle Warmer for Travel, Fast Heating & Milk Warmer On The Go"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs Wall-Powered",
     "cards": [
       {
         "label": "House Gem Coffee Mug Warmer for Desk)",
         "text": "Plugs into a laptop or power bank, weaker heating strength."
       },
       {
-        "label": "",
+        "label": "Wall-powered",
         "text": "Stronger, more consistent heating, needs a free outlet."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Control Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simple, no-fuss warming",
           "12V Car Heating Cup Travel Coffee Maker Cup Insulated Water Heater Mug"
         ],
         [
-          "",
+          "Adjustable temperature control",
           "FVPE Car Electric Kettle with Boil & Keep Warm for Commute/Travel, 450ML"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Large or Insulated Mug Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wide base plate matched to your mug's diameter, and a ceramic or non-insulated mug material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "12V Car Heating Cup Travel Coffee Maker Cup Insulated Water Heater Mug is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Portable Bottle Warmer for Travel, Fast Heating & Milk Warmer On The Go justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where House Gem Coffee Mug Warmer for Desk already covers the job at the lowest price here."
       }
     ]

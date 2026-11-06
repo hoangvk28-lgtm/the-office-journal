@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31+E8F6Ed6L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tracking Surface Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Controlled, precise movement",
           "Logitech Studio Series Desk Mat Large 28x12 Inches"
         ],
         [
-          "",
+          "Fast, low-friction glide",
           "Logitech G840 XL Cloth Gaming Mouse Pad (900x400x3)"
         ],
         [
-          "",
+          "Budget cloth surface",
           "Logitech Studio Series Small Mouse Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Logitech Studio Series Small Mouse Pad"
         ],
         [
-          "",
+          "Mid-range pick",
           "Logitech G240 Cloth Gaming Mouse Pad (340x280x1)"
         ],
         [
-          "",
+          "Higher budget",
           "Logitech G840 XL Cloth Gaming Mouse Pad (900x400x3)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Hard Surface",
     "cards": [
       {
         "label": "Logitech Studio Series Desk Mat Large 28x12 Inches)",
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Size vs Your Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "Logitech Studio Series Small Mouse Pad"
         ],
         [
-          "",
+          "Standard desk",
           "Logitech Studio Series Desk Mat Large 28x12 Inches"
         ],
         [
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Logitech Studio Series Desk Mat Large 28x12 Inches is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where Logitech G840 XL Cloth Gaming Mouse Pad (900x400x3) justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward cloth pad for everyday use, where Logitech Studio Series Small Mouse Pad already covers the job at the lowest price here."
       }
     ]

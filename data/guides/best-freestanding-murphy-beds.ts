@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Create"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Create"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $197",
           "Queen Size Murphy Bed Hardware Kit"
         ],
         [
-          "",
+          "Up to $753",
           "Peanu Queen Murphy Bed Cabinet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Built-In Storage vs Desk-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in storage",
         "text": "Adds shelving or cabinet space beyond just the desk, useful in a smaller room. In this comparison: Peanu Queen Murphy Bed Cabinet, roomfitters Queen Size Wood Murphy Cabinet Bed with Rattan Storage Drawer, roomfitters Full Size Wood Murphy Cabinet Bed with Rattan Storage Drawer, Yoobure Queen Murphy Bed with Charging Station."
       },
       {
-        "label": "",
+        "label": "Desk-only",
         "text": "Simpler, focuses cabinet space on the fold-down desk itself. In this comparison: Peanu Queen Bed Frame, LIVAUVEAD Farmhouse Queen Size Murphy Bed with Charging Station, Create, Queen Size Murphy Bed Hardware Kit."
       }
     ],
     "note": "Default to desk-only unless extra built-in storage solves a real space problem for you."
   },
   {
-    "subheading": "",
+    "subheading": "By Room Clearance Requirements",
     "note": "Check each pick's listed minimum ceiling height and wall clearance against your room's actual measured dimensions before buying, not just the general size category."
   },
   {
     "subheading": "For a Studio Apartment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Verified real desk integration with a stated weight limit, plus confirmed ceiling height and wall clearance for your specific room."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Create is worth checking against its listed clearance requirements before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You'll fold the unit daily as part of an active desk-bed routine, where Peanu Queen Murphy Bed Cabinet's build quality and mechanism give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The bed stays in one position most of the time, where Queen Size Murphy Bed Hardware Kit covers the same job at a lower price."
       }
     ]

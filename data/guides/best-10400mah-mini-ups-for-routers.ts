@@ -41,42 +41,42 @@ export const heroImage = "https://m.media-amazon.com/images/I/31zzzW2SW3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Watt-Hour Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 38Wh capacity",
           "Yuuki Power Mini UPS 10400mAh"
         ],
         [
-          "",
+          "Around 37Wh capacity",
           "Mini UPS Battery Backup for Router"
         ],
         [
-          "",
+          "Around 18Wh capacity",
           "Luqeeg 10400mAh Mini UPS Battery Backup"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $28",
           "Luqeeg 10400mAh Mini UPS Battery Backup"
         ],
         [
-          "",
+          "Up to $NaN",
           "Mini UPS Battery Backup 10400mAh"
         ]
       ]
@@ -86,42 +86,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "PoE Output vs DC-Only Rails",
     "cards": [
       {
-        "label": "",
+        "label": "PoE output",
         "text": "Can back up a router and a PoE camera off one unit over a single Ethernet run, worth checking passive vs active PoE compatibility. In this comparison: Yuuki Power Mini UPS 10400mAh."
       },
       {
-        "label": "",
+        "label": "DC rails only",
         "text": "Simpler and covers standard router power needs without PoE complexity. In this comparison: Mini UPS Battery Backup for Router, Luqeeg 10400mAh Mini UPS Battery Backup, Mini UPS Battery Backup 10400mAh 18Wh, Mini UPS Battery Backup 10400mAh."
       }
     ],
     "note": "Default to DC-only unless you specifically need to back up a PoE device from the same unit."
   },
   {
-    "subheading": "",
+    "subheading": "By Connector Type",
     "note": "Check each pick's listed connector size and polarity against your router's original power adapter before buying, not just the voltage number. Luqeeg 10400mAh Mini UPS Battery Backup is worth starting with if you want the most affordable option."
   },
   {
     "subheading": "For Router Plus Modem Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Two independent output rails at different voltages, or a confirmed combined wattage ceiling that covers both devices' actual draw without a Y-splitter."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Luqeeg 10400mAh Mini UPS Battery Backup is worth checking against its listed dual-rail output before buying."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Outages regularly exceed an hour or you're backing up multiple devices, where Mini UPS Battery Backup 10400mAh's higher capacity gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a short bridge through brief flickers for a single router, where Luqeeg 10400mAh Mini UPS Battery Backup covers the same job at a lower price."
       }
     ]
@@ -138,15 +138,15 @@ export const howWeEvaluated = [
     "description": "Normalized battery capacity to watt-hours wherever the listing or official spec sheet provided pack voltage, since mAh alone is not comparable across products with different cell configurations."
   },
   {
-    "title": "",
+    "title": "Combined Output Ceiling",
     "description": "Looked for an explicit maximum continuous wattage figure, since routers and secondary devices (modems, cameras) sharing one UPS need headroom under that ceiling, not just individually rated ports."
   },
   {
-    "title": "",
+    "title": "Connector & Protection Documentation",
     "description": "Favored listings that specify exact connector size, polarity, and safety protections (short-circuit, overcharge, over-discharge, temperature) over listings that only market broad 'wide compatibility' claims."
   },
   {
-    "title": "",
+    "title": "Real Feature Differentiators",
     "description": "Weighed genuine differentiators, PoE output, LCD status displays, dual charging inputs, LiFePO4 battery chemistry, over marketing language that repeats across nearly identical products."
   }
 ];

@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/518TXRC1-mL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Portability Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget tier",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -107,25 +107,25 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Fixed-Bed Portable vs Handheld",
     "cards": [
       {
-        "label": "",
+        "label": "Fixed-bed portable (e.g. Twotrees TS1, ACMER S1)",
         "text": "Object must fit inside the machine's bed, but setup and operation are simpler and cheaper, and enclosed models add containment during the job."
       },
       {
-        "label": "",
+        "label": "Handheld (LaserPecker LP2)",
         "text": "Engraves directly onto objects too large or oddly shaped to fit a bed, including cylindrical items with the rotary attachment, at a meaningfully higher price."
       }
     ],
     "note": "Most buyers doing small, flat, portable projects should default to a fixed-bed model unless engraving oversized or cylindrical objects specifically requires the handheld LaserPecker LP2."
   },
   {
-    "subheading": "",
+    "subheading": "By Power Source",
     "table": {
       "headers": [
-        "",
-        ""
+        "Power situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Frequent Relocation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Minimal setup steps each time the machine is unpacked, a phone app or touchscreen that doesn't require a laptop, and safety hardware like tilt or enclosure detection built for repeated moves."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ATOMSTACK P1 5W Laser Engraver Dual includes tilt and enclosure detection specifically aimed at a machine that gets packed and unpacked repeatedly, plus Class 1 enclosed safety for use in unfamiliar spaces."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need handheld engraving on oversized or cylindrical objects (LaserPecker LP2) or field-portable battery-powered marking for commercial use (PEKOKO L4Ultra)."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Projects are small and flat, where ACMER S1 Laser Engraver Machine, 2500mW or Twotrees TS1 Mini Laser Engraver, Enclosed cover the job at a fraction of the cost."
       }
     ]
@@ -169,11 +169,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Actual Weight and Footprint",
     "description": "Compared stated weight and folded/packed dimensions across the lineup, since 'portable' claims varied widely, from a handheld galvo unit to a 3kg enclosed machine that's portable only in the sense of being movable between rooms."
   },
   {
-    "title": "",
+    "title": "Setup Time When Relocated",
     "description": "Checked assembly and calibration steps required each time a machine is unpacked and set up in a new location, since a machine that needs re-leveling or refocusing after every move is less portable than one that doesn't."
   },
   {

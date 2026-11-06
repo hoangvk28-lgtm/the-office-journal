@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51+NCPHB1gL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,20 +83,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "$165-$180",
+          "ASUS ProArt PA247CV ($169.00) or Sceptre 32-inch QHD ($178.97)"
         ],
         [
-          "",
-          ""
+          "$185-$190",
+          "ASUS BE249CGN 96W Docking Monitor ($184.99) or ViewSonic VX2767U-2K ($189.99)"
         ]
       ]
     }
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Delta E under 2 accuracy backed by Calman verification, ideal for photo editing or design work where color precision matters more than screen real estate."
       },
       {
-        "label": "",
+        "label": "32\" Uncalibrated (Sceptre QHD)",
         "text": "Significantly more screen space and a faster 210Hz refresh rate, but without factory calibration, better suited to gaming, general productivity, or media consumption."
       }
     ],
@@ -119,12 +119,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By USB-C Power Delivery Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your laptop's charging needs",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under 65W (most ultrabooks)",
           "ASUS ProArt PA247CV or ViewSonic VX2767U-2K, both at 65W"
         ],
         [
@@ -138,24 +138,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Growing Multi-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "DisplayPort daisy-chain support, which lets you connect additional monitors from the first one without needing extra ports on your laptop or desktop."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The ASUS BE249CGN specifically supports DisplayPort daisy-chaining, making it the easiest pick to expand into a multi-monitor setup later."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need maximum USB-C charging wattage for a power-hungry laptop, where the ASUS BE249CGN's 96W delivery is the strongest option in this guide."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A 24\" panel with solid color accuracy is enough, where the ASUS ProArt PA247CV delivers factory calibration for the lowest price in this comparison."
       }
     ]
@@ -168,7 +168,7 @@ export const howWeEvaluated = [
     "description": "Checked which listings state a specific Delta E figure and independent verification like Calman, versus general color gamut percentages without calibration backing."
   },
   {
-    "title": "",
+    "title": "USB-C Power Delivery Wattage",
     "description": "Compared stated wattage figures across the lineup, since laptop charging needs range from under 45W ultrabooks to 90W+ power-hungry machines."
   },
   {
@@ -176,11 +176,11 @@ export const howWeEvaluated = [
     "description": "Weighed larger screen size against resolution and calibration precision, since this price range forces a real choice between the two."
   },
   {
-    "title": "",
+    "title": "Additional Connectivity Features",
     "description": "Noted extras like built-in Ethernet, DisplayPort daisy-chaining, and built-in speakers that differentiate otherwise similar monitors."
   },
   {
-    "title": "",
+    "title": "Warranty Coverage",
     "description": "Compared stated warranty length across the lineup, since coverage terms vary even among similarly priced and specced monitors."
   }
 ];

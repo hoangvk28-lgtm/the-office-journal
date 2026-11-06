@@ -57,34 +57,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51WKJQn6WkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fully dark, dedicated room",
           "Alvar Upgraded 4K Supported Smart Projector with 2500 ANSI"
         ],
         [
-          "",
+          "Some ambient light",
           "4K-Projector with WiFi and Bluetooth"
         ],
         [
           "Bright room or daytime use",
-          ""
+          "Optoma GT2400HDR"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -92,12 +92,12 @@ export const howToChoose: HowToChooseSection[] = [
           "Projector with WiFi and Bluetooth:"
         ],
         [
-          "",
+          "Mid-range pick",
           "4K-Projector with WiFi and Bluetooth"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Optoma GT2400HDR"
         ]
       ]
     }
@@ -106,7 +106,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Laser vs Lamp-Based Light Source",
     "cards": [
       {
-        "label": "",
+        "label": "Laser-lit models (e.g. Optoma GT2400HDR)",
         "text": "No bulb to replace and instant full brightness, at a higher upfront price that pays off mainly under frequent, heavy use."
       },
       {
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most casual, weekly-use buyers should default to a lamp-based pick unless they'll run it daily, where laser's near-zero maintenance pays for itself over a few years."
   },
   {
-    "subheading": "",
+    "subheading": "By Throw Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Alvar Upgraded 4K Supported Smart Projector with 2500 ANSI is worth checking against its documented native contrast figures before assuming any headline contrast number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want laser reliability and top-tier brightness, where Optoma GT2400HDR justifies the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want casual, occasional use, where Projector with WiFi and Bluetooth: already covers the job at the lowest price here."
       }
     ]

@@ -56,36 +56,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Aurora AU1210MA Professional Grade High Security 12"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Bonsaii 18"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $75",
           "Amazon Basics High Security Micro Cut Paper Shredder"
         ],
         [
-          "",
-          ""
+          "Up to $180",
+          "Bonsaii 120"
         ]
       ]
     }
@@ -98,23 +98,23 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Bonsaii 120",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Amazon Basics High Security Micro Cut Paper Shredder unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Bonsaii 18"
         ]
       ]
     }
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Bonsaii 18 is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Bonsaii 120's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Amazon Basics High Security Micro Cut Paper Shredder covers the same job at a lower price."
       }
     ]
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Slide-rail durability signals from review volume and rating",
-    "description": ""
+    "description": "Weighed established brand reputation and large review bases as an indirect signal for slide-rail longevity, since short-term reviews don't directly test months of repeated heavy pulling."
   },
   {
     "title": "Static cling and caster mobility as usability factors",

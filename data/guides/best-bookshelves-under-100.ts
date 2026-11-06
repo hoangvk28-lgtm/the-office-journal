@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Cp0ympEFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "$66-$70",
+          "IRONCK ($66.59) or VASAGLE 5-Tier ($69.99)"
         ],
         [
-          "",
-          ""
+          "$75-$80",
+          "Shintenchi with Doors ($74.99) or VASAGLE Floor Cabinet ($79.99)"
         ]
       ]
     }
@@ -117,20 +117,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you want to showcase a curated book collection, open shelving works best. If you're storing items you'd rather keep out of sight and dust-free, an enclosed or mixed design serves that need better."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your space",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Tall ceiling, want maximum vertical storage",
-          ""
+          "IRONCK (70.8\") or Shintenchi (70.9\")"
         ],
         [
           "Standard room, moderate height preferred",
-          ""
+          "VASAGLE 5-Tier (52.8\") or VASAGLE Floor Cabinet (42.7\")"
         ]
       ]
     }
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Documents or Clutter You Want Hidden Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A bookshelf or cabinet with genuine enclosed doors, rather than relying on open shelving alone to keep a space looking tidy."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The VASAGLE Floor Storage Cabinet is the only fully enclosed pick here, ideal for keeping all contents completely out of sight."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want both open display and enclosed dust-protected storage in one unit, where the Shintenchi pick combines both at the top of this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A tall, open bookcase covers your needs, where the IRONCK pick delivers the most height and tiers at the lowest price here."
       }
     ]
@@ -169,11 +169,11 @@ export const howWeEvaluated = [
     "description": "Distinguished fully open shelving from partially or fully enclosed cabinet designs, since this represents a genuine functional choice, not just an aesthetic one."
   },
   {
-    "title": "",
+    "title": "Height and Vertical Storage",
     "description": "Compared overall height and tier count across the lineup, since taller units meaningfully increase vertical storage capacity."
   },
   {
-    "title": "",
+    "title": "Shelf Height Adjustability",
     "description": "Compared how many tiers offer adjustable height positions and how many distinct settings each provides."
   },
   {

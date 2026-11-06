@@ -5,11 +5,11 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Separate roller",
     "explanation": "Separate roller, chuck and jaw/ring rotary architectures by object type. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
-    "criterion": "",
+    "criterion": "Publish minimum/maximum diameter",
     "explanation": "Publish minimum/maximum diameter, length and weight plus taper compensation capability. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "Verify machine Z-height/enclosure clearance and whether risers are required. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
-    "criterion": "",
+    "criterion": "Compare setup time",
     "explanation": "Compare setup time, jaw/roller marks, cable routing and software rotary configuration. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   }
 ];
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51W1Pj+YXdL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -76,11 +76,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget tier",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,7 +88,7 @@ export const howToChoose: HowToChooseSection[] = [
           "TOOCAA NOVA 10W Smart Laser Engraver,5MP AI Camera Positioning"
         ],
         [
-          "",
+          "Best overall value",
           "Algolaser 10W Laser Engraver and Cutter"
         ]
       ]
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to Algolaser 10W Laser Engraver and Cutter unless your specific use case points toward TOOCAA NOVA 10W Smart Laser Engraver,5MP AI Camera Positioning's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title (material, feature, or use case) verified directly on the product listing, not assumed from the category."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Algolaser 10W Laser Engraver and Cutter is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on LaserPecker LP2 Laser Engraver, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by Algolaser 10W Laser Engraver and Cutter without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hard-scope eligibility",
     "description": "Keep `Best Laser Engravers for Tumbler` as its own target and require the exact source, material, wattage, brand, accessory, price or workflow modifier."
   },
   {
-    "title": "",
+    "title": "Source-first evidence",
     "description": "Publish wavelength/source architecture, true optical output, spot/field/work area and process mechanism before speed claims."
   },
   {
-    "title": "",
+    "title": "Representative-job protocol",
     "description": "Disclose material, coating, thickness, focus, power, speed, frequency/pulse where relevant, passes, air assist and measured result."
   },
   {
-    "title": "",
+    "title": "Safety/process score",
     "description": "Document laser class/access controls, enclosure/interlocks, extraction, fire supervision, material restrictions and required PPE/control area where applicable."
   },
   {
-    "title": "",
+    "title": "Ownership/production verdict",
     "description": "Include camera/rotary calibration, software, consumables, exhaust/cooling, source life/replacement, service and total ready-to-run cost."
   }
 ];

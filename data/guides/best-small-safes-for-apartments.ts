@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "Which pick has the smallest mounting footprint to patch at move-out?",
-    "a": ""
+    "a": "The Yuanshikj Small Steel Security Safe Box, at a compact 9.05 x 6.69 x 6.69 inches."
   },
   {
     "q": "Why does this list have 7 products instead of 8?",
@@ -57,42 +57,42 @@ export const heroImage = "https://m.media-amazon.com/images/I/413jIpPxMOL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Protection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Fire or water resistance claimed",
-          ""
+          "Small Safe for Home"
         ],
         [
-          "",
+          "Genuine anti-removal, bolt-down support",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $17",
           "Master Lock Small Travel Safe with Cable"
         ],
         [
-          "",
+          "Up to $85",
           "KornerBatl 20 lb Biometric Safe with Fingerprint Lock & LED Light"
         ]
       ]
@@ -102,27 +102,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Biometric Fingerprint vs Keypad Code",
     "cards": [
       {
-        "label": "",
+        "label": "Biometric fingerprint",
         "text": "Fastest single-user access with nothing to remember, but usually harder to grant temporary access to someone else. In this comparison: KornerBatl 20 lb Biometric Safe with Fingerprint Lock & LED Light."
       },
       {
-        "label": "",
+        "label": "Keypad code",
         "text": "Easy to share a code with a family member or guest, and no battery-dependent sensor to fail. In this comparison: Yuanshikj Small Steel Security Safe Box with Keypad, Small Safe for Home, Bonsaii Safe Box with Electronic Keypad for Home Office, Voncabay Money Safe Box for Home with Digital Keypad, Bonsaii Small Safe Box with Electronic Keypad for Valuables."
       }
     ],
     "note": "Default to a keypad safe unless you specifically want single-user fingerprint speed and won't need to share access."
   },
   {
-    "subheading": "",
+    "subheading": "By Fire Protection",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Fire resistance claimed",
+          "Small Safe for Home"
         ],
         [
           "Theft deterrence only, no fire claim",
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Storing Documents or Cash Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed interior dimension roomy enough for the actual items, plus a backup access method beyond just a keypad."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Yuanshikj Small Steel Security Safe Box with Keypad is worth checking against its listed interior dimensions before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're storing valuable or irreplaceable items, where KornerBatl 20 lb Biometric Safe with Fingerprint Lock & LED Light's higher price buys real security or fire-protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic theft deterrence for low-value items, where Master Lock Small Travel Safe with Cable covers the same job at a lower price."
       }
     ]

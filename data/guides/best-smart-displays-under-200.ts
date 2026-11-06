@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/21rWQnplIkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $127",
+          "Echo Show 5 Bundle with Stand ($126.98)"
         ],
         [
-          "",
-          ""
+          "Under $135",
+          "Like-New Echo Show 8 ($134.99)"
         ],
         [
-          "",
-          ""
+          "Under $138",
+          "Google Nest Hub Bulk ($137.99)"
         ],
         [
-          "",
-          ""
+          "Under $200",
+          "Echo Show 8 Newest Model ($199.99)"
         ]
       ]
     }
@@ -118,11 +118,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Newest Generation vs Certified Refurbished Previous Generation",
     "cards": [
       {
-        "label": "",
+        "label": "Newest generation (Echo Show 8, $199.99)",
         "text": "Includes the latest AZ3 Pro chip and Omnisense technology for the fastest, most personalized experience available."
       },
       {
-        "label": "",
+        "label": "Certified refurbished previous generation (Like-New Echo Show 8, $134.99)",
         "text": "Delivers the same screen size and smart home hub at a meaningfully lower price, without the newest chip."
       }
     ],
@@ -132,8 +132,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Smart Home Hub Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your smart home setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -145,8 +145,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Echo Show 5 with Adjustable Stand"
         ],
         [
-          "",
-          ""
+          "Google Assistant ecosystem devices",
+          "Google Nest Hub"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Kitchen Counter Recipe and Video Call Station Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A larger screen with a capable camera for both recipe viewing and hands-free video calling while cooking."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Either Echo Show 8 pick's larger 8-inch screen and auto-framing camera suit this kitchen use case well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the newest chip generation and most advanced smart home automation, where the newest Echo Show 8 delivers genuine performance and feature upgrades over the previous generation."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want the same 8-inch screen size and smart home hub without the newest chip, where the certified refurbished Like-New Echo Show 8 covers that for about $65 less."
       }
     ]
@@ -181,7 +181,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Processing Chip and Performance",
     "description": "Compared stated processing chip generation and its impact on device responsiveness and feature capability."
   },
   {
@@ -193,11 +193,11 @@ export const howWeEvaluated = [
     "description": "Compared camera resolution, auto-framing, and noise reduction features for video calling."
   },
   {
-    "title": "",
+    "title": "Value Relative to Generation",
     "description": "Weighed newest-generation features against certified refurbished or previous-generation pricing."
   },
   {
-    "title": "",
+    "title": "Voice Assistant Ecosystem",
     "description": "Distinguished Alexa-based picks from the Google Assistant-based Nest Hub."
   }
 ];

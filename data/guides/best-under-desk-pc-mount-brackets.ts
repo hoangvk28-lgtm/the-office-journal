@@ -61,59 +61,59 @@ export const heroImage = "https://m.media-amazon.com/images/I/418wmGky6tL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": []
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $17",
           "Upgraded Adjustable Under Desk Mini PC Bracket"
         ],
         [
-          "",
-          ""
+          "Up to $35",
+          "VIVO Universal UPS"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Weight Capacity vs Price",
     "cards": [
       {
         "label": "Upgraded Adjustable Under Desk Mini PC Bracket",
         "text": "The lower-priced option in this comparison, worth checking its disclosed capacity against your tower's actual loaded weight."
       },
       {
-        "label": "",
+        "label": "VIVO Universal UPS",
         "text": "The higher-priced option, worth it if it offers real headroom above the cheaper pick's rating."
       }
     ],
     "note": "Default to Upgraded Adjustable Under Desk Mini PC Bracket unless your tower's loaded weight calls for more capacity."
   },
   {
-    "subheading": "",
+    "subheading": "By Disclosed Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Standard mid-tower fit",
+          "VIVO Under"
         ]
       ]
     }
@@ -122,24 +122,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavier Modern Tower Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed weight capacity meaningfully above the generic mid-tower assumption, ideally with the tested figure stated in pounds, not a vague marketing term."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since capacity isn't consistently disclosed across every mount in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your tower is a heavier modern build with multiple drives or a discrete GPU, where VIVO Universal UPS's higher price buys real capacity headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your case is a lightweight, standard mid-tower, where Upgraded Adjustable Under Desk Mini PC Bracket covers the same job at a lower price."
       }
     ]
@@ -156,7 +156,7 @@ export const howWeEvaluated = [
     "description": "Verified bracket material and thickness for adequate load-bearing given how central this single component is to the overall mount's safety and capacity."
   },
   {
-    "title": "",
+    "title": "Mounting-method-category compatibility clarified",
     "description": "Clarified compatibility with the pillar's various mounting-method categories, clamp, screw, adhesive, since 'bracket' could describe the load-bearing component used across multiple different attachment methods."
   },
   {

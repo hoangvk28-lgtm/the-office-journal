@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "Light Matte Screen Protector to fit the Dell U4919DW 49\" Curved Monitor"
         ],
         [
-          "",
+          "Laptop screen",
           "Light Matte Screen Protector to fit the Dell U4919DW 49\" Curved Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $122",
           "Light Matte Screen Protector to fit the Dell U4919DW 49\" Curved Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "2-Way Privacy Filter for Samsung CHG90 QLED 49\" Curved Gaming Monitor"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: check each listing's mounting method, it isn't always stated clearly."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: none explicitly confirmed in this specific roundup, check the listing directly before assuming."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Light Matte Screen Protector to fit the Dell U4919DW 49\" Curved Monitor"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Light Matte Screen Protector to fit the Dell U4919DW 49\" Curved Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Light Matte Screen Protector to fit the Dell U4919DW 49\" Curved Monitor fits this specifically: Lowest price among 49 inch curved options."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what 2-Way Privacy Filter for Samsung Odyssey G95C 49\" Curved Gaming Monitor offers: Model-specific fit for the newer Odyssey G95C's exact curve. That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Light Matte Screen Protector to fit the Dell U4919DW 49\" Curved Monitor already covers the essentials: Lowest price among 49 inch curved options. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]

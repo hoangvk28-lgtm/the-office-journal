@@ -28,7 +28,7 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "q": "",
+    "q": "Is a 10 inch LCD writing tablet better than 8.5 inches?",
     "a": "5 inch screen too small for your notes or sketches."
   },
   {
@@ -56,36 +56,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "10 inch LCD Writing Tablet Electronic Writing Notebook with PU Protective Cover Erasable Drawing Pad Gift for Adults at Home Business Office"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "10 inch LCD Writing Tablet Electronic Writing Notebook with PU Protective Cover Erasable Drawing Pad Gift for Adults at Home Business Office"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $9",
           "LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board eWriter Drawing Pad with Memory Lock Kids & Adults Home School Office Handwriting Tablet Gifts"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "KOKODI LCD Writing Tablet"
         ],
         [
           "No firm budget ceiling, prioritizing features or styling",
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Kids-Marketed vs Adult-Marketed",
     "cards": [
       {
-        "label": "",
+        "label": "Kids-Marketed",
         "text": "Bright colors and character branding, often the same core technology as adult versions at a similar or lower price. In this comparison: LCD Writing Tablet for Kids, Bravokids 10 Inch LCD Writing Tablet for 3-8 Year Olds, TEKFUN LCD Writing Tablet for Kids."
       },
       {
-        "label": "",
+        "label": "Adult-Marketed",
         "text": "Neutral styling suited to an office desk, sometimes at a price premium for the plainer look alone. In this comparison: 10 inch LCD Writing Tablet Electronic Writing Notebook with PU Protective Cover Erasable Drawing Pad Gift for Adults at Home Business Office, LCD Writing Tablet for Kids, LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board eWriter Drawing Pad with Memory Lock Kids & Adults Home School Office Handwriting Tablet Gifts."
       }
     ],
@@ -112,43 +112,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "With Memory Lock vs Basic Erase",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Prevent accidental erasing",
           "LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board eWriter Drawing Pad with Memory Lock Kids & Adults Home School Office Handwriting Tablet Gifts"
         ],
         [
-          "",
+          "Simplest single-button design",
           "10 inch LCD Writing Tablet Electronic Writing Notebook with PU Protective Cover Erasable Drawing Pad Gift for Adults at Home Business Office"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Gift-Giving Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear age-range marketing if buying for a specific child, genuine screen size (not just overall unit size), and a replaceable coin-cell battery for the longest useful life."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "LCD Writing Tablet for Kids fits this specifically: Very low price for a full 10 inch screen."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what 10 inch LCD Writing Tablet Electronic Writing Notebook with PU Protective Cover Erasable Drawing Pad Gift for Adults at Home Business Office offers: Genuine 10 inch writing surface. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board eWriter Drawing Pad with Memory Lock Kids & Adults Home School Office Handwriting Tablet Gifts already covers the essentials: Very low price for a 10 inch screen with lock function. The main thing you'd be paying extra for elsewhere in this list is styling or accessories you may not need."
       }
     ]

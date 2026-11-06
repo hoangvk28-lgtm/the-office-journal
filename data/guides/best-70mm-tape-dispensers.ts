@@ -61,71 +61,71 @@ export const heroImage = "https://m.media-amazon.com/images/I/41KynzhK9YL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Occasional light use",
+          "CURBY Water-Activated Tape"
         ],
         [
           "Regular desk or office use",
           "NSA Automatic Tape Dispenser ZCUT-870 Automatic Feeding and Cutting with Motion"
         ],
         [
-          "",
+          "High-volume packing",
           "Solid Iron Desktop Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "CURBY Water-Activated Tape"
         ],
         [
-          "",
+          "Mid-range pick",
           "Scotch Magic Tape with Scotch Desktop Dispenser"
         ],
         [
-          "",
+          "Higher budget",
           "Solid Iron Desktop Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
-        "label": "",
+        "label": "Desktop (e.g. CURBY Water-Activated Tape)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "NSA Automatic Tape Dispenser ZCUT-870 Automatic Feeding and Cutting with Motion"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "Scotch Magic Tape with Scotch Desktop Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "NSA Automatic Tape Dispenser ZCUT-870 Automatic Feeding and Cutting with Motion is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Solid Iron Desktop Tape Dispenser justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where CURBY Water-Activated Tape already covers the job at the lowest price here."
       }
     ]

@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $64",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ],
         [
-          "",
-          ""
+          "Up to $210",
+          "Brother DCP"
         ]
       ]
     }
@@ -106,22 +106,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Brother DCP",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Canon PIXMA TS4320 Wireless Color Inkjet Printer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Canon PIXMA TS4320 Wireless Color Inkjet Printer is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Brother DCP's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon PIXMA TS4320 Wireless Color Inkjet Printer covers the same job at a lower price."
       }
     ]
@@ -180,7 +180,7 @@ export const howWeEvaluated = [
 
 export const introParagraphs = [
   "Printing on cardstock is not the same task as printing on plain paper, and a printer that handles standard 20lb office paper without issue can jam, smudge, or simply refuse to pull heavier 65lb to 110lb stock through its rollers. The right pick depends on how the printer feeds thick paper, whether it uses ink or toner, and how far you can adjust the print head clearance for very heavy stock.",
-  ""
+  "Below are 8 printers we compared for cardstock handling, from budget inkjets that manage light cardstock through the rear tray to an ink-tank workhorse built for high-volume invitation runs, ranging from $64.00 to $209.99."
 ];
 
 export const lastUpdated = "2026-07-25";

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/21a+pKv8HmL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,24 +84,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "$425-$430",
+          "Samsung T7 Shield Portable SSD 2TB ($424.99) or Samsung T9 Portable SSD 2TB ($429.99)"
         ],
         [
-          "",
-          ""
+          "$435-$440",
+          "Crucial X10 4TB Portable SSD ($438.24)"
         ],
         [
-          "",
-          ""
+          "$445-$450",
+          "Sandisk 2TB Extreme Portable SSD ($449.78)"
         ]
       ]
     }
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Multiple brand and speed options at this capacity, letting you prioritize durability, brand, or raw speed independently. Best if 2TB covers your storage needs with room to spare."
       },
       {
-        "label": "",
+        "label": "4TB (Crucial X10)",
         "text": "Double the capacity for only a small price premium over the 2TB Samsung pick, without sacrificing IP65 durability. Best if you're unsure whether 2TB will be enough long-term."
       }
     ],
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Durability-Focused vs Speed-Focused Within the Same Brand",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Fieldwork or Outdoor Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated IP rating number and a specific drop-height figure, not just general \"rugged\" marketing language, especially at this price tier where the expectation for documented testing is higher."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "8ft drop resistance, making either a solid fit for rugged conditions."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the Sandisk 2TB Extreme Portable SSD's higher speed with Sandisk's established brand name specifically, even without a stated IP rating to match the Samsung and Crucial picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The Samsung T7 Shield Portable SSD 2TB's documented durability and health software already cover your needs at the lowest price point in this comparison."
       }
     ]
@@ -177,15 +177,15 @@ export const howWeEvaluated = [
     "description": "Compared value across both capacity tiers present in this price range, since a 4TB drive at a similar price to a 2TB drive represents a meaningfully different value proposition."
   },
   {
-    "title": "",
+    "title": "Bundled Software Value",
     "description": "Noted what software each drive includes, from drive-health monitoring tools to photo management or backup software trials, and how long any trial periods last."
   },
   {
-    "title": "",
+    "title": "Same-Brand Model Positioning",
     "description": "Where a brand offers multiple models at a similar price and capacity, like Samsung's T7 Shield and T9, compared their distinct positioning (durability versus speed) rather than treating them as redundant."
   },
   {
-    "title": "",
+    "title": "USB Generation Requirements",
     "description": "Checked which top speed figures require a Gen 2x2-capable host device to actually achieve, since several picks in this comparison need that specific port generation to hit their full rated speed."
   }
 ];

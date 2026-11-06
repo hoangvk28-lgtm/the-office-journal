@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/410l2IjuwXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "An integrated cable with both HDMI 2.1 and DisplayPort 1.4",
           "Lenovo USB4 Smart Dock 5500"
         ],
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $32",
+          "StarTech Thunderbolt 3 Mini Dock ($31.99)"
         ],
         [
-          "",
-          ""
+          "Under $110",
+          "StarTech BYOD Dock ($109.99)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "Plugable Dual DisplayPort & HDMI ($159.99)"
         ],
         [
-          "",
-          ""
+          "Under $260",
+          "Lenovo USB4 Smart Dock 5500 ($259.99)"
         ]
       ]
     }
@@ -121,18 +121,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Delivers uncompressed video with full gaming and protected content support, since it's powered directly by your laptop's own graphics hardware."
       },
       {
-        "label": "",
+        "label": "DisplayLink compression (Plugable)",
         "text": "Explicitly does not support gaming or protected content playback like Netflix or Hulu, since the video is processed in software rather than passed through natively."
       }
     ],
     "note": "If you need to game or stream protected video content through your external monitors, choose a native-video dock like either StarTech pick. If you only need displays for office productivity and web browsing, the Plugable DisplayLink dock's tradeoffs won't matter."
   },
   {
-    "subheading": "",
+    "subheading": "By Deployment Scenario",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup context",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -140,7 +140,7 @@ export const howToChoose: HowToChooseSection[] = [
           "StarTech Driverless USB-C Dual DisplayPort Dock"
         ],
         [
-          "",
+          "Single home office desk",
           "Lenovo USB4 Smart Dock 5500 or StarTech Mini Dock"
         ]
       ]
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Gaming or Streaming Protected Video Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock explicitly stating native, uncompressed video output rather than DisplayLink technology, since DisplayLink-based docks specifically cannot handle gaming or HDCP-protected content like Netflix."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both StarTech picks specifically state native GPU-powered video with no software compression, directly supporting gaming and protected content playback."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want an integrated cable design with both HDMI 2.1 and DisplayPort 1.4 outputs in one dock, where the Lenovo pick justifies its $259.99 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You want native uncompressed dual DisplayPort output at the lowest possible price, where the StarTech Mini Dock delivers that for $31.99."
       }
     ]
   }
@@ -176,7 +176,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Native vs DisplayLink Video",
     "description": "Compared uncompressed native GPU video against DisplayLink software-compressed video paths."
   },
   {
@@ -184,15 +184,15 @@ export const howWeEvaluated = [
     "description": "Compared docks explicitly supporting gaming versus those explicitly excluding it."
   },
   {
-    "title": "",
+    "title": "Host Charging",
     "description": "Compared docks that charge the host laptop against those that don't."
   },
   {
-    "title": "",
+    "title": "Deployment Scenario Fit",
     "description": "Compared BYOD/enterprise deployment features against home office productivity focus."
   },
   {
-    "title": "",
+    "title": "Price and Cable Design",
     "description": "Compared integrated versus detachable cable designs and overall price."
   }
 ];

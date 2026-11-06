@@ -57,24 +57,24 @@ export const heroImage = "https://m.media-amazon.com/images/I/41vOA84B1YL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $24",
           "Storex Portable Letter/Legal Filebox with Organizer Lid"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "File Organizer Storage Box"
         ],
         [
           "No firm budget ceiling, prioritizing security or durability",
@@ -84,14 +84,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: Vaultz File Organizer Storage Box, Vaultz Portable File Box with Handle, File Organizer Storage Box."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: check each listing's closure type directly."
       }
     ],
@@ -101,8 +101,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -116,24 +116,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Vaultz Portable File Box with Handle offers: Dual locking points more prying-resistant. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Storex Portable Letter/Legal Filebox with Organizer Lid already covers the essentials: Highest review count of any pick here. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -142,15 +142,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Lock mechanism type decoding",
     "description": "We identified whether each pick uses a genuine key lock, combination lock, or basic latch marketed loosely as 'lockable,' since these represent very different actual security levels."
   },
   {
-    "title": "",
+    "title": "Realistic security expectation setting",
     "description": "We were explicit that these are deterrent-level locks appropriate for casual access prevention, not safe-grade security against determined tampering."
   },
   {
-    "title": "",
+    "title": "Key or combination management",
     "description": "We considered the practical risk of a lost key or forgotten combination, and whether a backup or reset process exists."
   },
   {

@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51X7Uq2lFLL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "Mind Reader 4-Tier Paper Tray"
         ],
         [
-          "",
+          "Several distinct categories",
           "Marbrasse 4 Tier Paper Organizer Letter Tray"
         ],
         [
-          "",
+          "High document volume",
           "AZFUNN 4 Tier Paper Tray Organizer for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Mind Reader 4-Tier Paper Tray"
         ],
         [
-          "",
+          "Mid-range pick",
           "Marbrasse 4-Tier Paper Tray Organizer with File Holder"
         ],
         [
-          "",
+          "Higher budget",
           "AZFUNN 4 Tier Paper Tray Organizer for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "Mind Reader 4-Tier Paper Tray)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "Marbrasse 4 Tier Paper Organizer Letter Tray"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Marbrasse 4 Tier Paper Organizer Letter Tray is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where AZFUNN 4 Tier Paper Tray Organizer for Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Mind Reader 4-Tier Paper Tray already covers the job at the lowest price here."
       }
     ]

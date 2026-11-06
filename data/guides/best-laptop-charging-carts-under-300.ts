@@ -40,7 +40,7 @@ export const faq = [
     "a": "Both match on price, capacity, and core lock security, so the choice mainly comes down to whether numbered slots for device tracking (Meteteel) or a detailed assembly video with direct support (POCHAR) matters more for your specific setup."
   },
   {
-    "q": "",
+    "q": "How do I know if my laptops will fit in a cart rated for 14-inch screens with 1.5-inch thickness?",
     "a": "Measure your laptop's actual screen diagonal and total thickness including any case, since a device that measures slightly over the stated thickness limit due to a protective case may not fit properly in the slot."
   },
   {
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41wRqaxuTcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Meteteel 30 Device Charging Cart"
         ],
         [
-          "",
+          "Direct manufacturer assembly support",
           "POCHAR 30 Unit Device Charging Station"
         ],
         [
@@ -81,31 +81,31 @@ export const howToChoose: HowToChooseSection[] = [
           "VEVOR 16 Device Charging Station with Lock and Key"
         ],
         [
-          "",
+          "Wider laptop compatibility up to 15.6 inches",
           "POCHAR 20-Device Laptop Charging Cart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $230",
+          "VEVOR ($229.90)"
         ],
         [
-          "",
-          ""
+          "Under $250",
+          "POCHAR 20-Device ($249.99)"
         ],
         [
-          "",
-          ""
+          "Under $300",
+          "Meteteel or POCHAR 30 Unit (both $299.99)"
         ]
       ]
     }
@@ -118,27 +118,27 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Adds genuine key-lock security for devices left unattended, at the cost of slower access during frequent device swaps."
       },
       {
-        "label": "",
+        "label": "Open-frame (POCHAR 20-Device)",
         "text": "Prioritizes fast, unrestricted access and wider laptop compatibility over locked security."
       }
     ],
     "note": "If your cart will sit unsupervised between uses, a locking cabinet pick like the Meteteel or POCHAR 30 Unit is worth the tradeoff. If speed of access and larger laptop compatibility matter more, the open-frame POCHAR 20-Device pick is the better fit."
   },
   {
-    "subheading": "",
+    "subheading": "By Device Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device size",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Up to 14 inches",
           "Meteteel or POCHAR 30 Unit"
         ],
         [
-          "",
-          ""
+          "Up to 15.6 inches",
+          "POCHAR 20-Device or VEVOR"
         ]
       ]
     }
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Organization Without Dedicated IT Support Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A cart with a detailed assembly video and direct manufacturer support contact, since setup issues need to be resolved without in-house technical staff."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The POCHAR 30 Unit pick's assembly video and direct manufacturer support specifically address setup and troubleshooting without needing dedicated IT staff."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need genuine 30-device lock security with numbered slots for daily tracking, where the Meteteel pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need lock security and surge protection without 30-device capacity, where the VEVOR pick covers that for about $70 less."
       }
     ]
@@ -173,7 +173,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Lock Mechanism",
     "description": "Compared genuine locking cabinet doors against open-frame designs with only caster locks."
   },
   {
@@ -181,15 +181,15 @@ export const howWeEvaluated = [
     "description": "Compared stated device counts and maximum supported screen sizes across the lineup."
   },
   {
-    "title": "",
+    "title": "Circuit and Power Safety",
     "description": "Checked for circuit breakers, grounding protection, and surge protection across all four picks."
   },
   {
-    "title": "",
+    "title": "Assembly and Support",
     "description": "Compared included assembly instructions, video guides, and manufacturer support availability."
   },
   {
-    "title": "",
+    "title": "Cable Management Design",
     "description": "Compared zig-zag frames, charger holders, and rear cable systems for organization."
   }
 ];

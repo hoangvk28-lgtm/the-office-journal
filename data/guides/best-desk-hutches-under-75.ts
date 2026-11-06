@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41W1Of8GGoL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Maximum compartmentalized storage",
           "Nromant Desktop Bookshelf, 6-Shelf Desk Storage Hutch"
         ],
         [
@@ -82,34 +82,34 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A simple, no-frills shelf without extra features",
-          ""
+          "Classic Dorm Desk Bookshelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around $51",
+          "Homiflex ($51.02)"
         ],
         [
-          "",
-          ""
+          "Around $56",
+          "Tangkula ($55.99)"
         ],
         [
-          "",
-          ""
+          "Around $60",
+          "Nromant ($59.99)"
         ],
         [
-          "",
-          ""
+          "Up to $75",
+          "Classic Dorm ($74.14)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Powered Hutches vs Plain Storage Hutches",
     "cards": [
       {
-        "label": "",
+        "label": "Powered (Homiflex)",
         "text": "Adds built-in outlets and LED lighting, letting you charge devices or run a desk lamp right at shelf level without extra cords."
       },
       {
@@ -129,28 +129,28 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you regularly need to charge something near your monitor or want ambient lighting, the Homiflex pick's power access is worth the tradeoff in cubby count. If you just need storage, the other three picks deliver more shelving for the money."
   },
   {
-    "subheading": "",
+    "subheading": "By Stability Hardware",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your stability concern",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Maximum anti-tip protection",
           "Nromant (wall anchors plus anti-falling baffle)"
         ],
         [
-          "",
-          ""
+          "Reinforced structural rigidity",
+          "Tangkula (reinforced back crossbar)"
         ],
         [
           "Power access over stability hardware",
-          ""
+          "Homiflex"
         ],
         [
           "Simple, stable placement without hardware",
-          ""
+          "Classic Dorm"
         ]
       ]
     }
@@ -159,24 +159,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office Video Call Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Built-in lighting or power access so you can position a ring light or charge a webcam accessory right behind your monitor."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Homiflex pick's built-in outlets and RGB LED strip specifically support powering call-setup accessories without extra cords crossing your desk."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the most dedicated storage cubbies and stability hardware combined, where the Nromant pick delivers the deepest feature set in this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a basic shelf with a laptop or monitor pocket, where the Homiflex pick covers that plus power access for about $23 less than the Classic Dorm pick."
       }
     ]
@@ -185,23 +185,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Power and Lighting Features",
     "description": "Checked which picks include built-in outlets, USB ports, or LED lighting versus pure open-shelf storage."
   },
   {
-    "title": "",
+    "title": "Stability Hardware",
     "description": "Compared anti-tip wall anchors, anti-falling baffles, and reinforcement hardware across the lineup."
   },
   {
-    "title": "",
+    "title": "Storage Configuration",
     "description": "Compared shelf count, dedicated cubby storage, and monitor or laptop clearance areas."
   },
   {
-    "title": "",
+    "title": "Construction Quality",
     "description": "Distinguished engineered wood, particle board, and reinforcement features like back crossbars."
   },
   {
-    "title": "",
+    "title": "Value at Price Point",
     "description": "Weighed feature set against price to identify which picks justify their position in this tier."
   }
 ];

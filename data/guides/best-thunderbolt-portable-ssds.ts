@@ -36,7 +36,7 @@ export const faq = [
     "a": "Rarely to the theoretical maximum. Consumer NAND and controllers are usually the real bottleneck well before the interface's full bandwidth is used."
   },
   {
-    "q": "",
+    "q": "Who actually needs a Thunderbolt drive over USB4 or USB 3.2?",
     "a": "Buyers doing large video files, multi-stream editing, or who already own Thunderbolt-equipped hardware benefit most. Casual document and photo transfers rarely need it."
   }
 ];
@@ -49,15 +49,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41eTFK7clfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Capacity",
     "table": {
       "headers": [
-        "",
+        "Your storage need",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Lightest everyday storage needs",
           "Corsair EX400U Survivor 1TB USB4 External SSD"
         ],
         [
@@ -68,19 +68,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $239",
           "Corsair EX400U Survivor 1TB USB4 External SSD"
         ],
         [
-          "",
+          "Mid-range",
           "Corsair EX400U 2TB USB4 Portable External Type-C SSD"
         ],
         [
@@ -91,25 +91,25 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "TLC vs QLC NAND",
     "cards": [
       {
-        "label": "",
+        "label": "TLC NAND",
         "text": "Better sustained write speed and longer-term endurance, especially once any onboard cache is exhausted during a large transfer. In this comparison: check each listing's specs directly, NAND type isn't always disclosed."
       },
       {
-        "label": "",
+        "label": "QLC NAND",
         "text": "More capacity per dollar, at the cost of a bigger sustained-speed drop once the cache fills on long transfers. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
     "note": "NAND type isn't explicitly confirmed for every pick here, check each specific listing's technical details if sustained speed matters to your workflow."
   },
   {
-    "subheading": "",
+    "subheading": "Rugged/Waterproof vs Standard Build",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "SABRENT Rocket XTRM 5 2TB Thunderbolt 5 Portable SSD"
         ],
         [
-          "",
+          "Slimmest, lightest everyday carry",
           "Corsair EX400U 2TB USB4 Portable External Type-C SSD"
         ]
       ]
@@ -127,11 +127,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Large Sustained Transfers (Video Editing) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "TLC NAND specifically, a stated sustained write speed (not just the peak burst number), and a USB generation on both drive and host that actually supports the rated speed."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Corsair EX400U Survivor 1TB USB4 External SSD fits this specifically: Thunderbolt-compatible speed at a lower price than certified drives."
       }
     ]
@@ -140,16 +140,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Corsair EX400U Survivor 1TB USB4 External SSD"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Corsair EX400U 2TB USB4 Portable External Type-C SSD"
         ]
       ]
@@ -167,11 +167,11 @@ export const howWeEvaluated = [
     "description": "Noted that even top-tier Thunderbolt drives likely do not fully saturate the interface's theoretical maximum given real NAND and controller limits."
   },
   {
-    "title": "",
+    "title": "Cable certification checked",
     "description": "Flagged where a drive includes a properly certified cable, since a non-certified passive cable can cause real instability on Thunderbolt connections."
   },
   {
-    "title": "",
+    "title": "Cross-platform consistency",
     "description": "Considered that Mac versus Windows Thunderbolt compatibility can show driver or performance inconsistencies worth knowing about before buying."
   }
 ];

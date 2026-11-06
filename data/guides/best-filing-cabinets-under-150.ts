@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31h+ZIjbQzL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $100",
+          "VASAGLE ($99.99)"
         ],
         [
-          "",
-          ""
+          "Under $105",
+          "Letaya Mobile ($104.99)"
         ],
         [
-          "",
-          ""
+          "Under $140",
+          "VIYET 4-Drawer ($139.99)"
         ],
         [
-          "",
-          ""
+          "Under $180",
+          "Letaya Lateral ($179.99)"
         ]
       ]
     }
@@ -118,27 +118,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Wall-Anchored Anti-Tip vs Mechanical Interlock Safety",
     "cards": [
       {
-        "label": "",
+        "label": "Wall-anchored (VASAGLE)",
         "text": "Physically secures the cabinet to a wall, preventing tipping regardless of how many drawers are open simultaneously."
       },
       {
-        "label": "",
+        "label": "Mechanical interlock (Letaya Lateral)",
         "text": "Prevents multiple drawers from opening at once, keeping the center of gravity stable without needing wall attachment."
       }
     ],
     "note": "If you can't or don't want to attach the cabinet to a wall, the Letaya Lateral's interlock system provides tip safety without that requirement. If you prefer the flexibility of opening any drawer freely, the VASAGLE's wall anchor achieves safety differently."
   },
   {
-    "subheading": "",
+    "subheading": "By Lock Independence Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your access control needs",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lock specific drawers while leaving others open",
-          ""
+          "VASAGLE (independent locks)"
         ],
         [
           "One lock for the whole unit",
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Home Office With Mixed Access Needs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Independently lockable drawers so you can restrict access to specific sensitive documents while leaving shared files accessible."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The VASAGLE pick's independently lockable drawers are specifically designed for this kind of mixed-access scenario."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a mechanical interlock safety system with the deepest, most spacious drawers, where the Letaya Lateral pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want independent drawer locks and anti-tip wall hardware without paying for the most drawers, where the VASAGLE pick covers that for the lowest price here."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Drawer Count and Capacity",
     "description": "Compared total drawer count and stated dimensions across the lineup."
   },
   {
-    "title": "",
+    "title": "Lock Independence",
     "description": "Checked whether drawers lock independently or share a single locking mechanism."
   },
   {
-    "title": "",
+    "title": "Anti-Tip Safety Design",
     "description": "Compared wall-anchoring kits and mechanical interlock systems designed to prevent tipping."
   },
   {
-    "title": "",
+    "title": "Mobility",
     "description": "Compared caster count and locking wheel designs for mobile versus stationary use."
   },
   {
-    "title": "",
+    "title": "Material and Corrosion Resistance",
     "description": "Compared steel thickness and powder coating claims across the lineup."
   }
 ];

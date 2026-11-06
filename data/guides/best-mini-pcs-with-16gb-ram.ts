@@ -53,38 +53,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/415bG0b3CeL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
+        "What you're running",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
           "Light everyday or office use",
-          ""
+          "QAZIPO Mini PC"
         ],
         [
-          "",
+          "Demanding, sustained workloads",
           "MeLE Quieter4C N150 Fanless Mini PC with Win-11-Pro 16GB RAM DDR4 512GB SSD"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $309",
+          "QAZIPO Mini PC"
         ],
         [
-          "",
+          "Mid-range",
           "MeLE Fanless Mini PC Quieter 4C N150"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fanless (Passive) vs Actively Cooled",
     "cards": [
       {
-        "label": "",
+        "label": "Fanless, Passive Cooling",
         "text": "Completely silent with no moving parts, at the cost of throttling under sustained heavy load. In this comparison: MeLE Quieter4C N150 Fanless Mini PC with Win-11-Pro 16GB RAM DDR4 512GB SSD, MeLE Fanless Mini PC Quieter 4C N150."
       },
       {
-        "label": "",
+        "label": "Actively Cooled (Fan)",
         "text": "Sustains heavier workloads longer without throttling, at the cost of some fan noise under load. In this comparison: GEEKOM A6 Mini PC, ACEMAGIC Mini PC Windows 11 Pro, QAZIPO Mini PC."
       }
     ],
@@ -112,13 +112,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By RAM and Storage Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Lightest low-cost configuration",
+          "QAZIPO Mini PC"
         ],
         [
           "Maximum RAM and storage headroom",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For GPU-Accelerated Work or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated GPU or a confirmed Oculink/Thunderbolt EGPU connection explicitly stated in the listing, not just a generic \"gaming capable\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms dedicated or external GPU support; check our EGPU-focused mini PC roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what MeLE Quieter4C N150 Fanless Mini PC with Win-11-Pro 16GB RAM DDR4 512GB SSD offers: Explicitly fanless for silent operation. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "QAZIPO Mini PC already covers the essentials: Generous 512GB SSD avoids the storage limitations of typical budget picks. The main thing you'd be paying extra for elsewhere in this list is headroom you may not need."
       }
     ]

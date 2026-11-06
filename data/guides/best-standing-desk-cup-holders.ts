@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Universal Large Desk Cup Holder Clamp"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "OOKUU Upgraded Large Desk Cup Holder Clamp"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "HzTinT Large Desk Cup Holder"
         ],
         [
-          "",
+          "Up to $20",
           "OOKUU Deeper Desk Cup Holder"
         ]
       ]
@@ -98,42 +98,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Metal Clamp vs Plastic Clamp",
     "cards": [
       {
-        "label": "",
+        "label": "Metal clamp",
         "text": "Holds its grip strength longer under repeated tightening, the better choice if you reposition the holder often. In this comparison: 360° Rotating Desk Cup Holder, OOKUU Deeper Desk Cup Holder."
       },
       {
-        "label": "",
+        "label": "Plastic clamp",
         "text": "Usually lighter and cheaper, a reasonable choice if you clamp it once and leave it in place. In this comparison: Universal Large Desk Cup Holder Clamp."
       }
     ],
     "note": "Default to a metal clamp unless price is the deciding factor and you won't reposition the holder often."
   },
   {
-    "subheading": "",
-    "note": ""
+    "subheading": "By Cavity Diameter",
+    "note": "Check each pick's disclosed cavity diameter against your specific tumbler width before buying, since \"large\" isn't a consistent spec across listings, OOKUU Upgraded Large Desk Cup Holder Clamp is the most-reviewed option if you want the safer bet."
   },
   {
     "subheading": "For an Oversized Tumbler Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed cavity diameter in inches, not just a vague \"large\" label, since oversized tumblers vary in exact width and a mismatched cavity won't grip securely."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "OOKUU Upgraded Large Desk Cup Holder Clamp is worth checking against its listed diameter spec before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a metal clamp and deeper cavity, where OOKUU Deeper Desk Cup Holder's higher price buys real durability and tip resistance over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You use a standard-size mug and rarely bump your desk, where HzTinT Large Desk Cup Holder covers the same job at a lower price."
       }
     ]
@@ -142,19 +142,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Desktop-mounted vs. frame-mounted",
     "description": "We confirmed each pick clamps to the moving desktop surface itself, so it travels naturally with height adjustment rather than staying at a fixed frame height."
   },
   {
-    "title": "",
+    "title": "Stability during height-adjustment motion",
     "description": "We considered whether a full cup risks spilling during the actual raising and lowering transition, particularly for desks that move quickly."
   },
   {
-    "title": "",
+    "title": "Full height-range positioning comfort",
     "description": "We noted whether the holder's position remains comfortably reachable across the desk's full height-adjustment range, not just at one set height."
   },
   {
-    "title": "",
+    "title": "Thick desktop compatibility",
     "description": "We checked clamp opening ranges against the thicker, laminated desktop edges common on many standing desk models."
   }
 ];

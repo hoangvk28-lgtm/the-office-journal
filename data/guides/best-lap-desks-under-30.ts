@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51xr6pmNokL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $23",
+          "SONGMICS ($22.79)"
         ],
         [
-          "",
-          ""
+          "Under $23.50",
+          "GORILLA GRIP ($22.99)"
         ],
         [
-          "",
-          ""
+          "Under $25",
+          "LAPGEAR Cup Holder ($24.99)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "HUANUO ($27.99)"
         ]
       ]
     }
@@ -118,27 +118,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Cup Holder vs Device Slot Priority",
     "cards": [
       {
-        "label": "",
+        "label": "Cup holder (LAPGEAR)",
         "text": "Holds a drink securely on the desk surface itself, ideal if you regularly work with coffee or water nearby."
       },
       {
-        "label": "",
+        "label": "Device slot (GORILLA GRIP)",
         "text": "Holds a phone or small tablet upright within view, better if checking notifications or a second screen matters more than a drink holder."
       }
     ],
     "note": "If you regularly want a drink within reach while working, the LAPGEAR's cup holder is the more practical feature. If keeping your phone visible matters more, the GORILLA GRIP's device slot serves that need instead."
   },
   {
-    "subheading": "",
+    "subheading": "By Ergonomic Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your comfort need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Reducing wrist strain during long typing sessions",
-          ""
+          "HUANUO (dedicated wrist pad)"
         ],
         [
           "General lap stability and comfort",
@@ -146,7 +146,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Basic comfort without specialized ergonomic features",
-          ""
+          "SONGMICS"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Writing or Typing Sessions in Bed Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated wrist pad that supports your hands at a comfortable angle during extended keyboard use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The HUANUO pick's ergonomic wrist pad is specifically designed to reduce hand fatigue during exactly this kind of extended use."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want dedicated wrist support for extended typing sessions, where the HUANUO pick's ergonomic wrist pad addresses a genuine comfort need the other picks don't specifically target."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want a versatile, ready-to-use surface without extra features, where the SONGMICS pick covers that at the lowest price in this comparison."
       }
     ]
@@ -189,15 +189,15 @@ export const howWeEvaluated = [
     "description": "Compared dedicated phone or tablet slots and their stated size compatibility."
   },
   {
-    "title": "",
+    "title": "Wrist and Ergonomic Support",
     "description": "Checked for dedicated wrist pads or ergonomic angle features designed to reduce typing fatigue."
   },
   {
-    "title": "",
+    "title": "Cushion Type and Stability",
     "description": "Compared microbead, foam, and particle-padding cushion designs across the lineup."
   },
   {
-    "title": "",
+    "title": "Assembly Requirements",
     "description": "Compared whether each pick arrives ready to use or requires setup."
   }
 ];

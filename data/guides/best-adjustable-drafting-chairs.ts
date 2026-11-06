@@ -60,16 +60,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/31+NW94MQbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Desk Height",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk height",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard desk, occasional standing-desk use",
-          ""
+          "Sweetcrispy Tall Drafting Chair"
         ],
         [
           "Standing desk around 40-44 in",
@@ -83,23 +83,23 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Sweetcrispy Tall Drafting Chair"
         ],
         [
-          "",
+          "Mid-range pick",
           "Primy Drafting Chair Tall Office Chair with Flip-up Armrests Executive"
         ],
         [
-          "",
+          "Higher budget",
           "Armless Drafting Chair Tall Office Chair Adjustable Height High Back Ergonomic"
         ]
       ]
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Drafting Stool vs Full Chair With Backrest",
     "cards": [
       {
-        "label": "",
+        "label": "Backless stool (e.g. Sweetcrispy Tall Drafting Chair)",
         "text": "Smaller footprint and lower price, best for brief, active perching between standing stretches."
       },
       {
@@ -120,11 +120,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how much of your day you'll actually spend seated versus standing, not just which looks more complete."
   },
   {
-    "subheading": "",
+    "subheading": "By Base Stability Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Standing Desk Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An independently adjustable foot ring, since a fixed-position ring can end up misaligned once the seat itself is raised to standing-desk height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Synorla Ergonomic Tall Drafting Chair-Mesh Desk Chair with Flip-Up Arms is worth checking against its specific foot ring adjustability before assuming any drafting chair pairs well with your desk."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You'll be seated for real chunks of the day at desk height and want genuine lumbar support and base stability, where Armless Drafting Chair Tall Office Chair Adjustable Height High Back Ergonomic justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mostly stand and just need occasional perching, where Sweetcrispy Tall Drafting Chair already covers the job at the lowest price here."
       }
     ]

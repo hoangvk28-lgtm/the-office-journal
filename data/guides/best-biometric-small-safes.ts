@@ -60,46 +60,46 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Grimtron 20LB Biometric Safe with Fingerprint Lock"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $24",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ],
         [
-          "",
+          "Up to $160",
           "Jewelry Safe for Home with Drawers"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
         "label": "Yuanshikj Small Steel Security Safe Box with Keypad",
-        "text": ""
+        "text": "The lower-priced option in this comparison, worth checking its review base against your confidence needs."
       },
       {
         "label": "Jewelry Safe for Home with Drawers",
@@ -109,31 +109,31 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Yuanshikj Small Steel Security Safe Box with Keypad unless your specific needs call for the pricier pick's extra features."
   },
   {
-    "subheading": "",
+    "subheading": "By Interior Capacity",
     "note": "Check each pick's listed interior dimensions, not just the cubic-footage figure, against what you're actually planning to store before buying."
   },
   {
     "subheading": "For Storing Documents or Cash Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed interior dimension roomy enough for the actual items, plus a backup access method beyond just a keypad."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Yuanshikj Small Steel Security Safe Box with Keypad is worth checking against its listed interior dimensions before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're storing valuable or irreplaceable items, where Jewelry Safe for Home with Drawers's higher price buys real security or fire-protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic theft deterrence for low-value items, where Yuanshikj Small Steel Security Safe Box with Keypad covers the same job at a lower price."
       }
     ]

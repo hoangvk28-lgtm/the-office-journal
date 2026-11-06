@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Gamut-faq",
     "q": "Do I need wide color gamut coverage?",
     "a": "Only for color-critical work like video editing or print design, general use and office work are well served by standard SRGB coverage, check which gamut standard actually matters for your workflow."
   },
   {
-    "id": "",
+    "id": "Response-faq",
     "q": "Can I trust the response time number on the box?",
     "a": "Not fully, it's usually a best-case lab number under aggressive overdrive settings, real-world motion clarity is often worse and can show ghosting, check independent motion-clarity reviews instead."
   },
   {
-    "id": "",
+    "id": "Stand-faq",
     "q": "Do all 4K monitors come with height-adjustable stands?",
     "a": "No, it ranges from tilt-only to full ergonomic adjustment, check the specific stand spec against your desk setup, a VESA-compatible arm is a simple add-on if the included stand falls short."
   },
   {
-    "id": "",
+    "id": "Hdr-faq",
     "q": "Does HDR on a 4K monitor actually look different?",
     "a": "It depends heavily on the certification tier, DisplayHDR 400 is a low bar with modest brightness gains, DisplayHDR 600 and above reflects capable HDR hardware, check the specific tier rather than trusting the word HDR alone."
   },
   {
-    "id": "",
+    "id": "Curved-faq",
     "q": "Is a curved 4K monitor better than flat?",
     "a": "It depends on your use, curved reduces eye travel and adds immersion for gaming or media but distorts straight lines in spreadsheet, CAD, or design work where geometric accuracy matters."
   },
   {
-    "id": "",
+    "id": "Panel-faq",
     "q": "Should I get an IPS, OLED, or VA 4K monitor?",
     "a": "IPS gives the most consistent accurate color, OLED gives the deepest contrast and fastest response with a real long-term burn-in risk on static content, VA splits the difference with strong contrast but slower response, match to your primary use."
   }
@@ -66,34 +66,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/410XL9PwDcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General office and browsing",
           "Acer 27in 4K 3840x2160 IPS 60Hz Office Monitor CB272K bmiprux"
         ],
         [
-          "",
+          "Color-critical creative work",
           "LG 32U700B-B 32-inch Ultrafine 4K UHD 60Hz Tilt/Height Computer Monitor"
         ],
         [
-          "",
+          "Fast-paced gaming",
           "32 Inch 4K Touch Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "Acer 27in 4K 3840x2160 IPS 60Hz Office Monitor CB272K bmiprux"
         ],
         [
-          "",
+          "Mid-range pick",
           "LG 27US500-W Ultrafine Monitor 27-Inch 4K UHD (3840x2160) HDR10 IPS Borderless"
         ],
         [
-          "",
+          "Higher budget",
           "32 Inch 4K Touch Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "IPS vs OLED Panel",
     "cards": [
       {
         "label": "Acer 27in 4K 3840x2160 IPS 60Hz Office Monitor CB272K bmiprux)",
         "text": "Consistent accurate color from wide angles, weaker black levels."
       },
       {
-        "label": "",
+        "label": "OLED",
         "text": "Deeper contrast and faster response, real long-term burn-in risk on static content."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk depth",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard desk distance",
           "LG 32U700B-B 32-inch Ultrafine 4K UHD 60Hz Tilt/Height Computer Monitor"
         ],
         [
-          "",
+          "Larger or multi-monitor desk",
           "LG 27US500-W Ultrafine Monitor 27-Inch 4K UHD (3840x2160) HDR10 IPS Borderless"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed USB-C power delivery wattage that matches your laptop's actual charging requirement, not just a USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "LG 32U700B-B 32-inch Ultrafine 4K UHD 60Hz Tilt/Height Computer Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 32 Inch 4K Touch Monitor justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Acer 27in 4K 3840x2160 IPS 60Hz Office Monitor CB272K bmiprux already covers the job at the lowest price here."
       }
     ]

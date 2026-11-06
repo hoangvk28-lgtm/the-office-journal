@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41w3JBz9pHL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General screen time",
           "75 Professional Reading Glasses for All Day"
         ],
         [
-          "",
+          "Design/color-sensitive work",
           "Oilway Blue-Light Blocking Glasses Computer Reading/Gaming/TV/Phones Glasses"
         ],
         [
-          "",
+          "Long gaming sessions",
           "5 Blue Light Blocking Reading Glasses for Women & Men"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,44 +95,44 @@ export const howToChoose: HowToChooseSection[] = [
           "75 Professional Reading Glasses for All Day"
         ],
         [
-          "",
+          "Mid-range pick",
           "5 Executive Style Reading Glasses Men"
         ],
         [
-          "",
+          "Higher budget",
           "5 Blue Light Blocking Reading Glasses for Women & Men"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clear vs Yellow-Tinted Lenses",
     "cards": [
       {
         "label": "75 Professional Reading Glasses for All Day)",
         "text": "Filters less blue light but keeps on-screen colors accurate."
       },
       {
-        "label": "",
+        "label": "Yellow-tinted",
         "text": "Filters more blue light but visibly shifts color perception."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Vision Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No vision correction needed",
           "Oilway Blue-Light Blocking Glasses Computer Reading/Gaming/TV/Phones Glasses"
         ],
         [
-          "",
+          "Reading magnification needed",
           "5 Executive Style Reading Glasses Men"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For All-Day Desk Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A frame width and nose bridge that actually fits your face, with a flexible, durable frame material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Oilway Blue-Light Blocking Glasses Computer Reading/Gaming/TV/Phones Glasses is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5 Blue Light Blocking Reading Glasses for Women & Men justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "75 Professional Reading Glasses for All Day already covers the job at the lowest price here."
       }
     ]

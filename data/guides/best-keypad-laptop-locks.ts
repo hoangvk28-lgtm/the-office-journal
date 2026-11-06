@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "Which pick is best if I just want resettable code entry, keypad or not?",
-    "a": ""
+    "a": "The Kensington Combination Cable T-Bar Standard Lock, for its combination of independent testing, price, and the largest review base in this comparison, provided your laptop uses a Standard slot."
   },
   {
     "q": "Is there an option for laptops with no security slot?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Kensington Combination Cable T-Bar Standard Lock for Laptops"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Kensington Combination Cable T-Bar Standard Lock for Laptops"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $17",
           "Kensington Combination Laptop Lock for Standard Security Slot"
         ],
         [
-          "",
+          "Mid-range",
           "Kensington Universal 3-in-1 Combination Laptop Lock"
         ],
         [
@@ -99,24 +99,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: Kensington Combination Cable T-Bar Standard Lock for Laptops, Kensington Combination Laptop Lock for Nano Size Security Slot, Kensington N17 Dell Laptop Combination Lock."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: check each listing's mechanism directly."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Kensington Combination Cable T-Bar Standard Lock for Laptops"
         ],
         [
-          "",
-          ""
+          "Widest general slot-type compatibility",
+          "Kensington Universal 3-in-1 2.0 Combination Laptop Lock"
         ]
       ]
     }
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Kensington Combination Cable T-Bar Standard Lock for Laptops fits this specifically: No battery to fail, ever, unlike a true electronic keypad lock."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Multplx Universal Laptop Security Lock offers: Works on slotless laptops the rest of this comparison can't secure at all. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Kensington Combination Laptop Lock for Standard Security Slot already covers the essentials: Lowest price of any Standard-slot pick in this comparison. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

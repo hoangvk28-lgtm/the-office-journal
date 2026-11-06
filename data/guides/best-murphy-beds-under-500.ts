@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51Og-FctXuL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $350",
+          "Wilding Wallbeds ($349.00)"
         ],
         [
-          "",
-          ""
+          "Under $380",
+          "Harper & Bright ($375.99)"
         ],
         [
-          "",
-          ""
+          "Under $430",
+          "SOFTSEA Twin ($429.99)"
         ],
         [
-          "",
-          ""
+          "Under $500",
+          "AMERLIFE ($499.99)"
         ]
       ]
     }
@@ -122,35 +122,35 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Arrives ready to assemble as a finished piece, no separate lumber sourcing or cutting required."
       },
       {
-        "label": "",
+        "label": "Hardware-only kit (Wilding Wallbeds)",
         "text": "Offers the highest weight capacity and universal size flexibility, but requires you to build or source your own cabinet structure."
       }
     ],
     "note": "If you want a straightforward assembly without a construction project, any of the three complete cabinet beds work well. If maximum weight capacity and size flexibility matter more than convenience, the Wilding Wallbeds kit is worth the added build effort."
   },
   {
-    "subheading": "",
+    "subheading": "By Storage Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your storage priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Built-in drawer and charging station",
-          ""
+          "AMERLIFE"
         ],
         [
           "Bedding stays organized during storage",
-          ""
+          "Harper & Bright"
         ],
         [
-          "",
-          ""
+          "Sideboard-style closed appearance",
+          "SOFTSEA Twin"
         ],
         [
           "No storage needed, just the mechanism",
-          ""
+          "Wilding Wallbeds"
         ]
       ]
     }
@@ -159,24 +159,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Guest Room Used Only a Few Times a Year Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Built-in storage for spare bedding and pillows, so the guest room doesn't need dedicated closet space for infrequently used linens."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The AMERLIFE pick's dedicated drawer for pillows and built-in storage specifically addresses the need to keep guest bedding accessible but out of sight between uses."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want queen size with genuine built-in storage and charging in one complete piece, where the AMERLIFE pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want the highest weight capacity and don't mind building your own cabinet, where the Wilding Wallbeds kit covers that for about $151 less."
       }
     ]
@@ -185,23 +185,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated weight capacity figures across hardware kits and complete cabinet beds."
   },
   {
-    "title": "",
+    "title": "Storage and Charging Features",
     "description": "Checked which picks include built-in storage drawers, shelves, or charging stations."
   },
   {
-    "title": "",
+    "title": "Complete vs Hardware-Only Design",
     "description": "Distinguished fully assembled cabinet beds from bare hardware requiring separate construction."
   },
   {
-    "title": "",
+    "title": "Bedding and Mattress Retention",
     "description": "Checked how each cabinet design keeps bedding in place during the fold-up process."
   },
   {
-    "title": "",
+    "title": "Mechanism Type and Safety",
     "description": "Compared spring versus piston lift systems and their stated locking safety features."
   }
 ];

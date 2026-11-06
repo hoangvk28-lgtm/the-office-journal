@@ -60,38 +60,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/31DsgOOj+1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Minimal adjustment period",
           "Wireless Keyboard and Mouse Combo"
         ],
         [
-          "",
+          "Maximum forearm rotation relief",
           "Logitech Wave Keys Keyboard & Lift Mouse Ergonomic Combo"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $33",
           "Wireless Keyboard and Mouse Combo"
         ],
         [
-          "",
+          "Mid-range",
           "Logitech Wave Keys MK670 Combo Wireless Keyboard and Mouse"
         ],
         [
@@ -102,14 +102,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: check each listing's connection type directly."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech MX Keys S Combo Performance Wireless Keyboard and Mouse, Logitech Wave Keys MK670 Combo Wireless Keyboard and Mouse, Logitech Wave Keys Keyboard & Lift Mouse Ergonomic Combo."
       }
     ]
@@ -118,12 +118,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest cost, quiet typing",
           "Wireless Keyboard and Mouse Combo"
         ],
         [
@@ -137,24 +137,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Logitech Wave Keys Keyboard & Lift Mouse Ergonomic Combo fits this specifically: Lift mouse is a genuine vertical ergonomic design."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Logitech MX Keys Combo for Business Keyboard and Mouse offers: Same proven MX ergonomics as the consumer combo. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Wireless Keyboard and Mouse Combo already covers the essentials: Lowest price in this list. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -167,26 +167,26 @@ export const howWeEvaluated = [
     "description": "Checked whether each combo's mouse is a true vertical design, a sculpted horizontal shape, or just a standard mouse riding along with an ergonomic keyboard."
   },
   {
-    "title": "",
+    "title": "Receiver sharing",
     "description": "Noted whether the keyboard and mouse share a single USB receiver or require two separate dongles, since a shared receiver saves a port on a laptop."
   },
   {
-    "title": "",
+    "title": "Keyboard ergonomic style",
     "description": "Distinguished wave-shaped, curved, and low-profile keyboards, since each offers a different degree of wrist relief and a different adjustment period."
   },
   {
-    "title": "",
+    "title": "Left-handed availability",
     "description": "Checked whether an ergonomic mouse in the combo, or a matching version of it, is available in a left-handed configuration."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed whether the price reflects genuine ergonomic components on both halves or mainly covers the keyboard, from the budget bundle to the premium combos."
   }
 ];
 
 export const introParagraphs = [
   "An ergonomic keyboard and mouse combo saves a separate purchase and often shares a single wireless receiver, but the mouse half of the pairing does not always deliver the same ergonomic benefit as the keyboard half. Some combos pair an ergonomic keyboard with a regular sculpted mouse rather than a true vertical mouse, which reduces the pronation relief a buyer is usually shopping for in the first place.",
-  ""
+  "Below are 8 ergonomic keyboard and mouse combos we compared on whether the mouse is actually ergonomic, receiver sharing, wrist support, and overall value, ranging from a $27.99 budget bundle to a $199.99 premium business combo."
 ];
 
 export const lastUpdated = "2026-07-23";

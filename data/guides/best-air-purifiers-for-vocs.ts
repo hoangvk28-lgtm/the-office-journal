@@ -53,15 +53,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Filtration Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Certified True HEPA",
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ],
         [
@@ -69,26 +69,26 @@ export const howToChoose: HowToChooseSection[] = [
           "COWAY Air Purifier for Home Up to 1"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $81",
           "Germ Guardian True HEPA Filter Air Purifier for Home"
         ],
         [
-          "",
+          "Up to $800",
           "Nuwave OxyPure Smart Air Purifier"
         ]
       ]
@@ -98,30 +98,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Smart App-Connected vs Basic Manual Controls",
     "cards": [
       {
-        "label": "",
+        "label": "Smart, app-connected",
         "text": "Lets you monitor air quality and adjust fan speed remotely, useful if you want automation or scheduling. In this comparison: Nuwave OxyPure Smart Air Purifier."
       },
       {
-        "label": "",
+        "label": "Basic manual controls",
         "text": "Simpler and usually cheaper, with nothing to set up or connect. In this comparison: COWAY Air Purifier for Home Up to 1, LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom, Blueair Air Purifiers for Home Large Room, Germ Guardian True HEPA Filter Air Purifier for Home."
       }
     ],
     "note": "Default to basic manual controls unless you specifically want app-based monitoring or automation."
   },
   {
-    "subheading": "",
+    "subheading": "By Certified HEPA Filtration",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Certified True HEPA needed",
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ],
         [
-          "",
+          "Basic filtration is enough",
           "COWAY Air Purifier for Home Up to 1"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Allergies or Pet Dander Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Certified True HEPA filtration with an H13 or higher rating, sized for a room at least as large as where it'll actually run."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom discloses certified True HEPA filtration."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real odor, VOC, or large-room coverage, where Nuwave OxyPure Smart Air Purifier's higher price buys real filtration or CADR headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're covering a small space with a basic dust or allergen concern, where Germ Guardian True HEPA Filter Air Purifier for Home covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "HEPA-doesn't-help-VOCs gap disclosed",
     "description": "Considered that HEPA filters trap particulate matter, not gas-phase VOC molecules, meaning a HEPA-only unit does essentially nothing for VOCs without a genuine carbon stage."
   },
   {

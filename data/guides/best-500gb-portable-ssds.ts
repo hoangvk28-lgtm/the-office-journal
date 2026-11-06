@@ -49,16 +49,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41eTFK7clfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Speed Tier",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
           "Everyday files, lowest cost per GB",
-          ""
+          "SANDISK 1TB Portable SSD"
         ],
         [
           "Maximum speed headroom for large transfers",
@@ -68,56 +68,56 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $89",
           "KingSpec Z5 512GB External SSD"
         ],
         [
-          "",
+          "Mid-range",
           "SSK Portable SSD 1TB External Solid State Hard Drive USB C Up to 1050MB/s"
         ],
         [
           "No firm budget ceiling, prioritizing speed or NAND quality",
-          ""
+          "SANDISK 1TB Portable SSD"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "TLC vs QLC NAND",
     "cards": [
       {
-        "label": "",
+        "label": "TLC NAND",
         "text": "Better sustained write speed and longer-term endurance, especially once any onboard cache is exhausted during a large transfer. In this comparison: check each listing's specs directly, NAND type isn't always disclosed."
       },
       {
-        "label": "",
+        "label": "QLC NAND",
         "text": "More capacity per dollar, at the cost of a bigger sustained-speed drop once the cache fills on long transfers. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
     "note": "NAND type isn't explicitly confirmed for every pick here, check each specific listing's technical details if sustained speed matters to your workflow."
   },
   {
-    "subheading": "",
+    "subheading": "Rugged/Waterproof vs Standard Build",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Drop and water resistance for field use",
-          ""
+          "SANDISK 1TB Portable SSD"
         ],
         [
-          "",
+          "Slimmest, lightest everyday carry",
           "KingSpec Z5 512GB External SSD"
         ]
       ]
@@ -127,11 +127,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Large Sustained Transfers (Video Editing) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "TLC NAND specifically, a stated sustained write speed (not just the peak burst number), and a USB generation on both drive and host that actually supports the rated speed."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "KingSpec Z5 512GB External SSD fits this specifically: closest capacity match to 500GB in our verified pool."
       }
     ]
@@ -140,17 +140,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "KingSpec Z5 512GB External SSD"
         ],
         [
-          "",
-          ""
+          "Largest review base (more statistical confidence)",
+          "SANDISK 1TB Portable SSD"
         ]
       ]
     }
@@ -159,19 +159,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Honest capacity disclosure",
     "description": "Verified each drive's actual capacity and were explicit when a pick is 512GB or 1TB rather than exactly 500GB."
   },
   {
-    "title": "",
+    "title": "Closest genuine match prioritized",
     "description": "Led with the drive closest to 500GB in our verified pool rather than stretching a 1TB drive's marketing to fit."
   },
   {
-    "title": "",
+    "title": "Price-tier consistency",
     "description": "Confirmed each pick sits in genuine budget territory consistent with what a 500GB-seeking buyer is typically shopping for."
   },
   {
-    "title": "",
+    "title": "Speed and interface verification",
     "description": "Compared rated speed and interface across the group to help buyers weigh capacity against real transfer performance."
   }
 ];

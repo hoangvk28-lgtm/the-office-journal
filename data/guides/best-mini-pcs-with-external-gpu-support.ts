@@ -53,38 +53,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/41IFcTAasUL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
+        "What you're running",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
           "Light everyday or office use",
-          ""
+          "MINISFORUM DEG1 EGPU Dock"
         ],
         [
-          "",
+          "Demanding, sustained workloads",
           "GMKtec AI Mini PC Ultra 9 285H"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $110",
+          "MINISFORUM DEG1 EGPU Dock"
         ],
         [
-          "",
+          "Mid-range",
           "BOSGAME EGPU Graphic Card Dock Expansion Card"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fanless (Passive) vs Actively Cooled",
     "cards": [
       {
-        "label": "",
+        "label": "Fanless, Passive Cooling",
         "text": "Completely silent with no moving parts, at the cost of throttling under sustained heavy load. In this comparison: check each listing's cooling design directly."
       },
       {
-        "label": "",
+        "label": "Actively Cooled (Fan)",
         "text": "Sustains heavier workloads longer without throttling, at the cost of some fan noise under load. In this comparison: MINISFORUM DEG1 EGPU Dock, MINISFORUM MGA1 External GPU Docking Station, BOSGAME EGPU Graphic Card Dock Expansion Card."
       }
     ],
@@ -112,13 +112,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By RAM and Storage Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Lightest low-cost configuration",
+          "MINISFORUM DEG1 EGPU Dock"
         ],
         [
           "Maximum RAM and storage headroom",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For GPU-Accelerated Work or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated GPU or a confirmed Oculink/Thunderbolt EGPU connection explicitly stated in the listing, not just a generic \"gaming capable\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MINISFORUM DEG1 EGPU Dock fits this specifically: Explicitly rated for high-end GPUs like RTX 4090 and RX 7900 XTX."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what GMKtec AI Mini PC Ultra 9 285H offers: Powerful base processor well-suited to pairing with an external GPU. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "MINISFORUM DEG1 EGPU Dock already covers the essentials: Explicitly rated for high-end GPUs like RTX 4090 and RX 7900 XTX. The main thing you'd be paying extra for elsewhere in this list is headroom you may not need."
       }
     ]

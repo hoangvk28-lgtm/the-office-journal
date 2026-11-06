@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Canon imageCLASS LBP6030w Monochrome Laser Printer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Canon imageCLASS LBP6030w Monochrome Laser Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $88",
           "Canon imageCLASS LBP6030w Monochrome Laser Printer"
         ],
         [
-          "",
-          ""
+          "Up to $285",
+          "Brother HL"
         ]
       ]
     }
@@ -106,22 +106,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Brother HL",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Canon imageCLASS LBP6030w Monochrome Laser Printer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Canon imageCLASS LBP6030w Monochrome Laser Printer"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Canon imageCLASS LBP6030w Monochrome Laser Printer is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Brother HL's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon imageCLASS LBP6030w Monochrome Laser Printer covers the same job at a lower price."
       }
     ]
@@ -157,11 +157,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "True ownership cost",
     "description": "Weighed sticker price against toner cartridge type, starter versus standard yield, and how many cartridges the model needs to replace over time."
   },
   {
-    "title": "",
+    "title": "Build durability expectation",
     "description": "Compared internal component quality typical of budget laser hardware, plastic gears and lighter pickup rollers, against mid-tier laser printers to set realistic lifespan expectations."
   },
   {
@@ -169,11 +169,11 @@ export const howWeEvaluated = [
     "description": "Checked which picks include duplex, scan, or copy at their price point versus print-only models, since these features vary meaningfully within the budget laser tier."
   },
   {
-    "title": "",
+    "title": "Connectivity reliability",
     "description": "Noted wireless versus wired-only connections, since a wired-only laser printer like the M209d has different placement requirements than a wireless model."
   },
   {
-    "title": "",
+    "title": "Monochrome versus color value",
     "description": "Assessed whether each pick's monochrome or color toner system matches typical budget-buyer printing needs, since color laser toner replacement costs meaningfully more."
   }
 ];

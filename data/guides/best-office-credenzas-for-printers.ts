@@ -9,7 +9,7 @@ export const buyingCriteria = [
     "explanation": "Check your actual printer's footprint, including open paper trays, against office credenzas for printers's top width and depth, since a decorative credenza top is not automatically printer-ready."
   },
   {
-    "criterion": "",
+    "criterion": "Confirm Documented Load Guidance",
     "explanation": "Look for a stated top load rating before assuming any flat surface can support a multifunction printer indefinitely, especially with paper loaded."
   },
   {
@@ -61,7 +61,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check your actual printer's footprint, including open paper trays, against office credenzas for printers's top width and depth, since a decorative credenza top is not automatically printer-ready."
   },
   {
-    "subheading": "",
+    "subheading": "Confirm Documented Load Guidance",
     "note": "Look for a stated top load rating before assuming any flat surface can support a multifunction printer indefinitely, especially with paper loaded."
   },
   {
@@ -80,7 +80,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Function Classified Before Comparison",
     "description": "Sorted each product into storage credenza, credenza desk, file credenza, or desk-system credenza before ranking, since 'office credenza' spans meaningfully different furniture types that don't compare fairly against each other."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Compared published interior drawer, shelf, and cabinet dimensions rather than exterior width or door count alone, since partitions and hardware can meaningfully shrink real usable space."
   },
   {
-    "title": "",
+    "title": "File Compatibility Verified Directly",
     "description": "Checked letter/legal compatibility, filing direction, and lock coverage against each product's own documentation rather than assuming a 'file drawer' label means full hanging-file support."
   },
   {

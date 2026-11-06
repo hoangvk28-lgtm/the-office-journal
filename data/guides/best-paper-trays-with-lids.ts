@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/414WhWOBiGL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "Hipiwe Set of 2 Flat Wicker Storage Basket Bins with Lid Woven Seagrass Box"
         ],
         [
-          "",
+          "Several distinct categories",
           "Svartur Flat Storage Bins with Lids"
         ],
         [
-          "",
+          "High document volume",
           "Tinlade 12 Pcs Classroom Paper Storage Bins with Lids"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Hipiwe Set of 2 Flat Wicker Storage Basket Bins with Lid Woven Seagrass Box"
         ],
         [
-          "",
+          "Mid-range pick",
           "6 Pack Turn in Bins"
         ],
         [
-          "",
+          "Higher budget",
           "Tinlade 12 Pcs Classroom Paper Storage Bins with Lids"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "Hipiwe Set of 2 Flat Wicker Storage Basket Bins with Lid Woven Seagrass Box)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "Svartur Flat Storage Bins with Lids"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Svartur Flat Storage Bins with Lids is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Tinlade 12 Pcs Classroom Paper Storage Bins with Lids justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Hipiwe Set of 2 Flat Wicker Storage Basket Bins with Lid Woven Seagrass Box already covers the job at the lowest price here."
       }
     ]

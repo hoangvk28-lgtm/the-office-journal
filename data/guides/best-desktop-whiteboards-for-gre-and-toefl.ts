@@ -17,12 +17,12 @@ export const buyingCriteria = [
     "explanation": "A larger board may need repositioning to stay within camera view during a proctored exam — test this before your actual test date."
   },
   {
-    "criterion": "",
+    "criterion": "Prioritize fast, complete erasing",
     "explanation": "You may need to show the board erased to a proctor quickly — glass and magnetic surfaces generally erase more cleanly than melamine."
   },
   {
     "criterion": "Use review volume as evidence of build reliability",
-    "explanation": ""
+    "explanation": "A large, established review base is useful evidence a board holds up to repeated writing and erasing during test preparation."
   }
 ];
 

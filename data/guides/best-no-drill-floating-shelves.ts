@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/41shZ8VT4DL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light decorative items",
+          "Command Display Ledges"
         ],
         [
-          "",
+          "Books, standard decor",
           "OAPRIRE Acrylic Floating Wall Shelves White"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "PAVSTINE Acrylic Wall Floating Shelves Set of 2"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Command Display Ledges"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "MITIME Floating Wall Shelves"
         ],
         [
-          "",
+          "Higher budget",
           "PAVSTINE Acrylic Wall Floating Shelves Set of 2"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "PAVSTINE Acrylic Wall Floating Shelves Set of 2)",
         "text": "Highest weight capacity, but requires drilling into a wall stud."
       },
       {
-        "label": "",
+        "label": "No-drill (e.g. Command Display Ledges)",
         "text": "No wall damage, ideal for renters, but a much lower weight limit."
       }
     ],
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Studs available where needed",
           "OAPRIRE Acrylic Floating Wall Shelves White"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "PAVSTINE Acrylic Wall Floating Shelves Set of 2 is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where PAVSTINE Acrylic Wall Floating Shelves Set of 2 justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're displaying light decorative items only, where Command Display Ledges already covers the job at the lowest price here."
       }
     ]

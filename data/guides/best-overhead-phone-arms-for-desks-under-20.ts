@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/515BergNltL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Per-joint tension control",
           "LISEN Cell Phone Holder, Overhead Phone Mount"
         ],
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $15",
+          "SAIJI ($12.99) or MAGIPEA ($14.99)"
         ],
         [
-          "",
-          ""
+          "Up to $20",
+          "LISEN ($19.68) or Lamicall ($19.99)"
         ]
       ]
     }
@@ -110,7 +110,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Steel Body vs Aluminum Alloy Arm",
     "cards": [
       {
-        "label": "",
+        "label": "Steel body (LISEN)",
         "text": "Heavier and more rigid than aluminum, with per-joint tension knobs for fine control, at the top price in this tier."
       },
       {
@@ -121,23 +121,23 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you've had a cheap gooseneck arm sag before, prioritize LISEN's steel body or Lamicall's aluminum-magnesium alloy core over a plain aluminum arm."
   },
   {
-    "subheading": "",
+    "subheading": "By Phone Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your phone screen is",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "4.0-6.3 inches",
           "SAIJI Gooseneck Bed Phone Holder"
         ],
         [
-          "",
+          "3.5-7 inches (larger phones)",
           "MAGIPEA Gooseneck Phone Holder for Bed"
         ],
         [
-          "",
+          "4-7 inches",
           "Lamicall Gooseneck Bed Phone Holder"
         ]
       ]
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Overhead Cooking or Craft Videos Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wide base clamp (3 inches or more) so the arm mounts securely on a kitchen counter edge, and a 360-degree rotation clamp for switching between portrait and landscape framing."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MAGIPEA's 3-inch clamp opening and 360-degree rotation clamp are specifically built for exactly this overhead cooking and craft-video use case."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) are the two picks here built specifically around that durability concern."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) covers the core function with a stated 12-month replacement policy for less than the pricier picks here."
       }
     ]
@@ -173,15 +173,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Arm core material check",
     "description": "We identified each arm's actual core material (steel, plain aluminum, or aluminum-magnesium alloy) since this determines whether it holds a bent shape over months of use or gradually sags."
   },
   {
-    "title": "",
+    "title": "Base clamp width comparison",
     "description": "We checked each listing's stated clamp opening width, since a narrow clamp physically can't grip a thicker desk edge or bed frame regardless of arm quality."
   },
   {
-    "title": "",
+    "title": "Phone size compatibility range",
     "description": "We compared the stated minimum and maximum phone screen size each arm's clamp supports, since a mismatch means the phone either doesn't fit or isn't held securely."
   },
   {
@@ -189,7 +189,7 @@ export const howWeEvaluated = [
     "description": "We noted which listings state an explicit warranty or replacement policy versus relying on the standard return window, since that's a real value difference between similarly priced picks."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $20 on the date this guide was checked; arms that only hit this tier during a temporary sale were excluded."
   }
 ];

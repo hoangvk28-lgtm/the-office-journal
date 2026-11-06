@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51VsoOYuS0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $700",
+          "PUREMIND ($698.98)"
         ],
         [
-          "",
-          ""
+          "Under $730",
+          "CECER ($729.98)"
         ],
         [
-          "",
-          ""
+          "Under $880",
+          "Wilding Wallbeds ($875.00)"
         ],
         [
-          "",
-          ""
+          "Under $1000",
+          "Hlivelood ($999.99)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Mattress-Included Bundle vs Hardware-Only or Bring-Your-Own Mattress",
     "cards": [
       {
-        "label": "",
+        "label": "Mattress included (CECER, PUREMIND)",
         "text": "Removes the guesswork of finding a mattress that folds properly, with the frame and mattress engineered together as a matched set."
       },
       {
@@ -129,24 +129,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you don't already own a compatible mattress or want to avoid the compatibility guesswork entirely, the CECER or PUREMIND's included mattress is convenient. If you have a specific mattress you already love, the Hlivelood or Wilding Wallbeds let you use it, provided it fits the stated specs."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Requirement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your installation situation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Renting, no drilling allowed",
+          "PUREMIND (freestanding)"
         ],
         [
           "Own home, flexible closet or wall install",
-          ""
+          "Wilding Wallbeds"
         ],
         [
           "Own home, permanent wall mount with storage",
-          ""
+          "Hlivelood or CECER"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Guest Bedroom That Doubles as a Home Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Built-in charging ports positioned conveniently for both bed use and desk-adjacent device charging, plus ample storage to keep guest bedding out of sight during workdays."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The CECER pick's 2 USB ports and 2 AC outlets alongside its storage drawer specifically support a dual-purpose guest room and home office setup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want maximum flanking storage cabinets with integrated charging and LED lighting, where the Hlivelood pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a complete mattress-included bundle without needing extensive storage, where the PUREMIND pick covers that for about $301 less."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Mattress Inclusion",
     "description": "Checked which picks bundle a matched mattress versus requiring a separate mattress purchase."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared engineered weight ratings ranging from 1000 to 2000 lbs across the lineup."
   },
   {
-    "title": "",
+    "title": "Storage and Charging Integration",
     "description": "Compared drawer, cabinet, and charging port features across all four picks."
   },
   {
-    "title": "",
+    "title": "Mounting Requirements",
     "description": "Checked wall-mounted versus freestanding installation across the tier."
   },
   {
-    "title": "",
+    "title": "Assembly and Package Complexity",
     "description": "Compared stated assembly time and multi-package shipping across the lineup."
   }
 ];

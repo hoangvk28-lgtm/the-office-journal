@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/411myQg+JWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,22 +73,22 @@ export const howToChoose: HowToChooseSection[] = [
           "WSYDKNS Book Ends for Shelves"
         ],
         [
-          "",
-          ""
+          "A full mixed shelf",
+          "MaxGear Book Ends Tree Design Bookends for Shelves 7 x 4.7 x 3.5” 2 Pair"
         ],
         [
           "A long shelf needing multiple pairs",
-          ""
+          "VFINE Bookends 1 Pair"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "WSYDKNS Book Ends for Shelves"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "VFINE Bookends 3 Pairs"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "VFINE Bookends 1 Pair"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
         "label": "WSYDKNS Book Ends for Shelves)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Glossy or glass surface",
+          "MaxGear Book Ends Tree Design Bookends for Shelves 7 x 4.7 x 3.5” 2 Pair"
         ],
         [
-          "",
-          ""
+          "Textured wood surface",
+          "VFINE Bookends 3 Pairs"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5” 2 Pair is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where VFINE Bookends 1 Pair justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where WSYDKNS Book Ends for Shelves already covers the job at the lowest price here."
       }
     ]

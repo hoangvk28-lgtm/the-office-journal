@@ -57,68 +57,68 @@ export const heroImage = "https://m.media-amazon.com/images/I/3179Kj81G3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Band Configuration",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Genuine tri-band with 6GHz radio",
-          ""
+          "TP"
         ],
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "TP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $87",
+          "TP"
         ],
         [
-          "",
-          ""
+          "Up to $270",
+          "TP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "10GbE vs 2.5GbE Wired Ports",
     "cards": [
       {
-        "label": "",
+        "label": "10GbE ports",
         "text": "Removes the wired bottleneck entirely for a very fast fiber plan or NAS setup."
       },
       {
-        "label": "",
+        "label": "2.5GbE ports",
         "text": "Still well above standard gigabit, sufficient for most fiber plans at a lower price. In this comparison: TP, TP."
       }
     ],
     "note": "5GbE unless your internet plan or NAS setup exceeds that speed."
   },
   {
-    "subheading": "",
+    "subheading": "By Wired Port Speed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "10GbE port available",
+          "TP"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fiber Internet Plan Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A WAN port speed matched to or exceeding your actual fiber plan's rated speed, not just a fast LAN port for local devices."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "TP is worth checking against its listed WAN port speed before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a fast fiber plan, run a NAS, or need mesh coverage, where TP's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your internet plan tops out at standard gigabit, where TP covers the same job at a lower price."
       }
     ]

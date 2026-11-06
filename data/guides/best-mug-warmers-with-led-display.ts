@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41xNNvPg78L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Casual desk use",
           "Coffee Mug Warmer & Candle Warmer 2-in-1"
         ],
         [
-          "",
+          "Precise temperature control",
           "BEARWIND Coffee Mug Warmer for Desk"
         ],
         [
-          "",
+          "Gaming setup",
           "Cosori Coffee Mug Warmer for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Coffee Mug Warmer & Candle Warmer 2-in-1"
         ],
         [
-          "",
+          "Mid-range pick",
           "TTKXT Smart Coffee Mug Warmer with LED Display"
         ],
         [
-          "",
+          "Higher budget",
           "Cosori Coffee Mug Warmer for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs Wall-Powered",
     "cards": [
       {
         "label": "Coffee Mug Warmer & Candle Warmer 2-in-1)",
         "text": "Plugs into a laptop or power bank, weaker heating strength."
       },
       {
-        "label": "",
+        "label": "Wall-powered",
         "text": "Stronger, more consistent heating, needs a free outlet."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Feedback Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simple, no-fuss warming",
           "BEARWIND Coffee Mug Warmer for Desk"
         ],
         [
-          "",
+          "LED temperature display",
           "TTKXT Smart Coffee Mug Warmer with LED Display"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Non-Insulated Ceramic Mug Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A base plate matched to your mug's diameter, since insulated or double-walled mugs won't heat well on any warmer."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "BEARWIND Coffee Mug Warmer for Desk is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Cosori Coffee Mug Warmer for Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Coffee Mug Warmer & Candle Warmer 2-in-1 already covers the job at the lowest price here."
       }
     ]

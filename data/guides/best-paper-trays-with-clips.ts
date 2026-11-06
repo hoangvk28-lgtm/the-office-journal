@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Jj91Fy7DL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "Aewill Ceramic Paper Clip Holder Ceramic Paper Clip Dispenser Organizer"
         ],
         [
-          "",
+          "Several distinct categories",
           "Officemate Magnetic Paper Clip Dispenser"
         ],
         [
-          "",
+          "High document volume",
           "Minimaliving Aesthetic Silicone Desk Organizer Set of 3,Modern Office Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "Aewill Ceramic Paper Clip Holder Ceramic Paper Clip Dispenser Organizer"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "IMengjbang Paper Clip Holder"
         ],
         [
-          "",
+          "Higher budget",
           "Minimaliving Aesthetic Silicone Desk Organizer Set of 3,Modern Office Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "Aewill Ceramic Paper Clip Holder Ceramic Paper Clip Dispenser Organizer)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "Officemate Magnetic Paper Clip Dispenser"
         ],
         [
           "Room for a taller multi-tier tray",
-          ""
+          "IMengjbang Paper Clip Holder"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Officemate Magnetic Paper Clip Dispenser is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where minimaliving Aesthetic Silicone Desk Organizer Set of 3,Modern Office Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Aewill Ceramic Paper Clip Holder Ceramic Paper Clip Dispenser Organizer already covers the job at the lowest price here."
       }
     ]

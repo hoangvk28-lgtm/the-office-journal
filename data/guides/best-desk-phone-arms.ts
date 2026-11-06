@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/515BergNltL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Position",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,26 +69,26 @@ export const howToChoose: HowToChooseSection[] = [
           "LISEN Cell Phone Holder for Bed Desk"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "SAIJI Gooseneck Bed Phone Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $13",
           "SAIJI Gooseneck Bed Phone Holder"
         ],
         [
-          "",
+          "Up to $34",
           "NEEWER 22\" Magic Arm with Desk C Clamp"
         ]
       ]
@@ -98,42 +98,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Gooseneck vs Articulating Multi-Joint Arm",
     "cards": [
       {
-        "label": "",
+        "label": "Gooseneck",
         "text": "Bends into one position and stays, simpler and usually cheaper. In this comparison: LISEN Cell Phone Holder for Bed Desk, SAIJI Gooseneck Bed Phone Holder, MAGIPEA Gooseneck Phone Holder for Bed, SMALLRIG 22\" Magic Arm Clamp."
       },
       {
-        "label": "",
+        "label": "Articulating multi-joint",
         "text": "Repositions across a wider range of angles, worth it if you switch use cases throughout the day. In this comparison: NEEWER 22\" Magic Arm with Desk C Clamp."
       }
     ],
     "note": "Default to a gooseneck unless you need to reposition the phone often for different tasks."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity",
     "note": "Check each pick's listed weight capacity against your phone plus its actual case weight before buying, not just a bare-phone rating."
   },
   {
-    "subheading": "",
+    "subheading": "For Touch Interaction Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reinforced joints and a tension knob that resist wobble when tapping the screen, not just static holding power when the phone sits undisturbed."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SAIJI Gooseneck Bed Phone Holder is worth checking against its listed joint reinforcement before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need extended, stable positioning for filming or long video calls, where NEEWER 22\" Magic Arm with Desk C Clamp's reinforcement gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need occasional, light positioning for a bare phone, where SAIJI Gooseneck Bed Phone Holder covers the same job at a lower price."
       }
     ]
@@ -146,15 +146,15 @@ export const howWeEvaluated = [
     "description": "We checked whether each arm's rated capacity and clip design account for a phone plus a protective case, not just a bare phone."
   },
   {
-    "title": "",
+    "title": "Touch-interaction stability",
     "description": "We compared arm construction (stiff-core, spring-tensioned, or friction-locked) for how well it resists shifting when you tap or swipe the mounted screen."
   },
   {
-    "title": "",
+    "title": "Desk edge compatibility",
     "description": "We noted each clamp's opening range against common desk, bed frame, and nightstand edge thicknesses."
   },
   {
-    "title": "",
+    "title": "Reach and positioning range",
     "description": "We compared arm length and rotation range for genuine flexibility across different desk layouts and overhead recording setups."
   }
 ];

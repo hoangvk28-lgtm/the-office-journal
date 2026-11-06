@@ -53,42 +53,42 @@ export const heroImage = "https://m.media-amazon.com/images/I/31rIE-toOYL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Real Watts Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 900W real capacity",
           "APC UPS 1500VA/900W Pure Sine Wave UPS for Computer"
         ],
         [
-          "",
+          "Around 900W real capacity",
           "CyberPower CP1000PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector"
         ],
         [
-          "",
+          "Around 800W real capacity",
           "GOLDENMATE 1000VA/800W Lithium UPS Battery Backup & Surge Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $110",
           "APC UPS 650VA/390W Battery Backup & Surge Protector for PC"
         ],
         [
-          "",
+          "Up to $300",
           "APC UPS 1500VA/900W Pure Sine Wave UPS for Computer"
         ]
       ]
@@ -98,22 +98,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Pure Sine Wave vs Modified Sine Wave",
     "cards": [
       {
-        "label": "",
+        "label": "Pure sine wave",
         "text": "Clean power matching wall-outlet quality, avoids APFC compatibility issues with modern PC power supplies. In this comparison: APC UPS 1500VA/900W Pure Sine Wave UPS for Computer."
       },
       {
-        "label": "",
+        "label": "Modified sine wave",
         "text": "Cheaper, but can cause buzzing or shutdown risk on APFC-equipped power supplies. In this comparison: APC 1000VA/600W Pro UPS Battery Backup for Office Electronics, APC 850VA/510W Pro UPS Battery Backup for Office Electronics, GOLDENMATE 1000VA/800W Lithium UPS Battery Backup & Surge Protector, APC UPS 650VA/390W Battery Backup & Surge Protector for PC, CyberPower CP1000PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector."
       }
     ],
     "note": "Default to pure sine wave if your PC has an APFC power supply, which most modern PCs do."
   },
   {
-    "subheading": "",
+    "subheading": "By Replaceable Battery",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -121,7 +121,7 @@ export const howToChoose: HowToChooseSection[] = [
           "APC UPS 1500VA/900W Pure Sine Wave UPS for Computer"
         ],
         [
-          "",
+          "Sealed unit is fine",
           "APC 1000VA/600W Pro UPS Battery Backup for Office Electronics"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a PC Plus Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Real watts (not VA) comfortably above your combined equipment draw, plus pure sine wave if your PC has an APFC power supply."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "APC UPS 1500VA/900W Pure Sine Wave UPS for Computer discloses the highest real capacity at 900W."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a high-draw workstation, multiple monitors, or NAS equipment, where APC UPS 1500VA/900W Pure Sine Wave UPS for Computer's higher watts capacity gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need brief runtime for a single low-draw device, where APC UPS 650VA/390W Battery Backup & Surge Protector for PC covers the same job at a lower price."
       }
     ]

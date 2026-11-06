@@ -56,69 +56,69 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Epson Workforce ES"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Brother DS"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $NaN",
           "ScanSnap iX2500 Wireless or USB High"
         ],
         [
-          "",
-          ""
+          "Up to $380",
+          "Epson Workforce ES"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Scanning",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex scanning",
         "text": "Captures both sides of a page in one pass, worth it if you regularly handle double-sided documents. In this comparison: Epson Workforce ES, ScanSnap iX1300 Wireless or USB Double, Epson Workforce ES, Canon imageFORMULA DR, Canon imageFORMULA R10 Portable Document Scanner, Canon imageFORMULA R40II Office Document Scanner."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if your documents are mostly single-sided. In this comparison: ScanSnap iX2500 Wireless or USB High, Brother DS."
       }
     ],
     "note": "Default to duplex unless you're confident your documents are mostly single-sided."
   },
   {
-    "subheading": "",
+    "subheading": "By ADF Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "100-sheet ADF",
           "ScanSnap iX2500 Wireless or USB High"
         ],
         [
-          "",
-          ""
+          "50-sheet ADF",
+          "Epson Workforce ES"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tax or Financial Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated duty cycle matched to your real monthly volume, plus verified OCR accuracy on receipts and financial documents specifically."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ScanSnap iX2500 Wireless or USB High discloses OCR and searchable PDF support."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You process a real daily volume of double-sided documents, where Epson Workforce ES's higher duty cycle and speed give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only scan occasionally at low volume, where ScanSnap iX2500 Wireless or USB High covers the same job at a lower price."
       }
     ]
@@ -161,7 +161,7 @@ export const howWeEvaluated = [
     "description": "Noted that OCR accuracy depends heavily on scan DPI and source document quality, not solely software quality, a 200 DPI scan of a low-contrast document produces meaningfully worse text extraction than a clean 300 DPI original."
   },
   {
-    "title": "",
+    "title": "Handwriting OCR limitation disclosure",
     "description": "Flagged that standard OCR bundled with every pick in this guide is optimized for printed text; handwritten notes, signatures, and cursive fields are recognized poorly or not at all across the board."
   }
 ];

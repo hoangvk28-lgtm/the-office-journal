@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Publish Solar Input Limits",
     "explanation": "Check portable power stations with solar panel's documented solar input voltage, current, and watt limits alongside its MPPT range."
   },
   {
@@ -13,11 +13,11 @@ export const buyingCriteria = [
     "explanation": "Confirm connector type, adapters, and series/parallel panel compatibility before assuming any panel will work."
   },
   {
-    "criterion": "",
+    "criterion": "Calculate Accepted Panel Wattage",
     "explanation": "Calculate how much panel wattage the station can actually accept without clipping excess capacity."
   },
   {
-    "criterion": "",
+    "criterion": "Estimate Realistic Field Recharge",
     "explanation": "Estimate field recharge time from realistic sun-hours and conversion losses, not laboratory best-case figures."
   },
   {
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Li2jDBgqL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Publish Solar Input Limits",
     "note": "Check portable power stations with solar panel's documented solar input voltage, current, and watt limits alongside its MPPT range."
   },
   {
@@ -65,11 +65,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Confirm connector type, adapters, and series/parallel panel compatibility before assuming any panel will work."
   },
   {
-    "subheading": "",
+    "subheading": "Calculate Accepted Panel Wattage",
     "note": "Calculate how much panel wattage the station can actually accept without clipping excess capacity."
   },
   {
-    "subheading": "",
+    "subheading": "Estimate Realistic Field Recharge",
     "note": "Estimate field recharge time from realistic sun-hours and conversion losses, not laboratory best-case figures."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Looked for UL, UL2743, or other documented safety certification and battery chemistry evidence rather than trusting a safety claim alone."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included cables, solar panel bundling, warranty length, and app requirements as part of the real cost and usability of each pick."
   }
 ];

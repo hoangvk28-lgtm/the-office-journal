@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "NDYIN Portable Printer Wireless"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "NDYIN Portable Printer Wireless"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $40",
+          "NDYIN Portable Printer Wireless"
         ],
         [
-          "",
-          ""
+          "Up to $200",
+          "Epson EcoTank ET"
         ]
       ]
     }
@@ -102,27 +102,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "NDYIN Portable Printer Wireless vs Epson EcoTank ET",
     "cards": [
       {
-        "label": "",
+        "label": "NDYIN Portable Printer Wireless",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Epson EcoTank ET",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to NDYIN Portable Printer Wireless unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "NDYIN Portable Printer Wireless"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "NDYIN Portable Printer Wireless is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Epson EcoTank ET's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where NDYIN Portable Printer Wireless covers the same job at a lower price."
       }
     ]
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "Factored in whether output is a permanent ink-based print or a thermal print that fades over time, since that changes what a mini printer is actually good for."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed stored footprint, output quality, and ongoing consumable cost against price across the range of price points in this comparison in this list."
   }
 ];

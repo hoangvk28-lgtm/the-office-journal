@@ -60,8 +60,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $200",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -70,7 +70,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A strong alternative with a different tradeoff",
-          ""
+          "Portable Interactive Whiteboard"
         ]
       ]
     }
@@ -79,8 +79,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,7 +88,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Smart Teaching Portable Interactive Whiteboard"
         ],
         [
-          "",
+          "Best overall value",
           "Interactive Whiteboard Converter Kit for Projectors (Windows Only)"
         ]
       ]
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to Interactive Whiteboard Converter Kit for Projectors (Windows Only) unless your specific use case points toward Smart Teaching Portable Interactive Whiteboard's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -122,7 +122,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A close secondary option worth comparing",
-          ""
+          "Portable Interactive Whiteboard"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Interactive Whiteboard Converter Kit for Projectors (Windows Only) is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on Portable Interactive Whiteboard, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by Smart Teaching Portable Interactive Whiteboard without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every primary recommendation must be new, in stock and up to $200 on the refresh date; expired sale pricing automatically disqualifies it."
   },
   {
-    "title": "",
+    "title": "Budget-ladder map",
     "description": "Show the next-lower tier, the portable-kit / category-contamination tier tier and the next-higher tier so this article has a distinct reason to exist."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize price against true interactive-display architecture, screen size/resolution and minimum usable setup cost instead of raw feature count."
   },
   {
-    "title": "",
+    "title": "Evidence labels",
     "description": "Classify touch/write quality and OS/EDLA/device management as official-documentation-confirmed, The Office Journal-measured, manufacturer-claimed or unverified."
   },
   {
-    "title": "",
+    "title": "Step-up/step-down verdict",
     "description": "Judge audio/USB-C/mounting, warranty/support and ownership friction, then explicitly say when a buyer should spend less or exceed $200 for a meaningful upgrade."
   }
 ];

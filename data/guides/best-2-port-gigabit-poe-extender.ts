@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/21XZe4Lf7vL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $24",
+          "Revotech Gigabit 2 Port ($23.29)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "LINOVISION 2 Ports Passthrough ($29.99)"
         ],
         [
-          "",
-          ""
+          "Under $50",
+          "MokerLink IP67 Outdoor ($49.99)"
         ],
         [
-          "",
-          ""
+          "Under $58",
+          "TRENDnet TPE-BE200 ($57.99)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "PoE++ High-Wattage Support vs Standard PoE+ Value",
     "cards": [
       {
-        "label": "",
+        "label": "PoE++ high-wattage (TRENDnet, MokerLink)",
         "text": "Both extend up to 60W or 90W per output, necessary for higher-power devices like PTZ cameras with heaters or advanced access points that standard PoE+ can't adequately power."
       },
       {
@@ -129,11 +129,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If any of your devices specifically require PoE++ power (check the device's own power specification), the TRENDnet or MokerLink picks are necessary. If your devices are standard PoE or PoE+ equipment, the LINOVISION or Revotech picks deliver full Gigabit performance at a lower cost."
   },
   {
-    "subheading": "",
+    "subheading": "By Installation Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your installation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -145,7 +145,7 @@ export const howToChoose: HowToChooseSection[] = [
           "LINOVISION 2 Ports Gigabit PoE Passthrough Switch"
         ],
         [
-          "",
+          "Standard indoor installation",
           "TRENDnet TPE-BE200 or Revotech Gigabit 2 Port"
         ]
       ]
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heated PTZ Camera Requiring PoE++ Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "3bt) support at 60W or higher, since a heated outdoor PTZ camera often exceeds the 30W ceiling of standard PoE+."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both the TRENDnet and MokerLink picks specifically support PoE++ at 60W and 90W respectively, making either suitable for a heated PTZ camera's higher power draw."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by that combination."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "29, the lowest price in this comparison."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Maximum PoE Standard Supported",
     "description": "Compared standard PoE/PoE+ versus higher-wattage PoE++ device compatibility."
   },
   {
-    "title": "",
+    "title": "Daisy-Chain and Cascade Distance",
     "description": "Compared documented multi-unit configurations and their total achievable distance."
   },
   {
-    "title": "",
+    "title": "Outdoor and Industrial Durability",
     "description": "Compared IP ratings, surge protection, and operating temperature ranges."
   },
   {
-    "title": "",
+    "title": "Warranty and Compliance",
     "description": "Compared warranty length and any government procurement compliance certifications."
   },
   {
-    "title": "",
+    "title": "Automatic Protection Features",
     "description": "Compared auto-detection, auto-reset, and damage protection functions."
   }
 ];

@@ -33,10 +33,10 @@ export const faq = [
   },
   {
     "q": "Which gas-spring converter has the most reviews?",
-    "a": ""
+    "a": "The VIVO Black 42 in Standing Desk Converter, with 10,111 reviews."
   },
   {
-    "q": "",
+    "q": "What's the highest-rated gas-spring converter?",
     "a": "8, using fixed detent positions."
   },
   {
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41i7KiJ9rwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Height Adjustable Standing Desk Converter"
         ],
         [
-          "",
+          "Dual monitors",
           "VIVO Black 42 in Standing Desk Converter"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $129",
           "Height Adjustable Standing Desk Converter"
         ],
         [
-          "",
+          "Mid-range",
           "VIVO Black 42 in Standing Desk Converter"
         ],
         [
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: VIVO Black 42 in Standing Desk Converter, Mount-It! Height Adjustable Standing Desk Converter, Mount-It! Height Adjustable Standing Desk Converter."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: none in this specific roundup, since most picks here use a manual lift."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Vari VariDesk Pro Plus 36"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "VIVO Black 42 in Standing Desk Converter"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VIVO Black 42 in Standing Desk Converter fits this specifically: Substantial review base for a large gas-spring platform."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Height Adjustable Standing Desk Converter already covers the essentials: Same design as the pricier listing, at a lower price. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]
@@ -174,7 +174,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Flagged where confirmed data was incomplete for a specific listing",
-    "description": ""
+    "description": "One VariDesk alternate listing had a smaller confirmed review base and unconfirmed pricing, and we disclosed this directly."
   },
   {
     "title": "Weighed load range compatibility for smooth adjustment",

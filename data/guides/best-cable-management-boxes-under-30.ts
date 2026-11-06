@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/514hrhDbu4L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "The cheapest no-drill tray",
           "Cinati Under Desk Cable Management Tray, White"
         ],
         [
@@ -87,20 +87,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "Cinati White ($14.44), Mesh Tray ($16.99), or GZOKMOG ($18.99)"
         ],
         [
-          "",
-          ""
+          "Up to $30",
+          "Cinati Black ($21.99), Naeety ($24.69), or Delamu 2-Pack ($27.99)"
         ]
       ]
     }
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Enclosed Box vs Open Tray",
     "cards": [
       {
-        "label": "",
+        "label": "Enclosed box (Naeety)",
         "text": "Fully hides a power strip and cords from view, sitting on the floor or a shelf rather than mounting to the desk itself."
       },
       {
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match the product to where your actual clutter lives: a floor-level power strip tangle calls for an enclosed box, while cables hanging visibly under the desktop call for a clamp-on tray."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk is",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A smaller or compact desk",
-          ""
+          "GZOKMOG Under Desk Cable Management Tray (15.75\")"
         ],
         [
           "A wide desk needing two mounting points",
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Multiple Power Adapters Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A mesh or ventilated tray design rather than a fully solid one, since bundled power bricks generate heat that needs somewhere to dissipate."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The metal mesh tray with 2-hole clamp mount is specifically built with this airflow consideration in mind."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) covers two mounting points for less than buying two single trays separately."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "44) covers that core need at the lowest price here."
       }
     ]
@@ -168,23 +168,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Product type classification",
     "description": "We distinguished enclosed cable-hiding boxes from open under-desk clamp-mount trays, since these solve different clutter problems despite sharing a category name."
   },
   {
-    "title": "",
+    "title": "Mounting method verification",
     "description": "For tray-style picks, we confirmed no-drill clamp mounting and checked for any stated desk-damage claims, since drilling into a desk is a real, sometimes unwanted commitment."
   },
   {
-    "title": "",
+    "title": "Capacity and length comparison",
     "description": "We compared stated tray length and box capacity against typical desk widths and cable bundle sizes, since a tray too short for your desk leaves cables unmanaged at the ends."
   },
   {
-    "title": "",
+    "title": "Airflow and heat consideration",
     "description": "We noted which trays use a mesh design allowing heat to dissipate around bundled power adapters versus a fully solid, enclosed design."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $30 on the date this guide was checked; products that only hit this tier during a temporary sale were excluded."
   }
 ];

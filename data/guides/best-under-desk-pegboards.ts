@@ -56,60 +56,60 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "PEGZONE Under Desk Cable Management Tray"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Univivi No Drill Under Desk Cable Management Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $25",
           "PEGZONE Desk Side Storage Organizer"
         ],
         [
-          "",
+          "Up to $38",
           "Metal Clamp On Desk Shelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Screwed Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Clamp-on",
         "text": "No drilling required, the safer choice for a rented space or shared furniture. In this comparison: PEGZONE Under Desk Cable Management Tray, PEGZONE Desk Side Storage Organizer, Metal Clamp On Desk Shelf."
       },
       {
-        "label": "",
+        "label": "Screwed mount",
         "text": "Generally more rigid and stable once loaded, worth it if you own the desk. In this comparison: Univivi No Drill Under Desk Cable Management Tray."
       }
     ],
     "note": "Default to clamp-on unless you own the desk and want maximum loaded stability."
   },
   {
-    "subheading": "",
+    "subheading": "By Built-In Shelving",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Metal Clamp On Desk Shelf"
         ],
         [
-          "",
+          "Hooks alone are enough",
           "PEGZONE Under Desk Cable Management Tray"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Loaded, Multi-Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine metal or thick MDF construction, confirmed standard hole spacing, and a wall-anchor mounting option for stability once loaded with monitor arms and accessories."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Univivi No Drill Under Desk Cable Management Tray is worth checking against its listed material and mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to load the board with monitor arms and multiple accessories, where Metal Clamp On Desk Shelf's material and mounting give real stability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a few lightweight decorative hooks, where PEGZONE Desk Side Storage Organizer covers the same job at a lower price."
       }
     ]

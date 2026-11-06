@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Q1zGapUDL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fully dark, dedicated room",
           "XGIMI HORIZON 20 4K RGB Triple Laser Home Projector"
         ],
         [
-          "",
+          "Some ambient light",
           "XGIMI Elfin Flip 4K Portable Projector with wifi and bluetooth"
         ],
         [
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -92,11 +92,11 @@ export const howToChoose: HowToChooseSection[] = [
           "XGIMI Vibe One Battery Powered 1080P Smart Portable Projector (Cloud Ash)"
         ],
         [
-          "",
+          "Mid-range pick",
           "XGIMI Elfin Flip 4K Portable Projector with wifi and bluetooth"
         ],
         [
-          "",
+          "Higher budget",
           "XGIMI HORIZON 20 Max 4K Projector Triple Laser Home Theater 5700 ISO Lumens"
         ]
       ]
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most casual, weekly-use buyers should default to a lamp-based pick unless they'll run it daily, where laser's near-zero maintenance pays for itself over a few years."
   },
   {
-    "subheading": "",
+    "subheading": "By Throw Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "XGIMI HORIZON 20 4K RGB Triple Laser Home Projector is worth checking against its documented native contrast figures before assuming any headline contrast number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want laser reliability and top-tier brightness, where XGIMI HORIZON 20 Max 4K Projector Triple Laser Home Theater 5700 ISO Lumens justifies the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want casual, occasional use, where XGIMI Vibe One Battery Powered 1080P Smart Portable Projector (Cloud Ash) already covers the job at the lowest price here."
       }
     ]

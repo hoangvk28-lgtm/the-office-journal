@@ -61,16 +61,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41JXUVBU4iL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Guest Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Solo host or 1 guest",
-          ""
+          "SQWRWY 4-Channel Microphone Mixer"
         ],
         [
           "2-3 people in the room",
@@ -84,52 +84,52 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "SQWRWY 4-Channel Microphone Mixer"
         ],
         [
-          "",
+          "Mid-range pick",
           "TKLBLS 4 Channel Podcast Audio Mixer"
         ],
         [
-          "",
+          "Higher budget",
           "Mackie 402VLZ4, 4-channel Ultra Compact Mixer with High Quality Onyx Preamps"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Mixer vs Simple Interface",
     "cards": [
       {
         "label": "Mackie 402VLZ4, 4-channel Ultra Compact Mixer with High Quality Onyx Preamps)",
         "text": "Gives you physical faders and knobs for live gain riding, useful when hosting 3+ guests."
       },
       {
-        "label": "",
+        "label": "Compact interface (e.g. SQWRWY 4-Channel Microphone Mixer)",
         "text": "Simpler and cheaper for a solo host or two-person show, less desk footprint but fewer physical controls."
       }
     ],
     "note": "Skip the full mixer if you're a solo host recording to a laptop."
   },
   {
-    "subheading": "",
+    "subheading": "By Recording Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Computer-based recording via USB",
           "TASCAM Mixcast 4 Podcast Streaming Mixer"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Livestreaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Zero-latency direct monitoring and simple loopback routing so you can hear yourself and other audio without lag while broadcasting."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TASCAM Mixcast 4 Podcast Streaming Mixer is worth checking against its specific monitoring-latency spec before assuming any mixer handles live streaming equally well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're hosting multiple guests regularly and want physical channel control, where Mackie 402VLZ4, 4-channel Ultra Compact Mixer with High Quality Onyx Preamps justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're a solo host just starting out, where SQWRWY 4-Channel Microphone Mixer already covers the job at the lowest price here."
       }
     ]

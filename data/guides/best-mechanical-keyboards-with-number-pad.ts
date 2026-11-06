@@ -63,80 +63,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "RisoPhy 104"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "RisoPhy 104"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $29",
+          "RisoPhy 104"
         ],
         [
-          "",
+          "Up to $157",
           "Logitech MX Mechanical Wireless Illuminated Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wireless vs Wired Connection",
     "cards": [
       {
-        "label": "",
+        "label": "Wireless",
         "text": "4GHz dongle option beyond just Bluetooth. In this comparison: Keychron V6 Max Wireless Full, Keychron V6 Wired Full, Keychron V6 Max Wireless Full, Logitech MX Mechanical Wireless Illuminated Keyboard."
       },
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, the safer choice for competitive gaming. In this comparison: RisoPhy 104, Keychron V6 Knob Version Full, Redragon K668 108."
       }
     ],
     "note": "Default to wired if competitive gaming latency matters, wireless for general typing and office use."
   },
   {
-    "subheading": "",
+    "subheading": "By Keycap Material",
     "note": "Check each pick's listed keycap material (PBT vs ABS) against how long you plan to use it daily before buying, since PBT resists shine and wear better over years."
   },
   {
     "subheading": "For Shared Office or Video Call Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Linear or tactile switches rather than clicky ones, to avoid disruptive noise on calls or in a shared space."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "RisoPhy 104 is worth checking against its listed switch type before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want hot-swappable switches and premium PBT keycaps for years of daily use, where Logitech MX Mechanical Wireless Illuminated Keyboard's build quality gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want to try the mechanical feel without a big investment, where RisoPhy 104 covers the same job at a lower price."
       }
     ]
@@ -149,19 +149,19 @@ export const howWeEvaluated = [
     "description": "Checked each listing's real title and key count to confirm a genuine full-size or 104-108 key layout with a numpad, rather than assuming from category placement alone."
   },
   {
-    "title": "",
+    "title": "Switch type and feel",
     "description": "Compared clicky Blue, tactile Brown, linear Red and Banana, and low-profile tactile switches for how each one suits fast, repeated numpad entry."
   },
   {
-    "title": "",
+    "title": "Connectivity options",
     "description": "4GHz and Bluetooth wireless options, since a full-size wireless board needs more desk space and battery management than a wired one."
   },
   {
-    "title": "",
+    "title": "Customization and remapping",
     "description": "Noted which boards support hot-swappable switches and QMK/VIA remapping versus fixed-switch, non-programmable designs."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed confirmed numpad functionality, switch quality, and extras like a volume knob or multi-device pairing against price, from a wired budget board to a premium wireless pick."
   }
 ];

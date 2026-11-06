@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Epson EcoTank ET"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Epson EcoTank ET"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $170",
           "HP Smart Tank 5101 Wireless Refillable All"
         ],
         [
-          "",
-          ""
+          "Up to $473",
+          "Epson EcoTank ET"
         ]
       ]
     }
@@ -106,23 +106,23 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Epson EcoTank ET",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to HP Smart Tank 5101 Wireless Refillable All unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Epson EcoTank ET"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Epson EcoTank ET is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Epson EcoTank ET's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where HP Smart Tank 5101 Wireless Refillable All covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Upfront cost vs. payback period",
     "description": "Weighed each printer's higher upfront price against realistic monthly page-count tiers to assess how quickly the cartridge-free ink savings actually pay off."
   },
   {
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "Compared ADF, fax, Ethernet, and touchscreen controls across picks, since these matter more for a home office than a purely casual home printer."
   },
   {
-    "title": "",
+    "title": "Hidden long-term costs disclosed",
     "description": "Factored in the maintenance box or waste ink pad replacement most listings don't mention, a real cost after several years of use regardless of brand."
   },
   {
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "Assessed how each pick's ink tank system compares honestly to cartridge printers for text, graphics, and photo output rather than assuming ink tank always wins across the board."
   },
   {
-    "title": "",
+    "title": "Brand and ecosystem fit",
     "description": "Considered whether Epson's EcoTank or HP's Smart Tank ecosystem better matches a buyer's existing printer brand familiarity and refill bottle availability."
   }
 ];

@@ -32,7 +32,7 @@ export const faq = [
     "a": "Corded gives consistent suction with no battery to manage and costs less, while cordless offers real portability but typically runs only 8 to 22 minutes with suction weakening as the charge drains."
   },
   {
-    "q": "",
+    "q": "Are mini vacuums loud?",
     "a": "Cordless models typically run around 55 to 62 DB, noticeable in a quiet shared office; check buyer reviews for real-world noise impressions if discretion matters."
   },
   {
@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41us+ADBfQL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Keyboard crumbs",
           "Wansimoo Handheld Car Vacuum Cleaner, 25000PA Strong Cyclonic Suction Foldable"
         ],
         [
-          "",
-          ""
+          "Whole-desk cleaning",
+          "SERVOMASTER Handheld Vacuum Cordless"
         ],
         [
-          "",
+          "Car interior",
           "FAOGO Car Vacuum Portable Cordless"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "Wansimoo Handheld Car Vacuum Cleaner, 25000PA Strong Cyclonic Suction Foldable"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "HFFLH Cordless Vacuum Cleaner"
         ],
         [
-          "",
+          "Higher budget",
           "FAOGO Car Vacuum Portable Cordless"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Corded vs Cordless",
     "cards": [
       {
         "label": "Wansimoo Handheld Car Vacuum Cleaner, 25000PA Strong Cyclonic Suction Foldable)",
         "text": "Consistent suction, no battery to manage, lower price."
       },
       {
-        "label": "",
+        "label": "Cordless",
         "text": "Portable and quiet, but suction fades as the battery drains."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Suction Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Everyday light cleaning",
+          "SERVOMASTER Handheld Vacuum Cordless"
         ],
         [
-          "",
-          ""
+          "Maximum suction power",
+          "HFFLH Cordless Vacuum Cleaner"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tight Keyboard Crevices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A narrow brush or crevice nozzle attachment included in the box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SERVOMASTER Handheld Vacuum Cordless is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where FAOGO Car Vacuum Portable Cordless justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Wansimoo Handheld Car Vacuum Cleaner, 25000PA Strong Cyclonic Suction Foldable already covers the job at the lowest price here."
       }
     ]

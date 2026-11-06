@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "JMHUD 5"
         ],
         [
-          "",
+          "Up to $48",
           "Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays"
         ]
       ]
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "JMHUD 5 vs Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays",
     "cards": [
       {
-        "label": "",
+        "label": "JMHUD 5",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to JMHUD 5 unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where JMHUD 5 covers the same job at a lower price."
       }
     ]
@@ -153,11 +153,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "\"Desktop\" naming accuracy verification",
     "description": "We checked whether each product sits on the desk surface, or is actually wall-mounted or desk-edge hanging despite 'desktop' language in its title."
   },
   {
-    "title": "",
+    "title": "Desk-footprint consumption",
     "description": "We weighed how much desk surface space a genuine freestanding design occupies against the space-saving benefit of wall or edge mounting."
   },
   {

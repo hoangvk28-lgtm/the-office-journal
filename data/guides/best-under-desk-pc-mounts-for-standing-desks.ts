@@ -53,41 +53,41 @@ export const heroImage = "https://m.media-amazon.com/images/I/31eCcCtZEoL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 40 lbs capacity",
           "Under Desk PC Mount & CPU Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $26",
           "Under Desk PC Mount & CPU Holder"
         ],
         [
-          "",
+          "Up to $53",
           "JOY worker Under Desk PC Mount with Protective Arms"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Weight Capacity vs Price",
     "cards": [
       {
         "label": "Under Desk PC Mount & CPU Holder",
@@ -101,15 +101,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Under Desk PC Mount & CPU Holder unless your tower's loaded weight calls for more capacity."
   },
   {
-    "subheading": "",
+    "subheading": "By Disclosed Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 40 lbs capacity",
           "Under Desk PC Mount & CPU Holder"
         ]
       ]
@@ -119,24 +119,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavier Modern Tower Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed weight capacity meaningfully above the generic mid-tower assumption, ideally with the tested figure stated in pounds, not a vague marketing term."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Under Desk PC Mount & CPU Holder discloses the highest capacity at 40 lbs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your tower is a heavier modern build with multiple drives or a discrete GPU, where JOY worker Under Desk PC Mount with Protective Arms's higher price buys real capacity headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your case is a lightweight, standard mid-tower, where Under Desk PC Mount & CPU Holder covers the same job at a lower price."
       }
     ]

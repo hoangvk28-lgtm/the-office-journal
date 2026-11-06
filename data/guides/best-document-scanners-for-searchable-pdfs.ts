@@ -53,76 +53,76 @@ export const heroImage = "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By ADF Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "100-sheet ADF",
           "ScanSnap iX2500 Wireless or USB High"
         ],
         [
-          "",
-          ""
+          "50-sheet ADF",
+          "Epson Workforce ES"
         ],
         [
-          "",
+          "20-sheet ADF",
           "Canon imageFORMULA R10 Portable Document Scanner"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $NaN",
           "ScanSnap iX2500 Wireless or USB High"
         ],
         [
-          "",
-          ""
+          "Up to $380",
+          "Epson Workforce ES"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Scanning",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex scanning",
         "text": "Captures both sides of a page in one pass, worth it if you regularly handle double-sided documents. In this comparison: Epson Workforce ES, ScanSnap iX1300 Wireless or USB Double, Epson Workforce ES, Canon imageFORMULA DR, Canon imageFORMULA R10 Portable Document Scanner, Epson Workforce ES."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if your documents are mostly single-sided. In this comparison: ScanSnap iX2500 Wireless or USB High."
       }
     ],
     "note": "Default to duplex unless you're confident your documents are mostly single-sided."
   },
   {
-    "subheading": "",
+    "subheading": "By ADF Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "100-sheet ADF",
           "ScanSnap iX2500 Wireless or USB High"
         ],
         [
-          "",
-          ""
+          "50-sheet ADF",
+          "Epson Workforce ES"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tax or Financial Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated duty cycle matched to your real monthly volume, plus verified OCR accuracy on receipts and financial documents specifically."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ScanSnap iX2500 Wireless or USB High discloses OCR and searchable PDF support."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You process a real daily volume of double-sided documents, where Epson Workforce ES's higher duty cycle and speed give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only scan occasionally at low volume, where ScanSnap iX2500 Wireless or USB High covers the same job at a lower price."
       }
     ]
@@ -161,7 +161,7 @@ export const howWeEvaluated = [
     "description": "Evaluated searchable PDF output as bounded by the underlying OCR accuracy rather than a separately solved feature, since a searchable PDF is just an image with an OCR text layer overlaid."
   },
   {
-    "title": "",
+    "title": "PDF/An archival compliance disclosure",
     "description": "Checked whether any listing confirms PDF/A standard compliance, required for some legal/government retention rules, none of the picks in this guide explicitly disclose this."
   },
   {

@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Q5YDqAEdL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Protection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,41 +69,41 @@ export const howToChoose: HowToChooseSection[] = [
           "SentrySafe Shelf Safe with Digital Keypad Lock"
         ],
         [
-          "",
+          "Genuine anti-removal, bolt-down support",
           "Bonsaii Safe Box with Electronic Keypad for Home Office"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $24",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ],
         [
-          "",
+          "Up to $102",
           "SentrySafe Shelf Safe with Digital Keypad Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
         "label": "Yuanshikj Small Steel Security Safe Box with Keypad",
-        "text": ""
+        "text": "The lower-priced option in this comparison, worth checking its review base against your confidence needs."
       },
       {
         "label": "SentrySafe Shelf Safe with Digital Keypad Lock",
@@ -113,15 +113,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Yuanshikj Small Steel Security Safe Box with Keypad unless your specific needs call for the pricier pick's extra features."
   },
   {
-    "subheading": "",
+    "subheading": "By Fire Protection",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fire resistance claimed",
           "SentrySafe Shelf Safe with Digital Keypad Lock"
         ],
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Storing Documents or Cash Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed interior dimension roomy enough for the actual items, plus a backup access method beyond just a keypad."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Yuanshikj Small Steel Security Safe Box with Keypad is worth checking against its listed interior dimensions before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're storing valuable or irreplaceable items, where SentrySafe Shelf Safe with Digital Keypad Lock's higher price buys real security or fire-protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic theft deterrence for low-value items, where Yuanshikj Small Steel Security Safe Box with Keypad covers the same job at a lower price."
       }
     ]

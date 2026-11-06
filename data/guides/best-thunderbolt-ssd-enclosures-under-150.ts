@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41mRfxzGifL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -82,34 +82,34 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Genuine 80Gbps speed at the lowest price",
-          ""
+          "ACASIS 80Gbps M.2 NVMe SSD Enclosure, Thunderbolt 5 & USB4 V2.0"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $150",
+          "ACASIS ($149.61)"
         ],
         [
-          "",
-          ""
+          "Under $152",
+          "MOKiN ($151.99)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "Qwiizlab ($159.99)"
         ],
         [
-          "",
-          ""
+          "Under $170",
+          "UGREEN ($169.99)"
         ]
       ]
     }
@@ -122,31 +122,31 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Actively manages heat during sustained high-speed transfers, with varying activation thresholds and speed levels."
       },
       {
-        "label": "",
+        "label": "Completely fanless (Qwiizlab)",
         "text": "Relies entirely on a copper plate and aluminum chassis for passive cooling, delivering silent operation."
       }
     ],
     "note": "If you regularly perform extended high-speed transfers where thermal management matters most, an active-cooling pick like the UGREEN or MOKiN gives you more assurance. If silent operation is a priority and your workloads are more moderate, the Qwiizlab's fanless design delivers that without sacrificing genuine 80Gbps capability."
   },
   {
-    "subheading": "",
+    "subheading": "By Thunderbolt Generation Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your host device",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Thunderbolt 5 host, want maximum speed",
-          ""
+          "UGREEN or MOKiN"
         ],
         [
           "Thunderbolt 4/3 host, need backward compatibility",
-          ""
+          "Qwiizlab or MOKiN"
         ],
         [
           "0 host, no Thunderbolt 3 needed",
-          ""
+          "ACASIS"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Content Creator Monitoring Transfer Health During Long Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A built-in status display showing real-time temperature and fan activity, rather than relying on guesswork about whether thermal throttling might be affecting your transfer speeds."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The MOKiN pick's LCD display specifically provides real-time temperature and fan speed monitoring during intensive, extended transfer sessions."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest stated theoretical speed with active cooling and a travel case, where the UGREEN pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want genuine 80Gbps speed without needing Thunderbolt 3 backward compatibility, where the ACASIS pick covers that for about $20 less."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Controller Chip Generation",
     "description": "Compared JHL9480 and dual-chip configurations enabling genuine 80Gbps speeds."
   },
   {
-    "title": "",
+    "title": "Cooling Sophistication",
     "description": "Compared fanless, single-speed, and multi-speed active cooling designs across the lineup."
   },
   {
-    "title": "",
+    "title": "Status Monitoring Features",
     "description": "Checked for LCD displays and other real-time monitoring capabilities."
   },
   {
-    "title": "",
+    "title": "Thunderbolt Generation Compatibility",
     "description": "Compared Thunderbolt 5 requirements and backward compatibility with 4/3 and USB4."
   },
   {
-    "title": "",
+    "title": "PCIe SSD Generation Support",
     "description": "Compared PCIe Gen4 and Gen5 NVMe SSD compatibility across all four picks."
   }
 ];

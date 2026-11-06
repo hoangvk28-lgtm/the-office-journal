@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Standalone-faq",
     "q": "Should I get a standalone or PC VR headset?",
     "a": "Standalone offers real freedom from cables and a computer but caps out at mobile-chip-level graphics, PC-tethered unlocks far more demanding visuals but needs a gaming PC and either a cable or a solid wireless streaming setup."
   },
   {
-    "id": "",
+    "id": "Motionsick-faq",
     "q": "Can a VR headset cause motion sickness?",
     "a": "It can, particularly at lower refresh rates, if you or the intended user is sensitive to VR discomfort, prioritize a headset running at 90Hz or higher over other specs."
   },
   {
-    "id": "",
+    "id": "Fov-faq",
     "q": "Does field of view really matter in VR?",
     "a": "Yes, more than most buyers expect, a narrow field of view can feel like looking through a mask, a wider field of view meaningfully increases immersion, especially for exploration-focused content."
   },
   {
-    "id": "",
+    "id": "Comfort-vr-faq",
     "q": "Which VR headset is most comfortable for long sessions?",
     "a": "Check reviews for weight distribution, not just total weight, a design with rear-mounted weight like a battery pack balances the load better than a front-heavy design that concentrates weight on the face."
   },
   {
-    "id": "",
+    "id": "Tracking-faq",
     "q": "Does VR tracking work in any room?",
     "a": "Inside-out tracking can struggle in poorly lit rooms, near reflective surfaces, or unusually shaped spaces, check specific tracking reliability reviews if your play space has any of these challenges."
   },
   {
-    "id": "",
+    "id": "Resolution-vr-faq",
     "q": "What resolution should I look for in a VR headset?",
     "a": "Check the true per-eye resolution, not a combined total across both eyes, a low per-eye resolution can produce a visible screen door effect that's especially distracting when reading in-game text."
   }
@@ -67,15 +67,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41++jAz6BgL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No gaming PC available",
           "3D VR Glasses VR Virtual Reality Headset Support 360°Panorama Large Screen"
         ],
         [
@@ -83,18 +83,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Oculus Rift S PC-Powered VR Gaming Headset"
         ],
         [
-          "",
+          "Want maximum visual fidelity",
           "DPVR E4 PC VR Headset"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,36 +102,36 @@ export const howToChoose: HowToChooseSection[] = [
           "3D VR Glasses VR Virtual Reality Headset Support 360°Panorama Large Screen"
         ],
         [
-          "",
+          "Mid-range pick",
           "TECKNET VR Headset for Phone"
         ],
         [
-          "",
+          "Higher budget",
           "DPVR E4 PC VR Headset"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Standalone vs PC-Tethered",
     "cards": [
       {
         "label": "3D VR Glasses VR Virtual Reality Headset Support 360°Panorama Large Screen)",
         "text": "No cables or computer needed, capped at mobile-chip-level graphics."
       },
       {
-        "label": "",
+        "label": "PC-tethered",
         "text": "Far more demanding visuals possible, needs a gaming PC and a cable or wireless streaming setup."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Motion Sensitivity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sensitivity",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,7 +139,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Oculus Rift S PC-Powered VR Gaming Headset"
         ],
         [
-          "",
+          "Sensitive to VR discomfort",
           "TECKNET VR Headset for Phone"
         ]
       ]
@@ -149,24 +149,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Fast-Paced or Full-Body Games Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Controller tracking that holds up specifically when controllers move outside the headset's camera view."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Oculus Rift S PC-Powered VR Gaming Headset is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where DPVR E4 PC VR Headset justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 3D VR Glasses VR Virtual Reality Headset Support 360°Panorama Large Screen already covers the job at the lowest price here."
       }
     ]

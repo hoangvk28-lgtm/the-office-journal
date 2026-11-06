@@ -56,45 +56,45 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "VIVO Steel Triple Clamp Desk Pegboard System with 2 Monitor Mounts and Storage Shelf"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $80",
+          "Sailret Clamp"
         ],
         [
-          "",
+          "Up to $270",
           "EUREKA ERGONOMIC Desk Pegboard Dual Monitor Stand 59x34 White"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Sailret Clamp",
         "text": "The lower-priced option in this comparison, worth checking its material and mounting method against your desk."
       },
       {
@@ -105,11 +105,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Sailret Clamp unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Built-In Shelving",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "VIVO Steel Triple Clamp Desk Pegboard System with 2 Monitor Mounts and Storage Shelf"
         ],
         [
-          "",
+          "Hooks alone are enough",
           "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Loaded, Multi-Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine metal or thick MDF construction, confirmed standard hole spacing, and a wall-anchor mounting option for stability once loaded with monitor arms and accessories."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands is worth checking against its listed material and mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to load the board with monitor arms and multiple accessories, where EUREKA ERGONOMIC Desk Pegboard Dual Monitor Stand 59x34 White's material and mounting give real stability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a few lightweight decorative hooks, where Sailret Clamp covers the same job at a lower price."
       }
     ]
@@ -153,7 +153,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Desktop-mounted versus fixed-frame distinction",
     "description": "Verified each product clamps to the moving desktop surface rather than a fixed frame component, since only desktop mounting travels naturally with height adjustment."
   },
   {
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "Weighed each board's weight against typical standing desk motor lift capacity when combined with a usual desktop load."
   },
   {
-    "title": "",
+    "title": "Category maturity assessed honestly",
     "description": "Assessed that dedicated standing-desk-specific pegboard products are uncommon, and recommended general desktop-clamped boards accordingly rather than overstating a niche category."
   }
 ];

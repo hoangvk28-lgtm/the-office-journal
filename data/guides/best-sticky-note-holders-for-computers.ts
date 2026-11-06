@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41kUKaUor1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Placement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "On the desk surface",
           "2 Pack Computer Monitor Memo Board"
         ],
         [
-          "",
+          "Clipped to a monitor",
           "Office Desk Accessories 2pcs Multifunction Computer Monitor Memo Board"
         ],
         [
           "Carried between desk and laptop",
-          ""
+          "Monitor Memo Board Holder 16.5\"x6.1\""
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,12 +96,12 @@ export const howToChoose: HowToChooseSection[] = [
           "2 Pack Computer Monitor Memo Board"
         ],
         [
-          "",
+          "Mid-range pick",
           "MDOZQ Office Desk Accessories 2pcs Sticky Note Holder Phone Holder"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Monitor Memo Board Holder 16.5\"x6.1\""
         ]
       ]
     }
@@ -114,22 +114,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "One-at-a-time dispensing, needs z-fold refill pads specifically."
       },
       {
-        "label": "",
+        "label": "Standard pad holder",
         "text": "Works with any standard pad, no special refill needed."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Note Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your notes",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 3x3 size",
           "Office Desk Accessories 2pcs Multifunction Computer Monitor Memo Board"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For One-Handed Desk Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weighted or non-slip base that stays put while you pull a note with one hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Office Desk Accessories 2pcs Multifunction Computer Monitor Memo Board is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "1\" justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 2 Pack Computer Monitor Memo Board already covers the job at the lowest price here."
       }
     ]

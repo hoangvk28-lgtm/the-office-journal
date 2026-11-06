@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41K3PPxE7wL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "1 Type C Male to Female Extension Data Cable"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Cozy USB C Cable Dust Caps with Tether"
         ],
         [
-          "",
-          ""
+          "A thick multi-cable run",
+          "CableGeeker Cable Management Sleeve"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,40 +95,40 @@ export const howToChoose: HowToChooseSection[] = [
           "1 Type C Male to Female Extension Data Cable"
         ],
         [
-          "",
+          "Mid-range pick",
           "JOTO 4 Pack Cable Management Sleeve 19-20 Inches -Black"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "CableGeeker Cable Management Sleeve"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "1 Type C Male to Female Extension Data Cable)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "Cozy USB C Cable Dust Caps with Tether"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Cozy USB C Cable Dust Caps with Tether is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where CableGeeker Cable Management Sleeve justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "1 Type C Male to Female Extension Data Cable already covers the job at the lowest price here."
       }
     ]

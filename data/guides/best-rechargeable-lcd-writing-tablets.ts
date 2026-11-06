@@ -53,48 +53,48 @@ export const heroImage = "https://m.media-amazon.com/images/I/41PP1beSBsL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Most compact and portable",
           "5 Inch LCD Writing Tablet"
         ],
         [
-          "",
+          "Most writing room",
           "12in Rechargeable LCD Writing Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $30",
           "12in Rechargeable LCD Writing Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Kids-Marketed vs Adult-Marketed",
     "cards": [
       {
-        "label": "",
+        "label": "Kids-Marketed",
         "text": "Bright colors and character branding, often the same core technology as adult versions at a similar or lower price. In this comparison: check each listing's marketing angle directly."
       },
       {
-        "label": "",
+        "label": "Adult-Marketed",
         "text": "Neutral styling suited to an office desk, sometimes at a price premium for the plainer look alone. 5 Inch LCD Writing Tablet."
       }
     ],
@@ -104,36 +104,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "With Memory Lock vs Basic Erase",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Prevent accidental erasing",
           "5 Inch LCD Writing Tablet"
         ],
         [
-          "",
+          "Simplest single-button design",
           "12in Rechargeable LCD Writing Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Gift-Giving Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear age-range marketing if buying for a specific child, genuine screen size (not just overall unit size), and a replaceable coin-cell battery for the longest useful life."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "12in Rechargeable LCD Writing Tablet fits this specifically: confirmed rechargeable via Type-C."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "note": "Every pick in this specific comparison sits in a similar price range, so the decision here comes down to styling and included features rather than a budget-versus-premium tradeoff. Check the pros and cons above for what actually differs between them."
   }
 ];

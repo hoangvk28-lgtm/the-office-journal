@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31wcnzU+P0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Placement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "On the desk surface",
           "SMART& COOL Magnetic Pop-Up Note Dispenser for 3 x 3 in Pop-Up/Accordion-Style"
         ],
         [
-          "",
+          "Clipped to a monitor",
           "2 Pcs Sticky Note Dispenser"
         ],
         [
           "Carried between desk and laptop",
-          ""
+          "4Pcs Sticky Note Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,12 +96,12 @@ export const howToChoose: HowToChooseSection[] = [
           "SMART& COOL Magnetic Pop-Up Note Dispenser for 3 x 3 in Pop-Up/Accordion-Style"
         ],
         [
-          "",
+          "Mid-range pick",
           "Cryozeo Magnetic 3-in-1 Acrylic Sticky Note Holder"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "4Pcs Sticky Note Dispenser"
         ]
       ]
     }
@@ -114,22 +114,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "One-at-a-time dispensing, needs z-fold refill pads specifically."
       },
       {
-        "label": "",
+        "label": "Standard pad holder",
         "text": "Works with any standard pad, no special refill needed."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Note Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your notes",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 3x3 size",
           "2 Pcs Sticky Note Dispenser"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For One-Handed Desk Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weighted or non-slip base that stays put while you pull a note with one hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "2 Pcs Sticky Note Dispenser is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 4Pcs Sticky Note Dispenser justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where SMART& COOL Magnetic Pop-Up Note Dispenser for 3 x 3 in Pop-Up/Accordion-Style already covers the job at the lowest price here."
       }
     ]

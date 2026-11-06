@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31mqa4FsYcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $60",
+          "Acer Mac mini Dock ($59.99)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "Akkyajaure Mac mini Dock ($89.99)"
         ],
         [
-          "",
-          ""
+          "Under $200",
+          "Plugable Thunderbolt 4 Dock for M4/M5 ($199.95)"
         ],
         [
-          "",
-          ""
+          "Under $290",
+          "Plugable 16-in-1 Thunderbolt 4 Dock ($289.99)"
         ]
       ]
     }
@@ -131,8 +131,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Your Mac's Chip Generation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your Mac chip",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Mac mini Video Editors Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock with both fast built-in SSD expansion and a high-refresh-rate HDMI output, so you can edit directly off fast local storage while working on a high-refresh-rate reference monitor."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "The Acer pick specifically combines 8TB SSD expansion with 4K@144Hz HDMI 2.1 output supporting HDR."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want the highest port count with UL-certified charging safety for a permanent MacBook desk setup, where the Plugable 16-in-1 dock justifies its $289.99 price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -176,19 +176,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Chip-Generation Display Support",
     "description": "Compared stated display limits across M1, M2, M3, and M4/M5 chip generations."
   },
   {
-    "title": "",
+    "title": "Built-In Storage Expansion",
     "description": "Compared docks offering integrated NVMe SSD enclosures against display-and-charging-only designs."
   },
   {
-    "title": "",
+    "title": "Charging Wattage and Certification",
     "description": "Compared stated charging wattage and any third-party safety testing certifications."
   },
   {
-    "title": "",
+    "title": "Port Count and Networking",
     "description": "Compared total port count and Ethernet speed across all four picks."
   },
   {

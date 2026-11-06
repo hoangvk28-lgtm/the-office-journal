@@ -49,15 +49,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41eTFK7clfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Capacity",
     "table": {
       "headers": [
-        "",
+        "Your storage need",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Lightest everyday storage needs",
           "Crucial X10 1TB Portable SSD"
         ],
         [
@@ -68,19 +68,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $165",
+          "SANDISK 1TB Portable SSD"
         ],
         [
-          "",
+          "Mid-range",
           "Corsair EX400U Survivor 1TB USB4 External SSD"
         ],
         [
@@ -91,25 +91,25 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "TLC vs QLC NAND",
     "cards": [
       {
-        "label": "",
+        "label": "TLC NAND",
         "text": "Better sustained write speed and longer-term endurance, especially once any onboard cache is exhausted during a large transfer. In this comparison: check each listing's specs directly, NAND type isn't always disclosed."
       },
       {
-        "label": "",
+        "label": "QLC NAND",
         "text": "More capacity per dollar, at the cost of a bigger sustained-speed drop once the cache fills on long transfers. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
     "note": "NAND type isn't explicitly confirmed for every pick here, check each specific listing's technical details if sustained speed matters to your workflow."
   },
   {
-    "subheading": "",
+    "subheading": "Rugged/Waterproof vs Standard Build",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "SANDISK 2TB Extreme Portable SSD"
         ],
         [
-          "",
+          "Slimmest, lightest everyday carry",
           "Crucial X10 1TB Portable SSD"
         ]
       ]
@@ -127,11 +127,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Large Sustained Transfers (Video Editing) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "TLC NAND specifically, a stated sustained write speed (not just the peak burst number), and a USB generation on both drive and host that actually supports the rated speed."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Corsair EX400U Survivor 1TB USB4 External SSD fits this specifically: fast USB4 speed for desktops with a compatible port."
       }
     ]
@@ -140,16 +140,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Corsair EX400U Survivor 1TB USB4 External SSD"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "SANDISK 2TB Extreme Portable SSD"
         ]
       ]
@@ -163,7 +163,7 @@ export const howWeEvaluated = [
     "description": "Flagged that desktop front-panel USB headers can be a source of slower or less reliable connections compared to rear motherboard-direct ports."
   },
   {
-    "title": "",
+    "title": "Motherboard spec verification ease",
     "description": "Noted that desktop users have an easier path to confirming exact port speed tiers via motherboard documentation than laptop users typically do."
   },
   {
@@ -171,7 +171,7 @@ export const howWeEvaluated = [
     "description": "2 drive bay is a better fit for desktop users who do not need true portability."
   },
   {
-    "title": "",
+    "title": "Sustained speed and durability",
     "description": "Compared sustained transfer behavior and build quality across picks for desktop-specific use patterns."
   }
 ];

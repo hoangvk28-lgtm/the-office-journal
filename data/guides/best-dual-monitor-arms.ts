@@ -63,35 +63,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Ergotron LX Dual Monitor Arm"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Ergotron LX Dual Monitor Arm"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $35",
           "VIVO Dual Monitor Desk Mount"
         ],
         [
-          "",
+          "Up to $485",
           "Ergotron LX Vertical Stacking Dual Monitor Arm"
         ]
       ]
@@ -101,22 +101,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Gas Spring vs Friction-Hinge Arm",
     "cards": [
       {
-        "label": "",
+        "label": "Gas spring",
         "text": "Smooth, effortless height adjustment that holds position reliably. In this comparison: Ergotron LX Dual Monitor Arm."
       },
       {
-        "label": "",
+        "label": "Friction hinge",
         "text": "Simpler mechanism, usually cheaper but can loosen over time. In this comparison: Ergotron LX Vertical Stacking Dual Monitor Arm, HUANUO FlowLift Dual Monitor Stand, HUANUO FlowLift Pro Dual Monitor Mount, HUANUO Dual Monitor Mount, HUANUO 17, VIVO Dual Monitor Desk Mount, HUANUO TitanLift Heavy Duty Monitor Arm."
       }
     ],
     "note": "Default to gas spring for the smoothest, most reliable long-term adjustment."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Desk situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Standing Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wide vertical height range to stay at eye level through sit-stand transitions, plus a clamp rated for your desk's edge thickness."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Ergotron LX Dual Monitor Arm is worth checking against its listed height range before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a heavier or ultrawide monitor, where Ergotron LX Vertical Stacking Dual Monitor Arm's weight capacity and gas spring quality give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You have a light, standard monitor and just want basic height adjustment, where VIVO Dual Monitor Desk Mount covers the same job at a lower price."
       }
     ]
@@ -160,11 +160,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Mismatched-monitor balance",
     "description": "Checked whether each arm's per-side weight rating held up realistically for buyers running two different-size monitors, not just a matched identical pair."
   },
   {
-    "title": "",
+    "title": "Side-by-side versus vertical stacking",
     "description": "Separated true side-by-side dual arms from vertical stacking designs, since they solve different desk-space problems and are not interchangeable."
   },
   {
@@ -172,11 +172,11 @@ export const howWeEvaluated = [
     "description": "Compared pole height against typical desk and user height combinations, and measured how much clear desk-underside space each clamp base needs to bite properly."
   },
   {
-    "title": "",
+    "title": "Cable routing capacity",
     "description": "1 or DisplayPort cables often don't fit small clips."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed per-arm capacity, mounting hardware, and stacking versus side-by-side flexibility against price, from a VIVO mount to an Ergotron vertical stacking arm."
   }
 ];

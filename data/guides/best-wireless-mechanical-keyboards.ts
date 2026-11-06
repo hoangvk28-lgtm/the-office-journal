@@ -63,80 +63,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Keychron K10 HE Hall Effect Wireless Keyboard"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Keychron K10 HE Hall Effect Wireless Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $45",
           "Kisnt KN85 Wireless Mechanical Keyboard"
         ],
         [
-          "",
+          "Up to $157",
           "Logitech MX Mechanical Wireless Illuminated Keyboard Tactile"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Hot-Swappable vs Fixed Switches",
     "cards": [
       {
-        "label": "",
+        "label": "Hot-swappable",
         "text": "Change switches later without soldering, worth it if you're unsure which switch feel you'll prefer. In this comparison: Keychron K10 HE Hall Effect Wireless Keyboard, Kisnt KN85 Wireless Mechanical Keyboard."
       },
       {
-        "label": "",
+        "label": "Fixed switches",
         "text": "Simpler and usually cheaper, fine if you're confident in your switch choice. In this comparison: Keychron K2 HE Rapid Trigger Wireless Custom Keyboard, Keychron K4 96% Layout Wireless Bluetooth/Wired Mechanical Keyboard, Keychron K10 Full Size 104 Keys Bluetooth Wireless Mechanical Keyboard, Keychron K3 Version 2, Logitech MX Mechanical Wireless Illuminated Keyboard Tactile, Logitech G515 Lightspeed TKL Wireless Gaming Keyboard."
       }
     ],
     "note": "Default to hot-swappable if you're not fully certain which switch type you'll prefer long-term."
   },
   {
-    "subheading": "",
+    "subheading": "By Keycap Material",
     "note": "Check each pick's listed keycap material (PBT vs ABS) against how long you plan to use it daily before buying, since PBT resists shine and wear better over years."
   },
   {
     "subheading": "For Shared Office or Video Call Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Linear or tactile switches rather than clicky ones, to avoid disruptive noise on calls or in a shared space."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Keychron K10 HE Hall Effect Wireless Keyboard is worth checking against its listed switch type before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want hot-swappable switches and premium PBT keycaps for years of daily use, where Logitech MX Mechanical Wireless Illuminated Keyboard Tactile's build quality gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want to try the mechanical feel without a big investment, where Kisnt KN85 Wireless Mechanical Keyboard covers the same job at a lower price."
       }
     ]
@@ -145,15 +145,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Connection type and stability",
     "description": "4GHz tends to hold a steadier connection in Bluetooth-crowded offices at the cost of a USB-A port."
   },
   {
-    "title": "",
+    "title": "Charging and wired fallback",
     "description": "Checked whether each board offers a wired USB or USB-C mode as a fallback when the battery runs low, since a board with no wired option leaves you stuck if it dies mid-task."
   },
   {
-    "title": "",
+    "title": "Multi-device switching support",
     "description": "Compared how many devices each keyboard can pair to and switch between, relevant for anyone splitting time between a work laptop and a personal computer."
   },
   {

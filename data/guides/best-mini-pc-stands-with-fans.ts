@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/31s+w6dIYpL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cooling Type",
     "note": "Every pick in this specific comparison uses a similar cooling approach; check the product names and specs above for the exact passive-versus-fan design."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $34",
           "Quiet 120mm USB Cooling Fan with Aluminum Stand"
         ],
         [
-          "",
+          "Mid-range",
           "IFCASE Cooling Fan Mount for Mac mini"
         ],
         [
@@ -87,22 +87,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Passive Stand vs Active Fan",
     "cards": [
       {
-        "label": "",
+        "label": "Passive Stand",
         "text": "Zero noise, no power needed, improves airflow through elevation alone. In this comparison: check each listing to confirm whether it's passive or fan-equipped."
       },
       {
-        "label": "",
+        "label": "Active Fan",
         "text": "Genuine forced airflow that helps more under sustained load, at the cost of some noise and a power connection. In this comparison: Aluminum Mini PC Cooler Stand with 120mm Fan, Quiet 120mm USB Fan, Quiet 120mm USB Cooling Fan with Aluminum Stand."
       }
     ],
     "note": "Default to a passive pick for light everyday use, and only step up to an active fan if your mini PC runs warm under sustained load."
   },
   {
-    "subheading": "",
+    "subheading": "By Chassis Vent Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -120,24 +120,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a 24/7 Home Server or Media Server Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed active airflow rather than passive elevation alone, a stated noise level or speed control, and USB power so it only runs while the mini PC itself is on."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Aluminum Mini PC Cooler Stand with 120mm Fan fits this specifically: On/off switch lets you choose passive or active mode as needed."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Aluminum Mini PC Cooler Stand with 120mm Fan offers: On/off switch lets you choose passive or active mode as needed. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Quiet 120mm USB Cooling Fan with Aluminum Stand already covers the essentials: Specific DBA and CFM figures instead of vague claims. The main thing you'd be paying extra for elsewhere in this list is cooling power you may not need."
       }
     ]
@@ -146,19 +146,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Active cooling value",
     "description": "We compared whether the fan adds a plausible sustained-load advantage over simple elevation, and excluded any passive-only stand from this narrower list."
   },
   {
-    "title": "",
+    "title": "Vent compatibility",
     "description": "We compared fan location and airflow openings against different Mini PC chassis, favoring listings that explicitly name Mac mini or Mini PC compatibility."
   },
   {
-    "title": "",
+    "title": "Noise control",
     "description": "We compared fixed and adjustable fan speed and gave more weight to listings publishing a specific DBA figure."
   },
   {
-    "title": "",
+    "title": "Structural design",
     "description": "We considered frame rigidity, load rating, and mounting method, including off-desk options, as part of one combined stand system."
   }
 ];

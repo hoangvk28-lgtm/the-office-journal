@@ -63,80 +63,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Logitech MX Mechanical Wireless Illuminated Keyboard"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Logitech MX Mechanical Wireless Illuminated Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $37",
+          "Redragon K668 108"
         ],
         [
-          "",
+          "Up to $157",
           "Logitech MX Mechanical Wireless Illuminated Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wireless vs Wired Connection",
     "cards": [
       {
-        "label": "",
+        "label": "Wireless",
         "text": "4GHz dongle option beyond just Bluetooth. In this comparison: Logitech MX Mechanical Wireless Illuminated Keyboard, Keychron V6 Max Wireless, Logitech MX Keys S Mac Wireless Keyboard, Keychron V6 Wired."
       },
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, the safer choice for competitive gaming. In this comparison: Logitech G413 TKL SE Mechanical Gaming Keyboard, SteelSeries Apex 3 RGB Gaming Keyboard, Keychron V6 Knob Version, Redragon K668 108."
       }
     ],
     "note": "Default to wired if competitive gaming latency matters, wireless for general typing and office use."
   },
   {
-    "subheading": "",
+    "subheading": "By Keycap Material",
     "note": "Check each pick's listed keycap material (PBT vs ABS) against how long you plan to use it daily before buying, since PBT resists shine and wear better over years."
   },
   {
     "subheading": "For Shared Office or Video Call Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Linear or tactile switches rather than clicky ones, to avoid disruptive noise on calls or in a shared space."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Logitech MX Mechanical Wireless Illuminated Keyboard is worth checking against its listed switch type before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want hot-swappable switches and premium PBT keycaps for years of daily use, where Logitech MX Mechanical Wireless Illuminated Keyboard's build quality gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want to try the mechanical feel without a big investment, where Redragon K668 108 covers the same job at a lower price."
       }
     ]
@@ -157,11 +157,11 @@ export const howWeEvaluated = [
     "description": "Weighed each pick against office-quiet, late-night-quiet, and video-call-quiet scenarios, since a switch that is fine at home may still be picked up by a sensitive condenser mic on a call."
   },
   {
-    "title": "",
+    "title": "Upgrade path",
     "description": "Noted which boards are hot-swappable, letting a buyer start with a tactile or linear switch and move to a true silent switch later without replacing the whole keyboard."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed switch type, dampening features like sound-absorbing foam, and connectivity against price, from a budget linear board to a premium low-profile pick."
   }
 ];

@@ -53,30 +53,30 @@ export const heroImage = "https://m.media-amazon.com/images/I/51Y8l6bTK5L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Price",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "This guide's featured pick",
           "KYY Laptop Screen Extender Driver Need"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "$424.99",
           "KYY Laptop Screen Extender Driver Need"
         ]
       ]
@@ -90,18 +90,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Built with disclosed specs and real buyer feedback behind it, worth checking against your specific needs."
       },
       {
-        "label": "",
+        "label": "A generic unbranded alternative",
         "text": "May be cheaper but often lacks disclosed specs or a real review history, worth avoiding for anything you're relying on."
       }
     ],
     "note": "Most buyers evaluating this guide's keyword should default to KYY Laptop Screen Extender Driver Need unless a generic alternative meets your specific, limited need."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -115,24 +115,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real review history, not just marketing language."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "KYY Laptop Screen Extender Driver Need is worth checking against its listed specs before buying."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where KYY Laptop Screen Extender Driver Need's build gives real headroom over a basic option."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use."
       }
     ]

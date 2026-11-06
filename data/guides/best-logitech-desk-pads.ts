@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/11Ywq-hqMvL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Surface Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Soft feel for typing",
           "Logitech Studio Series Small Mouse Pad"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Logitech G840 XL Cloth Gaming Mouse Pad (900x400x3)"
         ],
         [
-          "",
+          "Wipeable, polished look",
           "Logitech Studio Series Small Mouse Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Logitech Studio Series Small Mouse Pad"
         ],
         [
-          "",
+          "Mid-range pick",
           "Logitech Studio Series Desk Mat Large 28x12 Inches"
         ],
         [
-          "",
+          "Higher budget",
           "Logitech Studio Series Small Mouse Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Leather",
     "cards": [
       {
         "label": "Logitech Studio Series Small Mouse Pad)",
@@ -120,19 +120,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how much coffee and food realistically ends up near your desk."
   },
   {
-    "subheading": "",
+    "subheading": "By Setup Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single keyboard and mouse",
           "Logitech G840 XL Cloth Gaming Mouse Pad (900x400x3)"
         ],
         [
-          "",
+          "Dual monitor, wider setup",
           "Check for extra-large or extended sizing"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Logitech G840 XL Cloth Gaming Mouse Pad (900x400x3) is worth checking against its specific edge construction before assuming any desk pad holds up the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a wipeable, longer-lasting surface with a more polished look, where Logitech Studio Series Small Mouse Pad justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward daily protection and comfort, where Logitech Studio Series Small Mouse Pad already covers the job at the lowest price here."
       }
     ]

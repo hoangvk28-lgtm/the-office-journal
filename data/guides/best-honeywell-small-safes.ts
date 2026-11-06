@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Honeywell Safes & Door Locks"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Honeywell Safes & Door Locks"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $36",
           "Honeywell Safes & Door Locks"
         ],
         [
-          "",
+          "Up to $NaN",
           "Fireproof & Electronic Safes by Honeywell"
         ]
       ]
@@ -98,26 +98,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Physical Key vs Electronic Access",
     "cards": [
       {
-        "label": "",
+        "label": "Physical key",
         "text": "No batteries to fail, but a lost key means a lockout with no backup. In this comparison: Honeywell Safes & Door Locks, Steel Security Key Lock Box."
       },
       {
-        "label": "",
+        "label": "Electronic access",
         "text": "More convenient day to day, worth checking for a backup access method in case the battery dies. In this comparison: Honeywell Safes & Door Locks, Honeywell Safes & Door Locks, Honeywell DOJ Approved Steel Security Safe, Compact Fire & Water Resistant Security Chest by Honeywell, Digital Lock Waterproof Fire Safe, Fireproof & Electronic Safes by Honeywell."
       }
     ],
     "note": "Most buyers should default to electronic access with a confirmed backup method unless simplicity is the top priority."
   },
   {
-    "subheading": "",
+    "subheading": "By Fire Protection",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fire resistance claimed",
           "Honeywell Safes & Door Locks"
         ],
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Storing Documents or Cash Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed interior dimension roomy enough for the actual items, plus a backup access method beyond just a keypad."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Honeywell Safes & Door Locks is worth checking against its listed interior dimensions before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're storing valuable or irreplaceable items, where Fireproof & Electronic Safes by Honeywell's higher price buys real security or fire-protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic theft deterrence for low-value items, where Honeywell Safes & Door Locks covers the same job at a lower price."
       }
     ]

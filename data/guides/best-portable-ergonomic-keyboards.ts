@@ -53,23 +53,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41JiJNItp9L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "note": "Every pick in this specific comparison uses a similar layout approach; check the product names above for the exact curve, split, or angle."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $29",
           "MEETION Foldable Ergonomic Bluetooth Keyboard"
         ],
         [
-          "",
+          "Mid-range",
           "ProtoArc XKM03 Ergonomic Foldable Keyboard Mouse for Business and Travel"
         ],
         [
@@ -80,14 +80,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: check each listing's connection type directly."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: MEETION Foldable Ergonomic Bluetooth Keyboard, Perixx PERIDUO-606II 2-in-1 Wireless Compact Ergonomic Keyboard."
       }
     ]
@@ -96,12 +96,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest cost, quiet typing",
           "MEETION Foldable Ergonomic Bluetooth Keyboard"
         ],
         [
@@ -115,24 +115,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MEETION Foldable Ergonomic Bluetooth Keyboard fits this specifically: split, not just smaller."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Perixx PERIDUO-606II 2-in-1 Wireless Compact Ergonomic Keyboard offers: Highest rating among portable picks here. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "MEETION Foldable Ergonomic Bluetooth Keyboard already covers the essentials: split, not just smaller. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -145,11 +145,11 @@ export const howWeEvaluated = [
     "description": "Distinguished keyboards that fold while retaining real split ergonomic benefit from those that are simply smaller and sacrifice more ergonomic design for portability."
   },
   {
-    "title": "",
+    "title": "Travel-specific durability",
     "description": "Considered hinge and fold-cycle wear relevant to travel use, based on verified buyer feedback, rather than assuming desk-keyboard durability standards apply directly."
   },
   {
-    "title": "",
+    "title": "Case or pouch bundling",
     "description": "Noted, where disclosed, whether a protective case ships with the keyboard versus requiring a separate purchase for travel protection."
   },
   {

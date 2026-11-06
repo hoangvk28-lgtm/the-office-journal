@@ -64,13 +64,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Match Your Priority to a Specific Pick",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Balanced size for most laptop desks",
-          ""
+          "Black Glass Whiteboard 9.5\"x6.7\" with Stand"
         ],
         [
           "Doubles as an external keyboard stand",

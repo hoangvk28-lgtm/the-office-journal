@@ -61,79 +61,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/41X-rCLbHnL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A light stack of paperbacks",
-          ""
+          "MaxGear Book Ends Tree Design Bookends for Shelves 7 x 4.7 x 3.5” 2 Pair"
         ],
         [
-          "",
+          "A full mixed shelf",
           "HappyHapi 7 Pairs Book Ends"
         ],
         [
           "A long shelf needing multiple pairs",
-          ""
+          "Lukitas Thinker Decorative Bookends"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "MaxGear Book Ends Tree Design Bookends for Shelves 7 x 4.7 x 3.5” 2 Pair"
         ],
         [
-          "",
+          "Mid-range pick",
           "Chunful 6 Pcs Gold Modern Metal Book Ends for Shelves Decorative Small Bookends"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Lukitas Thinker Decorative Bookends"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
-        "label": "",
+        "label": "Decorative (e.g. MaxGear Book Ends Tree Design Bookends for Shelves 7 x 4.7 x 3.5” 2 Pair)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Glossy or glass surface",
           "HappyHapi 7 Pairs Book Ends"
         ],
         [
-          "",
+          "Textured wood surface",
           "Chunful 6 Pcs Gold Modern Metal Book Ends for Shelves Decorative Small Bookends"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "HappyHapi 7 Pairs Book Ends is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Lukitas Thinker Decorative Bookends justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5” 2 Pair already covers the job at the lowest price here."
       }
     ]

@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41nWvL8pqlL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Surface",
     "table": {
       "headers": [
-        "",
+        "Where it's going",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -73,26 +73,26 @@ export const howToChoose: HowToChooseSection[] = [
           "HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm"
         ],
         [
-          "",
+          "Wall or under-desk",
           "Monzlteck Adjustable Small Device Wall Mount or VESA Mount"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "Adjustable Thin Client Mini PC Mount Bracket for NUC"
         ],
         [
-          "",
+          "Mid-range",
           "Suptek Thin Client Mount Bracket Adjustable Mini PC Mount Bracket"
         ],
         [
@@ -106,42 +106,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Fit vs Universal Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-Specific Fit",
         "text": "Matches one specific chassis shape exactly, generally a more secure fit for that exact model. In this comparison: Adjustable Thin Client Mini PC Mount Bracket for NUC."
       },
       {
-        "label": "",
+        "label": "Universal / Multi-Brand",
         "text": "Works across several mini PC brands with adjustable hardware, more flexible if you might switch devices later. In this comparison: Adjustable Thin Client Mini PC Mount Bracket for NUC."
       }
     ],
     "note": "Confirm your exact mini PC model against the listing's stated compatibility either way, since even a \"universal\" mount has real size limits."
   },
   {
-    "subheading": "",
+    "subheading": "By Post-Install Port Access",
     "note": "None of these picks specifically advertise preserved front-port access after mounting; check each listing's product photos for where the ports land once installed if that matters to you."
   },
   {
     "subheading": "For a Home Lab Rack Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of 10-inch (home-lab) versus 19-inch (commercial) rack compatibility, since these are different standards, plus whether it's full or half rack-unit width."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm fits this specifically: wide, stated compatibility range across several Mini PC brands."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm offers: wide, stated compatibility range across several Mini PC brands. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Adjustable Thin Client Mini PC Mount Bracket for NUC already covers the essentials: Higher stated load capacity than most competitors. The main thing you'd be paying extra for elsewhere in this list is broader compatibility you may not need."
       }
     ]
@@ -150,11 +150,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine multi-model verification",
     "description": "We compared whether each listing's features name multiple different Mini PC brands and models, rather than accepting the word universal as sufficient on its own."
   },
   {
-    "title": "",
+    "title": "Real adjustable range",
     "description": "We compared stated width or perimeter ranges to confirm the mount can accommodate more than one narrow size class of device."
   },
   {
@@ -162,7 +162,7 @@ export const howWeEvaluated = [
     "description": "We checked stated weight ratings, since Mini PC weight varies enough between brands that a low-rated mount could be marginal for a heavier device."
   },
   {
-    "title": "",
+    "title": "Mounting method flexibility",
     "description": "We compared how many of wall, under-desk, VESA, and pole mounting each product supports, since a universal mount should work across placement types too."
   }
 ];

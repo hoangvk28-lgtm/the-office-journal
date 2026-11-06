@@ -61,75 +61,75 @@ export const heroImage = "https://m.media-amazon.com/images/I/317LhcdKX8L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Just 2-3 categories",
+          "Leather Letter Tray"
         ],
         [
-          "",
+          "Several distinct categories",
           "Dacasso Navy Blue Bonded Leather Luxury Letter Tray Holder & Paper Organizer"
         ],
         [
-          "",
+          "High document volume",
           "DACASSO Leather Desktop Letter Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Leather Letter Tray"
         ],
         [
-          "",
+          "Mid-range pick",
           "Dacasso Burgundy Bonded Leather Luxury Letter Tray Holder & Paper Organizer"
         ],
         [
-          "",
+          "Higher budget",
           "DACASSO Leather Desktop Letter Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
-        "label": "",
+        "label": "Wire mesh (e.g. Leather Letter Tray)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "Dacasso Navy Blue Bonded Leather Luxury Letter Tray Holder & Paper Organizer"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Dacasso Navy Blue Bonded Leather Luxury Letter Tray Holder & Paper Organizer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where DACASSO Leather Desktop Letter Tray justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Leather Letter Tray already covers the job at the lowest price here."
       }
     ]

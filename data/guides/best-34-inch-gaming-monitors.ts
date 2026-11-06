@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Port-gaming-faq",
     "q": "Should I use HDMI or DisplayPort for gaming?",
     "a": "DisplayPort has generally led HDMI in bandwidth for high refresh rate gaming at full resolution, though this depends on the specific versions your monitor and GPU support, verify both before assuming full advertised specs."
   },
   {
-    "id": "",
+    "id": "Size-density-faq",
     "q": "Is a bigger gaming monitor always sharper?",
     "a": "No, stretching the same resolution across a larger screen reduces pixel density, a 32-inch 1440p monitor looks visibly softer than a 27-inch 1440p monitor at the same viewing distance."
   },
   {
-    "id": "",
+    "id": "Speaker-gaming-faq",
     "q": "Are built-in gaming monitor speakers good enough?",
     "a": "They're a convenience for quick cable-free audio, but thin form factors limit bass and volume compared to even modest external speakers, treat them as a backup rather than a primary audio solution."
   },
   {
-    "id": "",
+    "id": "Response-gaming-faq",
     "q": "Is a 1ms gaming monitor actually blur-free?",
     "a": "Not necessarily, the gray-to-gray number is one narrow measurement, panel technology, backlight behavior, and overdrive tuning all affect real perceived motion blur, check independent motion clarity testing instead."
   },
   {
-    "id": "",
+    "id": "Sync-faq",
     "q": "Does G-Sync work with an AMD graphics card?",
     "a": "Full G-Sync certification generally requires an NVIDIA GPU, FreeSync tends to work more broadly across both AMD and NVIDIA cards, check the monitor's specific certification against your actual GPU brand."
   },
   {
-    "id": "",
+    "id": "Console-faq",
     "q": "Do all gaming monitor features work with a console?",
     "a": "No, some high refresh rate or adaptive sync features require a PC connection and GPU-side support, verify the monitor's feature list against your specific console's actual output capability."
   }
@@ -66,11 +66,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41um0FZCuPL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By GPU Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your GPU output",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,7 +78,7 @@ export const howToChoose: HowToChooseSection[] = [
           "ASUS TUF Gaming VG34VQL1B 34 Inch 1440p 165Hz Ultrawide HDR Gaming Monitor"
         ],
         [
-          "",
+          "Solid mid-range frame rates",
           "Alienware 34 Curved Gaming Monitor, AW3425DWM"
         ],
         [
@@ -89,11 +89,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "ASUS TUF Gaming VG34VQL1B 34 Inch 1440p 165Hz Ultrawide HDR Gaming Monitor"
         ],
         [
-          "",
+          "Mid-range pick",
           "Gawfolk 34\" Ultrawide Curved Gaming Monitor"
         ],
         [
-          "",
+          "Higher budget",
           "SANSUI 34 Inch Curved Monitor 240Hz UWQHD 3440×1440 Gaming Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "G-Sync vs FreeSync",
     "cards": [
       {
         "label": "ASUS TUF Gaming VG34VQL1B 34 Inch 1440p 165Hz Ultrawide HDR Gaming Monitor)",
         "text": "Built and validated specifically for NVIDIA GPUs."
       },
       {
-        "label": "",
+        "label": "FreeSync",
         "text": "Works more broadly across AMD and NVIDIA cards in most cases."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Curvature",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard flat panel",
           "Alienware 34 Curved Gaming Monitor, AW3425DWM"
         ],
         [
-          "",
+          "Curved for wider immersion",
           "Gawfolk 34\" Ultrawide Curved Gaming Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Competitive Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Independent input lag testing, not just the headline refresh rate number, since the two specs don't always move together."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Alienware 34 Curved Gaming Monitor, AW3425DWM is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where SANSUI 34 Inch Curved Monitor 240Hz UWQHD 3440×1440 Gaming Monitor justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where ASUS TUF Gaming VG34VQL1B 34 Inch 1440p 165Hz Ultrawide HDR Gaming Monitor already covers the job at the lowest price here."
       }
     ]

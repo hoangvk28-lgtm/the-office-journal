@@ -29,11 +29,11 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which has the most reviews?",
-    "a": ""
+    "a": "The Pendaflex Portable File Box with File Rails, with 5,076 reviews at 4.4 stars."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The Staples File Folder Tote at $16.99."
   },
   {
     "q": "Is there a clear/transparent option?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Pendaflex Portable File Box with File Rails"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Pendaflex Portable File Box with File Rails"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "Staples File Folder Tote"
         ],
         [
-          "",
+          "Mid-range",
           "Staples File Box Portable Storage Tote"
         ],
         [
@@ -99,14 +99,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: Pendaflex Portable File Box with File Rails, Vaultz File Organizer Storage Box, IRIS USA File Box Organizer with Lid."
       }
     ],
@@ -116,8 +116,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Vaultz File Organizer Storage Box offers: From a brand known for more reinforced construction. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Staples File Folder Tote already covers the essentials: Cheapest option in this comparison. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Review volume weighted heavily for the top picks",
-    "description": ""
+    "description": "We prioritized the Pendaflex and IRIS USA picks' substantial review bases."
   }
 ];
 

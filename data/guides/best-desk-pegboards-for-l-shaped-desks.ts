@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "Why is one of these picks rated lower than the others?",
-    "a": ""
+    "a": "Review patterns vary by product, the bookshelf-focused pick has a more moderate 3.9-star rating on a smaller review base, worth reading current reviews before ordering."
   }
 ];
 
@@ -56,42 +56,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "SEDETA 67\" Standing L Shaped Gaming Desk"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "SEDETA L Shaped Gaming Corner Desk with Drawers"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $180",
           "SEDETA L Shaped Gaming Corner Desk with Drawers"
         ],
         [
-          "",
+          "Up to $270",
           "SEDETA L Shaped Computer Office Desk with 3 Wood Drawer and Large Bookshelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
         "label": "SEDETA L Shaped Gaming Corner Desk with Drawers",
@@ -105,11 +105,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to SEDETA L Shaped Gaming Corner Desk with Drawers unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Built-In Shelving",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "SEDETA L Shaped Gaming Corner Desk with Drawers"
         ],
         [
-          "",
+          "Hooks alone are enough",
           "SEDETA 67\" Standing L Shaped Gaming Desk"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Loaded, Multi-Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine metal or thick MDF construction, confirmed standard hole spacing, and a wall-anchor mounting option for stability once loaded with monitor arms and accessories."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SEDETA L Shaped Gaming Corner Desk with Drawers is worth checking against its listed material and mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to load the board with monitor arms and multiple accessories, where SEDETA L Shaped Computer Office Desk with 3 Wood Drawer and Large Bookshelf's material and mounting give real stability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a few lightweight decorative hooks, where SEDETA L Shaped Gaming Corner Desk with Drawers covers the same job at a lower price."
       }
     ]
@@ -153,11 +153,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Search intent assessed honestly",
     "description": "Recognized this search term mostly represents buyers wanting an integrated desk with a built-in pegboard feature, not a standalone add-on accessory, and selected products accordingly."
   },
   {
-    "title": "",
+    "title": "Two-zone desk layout considered",
     "description": "Weighed how each desk's pegboard or storage feature sits relative to the main desk run versus the corner return, since the two zones often differ in depth and height."
   },
   {
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "Weighted review count alongside star rating, since a high rating on very few reviews carries less confidence than a strong rating across hundreds of buyers."
   },
   {
-    "title": "",
+    "title": "Storage feature completeness",
     "description": "Compared drawers, hutches, shelves, and pegboard panels across picks to reflect the different storage priorities L-shaped desk buyers bring."
   }
 ];

@@ -44,7 +44,7 @@ export const faq = [
     "a": "Top-loading is generally quicker since you just drop the staple strip in, front-loading requires sliding a carrier out and back, a small but real difference if you refill often."
   },
   {
-    "q": "",
+    "q": "Are electric staplers loud?",
     "a": "They produce a distinct motor click or whir each time they fire, check reviews specifically for noise complaints if you'll use it near coworkers in a quiet shared office."
   },
   {
@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/31CF8EvQ7iL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Stack Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light, a few sheets",
+          "Bostitch Office Stapler"
         ],
         [
-          "",
+          "A regular office stack",
           "Bostitch Office Heavy Duty Stapler"
         ],
         [
-          "",
-          ""
+          "Consistently thick stacks",
+          "Bostitch Office Electric Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Bostitch Office Stapler"
         ],
         [
-          "",
+          "Mid-range pick",
           "Bostitch Office Executive 3 in 1 Stapler"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Bostitch Office Electric Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Manual vs Electric",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (e.g. Bostitch Office Stapler)",
         "text": "No power dependency, reliable for any volume."
       },
       {
-        "label": "",
+        "label": "Electric",
         "text": "Reduces hand strain at high volume, depends on charge or power."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Staple Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 26/6 staples",
           "Bostitch Office Heavy Duty Stapler"
         ],
         [
-          "",
+          "A specific alternate size",
           "Bostitch Office Executive 3 in 1 Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Center-of-Document Stapling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A deep throat depth spec, not just a standard corner-reach stapler."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Bostitch Office Heavy Duty Stapler is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Bostitch Office Electric Stapler justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Bostitch Office Stapler already covers the job at the lowest price here."
       }
     ]

@@ -63,31 +63,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Long You Sit Each Day",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your day",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Short, active sessions",
           "Primy Drafting Chair Tall Office Chair with Flip-up Armrests Executive"
         ],
         [
-          "",
+          "Standard full workday",
           "Misolant Big and Tall Office Chair with Footrest"
         ],
         [
-          "",
+          "Uninterrupted 8+ hour days",
           "GABRYLLY Ergonomic Office Chair with Footrest"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Primy Drafting Chair Tall Office Chair with Flip-up Armrests Executive"
         ],
         [
-          "",
+          "Mid-range pick",
           "MALOL Ergonomic Mesh Office Chair with Footrest"
         ],
         [
-          "",
+          "Higher budget",
           "GABRYLLY Ergonomic Office Chair with Footrest"
         ]
       ]
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Seat Height Range vs Your Desk",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 28-30 inch desk",
           "Misolant Big and Tall Office Chair with Footrest"
         ],
         [
-          "",
+          "Taller or drafting-style desk",
           "Check the chair's maximum height range specifically"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, All-Day Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Real lumbar adjustment and a weight capacity rated comfortably above your actual weight, not just at it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Misolant Big and Tall Office Chair with Footrest is worth checking against its specific lumbar adjustment before assuming any 'ergonomic' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You sit 8+ hours a day and want adjustable lumbar, arms, and a higher weight rating, where GABRYLLY Ergonomic Office Chair with Footrest justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your sitting sessions are shorter and more active, where Primy Drafting Chair Tall Office Chair with Flip-up Armrests Executive already covers the job at the lowest price here."
       }
     ]

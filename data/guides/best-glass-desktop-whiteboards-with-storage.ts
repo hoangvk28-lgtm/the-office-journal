@@ -33,14 +33,14 @@ export const faq = [
   },
   {
     "q": "Which has the highest rating?",
-    "a": ""
+    "a": "The Varhomax Glass Desk Whiteboard with Storage and to-do List, at 4.8 stars."
   },
   {
     "q": "Which has the most reviews?",
-    "a": ""
+    "a": "The TSJ OFFICE Small Desktop Whiteboard, with 2,500 reviews."
   },
   {
-    "q": "",
+    "q": "What's the cheapest option?",
     "a": "74, though it has a notably lower rating than the other picks."
   },
   {
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41KvzD4pxFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Choose by Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,15 +69,15 @@ export const howToChoose: HowToChooseSection[] = [
           "Varhomax Glass Desk Whiteboard with Storage, to-do List"
         ],
         [
-          "",
+          "Most proven overall",
           "Small Desktop Glass Whiteboard, Keyboard Stand"
         ],
         [
-          "",
+          "Best value, largest review base",
           "TSJ OFFICE Small Desktop Whiteboard"
         ],
         [
-          "",
+          "Cheapest option",
           "Desktop Glass Whiteboard with Storage, Black"
         ]
       ]
@@ -88,7 +88,7 @@ export const howToChoose: HowToChooseSection[] = [
 export const howWeEvaluated = [
   {
     "title": "Required genuine storage, not a decorative groove",
-    "description": ""
+    "description": "We only included products with real organizer compartments or trays, not a single marker slot marketed as \"storage.\""
   },
   {
     "title": "Glass surface confirmed across every pick",
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Review volume and rating together",
-    "description": ""
+    "description": "We weighted both the size of the review base and the actual rating, flagging where a cheaper option has a notably lower rating."
   },
   {
     "title": "Near-identical listings distinguished by evidence",
@@ -105,7 +105,7 @@ export const howWeEvaluated = [
 ];
 
 export const introParagraphs = [
-  "",
+  "We required real storage capacity here — a drawer, tray, or organizer section that holds more than a single marker — rather than counting a decorative groove as \"storage.\"",
   "Every product in this comparison uses a genuine glass writing surface, which resists ghosting better than melamine boards over repeated use, so the real differentiator is how much storage each one actually adds."
 ];
 

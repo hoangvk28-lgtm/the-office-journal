@@ -53,42 +53,42 @@ export const heroImage = "https://m.media-amazon.com/images/I/41uzdCGRrbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 77 lbs capacity",
           "Heavy Duty Under Desk PC Holder"
         ],
         [
-          "",
+          "Around 77 lbs capacity",
           "PUTORSEN Under Desk PC Mount for Full/Mid"
         ],
         [
-          "",
+          "Around 66 lbs capacity",
           "Heavy Duty Under Desk PC Mount"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $38",
           "PUTORSEN Under Desk PC Mount for Full/Mid"
         ],
         [
-          "",
+          "Up to $60",
           "VIVO Heavy Duty Adjustable Under"
         ]
       ]
@@ -109,19 +109,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers with a standard mid-tower should default to VIVO Heavy Duty Adjustable Under unless their case is heavier than average."
   },
   {
-    "subheading": "",
+    "subheading": "By Disclosed Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 77 lbs capacity",
           "Heavy Duty Under Desk PC Holder"
         ],
         [
-          "",
+          "Around 77 lbs capacity",
           "PUTORSEN Under Desk PC Mount for Full/Mid"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavier Modern Tower Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed weight capacity meaningfully above the generic mid-tower assumption, ideally with the tested figure stated in pounds, not a vague marketing term."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Heavy Duty Under Desk PC Holder discloses the highest capacity at 77 lbs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your tower is a heavier modern build with multiple drives or a discrete GPU, where VIVO Heavy Duty Adjustable Under's higher price buys real capacity headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your case is a lightweight, standard mid-tower, where PUTORSEN Under Desk PC Mount for Full/Mid covers the same job at a lower price."
       }
     ]

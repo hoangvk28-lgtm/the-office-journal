@@ -52,36 +52,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Skylight Calendar Max, 27\" Digital Calendar & Chore Chart"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Skylight Calendar Max, 27\" Digital Calendar & Chore Chart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $24",
           "5inch Writing Board for Office Business Home Decor"
         ],
         [
-          "",
-          ""
+          "Up to $NaN",
+          "15.6 Inch Digital Calendar"
         ]
       ]
     }
@@ -90,42 +90,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Chore Chart Features vs Calendar-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Chore chart included",
         "text": "Useful for a family actively managing kids' responsibilities and rewards."
       },
       {
-        "label": "",
+        "label": "Calendar-only",
         "text": "Simpler, cleaner display without extra features you might not use. 5inch Writing Board for Office Business Home Decor."
       }
     ],
     "note": "Default to calendar-only unless your household actively wants chore-tracking tools."
   },
   {
-    "subheading": "",
+    "subheading": "By Sync Method",
     "note": "Check each pick's listed calendar sync method against the accounts your household actually uses before buying, not just a generic \"calendar sync\" claim."
   },
   {
     "subheading": "For a Shared Family Household Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A screen size legible from across the room, plus genuine multi-account two-way sync with the calendar accounts your household already uses."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Skylight Calendar Max, 27\" Digital Calendar & Chore Chart is worth checking against its listed sync method and screen size before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "6 Inch Digital Calendar's features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5inch Writing Board for Office Business Home Decor covers the same job at a lower price."
       }
     ]
@@ -138,7 +138,7 @@ export const howWeEvaluated = [
     "description": "Measured claimed screen sizes against each other rather than labeling every large display XL for search purposes, only the 27 inch model qualifies as extra-large here."
   },
   {
-    "title": "",
+    "title": "Size tiers defined explicitly",
     "description": "6 inches and a genuine XL tier at 27 inches, so buyers can compare apples to apples."
   },
   {

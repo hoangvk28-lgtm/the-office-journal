@@ -48,7 +48,7 @@ export const faq = [
   },
   {
     "q": "Do any of these keyboards support connecting to a phone or tablet in addition to a computer?",
-    "a": ""
+    "a": "Yes, the Keychron K10, K10 Pro, K8, and GravaStar picks all support Bluetooth connectivity to multiple device types including phones and tablets, in addition to their wired or 2.4GHz computer connections."
   }
 ];
 
@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41OIkZ+MM4L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $85",
+          "Keychron K10 or K8 (both $84.99)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "GravaStar Mercury K1 Lite ($89.95)"
         ],
         [
-          "",
-          ""
+          "Under $92",
+          "Keychron K10 Pro ($91.99)"
         ]
       ]
     }
@@ -124,28 +124,28 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If deep key customization matters to your workflow, the K10 Pro's VIA support justifies its premium over the standard K10. If you just want reliable typing without remapping, the other three picks work fine without that added complexity."
   },
   {
-    "subheading": "",
+    "subheading": "By Switch Category",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your switch preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Tactile, hot-swappable, sound-dampened",
+          "Keychron K10 Pro"
         ],
         [
-          "",
-          ""
+          "Standard tactile brown switches",
+          "Keychron K10 Full Size"
         ],
         [
           "Fast linear switches for competitive gaming",
-          ""
+          "GravaStar Mercury K1 Lite"
         ],
         [
           "Silent switches for quiet operation",
-          ""
+          "Keychron K8"
         ]
       ]
     }
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Living Space or Late-Night Work Schedule Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Switches specifically marketed as 'silent' rather than just standard linear switches, since standard linear switches are quieter than clicky ones but still produce audible bottom-out noise."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Keychron K8's Silent K Pro Red switches are specifically engineered for quiet operation, unlike the standard linear or tactile switches on the other three picks."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want full VIA programmability combined with refined sound dampening, where the Keychron K10 Pro delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want maximum battery life without needing advanced remapping, where the standard Keychron K10 covers that for about $7 less."
       }
     ]
@@ -180,23 +180,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Battery Capacity and Life",
     "description": "Compared stated battery capacity and hours of use across wireless picks in this tier."
   },
   {
-    "title": "",
+    "title": "Programmability Depth",
     "description": "Compared full VIA/QMK remapping against proprietary or no remapping support."
   },
   {
-    "title": "",
+    "title": "Switch Type and Sound",
     "description": "Compared linear, tactile, and silent switch categories along with sound dampening design."
   },
   {
-    "title": "",
+    "title": "Layout and Desk Footprint",
     "description": "Compared full-size, TKL, and 75% layouts against their respective feature tradeoffs."
   },
   {
-    "title": "",
+    "title": "Design Distinctiveness",
     "description": "Checked for unique visual or material design elements beyond standard keyboard aesthetics."
   }
 ];

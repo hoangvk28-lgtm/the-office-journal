@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Sync-faq",
     "q": "Does G-Sync work with an AMD graphics card?",
     "a": "Full G-Sync certification generally requires an NVIDIA GPU, FreeSync tends to work more broadly across both AMD and NVIDIA cards, check the monitor's specific certification against your actual GPU brand."
   },
   {
-    "id": "",
+    "id": "Size-density-faq",
     "q": "Is a bigger gaming monitor always sharper?",
     "a": "No, stretching the same resolution across a larger screen reduces pixel density, a 32-inch 1440p monitor looks visibly softer than a 27-inch 1440p monitor at the same viewing distance."
   },
   {
-    "id": "",
+    "id": "Curve-faq",
     "q": "What does the curve radius number mean on a curved gaming monitor?",
     "a": "A lower number means a tighter, more aggressive curve, suited to very wide ultrawide panels, a higher number is gentler and better suited to a standard-width panel."
   },
   {
-    "id": "",
+    "id": "Refresh-gpu-faq",
     "q": "Is a 240Hz or 360Hz gaming monitor worth it?",
     "a": "Only if your GPU can actually push frame rates close to that number in the games you play, check your realistic frame rates first, pairing a high-refresh monitor with a GPU that can't fill it wastes the extra capability."
   },
   {
-    "id": "",
+    "id": "Strobe-faq",
     "q": "Can I use backlight strobing and adaptive sync at the same time?",
     "a": "Usually not, strobing modes often can't run simultaneously with G-Sync or FreeSync, check whether a specific monitor supports both together before assuming it's not a tradeoff."
   },
   {
-    "id": "",
+    "id": "Response-gaming-faq",
     "q": "Is a 1ms gaming monitor actually blur-free?",
     "a": "Not necessarily, the gray-to-gray number is one narrow measurement, panel technology, backlight behavior, and overdrive tuning all affect real perceived motion blur, check independent motion clarity testing instead."
   }
@@ -66,11 +66,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51KQy0+YcmL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By GPU Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your GPU output",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,7 +78,7 @@ export const howToChoose: HowToChooseSection[] = [
           "24 Inch 200Hz Gaming Monitor"
         ],
         [
-          "",
+          "Solid mid-range frame rates",
           "SANSUI 24 Inch Gaming Monitor 200Hz 1Ms FreeSync HDR 110% SRGB FHD 1080P"
         ],
         [
@@ -89,11 +89,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "24 Inch 200Hz Gaming Monitor"
         ],
         [
-          "",
+          "Mid-range pick",
           "SANSUI 27 Inch Curved Gaming Monitor 200Hz 1ms with Speakers FHD 1080P Computer"
         ],
         [
-          "",
+          "Higher budget",
           "SANSUI 27 Inch WQHD 2560X1440 Curved Gaming Monitor 200Hz MPRT 1ms"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "G-Sync vs FreeSync",
     "cards": [
       {
         "label": "24 Inch 200Hz Gaming Monitor)",
         "text": "Built and validated specifically for NVIDIA GPUs."
       },
       {
-        "label": "",
+        "label": "FreeSync",
         "text": "Works more broadly across AMD and NVIDIA cards in most cases."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Curvature",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard flat panel",
           "SANSUI 24 Inch Gaming Monitor 200Hz 1Ms FreeSync HDR 110% SRGB FHD 1080P"
         ],
         [
-          "",
+          "Curved for wider immersion",
           "SANSUI 27 Inch Curved Gaming Monitor 200Hz 1ms with Speakers FHD 1080P Computer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Competitive Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Independent input lag testing, not just the headline refresh rate number, since the two specs don't always move together."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SANSUI 24 Inch Gaming Monitor 200Hz 1Ms FreeSync HDR 110% SRGB FHD 1080P is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where SANSUI 27 Inch WQHD 2560X1440 Curved Gaming Monitor 200Hz MPRT 1ms justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 24 Inch 200Hz Gaming Monitor already covers the job at the lowest price here."
       }
     ]

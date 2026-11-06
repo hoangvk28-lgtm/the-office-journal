@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/416CpoW+N+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,7 +74,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "The largest built-in photo storage capacity",
-          ""
+          "Linkdaze Digital Calendar 10.1in Smart Calendar"
         ],
         [
           "A transparently documented app feature structure",
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $68",
+          "Electronic Calendar for Family Schedules ($67.49)"
         ],
         [
-          "",
-          ""
+          "Under $80",
+          "Linkdaze ($79.99) or Dragon Touch ($79.99)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "Smart Family Digital Wall Planner ($89.98)"
         ]
       ]
     }
@@ -125,11 +125,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you want confidence that you'll never hit a paywall for a feature you expect to be free, the fully-free picks are the safer choice. If you might need specialized advanced tools later, the Dragon Touch's transparent free-versus-paid structure at least tells you upfront what costs extra."
   },
   {
-    "subheading": "",
+    "subheading": "By Storage Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your photo storage needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -138,7 +138,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Want substantial built-in local storage",
-          ""
+          "Linkdaze (32GB built-in)"
         ]
       ]
     }
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Gift Purchase Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An explicitly stated warranty period and gift-recipient support policy, so the person receiving the calendar can get help directly if issues arise, not just the original purchaser."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Electronic Calendar for Family Schedules pick specifically states its 365-day warranty extends to gift recipients, who can reach out directly for after-sales support."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want comprehensive weather integration with included plug compatibility, where the Smart Family Digital Wall Planner delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want the full core feature set at the lowest price with an explicit warranty, where the Electronic Calendar for Family Schedules pick covers that for about $22 less."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Companion App Depth",
     "description": "Compared free versus paid feature structures across each pick's companion app."
   },
   {
-    "title": "",
+    "title": "Built-In Storage Capacity",
     "description": "Compared stated on-device memory for photo and video storage across the lineup."
   },
   {
-    "title": "",
+    "title": "Warranty Coverage",
     "description": "Checked stated warranty length and gift-recipient support policies across all four picks."
   },
   {
-    "title": "",
+    "title": "Weather and Smart Features",
     "description": "Compared location-based weather integration and automatic sleep scheduling."
   },
   {
-    "title": "",
+    "title": "Sync Method Reliability",
     "description": "Compared direct integration versus URL-based sync for less common calendar platforms."
   }
 ];

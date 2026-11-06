@@ -53,54 +53,54 @@ export const heroImage = "https://m.media-amazon.com/images/I/312DTHCV2TL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "note": "Beelink SER9 MAX Mini PC is currently the only pick in this specific comparison. If it doesn't fit your exact use case, check our broader mini PC roundup rather than assuming this specific pick fits."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around $1,179.00",
           "Beelink SER9 MAX Mini PC"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Key Tradeoff to Weigh",
     "note": "Beelink SER9 MAX Mini PC's main strength: Genuine 64GB DDR5 RAM for demanding virtualization and multitasking.. Its main tradeoff: Highest price in this guide by a significant margin."
   },
   {
-    "subheading": "",
+    "subheading": "By Compatibility",
     "note": "Check Beelink SER9 MAX Mini PC's stated compatibility directly against your exact device or setup before ordering, since this is the detail most likely to cause a return."
   },
   {
     "subheading": "For Your Specific Use Case",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit compatibility confirmation for your exact device model or workload, not a generic category claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Beelink SER9 MAX Mini PC fits this specifically: Genuine 64GB DDR5 RAM for demanding virtualization and multitasking."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "00: Genuine 64GB DDR5 RAM for demanding virtualization and multitasking. If that's what you're after, the tradeoffs in its cons list probably won't bother you either."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Here's the real tradeoff: Highest price in this guide by a significant margin. If that matters to you, compare it against other picks in our broader roundup before committing."
       }
     ]

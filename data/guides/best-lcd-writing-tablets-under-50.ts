@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/310MWWdutZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,24 +84,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "14.3in Foldable Tablet ($29.99)"
         ],
         [
-          "",
-          ""
+          "$33-$40",
+          "Boogie Board Jot ($33.39) or 22 Inch Extra Large ($39.99)"
         ],
         [
-          "",
-          ""
+          "Under $44",
+          "Boogie Board Basics ($43.99)"
         ]
       ]
     }
@@ -114,22 +114,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The original patent-holding brand behind LCD writing tablet technology, with stated durability testing and UV protection, at a price premium over generic alternatives."
       },
       {
-        "label": "",
+        "label": "Specialized Form Factor (22\" Giant or 14.3\" Foldable)",
         "text": "Generic-brand tablets built around a specific need, maximum screen size or genuine foldable portability, that Boogie Board's own current lineup doesn't offer at this size."
       }
     ],
     "note": "If brand trust and stated testing matter most, choose Boogie Board. If your priority is a specific screen size or portability feature, the specialized picks serve that need more directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest possible screen",
           "22 Inch Extra Large LCD Writing Tablet"
         ],
         [
@@ -137,7 +137,7 @@ export const howToChoose: HowToChooseSection[] = [
           "3in Foldable LCD Writing Tablet"
         ],
         [
-          "",
+          "Compact, magnetic-mountable size",
           "Boogie Board Jot Reusable Writing Tablet"
         ]
       ]
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Office Presentations and Mind Mapping Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A large screen specifically marketed as a whiteboard substitute, with a rechargeable battery for reliable extended use during meetings."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The 22 Inch Extra Large LCD Writing Tablet is specifically marketed for office presentations and mind mapping, with its jumbo screen and rechargeable battery."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the trusted, patent-holding Boogie Board brand with stated UV protection and durability testing, where the Boogie Board Basics is the strongest choice in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "3in Foldable pick is the cheapest option here while still offering a substantial screen."
       }
     ]
@@ -185,11 +185,11 @@ export const howWeEvaluated = [
     "description": "Checked how each pick addresses the size-versus-portability tradeoff, including the foldable design that collapses a large screen for travel."
   },
   {
-    "title": "",
+    "title": "Battery Technology",
     "description": "Compared long-lasting non-replaceable batteries, rechargeable Type-C batteries, and their respective tradeoffs across the lineup."
   },
   {
-    "title": "",
+    "title": "Specific Use Case Fit",
     "description": "Assessed which picks specifically suit shared household use, professional presentations, or portable daily carrying."
   }
 ];

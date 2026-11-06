@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31JeP36QFCL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -72,72 +72,72 @@ export const howToChoose: HowToChooseSection[] = [
           "Cherry Stream Wired Keyboard Without Number Pad"
         ],
         [
-          "",
-          ""
+          "Rechargeable battery, no disposables",
+          "Arteck 2.4G Wireless Keyboard"
         ],
         [
           "A matched keyboard and mouse combo",
           "Macally Small Wireless Keyboard and Mouse Combo"
         ],
         [
-          "",
+          "The lowest possible price",
           "Rii RK907 Ultra-Slim Compact USB Wired Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $16",
+          "Rii RK907 ($9.99), Lumsburry ($12.99), or TECKNET ($15.99)"
         ],
         [
-          "",
-          ""
+          "Up to $30",
+          "Arteck ($21.84), Cherry Stream ($24.83), or Macally combo ($29.98)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
         "label": "Wired (Cherry Stream, Lumsburry, Rii)",
         "text": "No batteries to manage and typically the most reliable connection, at the cost of one more cable on your desk."
       },
       {
-        "label": "",
+        "label": "Wireless (TECKNET, Arteck, Macally)",
         "text": "Cleaner desk setup with no cable, but requires either battery swaps or periodic recharging depending on the specific model."
       }
     ],
     "note": "If a completely clutter-free desk matters more than avoiding battery management, Arteck's rechargeable design splits the difference well."
   },
   {
-    "subheading": "",
+    "subheading": "By Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Backlit keys for low-light typing",
-          ""
+          "Lumsburry Computer Keyboard"
         ],
         [
-          "",
+          "Longest stated warranty",
           "TECKNET (36 months) or Macally (up to 2 years)"
         ],
         [
-          "",
-          ""
+          "Certified switch technology",
+          "Cherry Stream Wired Keyboard"
         ]
       ]
     }
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a New Small-Desk Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A matched keyboard and mouse bundle using a single USB dongle, so you're not sourcing and pairing two separate devices for a brand-new desk."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Macally combo is the only pick here that bundles a matching mouse using one shared dongle."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "83) is the only pick here with named switch technology."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) covers the core function at the lowest price in this comparison."
       }
     ]
@@ -172,7 +172,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Connection type verification",
     "description": "4GHz USB-dongle wireless and wired USB connections, since each has real, different tradeoffs for device compatibility and setup."
   },
   {
@@ -180,15 +180,15 @@ export const howWeEvaluated = [
     "description": "We noted which listings name a specific switch mechanism (like Cherry's SX scissor switches) versus a generic membrane design, since named switch technology is a real, checkable quality signal."
   },
   {
-    "title": "",
+    "title": "Battery arrangement check",
     "description": "For wireless picks, we identified whether each uses a built-in rechargeable battery or standard disposable batteries, since this affects long-term ownership cost and convenience differently."
   },
   {
-    "title": "",
+    "title": "Stated warranty comparison",
     "description": "We compared each listing's stated warranty term directly, since coverage varied meaningfully across similarly priced picks in this comparison."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $30 on the date this guide was checked; keyboards that only hit this tier during a temporary sale were excluded."
   }
 ];

@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41mZs4mzS3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,19 +76,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $60",
           "ICE COOREL Gaming Laptop Cooling Pad"
         ],
         [
-          "",
+          "Mid-range",
           "Cooling Pad for Lenovo Legion 9i 7i 5i 5 7a 5a Pro"
         ],
         [
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: llano V12 Laptop Cooling Pad."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: ICE COOREL Gaming Laptop Cooling Pad."
       }
     ],
     "note": "Most buyers should default to a slim pick like llano V12 Laptop Cooling Pad for everyday portability, and only step up to ICE COOREL Gaming Laptop Cooling Pad's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Razer Laptop Cooling Pad Adaptive Smart offers: Automatic temperature-based fan adjustment suits variable gaming loads. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "ICE COOREL Gaming Laptop Cooling Pad already covers the essentials: Far lower price than the turbo-fan and purpose-built picks. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "We gave extra weight to listings that explicitly name Lenovo Legion or specific Legion model numbers, while still flagging that even named compatibility should be verified against your exact generation."
   },
   {
-    "title": "",
+    "title": "Documented sustained-load cooling evidence",
     "description": "We prioritized pads with a specific stated temperature drop under CPU and GPU load over vague cooling claims, given Legion's demanding gaming use case."
   },
   {

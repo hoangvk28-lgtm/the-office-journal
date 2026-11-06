@@ -8,7 +8,7 @@ export const buyingCriteria = [
     "explanation": "The chipset inside a USB-C ethernet adapter is what your operating system actually talks to, and it determines whether the adapter works instantly with no extra software or needs a manual driver install. Look for the chipset name and model number spelled out in the bullet points or product description, not just a headline speed number, and be skeptical of listings that only say \"advanced chipset\" without naming it."
   },
   {
-    "criterion": "",
+    "criterion": "Confirm your router or switch actually supports 2.5GbE",
     "explanation": "5GbE adapter plugged into a standard router will still run at 1Gbps, making the extra speed capability pointless for your actual network. 5GbE\" or \"2500Mbps\" port rating rather than assuming any recent router supports it, since even many current mid-range routers still ship with only Gigabit ports."
   },
   {
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41HYwMDu-KL._SL500
 export const howToChoose: HowToChooseSection[] = [
   {
     "subheading": "By Device and Connector Type",
-    "intro": "",
+    "intro": "The connector on your existing device matters more than the speed rating, since every pick here caps out at the same 2.5Gbps.",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device has",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,44 +74,44 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A Dell laptop under an active Dell warranty",
-          ""
+          "Dell Adapter USB-C to 2.5G Ethernet"
         ],
         [
           "A MacBook, iPad, or recent iPhone",
-          ""
+          "UGREEN USB C to Ethernet Adapter 2.5G"
         ],
         [
           "A Linux workstation or Chromebook",
-          ""
+          "Cable Matters USB C to 2.5Gb Ethernet Adapter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "Plugable 2.5Gbps USB C to Ethernet Adapter ($17.99)"
         ],
         [
-          "",
-          ""
+          "$20 to $26",
+          "UGREEN USB C to Ethernet Adapter 2.5G ($25.99) or Cable Matters ($24.99)"
         ],
         [
-          "",
-          ""
+          "Up to $30",
+          "Plugable USB C to Ethernet Adapter with 100W PD ($29.95)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Dual-Connector vs USB-C-Only",
     "cards": [
       {
         "label": "Dual USB-A/USB-C (Plugable base model)",
@@ -125,50 +125,50 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If every device on your desk already has USB-C, the connector choice doesn't matter and you should pick based on OS compatibility or price instead."
   },
   {
-    "subheading": "",
+    "subheading": "By Platform Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "You mainly run",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Windows and macOS only",
           "Any pick in this list works equally well"
         ],
         [
           "Linux or ChromeOS as a daily driver",
-          ""
+          "Cable Matters USB C to 2.5Gb Ethernet Adapter"
         ],
         [
           "A mix of Apple laptops, tablets, and phones",
-          ""
+          "UGREEN USB C to Ethernet Adapter 2.5G"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Frequent Travel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A foldable or reinforced connector design explicitly called out in the listing, not just a generic braided cable claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TP-Link's UE302C is the only pick here built around a folding hinge specifically for bag and pocket use."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "95) charges your laptop and carries ethernet through one cable, worth the extra $12 over the base Plugable model if you're tired of two separate cords."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99 uses the same chipset as every pricier option here and skips only the charging feature."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Chipset verification",
     "description": "We checked each listing's stated chipset (nearly all use Realtek's RTL8156BG in this price tier) rather than trusting the marketing headline alone, since the chipset determines native OS driver support more than the box copy does."
   },
   {
-    "title": "",
+    "title": "Connector type audit",
     "description": "We separated USB-A/USB-C dual-connector adapters from USB-C-only designs, since that single detail decides whether an adapter works with an older desktop as well as a newer laptop."
   },
   {
-    "title": "",
+    "title": "Documented OS compatibility",
     "description": "We favored listings that name specific operating systems (including Linux kernel and ChromeOS behavior) over ones that only claim generic \"universal compatibility\" with no detail on driver requirements."
   },
   {
-    "title": "",
+    "title": "Power delivery passthrough check",
     "description": "For the one pick with PD charging, we confirmed the rated wattage against common laptop charging needs rather than assuming any PD-rated port fast-charges every laptop equally."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $30 on the date this guide was checked; adapters that only hit this tier during a temporary sale were excluded."
   }
 ];

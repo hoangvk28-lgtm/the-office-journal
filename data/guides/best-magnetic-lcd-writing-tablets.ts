@@ -53,26 +53,26 @@ export const heroImage = "https://m.media-amazon.com/images/I/41nX4myeBUL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "note": "Boogie Board Jot Reusable Writing Tablet is currently the only pick in this specific comparison. If it doesn't match your priority, check our broader writing tablet roundup rather than assuming this specific pick fits."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around $37.42",
           "Boogie Board Jot Reusable Writing Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Kids-Marketed vs Adult-Marketed",
     "note": "Boogie Board Jot Reusable Writing Tablet is marketed broadly, though the underlying writing technology is often the same across both framings. Check specs directly rather than relying on marketing alone."
   },
   {
@@ -80,27 +80,27 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Boogie Board Jot Reusable Writing Tablet uses a basic single-button erase without a confirmed lock feature."
   },
   {
-    "subheading": "",
+    "subheading": "For Gift-Giving Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear age-range marketing if buying for a specific child, genuine screen size (not just overall unit size), and a replaceable coin-cell battery for the longest useful life."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Boogie Board Jot Reusable Writing Tablet fits this specifically: confirmed magnetic mounting, stated explicitly in the title."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "42: confirmed magnetic mounting, stated explicitly in the title. If that's what you're after, the tradeoffs in its cons list probably won't bother you either."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Here's the real tradeoff: Higher price reflecting the added magnetic and kickstand hardware. If that matters to you, compare it against other tablets in our broader roundup before committing."
       }
     ]

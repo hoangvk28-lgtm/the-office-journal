@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/31F8BqUk3HL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device You're Charging",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Phone, occasional use",
           "EF ECOFLOW Portable Power Station RIVER 2"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "EF ECOFLOW Portable Power Station Delta 3 Classic"
         ],
         [
-          "",
+          "Laptop or multiple devices",
           "EF ECOFLOW Portable Power Station 3600Wh DELTA Pro"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "EF ECOFLOW Portable Power Station RIVER 2"
         ],
         [
-          "",
+          "Mid-range pick",
           "EF ECOFLOW Delta 3 Portable Power Station"
         ],
         [
-          "",
+          "Higher budget",
           "EF ECOFLOW Portable Power Station 3600Wh DELTA Pro"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Capacity vs Portability",
     "cards": [
       {
         "label": "EF ECOFLOW Portable Power Station 3600Wh DELTA Pro)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you're carrying it daily or leaving it in a bag for emergencies."
   },
   {
-    "subheading": "",
+    "subheading": "By Travel Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Flying with it",
           "Check the watt-hour (Wh) rating stays under 100Wh"
         ],
         [
-          "",
+          "Never flying with it",
           "EF ECOFLOW Portable Power Station Delta 3 Classic"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "USB-PD support at 45W or higher, not just any USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "EF ECOFLOW Portable Power Station 3600Wh DELTA Pro is worth checking against your specific laptop's wattage requirement before assuming any power bank charges it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher capacity, faster charging, and support for a laptop, where EF ECOFLOW Portable Power Station 3600Wh DELTA Pro justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need backup charges for a phone, where EF ECOFLOW Portable Power Station RIVER 2 already covers the job at the lowest price here."
       }
     ]

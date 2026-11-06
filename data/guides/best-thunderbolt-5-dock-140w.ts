@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31m9ybhUp+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Charging Behavior",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $180",
+          "OWC Thunderbolt 5 Hub 5-Port ($179.99)"
         ],
         [
-          "",
-          ""
+          "Under $300",
+          "UGREEN 13-in-1 ($274.99) or Plugable TBT-UDT3 ($299.95)"
         ],
         [
-          "",
-          ""
+          "Under $400",
+          "CalDigit TS5 Thunderbolt 5 Dock ($399.95)"
         ]
       ]
     }
@@ -113,7 +113,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Sustained Power Supply vs Dynamically Shared Power",
     "cards": [
       {
-        "label": "",
+        "label": "Sustained power (CalDigit TS5)",
         "text": "A 240W power supply backs this dock's 140W charging, meaning every connected device gets its allocated power regardless of how many others are plugged in simultaneously."
       },
       {
@@ -124,11 +124,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you regularly run many high-power peripherals alongside your laptop, the CalDigit's sustained power delivery avoids any real-world power competition. If your setup is lighter, the UGREEN or OWC picks deliver genuine value at a lower price."
   },
   {
-    "subheading": "",
+    "subheading": "By Port Count Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your port need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -140,7 +140,7 @@ export const howToChoose: HowToChooseSection[] = [
           "UGREEN 13-in-1 Thunderbolt 5 Dock"
         ],
         [
-          "",
+          "Maximum 15-port connectivity",
           "CalDigit TS5 Thunderbolt 5 Dock"
         ]
       ]
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Minimal Travel-Friendly Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A compact, fanless dock design with genuine 140W charging but without excess ports you won't use while traveling, keeping bulk and weight down."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The OWC Thunderbolt 5 Hub's fanless aluminum enclosure and minimal 5-port design make it the most travel-appropriate pick here."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "95 price delivers that assurance."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -184,7 +184,7 @@ export const howWeEvaluated = [
     "description": "Compared the included power supply's total wattage against the dock's charging and port power claims."
   },
   {
-    "title": "",
+    "title": "Real Documentation Transparency",
     "description": "Compared how honestly each listing discloses limitations or caveats around its power delivery claims."
   },
   {
@@ -192,7 +192,7 @@ export const howWeEvaluated = [
     "description": "Compared port count and feature set relative to price across this comparison."
   },
   {
-    "title": "",
+    "title": "Cooling and Long-Term Reliability",
     "description": "Compared fanless versus active cooling approaches for sustained high-power operation."
   }
 ];

@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41AGM4urvxL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Carrying your own cards",
           "HSYMQ Acrylic Business Card Holder for Desk"
         ],
         [
-          "",
+          "Displaying cards for visitors",
           "Qizpcer 16 Pack Clear Desktop Business Card Holder Display"
         ],
         [
-          "",
+          "Client-facing handoffs",
           "Muso wood Cherry Business Card Holder for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "HSYMQ Acrylic Business Card Holder for Desk"
         ],
         [
-          "",
+          "Mid-range pick",
           "MaxGear Acrylic Business Card Holder"
         ],
         [
-          "",
+          "Higher budget",
           "Muso wood Cherry Business Card Holder for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Top vs Snap-Closed",
     "cards": [
       {
         "label": "HSYMQ Acrylic Business Card Holder for Desk)",
         "text": "Faster one-hand access, less protection against spilling."
       },
       {
-        "label": "",
+        "label": "Snap/magnetic closed",
         "text": "Secures cards fully, takes an extra motion to open."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your card volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A small daily-carry stack",
           "Qizpcer 16 Pack Clear Desktop Business Card Holder Display"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Client-Facing Handoffs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A material (leather or solid metal) that reinforces a professional impression at the handoff moment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Qizpcer 16 Pack Clear Desktop Business Card Holder Display is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where muso wood Cherry Business Card Holder for Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where HSYMQ Acrylic Business Card Holder for Desk already covers the job at the lowest price here."
       }
     ]

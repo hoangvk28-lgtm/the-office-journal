@@ -60,83 +60,83 @@ export const heroImage = "https://m.media-amazon.com/images/I/41rjOMIKrmL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Switch Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Clicky switches for tactile feedback",
-          ""
+          "RisoPhy Mechanical Gaming Keyboard"
         ],
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "RisoPhy Mechanical Gaming Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $26",
+          "Redragon Mechanical Gaming Keyboard"
         ],
         [
-          "",
+          "Up to $125",
           "Logitech G515 Lightspeed TKL Wireless Gaming Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wireless vs Wired Connection",
     "cards": [
       {
-        "label": "",
+        "label": "Wireless",
         "text": "4GHz dongle option beyond just Bluetooth. In this comparison: Keychron K4 96% Layout Wireless Bluetooth/Wired Mechanical Keyboard, Keychron C2 Full Size Wired Mechanical Keyboard, Logitech G515 Lightspeed TKL Wireless Gaming Keyboard."
       },
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, the safer choice for competitive gaming. In this comparison: RisoPhy Mechanical Gaming Keyboard, Corsair K70 CORE TKL RGB Tenkeyless Mechanical Wired Gaming Keyboard, Logitech G PRO Mechanical TKL Tenkeyless Gaming Keyboard, Redragon Mechanical Gaming Keyboard, Redragon K668 RGB Gaming Keyboard."
       }
     ],
     "note": "Default to wired if competitive gaming latency matters, wireless for general typing and office use."
   },
   {
-    "subheading": "",
+    "subheading": "By Keycap Material",
     "note": "Check each pick's listed keycap material (PBT vs ABS) against how long you plan to use it daily before buying, since PBT resists shine and wear better over years."
   },
   {
     "subheading": "For Shared Office or Video Call Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Linear or tactile switches rather than clicky ones, to avoid disruptive noise on calls or in a shared space."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "RisoPhy Mechanical Gaming Keyboard is worth checking against its listed switch type before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want hot-swappable switches and premium PBT keycaps for years of daily use, where Logitech G515 Lightspeed TKL Wireless Gaming Keyboard's build quality gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want to try the mechanical feel without a big investment, where Redragon Mechanical Gaming Keyboard covers the same job at a lower price."
       }
     ]
@@ -145,7 +145,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Switch type and feel",
     "description": "Compared clicky, tactile, linear, and low-profile switches on feedback style and noise output, since switch type is the single biggest factor in how a mechanical keyboard sounds and feels."
   },
   {
@@ -153,11 +153,11 @@ export const howWeEvaluated = [
     "description": "Weighed each keyboard's likely noise level against typical work-from-home and office scenarios, flagging which switch types risk being picked up by a nearby microphone on a video call."
   },
   {
-    "title": "",
+    "title": "Keycap material and durability",
     "description": "Checked whether keycaps were ABS, which shines and wears within months of heavy use, or PBT, which holds its texture and color far longer, and weighed that against price."
   },
   {
-    "title": "",
+    "title": "Connection type and latency",
     "description": "4GHz and Bluetooth mechanical keyboards run at roughly 1ms of added latency, effectively unnoticeable versus wired."
   },
   {

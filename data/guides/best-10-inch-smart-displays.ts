@@ -49,31 +49,31 @@ export const heroImage = "https://m.media-amazon.com/images/I/31gjXvcGopL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "This guide's featured display",
+          "Amazon Echo Show 10"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "See price on Amazon",
+          "Amazon Echo Show 10"
         ]
       ]
     }
@@ -82,53 +82,53 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Amazon Echo Show 10 vs a Basic Smart Speaker",
     "cards": [
       {
-        "label": "",
+        "label": "Amazon Echo Show 10",
         "text": "Adds a visual display for at-a-glance info and video calls, worth checking against your desk space and privacy preferences."
       },
       {
-        "label": "",
+        "label": "A basic smart speaker",
         "text": "Cheaper and no camera concerns, but no visual glance information or video call capability."
       }
     ],
     "note": "Most buyers evaluating this guide's keyword should default to Amazon Echo Show 10 unless a basic smart speaker meets your specific, limited need."
   },
   {
-    "subheading": "",
+    "subheading": "By Voice Assistant Ecosystem",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Matches your existing smart home devices",
-          ""
+          "Amazon Echo Show 10"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine front-facing camera with decent resolution, and motorized tracking if you move around during calls."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Amazon Echo Show 10 is worth checking against its listed camera specs before buying."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger screen, motorized tracking, or better audio, where Amazon Echo Show 10's features give real headroom over a basic display."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple clock and notification glance display."
       }
     ]

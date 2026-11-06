@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/419pjtp0ZDL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $24",
           "Storex Portable Letter/Legal Filebox with Organizer Lid"
         ],
         [
-          "",
+          "Mid-range",
           "DocSafe Fireproof Document Box with Lock"
         ],
         [
@@ -84,14 +84,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: ENGPOW File Box with Lock, DocSafe Fireproof Document Box with Lock, DocSafe Fireproof Document Box with Lock."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: Storex Portable Letter/Legal Filebox with Organizer Lid."
       }
     ],
@@ -101,8 +101,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -120,24 +120,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ENGPOW File Box with Lock fits this specifically: Generous sizing accommodates many legal-size needs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Vaultz File Organizer Storage Box offers: Genuine key lock included. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Storex Portable Letter/Legal Filebox with Organizer Lid already covers the essentials: Confirmed dual letter/legal compatibility. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -146,19 +146,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine legal-size dimension verification",
     "description": "5 x 14 inch legal-size standard rather than assuming a 'large' box automatically accommodates legal folders."
   },
   {
-    "title": "",
+    "title": "Dual letter/legal compatibility",
     "description": "We noted which picks accommodate both letter and legal size documents in the same box, useful for buyers with mixed document sizes."
   },
   {
-    "title": "",
+    "title": "Weight and bulk disclosure",
     "description": "We explicitly noted the proportionally greater weight and bulk that legal-size capacity requires compared to a letter-only box, a real portability tradeoff."
   },
   {
-    "title": "",
+    "title": "Legal-size hanging folder sourcing",
     "description": "We noted that legal-size hanging folders are somewhat less universally available than letter-size, a real downstream purchasing consideration."
   }
 ];

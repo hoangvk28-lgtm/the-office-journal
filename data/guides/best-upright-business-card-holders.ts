@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41L0VC6H24L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Carrying your own cards",
           "ZMZKKLL Acacia Wood Business Card Holder for Desk"
         ],
         [
-          "",
+          "Displaying cards for visitors",
           "Memorywuu 4 Pack Vertical Business Card Holder for Desk 2 Slots Clear Acrylic"
         ],
         [
-          "",
+          "Client-facing handoffs",
           "75\" Vertical Acrylic Business Card Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "ZMZKKLL Acacia Wood Business Card Holder for Desk"
         ],
         [
-          "",
+          "Mid-range pick",
           "YUXUN Acrylic Business Card Holder for Desk Vertical Business Card Holder"
         ],
         [
-          "",
+          "Higher budget",
           "75\" Vertical Acrylic Business Card Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Top vs Snap-Closed",
     "cards": [
       {
         "label": "ZMZKKLL Acacia Wood Business Card Holder for Desk)",
         "text": "Faster one-hand access, less protection against spilling."
       },
       {
-        "label": "",
+        "label": "Snap/magnetic closed",
         "text": "Secures cards fully, takes an extra motion to open."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your card volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A small daily-carry stack",
           "Memorywuu 4 Pack Vertical Business Card Holder for Desk 2 Slots Clear Acrylic"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Client-Facing Handoffs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A material (leather or solid metal) that reinforces a professional impression at the handoff moment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Memorywuu 4 Pack Vertical Business Card Holder for Desk 2 Slots Clear Acrylic is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "75\" Vertical Acrylic Business Card Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where ZMZKKLL Acacia Wood Business Card Holder for Desk already covers the job at the lowest price here."
       }
     ]

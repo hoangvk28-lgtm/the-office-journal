@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "2 NVMe SSD in any enclosure in this list?",
-    "a": ""
+    "a": "No. Check the exact M.2 length (2230/2242/2260/2280) and keying (M-Key vs B+M Key) the enclosure supports against your specific SSD before buying, and confirm whether the enclosure supports NVMe only or also SATA M.2 drives."
   },
   {
     "q": "Why does my enclosure run slower than its advertised speed?",
@@ -49,47 +49,47 @@ export const heroImage = "https://m.media-amazon.com/images/I/41XhHxmIEZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Interface Speed",
     "table": {
       "headers": [
-        "",
+        "Your host port",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "10Gbps (USB 3.2 Gen 2)",
+          "OWC Express 1M2 1TB"
         ],
         [
-          "",
-          ""
+          "20Gbps (USB 3.2 Gen 2x2)",
+          "OWC Express 1M2 1TB"
         ],
         [
-          "",
-          ""
+          "40Gbps or higher (Thunderbolt/USB4)",
+          "OWC Express 1M2 1TB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $179",
           "OWC Express 4M2 Four-Slot Enclosure"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "OWC Express 1M2 1TB"
         ],
         [
           "No firm budget ceiling, prioritizing speed or controller quality",
-          ""
+          "OWC Express 1M2 2TB"
         ]
       ]
     }
@@ -98,27 +98,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "NVMe-Only vs NVMe+SATA Dual Protocol",
     "cards": [
       {
-        "label": "",
+        "label": "NVMe-Only",
         "text": "2 drive at all if that's what you own. In this comparison: OWC Express 1M2 1TB, OWC Express 1M2 2TB, OWC Express 4M2 Four-Slot Enclosure."
       },
       {
-        "label": "",
+        "label": "NVMe+SATA Dual Protocol",
         "text": "2 drives in the same enclosure, more flexible if you're not certain which protocol your SSD uses. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
-    "note": ""
+    "note": "Every pick in this specific comparison is NVMe-only; check our broader enclosure roundup if you specifically need SATA M.2 support."
   },
   {
-    "subheading": "",
+    "subheading": "Passive vs Active Cooling",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your workload",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Occasional file transfers",
+          "OWC Express 1M2 1TB"
         ],
         [
           "Sustained large transfers (video editing, backups)",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Sustained Large File Transfers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Published tested read/write numbers using a named SSD and host, active cooling or substantial heatsink fins, and an explicit note about sustained (not just peak burst) performance."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "OWC Express 4M2 Four-Slot Enclosure fits this specifically: Adaptive fans only run under load for near-silent idle operation."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what OWC Express 1M2 2TB offers: Prebuilt 2TB NVMe SSD, no separate drive purchase or installation needed. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "OWC Express 4M2 Four-Slot Enclosure already covers the essentials: Adaptive fans only run under load for near-silent idle operation. The main thing you'd be paying extra for elsewhere in this list is a faster interface tier or dual-protocol support you may not need."
       }
     ]
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "Weighed published tested throughput figures, fan trigger temperatures, and passive-versus-active cooling design over marketing language that repeats across nearly identical products."
   },
   {
-    "title": "",
+    "title": "Real Feature Differentiators",
     "description": "Prioritized genuine differentiators, RAID mode support, write-lock switches, health-monitoring displays, magnetic attachment systems, over generic \"fast and durable\" claims with nothing behind them."
   }
 ];

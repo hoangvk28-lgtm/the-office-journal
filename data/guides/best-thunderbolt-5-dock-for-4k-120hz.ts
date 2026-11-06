@@ -63,8 +63,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Display Count and Refresh Rate Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your display need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $250",
+          "CalDigit E5 Thunderbolt 5 Element 5 Hub ($249.99)"
         ],
         [
-          "",
-          ""
+          "Under $400",
+          "Lenovo ThinkPad Smart Dock 7500 ($368.00) or Brydge ProDock Trio ($399.00)"
         ],
         [
-          "",
-          ""
+          "Under $450",
+          "Dell SD25TB5 Pro ($445.99)"
         ]
       ]
     }
@@ -113,22 +113,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Windows High-Refresh vs Mac High-Refresh",
     "cards": [
       {
-        "label": "",
+        "label": "Windows high-refresh (Lenovo, CalDigit)",
         "text": "Windows Thunderbolt 5 hosts on the Lenovo and CalDigit picks can reach triple 4K displays at 144Hz or higher, a configuration not available on macOS through the same docks."
       },
       {
-        "label": "",
+        "label": "Mac high-refresh (Brydge, CalDigit)",
         "text": "MacOS is generally limited to fewer simultaneous high-refresh displays than Windows on the same hardware, with the Brydge and CalDigit picks both explicitly capping Mac display count below their Windows-side maximums."
       }
     ],
     "note": "If you're on Windows and want the most simultaneous high-refresh displays, the Lenovo or CalDigit picks give you that headroom. If you're on a MacBook Pro specifically, the Brydge pick's honest per-chip disclosure helps you know exactly what to expect before buying."
   },
   {
-    "subheading": "",
+    "subheading": "By Power Delivery Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your charging need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -137,7 +137,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "140W charging for a MacBook Pro",
-          ""
+          "Brydge ProDock Trio TB5"
         ],
         [
           "Charging even when the dock isn't connected to a host",
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For IT-Managed Office Fleets Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Remote fleet management capability that lets IT administrators configure, update, and diagnose docks across an organization without physically visiting each desk."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Lenovo ThinkPad Smart Dock 7500 specifically includes Lenovo Accessories Fleet Manager, a cloud-based AWS-powered tool built for exactly this use case."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "00 price is justified by its IT-management features."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -180,7 +180,7 @@ export const howWeEvaluated = [
     "description": "Compared how specifically each listing states its refresh rate ceiling as display count increases."
   },
   {
-    "title": "",
+    "title": "Platform-Specific Display Limits",
     "description": "Compared Windows versus macOS display and refresh rate differences on the same dock."
   },
   {
@@ -188,11 +188,11 @@ export const howWeEvaluated = [
     "description": "Compared sustained charging wattage while driving multiple high-refresh displays simultaneously."
   },
   {
-    "title": "",
+    "title": "Build and Form Factor",
     "description": "Compared vertical, modular, and standard flat dock designs for desk footprint."
   },
   {
-    "title": "",
+    "title": "Real Bandwidth Allocation",
     "description": "Compared stated dynamic bandwidth shifting between data throughput and display needs."
   }
 ];

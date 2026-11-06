@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Brother DCP"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Brother DCP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $100",
+          "Epson Workforce WF"
         ],
         [
-          "",
-          ""
+          "Up to $285",
+          "Brother HL"
         ]
       ]
     }
@@ -102,27 +102,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Epson Workforce WF vs Brother HL",
     "cards": [
       {
-        "label": "",
+        "label": "Epson Workforce WF",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Brother HL",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Epson Workforce WF unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Brother DCP"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Brother DCP is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Brother HL's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Epson Workforce WF covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "True cost per page",
     "description": "Weighed toner and ink-tank economics against cartridge-based inkjet, since sticker price alone misleads on ongoing cost once monthly volume climbs."
   },
   {
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "Compared paper tray size, print speed, and duplex support against realistic small-business daily output rather than best-case lab numbers."
   },
   {
-    "title": "",
+    "title": "Document workflow completeness",
     "description": "Checked which picks include an automatic document feeder, fax, and duplex printing, since a business handling multi-page paperwork needs more than a basic print-only unit."
   },
   {
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "Separated genuine color laser and color inkjet options from monochrome-only picks, since retail, design, and marketing-facing businesses need color while legal and accounting workflows often don't."
   },
   {
-    "title": "",
+    "title": "Network and multi-user reliability",
     "description": "Considered wireless band support and mobile compatibility for a printer that 2 or more people in a small office will connect to and share."
   }
 ];

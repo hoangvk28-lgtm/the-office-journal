@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/3179Kj81G3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -77,27 +77,27 @@ export const howToChoose: HowToChooseSection[] = [
           "TP-Link Deco 7 BE25 Dual-Band Mesh System"
         ],
         [
-          "",
+          "Dedicated gaming traffic prioritization",
           "ASUS TUF Gaming BE6500 WiFi 7 Router"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $160",
+          "ASUS TUF Gaming BE6500 ($150.00) or Deco 7 BE25 Mesh ($159.98)"
         ],
         [
-          "",
-          ""
+          "$170-$180",
+          "TP-Link Archer BE550 ($169.99) or NETGEAR Nighthawk RS150 ($179.99)"
         ]
       ]
     }
@@ -117,16 +117,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you've had dead zones with a single router before, the Deco mesh system's multi-unit design is the more reliable fix than a more powerful single router."
   },
   {
-    "subheading": "",
+    "subheading": "By Wired Port Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wired connection needs",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Maximum multi-gig ports for a wired home office setup",
-          ""
+          "TP-Link Archer BE550 (five 2.5G ports total)"
         ],
         [
           "A dedicated prioritized port for gaming",
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Crowded WiFi Environments Specifically",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Look for",
+        "text": "A tri-band router with a dedicated 6GHz channel, since this band sees far less interference from neighboring networks than the more commonly used 2.4GHz and 5GHz bands."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The TP-Link Archer BE550 is the only pick here with a genuine 6GHz band, making it the strongest choice for apartments or dense neighborhoods with many competing networks."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You live in a crowded WiFi environment and want a 6GHz band plus maximum wired ports, where the TP-Link Archer BE550 is the strongest all-around pick in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A dual-band router covers your needs, where the ASUS TUF Gaming BE6500 delivers strong gaming-specific features for the lowest price here."
       }
     ]
@@ -165,7 +165,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Tri-Band vs Dual-Band Coverage",
     "description": "Compared the TP-Link Archer BE550's dedicated 6GHz band against the dual-band-only picks in this comparison, weighing reduced congestion against the added cost."
   },
   {
@@ -173,11 +173,11 @@ export const howWeEvaluated = [
     "description": "Weighed the Deco 7 mesh system's multi-unit coverage against the single-router picks' higher individual port counts and simpler single-unit setup."
   },
   {
-    "title": "",
+    "title": "Wired Port Configuration",
     "description": "5G ports each router or mesh system includes and whether they support flexible WAN/LAN assignment."
   },
   {
-    "title": "",
+    "title": "Gaming-Specific Features",
     "description": "Checked for dedicated gaming traffic prioritization and simplified port forwarding tools versus general-purpose networking features."
   },
   {

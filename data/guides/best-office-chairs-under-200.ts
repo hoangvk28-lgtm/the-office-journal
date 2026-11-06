@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41yzPz0cKLL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $110",
+          "HUANUO ($109.98)"
         ],
         [
-          "",
-          ""
+          "Under $120",
+          "Marsail ($118.94) or FelixKing ($119.99)"
         ],
         [
-          "",
-          ""
+          "Under $200",
+          "CAPOT ($199.99)"
         ]
       ]
     }
@@ -113,34 +113,34 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "1 Structural Certification vs SGS Component Certification",
     "cards": [
       {
-        "label": "",
+        "label": "BIFMA X5.1 (CAPOT)",
         "text": "A comprehensive structural durability standard covering the whole chair's frame and mechanism, the most thorough certification in this comparison."
       },
       {
-        "label": "",
+        "label": "SGS (HUANUO)",
         "text": "A component-level third-party safety and quality certification, still a genuine credential but narrower in scope than full structural BIFMA testing."
       }
     ],
     "note": "1 certification offers the most comprehensive documented assurance in this comparison."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your weight range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under 300 lbs",
+          "HUANUO Ergonomic Office Chair"
         ],
         [
-          "",
-          ""
+          "Under 330 lbs",
+          "Marsail or FelixKing"
         ],
         [
-          "",
+          "Up to 400 lbs",
           "CAPOT Ergonomic Mesh Office Chair"
         ]
       ]
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buyers Needing Extended Warranty Coverage Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A specific stated warranty length and whether it includes complimentary part replacements, not just a general satisfaction guarantee."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The CAPOT pick's 5-year warranty with complimentary part replacements is the most extensive documented coverage here."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest weight capacity, most granular lumbar adjustment, and longest warranty, where the CAPOT's BIFMA certification and 5-year coverage justify its higher price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want precise 3D armrests and documented SGS certification without the full BIFMA structural testing, where the HUANUO pick delivers that for roughly $90 less."
       }
     ]
@@ -176,19 +176,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Structural Certification Depth",
     "description": "1 structural certification versus a component-level SGS certification."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated maximum supported weight, ranging from 300 to 400 lbs across the lineup."
   },
   {
-    "title": "",
+    "title": "Warranty Length",
     "description": "Compared stated warranty duration and part-replacement policies where documented."
   },
   {
-    "title": "",
+    "title": "Lumbar Adjustment Precision",
     "description": "Compared specific stated lumbar adjustment ranges and number of discrete adjustment levels."
   },
   {

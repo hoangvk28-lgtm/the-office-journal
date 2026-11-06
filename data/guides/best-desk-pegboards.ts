@@ -53,11 +53,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31ll21hyHHL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -65,51 +65,51 @@ export const howToChoose: HowToChooseSection[] = [
           "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $80",
+          "Sailret Clamp"
         ],
         [
-          "",
+          "Up to $270",
           "EUREKA ERGONOMIC Desk Pegboard Dual Monitor Stand 59x34 White"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Screwed Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Clamp-on",
         "text": "No drilling required, the safer choice for a rented space or shared furniture. In this comparison: VIVO Steel Triple Clamp Desk Pegboard System with 2 Monitor Mounts and Storage Shelf, Sailret Clamp."
       },
       {
-        "label": "",
+        "label": "Screwed mount",
         "text": "Generally more rigid and stable once loaded, worth it if you own the desk. In this comparison: EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands, EUREKA ERGONOMIC Desk Pegboard Dual Monitor Stand 59x34 White."
       }
     ],
     "note": "Default to clamp-on unless you own the desk and want maximum loaded stability."
   },
   {
-    "subheading": "",
+    "subheading": "By Built-In Shelving",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands"
         ],
         [
-          "",
+          "Hooks alone are enough",
           "EUREKA ERGONOMIC Desk Pegboard Dual Monitor Stand 59x34 White"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Loaded, Multi-Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine metal or thick MDF construction, confirmed standard hole spacing, and a wall-anchor mounting option for stability once loaded with monitor arms and accessories."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands is worth checking against its listed material and mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to load the board with monitor arms and multiple accessories, where EUREKA ERGONOMIC Desk Pegboard Dual Monitor Stand 59x34 White's material and mounting give real stability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a few lightweight decorative hooks, where Sailret Clamp covers the same job at a lower price."
       }
     ]
@@ -153,7 +153,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hole-spacing and peg-shape compatibility",
     "description": "Checked whether each board uses standardized 1-inch hole spacing versus a proprietary hook system that limits third-party accessory options."
   },
   {
@@ -161,7 +161,7 @@ export const howWeEvaluated = [
     "description": "Weighed real pegboard-grade metal or hardboard construction against thinner decorative board that sags under sustained hook loads."
   },
   {
-    "title": "",
+    "title": "Loaded-condition tipping stability",
     "description": "Considered stability once a board is realistically loaded with hooks, shelves, and monitor mounts, not just how it sits empty."
   },
   {

@@ -36,7 +36,7 @@ export const faq = [
     "a": "Only if you carry more than one credential daily, like a building access card or parking pass alongside your ID, count your actual cards before choosing single or multi-slot."
   },
   {
-    "q": "",
+    "q": "Are badge holders waterproof?",
     "a": "Standard plastic handles light moisture fine, but genuine waterproofing needs a sealed edge or specific rating, check for this if you work outdoors or in a consistently wet environment."
   },
   {
@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ax4yAz9qL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Daily Movement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Mostly desk-based",
           "Wisdompro Leather ID Badge Holder Lanyard with Zipper Pocket"
         ],
         [
-          "",
+          "Frequent movement or bending",
           "5 Pack - Heavy Duty Magnetic Badge Holders - Fold Over Shirt Pocket or Belt"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Wisdompro Leather ID Badge Holder Lanyard with Zipper Pocket"
         ],
         [
-          "",
+          "Mid-range pick",
           "TaoBary 3 Pcs Magnetic Badge Holder for Shirt Pocket Badge Holder Belt"
         ],
         [
-          "",
+          "Higher budget",
           "OneTigris Tactical ID Card Holder Hook & Loop Patch Badge Holder Neck Lanyard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Retractable vs Fixed Lanyard",
     "cards": [
       {
         "label": "Wisdompro Leather ID Badge Holder Lanyard with Zipper Pocket)",
         "text": "Extends for scanning, retracts out of the way when not needed."
       },
       {
-        "label": "",
+        "label": "Fixed lanyard",
         "text": "Simpler, no reel mechanism to wear out over time."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Card Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your credentials",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single ID only",
           "5 Pack - Heavy Duty Magnetic Badge Holders - Fold Over Shirt Pocket or Belt"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Wet or Outdoor Workplace Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine waterproof rating, not just standard plastic construction."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5 Pack - Heavy Duty Magnetic Badge Holders - Fold Over Shirt Pocket or Belt is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where OneTigris Tactical ID Card Holder Hook & Loop Patch Badge Holder Neck Lanyard justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Wisdompro Leather ID Badge Holder Lanyard with Zipper Pocket already covers the job at the lowest price here."
       }
     ]

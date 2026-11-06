@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Which is the most proven raised stand?",
-    "a": ""
+    "a": "The havit HV-F2056, with 45,172 reviews at 4.5 stars."
   },
   {
     "q": "Is there an option with adjustable height?",
@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest raised stand?",
-    "a": ""
+    "a": "The LIANGSTAR Laptop Cooling Pad at $16.99."
   },
   {
     "q": "What's the best option for a shallow desk?",
@@ -57,39 +57,39 @@ export const heroImage = "https://m.media-amazon.com/images/I/51+142vwVRL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
           "Tightest size match for your laptop",
-          ""
+          "TECKNET Laptop Cooling Pad"
         ],
         [
           "Widest range, flexible for future upgrades",
-          ""
+          "TECKNET Laptop Cooling Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "LIANGSTAR Laptop Cooling Pad"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "TECKNET Laptop Cooling Pad"
         ],
         [
           "No firm budget ceiling, prioritizing fan count or extras",
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: TECKNET Laptop Cooling Pad."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans for 12\"-17\" Laptop."
       }
     ],
     "note": "Most buyers should default to a slim pick like TECKNET Laptop Cooling Pad for everyday portability, and only step up to Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans for 12\"-17\" Laptop's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -126,7 +126,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Simplest setup, fewer adjustments to fuss with",
-          ""
+          "LIANGSTAR Laptop Cooling Pad"
         ]
       ]
     }
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "LIANGSTAR Laptop Cooling Pad already covers the essentials: Cheapest raised stand in this comparison. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "We kept this comparison to raised stands built for a stable table surface, excluding the lap-mat products covered in our home-office guide."
   },
   {
-    "title": "",
+    "title": "Ergonomic height adjustment prioritized",
     "description": "We favored products with multiple height settings, relevant for desk-specific typing angle adjustment."
   },
   {

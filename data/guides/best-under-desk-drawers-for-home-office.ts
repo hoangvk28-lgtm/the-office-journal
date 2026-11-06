@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51YpYvY4LwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Storing",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light supplies, no drilling",
           "SWTYMIKI Rolling File Cart with Drawers"
         ],
         [
-          "",
+          "Standard office supplies",
           "Homeify Under Desk Drawer Organizer Clamp-On"
         ],
         [
-          "",
+          "Heavier items, permanent install",
           "Letaya 3 Drawer Mobile File Cabinet with Lock, Under Desk Metal Filing Cabinets"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "SWTYMIKI Rolling File Cart with Drawers"
         ],
         [
-          "",
+          "Mid-range pick",
           "DEVAISE 3-Drawer Mobile File Cabinet"
         ],
         [
-          "",
+          "Higher budget",
           "Letaya 3 Drawer Mobile File Cabinet with Lock, Under Desk Metal Filing Cabinets"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Screw-Mounted",
     "cards": [
       {
         "label": "SWTYMIKI Rolling File Cart with Drawers)",
         "text": "No drilling needed, fully removable, but capped around 13 lbs."
       },
       {
-        "label": "",
+        "label": "Screw-mounted",
         "text": "Higher weight capacity, but permanent and requires drilling into the desk."
       }
     ],
     "note": "Match this to whether you rent, share the desk, or need real capacity for heavier items."
   },
   {
-    "subheading": "",
+    "subheading": "By Legroom Clearance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Tight knee clearance",
           "Measure your seated position before choosing any model"
         ],
         [
-          "",
+          "Standard desk depth",
           "Homeify Under Desk Drawer Organizer Clamp-On"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Standing Desks Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed clearance at your desk's lowest sitting height, including the motor housing and crossbar."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Homeify Under Desk Drawer Organizer Clamp-On is worth checking against your desk's specific understructure before assuming any drawer clears it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and smoother, longer-lasting slides for daily heavy use, where Letaya 3 Drawer Mobile File Cabinet with Lock, Under Desk Metal Filing Cabinets justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing light supplies and want a simple, removable option, where SWTYMIKI Rolling File Cart with Drawers already covers the job at the lowest price here."
       }
     ]

@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Thermal-faq",
     "q": "What's the difference between direct thermal and thermal transfer label printers?",
     "a": "Direct thermal burns the image into heat-sensitive paper with no ink, cheaper to run but labels fade within months, thermal transfer melts a ribbon onto standard stock for labels that last years but costs more per label due to the ribbon."
   },
   {
-    "id": "",
+    "id": "Width-faq",
     "q": "Will a label printer handle labels wider than shipping labels?",
     "a": "Only up to its stated maximum width, a printer rated for 4-inch shipping labels physically cannot print wider, check the max width spec against your actual intended label size, not just the shipping use case shown in marketing."
   },
   {
-    "id": "",
+    "id": "Cutter-faq",
     "q": "Is an automatic cutter worth paying extra for?",
     "a": "Only if you're printing at real volume, a cutter saves time on dozens of labels a day but adds a mechanical part that can jam or dull, a tear-bar design has nothing to fail but is slower at high volume."
   },
   {
-    "id": "",
+    "id": "Compat-faq",
     "q": "How do I know if a label printer works with my shipping platform?",
     "a": "Check the manufacturer's actual compatibility list for your specific platform (Shopify, eBay, Etsy, or a carrier's software), broad 'works with everything' marketing claims are often less precise than the real driver support."
   },
   {
-    "id": "",
+    "id": "Battery-faq",
     "q": "Are battery-powered label printers slower than plug-in models?",
     "a": "Generally yes, a battery-powered unit gives you true portability for warehouse or on-site printing but typically runs slower and handles smaller batches per charge than a desktop model on constant power."
   },
   {
-    "id": "",
+    "id": "Ribbon-faq",
     "q": "Why does a thermal transfer printer cost more to run over time?",
     "a": "It needs a fresh ribbon roughly proportional to your print volume, a real recurring cost direct thermal printers don't have, factor this into your actual cost per label before choosing thermal transfer purely for label longevity."
   }
@@ -67,15 +67,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41JT3kGfdfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light printing",
           "Brother P-Touch PT-N25BT Personal Connected Label Maker"
         ],
         [
@@ -83,18 +83,18 @@ export const howToChoose: HowToChooseSection[] = [
           "NDYIN N12 Label Maker Machine with 1 Tape Bluetooth Label Printer"
         ],
         [
-          "",
+          "High-volume daily printing",
           "Brother P-Touch PT-N25BT Personal Connected Label Maker"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Brother P-Touch PT-N25BT Personal Connected Label Maker"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Phomemo Label Maker"
         ],
         [
-          "",
+          "Higher budget",
           "Brother P-Touch PT-N25BT Personal Connected Label Maker"
         ]
       ]
@@ -120,53 +120,53 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Lower running cost, labels fade within months."
       },
       {
-        "label": "",
+        "label": "Thermal transfer",
         "text": "Costs more per label with ribbon, labels last years."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Connectivity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fixed desk spot",
           "NDYIN N12 Label Maker Machine with 1 Tape Bluetooth Label Printer"
         ],
         [
           "Needs mobility or app printing",
-          ""
+          "Phomemo Label Maker"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Shipping Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic cutter and larger roll capacity rather than a compact desktop model stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "NDYIN N12 Label Maker Machine with 1 Tape Bluetooth Label Printer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Brother P-Touch PT-N25BT Personal Connected Label Maker justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Brother P-Touch PT-N25BT Personal Connected Label Maker already covers the job at the lowest price here."
       }
     ]

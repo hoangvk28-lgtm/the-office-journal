@@ -36,7 +36,7 @@ export const faq = [
     "a": "If you store sensitive files, like financial documents or client data, on a portable drive, built-in encryption software provides real protection if the physical drive is ever lost or stolen. For general file transfer and backup without sensitive content, it's a nice-to-have rather than a necessity."
   },
   {
-    "q": "",
+    "q": "Does a 1TB SSD at this price still need TRIM and S.M.A.R.T. support?",
     "a": "These features aren't strictly necessary for the drive to function, but they help maintain consistent performance and let you monitor the drive's health over time. Not every 1TB drive in this price range documents them, so check specifically if long-term reliability tracking matters to you."
   },
   {
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41wIe7KK-mL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,34 +74,34 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "The fastest documented speed with health monitoring",
-          ""
+          "SSK Portable SSD 1TB"
         ],
         [
-          "",
+          "Built-in encryption software",
           "Lexar ES3 1TB Portable SSD"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "$155-$165",
+          "Sandisk 1TB Portable SSD, New Model ($159.99)"
         ],
         [
-          "",
-          ""
+          "$165-$175",
+          "SSK Portable SSD 1TB ($169.99)"
         ],
         [
-          "",
-          ""
+          "$175-$185",
+          "Lexar ES3 1TB Portable SSD ($179.99)"
         ]
       ]
     }
@@ -110,22 +110,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "New Model vs Old Model From the Same Brand",
     "cards": [
       {
-        "label": "",
+        "label": "New Sandisk 1TB Model",
         "text": "Faster at 1000MB/s and $23 cheaper than the older Sandisk 1TB listing also available in this price range. There's no scenario where the old model is the better pick at full price."
       },
       {
-        "label": "",
+        "label": "Old Sandisk 1TB Model",
         "text": "Slower at 800MB/s and pricier, kept in this comparison only to flag the trap of accidentally buying the older, worse-value listing when both appear in search results."
       }
     ],
     "note": "Always check the model name and stated speed carefully when a brand has two similarly named listings, since the newer one isn't always priced higher."
   },
   {
-    "subheading": "",
+    "subheading": "By Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Feature priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -134,7 +134,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Health monitoring for long-term reliability tracking",
-          ""
+          "SSK Portable SSD 1TB"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For iPhone Video Work Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit ProRes or 4K video capture support named in the listing, and confirmation of which iPhone models are supported, since older iPhones aren't always compatible."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The SSK Portable SSD 1TB explicitly names 4K60Hz ProRes support, while the Lexar ES3 1TB Portable SSD confirms iPhone 17 compatibility but excludes iPhone 14 and older."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You specifically want the Lexar ES3 1TB Portable SSD's built-in encryption software for sensitive files, a feature none of the other picks in this comparison offer."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need reliable 1TB storage without extra software features, where the Sandisk 1TB Portable SSD, New Model covers the need at the lowest price in this comparison."
       }
     ]
@@ -173,19 +173,19 @@ export const howWeEvaluated = [
     "description": "Compared price specifically among 1TB options at this tier, since capacity is largely a solved variable here and the real differences are speed, features, and brand."
   },
   {
-    "title": "",
+    "title": "Same-Brand Model Comparison",
     "description": "Checked for cases where a brand's own older and newer models both appear in search results, flagging when the older listing is a worse deal than its own replacement."
   },
   {
-    "title": "",
+    "title": "Documented Security Features",
     "description": "Noted which listings specifically include encryption software versus those that don't mention any data security feature beyond basic storage."
   },
   {
-    "title": "",
+    "title": "Health Monitoring Documentation",
     "description": "And TRIM support from those that only describe general durability or speed claims."
   },
   {
-    "title": "",
+    "title": "Real USB Bandwidth",
     "description": "Verified the documented USB generation and rated speed for each 1TB drive, since even within this narrow price band speed varies from 800MB/s to 1050MB/s."
   }
 ];

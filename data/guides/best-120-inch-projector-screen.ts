@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51aEbITPlHL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Setup Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,34 +69,34 @@ export const howToChoose: HowToChooseSection[] = [
           "120inch Projector Screen with Stand: Portable Projector Screen Outdoor Indoor"
         ],
         [
-          "",
+          "Permanent install",
           "120'' Projector Screen Manual Pull Down with Auto Locking"
         ],
         [
-          "",
+          "Budget occasional use",
           "Mdbebbron 120 inch Projector Screen 16:9 Foldable Anti-Crease Portable"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Cheapest option",
           "Mdbebbron 120 inch Projector Screen 16:9 Foldable Anti-Crease Portable"
         ],
         [
-          "",
+          "Mid-range",
           "JWSIT Projector Screen 120 inch, Outdoor Projector Screen with 3-Layers PVC"
         ],
         [
-          "",
+          "Higher budget",
           "120'' Projector Screen Manual Pull Down with Auto Locking"
         ]
       ]
@@ -120,8 +120,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Screen Gain and Viewing Angle",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Genuine Outdoor Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit UV-resistant and weatherproof material claims, not just 'outdoor' in the product name."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "JWSIT Projector Screen 120 inch, Outdoor Projector Screen with 3-Layers PVC is worth checking against its specific material claims before assuming it will hold up to repeated outdoor exposure."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a permanent, wrinkle-free setup, where 120'' Projector Screen Manual Pull Down with Auto Locking justifies the higher price for a space you use often."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're setting up occasionally, where Mdbebbron 120 inch Projector Screen 16:9 Foldable Anti-Crease Portable covers the job at the lowest price in this lineup."
       }
     ]

@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41KVUYtCF9L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Surface",
     "table": {
       "headers": [
-        "",
+        "Where it's going",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,26 +69,26 @@ export const howToChoose: HowToChooseSection[] = [
           "Freejia 10inch 1U Mini PC Rack Mount Shelf Compatible with Dell Micro OptiPlex"
         ],
         [
-          "",
+          "Wall or under-desk",
           "NOTMBESTM Adjustable Wall Mount Shelf for Mini PC"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $13",
           "NOTMBESTM Adjustable Wall Mount Shelf for Mini PC"
         ],
         [
-          "",
+          "Mid-range",
           "SplashNColor Mac mini Rack Mount for 10 Inch Server Rack"
         ],
         [
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Fit vs Universal Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-Specific Fit",
         "text": "Matches one specific chassis shape exactly, generally a more secure fit for that exact model. In this comparison: SplashNColor 10\" 1U Rack Mount for Mac mini 2010-2023."
       },
       {
-        "label": "",
+        "label": "Universal / Multi-Brand",
         "text": "Works across several mini PC brands with adjustable hardware, more flexible if you might switch devices later. In this comparison: Freejia 10inch 1U Mini PC Rack Mount Shelf Compatible with Dell Micro OptiPlex."
       }
     ],
     "note": "Confirm your exact mini PC model against the listing's stated compatibility either way, since even a \"universal\" mount has real size limits."
   },
   {
-    "subheading": "",
+    "subheading": "By Post-Install Port Access",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -125,7 +125,7 @@ export const howToChoose: HowToChooseSection[] = [
           "10 Inch Rack Mount Bracket for M1 and M2 Mac mini"
         ],
         [
-          "",
+          "Cleanest, lowest-profile install",
           "NOTMBESTM Adjustable Wall Mount Shelf for Mini PC"
         ]
       ]
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Lab Rack Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of 10-inch (home-lab) versus 19-inch (commercial) rack compatibility, since these are different standards, plus whether it's full or half rack-unit width."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Freejia 10inch 1U Mini PC Rack Mount Shelf Compatible with Dell Micro OptiPlex fits this specifically: Widest confirmed brand compatibility in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Freejia 10inch 1U Mini PC Rack Mount Shelf Compatible with Dell Micro OptiPlex offers: Widest confirmed brand compatibility in this comparison. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "NOTMBESTM Adjustable Wall Mount Shelf for Mini PC already covers the essentials: Cheapest option in this comparison. The main thing you'd be paying extra for elsewhere in this list is broader compatibility you may not need."
       }
     ]

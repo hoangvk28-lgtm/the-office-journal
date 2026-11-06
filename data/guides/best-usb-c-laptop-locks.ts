@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Kensington Computer Lock Adapter Kit"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Kensington Computer Lock Adapter Kit"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $15",
           "USB C Port Blockers 5 Pack"
         ],
         [
-          "",
+          "Mid-range",
           "USB C Port Blockers 25 Pack"
         ],
         [
@@ -99,24 +99,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: check each listing's mechanism directly."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: Kensington PortLock Keyed Laptop Lock for USB-C Slots, USB C Port Blockers 5 Pack."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -124,7 +124,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Kensington PortLock Keyed Laptop Lock for USB-C Slots"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "USB C Port Blockers 25 Pack"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Kensington PortLock Keyed Laptop Lock for USB-C Slots fits this specifically: Only genuine physical anti-theft lock in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Kensington PortLock Keyed Laptop Lock for USB-C Slots offers: Only genuine physical anti-theft lock in this comparison. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "USB C Port Blockers 5 Pack already covers the essentials: Addresses juice-jacking and data-theft risk a cable lock doesn't cover. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

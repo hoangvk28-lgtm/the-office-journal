@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31lkTOajMBL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -77,7 +77,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Revotech 1 Port POE Extender (POE5002)"
         ],
         [
-          "",
+          "A switchable speed-versus-distance mode",
           "Cudy Gigabit PoE+ Extender (POE10)"
         ],
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $16",
+          "Revotech 1 Port POE Extender ($15.69)"
         ],
         [
-          "",
-          ""
+          "Under $19",
+          "Gigabit PoE Extender Outdoor Waterproof ($18.99)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "Cudy Gigabit PoE+ Extender ($39.99)"
         ],
         [
-          "",
-          ""
+          "Under $93",
+          "Intellinet Outdoor Gigabit PoE+ Extender ($92.99)"
         ]
       ]
     }
@@ -122,18 +122,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "These three maintain full 1000Mbps throughput, better suited to bandwidth-hungry devices like modern 4K cameras that benefit from more than 100Mbps."
       },
       {
-        "label": "",
+        "label": "Fast Ethernet value (Revotech)",
         "text": "Delivers 10/100Mbps at the lowest price in this comparison, a reasonable tradeoff if your single connected device doesn't need Gigabit bandwidth."
       }
     ],
     "note": "If your device is a modern high-resolution camera or access point, the Gigabit-rated picks are worth the modest price difference. If you're powering a basic IP phone or older camera, the Revotech's lower price delivers adequate performance."
   },
   {
-    "subheading": "",
+    "subheading": "By Installation Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your installation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Long-Distance Single-Camera Run Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A cascade configuration that reaches your specific required distance, checking whether the maximum distance requires multiple units or is achievable from a single extender alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Revotech pick's 6-unit cascade reaching 700m and the Cudy pick's 750m Long-Range mode both offer long-distance options for a single remote camera."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by that build quality."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -181,19 +181,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
-    "description": ""
+    "title": "Real Wattage Output",
+    "description": "Compared documented power delivery in watts across IEEE 802.3af/at compliant designs."
   },
   {
-    "title": "",
+    "title": "Cascade Distance and Configuration",
     "description": "Compared multi-unit daisy-chain support and total achievable distance."
   },
   {
-    "title": "",
+    "title": "Speed vs Distance Tradeoffs",
     "description": "Compared Gigabit versus Fast Ethernet speeds and any switchable distance modes."
   },
   {
-    "title": "",
+    "title": "Outdoor and Electrical Durability",
     "description": "Compared IP ratings, housing materials, and surge/ESD protection specifications."
   },
   {

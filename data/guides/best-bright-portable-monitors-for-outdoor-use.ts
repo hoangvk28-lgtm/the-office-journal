@@ -52,39 +52,39 @@ export const heroImage = "https://m.media-amazon.com/images/I/51Ba0HFHrkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Refresh Rate",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Standard smooth motion",
           "6 Inch 4K UHD 60Hz 145% SRGB"
         ],
         [
-          "",
-          ""
+          "Maximum refresh headroom",
+          "VisionOwl Portable Monitor 16 Inch 2.5K QHD 144Hz"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $170",
           "6 Inch 1080P FHD 60Hz 85% SRGB"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "Yodoit 4K Portable Monitor"
         ],
         [
           "No firm budget ceiling, prioritizing panel quality or resolution",
@@ -97,22 +97,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C DisplayPort Alt Mode vs HDMI",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C (DisplayPort Alt Mode)",
         "text": "Usually the port that hits the panel's full rated refresh rate, and can carry power alongside video on one cable. In this comparison: check each listing's stated USB-C refresh rate directly."
       },
       {
-        "label": "",
+        "label": "HDMI",
         "text": "Reliable for consoles and older sources, but often capped below the panel's full rated refresh, especially at higher resolutions. In this comparison: check each listing's stated HDMI refresh ceiling directly."
       }
     ],
     "note": "Check each listing's per-port refresh specs directly before assuming HDMI matches the headline rate."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Mount Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -121,7 +121,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Prefer the included kickstand or case",
-          ""
+          "Yodoit 4K Portable Monitor"
         ]
       ]
     }
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Handheld Gaming PC or Console Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Your exact source device's documented maximum output refresh rate over the connection type you'll use, checked independently from the monitor's own rated capability, since handhelds like Steam Deck and ROG Ally commonly cap at 60Hz over USB-C."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "UPERFECT Portable Monitor 4K 16\" 1200 Nits fits this specifically: Largest review base among the 1200-nit picks."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6 Inch 1080P FHD 60Hz 85% SRGB already covers the essentials: Lowest price in this guide by a wide margin. The main thing you'd be paying extra for elsewhere in this list is headroom you may not actually use."
       }
     ]
@@ -160,11 +160,11 @@ export const howWeEvaluated = [
     "description": "Weighed each panel's rated nits against what direct sunlight (30,000-100,000 lux) actually requires for legibility, roughly 1,000+ nits, rather than treating any 'bright' marketing claim as sunlight-ready."
   },
   {
-    "title": "",
+    "title": "Peak brightness power requirements",
     "description": "Checked whether peak brightness requires wired power and a white background (as several listings explicitly disclose) versus being achievable on USB-C power alone."
   },
   {
-    "title": "",
+    "title": "Matte vs. glossy glare tradeoff",
     "description": "Noted where a matte anti-glare coating reduces reflections at the cost of some contrast and color vibrancy, a real tradeoff for outdoor use rather than a pure positive."
   }
 ];

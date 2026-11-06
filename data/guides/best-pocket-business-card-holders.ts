@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41XVl7wQOFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Carrying your own cards",
           "Padike Business Card Holder/ Case Professional PU Leather & Stainless Steel"
         ],
         [
-          "",
+          "Displaying cards for visitors",
           "MaxGear Stainless Steel Business Card Holder"
         ],
         [
-          "",
+          "Client-facing handoffs",
           "Tatuo 2 Pcs Business Card Holder Stainless Steel"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Padike Business Card Holder/ Case Professional PU Leather & Stainless Steel"
         ],
         [
-          "",
+          "Mid-range pick",
           "Uloryce Business Card Holder PU Leather with Magnetic Closure"
         ],
         [
-          "",
+          "Higher budget",
           "Tatuo 2 Pcs Business Card Holder Stainless Steel"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Top vs Snap-Closed",
     "cards": [
       {
         "label": "Padike Business Card Holder/ Case Professional PU Leather & Stainless Steel)",
         "text": "Faster one-hand access, less protection against spilling."
       },
       {
-        "label": "",
+        "label": "Snap/magnetic closed",
         "text": "Secures cards fully, takes an extra motion to open."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your card volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A small daily-carry stack",
           "MaxGear Stainless Steel Business Card Holder"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Client-Facing Handoffs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A material (leather or solid metal) that reinforces a professional impression at the handoff moment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MaxGear Stainless Steel Business Card Holder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Tatuo 2 Pcs Business Card Holder Stainless Steel justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Padike Business Card Holder/ Case Professional PU Leather & Stainless Steel already covers the job at the lowest price here."
       }
     ]

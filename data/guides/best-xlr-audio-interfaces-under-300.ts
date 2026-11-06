@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31cNvvE4kML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $280",
+          "MOTU M4 4x4 ($279.95)"
         ],
         [
-          "",
-          ""
+          "Under $286",
+          "Audient iD14 MKII ($285.00)"
         ],
         [
-          "",
-          ""
+          "Under $300",
+          "Universal Audio Volt 276 ($299.00) or Focusrite Scarlett 4i4 4th Gen ($299.99)"
         ]
       ]
     }
@@ -125,20 +125,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're confident 4 channels will always be enough, the fixed-channel picks are simpler and don't require future expansion hardware. If you anticipate recording larger groups eventually, the Audient iD14 MKII's ADAT path avoids needing to replace the whole interface later."
   },
   {
-    "subheading": "",
+    "subheading": "By Signal Character Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tonal preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Clean, transparent, unprocessed signal",
           "MOTU M4, Audient iD14 MKII, or Focusrite Scarlett 4i4"
         ],
         [
-          "",
-          ""
+          "Warm, vintage tube-style coloration",
+          "Universal Audio Volt 276"
         ]
       ]
     }
@@ -147,25 +147,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Live-Streamed Podcast With Computer Audio Mixed In Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A built-in loopback feature that combines live microphone input with computer playback audio into one output stream, without requiring separate virtual audio routing software."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both the MOTU M4 and Focusrite Scarlett 4i4 specifically include built-in Loopback functionality, directly solving this streaming mixing need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want future ADAT expansion room to grow past 4 channels without replacing your interface, where the Audient iD14 MKII justifies its price with that upgrade path."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You're confident 4 fixed channels will always be enough and want the best converter specs at the lowest price, where the MOTU M4 delivers 120dB dynamic range for $279.95."
       }
     ]
   }
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Simultaneous Channel Count",
     "description": "Compared total simultaneous mic and line inputs across all four picks."
   },
   {
-    "title": "",
+    "title": "Converter Quality",
     "description": "Compared stated dynamic range and converter chipset specifications."
   },
   {
-    "title": "",
+    "title": "Expandability",
     "description": "Compared ADAT optical expansion versus fixed maximum channel counts."
   },
   {
-    "title": "",
+    "title": "Streaming Features",
     "description": "Compared built-in loopback capability for combined stream mixing."
   },
   {
-    "title": "",
+    "title": "Monitoring Outputs",
     "description": "Compared independent headphone output count for multi-person sessions."
   }
 ];

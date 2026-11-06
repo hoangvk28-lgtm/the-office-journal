@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/410HrNhRMhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Creative Co-Op Half Arch Marble Bookends"
         ],
         [
-          "",
+          "A full mixed shelf",
           "Nature's Decorations Natural Agate Bookends"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Creative Co-Op Half Arch Marble Bookends"
         ],
         [
-          "",
+          "Mid-range pick",
           "Karibiber Travertine Bookends for Heavy Books"
         ],
         [
-          "",
+          "Higher budget",
           "XMHOME Natural Rose Quartz Bookends with Rubber Feet 3-4Lbs Heavy Duty Non-Slip"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
         "label": "Creative Co-Op Half Arch Marble Bookends)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Glossy or glass surface",
           "Nature's Decorations Natural Agate Bookends"
         ],
         [
-          "",
+          "Textured wood surface",
           "Karibiber Travertine Bookends for Heavy Books"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Nature's Decorations Natural Agate Bookends is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where XMHOME Natural Rose Quartz Bookends with Rubber Feet 3-4Lbs Heavy Duty Non-Slip justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Creative Co-Op Half Arch Marble Bookends already covers the job at the lowest price here."
       }
     ]

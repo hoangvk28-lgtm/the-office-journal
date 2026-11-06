@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41-x50rGMkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "TONOS Paper Stand Document Holder"
         ],
         [
-          "",
+          "Continuous data entry",
           "Aidata CH012A Metal Arm Copy Holder"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "TONOS Paper Stand Document Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "Keenjorika Desktop Document Book Holder with 7 Adjustable Positions"
         ],
         [
-          "",
+          "Higher budget",
           "3M Desktop Document Holder 14 in x 12 in x 3 in"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Side-Mounted",
     "cards": [
       {
         "label": "TONOS Paper Stand Document Holder)",
         "text": "Keeps the page in your direct sightline, minimal neck movement."
       },
       {
-        "label": "",
+        "label": "Side-mounted",
         "text": "Sits off to one side, more placement flexibility but more head turning."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single sheets",
           "Aidata CH012A Metal Arm Copy Holder"
         ],
         [
-          "",
+          "Thicker stacks or booklets",
           "Keenjorika Desktop Document Book Holder with 7 Adjustable Positions"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Data-Entry Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sliding line guide and an adjustable viewing angle to reduce glare and neck strain."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Aidata CH012A Metal Arm Copy Holder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 3M Desktop Document Holder 14 in x 12 in x 3 in justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where TONOS Paper Stand Document Holder already covers the job at the lowest price here."
       }
     ]

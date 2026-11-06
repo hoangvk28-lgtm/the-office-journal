@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31xeAVWi0QL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Kakivan Wire Wall Grid Panel for Photo Display"
         ],
         [
-          "",
+          "Standard conference room",
           "Joan 6 RE Black: Wireless E Ink Touch 6-Inch Display Meeting Scheduler"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Kakivan Wire Wall Grid Panel for Photo Display"
         ],
         [
-          "",
+          "Mid-range pick",
           "SZQINJI 3 Panel Photo Room Divider Screen"
         ],
         [
-          "",
+          "Higher budget",
           "PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "Kakivan Wire Wall Grid Panel for Photo Display)",
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Joan 6 RE Black: Wireless E Ink Touch 6-Inch Display Meeting Scheduler"
         ],
         [
-          "",
+          "Google Workspace / Calendar",
           "SZQINJI 3 Panel Photo Room Divider Screen"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Joan 6 RE Black: Wireless E Ink Touch 6-Inch Display Meeting Scheduler is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward single-room display without advanced features, where Kakivan Wire Wall Grid Panel for Photo Display already covers the job at the lowest price here."
       }
     ]

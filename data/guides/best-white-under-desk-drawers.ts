@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/4163o4N3X0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Storing",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light supplies, no drilling",
           "FRETONBA 2Pack Under Desk Drawer for Stationery"
         ],
         [
-          "",
+          "Standard office supplies",
           "1 inch Carbon Steel Slide-Out Under Table"
         ],
         [
-          "",
+          "Heavier items, permanent install",
           "Under Desk Drawer with 4 Compartments"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "FRETONBA 2Pack Under Desk Drawer for Stationery"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "PUTORSEN Under Desk Storage Drawer 14.8\" Wide"
         ],
         [
-          "",
+          "Higher budget",
           "Under Desk Drawer with 4 Compartments"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Screw-Mounted",
     "cards": [
       {
         "label": "FRETONBA 2Pack Under Desk Drawer for Stationery)",
         "text": "No drilling needed, fully removable, but capped around 13 lbs."
       },
       {
-        "label": "",
+        "label": "Screw-mounted",
         "text": "Higher weight capacity, but permanent and requires drilling into the desk."
       }
     ],
     "note": "Match this to whether you rent, share the desk, or need real capacity for heavier items."
   },
   {
-    "subheading": "",
+    "subheading": "By Legroom Clearance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Tight knee clearance",
           "Measure your seated position before choosing any model"
         ],
         [
-          "",
+          "Standard desk depth",
           "1 inch Carbon Steel Slide-Out Under Table"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Standing Desks Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed clearance at your desk's lowest sitting height, including the motor housing and crossbar."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "1 inch Carbon Steel Slide-Out Under Table is worth checking against your desk's specific understructure before assuming any drawer clears it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and smoother, longer-lasting slides for daily heavy use, where Mount-It! Under Desk Drawer with 4 Compartments justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing light supplies and want a simple, removable option, where FRETONBA 2Pack Under Desk Drawer for Stationery already covers the job at the lowest price here."
       }
     ]

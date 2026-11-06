@@ -52,45 +52,45 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Kinstone 15.6\" Digital Calendar"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Kinstone 15.6\" Digital Calendar"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $210",
+          "Kinstone 15.6\" Digital Calendar"
         ],
         [
-          "",
+          "Up to $530",
           "Skylight Calendar Max, 27\" Digital Calendar & Chore Chart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Kinstone 15.6\" Digital Calendar",
         "text": "The lower-priced option in this comparison, worth checking its sync method against your household's needs."
       },
       {
@@ -101,31 +101,31 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "6\" Digital Calendar unless your household's needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Sync Method",
     "note": "Check each pick's listed calendar sync method against the accounts your household actually uses before buying, not just a generic \"calendar sync\" claim."
   },
   {
     "subheading": "For a Shared Family Household Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A screen size legible from across the room, plus genuine multi-account two-way sync with the calendar accounts your household already uses."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Kinstone 15.6\" Digital Calendar is worth checking against its listed sync method and screen size before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need a large, legible display and reliable multi-account sync for a busy household, where Skylight Calendar Max, 27\" Digital Calendar & Chore Chart's features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6\" Digital Calendar covers the same job at a lower price."
       }
     ]

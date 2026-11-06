@@ -65,47 +65,47 @@ export const heroImage = "https://m.media-amazon.com/images/I/41nNwJMgVeL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By TV Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your TV size",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "43-55 inch",
           "PRAISUN 54 Inch Fluted TV Stand"
         ],
         [
-          "",
+          "55-60 inch",
           "DUMOS TV Stand or HAPPYMONT TV Stand"
         ],
         [
-          "",
+          "Up to 100 inch",
           "Heavy Duty Floor TV Stand for 50-100 Inch TVs"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $60",
+          "PERLESMITH Rolling TV Stand ($49.99) or HAPPYMONT TV Stand ($64.97)"
         ],
         [
-          "",
-          ""
+          "$70-$90",
+          "DUMOS TV Stand ($75.99) or Heavy Duty Floor TV Stand ($89.99)"
         ],
         [
-          "",
-          ""
+          "$90-$100",
+          "PRAISUN 54 Inch Fluted TV Stand ($94.99)"
         ]
       ]
     }
@@ -125,16 +125,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers with a TV over 65 inches should default to a floor stand, while those with a 55-60 inch TV wanting storage should pick a console style."
   },
   {
-    "subheading": "",
+    "subheading": "By Mobility Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Moving the TV between rooms regularly",
-          ""
+          "PERLESMITH Rolling TV Stand"
         ],
         [
           "Fixed placement in one room",
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Robot Vacuum Owners Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A specific stated floor clearance in inches, not just a general \"open underneath\" description, since vague wording doesn't confirm your specific robot vacuum's height will actually clear it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3 inch clearance, giving a concrete number to check against your vacuum's height, more useful than the DUMOS pick's general robot-vacuum-friendly claim."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a large TV, 65 inches or bigger, where the Heavy Duty Floor TV Stand's 220 lb capacity and wide VESA range provide real safety margin that a cheaper, lower-rated console stand doesn't."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your TV is 60 inches or smaller and you don't need enclosed storage, where the PERLESMITH Rolling TV Stand covers the need at roughly half the price of the pricier console options."
       }
     ]
@@ -173,7 +173,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "VESA Range Match",
     "description": "Compared each stand's stated VESA mounting pattern range against common TV mount hole spacing at different screen sizes, rather than relying on screen-size claims alone."
   },
   {
@@ -181,7 +181,7 @@ export const howWeEvaluated = [
     "description": "Checked stated weight capacity against realistic TV weights for each stand's advertised screen-size range, flagging where capacity runs closer to the edge than others."
   },
   {
-    "title": "",
+    "title": "Real Cable Management Features",
     "description": "Distinguished stands with actual routing holes or channels from those only offering a general open shelf, since routed cable paths hold up better over time than an add-on clip."
   },
   {
@@ -189,7 +189,7 @@ export const howWeEvaluated = [
     "description": "Weighed the mobility and no-drilling benefit of freestanding floor mounts against the enclosed storage benefit of console-style cabinets, rather than treating one format as universally better."
   },
   {
-    "title": "",
+    "title": "Stability Features",
     "description": "Noted adjustable feet, leg count, and floor-clearance details relevant to uneven flooring and robot vacuum compatibility, since these affect real day to day stability beyond the base weight rating."
   }
 ];

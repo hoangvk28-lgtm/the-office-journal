@@ -53,51 +53,51 @@ export const heroImage = "https://m.media-amazon.com/images/I/31VzBQ+jwWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $15",
           "WALI Computer Monitor Stand for Desk"
         ],
         [
-          "",
+          "Mid-range",
           "Zimilar Monitor Stand Riser with Metal Mesh Drawer"
         ],
         [
           "No firm budget ceiling, prioritizing capacity or storage",
-          ""
+          "BoYata Monitor Stand"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Freestanding vs Clamp/Clip-On",
     "cards": [
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits directly on the desk with zero installation, at the cost of using up some desk depth. In this comparison: WALI Computer Monitor Stand for Desk, HUANUO Monitor Riser for Desk, Zimilar Monitor Stand Riser with Metal Mesh Drawer."
       },
       {
-        "label": "",
+        "label": "Clamp/Clip-On",
         "text": "Attaches to the desk's back edge, freeing up desk surface underneath, but needs a compatible edge thickness. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "With Storage vs Platform-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -105,8 +105,8 @@ export const howToChoose: HowToChooseSection[] = [
           "WALI Computer Monitor Stand for Desk"
         ],
         [
-          "",
-          ""
+          "Simplest platform-only design",
+          "BoYata Monitor Stand"
         ]
       ]
     }
@@ -115,24 +115,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy or Ultrawide Monitor Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity with real margin above your monitor's actual weight, a rigid material like metal or thick wood, and a wide enough platform to support the monitor's full base without overhang."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "BoYata Monitor Stand fits this specifically: Solid 4.7-star rating with 4,261 ratings."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is capacity or storage you may not need."
       }
     ]

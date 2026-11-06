@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Brother DCP"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Brother DCP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $69",
+          "Canon PIXMA TR4720 All"
         ],
         [
-          "",
+          "Up to $491",
           "Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer"
         ]
       ]
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Canon PIXMA TR4720 All vs Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer",
     "cards": [
       {
-        "label": "",
+        "label": "Canon PIXMA TR4720 All",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
@@ -109,16 +109,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Canon PIXMA TR4720 All unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Brother DCP"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Brother DCP is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon PIXMA TR4720 All covers the same job at a lower price."
       }
     ]
@@ -157,19 +157,19 @@ export const howWeEvaluated = [
     "description": "Compared laser and inkjet output on how cleanly toner or ink forms text edges, since that mechanical difference matters more for document legibility than the stated DPI number."
   },
   {
-    "title": "",
+    "title": "Archival stability",
     "description": "Weighed toner's long-term stability against dye-based inkjet fading for documents intended to be kept for years, like legal paperwork or contracts."
   },
   {
-    "title": "",
+    "title": "Document workflow features",
     "description": "Checked for auto document feeders, duplex printing, and scan quality against real multi-page document handling needs."
   },
   {
-    "title": "",
+    "title": "Letterhead and colored-stock handling",
     "description": "Considered how cleanly each print technology handles pre-printed letterhead or colored forms without bleeding at the edges."
   },
   {
-    "title": "",
+    "title": "Value for document-focused use",
     "description": "Weighed upfront price against document output quality specifically, rather than photo quality or general feature count."
   }
 ];

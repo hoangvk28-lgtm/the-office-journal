@@ -5,11 +5,11 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Require Documented Battery Chemistry",
     "explanation": "Confirm long lasting portable power stations's exact battery chemistry rather than inferring LiFePO4 from product generation or marketing language alone."
   },
   {
-    "criterion": "",
+    "criterion": "Check Cycle-Life Claim Conditions",
     "explanation": "Verify the cycle-life claim together with its remaining-capacity threshold and documented test conditions."
   },
   {
@@ -17,7 +17,7 @@ export const buyingCriteria = [
     "explanation": "Compare calendar-storage guidance and operating/charging temperature ranges across finalists."
   },
   {
-    "criterion": "",
+    "criterion": "Evaluate Warranty and Serviceability",
     "explanation": "Check warranty length and whether battery or expansion modules are actually serviceable if they fail."
   },
   {
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Require Documented Battery Chemistry",
     "note": "Confirm long lasting portable power stations's exact battery chemistry rather than inferring LiFePO4 from product generation or marketing language alone."
   },
   {
-    "subheading": "",
+    "subheading": "Check Cycle-Life Claim Conditions",
     "note": "Verify the cycle-life claim together with its remaining-capacity threshold and documented test conditions."
   },
   {
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Compare calendar-storage guidance and operating/charging temperature ranges across finalists."
   },
   {
-    "subheading": "",
+    "subheading": "Evaluate Warranty and Serviceability",
     "note": "Check warranty length and whether battery or expansion modules are actually serviceable if they fail."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Looked for UL, UL2743, or other documented safety certification and battery chemistry evidence rather than trusting a safety claim alone."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included cables, solar panel bundling, warranty length, and app requirements as part of the real cost and usability of each pick."
   }
 ];

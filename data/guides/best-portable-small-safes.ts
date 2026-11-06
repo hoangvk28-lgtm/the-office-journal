@@ -57,42 +57,42 @@ export const heroImage = "https://m.media-amazon.com/images/I/41oN5m8A2mL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Protection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Fire or water resistance claimed",
-          ""
+          "Small Safe for Home"
         ],
         [
-          "",
+          "Genuine anti-removal, bolt-down support",
           "Master Lock Small Travel Safe with Cable"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "SentrySafe Fireproof Safe Box with Key Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $17",
           "Master Lock Small Travel Safe with Cable"
         ],
         [
-          "",
+          "Up to $40",
           "SentrySafe Fireproof Safe with Key Lock"
         ]
       ]
@@ -102,27 +102,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Physical Key vs Electronic Access",
     "cards": [
       {
-        "label": "",
+        "label": "Physical key",
         "text": "No batteries to fail, but a lost key means a lockout with no backup. In this comparison: Master Lock Small Travel Safe with Cable, Amazon Basics Portable Security Case Lock Box Safe with Combination Lock, SentrySafe Small Safe."
       },
       {
-        "label": "",
+        "label": "Electronic access",
         "text": "More convenient day to day, worth checking for a backup access method in case the battery dies. In this comparison: Small Safe for Home, DocSafe 5200°F Fireproof Document Organizer Box with Lock, SentrySafe Fireproof Safe Box with Key Lock, SentrySafe Fireproof Safe with Key Lock."
       }
     ],
     "note": "Most buyers should default to electronic access with a confirmed backup method unless simplicity is the top priority."
   },
   {
-    "subheading": "",
+    "subheading": "By Fire Protection",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Fire resistance claimed",
+          "Small Safe for Home"
         ],
         [
           "Theft deterrence only, no fire claim",
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Storing Documents or Cash Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed interior dimension roomy enough for the actual items, plus a backup access method beyond just a keypad."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SentrySafe Fireproof Safe Box with Key Lock is worth checking against its listed interior dimensions before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're storing valuable or irreplaceable items, where SentrySafe Fireproof Safe with Key Lock's higher price buys real security or fire-protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic theft deterrence for low-value items, where Master Lock Small Travel Safe with Cable covers the same job at a lower price."
       }
     ]

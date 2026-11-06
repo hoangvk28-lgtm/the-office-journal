@@ -56,64 +56,64 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Perixx PERIMICE"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Anker USB Wired Vertical Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "KUNSI Wired Ergonomic Mouse"
         ],
         [
-          "",
-          ""
+          "Up to $90",
+          "Evoluent"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "KUNSI Wired Ergonomic Mouse",
         "text": "The lower-priced option in this comparison, worth checking its hand-size fit against your grip."
       },
       {
-        "label": "",
+        "label": "Evoluent",
         "text": "The higher-priced option, worth it if it offers real ergonomic or sensor headroom above the cheaper pick."
       }
     ],
     "note": "Default to KUNSI Wired Ergonomic Mouse unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Anker USB Wired Vertical Mouse"
         ]
       ]
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist or Forearm Strain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A pronounced vertical angle matched to your hand size, with reviews specifically mentioning strain relief after the adjustment period."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Anker USB Wired Vertical Mouse is worth checking against its listed hand-size guidance before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You use a mouse for many hours daily and strain relief or sensor precision is the priority, where Evoluent's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional use, where KUNSI Wired Ergonomic Mouse covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howWeEvaluated = [
     "description": "We noted whether a braided or standard cable was stated, since a braided cable generally moves more freely and interferes less with the resting angle."
   },
   {
-    "title": "",
+    "title": "Elimination of battery weight treated as a genuine advantage",
     "description": "We weighed the lighter, more consistent body weight of a wired design as a real ergonomic upside over wireless alternatives that carry batteries."
   },
   {

@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Require Independent Fire Evidence",
     "explanation": "Verify budget fireproof safes's fire classification is backed by an independent test (UL, ETL) rather than accepting a manufacturer's own unverified claim."
   },
   {
@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "A fire rating means little without both the duration and the test temperature stated together."
   },
   {
-    "criterion": "",
+    "criterion": "Verify Usable Interior Dimensions",
     "explanation": "Check actual interior space rather than trusting the nominal capacity figure alone."
   },
   {
@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "Treat fire, water, and burglary protection as three separate facts, never assumed from one another."
   },
   {
-    "criterion": "",
+    "criterion": "Weigh Ownership Details",
     "explanation": "Factor in weight, anchoring, and lock or key replacement support as part of the real cost of ownership."
   }
 ];
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ZBhxLuCQL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Require Independent Fire Evidence",
     "note": "Verify budget fireproof safes's fire classification is backed by an independent test (UL, ETL) rather than accepting a manufacturer's own unverified claim."
   },
   {
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "A fire rating means little without both the duration and the test temperature stated together."
   },
   {
-    "subheading": "",
+    "subheading": "Verify Usable Interior Dimensions",
     "note": "Check actual interior space rather than trusting the nominal capacity figure alone."
   },
   {
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Treat fire, water, and burglary protection as three separate facts, never assumed from one another."
   },
   {
-    "subheading": "",
+    "subheading": "Weigh Ownership Details",
     "note": "Factor in weight, anchoring, and lock or key replacement support as part of the real cost of ownership."
   }
 ];
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Recorded fire duration and test temperature separately for each model rather than accepting a vague 'fireproof' label, since a 30-minute rating and a 2-hour rating protect very differently in a real house fire."
   },
   {
-    "title": "",
+    "title": "Water Evidence Verified Independently",
     "description": "Checked water-resistance claims (submersion depth, duration) as a separate fact from the fire rating, since the two protections are tested and certified independently even on the same product."
   },
   {

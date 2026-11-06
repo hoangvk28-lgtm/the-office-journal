@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the best overall option for MacBook Pro?",
-    "a": ""
+    "a": "The AboveTEK Laptop Locking Cable for MacBook Pro 14/16, purpose-built for the 2021-2024 vent geometry with the longest cable in this comparison at 6.56 feet."
   },
   {
     "q": "Will these locks work on an older MacBook Pro with a Touch Bar?",
@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "Is there a budget option that isn't MacBook-Pro-specific?",
-    "a": ""
+    "a": "The HOX Laptop Cable Lock is the lowest-priced and highest-rated pick here, marketed across iPads, tablets, laptops, and MacBooks generally rather than validated to a specific MacBook Pro chassis generation."
   }
 ];
 
@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/51Zj2IkuZ7L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Slot Type",
     "note": "Slot type isn't consistently confirmed across every pick in this comparison; check each listing's compatibility documentation directly against your exact laptop model."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $30",
           "HOX Laptop Cable Lock for iPad"
         ],
         [
-          "",
+          "Mid-range",
           "Multplx Universal Laptop Security Lock"
         ],
         [
@@ -84,24 +84,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: Kensington MacBook and Surface Laptop Locking Station, HOX Laptop Cable Lock for iPad, Multplx Universal Laptop Security Lock."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: check each listing's mechanism directly."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
           "AboveTEK Laptop Locking Cable for MacBook Pro 14/16"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "Multplx Universal Laptop Security Lock"
         ]
       ]
@@ -119,24 +119,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "AboveTEK Laptop Locking Cable for MacBook Pro 14/16 fits this specifically: Purpose-built for the exact current MacBook Pro vent geometry."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Kensington MacBook and Surface Laptop Locking Station offers: No wear on the MacBook Pro's vent or ports since the whole chassis is cradled. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

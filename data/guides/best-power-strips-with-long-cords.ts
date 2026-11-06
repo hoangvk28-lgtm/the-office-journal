@@ -52,38 +52,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/41J0Gowt80L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Outlet Count",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Compact, fewer outlets needed",
           "10Ft Extension Cord with Multiple Outlets"
         ],
         [
-          "",
+          "Maximum outlet capacity",
           "Surge Protector Power Strip 4800J"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $13",
+          "SUPERDANNY Extension Cord"
         ],
         [
-          "",
+          "Mid-range",
           "Surge Protector Power Strip 4800J"
         ],
         [
@@ -97,21 +97,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C PD Charging vs Outlets Only",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C PD Charging",
         "text": "Charges laptops and higher-power devices faster directly from the strip, without a separate charging brick. In this comparison: Surge Protector Power Strip 15 Ft Cord, Surge Protector Power Strip 4800J."
       },
       {
-        "label": "",
+        "label": "AC Outlets Only",
         "text": "Simpler design focused purely on outlet count, pair with your own chargers as needed. In this comparison: Mifaso 2 Pack Power Strip, SUPERDANNY Extension Cord, 10Ft Extension Cord with Multiple Outlets."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Surge Protection Level",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -119,8 +119,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Surge Protector Power Strip 4800J"
         ],
         [
-          "",
-          ""
+          "Basic protection, lower cost",
+          "SUPERDANNY Extension Cord"
         ]
       ]
     }
@@ -129,24 +129,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Bulky Wall-Wart Adapters Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Wide or offset outlet spacing explicitly mentioned in the listing or shown in product photos, not just a high raw outlet count."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Mifaso 2 Pack Power Strip fits this specifically: 2-pack lets you cover two distant outlet needs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Mifaso 2 Pack Power Strip offers: 2-pack lets you cover two distant outlet needs. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "SUPERDANNY Extension Cord already covers the essentials: 10ft reach at an affordable price. The main thing you'd be paying extra for elsewhere in this list is capacity or charging speed you may not need."
       }
     ]

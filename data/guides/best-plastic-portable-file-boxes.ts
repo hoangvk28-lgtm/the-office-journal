@@ -60,53 +60,53 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest star rating",
+          "Sterilite Portable File Box"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Pendaflex Portable File Box with File Rails"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "Staples File Folder Tote"
         ],
         [
-          "",
+          "Mid-range",
           "Letter/Legal File Box with Latching Lid"
         ],
         [
           "No firm budget ceiling, prioritizing security or durability",
-          ""
+          "Sterilite Portable File Box"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: Pendaflex Portable File Box with File Rails, IRIS USA File Box Organizer with Lid, IRIS USA 35 Qt. Letter/Legal File Box with Latching Lid."
       }
     ],
@@ -116,8 +116,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Sterilite Portable File Box offers: Strong per-unit value in the 4-pack. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Staples File Folder Tote already covers the essentials: Most affordable pick here. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -157,11 +157,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Plastic material grade verification",
     "description": "We looked past generic 'plastic' labeling to material quality where disclosed, since thin, brittle plastic can crack under handling despite the same base labeling as high-density plastic."
   },
   {
-    "title": "",
+    "title": "UV exposure durability",
     "description": "We noted this specifically for clear plastic picks, since prolonged sun exposure can cause brittleness and yellowing over years of use."
   },
   {
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "We considered plastic-specific latch and hinge wear, since these mechanisms can crack faster on plastic than metal equivalents under repeated cycles."
   },
   {
-    "title": "",
+    "title": "Weight advantage quantification",
     "description": "We highlighted plastic's genuine weight savings over metal as this material's primary benefit for a category centered on portability."
   }
 ];

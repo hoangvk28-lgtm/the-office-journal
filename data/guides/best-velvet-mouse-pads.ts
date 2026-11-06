@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Eojf7glwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tracking Surface Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Controlled, precise movement",
           "JIKIOU 3 Pack Mouse Pad with Stitched Edge"
         ],
         [
-          "",
+          "Fast, low-friction glide",
           "SteelSeries QcK Cloth Gaming Mouse Pad"
         ],
         [
-          "",
+          "Budget cloth surface",
           "12 inches Premium-Textured Non-Slip Rubber Base Mouse Mat"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "12 inches Premium-Textured Non-Slip Rubber Base Mouse Mat"
         ],
         [
-          "",
+          "Mid-range pick",
           "Logitech G240 Cloth Gaming Mouse Pad (340x280x1)"
         ],
         [
-          "",
+          "Higher budget",
           "SteelSeries QcK Cloth Gaming Mouse Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Hard Surface",
     "cards": [
       {
         "label": "JIKIOU 3 Pack Mouse Pad with Stitched Edge)",
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Size vs Your Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "12 inches Premium-Textured Non-Slip Rubber Base Mouse Mat"
         ],
         [
-          "",
+          "Standard desk",
           "JIKIOU 3 Pack Mouse Pad with Stitched Edge"
         ],
         [
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "JIKIOU 3 Pack Mouse Pad with Stitched Edge is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where SteelSeries QcK Cloth Gaming Mouse Pad justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "12 inches Premium-Textured Non-Slip Rubber Base Mouse Mat already covers the job at the lowest price here."
       }
     ]

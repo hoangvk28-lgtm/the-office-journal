@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Rongta 80mm Thermal POS Receipt Printer with Auto Cutter"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Rongta 80mm Thermal POS Receipt Printer with Auto Cutter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $35",
           "Sunydog 58mm Mini Portable Thermal Receipt Printer"
         ],
         [
-          "",
+          "Up to $80",
           "Rongta 80mm Thermal POS Receipt Printer with Auto Cutter"
         ]
       ]
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Sunydog 58mm Mini Portable Thermal Receipt Printer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Rongta 80mm Thermal POS Receipt Printer with Auto Cutter"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Rongta 80mm Thermal POS Receipt Printer with Auto Cutter is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Rongta 80mm Thermal POS Receipt Printer with Auto Cutter's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Sunydog 58mm Mini Portable Thermal Receipt Printer covers the same job at a lower price."
       }
     ]
@@ -165,11 +165,11 @@ export const howWeEvaluated = [
     "description": "Weighed how each printer handles sustained daily use, from a single mobile vendor stand to a full retail counter processing steady foot traffic."
   },
   {
-    "title": "",
+    "title": "Footprint versus counter space",
     "description": "Considered physical size against the realistic space available at a checkout counter, packing table, or mobile stand."
   },
   {
-    "title": "",
+    "title": "True cost of ownership",
     "description": "Factored in thermal paper roll cost over time against the upfront printer price, since thermal printing has no ink cost but ongoing paper cost."
   }
 ];

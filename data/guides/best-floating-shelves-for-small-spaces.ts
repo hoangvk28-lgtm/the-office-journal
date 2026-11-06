@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/21P5bH3iQ+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light decorative items",
           "Upsimples 4 Pcs 15\" Acrylic Shelves for Wall Storage and Organizer"
         ],
         [
-          "",
+          "Books, standard decor",
           "Solrot White Floating Shelves for Wall Decor"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "MKO 8\" Small Floating Shelves for Wall"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Upsimples 4 Pcs 15\" Acrylic Shelves for Wall Storage and Organizer"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "BAYKA Black Floating Shelves 15.7in"
         ],
         [
-          "",
+          "Higher budget",
           "MKO 8\" Small Floating Shelves for Wall"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "MKO 8\" Small Floating Shelves for Wall)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Studs available where needed",
           "Solrot White Floating Shelves for Wall Decor"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MKO 8\" Small Floating Shelves for Wall is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where MKO 8\" Small Floating Shelves for Wall justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're displaying light decorative items only, where upsimples 4 Pcs 15\" Acrylic Shelves for Wall Storage and Organizer already covers the job at the lowest price here."
       }
     ]

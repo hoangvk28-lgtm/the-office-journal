@@ -48,7 +48,7 @@ export const faq = [
     "a": "Generally yes, sheet capacity and physical size scale together, weigh your actual typical stack thickness against how much desk footprint you're willing to give up."
   },
   {
-    "q": "",
+    "q": "Are electric staplers loud?",
     "a": "They produce a distinct motor click or whir each time they fire, check reviews specifically for noise complaints if you'll use it near coworkers in a quiet shared office."
   }
 ];
@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31yp8CCh0cL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Stack Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, a few sheets",
           "JAM PAPER Modern Desk Stapler"
         ],
         [
-          "",
+          "A regular office stack",
           "Deli Stapler, Desktop Staplers with 640 Staples, 25 Sheet Capacity, Purple"
         ],
         [
-          "",
+          "Consistently thick stacks",
           "Marsrock Heavy Duty Stapler for Desk with 40-50 Sheet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "JAM PAPER Modern Desk Stapler"
         ],
         [
-          "",
+          "Mid-range pick",
           "JAM PAPER Modern Desk Stapler"
         ],
         [
-          "",
+          "Higher budget",
           "Marsrock Heavy Duty Stapler for Desk with 40-50 Sheet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Manual vs Electric",
     "cards": [
       {
         "label": "JAM PAPER Modern Desk Stapler)",
         "text": "No power dependency, reliable for any volume."
       },
       {
-        "label": "",
+        "label": "Electric",
         "text": "Reduces hand strain at high volume, depends on charge or power."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Staple Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 26/6 staples",
           "Deli Stapler, Desktop Staplers with 640 Staples, 25 Sheet Capacity, Purple"
         ],
         [
-          "",
+          "A specific alternate size",
           "JAM PAPER Modern Desk Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Center-of-Document Stapling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A deep throat depth spec, not just a standard corner-reach stapler."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Deli Stapler, Desktop Staplers with 640 Staples, 25 Sheet Capacity, Purple is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Marsrock Heavy Duty Stapler for Desk with 40-50 Sheet justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where JAM PAPER Modern Desk Stapler already covers the job at the lowest price here."
       }
     ]

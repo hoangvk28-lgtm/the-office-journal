@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41DjS4xHHAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Two native HDMI 2.1 ports without adapters",
           "Plugable Thunderbolt 5 Dock (TBT-UDH2)"
         ],
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $296",
+          "Kensington SD5010T5 ($295.47)"
         ],
         [
-          "",
-          ""
+          "Under $370",
+          "Plugable TBT-UDH2 ($349.95) or Lenovo Smart Dock 7500 ($368.00)"
         ],
         [
-          "",
-          ""
+          "Under $450",
+          "Dell Pro Bundle ($449.95)"
         ]
       ]
     }
@@ -124,19 +124,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If all your monitors specifically use HDMI, the Plugable or Kensington picks' dual native HDMI ports are the most direct fit. If you have a mixed-monitor setup, the Lenovo or Dell picks' broader port variety offers more flexibility."
   },
   {
-    "subheading": "",
+    "subheading": "By Host Generation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your Thunderbolt generation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Genuine Thunderbolt 5 host",
           "Plugable TBT-UDH2 (full 8K@60Hz via HDMI)"
         ],
         [
-          "",
+          "Thunderbolt 4 host",
           "Kensington SD5010T5 (documented TB4-compatible HDMI limits)"
         ],
         [
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Theater or Presentation Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native HDMI output at the highest resolution and refresh rate your projector or display actually supports, since HDMI remains the most common input on presentation displays and home theater equipment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "1 ports reaching 8K@60Hz make it the strongest choice specifically for HDMI-native presentation and home theater displays."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "95 price removes any additional cable-shopping step."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "47, the lowest price in this comparison."
       }
     ]
@@ -176,7 +176,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Native HDMI Port Count",
     "description": "Compared how many native HDMI ports each dock includes, single versus dual."
   },
   {
@@ -188,11 +188,11 @@ export const howWeEvaluated = [
     "description": "Compared whether each listing bundles an HDMI cable or requires a separate purchase."
   },
   {
-    "title": "",
+    "title": "Additional Display Output Types",
     "description": "Compared HDMI alongside DisplayPort and Thunderbolt-routed display options on the same dock."
   },
   {
-    "title": "",
+    "title": "Warranty and Documentation Transparency",
     "description": "Compared warranty length and how clearly each listing discloses HDMI-specific limitations."
   }
 ];

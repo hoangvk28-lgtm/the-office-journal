@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/61WfW0WLsqL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "Letter Tray Paper Organizer 5-Tier Desk Organizer File Organizer Paper Holder"
         ],
         [
-          "",
+          "Several distinct categories",
           "Marbrasse 6 Tier Paper Organizer Letter Tray"
         ],
         [
-          "",
+          "High document volume",
           "ShineMe Plastic Paper Trays for Classroom"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Letter Tray Paper Organizer 5-Tier Desk Organizer File Organizer Paper Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "Shanshanshop 4 Pieces Turn in Trays for Classroom"
         ],
         [
-          "",
+          "Higher budget",
           "ShineMe Plastic Paper Trays for Classroom"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "Letter Tray Paper Organizer 5-Tier Desk Organizer File Organizer Paper Holder)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "Marbrasse 6 Tier Paper Organizer Letter Tray"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Marbrasse 6 Tier Paper Organizer Letter Tray is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where ShineMe Plastic Paper Trays for Classroom justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Letter Tray Paper Organizer 5-Tier Desk Organizer File Organizer Paper Holder already covers the job at the lowest price here."
       }
     ]

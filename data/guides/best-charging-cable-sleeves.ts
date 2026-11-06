@@ -60,80 +60,80 @@ export const heroImage = "https://m.media-amazon.com/images/I/41dtU6gyroL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "1-2 thin cables",
+          "Friends 10 Pcs Cord Protectors from Pets No Chew 43.3\", Classic Colors"
         ],
         [
           "A mixed bundle of 3-5 cables",
           "Jetec 12 Pcs Charging Cable Protector Silicone Spiral Charger Cable Saver"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "Alex Tech 10ft - 1/2 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Friends 10 Pcs Cord Protectors from Pets No Chew 43.3\", Classic Colors"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Friends 10 Pcs Cord Protectors from Pets No Chew 43.3\", Classic Colors"
         ],
         [
-          "",
+          "Higher budget",
           "Alex Tech 10ft - 1/2 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
-        "label": "",
+        "label": "Zipper (e.g. Friends 10 Pcs Cord Protectors from Pets No Chew 43.3\", Classic Colors)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "Jetec 12 Pcs Charging Cable Protector Silicone Spiral Charger Cable Saver"
         ],
         [
           "Near a real heat source",
-          ""
+          "Friends 10 Pcs Cord Protectors from Pets No Chew 43.3\", Classic Colors"
         ]
       ]
     }
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Jetec 12 Pcs Charging Cable Protector Silicone Spiral Charger Cable Saver is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Alex Tech 10ft - 1/2 inch Cord Protector Wire Loom Tubing Cable Sleeve Split justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "3\", Classic Colors already covers the job at the lowest price here."
       }
     ]

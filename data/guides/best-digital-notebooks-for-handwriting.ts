@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Which has the best writing feel?",
-    "a": ""
+    "a": "The reMarkable 2 has the largest, most established review base specifically speaking to writing feel, though the XPPen's higher pressure sensitivity is a real advantage for varied pressure."
   },
   {
     "q": "Can I use third-party handwriting apps?",
@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest option with handwriting conversion included?",
-    "a": ""
+    "a": "The XPPen 3 in 1 Color Digital Notebook at $299.98."
   },
   {
     "q": "Does recognition work for cursive as well as print?",
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/316t+ALq6FL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
         "What you need it for",
@@ -65,31 +65,31 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "",
-          ""
+          "Everyday note-taking and reading",
+          "XPPen 3 in 1 Color Digital Notebook 10.95\""
         ],
         [
-          "",
+          "AI-assisted or document-heavy work",
           "BOOX Note Air 5 C"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $300",
+          "XPPen 3 in 1 Color Digital Notebook 10.95\""
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "Amazon Kindle Scribe"
         ],
         [
           "No firm budget ceiling, prioritizing storage or ecosystem",
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "AI Features Included vs Subscription-Gated",
     "cards": [
       {
-        "label": "",
+        "label": "Included, No Subscription",
         "text": "AI note tools come with the purchase price, no ongoing cost. In this comparison: check each listing's terms directly."
       },
       {
-        "label": "",
+        "label": "Subscription-Gated",
         "text": "Advanced AI features require an ongoing paid plan on top of the hardware price. In this comparison: Amazon Kindle Scribe, reMarkable 2 with Marker Plus."
       }
     ],
@@ -116,43 +116,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "ReMarkable 2 with Marker Plus"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "ReMarkable 2 with Marker Plus"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Handwriting-to-Text Conversion Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of handwriting-to-text conversion (not just \"AI\" generally), and whether that specific feature is included or requires a subscription."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Amazon Kindle Scribe fits this specifically: Handwriting conversion included in the purchase price."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what BOOX Note Air 5 C offers: Access to third-party handwriting apps via Android. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "95\" already covers the essentials: Lowest price with handwriting conversion included. The main thing you'd be paying extra for elsewhere in this list is features or storage you may not need."
       }
     ]
@@ -161,15 +161,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Confirmed handwriting-to-text conversion",
     "description": "We verified each device actually offers handwriting recognition rather than assuming it based on category."
   },
   {
-    "title": "",
+    "title": "Subscription dependence",
     "description": "We flagged where full conversion features require a paid plan (reMarkable Connect) versus what's included at purchase (Kindle Scribe, XPPen)."
   },
   {
-    "title": "",
+    "title": "Writing surface feel",
     "description": "We noted textured E Ink displays and stylus friction as factors in the actual writing experience, not just the conversion feature."
   },
   {

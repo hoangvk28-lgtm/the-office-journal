@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $54",
           "Inkless Portable Bluetooth Thermal Printer"
         ],
         [
-          "",
-          ""
+          "Up to $140",
+          "Brother HL"
         ]
       ]
     }
@@ -106,22 +106,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Brother HL",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Inkless Portable Bluetooth Thermal Printer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Canon PIXMA TS4320 Wireless Color Inkjet Printer is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Brother HL's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Inkless Portable Bluetooth Thermal Printer covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Placement flexibility",
     "description": "Considered whether each printer works from a shelf, floor spot, corner, or drawer, since small-space placement options are rarely as simple as a dedicated desk spot."
   },
   {
@@ -169,18 +169,18 @@ export const howWeEvaluated = [
     "description": "Prioritized quieter inkjet mechanisms over louder laser operation where the printer is likely to sit near a sleeping area or a video call setup, a top concern in studio living."
   },
   {
-    "title": "",
+    "title": "Footprint honesty",
     "description": "Distinguished printers that are compact from ones that simply fit a small space well due to shelf-compatible shape, since these are related but different qualities."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed price against paper tray capacity, feature set, and placement flexibility to judge which picks earn their cost for small-space living."
   }
 ];
 
 export const introParagraphs = [
   "A printer for a small space is not the same question as a printer with small dimensions. Some larger all-in-ones fit fine tucked into a corner shelf with minimal clearance, while some compact printers still end up in an awkward spot because of where they need to sit, how far they are from the router, or how much noise they make next to someone sleeping or working nearby.",
-  ""
+  "Below are 8 printers we compared on placement flexibility (shelf, floor, under-desk, or corner), realistic wifi performance at typical small-apartment distances, and noise level as a top selection factor for studio and shared-space living, ranging from a $53.97 portable thermal printer to a $139.99 compact laser."
 ];
 
 export const lastUpdated = "2026-07-23";

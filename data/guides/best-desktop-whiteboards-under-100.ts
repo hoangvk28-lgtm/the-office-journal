@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31+kWYP-IoL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,33 +84,33 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $54",
+          "ZHIDIAN Adjustable Easel ($53.99)"
         ],
         [
-          "",
-          ""
+          "$66-$70",
+          "ECR4Kids ($66.47) or VIVO ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $86",
+          "48x32 Wall-Mounted Glass Whiteboard ($85.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wall-Mounted vs Freestanding Desktop",
     "cards": [
       {
-        "label": "",
+        "label": "Wall-Mounted (48x32 pick)",
         "text": "Maximum writing surface for a home office, requiring roughly 20 minutes of drilling and mounting, but permanently fixed once installed."
       },
       {
@@ -124,16 +124,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Certification and Warranty Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Verified low-VOC certification",
           "ECR4Kids MessageStor (UL GREENGUARD Gold Certified)"
         ],
         [
-          "",
+          "Longest warranty coverage",
           "ZHIDIAN Magnetic Glass Whiteboard Desktop Easel (15-year warranty)"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Home Office Wall Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A large-format wall-mounted glass whiteboard rather than a smaller desktop board, since a dedicated wall space can accommodate a large writing surface."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The 48\" x 32\" Magnetic Glass Whiteboard is specifically designed for wall installation and delivers the most writing space by a wide margin."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have dedicated wall space and want the largest possible writing surface, where the 48x32 wall-mounted pick delivers significantly more room than any other pick in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A stable adjustable stand and long warranty cover your needs without requiring maximum size, where the ZHIDIAN pick saves $12-32 versus the larger picks here."
       }
     ]
@@ -169,19 +169,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Maximum Writing Surface Size",
     "description": "Compared the largest available format in this budget-tier series, from the 48x32 wall-mounted pick down to the compact 16x12 adjustable easel."
   },
   {
-    "title": "",
+    "title": "Wall-Mount vs Freestanding Flexibility",
     "description": "Distinguished picks requiring wall installation from those staying fully freestanding and repositionable on a desktop."
   },
   {
-    "title": "",
+    "title": "Installation Time and Complexity",
     "description": "Compared stated installation time, like the wall-mounted pick's roughly 20-minute setup, against simpler freestanding assembly."
   },
   {
-    "title": "",
+    "title": "Third-Party Safety Certifications",
     "description": "Checked for UL GREENGUARD Gold and similar certifications relevant to shared office and classroom environments."
   },
   {

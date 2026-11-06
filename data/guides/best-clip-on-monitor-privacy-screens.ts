@@ -40,8 +40,8 @@ export const faq = [
     "a": "Yes, the 2-Pack 24 Inch Hanging Privacy Screen Protector is explicitly rated for frameless 23-24 inch monitors."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The Hanging 24 Inch Computer Privacy Screen Filter at $35.99, though it has the lowest rating in this comparison at 3.8."
   },
   {
     "q": "Are the cited light-blocking and blue-light percentages verified?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "[2-Pack] 24 Inch Privacy Screen for Computer Monitor"
         ],
         [
-          "",
+          "Laptop screen",
           "[2-Pack] 24 Inch Privacy Screen for Computer Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $36",
           "Hanging 24 Inch Computer Privacy Screen Filter"
         ],
         [
-          "",
+          "Mid-range",
           "[2 Pack] 24 Inch Computer Privacy Screen Filter for 16:9 Widescreen Monitor"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: GUDTEKE 2Pack Magnetic 24 Inch Privacy Screen for Computer Monitor, [2 Pack] 24 Inch Computer Privacy Screen Filter for 16:9 Widescreen Monitor, SightPro 24 Inch 16:9 Computer Privacy Screen Filter for Monitor."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: 2-Pack 24 Inch Hanging Privacy Screen Protector, GUDTEKE Magnetic 24 Inch Privacy Screen for Computer Monitor (Single)."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "[2-Pack] 24 Inch Privacy Screen for Computer Monitor"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "SightPro 24 Inch 16:9 Computer Privacy Screen Filter for Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "[2-Pack] 24 Inch Privacy Screen for Computer Monitor fits this specifically: High rating with a meaningful review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what 2-Pack 24 Inch Hanging Privacy Screen Protector offers: Explicitly compatible with frameless monitors. That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Hanging 24 Inch Computer Privacy Screen Filter already covers the essentials: Lowest price in this comparison. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]

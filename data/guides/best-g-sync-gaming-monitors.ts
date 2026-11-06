@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Port-gaming-faq",
     "q": "Should I use HDMI or DisplayPort for gaming?",
     "a": "DisplayPort has generally led HDMI in bandwidth for high refresh rate gaming at full resolution, though this depends on the specific versions your monitor and GPU support, verify both before assuming full advertised specs."
   },
   {
-    "id": "",
+    "id": "Refresh-gpu-faq",
     "q": "Is a 240Hz or 360Hz gaming monitor worth it?",
     "a": "Only if your GPU can actually push frame rates close to that number in the games you play, check your realistic frame rates first, pairing a high-refresh monitor with a GPU that can't fill it wastes the extra capability."
   },
   {
-    "id": "",
+    "id": "Strobe-faq",
     "q": "Can I use backlight strobing and adaptive sync at the same time?",
     "a": "Usually not, strobing modes often can't run simultaneously with G-Sync or FreeSync, check whether a specific monitor supports both together before assuming it's not a tradeoff."
   },
   {
-    "id": "",
+    "id": "Curve-faq",
     "q": "What does the curve radius number mean on a curved gaming monitor?",
     "a": "A lower number means a tighter, more aggressive curve, suited to very wide ultrawide panels, a higher number is gentler and better suited to a standard-width panel."
   },
   {
-    "id": "",
+    "id": "Console-faq",
     "q": "Do all gaming monitor features work with a console?",
     "a": "No, some high refresh rate or adaptive sync features require a PC connection and GPU-side support, verify the monitor's feature list against your specific console's actual output capability."
   },
   {
-    "id": "",
+    "id": "Size-density-faq",
     "q": "Is a bigger gaming monitor always sharper?",
     "a": "No, stretching the same resolution across a larger screen reduces pixel density, a 32-inch 1440p monitor looks visibly softer than a 27-inch 1440p monitor at the same viewing distance."
   }
@@ -66,19 +66,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41F0HctxePL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By GPU Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your GPU output",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Modest frame rates in your games",
-          ""
+          "AOC 27\" Gaming Monitor FHD 200Hz IPS NVIDIA G-SYNC Compatble 0.3ms"
         ],
         [
-          "",
+          "Solid mid-range frame rates",
           "LG 24G411A-B 24-inch Ultragear Full HD (1920 x 1080) IPS Gaming Monitor"
         ],
         [
@@ -89,83 +89,83 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "AOC 27\" Gaming Monitor FHD 200Hz IPS NVIDIA G-SYNC Compatble 0.3ms"
         ],
         [
-          "",
+          "Mid-range pick",
           "ASUS TUF VG279QM5A 27 Inch 1080p 240Hz Fast IPS G-SYNC Gaming Monitor"
         ],
         [
-          "",
+          "Higher budget",
           "AOC 27\" Gaming Monitor FHD 260Hz Overclocked NVIDIA G-SYNC Compati."
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "G-Sync vs FreeSync",
     "cards": [
       {
-        "label": "",
+        "label": "G-Sync certified (e.g. AOC 27\" Gaming Monitor FHD 200Hz IPS NVIDIA G-SYNC Compatble 0.3ms)",
         "text": "Built and validated specifically for NVIDIA GPUs."
       },
       {
-        "label": "",
+        "label": "FreeSync",
         "text": "Works more broadly across AMD and NVIDIA cards in most cases."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Curvature",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard flat panel",
           "LG 24G411A-B 24-inch Ultragear Full HD (1920 x 1080) IPS Gaming Monitor"
         ],
         [
-          "",
+          "Curved for wider immersion",
           "ASUS TUF VG279QM5A 27 Inch 1080p 240Hz Fast IPS G-SYNC Gaming Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Competitive Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Independent input lag testing, not just the headline refresh rate number, since the two specs don't always move together."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "LG 24G411A-B 24-inch Ultragear Full HD (1920 x 1080) IPS Gaming Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where AOC 27\" Gaming Monitor FHD 260Hz Overclocked NVIDIA G-SYNC Compati. 27G51Z justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "3ms already covers the job at the lowest price here."
       }
     ]

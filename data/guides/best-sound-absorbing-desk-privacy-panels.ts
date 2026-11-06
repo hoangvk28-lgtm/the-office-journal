@@ -56,80 +56,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Poola Voidra Foldable Felt Desk Privacy Panel 16 x 48 Inches"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "DECOLAB Desk Divider"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $29",
           "Eorbow 6 Pack Acoustic Desk Privacy Panel"
         ],
         [
-          "",
-          ""
+          "Up to $76",
+          "DECOLAB Desk Divider"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Foldable vs Fixed Panel",
     "cards": [
       {
-        "label": "",
+        "label": "Foldable",
         "text": "Can be collapsed or repositioned for a shared or multi-purpose desk. In this comparison: Poola Voidra Foldable Felt Desk Privacy Panel 16 x 48 Inches, Dunzoom Large Desk Dividers for Students Acoustic Portable Fold Classroom Table Privacy Felt Boards for Workstation Office Home Furniture Partition Dividers."
       },
       {
-        "label": "",
+        "label": "Fixed panel",
         "text": "More stable and permanent, worth it if the panel stays up consistently. In this comparison: Eorbow 6 Pack Acoustic Desk Privacy Panel, KERRAM Desk Privacy Panel Sound Absorbing & Proof Desk Divider for Office, DECOLAB Desk Divider."
       }
     ],
     "note": "Default to a fixed panel unless you specifically need the flexibility to fold it away."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Dimensions",
     "note": "Check each pick's listed height and width against your seated eyeline and desk width before buying, not just the general size category."
   },
   {
     "subheading": "For a Shared Open Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A panel height that covers your seated eyeline and a genuine acoustic material if noise reduction matters, not just visual blocking."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "DECOLAB Desk Divider is worth checking against its listed dimensions and material before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening and secure clamp mounting, where DECOLAB Desk Divider's material and hardware give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual privacy without noise concerns, where Eorbow 6 Pack Acoustic Desk Privacy Panel covers the same job at a lower price."
       }
     ]

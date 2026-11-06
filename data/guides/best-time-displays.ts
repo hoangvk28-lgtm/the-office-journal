@@ -37,7 +37,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest large display option?",
-    "a": ""
+    "a": "The Clock with Day and Date for Elderly, 7 inch, at $25.49."
   },
   {
     "q": "Can I change the display color?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "La Crosse Technology 513"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "La Crosse Technology 513"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $26",
           "Clock with Day and Date for Elderly"
         ],
         [
-          "",
+          "Up to $NaN",
           "Large Digital Calendar Day Clock with 6"
         ]
       ]
@@ -109,16 +109,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Clock with Day and Date for Elderly unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "La Crosse Technology 513"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "La Crosse Technology 513 is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Large Digital Calendar Day Clock with 6's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Clock with Day and Date for Elderly covers the same job at a lower price."
       }
     ]

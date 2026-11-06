@@ -60,8 +60,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Match Your Priority to a Specific Pick",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [

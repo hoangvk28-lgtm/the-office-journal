@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the best overall small safe?",
-    "a": ""
+    "a": "The Yuanshikj Small Steel Security Safe Box, with by far the largest confirmed review base in this comparison at nearly 23,000 reviews."
   },
   {
     "q": "Do any of these have fire protection?",
@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "What's the largest capacity option?",
-    "a": ""
+    "a": "The Bonsaii Safe Box with Electronic Keypad at 0.6 cubic feet."
   },
   {
     "q": "Is there a kid-friendly option?",
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Q5YDqAEdL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Protection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,41 +69,41 @@ export const howToChoose: HowToChooseSection[] = [
           "Voncabay Money Safe Box for Home with Digital Keypad"
         ],
         [
-          "",
+          "Genuine anti-removal, bolt-down support",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $24",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ],
         [
-          "",
+          "Up to $66",
           "Honeywell Safes & Door Locks"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
         "label": "Yuanshikj Small Steel Security Safe Box with Keypad",
-        "text": ""
+        "text": "The lower-priced option in this comparison, worth checking its review base against your confidence needs."
       },
       {
         "label": "Honeywell Safes & Door Locks",
@@ -113,15 +113,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Yuanshikj Small Steel Security Safe Box with Keypad unless your specific needs call for the pricier pick's extra features."
   },
   {
-    "subheading": "",
+    "subheading": "By Fire Protection",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fire resistance claimed",
           "Voncabay Money Safe Box for Home with Digital Keypad"
         ],
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Storing Documents or Cash Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed interior dimension roomy enough for the actual items, plus a backup access method beyond just a keypad."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Yuanshikj Small Steel Security Safe Box with Keypad is worth checking against its listed interior dimensions before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're storing valuable or irreplaceable items, where Honeywell Safes & Door Locks's higher price buys real security or fire-protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic theft deterrence for low-value items, where Yuanshikj Small Steel Security Safe Box with Keypad covers the same job at a lower price."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "None of these listings claim a certified UL burglary rating. We're calling this basic theft deterrence, useful against casual access but not verified against determined forced entry."
   },
   {
-    "title": "",
+    "title": "Weighed review base heavily given the wide spread",
     "description": "Review counts here range from 0 to nearly 23,000. We treated that spread as a meaningful confidence signal, not a secondary detail."
   },
   {

@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41SXzlShuWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $135",
+          "12-in-1 Dual HDMI + VGA ($134.80)"
         ],
         [
-          "",
-          ""
+          "Under $140",
+          "Surface Thunderbolt 4 Dock 13-in-1 ($139.99)"
         ],
         [
-          "",
-          ""
+          "Under $170",
+          "Microsoft Surface USB4 Dock for Business ($166.99)"
         ],
         [
-          "",
-          ""
+          "Under $220",
+          "Microsoft Surface Thunderbolt 4 Docking Station ($217.99)"
         ]
       ]
     }
@@ -128,15 +128,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If official support and proven reliability matter most, either Microsoft-branded pick is the safer choice. If maximizing ports and displays per dollar matters more, the third-party picks deliver more for less."
   },
   {
-    "subheading": "",
+    "subheading": "By Display Configuration Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your display setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Dual 4K monitors",
           "Microsoft Surface Thunderbolt 4 Docking Station"
         ],
         [
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Photographers and Videographers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Fast integrated SD/TF card slots rated for high-speed offloading, so transferring photos and video from a camera's memory card doesn't bottleneck your workflow."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Surface Thunderbolt 4 Dock 13-in-1 specifically states SD/TF card slots rated up to 104MB/s, directly supporting fast media offloading."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want official Microsoft reliability with the fastest stated charging time, where the Microsoft Surface Thunderbolt 4 Docking Station justifies its $217.99 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You want triple-display support and fast card reading without official Microsoft branding, where the 13-in-1 pick delivers that for $139.99."
       }
     ]
   }
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Official vs Third-Party Compatibility",
     "description": "Compared Microsoft's own docks against third-party docks engineered specifically for Surface hardware."
   },
   {
-    "title": "",
+    "title": "Charging Speed",
     "description": "Compared stated charging time and wattage for Surface laptop models."
   },
   {
-    "title": "",
+    "title": "Display Count",
     "description": "Compared maximum simultaneous external display support across dual and triple configurations."
   },
   {
-    "title": "",
+    "title": "Port Variety",
     "description": "Compared legacy VGA support, card readers, and data transfer speeds."
   },
   {
-    "title": "",
+    "title": "Warranty Coverage",
     "description": "Compared stated warranty length between third-party Surface dock options."
   }
 ];

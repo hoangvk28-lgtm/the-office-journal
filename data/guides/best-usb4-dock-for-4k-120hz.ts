@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31NNGWOexiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "1 with no adapters needed",
-          ""
+          "Plugable Thunderbolt 5 Dock, Dual HDMI 2.1"
         ],
         [
           "Triple 4K display support at a lower price",
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $120",
+          "Targus USB4 Dual Video Mobile Dock ($119.99)"
         ],
         [
-          "",
-          ""
+          "Under $285",
+          "StarTech Thunderbolt 5 USB4 Dock ($282.99)"
         ],
         [
-          "",
-          ""
+          "Under $350",
+          "Plugable Thunderbolt 5 Dock ($349.95)"
         ],
         [
-          "",
-          ""
+          "Under $400",
+          "CalDigit TS5 ($399.95)"
         ]
       ]
     }
@@ -117,22 +117,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Desk-Anchored High-Power Dock vs Portable 8K-Capable Dock",
     "cards": [
       {
-        "label": "",
+        "label": "Desk-anchored (CalDigit, Plugable, StarTech)",
         "text": "Delivers the highest resolution ceilings, refresh rates, and sustained charging power for a permanent multi-monitor workstation."
       },
       {
-        "label": "",
+        "label": "Portable (Targus)",
         "text": "Delivers genuine 8K single-display capability in a lightweight, travel-ready form factor at a fraction of the cost."
       }
     ],
     "note": "If you need triple displays or the highest possible refresh rates for a permanent setup, one of the three premium desk docks is worth the investment. If you occasionally need 8K output while traveling, the Targus pick covers that need without the premium price."
   },
   {
-    "subheading": "",
+    "subheading": "By Host Generation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your laptop's port generation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Apple Silicon Macs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A listing that specifically breaks down display support by exact Mac chip (base M-series versus Pro/Max), since Apple's own display output limits vary meaningfully by chip generation."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The StarTech and Plugable picks both specifically document exact chip-level display support, from base M-series limits up to M5 Max daisy-chain capability."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want the most detailed platform documentation with sustained full-port power delivery, where the CalDigit TS5 justifies its $399.95 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You want genuine 8K support without needing triple displays or maximum charging wattage, where the Targus pick delivers that for $119.99."
       }
     ]
   }
@@ -180,15 +180,15 @@ export const howWeEvaluated = [
     "description": "Compared stated maximum resolution and refresh rate across Thunderbolt 3/4/5 and USB4 hosts."
   },
   {
-    "title": "",
+    "title": "Native vs Adapter-Based HDMI",
     "description": "1 ports against USB-C to HDMI adapter dependencies."
   },
   {
-    "title": "",
+    "title": "Charging Wattage",
     "description": "Compared host charging wattage and sustained power delivery across all downstream ports."
   },
   {
-    "title": "",
+    "title": "Per-Chip Apple Silicon Documentation",
     "description": "Compared how specifically each listing documents display support by exact Mac chip."
   },
   {

@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "Confirm what dust or chip management is built in versus what needs to be added separately."
   },
   {
-    "criterion": "",
+    "criterion": "Weigh Ownership Details",
     "explanation": "Factor in assembly time, footprint, and maintenance workflow as part of the real cost of ownership."
   }
 ];
@@ -73,14 +73,14 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Confirm what dust or chip management is built in versus what needs to be added separately."
   },
   {
-    "subheading": "",
+    "subheading": "Weigh Ownership Details",
     "note": "Factor in assembly time, footprint, and maintenance workflow as part of the real cost of ownership."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified Before Comparison",
     "description": "Sorted each machine into router, mill, lathe, laser hybrid, or waterjet before ranking, since desktop CNC spans different cutting architectures that don't compare fairly on one scale."
   },
   {
@@ -88,11 +88,11 @@ export const howWeEvaluated = [
     "description": "Compared usable XYZ travel after vise, clamps, and tool stick-out rather than nominal axis travel alone, since fixtures and tooling eat into the advertised work envelope."
   },
   {
-    "title": "",
+    "title": "Spindle and Rigidity Evidence",
     "description": "Checked documented spindle speed, torque, and runout figures alongside frame and rail rigidity, since motor wattage alone doesn't predict real cut quality."
   },
   {
-    "title": "",
+    "title": "Software and Workholding Verified",
     "description": "Checked CAM/postprocessor support, probing, workholding, and dust or chip control as part of daily usability, not just the headline spec sheet."
   },
   {

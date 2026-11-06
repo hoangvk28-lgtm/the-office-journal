@@ -37,7 +37,7 @@ export const faq = [
   },
   {
     "q": "How do I avoid a counterfeit budget SSD?",
-    "a": ""
+    "a": "Buy from verified sellers, favor listings with a substantial genuine review base, and check the drive's formatted capacity immediately upon arrival."
   }
 ];
 
@@ -49,15 +49,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41eTFK7clfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Capacity",
     "table": {
       "headers": [
-        "",
+        "Your storage need",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Lightest everyday storage needs",
           "KingSpec Z5 512GB External SSD"
         ],
         [
@@ -68,20 +68,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $89",
           "KingSpec Z5 512GB External SSD"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "SANDISK 1TB Portable SSD"
         ],
         [
           "No firm budget ceiling, prioritizing speed or NAND quality",
@@ -91,25 +91,25 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "TLC vs QLC NAND",
     "cards": [
       {
-        "label": "",
+        "label": "TLC NAND",
         "text": "Better sustained write speed and longer-term endurance, especially once any onboard cache is exhausted during a large transfer. In this comparison: check each listing's specs directly, NAND type isn't always disclosed."
       },
       {
-        "label": "",
+        "label": "QLC NAND",
         "text": "More capacity per dollar, at the cost of a bigger sustained-speed drop once the cache fills on long transfers. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
     "note": "NAND type isn't explicitly confirmed for every pick here, check each specific listing's technical details if sustained speed matters to your workflow."
   },
   {
-    "subheading": "",
+    "subheading": "Rugged/Waterproof vs Standard Build",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Lexar ES3 1TB Portable SSD Blue"
         ],
         [
-          "",
+          "Slimmest, lightest everyday carry",
           "SSK Portable SSD 1TB External Solid State Hard Drive USB C Up to 1050MB/s"
         ]
       ]
@@ -127,11 +127,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Large Sustained Transfers (Video Editing) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "TLC NAND specifically, a stated sustained write speed (not just the peak burst number), and a USB generation on both drive and host that actually supports the rated speed."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "KingSpec Z5 512GB External SSD fits this specifically: Lowest price in this comparison."
       }
     ]
@@ -140,17 +140,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "KingSpec Z5 512GB External SSD"
         ],
         [
-          "",
-          ""
+          "Largest review base (more statistical confidence)",
+          "SANDISK 1TB Portable SSD"
         ]
       ]
     }
@@ -159,12 +159,12 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "DRAM-less controller tradeoff flagged",
     "description": "Noted that budget-tier drives are more likely to use DRAM-less controllers, which can reduce random-access performance under sustained multi-file operations."
   },
   {
     "title": "Counterfeit and fake-capacity risk assessed",
-    "description": ""
+    "description": "Weighed seller verification and review base size more heavily at this price tier, where counterfeit-capacity risk is genuinely elevated."
   },
   {
     "title": "Packaging speed claims checked against real firmware behavior",
@@ -172,7 +172,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Established brand trust weighed against price",
-    "description": ""
+    "description": "Compared the value of an established brand's larger review base against newer, less-reviewed budget alternatives with potentially higher rated numbers."
   }
 ];
 

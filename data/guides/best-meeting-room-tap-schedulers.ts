@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51Nxlf1+oaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,8 +73,8 @@ export const howToChoose: HowToChooseSection[] = [
           "10pcs NFC Stickers NFC Tags Sticker NTAG215 NFC Rewritable Black Tags NFC"
         ],
         [
-          "",
-          ""
+          "Standard conference room",
+          "Mead Classroom Wall Scheduler"
         ],
         [
           "Large room or lobby signage",
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "10pcs NFC Stickers NFC Tags Sticker NTAG215 NFC Rewritable Black Tags NFC"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Tap Scheduler for Meeting Rooms, 10.1\" Touchscreen"
         ],
         [
-          "",
+          "Higher budget",
           "7H-952000085 Meeting Room Touch Controller with PoE Connectivity"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "10pcs NFC Stickers NFC Tags Sticker NTAG215 NFC Rewritable Black Tags NFC)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Microsoft 365 / Outlook / Teams",
-          ""
+          "Mead Classroom Wall Scheduler"
         ],
         [
-          "",
-          ""
+          "Google Workspace / Calendar",
+          "Tap Scheduler for Meeting Rooms, 10.1\" Touchscreen"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Mead Classroom Wall Scheduler is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where 7H-952000085 Meeting Room Touch Controller with PoE Connectivity justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward single-room display without advanced features, where 10pcs NFC Stickers NFC Tags Sticker NTAG215 NFC Rewritable Black Tags NFC already covers the job at the lowest price here."
       }
     ]

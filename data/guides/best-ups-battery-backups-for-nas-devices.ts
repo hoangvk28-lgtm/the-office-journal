@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "WALLECUBE NAS UPS Compatible for: Synology"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "APC UPS 600VA/330W UPS Battery Backup for Computer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $79",
           "WALLECUBE NAS UPS Compatible for: Synology"
         ],
         [
-          "",
+          "Up to $267",
           "Ubiquiti UniFi UPS Tower 1000VA/600W Uninterruptible Power Supply"
         ]
       ]
@@ -94,22 +94,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Pure Sine Wave vs Modified Sine Wave",
     "cards": [
       {
-        "label": "",
+        "label": "Pure sine wave",
         "text": "Clean power matching wall-outlet quality, avoids APFC compatibility issues with modern PC power supplies. In this comparison: CyberPower CP850PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector."
       },
       {
-        "label": "",
+        "label": "Modified sine wave",
         "text": "Cheaper, but can cause buzzing or shutdown risk on APFC-equipped power supplies. In this comparison: WALLECUBE NAS UPS Compatible for: Synology, APC UPS 650VA/390W Battery Backup & Surge Protector for PC, APC UPS 850VA/450W UPS Battery Backup & Surge Protector for PC, APC UPS 600VA/330W UPS Battery Backup for Computer, Ubiquiti UniFi UPS Tower 1000VA/600W Uninterruptible Power Supply."
       }
     ],
     "note": "Default to pure sine wave if your PC has an APFC power supply, which most modern PCs do."
   },
   {
-    "subheading": "",
+    "subheading": "By Replaceable Battery",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "APC UPS 650VA/390W Battery Backup & Surge Protector for PC"
         ],
         [
-          "",
+          "Sealed unit is fine",
           "WALLECUBE NAS UPS Compatible for: Synology"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a PC Plus Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Real watts (not VA) comfortably above your combined equipment draw, plus pure sine wave if your PC has an APFC power supply."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Ubiquiti UniFi UPS Tower 1000VA/600W Uninterruptible Power Supply discloses the highest real capacity at 600W."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a high-draw workstation, multiple monitors, or NAS equipment, where Ubiquiti UniFi UPS Tower 1000VA/600W Uninterruptible Power Supply's higher watts capacity gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need brief runtime for a single low-draw device, where WALLECUBE NAS UPS Compatible for: Synology covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howWeEvaluated = [
     "description": "Checked whether each pick supports USB or network-based shutdown signaling (NUT or vendor-proprietary) compatible with Synology, QNAP, TrueNAS, and similar platforms, since this is what actually prevents RAID corruption during an extended outage."
   },
   {
-    "title": "",
+    "title": "Purpose-built vs. general-purpose NAS compatibility",
     "description": "Distinguished the one purpose-built NAS-specific UPS in this lineup from general-purpose UPS units explicitly rated for NAS use, since the tradeoffs (vendor-specific compatibility vs."
   },
   {

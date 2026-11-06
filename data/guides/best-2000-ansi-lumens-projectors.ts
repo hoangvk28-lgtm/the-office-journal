@@ -57,20 +57,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/51o7Gh0QfYL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Fully dark, dedicated room",
+          "HP Projector Built-in Apps"
         ],
         [
-          "",
-          ""
+          "Some ambient light",
+          "HP Projector with Apps"
         ],
         [
           "Bright room or daytime use",
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -92,11 +92,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Projector for Camping with Phone Controller"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "HP Projector with Apps"
         ],
         [
-          "",
+          "Higher budget",
           "Yaber K300s Ultra Short Throw Projector"
         ]
       ]
@@ -117,16 +117,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most casual, weekly-use buyers should default to a lamp-based pick unless they'll run it daily, where laser's near-zero maintenance pays for itself over a few years."
   },
   {
-    "subheading": "",
+    "subheading": "By Throw Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard room, 8-12 feet to the wall",
-          ""
+          "HP Projector Built-in Apps"
         ],
         [
           "Verify your exact throw ratio before buying any model",
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "HP Projector Built-in Apps is worth checking against its documented native contrast figures before assuming any headline contrast number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want laser reliability and top-tier brightness, where Yaber K300s Ultra Short Throw Projector justifies the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want casual, occasional use, where Projector for Camping with Phone Controller already covers the job at the lowest price here."
       }
     ]

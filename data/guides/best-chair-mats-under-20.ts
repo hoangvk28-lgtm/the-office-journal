@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ZDNb22h7L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $19",
+          "Wansimoo ($18.99)"
         ],
         [
-          "",
-          ""
+          "Under $22",
+          "GORILLA GRIP ($21.99)"
         ],
         [
-          "",
-          ""
+          "Under $25",
+          "Azadx ($23.98)"
         ],
         [
-          "",
-          ""
+          "Under $26",
+          "Yecaye ($25.99)"
         ]
       ]
     }
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Woven Opaque vs Clear PVC Design",
     "cards": [
       {
-        "label": "",
+        "label": "Woven opaque (Wansimoo)",
         "text": "Adds a finished decorative look that hides the floor underneath, better if the mat itself should look intentional in a visible space."
       },
       {
@@ -128,23 +128,23 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you'd rather the mat blend into the room's decor, the Wansimoo pick's woven design does that. If you want your actual floor to remain visible, any of the three clear PVC picks accomplish that."
   },
   {
-    "subheading": "",
+    "subheading": "By Coverage Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your space needs",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Compact desk area",
+          "Azadx (30in x 48in)"
         ],
         [
-          "",
+          "Narrow but wide layout",
           "GORILLA GRIP (45in x 28in)"
         ],
         [
-          "",
+          "Standard single-chair coverage",
           "Wansimoo or Yecaye (both 36in x 48in)"
         ]
       ]
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared or Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A fully clear, non-slip mat that protects the floor without altering its appearance, since landlords or roommates may object to a visibly different mat."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Azadx pick's fully transparent design specifically preserves the visible appearance of your existing hard floor while still protecting it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want third-party tested durability against scratching and cracking, where the GORILLA GRIP pick backs its claims with actual testing."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic hard-floor protection without extra testing claims, where the Wansimoo pick covers that for about $3 less."
       }
     ]
@@ -180,23 +180,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Floor Surface Compatibility",
     "description": "Checked whether each pick is rated for hard floors, carpet, or both, since this determines basic usability."
   },
   {
-    "title": "",
+    "title": "Backing and Grip Design",
     "description": "Compared anti-slip backing materials and how each pick stays in place during chair movement."
   },
   {
-    "title": "",
+    "title": "Size Coverage",
     "description": "Compared stated dimensions to determine typical single-chair rolling radius coverage."
   },
   {
-    "title": "",
+    "title": "Durability Claims",
     "description": "Checked for third-party testing, scratch resistance, and anti-curl or anti-crack construction."
   },
   {
-    "title": "",
+    "title": "Visual Design",
     "description": "Compared clear versus opaque woven designs and how each affects the look of the space underneath."
   }
 ];

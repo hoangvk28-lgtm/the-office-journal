@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51yIUDDxUrL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "AODK L Shaped Desk Gaming Desk with LED Light & Power Outlet"
         ],
         [
-          "",
+          "Standard home office",
           "Armocity Corner Small Desk with Outlets Corner Table for Small Space Industrial"
         ],
         [
-          "",
-          ""
+          "Larger dedicated office",
+          "Huuger 63 Inch L Shaped Desk with Power Outlets & 0.95 Inch Thicker Desktop"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,12 +95,12 @@ export const howToChoose: HowToChooseSection[] = [
           "AODK L Shaped Desk Gaming Desk with LED Light & Power Outlet"
         ],
         [
-          "",
+          "Mid-range pick",
           "Furologee 66” L Shaped Desk with Power Outlet"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Huuger 63 Inch L Shaped Desk with Power Outlets & 0.95 Inch Thicker Desktop"
         ]
       ]
     }
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "With Storage vs Open Surface",
     "cards": [
       {
-        "label": "",
+        "label": "With storage (e.g. Huuger 63 Inch L Shaped Desk with Power Outlets & 0.95 Inch Thicker Desktop)",
         "text": "Built-in drawers or shelves, better for keeping supplies within reach."
       },
       {
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor",
           "Armocity Corner Small Desk with Outlets Corner Table for Small Space Industrial"
         ],
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "AODK L Shaped Desk Gaming Desk with LED Light & Power Outlet is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "95 Inch Thicker Desktop justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where AODK L Shaped Desk Gaming Desk with LED Light & Power Outlet already covers the job at the lowest price here."
       }
     ]

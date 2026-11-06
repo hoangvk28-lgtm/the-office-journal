@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41-xQBfPwhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "Supeasy 5 Trays Paper Organizer Letter Tray with Handle-Mesh Desk File Holders"
         ],
         [
-          "",
+          "Several distinct categories",
           "5-Tier Metal Office Desk Organizer, Paper Tray Organizer for Desk, Black"
         ],
         [
-          "",
+          "High document volume",
           "LEKETREE Desk Organizers and Accessories"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Supeasy 5 Trays Paper Organizer Letter Tray with Handle-Mesh Desk File Holders"
         ],
         [
-          "",
+          "Mid-range pick",
           "Cawukege 5 Tier Paper Organizer with Handle"
         ],
         [
-          "",
+          "Higher budget",
           "LEKETREE Desk Organizers and Accessories"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "Supeasy 5 Trays Paper Organizer Letter Tray with Handle-Mesh Desk File Holders)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "5-Tier Metal Office Desk Organizer, Paper Tray Organizer for Desk, Black"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5-Tier Metal Office Desk Organizer, Paper Tray Organizer for Desk, Black is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where LEKETREE Desk Organizers and Accessories justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Supeasy 5 Trays Paper Organizer Letter Tray with Handle-Mesh Desk File Holders already covers the job at the lowest price here."
       }
     ]

@@ -60,8 +60,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $1500",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -79,8 +79,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,7 +88,7 @@ export const howToChoose: HowToChooseSection[] = [
           "CREALITY FALCON 10w Laser Engraver with Air Assist"
         ],
         [
-          "",
+          "Best overall value",
           "ComMarker B6 20W Fiber Laser Engraver"
         ]
       ]
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to ComMarker B6 20W Fiber Laser Engraver unless your specific use case points toward Longer RAY5 20W Laser Engraver's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ComMarker B6 20W Fiber Laser Engraver is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on Longer RAY5 20W Laser Engraver, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by CREALITY FALCON 10w Laser Engraver with Air Assist without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every primary recommendation must be new, in stock and up to $1500 on the refresh date; expired sale pricing automatically disqualifies it."
   },
   {
-    "title": "",
+    "title": "Budget-ladder map",
     "description": "Show the next-lower tier, the dual-source / premium portable crossover tier and the next-higher tier so this article has a distinct reason to exist."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize price against laser source/wavelength, true optical power/process and minimum usable setup cost instead of raw feature count."
   },
   {
-    "title": "",
+    "title": "Evidence labels",
     "description": "Classify enclosure/interlock/class safety and material compatibility + extraction as official-documentation-confirmed, The Office Journal-measured, manufacturer-claimed or unverified."
   },
   {
-    "title": "",
+    "title": "Step-up/step-down verdict",
     "description": "Judge camera/rotary/air-assist/software, warranty/support and ownership friction, then explicitly say when a buyer should spend less or exceed $1500 for a meaningful upgrade."
   }
 ];

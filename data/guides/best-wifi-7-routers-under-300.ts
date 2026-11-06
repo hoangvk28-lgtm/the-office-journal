@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/21-EtjvbkUL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $245",
+          "ASUS RT-BE90U ($239.99) or D-Link R95 ($244.96)"
         ],
         [
-          "",
-          ""
+          "$250-$300",
+          "TP-Link Archer BE600 ($249.99) or NETGEAR Orbi 370 Mesh ($299.99)"
         ]
       ]
     }
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you've never had dead zone problems with a single router, a powerful tri-band router like the TP-Link BE600 is likely sufficient. If you have, the complete Orbi mesh system is the more reliable fix."
   },
   {
-    "subheading": "",
+    "subheading": "By Wired Port Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wired connection needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Visible Living Room Placement Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A router with a stated design focus, since most routers are built for function over form and can look out of place in a visible living space."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The D-Link BE9500 R95 specifically markets its sculptured-wing design and hidden venting as a living-room-friendly aesthetic choice."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a larger or multi-story home needing genuine whole-home mesh coverage, where the NETGEAR Orbi 370 Series delivers a complete 3-unit system out of the box."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A single fast tri-band router covers your space, where the ASUS RT-BE90U delivers genuine tri-band speed at the lowest price in this comparison."
       }
     ]
@@ -173,15 +173,15 @@ export const howWeEvaluated = [
     "description": "4GHz Mbps figures across the tri-band picks, since combined marketing numbers don't reveal per-band performance."
   },
   {
-    "title": "",
+    "title": "10 Gbps Port Availability",
     "description": "Checked which routers include a 10 Gbps wired port for future-proofing against the fastest current and upcoming residential internet plans."
   },
   {
-    "title": "",
+    "title": "Design and Placement Considerations",
     "description": "Noted physical design differences relevant to placing a router in a visible living space versus a hidden closet or utility area."
   },
   {
-    "title": "",
+    "title": "Mesh Expansion Ecosystem",
     "description": "Compared each brand's mesh expansion options and whether they use an open standard or a proprietary ecosystem tied to that brand's other products."
   }
 ];

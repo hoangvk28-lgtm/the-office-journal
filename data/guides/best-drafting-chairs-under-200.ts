@@ -59,8 +59,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $200",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,8 +78,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,7 +87,7 @@ export const howToChoose: HowToChooseSection[] = [
           "SUPERJARE Drafting Chair with Backrest (360° swivel & adjustable)"
         ],
         [
-          "",
+          "Best overall value",
           "SUPERJARE Drafting Chair with Backrest"
         ]
       ]
@@ -108,11 +108,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to SUPERJARE Drafting Chair with Backrest unless your specific use case points toward Synorla Ergonomic Tall Drafting Chair-Mesh Desk Chair with Flip-Up Arms's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SUPERJARE Drafting Chair with Backrest is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on Primy Drafting Chair Tall Office Chair with Flip-up Armrests Executive, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by SUPERJARE Drafting Chair with Backrest (360° swivel & adjustable) without needing the higher-tier features."
       }
     ]
@@ -156,23 +156,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick must be new, in stock and up to $200 on the update date; expired sale pricing removes it from the qualifying set."
   },
   {
-    "title": "",
+    "title": "Budget-ladder context",
     "description": "Show the previous tier, mainstream ergonomic tier and next-higher tier so readers see the real capability step instead of duplicate lists."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize loaded seat-height range, foot-ring usability and required accessory/setup cost against price."
   },
   {
-    "title": "",
+    "title": "Evidence split",
     "description": "We separated seat/back ergonomics and cylinder/base stability figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
-    "title": "",
+    "title": "Ownership/step-up verdict",
     "description": "Judge desk-height/arm clearance, warranty, software/parts/support and whether the reader should spend less or move above $200 for a meaningful upgrade."
   }
 ];

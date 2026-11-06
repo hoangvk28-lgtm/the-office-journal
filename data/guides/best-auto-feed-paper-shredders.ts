@@ -56,69 +56,69 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Aurora AU1210MA Professional Grade High Security 12"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Bonsaii 18"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $56",
+          "Bonsaii 12"
         ],
         [
-          "",
-          ""
+          "Up to $180",
+          "Bonsaii 18"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Bonsaii 12",
         "text": "The lower-priced option in this comparison, worth checking its security rating against your document sensitivity."
       },
       {
-        "label": "",
+        "label": "Bonsaii 18",
         "text": "The higher-priced option, worth it if it offers real capacity or security headroom above the cheaper pick."
       }
     ],
     "note": "Default to Bonsaii 12 unless your document volume or sensitivity calls for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Bin Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 6-gallon bin",
+          "Bonsaii 120"
         ],
         [
-          "",
-          ""
+          "Around 6-gallon bin",
+          "Bonsaii 18"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Sensitive Financial Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A P-4 cross-cut rating or higher, not just the marketing term \"cross-cut\" without a specific P-rating attached."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Bonsaii 18 is worth checking against its listed P-rating before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You regularly shred large stacks or sensitive documents, where Bonsaii 18's higher price buys real capacity or security headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only shred occasionally with a low sheet volume, where Bonsaii 12 covers the same job at a lower price."
       }
     ]

@@ -53,38 +53,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/51I+6dQFNyL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
+        "What you're running",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
           "Light everyday or office use",
-          ""
+          "GMKtec G11 Mini PC Ryzen Embedded R2514 16GB DDR4 RAM 256GB PCIe M.2 SSD"
         ],
         [
-          "",
+          "Demanding, sustained workloads",
           "GMKtec M5 Ultra Gaming Mini PC Ryzen 7 7730U"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $310",
+          "GMKtec G11 Mini PC Ryzen Embedded R2514 16GB DDR4 RAM 256GB PCIe M.2 SSD"
         ],
         [
-          "",
+          "Mid-range",
           "GMKtec Gaming Mini PC Ryzen 7640HS"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fanless (Passive) vs Actively Cooled",
     "cards": [
       {
-        "label": "",
+        "label": "Fanless, Passive Cooling",
         "text": "Completely silent with no moving parts, at the cost of throttling under sustained heavy load. In this comparison: check each listing's cooling design directly."
       },
       {
-        "label": "",
+        "label": "Actively Cooled (Fan)",
         "text": "Sustains heavier workloads longer without throttling, at the cost of some fan noise under load."
       }
     ],
@@ -112,13 +112,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By RAM and Storage Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Lightest low-cost configuration",
+          "GMKtec G11 Mini PC Ryzen Embedded R2514 16GB DDR4 RAM 256GB PCIe M.2 SSD"
         ],
         [
           "Maximum RAM and storage headroom",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For GPU-Accelerated Work or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated GPU or a confirmed Oculink/Thunderbolt EGPU connection explicitly stated in the listing, not just a generic \"gaming capable\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms dedicated or external GPU support; check our EGPU-focused mini PC roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what GMKtec M5 Ultra Gaming Mini PC Ryzen 7 7730U offers: 32GB RAM for running Plex alongside other services simultaneously. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "2 SSD already covers the essentials: low-power embedded chip suited to always-on Plex operation. The main thing you'd be paying extra for elsewhere in this list is headroom you may not need."
       }
     ]

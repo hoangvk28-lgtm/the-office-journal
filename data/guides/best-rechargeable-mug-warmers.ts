@@ -61,80 +61,80 @@ export const heroImage = "https://m.media-amazon.com/images/I/315uifEjCLL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Casual desk use",
+          "Coffee Mug Warmer"
         ],
         [
-          "",
+          "Precise temperature control",
           "Kepwam Heated Coffee Mug, 14oz Self-Heating Coffee Mug with 3 Temp Settings"
         ],
         [
-          "",
-          ""
+          "Gaming setup",
+          "Nextmug - Temperature-Controlled"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Coffee Mug Warmer"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "SWEETFULL Coffee Mug Warmer"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Nextmug - Temperature-Controlled"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs Wall-Powered",
     "cards": [
       {
-        "label": "",
+        "label": "USB-powered (e.g. Coffee Mug Warmer)",
         "text": "Plugs into a laptop or power bank, weaker heating strength."
       },
       {
-        "label": "",
+        "label": "Wall-powered",
         "text": "Stronger, more consistent heating, needs a free outlet."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Feedback Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simple, no-fuss warming",
           "Kepwam Heated Coffee Mug, 14oz Self-Heating Coffee Mug with 3 Temp Settings"
         ],
         [
-          "",
-          ""
+          "LED temperature display",
+          "SWEETFULL Coffee Mug Warmer"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Non-Insulated Ceramic Mug Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A base plate matched to your mug's diameter, since insulated or double-walled mugs won't heat well on any warmer."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Kepwam Heated Coffee Mug, 14oz Self-Heating Coffee Mug with 3 Temp Settings is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Nextmug - Temperature-Controlled justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Coffee Mug Warmer already covers the job at the lowest price here."
       }
     ]

@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "The Correct Connector Type and Voltage Must Match Your Specific Non-PoE Device, Not Just Any 2.5GbE Splitter",
     "explanation": "The four picks in this comparison cover four different connector and voltage combinations (12V DC, 24V DC, USB-C 5V, and USB-A 5V), each matching a different category of non-PoE device, meaning buying based on speed rating alone without checking connector compatibility could result in a splitter that physically doesn't fit your device. 5Gbps speed rating is identical across all four picks, making connector type and voltage the actual differentiating factor for your specific purchase decision."
   },
   {
@@ -32,7 +32,7 @@ export const faq = [
     "a": "5GbE splitter is specifically worth the investment only if your camera or network infrastructure can actually utilize bandwidth beyond standard Gigabit speeds."
   },
   {
-    "q": "",
+    "q": "What's the most common mistake buyers make when choosing a 2.5GbE PoE splitter?",
     "a": "5Gbps speed and differ only in their actual DC or USB connector and voltage output."
   },
   {
@@ -44,7 +44,7 @@ export const faq = [
     "a": "3at switch or the manufacturer's specific non-standard 48-52V passive PoE source, so checking your exact PoE infrastructure is important."
   },
   {
-    "q": "",
+    "q": "How do I know if my device needs 12V or 24V output from a 2.5GbE splitter?",
     "a": "Checking your specific device's power specification label or documentation for its exact voltage requirement is the reliable way to confirm which output you need before choosing between the 12V and 24V REVODATA picks."
   },
   {
@@ -65,16 +65,16 @@ export const howToChoose: HowToChooseSection[] = [
     "table": {
       "headers": [
         "Your device's port and voltage",
-        ""
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard 12V DC (most IP cameras)",
-          ""
+          "REVODATA 2.5G PoE Splitter 12V/2A"
         ],
         [
           "24V DC (wireless bridges, access points)",
-          ""
+          "REVODATA 2.5G PoE Splitter 24V/1A"
         ],
         [
           "USB-C 5V (Raspberry Pi 4B/4B+)",
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $14",
+          "REVODATA 12V/2A or 24V/1A (both $13.89)"
         ],
         [
-          "",
-          ""
+          "Under $16",
+          "REVODATA 2.5G Type C 5V/4A ($15.29)"
         ],
         [
-          "",
-          ""
+          "Under $17",
+          "DSLRKIT USB Type A ($16.99)"
         ]
       ]
     }
@@ -125,19 +125,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're converting a camera or access point, the DC voltage picks match that device category directly. If you're powering a Raspberry Pi or tablet, the USB-C or USB-A picks match those devices' actual charging ports."
   },
   {
-    "subheading": "",
+    "subheading": "By PoE Source Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your PoE source",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 802.3af/at PoE switch",
           "Any pick in this comparison works with standard sources"
         ],
         [
-          "",
+          "Non-standard 48-52V passive PoE",
           "DSLRKIT USB Type A (specifically supports this at full 20W)"
         ],
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Multi-Device Smart Home Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The exact connector type and voltage matching each specific device you're converting, since a smart home setup often includes a genuine mix of DC-barrel cameras, USB-C smart devices, and USB-A gadgets that each need different splitters."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The four picks together cover the four most common non-PoE device connector types, letting you match each device to its correct splitter."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "29 price is justified by that specific combination."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "89, the lowest price in this comparison."
       }
     ]
@@ -177,30 +177,30 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Connector Type Match",
     "description": "Compared DC barrel, USB-A, and USB-C connectors against common non-PoE device charging ports."
   },
   {
-    "title": "",
+    "title": "Real Voltage and Amperage",
     "description": "Compared documented output voltage and current across 12V, 24V, and 5V options."
   },
   {
-    "title": "",
+    "title": "2.5Gbps Speed Consistency",
     "description": "5Gbps speed holds across all four picks."
   },
   {
-    "title": "",
+    "title": "PoE Source Requirements",
     "description": "Compared whether full power output requires a specific PoE standard or source type."
   },
   {
-    "title": "",
+    "title": "Electrical Protection",
     "description": "Compared isolation, short-circuit, and overvoltage protection disclosures."
   }
 ];
 
 export const introParagraphs = [
   "5 times the throughput of standard Gigabit while converting PoE to a non-PoE device's actual power requirement, but that output voltage or connector type varies enough between listings that matching the right splitter to your exact device matters as much as the speed rating.",
-  ""
+  "We compared this lineup on real connector type and voltage output, since one listing specifically delivers 24V for wireless bridges while another provides USB-C specifically for a Raspberry Pi 4B, all at the same genuine 2.5Gbps speed."
 ];
 
 export const lastUpdated = "2026-09-16";

@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/31DsLHp9vML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,19 +76,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $27",
           "Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans for 12\"-17\" Laptop"
         ],
         [
-          "",
+          "Mid-range",
           "Laptop Cooling Pad for MacBook Air Pro 14 15 16 17 Inch"
         ],
         [
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: Razer Laptop Cooling Pad Adaptive Smart."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: TECKNET Laptop Cooling Pad with Phone Stand."
       }
     ],
     "note": "Most buyers should default to a slim pick like Razer Laptop Cooling Pad Adaptive Smart for everyday portability, and only step up to TECKNET Laptop Cooling Pad with Phone Stand's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Razer Laptop Cooling Pad Adaptive Smart offers: Automatic adjustment suits sustained editing and compile workloads. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans for 12\"-17\" Laptop already covers the essentials: Staged fan control matches airflow to your actual workload. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -161,19 +161,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Active-fan vs fanless distinction",
     "description": "We compared each pick with the understanding that MacBook Pro already has active internal fans, unlike the fanless MacBook Air, so a cooling pad's role here is supplementary rather than compensatory."
   },
   {
-    "title": "",
+    "title": "Generation-specific vent alignment",
     "description": "We noted that MacBook Pro vent locations vary by generation between rear-hinge and bottom-panel combinations, and did not assume uniform compatibility across all model years."
   },
   {
-    "title": "",
+    "title": "Heavy-workload relevance",
     "description": "We weighed each pick's usefulness for sustained video editing, compilation, and export workloads common among MacBook Pro users, not just casual browsing."
   },
   {
-    "title": "",
+    "title": "Port compatibility",
     "description": "We noted that MacBook Pro's larger port selection makes USB pass-through compatibility less of a constraint than on a base MacBook Air, though it still matters for keeping ports free."
   }
 ];

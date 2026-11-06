@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/21jJvRde8+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $390",
+          "Dell SD25TB5 Pro 300W 12-Port ($389.89)"
         ],
         [
-          "",
-          ""
+          "Under $400",
+          "CalDigit TS5, 15 Port ($399.95)"
         ],
         [
-          "",
-          ""
+          "Under $460",
+          "Dell Pro Enterprise Bundle ($459.96)"
         ],
         [
-          "",
-          ""
+          "Under $500",
+          "CalDigit TS5 Plus ($499.99)"
         ]
       ]
     }
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Power Tiering vs Universal Sustained Power",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-specific tiering (Dell picks)",
         "text": "Both Dell docks specifically deliver 300W to Dell systems but only 240W to non-Dell systems, a real distinction that matters if your laptop isn't a Dell."
       },
       {
@@ -128,11 +128,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you use a Dell laptop, the Dell picks' full 300W is a real advantage. If you use a mixed-brand household or a non-Dell laptop, the CalDigit picks' brand-agnostic sustained power delivery may be the more reliable choice."
   },
   {
-    "subheading": "",
+    "subheading": "By Deployment Context",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your deployment",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fully Loaded Multi-Device Workstation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock with a large power supply specifically rated to sustain full power across every connected port simultaneously, not just a headline peak wattage that may only apply with fewer devices connected."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The CalDigit TS5 Plus's 330W power supply is specifically built to sustain power across all 20 ports, making it the strongest fit for a fully loaded multi-device workstation."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "96 price is justified by those features."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "95, a lower price than the flagship Plus model."
       }
     ]

@@ -60,23 +60,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EsewSK2nL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "note": "Every pick in this specific comparison uses a similar layout approach; check the product names above for the exact curve, split, or angle."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $55",
           "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"
         ],
         [
-          "",
+          "Mid-range",
           "Logitech Wave Keys Wireless Ergonomic Keyboard with Cushioned Palm"
         ],
         [
@@ -87,14 +87,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: Perixx PERIBOARD-512B Wired Ergonomic Keyboard."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest, Logitech Wave Keys Wireless Ergonomic Keyboard, Arteck Split Ergonomic Keyboard with Cushioned Wrist and Palm Rest."
       }
     ]
@@ -103,12 +103,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest cost, quiet typing",
           "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"
         ],
         [
@@ -122,24 +122,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest fits this specifically: Negative tilt reduces wrist extension by design."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Microsoft Surface Ergonomic Wireless Keyboard offers: Premium materials and finish. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Perixx PERIBOARD-512B Wired Ergonomic Keyboard already covers the essentials: Lowest price in this list. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -156,15 +156,15 @@ export const howWeEvaluated = [
     "description": "Checked whether a cushioned rest was built in and full-width, since a rest meant only to be leaned on during pauses behaves very differently from one used while actively typing."
   },
   {
-    "title": "",
+    "title": "Connectivity and setup",
     "description": "Compared wired, Bluetooth, and USB receiver options, since a wired board removes battery concerns entirely while wireless models add multi-device pairing flexibility."
   },
   {
-    "title": "",
+    "title": "Adjustment period realism",
     "description": "Weighed how large a layout change each pick asks of a new user, a one-piece wave board is a much smaller adjustment than a full split, hinged layout."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed build materials, included rest quality, and tenting adjustability against price, from the wired split board to the premium wave keyboard."
   }
 ];

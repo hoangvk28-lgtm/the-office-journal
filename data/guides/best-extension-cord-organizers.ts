@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41+IuldE9GL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A few light cables",
           "Bayco KW-130 Cord Storage Reel with Center Spin Handle"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Extension Cord Organizer Adjustable 2 PCS with 5 Slots"
         ],
         [
-          "",
+          "A large mixed bundle",
           "Wowangce 2 Pcs Extension Cord Holder with 5 Slots"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Bayco KW-130 Cord Storage Reel with Center Spin Handle"
         ],
         [
-          "",
+          "Mid-range pick",
           "8 Pack Heavy Duty Large 13-inch Extension Cord Storage Extendable Cable Ties"
         ],
         [
-          "",
+          "Higher budget",
           "Wowangce 2 Pcs Extension Cord Holder with 5 Slots"
         ]
       ]
@@ -113,26 +113,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Hides cables completely, needs ventilation for warm power bricks."
       },
       {
-        "label": "",
+        "label": "Sleeve/wrap",
         "text": "More flexible for adding cables, less visually contained."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under-desk hidden",
           "Extension Cord Organizer Adjustable 2 PCS with 5 Slots"
         ],
         [
-          "",
+          "Surface or freestanding",
           "8 Pack Heavy Duty Large 13-inch Extension Cord Storage Extendable Cable Ties"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequently Changing Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reusable fasteners and an open or slotted entry point rather than a fully sealed box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Extension Cord Organizer Adjustable 2 PCS with 5 Slots is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Wowangce 2 Pcs Extension Cord Holder with 5 Slots justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Bayco KW-130 Cord Storage Reel with Center Spin Handle already covers the job at the lowest price here."
       }
     ]

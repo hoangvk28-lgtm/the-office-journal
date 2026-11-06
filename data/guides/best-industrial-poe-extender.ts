@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31TVMJX2xPL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $40",
+          "Industrial DIN-Rail Gigabit PoE+ Extender ($39.99)"
         ],
         [
-          "",
-          ""
+          "Under $65",
+          "TRENDnet TI-OE110 ($64.99)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "Intellinet Industrial Gigabit PoE++ Extender ($89.99)"
         ],
         [
-          "",
-          ""
+          "Under $200",
+          "TRENDnet TI-BE200 ($199.99)"
         ]
       ]
     }
@@ -122,18 +122,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Suited to control cabinets, factory floors, and warehouses with protection against solid objects but no specific water resistance rating."
       },
       {
-        "label": "",
+        "label": "IP67 outdoor-rated (TI-OE110, TI-BE200)",
         "text": "Certified for temporary submersion protection, suited to genuine direct outdoor exposure like pole-mounted or exposed installations."
       }
     ],
     "note": "If your industrial installation is inside a control cabinet or enclosed building, an IP30-rated pick is sufficient and more affordable. If your installation faces genuine outdoor weather exposure, the IP67-rated TRENDnet picks are the appropriate choice."
   },
   {
-    "subheading": "",
+    "subheading": "By Power Requirement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device's power need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Factory Floor or Warehouse Control Cabinet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "DIN-rail mounting compatibility combined with a wide operating temperature range, since factory and warehouse environments often see temperature extremes beyond typical office climates."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "All four picks specifically support DIN-rail mounting and a -40F to 167F operating range, making any of them suitable for a temperature-extreme control cabinet installation."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by that combination."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -185,11 +185,11 @@ export const howWeEvaluated = [
     "description": "Compared IP30 indoor-only ratings against IP67 outdoor-rated enclosures."
   },
   {
-    "title": "",
+    "title": "Operating Temperature Range",
     "description": "Compared documented temperature tolerance for harsh industrial climates."
   },
   {
-    "title": "",
+    "title": "Power Delivery Ceiling",
     "description": "Compared standard PoE+ 30W support against higher-tier PoE++ up to 80-90W."
   },
   {
@@ -197,7 +197,7 @@ export const howWeEvaluated = [
     "description": "Compared surge protection, grounding points, and short-circuit safeguards."
   },
   {
-    "title": "",
+    "title": "Warranty and Compliance",
     "description": "Compared warranty length and government procurement compliance certifications."
   }
 ];

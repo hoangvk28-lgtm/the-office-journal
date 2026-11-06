@@ -28,7 +28,7 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "q": "",
+    "q": "Are electric staplers loud?",
     "a": "They produce a distinct motor click or whir each time they fire, check reviews specifically for noise complaints if you'll use it near coworkers in a quiet shared office."
   },
   {
@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/417wZ1quG7L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Stack Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light, a few sheets",
+          "Swingline Stapler"
         ],
         [
-          "",
+          "A regular office stack",
           "Business Source Vertical Desktop Stapler"
         ],
         [
-          "",
-          ""
+          "Consistently thick stacks",
+          "PaperPro(R) Prodigy(R) Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Swingline Stapler"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Swingline Stapler Value Pack"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "PaperPro(R) Prodigy(R) Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Manual vs Electric",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (e.g. Swingline Stapler)",
         "text": "No power dependency, reliable for any volume."
       },
       {
-        "label": "",
+        "label": "Electric",
         "text": "Reduces hand strain at high volume, depends on charge or power."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Staple Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 26/6 staples",
           "Business Source Vertical Desktop Stapler"
         ],
         [
-          "",
-          ""
+          "A specific alternate size",
+          "Swingline Stapler Value Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Center-of-Document Stapling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A deep throat depth spec, not just a standard corner-reach stapler."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Business Source Vertical Desktop Stapler is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where PaperPro(R) Prodigy(R) Stapler justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Swingline Stapler already covers the job at the lowest price here."
       }
     ]

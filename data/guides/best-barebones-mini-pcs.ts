@@ -53,38 +53,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/21j26jIVLGL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
+        "What you're running",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
           "Light everyday or office use",
-          ""
+          "Barebone Mini PC"
         ],
         [
-          "",
+          "Demanding, sustained workloads",
           "MINISFORUM Mini PC AI X1 Pro Barebone with AMD Ryzen AI 9 HX370(12Cores/24 Threads)&AMD Radeon"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $180",
+          "Barebone Mini PC"
         ],
         [
-          "",
+          "Mid-range",
           "Reatan X7 AI AMD Ryzen 7 255 Oculink Gaming Mini PC(Upgraded 8745HS)"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fanless (Passive) vs Actively Cooled",
     "cards": [
       {
-        "label": "",
+        "label": "Fanless, Passive Cooling",
         "text": "Completely silent with no moving parts, at the cost of throttling under sustained heavy load. In this comparison: check each listing's cooling design directly."
       },
       {
-        "label": "",
+        "label": "Actively Cooled (Fan)",
         "text": "Sustains heavier workloads longer without throttling, at the cost of some fan noise under load. In this comparison: MINISFORUM Mini PC AI X1 Pro Barebone with AMD Ryzen AI 9 HX370(12Cores/24 Threads)&AMD Radeon, Reatan X7 AI AMD Ryzen 7 255 Oculink Gaming Mini PC(Upgraded 8745HS), Barebone Mini PC."
       }
     ],
@@ -112,13 +112,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By RAM and Storage Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Lightest low-cost configuration",
+          "Barebone Mini PC"
         ],
         [
           "Maximum RAM and storage headroom",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For GPU-Accelerated Work or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated GPU or a confirmed Oculink/Thunderbolt EGPU connection explicitly stated in the listing, not just a generic \"gaming capable\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MINISFORUM Mini PC AI X1 Pro Barebone with AMD Ryzen AI 9 HX370(12Cores/24 Threads)&AMD Radeon fits this specifically: flagship-tier processor performance in a barebone kit."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what MINISFORUM Mini PC AI X1 Pro Barebone with AMD Ryzen AI 9 HX370(12Cores/24 Threads)&AMD Radeon offers: flagship-tier processor performance in a barebone kit. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Barebone Mini PC already covers the essentials: Very low-cost base price for the barebone chassis. The main thing you'd be paying extra for elsewhere in this list is headroom you may not need."
       }
     ]

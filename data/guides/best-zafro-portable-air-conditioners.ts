@@ -9,7 +9,7 @@ export const buyingCriteria = [
     "explanation": "Department of Energy requires and accounts for heat the unit's own motor and condenser add back into the room. SACC is typically 20 to 40% lower than the headline ASHRAE BTU number, so two units both marketed as '14,000 BTU' can have meaningfully different real cooling power depending on which rating is being quoted. Look specifically for the SACC figure in the spec sheet, not just the bigger ASHRAE number in the title, when comparing actual cooling capacity."
   },
   {
-    "criterion": "",
+    "criterion": "Single-Hose vs Dual-Hose Venting",
     "explanation": "The difference between single-hose and dual-hose venting comes down to air pressure: a single-hose unit pulls its condenser air from inside the room, creating negative pressure that sucks hot air back in through every crack around doors and windows, while a dual-hose design draws condenser air from outside instead, avoiding that effect. This is why a dual-hose unit delivers meaningfully more real (SACC) cooling than a single-hose unit with the same ASHRAE BTU rating. For larger rooms needing 12,000+ BTU, a dual-hose design is generally worth the extra cost and slightly bulkier setup."
   },
   {
@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41FU+A5qhZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small room or bedroom",
           "ZAFRO 10000 BTU Portable Air Conditioners"
         ],
         [
-          "",
+          "Standard-size room",
           "ZAFRO Smart Inverter Portable Air Conditioners"
         ],
         [
-          "",
+          "Large or open space",
           "ZAFRO Smart Inverter Portable Air Conditioners"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "ZAFRO 10000 BTU Portable Air Conditioners"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "ZAFRO Portable Air Conditioner"
         ],
         [
-          "",
+          "Higher budget",
           "ZAFRO Smart Inverter Portable Air Conditioners"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Single-Hose vs Dual-Hose Venting",
     "cards": [
       {
         "label": "ZAFRO 10000 BTU Portable Air Conditioners)",
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By SACC vs ASHRAE BTU Rating",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Bedroom or Noise-Sensitive Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A specific decibel rating at standard operating speed, since compressor noise is one of the most common complaints about portable AC units."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ZAFRO Smart Inverter Portable Air Conditioners is worth checking against its specific decibel rating before assuming any unit is quiet enough for a bedroom."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're cooling a large room and want dual-hose efficiency and higher real cooling power, where ZAFRO Smart Inverter Portable Air Conditioners justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're cooling a small room or bedroom, where ZAFRO 10000 BTU Portable Air Conditioners already covers the job at the lowest price here."
       }
     ]
@@ -170,10 +170,10 @@ export const howToChoose: HowToChooseSection[] = [
 export const howWeEvaluated = [
   {
     "title": "BTU vs SACC, Which Rating Actually Predicts Cooling",
-    "description": ""
+    "description": "The BTU number on the box is usually an ASHRAE rating measured under ideal lab conditions, while SACC (Seasonally Adjusted Cooling Capacity) is the real-world figure the U.S."
   },
   {
-    "title": "",
+    "title": "Single-Hose vs Dual-Hose Venting",
     "description": "The difference between single-hose and dual-hose venting comes down to air pressure: a single-hose unit pulls its condenser air from inside the room, creating negative pressure that sucks hot air back in through every crack around doors and windows, while a dual-hose design draws condenser air from outside instead, avoiding that effect."
   },
   {

@@ -60,13 +60,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $200",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "The best all-around option in this comparison",
-          ""
+          "SABRENT Tool-Free NVMe & SATA M.2 SSD Enclosure"
         ],
         [
           "A strong alternative with a different tradeoff",
@@ -79,8 +79,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,8 +88,8 @@ export const howToChoose: HowToChooseSection[] = [
           "SABRENT USB-C NVMe Enclosure & Reader"
         ],
         [
-          "",
-          ""
+          "Best overall value",
+          "SABRENT Tool-Free NVMe & SATA M.2 SSD Enclosure"
         ]
       ]
     }
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "SABRENT Tool-Free NVMe vs Dual Bay Raid",
     "cards": [
       {
-        "label": "",
+        "label": "SABRENT Tool-Free NVMe & SATA M.2 SSD Enclosure",
         "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
       },
       {
@@ -109,16 +109,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "2 SSD Enclosure unless your specific use case points toward Dual Bay Raid SSD Enclosure: 2280 M2 Hard Drive Enclosure with Clone Mode &'s particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Matches this guide's core use case most closely",
-          ""
+          "SABRENT Tool-Free NVMe & SATA M.2 SSD Enclosure"
         ],
         [
           "A close secondary option worth comparing",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "2 SSD Enclosure is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on Dual Bay Raid SSD Enclosure: 2280 M2 Hard Drive Enclosure with Clone Mode &, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by SABRENT USB-C NVMe Enclosure & Reader without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every recommended product must be new, in stock and up to $200 on the article refresh date; stale sale prices are automatically disqualified."
   },
   {
-    "title": "",
+    "title": "Budget-ladder context",
     "description": "Explicitly show what changes between the next-lower tier, the high-speed premium tier, and the next-higher tier so this page is not a cloned generic ranking."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize price against drive/protocol support, bridge/link speed and the minimum usable setup cost rather than raw feature count."
   },
   {
-    "title": "",
+    "title": "Evidence split",
     "description": "We separated sustained thermals and TRIM/UASP/SMART figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
-    "title": "",
+    "title": "Threshold-specific ownership verdict",
     "description": "Judge host/cable compatibility, warranty/support, replacement accessories and the chance that a buyer should save money or step up a tier instead of spending the full $200."
   }
 ];

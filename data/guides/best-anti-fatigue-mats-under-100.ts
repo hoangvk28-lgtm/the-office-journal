@@ -63,31 +63,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Hours Standing Per Day",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your day",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional standing",
           "Guardian Floor Protection Anti-Fatigue Mat 24030502-1 Each"
         ],
         [
-          "",
+          "Several hours daily",
           "DEXI Anti Fatigue Kitchen Floor Mat Cushioned Standing Runner 70x20"
         ],
         [
-          "",
+          "Full-day standing desk use",
           "Nisorpa Anti Fatigue Mats Industrial 3' x 6' Ergonomic Standing Mat 15/16\""
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Guardian Floor Protection Anti-Fatigue Mat 24030502-1 Each"
         ],
         [
-          "",
+          "Mid-range pick",
           "HappyTrends Kitchen Mats for Floor Cushioned Anti-Fatigue Kitchen Rugs"
         ],
         [
-          "",
+          "Higher budget",
           "Nisorpa Anti Fatigue Mats Industrial 3' x 6' Ergonomic Standing Mat 15/16\""
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Foam vs Polyurethane",
     "cards": [
       {
         "label": "Guardian Floor Protection Anti-Fatigue Mat 24030502-1 Each)",
@@ -120,19 +120,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how many hours a day the mat will actually see, not just initial comfort."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hard flooring",
           "DEXI Anti Fatigue Kitchen Floor Mat Cushioned Standing Runner 70x20"
         ],
         [
-          "",
+          "Carpet",
           "Check specifically for a mat rated for carpet use"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Barefoot or Sock Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A textured surface rather than smooth, which can feel slippery without shoes."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "DEXI Anti Fatigue Kitchen Floor Mat Cushioned Standing Runner 70x20 is worth checking against its specific surface texture before assuming any mat grips the same barefoot."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You stand for most of the workday and want long-term support, where Nisorpa Anti Fatigue Mats Industrial 3' x 6' Ergonomic Standing Mat 15/16\" justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only stand occasionally and want basic cushioning, where Guardian Floor Protection Anti-Fatigue Mat 24030502-1 Each already covers the job at the lowest price here."
       }
     ]

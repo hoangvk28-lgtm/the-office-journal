@@ -61,16 +61,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41i8bK2NEML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A device ledge and airflow cooling",
-          ""
+          "LAPGEAR MyDesk Lap Desk"
         ],
         [
           "A rigid, slim writing surface for laptops or keyboards",
@@ -78,30 +78,30 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A simple, no-frills cushioned design",
-          ""
+          "LAPGEAR Basic Lap Desk"
         ],
         [
           "The lightest possible lap desk for easy carrying",
-          ""
+          "LAPGEAR MyStyle Lap Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "LAPGEAR MyDesk ($19.99), Basic ($19.99), or MyStyle ($19.99)"
         ],
         [
-          "",
-          ""
+          "Exactly $20",
+          "GRIFITI Travel Deck ($20.00)"
         ]
       ]
     }
@@ -114,31 +114,31 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Soft microbead cushion rests comfortably on the lap, ideal for casual laptop use on a couch or bed."
       },
       {
-        "label": "",
+        "label": "Rigid (GRIFITI Travel Deck)",
         "text": "Uncushioned but slim and sturdy, better suited to writing, drawing, or using a separate keyboard on your lap."
       }
     ],
     "note": "If you mainly watch videos or browse casually on a couch, a cushioned design like the LAPGEAR picks is more comfortable. If you need a stable, flat surface for writing or a mechanical keyboard, the GRIFITI's rigid design suits that better."
   },
   {
-    "subheading": "",
+    "subheading": "By Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Preventing laptop slippage",
+          "LAPGEAR MyDesk (device ledge)"
         ],
         [
-          "",
-          ""
+          "Minimizing weight for portability",
+          "LAPGEAR MyStyle (1.15 lbs)"
         ],
         [
           "Fitting inside a laptop sleeve for travel",
-          ""
+          "GRIFITI Travel Deck"
         ]
       ]
     }
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Working in Bed for Extended Periods Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dual-bolster cushion design with an airflow channel to prevent overheating during long sessions."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The LAPGEAR MyDesk's center airflow channel and dual-bolster cushion are specifically designed for this kind of extended comfortable use."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a device ledge and airflow cooling in one package, where the LAPGEAR MyDesk delivers both at the same price as the simpler picks in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, reliable cushioned surface, where the LAPGEAR Basic covers that without paying for extra features you may not use."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Surface Size and Fit",
     "description": "Compared stated surface dimensions and maximum supported laptop screen size across the lineup."
   },
   {
-    "title": "",
+    "title": "Cushion Design",
     "description": "Distinguished microbead dual-bolster cushioning from rigid, uncushioned board designs."
   },
   {
-    "title": "",
+    "title": "Heat Management",
     "description": "Compared airflow channels and heat shield features designed to keep both the lap and the device cool."
   },
   {
-    "title": "",
+    "title": "Portability Features",
     "description": "Compared weight and carrying handle design across the lineup."
   },
   {
-    "title": "",
+    "title": "Additional Storage Features",
     "description": "Checked for device ledges, storage wells, or cup holders included in each design."
   }
 ];

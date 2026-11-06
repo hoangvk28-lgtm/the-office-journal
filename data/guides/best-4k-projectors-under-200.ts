@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41mR8b1IwnL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $140",
+          "HAPPRUN ($139.97)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "Magcubic ($159.99)"
         ],
         [
-          "",
-          ""
+          "Under $170",
+          "X6 ($169.00)"
         ],
         [
-          "",
-          ""
+          "Under $180",
+          "Netflix Built-in ($179.99)"
         ]
       ]
     }
@@ -129,16 +129,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your viewing space isn't fully darkened, the higher-brightness Netflix Built-in pick will produce a more visible image. If content variety through a broader app selection matters more, the X6's Android ecosystem delivers that."
   },
   {
-    "subheading": "",
+    "subheading": "By Room Lighting Conditions",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room's lighting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Fully darkened room",
+          "HAPPRUN or Magcubic"
         ],
         [
           "Some ambient light, daytime use",
@@ -146,7 +146,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Bright room or outdoor daytime use",
-          ""
+          "Netflix Built-in (3500 ANSI)"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Buyer Who Prioritizes Genuine Netflix Access Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An officially licensed Netflix app built directly into the projector's operating system, not just general 'streaming compatible' language that might require an external dongle."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Netflix Built-in pick specifically confirms officially licensed Netflix access without needing a Fire Stick or Chromecast dongle."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want officially licensed Netflix access with the highest stated brightness, where the Netflix Built-in pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want solid built-in streaming and Dolby Audio without needing maximum brightness, where the HAPPRUN pick covers that for about $40 less."
       }
     ]
@@ -185,19 +185,19 @@ export const howWeEvaluated = [
     "description": "Verified whether each pick has a genuine native 4K panel or a 1080P panel decoding 4K source content."
   },
   {
-    "title": "",
+    "title": "ANSI Brightness",
     "description": "Compared stated ANSI lumens figures across the lineup, from 800 to 3500."
   },
   {
-    "title": "",
+    "title": "Streaming App Access",
     "description": "Compared built-in app ecosystems and officially licensed streaming service access."
   },
   {
-    "title": "",
+    "title": "Auto-Calibration Features",
     "description": "Compared auto focus, keystone correction, and obstacle avoidance across all four picks."
   },
   {
-    "title": "",
+    "title": "Built-In Audio Quality",
     "description": "Compared built-in speaker wattage and audio technology support."
   }
 ];

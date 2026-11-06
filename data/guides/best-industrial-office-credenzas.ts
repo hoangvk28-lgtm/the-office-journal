@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "Check that cables can stay hidden while remaining accessible for future changes, since some style-forward designs prioritize appearance over serviceability."
   },
   {
-    "criterion": "",
+    "criterion": "Check Replacement Hardware Availability",
     "explanation": "Confirm whether replacement handles, doors, or finish-repair options exist for this specific style line, since decorative hardware is not always a standard, easily replaceable part."
   }
 ];
@@ -73,14 +73,14 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check that cables can stay hidden while remaining accessible for future changes, since some style-forward designs prioritize appearance over serviceability."
   },
   {
-    "subheading": "",
+    "subheading": "Check Replacement Hardware Availability",
     "note": "Confirm whether replacement handles, doors, or finish-repair options exist for this specific style line, since decorative hardware is not always a standard, easily replaceable part."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Function Classified Before Comparison",
     "description": "Sorted each product into storage credenza, credenza desk, file credenza, or desk-system credenza before ranking, since 'office credenza' spans meaningfully different furniture types that don't compare fairly against each other."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Compared published interior drawer, shelf, and cabinet dimensions rather than exterior width or door count alone, since partitions and hardware can meaningfully shrink real usable space."
   },
   {
-    "title": "",
+    "title": "File Compatibility Verified Directly",
     "description": "Checked letter/legal compatibility, filing direction, and lock coverage against each product's own documentation rather than assuming a 'file drawer' label means full hanging-file support."
   },
   {

@@ -29,14 +29,14 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the largest home smart display available?",
-    "a": ""
+    "a": "The Apolosign 21.5 inch Digital Calendar, by far the largest screen in our research, roughly double the diagonal size of the standard 10.1 inch tier."
   },
   {
     "q": "Do these require a subscription?",
     "a": "The Airzeen, Westsee, and Cotoala picks explicitly advertise no subscription requirement; verify subscription terms directly for the Apolosign and Skylight picks before buying."
   },
   {
-    "q": "",
+    "q": "What's the cheapest option?",
     "a": "99, though its screen is noticeably smaller than the other picks here."
   },
   {
@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "How far away can these be read from?",
-    "a": ""
+    "a": "A 10.1 inch screen reads clearly up close but loses readability from across a room; for viewing from 8+ feet away, prioritize the 15.6 inch or 21.5 inch tiers."
   }
 ];
 
@@ -60,80 +60,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Apolosign 21.5 inch Digital Calendar"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Apolosign 21.5 inch Digital Calendar"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $60",
           "1 inch Smart Digital Calendar"
         ],
         [
-          "",
-          ""
+          "Up to $370",
+          "Apolosign 21.5 inch Digital Calendar"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
         "label": "1 inch Smart Digital Calendar",
         "text": "The lower-priced option in this comparison, worth checking its screen size and camera presence against your needs."
       },
       {
-        "label": "",
+        "label": "Apolosign 21.5 inch Digital Calendar",
         "text": "The higher-priced option, worth it if it offers real screen size or feature headroom above the cheaper pick."
       }
     ],
     "note": "1 inch Smart Digital Calendar unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Voice Assistant Ecosystem",
     "note": "Check each pick's voice assistant ecosystem against your existing smart home devices and calendar service before buying, not just screen specs."
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine front-facing camera with decent resolution, and motorized tracking if you move around during calls."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since camera presence isn't consistent across every display in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5 inch Digital Calendar's features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "1 inch Smart Digital Calendar covers the same job at a lower price."
       }
     ]

@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/313ZbpJoZ0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -80,27 +80,27 @@ export const howToChoose: HowToChooseSection[] = [
           "Anker Prime TB5 Docking Station"
         ],
         [
-          "",
+          "Maximum port count and 2.5GbE networking",
           "CalDigit TS4, 18 Port Thunderbolt 4 Dock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "$175 to $200",
+          "UGREEN ($174.99) or Plugable ($199.95)"
         ],
         [
-          "",
-          ""
+          "$320 to $500",
+          "Anker Prime TB5 ($319.99), CalDigit TS4 ($379.99), or CalDigit TS5 PLUS ($499.99)"
         ]
       ]
     }
@@ -120,11 +120,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check your exact MacBook Pro model's port specification before paying extra for Thunderbolt 5: if your Mac only has Thunderbolt 4 ports, a TB5 dock still works but caps at TB4 speeds."
   },
   {
-    "subheading": "",
+    "subheading": "By Charging Wattage Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your MacBook Pro is",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Photo and Video Professionals Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5GbE or faster networking, so memory cards and large media files transfer without a separate reader or slow network bottleneck."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5GbE or faster networking for large file transfers."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) are built for exactly that."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) delivers genuine Mac-certified performance for the lowest price here."
       }
     ]
@@ -168,7 +168,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Thunderbolt certification verification",
     "description": "We confirmed each pick uses genuine Thunderbolt 4 or Thunderbolt 5 controller chips rather than a plain USB-C hub marketed loosely as Mac-compatible, since only real Thunderbolt certification unlocks multi-display and full peripheral bandwidth on a MacBook Pro simultaneously."
   },
   {
@@ -176,15 +176,15 @@ export const howWeEvaluated = [
     "description": "We checked each pick's stated charging wattage against real MacBook Pro charger ratings, since a 16-inch model's included charger often exceeds 100W, a detail that rules out lower-wattage docks for full-speed charging."
   },
   {
-    "title": "",
+    "title": "Display support comparison",
     "description": "We compared maximum resolution and number of simultaneous external displays each dock supports, since this varies meaningfully even among docks using the same Thunderbolt generation."
   },
   {
-    "title": "",
+    "title": "Named Mac chip compatibility",
     "description": "We favored listings that name specific Apple Silicon chip generations directly (M1 through M5) over ones that only claim generic \"Mac compatible\" with no specific validated chip range."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $500 on the date this guide was checked; docks that only hit this tier during a temporary sale were excluded."
   }
 ];

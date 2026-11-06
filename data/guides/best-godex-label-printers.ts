@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Cutter-faq",
     "q": "Is an automatic cutter worth paying extra for?",
     "a": "Only if you're printing at real volume, a cutter saves time on dozens of labels a day but adds a mechanical part that can jam or dull, a tear-bar design has nothing to fail but is slower at high volume."
   },
   {
-    "id": "",
+    "id": "Battery-faq",
     "q": "Are battery-powered label printers slower than plug-in models?",
     "a": "Generally yes, a battery-powered unit gives you true portability for warehouse or on-site printing but typically runs slower and handles smaller batches per charge than a desktop model on constant power."
   },
   {
-    "id": "",
+    "id": "Sensor-faq",
     "q": "Can I use any label stock with any label printer?",
     "a": "No, printers use either a gap sensor for die-cut labels or a black-mark sensor for continuous stock, using the wrong label type for your printer's sensor causes alignment problems, check compatibility before buying label stock separately."
   },
   {
-    "id": "",
+    "id": "Dpi-faq",
     "q": "Do I need 300 DPI or is 203 DPI enough?",
     "a": "203 DPI is fine for large simple shipping labels, but if your labels include small text, fine barcodes, or 2D codes, 300 DPI produces noticeably crisper results worth the price difference."
   },
   {
-    "id": "",
+    "id": "Ribbon-faq",
     "q": "Why does a thermal transfer printer cost more to run over time?",
     "a": "It needs a fresh ribbon roughly proportional to your print volume, a real recurring cost direct thermal printers don't have, factor this into your actual cost per label before choosing thermal transfer purely for label longevity."
   },
   {
-    "id": "",
+    "id": "Connect-faq",
     "q": "Should I get a Bluetooth or USB label printer?",
     "a": "Bluetooth is more convenient if you print from a phone or move around, but USB is generally more reliable for a printer that sits in one fixed spot, check reviews for connectivity complaints before relying on wireless for daily volume."
   }
@@ -67,15 +67,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/413V284ULWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light printing",
           "Godex DT2X 2” Direct Thermal Printer"
         ],
         [
@@ -83,18 +83,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Godex DT2X Direct Thermal Desktop Barcode Label Printer"
         ],
         [
-          "",
+          "High-volume daily printing",
           "Godex DT2X 2” Direct Thermal Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Godex DT2X 2” Direct Thermal Printer"
         ],
         [
-          "",
+          "Mid-range pick",
           "Godex RT200I 2\" Thermal Transfer Printer with Color Display 203 dpi"
         ],
         [
-          "",
+          "Higher budget",
           "Godex DT2X 2” Direct Thermal Printer"
         ]
       ]
@@ -120,22 +120,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Lower running cost, labels fade within months."
       },
       {
-        "label": "",
+        "label": "Thermal transfer",
         "text": "Costs more per label with ribbon, labels last years."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Connectivity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fixed desk spot",
           "Godex DT2X Direct Thermal Desktop Barcode Label Printer"
         ],
         [
@@ -146,27 +146,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Shipping Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic cutter and larger roll capacity rather than a compact desktop model stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Godex DT2X Direct Thermal Desktop Barcode Label Printer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Godex DT2X 2” Direct Thermal Printer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Godex DT2X 2” Direct Thermal Printer already covers the job at the lowest price here."
       }
     ]

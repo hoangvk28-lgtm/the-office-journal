@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "GOLDENMATE 1500VA/1000W Lithium UPS Battery Backup & Surge Protector"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "APC UPS 1500VA/900W Battery Backup for PCs"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $162",
           "APC 850VA/510W Pro UPS Battery Backup for Office Electronics"
         ],
         [
-          "",
+          "Up to $350",
           "GOLDENMATE 1500VA/1000W Lithium UPS Battery Backup & Surge Protector"
         ]
       ]
@@ -94,11 +94,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Pure Sine Wave vs Modified Sine Wave",
     "cards": [
       {
-        "label": "",
+        "label": "Pure sine wave",
         "text": "Clean power matching wall-outlet quality, avoids APFC compatibility issues with modern PC power supplies. In this comparison: APC UPS 1500VA/900W Pure Sine Wave UPS for Computer, APC UPS 1500VA/900W Battery Backup for PCs."
       },
       {
-        "label": "",
+        "label": "Modified sine wave",
         "text": "Cheaper, but can cause buzzing or shutdown risk on APFC-equipped power supplies. In this comparison: CyberPower CP1500PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector, APC 1000VA/600W Pro UPS Battery Backup for Office Electronics, GOLDENMATE 1500VA/1000W Lithium UPS Battery Backup & Surge Protector, APC 850VA/510W Pro UPS Battery Backup for Office Electronics."
       }
     ],
@@ -112,24 +112,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a PC Plus Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Real watts (not VA) comfortably above your combined equipment draw, plus pure sine wave if your PC has an APFC power supply."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "CyberPower CP1500PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector discloses the highest real capacity at 1000W."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a high-draw workstation, multiple monitors, or NAS equipment, where GOLDENMATE 1500VA/1000W Lithium UPS Battery Backup & Surge Protector's higher watts capacity gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need brief runtime for a single low-draw device, where APC 850VA/510W Pro UPS Battery Backup for Office Electronics covers the same job at a lower price."
       }
     ]

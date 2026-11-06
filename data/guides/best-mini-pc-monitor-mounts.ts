@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41d9ePK-7vL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Surface",
     "table": {
       "headers": [
-        "",
+        "Where it's going",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,19 +76,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $19",
           "HumanCentric Mounting Bracket for Intel NUC"
         ],
         [
-          "",
+          "Mid-range",
           "Adjustable Thin Client Mini PC Mount"
         ],
         [
@@ -102,42 +102,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Fit vs Universal Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-Specific Fit",
         "text": "Matches one specific chassis shape exactly, generally a more secure fit for that exact model. In this comparison: Adjustable Thin Client Mini PC Mount Bracket."
       },
       {
-        "label": "",
+        "label": "Universal / Multi-Brand",
         "text": "Works across several mini PC brands with adjustable hardware, more flexible if you might switch devices later. In this comparison: VIVO Behind Monitor Mini PC Mount for Dell OptiPlex Micro."
       }
     ],
     "note": "Confirm your exact mini PC model against the listing's stated compatibility either way, since even a \"universal\" mount has real size limits."
   },
   {
-    "subheading": "",
+    "subheading": "By Post-Install Port Access",
     "note": "None of these picks specifically advertise preserved front-port access after mounting; check each listing's product photos for where the ports land once installed if that matters to you."
   },
   {
     "subheading": "For a Home Lab Rack Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of 10-inch (home-lab) versus 19-inch (commercial) rack compatibility, since these are different standards, plus whether it's full or half rack-unit width."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Adjustable Thin Client Mini PC Mount Bracket fits this specifically: Lowest price for monitor-arm-compatible attachment in this guide."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what HumanCentric Thin Client Mount Bracket offers: Publishes a combined device-plus-monitor weight rating. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "HumanCentric Mounting Bracket for Intel NUC already covers the essentials: Lowest price in this guide. The main thing you'd be paying extra for elsewhere in this list is broader compatibility you may not need."
       }
     ]
@@ -146,7 +146,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine monitor-attachment mechanism",
     "description": "We verified whether each product actually attaches to the monitor itself via its VESA holes, rather than a separate clip or adhesive method, and reported honestly that VESA is the mechanism behind every pick here."
   },
   {
@@ -154,11 +154,11 @@ export const howWeEvaluated = [
     "description": "We compared whether attaching a Mini PC uses the monitor's own VESA point exclusively, versus offering wall or under-desk alternatives if you decide against monitor attachment later."
   },
   {
-    "title": "",
+    "title": "Combined weight honesty",
     "description": "We flagged which listings publish a combined device-plus-monitor weight rating versus only a device-only figure, since attaching to a monitor adds weight to whatever that monitor's stand or arm is already carrying."
   },
   {
-    "title": "",
+    "title": "Device-specific vs universal attachment",
     "description": "We separated brackets built for one named chassis from universal adjustable brackets, since a rigid device-specific fit and broad compatibility are different tradeoffs depending on your exact Mini PC."
   }
 ];

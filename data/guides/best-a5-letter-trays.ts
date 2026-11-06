@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41OxBRt-FFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "Simple Trending 5-Tier Paper Tray Organizer"
         ],
         [
-          "",
+          "Several distinct categories",
           "UNICRAFTALE Wood Desk Organizer Tray Rectangle Letter Tray for Office Desktop"
         ],
         [
-          "",
+          "High document volume",
           "Samstar 4 Pack Stackable Letter Paper Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Simple Trending 5-Tier Paper Tray Organizer"
         ],
         [
-          "",
+          "Mid-range pick",
           "RHCSZ PU Leather Letter Tray"
         ],
         [
-          "",
+          "Higher budget",
           "Samstar 4 Pack Stackable Letter Paper Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "Simple Trending 5-Tier Paper Tray Organizer)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "UNICRAFTALE Wood Desk Organizer Tray Rectangle Letter Tray for Office Desktop"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "UNICRAFTALE Wood Desk Organizer Tray Rectangle Letter Tray for Office Desktop is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Samstar 4 Pack Stackable Letter Paper Tray justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Simple Trending 5-Tier Paper Tray Organizer already covers the job at the lowest price here."
       }
     ]

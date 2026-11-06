@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/11z29s4uvKL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tracking Surface Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Controlled, precise movement",
           "SteelSeries QcK Gaming Mouse Pad"
         ],
         [
-          "",
-          ""
+          "Fast, low-friction glide",
+          "Mouse Pad Gaming"
         ],
         [
-          "",
+          "Budget cloth surface",
           "JYWYBF Ergonomic Mouse Pad with Wrist Rest"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,25 +95,25 @@ export const howToChoose: HowToChooseSection[] = [
           "JYWYBF Ergonomic Mouse Pad with Wrist Rest"
         ],
         [
-          "",
+          "Mid-range pick",
           "MROCO Ergonomic Mouse Pad with Gel Wrist Rest"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Mouse Pad Gaming"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Hard Surface",
     "cards": [
       {
         "label": "SteelSeries QcK Gaming Mouse Pad)",
         "text": "Slightly higher friction, often preferred for controlled, precise movement."
       },
       {
-        "label": "",
+        "label": "Hard surface (e.g. Mouse Pad Gaming)",
         "text": "Faster, lower-friction glide, better suited to quick flick-based movement."
       }
     ],
@@ -123,21 +123,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Size vs Your Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "JYWYBF Ergonomic Mouse Pad with Wrist Rest"
         ],
         [
-          "",
+          "Standard desk",
           "SteelSeries QcK Gaming Mouse Pad"
         ],
         [
           "Large desk, low DPI, wide swipes",
-          ""
+          "Mouse Pad Gaming"
         ]
       ]
     }
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SteelSeries QcK Gaming Mouse Pad is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where Mouse Pad Gaming justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward cloth pad for everyday use, where JYWYBF Ergonomic Mouse Pad with Wrist Rest already covers the job at the lowest price here."
       }
     ]

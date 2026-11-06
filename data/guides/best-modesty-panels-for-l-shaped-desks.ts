@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/316C4K3DpBL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Desk Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard office desk",
           "Bestier 63\"x47\" L Shaped Office Computer Desk with Charging Station"
         ],
         [
-          "",
+          "Standing/height-adjustable desk",
           "VIVO Black Laminate 59 x 12 in Modesty Panel for Office Desk"
         ],
         [
-          "",
+          "L-shaped desk",
           "NBF L-Shaped Desk Reversible Corner Workstation Computer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Bestier 63\"x47\" L Shaped Office Computer Desk with Charging Station"
         ],
         [
-          "",
+          "Mid-range pick",
           "OBEX Table Mounted Modesty Panel Acrylic Desk Privacy Panel & Barrier"
         ],
         [
-          "",
+          "Higher budget",
           "NBF L-Shaped Desk Reversible Corner Workstation Computer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Laminate vs Perforated Metal",
     "cards": [
       {
         "label": "Bestier 63\"x47\" L Shaped Office Computer Desk with Charging Station)",
         "text": "Matches most standard desk finishes, adds real rigidity."
       },
       {
-        "label": "",
+        "label": "Perforated metal",
         "text": "Better airflow for cable heat, more industrial look."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Extra Function",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Privacy and rigidity only",
           "VIVO Black Laminate 59 x 12 in Modesty Panel for Office Desk"
         ],
         [
-          "",
+          "Built-in cable management",
           "OBEX Table Mounted Modesty Panel Acrylic Desk Privacy Panel & Barrier"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Branded Standing Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A bracket kit confirmed compatible with your exact desk brand and model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "VIVO Black Laminate 59 x 12 in Modesty Panel for Office Desk is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where NBF L-Shaped Desk Reversible Corner Workstation Computer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Bestier 63\"x47\" L Shaped Office Computer Desk with Charging Station already covers the job at the lowest price here."
       }
     ]

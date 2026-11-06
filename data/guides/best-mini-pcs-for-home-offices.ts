@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What matters more for a home office mini PC, benchmarks or reviews?",
-    "a": ""
+    "a": "Everyday reliability from a large, consistent review base genuinely matters more than a marginally higher benchmark score."
   },
   {
     "q": "How much RAM do I need for home office multitasking?",
@@ -53,10 +53,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41e4GJOrtML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
+        "What you're running",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -65,26 +65,26 @@ export const howToChoose: HowToChooseSection[] = [
           "GMKtec Mini PC Intel Core i3-10110U Processor 8GB DDR4 256GB SSD"
         ],
         [
-          "",
+          "Demanding, sustained workloads",
           "GMKtec M2 Pro S Mini PC Intel Core i7-1185G7"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $247",
           "GMKtec Mini PC Intel Core i3-10110U Processor 8GB DDR4 256GB SSD"
         ],
         [
-          "",
+          "Mid-range",
           "BOSGAME P4 Ultra Mini PC Gaming"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fanless (Passive) vs Actively Cooled",
     "cards": [
       {
-        "label": "",
+        "label": "Fanless, Passive Cooling",
         "text": "Completely silent with no moving parts, at the cost of throttling under sustained heavy load. In this comparison: check each listing's cooling design directly."
       },
       {
-        "label": "",
+        "label": "Actively Cooled (Fan)",
         "text": "Sustains heavier workloads longer without throttling, at the cost of some fan noise under load. In this comparison: GMKtec M2 Pro S Mini PC Intel Core i7-1185G7, BOSGAME P4 Ultra Mini PC Gaming, GMKtec G3S Mini PC Intel N95 Processor."
       }
     ],
@@ -112,12 +112,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By RAM and Storage Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lightest low-cost configuration",
           "GMKtec Mini PC Intel Core i3-10110U Processor 8GB DDR4 256GB SSD"
         ],
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For GPU-Accelerated Work or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated GPU or a confirmed Oculink/Thunderbolt EGPU connection explicitly stated in the listing, not just a generic \"gaming capable\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms dedicated or external GPU support; check our EGPU-focused mini PC roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what GMKtec M2 Pro S Mini PC Intel Core i7-1185G7 offers: Genuine Core i7 chip for strong everyday responsiveness. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "GMKtec Mini PC Intel Core i3-10110U Processor 8GB DDR4 256GB SSD already covers the essentials: Genuine Intel Core i3 chip for mature driver support. The main thing you'd be paying extra for elsewhere in this list is headroom you may not need."
       }
     ]
@@ -175,7 +175,7 @@ export const howWeEvaluated = [
 ];
 
 export const introParagraphs = [
-  "",
+  "Everyday reliability, measured through a large, consistent review base, genuinely matters more for a home office machine than a marginally higher benchmark score, worth checking review volume and consistency rather than chasing the single fastest spec sheet.",
   "RAM headroom for realistic home office multitasking, video calls plus multiple browser windows plus a document editor running simultaneously, is worth confirming against your actual workflow rather than assuming any modern mini PC handles this comfortably."
 ];
 

@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/51uZzRRz-kL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fully dark, dedicated room",
           "Aurzen Roku TV D1R Smart Portable Outdoor Projector with WiFi and Bluetooth"
         ],
         [
-          "",
+          "Some ambient light",
           "Aurzen Roku TV D1R air USB-C Powered Smart Portable Outdoor Projector White"
         ],
         [
@@ -80,23 +80,23 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Magcubic Mini Projector with WiFi 6 and Bluetooth 5.4"
         ],
         [
-          "",
+          "Mid-range pick",
           "Aurzen Roku TV D1R air USB-C Powered Smart Portable Outdoor Projector White"
         ],
         [
-          "",
+          "Higher budget",
           "Aurzen Roku TV D1R Cube Smart Outdoor Projector with WiFi and Bluetooth"
         ]
       ]
@@ -110,18 +110,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "No bulb to replace and instant full brightness, at a higher upfront price that pays off mainly under frequent, heavy use."
       },
       {
-        "label": "",
+        "label": "Lamp-based models (e.g. Magcubic Mini Projector with WiFi 6 and Bluetooth 5.4)",
         "text": "Lower purchase price, but the bulb dims over time and eventually needs replacing, an added cost most buyers forget to budget for."
       }
     ],
     "note": "Most casual, weekly-use buyers should default to a lamp-based pick unless they'll run it daily, where laser's near-zero maintenance pays for itself over a few years."
   },
   {
-    "subheading": "",
+    "subheading": "By Throw Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Aurzen Roku TV D1R Smart Portable Outdoor Projector with WiFi and Bluetooth is worth checking against its documented native contrast figures before assuming any headline contrast number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want laser reliability and top-tier brightness, where Aurzen Roku TV D1R Cube Smart Outdoor Projector with WiFi and Bluetooth justifies the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "4 already covers the job at the lowest price here."
       }
     ]

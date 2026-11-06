@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/51QkELL-KFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cooling Type",
     "note": "Every pick in this specific comparison uses a similar cooling approach; check the product names and specs above for the exact passive-versus-fan design."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $17",
           "KeiBn Laptop Cooling Pad with 2 Fans"
         ],
         [
-          "",
+          "Mid-range",
           "Kootek Laptop Cooling Pad with 5 Quiet Fans"
         ],
         [
@@ -87,22 +87,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Passive Stand vs Active Fan",
     "cards": [
       {
-        "label": "",
+        "label": "Passive Stand",
         "text": "Zero noise, no power needed, improves airflow through elevation alone. In this comparison: check each listing to confirm whether it's passive or fan-equipped."
       },
       {
-        "label": "",
+        "label": "Active Fan",
         "text": "Genuine forced airflow that helps more under sustained load, at the cost of some noise and a power connection. In this comparison: Kootek Laptop Cooling Pad with 5 Quiet Fans, KeiBn Laptop Cooling Pad with 2 Fans."
       }
     ],
     "note": "Default to a passive pick for light everyday use, and only step up to an active fan if your mini PC runs warm under sustained load."
   },
   {
-    "subheading": "",
+    "subheading": "By Chassis Vent Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -120,24 +120,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a 24/7 Home Server or Media Server Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed active airflow rather than passive elevation alone, a stated noise level or speed control, and USB power so it only runs while the mini PC itself is on."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Kootek Laptop Cooling Pad with 5 Quiet Fans fits this specifically: Largest review base of any pick in this guide."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what llano V12 Gaming Laptop Cooling Pad offers: Highest stated cooling performance in this list. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "KeiBn Laptop Cooling Pad with 2 Fans already covers the essentials: Lowest price in this guide. The main thing you'd be paying extra for elsewhere in this list is cooling power you may not need."
       }
     ]
@@ -146,15 +146,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Category honesty first",
     "description": "We compared whether each product was actually engineered for Mini PCs or is a laptop product being repurposed, and disclosed that distinction clearly rather than implying purpose-built compatibility."
   },
   {
-    "title": "",
+    "title": "Fan coverage and control",
     "description": "We compared fan count, adjustability, and surface area, since these determine how much of a flat platform's airflow could plausibly reach a Mini PC's intake."
   },
   {
-    "title": "",
+    "title": "Value versus stated performance",
     "description": "We weighed price against stated cooling claims and review volume, since none of these products offer Mini PC-specific verification."
   },
   {

@@ -57,16 +57,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/51QkELL-KFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
           "Tightest size match for your laptop",
-          ""
+          "Havit HV-F2056 15.6\"-17\" Laptop Cooler"
         ],
         [
           "Widest range, flexible for future upgrades",
@@ -76,19 +76,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $22",
+          "AIMIUZI Laptop Cooling Pad for 12-15.6 Inch Laptops"
         ],
         [
-          "",
+          "Mid-range",
           "Trullypine Laptop Cooling Pad with 12 Quiet Fans"
         ],
         [
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: TECKNET Laptop Cooling Pad with Phone Stand."
       }
     ],
     "note": "6\"-17\" Laptop Cooler for everyday portability, and only step up to TECKNET Laptop Cooling Pad with Phone Stand's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -126,7 +126,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Simplest setup, fewer adjustments to fuss with",
-          ""
+          "AIMIUZI Laptop Cooling Pad for 12-15.6 Inch Laptops"
         ]
       ]
     }
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what TECKNET Laptop Cooling Pad with Phone Stand offers: Documented under-40dB noise figure. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6 Inch Laptops already covers the essentials: Named HP compatibility. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -161,11 +161,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Named HP compatibility verification",
     "description": "We prioritized listings that explicitly name HP among their compatible brands, over ones with no stated brand list."
   },
   {
-    "title": "",
+    "title": "HP product-line scope",
     "description": "We considered HP's diverse lineup, Spectre and Envy ultrabooks, Pavilion mainstream laptops, EliteBook and ProBook business models, and Omen gaming laptops, since these have very different weights and heat profiles."
   },
   {

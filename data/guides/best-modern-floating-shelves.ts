@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41BHxKJnoRL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light decorative items",
           "Boswillon Floating Shelves Set of 2"
         ],
         [
-          "",
-          ""
+          "Books, standard decor",
+          "BAYKA Black Floating Shelves 22.5in"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "Umbra Montage Floating Wall Shelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Boswillon Floating Shelves Set of 2"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "BAYKA Black Floating Shelves 15.7in"
         ],
         [
-          "",
+          "Higher budget",
           "Umbra Montage Floating Wall Shelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "Umbra Montage Floating Wall Shelf)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Studs available where needed",
+          "BAYKA Black Floating Shelves 22.5in"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Umbra Montage Floating Wall Shelf is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where Umbra Montage Floating Wall Shelf justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're displaying light decorative items only, where Boswillon Floating Shelves Set of 2 already covers the job at the lowest price here."
       }
     ]

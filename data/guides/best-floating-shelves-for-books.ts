@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/416AqEWEiDL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light decorative items",
           "Xympo Floating Invisible Bookshelf Wall Mounted (Set of 4)"
         ],
         [
-          "",
+          "Books, standard decor",
           "Harwaya Floating Book Shelves for Wall Set of 3"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "Mefirt Invisible Floating Bookshelves for Wall"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Xympo Floating Invisible Bookshelf Wall Mounted (Set of 4)"
         ],
         [
-          "",
+          "Mid-range pick",
           "Bavonira Floating Bookshelves for Wall"
         ],
         [
-          "",
+          "Higher budget",
           "Mefirt Invisible Floating Bookshelves for Wall"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "Mefirt Invisible Floating Bookshelves for Wall)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Studs available where needed",
           "Harwaya Floating Book Shelves for Wall Set of 3"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Mefirt Invisible Floating Bookshelves for Wall is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where Mefirt Invisible Floating Bookshelves for Wall justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're displaying light decorative items only, where xympo Floating Invisible Bookshelf Wall Mounted (Set of 4) already covers the job at the lowest price here."
       }
     ]

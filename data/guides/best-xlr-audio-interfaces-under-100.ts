@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Ty6bmUmVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $95",
+          "PreSonus ($94.99)"
         ],
         [
-          "",
-          ""
+          "Under $97",
+          "BlueAVS ($96.99)"
         ],
         [
-          "",
-          ""
+          "Under $120",
+          "Scarlett Solo or MAONO P2 (both $119.99)"
         ]
       ]
     }
@@ -125,15 +125,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're recording solo content, the Scarlett Solo's single preamp with excellent bundled software is a strong value. If you regularly record with a second person or instrument, one of the dual-input picks is worth prioritizing."
   },
   {
-    "subheading": "",
+    "subheading": "By Software Bundle Value",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your software needs",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Established, industry-standard software suite",
           "Focusrite Scarlett Solo (Pro Tools, Ableton, Cubase)"
         ],
         [
@@ -141,8 +141,8 @@ export const howToChoose: HowToChooseSection[] = [
           "PreSonus AudioBox 96 ($1,000+ in software)"
         ],
         [
-          "",
-          ""
+          "Newer proprietary creator-focused software",
+          "MAONO P2 (ProStudio 2)"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Co-Hosted Podcast or Interview Format Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Dual XLR inputs with independent gain and mute controls for each channel, so both hosts or guests can be recorded and managed separately."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The MAONO P2 and BlueAVS picks both specifically offer dual XLR inputs with independent controls, directly supporting a two-person recording format."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want an established brand with substantial bundled software and the longest warranty, where the Focusrite Scarlett Solo delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want the most substantial software value with solid Class-A preamps, where the PreSonus AudioBox 96 covers that for about $25 less."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Preamp Quality",
     "description": "Compared Class-A preamp technology and stated gain figures across the lineup."
   },
   {
-    "title": "",
+    "title": "Bundled Software Value",
     "description": "Compared included recording software suites and their stated dollar value."
   },
   {
-    "title": "",
+    "title": "Channel Count and Connectivity",
     "description": "Compared single versus dual XLR input configurations across all four picks."
   },
   {
-    "title": "",
+    "title": "Technical Specifications",
     "description": "Compared stated dynamic range, noise floor, and sample rate figures."
   },
   {
-    "title": "",
+    "title": "Warranty Coverage",
     "description": "Compared stated warranty length across the tier."
   }
 ];

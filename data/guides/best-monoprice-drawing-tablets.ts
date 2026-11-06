@@ -5,23 +5,23 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Classify the Tablet Architecture",
     "explanation": "Confirm whether monoprice drawing tablets is a screenless pen tablet, pen display, or standalone device before comparing specs."
   },
   {
-    "criterion": "",
+    "criterion": "Verify Active Drawing Area",
     "explanation": "Check active area separately from chassis or display diagonal size."
   },
   {
-    "criterion": "",
+    "criterion": "Evaluate Real Pen Behavior",
     "explanation": "Test activation force, tilt, and pressure response rather than trusting the spec sheet number alone."
   },
   {
-    "criterion": "",
+    "criterion": "Confirm Current Driver Support",
     "explanation": "Verify current OS compatibility by the exact model, not an inherited older compatibility list."
   },
   {
-    "criterion": "",
+    "criterion": "Weigh Included Accessories",
     "explanation": "Check included pen, nibs, stand, and cables against total cost of ownership."
   }
 ];
@@ -57,34 +57,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41DAW3Me9hL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Classify the Tablet Architecture",
     "note": "Confirm whether monoprice drawing tablets is a screenless pen tablet, pen display, or standalone device before comparing specs."
   },
   {
-    "subheading": "",
+    "subheading": "Verify Active Drawing Area",
     "note": "Check active area separately from chassis or display diagonal size."
   },
   {
-    "subheading": "",
+    "subheading": "Evaluate Real Pen Behavior",
     "note": "Test activation force, tilt, and pressure response rather than trusting the spec sheet number alone."
   },
   {
-    "subheading": "",
+    "subheading": "Confirm Current Driver Support",
     "note": "Verify current OS compatibility by the exact model, not an inherited older compatibility list."
   },
   {
-    "subheading": "",
+    "subheading": "Weigh Included Accessories",
     "note": "Check included pen, nibs, stand, and cables against total cost of ownership."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified First",
     "description": "Sorted each product into screenless pen tablet, computer-dependent pen display, or true standalone before comparing specs, since these solve different problems."
   },
   {
-    "title": "",
+    "title": "Pen Behavior Verified",
     "description": "Checked activation force, pressure-level count, tilt support, and parallax evidence directly from documentation rather than trusting a headline pressure number alone."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Verified current Windows/macOS/Linux/Android compatibility by exact model, since older tablets can lose driver support over time."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included pen, nibs, stand, and cables against what needs to be bought separately, plus warranty length and driver update history."
   }
 ];

@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31791VxvkJL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tracking Surface Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Controlled, precise movement",
           "Round Mouse Pad, Non-Slip Rubber Base Mousepad with Stitched Edge, Gaming Round"
         ],
         [
-          "",
+          "Fast, low-friction glide",
           "Zhithink 11 Pack Mouse Pad"
         ],
         [
-          "",
+          "Budget cloth surface",
           "JIKIOU Mouse Pad with Stitched Edge"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "JIKIOU Mouse Pad with Stitched Edge"
         ],
         [
-          "",
+          "Mid-range pick",
           "2 Pack Mouse Pad with Stitched Edge"
         ],
         [
-          "",
+          "Higher budget",
           "Zhithink 11 Pack Mouse Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Hard Surface",
     "cards": [
       {
         "label": "Round Mouse Pad, Non-Slip Rubber Base Mousepad with Stitched Edge, Gaming Round)",
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Size vs Your Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "JIKIOU Mouse Pad with Stitched Edge"
         ],
         [
-          "",
+          "Standard desk",
           "Round Mouse Pad, Non-Slip Rubber Base Mousepad with Stitched Edge, Gaming Round"
         ],
         [
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Round Mouse Pad, Non-Slip Rubber Base Mousepad with Stitched Edge, Gaming Round is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where Zhithink 11 Pack Mouse Pad justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward cloth pad for everyday use, where JIKIOU Mouse Pad with Stitched Edge already covers the job at the lowest price here."
       }
     ]

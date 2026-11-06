@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31XTDGJsmiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Programming Languages and Systems: 28th European Symposium on Programming"
         ],
         [
-          "",
+          "Standard conference room",
           "VidaMount White Enclosure and Fixed VESA Slim Wall Mount Compatible"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Programming Languages and Systems: 28th European Symposium on Programming"
         ],
         [
-          "",
+          "Mid-range pick",
           "Promethean ActivPanel D-Series 75\" 4K Digital Sign w/Radix Content License"
         ],
         [
-          "",
+          "Higher budget",
           "Black Box 7\" On-Wall in-Session Room Scheduler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "Programming Languages and Systems: 28th European Symposium on Programming)",
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "VidaMount White Enclosure and Fixed VESA Slim Wall Mount Compatible"
         ],
         [
-          "",
+          "Google Workspace / Calendar",
           "Promethean ActivPanel D-Series 75\" 4K Digital Sign w/Radix Content License"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "VidaMount White Enclosure and Fixed VESA Slim Wall Mount Compatible is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where Black Box 7\" On-Wall in-Session Room Scheduler justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward single-room display without advanced features, where Programming Languages and Systems: 28th European Symposium on Programming already covers the job at the lowest price here."
       }
     ]

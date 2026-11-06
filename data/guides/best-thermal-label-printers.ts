@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Compat-faq",
     "q": "How do I know if a label printer works with my shipping platform?",
     "a": "Check the manufacturer's actual compatibility list for your specific platform (Shopify, eBay, Etsy, or a carrier's software), broad 'works with everything' marketing claims are often less precise than the real driver support."
   },
   {
-    "id": "",
+    "id": "Dpi-faq",
     "q": "Do I need 300 DPI or is 203 DPI enough?",
     "a": "203 DPI is fine for large simple shipping labels, but if your labels include small text, fine barcodes, or 2D codes, 300 DPI produces noticeably crisper results worth the price difference."
   },
   {
-    "id": "",
+    "id": "Thermal-faq",
     "q": "What's the difference between direct thermal and thermal transfer label printers?",
     "a": "Direct thermal burns the image into heat-sensitive paper with no ink, cheaper to run but labels fade within months, thermal transfer melts a ribbon onto standard stock for labels that last years but costs more per label due to the ribbon."
   },
   {
-    "id": "",
+    "id": "Cutter-faq",
     "q": "Is an automatic cutter worth paying extra for?",
     "a": "Only if you're printing at real volume, a cutter saves time on dozens of labels a day but adds a mechanical part that can jam or dull, a tear-bar design has nothing to fail but is slower at high volume."
   },
   {
-    "id": "",
+    "id": "Battery-faq",
     "q": "Are battery-powered label printers slower than plug-in models?",
     "a": "Generally yes, a battery-powered unit gives you true portability for warehouse or on-site printing but typically runs slower and handles smaller batches per charge than a desktop model on constant power."
   },
   {
-    "id": "",
+    "id": "Width-faq",
     "q": "Will a label printer handle labels wider than shipping labels?",
     "a": "Only up to its stated maximum width, a printer rated for 4-inch shipping labels physically cannot print wider, check the max width spec against your actual intended label size, not just the shipping use case shown in marketing."
   }
@@ -67,15 +67,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41FPHmqZLIL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light printing",
           "Phomemo Bluetooth Thermal Label Printer"
         ],
         [
@@ -83,18 +83,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Nelko Bluetooth Thermal Shipping Label Printer"
         ],
         [
-          "",
+          "High-volume daily printing",
           "Thermal Shipping Label Printer 4x6 Bluetooth Label Maker for Small Business"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Phomemo Bluetooth Thermal Label Printer"
         ],
         [
-          "",
+          "Mid-range pick",
           "HKHKPI Bluetooth Thermal Label Printer, 4x6 Shipping Label Printer"
         ],
         [
-          "",
+          "Higher budget",
           "Thermal Shipping Label Printer 4x6 Bluetooth Label Maker for Small Business"
         ]
       ]
@@ -120,22 +120,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Lower running cost, labels fade within months."
       },
       {
-        "label": "",
+        "label": "Thermal transfer",
         "text": "Costs more per label with ribbon, labels last years."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Connectivity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fixed desk spot",
           "Nelko Bluetooth Thermal Shipping Label Printer"
         ],
         [
@@ -146,27 +146,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Shipping Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic cutter and larger roll capacity rather than a compact desktop model stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Nelko Bluetooth Thermal Shipping Label Printer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Thermal Shipping Label Printer 4x6 Bluetooth Label Maker for Small Business justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Phomemo Bluetooth Thermal Label Printer already covers the job at the lowest price here."
       }
     ]

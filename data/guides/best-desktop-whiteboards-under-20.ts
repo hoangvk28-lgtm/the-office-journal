@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31pXMUsiNyL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "Small Dry Erase Board ($9.59) or Lumspax ($9.99)"
         ],
         [
-          "",
-          ""
+          "$19-$20",
+          "AMUSIGHT ($19.99) or Dry Erase w/Stand ($19.99)"
         ]
       ]
     }
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your desk space is limited and you only need quick reminders, the compact size works fine. For more substantial daily planning, the larger boards are worth the small price increase."
   },
   {
-    "subheading": "",
+    "subheading": "By Stand Flexibility Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your mounting preference",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequent Two-Sided Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stand specifically engineered for smooth rotation, so flipping between the board's two writing surfaces feels effortless rather than requiring you to lift and reposition the whole board."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Dry Erase White Board with Stand specifically emphasizes smooth 360-degree rotation for easy two-sided viewing and writing."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want meaningfully more writing space and the most complete accessory bundle, where the AMUSIGHT pick delivers both at the top of this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A compact board covers your quick-note needs, where the Small Dry Erase Board delivers the lowest price with flexible mounting options."
       }
     ]
@@ -165,23 +165,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Frame Material and Durability",
     "description": "Compared aluminum frame quality and corner reinforcement across the lineup for real long-term durability."
   },
   {
-    "title": "",
+    "title": "Stand Flexibility",
     "description": "Checked whether each stand offers 360-degree rotation, multiple use modes (flat, standing, wall), or a single fixed position."
   },
   {
-    "title": "",
+    "title": "Accessory Completeness",
     "description": "Compared what's included out of the box, markers, magnets, erasers, since a bare board costs more in the end if accessories must be bought separately."
   },
   {
-    "title": "",
+    "title": "Writing Surface Size",
     "description": "Compared the 10x10 compact size against the larger 16x12 boards for genuine writing space differences."
   },
   {
-    "title": "",
+    "title": "Surface Coating Quality",
     "description": "Noted specific anti-scratch or anti-glare coating claims across the lineup for long-term surface quality."
   }
 ];

@@ -53,10 +53,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41sKXJEffSL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
+        "What you're running",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -65,27 +65,27 @@ export const howToChoose: HowToChooseSection[] = [
           "GMKtec Mini PC Intel Core i3-10110U Processor 8GB DDR4 256GB SSD"
         ],
         [
-          "",
+          "Demanding, sustained workloads",
           "ACEMAGIC Mini PC Windows 11 Pro"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $247",
           "GMKtec Mini PC Intel Core i3-10110U Processor 8GB DDR4 256GB SSD"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "QAZIPO Mini PC"
         ],
         [
           "No firm budget ceiling, prioritizing CPU or RAM",
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fanless (Passive) vs Actively Cooled",
     "cards": [
       {
-        "label": "",
+        "label": "Fanless, Passive Cooling",
         "text": "Completely silent with no moving parts, at the cost of throttling under sustained heavy load. In this comparison: check each listing's cooling design directly."
       },
       {
-        "label": "",
+        "label": "Actively Cooled (Fan)",
         "text": "Sustains heavier workloads longer without throttling, at the cost of some fan noise under load. In this comparison: GMKtec Mini PC Intel Core i3-10110U Processor 8GB DDR4 256GB SSD, GMKtec Mini PC Computers Intel N95 Processor, ACEMAGIC Mini PC Windows 11 Pro."
       }
     ],
@@ -112,12 +112,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By RAM and Storage Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lightest low-cost configuration",
           "GMKtec Mini PC Intel Core i3-10110U Processor 8GB DDR4 256GB SSD"
         ],
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For GPU-Accelerated Work or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated GPU or a confirmed Oculink/Thunderbolt EGPU connection explicitly stated in the listing, not just a generic \"gaming capable\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms dedicated or external GPU support; check our EGPU-focused mini PC roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what ACEMAGIC Mini PC Windows 11 Pro offers: Windows 11 Pro included avoids a separate license purchase cost. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "GMKtec Mini PC Intel Core i3-10110U Processor 8GB DDR4 256GB SSD already covers the essentials: Genuine Core i3 processor tier at the lowest price in this guide. The main thing you'd be paying extra for elsewhere in this list is headroom you may not need."
       }
     ]

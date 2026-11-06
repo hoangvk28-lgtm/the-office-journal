@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/51qmhjdSSDL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A few light cables",
           "Oligei 25 Pcs Silicone Cable Ties"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Cable Storage Boxes Organizers 2 Pack, Cord Charger Case with 20pcs Ties"
         ],
         [
-          "",
+          "A large mixed bundle",
           "FRETONBA 2 Pcs Clear Cable Charger Organizer Box"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Oligei 25 Pcs Silicone Cable Ties"
         ],
         [
-          "",
+          "Mid-range pick",
           "2 Pack Cable Organizer Box with Lid"
         ],
         [
-          "",
+          "Higher budget",
           "FRETONBA 2 Pcs Clear Cable Charger Organizer Box"
         ]
       ]
@@ -113,26 +113,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Hides cables completely, needs ventilation for warm power bricks."
       },
       {
-        "label": "",
+        "label": "Sleeve/wrap",
         "text": "More flexible for adding cables, less visually contained."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under-desk hidden",
           "Cable Storage Boxes Organizers 2 Pack, Cord Charger Case with 20pcs Ties"
         ],
         [
-          "",
+          "Surface or freestanding",
           "2 Pack Cable Organizer Box with Lid"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequently Changing Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reusable fasteners and an open or slotted entry point rather than a fully sealed box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Cable Storage Boxes Organizers 2 Pack, Cord Charger Case with 20pcs Ties is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where FRETONBA 2 Pcs Clear Cable Charger Organizer Box justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Oligei 25 Pcs Silicone Cable Ties already covers the job at the lowest price here."
       }
     ]

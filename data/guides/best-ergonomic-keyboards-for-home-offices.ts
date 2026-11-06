@@ -53,15 +53,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EsewSK2nL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Minimal adjustment period",
           "ProtoArc EKM01 Plus Wireless Ergonomic Keyboard Mouse Combo"
         ],
         [
@@ -72,19 +72,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $50",
           "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"
         ],
         [
-          "",
+          "Mid-range",
           "Arteck Split Ergonomic Keyboard with Palm Rest"
         ],
         [
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: Perixx PERIBOARD-512B Wired Ergonomic Keyboard, Arteck Split Ergonomic Keyboard with Palm Rest."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest, Logitech Wave Keys Wireless Ergonomic Keyboard, Arteck Split Ergonomic Keyboard with Palm Rest."
       }
     ]
@@ -111,12 +111,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest cost, quiet typing",
           "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"
         ],
         [
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest fits this specifically: Quieter typing relevant to video-call mic pickup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest offers: Quieter typing relevant to video-call mic pickup. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Perixx PERIBOARD-512B Wired Ergonomic Keyboard already covers the essentials: No battery to manage during a full workday. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -160,7 +160,7 @@ export const howWeEvaluated = [
     "description": "Applied findings from our dedicated quiet and compact ergonomic keyboard research through a home-office-specific lens rather than duplicating first-principles analysis."
   },
   {
-    "title": "",
+    "title": "Full-workday sustained comfort",
     "description": "Used sustained comfort across a full workday as the primary testing lens, given the home-office context implies many continuous daily hours at the same desk."
   },
   {
@@ -168,7 +168,7 @@ export const howWeEvaluated = [
     "description": "Considered microphone pickup of typing noise during video calls as a home-office-specific concern distinct from general room-noise testing."
   },
   {
-    "title": "",
+    "title": "Webcam-frame visual presentation",
     "description": "Noted webcam-frame visual presentation as a minor secondary consideration for buyers on frequent video calls where the keyboard sits in frame."
   }
 ];

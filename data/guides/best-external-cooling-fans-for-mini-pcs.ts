@@ -57,24 +57,24 @@ export const heroImage = "https://m.media-amazon.com/images/I/41qY7V4q6iL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cooling Type",
     "note": "Every pick in this specific comparison uses a similar cooling approach; check the product names and specs above for the exact passive-versus-fan design."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $13",
           "GSCOLER X1 USB Cooling Fan"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "AC Infinity MULTIFAN Mini"
         ],
         [
           "No firm budget ceiling, prioritizing active cooling power",
@@ -87,22 +87,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Passive Stand vs Active Fan",
     "cards": [
       {
-        "label": "",
+        "label": "Passive Stand",
         "text": "Zero noise, no power needed, improves airflow through elevation alone. In this comparison: check each listing to confirm whether it's passive or fan-equipped."
       },
       {
-        "label": "",
+        "label": "Active Fan",
         "text": "Genuine forced airflow that helps more under sustained load, at the cost of some noise and a power connection. In this comparison: IFCASE Cooling Fan Mount for Mac mini, Wathai Cooling Case Fan, GSCOLER X1 USB Cooling Fan."
       }
     ],
     "note": "Default to a passive pick for light everyday use, and only step up to an active fan if your mini PC runs warm under sustained load."
   },
   {
-    "subheading": "",
+    "subheading": "By Chassis Vent Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -111,7 +111,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Most tailored fit for a specific chassis shape",
-          ""
+          "AC Infinity MULTIFAN Mini"
         ]
       ]
     }
@@ -120,24 +120,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a 24/7 Home Server or Media Server Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed active airflow rather than passive elevation alone, a stated noise level or speed control, and USB power so it only runs while the mini PC itself is on."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "IFCASE Cooling Fan Mount for Mac mini fits this specifically: Purpose-built external cooling accessory, not a repurposed general fan."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what IFCASE Cooling Fan Mount for Mac mini offers: Purpose-built external cooling accessory, not a repurposed general fan. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "GSCOLER X1 USB Cooling Fan already covers the essentials: Lowest stated noise rating in this guide. The main thing you'd be paying extra for elsewhere in this list is cooling power you may not need."
       }
     ]
@@ -146,11 +146,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "External-only use case",
     "description": "We compared whether each product can add useful cooling without opening or modifying the Mini PC chassis."
   },
   {
-    "title": "",
+    "title": "Airflow path compatibility",
     "description": "We compared fan placement and direction against typical Mini PC vent layouts, favoring documented CFM figures where available."
   },
   {
@@ -158,7 +158,7 @@ export const howWeEvaluated = [
     "description": "We compared available DBA figures and prioritized listings that publish a specific number over vague quiet claims."
   },
   {
-    "title": "",
+    "title": "Placement flexibility",
     "description": "We considered fan size, mounting options, and whether a product needs open desk space or fits tight gaps around a sealed chassis."
   }
 ];

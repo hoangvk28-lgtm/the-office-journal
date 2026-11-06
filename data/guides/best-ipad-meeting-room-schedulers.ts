@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Im7+MwsTL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "SH ipad Mount for Desk"
         ],
         [
-          "",
+          "Standard conference room",
           "IPort Surface Mount System iPad Wall Mount, Slim & Secure Enclosure for iPad"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "SH ipad Mount for Desk"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Mount-It! iPad Kiosk Stand"
         ],
         [
-          "",
+          "Higher budget",
           "PoE Texas 8\" Conference Room Scheduler with Color Changing LED Status"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "SH ipad Mount for Desk)",
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "IPort Surface Mount System iPad Wall Mount, Slim & Secure Enclosure for iPad"
         ],
         [
-          "",
-          ""
+          "Google Workspace / Calendar",
+          "Mount-It! iPad Kiosk Stand"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "IPort Surface Mount System iPad Wall Mount, Slim & Secure Enclosure for iPad is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where PoE Texas 8\" Conference Room Scheduler with Color Changing LED Status justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward single-room display without advanced features, where SH ipad Mount for Desk already covers the job at the lowest price here."
       }
     ]

@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41lX2RvlrbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cooling Type",
     "note": "Every pick in this specific comparison uses a similar cooling approach; check the product names and specs above for the exact passive-versus-fan design."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "GSCOLER X1 USB Cooling Fan"
         ],
         [
-          "",
+          "Mid-range",
           "Marame Quiet Router Cooling Fan Stand"
         ],
         [
@@ -87,27 +87,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Passive Stand vs Active Fan",
     "cards": [
       {
-        "label": "",
+        "label": "Passive Stand",
         "text": "Zero noise, no power needed, improves airflow through elevation alone. In this comparison: check each listing to confirm whether it's passive or fan-equipped."
       },
       {
-        "label": "",
+        "label": "Active Fan",
         "text": "Genuine forced airflow that helps more under sustained load, at the cost of some noise and a power connection. In this comparison: Wathai Cooling Case Fan, GSCOLER X1 USB Cooling Fan, Marame Quiet Router Cooling Fan Stand."
       }
     ],
     "note": "Default to a passive pick for light everyday use, and only step up to an active fan if your mini PC runs warm under sustained load."
   },
   {
-    "subheading": "",
+    "subheading": "By Chassis Vent Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Widest confirmed mini PC compatibility",
-          ""
+          "Wathai Cooling Case Fan"
         ],
         [
           "Most tailored fit for a specific chassis shape",
@@ -120,24 +120,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a 24/7 Home Server or Media Server Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed active airflow rather than passive elevation alone, a stated noise level or speed control, and USB power so it only runs while the mini PC itself is on."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Wathai Cooling Case Fan fits this specifically: Specific CFM and DBA figures instead of vague marketing claims."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Easy Cloud 120mm USB Fan offers: Two fans for under $20 total. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "GSCOLER X1 USB Cooling Fan already covers the essentials: Lowest stated noise rating in this guide. The main thing you'd be paying extra for elsewhere in this list is cooling power you may not need."
       }
     ]
@@ -146,19 +146,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Placement effectiveness",
     "description": "We compared whether each fan can be aimed at a real Mini PC intake or exhaust instead of relying on broad desk airflow."
   },
   {
-    "title": "",
+    "title": "Documented performance figures",
     "description": "We gave more weight to listings that state specific CFM airflow or DBA noise numbers over vague quiet or powerful claims."
   },
   {
-    "title": "",
+    "title": "Mounting and size flexibility",
     "description": "We compared 40mm compact fans against 120mm larger fans for fit in different desk setups and gap sizes."
   },
   {
-    "title": "",
+    "title": "Power and cable setup",
     "description": "We considered USB power draw, cable length, and whether powering the fan from the Mini PC creates an unnecessary port tradeoff."
   }
 ];

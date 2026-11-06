@@ -52,58 +52,58 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EOcD4mKhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Joule Rating",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": []
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $25",
           "Kasa smart Plug Power Strip KP303"
         ],
         [
-          "",
-          ""
+          "Up to $45",
+          "Tapo Smart Wi"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Joule Rating vs Price",
     "cards": [
       {
         "label": "Kasa smart Plug Power Strip KP303",
         "text": "The lower-priced option in this comparison, worth checking its disclosed joule rating against your equipment's value."
       },
       {
-        "label": "",
+        "label": "Tapo Smart Wi",
         "text": "The higher-priced option, worth it if it offers real protection headroom above the cheaper pick's rating."
       }
     ],
     "note": "Default to kasa smart Plug Power Strip KP303 unless your equipment's value calls for more protection."
   },
   {
-    "subheading": "",
+    "subheading": "By Outlet Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "8 outlets",
           "POWSAV 6 Ft WiFi Surge Protector"
         ]
       ]
@@ -113,24 +113,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed joule rating of at least 1000-2000 with UL 1449 certification, plus enough spaced outlets for a monitor, dock, and peripherals."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since joule rating isn't consistently disclosed across every strip in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your equipment is expensive or sensitive, where Tapo Smart Wi's higher price buys real protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're protecting lower-value, easily replaceable electronics, where kasa smart Plug Power Strip KP303 covers the same basic job at a lower price."
       }
     ]
@@ -139,7 +139,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Smart outlet control vs. smart surge-protection monitoring distinguished",
     "description": "Distinguished picks offering smart outlet scheduling and voice control from any actual smart diagnostics about the surge protection circuitry itself, a meaningful capability gap product marketing tends to blur."
   },
   {

@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/51+142vwVRL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,20 +76,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $24",
           "Laptop Cooling Pad with 3 Quiet Fans"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "TECKNET Laptop Cooling Pad"
         ],
         [
           "No firm budget ceiling, prioritizing fan count or extras",
@@ -102,27 +102,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: TECKNET Laptop Cooling Pad."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. 6\"-17\" Laptop Cooler Cooling Pad."
       }
     ],
     "note": "6\"-17\" Laptop Cooler Cooling Pad's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Most ergonomic height adjustment range",
-          ""
+          "TECKNET Laptop Cooling Pad"
         ],
         [
           "Simplest setup, fewer adjustments to fuss with",
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "6\"-17\" Laptop Cooler Cooling Pad offers: Three fans confirmed in the listing's own feature text. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Laptop Cooling Pad with 3 Quiet Fans already covers the essentials: Specific ~40dB noise figure instead of a vague quiet claim. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -161,7 +161,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Fan-count verification",
     "description": "We read the actual feature text of each candidate pad and excluded any that used 'three fan' style marketing language without the specs underneath confirming that count."
   },
   {
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "We compared stated fan speed and any DBA figures provided, weighting a specific noise number more heavily than a general 'quiet' claim with no evidence behind it."
   },
   {
-    "title": "",
+    "title": "Laptop size compatibility range",
     "description": "We compared the stated inch range for each pad, since three-fan pads in this pool ranged from 12 inches up to 17 inches."
   },
   {

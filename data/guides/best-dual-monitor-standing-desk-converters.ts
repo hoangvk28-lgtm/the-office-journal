@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the most proven dual-monitor option?",
-    "a": ""
+    "a": "The Vari VariDesk Pro Plus 48, at 48 inches wide, with a strong review base from an established brand."
   },
   {
     "q": "Is there a budget option for dual monitors?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41oOz8w2OYL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "VIVO Height Adjustable 32 inch Standing Desk Converter with Dual 13-30 Inch Monitor Stand"
         ],
         [
-          "",
+          "Dual monitors",
           "Vari VariDesk Pro Plus 36"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $170",
           "FITUEYES Height Adjustable Standing Desk 36 Inch Wide Sit to Stand Converter"
         ],
         [
-          "",
+          "Mid-range",
           "Standing Desk Converter Dual Monitor"
         ],
         [
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: Vari VariDesk Pro Plus 48, Vari VariDesk Pro Plus 36, Mount-It! Standing Desk Converter Dual Monitor."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: VERSADESK PowerPro 36 Inch Electric Standing Desk Converter."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Vari VariDesk Pro Plus 36"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "VIVO Black 42 in Standing Desk Converter"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Vari VariDesk Pro Plus 36 fits this specifically: Highest rating and largest review base of the VariDesk options."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "FITUEYES Height Adjustable Standing Desk 36 Inch Wide Sit to Stand Converter already covers the essentials: Lower price than comparable VIVO or Vari alternatives. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]
@@ -174,7 +174,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Weighed electric lift for heavier dual-monitor loads",
-    "description": ""
+    "description": "We flagged where electric adjustment offers a genuine advantage over manual gas-spring lift when carrying two monitors' combined weight."
   },
   {
     "title": "Compared platform width against base footprint requirements",

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/61PUctslTmS._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $150",
+          "100 Inch Motorized ($149.99) or YODOLLA ($149.99)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "DINAH ($159.99) or Auto Motorized 120in ($159.99)"
         ]
       ]
     }
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If quiet operation or electrical safety specifics matter most to you, the 100 inch picks with their stated figures are worth prioritizing. If maximum screen size for an immersive experience is your priority, the 120 inch picks deliver that for a modest price increase."
   },
   {
-    "subheading": "",
+    "subheading": "By Aspect Ratio",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your primary content",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Theater Requiring Quiet Nighttime Operation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A specific stated decibel figure for the motor noise level, not just a general 'quiet' claim, since actual noise levels vary meaningfully between motorized screens."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The 100 Inch Motorized pick's specifically stated under 42 DB motor noise level provides the most concrete, checkable quiet-operation claim in this tier."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the largest motorized screen size for maximum immersive viewing, where the DINAH pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a quiet, safe motorized screen without needing maximum size, where the 100 Inch Motorized or YODOLLA picks cover that for about $10 less."
       }
     ]
@@ -169,11 +169,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Motor Noise Level",
     "description": "Compared stated decibel figures where disclosed across the motorized lineup."
   },
   {
-    "title": "",
+    "title": "Safety Features",
     "description": "Checked for stated electrical safety design and connection reliability across all four picks."
   },
   {
@@ -181,11 +181,11 @@ export const howWeEvaluated = [
     "description": "Compared diagonal size and 16:9 versus 4:3 aspect ratio suited to different content types."
   },
   {
-    "title": "",
+    "title": "Assembly and Mounting",
     "description": "Compared pre-assembled versus DIY assembly and wall versus ceiling mount flexibility."
   },
   {
-    "title": "",
+    "title": "Layer Construction",
     "description": "Compared PVC layer count and black backing across the lineup."
   }
 ];

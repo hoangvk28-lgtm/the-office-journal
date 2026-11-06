@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41cyrgK+KUL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device You're Charging",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Phone, occasional use",
           "EMNT Keychain Portable Charger for USB C, 2000mAh Mini Power Emergency Pod, Small"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "INIU 20W SnapGo Portable Charger"
         ],
         [
-          "",
+          "Laptop or multiple devices",
           "5W Power Bank Built-in 2 Cables Keychain"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "EMNT Keychain Portable Charger for USB C, 2000mAh Mini Power Emergency Pod, Small"
         ],
         [
-          "",
+          "Mid-range pick",
           "Portable Charger 3 in 1"
         ],
         [
-          "",
+          "Higher budget",
           "5W Power Bank Built-in 2 Cables Keychain"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Capacity vs Portability",
     "cards": [
       {
         "label": "5W Power Bank Built-in 2 Cables Keychain)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you're carrying it daily or leaving it in a bag for emergencies."
   },
   {
-    "subheading": "",
+    "subheading": "By Travel Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Flying with it",
           "Check the watt-hour (Wh) rating stays under 100Wh"
         ],
         [
-          "",
+          "Never flying with it",
           "INIU 20W SnapGo Portable Charger"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "USB-PD support at 45W or higher, not just any USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5W Power Bank Built-in 2 Cables Keychain is worth checking against your specific laptop's wattage requirement before assuming any power bank charges it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5W Power Bank Built-in 2 Cables Keychain justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need backup charges for a phone, where EMNT Keychain Portable Charger for USB C, 2000mAh Mini Power Emergency Pod, Small already covers the job at the lowest price here."
       }
     ]

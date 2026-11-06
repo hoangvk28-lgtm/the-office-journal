@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Fdm-resin-faq",
     "q": "Should I get an FDM or resin 3D printer?",
     "a": "FDM produces sturdier functional parts at lower cost with visible layer lines, resin produces far finer detail and smoother surfaces but requires ventilation and messier post-processing with isopropyl alcohol, match to what you're actually printing."
   },
   {
-    "id": "",
+    "id": "Sensor-3dp-faq",
     "q": "What happens if filament runs out mid-print?",
     "a": "Without a filament run-out sensor, the print simply fails and wastes everything printed so far, this matters most for long unattended prints, check for this feature if you run extended jobs."
   },
   {
-    "id": "",
+    "id": "Leveling-faq",
     "q": "Is automatic bed leveling worth paying extra for?",
     "a": "It saves real recurring setup time if you print frequently, manual leveling requires adjusting corner screws and checking with a feeler gauge before nearly every session."
   },
   {
-    "id": "",
-    "q": "",
+    "id": "Noise-3dp-faq",
+    "q": "Are 3D printers loud?",
     "a": "It varies significantly by model, quieter stepper drivers and fan designs make a real difference, check specific noise-level reviews if the printer will run somewhere you spend time like a bedroom or office."
   },
   {
-    "id": "",
+    "id": "Speed-faq",
     "q": "Should I print at the printer's maximum advertised speed?",
     "a": "Usually not for best quality, max speed often introduces visible ringing or dimensional drift, most users get better results dialing back somewhat from the advertised ceiling."
   },
   {
-    "id": "",
+    "id": "Nozzle-faq",
     "q": "Will any nozzle work with any filament?",
     "a": "No, abrasive filaments like carbon-fiber-infused or metal-infused wear down a standard brass nozzle quickly, a hardened steel or ruby-tipped nozzle holds up much longer with those materials."
   }
@@ -67,80 +67,80 @@ export const heroImage = "https://m.media-amazon.com/images/I/517ljLqU5bL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you print",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Functional parts and prototypes",
+          "TECBEARS PETG Filament 1.75mm"
         ],
         [
-          "",
-          ""
+          "Fine-detail miniatures or jewelry",
+          "Clear PETG Filament"
         ],
         [
-          "",
-          ""
+          "Large-format projects",
+          "SUNLU Clear PLA Filament 1.75mm"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "TECBEARS PETG Filament 1.75mm"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Geeetech Clear PLA Filament 1.75mm"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "SUNLU Clear PLA Filament 1.75mm"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "FDM vs Resin",
     "cards": [
       {
-        "label": "",
+        "label": "FDM (e.g. TECBEARS PETG Filament 1.75mm)",
         "text": "Sturdier functional parts at lower cost, visible layer lines."
       },
       {
-        "label": "",
+        "label": "Resin",
         "text": "Far finer detail and smoother finish, messier post-processing with toxic uncured resin."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Filament Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your materials",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard PLA in a stable room",
-          ""
+          "Clear PETG Filament"
         ],
         [
-          "",
-          ""
+          "Warping-prone ABS or nylon",
+          "Geeetech Clear PLA Filament 1.75mm"
         ]
       ]
     }
@@ -149,24 +149,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Unattended Prints Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine filament run-out sensor so a multi-hour print doesn't silently fail and waste material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Clear PETG Filament is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "75mm justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "75mm already covers the job at the lowest price here."
       }
     ]

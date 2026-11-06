@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "OOKUU Upgraded Large Desk Cup Holder Clamp"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "KDD 5"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "HzTinT Large Desk Cup Holder"
         ],
         [
-          "",
+          "Up to $27",
           "4 in 1 Metal Clip On Cup Holder Attachment for Gaming Desk"
         ]
       ]
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Deep Cavity vs Flat Ring",
     "cards": [
       {
-        "label": "",
+        "label": "KDD 5",
         "text": "Cradles the cup on multiple sides, meaningfully more resistant to tipping from an incidental bump."
       },
       {
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to a deep-cavity design unless desk space is tight."
   },
   {
-    "subheading": "",
+    "subheading": "By Feature Set",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Oversized Tumbler Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed cavity diameter in inches, not just a vague \"large\" label, since oversized tumblers vary in exact width and a mismatched cavity won't grip securely."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "KDD 5 is worth checking against its listed diameter spec before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a metal clamp and deeper cavity, where 4 in 1 Metal Clip On Cup Holder Attachment for Gaming Desk's higher price buys real durability and tip resistance over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You use a standard-size mug and rarely bump your desk, where HzTinT Large Desk Cup Holder covers the same job at a lower price."
       }
     ]
@@ -157,11 +157,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine gaming relevance vs. general-purpose fit",
     "description": "We disclosed that none of these picks carry RGB or gaming aesthetic features, and identified which ones have genuine gaming-relevant specs like large tumbler capacity or controller storage."
   },
   {
-    "title": "",
+    "title": "Heightened spill-proximity-to-electronics risk",
     "description": "We weighted spill resistance even more heavily than our general computer desk guide, given the concentration of expensive PC and peripheral equipment on a typical gaming desk."
   },
   {
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "We favored deep, covered cavity designs that resist accidental bumps during intense gameplay moments."
   },
   {
-    "title": "",
+    "title": "Desk-edge clamp compatibility",
     "description": "We checked clamp opening ranges against common gaming desk edge types, including curved and RGB-lit desk designs."
   }
 ];

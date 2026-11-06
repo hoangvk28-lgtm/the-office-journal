@@ -60,8 +60,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $1500",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -79,8 +79,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,7 +88,7 @@ export const howToChoose: HowToChooseSection[] = [
           "White Metal Office Credenza with 2 Drawers & Legs"
         ],
         [
-          "",
+          "Best overall value",
           "Oak Wood Credenza Desk Hutch by FOA West"
         ]
       ]
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to Oak Wood Credenza Desk Hutch by FOA West unless your specific use case points toward White Metal Office Credenza with 2 Drawers & Legs's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Oak Wood Credenza Desk Hutch by FOA West is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on White Metal Office Credenza with 2 Drawers & Legs, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by Oak Wood Credenza Desk Hutch by FOA West without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every primary recommendation must be new, in stock and up to $1500 on the refresh date; expired sale pricing automatically disqualifies it."
   },
   {
-    "title": "",
+    "title": "Budget-ladder map",
     "description": "Show the next-lower tier, the executive credenza tier and the next-higher tier so this article has a distinct reason to exist."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize price against width/usable top, file-drawer compatibility and minimum usable setup cost instead of raw feature count."
   },
   {
-    "title": "",
+    "title": "Evidence labels",
     "description": "Classify shelf/door storage and load/anti-tip/stability as official-documentation-confirmed, The Office Journal-measured, manufacturer-claimed or unverified."
   },
   {
-    "title": "",
+    "title": "Step-up/step-down verdict",
     "description": "Judge material/assembly/hardware, warranty/support and ownership friction, then explicitly say when a buyer should spend less or exceed $1500 for a meaningful upgrade."
   }
 ];

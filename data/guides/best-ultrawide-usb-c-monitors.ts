@@ -55,42 +55,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Dell 34 Monitor S3425DW"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Deco Gear 49 Inch Curved Ultrawide Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $110",
           "SANSUI Curved Monitor 27 inch 120Hz USB Type"
         ],
         [
-          "",
+          "Up to $450",
           "Deco Gear 49 Inch Curved Ultrawide Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
         "label": "SANSUI Curved Monitor 27 inch 120Hz USB Type",
@@ -104,20 +104,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to SANSUI Curved Monitor 27 inch 120Hz USB Type unless your setup calls for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 49-inch panel",
           "Deco Gear 49 Inch Curved Ultrawide Monitor"
         ],
         [
-          "",
-          ""
+          "Around 34-inch panel",
+          "Dell 34 Monitor S3425DW"
         ]
       ]
     }
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a MacBook or Mac Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed DisplayPort Alt Mode support and a power delivery wattage matched to your MacBook's charging brick wattage."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since PD wattage isn't consistently disclosed across every monitor in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want full single-cable charging, sharper resolution, or built-in hub ports, where Deco Gear 49 Inch Curved Ultrawide Monitor's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You already have a separate charger and just need a display, where SANSUI Curved Monitor 27 inch 120Hz USB Type covers the same job at a lower price."
       }
     ]

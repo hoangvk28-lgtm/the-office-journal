@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Which slim converter has the most reviews?",
-    "a": ""
+    "a": "The VIVO Ultra-Slim Single Top Standing Desk Riser, with 1,243 reviews."
   },
   {
     "q": "What's the cheapest slim option?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/412VP8wOKyL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Standing Desk Converter 32 x 22"
         ],
         [
-          "",
+          "Dual monitors",
           "VIVO Ultra-Slim Single Top Height Adjustable Standing Desk Riser"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $50",
           "Aconcept Extra-Slim 24 x 14 inch Black Lift Standing Desk Converter"
         ],
         [
-          "",
+          "Mid-range",
           "VIVO Ultra-Slim Single Top Height Adjustable Standing Desk Riser"
         ],
         [
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: VIVO Ultra-Slim Single Top Height Adjustable Standing Desk Riser, Mount-It! Standing Desk Converter 32 x 22, Aconcept Extra-Slim 24 x 14 inch Black Lift Standing Desk Converter."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: none in this specific roundup, since most picks here use a manual lift."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Standing Desk Converter 32 x 22"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "VIVO Ultra-Slim Single Top Height Adjustable Standing Desk Riser"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VIVO Ultra-Slim Single Top Height Adjustable Standing Desk Riser fits this specifically: Largest review base among explicitly slim-marketed converters."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Standing Desk Converter 32 x 22 offers: Highest rating among slim-profile-oriented converters. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Aconcept Extra-Slim 24 x 14 inch Black Lift Standing Desk Converter already covers the essentials: Explicitly marketed as extra-slim, lowest price in this comparison. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]

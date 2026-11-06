@@ -33,11 +33,11 @@ export const faq = [
   },
   {
     "q": "Which is the best value?",
-    "a": ""
+    "a": "The dbest Products Quik Cart Standard in black, at $36.39."
   },
   {
     "q": "Which has real review data to reference?",
-    "a": ""
+    "a": "The dbest Products Quik Cart Sport (683 reviews, 4.1 stars) and the Storex Portable File Box (586 reviews, 3.5 stars)."
   },
   {
     "q": "Is there an option that also carries a laptop?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Dbest Products Quik Cart Sport Collapsible Rolling Crate on Wheels for Teachers"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Dbest Products Quik Cart Sport Collapsible Rolling Crate on Wheels for Teachers"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $35",
           "Dbest Products Quik Cart Sport Collapsible Rolling Crate on Wheels for Teachers"
         ],
         [
-          "",
+          "Up to $70",
           "Prokva Rolling Teacher Bag with Wheels"
         ]
       ]
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to dbest Products Quik Cart Sport Collapsible Rolling Crate on Wheels for Teachers unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Dbest Products Quik Cart Sport Collapsible Rolling Crate on Wheels for Teachers"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "dbest Products Quik Cart Sport Collapsible Rolling Crate on Wheels for Teachers is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Prokva Rolling Teacher Bag with Wheels's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where dbest Products Quik Cart Sport Collapsible Rolling Crate on Wheels for Teachers covers the same job at a lower price."
       }
     ]
@@ -153,11 +153,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Required confirmed genuine wheels",
     "description": "We only included products with wheels explicitly confirmed in the listing, not just a carrying handle mistaken for rolling capability."
   },
   {
-    "title": "",
+    "title": "Compared collapsible vs. rigid rolling designs",
     "description": "We noted where a rolling tote collapses for storage versus staying rigid, since that affects storage footprint when not in use."
   },
   {

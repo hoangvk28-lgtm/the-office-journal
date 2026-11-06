@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41RI0692h6L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -70,26 +70,26 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Widest range, flexible for future upgrades",
-          ""
+          "LIANGSTAR Laptop Cooling Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $25",
+          "LIANGSTAR Laptop Cooling Pad"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "ChillCore Laptop Cooling Pad"
         ],
         [
           "No firm budget ceiling, prioritizing fan count or extras",
@@ -102,31 +102,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: llano V12 Gaming Laptop Cooling Pad Laptop Cooler Laptop Cooling Fan Stand."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: ChillCore Laptop Cooling Pad."
       }
     ],
     "note": "Most buyers should default to a slim pick like llano V12 Gaming Laptop Cooling Pad Laptop Cooler Laptop Cooling Fan Stand for everyday portability, and only step up to ChillCore Laptop Cooling Pad's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Most ergonomic height adjustment range",
-          ""
+          "ChillCore Laptop Cooling Pad"
         ],
         [
           "Simplest setup, fewer adjustments to fuss with",
-          ""
+          "LIANGSTAR Laptop Cooling Pad"
         ]
       ]
     }
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Razer Laptop Cooling Pad Adaptive Smart offers: Automatic speed adjustment removes manual noise-vs-cooling guesswork. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "LIANGSTAR Laptop Cooling Pad already covers the essentials: Independent 2-zone fan control at a low price. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -161,16 +161,16 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Sustained-load thermal evidence",
     "description": "We prioritized listings with a specific documented temperature reduction under gaming or rendering workloads over pads that only claim general cooling benefit."
   },
   {
-    "title": "",
+    "title": "Multi-zone vent alignment",
     "description": "We checked whether each pad's fan layout accounts for gaming laptops with separate CPU and GPU exhaust zones, not just a single center vent."
   },
   {
     "title": "Noise justified by cooling gain",
-    "description": ""
+    "description": "We weighed stated dBA figures and fan RPM against documented or claimed cooling results, since a louder fan is only a genuine advantage if it delivers measurably more airflow benefit."
   },
   {
     "title": "RGB and gaming features assessed separately from cooling",

@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Universal Large Desk Cup Holder Clamp"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "GUNKING Luxury 2"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "HzTinT Large Desk Cup Holder"
         ],
         [
-          "",
+          "Up to $20",
           "OOKUU Deeper Desk Cup Holder"
         ]
       ]
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Deep Cavity vs Flat Ring",
     "cards": [
       {
-        "label": "",
+        "label": "GUNKING Luxury 2",
         "text": "Cradles the cup on multiple sides, meaningfully more resistant to tipping from an incidental bump."
       },
       {
@@ -109,16 +109,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to a deep-cavity design unless desk space is tight."
   },
   {
-    "subheading": "",
+    "subheading": "By Feature Set",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Want a headphone hanger or hybrid design",
-          ""
+          "GUNKING Luxury 2"
         ],
         [
           "Just want a dedicated cup holder",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Oversized Tumbler Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed cavity diameter in inches, not just a vague \"large\" label, since oversized tumblers vary in exact width and a mismatched cavity won't grip securely."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "GUNKING Luxury 2 is worth checking against its listed diameter spec before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a metal clamp and deeper cavity, where OOKUU Deeper Desk Cup Holder's higher price buys real durability and tip resistance over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You use a standard-size mug and rarely bump your desk, where HzTinT Large Desk Cup Holder covers the same job at a lower price."
       }
     ]
@@ -161,7 +161,7 @@ export const howWeEvaluated = [
     "description": "We checked cavity diameter against standard ceramic mugs and popular oversized coffee tumbler brands like Yeti and Stanley."
   },
   {
-    "title": "",
+    "title": "Elevated staining-risk stakes",
     "description": "We weighted tip and spill resistance with coffee's higher staining risk to desk and carpet surfaces in mind, distinct from a clear water spill."
   },
   {
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "We confirmed which picks are relevant to coffee-specific sizing versus reused general-purpose research."
   },
   {
-    "title": "",
+    "title": "Tall tumbler height accommodation",
     "description": "We noted cavity depth against the taller height of many popular coffee tumbler designs compared to a standard mug."
   }
 ];

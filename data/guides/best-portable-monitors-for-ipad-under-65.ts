@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/511ScqoY5JL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -76,31 +76,31 @@ export const howToChoose: HowToChooseSection[] = [
           "6\" Portable Monitor, Ultra-Thin Zero Frame"
         ],
         [
-          "",
+          "The largest screen size",
           "AOC 16\" Portable Monitor FHD"
         ],
         [
-          "",
+          "Reverse charging convenience",
           "InnoView Portable Monitor, Built-in Speaker with Case"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $50",
+          "VILVA ($44.99), MNN ($49.99), ForHelp ($49.99), or AOC ($49.99)"
         ],
         [
-          "",
-          ""
+          "$60 to $65",
+          "InnoView ($59.99) or KYY ($62.99)"
         ]
       ]
     }
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C Only vs USB-C Plus HDMI Fallback",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C only (MNN)",
         "text": "Simplest single-cable setup for power and video, but no fallback if your specific iPad's USB-C port doesn't support DisplayPort Alt Mode."
       },
       {
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you haven't confirmed your specific iPad model supports DisplayPort Alt Mode over USB-C, a monitor with an HDMI fallback option is the safer choice."
   },
   {
-    "subheading": "",
+    "subheading": "By Portability Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lightest and thinnest for frequent travel",
-          ""
+          "ForHelp (1.52 lbs, 0.3\") or KYY (1.7 lbs, 0.3\")"
         ],
         [
           "Largest screen, less concerned with weight",
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Uncertain iPad Compatibility Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A monitor offering both USB-C and a standard or Mini-HDMI connection option, so you have a working fallback if your iPad's specific USB-C port doesn't support DisplayPort Alt Mode video-out."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "VILVA, ForHelp, InnoView, and KYY all provide this dual connection flexibility, while MNN is USB-C only."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) are the two picks here with those specific added features."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) covers USB-C and HDMI flexibility at the lowest price in this comparison."
       }
     ]
@@ -172,7 +172,7 @@ export const howWeEvaluated = [
     "description": "1 Type-C DP Alt Mode), a real compatibility gate not every iPad model satisfies, rather than assuming any USB-C port works."
   },
   {
-    "title": "",
+    "title": "Connection fallback options",
     "description": "We noted which monitors offer HDMI or Mini-HDMI as a fallback alongside USB-C, versus USB-C only, since a fallback path matters if a specific iPad's port doesn't support DP Alt Mode."
   },
   {
@@ -184,7 +184,7 @@ export const howWeEvaluated = [
     "description": "5mm audio input, distinct from the baseline built-in speakers most picks share."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $65 on the date this guide was checked; monitors that only hit this tier during a temporary sale were excluded."
   }
 ];

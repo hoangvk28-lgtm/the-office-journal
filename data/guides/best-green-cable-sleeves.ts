@@ -60,75 +60,75 @@ export const heroImage = "https://m.media-amazon.com/images/I/41vTeeG5oML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "1-2 thin cables",
+          "Spiral Cable Wrap"
         ],
         [
           "A mixed bundle of 3-5 cables",
           "Uxcell PET Expandable Sleeving 10ft 1/2\" Green Cable Management Sleeve Cord"
         ],
         [
-          "",
-          ""
+          "A thick multi-cable run",
+          "Spiral Cable Wrap"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Spiral Cable Wrap"
         ],
         [
-          "",
+          "Mid-range pick",
           "30ft PET Expandable Sleeving Wire Cable Sleeve (1/2\", Green& Black)"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Spiral Cable Wrap"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
-        "label": "",
+        "label": "Zipper (e.g. Spiral Cable Wrap)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "Uxcell PET Expandable Sleeving 10ft 1/2\" Green Cable Management Sleeve Cord"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Uxcell PET Expandable Sleeving 10ft 1/2\" Green Cable Management Sleeve Cord is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Spiral Cable Wrap justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Spiral Cable Wrap already covers the job at the lowest price here."
       }
     ]

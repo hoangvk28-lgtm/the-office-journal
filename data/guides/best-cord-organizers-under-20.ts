@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/51lgefs0-mL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A few light cables",
           "JTemgle 2\" U-Shape Desk Grommet"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Sevenblue 2026 Upgraded 3-in-1 Universal Hair Tool Organizer"
         ],
         [
-          "",
+          "A large mixed bundle",
           "Xpatee 2 Pack Cable Management Under Desk Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "JTemgle 2\" U-Shape Desk Grommet"
         ],
         [
-          "",
+          "Mid-range pick",
           "Electronics Organizer, Travel Cord Organizer Pouch, Cable Organizer Bags"
         ],
         [
-          "",
+          "Higher budget",
           "Xpatee 2 Pack Cable Management Under Desk Tray"
         ]
       ]
@@ -113,26 +113,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Hides cables completely, needs ventilation for warm power bricks."
       },
       {
-        "label": "",
+        "label": "Sleeve/wrap",
         "text": "More flexible for adding cables, less visually contained."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under-desk hidden",
           "Sevenblue 2026 Upgraded 3-in-1 Universal Hair Tool Organizer"
         ],
         [
-          "",
+          "Surface or freestanding",
           "Electronics Organizer, Travel Cord Organizer Pouch, Cable Organizer Bags"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequently Changing Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reusable fasteners and an open or slotted entry point rather than a fully sealed box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Sevenblue 2026 Upgraded 3-in-1 Universal Hair Tool Organizer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Xpatee 2 Pack Cable Management Under Desk Tray justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where JTemgle 2\" U-Shape Desk Grommet already covers the job at the lowest price here."
       }
     ]

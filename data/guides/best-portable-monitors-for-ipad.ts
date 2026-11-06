@@ -52,43 +52,43 @@ export const heroImage = "https://m.media-amazon.com/images/I/51T7K-COzIL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Refresh Rate",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Standard smooth motion",
           "6\" FHD 60Hz Portable Monitor USB-C HDMI IPS HDR"
         ],
         [
-          "",
-          ""
+          "Maximum refresh headroom",
+          "VisionOwl Portable Monitor 16 Inch 2.5K QHD 144Hz"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $50",
           "6\" FHD IPS USB-C HDMI Portable Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "KYY Portable Monitor for Laptop"
         ],
         [
           "No firm budget ceiling, prioritizing panel quality or resolution",
-          ""
+          "VisionOwl Portable Monitor 16 Inch 2.5K QHD 144Hz"
         ]
       ]
     }
@@ -97,22 +97,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C DisplayPort Alt Mode vs HDMI",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C (DisplayPort Alt Mode)",
         "text": "Usually the port that hits the panel's full rated refresh rate, and can carry power alongside video on one cable. In this comparison: check each listing's stated USB-C refresh rate directly."
       },
       {
-        "label": "",
+        "label": "HDMI",
         "text": "Reliable for consoles and older sources, but often capped below the panel's full rated refresh, especially at higher resolutions. In this comparison: check each listing's stated HDMI refresh ceiling directly."
       }
     ],
     "note": "Check each listing's per-port refresh specs directly before assuming HDMI matches the headline rate."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Mount Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Handheld Gaming PC or Console Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Your exact source device's documented maximum output refresh rate over the connection type you'll use, checked independently from the monitor's own rated capability, since handhelds like Steam Deck and ROG Ally commonly cap at 60Hz over USB-C."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "KYY Portable Monitor 15.6\" 1080P Computer Monitor Screen Extender w/Cover fits this specifically: Largest review base in this guide."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5K QHD 144Hz offers: Brightest panel in this guide, good for outdoor iPad use. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6\" FHD IPS USB-C HDMI Portable Monitor already covers the essentials: Cheapest pick in this guide. The main thing you'd be paying extra for elsewhere in this list is headroom you may not actually use."
       }
     ]
@@ -156,15 +156,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "M-series vs. A-series Stage Manager support",
     "description": "Flagged for every pick whether extended-desktop Stage Manager actually applies, since only M-series iPad Pro/Air (2022+) support it; other iPads get mirroring only regardless of monitor quality."
   },
   {
-    "title": "",
+    "title": "Touch pass-through reality check",
     "description": "Confirmed none of these monitors receive touch input from iPadOS, even the touchscreen-capable market segment doesn't apply here, since iPadOS keeps the iPad's own screen as the sole touch surface."
   },
   {
-    "title": "",
+    "title": "VESA mount vs. travel-stand design",
     "description": "Distinguished picks built for a permanent iPad workstation (VESA holes) from lighter travel-first cover-stand designs."
   }
 ];

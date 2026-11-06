@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51rQ8vqtkVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "Marbrasse 2 Tier Paper Organizer Letter Tray"
         ],
         [
-          "",
-          ""
+          "Several distinct categories",
+          "Officemate Recycled Desk Tray"
         ],
         [
-          "",
-          ""
+          "High document volume",
+          "1inTheOffice Stackable Paper Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,41 +96,41 @@ export const howToChoose: HowToChooseSection[] = [
           "Marbrasse 2 Tier Paper Organizer Letter Tray"
         ],
         [
-          "",
+          "Mid-range pick",
           "TRU RED Side-Load Stackable Metal Letter Tray"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "1inTheOffice Stackable Paper Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "Marbrasse 2 Tier Paper Organizer Letter Tray)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Limited desk depth",
+          "Officemate Recycled Desk Tray"
         ],
         [
           "Room for a taller multi-tier tray",
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Officemate Recycled Desk Tray is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 1inTheOffice Stackable Paper Tray justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Marbrasse 2 Tier Paper Organizer Letter Tray already covers the job at the lowest price here."
       }
     ]

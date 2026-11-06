@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/51m8DcjqrzL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,24 +76,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $21",
+          "AIMIUZI Laptop Cooling Pad for 12-15.6 Inch Laptops"
         ],
         [
-          "",
+          "Mid-range",
           "Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans"
         ],
         [
           "No firm budget ceiling, prioritizing fan count or extras",
-          ""
+          "Havit HV-F2056 15.6\"-17\" Laptop Cooler"
         ]
       ]
     }
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: Coolertek Portable Slim Quiet Laptop Cooling Pad."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: LIANGSTAR Laptop Cooling Pad with 6 Quiet Fans for 12-17 Inch."
       }
     ],
     "note": "Most buyers should default to a slim pick like Coolertek Portable Slim Quiet Laptop Cooling Pad for everyday portability, and only step up to LIANGSTAR Laptop Cooling Pad with 6 Quiet Fans for 12-17 Inch's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -126,7 +126,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Simplest setup, fewer adjustments to fuss with",
-          ""
+          "AIMIUZI Laptop Cooling Pad for 12-15.6 Inch Laptops"
         ]
       ]
     }
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6 Inch Laptops already covers the essentials: Range centers closer to 13-inch than the widest-range pads. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -161,7 +161,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine size-range verification",
     "description": "We compared each product's stated compatible size range against 13 inches specifically, rather than assuming any pad marked up to 17 inches is equally suited to a 13-inch laptop."
   },
   {
@@ -169,11 +169,11 @@ export const howWeEvaluated = [
     "description": "We considered whether the fan spread and pad footprint are proportional to a smaller laptop's narrower base, not just technically large enough."
   },
   {
-    "title": "",
+    "title": "MacBook Air overlap",
     "description": "We cross-referenced our MacBook Air cooling pad research, since many 13-inch laptops are ultrabook-class devices with similar vent-placement considerations."
   },
   {
-    "title": "",
+    "title": "Ergonomic range and extras",
     "description": "We compared height adjustment levels and USB port counts as secondary differentiators once size fit was established."
   }
 ];

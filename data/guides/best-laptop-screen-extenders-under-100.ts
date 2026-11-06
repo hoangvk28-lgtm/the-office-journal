@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51sv2-6VaNL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,20 +83,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $85",
+          "VueForge Laptop Screen Extender 14\" ($79.98)"
         ],
         [
-          "",
-          ""
+          "$85-$90",
+          "ROYY Laptop Screen Extender 14\" ($89.09), Miesebe Laptop Screen Extender 14\" ($89.99), or KEFEYA Laptop Screen Extender 14\" ($89.99)"
         ]
       ]
     }
@@ -105,26 +105,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "180 vs 226 Degree Rotation",
     "cards": [
       {
-        "label": "",
+        "label": "180 Degrees (ROYY, KEFEYA)",
         "text": "Covers standard landscape and portrait switching plus basic angle adjustment for personal viewing. Sufficient for solo desk use where you're not regularly showing the screen to someone else."
       },
       {
-        "label": "",
+        "label": "226 Degrees (Miesebe)",
         "text": "Allows fully turning the display toward a colleague or client without repositioning the laptop itself. Best if you regularly share your screen in person during meetings or presentations."
       }
     ],
     "note": "Most solo desk users don't need the extra rotation range, but it's a genuine convenience for anyone regularly presenting to someone sitting across from them."
   },
   {
-    "subheading": "",
+    "subheading": "By Cable Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your laptop has",
+        "Recommended setup"
       ],
       "rows": [
         [
-          "",
+          "A full-featured Thunderbolt/USB-C port",
           "Any pick here works with a single USB-C to USB-C cable"
         ],
         [
@@ -135,27 +135,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated built-in speaker, since not every extender includes one, and relying on your laptop's speakers while the video call window is on the extended screen can create an awkward audio-visual mismatch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both the Miesebe Laptop Screen Extender 14\" and KEFEYA Laptop Screen Extender 14\" include built-in speakers, while the ROYY and VueForge picks don't mention this feature."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "6\" or larger screen, or a triple-monitor setup, which requires stepping up to the next price tier rather than staying under $100."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A 14\" screen with basic rotation covers your needs, where the VueForge Laptop Screen Extender 14\" delivers real build quality for under $80."
       }
     ]
@@ -164,23 +164,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Documented Display Specs",
     "description": "Checked which listings state specific brightness (nits), contrast ratio, and color gamut figures versus those using only general \"vibrant\" or \"crisp\" language without numbers."
   },
   {
-    "title": "",
+    "title": "Cable Requirements in Practice",
     "description": "Verified what's actually needed to power and connect each extender, since several require an additional USB-A power cable specifically when using HDMI rather than a single cable."
   },
   {
-    "title": "",
+    "title": "Rotation and Attachment Mechanism",
     "description": "Compared stated rotation degree ranges and how each extender attaches to the laptop, since a wider rotation range and a secure, non-wobbling clamp affect real day-to-day usability."
   },
   {
-    "title": "",
+    "title": "Compatibility Caveats",
     "description": "Noted which listings proactively disclose device compatibility limits, like specific Surface model issues, versus those making broad universal-compatibility claims without caveats."
   },
   {
-    "title": "",
+    "title": "Warranty and Support Terms",
     "description": "Compared stated warranty length and support commitments where available, since this varies even among similarly priced and specced extenders."
   }
 ];

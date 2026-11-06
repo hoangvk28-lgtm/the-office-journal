@@ -57,38 +57,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/31s5DAKG6ML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Slot Type",
     "table": {
       "headers": [
-        "",
+        "Your laptop's slot",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Confirmed standard slot",
           "Kensington T-Bar Standard Keyed Lock"
         ],
         [
-          "",
+          "Confirmed nano slot",
           "Kensington NanoSaver Keyed Laptop Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "Targus DEFCON Trapezoid Keyed Cable Lock"
         ],
         [
-          "",
+          "Mid-range",
           "Kensington NanoSaver Keyed Laptop Lock"
         ],
         [
@@ -99,24 +99,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: check each listing's mechanism directly."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: Kensington T-Bar Standard Keyed Lock, Kensington N17 Dell Laptop Lock, Kensington NanoSaver Keyed Laptop Lock."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -124,7 +124,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Kensington T-Bar Standard Keyed Lock"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "Targus DEFCON Trapezoid Keyed Cable Lock"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Kensington T-Bar Standard Keyed Lock fits this specifically: Longest support window in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Targus DEFCON T-Lock Keyed Cable Lock offers: Non-Kensington alternative at a comparable price for the same slot standard. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Targus DEFCON Trapezoid Keyed Cable Lock already covers the essentials: Lowest price of any keyed lock in this comparison. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

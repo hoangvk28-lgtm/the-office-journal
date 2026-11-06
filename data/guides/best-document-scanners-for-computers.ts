@@ -53,56 +53,56 @@ export const heroImage = "https://m.media-amazon.com/images/I/41rW4JApydL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By ADF Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "100-sheet ADF",
+          "ScanSnap iX2400 High"
         ],
         [
-          "",
+          "100-sheet ADF",
           "ScanSnap iX2500 Wireless or USB High"
         ],
         [
-          "",
-          ""
+          "50-sheet ADF",
+          "Epson Workforce ES"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $70",
           "Canon Canoscan Lide 300 Scanner"
         ],
         [
-          "",
+          "Up to $NaN",
           "ScanSnap iX2500 Wireless or USB High"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Scanning",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex scanning",
         "text": "Captures both sides of a page in one pass, worth it if you regularly handle double-sided documents. In this comparison: Epson Workforce ES, Brother DS, Canon imageFORMULA R10 Portable Document Scanner, Epson Workforce ES."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if your documents are mostly single-sided. In this comparison: ScanSnap iX2400 High, Brother DS, Canon Canoscan Lide 300 Scanner, ScanSnap iX2500 Wireless or USB High."
       }
     ],
@@ -112,17 +112,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By OCR / Searchable PDF Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Searchable PDF with OCR",
+          "Epson Workforce ES"
         ],
         [
-          "",
-          ""
+          "Plain scans are enough",
+          "ScanSnap iX2400 High"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tax or Financial Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated duty cycle matched to your real monthly volume, plus verified OCR accuracy on receipts and financial documents specifically."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Epson Workforce ES discloses OCR and searchable PDF support."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You process a real daily volume of double-sided documents, where ScanSnap iX2500 Wireless or USB High's higher duty cycle and speed give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only scan occasionally at low volume, where Canon Canoscan Lide 300 Scanner covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Driver architecture disclosure (TWAIN/ISIS/WIA)",
     "description": "Checked which driver standards each scanner explicitly supports, since TWAIN is the consumer default but ISIS is required for many enterprise document management platforms and is often a separate cost."
   },
   {

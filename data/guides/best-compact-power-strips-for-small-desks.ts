@@ -52,38 +52,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/21HCB-DymBL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Outlet Count",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Compact, fewer outlets needed",
           "One Beat Power Strip with USB C"
         ],
         [
-          "",
-          ""
+          "Maximum outlet capacity",
+          "Surge Protector Power Strip"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "Olcorife Flat Plug Power Strip with 5 FT Extension Cord"
         ],
         [
-          "",
+          "Mid-range",
           "One Beat Power Strip with USB C"
         ],
         [
@@ -97,21 +97,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C PD Charging vs Outlets Only",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C PD Charging",
         "text": "Charges laptops and higher-power devices faster directly from the strip, without a separate charging brick. In this comparison: Olcorife Flat Plug Power Strip with 5 FT Extension Cord, One Beat Power Strip with USB C, Surge Protector Power Strip."
       },
       {
-        "label": "",
+        "label": "AC Outlets Only",
         "text": "Simpler design focused purely on outlet count, pair with your own chargers as needed. In this comparison: TESSAN Small Flat Plug Power Strip, One Beat Power Strip Surge Protector."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Surge Protection Level",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -125,24 +125,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Bulky Wall-Wart Adapters Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Wide or offset outlet spacing explicitly mentioned in the listing or shown in product photos, not just a high raw outlet count."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TESSAN Small Flat Plug Power Strip fits this specifically: the smallest footprint in this guide."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what TESSAN Small Flat Plug Power Strip offers: the smallest footprint in this guide. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Olcorife Flat Plug Power Strip with 5 FT Extension Cord already covers the essentials: 3-sided design fits wider adapters despite compact size. The main thing you'd be paying extra for elsewhere in this list is capacity or charging speed you may not need."
       }
     ]
@@ -151,7 +151,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Space-saved-versus-outlet-count-sacrificed ratio quantified",
     "description": "Compared each pick's compact footprint against how much outlet count or spacing it sacrifices, rather than treating 'compact' as a blanket positive without a tradeoff."
   },
   {

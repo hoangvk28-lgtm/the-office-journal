@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41wAS5zXC0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Carrying your own cards",
           "STORE SMART - Folding Business Card Holders - 2 Pack - Polypropylene Plastic"
         ],
         [
-          "",
+          "Displaying cards for visitors",
           "Digital Business Card Keychain with NFC & QR Code, Smart Tap Business Card"
         ],
         [
-          "",
+          "Client-facing handoffs",
           "HUAHAITGCH Business Card Holder PU Leather& Metal Business Card Case, Black1"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "STORE SMART - Folding Business Card Holders - 2 Pack - Polypropylene Plastic"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "MaxGear Business Card Holder"
         ],
         [
-          "",
+          "Higher budget",
           "HUAHAITGCH Business Card Holder PU Leather& Metal Business Card Case, Black1"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Top vs Snap-Closed",
     "cards": [
       {
         "label": "STORE SMART - Folding Business Card Holders - 2 Pack - Polypropylene Plastic)",
         "text": "Faster one-hand access, less protection against spilling."
       },
       {
-        "label": "",
+        "label": "Snap/magnetic closed",
         "text": "Secures cards fully, takes an extra motion to open."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your card volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A small daily-carry stack",
           "Digital Business Card Keychain with NFC & QR Code, Smart Tap Business Card"
         ],
         [
           "A larger desk or display stock",
-          ""
+          "MaxGear Business Card Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Client-Facing Handoffs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A material (leather or solid metal) that reinforces a professional impression at the handoff moment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Digital Business Card Keychain with NFC & QR Code, Smart Tap Business Card is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where HUAHAITGCH Business Card Holder PU Leather& Metal Business Card Case, Black1 justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where STORE SMART - Folding Business Card Holders - 2 Pack - Polypropylene Plastic already covers the job at the lowest price here."
       }
     ]

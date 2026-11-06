@@ -52,68 +52,68 @@ export const heroImage = "https://m.media-amazon.com/images/I/41qiWKr6LML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Power Delivery Wattage",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Philips 34 Inch Curved Computer Monitor UWQHD 100Hz USB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $230",
+          "Dell S2722DC Monitor"
         ],
         [
-          "",
-          ""
+          "Up to $397",
+          "LG 34U650A"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "4K Resolution vs 1080p/1440p",
     "cards": [
       {
-        "label": "",
+        "label": "4K resolution",
         "text": "Sharper detail, best on a larger panel or closer viewing distance where the extra pixels are actually visible. In this comparison: Dell 27 Monitor S2725QC."
       },
       {
-        "label": "",
+        "label": "1080p/1440p",
         "text": "Usually cheaper and less demanding on your laptop's GPU, often the more practical choice at typical desk distances. In this comparison: Philips 34 Inch Curved Computer Monitor UWQHD 100Hz USB, Dell 27 Plus QHD USB, Dell S2722DC Monitor, LG 34U650A."
       }
     ],
     "note": "Default to 1080p/1440p unless your desk setup and viewing distance benefit from 4K's extra detail."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 34-inch panel",
           "Philips 34 Inch Curved Computer Monitor UWQHD 100Hz USB"
         ],
         [
-          "",
-          ""
+          "Around 34-inch panel",
+          "LG 34U650A"
         ]
       ]
     }
@@ -122,24 +122,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a MacBook or Mac Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed DisplayPort Alt Mode support and a power delivery wattage matched to your MacBook's charging brick wattage."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since PD wattage isn't consistently disclosed across every monitor in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want full single-cable charging, sharper resolution, or built-in hub ports, where LG 34U650A's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You already have a separate charger and just need a display, where Dell S2722DC Monitor covers the same job at a lower price."
       }
     ]
@@ -152,7 +152,7 @@ export const howWeEvaluated = [
     "description": "Checked available power delivery wattage information against typical laptop charging classes, from lightweight ultrabooks to power-hungry gaming laptops."
   },
   {
-    "title": "",
+    "title": "Wattage documentation clarity weighted",
     "description": "Weighted how clearly a manufacturer documents actual PD wattage in spec sheets, since this information is often buried in fine print rather than headline marketing."
   },
   {

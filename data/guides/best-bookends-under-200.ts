@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/411+cVtBzuL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A light stack of paperbacks",
-          ""
+          "Peacoblue 5.3\"x4.3\"x7.3\" Metal Bookends"
         ],
         [
-          "",
+          "A full mixed shelf",
           "ENCIMART People Bookends Decorative Cute Metal Book Ends for Shelves"
         ],
         [
@@ -84,56 +84,56 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Peacoblue 5.3\"x4.3\"x7.3\" Metal Bookends"
         ],
         [
-          "",
+          "Mid-range pick",
           "Yulejo 16 Pcs Clear Acrylic Book Ends for Shelves Heavy Duty L Shaped"
         ],
         [
-          "",
+          "Higher budget",
           "BOIHEGU 7 Inch Vintage Dragon Decorative Bookends Pair"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
-        "label": "",
+        "label": "Decorative (e.g. Peacoblue 5.3\"x4.3\"x7.3\" Metal Bookends)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Glossy or glass surface",
           "ENCIMART People Bookends Decorative Cute Metal Book Ends for Shelves"
         ],
         [
-          "",
+          "Textured wood surface",
           "Yulejo 16 Pcs Clear Acrylic Book Ends for Shelves Heavy Duty L Shaped"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ENCIMART People Bookends Decorative Cute Metal Book Ends for Shelves is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where BOIHEGU 7 Inch Vintage Dragon Decorative Bookends Pair justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "3\" Metal Bookends already covers the job at the lowest price here."
       }
     ]

@@ -56,42 +56,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "CyberPower CP1500PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "APC UPS 1500VA/900W Battery Backup for PCs"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $120",
           "CyberPower AVRG750U AVR UPS System"
         ],
         [
-          "",
+          "Up to $220",
           "CyberPower CP1500PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Real Watts vs Price",
     "cards": [
       {
         "label": "CyberPower AVRG750U AVR UPS System",
@@ -112,24 +112,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a PC Plus Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Real watts (not VA) comfortably above your combined equipment draw, plus pure sine wave if your PC has an APFC power supply."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "CyberPower CP1500PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector discloses the highest real capacity at 1000W."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a high-draw workstation, multiple monitors, or NAS equipment, where CyberPower CP1500PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector's higher watts capacity gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need brief runtime for a single low-draw device, where CyberPower AVRG750U AVR UPS System covers the same job at a lower price."
       }
     ]
@@ -142,8 +142,8 @@ export const howWeEvaluated = [
     "description": "Prioritized picks where AVR corrects brownouts in-line without switching to battery, since every unnecessary battery-mode switch on a minor sag drains a charge cycle a real outage would otherwise need."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Review base as evidence of long-term AVR reliability",
+    "description": "Weighed larger, more established review bases more heavily, since AVR reliability over years of real brownout events matters more than a spec-sheet claim."
   },
   {
     "title": "Capacity matched to realistic desk setups",

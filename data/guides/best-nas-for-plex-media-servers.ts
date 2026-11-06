@@ -64,35 +64,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "UGREEN NAS DXP4800 Plus 4"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "UGREEN NAS DXP4800 Plus 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $200",
           "Asustor Drivestor 2 Gen 2 AS1202T 2"
         ],
         [
-          "",
+          "Up to $620",
           "UGREEN NAS DXP4800 Plus 4"
         ]
       ]
@@ -102,42 +102,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Diskless Enclosure vs Drives Included",
     "cards": [
       {
-        "label": "",
+        "label": "Diskless enclosure",
         "text": "Lets you choose your own NAS-grade drives and capacity, but budget $80-200+ per bay separately. In this comparison: UGREEN NAS DH2300 2."
       },
       {
-        "label": "",
+        "label": "Drives included",
         "text": "Ready to use out of the box, simpler for a first NAS purchase. In this comparison: UGREEN NAS DXP4800 Plus 4, QNAP TS, UGREEN NAS DXP2800 2, TERRAMASTER F2, QNAP TS, Asustor Drivestor 2 Gen 2 AS1202T 2, Synology DS223 2."
       }
     ],
     "note": "Default to diskless if you want control over drive choice and capacity, drives-included for the simplest setup."
   },
   {
-    "subheading": "",
+    "subheading": "By CPU and RAM",
     "note": "Check each pick's listed CPU architecture and RAM amount against your actual workload before buying, not just bay count alone."
   },
   {
     "subheading": "For Media Streaming or Plex Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A CPU capable of hardware transcoding and enough RAM to handle multiple simultaneous streams, not just total bay count."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "UGREEN NAS DXP4800 Plus 4 is worth checking against its listed CPU and RAM before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real multi-user performance, media transcoding, or business-critical reliability, where UGREEN NAS DXP4800 Plus 4's CPU and RAM give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need simple backup storage for one or two users, where Asustor Drivestor 2 Gen 2 AS1202T 2 covers the same job at a lower price."
       }
     ]
@@ -146,15 +146,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "CPU architecture for transcoding",
     "description": "Compared Intel x86 chips, capable of real hardware transcoding with a Plex Pass, against ARM chips, which can never hardware transcode regardless of subscription status."
   },
   {
-    "title": "",
+    "title": "RAM for library size",
     "description": "Weighed onboard RAM against typical library sizes, since metadata indexing for libraries above 5,000 items gets noticeably heavier on memory."
   },
   {
-    "title": "",
+    "title": "Network throughput",
     "description": "5GbE, against how many simultaneous 4K streams a household is likely to run at once."
   },
   {

@@ -44,7 +44,7 @@ export const faq = [
     "a": "It depends on the actual cup capacity in milliliters, not just the vacuum's overall size, some compact models still balance a reasonably larger cup, so check this spec specifically rather than assuming."
   },
   {
-    "q": "",
+    "q": "Are mini vacuums loud?",
     "a": "Cordless models typically run around 55 to 62 DB, noticeable in a quiet shared office; check buyer reviews for real-world noise impressions if discretion matters."
   },
   {
@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41WUl15fl1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Keyboard crumbs",
           "JONYJ Handheld Car Vacuum Cleaner Cordless"
         ],
         [
-          "",
+          "Whole-desk cleaning",
           "EOUMJE Cordless Handheld Car Vacuum"
         ],
         [
-          "",
+          "Car interior",
           "Omofull Car Vacuum Portable Cordless"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "JONYJ Handheld Car Vacuum Cleaner Cordless"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "SERVOMASTER Handheld Vacuum Cordless"
         ],
         [
-          "",
+          "Higher budget",
           "Omofull Car Vacuum Portable Cordless"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Corded vs Cordless",
     "cards": [
       {
         "label": "JONYJ Handheld Car Vacuum Cleaner Cordless)",
         "text": "Consistent suction, no battery to manage, lower price."
       },
       {
-        "label": "",
+        "label": "Cordless",
         "text": "Portable and quiet, but suction fades as the battery drains."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Suction Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday light cleaning",
           "EOUMJE Cordless Handheld Car Vacuum"
         ],
         [
-          "",
-          ""
+          "Maximum suction power",
+          "SERVOMASTER Handheld Vacuum Cordless"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tight Keyboard Crevices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A narrow brush or crevice nozzle attachment included in the box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "EOUMJE Cordless Handheld Car Vacuum is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Omofull Car Vacuum Portable Cordless justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where JONYJ Handheld Car Vacuum Cleaner Cordless already covers the job at the lowest price here."
       }
     ]

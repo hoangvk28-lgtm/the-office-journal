@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Long Gooseneck Phone Arm for Bed and Desk"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Long Gooseneck Phone Arm for Bed and Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $NaN",
           "Long Gooseneck Phone Arm for Bed and Desk"
         ],
         [
-          "",
+          "Up to $25",
           "Lamicall Nylon Braided Gooseneck Phone Holder for Bed"
         ]
       ]
@@ -98,22 +98,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Gooseneck vs Articulating Multi-Joint Arm",
     "cards": [
       {
-        "label": "",
+        "label": "Gooseneck",
         "text": "Bends into one position and stays, simpler and usually cheaper. In this comparison: Long Gooseneck Phone Arm for Bed and Desk, SAIJI Gooseneck Bed Phone Holder, MAGIPEA Gooseneck Phone Holder, Lamicall Nylon Braided Gooseneck Phone Holder for Bed."
       },
       {
-        "label": "",
+        "label": "Articulating multi-joint",
         "text": "Repositions across a wider range of angles, worth it if you switch use cases throughout the day. In this comparison: LISEN Cell Phone Holder."
       }
     ],
     "note": "Default to a gooseneck unless you need to reposition the phone often for different tasks."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Desk situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -121,34 +121,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Long Gooseneck Phone Arm for Bed and Desk"
         ],
         [
-          "",
-          ""
+          "Different mounting surface",
+          "LISEN Cell Phone Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Touch Interaction Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reinforced joints and a tension knob that resist wobble when tapping the screen, not just static holding power when the phone sits undisturbed."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Long Gooseneck Phone Arm for Bed and Desk is worth checking against its listed joint reinforcement before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need extended, stable positioning for filming or long video calls, where Lamicall Nylon Braided Gooseneck Phone Holder for Bed's reinforcement gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need occasional, light positioning for a bare phone, where Long Gooseneck Phone Arm for Bed and Desk covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hold-position reliability under weight",
     "description": "We prioritized picks with disclosed reinforcement (material gauge, spring tension, or stiff-core engineering) over vague flexibility marketing."
   },
   {
@@ -165,11 +165,11 @@ export const howWeEvaluated = [
     "description": "We favored listings that disclose specific material specs, like aluminum thickness or steel body construction, over generic 'flexible metal' claims."
   },
   {
-    "title": "",
+    "title": "Long-term repositioning durability",
     "description": "We noted features like abrasion-resistant sleeves or reinforced joints that address wear from repeated bending over months of use."
   },
   {
-    "title": "",
+    "title": "One-handed vs. two-handed adjustment tradeoff",
     "description": "We disclosed whether each design's stiffness level requires one or two hands to reposition, a genuine usability tradeoff for this flexible-mechanism category."
   }
 ];

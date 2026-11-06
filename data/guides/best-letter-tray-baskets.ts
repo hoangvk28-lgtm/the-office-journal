@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/516QYGLiNaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "Fellowes Workstation 3\" Letter Desk Tray Organizer"
         ],
         [
-          "",
+          "Several distinct categories",
           "AZFUNN Desk Metal Mesh Basket"
         ],
         [
-          "",
+          "High document volume",
           "AZFUNN Letter Desk Tray Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Fellowes Workstation 3\" Letter Desk Tray Organizer"
         ],
         [
-          "",
+          "Mid-range pick",
           "PINXIURY Water Hyacinth Letter Tray for A4 File Desk Mail Letter-Size Paper"
         ],
         [
-          "",
+          "Higher budget",
           "AZFUNN Letter Desk Tray Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "Fellowes Workstation 3\" Letter Desk Tray Organizer)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "AZFUNN Desk Metal Mesh Basket"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "AZFUNN Desk Metal Mesh Basket is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where AZFUNN Letter Desk Tray Organizer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Fellowes Workstation 3\" Letter Desk Tray Organizer already covers the job at the lowest price here."
       }
     ]

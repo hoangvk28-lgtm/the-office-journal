@@ -53,12 +53,12 @@ export const howToChoose: HowToChooseSection[] = [
     "intro": "A typical PoE security camera draws 6-12W, a WiFi access point 12-20W, an IP phone 5-7W. Multiply your actual device count by realistic draw before picking a switch on port count alone.",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your PoE fleet",
+        "Best pick"
       ],
       "rows": [
         [
-          "",
+          "4-5 cameras or APs",
           "NETGEAR GS305P or TP-Link TL-SG1005P"
         ],
         [
@@ -66,8 +66,8 @@ export const howToChoose: HowToChooseSection[] = [
           "TP-Link LS108GP or NETGEAR GS308EP"
         ],
         [
-          "",
-          ""
+          "Full 24-port office/camera deployment",
+          "Ubiquiti USW-Pro-24-PoE"
         ]
       ]
     }
@@ -84,19 +84,19 @@ export const howWeEvaluated = [
     "description": "Verified the actual port count, Gigabit vs multi-gig speed rating, and whether every port runs at the advertised speed or only some do, since several switches mix full-speed and lower-speed ports."
   },
   {
-    "title": "",
+    "title": "PoE Power Budget",
     "description": "Checked the total PoE wattage budget against realistic device counts, not just the per-port maximum, since a switch's total power pool is what actually limits how many cameras or access points it can run."
   },
   {
-    "title": "",
+    "title": "Management Depth",
     "description": "Classified each switch as unmanaged, smart/easy-managed, or fully managed Layer 2/3, since this determines what troubleshooting and segmentation options are available after installation, not just at setup."
   },
   {
-    "title": "",
+    "title": "Build & Mounting Flexibility",
     "description": "Weighed fanless vs active cooling, metal vs plastic housing, and desktop/wall/rack mounting options against the switch's likely install environment."
   },
   {
-    "title": "",
+    "title": "Real-World Documentation Honesty",
     "description": "Favored listings that clearly state cabling requirements, host port requirements, and speed caveats over ones that only advertise the theoretical maximum."
   }
 ];

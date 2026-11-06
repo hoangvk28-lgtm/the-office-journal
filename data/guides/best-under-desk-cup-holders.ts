@@ -60,36 +60,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "DecBeLiv 360° Rotating Cup Holder Under Desk"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "KDD 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $14",
+          "KDD 5"
         ],
         [
-          "",
-          ""
+          "Up to $19",
+          "KDD 4"
         ]
       ]
     }
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Deep Cavity vs Flat Ring",
     "cards": [
       {
-        "label": "",
+        "label": "KDD 4",
         "text": "Cradles the cup on multiple sides, meaningfully more resistant to tipping from an incidental bump."
       },
       {
@@ -109,16 +109,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to a deep-cavity design unless desk space is tight."
   },
   {
-    "subheading": "",
+    "subheading": "By Feature Set",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Want a headphone hanger or hybrid design",
-          ""
+          "KDD 4"
         ],
         [
           "Just want a dedicated cup holder",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Oversized Tumbler Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed cavity diameter in inches, not just a vague \"large\" label, since oversized tumblers vary in exact width and a mismatched cavity won't grip securely."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "KDD 4 is worth checking against its listed diameter spec before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a metal clamp and deeper cavity, where KDD 4's higher price buys real durability and tip resistance over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You use a standard-size mug and rarely bump your desk, where KDD 5 covers the same job at a lower price."
       }
     ]
@@ -157,19 +157,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Knee clearance impact",
     "description": "We noted that under-desk placement can interfere with legroom, and favored compact or fully-rotating designs that minimize this impact."
   },
   {
-    "title": "",
+    "title": "Retrieval accessibility",
     "description": "We compared whether reaching a hidden under-desk holder feels natural or requires an awkward, distracting reach."
   },
   {
-    "title": "",
+    "title": "Rotation range",
     "description": "We prioritized picks with genuine 360° rotation, letting the holder swing into reach and then tuck away when not needed."
   },
   {
-    "title": "",
+    "title": "Hybrid feature verification",
     "description": "For multi-function picks, we verified the combined features are useful and well-reviewed, not token add-ons."
   }
 ];

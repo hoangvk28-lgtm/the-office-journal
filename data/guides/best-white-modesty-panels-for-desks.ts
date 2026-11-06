@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31sgDDDSimL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Desk Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard office desk",
           "2 Pack Desk Dividers for Students, 3-Fold Privacy Screens, Testing Dividers"
         ],
         [
-          "",
+          "Standing/height-adjustable desk",
           "HolyMaji 60\" Under Desk Privacy Panel White Self-Adhesive Modesty Panel 600D"
         ],
         [
-          "",
+          "L-shaped desk",
           "Icegrey 72\" Under Desk Privacy Panel with Cable Net"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "2 Pack Desk Dividers for Students, 3-Fold Privacy Screens, Testing Dividers"
         ],
         [
-          "",
+          "Mid-range pick",
           "HolyMaji 48\" Under Desk Privacy Panel White Self-Adhesive Modesty Panel 600D"
         ],
         [
-          "",
+          "Higher budget",
           "Icegrey 72\" Under Desk Privacy Panel with Cable Net"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Laminate vs Perforated Metal",
     "cards": [
       {
         "label": "2 Pack Desk Dividers for Students, 3-Fold Privacy Screens, Testing Dividers)",
         "text": "Matches most standard desk finishes, adds real rigidity."
       },
       {
-        "label": "",
+        "label": "Perforated metal",
         "text": "Better airflow for cable heat, more industrial look."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Extra Function",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Privacy and rigidity only",
           "HolyMaji 60\" Under Desk Privacy Panel White Self-Adhesive Modesty Panel 600D"
         ],
         [
-          "",
+          "Built-in cable management",
           "HolyMaji 48\" Under Desk Privacy Panel White Self-Adhesive Modesty Panel 600D"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Branded Standing Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A bracket kit confirmed compatible with your exact desk brand and model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "HolyMaji 60\" Under Desk Privacy Panel White Self-Adhesive Modesty Panel 600D is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Icegrey 72\" Under Desk Privacy Panel with Cable Net justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 2 Pack Desk Dividers for Students, 3-Fold Privacy Screens, Testing Dividers already covers the job at the lowest price here."
       }
     ]

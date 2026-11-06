@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which bamboo converter has the most reviews?",
-    "a": ""
+    "a": "The VIVO Real Bamboo 32 inch Standing Desk Converter, with 892 reviews."
   },
   {
     "q": "Is there a compact bamboo option?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/31p0Yglw5jL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Amazer 22 inch Standing Desk Converter"
         ],
         [
-          "",
+          "Dual monitors",
           "VIVO Real Bamboo 32 inch Standing Desk Converter"
         ],
         [
@@ -80,15 +80,15 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $65",
           "Amazer 22 inch Standing Desk Converter"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: VIVO Real Bamboo 32 inch Standing Desk Converter, Amazer 22 inch Standing Desk Converter, Amazer 22 inch Standing Desk Converter."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: none in this specific roundup, since most picks here use a manual lift."
       }
     ],
@@ -116,16 +116,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "VIVO Real Bamboo 32 inch Standing Desk Converter"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "VIVO Real Bamboo 32 inch Standing Desk Converter"
         ]
       ]
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VIVO Real Bamboo 32 inch Standing Desk Converter fits this specifically: Largest review base among confirmed bamboo converters."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Amazer 22 inch Standing Desk Converter already covers the essentials: Same confirmed bamboo design as the alternative listing. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]

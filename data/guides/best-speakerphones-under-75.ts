@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/4115Bf5djFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -82,30 +82,30 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "The lowest price without cutting core features",
-          ""
+          "RayBit USB Speakerphone"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $60",
+          "RayBit ($59.99)"
         ],
         [
-          "",
-          ""
+          "Under $63",
+          "EMEET M1A ($62.99)"
         ],
         [
-          "",
-          ""
+          "Under $80",
+          "Yealink SP92 or Anker PowerConf S330 (both $79.99)"
         ]
       ]
     }
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Wireless Bluetooth vs Wired USB-Only Connection",
     "cards": [
       {
-        "label": "",
+        "label": "Bluetooth-capable (Yealink SP92)",
         "text": "Adds wireless flexibility to pair with a phone or laptop without a cable, useful if you move between devices frequently."
       },
       {
@@ -125,24 +125,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you frequently switch between a laptop and a phone for calls, the Yealink SP92's Bluetooth option adds real convenience. If you mostly stay at one desk connected to one computer, a wired USB-only pick works just as reliably for less."
   },
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical meeting size",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "4-8 person conference room",
+          "Yealink SP92 (13ft radius)"
         ],
         [
-          "",
+          "Small group, 3m radius",
           "Anker PowerConf S330 or RayBit"
         ],
         [
           "Small to medium group with 360 degree coverage",
-          ""
+          "EMEET M1A"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Small Business Requiring IT-Approved Hardware Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Formal platform certification, like Microsoft Teams certified status, rather than general 'compatible with' language, since IT departments often require certified hardware for approved use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Yealink SP92 pick's Microsoft Teams certification specifically satisfies IT approval requirements that general compatibility claims on the other picks may not."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need formal Teams certification, the longest battery life, and multiple connectivity options, where the Yealink SP92 delivers all three at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need reliable wired call quality without certification requirements, where the RayBit pick covers that for about $20 less."
       }
     ]
@@ -177,7 +177,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Platform Certification",
     "description": "Checked for formal Microsoft Teams, Zoom, or other platform certifications versus general compatibility claims."
   },
   {
@@ -185,15 +185,15 @@ export const howWeEvaluated = [
     "description": "Compared stated pickup radius and recommended attendee count across the lineup."
   },
   {
-    "title": "",
+    "title": "Connectivity Options",
     "description": "Compared Bluetooth, USB-C, and dongle connectivity across each pick."
   },
   {
-    "title": "",
+    "title": "Audio Hardware Quality",
     "description": "Checked for dedicated speaker driver specs and bass-enhancement hardware beyond basic mic arrays."
   },
   {
-    "title": "",
+    "title": "Battery Life and Portability",
     "description": "Compared stated battery life and physical portability features for on-the-go use."
   }
 ];

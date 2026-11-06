@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/61ultSzEvUL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Quick reference glances",
+          "Paper Holder for Typing"
         ],
         [
-          "",
+          "Continuous data entry",
           "Manual Pak Weatherproof Document Holder"
         ],
         [
@@ -84,56 +84,56 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Paper Holder for Typing"
         ],
         [
-          "",
+          "Mid-range pick",
           "3M Desktop Document Holder for Monitor"
         ],
         [
-          "",
+          "Higher budget",
           "The Folio® Important Document Organizer by Savor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Side-Mounted",
     "cards": [
       {
-        "label": "",
+        "label": "In-line (e.g. Paper Holder for Typing)",
         "text": "Keeps the page in your direct sightline, minimal neck movement."
       },
       {
-        "label": "",
+        "label": "Side-mounted",
         "text": "Sits off to one side, more placement flexibility but more head turning."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single sheets",
           "Manual Pak Weatherproof Document Holder"
         ],
         [
-          "",
+          "Thicker stacks or booklets",
           "3M Desktop Document Holder for Monitor"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Data-Entry Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sliding line guide and an adjustable viewing angle to reduce glare and neck strain."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Manual Pak Weatherproof Document Holder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where The Folio® Important Document Organizer by Savor justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Paper Holder for Typing already covers the job at the lowest price here."
       }
     ]

@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41MXmxgXWXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Surface Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Soft feel for typing",
           "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Elizo Real Leather Desk Mat Set (32x16) Large Desk Cover Desk Blotter Protector"
         ],
         [
-          "",
-          ""
+          "Wipeable, polished look",
+          "YSAGi Leather Desk Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,44 +95,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Gallaway Leather Desk Mat"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "YSAGi Leather Desk Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Leather",
     "cards": [
       {
         "label": "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse)",
         "text": "Softer feel, absorbs spills, shows staining faster."
       },
       {
-        "label": "",
+        "label": "Leather/PU (e.g. YSAGi Leather Desk Protector)",
         "text": "Wipes clean easily, more polished look, higher price."
       }
     ],
     "note": "Match this to how much coffee and food realistically ends up near your desk."
   },
   {
-    "subheading": "",
+    "subheading": "By Setup Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single keyboard and mouse",
           "Elizo Real Leather Desk Mat Set (32x16) Large Desk Cover Desk Blotter Protector"
         ],
         [
-          "",
+          "Dual monitor, wider setup",
           "Check for extra-large or extended sizing"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Elizo Real Leather Desk Mat Set (32x16) Large Desk Cover Desk Blotter Protector is worth checking against its specific edge construction before assuming any desk pad holds up the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a wipeable, longer-lasting surface with a more polished look, where YSAGi Leather Desk Protector justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward daily protection and comfort, where Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse already covers the job at the lowest price here."
       }
     ]

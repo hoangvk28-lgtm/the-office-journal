@@ -40,7 +40,7 @@ export const faq = [
     "a": "No, NDAA and TAA compliance only matter for government and government-adjacent procurement policies; a home or small business network gets no functional benefit from paying more for compliant hardware."
   },
   {
-    "q": "",
+    "q": "What happens if I use a passive PoE injector with a standard 802.3af device?",
     "a": "The device may not power on at all since it's waiting for the negotiation handshake standard PoE uses, or in some cases the mismatch can risk damaging the device, so matching the power delivery method correctly matters."
   },
   {
@@ -61,47 +61,47 @@ export const heroImage = "https://m.media-amazon.com/images/I/41lBd-aYAsL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Power Delivery Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device uses",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Standard 802.3af/at negotiation",
+          "TRENDnet TPE-115GI or TPE-114GI"
         ],
         [
           "48V passive PoE (some Ubiquiti/MikroTik)",
-          ""
+          "Omada POE4824G"
         ],
         [
           "Standard PoE without needing NDAA compliance",
-          ""
+          "ThePoEstore Gigabit PoE+ Injector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $14",
+          "Omada POE4824G ($13.99)"
         ],
         [
-          "",
-          ""
+          "Under $20",
+          "TRENDnet TPE-114GI or ThePoEstore (both $19.99)"
         ],
         [
-          "",
-          ""
+          "Under $25",
+          "TRENDnet TPE-115GI ($24.99)"
         ]
       ]
     }
@@ -110,35 +110,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "NDAA-Compliant vs Standard Consumer Injectors",
     "cards": [
       {
-        "label": "",
+        "label": "NDAA/TAA compliant (TPE-115GI, TPE-114GI)",
         "text": "Government procurement requirements and typically pairs with a longer stated manufacturer warranty, worth the extra cost for institutional or government-adjacent deployments."
       },
       {
-        "label": "",
+        "label": "Standard consumer (Omada, ThePoEstore)",
         "text": "Costs less and performs identically for a home or small business network with no procurement compliance requirement."
       }
     ],
     "note": "Most home and small business buyers should default to a standard consumer injector unless a specific procurement policy requires NDAA compliance."
   },
   {
-    "subheading": "",
+    "subheading": "By Warranty and Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you want",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Longest stated warranty (3 years)",
-          ""
+          "TRENDnet TPE-115GI or TPE-114GI"
         ],
         [
-          "",
-          ""
+          "Visual LED connectivity confirmation",
+          "TRENDnet TPE-115GI"
         ],
         [
           "Lowest price with basic support",
-          ""
+          "Omada POE4824G or ThePoEstore"
         ]
       ]
     }
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Ubiquiti or MikroTik Access Point Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "3af/at standard most consumer injectors assume."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Omada POE4824G specifically states 48V passive PoE support, making it the correct match for this device category rather than a standard-PoE injector."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price buys both features plus a 3-year warranty."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need reliable Gigabit PoE+ power for a home network device, where the Omada POE4824G or ThePoEstore pick delivers that for less."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Port Speed Verification",
     "description": "Confirmed each listing explicitly states Gigabit (not just Fast Ethernet) input and output ports."
   },
   {
-    "title": "",
+    "title": "Power Standard Match",
     "description": "3af/at standard-based injectors against 48V passive PoE injectors."
   },
   {
-    "title": "",
+    "title": "Institutional Compliance",
     "description": "Compared stated NDAA and TAA compliance for government and enterprise procurement needs."
   },
   {
-    "title": "",
+    "title": "Warranty Length",
     "description": "Compared stated manufacturer warranty periods across listings."
   },
   {
-    "title": "",
+    "title": "Build Quality Signals",
     "description": "Compared stated enclosure materials, LED indicators, and other build details."
   }
 ];

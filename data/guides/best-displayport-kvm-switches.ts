@@ -32,7 +32,7 @@ export const faq = [
   },
   {
     "q": "Can I daisy-chain monitors through a DisplayPort KVM switch?",
-    "a": ""
+    "a": "Some models support this via Multi-Stream Transport (MST), a genuine advantage over most HDMI switches for expanding your monitor chain."
   },
   {
     "q": "Do all my devices need DisplayPort to use a DisplayPort KVM switch?",
@@ -52,23 +52,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/316j7WYjfbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Port Count",
     "note": "Port count isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $55",
           "UGREEN 8K@60Hz Displayport KVM Switch 1 Monitors 2 Computers"
         ],
         [
-          "",
+          "Mid-range",
           "UGREEN 8K@60Hz Displayport KVM Switch 2 Monitors 2 Computers"
         ],
         [
@@ -82,21 +82,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Hotkey Switching vs Physical Button Only",
     "cards": [
       {
-        "label": "",
+        "label": "Hotkey Switching",
         "text": "Switches computers without reaching for the device, faster for frequent switching during a work session. In this comparison: check each listing's switching method directly."
       },
       {
-        "label": "",
+        "label": "Physical Button Only",
         "text": "Simpler and more predictable, but requires reaching the device every time you switch. 0 KVM Switch for 2 Computers Share, UGREEN 8K@60Hz Displayport KVM Switch 2 Monitors 2 Computers, UGREEN 8K@60Hz Displayport KVM Switch 1 Monitors 2 Computers."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "USB Peripheral Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -111,27 +111,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Audio Switching Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of audio switching in the listing, since many KVM switches handle video and USB but leave speakers or headphones tied to one fixed computer."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms audio switching; check our dedicated audio-support KVM switch roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what AV Access 8K DisplayPort KVM Docking Station 3 Monitors 2 PCs offers: Includes 6 DisplayPort cables, reducing sourcing hassle. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "UGREEN 8K@60Hz Displayport KVM Switch 1 Monitors 2 Computers already covers the essentials: Very high 8K@60Hz resolution ceiling at a lower price than the dual-monitor version. The main thing you'd be paying extra for elsewhere in this list is resolution headroom or build quality you may not need."
       }
     ]
@@ -145,7 +145,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Daisy-chaining capability via MST valued where relevant",
-    "description": ""
+    "description": "Valued DisplayPort's Multi-Stream Transport daisy-chaining capability, a genuine advantage over most HDMI switches for buyers wanting to expand their monitor chain later."
   },
   {
     "title": "Device compatibility trade-off acknowledged honestly",
@@ -159,7 +159,7 @@ export const howWeEvaluated = [
 
 export const introParagraphs = [
   "DisplayPort generally supports higher refresh rates than HDMI at the same resolution, worth choosing a DisplayPort-based switch specifically if high refresh rate matters more to you than broad device compatibility, since HDMI remains more universally supported across consumer electronics.",
-  ""
+  "DisplayPort's daisy-chaining capability via Multi-Stream Transport is a genuine advantage over most HDMI switches, worth considering if you might want to expand your monitor chain later without replacing the switch itself."
 ];
 
 export const lastUpdated = "2026-07-31";

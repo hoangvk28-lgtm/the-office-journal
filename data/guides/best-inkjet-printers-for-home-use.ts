@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HP DeskJet 4355 Wireless All"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HP DeskJet 4355 Wireless All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $64",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ],
         [
-          "",
-          ""
+          "Up to $200",
+          "Epson EcoTank ET"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Printing",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex (auto two-sided)",
         "text": "Prints both sides automatically, saves paper and time for double-sided documents. In this comparison: Canon PIXMA TS4320 Wireless Color Inkjet Printer, Canon PIXMA TS6520 Wireless Color Inkjet Printer."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if you rarely need double-sided printing. In this comparison: HP DeskJet 4355 Wireless All, Canon PIXMA TR4720 All, Epson EcoTank ET, Epson EcoTank ET, Epson EcoTank ET, HP Smart Tank 5101 Wireless All."
       }
     ],
     "note": "Default to duplex unless you're confident your printing is mostly single-sided."
   },
   {
-    "subheading": "",
+    "subheading": "By Scan Resolution",
     "note": "Check each pick's listed optical scan resolution in DPI against how you'll actually use scanning before buying, not just print specs."
   },
   {
     "subheading": "For Scanning Contracts or Receipts Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed optical scan resolution in DPI high enough to keep fine print legible, not just the printer's overall feature list."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HP DeskJet 4355 Wireless All is worth checking against its listed scan resolution before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You print regularly at moderate to high volume, where Epson EcoTank ET's duty cycle and cost-per-page give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only print occasionally at low volume, where Canon PIXMA TS4320 Wireless Color Inkjet Printer covers the same job at a lower price."
       }
     ]
@@ -150,7 +150,7 @@ export const howWeEvaluated = [
     "description": "Separated standard cartridge inkjets from ink-tank supertanks explicitly, since the two have very different running costs and idle-ink risk profiles despite both being labeled 'inkjet'."
   },
   {
-    "title": "",
+    "title": "Idle-ink and nozzle-clog risk",
     "description": "Weighed the risk of nozzle drying on cartridge models against tank-ink settling on supertank models, since both need occasional use to stay clog-free, just at different intervals."
   },
   {
@@ -162,7 +162,7 @@ export const howWeEvaluated = [
     "description": "Checked duplex printing, auto document feeders, and display quality against what actually gets used in a home rather than an office setting."
   },
   {
-    "title": "",
+    "title": "Paper and dry-time practicality",
     "description": "Considered how paper choice and ink dry time affect real-world results, since inkjet output quality varies more with paper than most home printer buyers expect."
   }
 ];

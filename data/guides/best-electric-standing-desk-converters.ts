@@ -29,15 +29,15 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which electric converter has the most reviews?",
-    "a": ""
+    "a": "The VERSADESK PowerPro 36 Inch and 40 Inch Electric models share the largest review base among electric converters in our research, at 497 reviews."
   },
   {
     "q": "What's the cheapest electric converter?",
-    "a": ""
+    "a": "The FLEXISPOT 40 Inch Electric Standing Desk Converter at $219.99."
   },
   {
     "q": "Is there an electric corner desk converter?",
-    "a": ""
+    "a": "Yes, the VIVO Black 43 in Electric Corner Desk Converter, also the highest-rated electric option in this comparison."
   },
   {
     "q": "Do electric converters need a power outlet?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41M1ekKczDL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "VERSADESK PowerPro 36 Inch Electric Standing Desk Converter"
         ],
         [
-          "",
+          "Dual monitors",
           "VERSADESK PowerPro 36 Inch Electric Standing Desk Converter"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $220",
           "FLEXISPOT 40 Inch Electric Standing Desk Converter"
         ],
         [
-          "",
+          "Mid-range",
           "VIVO Black 47 inch Electric Desk Converter"
         ],
         [
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: none in this specific roundup."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: VERSADESK PowerPro 36 Inch Electric Standing Desk Converter, VERSADESK PowerPro 40 Inch Electric Standing Desk Converter, FLEXISPOT 42 Inch Electric Motor Desk Converter."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "VIVO Black 43 in Electric Corner Desk Converter"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "VERSADESK PowerPro 36 Inch Electric Standing Desk Converter"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VERSADESK PowerPro 36 Inch Electric Standing Desk Converter fits this specifically: Largest review base of any electric converter in our research."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "FLEXISPOT 40 Inch Electric Standing Desk Converter already covers the essentials: Lowest price among FlexiSpot's larger electric options. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]
@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Compared review volume across brands at similar sizes",
-    "description": ""
+    "description": "We noted where VERSADESK's electric line has a notably larger review base than FlexiSpot or VIVO's electric options at comparable sizes and prices."
   },
   {
     "title": "Flagged the corner-desk electric option as a distinct form factor",

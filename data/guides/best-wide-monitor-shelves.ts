@@ -53,70 +53,70 @@ export const heroImage = "https://m.media-amazon.com/images/I/41WOjLmyBIS._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Prioritizing bamboo",
+          "Nnewvante Monitor Stand Riser"
         ],
         [
-          "",
+          "Prioritizing wood",
           "YAOHUOO Dual Monitor Stand Riser"
         ],
         [
-          "",
+          "Prioritizing metal",
           "Simple Trending 2-Tier Metal Dual Monitor Stand with USB & 2 Drawers"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $30",
           "WESTREE Dual Monitor Stand Riser"
         ],
         [
-          "",
+          "Mid-range",
           "YAOHUOO Dual Monitor Stand Riser"
         ],
         [
           "No firm budget ceiling, prioritizing capacity or storage",
-          ""
+          "Nnewvante Monitor Stand Riser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Freestanding vs Clamp/Clip-On",
     "cards": [
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits directly on the desk with zero installation, at the cost of using up some desk depth. In this comparison: Nnewvante Monitor Stand Riser, YAOHUOO Dual Monitor Stand Riser, Simple Trending 2-Tier Metal Dual Monitor Stand with USB & 2 Drawers."
       },
       {
-        "label": "",
+        "label": "Clamp/Clip-On",
         "text": "Attaches to the desk's back edge, freeing up desk surface underneath, but needs a compatible edge thickness. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "With Storage vs Platform-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Simple Trending 2-Tier Metal Dual Monitor Stand with USB & 2 Drawers"
         ],
         [
-          "",
-          ""
+          "Simplest platform-only design",
+          "Nnewvante Monitor Stand Riser"
         ]
       ]
     }
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy or Ultrawide Monitor Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity with real margin above your monitor's actual weight, a rigid material like metal or thick wood, and a wide enough platform to support the monitor's full base without overhang."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Nnewvante Monitor Stand Riser fits this specifically: Solid 4.5-star rating with 552 ratings."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is capacity or storage you may not need."
       }
     ]
@@ -164,7 +164,7 @@ export const howWeEvaluated = [
     "description": "Checked how each shelf handles uneven load across its width, a real structural risk unique to extreme-width designs."
   },
   {
-    "title": "",
+    "title": "Multi-point mounting need considered",
     "description": "Looked at whether wide shelves have enough support points along their span to avoid center sagging."
   },
   {

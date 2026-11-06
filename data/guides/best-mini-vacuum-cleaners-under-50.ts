@@ -61,79 +61,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ES4+OEA1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Keyboard crumbs",
+          "Vizeusvac Car Vacuum Cleaner"
         ],
         [
-          "",
+          "Whole-desk cleaning",
           "Vishui Mini Desk Vacuum Cleaner"
         ],
         [
-          "",
+          "Car interior",
           "5 Peak HP Wet Dry Shop Vacuum"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Vizeusvac Car Vacuum Cleaner"
         ],
         [
-          "",
+          "Mid-range pick",
           "KMM Handheld Car Vacuum Cleaner"
         ],
         [
-          "",
+          "Higher budget",
           "5 Peak HP Wet Dry Shop Vacuum"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Corded vs Cordless",
     "cards": [
       {
-        "label": "",
+        "label": "Corded (e.g. Vizeusvac Car Vacuum Cleaner)",
         "text": "Consistent suction, no battery to manage, lower price."
       },
       {
-        "label": "",
+        "label": "Cordless",
         "text": "Portable and quiet, but suction fades as the battery drains."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Suction Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday light cleaning",
           "Vishui Mini Desk Vacuum Cleaner"
         ],
         [
-          "",
+          "Maximum suction power",
           "KMM Handheld Car Vacuum Cleaner"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tight Keyboard Crevices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A narrow brush or crevice nozzle attachment included in the box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Vishui Mini Desk Vacuum Cleaner is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5 Peak HP Wet Dry Shop Vacuum justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Vizeusvac Car Vacuum Cleaner already covers the job at the lowest price here."
       }
     ]

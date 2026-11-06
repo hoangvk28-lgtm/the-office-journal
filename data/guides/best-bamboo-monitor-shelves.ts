@@ -55,35 +55,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "ROCDEER Bamboo Dual Monitor Stand"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "ROCDEER Dual Monitor Stand Riser with Drawer for Desk Laptop"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $50",
           "ROCDEER Bamboo Monitor Stand Riser with Drawer"
         ],
         [
-          "",
+          "Mid-range",
           "ROCDEER Bamboo Dual Monitor Stand Riser"
         ],
         [
@@ -94,24 +94,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Freestanding vs Clamp/Clip-On",
     "cards": [
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits directly on the desk with zero installation, at the cost of using up some desk depth. In this comparison: ROCDEER Bamboo Monitor Stand Riser with Drawer, ROCDEER Bamboo Dual Monitor Stand Riser, ROCDEER Bamboo Dual Monitor Stand."
       },
       {
-        "label": "",
+        "label": "Clamp/Clip-On",
         "text": "Attaches to the desk's back edge, freeing up desk surface underneath, but needs a compatible edge thickness. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "With Storage vs Platform-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -125,24 +125,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy or Ultrawide Monitor Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity with real margin above your monitor's actual weight, a rigid material like metal or thick wood, and a wide enough platform to support the monitor's full base without overhang."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "0 rating, though from a small sample."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "0 rating, though from a small sample. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "ROCDEER Bamboo Monitor Stand Riser with Drawer already covers the essentials: Highest average rating of any pick in this guide. The main thing you'd be paying extra for elsewhere in this list is capacity or storage you may not need."
       }
     ]

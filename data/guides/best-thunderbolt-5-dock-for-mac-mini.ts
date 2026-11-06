@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41kuwLUmhUL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $60",
+          "UGREEN Mac mini Dock & Stand ($59.99)"
         ],
         [
-          "",
-          ""
+          "Under $95",
+          "ACASIS Dual-Bay Dock ($94.99)"
         ],
         [
-          "",
-          ""
+          "Under $100",
+          "Satechi Mac mini Hub & Stand ($99.99)"
         ],
         [
-          "",
-          ""
+          "Under $340",
+          "Wokyis M5 Retro Dock Station ($339.99)"
         ]
       ]
     }
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Single-Bay Reliability vs Dual-Bay RAID Storage",
     "cards": [
       {
-        "label": "",
+        "label": "Single-bay (Satechi, UGREEN)",
         "text": "Simpler design with one SSD slot, avoiding RAID complexity and the lack of redundancy that comes with striped storage."
       },
       {
-        "label": "",
+        "label": "Dual-bay RAID 0 (ACASIS)",
         "text": "Doubles maximum storage capacity and combines drive speeds, but offers no data redundancy since a single drive failure loses all data on both drives."
       }
     ],
@@ -131,8 +131,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By SSD You Already Own",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your SSD type",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buyers Who Want a Genuine Speed Boost, Not Just a Theoretical Rating",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A listing that specifically discloses the exact SSD type and cable needed to reach its advertised maximum speed, rather than just quoting the Thunderbolt generation's theoretical ceiling."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "4 or higher SSD and the included Thunderbolt 5 certified cable to exceed 3000MB/s."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want a unique dock with a built-in display and transparent real-speed requirements, where the Wokyis M5 Retro Dock justifies its $339.99 price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -180,15 +180,15 @@ export const howWeEvaluated = [
     "description": "Compared disclosed actual transfer speeds against theoretical maximum Thunderbolt bandwidth ratings."
   },
   {
-    "title": "",
+    "title": "Storage Capacity and Configuration",
     "description": "Compared single-bay against dual-bay RAID-capable NVMe storage designs."
   },
   {
-    "title": "",
+    "title": "Cooling Design",
     "description": "Compared active fan cooling and disclosed maximum operating temperatures."
   },
   {
-    "title": "",
+    "title": "Physical Stand Integration",
     "description": "Compared precision-molded fit and convenience features like power button levers."
   },
   {

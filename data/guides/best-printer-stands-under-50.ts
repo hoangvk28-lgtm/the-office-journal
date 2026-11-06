@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41pdM195idL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $40",
+          "HOOBRO Industrial with USB ($39.99)"
         ],
         [
-          "",
-          ""
+          "Under $45",
+          "HOOBRO 3-Tier Industrial ($44.99)"
         ],
         [
-          "",
-          ""
+          "Under $46",
+          "MAHANCRIS ($45.99)"
         ],
         [
-          "",
-          ""
+          "Under $49",
+          "VECELO ($48.06)"
         ]
       ]
     }
@@ -129,15 +129,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If charging your printer or nearby devices without extra cords matters to you, the power-equipped picks are worth prioritizing. If maximum single-shelf weight capacity is your top concern and you don't need built-in power, the HOOBRO 3-Tier Industrial pick delivers that."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your weight capacity needs",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard capacity with power",
           "HOOBRO Industrial with USB (44 lb top)"
         ],
         [
@@ -150,7 +150,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Highest total capacity with power",
-          ""
+          "VECELO (450 lb total)"
         ]
       ]
     }
@@ -159,24 +159,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Household With Children or Pets Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An explicitly stated anti-tip device or hardware, since a taller, narrower printer stand loaded with equipment poses a real tipping risk if bumped or climbed on."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The MAHANCRIS pick's anti-tip device is specifically called out in the listing as doubling structural security, a detail worth prioritizing in a household with children or pets."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest total weight capacity with thoughtfully routed power outlets, where the VECELO pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want built-in power and USB charging without needing maximum capacity, where the HOOBRO Industrial with USB pick covers that for about $8 less."
       }
     ]
@@ -185,23 +185,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Power Outlet Design",
     "description": "Compared outlet and USB port count, placement, and cable management approach across power-equipped picks."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared per-shelf and total weight capacity ranging from 33 to 450 lbs across the lineup."
   },
   {
-    "title": "",
+    "title": "Anti-Tip Safety Features",
     "description": "Checked which picks explicitly include anti-tip hardware for added structural security."
   },
   {
-    "title": "",
+    "title": "Structural Reinforcement",
     "description": "Compared under-shelf support rods and frame material across all four picks."
   },
   {
-    "title": "",
+    "title": "Mobility Flexibility",
     "description": "Checked whether picks offer a choice between rolling casters and fixed adjustable feet."
   }
 ];

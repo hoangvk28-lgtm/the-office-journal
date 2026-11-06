@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "Confirm the floor can support the safe's weight and that anchoring hardware and instructions are included if you plan to bolt it down."
   },
   {
-    "criterion": "",
+    "criterion": "Avoid Assuming Burglary Certification",
     "explanation": "Heavy-duty construction is not the same as an independently tested burglary rating; don't assume one implies the other unless it's explicitly documented."
   }
 ];
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Confirm the floor can support the safe's weight and that anchoring hardware and instructions are included if you plan to bolt it down."
   },
   {
-    "subheading": "",
+    "subheading": "Avoid Assuming Burglary Certification",
     "note": "Heavy-duty construction is not the same as an independently tested burglary rating; don't assume one implies the other unless it's explicitly documented."
   }
 ];
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Recorded fire duration and test temperature separately for each model rather than accepting a vague 'fireproof' label, since a 30-minute rating and a 2-hour rating protect very differently in a real house fire."
   },
   {
-    "title": "",
+    "title": "Water Evidence Verified Independently",
     "description": "Checked water-resistance claims (submersion depth, duration) as a separate fact from the fire rating, since the two protections are tested and certified independently even on the same product."
   },
   {

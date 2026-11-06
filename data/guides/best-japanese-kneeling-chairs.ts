@@ -63,43 +63,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Long You'll Sit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your session length",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Short 20-30 minute stretches",
+          "Estleys Bamboo Meditation Bench"
         ],
         [
           "Regular rotation through the day",
           "Easyego Kneeling Chair Ergonomic Posture Chair"
         ],
         [
-          "",
+          "Longer 2-4 hour stretches",
           "NYPOT Ergonomic Kneeling Chair with Adjustable Seats"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Estleys Bamboo Meditation Bench"
         ],
         [
-          "",
+          "Mid-range pick",
           "Florensi Folding Bamboo Meditation Chair 18 x 7 x 6 in Grey Kneeling Bench"
         ],
         [
-          "",
+          "Higher budget",
           "NYPOT Ergonomic Kneeling Chair with Adjustable Seats"
         ]
       ]
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fixed Tilt vs Rocking Design",
     "cards": [
       {
-        "label": "",
+        "label": "Fixed tilt (e.g. Estleys Bamboo Meditation Bench)",
         "text": "Simpler and usually cheaper, works well if your proportions match the assumed range."
       },
       {
@@ -120,11 +120,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're notably tall or short, a rocking model gives you more real range of motion to compensate."
   },
   {
-    "subheading": "",
+    "subheading": "By Backrest Availability",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Back Pain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An adjustable shin pad and seat tilt, since a fixed, poorly-angled pad can concentrate pressure rather than relieve it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Easyego Kneeling Chair Ergonomic Posture Chair is worth checking against its specific tilt and cushioning spec before assuming it fits your back pain needs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to sit for longer stretches and want a genuine rocking mechanism and better cushioning, where NYPOT Ergonomic Kneeling Chair with Adjustable Seats justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're rotating in short sessions and just want the basic kneeling posture benefit, where Estleys Bamboo Meditation Bench already covers the job at the lowest price here."
       }
     ]

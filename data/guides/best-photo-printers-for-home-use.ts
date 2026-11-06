@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HP Envy Photo 7975 Wireless Color Inkjet Photo Printer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HP Envy Photo 7975 Wireless Color Inkjet Photo Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $64",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ],
         [
-          "",
+          "Up to $240",
           "HP Envy Photo 7975 Wireless Color Inkjet Photo Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Printing",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex (auto two-sided)",
         "text": "Prints both sides automatically, saves paper and time for double-sided documents. In this comparison: Canon PIXMA TS6520 Wireless Color Inkjet Printer, Canon PIXMA TS4320 Wireless Color Inkjet Printer."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if you rarely need double-sided printing. In this comparison: HP Envy Photo 7975 Wireless Color Inkjet Photo Printer, Epson EcoTank ET, Canon MegaTank G3270 All, HP DeskJet 4355 Wireless All, Canon PIXMA TR4720 All, Epson EcoTank ET."
       }
     ],
     "note": "Default to duplex unless you're confident your printing is mostly single-sided."
   },
   {
-    "subheading": "",
+    "subheading": "By Scan Resolution",
     "note": "Check each pick's listed optical scan resolution in DPI against how you'll actually use scanning before buying, not just print specs."
   },
   {
     "subheading": "For Scanning Contracts or Receipts Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed optical scan resolution in DPI high enough to keep fine print legible, not just the printer's overall feature list."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HP Envy Photo 7975 Wireless Color Inkjet Photo Printer is worth checking against its listed scan resolution before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You print regularly at moderate to high volume, where HP Envy Photo 7975 Wireless Color Inkjet Photo Printer's duty cycle and cost-per-page give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only print occasionally at low volume, where Canon PIXMA TS4320 Wireless Color Inkjet Printer covers the same job at a lower price."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
 
 export const introParagraphs = [
   "Home photo printing looks simple until you factor in the real cost of paper and ink per print, which can rival drugstore or online photo printing once you add it up, and the fact that a general all-in-one's 4-color ink system produces visibly different skin tones and gradients than a dedicated photo printer. The right choice depends on how often you print photos, whether you want archival-quality keepsakes, and how much you value convenience over per-print cost.",
-  ""
+  "Below are 8 printers we compared for home photo printing, from budget inkjet all-in-ones that handle occasional prints well to a dedicated HP Envy Photo model and ink-tank options built for high-volume printing, ranging from $64.00 to $239.89."
 ];
 
 export const lastUpdated = "2026-07-25";

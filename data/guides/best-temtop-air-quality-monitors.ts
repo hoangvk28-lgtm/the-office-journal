@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41mHc1w17xL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sensor Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your main concern",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Particulates (PM2.5/dust)",
           "5 Air Quality Monitor & Indoor Thermometer"
         ],
         [
-          "",
+          "General everyday tracking",
           "Temtop Advanced Air Quality Monitor for CO2"
         ],
         [
-          "",
+          "Multiple pollutants at once",
           "Temtop CO2 Monitor Indoor air Quality Monitor Portable CO2 Meter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "5 Air Quality Monitor & Indoor Thermometer"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Temtop P600 PM2.5 Monitor"
         ],
         [
-          "",
+          "Higher budget",
           "Temtop CO2 Monitor Indoor air Quality Monitor Portable CO2 Meter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "WiFi vs Zigbee/Hub-Based",
     "cards": [
       {
         "label": "5 Air Quality Monitor & Indoor Thermometer)",
@@ -121,20 +121,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have a compatible smart-home hub."
   },
   {
-    "subheading": "",
+    "subheading": "By Data Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Live readings only",
           "Temtop Advanced Air Quality Monitor for CO2"
         ],
         [
-          "",
-          ""
+          "Long-term history and export",
+          "Temtop P600 PM2.5 Monitor"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Pollutant Concern Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated sensor for your specific concern (formaldehyde, CO2, or radon) rather than a general VOC or air-quality index alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Temtop Advanced Air Quality Monitor for CO2 is worth checking against its specific spec sheet before assuming any pick here covers your exact concern."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want longer-term sensor accuracy and multi-pollutant coverage, where Temtop CO2 Monitor Indoor air Quality Monitor Portable CO2 Meter justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5 Air Quality Monitor & Indoor Thermometer already covers the job at the lowest price here."
       }
     ]

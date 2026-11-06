@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Cutter-faq",
     "q": "Is an automatic cutter worth paying extra for?",
     "a": "Only if you're printing at real volume, a cutter saves time on dozens of labels a day but adds a mechanical part that can jam or dull, a tear-bar design has nothing to fail but is slower at high volume."
   },
   {
-    "id": "",
+    "id": "Ribbon-faq",
     "q": "Why does a thermal transfer printer cost more to run over time?",
     "a": "It needs a fresh ribbon roughly proportional to your print volume, a real recurring cost direct thermal printers don't have, factor this into your actual cost per label before choosing thermal transfer purely for label longevity."
   },
   {
-    "id": "",
+    "id": "Connect-faq",
     "q": "Should I get a Bluetooth or USB label printer?",
     "a": "Bluetooth is more convenient if you print from a phone or move around, but USB is generally more reliable for a printer that sits in one fixed spot, check reviews for connectivity complaints before relying on wireless for daily volume."
   },
   {
-    "id": "",
+    "id": "Battery-faq",
     "q": "Are battery-powered label printers slower than plug-in models?",
     "a": "Generally yes, a battery-powered unit gives you true portability for warehouse or on-site printing but typically runs slower and handles smaller batches per charge than a desktop model on constant power."
   },
   {
-    "id": "",
+    "id": "Thermal-faq",
     "q": "What's the difference between direct thermal and thermal transfer label printers?",
     "a": "Direct thermal burns the image into heat-sensitive paper with no ink, cheaper to run but labels fade within months, thermal transfer melts a ribbon onto standard stock for labels that last years but costs more per label due to the ribbon."
   },
   {
-    "id": "",
+    "id": "Dpi-faq",
     "q": "Do I need 300 DPI or is 203 DPI enough?",
     "a": "203 DPI is fine for large simple shipping labels, but if your labels include small text, fine barcodes, or 2D codes, 300 DPI produces noticeably crisper results worth the price difference."
   }
@@ -67,34 +67,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31XUx6oDEXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light printing",
           "NDYIN N12 Label Maker Machine with 1 Tape Bluetooth Label Printer"
         ],
         [
           "Regular desk or shipping use",
-          ""
+          "Phomemo Label Maker"
         ],
         [
-          "",
+          "High-volume daily printing",
           "NDYIN N12 Label Maker Machine with 1 Tape Bluetooth Label Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
           "NDYIN N12 Label Maker Machine with 1 Tape Bluetooth Label Printer"
         ],
         [
-          "",
+          "Mid-range pick",
           "NIIMBOT D110 Mini Label Maker Machine with Tape for Home School"
         ],
         [
-          "",
+          "Higher budget",
           "NDYIN N12 Label Maker Machine with 1 Tape Bluetooth Label Printer"
         ]
       ]
@@ -120,23 +120,23 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Lower running cost, labels fade within months."
       },
       {
-        "label": "",
+        "label": "Thermal transfer",
         "text": "Costs more per label with ribbon, labels last years."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Connectivity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Fixed desk spot",
+          "Phomemo Label Maker"
         ],
         [
           "Needs mobility or app printing",
@@ -146,27 +146,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Shipping Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic cutter and larger roll capacity rather than a compact desktop model stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Phomemo Label Maker is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where NDYIN N12 Label Maker Machine with 1 Tape Bluetooth Label Printer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where NDYIN N12 Label Maker Machine with 1 Tape Bluetooth Label Printer already covers the job at the lowest price here."
       }
     ]

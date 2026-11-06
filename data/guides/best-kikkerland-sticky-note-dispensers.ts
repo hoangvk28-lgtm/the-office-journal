@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/31xEl50tE2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Placement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "On the desk surface",
           "Kikkerland Thought Cloud Sticky Notes (ST20)"
         ],
         [
-          "",
+          "Clipped to a monitor",
           "Sticky Note Organizer with 2 Pads"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Kikkerland Thought Cloud Sticky Notes (ST20)"
         ],
         [
-          "",
+          "Mid-range pick",
           "Note Toad - Desk Organizer & Note Holder"
         ],
         [
-          "",
+          "Higher budget",
           "Pop up Sticky Note Dispenser, Rhinestone Self Sticky Note Holder, 3×3inches, Post"
         ]
       ]
@@ -114,22 +114,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "One-at-a-time dispensing, needs z-fold refill pads specifically."
       },
       {
-        "label": "",
+        "label": "Standard pad holder",
         "text": "Works with any standard pad, no special refill needed."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Note Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your notes",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 3x3 size",
           "Sticky Note Organizer with 2 Pads"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For One-Handed Desk Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weighted or non-slip base that stays put while you pull a note with one hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Sticky Note Organizer with 2 Pads is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Pop up Sticky Note Dispenser, Rhinestone Self Sticky Note Holder, 3×3inches, Post justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Kikkerland Thought Cloud Sticky Notes (ST20) already covers the job at the lowest price here."
       }
     ]

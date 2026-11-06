@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/21aOYqX2DHL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,20 +83,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "$22-$23",
+          "3-Level Bamboo Riser ($22.50) or WELL WENG 4-Level ($22.65)"
         ],
         [
-          "",
-          ""
+          "$27",
+          "Gianotter ($26.99) or OPNICE ($26.99) drawer-equipped picks"
         ]
       ]
     }
@@ -116,15 +116,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If ergonomic fine-tuning matters most, choose a bamboo adjustable pick. If desk organization matters more than adjustability, the drawer-equipped picks serve that need better."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your equipment weight",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard single monitor",
           "Bamboo 3-Level Adjustable (durable wood construction)"
         ],
         [
@@ -138,24 +138,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Desk Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stand specifically sized and marketed for dual-monitor width, rather than a standard single-monitor riser that might not fit your full setup."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both the gianotter and OPNICE picks are specifically designed and sized for dual-monitor desk configurations."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want integrated drawer storage for a dual-monitor setup, where the gianotter and OPNICE picks both deliver this at the top of this price range."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Height adjustability matters more than storage, where the bamboo 3-Level or WELL WENG 4-Level picks cover this for slightly less."
       }
     ]
@@ -164,11 +164,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Height Adjustment Range",
     "description": "Compared the number of distinct height settings across the bamboo picks in this comparison, since this ranged from 2 to 4 options."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated weight capacity figures, noting one pick's 66 lb rating stood out as the highest in this comparison."
   },
   {
@@ -176,11 +176,11 @@ export const howWeEvaluated = [
     "description": "Checked which picks include dedicated drawer and pen holder storage versus open-shelf-only designs."
   },
   {
-    "title": "",
+    "title": "Dual-Monitor Width Sizing",
     "description": "Noted which picks are specifically sized to accommodate a dual-monitor desk setup rather than a single monitor."
   },
   {
-    "title": "",
+    "title": "Assembly Requirements",
     "description": "Compared stated assembly time and complexity across the lineup, since some picks require no assembly at all."
   }
 ];

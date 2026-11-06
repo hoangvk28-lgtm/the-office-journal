@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31fbr5QGnDL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tracking Surface Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Controlled, precise movement",
           "KTRIO Large Gaming Mouse Pad Desk Mat for Gamer"
         ],
         [
-          "",
-          ""
+          "Fast, low-friction glide",
+          "ICasso Desk Mat, Mouse Pad for Office Decor, 35.4x15.7in, Deep Green"
         ],
         [
-          "",
+          "Budget cloth surface",
           "7\" Waterproof Fabric Desk Pad Large Mouse Pad Office Game"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,25 +95,25 @@ export const howToChoose: HowToChooseSection[] = [
           "7\" Waterproof Fabric Desk Pad Large Mouse Pad Office Game"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "YSAGi Leather Desk Protector"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "ICasso Desk Mat, Mouse Pad for Office Decor, 35.4x15.7in, Deep Green"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Hard Surface",
     "cards": [
       {
         "label": "KTRIO Large Gaming Mouse Pad Desk Mat for Gamer)",
         "text": "Slightly higher friction, often preferred for controlled, precise movement."
       },
       {
-        "label": "",
+        "label": "Hard surface (e.g. iCasso Desk Mat, Mouse Pad for Office Decor, 35.4x15.7in, Deep Green)",
         "text": "Faster, lower-friction glide, better suited to quick flick-based movement."
       }
     ],
@@ -123,21 +123,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Size vs Your Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "7\" Waterproof Fabric Desk Pad Large Mouse Pad Office Game"
         ],
         [
-          "",
+          "Standard desk",
           "KTRIO Large Gaming Mouse Pad Desk Mat for Gamer"
         ],
         [
           "Large desk, low DPI, wide swipes",
-          ""
+          "ICasso Desk Mat, Mouse Pad for Office Decor, 35.4x15.7in, Deep Green"
         ]
       ]
     }
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "KTRIO Large Gaming Mouse Pad Desk Mat for Gamer is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "7in, Deep Green justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "7\" Waterproof Fabric Desk Pad Large Mouse Pad Office Game already covers the job at the lowest price here."
       }
     ]

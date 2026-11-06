@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest confirmed white converter?",
-    "a": ""
+    "a": "The Aconcept Extra-Slim White Lift Standing Desk Converter at $49.99."
   },
   {
     "q": "Is there a white corner desk converter?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/218ugZvMiSL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Aconcept Extra-Slim 24 x 14 inch White Lift Standing Desk Converter"
         ],
         [
-          "",
+          "Dual monitors",
           "VIVO White 42 in Standing Desk Converter"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $50",
           "Aconcept Extra-Slim 24 x 14 inch White Lift Standing Desk Converter"
         ],
         [
-          "",
+          "Mid-range",
           "VIVO White 42 in Standing Desk Converter"
         ],
         [
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: VIVO White 42 in Standing Desk Converter, VIVO White 48 in Standing Desk Converter, VIVO Black 48 in Standing Desk Converter."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: none in this specific roundup, since most picks here use a manual lift."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "VIVO White 42 in Standing Desk Converter"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "VIVO White 42 in Standing Desk Converter"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "VIVO White 42 in Standing Desk Converter fits this specifically: Explicitly confirmed white."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what VIVO White 48 in Standing Desk Converter offers: Largest confirmed white platform in this comparison. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Aconcept Extra-Slim 24 x 14 inch White Lift Standing Desk Converter already covers the essentials: Explicitly confirmed white. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41pg2AKaPYL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $28",
+          "Furinno Fulda ($24.32) or Furinno Jaya ($27.20)"
         ],
         [
-          "",
-          ""
+          "$40-$50",
+          "Furologee with Drawer ($39.99) or Sweetcrispy ($49.99)"
         ]
       ]
     }
@@ -106,7 +106,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Narrow Space-Saving vs Wider Multi-Tier",
     "cards": [
       {
-        "label": "",
+        "label": "Narrow (Furinno Fulda)",
         "text": "9 inches wide, at the cost of lower total capacity and fewer tiers."
       },
       {
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Measure your actual available space before choosing; a narrow bookshelf that fits a tight corner is more useful than a wider one that doesn't physically fit."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your storage needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Households with Small Items to Hide Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A bookshelf with a built-in enclosed drawer, rather than relying entirely on open shelving for every item."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Furologee 4 Tier Bookshelf is the only pick here with a removable fabric drawer for enclosed storage."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the most reinforced construction and are willing to drill an anti-tip bracket into the wall, where the Sweetcrispy pick delivers the most robust engineering here."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A slim, documented-capacity bookshelf covers your needs, where the Furinno Jaya delivers strong specs at a much lower price."
       }
     ]
@@ -165,23 +165,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Documented Weight Capacity",
     "description": "Compared stated per-shelf and total weight capacity figures across the lineup, since these varied meaningfully even among similarly priced bookshelves."
   },
   {
-    "title": "",
+    "title": "Footprint vs Storage Tradeoff",
     "description": "Compared narrow space-saving designs against wider multi-tier units for real capacity versus space differences."
   },
   {
-    "title": "",
+    "title": "Structural Reinforcement",
     "description": "Checked for specific reinforcement details like back panels, corner brackets, and joint construction methods beyond generic \"sturdy\" marketing language."
   },
   {
-    "title": "",
+    "title": "Anti-Tip Safety Features",
     "description": "Compared included anti-tip kits and their installation method, since this affects both safety and setup complexity."
   },
   {
-    "title": "",
+    "title": "Additional Storage Features",
     "description": "Noted extras like enclosed drawers that add functionality beyond standard open shelving."
   }
 ];

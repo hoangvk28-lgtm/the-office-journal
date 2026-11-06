@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41kTYIOIYBL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "50ft - 1/4 inch & 1/2 inch PET Expandable Braided Sleeving, Black, Alex Tech"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Keco 100ft, 1/2 inch PET Expandable Braided Cable Sleeve, Wire Sleeving"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "Incendion Audio, Wrap Rabbit: Fast"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,40 +95,40 @@ export const howToChoose: HowToChooseSection[] = [
           "50ft - 1/4 inch & 1/2 inch PET Expandable Braided Sleeving, Black, Alex Tech"
         ],
         [
-          "",
+          "Mid-range pick",
           "Alex Tech 10ft - 1 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ],
         [
-          "",
+          "Higher budget",
           "Incendion Audio, Wrap Rabbit: Fast"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "50ft - 1/4 inch & 1/2 inch PET Expandable Braided Sleeving, Black, Alex Tech)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "Keco 100ft, 1/2 inch PET Expandable Braided Cable Sleeve, Wire Sleeving"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Keco 100ft, 1/2 inch PET Expandable Braided Cable Sleeve, Wire Sleeving is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Incendion Audio, Wrap Rabbit: Fast justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 50ft - 1/4 inch & 1/2 inch PET Expandable Braided Sleeving, Black, Alex Tech already covers the job at the lowest price here."
       }
     ]

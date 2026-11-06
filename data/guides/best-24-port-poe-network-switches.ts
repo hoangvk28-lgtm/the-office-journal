@@ -48,19 +48,19 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Sizing PoE Budget for 24 Ports",
     "table": {
       "headers": [
-        "",
-        "",
-        ""
+        "Deployment",
+        "Realistic total draw",
+        "Recommended budget"
       ],
       "rows": [
         [
           "24 basic cameras (~8W each)",
-          "",
+          "~192W",
           "NETGEAR GS324P (190W) is tight, consider more headroom"
         ],
         [
           "24 mixed cameras/APs (~15W avg)",
-          "",
+          "~360W",
           "YuanLey 400W or NETGEAR GS524PP (300W)"
         ]
       ]
@@ -74,19 +74,19 @@ export const howWeEvaluated = [
     "description": "Verified the actual port count, Gigabit vs multi-gig speed rating, and whether every port runs at the advertised speed or only some do, since several switches mix full-speed and lower-speed ports."
   },
   {
-    "title": "",
+    "title": "PoE Power Budget",
     "description": "Checked the total PoE wattage budget against realistic device counts, not just the per-port maximum, since a switch's total power pool is what actually limits how many cameras or access points it can run."
   },
   {
-    "title": "",
+    "title": "Management Depth",
     "description": "Classified each switch as unmanaged, smart/easy-managed, or fully managed Layer 2/3, since this determines what troubleshooting and segmentation options are available after installation, not just at setup."
   },
   {
-    "title": "",
+    "title": "Build & Mounting Flexibility",
     "description": "Weighed fanless vs active cooling, metal vs plastic housing, and desktop/wall/rack mounting options against the switch's likely install environment."
   },
   {
-    "title": "",
+    "title": "Real-World Documentation Honesty",
     "description": "Favored listings that clearly state cabling requirements, host port requirements, and speed caveats over ones that only advertise the theoretical maximum."
   }
 ];

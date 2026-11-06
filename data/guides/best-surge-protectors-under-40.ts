@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31eEbDEOeoL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "Amazon Basics ($19.83)"
         ],
         [
-          "",
-          ""
+          "Under $27",
+          "CyberPower HT812TC ($26.72)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "ECHOGEAR ShockBlocker ($29.99)"
         ],
         [
-          "",
-          ""
+          "Under $35",
+          "TLP808B ($34.72)"
         ]
       ]
     }
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Flat Plug vs Standard Plug",
     "cards": [
       {
-        "label": "",
+        "label": "Flat plug (TLP808B)",
         "text": "Lets furniture sit flush against the wall, a genuine space saver in a tight room where a bulky plug would create a gap."
       },
       {
@@ -128,24 +128,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your surge protector will sit directly behind a couch, bed, or desk pushed against the wall, the TLP808B's flat plug avoids the gap a standard plug creates."
   },
   {
-    "subheading": "",
+    "subheading": "By Joule Rating Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your protection priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Absolute highest joule rating",
           "Amazon Basics (4000J) or ECHOGEAR (3420J)"
         ],
         [
           "Solid protection with a flat plug",
-          ""
+          "TLP808B (1440J)"
         ],
         [
           "AV-specific filtering over raw joules",
-          ""
+          "CyberPower HT812TC"
         ]
       ]
     }
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Room Where Furniture Sits Flush Against the Wall Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A flat plug design that doesn't create a gap between furniture and the wall, unlike a standard bulky plug."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The TLP808B's flat plug is specifically designed to let furniture move flush against the wall without obstruction."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a flat plug design and the highest documented warranty, where the TLP808B's $75,000 connected equipment insurance leads this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want the highest raw joule rating without specialized features, where the Amazon Basics pick delivers 4000J for under $20."
       }
     ]
@@ -184,19 +184,19 @@ export const howWeEvaluated = [
     "description": "Compared which picks use a space-saving flat plug versus a standard bulkier plug."
   },
   {
-    "title": "",
+    "title": "Joule Surge Protection Rating",
     "description": "Compared stated joule ratings across the lineup, from 1440J up to 4000J."
   },
   {
-    "title": "",
+    "title": "Outlet Spacing and Count",
     "description": "Compared total outlet count and spacing for accommodating bulky transformers and adapters."
   },
   {
-    "title": "",
+    "title": "Connected Equipment Warranty",
     "description": "Compared documented warranty and insurance coverage amounts across the lineup."
   },
   {
-    "title": "",
+    "title": "AV-Specific Features",
     "description": "Checked for noise filtering and other features specifically tuned for home theater equipment."
   }
 ];

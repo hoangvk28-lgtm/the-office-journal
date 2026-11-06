@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31XSIHgsrBL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $29",
+          "CRST 10-Outlet Heavy Duty ($28.99)"
         ],
         [
-          "",
-          ""
+          "Under $38",
+          "CRST 8-Outlet Metal ($37.99) or BN LINK Smart ($37.99)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "Amazon Basics Smart Plug ($39.99)"
         ]
       ]
     }
@@ -117,22 +117,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Lets you control outlets remotely through an app or voice assistant, ideal for home automation and scheduling."
       },
       {
-        "label": "",
+        "label": "Heavy-duty metal (CRST picks)",
         "text": "Prioritizes physical durability and individual switches over smart connectivity, built for workshops and garages."
       }
     ],
     "note": "If home automation and remote control matter most, choose a smart pick. If physical durability in a harsh environment matters most, the CRST metal picks are purpose-built for that."
   },
   {
-    "subheading": "",
+    "subheading": "By Smart Home Ecosystem",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your smart home setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Alexa devices only",
           "Amazon Basics Smart Plug Power Strip"
         ],
         [
@@ -141,7 +141,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "No smart home ecosystem, just outlets",
-          ""
+          "Either CRST heavy-duty pick"
         ]
       ]
     }
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Garage or Workshop Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A metal housing rated for impact and fire resistance, plus wide outlet spacing that accommodates bulky power tool chargers."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "77 inch outlet spacing are specifically built for this kind of demanding environment."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want individual switches on a genuine metal housing, where the CRST 8-Outlet pick offers real physical durability the cheaper 10-outlet CRST pick lacks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a heavy-duty strip with the most outlets and longest cord without individual switches, where the CRST 10-Outlet pick covers that for about $9 less."
       }
     ]
@@ -176,19 +176,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Smart Home Compatibility",
     "description": "Compared which picks work with Alexa only versus both Alexa and Google Home, and whether a hub is required."
   },
   {
-    "title": "",
+    "title": "Construction Material",
     "description": "Compared aluminum alloy and extruded metal housings against standard plastic construction for durability."
   },
   {
-    "title": "",
+    "title": "Per-Outlet Control Granularity",
     "description": "Compared individual switch or app-based control over each outlet versus master on/off control only."
   },
   {
-    "title": "",
+    "title": "Surge Protection Rating",
     "description": "Compared stated joule ratings across both smart and heavy-duty picks."
   },
   {

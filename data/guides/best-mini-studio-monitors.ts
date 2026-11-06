@@ -13,15 +13,15 @@ export const buyingCriteria = [
     "explanation": "Woofer size, most commonly 5 or 8 inches for home studios, directly affects how much low-frequency detail a monitor reproduces and how much bass builds up in a small, untreated room. A 5-inch woofer is the safer default for a bedroom or small desk setup, since a larger 8-inch woofer can overload a small room with bass reflections that make mixing decisions less reliable, not more accurate. Check the specific woofer diameter and match it to your room's actual square footage rather than assuming bigger always means better."
   },
   {
-    "criterion": "",
+    "criterion": "Wattage and Real Headroom",
     "explanation": "More wattage doesn't automatically mean better sound, it means more headroom before distortion, which mostly matters in a larger room or at louder monitoring volumes rather than a typical close-range desk setup. Check whether the wattage figure quoted is per-channel or a combined total for the pair, since combining both numbers into one inflated figure is a common listing trick."
   },
   {
-    "criterion": "",
+    "criterion": "Equilateral Triangle Placement",
     "explanation": "Correct stereo imaging depends on positioning your pair of monitors so they, along with your listening position, form an equilateral triangle, meaning the distance between the two speakers equals the distance from each speaker to your head. This is a setup detail entirely independent of which model you buy, so measure your actual desk layout against this rule before blaming a monitor for a weak stereo image."
   },
   {
-    "criterion": "",
+    "criterion": "Powered vs Passive Design",
     "explanation": "Powered monitors have the amplifier built in and just need a source cable, while passive monitors need a separately purchased, correctly matched external amp to work at all. For nearly every home studio setup, powered is the simpler, safer default, avoiding the impedance and wattage matching a passive setup requires. Check the listing explicitly for 'powered' or 'active' before buying, since a passive monitor alone won't produce any sound."
   }
 ];
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41fY2ymSB-L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,8 +73,8 @@ export const howToChoose: HowToChooseSection[] = [
           "FUNLOGY Speaker - 14W Stereo PC Speakers"
         ],
         [
-          "",
-          ""
+          "Standard home studio room",
+          "PreSonus Eris 3.5 Powered Studio Monitors"
         ],
         [
           "Larger room, need more headroom",
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,21 +96,21 @@ export const howToChoose: HowToChooseSection[] = [
           "FUNLOGY Speaker - 14W Stereo PC Speakers"
         ],
         [
-          "",
+          "Mid-range pick",
           "5\" Wired Studio Monitors Pair"
         ],
         [
-          "",
+          "Higher budget",
           "JBL Professional 1 Series 104-BT Compact Desktop Reference Monitors with"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Powered vs Passive Monitors",
     "cards": [
       {
-        "label": "",
+        "label": "Powered (e.g. PreSonus Eris 3.5 Powered Studio Monitors)",
         "text": "Has the amplifier built in, so you just need a source cable, no separate power amp to buy and match."
       },
       {
@@ -121,16 +121,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Almost every home studio buyer should default to powered monitors for the simplicity."
   },
   {
-    "subheading": "",
+    "subheading": "By Woofer Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Tightest desk fit and detail at close range",
-          ""
+          "PreSonus Eris 3.5 Powered Studio Monitors"
         ],
         [
           "Verify your exact desk distance before buying any size",
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Small Home Studio Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rear-panel room-compensation switch or EQ, since a monitor placed close to a wall needs bass correction most factory tunings assume you won't need."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5 Powered Studio Monitors is worth checking against its room-control switches before assuming flat response out of the box."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're mixing professionally and need maximum headroom and detail, where JBL Professional 1 Series 104-BT Compact Desktop Reference Monitors with justifies the higher price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're just starting out and want capable sound without overspending, where FUNLOGY Speaker - 14W Stereo PC Speakers already covers the job."
       }
     ]
@@ -177,15 +177,15 @@ export const howWeEvaluated = [
     "description": "Woofer size, most commonly 5 or 8 inches for home studios, directly affects how much low-frequency detail a monitor reproduces and how much bass builds up in a small, untreated room."
   },
   {
-    "title": "",
+    "title": "Wattage and Real Headroom",
     "description": "More wattage doesn't automatically mean better sound, it means more headroom before distortion, which mostly matters in a larger room or at louder monitoring volumes rather than a typical close-range desk setup."
   },
   {
-    "title": "",
+    "title": "Equilateral Triangle Placement",
     "description": "Correct stereo imaging depends on positioning your pair of monitors so they, along with your listening position, form an equilateral triangle, meaning the distance between the two speakers equals the distance from each speaker to your head."
   },
   {
-    "title": "",
+    "title": "Powered vs Passive Design",
     "description": "Powered monitors have the amplifier built in and just need a source cable, while passive monitors need a separately purchased, correctly matched external amp to work at all."
   }
 ];

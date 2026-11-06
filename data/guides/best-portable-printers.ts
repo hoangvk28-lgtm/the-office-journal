@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Canon PIXMA TR160 Wireless Portable Lightweight Compact Printer with Battery and Display"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Canon PIXMA TR160 Wireless Portable Lightweight Compact Printer with Battery and Display"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $40",
           "NDYIN Portable Printer Wireless for Travel"
         ],
         [
-          "",
-          ""
+          "Up to $200",
+          "Epson EcoTank ET"
         ]
       ]
     }
@@ -106,22 +106,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Epson EcoTank ET",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to NDYIN Portable Printer Wireless for Travel unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Canon PIXMA TR160 Wireless Portable Lightweight Compact Printer with Battery and Display"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Canon PIXMA TR160 Wireless Portable Lightweight Compact Printer with Battery and Display is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Epson EcoTank ET's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where NDYIN Portable Printer Wireless for Travel covers the same job at a lower price."
       }
     ]
@@ -161,7 +161,7 @@ export const howWeEvaluated = [
     "description": "Distinguished battery-powered, purpose-built portable printers from standard plug-in AIOs that some travelers pack for extended stays, since the two solve different travel needs."
   },
   {
-    "title": "",
+    "title": "Real-world battery expectations",
     "description": "Weighed rated page-per-charge claims against the reality that dense or graphic-heavy pages drain a portable printer's battery faster than simple text documents."
   },
   {
@@ -169,18 +169,18 @@ export const howWeEvaluated = [
     "description": "Considered whether cartridges or thermal paper are specialty items that need to be packed in advance, since they aren't reliably available at typical travel stops."
   },
   {
-    "title": "",
+    "title": "Travel durability",
     "description": "Noted stated drop resistance or dust sealing where available, and flagged its absence rather than assuming a compact printer is automatically travel-rugged."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed portability, output quality, and consumable cost against price across the range of price points in this comparison in this list."
   }
 ];
 
 export const introParagraphs = [
   "A portable printer's rated page-per-charge number is measured under ideal, simplified conditions, and real mixed-content printing (denser text, graphics, or photos) typically drains the battery faster and yields fewer pages than the spec sheet suggests. Charging time is just as important as capacity for travel, since a printer that takes hours to recharge is less useful on a trip than one with a lower rated count but a faster top-up, and cartridge or paper availability matters too since specialty ink cartridges and thermal paper rolls are not something you can grab at any convenience store while traveling.",
-  ""
+  "Below are 7 printers we compared for genuine portability, battery-backed models built for travel plus a few compact wireless AIOs that some buyers grab for lighter travel use, covering real-world battery expectations, spare-supply planning, and travel durability, ranging from a $39.99 inkless thermal printer to a $199.99 cartridge-free tank printer."
 ];
 
 export const lastUpdated = "2026-07-25";

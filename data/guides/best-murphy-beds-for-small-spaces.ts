@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Create"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Create"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $197",
           "Queen Size Murphy Bed Hardware Kit"
         ],
         [
-          "",
+          "Up to $700",
           "Hlivelood Queen Size Murphy Bed with 2 LED Lights"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Horizontal vs Vertical Mounting",
     "cards": [
       {
-        "label": "",
+        "label": "Horizontal",
         "text": "Better for a wider, lower-ceiling room, needs more wall width to fold. In this comparison: Queen Size Murphy Bed Hardware Kit, AMERLIFE Queen Murphy Bed with Storage and Charging Station."
       },
       {
-        "label": "",
+        "label": "Vertical",
         "text": "Needs more ceiling height but a narrower wall footprint. In this comparison: Create, Yoobure Queen Murphy Bed with Charging Station, Hlivelood Full Size Murphy Chest Bed with Drawer and Charging Station, Hlivelood Queen Size Murphy Bed with 2 LED Lights, Hlivelood Queen Size Murphy Bed with 2 LED Lights, LIVAUVEAD Twin Size Murphy Bed with Charging Station and Drawer."
       }
     ],
     "note": "Default to whichever orientation actually fits your room's ceiling height and available wall width."
   },
   {
-    "subheading": "",
+    "subheading": "By Room Clearance Requirements",
     "note": "Check each pick's listed minimum ceiling height and wall clearance against your room's actual measured dimensions before buying, not just the general size category."
   },
   {
     "subheading": "For a Studio Apartment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Verified real desk integration with a stated weight limit, plus confirmed ceiling height and wall clearance for your specific room."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Create is worth checking against its listed clearance requirements before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You'll fold the unit daily as part of an active desk-bed routine, where Hlivelood Queen Size Murphy Bed with 2 LED Lights's build quality and mechanism give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The bed stays in one position most of the time, where Queen Size Murphy Bed Hardware Kit covers the same job at a lower price."
       }
     ]
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
     "description": "Weighed sleeping size against the floor space a lowered bed occupies, since queen orientation needs meaningfully more room depth than full or twin size."
   },
   {
-    "title": "",
+    "title": "Wall anchoring feasibility",
     "description": "Noted that all murphy bed mechanisms require anchoring into wall studs spanning at least two 16-inch-on-center studs, not drywall alone, a requirement that applies across every pick in this list."
   },
   {

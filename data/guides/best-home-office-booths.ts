@@ -56,80 +56,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Portable Noise"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Portable Noise"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $NaN",
+          "Portable Noise"
         ],
         [
-          "",
-          ""
+          "Up to $4",
+          "Soundproof Office Pod Booth"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Portable Noise",
         "text": "The lower-priced option in this comparison, worth checking its acoustic and ventilation specs against your needs."
       },
       {
-        "label": "",
+        "label": "Soundproof Office Pod Booth",
         "text": "The higher-priced option, worth it if it offers real acoustic or space headroom above the cheaper pick."
       }
     ],
     "note": "Default to Portable Noise unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Disclosed Dimensions",
     "note": "Check each pick's listed exterior dimensions in inches against your actual available space before buying, not just its size category label."
   },
   {
     "subheading": "For Remote Work Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A verified STC or DB reduction rating, plus confirmed ventilation with a stated CFM figure for comfortable extended use during calls."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Portable Noise is worth checking against its listed acoustic and ventilation specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need verified acoustic isolation and ventilation for daily extended use, where Soundproof Office Pod Booth's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional light use, where Portable Noise covers the same job at a lower price."
       }
     ]
@@ -150,7 +150,7 @@ export const howWeEvaluated = [
     "description": "Weighted floor-load verification as a real concern for apartment or upper-floor installations given the weight of these structures."
   },
   {
-    "title": "",
+    "title": "Verified listing data only",
     "description": "Used only prices, dimensions, and features actually printed in each Amazon listing, no invented ratings or review counts."
   }
 ];

@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Set Explicit Weight Thresholds",
     "explanation": "Set an explicit weight and packed-volume threshold for small portable power stations rather than judging portability from photos alone."
   },
   {
@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "Compare handle and packing ergonomics, plus the weight of any required charger or adapter."
   },
   {
-    "criterion": "",
+    "criterion": "Measure Low-Load Efficiency",
     "explanation": "Check low-load efficiency and fan noise, since small inverters can waste a larger share of stored energy."
   }
 ];
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/51RqhJSR3sL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Set Explicit Weight Thresholds",
     "note": "Set an explicit weight and packed-volume threshold for small portable power stations rather than judging portability from photos alone."
   },
   {
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Compare handle and packing ergonomics, plus the weight of any required charger or adapter."
   },
   {
-    "subheading": "",
+    "subheading": "Measure Low-Load Efficiency",
     "note": "Check low-load efficiency and fan noise, since small inverters can waste a larger share of stored energy."
   }
 ];
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Looked for UL, UL2743, or other documented safety certification and battery chemistry evidence rather than trusting a safety claim alone."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included cables, solar panel bundling, warranty length, and app requirements as part of the real cost and usability of each pick."
   }
 ];

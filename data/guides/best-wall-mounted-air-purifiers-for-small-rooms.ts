@@ -53,38 +53,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/211o7kU79XL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Filtration Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Certified True HEPA",
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $79",
           "Smartmi E1 Wall Mounted Air Purifier"
         ],
         [
-          "",
+          "Up to $650",
           "Kaltech Wall Mounted Air Purifier"
         ]
       ]
@@ -94,30 +94,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Smart App-Connected vs Basic Manual Controls",
     "cards": [
       {
-        "label": "",
+        "label": "Smart, app-connected",
         "text": "Lets you monitor air quality and adjust fan speed remotely, useful if you want automation or scheduling. In this comparison: Smartmi E1 Wall Mounted Air Purifier."
       },
       {
-        "label": "",
+        "label": "Basic manual controls",
         "text": "Simpler and usually cheaper, with nothing to set up or connect. In this comparison: Kaltech Wall Mounted Air Purifier, KOMMA Lov Wall Mounted Air Purifier, LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom, Germ Guardian True HEPA Filter Air Purifier for Home."
       }
     ],
     "note": "Default to basic manual controls unless you specifically want app-based monitoring or automation."
   },
   {
-    "subheading": "",
+    "subheading": "By Certified HEPA Filtration",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Certified True HEPA needed",
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ],
         [
-          "",
+          "Basic filtration is enough",
           "Kaltech Wall Mounted Air Purifier"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Allergies or Pet Dander Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Certified True HEPA filtration with an H13 or higher rating, sized for a room at least as large as where it'll actually run."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom discloses certified True HEPA filtration."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real odor, VOC, or large-room coverage, where Kaltech Wall Mounted Air Purifier's higher price buys real filtration or CADR headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're covering a small space with a basic dust or allergen concern, where Smartmi E1 Wall Mounted Air Purifier covers the same job at a lower price."
       }
     ]
@@ -157,8 +157,8 @@ export const howWeEvaluated = [
     "description": "Weighed that wall mounting frees genuine floor area in a tight room, but filter changes at height can be less convenient than a floor unit, a real tradeoff to disclose."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Product category size and review base honestly disclosed",
+    "description": "Considered that wall-mounted units are a genuinely smaller product category than floor-standing purifiers, meaning a smaller review base per model and less real-world evidence to weigh."
   },
   {
     "title": "Shelf-placed floor units included as a genuine alternative",
@@ -168,7 +168,7 @@ export const howWeEvaluated = [
 
 export const introParagraphs = [
   "Wall mounting frees genuine floor area in a tight room, a real advantage for a small bedroom or home office where every square foot matters, but filter changes at height can be less convenient than simply lifting a floor unit's cover.",
-  ""
+  "Wall-mounted units are a genuinely smaller product category than floor-standing purifiers, expect fewer options, a smaller review base per model, and typically a higher price relative to coverage than a comparable floor unit."
 ];
 
 export const lastUpdated = "2026-07-31";

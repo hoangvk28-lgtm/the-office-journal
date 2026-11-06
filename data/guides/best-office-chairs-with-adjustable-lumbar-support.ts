@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41tzbvyly7L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "BestOffice Ergonomic Office Chair"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $39",
           "NEO CHAIR Office Computer Chair Mid Back Desk Ergonomic Mesh Gaming Seat Comfy Lumbar Support Rolling Wheels Adjustable Height Swivel for Home Task"
         ],
         [
-          "",
+          "Up to $130",
           "Office Chair Ergonomic Desk Chair"
         ]
       ]
@@ -97,42 +97,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Mesh Back vs Padded/Fabric Back",
     "cards": [
       {
-        "label": "",
+        "label": "Mesh back",
         "text": "Breathable and cooler for long sessions, worth it in a warmer room or for anyone who runs hot. In this comparison: Office Chair Ergonomic Desk Chair, Marsail Ergonomic Office Chair, NEO CHAIR Office Computer Chair Mid Back Desk Ergonomic Mesh Gaming Seat Comfy Lumbar Support Rolling Wheels Adjustable Height Swivel for Home Task, NEO CHAIR Office Desk Gaming Chair Computer High Back Mesh Seat with Rolling Wheels Ergonomic Adjustable Comfy Flip, NEO CHAIR Office Desk Gaming Ergonomic Computer Chair with Lumbar Back Support Adjustable Height Swivel Rolling Wheels Flip."
       },
       {
-        "label": "",
+        "label": "Padded/fabric back",
         "text": "Softer feel and often better cushioned support. In this comparison: BestOffice Ergonomic Office Chair, Furmax Office Executive Chair High Back Adjustable Managerial Home Desk Chair, Primy Drafting Chair Tall Office Chair with Flip."
       }
     ],
     "note": "Default to mesh if breathability matters for long sessions, padded fabric for a softer feel."
   },
   {
-    "subheading": "",
+    "subheading": "By Armrest Adjustability",
     "note": "Check each pick's listed armrest adjustment axes (2D, 3D, or 4D) against your desk height and typing posture before buying."
   },
   {
-    "subheading": "",
+    "subheading": "For Long Workdays Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Adjustable lumbar support and 3D or 4D armrests, not just a fixed cushion and basic height-only armrests."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "BestOffice Ergonomic Office Chair is worth checking against its listed adjustability before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You spend many hours daily at your desk, where Office Chair Ergonomic Desk Chair's adjustability and build quality give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need the chair for occasional or light use, where NEO CHAIR Office Computer Chair Mid Back Desk Ergonomic Mesh Gaming Seat Comfy Lumbar Support Rolling Wheels Adjustable Height Swivel for Home Task covers the same job at a lower price."
       }
     ]
@@ -141,15 +141,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Lumbar adjustability range",
     "description": "Reviewed what each listing states about the lumbar feature itself, noting when the exact adjustment type, height-only, depth, 2D, or dynamic, is not specified."
   },
   {
-    "title": "",
+    "title": "Breathability and mesh quality",
     "description": "Compared mesh-back designs against PU leather and foam options for airflow during longer sitting sessions, based on product specs and buyer feedback."
   },
   {
-    "title": "",
+    "title": "Armrest design",
     "description": "Evaluated flip-up arms against 3D adjustable arms for how much desk-clearance flexibility and elbow-position control each design offers."
   },
   {
@@ -157,7 +157,7 @@ export const howWeEvaluated = [
     "description": "Weighed frame, base, and upholstery quality against price, since these chairs range from about this comparison's price range and shouldn't be judged on the same bar."
   },
   {
-    "title": "",
+    "title": "Value for money",
     "description": "Considered rating volume and average rating alongside price to identify which chairs deliver the most for a home office budget."
   }
 ];

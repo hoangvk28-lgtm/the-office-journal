@@ -60,69 +60,69 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "HOMSCREENER 3"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "SUNALLY 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $44",
           "MAYOLIAH Single Large Panel Rolling Room Divider"
         ],
         [
-          "",
-          ""
+          "Up to $360",
+          "HOMSCREENER 3"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stability vs Price",
     "cards": [
       {
         "label": "MAYOLIAH Single Large Panel Rolling Room Divider",
         "text": "The lower-priced option in this comparison, worth checking its base footprint and stability against your floor type."
       },
       {
-        "label": "",
+        "label": "HOMSCREENER 3",
         "text": "The higher-priced option, worth it if it offers real stability or material headroom above the cheaper pick."
       }
     ],
     "note": "Default to MAYOLIAH Single Large Panel Rolling Room Divider unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Acoustic Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Genuine sound-dampening material",
+          "HOMSCREENER 3"
         ],
         [
-          "",
-          ""
+          "Visual separation is enough",
+          "SUNALLY 4"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SUNALLY 4 is worth checking against its listed mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening or a taller, more stable divider, where HOMSCREENER 3's material and construction give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual separation without noise or stability concerns, where MAYOLIAH Single Large Panel Rolling Room Divider covers the same job at a lower price."
       }
     ]
@@ -161,19 +161,19 @@ export const howWeEvaluated = [
     "description": "Counted total casters per unit and checked whether each wheel locks individually or only the corner wheels lock, since a divider that drifts after rolling defeats the point of wheels in the first place."
   },
   {
-    "title": "",
+    "title": "Base stability once locked",
     "description": "Compared base width, foot design, and center of gravity across panel counts, since a wider, lower base resists tipping far better than a narrow footprint even with the same number of wheels."
   },
   {
-    "title": "",
+    "title": "Fabric weight and privacy",
     "description": "Weighed polyester gsm thickness and gap-sealing design against how completely each pick blocks a sightline, from thin single-layer fabric up to a soundproof acoustic core."
   },
   {
-    "title": "",
+    "title": "Reconfigurability",
     "description": "Assessed whether panels fold flat, bend into L/W/C/Z shapes, or lock into one fixed straight line, since a rolling divider is more likely to be repositioned often than a stationary one."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed wheel count, fabric quality, and width against price, this list runs from a single panel to a soundproof unit for very different use cases."
   }
 ];

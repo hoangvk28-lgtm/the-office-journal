@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41WGJRiwq3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,24 +83,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $225",
+          "CUNPU Z32UI06-TE 32 Inch 4K ($219.99)"
         ],
         [
-          "",
-          ""
+          "$225-$245",
+          "ASUS ProArt PA278CV ($229.00) or ViewSonic VP2766-2K ($239.99)"
         ],
         [
-          "",
-          ""
+          "Under $300",
+          "Dell 27 Monitor S2725QC 4K 120Hz ($299.99)"
         ]
       ]
     }
@@ -113,7 +113,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Independently tests and confirms Delta E accuracy against a calibration standard, common in professional display verification."
       },
       {
-        "label": "",
+        "label": "Pantone Validated (ViewSonic VP2766-2K)",
         "text": "Certifies the display's color output specifically matches Pantone's reference color standards, relevant for design work tied to Pantone color matching."
       }
     ],
@@ -123,8 +123,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By USB-C Power Delivery and Hub Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Growing Multi-Monitor Workstation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "DisplayPort daisy-chain support with a stated maximum number of connected displays, since this determines how far your setup can expand from a single source."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The ASUS ProArt PA278CV supports daisy-chaining up to four displays, the strongest expansion feature in this guide."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want both 4K resolution and a fast 120Hz refresh rate together, where the Dell 27 Monitor S2725QC is the only pick in this guide combining both."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A large 4K screen without a high refresh rate covers your needs, where the CUNPU Z32UI06-TE delivers 4K for roughly $80 less than the Dell pick."
       }
     ]
@@ -172,7 +172,7 @@ export const howWeEvaluated = [
     "description": "Checked which panels combine 4K resolution with a 120Hz refresh rate versus those offering only one or the other at this price."
   },
   {
-    "title": "",
+    "title": "Independent Color Validation",
     "description": "Compared Pantone Validated and Calman Verified certifications against general color gamut percentages without third-party backing."
   },
   {
@@ -180,11 +180,11 @@ export const howWeEvaluated = [
     "description": "Compared stated wattage figures and additional USB-C/USB-A ports that let the monitor function as a genuine accessory hub."
   },
   {
-    "title": "",
+    "title": "Multi-Monitor Expansion Support",
     "description": "Checked DisplayPort daisy-chain support and how many additional displays each monitor can connect to for a growing workstation."
   },
   {
-    "title": "",
+    "title": "Warranty and Support Terms",
     "description": "Compared stated warranty length across the lineup, since coverage terms vary even among similarly priced and specced monitors."
   }
 ];

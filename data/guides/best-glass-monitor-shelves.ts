@@ -56,63 +56,63 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Hemudu Clear Glass Monitor Riser"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Hemudu Clear Glass Monitor Riser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $23",
           "Hemudu Clear Glass Monitor Riser"
         ],
         [
-          "",
+          "Mid-range",
           "Hemudu Clear Glass Monitor Riser with Height Adjustable Desktop Stand"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Freestanding vs Clamp/Clip-On",
     "cards": [
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits directly on the desk with zero installation, at the cost of using up some desk depth. In this comparison: Hemudu Clear Glass Monitor Riser, Hemudu Clear Glass Monitor Riser with Height Adjustable Desktop Stand, Hemudu Clear Glass Monitor Riser."
       },
       {
-        "label": "",
+        "label": "Clamp/Clip-On",
         "text": "Attaches to the desk's back edge, freeing up desk surface underneath, but needs a compatible edge thickness. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "With Storage vs Platform-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simplest platform-only design",
           "Hemudu Clear Glass Monitor Riser"
         ]
       ]
@@ -122,24 +122,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy or Ultrawide Monitor Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity with real margin above your monitor's actual weight, a rigid material like metal or thick wood, and a wide enough platform to support the monitor's full base without overhang."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Hemudu Clear Glass Monitor Riser with Height Adjustable Desktop Stand fits this specifically: Solid 4.8-star rating with 2,507 ratings."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is capacity or storage you may not need."
       }
     ]

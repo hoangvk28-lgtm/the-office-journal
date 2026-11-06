@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Stand-faq",
     "q": "Do all 4K monitors come with height-adjustable stands?",
     "a": "No, it ranges from tilt-only to full ergonomic adjustment, check the specific stand spec against your desk setup, a VESA-compatible arm is a simple add-on if the included stand falls short."
   },
   {
-    "id": "",
+    "id": "Response-faq",
     "q": "Can I trust the response time number on the box?",
     "a": "Not fully, it's usually a best-case lab number under aggressive overdrive settings, real-world motion clarity is often worse and can show ghosting, check independent motion-clarity reviews instead."
   },
   {
-    "id": "",
+    "id": "Gamut-faq",
     "q": "Do I need wide color gamut coverage?",
     "a": "Only for color-critical work like video editing or print design, general use and office work are well served by standard SRGB coverage, check which gamut standard actually matters for your workflow."
   },
   {
-    "id": "",
+    "id": "Scaling-faq",
     "q": "Is a smaller 4K monitor harder to use than a larger one?",
     "a": "It needs OS-level scaling to keep text readable, which works well in most modern software but can render blurry in some older or niche applications, verify your specific software handles scaling before buying a smaller panel."
   },
   {
-    "id": "",
+    "id": "Hdr-faq",
     "q": "Does HDR on a 4K monitor actually look different?",
     "a": "It depends heavily on the certification tier, DisplayHDR 400 is a low bar with modest brightness gains, DisplayHDR 600 and above reflects capable HDR hardware, check the specific tier rather than trusting the word HDR alone."
   },
   {
-    "id": "",
+    "id": "Usbc-faq",
     "q": "Will a USB-C 4K monitor charge my laptop?",
     "a": "Only if its power delivery wattage matches or exceeds your laptop's charging requirement, check the monitor's specific PD wattage spec rather than assuming any USB-C monitor fully charges any laptop."
   }
@@ -66,34 +66,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/510epqI9hKL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General office and browsing",
           "4K Monitor, Z-Edge 28 inch IPS Monitor, UHD 3840x2160 IPS"
         ],
         [
-          "",
+          "Color-critical creative work",
           "32 Inch 4K Touch Monitor"
         ],
         [
-          "",
-          ""
+          "Fast-paced gaming",
+          "Dell 32 Monitor S3225QS"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "4K Monitor, Z-Edge 28 inch IPS Monitor, UHD 3840x2160 IPS"
         ],
         [
-          "",
+          "Mid-range pick",
           "Acer Nitro VG270K V2biip 27\" 4K UHD 3840 x 2160 IPS Gaming Monitor"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Dell 32 Monitor S3225QS"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "IPS vs OLED Panel",
     "cards": [
       {
         "label": "4K Monitor, Z-Edge 28 inch IPS Monitor, UHD 3840x2160 IPS)",
         "text": "Consistent accurate color from wide angles, weaker black levels."
       },
       {
-        "label": "",
+        "label": "OLED",
         "text": "Deeper contrast and faster response, real long-term burn-in risk on static content."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk depth",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard desk distance",
           "32 Inch 4K Touch Monitor"
         ],
         [
-          "",
+          "Larger or multi-monitor desk",
           "Acer Nitro VG270K V2biip 27\" 4K UHD 3840 x 2160 IPS Gaming Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed USB-C power delivery wattage that matches your laptop's actual charging requirement, not just a USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "32 Inch 4K Touch Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Dell 32 Monitor S3225QS justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 4K Monitor, Z-Edge 28 inch IPS Monitor, UHD 3840x2160 IPS already covers the job at the lowest price here."
       }
     ]

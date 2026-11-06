@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,10 +74,10 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A named, comparable CPU spec",
-          ""
+          "QNAP TS-233-US 2-Bay NAS"
         ],
         [
-          "",
+          "Faster 2.5GbE network transfer speed",
           "Asustor Drivestor 2 Pro Gen2 AS3302T v2"
         ],
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $250",
+          "UGREEN DH2300 ($199.99) or QNAP TS-233-US ($239.00)"
         ],
         [
-          "",
-          ""
+          "Up to $300",
+          "Asustor Drivestor 2 Pro ($282.99) or Synology DS223 ($284.99)"
         ]
       ]
     }
@@ -114,26 +114,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Years of refinement, extensive community documentation, and mature Time Machine setup flows, at a generally higher price point than newer entrants."
       },
       {
-        "label": "",
+        "label": "Newer NAS OS (UGREEN)",
         "text": "Lower price and modern hardware, but with a shorter track record and less accumulated community troubleshooting resources."
       }
     ],
     "note": "If this is your first NAS and you want the most documentation and community support available, Synology or QNAP's established software is the safer bet despite the higher price."
   },
   {
-    "subheading": "",
+    "subheading": "By Network Speed Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your network setup is",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard Gigabit Ethernet only",
           "UGREEN, QNAP, or Synology (all fine at standard Gigabit)"
         ],
         [
-          "",
+          "Already has 2.5GbE-capable router or adapter",
           "Asustor Drivestor 2 Pro Gen2 AS3302T v2"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Full Backup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5GbE) if your Mac and router both support it, since the first full Time Machine backup transfers your entire drive's contents and benefits most from network speed."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5GbE port is the only one here that can meaningfully speed up that initial full backup, assuming compatible networking gear on both ends."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) both offer real advantages over the cheaper picks here."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) covers that core function for the lowest price in this comparison."
       }
     ]
@@ -169,7 +169,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Time Machine compatibility method",
     "description": "We confirmed each NAS operating system (DSM, QTS, ADM, or UGREEN's own OS) exposes a standard SMB network share that macOS Time Machine can target directly, the standard method all consumer NAS platforms use for Mac backup."
   },
   {
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "We noted which listings name a specific CPU model and RAM amount versus a vague performance claim, since a named spec is directly comparable across competing NAS units."
   },
   {
-    "title": "",
+    "title": "Network port speed comparison",
     "description": "5GbE-equipped models, since network speed is the real bottleneck for a NAS's first full backup and any large restore operation."
   },
   {
@@ -185,7 +185,7 @@ export const howWeEvaluated = [
     "description": "We favored 2-bay designs at this budget specifically because a second drive bay allows mirroring your Time Machine backup for redundancy rather than trusting a single drive."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $300 on the date this guide was checked; units that only hit this tier during a temporary sale were excluded."
   }
 ];

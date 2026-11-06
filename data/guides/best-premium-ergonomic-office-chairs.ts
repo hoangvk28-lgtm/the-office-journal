@@ -63,35 +63,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Office Chair Ergonomic Desk Chair"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Office Chair Ergonomic Desk Chair"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $39",
           "NEO CHAIR Office Computer Chair"
         ],
         [
-          "",
+          "Up to $130",
           "Office Chair Ergonomic Desk Chair"
         ]
       ]
@@ -112,15 +112,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to NEO CHAIR Office Computer Chair unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Office Chair Ergonomic Desk Chair"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Office Chair Ergonomic Desk Chair is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Office Chair Ergonomic Desk Chair's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where NEO CHAIR Office Computer Chair covers the same job at a lower price."
       }
     ]
@@ -156,24 +156,24 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Honest price-tier positioning",
     "description": "Checked each chair's actual price against true premium-brand pricing before calling anything premium, since every product in this list falls in the this comparison's price range budget-to-midrange band rather than its price premium-brand range."
   },
   {
-    "title": "",
+    "title": "Ergonomic feature depth",
     "description": "Compared adjustable lumbar support, arm adjustability, headrest presence, and height range across all 8 picks, since these are the features that actually differentiate an ergonomic chair from a basic task chair regardless of price tier."
   },
   {
-    "title": "",
+    "title": "Fit over brand",
     "description": "Weighed how well each chair's specific design, tall drafting height, 3D arms, high back, fit a particular body type or use pattern, rather than ranking by brand recognition or price alone."
   },
   {
-    "title": "",
+    "title": "Setup and adjustment requirement",
     "description": "Considered that any adjustable ergonomic chair requires an initial setup period, typically 6 or more adjustments and 30 minutes or so, to deliver its intended value, and factored that expectation into each review."
   },
   {
     "title": "Value for price at each tier",
-    "description": ""
+    "description": "Weighed feature depth, materials, and review base against price across the full range of price points in this comparison in this list, not price or rating alone."
   }
 ];
 

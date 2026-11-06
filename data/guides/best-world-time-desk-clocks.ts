@@ -49,20 +49,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/41V4HtaDtjL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Movement Type",
     "table": {
       "headers": [
-        "",
+        "What you want",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "A quiet, non-ticking movement",
           "Design Factory Desk Top World Time Clock with 3 Time Zones"
         ],
         [
           "A digital, fully silent display",
-          ""
+          "Multiple World Clock"
         ],
         [
           "Maximum visual personality (flip or mechanical action)",
@@ -72,29 +72,29 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $25",
+          "Multiple World Clock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs Corded",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-Powered",
         "text": "Runs on batteries alone, so it can sit anywhere on a desk or shelf with no cord in the way, at the cost of an eventual battery swap. In this comparison: Design Factory Desk Top World Time Clock with 3 Time Zones, Multiple World Clock."
       },
       {
-        "label": "",
+        "label": "Corded (Plug-In)",
         "text": "Draws continuous power from a wall outlet, often adding features like USB charging ports or a battery backup for outages, but it has to sit within cord length of a plug. In this comparison: none in this specific roundup, since most picks here are battery powered."
       }
     ],
@@ -104,17 +104,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Purpose: Everyday Use vs Gift",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your purpose",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday functional desk use",
           "Design Factory Desk Top World Time Clock with 3 Time Zones"
         ],
         [
           "A gift or milestone piece",
-          ""
+          "Multiple World Clock"
         ]
       ]
     }
@@ -123,17 +123,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buying as a Gift Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine material language, such as hand carved, real marble, or real crystal, rather than a marble-look or crystal-look plastic finish, plus a stated production or engraving lead time if personalization is involved."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Multiple World Clock fits this specifically: Broader zone coverage for general global reference. That's the kind of detail that signals a deliberate gift rather than a purely functional purchase."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "note": "Every pick in this specific comparison sits in a similar price range, so the decision here comes down to style and features rather than a budget-versus-premium tradeoff. Check the pros and cons above for what actually differs between them."
   }
 ];

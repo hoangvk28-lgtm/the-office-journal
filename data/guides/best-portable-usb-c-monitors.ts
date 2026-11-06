@@ -55,42 +55,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "ARZOPA Portable Monitor 15.6'' FHD 1080P"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "ARZOPA Portable Monitor 15.6'' FHD 1080P"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $50",
           "6\" FHD 60Hz Portable Monitor USB"
         ],
         [
-          "",
+          "Up to $110",
           "6 Inch 1080P FHD 60Hz 85% SRGB Travel Monitor with Speaker HDMI"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
         "label": "6\" FHD 60Hz Portable Monitor USB",
@@ -104,19 +104,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "6\" FHD 60Hz Portable Monitor USB unless your setup calls for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 15.6-inch panel",
+          "ARZOPA Portable Monitor 15.6'' FHD 1080P"
         ],
         [
-          "",
+          "Around 15.6-inch panel",
           "6\" 1080P for Laptop with Protective Sleeve"
         ]
       ]
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a MacBook or Mac Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed DisplayPort Alt Mode support and a power delivery wattage matched to your MacBook's charging brick wattage."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since PD wattage isn't consistently disclosed across every monitor in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "6 Inch 1080P FHD 60Hz 85% SRGB Travel Monitor with Speaker HDMI's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6\" FHD 60Hz Portable Monitor USB covers the same job at a lower price."
       }
     ]

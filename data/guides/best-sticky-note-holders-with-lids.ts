@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41u5JhP-3zL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Placement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "On the desk surface",
           "3x3 Inch Sticky Note Holder Post It Note Holder No Slip Base and Shatterproof"
         ],
         [
-          "",
+          "Clipped to a monitor",
           "2 Pack Clear Acrylic Organizer with Lid for Paper Clips, Sticky Note, Qtip, Cotton"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "3x3 Inch Sticky Note Holder Post It Note Holder No Slip Base and Shatterproof"
         ],
         [
-          "",
+          "Mid-range pick",
           "3x3 Inch Acrylic Sticky Note Holder"
         ],
         [
-          "",
+          "Higher budget",
           "Pen Pop Up Sticky Note Dispenser"
         ]
       ]
@@ -114,22 +114,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "One-at-a-time dispensing, needs z-fold refill pads specifically."
       },
       {
-        "label": "",
+        "label": "Standard pad holder",
         "text": "Works with any standard pad, no special refill needed."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Note Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your notes",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 3x3 size",
           "2 Pack Clear Acrylic Organizer with Lid for Paper Clips, Sticky Note, Qtip, Cotton"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For One-Handed Desk Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weighted or non-slip base that stays put while you pull a note with one hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "2 Pack Clear Acrylic Organizer with Lid for Paper Clips, Sticky Note, Qtip, Cotton is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Mr. Pen Pop Up Sticky Note Dispenser justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 3x3 Inch Sticky Note Holder Post It Note Holder No Slip Base and Shatterproof already covers the job at the lowest price here."
       }
     ]

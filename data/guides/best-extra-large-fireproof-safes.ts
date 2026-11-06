@@ -5,11 +5,11 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Publish Usable Interior vs. Exterior Footprint",
     "explanation": "Get extra large fireproof safes's actual interior dimensions and shelf layout, not just its exterior size, since insulation and hardware take a real bite out of large safes too."
   },
   {
-    "criterion": "",
+    "criterion": "Calculate Realistic Loaded Weight",
     "explanation": "Large safes can weigh hundreds of pounds empty; account for the added weight of everything you plan to store before assuming your floor can support it."
   },
   {
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41uzP3dmX6L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Publish Usable Interior vs. Exterior Footprint",
     "note": "Get extra large fireproof safes's actual interior dimensions and shelf layout, not just its exterior size, since insulation and hardware take a real bite out of large safes too."
   },
   {
-    "subheading": "",
+    "subheading": "Calculate Realistic Loaded Weight",
     "note": "Large safes can weigh hundreds of pounds empty; account for the added weight of everything you plan to store before assuming your floor can support it."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Recorded fire duration and test temperature separately for each model rather than accepting a vague 'fireproof' label, since a 30-minute rating and a 2-hour rating protect very differently in a real house fire."
   },
   {
-    "title": "",
+    "title": "Water Evidence Verified Independently",
     "description": "Checked water-resistance claims (submersion depth, duration) as a separate fact from the fire rating, since the two protections are tested and certified independently even on the same product."
   },
   {

@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Check actual work travel, rails, and spindle/router architecture by exact model, since a brand's lineup can span very different hardware generations."
   },
   {
-    "criterion": "",
+    "criterion": "Map Official Upgrade Paths",
     "explanation": "Verify which 4th-axis, laser, spindle, or workholding upgrades are officially supported for the specific model, not just the brand in general."
   },
   {
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check actual work travel, rails, and spindle/router architecture by exact model, since a brand's lineup can span very different hardware generations."
   },
   {
-    "subheading": "",
+    "subheading": "Map Official Upgrade Paths",
     "note": "Verify which 4th-axis, laser, spindle, or workholding upgrades are officially supported for the specific model, not just the brand in general."
   },
   {
@@ -80,7 +80,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified Before Comparison",
     "description": "Sorted each machine into router, mill, lathe, laser hybrid, or waterjet before ranking, since desktop CNC spans different cutting architectures that don't compare fairly on one scale."
   },
   {
@@ -88,11 +88,11 @@ export const howWeEvaluated = [
     "description": "Compared usable XYZ travel after vise, clamps, and tool stick-out rather than nominal axis travel alone, since fixtures and tooling eat into the advertised work envelope."
   },
   {
-    "title": "",
+    "title": "Spindle and Rigidity Evidence",
     "description": "Checked documented spindle speed, torque, and runout figures alongside frame and rail rigidity, since motor wattage alone doesn't predict real cut quality."
   },
   {
-    "title": "",
+    "title": "Software and Workholding Verified",
     "description": "Checked CAM/postprocessor support, probing, workholding, and dust or chip control as part of daily usability, not just the headline spec sheet."
   },
   {

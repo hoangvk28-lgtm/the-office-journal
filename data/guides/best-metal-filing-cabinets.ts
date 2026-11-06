@@ -44,7 +44,7 @@ export const faq = [
     "a": "Treat a standard cabinet lock as a privacy feature that deters casual access, not as security-grade protection. If you're storing something that needs to be secure, a dedicated locking safe is a better fit than relying on a file cabinet's built-in lock."
   },
   {
-    "q": "",
+    "q": "Should I trust a 4.7-star rating on a listing with only 4 reviews?",
     "a": "A handful of reviews, even at a high average, hasn't accumulated enough data points to be statistically reliable, and the rating can shift meaningfully as more buyers weigh in. Weigh the stated spec sheet more heavily than the early star rating on a very new listing like the Livofloral pick in this list."
   },
   {
@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Livofloral Vertical File Cabinet with 4 Drawers and 1 Door"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Yizosh Metal Garage Storage Cabinet with 2 Doors and 5 Adjustable Shelves"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $45",
           "SISESOL 2 Drawer File Cabinet with Lock"
         ],
         [
-          "",
+          "Up to $NaN",
           "Livofloral Vertical File Cabinet with 4 Drawers and 1 Door"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Locking vs Non-Locking",
     "cards": [
       {
-        "label": "",
+        "label": "Locking cabinet",
         "text": "Genuine security for sensitive documents, worth it if the cabinet sits in a shared or semi-public space. In this comparison: Letaya 3 Drawer Mobile File Cabinet with Lock, Yizosh Metal Garage Storage Cabinet with 2 Doors and 5 Adjustable Shelves, Letaya 2 Drawer File Cabinet with Lock, SISESOL 2 Drawer File Cabinet with Lock, SteeLoong 2 Drawer File Cabinets, BYNSOE 2 Drawer File Cabinet with Lock, Livofloral Vertical File Cabinet with 4 Drawers and 1 Door."
       },
       {
-        "label": "",
+        "label": "Non-locking",
         "text": "Simpler and usually cheaper, fine for a private home office. In this comparison: GYIIYUO 2 Drawer File Cabinet with 24 Inch Extended Desktop."
       }
     ],
     "note": "Default to locking unless the cabinet stays in a fully private, controlled-access space."
   },
   {
-    "subheading": "",
+    "subheading": "By Drawer Count",
     "note": "Check each pick's listed drawer count and interior dimensions against your actual filing volume before buying."
   },
   {
-    "subheading": "",
+    "subheading": "For Legal-Size Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed letter and legal-size hanging file compatibility, not just general drawer dimensions."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Yizosh Metal Garage Storage Cabinet with 2 Doors and 5 Adjustable Shelves is worth checking against its listed hanging-file compatibility before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real steel construction, anti-tip safety, and full-extension drawers, where Livofloral Vertical File Cabinet with 4 Drawers and 1 Door's higher price buys real build-quality headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light, occasional storage for a small volume of documents, where SISESOL 2 Drawer File Cabinet with Lock covers the same job at a lower price."
       }
     ]
@@ -146,23 +146,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Drawer count and configuration",
     "description": "Compared 2-drawer, 3-drawer, 4-drawer, and door-based configurations, since total storage capacity and how you access files differs significantly across that range."
   },
   {
-    "title": "",
+    "title": "Locking hardware",
     "description": "Checked whether each cabinet includes a lock, and how many separate locks, since single-key and dual-lock cabinets offer different levels of drawer-by-drawer privacy."
   },
   {
-    "title": "",
+    "title": "File size compatibility",
     "description": "Verified which cabinets explicitly support letter, legal, and A4 hanging files, since not every compact cabinet accommodates all three sizes."
   },
   {
-    "title": "",
+    "title": "Footprint and placement fit",
     "description": "Weighed under-desk sizing, narrow vertical footprints, and wider lateral layouts against typical home office space constraints."
   },
   {
-    "title": "",
+    "title": "Construction and assembly",
     "description": "Noted all-metal versus mixed metal-and-fabric construction, along with whether a cabinet ships fully assembled or requires setup."
   }
 ];

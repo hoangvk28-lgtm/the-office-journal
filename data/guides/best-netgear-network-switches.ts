@@ -52,30 +52,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "A Current NETGEAR Model Map",
     "table": {
       "headers": [
-        "",
-        "",
-        ""
+        "Model line",
+        "Management",
+        "Best for"
       ],
       "rows": [
         [
-          "",
-          "",
-          ""
+          "GS3xx (unmanaged)",
+          "None",
+          "Pure plug-and-play expansion"
         ],
         [
-          "",
-          "",
-          ""
+          "GS3xxE (Easy Smart)",
+          "VLAN/QoS via web GUI",
+          "Small office segmentation"
         ],
         [
-          "",
-          "",
-          ""
+          "GS3xxEP/PP (PoE unmanaged)",
+          "None, PoE only",
+          "Cameras/APs without config"
         ],
         [
-          "",
-          "",
-          ""
+          "GS724T/GS724TP (Smart)",
+          "VLAN/QoS + NETGEAR Insight",
+          "Growing small business network"
         ]
       ]
     }
@@ -88,19 +88,19 @@ export const howWeEvaluated = [
     "description": "Verified the actual port count, Gigabit vs multi-gig speed rating, and whether every port runs at the advertised speed or only some do, since several switches mix full-speed and lower-speed ports."
   },
   {
-    "title": "",
+    "title": "PoE Power Budget",
     "description": "Checked the total PoE wattage budget against realistic device counts, not just the per-port maximum, since a switch's total power pool is what actually limits how many cameras or access points it can run."
   },
   {
-    "title": "",
+    "title": "Management Depth",
     "description": "Classified each switch as unmanaged, smart/easy-managed, or fully managed Layer 2/3, since this determines what troubleshooting and segmentation options are available after installation, not just at setup."
   },
   {
-    "title": "",
+    "title": "Build & Mounting Flexibility",
     "description": "Weighed fanless vs active cooling, metal vs plastic housing, and desktop/wall/rack mounting options against the switch's likely install environment."
   },
   {
-    "title": "",
+    "title": "Real-World Documentation Honesty",
     "description": "Favored listings that clearly state cabling requirements, host port requirements, and speed caveats over ones that only advertise the theoretical maximum."
   }
 ];

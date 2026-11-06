@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41nWvL8pqlL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Surface",
     "table": {
       "headers": [
-        "",
+        "Where it's going",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -73,26 +73,26 @@ export const howToChoose: HowToChooseSection[] = [
           "HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm"
         ],
         [
-          "",
+          "Wall or under-desk",
           "Mini PC Mount for Lenovo ThinkCentre Wall VESA and Under Desk Mount"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $19",
           "HumanCentric Mounting Bracket for Intel NUC Mini PC VESA Monitor Arm 75x75"
         ],
         [
-          "",
+          "Mid-range",
           "Mini PC Mount for Lenovo ThinkCentre Wall VESA and Under Desk Mount"
         ],
         [
@@ -106,42 +106,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Fit vs Universal Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-Specific Fit",
         "text": "Matches one specific chassis shape exactly, generally a more secure fit for that exact model. In this comparison: HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm."
       },
       {
-        "label": "",
+        "label": "Universal / Multi-Brand",
         "text": "Works across several mini PC brands with adjustable hardware, more flexible if you might switch devices later. In this comparison: VIVO Behind Monitor Mini PC VESA Mount for Dell OptiPlex Micro."
       }
     ],
     "note": "Confirm your exact mini PC model against the listing's stated compatibility either way, since even a \"universal\" mount has real size limits."
   },
   {
-    "subheading": "",
+    "subheading": "By Post-Install Port Access",
     "note": "None of these picks specifically advertise preserved front-port access after mounting; check each listing's product photos for where the ports land once installed if that matters to you."
   },
   {
     "subheading": "For a Home Lab Rack Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of 10-inch (home-lab) versus 19-inch (commercial) rack compatibility, since these are different standards, plus whether it's full or half rack-unit width."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm fits this specifically: Publishes both a device-only and a combined weight rating."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm offers: Publishes both a device-only and a combined weight rating. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "HumanCentric Mounting Bracket for Intel NUC Mini PC VESA Monitor Arm 75x75 already covers the essentials: Lowest price in this guide. The main thing you'd be paying extra for elsewhere in this list is broader compatibility you may not need."
       }
     ]
@@ -150,15 +150,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "VESA pattern compatibility",
     "description": "We checked whether each bracket supports 75x75mm, 100x100mm, or both, since the two patterns are not interchangeable unless the hardware explicitly accommodates both hole spacings."
   },
   {
-    "title": "",
+    "title": "Combined load honesty",
     "description": "We looked at whether a listing published a combined weight rating that accounts for a Mini PC piggybacking on a monitor's own VESA point, not just a device-only figure that ignores the monitor already using that same mount."
   },
   {
-    "title": "",
+    "title": "Device-specific vs universal fit",
     "description": "We separated brackets built for one named chassis, like Dell OptiPlex Micro or Lenovo ThinkCentre Tiny, from universal adjustable brackets, since the tradeoffs between rigid fit and broad compatibility are different."
   },
   {

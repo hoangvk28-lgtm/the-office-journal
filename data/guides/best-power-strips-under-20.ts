@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/317F+eS9Q4L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -77,7 +77,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "To reach a distant outlet without an extension cord",
-          ""
+          "Power Strip Tower with 12 Outlets, 16.5 Ft Cord"
         ],
         [
           "Dual UL certification at the lowest price",
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $18",
+          "DEWENWILS ($17.99)"
         ],
         [
-          "",
-          ""
+          "Under $19",
+          "Chiefway ($18.99)"
         ],
         [
-          "",
-          ""
+          "Under $20",
+          "NTONPOWER Tower ($19.99) or 16.5 Ft Cord Tower ($19.99)"
         ]
       ]
     }
@@ -113,7 +113,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Individual Switches vs Master Switch Only",
     "cards": [
       {
-        "label": "",
+        "label": "Individual switches (Chiefway)",
         "text": "Lets you power off one specific device, like a lamp, without unplugging or affecting other connected devices."
       },
       {
@@ -124,11 +124,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you regularly want to turn off just one device, like a space heater at night, while keeping others powered, the Chiefway's individual switches are worth prioritizing."
   },
   {
-    "subheading": "",
+    "subheading": "By Cord Length Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your outlet distance",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -137,11 +137,11 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A room away from the nearest outlet",
-          ""
+          "12 Outlet Tower with 16.5 Ft Cord"
         ],
         [
           "Long reach with certified safety",
-          ""
+          "DEWENWILS (15 ft)"
         ]
       ]
     }
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Cruise Ship or Restricted-Surge-Protector Setting Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A power strip explicitly marketed as cruise-friendly, since many cruise lines prohibit strips with surge protection circuitry onboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Chiefway pick is specifically designed without surge protection to remain compliant with cruise ship restrictions."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5 Ft Cord Tower each deliver a genuine capability upgrade over the DEWENWILS budget pick."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want solid dual UL certification and a long cord without extra outlets or towers, where the DEWENWILS pick covers that for the lowest price in this comparison."
       }
     ]
@@ -176,7 +176,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Individual Switch Control",
     "description": "Compared which picks let you turn specific outlets on or off independently versus a single master switch."
   },
   {
@@ -184,7 +184,7 @@ export const howWeEvaluated = [
     "description": "Compared vertical tower designs against traditional flat strips for desk footprint efficiency."
   },
   {
-    "title": "",
+    "title": "Cord Length",
     "description": "Compared stated cord length, from standard 5-6 ft cords up to 15+ ft options."
   },
   {
@@ -192,7 +192,7 @@ export const howWeEvaluated = [
     "description": "Compared USB-An and USB-C port counts and their maximum charging output."
   },
   {
-    "title": "",
+    "title": "Safety Certification",
     "description": "Checked for UL or other independent certifications confirming surge and overload protection standards."
   }
 ];

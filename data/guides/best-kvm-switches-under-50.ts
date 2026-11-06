@@ -64,20 +64,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ll9M3dnWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Connector Type",
     "table": {
       "headers": [
         "Your monitor and computers use",
-        ""
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "HDMI on both computers",
           "0 HDMI KVM Switch or 4K KVM Switch HDMI 2 Port Box"
         ],
         [
-          "",
-          ""
+          "DisplayPort on both computers",
+          "DisplayPort KVM Switch, 4 USB 3.0 Ports"
         ],
         [
           "VGA or an older monitor",
@@ -87,48 +87,48 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "MT-VIKI 2 Port VGA KVM Switch or HDMI KVM Switch with Wired Extend Controller"
         ],
         [
-          "",
+          "$20-$30",
           "4K KVM Switch HDMI 2 Port Box or DisplayPort KVM Switch"
         ],
         [
-          "",
-          ""
+          "$30-$50",
+          "Hearvo USB 3.0 HDMI KVM Switch"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "HDMI vs DisplayPort",
     "cards": [
       {
         "label": "HDMI (Hearvo, 4K KVM Switch, Wired Extend)",
         "text": "More universally supported across laptops and desktops, including most Macs, and generally cheaper at this tier. Best default unless you specifically need DisplayPort's extra bandwidth headroom."
       },
       {
-        "label": "",
+        "label": "DisplayPort (DisplayPort KVM Switch)",
         "text": "Carries more native bandwidth for 4K@60Hz without relying on compression tricks, but many Mac computers don't have a DisplayPort output at all, and it won't work through a USB-C dock or adapter."
       }
     ],
     "note": "Most buyers should default to an HDMI switch like the Hearvo pick unless both computers specifically have native DisplayPort outputs."
   },
   {
-    "subheading": "",
+    "subheading": "By USB Peripheral Needs",
     "table": {
       "headers": [
         "What you're sharing besides a monitor",
-        ""
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Mixed PC and Console Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A listing that explicitly names game consoles like PS4, PS3, Xbox One, or Nintendo Switch as supported inputs, not just generic PC compatibility."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The 4K KVM Switch HDMI 2 Port Box specifically lists console compatibility, making it the clearer fit for sharing one monitor between a computer and a console."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You're sharing high-bandwidth peripherals like an external drive or webcam between two computers, where the Hearvo pick's full USB 3.0 ports avoid the bottleneck a USB 2.0 switch would create."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need to share a monitor, keyboard, and mouse between two computers or a computer and a console, where the 4K KVM Switch HDMI 2 Port Box or HDMI KVM Switch with Wired Extend Controller already cover the need for half the price."
       }
     ]
@@ -172,23 +172,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Connector Type Match",
     "description": "Grouped picks by HDMI, DisplayPort, and VGA rather than treating all video connectors as interchangeable, since each serves a different setup and era of hardware."
   },
   {
-    "title": "",
+    "title": "Per-Port Bandwidth Reality",
     "description": "Checked whether each switch's 4K@60Hz claim is documented as applying across the board or only under specific cable and source conditions the listing calls out."
   },
   {
-    "title": "",
+    "title": "USB Generation for Peripherals",
     "description": "0 regardless of the switch's video capability."
   },
   {
-    "title": "",
+    "title": "Switching Method",
     "description": "Compared physical button only versus remote-control or wired-extender options, which affect how easily the switch can be tucked out of sight on a desk."
   },
   {
-    "title": "",
+    "title": "Disclosed Compatibility Limits",
     "description": "Weighed how clearly each listing disclosed real limitations, like lack of Mac support, docking station incompatibility, or mechanical keyboard issues, rather than rewarding vague universal-compatibility claims."
   }
 ];

@@ -17,7 +17,7 @@ export const buyingCriteria = [
     "explanation": "The loopback function takes audio playing on your computer, game sound, a Discord call, background music, and routes it back into the mixer so it can be broadcast to your audience without causing an echo or feedback loop for anyone you're talking to. Check specifically for loopback or 'sample' channel support if you plan to stream gameplay or calls alongside your microphone."
   },
   {
-    "criterion": "",
+    "criterion": "Single-PC vs Dual-PC Routing",
     "explanation": "A dual-PC streaming setup, gaming on one machine and running OBS or streaming software on another, needs a mixer with two separate USB connections to route audio correctly between both computers. Most mixers are built for a single-PC workflow using virtual audio channels, so check specifically for dual USB output before assuming any streaming mixer supports a two-computer setup."
   },
   {
@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41i3oGFT-dL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Microphone Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Solo streamer, 1 mic",
           "6-Channel Audio Mixer for Beginners with Bluetooth USB/MP3 Sound Card"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Mackie ProFX6v3 6-Channel Professional Analog Mixer with USB"
         ],
         [
-          "",
+          "4+ mics regularly",
           "Yamaha MG06 6-Input Compact Stereo Mixer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "6-Channel Audio Mixer for Beginners with Bluetooth USB/MP3 Sound Card"
         ],
         [
-          "",
+          "Mid-range pick",
           "Pyle 6 Channel Studio Mixer"
         ],
         [
-          "",
+          "Higher budget",
           "Yamaha MG06 6-Input Compact Stereo Mixer"
         ]
       ]
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Single-PC vs Dual-PC Routing",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,7 +133,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Mackie ProFX6v3 6-Channel Professional Analog Mixer with USB"
         ],
         [
-          "",
+          "True dual-PC routing needed",
           "Check specifically for dual USB output support"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Game and Call Audio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated loopback or 'sample' channel so game and call audio mix cleanly with your mic without an echo for people on the call."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Mackie ProFX6v3 6-Channel Professional Analog Mixer with USB is worth checking against its specific loopback routing before assuming any mixer handles this cleanly."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're running multiple microphones and want onboard effects and dual-PC routing, where Yamaha MG06 6-Input Compact Stereo Mixer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're a solo streamer just starting out, where 6-Channel Audio Mixer for Beginners with Bluetooth USB/MP3 Sound Card already covers the job at the lowest price here."
       }
     ]
@@ -181,7 +181,7 @@ export const howWeEvaluated = [
     "description": "The loopback function takes audio playing on your computer, game sound, a Discord call, background music, and routes it back into the mixer so it can be broadcast to your audience without causing an echo or feedback loop for anyone you're talking to."
   },
   {
-    "title": "",
+    "title": "Single-PC vs Dual-PC Routing",
     "description": "A dual-PC streaming setup, gaming on one machine and running OBS or streaming software on another, needs a mixer with two separate USB connections to route audio correctly between both computers."
   },
   {

@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41U02LvHAEL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $19",
           "IRIS USA File Box Organizer with Lid"
         ],
         [
-          "",
+          "Mid-range",
           "Pendaflex Portable File Box with File Rails"
         ],
         [
@@ -84,14 +84,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: Vaultz File Organizer Storage Box."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: Pendaflex Portable File Box, Pendaflex Portable File Box with File Rails, Storex Portable Letter/Legal Filebox with Organizer Lid."
       }
     ],
@@ -101,13 +101,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Occasional short lifts, simpler design",
-          ""
+          "Pendaflex Portable File Box"
         ]
       ]
     }
@@ -116,24 +116,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Vaultz File Organizer Storage Box offers: Most secure locking lid mechanism here. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "IRIS USA File Box Organizer with Lid already covers the essentials: Very affordable. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -142,15 +142,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hinged vs. removable lid comparison",
     "description": "We compared permanently attached hinged lids against fully separate removable lids, since these represent different usability profiles."
   },
   {
-    "title": "",
+    "title": "Hinge mechanism durability",
     "description": "We considered hinge wear under repeated opening and closing cycles specifically for hinged-lid designs."
   },
   {
-    "title": "",
+    "title": "Full access vs. loss-prevention tradeoff",
     "description": "We weighed a removable lid's complete interior access against a hinged lid's guarantee against ever losing the lid."
   },
   {

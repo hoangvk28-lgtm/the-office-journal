@@ -52,14 +52,14 @@ export const howToChoose: HowToChooseSection[] = [
     "intro": "This guide only applies to iPhone 15 and newer, which use USB-C. Older iPhones with a Lightning port need a completely different Lightning-to-Ethernet adapter, not any product in this list."
   },
   {
-    "subheading": "",
+    "subheading": "Charging While Connected",
     "cards": [
       {
         "label": "Quick file transfer or wired test",
         "text": "Any bus-powered adapter works fine for short sessions."
       },
       {
-        "label": "",
+        "label": "Extended wired use",
         "text": "5G model both support charging alongside networking."
       }
     ]
@@ -68,23 +68,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Ethernet Speed & Chipset",
     "description": "5G/5G/10G) and, where published, the specific Realtek, Marvell, or other controller chip driving it, rather than assuming USB-C connector shape implies a speed tier."
   },
   {
-    "title": "",
+    "title": "Host & OS Compatibility",
     "description": "2 Gen 2 vs Thunderbolt/USB4) and confirmed OS support, since several products in this cluster have real exclusions (Android, Nintendo Switch, older Apple silicon)."
   },
   {
-    "title": "",
+    "title": "Real-World Documentation",
     "description": "Favored listings that publish honest real-world throughput or explicit host-speed caveats over ones that only quote the theoretical link rate."
   },
   {
-    "title": "",
+    "title": "Build Quality & Durability",
     "description": "Weighed braided cable construction, aluminum housing, and reinforced connectors, since these adapters see frequent plug/unplug cycles in daily use."
   },
   {
-    "title": "",
+    "title": "Genuine Feature Differentiators",
     "description": "Prioritized real differences like Wake-on-LAN, PXE boot, PD passthrough wattage, and multiport expansion over marketing language that repeats across nearly identical adapters."
   }
 ];

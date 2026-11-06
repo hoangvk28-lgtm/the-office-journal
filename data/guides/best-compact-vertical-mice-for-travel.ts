@@ -53,67 +53,67 @@ export const heroImage = "https://m.media-amazon.com/images/I/31TnFhELhRL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Connectivity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Wireless freedom",
           "Bluetooth Wireless Arc Travel Mouse"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "ProtoArc EM11 NL Wireless Ergonomic Vertical Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "KUNSI Wired Ergonomic Mouse"
         ],
         [
-          "",
+          "Up to $33",
           "Bluetooth Wireless Arc Travel Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Rechargeable vs Disposable Battery",
     "cards": [
       {
-        "label": "",
+        "label": "Rechargeable battery",
         "text": "No recurring battery purchases, usually a USB-C charge cable does the job in downtime. In this comparison: ProtoArc EM11 NL Wireless Ergonomic Vertical Mouse."
       },
       {
-        "label": "",
+        "label": "Disposable battery",
         "text": "Simple to swap anywhere without carrying a charge cable, at the cost of ongoing battery purchases. In this comparison: Bluetooth Wireless Arc Travel Mouse, TECKNET Folding Wireless Mouse, DELUX Wireless Bluetooth Pocket Mouse, Luhaso Ergonomic Vertical Wireless Mouse, KUNSI Wired Ergonomic Mouse."
       }
     ],
     "note": "Default to rechargeable unless you specifically want to avoid ever plugging the mouse in to charge."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "ProtoArc EM11 NL Wireless Ergonomic Vertical Mouse"
         ]
       ]
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist or Forearm Strain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A pronounced vertical angle matched to your hand size, with reviews specifically mentioning strain relief after the adjustment period."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "ProtoArc EM11 NL Wireless Ergonomic Vertical Mouse is worth checking against its listed hand-size guidance before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You use a mouse for many hours daily and strain relief or sensor precision is the priority, where Bluetooth Wireless Arc Travel Mouse's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional use, where KUNSI Wired Ergonomic Mouse covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howWeEvaluated = [
     "description": "We checked whether each pick is more compact than standard vertical mice, not just marginally smaller."
   },
   {
-    "title": "",
+    "title": "Travel-specific durability considered",
     "description": "We considered how each design likely holds up to repeated packing and unpacking in a bag versus sitting permanently on a desk."
   },
   {

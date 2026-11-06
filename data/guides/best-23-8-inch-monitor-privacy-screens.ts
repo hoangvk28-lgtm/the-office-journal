@@ -29,10 +29,10 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "8 inch privacy screen has the most reviews?",
-    "a": ""
+    "a": "The SightPro 23.8 Inch 16:9 Computer Privacy Screen Filter, with 4,087 reviews at a 4.3 rating."
   },
   {
-    "q": "",
+    "q": "What's the cheapest 23.8 inch option?",
     "a": "98, the lowest price in our entire research at this size."
   },
   {
@@ -44,8 +44,8 @@ export const faq = [
     "a": "8 Inch Computer Privacy Screen explicitly includes an anti-scratch protector film."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the highest-rated option?",
+    "a": "The SYHUAIFEI [2-Pack] 23.8 Inch Privacy Screen at 4.6, though on a much smaller review base than the SightPro pick."
   }
 ];
 
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "8 Inch 16:9 Computer Privacy Screen Filter for Monitor"
         ],
         [
-          "",
+          "Laptop screen",
           "8 Inch 16:9 Computer Privacy Screen Filter for Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "8-Inch Computer Privacy Screen for 16:9 Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "8 Inch 16:9 Computer Privacy Screen Filter for Monitor"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. 8 Inch Privacy Screen for Monitor."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: none explicitly confirmed in this specific roundup, check the listing directly before assuming."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "8 Inch Privacy Screen for Monitor"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "8 Inch 16:9 Computer Privacy Screen Filter for Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "8 inch filter we found."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Weighed a newer high-rated listing against established leaders",
-    "description": ""
+    "description": "We flagged the SYHUAIFEI pick's higher rating on a smaller review base as worth watching, without overstating its current certainty against the SightPro pick's thousands of reviews."
   },
   {
     "title": "Noted bundled anti-scratch and blue-light features separately",

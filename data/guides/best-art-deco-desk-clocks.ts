@@ -49,33 +49,33 @@ export const heroImage = "https://m.media-amazon.com/images/I/41i8q0Okr6L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Movement Type",
     "note": "Luxurious Marble Desk Clock is currently the only pick in this specific comparison, so there's no second movement type to weigh it against here. Its own movement and design details are broken down in the pros and cons below, and our broader desk clock roundup covers flip, digital, and analog styles side by side if you want that wider comparison."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around $95.00",
+          "Luxurious Marble Desk Clock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs the Alternative",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-Powered (this pick)",
         "text": "Luxurious Marble Desk Clock is battery powered, so it can sit anywhere with no cord. Genuine polished marble material, echoing art deco's luxe material use."
       },
       {
-        "label": "",
+        "label": "Corded (elsewhere)",
         "text": "If you specifically need the opposite power type, check our broader desk clock roundup, since this particular comparison only includes Luxurious Marble Desk Clock."
       }
     ]
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buying as a Gift Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine material language, such as hand carved, real marble, or real crystal, rather than a marble-look or crystal-look plastic finish, plus a stated production or engraving lead time if personalization is involved."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Luxurious Marble Desk Clock fits this specifically: Genuine polished marble material, echoing art deco's luxe material use."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "00: Genuine polished marble material, echoing art deco's luxe material use. If that's what you're after, the tradeoffs in its cons list probably won't bother you either."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Here's the real tradeoff: Not marketed or styled as art deco. If that matters to you, compare it against other styles in our broader desk clock roundup before committing."
       }
     ]

@@ -53,13 +53,13 @@ export const howToChoose: HowToChooseSection[] = [
     "intro": "Most home broadband connections run well under 1000Mbps, so a Gigabit adapter isn't a bottleneck unless you're moving large files to a local NAS or another device on your own network.",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Verdict"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Broadband under 500Mbps",
+          "Gigabit is plenty, no reason to pay for 2.5G+"
         ],
         [
           "Local file transfers to a Gigabit NAS",
@@ -67,7 +67,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "5G-capable switch or NAS already owned",
-          ""
+          "Consider stepping up to a 2.5G adapter instead"
         ]
       ]
     }
@@ -76,23 +76,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Ethernet Speed & Chipset",
     "description": "5G/5G/10G) and, where published, the specific Realtek, Marvell, or other controller chip driving it, rather than assuming USB-C connector shape implies a speed tier."
   },
   {
-    "title": "",
+    "title": "Host & OS Compatibility",
     "description": "2 Gen 2 vs Thunderbolt/USB4) and confirmed OS support, since several products in this cluster have real exclusions (Android, Nintendo Switch, older Apple silicon)."
   },
   {
-    "title": "",
+    "title": "Real-World Documentation",
     "description": "Favored listings that publish honest real-world throughput or explicit host-speed caveats over ones that only quote the theoretical link rate."
   },
   {
-    "title": "",
+    "title": "Build Quality & Durability",
     "description": "Weighed braided cable construction, aluminum housing, and reinforced connectors, since these adapters see frequent plug/unplug cycles in daily use."
   },
   {
-    "title": "",
+    "title": "Genuine Feature Differentiators",
     "description": "Prioritized real differences like Wake-on-LAN, PXE boot, PD passthrough wattage, and multiport expansion over marketing language that repeats across nearly identical adapters."
   }
 ];

@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51jLqE8+3jL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "Armocity Corner Small Desk with Outlets Corner Table for Small Space Industrial"
         ],
         [
-          "",
+          "Standard home office",
           "VENNQD Corner Desk with 6 Fabric Drawers Shelves for Small Space Computer Desk"
         ],
         [
-          "",
+          "Larger dedicated office",
           "DurayLoly 63\"Triangular Corner Desk with Hutch, Ample Storage for Small Room"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Armocity Corner Small Desk with Outlets Corner Table for Small Space Industrial"
         ],
         [
-          "",
+          "Mid-range pick",
           "Furologee 66” L Shaped Desk with Power Outlet"
         ],
         [
-          "",
+          "Higher budget",
           "DurayLoly 63\"Triangular Corner Desk with Hutch, Ample Storage for Small Room"
         ]
       ]
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor",
           "VENNQD Corner Desk with 6 Fabric Drawers Shelves for Small Space Computer Desk"
         ],
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Armocity Corner Small Desk with Outlets Corner Table for Small Space Industrial is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in storage, better cable management, and sturdier build quality, where DurayLoly 63\"Triangular Corner Desk with Hutch, Ample Storage for Small Room justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where Armocity Corner Small Desk with Outlets Corner Table for Small Space Industrial already covers the job at the lowest price here."
       }
     ]

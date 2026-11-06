@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Map P3/P2S CO2",
     "explanation": "Map P3/P2S CO2, F2/F-series portable IR+diode, F2 Ultra MOPA+diode, F2 Ultra UV and S1 diode as separate source classes. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
@@ -17,11 +17,11 @@ export const buyingCriteria = [
     "explanation": "Test xTool camera registration separately from autofocus/material recognition and report placement error across the bed. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
-    "criterion": "",
+    "criterion": "Compare enclosure/interlock/exhaust requirements and",
     "explanation": "Compare enclosure/interlock/exhaust requirements and laser-class status by model instead of inheriting one xTool safety score. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
-    "criterion": "",
+    "criterion": "Evaluate XCS/LightBurn workflow",
     "explanation": "Evaluate XCS/LightBurn workflow, accessory lock-in, rotary/pass-through/air-assist cost and replacement-source support. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   }
 ];
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51kc+d-Ss0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -76,11 +76,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget tier",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,7 +88,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Creality Falcon 10W Laser Engraver Machine"
         ],
         [
-          "",
+          "Best overall value",
           "Creality Laser Engraver Machine 10W Output Power"
         ]
       ]
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to Creality Laser Engraver Machine 10W Output Power unless your specific use case points toward Algolaser 10W Laser Engraver and Cutter's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title (material, feature, or use case) verified directly on the product listing, not assumed from the category."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Creality Laser Engraver Machine 10W Output Power is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on CREALITY FALCON 10w Laser Engraver, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by Creality Falcon 10W Laser Engraver Machine without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hard-scope eligibility",
     "description": "Keep `Best xTool Laser Engravers` as its own target and require the exact source, material, wattage, brand, accessory, price or workflow modifier."
   },
   {
-    "title": "",
+    "title": "Source-first evidence",
     "description": "Publish wavelength/source architecture, true optical output, spot/field/work area and process mechanism before speed claims."
   },
   {
-    "title": "",
+    "title": "Representative-job protocol",
     "description": "Disclose material, coating, thickness, focus, power, speed, frequency/pulse where relevant, passes, air assist and measured result."
   },
   {
-    "title": "",
+    "title": "Safety/process score",
     "description": "Document laser class/access controls, enclosure/interlocks, extraction, fire supervision, material restrictions and required PPE/control area where applicable."
   },
   {
-    "title": "",
+    "title": "Ownership/production verdict",
     "description": "Include camera/rotary calibration, software, consumables, exhaust/cooling, source life/replacement, service and total ready-to-run cost."
   }
 ];

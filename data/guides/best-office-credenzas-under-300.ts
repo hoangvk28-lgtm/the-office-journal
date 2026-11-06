@@ -60,13 +60,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $300",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "The best all-around option in this comparison",
-          ""
+          "REHOOPEX Fluted Storage Cabinet"
         ],
         [
           "A strong alternative with a different tradeoff",
@@ -79,17 +79,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "HOOBRO Lateral File Cabinet"
         ],
         [
-          "",
-          ""
+          "Best overall value",
+          "REHOOPEX Fluted Storage Cabinet"
         ]
       ]
     }
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "REHOOPEX Fluted Storage vs INNOD 3 Drawer",
     "cards": [
       {
-        "label": "",
+        "label": "REHOOPEX Fluted Storage Cabinet",
         "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
       },
       {
@@ -109,16 +109,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to REHOOPEX Fluted Storage Cabinet unless your specific use case points toward INNOD 3 Drawer Fluted Mobile Filing Cabinet with Lock's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Matches this guide's core use case most closely",
-          ""
+          "REHOOPEX Fluted Storage Cabinet"
         ],
         [
           "A close secondary option worth comparing",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "REHOOPEX Fluted Storage Cabinet is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on LOOMORA Wooden Storage Cabinets with 3-Level Adjustable Shelves, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by HOOBRO Lateral File Cabinet without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every primary recommendation must be new, in stock and up to $300 on the refresh date; expired sale pricing automatically disqualifies it."
   },
   {
-    "title": "",
+    "title": "Budget-ladder map",
     "description": "Show the next-lower tier, the small true-credenza entry tier and the next-higher tier so this article has a distinct reason to exist."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize price against width/usable top, file-drawer compatibility and minimum usable setup cost instead of raw feature count."
   },
   {
-    "title": "",
+    "title": "Evidence labels",
     "description": "Classify shelf/door storage and load/anti-tip/stability as official-documentation-confirmed, The Office Journal-measured, manufacturer-claimed or unverified."
   },
   {
-    "title": "",
+    "title": "Step-up/step-down verdict",
     "description": "Judge material/assembly/hardware, warranty/support and ownership friction, then explicitly say when a buyer should spend less or exceed $300 for a meaningful upgrade."
   }
 ];

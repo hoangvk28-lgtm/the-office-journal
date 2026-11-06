@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31sjcCzR9rL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $35",
+          "Nova Microdermabrasion ($34.99)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "Giantex ($39.98)"
         ],
         [
-          "",
-          ""
+          "Under $50",
+          "Marbrasse ($49.99) or Furinno Classic ($50.28)"
         ]
       ]
     }
@@ -118,31 +118,31 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Provides predictable, stable shelf spacing that's simpler to assemble and generally rated for higher weight per shelf."
       },
       {
-        "label": "",
+        "label": "Adjustable shelving (Giantex)",
         "text": "Trades some stability for flexibility, letting you resize one shelf's clearance for taller items like binders or decor."
       }
     ],
     "note": "If you're mostly storing books, files, and a monitor, fixed shelving like the Furinno pick works fine. If you need to fit oddly-sized items, the Giantex pick's adjustable middle shelf is worth the tradeoff."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your monitor size",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Up to 24 inches",
+          "Furinno Classic (23.7 inch wide cutout)"
         ],
         [
-          "",
+          "Up to 28 inches",
           "Marbrasse Desk Shelf with Drawer"
         ],
         [
-          "",
-          ""
+          "Up to 32 inches",
+          "Giantex Desktop Bookshelf"
         ],
         [
           "No monitor or unspecified needs",
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Dorm Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Hidden storage for small personal items alongside open display shelving, since dorm desks are often shared or visible to roommates."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Marbrasse pick's fabric drawer specifically hides smaller or personal items while still offering open shelves for everyday supplies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest weight capacity plus anti-toppling hardware, where the Furinno Classic pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic multi-tier storage without a large monitor cutout, where the Nova Microdermabrasion pick covers that for about $15 less."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Monitor Clearance",
     "description": "Compared stated open-back compartment dimensions against common monitor sizes across the lineup."
   },
   {
-    "title": "",
+    "title": "Weight Capacity and Hardware",
     "description": "Checked stated per-shelf and total weight ratings along with anti-tip and anti-slip hardware inclusion."
   },
   {
-    "title": "",
+    "title": "Shelf Configuration",
     "description": "Compared shelf count, adjustability, and whether hidden storage like a drawer was included."
   },
   {
-    "title": "",
+    "title": "Material and Durability",
     "description": "Distinguished MDF, particle board, and steel-reinforced construction across the four picks."
   },
   {
-    "title": "",
+    "title": "Assembly Complexity",
     "description": "Compared stated assembly time and hardware requirements across all four hutches."
   }
 ];

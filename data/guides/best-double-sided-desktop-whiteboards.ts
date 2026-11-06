@@ -32,7 +32,7 @@ export const faq = [
     "a": "Most listings don't specify, but some boards include a template like a calendar on one side. Check product images if this matters to you."
   },
   {
-    "q": "",
+    "q": "Do double-sided whiteboards rotate to flip sides?",
     "a": "Some do, via a rotating stand mechanism. Check the listing and current reviews to confirm whether a specific pick rotates and how durable that mechanism is."
   },
   {
@@ -68,29 +68,29 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Match Your Priority to a Specific Pick",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Balanced size and price",
           "White Board with Stand 16\"x12\" Double-Sided"
         ],
         [
-          "",
-          ""
+          "Same combination, alternate brand",
+          "AMUSIGHT Double-Sided 16\"x12\""
         ],
         [
           "Genuine calendar content on one side",
           "14\"x10\" Whiteboard with Magnetic Calendar"
         ],
         [
-          "",
+          "Smallest double-sided footprint",
           "NC Magnetic Mini Double-Sided Board"
         ],
         [
           "Lowest price for two writing surfaces",
-          ""
+          "MaxGear 16\"x12\" Double-Sided"
         ]
       ]
     }

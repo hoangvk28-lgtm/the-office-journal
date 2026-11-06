@@ -64,35 +64,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "VersaCheck HP DeskJet 3755 MX MICR Check Printer and Software Bundle"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "VersaCheck HP DeskJet 3755 MX MICR Check Printer and Software Bundle"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $64",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ],
         [
-          "",
+          "Up to $285",
           "Brother Color Laser Printer HL"
         ]
       ]
@@ -113,15 +113,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Canon PIXMA TS4320 Wireless Color Inkjet Printer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "VersaCheck HP DeskJet 3755 MX MICR Check Printer and Software Bundle"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VersaCheck HP DeskJet 3755 MX MICR Check Printer and Software Bundle is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Brother Color Laser Printer HL's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon PIXMA TS4320 Wireless Color Inkjet Printer covers the same job at a lower price."
       }
     ]
@@ -161,15 +161,15 @@ export const howWeEvaluated = [
     "description": "Separated genuine MICR-configured check printer bundles from general printers that merely accept check paper, since this distinction determines whether a printed check will clear normal bank processing."
   },
   {
-    "title": "",
+    "title": "Bank rejection risk disclosure",
     "description": "Flagged which picks carry a real risk of bank rejection or manual review when used for check printing, rather than presenting every printer as equally check-ready."
   },
   {
-    "title": "",
+    "title": "Bundled check-printing software compatibility",
     "description": "Checked which picks include dedicated check-layout software like VersaCheck Gold versus relying on third-party software such as QuickBooks separately."
   },
   {
-    "title": "",
+    "title": "Security feature availability",
     "description": "Considered which printers or bundles support check stock with built-in security marks or tamper-evident features relevant to business check printing."
   },
   {

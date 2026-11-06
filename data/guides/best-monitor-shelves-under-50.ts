@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41GjUxbvjwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,24 +83,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $33",
+          "Qecamy Bamboo 4-Level ($32.99)"
         ],
         [
-          "",
-          ""
+          "$37-$40",
+          "Gianotter Premium ($36.99) or Simple Houseware ($39.97)"
         ],
         [
-          "",
-          ""
+          "Under $50",
+          "ROCDEER Bamboo with Drawer ($49.99)"
         ]
       ]
     }
@@ -120,11 +120,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you have a large curved monitor or particularly heavy equipment, prioritize the 100 lb capacity picks. If organization matters more than raw weight capacity, the drawer-focused picks serve that need better."
   },
   {
-    "subheading": "",
+    "subheading": "By Cable Management Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your cable situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Multitasking with a Phone or Tablet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A built-in phone or tablet holder integrated directly into the stand, keeping a second screen visible without a separate accessory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Simple Houseware Desk Dual Monitor Stand Riser is the only pick with a built-in phone/tablet holder for exactly this purpose."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest weight capacity paired with FSC-certified sustainable craftsmanship and dedicated cable management, where the ROCDEER pick leads this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "High weight capacity and height adjustability cover your needs, where the Qecamy pick matches the ROCDEER's 100 lb rating for less."
       }
     ]
@@ -168,23 +168,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Stated Weight Capacity",
     "description": "Compared documented weight capacity figures, with two picks reaching a high 100 lb rating in this comparison."
   },
   {
-    "title": "",
+    "title": "Sustainable Material Certification",
     "description": "Checked for FSC-certified wood and other sustainability credentials disclosed in the listings."
   },
   {
-    "title": "",
+    "title": "Cable Management Design",
     "description": "Compared dedicated cable routing features, like the ROCDEER pick's T-shaped slot, against generic cutouts or none at all."
   },
   {
-    "title": "",
+    "title": "Organizational Granularity",
     "description": "Compared the number and type of storage compartments, from simple drawers to the Simple Houseware pick's fully customizable divider system."
   },
   {
-    "title": "",
+    "title": "Height Adjustment Range",
     "description": "Compared the number of distinct height settings across the adjustable picks in this comparison."
   }
 ];

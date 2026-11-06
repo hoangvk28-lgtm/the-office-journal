@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/4168zevSGrL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device You're Charging",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Phone, occasional use",
           "Evopow 2 Pack Portable Charger"
         ],
         [
           "Phone plus tablet, daily use",
-          ""
+          "YILANS Portable Charger 50000mAh"
         ],
         [
-          "",
+          "Laptop or multiple devices",
           "Portable Charger 70000mAh Power Bank Fast Charging"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Evopow 2 Pack Portable Charger"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Orfeika 20000mAh Power Bank"
         ],
         [
-          "",
+          "Higher budget",
           "Portable Charger 70000mAh Power Bank Fast Charging"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Capacity vs Portability",
     "cards": [
       {
         "label": "Portable Charger 70000mAh Power Bank Fast Charging)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you're carrying it daily or leaving it in a bag for emergencies."
   },
   {
-    "subheading": "",
+    "subheading": "By Travel Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Flying with it",
           "Check the watt-hour (Wh) rating stays under 100Wh"
         ],
         [
-          "",
-          ""
+          "Never flying with it",
+          "YILANS Portable Charger 50000mAh"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "USB-PD support at 45W or higher, not just any USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Portable Charger 70000mAh Power Bank Fast Charging is worth checking against your specific laptop's wattage requirement before assuming any power bank charges it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher capacity, faster charging, and support for a laptop, where Portable Charger 70000mAh Power Bank Fast Charging justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need backup charges for a phone, where Evopow 2 Pack Portable Charger already covers the job at the lowest price here."
       }
     ]

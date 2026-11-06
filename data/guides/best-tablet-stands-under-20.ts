@@ -60,16 +60,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41VqzZL9zuL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Dual-device support with the tallest height and longest warranty",
-          ""
+          "Dehuft Tablet Stand for Desk, Height Adjustable 9.8-20in"
         ],
         [
           "A genuine multi-function laptop, tablet, and phone stand",
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $16",
+          "LOXP ($15.99)"
         ],
         [
-          "",
-          ""
+          "Under $18",
+          "Dehuft ($17.99) or werfami ($17.99)"
         ],
         [
-          "",
-          ""
+          "Under $23",
+          "Lucky Trip ($22.88)"
         ]
       ]
     }
@@ -117,31 +117,31 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Sits on a desk or table surface, suited to a fixed workspace setup with moderate height adjustment."
       },
       {
-        "label": "",
+        "label": "Floor stand (Lucky Trip)",
         "text": "Stands independently on the floor with a dramatically taller height range, suited to bedside, sofa, or standing use without a desk surface involved."
       }
     ],
     "note": "If you need a tablet stand for a desk workspace, the desktop-based picks fit that need well. If you want hands-free viewing from a bed, sofa, or while standing without a desk nearby, the Lucky Trip floor stand's height range specifically addresses that."
   },
   {
-    "subheading": "",
+    "subheading": "By Device Support Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device needs",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Single tablet only",
+          "LOXP or Lucky Trip"
         ],
         [
           "Two phones or one tablet, switchable",
-          ""
+          "Dehuft"
         ],
         [
           "Laptop, tablet, and MagSafe phone",
-          ""
+          "Werfami"
         ]
       ]
     }
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Content Creator Managing Dual-Camera Live Streaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stand with independent dual-device clamps specifically designed for holding two phones simultaneously, rather than a single-device stand with a wide device range."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Dehuft pick's dual mode design with two independent movable clamps specifically supports dual-camera live streaming setups that the single-device picks in this tier can't accommodate."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need a floor-standing solution with a dramatically taller height range for bedside or sofa use, where the Lucky Trip pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a desktop stand with rotation flexibility without needing dual-device support, where the LOXP pick covers that for about $2 less."
       }
     ]
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Height Range",
     "description": "Compared minimum and maximum height adjustment across desktop and floor-standing designs."
   },
   {
-    "title": "",
+    "title": "Dual-Device and Multi-Function Support",
     "description": "Checked which picks support multiple devices or serve multiple purposes beyond tablet holding."
   },
   {
-    "title": "",
+    "title": "Base Stability",
     "description": "Compared weighted base design and tip resistance across the lineup."
   },
   {
-    "title": "",
+    "title": "Warranty Coverage",
     "description": "Compared stated warranty length where disclosed across all four picks."
   },
   {
-    "title": "",
+    "title": "Rotation and Angle Flexibility",
     "description": "Compared 360-degree rotation and multi-hinge adjustment across the tier."
   }
 ];

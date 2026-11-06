@@ -22,7 +22,7 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Weigh review volume alongside rating",
-    "explanation": ""
+    "explanation": "A large, well-established review base is more reliable evidence than a small sample with a similarly high rating."
   }
 ];
 
@@ -40,11 +40,11 @@ export const faq = [
     "a": "Glass resists ghosting better over repeated use. The TSJ OFFICE and Mini Pure Glass picks are both genuine glass surfaces."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The Scribbledo Mini Dry Erase Notepad 2-pack at $8.99."
   },
   {
-    "q": "",
+    "q": "Does double-sided actually help?",
     "a": "Yes — it effectively doubles your usable writing area within the same desk footprint, useful if you erase and reuse the board frequently."
   }
 ];
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41FLEFa9xDL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Choose by Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,15 +69,15 @@ export const howToChoose: HowToChooseSection[] = [
           "AMUSIGHT Double-Sided Magnetic White Board 16x12"
         ],
         [
-          "",
+          "Glass surface, compact size",
           "Small Glass Desktop Whiteboard, Mini Pure Glass"
         ],
         [
-          "",
+          "Smallest true glass footprint",
           "TSJ OFFICE Glass Dry Erase Board 8x6"
         ],
         [
-          "",
+          "Cheapest board",
           "Lumspax Small Desktop White Board 10x10"
         ],
         [
@@ -95,16 +95,16 @@ export const howWeEvaluated = [
     "description": "We ranked by how much usable writing area a board offers for its actual desk footprint, not just by overall smallness."
   },
   {
-    "title": "",
+    "title": "Glass vs. melamine surface material",
     "description": "We noted where a board uses genuine glass, which resists ghosting better over time than cheaper melamine surfaces."
   },
   {
-    "title": "",
+    "title": "Double-sided value",
     "description": "We flagged double-sided boards as effectively doubling usable writing area within the same footprint."
   },
   {
     "title": "Review volume and rating together",
-    "description": ""
+    "description": "We weighted both the size of the review base and the rating, since a small sample with a perfect score is less reliable than a large sample with a strong one."
   }
 ];
 

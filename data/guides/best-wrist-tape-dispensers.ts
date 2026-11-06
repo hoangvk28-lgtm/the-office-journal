@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41m-2BamWzL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "Handheld Tape Dispenser and Holder"
         ],
         [
           "Regular desk or office use",
-          ""
+          "Scotch Desktop Tape Dispenser"
         ],
         [
-          "",
+          "High-volume packing",
           "Sellotape On-Hand Dispenser with Invisible Matt Tape"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "Handheld Tape Dispenser and Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "FJYXCHENXM Mini Tape Cutter Portable Tape Dispenser"
         ],
         [
-          "",
+          "Higher budget",
           "Sellotape On-Hand Dispenser with Invisible Matt Tape"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "Handheld Tape Dispenser and Holder)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard clear or packing tape",
-          ""
+          "Scotch Desktop Tape Dispenser"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "FJYXCHENXM Mini Tape Cutter Portable Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Scotch Desktop Tape Dispenser is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Sellotape On-Hand Dispenser with Invisible Matt Tape justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Handheld Tape Dispenser and Holder already covers the job at the lowest price here."
       }
     ]

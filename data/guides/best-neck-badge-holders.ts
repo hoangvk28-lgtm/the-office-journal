@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41vP6NjkqjL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Daily Movement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Mostly desk-based",
           "Koorito 3 Pack Clear ID Badge Holder with Lanyard"
         ],
         [
-          "",
+          "Frequent movement or bending",
           "DELSWIN Heavy Duty Retractable Lanyard"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Koorito 3 Pack Clear ID Badge Holder with Lanyard"
         ],
         [
-          "",
+          "Mid-range pick",
           "LIUGX Badge Holder with Breakaway Lanyard"
         ],
         [
-          "",
+          "Higher budget",
           "25Pcs Clear Plastic Horizontal Name Tags Badge ID Card Holders and 25Pcs Flat"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Retractable vs Fixed Lanyard",
     "cards": [
       {
         "label": "Koorito 3 Pack Clear ID Badge Holder with Lanyard)",
         "text": "Extends for scanning, retracts out of the way when not needed."
       },
       {
-        "label": "",
+        "label": "Fixed lanyard",
         "text": "Simpler, no reel mechanism to wear out over time."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Card Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your credentials",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single ID only",
           "DELSWIN Heavy Duty Retractable Lanyard"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Wet or Outdoor Workplace Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine waterproof rating, not just standard plastic construction."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "DELSWIN Heavy Duty Retractable Lanyard is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 25Pcs Clear Plastic Horizontal Name Tags Badge ID Card Holders and 25Pcs Flat justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Koorito 3 Pack Clear ID Badge Holder with Lanyard already covers the job at the lowest price here."
       }
     ]

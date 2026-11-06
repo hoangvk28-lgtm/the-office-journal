@@ -60,56 +60,56 @@ export const heroImage = "https://m.media-amazon.com/images/I/31xwn6R6McL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tracking Surface Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Controlled, precise movement",
+          "GZXHS Small Mouse pad"
         ],
         [
-          "",
+          "Fast, low-friction glide",
           "Cyanbone Small Mouse Pad 3 Pack"
         ],
         [
-          "",
-          ""
+          "Budget cloth surface",
+          "Dacovi Small Mouse pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Dacovi Small Mouse pad"
         ],
         [
-          "",
+          "Mid-range pick",
           "Audimi Small Mouse Pad 6 x 8 Inch"
         ],
         [
-          "",
+          "Higher budget",
           "Cyanbone Small Mouse Pad 3 Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Hard Surface",
     "cards": [
       {
-        "label": "",
+        "label": "Cloth surface (e.g. GZXHS Small Mouse pad)",
         "text": "Slightly higher friction, often preferred for controlled, precise movement."
       },
       {
@@ -123,17 +123,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Size vs Your Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Small or shared desk",
+          "Dacovi Small Mouse pad"
         ],
         [
-          "",
-          ""
+          "Standard desk",
+          "GZXHS Small Mouse pad"
         ],
         [
           "Large desk, low DPI, wide swipes",
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "GZXHS Small Mouse pad is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where Cyanbone Small Mouse Pad 3 Pack justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward cloth pad for everyday use, where Dacovi Small Mouse pad already covers the job at the lowest price here."
       }
     ]

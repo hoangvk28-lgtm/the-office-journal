@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31qFmYH0WXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device You're Charging",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Phone, occasional use",
           "Podoru for MagSafe Power Bank 5000mAh"
         ],
         [
           "Phone plus tablet, daily use",
-          ""
+          "Anker MagGo Power Bank"
         ],
         [
-          "",
+          "Laptop or multiple devices",
           "LYAOAO for MagSafe Power Bank 10000mAh"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Podoru for MagSafe Power Bank 5000mAh"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Magnetic Portable Charger 10000mAh"
         ],
         [
-          "",
+          "Higher budget",
           "LYAOAO for MagSafe Power Bank 10000mAh"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Capacity vs Portability",
     "cards": [
       {
         "label": "LYAOAO for MagSafe Power Bank 10000mAh)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you're carrying it daily or leaving it in a bag for emergencies."
   },
   {
-    "subheading": "",
+    "subheading": "By Travel Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Flying with it",
           "Check the watt-hour (Wh) rating stays under 100Wh"
         ],
         [
-          "",
-          ""
+          "Never flying with it",
+          "Anker MagGo Power Bank"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "USB-PD support at 45W or higher, not just any USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "LYAOAO for MagSafe Power Bank 10000mAh is worth checking against your specific laptop's wattage requirement before assuming any power bank charges it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher capacity, faster charging, and support for a laptop, where LYAOAO for MagSafe Power Bank 10000mAh justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need backup charges for a phone, where podoru for MagSafe Power Bank 5000mAh already covers the job at the lowest price here."
       }
     ]

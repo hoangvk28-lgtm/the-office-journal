@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Thermal-faq",
     "q": "What's the difference between direct thermal and thermal transfer label printers?",
     "a": "Direct thermal burns the image into heat-sensitive paper with no ink, cheaper to run but labels fade within months, thermal transfer melts a ribbon onto standard stock for labels that last years but costs more per label due to the ribbon."
   },
   {
-    "id": "",
+    "id": "Cutter-faq",
     "q": "Is an automatic cutter worth paying extra for?",
     "a": "Only if you're printing at real volume, a cutter saves time on dozens of labels a day but adds a mechanical part that can jam or dull, a tear-bar design has nothing to fail but is slower at high volume."
   },
   {
-    "id": "",
+    "id": "Width-faq",
     "q": "Will a label printer handle labels wider than shipping labels?",
     "a": "Only up to its stated maximum width, a printer rated for 4-inch shipping labels physically cannot print wider, check the max width spec against your actual intended label size, not just the shipping use case shown in marketing."
   },
   {
-    "id": "",
+    "id": "Compat-faq",
     "q": "How do I know if a label printer works with my shipping platform?",
     "a": "Check the manufacturer's actual compatibility list for your specific platform (Shopify, eBay, Etsy, or a carrier's software), broad 'works with everything' marketing claims are often less precise than the real driver support."
   },
   {
-    "id": "",
+    "id": "Sensor-faq",
     "q": "Can I use any label stock with any label printer?",
     "a": "No, printers use either a gap sensor for die-cut labels or a black-mark sensor for continuous stock, using the wrong label type for your printer's sensor causes alignment problems, check compatibility before buying label stock separately."
   },
   {
-    "id": "",
+    "id": "Battery-faq",
     "q": "Are battery-powered label printers slower than plug-in models?",
     "a": "Generally yes, a battery-powered unit gives you true portability for warehouse or on-site printing but typically runs slower and handles smaller batches per charge than a desktop model on constant power."
   }
@@ -67,15 +67,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/21vd0Iu-NbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light printing",
           "Zebra ZD621 Thermal Shipping Label Printer"
         ],
         [
@@ -83,18 +83,18 @@ export const howToChoose: HowToChooseSection[] = [
           "P1080383-226 New Printhead for Zebra ZD420 ZD620 ZD621 Thermal Label Printer"
         ],
         [
-          "",
+          "High-volume daily printing",
           "Zebra ZD621 Thermal Shipping Label Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Zebra ZD621 Thermal Shipping Label Printer"
         ],
         [
-          "",
+          "Mid-range pick",
           "Printhead for Zebra ZT510 203dpi Label Printer P1083347-005 P1085894"
         ],
         [
-          "",
+          "Higher budget",
           "Zebra ZD621 Thermal Shipping Label Printer"
         ]
       ]
@@ -120,22 +120,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Lower running cost, labels fade within months."
       },
       {
-        "label": "",
+        "label": "Thermal transfer",
         "text": "Costs more per label with ribbon, labels last years."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Connectivity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fixed desk spot",
           "P1080383-226 New Printhead for Zebra ZD420 ZD620 ZD621 Thermal Label Printer"
         ],
         [
@@ -146,27 +146,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Shipping Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic cutter and larger roll capacity rather than a compact desktop model stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "P1080383-226 New Printhead for Zebra ZD420 ZD620 ZD621 Thermal Label Printer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Zebra ZD621 Thermal Shipping Label Printer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Zebra ZD621 Thermal Shipping Label Printer already covers the job at the lowest price here."
       }
     ]

@@ -37,11 +37,11 @@ export const faq = [
   },
   {
     "q": "What's the best general charging cart if I don't strictly need Ethernet?",
-    "a": ""
+    "a": "The Meteteel Fully Assembled 20 Device Cart, with the largest confirmed review base in our research."
   },
   {
     "q": "What's the highest-capacity option in this comparison?",
-    "a": ""
+    "a": "The TIOPLY 36 Device Charging Cart, supporting screens up to 16.3 inches."
   },
   {
     "q": "Is the Tripp Lite pick Ethernet-enabled since the brand makes network hardware?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Tripp Lite 42"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Meteteel Fully Assembled 20 Device Laptop Charging Cart for School"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $1",
+          "Tripp Lite 42"
         ],
         [
-          "",
+          "Up to $570",
           "ARTMAN Mobile Charging Cart Station"
         ]
       ]
@@ -98,30 +98,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Lockable Security vs Open Access",
     "cards": [
       {
-        "label": "",
+        "label": "Genuine locking door",
         "text": "Real security for devices stored unattended in a semi-public space. 3, ARTMAN Mobile Charging Cart Station."
       },
       {
-        "label": "",
+        "label": "Open access",
         "text": "Faster to grab devices from, fine for a supervised or private space. In this comparison: Tripp Lite 42, VEVOR Laptop Cart."
       }
     ],
     "note": "Default to a locking cart unless the space is always supervised or private."
   },
   {
-    "subheading": "",
+    "subheading": "By Ethernet Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "In-cabinet Ethernet for a router or hotspot",
-          ""
+          "Tripp Lite 42"
         ],
         [
-          "",
+          "Wi-Fi only is fine",
           "ARTMAN Mobile Charging Cart Station"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a School or Classroom Fleet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed bay geometry for your actual laptop model, zoned or timed charging for larger fleets, and a genuine locking door for unattended storage."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Meteteel Fully Assembled 20 Device Laptop Charging Cart for School is worth checking against its listed capacity and charging architecture before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're managing a larger fleet needing safe zoned charging and genuine security, where ARTMAN Mobile Charging Cart Station's higher price buys real capacity and reliability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing a small number of devices with simple charging needs, where Tripp Lite 42 covers the same job at a lower price."
       }
     ]
@@ -166,7 +166,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Ranked by general charging-cart quality instead",
-    "description": ""
+    "description": "Since Ethernet-specific data is unavailable, we ranked by capacity, review base, and price, the same criteria used in our general charging cart research."
   },
   {
     "title": "Directed buyers to verify directly with manufacturers",

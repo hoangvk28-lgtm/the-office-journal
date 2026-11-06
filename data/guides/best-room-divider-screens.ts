@@ -60,80 +60,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Roundhill Furniture Black Japanese 4"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "FDW Wood Mesh Hand"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $35",
+          "RHF 4"
         ],
         [
-          "",
-          ""
+          "Up to $140",
+          "Svimi 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stability vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "RHF 4",
         "text": "The lower-priced option in this comparison, worth checking its base footprint and stability against your floor type."
       },
       {
-        "label": "",
+        "label": "Svimi 4",
         "text": "The higher-priced option, worth it if it offers real stability or material headroom above the cheaper pick."
       }
     ],
     "note": "Default to RHF 4 unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Height",
     "note": "Check each pick's listed panel height against your room's ceiling and the actual privacy level you need before buying."
   },
   {
     "subheading": "For a Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "FDW Wood Mesh Hand is worth checking against its listed mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening or a taller, more stable divider, where Svimi 4's material and construction give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual separation without noise or stability concerns, where RHF 4 covers the same job at a lower price."
       }
     ]
@@ -142,11 +142,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Panel material and durability",
     "description": "Compared rice paper, non-woven fabric, rattan weave, wood mesh, and frosted acrylic against how well each holds up to sunlight, moisture, and repeated folding over time."
   },
   {
-    "title": "",
+    "title": "Privacy and light diffusion",
     "description": "Weighed how much each panel type actually blocks sight versus simply diffusing light, translucent shoji paper and open mesh weaves score very differently from solid acrylic or dense fabric."
   },
   {
@@ -154,11 +154,11 @@ export const howWeEvaluated = [
     "description": "Checked hinge material and rotation range, since repeated folding is typically where a screen wears out first, and stainless steel or 360° hinges hold up better than basic metal pins."
   },
   {
-    "title": "",
+    "title": "Weight and portability",
     "description": "Compared total weight and panel count, since a lighter screen is easier for one person to fold, move, or reposition without help."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed panel material, hinge quality, and size against price, the RHF rattan screen and Svimi acrylic screen sit at opposite ends of that budget-to-material trade-off."
   }
 ];

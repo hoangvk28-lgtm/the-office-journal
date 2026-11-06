@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Heavy Duty Under Desk PC Mount"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "VIVO Black Under Desk and Wall Office PC Mount"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $35",
           "VIVO Black Under Desk and Wall Office PC Mount"
         ],
         [
-          "",
+          "Up to $60",
           "VIVO Heavy Duty Adjustable Under"
         ]
       ]
@@ -105,15 +105,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to VIVO Black Under Desk and Wall Office PC Mount unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "VIVO Black Under Desk and Wall Office PC Mount"
         ]
       ]
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VIVO Black Under Desk and Wall Office PC Mount is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where VIVO Heavy Duty Adjustable Under's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where VIVO Black Under Desk and Wall Office PC Mount covers the same job at a lower price."
       }
     ]

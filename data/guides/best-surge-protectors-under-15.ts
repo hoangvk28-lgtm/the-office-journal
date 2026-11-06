@@ -20,7 +20,7 @@ export const buyingCriteria = [
     "explanation": "The GE Pro pick specifically advertises extra-wide spacing between its 6 outlets to accommodate bulky cell phone chargers and power adapters, while a wall tap with standard tight spacing can end up with several outlets blocked once you plug in even a few oversized chargers. This means a wall tap's actual usable outlet count can be meaningfully lower than its advertised total if outlet spacing isn't specifically designed to handle common bulky plugs. Check for stated outlet spacing or wide-spacing design specifically, not just the total outlet count, if you regularly use bulky chargers."
   },
   {
-    "criterion": "",
+    "criterion": "A Single-Outlet Surge Protector's Compact Size Is a Genuine Advantage Specifically for Travel or Single-Device Protection",
     "explanation": "83 ounce size makes it practical to pack for travel or use in a location where a 6-outlet wall tap would be unnecessarily bulky for protecting just one device, like a hotel room phone charger or a single home appliance. This isn't a compromise on protection quality, since its 1050 joule rating actually exceeds several of the multi-outlet picks in this comparison, but it does mean you're protecting only one device rather than several simultaneously. Consider whether your actual need is protecting one specific device or multiple devices from one location before assuming a multi-outlet design is automatically the better choice."
   }
 ];
@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Tc3nH0fFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "TESSAN Single Outlet ($9.99)"
         ],
         [
-          "",
-          ""
+          "Under $12",
+          "Philips ($11.49) or SANUS ($11.99)"
         ],
         [
-          "",
-          ""
+          "Under $14",
+          "GE Pro Spaced Wall Tap ($13.72)"
         ]
       ]
     }
@@ -117,27 +117,27 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Expands one outlet into six for multiple devices, ideal for a desk or entertainment center with several plugs."
       },
       {
-        "label": "",
+        "label": "Single outlet (TESSAN)",
         "text": "Protects just one device but in the smallest, most travel-friendly footprint with the highest joule rating in this comparison."
       }
     ],
     "note": "If you need to protect multiple devices from one outlet, a wall tap is the practical choice. If you're protecting one specific device or traveling, the compact single-outlet design offers more protection per cubic inch."
   },
   {
-    "subheading": "",
+    "subheading": "By Protection Depth",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your protection priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Multiple lines of protection",
+          "SANUS (3 lines)"
         ],
         [
           "Highest joule rating for multi-outlet use",
-          ""
+          "Philips (900J)"
         ],
         [
           "Basic protection with wide spacing",
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dorm Room or Small Apartment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A low-profile wall tap that fits directly against the outlet without cord clutter, freeing up floor space entirely."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "25 inch profile is specifically built for this kind of space-constrained setup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want multiple lines of protection or the highest joule rating with a documented warranty, where the SANUS or Philips picks each deliver a genuine protection upgrade."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need to protect one device with maximum joule protection, where the TESSAN pick delivers 1050J for under $10."
       }
     ]
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Joule Surge Protection Rating",
     "description": "Compared stated joule ratings across wall-tap and single-outlet designs at this price tier."
   },
   {
-    "title": "",
+    "title": "Outlet Count and Spacing",
     "description": "Compared total outlet count and spacing between outlets for accommodating bulky chargers."
   },
   {
-    "title": "",
+    "title": "Number of Protection Lines",
     "description": "Checked which picks protect multiple electrical lines versus a single line only."
   },
   {
-    "title": "",
+    "title": "Connected Equipment Warranty",
     "description": "Compared documented warranty coverage amounts backing each surge protector's claims."
   },
   {
-    "title": "",
+    "title": "Physical Footprint",
     "description": "Compared overall size and profile for fitting behind furniture or in tight spaces."
   }
 ];

@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/312XPSkRrhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $50",
+          "Satechi Pro Hub Mini ($48.99) or Lenovo USB-C Mini Dock ($49.99)"
         ],
         [
-          "",
-          ""
+          "Under $75",
+          "Cable Matters 8-in-1 ($70.99)"
         ],
         [
-          "",
-          ""
+          "Under $170",
+          "EDiMAX 5-in-1 Mini Slim Dock ($169.99)"
         ]
       ]
     }
@@ -127,20 +127,20 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Display Configuration Needed While Traveling",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your display setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Single display only",
+          "Satechi Pro Hub Mini"
         ],
         [
           "Dual HDMI or legacy VGA displays",
           "Cable Matters 8-in-1 or Lenovo USB-C Mini Dock"
         ],
         [
-          "",
+          "Up to triple displays",
           "EDiMAX 5-in-1 Mini Slim Dock"
         ]
       ]
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Presenting in Unfamiliar Conference Rooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock with a legacy VGA port in addition to HDMI, since older conference rooms and classrooms sometimes still only offer VGA input for projectors."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Lenovo USB-C Mini Dock specifically includes a VGA port alongside HDMI, directly covering this legacy compatibility gap."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want the widest possible display flexibility while traveling, where the EDiMAX pick's triple-display support justifies its $169.99 price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Weight and Footprint",
     "description": "Compared physical size and portability across all four docks."
   },
   {
-    "title": "",
+    "title": "Power Design",
     "description": "Compared bus-powered designs against docks requiring a separate power adapter."
   },
   {
-    "title": "",
+    "title": "Display Support",
     "description": "Compared single, dual, and triple display configurations for travel use."
   },
   {
-    "title": "",
+    "title": "Legacy Port Support",
     "description": "Compared VGA and other legacy connector availability for older displays."
   },
   {
-    "title": "",
+    "title": "Cross-Brand Compatibility",
     "description": "Compared stated compatibility across Windows, Mac, and specific laptop brands."
   }
 ];

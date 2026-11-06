@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/31wM3LKpVAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Fully dark, dedicated room",
+          "ViewSonic PX701-4K UHD Projector"
         ],
         [
-          "",
+          "Some ambient light",
           "4K-Projector with WiFi and Bluetooth"
         ],
         [
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -92,11 +92,11 @@ export const howToChoose: HowToChooseSection[] = [
           "GTBOX C2000 Mini Projector with 5G WiFi and Bluetooth"
         ],
         [
-          "",
+          "Mid-range pick",
           "4K-Projector with WiFi and Bluetooth"
         ],
         [
-          "",
+          "Higher budget",
           "BenQ LK936ST 4K Ultra HD Short-Throw Laser DLP Projector"
         ]
       ]
@@ -117,16 +117,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most casual, weekly-use buyers should default to a lamp-based pick unless they'll run it daily, where laser's near-zero maintenance pays for itself over a few years."
   },
   {
-    "subheading": "",
+    "subheading": "By Throw Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard room, 8-12 feet to the wall",
-          ""
+          "ViewSonic PX701-4K UHD Projector"
         ],
         [
           "Verify your exact throw ratio before buying any model",
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ViewSonic PX701-4K UHD Projector is worth checking against its documented native contrast figures before assuming any headline contrast number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want laser reliability and top-tier brightness, where BenQ LK936ST 4K Ultra HD Short-Throw Laser DLP Projector justifies the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want casual, occasional use, where GTBOX C2000 Mini Projector with 5G WiFi and Bluetooth already covers the job at the lowest price here."
       }
     ]

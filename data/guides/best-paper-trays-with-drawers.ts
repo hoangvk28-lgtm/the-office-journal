@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41fxHlhhtSL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "Cawukege 5 Tier Paper Organizer with Handle"
         ],
         [
-          "",
+          "Several distinct categories",
           "FANXIYQ 4-Tier Acrylic Paper Tray Organizer"
         ],
         [
-          "",
+          "High document volume",
           "Durable Varicolor 10 Drawer Unit"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Cawukege 5 Tier Paper Organizer with Handle"
         ],
         [
-          "",
+          "Mid-range pick",
           "8 Tier Paper Letter Tray Organizer (Black-with Drawer, Pen Holders)"
         ],
         [
-          "",
+          "Higher budget",
           "Durable Varicolor 10 Drawer Unit"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "Cawukege 5 Tier Paper Organizer with Handle)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "FANXIYQ 4-Tier Acrylic Paper Tray Organizer"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "FANXIYQ 4-Tier Acrylic Paper Tray Organizer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Durable Varicolor 10 Drawer Unit justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Cawukege 5 Tier Paper Organizer with Handle already covers the job at the lowest price here."
       }
     ]

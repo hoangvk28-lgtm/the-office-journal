@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41gT9mzRM8L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,26 +84,26 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $9",
+          "Shudyear Mini Digital Clock ($5.99) or Betus Travel Clock ($8.55)"
         ],
         [
-          "",
-          ""
+          "$9-$10",
+          "Amazon Basics ($9.99) or Sharp Battery Clock ($9.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "AC-Powered vs Fully Battery-Operated",
     "cards": [
       {
         "label": "AC-Powered with Battery Backup (Amazon Basics)",
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you want the clock always visible without a cord in the way, a fully battery-operated pick offers more placement freedom. If constant illumination matters more, an AC-powered clock is the more reliable choice."
   },
   {
-    "subheading": "",
+    "subheading": "By Portability Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your mobility needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Tight or Unusual Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The smallest possible footprint, ideally with an adhesive mounting option for surfaces where a standing clock wouldn't fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "4 inch size with adhesive mounting fits virtually any tight space or unconventional surface."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a built-in nightlight alongside reliable timekeeping, where the Amazon Basics pick delivers this dual function at the top of this price range."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A basic, ultra-compact clock covers your needs, where the Shudyear Mini Digital Clock delivers the lowest price in this entire comparison."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "Distinguished AC-powered clocks with battery backup from fully battery-operated designs, and checked what happens to settings during a power outage."
   },
   {
-    "title": "",
+    "title": "Display Size and Readability",
     "description": "Compared stated display dimensions and backlight behavior across the lineup for real readability differences."
   },
   {
@@ -177,11 +177,11 @@ export const howWeEvaluated = [
     "description": "Checked which picks specifically fold, use adhesive mounting, or otherwise support easy movement between locations."
   },
   {
-    "title": "",
+    "title": "Included Extra Features",
     "description": "Noted useful extras like nightlights, date/temperature display, and soft-touch cases that differentiate otherwise similar clocks."
   },
   {
-    "title": "",
+    "title": "Warranty and Support Terms",
     "description": "Compared stated warranty length where disclosed across the lineup."
   }
 ];

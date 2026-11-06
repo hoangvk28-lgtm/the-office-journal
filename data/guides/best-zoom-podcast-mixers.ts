@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41nMB7DJSWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Guest Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Zoom PodTrak P2 Podcast Recorder with 2 USB Mic Inputs & AI Noise Reduction"
         ],
         [
-          "",
+          "Mid-range pick",
           "Zoom LiveTrak L6 Mixer/Recorder for Musicians & Podcasters"
         ],
         [
-          "",
+          "Higher budget",
           "Zoom LiveTrak L-12 Mixer/Recorder for Musicians & Podcasters"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Mixer vs Simple Interface",
     "cards": [
       {
         "label": "Zoom LiveTrak L-12 Mixer/Recorder for Musicians & Podcasters)",
@@ -121,15 +121,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Skip the full mixer if you're a solo host recording to a laptop."
   },
   {
-    "subheading": "",
+    "subheading": "By Recording Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Computer-based recording via USB",
           "Zoom PodTrak P4 Podcast Recorder with 4 XLR Mic Inputs"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Livestreaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Zero-latency direct monitoring and simple loopback routing so you can hear yourself and other audio without lag while broadcasting."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Zoom PodTrak P4 Podcast Recorder with 4 XLR Mic Inputs is worth checking against its specific monitoring-latency spec before assuming any mixer handles live streaming equally well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're hosting multiple guests regularly and want physical channel control, where Zoom LiveTrak L-12 Mixer/Recorder for Musicians & Podcasters justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're a solo host just starting out, where Zoom PodTrak P2 Podcast Recorder with 2 USB Mic Inputs & AI Noise Reduction already covers the job at the lowest price here."
       }
     ]

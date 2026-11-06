@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Canon PIXMA TS6520 Wireless Color Inkjet Printer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Canon PIXMA TS6520 Wireless Color Inkjet Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $70",
           "HP DeskJet 4355 Wireless All"
         ],
         [
-          "",
-          ""
+          "Up to $210",
+          "Brother DCP"
         ]
       ]
     }
@@ -106,22 +106,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Brother DCP",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to HP DeskJet 4355 Wireless All unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Canon PIXMA TS6520 Wireless Color Inkjet Printer"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Canon PIXMA TS6520 Wireless Color Inkjet Printer is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Brother DCP's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where HP DeskJet 4355 Wireless All covers the same job at a lower price."
       }
     ]
@@ -165,11 +165,11 @@ export const howWeEvaluated = [
     "description": "Considered button layout simplicity and how forgiving each printer is of a curious kid pressing the wrong button or yanking paper mid-print."
   },
   {
-    "title": "",
+    "title": "Document workflow fit",
     "description": "Checked for automatic document feeders and duplex printing, both of which matter for scanning completed worksheets and printing long reading assignments efficiently."
   },
   {
-    "title": "",
+    "title": "Mobile and tablet compatibility",
     "description": "Evaluated wireless and app-based printing support, since many homeschool curricula are delivered as PDFs or apps on a shared family tablet."
   },
   {

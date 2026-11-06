@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "Which is the most proven device for sketching?",
-    "a": ""
+    "a": "The reMarkable 2, with 1,354 reviews, though it's monochrome only."
   },
   {
     "q": "What's the most affordable good sketching option?",
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41StVO0JWOL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
         "What you need it for",
@@ -65,30 +65,30 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "",
-          ""
+          "Everyday note-taking and reading",
+          "XPPen 3 in 1 Color Digital Notebook 10.95\""
         ],
         [
-          "",
+          "AI-assisted or document-heavy work",
           "ReMarkable Paper Pro with Marker Plus and Basalt Book Folio"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $300",
+          "XPPen 3 in 1 Color Digital Notebook 10.95\""
         ],
         [
-          "",
+          "Mid-range",
           "ReMarkable 2 with Marker Plus"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "AI Features Included vs Subscription-Gated",
     "cards": [
       {
-        "label": "",
+        "label": "Included, No Subscription",
         "text": "AI note tools come with the purchase price, no ongoing cost. In this comparison: check each listing's terms directly."
       },
       {
-        "label": "",
+        "label": "Subscription-Gated",
         "text": "Advanced AI features require an ongoing paid plan on top of the hardware price. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
@@ -116,43 +116,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "ReMarkable 2 with Marker Plus"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "ReMarkable 2 with Marker Plus"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Handwriting-to-Text Conversion Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of handwriting-to-text conversion (not just \"AI\" generally), and whether that specific feature is included or requires a subscription."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "95\" fits this specifically: Highest pressure sensitivity in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what reMarkable Paper Pro with Marker Plus and Basalt Book Folio offers: Bundles accessories sold separately for other reMarkable models. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "95\" already covers the essentials: Highest pressure sensitivity in this comparison. The main thing you'd be paying extra for elsewhere in this list is features or storage you may not need."
       }
     ]
@@ -161,7 +161,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Real pressure sensitivity required",
     "description": "We only prioritized devices with confirmed pressure-level specs, not devices where drawing is a secondary, unconfirmed feature."
   },
   {
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "We distinguished full-color LCD-based displays (XPPen) from color E Ink (BOOX, reMarkable Paper Pro), since they look meaningfully different for colored sketches."
   },
   {
-    "title": "",
+    "title": "Price against sketching capability",
     "description": "We noted that the highest pressure sensitivity in this comparison comes at the lowest price, not the highest."
   },
   {

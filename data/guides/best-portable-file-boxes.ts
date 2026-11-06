@@ -57,56 +57,56 @@ export const heroImage = "https://m.media-amazon.com/images/I/41PdCI0nCgL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Prioritizing clear",
           "Letter/Legal File Box with Latching Lid"
         ],
         [
-          "",
+          "Prioritizing plastic",
           "Staples File Box Portable Storage Tote"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $19",
+          "Staples File Folder Tote"
         ],
         [
-          "",
+          "Mid-range",
           "Staples File Box Portable Storage Tote"
         ],
         [
           "No firm budget ceiling, prioritizing security or durability",
-          ""
+          "Sterilite Portable File Box"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: Pendaflex Portable File Box with File Rails, IRIS USA File Box Organizer with Lid, Storex Portable Letter/Legal Filebox with Organizer Lid."
       }
     ],
@@ -116,8 +116,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Sterilite Portable File Box offers: Strong per-unit value in the 4-pack. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Staples File Folder Tote already covers the essentials: Affordable. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -157,19 +157,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Loaded-weight handle comfort",
     "description": "We considered handle design and material against the realistic weight of a fully loaded box of paper documents, not an empty demonstration."
   },
   {
     "title": "Genuine hanging file rail verification",
-    "description": ""
+    "description": "We confirmed each pick actually includes hanging file rails rather than simply being an open storage bin marketed as a 'file box.'"
   },
   {
     "title": "Lid seal and latch security",
     "description": "We favored double-latch and hinged designs for genuine transport security, since the core promise of a portable box is that its lid won't pop open when tilted or set down firmly."
   },
   {
-    "title": "",
+    "title": "Letter vs. legal size disclosure",
     "description": "We clearly noted which picks accommodate legal size documents alongside letter size, since this varies meaningfully across the category."
   }
 ];

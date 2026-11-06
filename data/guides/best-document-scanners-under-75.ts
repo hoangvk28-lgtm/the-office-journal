@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31PFgs9o70S._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Scan Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,40 +74,40 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "The cheapest portable handheld option",
-          ""
+          "Hczrc Portable Handheld Scanner"
         ],
         [
           "A wand that handles bound book pages",
           "AOZBZ Portable Handheld Document Scanner"
         ],
         [
-          "",
+          "The smallest possible footprint",
           "MUNBYN Portable Handheld Wand Scanner"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $57",
+          "Hczrc ($53.99), AOZBZ ($56.99), or MUNBYN ($56.89)"
         ],
         [
-          "",
-          ""
+          "Under $70",
+          "Canon Canoscan Lide 300 ($69.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Flatbed vs Handheld Wand",
     "cards": [
       {
         "label": "Flatbed (Canon Canoscan Lide 300)",
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you'll only ever scan at a desk, the flatbed's consistency wins. If you need to scan on the go or digitize a book, a wand is the only option here that can do it."
   },
   {
-    "subheading": "",
+    "subheading": "By Resolution Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Digitizing Old Family Photos Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A scan method that won't feed or fold a fragile, aging print through rollers."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The MUNBYN wand scanner is specifically noted by its maker as safe for old photos since nothing pulls the page through a feed mechanism."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a consistent, hands-off scan every time, where the Canon Canoscan Lide 300's flatbed design removes the hand-steadying variable entirely."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly need occasional, portable scans and can handle a wand's manual technique, where the Hczrc pick delivers the lowest price in this comparison."
       }
     ]
@@ -173,7 +173,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Scan Method",
     "description": "Distinguished genuine flatbed scanning, where a page lies flat under a lid, from handheld wand scanning, where the user drags the device across the page by hand."
   },
   {
@@ -181,7 +181,7 @@ export const howWeEvaluated = [
     "description": "Compared maximum DPI and available resolution modes, along with which file formats each device outputs."
   },
   {
-    "title": "",
+    "title": "Portability and Power Source",
     "description": "Checked weight, physical dimensions, and whether each scanner runs on batteries, USB power, or a wall adapter."
   },
   {
@@ -189,7 +189,7 @@ export const howWeEvaluated = [
     "description": "Noted whether files save to a memory card, transfer over USB cable, or require a computer connection to function at all."
   },
   {
-    "title": "",
+    "title": "Software Requirements",
     "description": "Checked whether a scanner requires driver installation or works standalone without any software setup."
   }
 ];

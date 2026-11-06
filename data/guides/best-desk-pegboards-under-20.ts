@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/515JbLAXy8L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "The highest weight capacity",
           "VEVOR Pegboard Combination Kit, 4 Panels"
         ],
         [
@@ -88,61 +88,61 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $14",
+          "Jersvimc ($13.89)"
         ],
         [
-          "",
-          ""
+          "Under $16",
+          "Halyuhn Wood ($15.29)"
         ],
         [
-          "",
-          ""
+          "Under $20",
+          "VEVOR ($18.98) or Cionyce ($18.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wall-Mounted vs Freestanding Desktop",
     "cards": [
       {
-        "label": "",
+        "label": "Wall-mounted (VEVOR, Cionyce, Jersvimc)",
         "text": "Frees up desk surface entirely, ideal if desk space is at a premium and wall space is available."
       },
       {
-        "label": "",
+        "label": "Freestanding (Halyuhn Wood)",
         "text": "Sits directly on the desk with zero wall mounting, ideal for renters or shared spaces where wall changes aren't possible."
       }
     ],
     "note": "If you have available wall space and want to maximize desk surface area, a wall-mounted kit is the better choice. If you can't or don't want to touch the wall at all, the freestanding Halyuhn Wood pick works entirely on the desk itself."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your installation preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "No drilling, adhesive only",
+          "Cionyce"
         ],
         [
           "Choice between adhesive or drilled",
-          ""
+          "VEVOR or Jersvimc"
         ],
         [
           "No wall interaction at all",
-          ""
+          "Halyuhn Wood (freestanding)"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Rented Apartment or Dorm Room Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A self-adhesive mounting option or a freestanding design that leaves no marks or holes when removed."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Cionyce pick's self-adhesive installation and the Halyuhn Wood pick's freestanding design both suit rental restrictions well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need to hang heavier items and want the highest stated weight capacity, where the VEVOR pick's 20 lbs per panel leads this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want basic pegboard storage for lightweight items, where the Jersvimc pick covers that for under $14."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Mounting Method",
     "description": "Compared adhesive, drilled, and freestanding mounting options and their respective weight ratings."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated weight limits per panel or mounting method where specified."
   },
   {
-    "title": "",
+    "title": "Panel Material and Durability",
     "description": "Compared ABS plastic, PP plastic, and wood construction across the lineup."
   },
   {
-    "title": "",
+    "title": "Modularity",
     "description": "Checked how freely panels can be combined or rearranged to fit different space needs."
   },
   {
-    "title": "",
+    "title": "Installation Simplicity",
     "description": "Compared stated setup time and complexity across mounting methods."
   }
 ];

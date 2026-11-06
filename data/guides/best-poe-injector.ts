@@ -32,16 +32,16 @@ export const faq = [
     "a": "A PoE injector adds power to a single existing non-PoE network port, while a PoE switch has multiple built-in PoE ports and replaces your existing switch entirely, so an injector is the simpler and cheaper choice for powering just one or two devices."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "Can I use a 30W 802.3at injector with a device that only needs 15.4W?",
+    "a": "Yes, higher-power 802.3at injectors are backward compatible with 802.3af devices and will typically auto-detect the lower power requirement, so a 30W injector safely powers a 15.4W device."
   },
   {
     "q": "Is it worth paying extra for a UL-certified PoE injector?",
     "a": "For a permanent installation, especially indoors or near flammable materials, UL certification provides independent safety verification that's worth the modest price difference over an uncertified budget option."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "How do I know if my IP camera needs 802.3af or 802.3at power?",
+    "a": "Check your camera's own product specification sheet or power label for its exact wattage draw; PTZ cameras and cameras with heaters or IR illuminators typically need 802.3at's 30W, while fixed basic cameras usually work fine on 802.3af's 15.4W."
   },
   {
     "q": "What's the maximum distance a PoE injector can power a device?",
@@ -61,20 +61,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/21f0joQO6OL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Power Requirement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device needs",
+        "Recommended pick"
       ],
       "rows": [
         [
           "4W (basic camera, VoIP phone)",
-          ""
+          "Gigabit POE Injector 48V 15.4W"
         ],
         [
           "3at 30W (PTZ camera, Wi-Fi 6 AP)",
-          ""
+          "Omada PoE+ Injector 30W"
         ],
         [
           "Either, without knowing the exact spec",
@@ -88,61 +88,61 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $9",
+          "Gigabit PoE Injector 48V with 3ft Cable ($8.97)"
         ],
         [
-          "",
-          ""
+          "Under $14",
+          "Gigabit POE Injector 48V 15.4W ($13.99)"
         ],
         [
-          "",
-          ""
+          "Under $20",
+          "Omada PoE+ Injector 30W or ULTRAPOE 30W (both $19.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "802.3af 15.4W vs 802.3at 30W",
     "cards": [
       {
-        "label": "",
+        "label": "802.3af (15.4W)",
         "text": "Suits standard IP cameras, VoIP phones, and basic access points that don't draw heavy power, at a lower unit cost, as offered by the TL-POE150S-compatible pick."
       },
       {
-        "label": "",
+        "label": "802.3at (30W)",
         "text": "Required for PTZ cameras, Wi-Fi 6/6E access points, and other higher-draw devices, as offered by the Omada and ULTRAPOE picks."
       }
     ],
-    "note": ""
+    "note": "Most buyers with a modern Wi-Fi access point or PTZ camera should default to a 30W 802.3at injector unless their device's spec sheet explicitly confirms 15.4W is sufficient."
   },
   {
     "subheading": "By Certification and Safety Features",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you want confirmed",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "UL certification specifically stated",
+          "Omada PoE+ Injector 30W"
         ],
         [
           "Flame retardant housing specifically stated",
           "ULTRAPOE Gigabit PoE+ Injector 30W"
         ],
         [
-          "",
-          ""
+          "Multiple named electrical protections",
+          "Gigabit POE Injector 48V 15.4W"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First IP Camera Installation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated power budget matching your camera's exact wattage requirement from its own spec sheet, plus a bundled Ethernet cable if you don't already have one on hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The budget pick with the included 3ft Cat 6 cable removes one shopping step for a first-time single-camera installation."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price buys documented safety certification and a wider power range."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "97 budget pick with its included cable covers that need."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Power Budget Accuracy",
     "description": "3at (30W) standards it claims to meet."
   },
   {
-    "title": "",
+    "title": "Port Speed",
     "description": "Compared Gigabit versus 100Mbps port speeds and their effect on real network throughput."
   },
   {
-    "title": "",
+    "title": "Electrical Safety Features",
     "description": "Compared stated protections like over current, over load, and over voltage protection."
   },
   {
-    "title": "",
+    "title": "Device Compatibility",
     "description": "Compared named compatibility lists against common IP camera, VoIP phone, and access point brands."
   },
   {
-    "title": "",
+    "title": "Included Accessories",
     "description": "Compared whether a listing bundles an Ethernet cable or requires a separate purchase."
   }
 ];

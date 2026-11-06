@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "2 NVMe SSD in any enclosure in this list?",
-    "a": ""
+    "a": "No. Check the exact M.2 length (2230/2242/2260/2280) and keying (M-Key vs B+M Key) the enclosure supports against your specific SSD before buying, and confirm whether the enclosure supports NVMe only or also SATA M.2 drives."
   },
   {
     "q": "Why does my enclosure run slower than its advertised speed?",
@@ -49,42 +49,42 @@ export const heroImage = "https://m.media-amazon.com/images/I/41gSQy7ZGNL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Interface Speed",
     "table": {
       "headers": [
-        "",
+        "Your host port",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "10Gbps (USB 3.2 Gen 2)",
           "ASUS ROG Strix Arion Enclosure"
         ],
         [
-          "",
+          "20Gbps (USB 3.2 Gen 2x2)",
           "ASUS TUF Gaming A2 Dual-Bay Enclosure"
         ],
         [
-          "",
+          "40Gbps or higher (Thunderbolt/USB4)",
           "ASUS ROG Strix Aiolos Dual-Bay Enclosure"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "ASUS Cobble NVMe/SATA Enclosure"
         ],
         [
-          "",
+          "Mid-range",
           "ASUS ROG Strix Arion Enclosure"
         ],
         [
@@ -98,26 +98,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "NVMe-Only vs NVMe+SATA Dual Protocol",
     "cards": [
       {
-        "label": "",
+        "label": "NVMe-Only",
         "text": "2 drive at all if that's what you own. In this comparison: ASUS ROG Strix Arion Enclosure, ASUS Cobble NVMe/SATA Enclosure."
       },
       {
-        "label": "",
+        "label": "NVMe+SATA Dual Protocol",
         "text": "2 drives in the same enclosure, more flexible if you're not certain which protocol your SSD uses. In this comparison: ASUS TUF Gaming A1 Enclosure, ASUS TUF Gaming A2 Dual-Bay Enclosure, ASUS ROG Strix Aiolos Dual-Bay Enclosure."
       }
     ],
     "note": "Most buyers with a known NVMe SSD should default to an NVMe-only pick like ASUS Cobble NVMe/SATA Enclosure, and only pay extra for ASUS TUF Gaming A1 Enclosure's dual-protocol support if you're not certain which type of drive you own."
   },
   {
-    "subheading": "",
+    "subheading": "Passive vs Active Cooling",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your workload",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional file transfers",
           "ASUS ROG Strix Arion Enclosure"
         ],
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Sustained Large File Transfers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Published tested read/write numbers using a named SSD and host, active cooling or substantial heatsink fins, and an explicit note about sustained (not just peak burst) performance."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ASUS ROG Strix Aiolos Dual-Bay Enclosure fits this specifically: ROG SSD Dashboard gives real-time performance monitoring most competitors lack."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what ASUS ROG Strix Aiolos Dual-Bay Enclosure offers: ROG SSD Dashboard gives real-time performance monitoring most competitors lack. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "ASUS Cobble NVMe/SATA Enclosure already covers the essentials: IP55 water and dust resistance protects against spills and harsh environments. The main thing you'd be paying extra for elsewhere in this list is a faster interface tier or dual-protocol support you may not need."
       }
     ]
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "Weighed published tested throughput figures, fan trigger temperatures, and passive-versus-active cooling design over marketing language that repeats across nearly identical products."
   },
   {
-    "title": "",
+    "title": "Real Feature Differentiators",
     "description": "Prioritized genuine differentiators, RAID mode support, write-lock switches, health-monitoring displays, magnetic attachment systems, over generic \"fast and durable\" claims with nothing behind them."
   }
 ];

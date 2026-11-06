@@ -52,39 +52,39 @@ export const heroImage = "https://m.media-amazon.com/images/I/51T7K-COzIL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Size",
     "table": {
       "headers": [
-        "",
+        "Your laptop size",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Compact 13-14 inch laptop",
           "Mobile Pixels Duex Plus Portable Monitor for Laptops"
         ],
         [
-          "",
+          "Larger 15.6+ inch laptop",
           "6\" 1080P Computer Monitor Screen Extender w/Cover"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $63",
           "6\" 1080P Computer Monitor Screen Extender w/Cover"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "KEFEYA Laptop Screen Extender"
         ],
         [
           "No firm budget ceiling, prioritizing build or features",
@@ -94,33 +94,33 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clip-On/Magnetic Attachment vs Stand-Based",
     "cards": [
       {
-        "label": "",
+        "label": "Clip-On or Magnetic",
         "text": "Attaches directly to the laptop lid for a compact, travel-friendly setup that moves with the laptop. In this comparison: SideTrak Swivel 14\" Patented Attachable Portable Monitor for Laptop."
       },
       {
-        "label": "",
+        "label": "Stand-Based",
         "text": "Sits independently on the desk, keeping stress off the laptop's own lid hinge but adding desk footprint."
       }
     ],
     "note": "Default to a clip-on or magnetic pick like SideTrak Swivel 14\" Patented Attachable Portable Monitor for Laptop if you travel with your laptop often, and consider a stand-based design if this is a permanent desk setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Connection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Flexible power and video routing",
-          ""
+          "KEFEYA Laptop Screen Extender"
         ],
         [
-          "",
+          "Simplest single-cable setup",
           "Mobile Pixels Duex Plus Portable Monitor for Laptops"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Video Calls and Presentations Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A swivel or adjustable-angle mechanism specifically, so you can reposition the extended screen toward a camera or a colleague without moving the whole laptop."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SideTrak Swivel 14\" Patented Attachable Portable Monitor for Laptop fits this specifically: Patented swivel mechanism accommodates varied HP lid geometries."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what SideTrak Swivel 14\" Patented Attachable Portable Monitor for Laptop offers: Patented swivel mechanism accommodates varied HP lid geometries. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is build quality or features you may not need."
       }
     ]

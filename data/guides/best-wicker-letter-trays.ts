@@ -61,76 +61,76 @@ export const heroImage = "https://m.media-amazon.com/images/I/41TdXRuM6zL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Just 2-3 categories",
+          "Letter Tray Water Hyacinth"
         ],
         [
-          "",
-          ""
+          "Several distinct categories",
+          "Seagrass Letter Tray"
         ],
         [
-          "",
-          ""
+          "High document volume",
+          "MyHomeBody Wicker Paper Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Letter Tray Water Hyacinth"
         ],
         [
-          "",
+          "Mid-range pick",
           "PINXIURY Water Hyacinth Letter Tray for A4 File Desk Mail Letter-Size Paper"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "MyHomeBody Wicker Paper Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
-        "label": "",
+        "label": "Wire mesh (e.g. Letter Tray Water Hyacinth)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Limited desk depth",
+          "Seagrass Letter Tray"
         ],
         [
           "Room for a taller multi-tier tray",
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Seagrass Letter Tray is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where myHomeBody Wicker Paper Organizer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Letter Tray Water Hyacinth already covers the job at the lowest price here."
       }
     ]

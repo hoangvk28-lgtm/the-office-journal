@@ -29,11 +29,11 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the best true 10-device charging cart?",
-    "a": ""
+    "a": "The Pearington 10-Device USB Laptop Charging Station, with the highest rating and largest review base among true 10-device carts here."
   },
   {
     "q": "Which pick has the most reviews overall?",
-    "a": ""
+    "a": "The Learniture Structure Series 12-Device Charging Station at 114 reviews, though it exceeds the true 10-device target by 2 bays."
   },
   {
     "q": "Is there a locking option?",
@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest true 10-device cart?",
-    "a": ""
+    "a": "The 10 Slot Mobile Open Charging Cart at $74.99."
   },
   {
     "q": "Is there a pick you'd recommend against?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "10 Slot Mobile Open Charging Cart for Laptops Chromebooks Tablet Devices"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Learniture Structure Series 12"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $75",
           "10 Slot Mobile Open Charging Cart for Laptops Chromebooks Tablet Devices"
         ],
         [
-          "",
+          "Up to $240",
           "16 Device Mobile Charging Cart and Cabinet"
         ]
       ]
@@ -98,27 +98,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Lockable Security vs Open Access",
     "cards": [
       {
-        "label": "",
+        "label": "Genuine locking door",
         "text": "Real security for devices stored unattended in a semi-public space. In this comparison: Learniture Structure Series 12, 10 Slot Mobile Open Charging Cart for Laptops Chromebooks Tablet Devices, Dyna, Gtouse 2 Tier Open Laptop Charging Cart with Wheels, Suuiwau Laptop Charging Station 10, 16 Devices Mobile Charging Cart and Cabinet, 16 Device Mobile Charging Cart and Cabinet."
       },
       {
-        "label": "",
+        "label": "Open access",
         "text": "Faster to grab devices from, fine for a supervised or private space. In this comparison: Pearington 10."
       }
     ],
     "note": "Default to a locking cart unless the space is always supervised or private."
   },
   {
-    "subheading": "",
+    "subheading": "By Locking Security",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Genuine locking door for unattended storage",
-          ""
+          "Learniture Structure Series 12"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a School or Classroom Fleet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed bay geometry for your actual laptop model, zoned or timed charging for larger fleets, and a genuine locking door for unattended storage."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Learniture Structure Series 12 is worth checking against its listed capacity and charging architecture before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're managing a larger fleet needing safe zoned charging and genuine security, where 16 Device Mobile Charging Cart and Cabinet's higher price buys real capacity and reliability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing a small number of devices with simple charging needs, where 10 Slot Mobile Open Charging Cart for Laptops Chromebooks Tablet Devices covers the same job at a lower price."
       }
     ]
@@ -157,8 +157,8 @@ export const howWeEvaluated = [
     "description": "Four picks here exceed the 10-device target (one 12-device, two 16-device listings). We labeled each clearly rather than blending them into an undifferentiated 10-device ranking."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Review base weighted heavily given the thin data at this small-fleet tier",
+    "description": "Several picks have 1-6 reviews. We treated a 5.0 rating on 2 reviews as a much weaker signal than the Learniture pick's 4.4 rating on 114 reviews, even though the latter exceeds the search target."
   },
   {
     "title": "Low-rated options disclosed rather than silently omitted",
@@ -172,7 +172,7 @@ export const howWeEvaluated = [
 
 export const introParagraphs = [
   "Ten-device search results often mix true 10-bay carts with slightly larger 12- and 16-device units at a similar price point. We're separating the confirmed true 10-device carts from the near-10 alternatives directly, since buying more capacity than needed at this small scale still means paying for and storing unused bays.",
-  ""
+  "Rating and review data at this small-fleet tier is thin across the board; several picks here have fewer than 5 reviews, which we're weighing honestly rather than treating a single 5.0 rating on 2 reviews as equivalent to a proven track record."
 ];
 
 export const lastUpdated = "2026-08-09";

@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest confirmed 42 inch option?",
-    "a": ""
+    "a": "The FLEXISPOT Standing Desk Converter 42 Inch, Extra Large Ergonomic, at $149.99."
   },
   {
     "q": "Is there a white 42 inch converter?",
@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41mkQi1Vv9L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
           "Single monitor or laptop, small desk",
-          ""
+          "TechOrbits Standing Desk Converter"
         ],
         [
-          "",
+          "Dual monitors",
           "VIVO Black 42 in Standing Desk Converter"
         ],
         [
@@ -80,20 +80,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $162",
           "FLEXISPOT Standing Desk Converter 42 Inch"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "TechOrbits Standing Desk Converter"
         ],
         [
           "No firm budget ceiling, prioritizing lift quality or brand",
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: VIVO Black 42 in Standing Desk Converter, VIVO White 42 in Standing Desk Converter, FLEXISPOT Standing Desk Converter 42 Inch."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: FLEXISPOT 42 Inch Electric Motor Desk Converter, VIVO Black 42 inch Electric Desk Converter."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "VIVO Black 42 in Standing Desk Converter"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "VIVO Black 42 in Standing Desk Converter"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VIVO Black 42 in Standing Desk Converter fits this specifically: Largest review base of any confirmed 42 inch converter."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "FLEXISPOT Standing Desk Converter 42 Inch already covers the essentials: Lower price than the VIVO options at this size. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]

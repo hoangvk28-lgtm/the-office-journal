@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/41sV-yH2XsL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Storing",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light supplies, no drilling",
+          "Mofangtech Under Desk Mounted Sliding Pull-out Drawer W 19.2\" x D 13.4\""
         ],
         [
-          "",
+          "Standard office supplies",
           "6 Inch Under Desk Drawer Slide Out"
         ],
         [
-          "",
+          "Heavier items, permanent install",
           "Slim Under Desk Storage Drawer (Black) by UPLIFT Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Mofangtech Under Desk Mounted Sliding Pull-out Drawer W 19.2\" x D 13.4\""
         ],
         [
-          "",
+          "Mid-range pick",
           "6 Inch White Under Desk Drawer Slide Out"
         ],
         [
-          "",
+          "Higher budget",
           "Slim Under Desk Storage Drawer (Black) by UPLIFT Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Screw-Mounted",
     "cards": [
       {
-        "label": "",
+        "label": "Clamp-on (e.g. Mofangtech Under Desk Mounted Sliding Pull-out Drawer W 19.2\" x D 13.4\")",
         "text": "No drilling needed, fully removable, but capped around 13 lbs."
       },
       {
-        "label": "",
+        "label": "Screw-mounted",
         "text": "Higher weight capacity, but permanent and requires drilling into the desk."
       }
     ],
     "note": "Match this to whether you rent, share the desk, or need real capacity for heavier items."
   },
   {
-    "subheading": "",
+    "subheading": "By Legroom Clearance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Tight knee clearance",
           "Measure your seated position before choosing any model"
         ],
         [
-          "",
+          "Standard desk depth",
           "6 Inch Under Desk Drawer Slide Out"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Standing Desks Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed clearance at your desk's lowest sitting height, including the motor housing and crossbar."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "6 Inch Under Desk Drawer Slide Out is worth checking against your desk's specific understructure before assuming any drawer clears it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and smoother, longer-lasting slides for daily heavy use, where Slim Under Desk Storage Drawer (Black) by UPLIFT Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "4\" already covers the job at the lowest price here."
       }
     ]

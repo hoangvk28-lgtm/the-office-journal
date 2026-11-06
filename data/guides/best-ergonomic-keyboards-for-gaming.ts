@@ -53,15 +53,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/51J8PEUgcWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Minimal adjustment period",
           "X9 Performance Wireless Mechanical Ergonomic Keyboard"
         ],
         [
@@ -72,19 +72,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $49",
           "Wired RGB Gaming Membrane Keyboard"
         ],
         [
-          "",
+          "Mid-range",
           "RK ROYAL KLUDGE A72 Alice Ergonomic Wireless Mechanical Keyboard"
         ],
         [
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: Wired RGB Gaming Membrane Keyboard."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: X9 Performance Wireless Mechanical Ergonomic Keyboard, RK ROYAL KLUDGE A72 Alice Ergonomic Wireless Mechanical Keyboard, RAGNOK Ergonomic Mechanical Keyboard."
       }
     ]
@@ -111,12 +111,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest cost, quiet typing",
           "Wired RGB Gaming Membrane Keyboard"
         ],
         [
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Cloud Nine C989M Ergonomic Mechanical Keyboard for PC fits this specifically: WASD cluster stays intact for gaming muscle memory."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Cloud Nine C989M Ergonomic Mechanical Keyboard for PC offers: WASD cluster stays intact for gaming muscle memory. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Wired RGB Gaming Membrane Keyboard already covers the essentials: Lowest price in this guide. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -156,7 +156,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "WASD cluster integrity vs. full split benefit",
     "description": "Weighed whether each keyboard keeps the WASD cluster intact, semi-split and one-piece designs preserve muscle memory, fully split designs disrupt it for greater ergonomic benefit."
   },
   {

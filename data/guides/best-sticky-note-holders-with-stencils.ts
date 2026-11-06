@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41sOOG+tKGL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Placement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "On the desk surface",
           "2025 New Sticky Note Stencil"
         ],
         [
-          "",
+          "Clipped to a monitor",
           "ElevateTech 5Pcs Sticky Note Holder Stick List Organizer Sticky Note Stencil"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "2025 New Sticky Note Stencil"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Sticky Note Stencil"
         ],
         [
-          "",
+          "Higher budget",
           "Besarme 3x3 Sticky Note Holder with 7 Stencils for Desk Office"
         ]
       ]
@@ -114,27 +114,27 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "One-at-a-time dispensing, needs z-fold refill pads specifically."
       },
       {
-        "label": "",
+        "label": "Standard pad holder",
         "text": "Works with any standard pad, no special refill needed."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Note Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your notes",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 3x3 size",
           "ElevateTech 5Pcs Sticky Note Holder Stick List Organizer Sticky Note Stencil"
         ],
         [
           "A different or mini size",
-          ""
+          "Sticky Note Stencil"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For One-Handed Desk Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weighted or non-slip base that stays put while you pull a note with one hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ElevateTech 5Pcs Sticky Note Holder Stick List Organizer Sticky Note Stencil is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Besarme 3x3 Sticky Note Holder with 7 Stencils for Desk Office justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 2025 New Sticky Note Stencil already covers the job at the lowest price here."
       }
     ]

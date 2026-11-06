@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41JwD4xkT4L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended alternative"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended alternative"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $200",
+          "WAVLINK Intel EVO Certified Dock ($199.99)"
         ],
         [
-          "",
-          ""
+          "Under $300",
+          "UGREEN 13-in-1 ($274.99) or Kensington SD5010T5 ($295.47)"
         ],
         [
-          "",
-          ""
+          "Under $360",
+          "StarTech Universal Docking Station ($351.58)"
         ]
       ]
     }
@@ -113,26 +113,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Certified Reliability vs Platform-Specific Optimization",
     "cards": [
       {
-        "label": "",
+        "label": "Certified reliability (WAVLINK)",
         "text": "Intel EVO certification gives independently verified performance and efficiency testing, a real assurance signal at a lower price than platform-specialized alternatives."
       },
       {
-        "label": "",
+        "label": "Platform-specific optimization (Kensington, StarTech)",
         "text": "These alternatives specifically optimize for one platform, Windows business IT or Mac chip-specific display support, rather than chasing a broad certification."
       }
     ],
     "note": "If independent validation matters most and you're platform-agnostic, the WAVLINK's Intel EVO certification is a strong signal. If you're deep in one ecosystem, the Kensington or StarTech picks are built specifically around that platform's real needs."
   },
   {
-    "subheading": "",
+    "subheading": "By Deployment Context",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your deployment",
+        "Recommended alternative"
       ],
       "rows": [
         [
-          "",
+          "Corporate IT-managed Windows fleet",
           "Kensington SD5010T5 Thunderbolt 5 Docking Station"
         ],
         [
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Sustainability-Conscious Corporate Buyers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Concrete, named sustainability disclosures like recycled material percentages and certified packaging, rather than vague eco-marketing language, if corporate sustainability reporting is a factor in your purchase."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Kensington SD5010T5 specifically states 100% post-consumer recycled aluminum casing delivered in FSC-certified packaging."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "58 price is justified by that level of detail."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -176,15 +176,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Specific Use Case Fit",
     "description": "Compared how well each alternative targets a distinct use case rather than competing head-on with flagship docks on raw specs alone."
   },
   {
-    "title": "",
+    "title": "Independent Certification",
     "description": "Compared genuine third-party certifications like Intel EVO versus self-reported manufacturer claims."
   },
   {
-    "title": "",
+    "title": "Platform-Specific Optimization",
     "description": "Compared Windows business features versus Mac-specific display documentation across alternatives."
   },
   {
@@ -192,7 +192,7 @@ export const howWeEvaluated = [
     "description": "Compared real price savings against the core performance each alternative actually delivers."
   },
   {
-    "title": "",
+    "title": "Documentation Transparency",
     "description": "Compared how honestly each listing discloses limitations or platform-specific caveats."
   }
 ];

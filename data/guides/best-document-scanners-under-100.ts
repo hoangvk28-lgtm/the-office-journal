@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31PFgs9o70S._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Scan Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,7 +78,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "The cheapest possible portable option",
-          ""
+          "Hczrc Portable Handheld Scanner"
         ],
         [
           "A wand that handles bound book pages",
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $57",
+          "Hczrc ($53.99) or AOZBZ ($56.99)"
         ],
         [
-          "",
-          ""
+          "Under $70",
+          "Canon Canoscan Lide 300 ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $140",
+          "HP HPPS100 ($139.99)"
         ]
       ]
     }
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Automatic Feeding vs Manual Scanning",
     "cards": [
       {
-        "label": "",
+        "label": "Automatic feed (HP HPPS100)",
         "text": "Pulls a single page through the scanner mechanically at 15ppm, faster and more consistent than manual technique, but simplex only."
       },
       {
@@ -125,11 +125,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you regularly scan multi-page stacks, the HP's automatic feed saves real time despite its higher price and simplex limitation."
   },
   {
-    "subheading": "",
+    "subheading": "By Resolution Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Scanning Multi-Page Stacks Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Automatic sheet feeding rather than a manual flatbed or wand process that requires handling each page individually."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The HP HPPS100 is the only pick with true automatic sheet feeding at 15 pages per minute."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want faster, hands-off multi-page scanning, where the HP HPPS100's automatic feed justifies its higher price over the manual picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly scan single pages occasionally, where the Canon Canoscan Lide 300 delivers a reliable flatbed scan for under $70."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Scan Method",
     "description": "Distinguished flatbed, handheld wand, and automatic sheet-fed designs, since each handles paper very differently."
   },
   {
-    "title": "",
+    "title": "Scan Speed and Automation",
     "description": "Compared automatic sheet feeding against manual, hand-operated scanning approaches."
   },
   {
-    "title": "",
+    "title": "Resolution and Format Support",
     "description": "Checked maximum DPI, selectable resolution modes, and output file formats across the lineup."
   },
   {
-    "title": "",
+    "title": "Portability and Power Source",
     "description": "Compared weight, size, and whether each scanner runs on batteries or USB power."
   },
   {
-    "title": "",
+    "title": "Storage and Software Requirements",
     "description": "Noted memory card capacity where applicable and whether companion software is required or optional."
   }
 ];

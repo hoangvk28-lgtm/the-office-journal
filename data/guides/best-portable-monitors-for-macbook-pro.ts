@@ -60,39 +60,39 @@ export const heroImage = "https://m.media-amazon.com/images/I/41taGyfYchL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Refresh Rate",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Standard smooth motion",
           "6 Inch 1080P FHD 60Hz 85% SRGB"
         ],
         [
-          "",
-          ""
+          "Maximum refresh headroom",
+          "VisionOwl Portable Monitor 16 Inch 2.5K QHD 144Hz"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $110",
           "6\" 1080P Computer Monitor Screen Extender w/Cover"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "VisionOwl Portable Monitor 16 Inch 2.5K QHD 144Hz"
         ],
         [
           "No firm budget ceiling, prioritizing panel quality or resolution",
@@ -105,22 +105,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C DisplayPort Alt Mode vs HDMI",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C (DisplayPort Alt Mode)",
         "text": "Usually the port that hits the panel's full rated refresh rate, and can carry power alongside video on one cable. In this comparison: check each listing's stated USB-C refresh rate directly."
       },
       {
-        "label": "",
+        "label": "HDMI",
         "text": "Reliable for consoles and older sources, but often capped below the panel's full rated refresh, especially at higher resolutions. 5K QHD 110% SRGB 144Hz USB-C."
       }
     ],
     "note": "If you're connecting a console or HDMI-only source specifically, verify the actual HDMI refresh ceiling on your chosen pick, since several picks here cap lower over HDMI than their headline spec suggests."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Mount Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -138,24 +138,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Handheld Gaming PC or Console Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Your exact source device's documented maximum output refresh rate over the connection type you'll use, checked independently from the monitor's own rated capability, since handhelds like Steam Deck and ROG Ally commonly cap at 60Hz over USB-C."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "6 Inch 4K UHD 145% SRGB fits this specifically: Highest color gamut claim in this guide."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "6 Inch 4K UHD 145% SRGB offers: Highest color gamut claim in this guide. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is headroom you may not actually use."
       }
     ]
@@ -164,7 +164,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Chip-tier display support",
     "description": "Cross-checked which MacBook Pro chip tiers (base M1/M2 vs. Pro/Max, all generations) actually support a second external display without clamshell mode, since \"MacBook Pro\" alone doesn't guarantee dual-display support."
   },
   {
@@ -172,7 +172,7 @@ export const howWeEvaluated = [
     "description": "Compared each panel's stated SRGB/DCI-P3 coverage against MacBook Pro's 100% P3 built-in display, rather than treating any \"wide gamut\" claim as equivalent."
   },
   {
-    "title": "",
+    "title": "Refresh rate versus ProMotion",
     "description": ") actually exceeds what MacBook Pro's own 120Hz ProMotion display runs at, since higher numbers don't add visible smoothness beyond that ceiling."
   },
   {

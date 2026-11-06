@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51d8QP-91yL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Guest Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,7 +74,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "2-3 people in the room",
-          ""
+          "FIFINE Gaming Audio Mixer"
         ],
         [
           "4 or more guests regularly",
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "BOMGE mini 2 Channel USB Audio Interface for Recording"
         ],
         [
-          "",
+          "Mid-range pick",
           "FIFINE AmpliTank K688CT Podcast Microphone Kit"
         ],
         [
-          "",
+          "Higher budget",
           "MAONO E2 GEN2 Podcast Equipment Bundle Audio Interface Mixer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Mixer vs Simple Interface",
     "cards": [
       {
         "label": "MAONO E2 GEN2 Podcast Equipment Bundle Audio Interface Mixer)",
@@ -121,16 +121,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Skip the full mixer if you're a solo host recording to a laptop."
   },
   {
-    "subheading": "",
+    "subheading": "By Recording Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Computer-based recording via USB",
+          "FIFINE Gaming Audio Mixer"
         ],
         [
           "Standalone SD card recording as a backup",
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Livestreaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Zero-latency direct monitoring and simple loopback routing so you can hear yourself and other audio without lag while broadcasting."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "FIFINE Gaming Audio Mixer is worth checking against its specific monitoring-latency spec before assuming any mixer handles live streaming equally well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're hosting multiple guests regularly and want physical channel control, where MAONO E2 GEN2 Podcast Equipment Bundle Audio Interface Mixer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're a solo host just starting out, where BOMGE mini 2 Channel USB Audio Interface for Recording already covers the job at the lowest price here."
       }
     ]

@@ -36,7 +36,7 @@ export const faq = [
     "a": "No, several picks in this roundup are genuine no-drill clamp-on designs. We clearly disclosed which picks require drilling and which don't for each accessory type."
   },
   {
-    "q": "",
+    "q": "What's the single highest-rated hanging accessory across your research?",
     "a": "The Jakyitvi Adjustable 5 Tiers Wall File Organizer carries the highest rating across our entire hanging-accessory research, though it requires wall drilling."
   },
   {
@@ -57,83 +57,83 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Ut4+ko99L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Attachment Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "No-drill desk-edge clamp",
+          "KDD 4"
         ],
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "KDD 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "JMHUD 5"
         ],
         [
-          "",
+          "Up to $48",
           "Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wall-Mounted vs No-Drill Clamp",
     "cards": [
       {
-        "label": "",
+        "label": "Wall-mounted",
         "text": "More permanent and often higher capacity, but requires drilling into drywall or a stud. In this comparison: Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder, Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays, Homeify Under Desk Drawer Organizer Clamp, Simple Trending Wall File Organizer, JMHUD 5, INLDY Under Desk Drawer."
       },
       {
-        "label": "",
+        "label": "No-drill clamp",
         "text": "Installs and removes without wall damage, the safer choice for a rented space. In this comparison: KDD 4, 4 in 1 Metal Clip On Cup Holder Attachment."
       }
     ],
     "note": "Default to a no-drill clamp unless you own the space and want maximum capacity."
   },
   {
-    "subheading": "",
+    "subheading": "By Footprint",
     "note": "Check each pick's listed dimensions against your actual measured wall or desk-edge space before buying, not just the general size category."
   },
   {
     "subheading": "For a Renter or Shared Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine no-drill desk-edge or under-desk clamp mount, not a wall-mount requiring drilling into drywall or a stud."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "KDD 4 is worth checking against its listed no-drill mounting method before buying."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're organizing a heavy, varied file collection, where Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays's capacity and adjustability give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light, occasional storage for a few folders, where JMHUD 5 covers the same job at a lower price."
       }
     ]
@@ -150,7 +150,7 @@ export const howWeEvaluated = [
     "description": "We applied the core gaps established across our hanging-accessory research (clamp security, weight capacity, desk-edge compatibility) consistently across every accessory type here."
   },
   {
-    "title": "",
+    "title": "Genuine scope clarification",
     "description": "We explicitly disclosed which picks require drilling versus which are no-drill, since this varies meaningfully by accessory type within this broad category."
   },
   {

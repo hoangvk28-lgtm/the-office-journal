@@ -37,7 +37,7 @@ export const faq = [
   },
   {
     "q": "Which has the most reviews?",
-    "a": ""
+    "a": "The HumanCentric Thin Client Mount Bracket, with 702 reviews at 4.4 stars."
   },
   {
     "q": "What's the best option for tight clearance behind the TV?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/31L4FiZcVdL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Surface",
     "table": {
       "headers": [
-        "",
+        "Where it's going",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -73,26 +73,26 @@ export const howToChoose: HowToChooseSection[] = [
           "Yimaut Adjustable Mini PC Vesa Mount Bracket Behind Monitor"
         ],
         [
-          "",
+          "Wall or under-desk",
           "Monzlteck Adjustable Small Device Wall Mount Or VESA Mount Behind the Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "Monzlteck Adjustable Small Device Wall Mount Or VESA Mount Behind the Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm"
         ],
         [
@@ -106,42 +106,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Fit vs Universal Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-Specific Fit",
         "text": "Matches one specific chassis shape exactly, generally a more secure fit for that exact model. In this comparison: StarTech Thin Client Mount."
       },
       {
-        "label": "",
+        "label": "Universal / Multi-Brand",
         "text": "Works across several mini PC brands with adjustable hardware, more flexible if you might switch devices later. In this comparison: Mini PC Thin Client Adjustable Mounting Bracket."
       }
     ],
     "note": "Confirm your exact mini PC model against the listing's stated compatibility either way, since even a \"universal\" mount has real size limits."
   },
   {
-    "subheading": "",
+    "subheading": "By Post-Install Port Access",
     "note": "None of these picks specifically advertise preserved front-port access after mounting; check each listing's product photos for where the ports land once installed if that matters to you."
   },
   {
     "subheading": "For a Home Lab Rack Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of 10-inch (home-lab) versus 19-inch (commercial) rack compatibility, since these are different standards, plus whether it's full or half rack-unit width."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Yimaut Adjustable Mini PC Vesa Mount Bracket Behind Monitor fits this specifically: Explicitly designed for behind-display mounting."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Mini PC Thin Client Adjustable Mounting Bracket offers: Compact design suited to tight behind-TV spaces. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Monzlteck Adjustable Small Device Wall Mount Or VESA Mount Behind the Monitor already covers the essentials: Highest rating in this comparison. The main thing you'd be paying extra for elsewhere in this list is broader compatibility you may not need."
       }
     ]
@@ -154,11 +154,11 @@ export const howWeEvaluated = [
     "description": "Our original candidate ASINs were no longer accessible, so we confirmed real, currently listed products before ranking anything."
   },
   {
-    "title": "",
+    "title": "Behind-display mounting explicitly confirmed",
     "description": "We prioritized mounts specifically described for behind-monitor or behind-display placement, the closest documented use case to behind-TV mounting."
   },
   {
-    "title": "",
+    "title": "Wall-mounting alternative noted",
     "description": "We flagged where a bracket supports direct wall mounting, useful if a buyer doesn't want to share the TV's own VESA holes."
   },
   {

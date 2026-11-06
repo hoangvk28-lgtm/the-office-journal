@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "A gravity drain hose is continuous, passive, and reliable, but only works if you can position the unit near a floor drain or somewhere lower than the hose outlet. A built-in pump can push water uphill to a sink or window, useful in a basement with no nearby drain, but pumps have a somewhat higher failure rate than simple gravity drains over time. A manual tank needs regular emptying and isn't practical for a wet room running continuously. Match the drain method to your specific room's layout, not just whichever option sounds more convenient on paper."
   },
   {
-    "criterion": "",
+    "criterion": "Compressor vs Desiccant Technology",
     "explanation": "Temperature, not just humidity, determines which dehumidifier technology actually works in your space: compressor models are the standard choice for typical room temperatures but lose efficiency and can ice up below roughly 40 to 65°F, while desiccant models keep working in cooler, unheated spaces where a compressor unit would struggle. If your space regularly drops below 65°F, like an unheated garage or crawl space in cooler months, check specifically for a desiccant model rather than assuming any dehumidifier handles cold conditions equally well."
   },
   {
@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "A dehumidifier with a small tank, under about 15 pints of water capacity, needs to be emptied noticeably more often than one with a larger tank, which matters a lot if you're not running a continuous drain hose. In a wet room pulling several pints of moisture per day, a small tank can fill up multiple times daily without a drain connection. Check the actual tank capacity in the spec sheet, not just the daily pint-removal rating, if you plan to rely on manual emptying rather than continuous drainage."
   },
   {
-    "criterion": "",
+    "criterion": "Auto-Restart and Humidistat Control",
     "explanation": "Two features matter more than they seem for a dehumidifier running unattended: auto-restart brings the unit back on after a power blip without you having to notice and manually restart it, and a built-in humidistat automatically cycles the unit to hold a target humidity level instead of running continuously. Both matter most in a basement or crawl space you don't check every day, so verify both are included rather than assuming any dehumidifier has them."
   }
 ];
@@ -64,13 +64,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Room Size and Dampness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your space",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Small room, slightly damp",
+          "BEDRED Dehumidifier"
         ],
         [
           "Standard room or moderate dampness",
@@ -84,23 +84,23 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "BEDRED Dehumidifier"
         ],
         [
-          "",
+          "Mid-range pick",
           "Frigidaire 50 Pint Dehumidifier w/Wifi"
         ],
         [
-          "",
+          "Higher budget",
           "Honeywell 50-Pint ENERGY STAR Dehumidifier with Built-in PUMP,"
         ]
       ]
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Runs hands-off near a floor drain, the most reliable option if your space has one nearby."
       },
       {
-        "label": "",
+        "label": "Manual tank emptying (e.g. BEDRED Dehumidifier)",
         "text": "No drain needed, but requires regular emptying, more practical in a less humid space."
       }
     ],
@@ -124,12 +124,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Technology: Compressor vs Desiccant",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard room temperature",
           "Energy Star Smart Dehumidifier for Home Basements &"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Basement or Crawl Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Auto-restart after a power outage and a built-in humidistat, since these spaces often run unattended for days at a time."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Energy Star Smart Dehumidifier for Home Basements & is worth checking against its specific auto-restart and humidistat spec before assuming any unit handles unattended operation well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're covering a large or wet space and want a built-in pump and higher capacity, where 2024 NEW! Honeywell 50-Pint ENERGY STAR Dehumidifier with Built-in PUMP, justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're covering a small, moderately damp room, where BEDRED Dehumidifier already covers the job at the lowest price here."
       }
     ]
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "A gravity drain hose is continuous, passive, and reliable, but only works if you can position the unit near a floor drain or somewhere lower than the hose outlet."
   },
   {
-    "title": "",
+    "title": "Compressor vs Desiccant Technology",
     "description": "Temperature, not just humidity, determines which dehumidifier technology actually works in your space: compressor models are the standard choice for typical room temperatures but lose efficiency and can ice up below roughly 40 to 65°F, while desiccant models keep working in cooler, unheated spaces where a compressor unit would struggle."
   },
   {
@@ -185,7 +185,7 @@ export const howWeEvaluated = [
     "description": "A dehumidifier with a small tank, under about 15 pints of water capacity, needs to be emptied noticeably more often than one with a larger tank, which matters a lot if you're not running a continuous drain hose."
   },
   {
-    "title": "",
+    "title": "Auto-Restart and Humidistat Control",
     "description": "Two features matter more than they seem for a dehumidifier running unattended: auto-restart brings the unit back on after a power blip without you having to notice and manually restart it, and a built-in humidistat automatically cycles the unit to hold a target humidity level instead of running continuously."
   }
 ];

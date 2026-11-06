@@ -52,39 +52,39 @@ export const heroImage = "https://m.media-amazon.com/images/I/51n2fiIhKCL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Refresh Rate",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Standard smooth motion",
           "6 Inch 4K UHD 60Hz 145% SRGB"
         ],
         [
-          "",
-          ""
+          "Maximum refresh headroom",
+          "ARZOPA 16.1'' 180Hz 2.5K Portable Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $170",
+          "ARZOPA 16.1'' 180Hz 2.5K Portable Monitor"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "Yodoit 4K Portable Monitor"
         ],
         [
           "No firm budget ceiling, prioritizing panel quality or resolution",
@@ -97,22 +97,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C DisplayPort Alt Mode vs HDMI",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C (DisplayPort Alt Mode)",
         "text": "Usually the port that hits the panel's full rated refresh rate, and can carry power alongside video on one cable. In this comparison: check each listing's stated USB-C refresh rate directly."
       },
       {
-        "label": "",
+        "label": "HDMI",
         "text": "Reliable for consoles and older sources, but often capped below the panel's full rated refresh, especially at higher resolutions. In this comparison: check each listing's stated HDMI refresh ceiling directly."
       }
     ],
     "note": "Check each listing's per-port refresh specs directly before assuming HDMI matches the headline rate."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Mount Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -121,7 +121,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Prefer the included kickstand or case",
-          ""
+          "Yodoit 4K Portable Monitor"
         ]
       ]
     }
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Handheld Gaming PC or Console Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Your exact source device's documented maximum output refresh rate over the connection type you'll use, checked independently from the monitor's own rated capability, since handhelds like Steam Deck and ROG Ally commonly cap at 60Hz over USB-C."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Newsoul 4K Portable Monitor 1200Nits Ultra Bright 16'' Laptop Monitor fits this specifically: True 4K resolution for full-detail timeline review."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what ASUS ProArt PA278CV 27 Inch 1440p QHD USB-C Professional Monitor offers: Only monitor in this guide with a verified broadcast-standard color space (Rec. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is headroom you may not actually use."
       }
     ]
@@ -160,11 +160,11 @@ export const howWeEvaluated = [
     "description": "Flagged high-refresh-rate marketing (144Hz, 180Hz) as unused spec spend for video editing's actual needs, timeline scrubbing and playback preview don't benefit from refresh rates above 60Hz the way gaming does."
   },
   {
-    "title": "",
+    "title": "Real HDR certification vs. 'HDR' signal support",
     "description": "Distinguished listings that merely process an HDR signal from panels with real VESA DisplayHDR certification and local dimming, none of the portable picks here have the latter."
   },
   {
-    "title": "",
+    "title": "Sustained 4K playback bandwidth",
     "description": "Noted that sustained 4K scrubbing over USB-C can drop frames if bandwidth is shared with simultaneous pass-through charging on the same cable."
   }
 ];

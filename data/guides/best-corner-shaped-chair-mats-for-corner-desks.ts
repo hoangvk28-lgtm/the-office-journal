@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/11xOvn6h45L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "BesWin Office Chair Mat for Carpet"
         ],
         [
-          "",
-          ""
+          "Standard home office",
+          "Staples Carpet Chair Mat"
         ],
         [
-          "",
+          "Larger dedicated office",
           "Maasechs Office Workstation Chair Mat for Hard Floor Protection"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "BesWin Office Chair Mat for Carpet"
         ],
         [
-          "",
+          "Mid-range pick",
           "Maasechs Office Workstation Chair Mat for Medium to Low Pile Carpet Protect"
         ],
         [
-          "",
+          "Higher budget",
           "Maasechs Office Workstation Chair Mat for Hard Floor Protection"
         ]
       ]
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Single monitor",
+          "Staples Carpet Chair Mat"
         ],
         [
           "Dual monitor or desktop tower",
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "BesWin Office Chair Mat for Carpet is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in storage, better cable management, and sturdier build quality, where Maasechs Office Workstation Chair Mat for Hard Floor Protection justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where BesWin Office Chair Mat for Carpet already covers the job at the lowest price here."
       }
     ]

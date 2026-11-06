@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/415hNNR005L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Android/Samsung wireless charging",
           "Wireless Charger for Samsung, 3-in-1 Android Charging Station"
         ],
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $23",
+          "Android/Samsung wireless station ($21.97) or bamboo organizer ($22.99)"
         ],
         [
-          "",
-          ""
+          "Up to $30",
+          "Apple 3-in-1 wireless station ($25.68) or Pezin & Hulin with holders ($29.69)"
         ]
       ]
     }
@@ -110,26 +110,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Wireless Ecosystem vs Universal Cable-Based",
     "cards": [
       {
-        "label": "",
+        "label": "Wireless (Apple or Android-specific)",
         "text": "No cables needed for supported devices, but locked to one ecosystem's wireless charging standard, useless for the other brand's devices."
       },
       {
-        "label": "",
+        "label": "Cable-based bamboo organizer",
         "text": "Works with any device from any brand as long as you have the right cable, but requires cables and typically a separate power adapter."
       }
     ],
     "note": "If everyone at your desk uses the same ecosystem (all Apple or all Android), a wireless station is more convenient; for mixed devices, a universal cable organizer is more practical."
   },
   {
-    "subheading": "",
+    "subheading": "By Device Ecosystem",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your devices are",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "IPhone, Apple Watch, AirPods",
           "3-in-1 Fast Wireless Charging Station for Apple Devices"
         ],
         [
@@ -144,27 +144,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Accessories Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Dedicated, shaped holders for a smartwatch band and an earbuds case rather than a flat general-purpose tray, so these smaller items don't slide around."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Pezin & Hulin's bamboo stand is the pick here specifically built with shaped holders for a watch and earbuds case."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "69) is the only pick here built specifically for that."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "97) covers that core need at the lowest price here."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Power adapter inclusion check",
     "description": "We specifically noted which listings state a power adapter is not included, since this detail changes the real total cost of ownership beyond the sticker price alone."
   },
   {
-    "title": "",
+    "title": "Wireless ecosystem compatibility",
     "description": "We distinguished stations built specifically for Apple's wireless charging standards from those built for Android/Samsung standards, since these aren't interchangeable despite similar marketing language."
   },
   {
-    "title": "",
+    "title": "Wireless vs cable-based charging",
     "description": "We compared wireless charging stands (locked to one ecosystem) against universal cable-based organizers (any device brand, cables required), since these solve different real needs."
   },
   {
-    "title": "",
+    "title": "Accessory holder specificity",
     "description": "We checked which stations include dedicated, shaped holders for a watch or earbuds case versus a general-purpose organizing tray."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $30 on the date this guide was checked; stations that only hit this tier during a temporary sale were excluded."
   }
 ];

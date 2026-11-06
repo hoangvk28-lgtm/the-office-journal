@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/51c1uDWDoaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $36",
           "ENGPOW Fireproof Document Box with Wheels"
         ],
         [
-          "",
+          "Mid-range",
           "DocSafe Fireproof Document Box with Lock"
         ],
         [
@@ -84,14 +84,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: DocSafe Fireproof Document Box with Lock, ENGPOW Fireproof Document Box with Wheels, Sbanmao 3 Drawer Mobile File Cabinet for Home Office."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: Storex Portable File Box on Wheels, dbest Products Quik Cart Standard Collapsible Rolling Crate."
       }
     ],
@@ -101,8 +101,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -120,24 +120,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "DocSafe Fireproof Document Box with Lock fits this specifically: Wheels useful given the box's own weight."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Storex Portable File Box on Wheels offers: Large dimensions for substantial capacity. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "ENGPOW Fireproof Document Box with Wheels already covers the essentials: Collapsible for storage-space savings. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -150,11 +150,11 @@ export const howWeEvaluated = [
     "description": "We considered how small caster wheels perform differently on carpet versus hard flooring, a real variable for this product category."
   },
   {
-    "title": "",
+    "title": "Honest genuine-benefit assessment",
     "description": "We compared whether wheels aid portability for each box's typical use case, or add unnecessary bulk for a lighter product more commonly carried by handle."
   },
   {
-    "title": "",
+    "title": "Wheel locking mechanism",
     "description": "We checked for a locking feature to prevent unwanted rolling when the box is meant to stay stationary."
   },
   {

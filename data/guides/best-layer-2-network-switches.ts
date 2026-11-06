@@ -56,26 +56,26 @@ export const howWeEvaluated = [
     "description": "Verified the actual port count, Gigabit vs multi-gig speed rating, and whether every port runs at the advertised speed or only some do, since several switches mix full-speed and lower-speed ports."
   },
   {
-    "title": "",
+    "title": "PoE Power Budget",
     "description": "Checked the total PoE wattage budget against realistic device counts, not just the per-port maximum, since a switch's total power pool is what actually limits how many cameras or access points it can run."
   },
   {
-    "title": "",
+    "title": "Management Depth",
     "description": "Classified each switch as unmanaged, smart/easy-managed, or fully managed Layer 2/3, since this determines what troubleshooting and segmentation options are available after installation, not just at setup."
   },
   {
-    "title": "",
+    "title": "Build & Mounting Flexibility",
     "description": "Weighed fanless vs active cooling, metal vs plastic housing, and desktop/wall/rack mounting options against the switch's likely install environment."
   },
   {
-    "title": "",
+    "title": "Real-World Documentation Honesty",
     "description": "Favored listings that clearly state cabling requirements, host port requirements, and speed caveats over ones that only advertise the theoretical maximum."
   }
 ];
 
 export const introParagraphs = [
   "Layer 2 switches handle VLAN tagging, QoS, and port mirroring at the data-link layer without routing traffic between VLANs themselves, the right tier for most small-to-medium networks where a router or firewall handles inter-VLAN routing.",
-  ""
+  "We compared this cluster on VLAN capacity, QoS depth, and multi-gig speed options, since Layer 2 managed switches now span everything from basic 8-port units to 2.5G multi-gig models."
 ];
 
 export const lastUpdated = "2026-08-14";

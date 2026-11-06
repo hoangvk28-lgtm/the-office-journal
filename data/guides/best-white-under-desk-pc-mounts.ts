@@ -61,42 +61,42 @@ export const heroImage = "https://m.media-amazon.com/images/I/31U1NGkx4qL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 77 lbs capacity",
           "Heavy Duty Under Desk PC Holder, Up to 77 lbs Load Capacity"
         ],
         [
-          "",
+          "Around 66 lbs capacity",
           "MonTEK Under Desk PC Mount"
         ],
         [
-          "",
+          "Around 50 lbs capacity",
           "TOPSKY Under Desk PC Mount"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $30",
           "Under Desk PC Mount for Standing Desk"
         ],
         [
-          "",
+          "Up to $72",
           "MonTEK Under Desk PC Mount"
         ]
       ]
@@ -106,22 +106,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "No-Drill Clamp Mount vs Screwed Bracket",
     "cards": [
       {
-        "label": "",
+        "label": "No-drill / clamp-on",
         "text": "Attaches without putting a hole in the desk, the safer choice for a rented space or furniture you don't want to modify. In this comparison: Heavy Duty Under Desk PC Holder, Up to 77 lbs Load Capacity, TOPSKY Under Desk PC Mount, monTEK Under Desk PC Mount, Under Desk PC Mount for Standing Desk."
       },
       {
-        "label": "",
+        "label": "Screwed bracket",
         "text": "Generally supports a higher weight capacity and a more rigid hold since it's anchored directly into the desk. In this comparison: Under Desk PC Mount."
       }
     ],
     "note": "Default to a no-drill mount unless you own the desk outright and need the extra capacity a screwed bracket provides."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Desk situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -130,7 +130,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Own the desk, want max stability",
-          ""
+          "Under Desk PC Mount"
         ]
       ]
     }
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavier Modern Tower Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed weight capacity meaningfully above the generic mid-tower assumption, ideally with the tested figure stated in pounds, not a vague marketing term."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Heavy Duty Under Desk PC Holder, Up to 77 lbs Load Capacity discloses the highest capacity at 77 lbs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your tower is a heavier modern build with multiple drives or a discrete GPU, where monTEK Under Desk PC Mount's higher price buys real capacity headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your case is a lightweight, standard mid-tower, where Under Desk PC Mount for Standing Desk covers the same job at a lower price."
       }
     ]

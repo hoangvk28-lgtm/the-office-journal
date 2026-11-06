@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31a9o0I8eCL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "ECHOGEAR ShockBlocker ($29.99)"
         ],
         [
-          "",
-          ""
+          "Under $35",
+          "TLP808B ($34.72)"
         ],
         [
-          "",
-          ""
+          "Under $45",
+          "Belkin Rotating Outlets ($44.99)"
         ],
         [
-          "",
-          ""
+          "Under $47",
+          "TLP118DBNET Home Theater ($46.85)"
         ]
       ]
     }
@@ -117,35 +117,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Comprehensive Data Line Protection vs AC-Only Protection",
     "cards": [
       {
-        "label": "",
+        "label": "Comprehensive (TLP118DBNET, Belkin)",
         "text": "Protects Ethernet, phone, and/or coax lines alongside AC outlets, essential if these connections carry your internet, TV, or phone service."
       },
       {
-        "label": "",
+        "label": "AC-only (TLP808B, ECHOGEAR)",
         "text": "Focuses purely on AC outlet protection, sufficient if your setup doesn't rely on wired phone, cable, or Ethernet connections."
       }
     ],
     "note": "If your home theater or office relies on a wired internet, cable, or phone connection, the added data line protection on the TLP118DBNET or Belkin picks matters. If you're wireless-only, AC protection alone may be sufficient."
   },
   {
-    "subheading": "",
+    "subheading": "By Data Line Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your connection type",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Ethernet, phone, and coax all present",
-          ""
+          "Eaton Tripp Lite TLP118DBNET"
         ],
         [
           "Phone and coax, no Ethernet needed",
-          ""
+          "Belkin Surge Protector"
         ],
         [
           "No wired data lines, AC only",
-          ""
+          "TLP808B or ECHOGEAR"
         ]
       ]
     }
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full Home Theater Setup with Wired Internet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A surge protector that specifically protects Ethernet, phone, and coax lines together, not just AC outlets alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Eaton Tripp Lite TLP118DBNET is the only pick here protecting all three data line types alongside AC outlets."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a wired home theater setup relying on Ethernet, phone, and coax connections, where the TLP118DBNET's comprehensive line protection justifies its price at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a high joule rating without data line protection, where the ECHOGEAR pick delivers 3420J for about $17 less than the TLP118DBNET."
       }
     ]
@@ -180,19 +180,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Data Line Protection Breadth",
     "description": "Compared which picks protect Ethernet, phone, and coaxial cable lines alongside standard AC outlets."
   },
   {
-    "title": "",
+    "title": "Outlet Design and Count",
     "description": "Compared total outlet count and whether outlets are fixed or independently rotating."
   },
   {
-    "title": "",
+    "title": "Joule Surge Protection Rating",
     "description": "Compared stated joule ratings across the lineup."
   },
   {
-    "title": "",
+    "title": "Connected Equipment Warranty",
     "description": "Compared documented warranty and insurance coverage amounts across the lineup."
   },
   {

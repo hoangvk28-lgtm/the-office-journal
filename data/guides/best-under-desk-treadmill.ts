@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ZbsmaRmVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Feature Set",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -72,71 +72,71 @@ export const howToChoose: HowToChooseSection[] = [
           "Walking Pad Treadmill with Handle Bar and Adjustable Incline"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Walking Pad Treadmill with Handle Bar and Adjustable Incline"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $1",
+          "LifeSpan Fitness TX6"
         ],
         [
-          "",
-          ""
+          "Up to $360",
+          "WalkingPad Z1R"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Incline vs Flat Walking",
     "cards": [
       {
-        "label": "",
+        "label": "Incline",
         "text": "Meaningfully increases calorie burn and leg engagement over flat walking. In this comparison: Walking Pad Treadmill with Handle Bar and Adjustable Incline, Pink Walking Pad Treadmill with Incline and Vibration Massage Plate."
       },
       {
-        "label": "",
+        "label": "Flat walking",
         "text": "Simpler and usually slimmer, fine for light movement rather than a fitness goal. In this comparison: Walking Pad Treadmill for Home, Walking Pad Treadmill Portable Mini Compact, WalkingPad Z1, WalkingPad P1, WalkingPad Z1R, LifeSpan Fitness TX6."
       }
     ],
     "note": "Default to flat walking unless calorie burn intensity is a real goal beyond light movement."
   },
   {
-    "subheading": "",
+    "subheading": "By Motor Power",
     "note": "Check each pick's listed motor horsepower and max speed against your actual intended pace before buying, not just the general \"treadmill\" label."
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A quiet motor and belt confirmed in reviews specifically during video call use, not just a general decibel spec."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Walking Pad Treadmill with Handle Bar and Adjustable Incline is worth checking against its listed noise level before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want incline, remote control, and heavy daily-use durability, where WalkingPad Z1R's features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want light, occasional movement during the workday, where LifeSpan Fitness TX6 covers the same job at a lower price."
       }
     ]
@@ -145,24 +145,24 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Desk clearance fit",
     "description": "Compared overall treadmill height against the roughly 9-12 inches of vertical clearance most standing desks offer, since a treadmill that's too tall simply won't slide under a real desk."
   },
   {
-    "title": "",
+    "title": "Noise level",
     "description": "Weighed motor type and stated DB ratings against the reality of taking calls nearby, since magnetic and brushless motors tend to run meaningfully quieter than louder friction-driven designs."
   },
   {
-    "title": "",
+    "title": "Safety features",
     "description": "Checked for auto-stop sensors, safety clips, and soft-start behavior, features that matter more on a treadmill than most desk gear since you're actively walking on a moving belt."
   },
   {
-    "title": "",
+    "title": "Speed and incline range",
     "description": "Compared top speed, minimum speed, and incline adjustability across picks, since a wider range supports both a slow work-day pace and a brisker walking session on the same machine."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Review sample honesty",
+    "description": "Flagged listings with a very small review count, like the LifeSpan Fitness TX6's 2 reviews, rather than treating every star rating as equally proven regardless of sample size."
   }
 ];
 

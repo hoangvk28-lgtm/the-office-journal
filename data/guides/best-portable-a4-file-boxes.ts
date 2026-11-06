@@ -57,41 +57,41 @@ export const heroImage = "https://m.media-amazon.com/images/I/31C0AH1punL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "Staples File Folder Tote"
         ],
         [
-          "",
+          "Mid-range",
           "Letter/Legal File Box with Latching Lid"
         ],
         [
           "No firm budget ceiling, prioritizing security or durability",
-          ""
+          "UNICITII File Tote Bag"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: IRIS USA 35 Qt. Letter/Legal File Box with Latching Lid, IRIS USA File Box, UNICITII File Tote Bag."
       }
     ],
@@ -101,8 +101,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -116,24 +116,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what UNICITII File Tote Bag offers: Semi-flexible frame more forgiving of size differences. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Staples File Folder Tote already covers the essentials: Most affordable pick in this comparison. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine A4 vs. US letter dimension verification",
     "description": "We honestly disclosed that we found no purpose-built A4-specific file boxes in this research; every pick here is US letter-sized, marketed loosely or not at all as A4 compatible."
   },
   {
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
     "description": "We noted that A4-specific hanging folders may need to be sourced from different regional suppliers than US letter/legal folders."
   },
   {
-    "title": "",
+    "title": "Regional availability honesty",
     "description": "We addressed the practical reality that A4-dimensioned portable file boxes are not widely available through this research's product pool."
   }
 ];

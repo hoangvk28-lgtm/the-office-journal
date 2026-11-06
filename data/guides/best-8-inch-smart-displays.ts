@@ -52,36 +52,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $NaN",
           "Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant"
         ],
         [
-          "",
-          ""
+          "Up to $NaN",
+          "Amazon Echo Show 10"
         ]
       ]
     }
@@ -90,42 +90,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Alexa vs Google Assistant Ecosystem",
     "cards": [
       {
-        "label": "",
+        "label": "Alexa (Echo Show)",
         "text": "Integrates with Amazon smart home devices and services. In this comparison: Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant, Amazon Echo Show 10."
       },
       {
-        "label": "",
+        "label": "Google Assistant (Nest Hub)",
         "text": "Integrates with Google Calendar and Google smart home devices. In this comparison: Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant."
       }
     ],
     "note": "Default to whichever ecosystem matches your existing smart home devices and calendar service."
   },
   {
-    "subheading": "",
+    "subheading": "By Voice Assistant Ecosystem",
     "note": "Check each pick's voice assistant ecosystem against your existing smart home devices and calendar service before buying, not just screen specs."
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine front-facing camera with decent resolution, and motorized tracking if you move around during calls."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant includes a front-facing camera for video calls."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger screen, motorized tracking, or better audio, where Amazon Echo Show 10's features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple clock and notification glance display, where Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant covers the same job at a lower price."
       }
     ]

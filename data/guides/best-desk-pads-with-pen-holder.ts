@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41v9DX0m7VL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Surface Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Soft feel for typing",
           "Chicvilla Acacia Wood Sticky Note Holder with 3 Pen Holders"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "KDD Desk Pad Mat Set"
         ],
         [
-          "",
+          "Wipeable, polished look",
           "Moonster 100% Full Grain Buffalo Leather Desk Pad with Ballpoint Pen & Pen"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Chicvilla Acacia Wood Sticky Note Holder with 3 Pen Holders"
         ],
         [
-          "",
+          "Mid-range pick",
           "KDD Desk Pad and Magnetic Organizer Set"
         ],
         [
-          "",
+          "Higher budget",
           "Moonster 100% Full Grain Buffalo Leather Desk Pad with Ballpoint Pen & Pen"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Leather",
     "cards": [
       {
         "label": "Chicvilla Acacia Wood Sticky Note Holder with 3 Pen Holders)",
@@ -120,19 +120,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how much coffee and food realistically ends up near your desk."
   },
   {
-    "subheading": "",
+    "subheading": "By Setup Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single keyboard and mouse",
           "KDD Desk Pad Mat Set"
         ],
         [
-          "",
+          "Dual monitor, wider setup",
           "Check for extra-large or extended sizing"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "KDD Desk Pad Mat Set is worth checking against its specific edge construction before assuming any desk pad holds up the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a wipeable, longer-lasting surface with a more polished look, where moonster 100% Full Grain Buffalo Leather Desk Pad with Ballpoint Pen & Pen justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward daily protection and comfort, where Chicvilla Acacia Wood Sticky Note Holder with 3 Pen Holders already covers the job at the lowest price here."
       }
     ]

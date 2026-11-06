@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/412noLbmfXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,20 +87,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $34",
+          "5 STARS UNITED ($27.95) or TushGuard Black ($33.99)"
         ],
         [
-          "",
-          ""
+          "$41 to $50",
+          "ComfiLife ($41.36) or Everlasting Comfort ($47.99)"
         ]
       ]
     }
@@ -120,11 +120,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If a verifiable, named credential matters to your purchase decision, 5 STARS UNITED is the only pick here that provides one directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Cooling Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Extended Workday Sitting Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A large size explicitly marketed for extended office or workday use, plus a firm-enough foam that won't compress flat by midday."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Everlasting Comfort's large size is specifically positioned around extended workday sitting, alongside 5 STARS UNITED's stated medium-firm feel."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "36) is the only pick here with that specific feature."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "95) provides that at the lowest price in this comparison."
       }
     ]
@@ -168,23 +168,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Endorsement verifiability check",
     "description": "We distinguished a named, checkable organization endorsement (like a specific chiropractic association) from generic \"doctor recommended\" language with no named source, since only the former can be independently verified."
   },
   {
-    "title": "",
+    "title": "Cooling feature comparison",
     "description": "We noted which cushions add a genuine gel layer on top of the memory foam for cooling versus standard foam alone, a real, checkable feature difference at this price tier."
   },
   {
-    "title": "",
+    "title": "Size and use-case positioning",
     "description": "We compared stated size options and which specific use cases (extended workday, multi-seat-type) each listing explicitly targets."
   },
   {
-    "title": "",
+    "title": "Cover material and portability",
     "description": "We checked cover material (velour, standard fabric) and the presence of a carry handle across this tier, consistent with the criteria used at the cheaper tier."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $50 on the date this guide was checked; cushions that only hit this tier during a temporary sale were excluded."
   }
 ];

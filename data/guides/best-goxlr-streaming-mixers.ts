@@ -17,7 +17,7 @@ export const buyingCriteria = [
     "explanation": "Streaming specifically, as opposed to just recording, usually requires a loopback function that captures your computer's own audio output and mixes it cleanly with your microphone for your audience, without your voice call partners hearing an echo of themselves. This is a distinct feature from basic USB audio interfacing, so check for it explicitly if game or call audio needs to be part of your stream."
   },
   {
-    "criterion": "",
+    "criterion": "Single-PC vs Dual-PC Routing",
     "explanation": "Most modern streaming mixers handle everything through virtual audio channels on a single PC, but some higher-end models add a second USB connection specifically for a dual-PC setup, common among gamers who run the game on one machine and streaming software on another. Check specifically for dual USB-C or dual USB-B ports if a two-computer setup is part of your plan, since single-PC routing won't cover that use case."
   },
   {
@@ -61,46 +61,46 @@ export const heroImage = "https://m.media-amazon.com/images/I/416euQVZ2XL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Microphone Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Solo streamer, 1 mic",
+          "FIFINE Gaming Audio Mixer"
         ],
         [
           "2-3 people or a co-host",
           "TC-Helicon GoXLR Revolutionary Online Broadcaster Platform with 4-Channel Mixer"
         ],
         [
-          "",
+          "4+ mics regularly",
           "RØDE RØDECaster Pro II All-in-One Audio Production Studio"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "FIFINE Gaming Audio Mixer"
         ],
         [
-          "",
+          "Mid-range pick",
           "TC Helicon GoXLR MINI Online Broadcast Mixer with USB/Audio Interface and Midas"
         ],
         [
-          "",
+          "Higher budget",
           "RØDE RØDECaster Pro II All-in-One Audio Production Studio"
         ]
       ]
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Adds voice processing, ducking, and noise gates directly on the hardware, useful but works best on top of correct gain staging, not instead of it."
       },
       {
-        "label": "",
+        "label": "Simpler, manual control (e.g. FIFINE Gaming Audio Mixer)",
         "text": "Fewer built-in effects, more straightforward operation, a practical choice while you're still learning gain staging basics."
       }
     ],
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Single-PC vs Dual-PC Routing",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,7 +133,7 @@ export const howToChoose: HowToChooseSection[] = [
           "TC-Helicon GoXLR Revolutionary Online Broadcaster Platform with 4-Channel Mixer"
         ],
         [
-          "",
+          "True dual-PC routing needed",
           "Check specifically for dual USB output support"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Game and Call Audio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated loopback or 'sample' channel so game and call audio mix cleanly with your mic without an echo for people on the call."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TC-Helicon GoXLR Revolutionary Online Broadcaster Platform with 4-Channel Mixer is worth checking against its specific loopback routing before assuming any mixer handles this cleanly."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're running multiple microphones and want onboard effects and dual-PC routing, where RØDE RØDECaster Pro II All-in-One Audio Production Studio justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're a solo streamer just starting out, where FIFINE Gaming Audio Mixer already covers the job at the lowest price here."
       }
     ]
@@ -181,7 +181,7 @@ export const howWeEvaluated = [
     "description": "Streaming specifically, as opposed to just recording, usually requires a loopback function that captures your computer's own audio output and mixes it cleanly with your microphone for your audience, without your voice call partners hearing an echo of themselves."
   },
   {
-    "title": "",
+    "title": "Single-PC vs Dual-PC Routing",
     "description": "Most modern streaming mixers handle everything through virtual audio channels on a single PC, but some higher-end models add a second USB connection specifically for a dual-PC setup, common among gamers who run the game on one machine and streaming software on another."
   },
   {

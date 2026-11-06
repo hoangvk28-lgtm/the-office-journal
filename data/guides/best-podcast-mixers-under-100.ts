@@ -60,8 +60,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $100",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -79,8 +79,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,7 +88,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Kaschun 4-Channel DJ Audio Mixer"
         ],
         [
-          "",
+          "Best overall value",
           "MAONO G1 Neo Gaming Audio Mixer Audio Interface with XLR Input & 48V"
         ]
       ]
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to MAONO G1 Neo Gaming Audio Mixer Audio Interface with XLR Input & 48V unless your specific use case points toward Kaschun 4-Channel DJ Audio Mixer's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MAONO G1 Neo Gaming Audio Mixer Audio Interface with XLR Input & 48V is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on TENLAMP G10 Creator Audio Mixer Bundle with Microphone for Streaming, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by Kaschun 4-Channel DJ Audio Mixer without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick must be new, in stock and up to $100 on the update date; expired sale pricing removes it from the qualifying set."
   },
   {
-    "title": "",
+    "title": "Budget-ladder context",
     "description": "Show the previous tier, entry podcast workflow tier and next-higher tier so readers see the real capability step instead of duplicate lists."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize mic-preamp gain/noise, mix-minus/USB routing and required accessory/setup cost against price."
   },
   {
-    "title": "",
+    "title": "Evidence split",
     "description": "We separated onboard multitrack recording and remote-guest inputs figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
-    "title": "",
+    "title": "Ownership/step-up verdict",
     "description": "Judge headphone/pad/processing workflow, warranty, software/parts/support and whether the reader should spend less or move above $100 for a meaningful upgrade."
   }
 ];

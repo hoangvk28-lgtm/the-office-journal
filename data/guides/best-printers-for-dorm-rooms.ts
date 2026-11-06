@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $54",
           "Inkless Portable Printer for Travel"
         ],
         [
-          "",
-          ""
+          "Up to $139",
+          "Canon TS6420 All"
         ]
       ]
     }
@@ -106,22 +106,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Canon TS6420 All",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Inkless Portable Printer for Travel unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Canon PIXMA TS4320 Wireless Color Inkjet Printer is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Canon TS6420 All's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Inkless Portable Printer for Travel covers the same job at a lower price."
       }
     ]
@@ -157,11 +157,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Footprint and packability",
     "description": "Weighed desk footprint against how easily each printer survives being boxed up and moved at the end of every school year, a real recurring cost for dorm buyers that home-office guides ignore."
   },
   {
-    "title": "",
+    "title": "Wireless setup difficulty",
     "description": "Checked how each printer pairs to a network, and flagged that consumer printers generally expect WPA2-Personal wifi, not the WPA2-Enterprise logins many campus networks use, since that gap trips up first-time dorm setups."
   },
   {
@@ -169,11 +169,11 @@ export const howWeEvaluated = [
     "description": "Compared upfront price and expected ink or toner cost across a four-year stay against typical campus or library printing fees, since buying isn't always the cheaper option for light printers."
   },
   {
-    "title": "",
+    "title": "Roommate-shared usability",
     "description": "Scored control panel clarity and setup simplicity for a printer that two to four roommates, not just the owner, need to add and use without repeated troubleshooting."
   },
   {
-    "title": "",
+    "title": "Ink dry-out resistance",
     "description": "Weighed inkjet vs thermal vs laser mechanisms against a 3-month summer break with no use, since inkjet cartridges left idle that long commonly dry out and need replacing."
   }
 ];

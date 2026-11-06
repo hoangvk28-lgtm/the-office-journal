@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "2 NVMe SSD in any enclosure in this list?",
-    "a": ""
+    "a": "No. Check the exact M.2 length (2230/2242/2260/2280) and keying (M-Key vs B+M Key) the enclosure supports against your specific SSD before buying, and confirm whether the enclosure supports NVMe only or also SATA M.2 drives."
   },
   {
     "q": "Why does my enclosure run slower than its advertised speed?",
@@ -49,24 +49,24 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Alq1-d8qL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By M.2 Size You Need",
     "note": "Every pick in this specific comparison runs at 20Gbps, so speed isn't the differentiator here, drive size compatibility is. 2 lengths in this comparison, including the shorter 2230/2242/2260/2280 sizes, worth checking against your specific SSD's length before ordering."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $19",
           "ICY BOX 20Gbps Enclosure with Write Protection"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "UGREEN 20Gbps NVMe/SATA Enclosure"
         ],
         [
           "No firm budget ceiling, prioritizing speed or controller quality",
@@ -79,31 +79,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "NVMe-Only vs NVMe+SATA Dual Protocol",
     "cards": [
       {
-        "label": "",
+        "label": "NVMe-Only",
         "text": "2 drive at all if that's what you own. In this comparison: MOKiN 20Gbps NVMe Enclosure, ICY BOX 20Gbps Enclosure with Write Protection, UGREEN Mac mini M4 Dock 11-in-1 with NVMe."
       },
       {
-        "label": "",
+        "label": "NVMe+SATA Dual Protocol",
         "text": "2 drives in the same enclosure, more flexible if you're not certain which protocol your SSD uses. In this comparison: UGREEN 20Gbps NVMe/SATA Enclosure for M/B+M Key, UGREEN 20Gbps NVMe/SATA Enclosure."
       }
     ],
     "note": "Most buyers with a known NVMe SSD should default to an NVMe-only pick like ICY BOX 20Gbps Enclosure with Write Protection, and only pay extra for UGREEN 20Gbps NVMe/SATA Enclosure for M/B+M Key's dual-protocol support if you're not certain which type of drive you own."
   },
   {
-    "subheading": "",
+    "subheading": "Passive vs Active Cooling",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your workload",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional file transfers",
           "UGREEN 20Gbps NVMe/SATA Enclosure for M/B+M Key"
         ],
         [
           "Sustained large transfers (video editing, backups)",
-          ""
+          "MOKiN 20Gbps NVMe Enclosure"
         ]
       ]
     }
@@ -112,24 +112,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Sustained Large File Transfers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Published tested read/write numbers using a named SSD and host, active cooling or substantial heatsink fins, and an explicit note about sustained (not just peak burst) performance."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MOKiN 20Gbps NVMe Enclosure fits this specifically: Fully fanless design for silent operation."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what UGREEN Mac mini M4 Dock 11-in-1 with NVMe offers: Highest capacity (8TB) among Mac mini dock-plus-NVMe combos in this cluster. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "ICY BOX 20Gbps Enclosure with Write Protection already covers the essentials: Physical write-protection switch is a rare, useful data-safety feature. The main thing you'd be paying extra for elsewhere in this list is a faster interface tier or dual-protocol support you may not need."
       }
     ]
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
     "description": "Weighed published tested throughput figures, fan trigger temperatures, and passive-versus-active cooling design over marketing language that repeats across nearly identical products."
   },
   {
-    "title": "",
+    "title": "Real Feature Differentiators",
     "description": "Prioritized genuine differentiators, RAID mode support, write-lock switches, health-monitoring displays, magnetic attachment systems, over generic \"fast and durable\" claims with nothing behind them."
   }
 ];

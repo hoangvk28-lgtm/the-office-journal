@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Abcxgood Desktop File Organizer Box"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Fireproof File Box with Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "UNICITII File Organizer Box"
         ],
         [
-          "",
+          "Up to $30",
           "Qozary 2 Pack File Folder Organizer Box"
         ]
       ]
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "UNICITII File Organizer Box vs Qozary 2 Pack File Folder Organizer Box",
     "cards": [
       {
-        "label": "",
+        "label": "UNICITII File Organizer Box",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to UNICITII File Organizer Box unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Fireproof File Box with Lock"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Fireproof File Box with Lock is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Qozary 2 Pack File Folder Organizer Box's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where UNICITII File Organizer Box covers the same job at a lower price."
       }
     ]
@@ -153,15 +153,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "\"Storage bag\" vs. \"tote bag\" terminology overlap",
     "description": "We confirmed genuine overlap between these terms, since several products in this comparison use both descriptors in their own product names."
   },
   {
-    "title": "",
+    "title": "Long-term storage suitability vs. transport-only use",
     "description": "We noted that a soft bag may be less suitable than a rigid box for extended stationary document storage even if adequate for occasional transport."
   },
   {
-    "title": "",
+    "title": "Carrying method comparison",
     "description": "We compared handle, strap, and lid designs across this soft-sided product category as genuine differentiators."
   },
   {

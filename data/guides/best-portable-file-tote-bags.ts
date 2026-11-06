@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "BALEINE Large Utility Tote Bag with Reinforced Bottom"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "BALEINE Large Utility Tote Bag with Reinforced Bottom"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "UNICITII File Organizer Box"
         ],
         [
-          "",
+          "Up to $30",
           "Qozary 2 Pack File Folder Organizer Box"
         ]
       ]
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "UNICITII File Organizer Box vs Qozary 2 Pack File Folder Organizer Box",
     "cards": [
       {
-        "label": "",
+        "label": "UNICITII File Organizer Box",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to UNICITII File Organizer Box unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "BALEINE Large Utility Tote Bag with Reinforced Bottom"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "BALEINE Large Utility Tote Bag with Reinforced Bottom is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Qozary 2 Pack File Folder Organizer Box's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where UNICITII File Organizer Box covers the same job at a lower price."
       }
     ]
@@ -153,7 +153,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Structural rigidity vs. rigid box tradeoff",
     "description": "We disclosed directly that a soft-sided tote provides meaningfully less protection against bending, crushing, or moisture than a rigid box, a real tradeoff for this form factor."
   },
   {
@@ -161,11 +161,11 @@ export const howWeEvaluated = [
     "description": "We verified which totes include a real structural frame supporting standard hanging folders versus those without this feature."
   },
   {
-    "title": "",
+    "title": "Handle and carrying comfort",
     "description": "We considered handle or strap comfort specific to this soft-sided category, distinct from the rigid box handles covered in our other file box guides."
   },
   {
-    "title": "",
+    "title": "Weather and spill resistance",
     "description": "We noted that a soft fabric tote is likely more vulnerable to water damage than a sealed rigid plastic or metal box."
   }
 ];

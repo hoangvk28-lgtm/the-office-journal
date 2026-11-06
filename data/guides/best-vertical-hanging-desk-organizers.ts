@@ -60,80 +60,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "JMHUD 5"
         ],
         [
-          "",
+          "Up to $48",
           "Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wall-Mounted vs No-Drill Clamp",
     "cards": [
       {
-        "label": "",
+        "label": "Wall-mounted",
         "text": "More permanent and often higher capacity, but requires drilling into drywall or a stud. In this comparison: Simple Trending Wall File Organizer, Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays."
       },
       {
-        "label": "",
+        "label": "No-drill clamp",
         "text": "Installs and removes without wall damage, the safer choice for a rented space. In this comparison: Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder, JMHUD 5, Mind Reader Desktop Organizer with Hanging File Storage."
       }
     ],
     "note": "Default to a no-drill clamp unless you own the space and want maximum capacity."
   },
   {
-    "subheading": "",
+    "subheading": "By Footprint",
     "note": "Check each pick's listed dimensions against your actual measured wall or desk-edge space before buying, not just the general size category."
   },
   {
     "subheading": "For a Renter or Shared Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine no-drill desk-edge or under-desk clamp mount, not a wall-mount requiring drilling into drywall or a stud."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder is worth checking against its listed no-drill mounting method before buying."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're organizing a heavy, varied file collection, where Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays's capacity and adjustability give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light, occasional storage for a few folders, where JMHUD 5 covers the same job at a lower price."
       }
     ]
@@ -143,18 +143,18 @@ export const howToChoose: HowToChooseSection[] = [
 export const howWeEvaluated = [
   {
     "title": "Genuine multi-tier vertical design verification",
-    "description": ""
+    "description": "We confirmed each pick uses an actual stacked multi-tier structure rather than a single horizontal pocket marketed loosely as 'vertical.'"
   },
   {
-    "title": "",
+    "title": "Per-tier weight capacity",
     "description": "We considered each tier's independent load capacity, since a vertical multi-tier design distributes weight differently than a single-pocket organizer."
   },
   {
-    "title": "",
+    "title": "Mounting-point leverage stress",
     "description": "We noted that taller vertical organizers create more leverage on their attachment point, and favored lighter mesh construction or desk-edge/freestanding designs that reduce this concern."
   },
   {
-    "title": "",
+    "title": "Cross-tier reach accessibility",
     "description": "We checked whether the topmost and bottommost tiers stay comfortably reachable, a real usability factor for taller vertical designs."
   }
 ];

@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/51WwVZ7v5AL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A few light cables",
           "Harrier Hardware Trotline Winder Black Cord Organizer"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "DEWENWILS Extension Cord Storage Reel"
         ],
         [
-          "",
+          "A large mixed bundle",
           "Amazon Basics Extension Cord Reel"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Harrier Hardware Trotline Winder Black Cord Organizer"
         ],
         [
-          "",
+          "Mid-range pick",
           "Copkim 9 Pcs Winder Retractable Charging Cord Winder"
         ],
         [
-          "",
+          "Higher budget",
           "Amazon Basics Extension Cord Reel"
         ]
       ]
@@ -113,26 +113,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Hides cables completely, needs ventilation for warm power bricks."
       },
       {
-        "label": "",
+        "label": "Sleeve/wrap",
         "text": "More flexible for adding cables, less visually contained."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under-desk hidden",
           "DEWENWILS Extension Cord Storage Reel"
         ],
         [
-          "",
+          "Surface or freestanding",
           "Copkim 9 Pcs Winder Retractable Charging Cord Winder"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequently Changing Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reusable fasteners and an open or slotted entry point rather than a fully sealed box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "DEWENWILS Extension Cord Storage Reel is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Amazon Basics Extension Cord Reel justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Harrier Hardware Trotline Winder Black Cord Organizer already covers the job at the lowest price here."
       }
     ]

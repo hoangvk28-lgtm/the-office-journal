@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "Which locking cart has the strongest track record?",
-    "a": ""
+    "a": "The Learniture Structure Series 12-Device Charging Station, with 114 reviews, the largest review base of any locking pick in this comparison."
   },
   {
     "q": "Can I route charging cables while the cart is locked?",
@@ -60,45 +60,45 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "VEVOR 16 Device Charging Station with Lock & Key"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Learniture Structure Series 12"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $185",
+          "Learniture Structure Series 12"
         ],
         [
-          "",
+          "Up to $460",
           "Pearington 30 Device Mobile Charging/Storage Cart for iPads"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Learniture Structure Series 12",
         "text": "The lower-priced option in this comparison, worth checking its capacity and charging architecture against your fleet."
       },
       {
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Learniture Structure Series 12 unless your fleet size or security needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Locking Security",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a School or Classroom Fleet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed bay geometry for your actual laptop model, zoned or timed charging for larger fleets, and a genuine locking door for unattended storage."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Learniture Structure Series 12 is worth checking against its listed capacity and charging architecture before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're managing a larger fleet needing safe zoned charging and genuine security, where Pearington 30 Device Mobile Charging/Storage Cart for iPads's higher price buys real capacity and reliability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing a small number of devices with simple charging needs, where Learniture Structure Series 12 covers the same job at a lower price."
       }
     ]

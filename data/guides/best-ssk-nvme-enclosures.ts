@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "2 NVMe SSD in any enclosure in this list?",
-    "a": ""
+    "a": "No. Check the exact M.2 length (2230/2242/2260/2280) and keying (M-Key vs B+M Key) the enclosure supports against your specific SSD before buying, and confirm whether the enclosure supports NVMe only or also SATA M.2 drives."
   },
   {
     "q": "Why does my enclosure run slower than its advertised speed?",
@@ -49,47 +49,47 @@ export const heroImage = "https://m.media-amazon.com/images/I/41FFGZjaabL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Interface Speed",
     "table": {
       "headers": [
-        "",
+        "Your host port",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "10Gbps (USB 3.2 Gen 2)",
+          "SSK M.2 NVMe/SATA SSD Enclosure"
         ],
         [
-          "",
-          ""
+          "20Gbps (USB 3.2 Gen 2x2)",
+          "SSK M.2 NVMe/SATA SSD Enclosure"
         ],
         [
-          "",
-          ""
+          "40Gbps or higher (Thunderbolt/USB4)",
+          "SSK NVMe-Only Enclosure"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $16",
+          "SSK NVMe-Only Enclosure"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "SSK NVMe/SATA Enclosure"
         ],
         [
           "No firm budget ceiling, prioritizing speed or controller quality",
-          ""
+          "SSK M.2 NVMe/SATA SSD Enclosure"
         ]
       ]
     }
@@ -98,31 +98,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "NVMe-Only vs NVMe+SATA Dual Protocol",
     "cards": [
       {
-        "label": "",
+        "label": "NVMe-Only",
         "text": "2 drive at all if that's what you own. In this comparison: SSK NVMe-Only Enclosure."
       },
       {
-        "label": "",
+        "label": "NVMe+SATA Dual Protocol",
         "text": "2 drives in the same enclosure, more flexible if you're not certain which protocol your SSD uses. 2 NVMe/SATA SSD Enclosure, SSK NVMe/SATA Enclosure."
       }
     ],
     "note": "2 NVMe/SATA SSD Enclosure's dual-protocol support if you're not certain which type of drive you own."
   },
   {
-    "subheading": "",
+    "subheading": "Passive vs Active Cooling",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your workload",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Occasional file transfers",
+          "SSK M.2 NVMe/SATA SSD Enclosure"
         ],
         [
           "Sustained large transfers (video editing, backups)",
-          ""
+          "SSK NVMe-Only Enclosure"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Sustained Large File Transfers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Published tested read/write numbers using a named SSD and host, active cooling or substantial heatsink fins, and an explicit note about sustained (not just peak burst) performance."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SSK NVMe-Only Enclosure fits this specifically: JMS583 controller chip is a proven, widely-used UASP/TRIM bridge."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "2 NVMe/SATA SSD Enclosure offers: Improved RTL9210B chip for UASP and TRIM support. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "SSK NVMe-Only Enclosure already covers the essentials: JMS583 controller chip is a proven, widely-used UASP/TRIM bridge. The main thing you'd be paying extra for elsewhere in this list is a faster interface tier or dual-protocol support you may not need."
       }
     ]
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "Weighed published tested throughput figures, fan trigger temperatures, and passive-versus-active cooling design over marketing language that repeats across nearly identical products."
   },
   {
-    "title": "",
+    "title": "Real Feature Differentiators",
     "description": "Prioritized genuine differentiators, RAID mode support, write-lock switches, health-monitoring displays, magnetic attachment systems, over generic \"fast and durable\" claims with nothing behind them."
   }
 ];

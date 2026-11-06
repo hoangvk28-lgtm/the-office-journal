@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41s6pIRivTL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "Solid Iron Desktop Tape Dispenser"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Brampton Golf Grip Tape Roll"
         ],
         [
-          "",
+          "High-volume packing",
           "Solid Iron Desktop Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Solid Iron Desktop Tape Dispenser"
         ],
         [
-          "",
+          "Mid-range pick",
           "LDS Industry 2 inches Desktop Table Top/Wall Mounted Tape and Label Dispenser"
         ],
         [
-          "",
+          "Higher budget",
           "Solid Iron Desktop Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "Solid Iron Desktop Tape Dispenser)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Brampton Golf Grip Tape Roll"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "LDS Industry 2 inches Desktop Table Top/Wall Mounted Tape and Label Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Brampton Golf Grip Tape Roll is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Solid Iron Desktop Tape Dispenser justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Solid Iron Desktop Tape Dispenser already covers the job at the lowest price here."
       }
     ]

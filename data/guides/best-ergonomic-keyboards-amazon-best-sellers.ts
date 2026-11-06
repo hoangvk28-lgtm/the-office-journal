@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EsewSK2nL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Minimal adjustment period",
           "Logitech Wave Keys Wireless Ergonomic Keyboard"
         ],
         [
@@ -79,19 +79,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $45",
           "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"
         ],
         [
-          "",
+          "Mid-range",
           "Logitech Wave Keys Wireless Ergonomic Keyboard"
         ],
         [
@@ -102,14 +102,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: Perixx PERIBOARD-512B Wired Ergonomic Keyboard."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest, Logitech Wave Keys Wireless Ergonomic Keyboard, Arteck Split Ergonomic Keyboard with Cushioned Wrist and Palm Rest."
       }
     ]
@@ -118,12 +118,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest cost, quiet typing",
           "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"
         ],
         [
@@ -137,24 +137,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest fits this specifically: Only split (not just curved) layout in this list."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest offers: Only split (not just curved) layout in this list. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Perixx PERIBOARD-512B Wired Ergonomic Keyboard already covers the essentials: Cheapest true split layout in this list. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -171,7 +171,7 @@ export const howWeEvaluated = [
     "description": "Compared molded plastic, cushioned foam, and memory foam rests, and measured how much extra desk depth each rest adds beyond the key deck itself."
   },
   {
-    "title": "",
+    "title": "Connection type and range",
     "description": "4GHz USB receiver, and multi-device Bluetooth options against setup simplicity and how many other wireless devices already compete for a connection on a typical desk."
   },
   {
@@ -179,7 +179,7 @@ export const howWeEvaluated = [
     "description": "Cross-checked each product's real Amazon title and description against ergonomic design claims, since bestseller rank reflects sales volume and price point, not a verified ergonomics rating."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed split or wave design quality, rest material, and connection type against price, from the wired split pick to the multi-device wireless split keyboard."
   }
 ];

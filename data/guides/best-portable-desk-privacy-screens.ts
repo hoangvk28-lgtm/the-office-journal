@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "VIVO Gray Clamp-on 24 x 24 inch Privacy Panel"
         ],
         [
-          "",
+          "Laptop screen",
           "VIVO Gray Clamp-on 24 x 24 inch Privacy Panel"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $13",
           "2 Pack Desk Dividers for Students"
         ],
         [
-          "",
+          "Mid-range",
           "Poola Voidra Foldable Felt Desk Privacy Panel 16 x 48 Inches"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: Poola Voidra Foldable Felt Desk Privacy Panel 16 x 48 Inches, Dunzoom Large Desk Dividers for Students Acoustic Portable Fold Classroom Table Privacy Felt Boards for Workstation Office Home Furniture Partition Dividers(Retro, Eorbow 6 Pack Acoustic Desk Privacy Panel."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: VIVO Gray Clamp-on 24 x 24 inch Privacy Panel, 2 Pack Desk Dividers for Students."
       }
     ]
@@ -111,16 +111,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Poola Voidra Foldable Felt Desk Privacy Panel 16 x 48 Inches"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "VIVO Gray Clamp-on 24 x 24 inch Privacy Panel"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "VIVO Gray Clamp-on 24 x 24 inch Privacy Panel fits this specifically: Quick clamp setup, no bases or clips to configure."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what VIVO Gray Clamp-on 24 x 24 inch Privacy Panel offers: Freestanding, no mount hardware to remove when relocating. That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "2 Pack Desk Dividers for Students already covers the essentials: Fastest setup/teardown of any pick in this guide. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]
@@ -164,7 +164,7 @@ export const howWeEvaluated = [
     "description": "Distinguished quick clamp or freestanding designs that set up in seconds from foldable designs requiring bases and clips, since setup time matters more for someone who relocates frequently than for a fixed installation."
   },
   {
-    "title": "",
+    "title": "Coverage size vs. transport convenience tradeoff",
     "description": "Weighed how much desk coverage each pick provides against how easily it packs down for transport, since larger coverage generally means a bulkier item to carry."
   }
 ];

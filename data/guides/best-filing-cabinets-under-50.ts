@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Er1NaNaYL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $43",
+          "Yoonkool ($42.99)"
         ],
         [
-          "",
-          ""
+          "Under $50",
+          "DUMOS Rolling Storage ($49.97), DUMOS Small Wood ($49.99), or SISESOL ($49.99)"
         ]
       ]
     }
@@ -110,7 +110,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Locked Metal vs Unlocked Wood Rolling Cabinets",
     "cards": [
       {
-        "label": "",
+        "label": "Locked metal (SISESOL, Yoonkool)",
         "text": "Provides genuine document security with a keyed lock, better for sensitive files, tax documents, or shared spaces."
       },
       {
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If document security matters, the SISESOL or Yoonkool's lock is worth prioritizing. If you just need organized storage and a matching desk aesthetic, the DUMOS picks deliver that without the lock feature."
   },
   {
-    "subheading": "",
+    "subheading": "By Mobility Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your placement needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -134,11 +134,11 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Fixed under-desk placement with wheels",
-          ""
+          "Either DUMOS pick"
         ],
         [
-          "",
-          ""
+          "Fixed, stationary placement",
+          "Yoonkool (no wheels)"
         ]
       ]
     }
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Small Home Office Needing Extra Surface Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A filing cabinet with a flat, sturdy top surface specifically designed to double as a printer stand or additional workspace."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The DUMOS Storage Cabinet's flat top surface is specifically designed to hold a printer or other office equipment."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want genuine lock security combined with the highest weight capacity and tip-resistant wheels, where the SISESOL pick delivers all three at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want basic lock security without needing wheels, where the Yoonkool pick covers that for about $7 less."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Lock Mechanism",
     "description": "Checked which picks include a genuine keyed lock versus no locking mechanism at all."
   },
   {
-    "title": "",
+    "title": "Wheel and Caster Stability",
     "description": "Compared caster count, locking mechanisms, and tip-prevention design across mobile picks."
   },
   {
-    "title": "",
+    "title": "Material and Construction",
     "description": "Distinguished metal construction from wood-finish designs and their respective weight capacities."
   },
   {
-    "title": "",
+    "title": "Multi-Purpose Functionality",
     "description": "Checked whether a cabinet's top surface doubles as a printer stand or other functional space."
   },
   {
-    "title": "",
+    "title": "Drawer Organization Features",
     "description": "Compared hanging rail adjustability and file size compatibility across the lineup."
   }
 ];

@@ -64,35 +64,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "ZUAVIALA Under Desk PC Mount，No"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "VIVO Adjustable Under Desk and Wall Mount for PC 3.5"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "VIVO Under"
         ],
         [
-          "",
+          "Up to $72",
           "MonTEK Under Desk PC Mount"
         ]
       ]
@@ -113,16 +113,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers with a standard mid-tower should default to TOPSKY Under Desk PC Mount No Drill CPU Holder 50 lb Capacity unless their case is heavier than average."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Desk situation",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Can't drill into the desk",
-          ""
+          "VIVO Adjustable Under Desk and Wall Mount for PC 3.5"
         ],
         [
           "Own the desk, want max stability",
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavier Modern Tower Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed weight capacity meaningfully above the generic mid-tower assumption, ideally with the tested figure stated in pounds, not a vague marketing term."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MonTEK Under Desk PC Mount discloses the highest capacity at 66 lbs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your tower is a heavier modern build with multiple drives or a discrete GPU, where monTEK Under Desk PC Mount's higher price buys real capacity headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your case is a lightweight, standard mid-tower, where VIVO Under covers the same job at a lower price."
       }
     ]

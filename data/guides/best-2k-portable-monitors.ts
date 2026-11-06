@@ -52,39 +52,39 @@ export const heroImage = "https://m.media-amazon.com/images/I/51kORE12J1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Refresh Rate",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Standard smooth motion",
           "5 Inch 2K QHD 120Hz Second Screen"
         ],
         [
-          "",
+          "Maximum refresh headroom",
           "Upperizon Portable Monitor 16 inch 2K QHD 106% SRGB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $160",
           "Upperizon Portable Monitor 16 inch 2K QHD 106% SRGB"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "VisionOwl Portable Monitor 16 Inch 2.5K QHD 144Hz"
         ],
         [
           "No firm budget ceiling, prioritizing panel quality or resolution",
@@ -97,27 +97,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C DisplayPort Alt Mode vs HDMI",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C (DisplayPort Alt Mode)",
         "text": "Usually the port that hits the panel's full rated refresh rate, and can carry power alongside video on one cable. In this comparison: check each listing's stated USB-C refresh rate directly."
       },
       {
-        "label": "",
+        "label": "HDMI",
         "text": "Reliable for consoles and older sources, but often capped below the panel's full rated refresh, especially at higher resolutions. 5K QHD 110% SRGB 144Hz USB-C, Upperizon Portable Monitor 16 inch 2K QHD 145% SRGB, Upperizon Portable Monitor 16 inch 2K QHD 106% SRGB."
       }
     ],
     "note": "If you're connecting a console or HDMI-only source specifically, verify the actual HDMI refresh ceiling on your chosen pick, since several picks here cap lower over HDMI than their headline spec suggests."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Mount Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Want a permanent mounted setup",
-          ""
+          "VisionOwl Portable Monitor 16 Inch 2.5K QHD 144Hz"
         ],
         [
           "Prefer the included kickstand or case",
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Handheld Gaming PC or Console Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Your exact source device's documented maximum output refresh rate over the connection type you'll use, checked independently from the monitor's own rated capability, since handhelds like Steam Deck and ROG Ally commonly cap at 60Hz over USB-C."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5K QHD 144Hz fits this specifically: Exact resolution (2560x1600) clearly disclosed, more vertical space than 2560x1440."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what ASUS ProArt PA278CV 27 Inch 1440p QHD USB-C Professional Monitor offers: factory-calibrated color accuracy (Delta E < 2). That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Upperizon Portable Monitor 16 inch 2K QHD 106% SRGB already covers the essentials: Explicit resolution disclosure. The main thing you'd be paying extra for elsewhere in this list is headroom you may not actually use."
       }
     ]
@@ -161,7 +161,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "OS scaling requirement at each screen size",
-    "description": ""
+    "description": "Weighed how aggressively each panel's resolution forces OS scaling for comfortable text, noting that larger 18.5-inch panels need less aggressive scaling than the same resolution at 15.6-16 inches."
   },
   {
     "title": "Bandwidth and power draw versus 1080p",

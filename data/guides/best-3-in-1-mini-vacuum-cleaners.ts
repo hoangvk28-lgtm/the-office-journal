@@ -48,7 +48,7 @@ export const faq = [
     "a": "Corded gives consistent suction with no battery to manage and costs less, while cordless offers real portability but typically runs only 8 to 22 minutes with suction weakening as the charge drains."
   },
   {
-    "q": "",
+    "q": "Are mini vacuums loud?",
     "a": "Cordless models typically run around 55 to 62 DB, noticeable in a quiet shared office; check buyer reviews for real-world noise impressions if discretion matters."
   }
 ];
@@ -61,80 +61,80 @@ export const heroImage = "https://m.media-amazon.com/images/I/41xaO03JmnL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Keyboard crumbs",
+          "Handheld Cordless Car Vacuum"
         ],
         [
-          "",
-          ""
+          "Whole-desk cleaning",
+          "SakerPlus Mini Vacuum Cleaner"
         ],
         [
-          "",
+          "Car interior",
           "Fanttik Slim V8 APEX Cordless Car Vacuum & Air Duster"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Handheld Cordless Car Vacuum"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "V06 Cordless Handheld Vacuum"
         ],
         [
-          "",
+          "Higher budget",
           "Fanttik Slim V8 APEX Cordless Car Vacuum & Air Duster"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Corded vs Cordless",
     "cards": [
       {
-        "label": "",
+        "label": "Corded (e.g. Handheld Cordless Car Vacuum)",
         "text": "Consistent suction, no battery to manage, lower price."
       },
       {
-        "label": "",
+        "label": "Cordless",
         "text": "Portable and quiet, but suction fades as the battery drains."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Suction Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Everyday light cleaning",
+          "SakerPlus Mini Vacuum Cleaner"
         ],
         [
-          "",
-          ""
+          "Maximum suction power",
+          "V06 Cordless Handheld Vacuum"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tight Keyboard Crevices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A narrow brush or crevice nozzle attachment included in the box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SakerPlus Mini Vacuum Cleaner is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Fanttik Slim V8 APEX Cordless Car Vacuum & Air Duster justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Handheld Cordless Car Vacuum already covers the job at the lowest price here."
       }
     ]

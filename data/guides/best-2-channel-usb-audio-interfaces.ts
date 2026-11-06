@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Clean preamp gain, typically quoted in DB, determines how much you can boost a quiet microphone signal before hiss becomes audible, and this varies more between interfaces than most buyers expect. A quiet dynamic microphone needs meaningfully more clean gain than a condenser mic does, so check the specific DB figure against the microphone you'll actually pair it with."
   },
   {
-    "criterion": "",
+    "criterion": "USB vs Thunderbolt Latency",
     "explanation": "Latency is the delay between making a sound and hearing it played back, determined largely by connection type and driver quality rather than price alone. USB interfaces now commonly achieve latency low enough for real-time monitoring on most systems, while Thunderbolt offers even lower latency but mainly matters for larger multi-channel professional setups rather than a 1-2 input home setup. Check for a stated round-trip latency figure rather than assuming connection type alone tells the story."
   },
   {
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Fo0QEzlBL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Input Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,22 +73,22 @@ export const howToChoose: HowToChooseSection[] = [
           "XTUGA USB Audio Interface for PC, Interface for Recording Music Computer"
         ],
         [
-          "",
+          "Two sources at once",
           "M-AUDIO M-Track Duo USB Audio Interface"
         ],
         [
-          "",
+          "Multiple simultaneous sources",
           "Focusrite Scarlett 2i2 4th Gen USB-C Audio Interface"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,25 +96,25 @@ export const howToChoose: HowToChooseSection[] = [
           "XTUGA USB Audio Interface for PC, Interface for Recording Music Computer"
         ],
         [
-          "",
+          "Mid-range pick",
           "BOMGE mini 2 Channel USB Audio Interface for Recording"
         ],
         [
-          "",
+          "Higher budget",
           "Focusrite Scarlett 2i2 4th Gen USB-C Audio Interface"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs Thunderbolt Connectivity",
     "cards": [
       {
         "label": "M-AUDIO M-Track Duo USB Audio Interface)",
         "text": "Works on virtually any modern computer, often runs on bus power alone, plenty of speed for a small home setup at a lower price."
       },
       {
-        "label": "",
+        "label": "Thunderbolt (higher-end setups)",
         "text": "Lower latency and higher bandwidth for larger channel counts, but costs more and needs a Thunderbolt port."
       }
     ],
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Bit Depth and Sample Rate",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Podcasting and Streaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Low-latency direct monitoring so you can hear your own voice without delay while recording or streaming live."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "M-AUDIO M-Track Duo USB Audio Interface is worth checking against its specific direct-monitoring spec before assuming any interface handles live monitoring equally well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You regularly record multiple sources at once and want the best all-around pick, where Focusrite Scarlett 2i2 4th Gen USB-C Audio Interface justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're recording a single source, where XTUGA USB Audio Interface for PC, Interface for Recording Music Computer already covers the job at the lowest price here."
       }
     ]
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "Clean preamp gain, typically quoted in DB, determines how much you can boost a quiet microphone signal before hiss becomes audible, and this varies more between interfaces than most buyers expect."
   },
   {
-    "title": "",
+    "title": "USB vs Thunderbolt Latency",
     "description": "Latency is the delay between making a sound and hearing it played back, determined largely by connection type and driver quality rather than price alone."
   },
   {

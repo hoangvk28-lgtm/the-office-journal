@@ -36,7 +36,7 @@ export const faq = [
     "a": "Otherwise you're paying more for a speed ceiling you can't actually use, and a Gigabit adapter performs identically in that case."
   },
   {
-    "q": "",
+    "q": "Do I need a new Ethernet cable for 2.5GbE?",
     "a": "5GbE is designed to work over existing Cat 5e cabling or better, unlike 5G/10G which typically need Cat6a."
   }
 ];
@@ -49,23 +49,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41OJU+YcmIL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Confirm Your Network Actually Supports 2.5G",
     "intro": "Paired with Gigabit-only gear, you'll see no speed benefit over a cheaper Gigabit adapter."
   },
   {
-    "subheading": "",
+    "subheading": "Host Port Requirements",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your USB-C port",
+        "Expected 2.5G performance"
       ],
       "rows": [
         [
-          "",
-          ""
+          "USB 3.0 (5Gbps) or better",
+          "Full 2.5Gbps achievable"
         ],
         [
-          "",
+          "USB 2.0 only",
           "5Gbps, effectively capped much lower"
         ]
       ]
@@ -75,30 +75,30 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Ethernet Speed & Chipset",
     "description": "5G/5G/10G) and, where published, the specific Realtek, Marvell, or other controller chip driving it, rather than assuming USB-C connector shape implies a speed tier."
   },
   {
-    "title": "",
+    "title": "Host & OS Compatibility",
     "description": "2 Gen 2 vs Thunderbolt/USB4) and confirmed OS support, since several products in this cluster have real exclusions (Android, Nintendo Switch, older Apple silicon)."
   },
   {
-    "title": "",
+    "title": "Real-World Documentation",
     "description": "Favored listings that publish honest real-world throughput or explicit host-speed caveats over ones that only quote the theoretical link rate."
   },
   {
-    "title": "",
+    "title": "Build Quality & Durability",
     "description": "Weighed braided cable construction, aluminum housing, and reinforced connectors, since these adapters see frequent plug/unplug cycles in daily use."
   },
   {
-    "title": "",
+    "title": "Genuine Feature Differentiators",
     "description": "Prioritized real differences like Wake-on-LAN, PXE boot, PD passthrough wattage, and multiport expansion over marketing language that repeats across nearly identical adapters."
   }
 ];
 
 export const introParagraphs = [
   "5GbE has become a mainstream multi-gig tier, with current adapters from UGREEN, Cable Matters, Satechi, Plugable, and TP-Link all built around similar Realtek chipsets, but real-world speed still depends heavily on your specific USB host generation.",
-  ""
+  "We required explicit 2.5GBASE-T support with backward negotiation to Gigabit, and checked which listings honestly document their required host USB mode versus which ones just quote the peak 2.5Gbps number."
 ];
 
 export const lastUpdated = "2026-08-13";

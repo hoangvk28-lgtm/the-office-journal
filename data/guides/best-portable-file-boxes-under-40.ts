@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51cotb9KcyL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -81,31 +81,31 @@ export const howToChoose: HowToChooseSection[] = [
           "Fireproof File Box with Lock, Document Storage Organizer"
         ],
         [
-          "",
+          "Anti-static, easy-clean fireproof protection",
           "ENGPOW File Box with Lock, Zipper & Pockets"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "Fireproof File Box, Document Storage ($29.99)"
         ],
         [
-          "",
-          ""
+          "Under $32",
+          "Oterri with Wheels ($31.99) or ENGPOW Zipper ($31.99)"
         ],
         [
-          "",
-          ""
+          "Under $38",
+          "ENGPOW 5200 degrees F ($37.99)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Withstands temperatures from 2000 degrees F to 5200 degrees F, prioritizing document protection during a fire over ease of movement."
       },
       {
-        "label": "",
+        "label": "Wheeled mobility (Oterri)",
         "text": "Trades fireproof rating for smooth-rolling casters, prioritizing everyday convenience over disaster protection."
       }
     ],
@@ -128,12 +128,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Fire Resistance Level Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your risk tolerance",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Maximum available protection",
           "ENGPOW 5200 degrees F Fireproof Document Box"
         ],
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Storing Irreplaceable Documents Like Passports or Birth Certificates Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A fireproof rating backed by independent certification like SGS or UL94, plus dedicated small pockets sized for passports and cards."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The SGS-certified Fireproof File Box and both ENGPOW picks include dedicated passport and card pockets alongside their fire ratings."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the maximum available fire-resistance rating, where the ENGPOW 5200 degrees F pick withstands significantly higher temperatures than the 2000 degrees F-rated alternatives."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want solid certified fireproofing without paying for the highest rating, where the Fireproof File Box delivers SGS-certified 2000 degrees F protection for about $8 less."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Fire Resistance Rating",
     "description": "Compared stated maximum temperature tolerance and independent flame-retardant testing certifications across the lineup."
   },
   {
-    "title": "",
+    "title": "Mobility Design",
     "description": "Checked which picks include rolling casters versus requiring handle-based carrying."
   },
   {
-    "title": "",
+    "title": "Lock Mechanism",
     "description": "Compared combination lock designs and whether keys are required for access."
   },
   {
-    "title": "",
+    "title": "Organizational Pockets",
     "description": "Compared interior and exterior pocket systems for small items like passports, cards, and USB drives."
   },
   {
-    "title": "",
+    "title": "Collapsibility and Storage Footprint",
     "description": "Checked whether each pick folds flat for compact storage when not in use."
   }
 ];

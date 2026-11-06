@@ -4,7 +4,7 @@ import type { GuideProduct, HowToChooseSection } from "@/components/guide/RichGu
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "2.5GbE Speed Requires Both a Compatible Host Connection and a 2.5GbE-Capable Network Device",
     "explanation": "5Gbps for the full speed to actually materialize, not just the dock itself. 5GbE capability, and matters less if you've already upgraded your networking hardware to support multi-gig speeds."
   },
   {
@@ -31,7 +31,7 @@ export const faq = [
     "a": "5GbE performance requires a compatible device on both ends of the connection, not just the dock itself."
   },
   {
-    "q": "",
+    "q": "What's the most common mistake buyers make when choosing a USB4 dock with 2.5GbE?",
     "a": "5GbE-capable, resulting in speeds no faster than standard Gigabit Ethernet despite the dock's own capability."
   },
   {
@@ -60,55 +60,55 @@ export const heroImage = "https://m.media-amazon.com/images/I/41i3VTbAlnL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Triple 4K display support with 2.5GbE for IT deployments",
+          "StarTech USB4 Driverless Dock"
         ],
         [
-          "",
+          "Confirmed Mac compatibility with genuine 2.5GbE",
           "40Gbps MacBook Docking Station, 21-in-1"
         ],
         [
           "5GbE hub with IT tools",
-          ""
+          "StarTech 3-Port USB-C Hub"
         ],
         [
-          "",
+          "Built-in ultra-fast NVMe storage plus 2.5GbE",
           "Sonnet Echo 13 Thunderbolt 5 SSD Dock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $75",
+          "StarTech 3-Port USB-C Hub ($73.99)"
         ],
         [
-          "",
-          ""
+          "Under $120",
+          "40Gbps MacBook Docking Station ($119.99)"
         ],
         [
-          "",
-          ""
+          "Under $180",
+          "StarTech USB4 Driverless Dock ($179.99)"
         ],
         [
-          "",
-          ""
+          "Under $450",
+          "Sonnet Echo 13 SSD Dock ($449.99)"
         ]
       ]
     }
@@ -128,16 +128,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you just need to add fast Ethernet to a MacBook or tablet without display needs, the compact StarTech hub covers that efficiently. If you're building a complete multi-display workstation, one of the full-featured docks is worth the investment."
   },
   {
-    "subheading": "",
+    "subheading": "By Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Windows or ChromeOS only",
+          "StarTech USB4 Driverless Dock"
         ],
         [
           "Mac (M3/M4) or mixed Mac/Windows",
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For NAS-Connected Home or Studio Networks Specifically",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Look for",
+        "text": "A dock that specifically discloses its 2.5GbE requirements (host connection type and network device compatibility), so you can confirm your router or NAS will actually deliver the full 2.5Gbps speed."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5GbE-compatible device on the network side."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want built-in ultra-fast NVMe storage combined with 2.5GbE and premium multi-display support, where the Sonnet Echo 13 justifies its $449.99 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You just need to add 2.5GbE networking to a laptop or tablet without display needs, where the StarTech 3-Port Hub delivers that for $73.99."
       }
     ]
   }
@@ -176,11 +176,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "2.5GbE Requirements",
     "description": "5GbE requires Thunderbolt specifically or works over standard USB-C."
   },
   {
-    "title": "",
+    "title": "Cross-Platform Compatibility",
     "description": "Compared confirmed Mac compatibility against Windows/ChromeOS-only designs."
   },
   {
@@ -188,7 +188,7 @@ export const howWeEvaluated = [
     "description": "Compared docks offering integrated NVMe storage or premium multi-display support."
   },
   {
-    "title": "",
+    "title": "Power Delivery Transparency",
     "description": "Compared how clearly each listing discloses actual power allocation and reserved wattage."
   },
   {

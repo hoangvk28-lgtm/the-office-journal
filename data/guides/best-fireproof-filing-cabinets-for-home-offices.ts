@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Letaya Mobile File Cabinet with Lock"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Yizosh Metal Garage Storage Cabinet with 2 Doors and 5 Adjustable Shelves"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $45",
           "SISESOL 2 Drawer File Cabinet with Lock"
         ],
         [
-          "",
+          "Up to $145",
           "Yizosh Metal Garage Storage Cabinet with 2 Doors and 5 Adjustable Shelves"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Locking vs Non-Locking",
     "cards": [
       {
-        "label": "",
+        "label": "Locking cabinet",
         "text": "Genuine security for sensitive documents, worth it if the cabinet sits in a shared or semi-public space. In this comparison: Yizosh Metal Garage Storage Cabinet with 2 Doors and 5 Adjustable Shelves, Letaya Mobile File Cabinet with Lock, Letaya 3 Drawer Mobile File Cabinet with Lock, Letaya 2 Drawer File Cabinet with Lock, SISESOL 2 Drawer File Cabinet with Lock."
       },
       {
-        "label": "",
+        "label": "Non-locking",
         "text": "Simpler and usually cheaper, fine for a private home office. In this comparison: GYIIYUO 2 Drawer File Cabinet with 24 Inch Extended Desktop."
       }
     ],
     "note": "Default to locking unless the cabinet stays in a fully private, controlled-access space."
   },
   {
-    "subheading": "",
+    "subheading": "By Drawer Count",
     "note": "Check each pick's listed drawer count and interior dimensions against your actual filing volume before buying."
   },
   {
-    "subheading": "",
+    "subheading": "For Legal-Size Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed letter and legal-size hanging file compatibility, not just general drawer dimensions."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Yizosh Metal Garage Storage Cabinet with 2 Doors and 5 Adjustable Shelves is worth checking against its listed hanging-file compatibility before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real steel construction, anti-tip safety, and full-extension drawers, where Yizosh Metal Garage Storage Cabinet with 2 Doors and 5 Adjustable Shelves's higher price buys real build-quality headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light, occasional storage for a small volume of documents, where SISESOL 2 Drawer File Cabinet with Lock covers the same job at a lower price."
       }
     ]
@@ -159,7 +159,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Buyer feedback volume and consistency",
-    "description": ""
+    "description": "Weighed star rating against review count for each pick, since a high rating on a small sample carries less confidence than a similar rating across a large, consistent review base."
   },
   {
     "title": "Value for price given the absence of fire protection",

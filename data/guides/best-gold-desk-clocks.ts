@@ -33,11 +33,11 @@ export const faq = [
   },
   {
     "q": "Which has the most reviews?",
-    "a": ""
+    "a": "The Peakeep Slim Digital Mirror Aesthetic Alarm Clock, with 2,643 reviews at 4.6 stars."
   },
   {
     "q": "What's the cheapest metal option?",
-    "a": ""
+    "a": "The rjuwurv Metal Desk Clock at $9.99, with 1,512 reviews."
   },
   {
     "q": "Is there a silent option?",
@@ -57,16 +57,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41+mFh63FwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Movement Type",
     "table": {
       "headers": [
-        "",
+        "What you want",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "A quiet, non-ticking movement",
+          "QIYAODECO Vintage Table Clock Silent Mantel Gold Analog 8.3×9.1in"
         ],
         [
           "A digital, fully silent display",
@@ -74,43 +74,43 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Maximum visual personality (flip or mechanical action)",
-          ""
+          "QIYAODECO Vintage Table Clock Silent Mantel Gold Analog 8.3×9.1in"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "Rjuwurv Metal Desk Clock"
         ],
         [
-          "",
+          "Mid-range",
           "Maxspace Metal Golden Table Clock"
         ],
         [
           "No firm budget ceiling, prioritizing material or brand",
-          ""
+          "QIYAODECO Vintage Table Clock Silent Mantel Gold Analog 8.3×9.1in"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs Corded",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-Powered",
         "text": "Runs on batteries alone, so it can sit anywhere on a desk or shelf with no cord in the way, at the cost of an eventual battery swap. 1in, VinSees Modern Golden Table Clock on Stand, Maxspace Metal Golden Table Clock."
       },
       {
-        "label": "",
+        "label": "Corded (Plug-In)",
         "text": "Draws continuous power from a wall outlet, often adding features like USB charging ports or a battery backup for outages, but it has to sit within cord length of a plug. In this comparison: none in this specific roundup, since most picks here are battery powered."
       }
     ],
@@ -120,17 +120,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Purpose: Everyday Use vs Gift",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your purpose",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Everyday functional desk use",
+          "QIYAODECO Vintage Table Clock Silent Mantel Gold Analog 8.3×9.1in"
         ],
         [
           "A gift or milestone piece",
-          ""
+          "Rjuwurv Metal Desk Clock"
         ]
       ]
     }
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buying as a Gift Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine material language, such as hand carved, real marble, or real crystal, rather than a marble-look or crystal-look plastic finish, plus a stated production or engraving lead time if personalization is involved."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Rjuwurv Metal Desk Clock fits this specifically: Cheapest option with a genuine metal body. That's the kind of detail that signals a deliberate gift rather than a purely functional purchase."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "1in offers: Largest, most substantial piece in this comparison. That's a real material or craftsmanship upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Rjuwurv Metal Desk Clock already covers the essentials: Cheapest option with a genuine metal body. The main thing you'd be paying extra for elsewhere in this list is styling rather than function."
       }
     ]
@@ -169,15 +169,15 @@ export const howWeEvaluated = [
     "description": "We checked whether each product uses a genuine metal body versus a decorative or mirror finish, rather than assuming \"gold\" means the same construction across every listing."
   },
   {
-    "title": "",
+    "title": "Price against design substance",
     "description": "We compared value across a wide price range, from basic metal clocks to premium mantel-style pieces."
   },
   {
     "title": "Review volume and rating together",
-    "description": ""
+    "description": "We weighted both the size of the review base and the actual rating, since some budget options have larger, more proven review histories than pricier alternatives."
   },
   {
-    "title": "",
+    "title": "Movement type",
     "description": "We noted where a clock specifically advertises a silent or non-ticking movement, relevant for desk placement near focused work."
   }
 ];

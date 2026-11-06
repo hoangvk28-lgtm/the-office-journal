@@ -61,76 +61,76 @@ export const heroImage = "https://m.media-amazon.com/images/I/31ACKzpdVoL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Bay Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "2-bay capacity",
+          "Synology DS225+"
         ],
         [
-          "",
-          ""
+          "2-bay capacity",
+          "Synology DS223"
         ],
         [
-          "",
-          ""
+          "2-bay capacity",
+          "UGREEN NAS DXP2800"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $200",
+          "UGREEN NAS DH2300"
         ],
         [
-          "",
-          ""
+          "Up to $407",
+          "Asustor AS5402T"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Bay Count vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "UGREEN NAS DH2300",
         "text": "The lower-priced option in this comparison, worth checking its CPU and RAM against your actual workload."
       },
       {
-        "label": "",
+        "label": "Asustor AS5402T",
         "text": "The higher-priced option, worth it if it offers real bay count or performance headroom above the cheaper pick."
       }
     ],
     "note": "Default to UGREEN NAS DH2300 unless your storage needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Drive Type Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "SSD/NVMe for fast random access",
-          ""
+          "Asustor AS5402T"
         ],
         [
           "HDD for bulk storage is enough",
-          ""
+          "Synology DS225+"
         ]
       ]
     }
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Media Streaming or Plex Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A CPU capable of hardware transcoding and enough RAM to handle multiple simultaneous streams, not just total bay count."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Synology DS225+ is worth checking against its listed CPU and RAM before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real multi-user performance, media transcoding, or business-critical reliability, where Asustor AS5402T's CPU and RAM give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need simple backup storage for one or two users, where UGREEN NAS DH2300 covers the same job at a lower price."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "Weighed ARM versus Intel/AMD processors specifically on whether they can handle hardware 4K video transcoding, since this is the single biggest performance gap between budget and higher-tier picks in this guide."
   },
   {
-    "title": "",
+    "title": "RAM capacity and upgradeability",
     "description": "Compared soldered, fixed RAM against upgradeable RAM slots, since running multiple apps at once (file sync, media server, backup) simultaneously depends heavily on available memory."
   },
   {

@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "Why is a letter-size planner included in a \"small\" notebook guide?",
-    "a": ""
+    "a": "To show the ceiling of writing area and features (like built-in planner templates) that buyers give up by choosing a genuinely small size, and because it's the highest-rated, most-reviewed product across the whole search."
   },
   {
     "q": "How do these sync notes to my phone?",
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41uG7qo+QwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
         "What you need it for",
@@ -65,30 +65,30 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "",
-          ""
+          "Everyday note-taking and reading",
+          "Rocketbook Smart Reusable Notebook"
         ],
         [
-          "",
+          "AI-assisted or document-heavy work",
           "Rocketbook Fusion Reusable Undated Productivity Planner"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $15",
+          "Rocketbook Smart Reusable Notebook"
         ],
         [
-          "",
+          "Mid-range",
           "Rocketbook Core Reusable Smart Notebook"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "AI Features Included vs Subscription-Gated",
     "cards": [
       {
-        "label": "",
+        "label": "Included, No Subscription",
         "text": "AI note tools come with the purchase price, no ongoing cost. In this comparison: check each listing's terms directly."
       },
       {
-        "label": "",
+        "label": "Subscription-Gated",
         "text": "Advanced AI features require an ongoing paid plan on top of the hardware price. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
@@ -116,43 +116,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Rocketbook Fusion Reusable Undated Productivity Planner"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Rocketbook Fusion Reusable Undated Productivity Planner"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Handwriting-to-Text Conversion Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of handwriting-to-text conversion (not just \"AI\" generally), and whether that specific feature is included or requires a subscription."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Rocketbook Mini Reusable Smart Notepad fits this specifically: Actually fits a jacket pocket, unlike letter-size competitors."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Rocketbook Fusion Reusable Undated Productivity Planner offers: Highest rating and by far the largest review count in this entire comparison. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is features or storage you may not need."
       }
     ]
@@ -161,8 +161,8 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
-    "description": ""
+    "title": "Actual measured footprint",
+    "description": "We used the manufacturer-listed page dimensions for each size (Mini 3.5x5.5, Executive 6x8.8, Letter 8.5x11) rather than relying on marketing language like \"compact\" or \"travel-friendly.\""
   },
   {
     "title": "Product category, not just page size",
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "For a reusable notebook, the erase cycle and page coating are the parts most likely to wear out. We weighted review count as evidence of how many people have put a given size through repeated use."
   },
   {
-    "title": "",
+    "title": "Writing area vs. portability tradeoff",
     "description": "We ranked from most pocket-friendly to least, so buyers can see exactly how much page space they give up at each size step down."
   }
 ];

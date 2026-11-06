@@ -53,38 +53,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/41YgGiEdSPL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Prioritizing metal",
           "VIVO Black Clamp-on Large 40 inch Ergonomic Desk Shelf"
         ],
         [
-          "",
+          "Prioritizing wood",
           "Gaxomo Extra-Large 45-Inch Wood Clamp-On Desk Monitor Shelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $30",
           "Gaxomo 15-Inch Desktop Clamp-on Shelf & Monitor Riser"
         ],
         [
-          "",
+          "Mid-range",
           "VIVO Black Clamp-on Large 40 inch Ergonomic Desk Shelf"
         ],
         [
@@ -95,28 +95,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Freestanding vs Clamp/Clip-On",
     "cards": [
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits directly on the desk with zero installation, at the cost of using up some desk depth. In this comparison: check each listing's mounting style directly."
       },
       {
-        "label": "",
+        "label": "Clamp/Clip-On",
         "text": "Attaches to the desk's back edge, freeing up desk surface underneath, but needs a compatible edge thickness. In this comparison: VIVO Black Clamp-on Large 40 inch Ergonomic Desk Shelf, Gaxomo 30-Inch Desktop Clamp-on Shelf & Monitor Riser, Gaxomo Extra-Large 45-Inch Wood Clamp-On Desk Monitor Shelf."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "With Storage vs Platform-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simplest platform-only design",
           "VIVO Black Clamp-on Large 40 inch Ergonomic Desk Shelf"
         ]
       ]
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy or Ultrawide Monitor Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity with real margin above your monitor's actual weight, a rigid material like metal or thick wood, and a wide enough platform to support the monitor's full base without overhang."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Gaxomo Extra-Large 45-Inch Wood Clamp-On Desk Monitor Shelf fits this specifically: Solid 4.3-star rating with 42 ratings."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is capacity or storage you may not need."
       }
     ]
@@ -152,11 +152,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Floating terminology disambiguated upfront",
     "description": "Clarified whether each 'floating' listing means a clamp-on illusion design or a wall-mounted zero-desk-contact shelf."
   },
   {
-    "title": "",
+    "title": "Installation type consistency checked",
     "description": "Verified that all picks in this specific guide use the clamp-on floating-illusion approach rather than mixing in true wall mounts without disclosure."
   },
   {

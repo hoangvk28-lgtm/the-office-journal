@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51MEQueNKqL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "JMHUD 5-Tier Wall File Organizer and Mail Organizer with 5 Hooks"
         ],
         [
-          "",
+          "Several distinct categories",
           "Luvtree Tapered Large Wire Desk Basket (2 Pack), Black Metal File Organizer"
         ],
         [
-          "",
+          "High document volume",
           "Welaxy 2pc Office desk drawer organizer tray letter-size file Forest Green"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "JMHUD 5-Tier Wall File Organizer and Mail Organizer with 5 Hooks"
         ],
         [
-          "",
+          "Mid-range pick",
           "Gianotter 4-Tier Paper Organizer With Magazine Holder"
         ],
         [
-          "",
+          "Higher budget",
           "Welaxy 2pc Office desk drawer organizer tray letter-size file Forest Green"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "JMHUD 5-Tier Wall File Organizer and Mail Organizer with 5 Hooks)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "Luvtree Tapered Large Wire Desk Basket (2 Pack), Black Metal File Organizer"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Luvtree Tapered Large Wire Desk Basket (2 Pack), Black Metal File Organizer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Welaxy 2pc Office desk drawer organizer tray letter-size file Forest Green justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where JMHUD 5-Tier Wall File Organizer and Mail Organizer with 5 Hooks already covers the job at the lowest price here."
       }
     ]

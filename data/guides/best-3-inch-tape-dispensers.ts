@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41pTJ9Jk3LL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core) with Weighted"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "PERFECTAPE 3\" Heavy Duty Packing Tape 1 Roll with 3\" Tape Gun"
         ],
         [
-          "",
+          "High-volume packing",
           "Tape King Packing Tape Dispenser Gun"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core) with Weighted"
         ],
         [
-          "",
+          "Mid-range pick",
           "QILIMA 3 Inch Wide Packing Tape Dispenser Gun Seal Packing for Use Tape"
         ],
         [
-          "",
+          "Higher budget",
           "Tape King Packing Tape Dispenser Gun"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core) with Weighted)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "PERFECTAPE 3\" Heavy Duty Packing Tape 1 Roll with 3\" Tape Gun"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "QILIMA 3 Inch Wide Packing Tape Dispenser Gun Seal Packing for Use Tape"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "PERFECTAPE 3\" Heavy Duty Packing Tape 1 Roll with 3\" Tape Gun is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Tape King Packing Tape Dispenser Gun justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core) with Weighted already covers the job at the lowest price here."
       }
     ]

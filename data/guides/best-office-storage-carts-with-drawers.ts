@@ -37,7 +37,7 @@ export const faq = [
   },
   {
     "q": "What's the best value option?",
-    "a": ""
+    "a": "The IRIS USA 4-Drawer Rolling Storage Cart, with the largest confirmed review base at over 5,000 reviews."
   },
   {
     "q": "Is there a white drawer cart instead of black?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "LEHOM Rolling Storage Cart with 8 Drawers"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "IRIS USA 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $40",
+          "IRIS USA 4"
         ],
         [
-          "",
+          "Up to $99",
           "10 Drawers Rolling Cart with Wooden Tabletop"
         ]
       ]
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "IRIS USA 4 vs 10 Drawers Rolling Cart with Wooden Tabletop",
     "cards": [
       {
-        "label": "",
+        "label": "IRIS USA 4",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
@@ -109,16 +109,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to IRIS USA 4 unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "IRIS USA 4"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "IRIS USA 4 is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where 10 Drawers Rolling Cart with Wooden Tabletop's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where IRIS USA 4 covers the same job at a lower price."
       }
     ]
@@ -153,11 +153,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
-    "description": ""
+    "title": "Drawer count weighed against review base and price together",
+    "description": "We compared drawer count from 4 to 10 against both price and review base, since a higher drawer count at a much smaller review base isn't automatically the better buy."
   },
   {
-    "title": "",
+    "title": "Duplicate listings flagged directly",
     "description": "Two picks here (the 10-drawer wooden-tabletop cart) share identical rating and review data as separate listings; we disclosed this rather than presenting them as two distinct products."
   },
   {

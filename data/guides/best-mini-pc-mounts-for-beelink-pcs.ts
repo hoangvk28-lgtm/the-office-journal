@@ -37,15 +37,15 @@ export const faq = [
   },
   {
     "q": "Which has the most reviews?",
-    "a": ""
+    "a": "The HumanCentric Thin Client Mount Bracket, with 702 reviews at 4.4 stars."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the highest-rated option?",
+    "a": "The Monzlteck Adjustable Small Device Wall Mount, at 4.6 stars."
   },
   {
     "q": "Which bracket has the widest device compatibility range?",
-    "a": ""
+    "a": "The Yimaut Adjustable Mini PC Vesa Mount Bracket, fitting devices 0.63 to 2.8 inches wide."
   }
 ];
 
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41nWvL8pqlL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Surface",
     "table": {
       "headers": [
-        "",
+        "Where it's going",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -73,31 +73,31 @@ export const howToChoose: HowToChooseSection[] = [
           "HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm"
         ],
         [
-          "",
+          "Wall or under-desk",
           "Monzlteck Adjustable Small Device Wall Mount Or VESA Mount Behind the Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "Monzlteck Adjustable Small Device Wall Mount Or VESA Mount Behind the Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "Yimaut Adjustable Mini PC Vesa Mount Bracket Behind Monitor"
         ],
         [
           "No firm budget ceiling, prioritizing brand-specific fit",
-          ""
+          "StarTech Thin Client Mount"
         ]
       ]
     }
@@ -106,42 +106,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Fit vs Universal Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-Specific Fit",
         "text": "Matches one specific chassis shape exactly, generally a more secure fit for that exact model. In this comparison: StarTech Thin Client Mount."
       },
       {
-        "label": "",
+        "label": "Universal / Multi-Brand",
         "text": "Works across several mini PC brands with adjustable hardware, more flexible if you might switch devices later. In this comparison: StarTech Thin Client Mount."
       }
     ],
     "note": "Confirm your exact mini PC model against the listing's stated compatibility either way, since even a \"universal\" mount has real size limits."
   },
   {
-    "subheading": "",
+    "subheading": "By Post-Install Port Access",
     "note": "None of these picks specifically advertise preserved front-port access after mounting; check each listing's product photos for where the ports land once installed if that matters to you."
   },
   {
     "subheading": "For a Home Lab Rack Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of 10-inch (home-lab) versus 19-inch (commercial) rack compatibility, since these are different standards, plus whether it's full or half rack-unit width."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm fits this specifically: Largest, most proven review base in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what StarTech Thin Client Mount offers: From a well-established computer-hardware brand. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Monzlteck Adjustable Small Device Wall Mount Or VESA Mount Behind the Monitor already covers the essentials: Highest rating in this comparison. The main thing you'd be paying extra for elsewhere in this list is broader compatibility you may not need."
       }
     ]
@@ -158,7 +158,7 @@ export const howWeEvaluated = [
     "description": "Since Beelink isn't named in most listings' compatibility lists, we emphasized verifying your specific model's chassis dimensions directly."
   },
   {
-    "title": "",
+    "title": "Device depth/width range comparison",
     "description": "We compared each bracket's stated compatible range against typical Beelink SER/EQ/GT dimensions, which vary across the lineup."
   },
   {

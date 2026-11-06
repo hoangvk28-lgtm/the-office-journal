@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Refresh-gpu-faq",
     "q": "Is a 240Hz or 360Hz gaming monitor worth it?",
     "a": "Only if your GPU can actually push frame rates close to that number in the games you play, check your realistic frame rates first, pairing a high-refresh monitor with a GPU that can't fill it wastes the extra capability."
   },
   {
-    "id": "",
+    "id": "Curve-faq",
     "q": "What does the curve radius number mean on a curved gaming monitor?",
     "a": "A lower number means a tighter, more aggressive curve, suited to very wide ultrawide panels, a higher number is gentler and better suited to a standard-width panel."
   },
   {
-    "id": "",
+    "id": "Sync-faq",
     "q": "Does G-Sync work with an AMD graphics card?",
     "a": "Full G-Sync certification generally requires an NVIDIA GPU, FreeSync tends to work more broadly across both AMD and NVIDIA cards, check the monitor's specific certification against your actual GPU brand."
   },
   {
-    "id": "",
+    "id": "Size-density-faq",
     "q": "Is a bigger gaming monitor always sharper?",
     "a": "No, stretching the same resolution across a larger screen reduces pixel density, a 32-inch 1440p monitor looks visibly softer than a 27-inch 1440p monitor at the same viewing distance."
   },
   {
-    "id": "",
+    "id": "Response-gaming-faq",
     "q": "Is a 1ms gaming monitor actually blur-free?",
     "a": "Not necessarily, the gray-to-gray number is one narrow measurement, panel technology, backlight behavior, and overdrive tuning all affect real perceived motion blur, check independent motion clarity testing instead."
   },
   {
-    "id": "",
+    "id": "Console-faq",
     "q": "Do all gaming monitor features work with a console?",
     "a": "No, some high refresh rate or adaptive sync features require a PC connection and GPU-side support, verify the monitor's feature list against your specific console's actual output capability."
   }
@@ -66,11 +66,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41AbX+5pKZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By GPU Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your GPU output",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,7 +78,7 @@ export const howToChoose: HowToChooseSection[] = [
           "CUNPU 27 Inch 1440P 240Hz Gaming Monitor"
         ],
         [
-          "",
+          "Solid mid-range frame rates",
           "AOC 27\" Gaming Monitor QHD 260Hz Overclocked IPS NVIDIA G-SYNC Q27G41ZE"
         ],
         [
@@ -89,11 +89,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "CUNPU 27 Inch 1440P 240Hz Gaming Monitor"
         ],
         [
-          "",
+          "Mid-range pick",
           "MONITOR Acer Nitro 27in QHD 2560x1440 IPS 240Hz Gaming XV272U W2bmiiprx"
         ],
         [
-          "",
+          "Higher budget",
           "SANSUI Gaming Monitor 27\" 1440p 260hz/240hz WQHD 2K"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "G-Sync vs FreeSync",
     "cards": [
       {
         "label": "CUNPU 27 Inch 1440P 240Hz Gaming Monitor)",
         "text": "Built and validated specifically for NVIDIA GPUs."
       },
       {
-        "label": "",
+        "label": "FreeSync",
         "text": "Works more broadly across AMD and NVIDIA cards in most cases."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Curvature",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard flat panel",
           "AOC 27\" Gaming Monitor QHD 260Hz Overclocked IPS NVIDIA G-SYNC Q27G41ZE"
         ],
         [
-          "",
+          "Curved for wider immersion",
           "MONITOR Acer Nitro 27in QHD 2560x1440 IPS 240Hz Gaming XV272U W2bmiiprx"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Competitive Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Independent input lag testing, not just the headline refresh rate number, since the two specs don't always move together."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "AOC 27\" Gaming Monitor QHD 260Hz Overclocked IPS NVIDIA G-SYNC Q27G41ZE is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where SANSUI Gaming Monitor 27\" 1440p 260hz/240hz WQHD 2K justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where CUNPU 27 Inch 1440P 240Hz Gaming Monitor already covers the job at the lowest price here."
       }
     ]

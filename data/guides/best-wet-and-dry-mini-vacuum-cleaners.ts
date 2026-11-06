@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41TSw8iFcfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Keyboard crumbs",
           "0 Peak HP Micro Wet/Dry Vac"
         ],
         [
-          "",
+          "Whole-desk cleaning",
           "5-Gallon 2 Peak HP Portable Wet/Dry Vacuum"
         ],
         [
-          "",
+          "Car interior",
           "BLACK+DECKER Shop Vacuum Wet and Dry"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "0 Peak HP Micro Wet/Dry Vac"
         ],
         [
-          "",
+          "Mid-range pick",
           "KMM Handheld Car Vacuum Cleaner"
         ],
         [
-          "",
+          "Higher budget",
           "BLACK+DECKER Shop Vacuum Wet and Dry"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Corded vs Cordless",
     "cards": [
       {
         "label": "0 Peak HP Micro Wet/Dry Vac)",
         "text": "Consistent suction, no battery to manage, lower price."
       },
       {
-        "label": "",
+        "label": "Cordless",
         "text": "Portable and quiet, but suction fades as the battery drains."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Suction Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday light cleaning",
           "5-Gallon 2 Peak HP Portable Wet/Dry Vacuum"
         ],
         [
-          "",
+          "Maximum suction power",
           "KMM Handheld Car Vacuum Cleaner"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tight Keyboard Crevices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A narrow brush or crevice nozzle attachment included in the box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5-Gallon 2 Peak HP Portable Wet/Dry Vacuum is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where BLACK+DECKER Shop Vacuum Wet and Dry justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "0 Peak HP Micro Wet/Dry Vac already covers the job at the lowest price here."
       }
     ]

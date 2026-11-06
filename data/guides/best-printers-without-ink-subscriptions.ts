@@ -60,36 +60,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Epson EcoTank ET"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Epson EcoTank ET"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $190",
+          "Epson EcoTank ET"
         ],
         [
-          "",
-          ""
+          "Up to $473",
+          "Epson EcoTank ET"
         ]
       ]
     }
@@ -98,27 +98,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Epson EcoTank ET vs Epson EcoTank ET",
     "cards": [
       {
-        "label": "",
+        "label": "Epson EcoTank ET",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Epson EcoTank ET",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Epson EcoTank ET unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Epson EcoTank ET"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Epson EcoTank ET is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Epson EcoTank ET's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Epson EcoTank ET covers the same job at a lower price."
       }
     ]
@@ -153,11 +153,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "No subscription enrollment required",
     "description": "Checked whether the listing bundles an active or trial subscription program, and if so, whether it's optional at setup rather than defaulted on."
   },
   {
-    "title": "",
+    "title": "Ink delivery mechanism",
     "description": "Weighed ink tank systems, which have no subscription concept at all, against cartridge systems, which vary in whether a subscription is offered alongside standalone purchase."
   },
   {
@@ -165,11 +165,11 @@ export const howWeEvaluated = [
     "description": "Considered per-page ink or toner cost when buying consumables individually, since avoiding a subscription only helps if the standalone cost stays reasonable."
   },
   {
-    "title": "",
+    "title": "Feature completeness",
     "description": "Compared ADF, duplex, Ethernet, and fax availability across the subscription-free picks, since avoiding a subscription shouldn't mean settling for a bare-bones printer."
   },
   {
-    "title": "",
+    "title": "Honest ink-lock distinction",
     "description": "Flagged that avoiding a subscription program is not the same as a printer accepting any third-party ink, since some cartridge printers restrict non-original ink via firmware independent of subscription status."
   }
 ];

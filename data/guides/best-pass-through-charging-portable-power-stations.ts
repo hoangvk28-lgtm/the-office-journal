@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Verify Official Pass-Through Support",
     "explanation": "Confirm pass through charging portable power stations officially supports simultaneous charge-and-discharge, not just an inferred capability."
   },
   {
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41RMFsLYB-L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Verify Official Pass-Through Support",
     "note": "Confirm pass through charging portable power stations officially supports simultaneous charge-and-discharge, not just an inferred capability."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Looked for UL, UL2743, or other documented safety certification and battery chemistry evidence rather than trusting a safety claim alone."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included cables, solar panel bundling, warranty length, and app requirements as part of the real cost and usability of each pick."
   }
 ];

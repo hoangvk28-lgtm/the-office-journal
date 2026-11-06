@@ -61,87 +61,87 @@ export const heroImage = "https://m.media-amazon.com/images/I/31D1tw1HTNL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Bay Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "6-bay capacity",
+          "UGREEN NAS DXP6800 Plus"
         ],
         [
-          "",
-          ""
+          "4-bay capacity",
+          "UGREEN NAS DXP4800 Pro"
         ],
         [
-          "",
-          ""
+          "4-bay capacity",
+          "UGREEN NAS DXP4800 Plus"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $285",
+          "Synology DS223"
         ],
         [
-          "",
-          ""
+          "Up to $940",
+          "UGREEN NAS DXP6800 Plus"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Bay Count vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Synology DS223",
         "text": "The lower-priced option in this comparison, worth checking its CPU and RAM against your actual workload."
       },
       {
-        "label": "",
+        "label": "UGREEN NAS DXP6800 Plus",
         "text": "The higher-priced option, worth it if it offers real bay count or performance headroom above the cheaper pick."
       }
     ],
     "note": "Default to Synology DS223 unless your storage needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By CPU and RAM",
     "note": "Check each pick's listed CPU architecture and RAM amount against your actual workload before buying, not just bay count alone."
   },
   {
     "subheading": "For Media Streaming or Plex Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A CPU capable of hardware transcoding and enough RAM to handle multiple simultaneous streams, not just total bay count."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "UGREEN NAS DXP4800 Pro is worth checking against its listed CPU and RAM before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real multi-user performance, media transcoding, or business-critical reliability, where UGREEN NAS DXP6800 Plus's CPU and RAM give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need simple backup storage for one or two users, where Synology DS223 covers the same job at a lower price."
       }
     ]

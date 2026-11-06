@@ -53,38 +53,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/41t9uG0evoL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Most compact and portable",
           "5 Inch Full Screen Mini Digital Notepad Reusable Small Writing Pad with Hall Switch and Cover Case Portable Use for Office Study Teaching"
         ],
         [
-          "",
+          "Most writing room",
           "12in Rechargeable LCD Writing Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $18",
           "5 Inch Full Screen Mini Digital Notepad Reusable Small Writing Pad with Hall Switch and Cover Case Portable Use for Office Study Teaching"
         ],
         [
-          "",
+          "Mid-range",
           "5 inch Full Screen Drawing Tablet Reusable Erasable Digital Notepad with Hall Switch and Tablet Case for Gift Birthday"
         ],
         [
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Kids-Marketed vs Adult-Marketed",
     "cards": [
       {
-        "label": "",
+        "label": "Kids-Marketed",
         "text": "Bright colors and character branding, often the same core technology as adult versions at a similar or lower price. In this comparison: check each listing's marketing angle directly."
       },
       {
-        "label": "",
+        "label": "Adult-Marketed",
         "text": "Neutral styling suited to an office desk, sometimes at a price premium for the plainer look alone."
       }
     ],
@@ -112,39 +112,39 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "With Memory Lock vs Basic Erase",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simplest single-button design",
           "5 inch Full Screen Drawing Tablet Reusable Erasable Digital Notepad with Hall Switch and Tablet Case for Gift Birthday"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Gift-Giving Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear age-range marketing if buying for a specific child, genuine screen size (not just overall unit size), and a replaceable coin-cell battery for the longest useful life."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5 inch Full Screen Drawing Tablet Reusable Erasable Digital Notepad with Hall Switch and Tablet Case for Gift Birthday fits this specifically: adult-oriented styling and size."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Boogie Board Jot Reusable Writing Tablet offers: Kickstand allows upright desk display. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5 Inch Full Screen Mini Digital Notepad Reusable Small Writing Pad with Hall Switch and Cover Case Portable Use for Office Study Teaching already covers the essentials: portable for meetings or bags. The main thing you'd be paying extra for elsewhere in this list is styling or accessories you may not need."
       }
     ]

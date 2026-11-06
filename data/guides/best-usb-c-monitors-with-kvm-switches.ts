@@ -52,23 +52,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Du+XSAPIL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Port Count",
     "note": "Port count isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $56",
           "KVM Switch 1 Monitors 2 Computers 4K@60Hz USB C HDMI KVM Switch 2 Port for 1 Laptop 1 Desktop"
         ],
         [
-          "",
+          "Mid-range",
           "AV Access iDock P10 KVM Docking Station 2 Monitors 2 PC"
         ],
         [
@@ -82,21 +82,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Hotkey Switching vs Physical Button Only",
     "cards": [
       {
-        "label": "",
+        "label": "Hotkey Switching",
         "text": "Switches computers without reaching for the device, faster for frequent switching during a work session. In this comparison: check each listing's switching method directly."
       },
       {
-        "label": "",
+        "label": "Physical Button Only",
         "text": "Simpler and more predictable, but requires reaching the device every time you switch. In this comparison: AV Access iDock P10 KVM Docking Station 2 Monitors 2 PC, AV Access Dual Monitor KVM Docking Station for Laptop & Desktop, AV Access Docking Station KVM Switch 2 Monitors 2 Laptops."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "USB Peripheral Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -107,27 +107,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Audio Switching Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of audio switching in the listing, since many KVM switches handle video and USB but leave speakers or headphones tied to one fixed computer."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms audio switching; check our dedicated audio-support KVM switch roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what AV Access KVM Switch Dock 2 Monitors 2 Laptops offers: 4K resolution support across dual monitors. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "KVM Switch 1 Monitors 2 Computers 4K@60Hz USB C HDMI KVM Switch 2 Port for 1 Laptop 1 Desktop already covers the essentials: low-cost price for a simple single-monitor KVM setup. The main thing you'd be paying extra for elsewhere in this list is resolution headroom or build quality you may not need."
       }
     ]

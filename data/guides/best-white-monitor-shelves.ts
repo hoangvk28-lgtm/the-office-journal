@@ -56,42 +56,42 @@ export const heroImage = "https://m.media-amazon.com/images/I/51925teREsL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Prioritizing metal",
           "BONTEC Dual Monitor Stand Riser"
         ],
         [
-          "",
+          "Prioritizing wood",
           "YAOHUOO Dual Monitor Stand Riser"
         ],
         [
-          "",
+          "Prioritizing acrylic",
           "5\" Dual Monitor Stand with Clear Acrylic Legs"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $25",
           "BONTEC Dual Monitor Stand Riser"
         ],
         [
-          "",
+          "Mid-range",
           "YAOHUOO Dual Monitor Stand Riser"
         ],
         [
@@ -102,32 +102,32 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Freestanding vs Clamp/Clip-On",
     "cards": [
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits directly on the desk with zero installation, at the cost of using up some desk depth. In this comparison: Monitor Stand Riser, BONTEC Dual Monitor Stand Riser, YAOHUOO Dual Monitor Stand Riser."
       },
       {
-        "label": "",
+        "label": "Clamp/Clip-On",
         "text": "Attaches to the desk's back edge, freeing up desk surface underneath, but needs a compatible edge thickness. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "With Storage vs Platform-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Extra storage tier or drawer",
-          ""
+          "Monitor Stand Riser"
         ],
         [
-          "",
+          "Simplest platform-only design",
           "BONTEC Dual Monitor Stand Riser"
         ]
       ]
@@ -137,24 +137,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy or Ultrawide Monitor Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity with real margin above your monitor's actual weight, a rigid material like metal or thick wood, and a wide enough platform to support the monitor's full base without overhang."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Lefedrasticity Desktop Bookshelf Organizer with Pegboard 3 Tier Desk Hutch Dorm Heavy-Duty Desk Shelf Organizer for Computer Desktop Organizer Shelf for Office Dorm Room Gaming Desks fits this specifically: Substantial 3-tier storage capacity with pegboard integration."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Lefedrasticity Desktop Bookshelf Organizer with Pegboard 3 Tier Desk Hutch Dorm Heavy-Duty Desk Shelf Organizer for Computer Desktop Organizer Shelf for Office Dorm Room Gaming Desks offers: Substantial 3-tier storage capacity with pegboard integration. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is capacity or storage you may not need."
       }
     ]

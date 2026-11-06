@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41bo6gdzutL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "50Ft XHF 1/4\" Spiral Cable Wrap 6mm(Wrapping Range:4mm-50mm) Spiral Wire Wrap"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "25ft PET Expandable Braided Cable Sleeve 1/4inch(6mm) Pet Braided Cable Sleeve"
         ],
         [
-          "",
-          ""
+          "A thick multi-cable run",
+          "Uxcell Insulation Cable Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,40 +95,40 @@ export const howToChoose: HowToChooseSection[] = [
           "50Ft XHF 1/4\" Spiral Cable Wrap 6mm(Wrapping Range:4mm-50mm) Spiral Wire Wrap"
         ],
         [
-          "",
+          "Mid-range pick",
           "50Ft XHF 1/4\" Spiral Cable Wrap 6mm(Wrapping Range:4mm-50mm) Spiral Wire Wrap"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Uxcell Insulation Cable Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "50Ft XHF 1/4\" Spiral Cable Wrap 6mm(Wrapping Range:4mm-50mm) Spiral Wire Wrap)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "25ft PET Expandable Braided Cable Sleeve 1/4inch(6mm) Pet Braided Cable Sleeve"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "25ft PET Expandable Braided Cable Sleeve 1/4inch(6mm) Pet Braided Cable Sleeve is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where uxcell Insulation Cable Protector justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 50Ft XHF 1/4\" Spiral Cable Wrap 6mm(Wrapping Range:4mm-50mm) Spiral Wire Wrap already covers the job at the lowest price here."
       }
     ]

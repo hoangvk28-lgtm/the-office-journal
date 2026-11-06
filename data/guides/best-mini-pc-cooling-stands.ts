@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/31s+w6dIYpL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cooling Type",
     "table": {
       "headers": [
-        "",
+        "Your thermal situation",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,20 +76,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "IFCASE Aluminum Desktop Stand for Mac Studio"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "Quiet 120mm USB Fan"
         ],
         [
           "No firm budget ceiling, prioritizing active cooling power",
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Passive Stand vs Active Fan",
     "cards": [
       {
-        "label": "",
+        "label": "Passive Stand",
         "text": "Zero noise, no power needed, improves airflow through elevation alone. In this comparison: IFCASE Aluminum Desktop Stand for Mac Studio, ElecGear INUC-K Vertical Stand for Intel NUC Mini PC, CaSZLUTION Acrylic Stand for Beelink S12 Pro Mini PC."
       },
       {
-        "label": "",
+        "label": "Active Fan",
         "text": "Genuine forced airflow that helps more under sustained load, at the cost of some noise and a power connection. In this comparison: Aluminum Mini PC Cooler Stand with 120mm Fan, Quiet 120mm USB Fan, Quiet 120mm USB Cooling Fan with Aluminum Stand."
       }
     ],
     "note": "Default to a passive pick for light everyday use, and only step up to an active fan if your mini PC runs warm under sustained load."
   },
   {
-    "subheading": "",
+    "subheading": "By Chassis Vent Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a 24/7 Home Server or Media Server Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed active airflow rather than passive elevation alone, a stated noise level or speed control, and USB power so it only runs while the mini PC itself is on."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Aluminum Mini PC Cooler Stand with 120mm Fan fits this specifically: Switch lets you choose passive silence or active airflow."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Aluminum Mini PC Cooler Stand with 120mm Fan offers: Switch lets you choose passive silence or active airflow. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "IFCASE Aluminum Desktop Stand for Mac Studio already covers the essentials: Completely silent, no fan to add noise. The main thing you'd be paying extra for elsewhere in this list is cooling power you may not need."
       }
     ]
@@ -161,7 +161,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Thermal problem relevance",
     "description": "We compared whether each stand addresses sustained-load heat buildup rather than treating cooling as a cosmetic desk accessory."
   },
   {
@@ -169,11 +169,11 @@ export const howWeEvaluated = [
     "description": "We compared stand openings, fan placement, and support points against the way different Mini PCs and Mac mini/NUC/Beelink chassis draw in and exhaust air, and flagged device-specific mounts clearly."
   },
   {
-    "title": "",
+    "title": "Cooling evidence quality",
     "description": "We gave more weight to documented sustained-load temperature comparisons where the listing provided one and treated unsupported cooling claims as manufacturer-stated, not independently verified."
   },
   {
-    "title": "",
+    "title": "Noise and construction tradeoffs",
     "description": "We compared passive and active designs, material choice, fan control, and frame stability as linked rather than separate decisions."
   }
 ];

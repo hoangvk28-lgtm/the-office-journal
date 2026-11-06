@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51MNLZRfO8L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $35",
+          "ICE COOREL ($27.99), ChillCore ($31.98), or AFI ($34.98)"
         ],
         [
-          "",
-          ""
+          "$39 to $50",
+          "11-Fan pick ($38.99), KLIM ($44.97), or AICHESON ($49.99)"
         ]
       ]
     }
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check your specific LOQ model's vent placement (commonly along the rear and sides): if vents are spread widely, a multi-fan pad likely cools more evenly than a single large fan."
   },
   {
-    "subheading": "",
+    "subheading": "By Fan Count Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Gaming Console Use Alongside Your Laptop Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit named console compatibility (PS5, PS4, Xbox One) rather than assuming a laptop cooling pad also works safely under a console."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "KLIM is the only pick here that explicitly names PS5, PS4, and Xbox One compatibility alongside standard laptop use."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) both provide concrete, comparable numbers."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) covers that core need at the lowest price here."
       }
     ]
@@ -169,7 +169,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Size compatibility verification",
     "description": "6 and 16 inch models specifically, since a cooling pad too small or too large won't sit stably under the laptop."
   },
   {
@@ -177,21 +177,21 @@ export const howWeEvaluated = [
     "description": "We compared stated fan count, and where available, RPM or airflow figures, since a gaming laptop like the LOQ produces more heat under load than a typical ultrabook and benefits from genuine airflow capacity, not just RGB lighting."
   },
   {
-    "title": "",
+    "title": "Height adjustability and ergonomics",
     "description": "We noted stated height adjustment positions, since this affects both typing ergonomics and how effectively the pad's fans can pull air through the laptop's vents at different angles."
   },
   {
-    "title": "",
+    "title": "Additional feature check",
     "description": "We identified genuine extras like LCD displays, phone holders, and named console compatibility beyond the core cooling function."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $50 on the date this guide was checked; pads that only hit this tier during a temporary sale were excluded."
   }
 ];
 
 export const introParagraphs = [
-  "",
+  "None of the cooling pads in this comparison are marketed as Lenovo LOQ-specific, since cooling pads are a universal accessory category built around size compatibility rather than laptop brand, so the real question is whether a pad's stated size range actually covers your specific LOQ model (commonly 15.6 or 16 inches).",
   "We compared fan count and stated airflow specs directly, since a gaming laptop like the LOQ runs hotter under load than a typical ultrabook, and a cooling pad's actual effectiveness depends more on real airflow numbers than the RGB lighting most listings emphasize."
 ];
 

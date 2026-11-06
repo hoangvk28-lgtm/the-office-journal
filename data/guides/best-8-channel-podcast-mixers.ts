@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51pY3Ctu4UL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Guest Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "FULUODE Audio Mixer 8 Channel"
         ],
         [
-          "",
+          "Mid-range pick",
           "Mackie Mix Series MIX8 8-Channel Mixer"
         ],
         [
-          "",
+          "Higher budget",
           "K-mxerpro 8 Channel Professional Audio Mixer Console Sound Board with 48V"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Mixer vs Simple Interface",
     "cards": [
       {
         "label": "K-mxerpro 8 Channel Professional Audio Mixer Console Sound Board with 48V)",
@@ -121,15 +121,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Skip the full mixer if you're a solo host recording to a laptop."
   },
   {
-    "subheading": "",
+    "subheading": "By Recording Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Computer-based recording via USB",
           "Pyle 8 Channel Bluetooth Studio Mixer"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Livestreaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Zero-latency direct monitoring and simple loopback routing so you can hear yourself and other audio without lag while broadcasting."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Pyle 8 Channel Bluetooth Studio Mixer is worth checking against its specific monitoring-latency spec before assuming any mixer handles live streaming equally well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're hosting multiple guests regularly and want physical channel control, where K-mxerpro 8 Channel Professional Audio Mixer Console Sound Board with 48V justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're a solo host just starting out, where FULUODE Audio Mixer 8 Channel already covers the job at the lowest price here."
       }
     ]

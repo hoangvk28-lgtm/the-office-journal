@@ -64,35 +64,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "DEVAISE 3"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "DEVAISE 3"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $45",
           "SISESOL 2 Drawer File Cabinet with Lock"
         ],
         [
-          "",
+          "Up to $100",
           "Letaya 2 Drawer File Cabinet with Lock"
         ]
       ]
@@ -113,16 +113,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to SISESOL 2 Drawer File Cabinet with Lock unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "DEVAISE 3"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "DEVAISE 3 is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Letaya 2 Drawer File Cabinet with Lock's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where SISESOL 2 Drawer File Cabinet with Lock covers the same job at a lower price."
       }
     ]
@@ -161,7 +161,7 @@ export const howWeEvaluated = [
     "description": "Checked whether each pick is an enclosed cabinet with doors or an open-top file cabinet with a flat printer-ready surface, and described each one accurately rather than assuming 'cabinet' means fully sealed."
   },
   {
-    "title": "",
+    "title": "Ventilation and heat/ozone considerations",
     "description": "Weighed whether a sealed enclosure could trap heat or, for laser printers specifically, ozone, against the fact that every open-top pick in this list sidesteps that concern entirely."
   },
   {
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "Measured how much usable flat surface each pick offers for a printer, since a wider extended-desktop design fits larger all-in-ones better than a narrow vertical cabinet."
   },
   {
-    "title": "",
+    "title": "Mobility and footprint",
     "description": "Checked caster quality and overall footprint against typical home office space constraints, favoring picks that roll easily without needing a large clearance radius."
   }
 ];

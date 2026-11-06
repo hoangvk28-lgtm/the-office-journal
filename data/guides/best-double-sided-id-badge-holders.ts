@@ -40,7 +40,7 @@ export const faq = [
     "a": "The reel mechanism's spring durability matters more than the cord length spec, check reviews specifically for complaints about jamming or weakened retraction after months of daily use."
   },
   {
-    "q": "",
+    "q": "Are badge holders waterproof?",
     "a": "Standard plastic handles light moisture fine, but genuine waterproofing needs a sealed edge or specific rating, check for this if you work outdoors or in a consistently wet environment."
   },
   {
@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Aqr6f+FIL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Daily Movement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Mostly desk-based",
           "Teskyer 2 Pack Double Sided Clear Badge Holder with Lanyard"
         ],
         [
-          "",
+          "Frequent movement or bending",
           "ID Stronghold - RFID Blocking Secure Badge Holder - Duolite 2 Card ID Holder"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Teskyer 2 Pack Double Sided Clear Badge Holder with Lanyard"
         ],
         [
-          "",
+          "Mid-range pick",
           "2 Pack Retractable Badge Reel with Double-Sided ID Holder"
         ],
         [
-          "",
+          "Higher budget",
           "Teskyer 2 Pack Double Sided Clear Badge Holder with Lanyard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Retractable vs Fixed Lanyard",
     "cards": [
       {
         "label": "Teskyer 2 Pack Double Sided Clear Badge Holder with Lanyard)",
         "text": "Extends for scanning, retracts out of the way when not needed."
       },
       {
-        "label": "",
+        "label": "Fixed lanyard",
         "text": "Simpler, no reel mechanism to wear out over time."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Card Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your credentials",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single ID only",
           "ID Stronghold - RFID Blocking Secure Badge Holder - Duolite 2 Card ID Holder"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Wet or Outdoor Workplace Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine waterproof rating, not just standard plastic construction."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ID Stronghold - RFID Blocking Secure Badge Holder - Duolite 2 Card ID Holder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Teskyer 2 Pack Double Sided Clear Badge Holder with Lanyard justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Teskyer 2 Pack Double Sided Clear Badge Holder with Lanyard already covers the job at the lowest price here."
       }
     ]

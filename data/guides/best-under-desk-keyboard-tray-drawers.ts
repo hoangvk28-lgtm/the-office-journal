@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41DR7qY1naL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Storing",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light supplies, no drilling",
           "Fellowes Office Suites Underdesk Keyboard Drawer"
         ],
         [
-          "",
+          "Standard office supplies",
           "VIVO Black Clamp-on 27 x 11 in Keyboard Tray"
         ],
         [
-          "",
+          "Heavier items, permanent install",
           "VIVO Black Extra Large Clamp-on 34 x 11 in Keyboard Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "Fellowes Office Suites Underdesk Keyboard Drawer"
         ],
         [
-          "",
+          "Mid-range pick",
           "BONTEC Under Desk Keyboard Tray"
         ],
         [
-          "",
+          "Higher budget",
           "VIVO Black Extra Large Clamp-on 34 x 11 in Keyboard Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Screw-Mounted",
     "cards": [
       {
         "label": "Fellowes Office Suites Underdesk Keyboard Drawer)",
         "text": "No drilling needed, fully removable, but capped around 13 lbs."
       },
       {
-        "label": "",
+        "label": "Screw-mounted",
         "text": "Higher weight capacity, but permanent and requires drilling into the desk."
       }
     ],
     "note": "Match this to whether you rent, share the desk, or need real capacity for heavier items."
   },
   {
-    "subheading": "",
+    "subheading": "By Legroom Clearance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Tight knee clearance",
           "Measure your seated position before choosing any model"
         ],
         [
-          "",
+          "Standard desk depth",
           "VIVO Black Clamp-on 27 x 11 in Keyboard Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Standing Desks Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed clearance at your desk's lowest sitting height, including the motor housing and crossbar."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "VIVO Black Clamp-on 27 x 11 in Keyboard Tray is worth checking against your desk's specific understructure before assuming any drawer clears it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and smoother, longer-lasting slides for daily heavy use, where VIVO Black Extra Large Clamp-on 34 x 11 in Keyboard Tray justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing light supplies and want a simple, removable option, where Fellowes Office Suites Underdesk Keyboard Drawer already covers the job at the lowest price here."
       }
     ]

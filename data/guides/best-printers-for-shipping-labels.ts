@@ -64,35 +64,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Rollo USB Shipping Label Printer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Rollo USB Shipping Label Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $50",
           "KNAON Bluetooth Thermal Shipping Label Printer"
         ],
         [
-          "",
+          "Up to $280",
           "Rollo Wireless Shipping Label Printer"
         ]
       ]
@@ -113,15 +113,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to KNAON Bluetooth Thermal Shipping Label Printer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Rollo USB Shipping Label Printer"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Rollo USB Shipping Label Printer is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Rollo Wireless Shipping Label Printer's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where KNAON Bluetooth Thermal Shipping Label Printer covers the same job at a lower price."
       }
     ]
@@ -157,11 +157,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Connectivity type and reliability",
     "description": "Compared wired USB, Bluetooth, and Wi-Fi connections against typical batch-printing scenarios, since Bluetooth can be less consistent than a wired connection during long shipping sessions."
   },
   {
-    "title": "",
+    "title": "Marketplace and shipping-software compatibility",
     "description": "Checked stated compatibility with ShipStation, Shopify, Etsy, Amazon Seller Central, and USPS workflows, since this determines whether a printer fits into an existing shipping process without extra setup."
   },
   {

@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51uXfL0+mzL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "Huron Desktop Horizontal 5-Slot File Binder Organizer Storage Letter Tray"
         ],
         [
-          "",
+          "Several distinct categories",
           "Simple Houseware 6-Tier Desk Organizer & Sliding Paper Tray"
         ],
         [
-          "",
+          "High document volume",
           "Safco 3127BL Steel Desk Organizer Tray Sorter with 5 Shelves"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Huron Desktop Horizontal 5-Slot File Binder Organizer Storage Letter Tray"
         ],
         [
-          "",
+          "Mid-range pick",
           "Fellowes Workstation 3\" Letter Desk Tray Organizer"
         ],
         [
-          "",
+          "Higher budget",
           "Safco 3127BL Steel Desk Organizer Tray Sorter with 5 Shelves"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "Huron Desktop Horizontal 5-Slot File Binder Organizer Storage Letter Tray)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "Simple Houseware 6-Tier Desk Organizer & Sliding Paper Tray"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Simple Houseware 6-Tier Desk Organizer & Sliding Paper Tray is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Safco 3127BL Steel Desk Organizer Tray Sorter with 5 Shelves justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Huron Desktop Horizontal 5-Slot File Binder Organizer Storage Letter Tray already covers the job at the lowest price here."
       }
     ]

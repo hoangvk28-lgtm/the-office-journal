@@ -56,80 +56,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "VIVO Gray Clamp"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "VIVO Gray Clamp"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $76",
+          "DECOLAB Desk Divider"
         ],
         [
-          "",
-          ""
+          "Up to $160",
+          "VIVO Gray Clamp"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "DECOLAB Desk Divider",
         "text": "The lower-priced option in this comparison, worth checking its material and dimensions against your needs."
       },
       {
-        "label": "",
+        "label": "VIVO Gray Clamp",
         "text": "The higher-priced option, worth it if it offers real acoustic or size headroom above the cheaper pick."
       }
     ],
     "note": "Default to DECOLAB Desk Divider unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Dimensions",
     "note": "Check each pick's listed height and width against your seated eyeline and desk width before buying, not just the general size category."
   },
   {
     "subheading": "For a Shared Open Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A panel height that covers your seated eyeline and a genuine acoustic material if noise reduction matters, not just visual blocking."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VIVO Gray Clamp is worth checking against its listed dimensions and material before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening and secure clamp mounting, where VIVO Gray Clamp's material and hardware give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual privacy without noise concerns, where DECOLAB Desk Divider covers the same job at a lower price."
       }
     ]
@@ -138,7 +138,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Desk edge thickness compatibility",
     "description": "Flagged that every clamp mechanism has a maximum desk thickness range it can grip securely, a detail buyers need to verify against their specific desk before ordering, since most listings bury this spec."
   },
   {

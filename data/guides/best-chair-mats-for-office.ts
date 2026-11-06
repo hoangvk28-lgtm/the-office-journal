@@ -63,35 +63,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "MuArts Crystal Clear 5mm Heavy Duty Chair Mat"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HON Office Chair Mat for Low Pile Carpet with Lip"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $33",
           "Kuyal Clear Chair Mat for Hard Floors"
         ],
         [
-          "",
+          "Up to $82",
           "MuArts Crystal Clear 5mm Heavy Duty Chair Mat"
         ]
       ]
@@ -112,15 +112,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Kuyal Clear Chair Mat for Hard Floors unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "HON Office Chair Mat for Low Pile Carpet with Lip"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HON Office Chair Mat for Low Pile Carpet with Lip is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where MuArts Crystal Clear 5mm Heavy Duty Chair Mat's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Kuyal Clear Chair Mat for Hard Floors covers the same job at a lower price."
       }
     ]
@@ -160,19 +160,19 @@ export const howWeEvaluated = [
     "description": "Weighed each mat's build against occasional single-user home use versus multi-user, many-hours-a-day commercial or hot-desk use, since the latter wears a mat out faster."
   },
   {
-    "title": "",
+    "title": "Certifications and safety details",
     "description": "Checked for GREENGUARD certification, which some offices already require for indoor air quality, and noted safety-relevant details like rounded versus sharp underside cleats."
   },
   {
-    "title": "",
+    "title": "Floor and pile-depth compatibility",
     "description": "Compared each mat's stated pile-depth rating or hard-floor-only designation against its actual thickness and cleat or stud design."
   },
   {
-    "title": "",
+    "title": "Weight capacity and rigidity",
     "description": "Compared stated capacity ratings and rigidity across vinyl, polycarbonate, and 5mm rigid picks, since heavier daily commercial use benefits from higher-capacity, more rigid builds."
   },
   {
-    "title": "",
+    "title": "Total cost of ownership",
     "description": "Weighed price against warranty length and expected durability, a cheaper mat replaced every year or two can cost more over a decade than one sturdier mat bought once."
   }
 ];

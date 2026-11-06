@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/51PnCXd8jfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,24 +76,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $16",
           "KYOLLY Ultra Slim Laptop Cooling Pad with 2 Quiet Big Fans"
         ],
         [
-          "",
+          "Mid-range",
           "TECKNET Laptop Cooling Pad with Quiet Cooling Fan"
         ],
         [
           "No firm budget ceiling, prioritizing fan count or extras",
-          ""
+          "TECKNET Laptop Cooling Pad"
         ]
       ]
     }
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: KYOLLY Ultra Slim Laptop Cooling Pad with 2 Quiet Big Fans."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: AIMIUZI Laptop Cooling Pad."
       }
     ],
     "note": "Most buyers should default to a slim pick like KYOLLY Ultra Slim Laptop Cooling Pad with 2 Quiet Big Fans for everyday portability, and only step up to AIMIUZI Laptop Cooling Pad's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what TECKNET Laptop Cooling Pad offers: Specific 1200 RPM figure stated. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "KYOLLY Ultra Slim Laptop Cooling Pad with 2 Quiet Big Fans already covers the essentials: Furthest under the $50 ceiling of any pick here. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -161,7 +161,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hard price ceiling verification",
     "description": "We checked each listed price against the actual listing on 2026-08-08 and confirmed all eight picks were strictly before including them."
   },
   {
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "We noted how many USB ports each pad includes and whether they are dedicated to peripherals or shared with the pad's own power draw."
   },
   {
-    "title": "",
+    "title": "Warranty and support transparency",
     "description": "We recorded exactly what each listing states about warranty length or support programs, and noted plainly when a listing states none at all."
   }
 ];

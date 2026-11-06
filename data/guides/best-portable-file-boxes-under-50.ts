@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51c1uDWDoaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $32",
+          "Oterri with Wheels ($31.99)"
         ],
         [
-          "",
-          ""
+          "Under $38",
+          "ENGPOW 5200 degrees F ($37.99)"
         ],
         [
-          "",
-          ""
+          "Under $43",
+          "DocSafe Hard-Shell Case ($42.98)"
         ],
         [
-          "",
-          ""
+          "Under $50",
+          "DocSafe 2-Layer with Wheels ($49.99)"
         ]
       ]
     }
@@ -129,15 +129,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're organizing an entire home filing system, a traditional box holds more volume. If you want one portable case to grab in an emergency with both documents and a laptop, the accordion hard-shell design suits that specific need better."
   },
   {
-    "subheading": "",
+    "subheading": "By Fire Resistance Rating",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your protection priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Maximum available rating",
           "ENGPOW 5200 degrees F Fireproof Document Box"
         ],
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Emergency Grab-and-Go Preparedness Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A lighter, more portable design that can be grabbed quickly alongside a laptop, rather than a heavier box requiring more time to load and carry."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The DocSafe Hard-Shell Case's lighter accordion format and laptop compatibility suit fast, emergency-ready grab-and-go use specifically."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want both fireproofing and wheeled mobility in one box, where the DocSafe 2-Layer with Wheels is the only pick in this comparison offering that specific combination."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want rolling mobility without needing fireproof protection, where the Oterri pick delivers that for about $18 less than the top pick."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Fire Resistance Rating",
     "description": "Compared stated maximum temperature tolerance and independent certification across fireproof-rated picks."
   },
   {
-    "title": "",
+    "title": "Mobility Design",
     "description": "Checked which picks combine wheels with other features versus requiring handle-based carrying."
   },
   {
-    "title": "",
+    "title": "Organizational Pocket System",
     "description": "Compared multi-layer pocket counts and whether each pick uses a box shape or an accordion-style case."
   },
   {
-    "title": "",
+    "title": "Multi-Purpose Storage",
     "description": "Checked which picks specifically accommodate a laptop alongside standard documents."
   },
   {
-    "title": "",
+    "title": "Lock Design",
     "description": "Compared combination lock mechanisms and whether individual compartments can be locked separately."
   }
 ];

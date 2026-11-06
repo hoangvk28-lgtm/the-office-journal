@@ -29,19 +29,19 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which is the most proven overall?",
-    "a": ""
+    "a": "The DreamSky Wooden Digital Alarm Clock, with 6,039 reviews at 4.6 stars, by far the largest review base in this comparison."
   },
   {
     "q": "Is there a genuine metal silver clock?",
     "a": "The rjuwurv Metal Desk Clock and the Deco 79 Stainless Steel clock both use genuine metal construction, verify current finish details on each listing."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The rjuwurv Metal Desk Clock at $9.99."
   },
   {
     "q": "Is the stainless steel option worth the higher price?",
-    "a": ""
+    "a": "It has the most premium materials in this comparison but also the smallest review base and lowest rating, check current feedback before choosing it over the more established options."
   },
   {
     "q": "Which has a dimming feature?",
@@ -57,15 +57,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41zup4v0gaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Movement Type",
     "table": {
       "headers": [
-        "",
+        "What you want",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "A quiet, non-ticking movement",
           "Silent Desk Clocks 8x8x2 Inch Crystal Sparkle Twinkle Bling Square Mirrored"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "Rjuwurv Metal Desk Clock"
         ],
         [
-          "",
+          "Mid-range",
           "Slim LED Digital Alarm Clock"
         ],
         [
@@ -103,14 +103,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs Corded",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-Powered",
         "text": "Runs on batteries alone, so it can sit anywhere on a desk or shelf with no cord in the way, at the cost of an eventual battery swap. In this comparison: DreamSky Wooden Digital Alarm Clock for Bedroom Living Room, Slim LED Digital Alarm Clock, rjuwurv Metal Desk Clock."
       },
       {
-        "label": "",
+        "label": "Corded (Plug-In)",
         "text": "Draws continuous power from a wall outlet, often adding features like USB charging ports or a battery backup for outages, but it has to sit within cord length of a plug. In this comparison: none in this specific roundup, since most picks here are battery powered."
       }
     ],
@@ -120,12 +120,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Purpose: Everyday Use vs Gift",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your purpose",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday functional desk use",
           "DreamSky Wooden Digital Alarm Clock for Bedroom Living Room"
         ],
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buying as a Gift Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine material language, such as hand carved, real marble, or real crystal, rather than a marble-look or crystal-look plastic finish, plus a stated production or engraving lead time if personalization is involved."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Silent Desk Clocks 8x8x2 Inch Crystal Sparkle Twinkle Bling Square Mirrored fits this specifically: Distinctive decorative design. That's the kind of detail that signals a deliberate gift rather than a purely functional purchase."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Deco 79 Stainless Steel Metal Clock with Marble Base offers: Genuine stainless steel and marble construction, the most premium materials here. That's a real material or craftsmanship upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Rjuwurv Metal Desk Clock already covers the essentials: Cheapest option with genuine metal construction. The main thing you'd be paying extra for elsewhere in this list is styling rather than function."
       }
     ]
@@ -169,12 +169,12 @@ export const howWeEvaluated = [
     "description": "We distinguished digital LED clocks, mirror-surface designs, and metal/stainless steel construction rather than treating \"silver\" as one uniform product category."
   },
   {
-    "title": "",
+    "title": "Material verified per listing",
     "description": "We noted where a product uses genuine metal or stainless steel versus a wooden body with a silver-toned digital display."
   },
   {
     "title": "Review volume and rating together",
-    "description": ""
+    "description": "We weighted both metrics heavily, flagging where a premium-material product has a much smaller review base than the more established digital options."
   },
   {
     "title": "Price against actual material quality",

@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/311apQC+n2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom or office",
           "Whole-House Small Bypass Evaporative Humidifier"
         ],
         [
-          "",
-          ""
+          "Standard bedroom",
+          "AprilAire 500M Whole-House Humidifier"
         ],
         [
-          "",
+          "Larger living space",
           "AprilAire 800 Whole-House Steam Humidifier"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Whole-House Small Bypass Evaporative Humidifier"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "AprilAire 600M Whole-House Humidifier"
         ],
         [
-          "",
+          "Higher budget",
           "AprilAire 800 Whole-House Steam Humidifier"
         ]
       ]
@@ -110,57 +110,57 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Cool Mist vs Warm Mist",
     "cards": [
       {
-        "label": "",
+        "label": "Cool mist (e.g. AprilAire 500M Whole-House Humidifier)",
         "text": "Uses less electricity and covers larger rooms more effectively."
       },
       {
-        "label": "",
+        "label": "Warm mist",
         "text": "Kills bacteria in the water during boiling and runs near-silently, best for a small room."
       }
     ],
     "note": "Match this to your room size and how much you value quiet operation versus coverage."
   },
   {
-    "subheading": "",
+    "subheading": "By Maintenance Tolerance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Minimal daily upkeep",
           "Check tank capacity against how often you're willing to refill it"
         ],
         [
-          "",
-          ""
+          "Don't mind frequent cleaning",
+          "AprilAire 500M Whole-House Humidifier"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Hard Water Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An evaporative design (traps minerals in the wick) or plan to use distilled water with an ultrasonic model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "AprilAire 500M Whole-House Humidifier is worth checking against its specific mist type before assuming any humidifier handles hard water the same way."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger tank, quieter operation, and extra features like a hygrometer display, where AprilAire 800 Whole-House Steam Humidifier justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need basic humidity for a small room and don't mind more frequent refills, where AprilAire 500M 12-gal. Whole-House Small Bypass Evaporative Humidifier already covers the job at the lowest price here."
       }
     ]

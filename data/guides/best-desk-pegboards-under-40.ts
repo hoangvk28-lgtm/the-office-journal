@@ -61,16 +61,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41MYGQyCPSL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A clamp-on desk mount with steel construction",
-          ""
+          "PEGZONE Clamp on Desk Pegboard, 16.5\" x 12.6\""
         ],
         [
           "The most comprehensive gaming setup accessory set",
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $36",
+          "XAOMLP Wooden ($35.99)"
         ],
         [
-          "",
-          ""
+          "Under $37",
+          "AKTOP 4-Pack ($36.59)"
         ],
         [
-          "",
-          ""
+          "Under $38",
+          "Skwelom ($37.99)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "PEGZONE Clamp On ($39.99)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Clamp-On Desk Mount vs Wall-Mounted Panel Kit",
     "cards": [
       {
-        "label": "",
+        "label": "Clamp-on desk mount (PEGZONE)",
         "text": "Attaches to the desk edge itself, avoiding the wall entirely, ideal for renters or shared spaces without wall access."
       },
       {
@@ -129,24 +129,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you can't or won't drill or adhere anything to a wall, the PEGZONE's clamp-on desk mount sidesteps that restriction. If desk space is more precious than wall space, a wall-mounted kit is the better fit."
   },
   {
-    "subheading": "",
+    "subheading": "By Material Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your material priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Steel for maximum durability",
+          "PEGZONE Clamp On"
         ],
         [
-          "",
-          ""
+          "Natural, eco-friendly wood",
+          "XAOMLP Wooden"
         ],
         [
           "Standard plastic for lightweight items",
-          ""
+          "Skwelom or AKTOP"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Gaming Desk Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An accessory set specifically designed to hold headsets, controllers, and gaming peripherals, not just generic office hooks."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Skwelom pick's comprehensive accessory set with multiple hook types and bins is specifically marketed toward gaming room organization."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a clamp-on desk mount with steel construction that avoids the wall entirely, where the PEGZONE pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a natural wood aesthetic without paying for clamp mounting or gaming-specific accessories, where the XAOMLP pick covers that for the lowest price here."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Mounting Mechanism",
     "description": "Compared clamp-on desk mounting against wall-mounted adhesive, screw, and nail installation methods."
   },
   {
-    "title": "",
+    "title": "Panel Material",
     "description": "Compared steel, PP plastic, ABS plastic, and genuine wood construction across the lineup."
   },
   {
-    "title": "",
+    "title": "Accessory Completeness and Specialization",
     "description": "Checked total accessory count and whether accessories are specifically suited to gaming, office, or general use."
   },
   {
-    "title": "",
+    "title": "Sustainability and Material Sourcing",
     "description": "Noted which picks use eco-friendly or natural materials versus standard plastic construction."
   },
   {
-    "title": "",
+    "title": "Installation Flexibility",
     "description": "Compared mounting options across different wall surface types like smooth tile versus textured drywall."
   }
 ];

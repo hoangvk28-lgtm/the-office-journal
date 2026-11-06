@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41HbZ5Q6QZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sensor Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your main concern",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Particulates (PM2.5/dust)",
           "5 Air Quality Monitor & Indoor Thermometer"
         ],
         [
-          "",
+          "General everyday tracking",
           "16 in 1 Air Quality Monitor Indoor 7\" High-Precision Real-Time CO2 Monitor"
         ],
         [
-          "",
-          ""
+          "Multiple pollutants at once",
+          "GoveeLife Smart Air Quality Monitor with PM2.5 H5106"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "5 Air Quality Monitor & Indoor Thermometer"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Air Quality Monitor Indoor"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "GoveeLife Smart Air Quality Monitor with PM2.5 H5106"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "WiFi vs Zigbee/Hub-Based",
     "cards": [
       {
         "label": "5 Air Quality Monitor & Indoor Thermometer)",
         "text": "Connects directly to your router and app, no extra hardware needed."
       },
       {
-        "label": "",
+        "label": "Hub or app-ecosystem pick (e.g. GoveeLife Smart Air Quality Monitor with PM2.5 H5106)",
         "text": "May need a bridge or hub for full smart-home integration, check before buying."
       }
     ],
     "note": "Match this to whether you already have a compatible smart-home hub."
   },
   {
-    "subheading": "",
+    "subheading": "By Data Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Live readings only",
           "16 in 1 Air Quality Monitor Indoor 7\" High-Precision Real-Time CO2 Monitor"
         ],
         [
-          "",
-          ""
+          "Long-term history and export",
+          "Air Quality Monitor Indoor"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Pollutant Concern Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated sensor for your specific concern (formaldehyde, CO2, or radon) rather than a general VOC or air-quality index alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "16 in 1 Air Quality Monitor Indoor 7\" High-Precision Real-Time CO2 Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact concern."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5 H5106 justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5 Air Quality Monitor & Indoor Thermometer already covers the job at the lowest price here."
       }
     ]

@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Verify Fine-Tool Runout",
     "explanation": "Check desktop cnc machines for jewelry's documented runout with small jewelry cutters, since fine detail work is far more sensitive to runout than large-scale routing."
   },
   {
@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Verify precision vises or fixtures exist for small parts, since standard clamps aren't built for tiny, repeatable jewelry-scale positioning."
   },
   {
-    "criterion": "",
+    "criterion": "Check Material-Specific Tooling",
     "explanation": "Confirm tooling and feeds are documented for your intended jewelry media (wax, brass, precious metal), not just generic material claims."
   },
   {
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41pCr4H7f0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Verify Fine-Tool Runout",
     "note": "Check desktop cnc machines for jewelry's documented runout with small jewelry cutters, since fine detail work is far more sensitive to runout than large-scale routing."
   },
   {
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Verify precision vises or fixtures exist for small parts, since standard clamps aren't built for tiny, repeatable jewelry-scale positioning."
   },
   {
-    "subheading": "",
+    "subheading": "Check Material-Specific Tooling",
     "note": "Confirm tooling and feeds are documented for your intended jewelry media (wax, brass, precious metal), not just generic material claims."
   },
   {
@@ -80,7 +80,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified Before Comparison",
     "description": "Sorted each machine into router, mill, lathe, laser hybrid, or waterjet before ranking, since desktop CNC spans different cutting architectures that don't compare fairly on one scale."
   },
   {
@@ -88,11 +88,11 @@ export const howWeEvaluated = [
     "description": "Compared usable XYZ travel after vise, clamps, and tool stick-out rather than nominal axis travel alone, since fixtures and tooling eat into the advertised work envelope."
   },
   {
-    "title": "",
+    "title": "Spindle and Rigidity Evidence",
     "description": "Checked documented spindle speed, torque, and runout figures alongside frame and rail rigidity, since motor wattage alone doesn't predict real cut quality."
   },
   {
-    "title": "",
+    "title": "Software and Workholding Verified",
     "description": "Checked CAM/postprocessor support, probing, workholding, and dust or chip control as part of daily usability, not just the headline spec sheet."
   },
   {

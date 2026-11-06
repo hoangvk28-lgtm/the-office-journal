@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41BFsQhCixL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $24",
+          "Storex Economy ($23.01)"
         ],
         [
-          "",
-          ""
+          "Under $25",
+          "Bankers Box Heavy-Duty ($24.97)"
         ],
         [
-          "",
-          ""
+          "Under $27",
+          "Small File Cabinet ($26.99)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "STAPLES 2-Pack ($29.03)"
         ]
       ]
     }
@@ -122,18 +122,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Purpose-engineered locking mechanism specifically designed with family safety in mind, keeping kids and pets out."
       },
       {
-        "label": "",
+        "label": "Padlock-compatible latch (Storex Economy)",
         "text": "A simpler latch that accepts a separately purchased padlock, offering similar functional security at a lower price."
       }
     ],
     "note": "If genuine built-in locking hardware matters to you, the Small File Cabinet pick delivers that directly. If you're comfortable adding your own padlock, the Storex Economy pick achieves similar security for less."
   },
   {
-    "subheading": "",
+    "subheading": "By Durability Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your usage pattern",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -145,8 +145,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Small File Cabinet (rounded corners, lockable)"
         ],
         [
-          "",
-          ""
+          "Basic occasional use",
+          "Storex Economy"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Household with Young Children Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A lockable lid and rounded corners that reduce bump and scrape risk, not just a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Small File Cabinet pick is specifically designed with families in mind, combining both a lockable lid and rounded corners."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a lockable, family-safe design or need two boxes for separate workstations, where the Small File Cabinet or STAPLES 2-Pack each deliver a distinct advantage."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic padlock compatibility and a supply compartment, where the Storex Economy pick covers that for the lowest price in this comparison."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Lock Security Design",
     "description": "Compared lockable lids against padlock-compatible latches across the lineup."
   },
   {
-    "title": "",
+    "title": "Corner and Material Reinforcement",
     "description": "Compared reinforced corners and rounded-corner safety designs against standard plastic construction."
   },
   {
-    "title": "",
+    "title": "Multi-Pack Value",
     "description": "Compared per-unit cost for the listing offering two boxes in a single purchase."
   },
   {
-    "title": "",
+    "title": "Brand Recognition and Compliance",
     "description": "Checked established office storage brand pedigree and institutional purchasing compliance where applicable."
   },
   {
-    "title": "",
+    "title": "Organizer Compartment Design",
     "description": "Compared built-in supply compartments and their accessibility relative to the main file compartment."
   }
 ];

@@ -56,36 +56,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Jabra Speak 510 UC Wireless Bluetooth Speakerphone, Outstanding Sound Quality"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Jabra Speak 510 UC Wireless Bluetooth Speakerphone, Outstanding Sound Quality"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $53",
           "EMEET M0 Plus Conference Speaker and Microphone"
         ],
         [
-          "",
-          ""
+          "Up to $150",
+          "Anker PowerConf Speakerphone"
         ]
       ]
     }
@@ -98,22 +98,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Anker PowerConf Speakerphone",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to EMEET M0 Plus Conference Speaker and Microphone unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Jabra Speak 510 UC Wireless Bluetooth Speakerphone, Outstanding Sound Quality"
         ]
       ]
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Jabra Speak 510 UC Wireless Bluetooth Speakerphone, Outstanding Sound Quality is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Anker PowerConf Speakerphone's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where EMEET M0 Plus Conference Speaker and Microphone covers the same job at a lower price."
       }
     ]

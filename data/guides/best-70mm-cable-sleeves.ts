@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/31KUo4hWzQL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "Dsjnf 12 Pcs Black Strain Relief Rubber Sleeves"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "BOXONLY 70mm Dia 113mm Flat Width EVA Heat Shrink Tubing Insulation"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "VTYFQMZAJGWP 3pcs Cord Boot Protector Power Cable Protective Sleeve 20x70mm"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,40 +95,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Dsjnf 12 Pcs Black Strain Relief Rubber Sleeves"
         ],
         [
-          "",
+          "Mid-range pick",
           "Uxcell Black PVC Tube Wire Harness Tubing"
         ],
         [
-          "",
+          "Higher budget",
           "VTYFQMZAJGWP 3pcs Cord Boot Protector Power Cable Protective Sleeve 20x70mm"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "Dsjnf 12 Pcs Black Strain Relief Rubber Sleeves)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "BOXONLY 70mm Dia 113mm Flat Width EVA Heat Shrink Tubing Insulation"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "BOXONLY 70mm Dia 113mm Flat Width EVA Heat Shrink Tubing Insulation is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where VTYFQMZAJGWP 3pcs Cord Boot Protector Power Cable Protective Sleeve 20x70mm justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Dsjnf 12 Pcs Black Strain Relief Rubber Sleeves already covers the job at the lowest price here."
       }
     ]

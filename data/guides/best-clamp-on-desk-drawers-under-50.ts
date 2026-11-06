@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51DlHl6bvbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Cedilis Under Desk Drawer Organizer"
         ],
         [
-          "",
+          "Maximum flexible storage capacity",
           "SRJZMLY Under Desk Drawer Organizer"
         ],
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $35",
+          "Cedilis ($26.99), SRJZMLY ($29.99), or ROLIZOE ($32.99)"
         ],
         [
-          "",
-          ""
+          "$38 to $50",
+          "XINLEI ($37.99), AX WABER ($43.99), or VIVO ($49.99)"
         ]
       ]
     }
@@ -121,23 +121,23 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Choose based on your actual problem: cluttered desk supplies call for a storage drawer, while a desktop that feels too small for a keyboard and mouse calls for a sliding tray."
   },
   {
-    "subheading": "",
+    "subheading": "By Your Desk's Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk edge is",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1.25 inches or thinner",
           "VIVO Black Clamp-on Keyboard Tray"
         ],
         [
-          "",
+          "Up to 1.63 inches",
           "XINLEI Keyboard Tray Under Desk"
         ],
         [
-          "",
+          "Up to 1.9 inches (thicker desks)",
           "AX WABER Keyboard Tray Under Desk"
         ],
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Unusual Desk Edge Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit guidance about desk lips, beveled edges, or minimum clearance distance, not just a maximum thickness number, since some desks have shapes that complicate clamp mounting beyond thickness alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ROLIZOE is the only pick here that explicitly addresses desk-lip clearance requirements in its listing."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) extends furthest from the desk edge."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) covers that need at the lowest price in this comparison."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Product type classification",
     "description": "We distinguished storage drawers (for pens, notepads, and supplies) from sliding keyboard trays (for freeing up desktop space), since these serve different purposes despite sharing the same clamp-mount design."
   },
   {
-    "title": "",
+    "title": "Maximum desk thickness verification",
     "description": "We recorded each pick's stated maximum compatible desk thickness directly, since C-clamp mounts have a hard physical limit that determines whether a product fits your desk at all."
   },
   {
-    "title": "",
+    "title": "Weight capacity comparison",
     "description": "We noted which listings state an explicit weight capacity versus leaving it unstated, since a stated number lets you plan what you'll actually store or place on the product with confidence."
   },
   {
-    "title": "",
+    "title": "Desk edge compatibility notes",
     "description": "We flagged listings with specific compatibility warnings (beveled edges, desk lips, minimum clearance) since these details determine real-world fit beyond the basic thickness spec."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $50 on the date this guide was checked; products that only hit this tier during a temporary sale were excluded."
   }
 ];

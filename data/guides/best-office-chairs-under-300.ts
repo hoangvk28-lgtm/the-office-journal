@@ -60,16 +60,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41E+VUupUxL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A recognized ergonomic brand's dual-backrest design",
-          ""
+          "Autonomous ErgoChair Core"
         ],
         [
           "A lockable recline with a genuine extendable footrest",
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $110",
+          "HUANUO ($109.98)"
         ],
         [
-          "",
-          ""
+          "Under $200",
+          "CAPOT ($199.99)"
         ],
         [
-          "",
-          ""
+          "Under $230",
+          "GABRYLLY with Footrest ($228.90)"
         ],
         [
-          "",
-          ""
+          "Under $300",
+          "Autonomous ErgoChair Core ($299.00)"
         ]
       ]
     }
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Named Ergonomic Brand vs Generic Manufacturer",
     "cards": [
       {
-        "label": "",
+        "label": "Named brand (Autonomous)",
         "text": "Backed by a company specializing specifically in ergonomic office furniture, with documented warranty terms and established customer support channels."
       },
       {
@@ -131,8 +131,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Footrest and Recline Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your usage pattern",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -141,11 +141,11 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Prefer a dual-backrest design without a footrest",
-          ""
+          "Autonomous ErgoChair Core"
         ],
         [
           "Just need reliable seating without recline extras",
-          ""
+          "CAPOT or HUANUO"
         ]
       ]
     }
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Work-From-Home Days With Frequent Breaks Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A lockable multi-position recline paired with a genuine extendable footrest, not just a tilt function alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "1 inch steel footrest combined with its 3-position lockable recline suits this need specifically."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a recognized ergonomic brand's specific dual-backrest design or a genuine footrest for breaks, where the Autonomous or GABRYLLY picks each deliver a distinct capability the budget options lack."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want the highest weight capacity and longest warranty without paying for a footrest or brand name, where the CAPOT pick delivers both for $100 less than the Autonomous pick."
       }
     ]
@@ -180,23 +180,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Recline Mechanism Sophistication",
     "description": "Compared lockable multi-position recline systems and whether they include a footrest for extended use."
   },
   {
-    "title": "",
+    "title": "Brand Documentation and Warranty",
     "description": "Checked which picks are backed by a named consumer ergonomic brand versus a generic manufacturer, and compared warranty length."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated maximum supported weight across the lineup."
   },
   {
-    "title": "",
+    "title": "Structural Design Approach",
     "description": "Compared distinct frame designs like dual-backrest X-frames versus traditional single continuous mesh backs."
   },
   {
-    "title": "",
+    "title": "Lumbar and Armrest Precision",
     "description": "Compared specific stated adjustment ranges for lumbar support and armrest positioning."
   }
 ];

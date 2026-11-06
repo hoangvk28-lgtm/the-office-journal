@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Which has the most reviews?",
-    "a": ""
+    "a": "The Pendaflex Portable File Box, with 5,076 reviews, though it's letter size, not confirmed 12x12."
   },
   {
     "q": "Is there a multi-pack option?",
@@ -57,56 +57,56 @@ export const heroImage = "https://m.media-amazon.com/images/I/413N-zNM2KL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Prioritizing clear",
+          "IRIS USA Scrapbook Case"
         ],
         [
-          "",
+          "Prioritizing plastic",
           "Citylife 3 PCS Plastic Storage Bins with Latching Lids Portable Project Case"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $25",
           "Staples File Box Portable Storage Tote"
         ],
         [
-          "",
+          "Mid-range",
           "Pendaflex Portable File Box with File Rails"
         ],
         [
           "No firm budget ceiling, prioritizing security or durability",
-          ""
+          "IRIS USA Scrapbook Case"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: IRIS USA Scrapbook Case, Citylife 3 PCS Plastic Storage Bins with Latching Lids Portable Project Case, Pendaflex Portable File Box with File Rails."
       }
     ],
@@ -116,13 +116,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Occasional short lifts, simpler design",
-          ""
+          "IRIS USA Scrapbook Case"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what IRIS USA Scrapbook Case offers: Confirmed genuine 12x12 scrapbook paper compatibility. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Staples File Box Portable Storage Tote already covers the essentials: From an established office-supply retailer. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]

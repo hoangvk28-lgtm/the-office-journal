@@ -64,35 +64,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Softa Queen Murphy Bed Cabinet with Storage Drawer & Charging Station"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "AMERLIFE Queen Murphy Bed with Storage & Charging Station"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $1",
           "Merax Queen Size Murphy Bed with Desk and Lights"
         ],
         [
-          "",
+          "Up to $NaN",
           "MERITLINE Full Murphy Bed with Desk and Storage Shelves"
         ]
       ]
@@ -113,15 +113,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Merax Queen Size Murphy Bed with Desk and Lights unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "AMERLIFE Queen Murphy Bed with Storage & Charging Station"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "AMERLIFE Queen Murphy Bed with Storage & Charging Station is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where MERITLINE Full Murphy Bed with Desk and Storage Shelves's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Merax Queen Size Murphy Bed with Desk and Lights covers the same job at a lower price."
       }
     ]
@@ -161,7 +161,7 @@ export const howWeEvaluated = [
     "description": "Checked whether each listing's title or bullet points explicitly state a fold-down desk or work surface, and separated the 4 that do from the 4 storage-and-charging-only picks so buyers never assume a desk that isn't there."
   },
   {
-    "title": "",
+    "title": "Mattress thickness and comfort",
     "description": "Compared stated mattress specs where included, noting that a 6-inch tri-fold mattress offers noticeably less support than a standard 10 to 12 inch murphy mattress for nightly use."
   },
   {
@@ -174,7 +174,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Value for money and review history",
-    "description": ""
+    "description": "Weighed price against review count and rating, distinguishing well-established listings like the 340 to 396-rating LUXOAK and AMERLIFE picks from newer, lightly reviewed listings with 1 to 4 ratings or none yet."
   }
 ];
 

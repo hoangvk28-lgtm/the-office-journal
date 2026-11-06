@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the best overall combination laptop lock?",
-    "a": ""
+    "a": "The Kensington Combination Cable T-Bar Standard Lock, for its combination of the largest confirmed review base in this comparison and independent torque and pull testing, provided your laptop uses a Standard slot."
   },
   {
     "q": "What happens if I forget my combination?",
@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "What's the best combination lock if I'm not sure of my slot type?",
-    "a": ""
+    "a": "The Kensington Universal 3-in-1 Combination Laptop Lock, since its interchangeable tips cover Standard, Nano, and Wedge slots in one purchase with a longer track record than the newer 2.0 version."
   },
   {
     "q": "Does a combination lock fully prevent laptop theft?",
@@ -57,38 +57,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/41uKp7JP60L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Slot Type",
     "table": {
       "headers": [
-        "",
+        "Your laptop's slot",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Confirmed standard slot",
           "Kensington Combination Cable T-Bar Standard Lock"
         ],
         [
-          "",
-          ""
+          "Confirmed nano slot",
+          "Kensington Universal 3-in-1 2.0 Combination Laptop Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $24",
           "Kensington Combination Laptop Lock for Standard Security Slot"
         ],
         [
-          "",
+          "Mid-range",
           "Kensington NanoSaver Combination Laptop Lock"
         ],
         [
@@ -99,24 +99,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: check each listing's mechanism directly."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -124,7 +124,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Kensington Combination Cable T-Bar Standard Lock"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "Multplx Universal Laptop Security Lock"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Kensington Combination Cable T-Bar Standard Lock fits this specifically: Largest confirmed review base in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Compulocks Ledge Adapter for MacBook Air 13-inch offers: Only combination-lock option in this comparison that fits a slotless MacBook Air. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Kensington Combination Laptop Lock for Standard Security Slot already covers the essentials: Lowest price of any Standard-slot combination lock in this comparison. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

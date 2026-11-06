@@ -52,43 +52,43 @@ export const heroImage = "https://m.media-amazon.com/images/I/41h7EpKDjyL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Refresh Rate",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Standard smooth motion",
           "6\" FHD 60Hz Portable Monitor USB-C HDMI IPS HDR"
         ],
         [
-          "",
+          "Maximum refresh headroom",
           "AHXJKA Portable Monitor 16\" 165Hz 1920x1200P 133% SRGB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $63",
           "6\" FHD 60Hz Portable Monitor USB-C HDMI IPS HDR"
         ],
         [
-          "",
+          "Mid-range",
           "AHXJKA Portable Monitor 16\" 165Hz 1920x1200P 133% SRGB"
         ],
         [
           "No firm budget ceiling, prioritizing panel quality or resolution",
-          ""
+          "VisionOwl Portable Monitor 16 Inch 2.5K QHD 144Hz"
         ]
       ]
     }
@@ -97,27 +97,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C DisplayPort Alt Mode vs HDMI",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C (DisplayPort Alt Mode)",
         "text": "Usually the port that hits the panel's full rated refresh rate, and can carry power alongside video on one cable. In this comparison: check each listing's stated USB-C refresh rate directly."
       },
       {
-        "label": "",
+        "label": "HDMI",
         "text": "Reliable for consoles and older sources, but often capped below the panel's full rated refresh, especially at higher resolutions. In this comparison: check each listing's stated HDMI refresh ceiling directly."
       }
     ],
     "note": "Check each listing's per-port refresh specs directly before assuming HDMI matches the headline rate."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Mount Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Want a permanent mounted setup",
-          ""
+          "VisionOwl Portable Monitor 16 Inch 2.5K QHD 144Hz"
         ],
         [
           "Prefer the included kickstand or case",
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Handheld Gaming PC or Console Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Your exact source device's documented maximum output refresh rate over the connection type you'll use, checked independently from the monitor's own rated capability, since handhelds like Steam Deck and ROG Ally commonly cap at 60Hz over USB-C."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Veout 16\" Portable Monitor for Laptop fits this specifically: Genuine hinge-based portrait rotation, not just a fixed cover."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5K QHD 144Hz offers: Highest resolution in portrait mode of any pick here (1600px wide when rotated). That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6\" FHD 60Hz Portable Monitor USB-C HDMI IPS HDR already covers the essentials: Explicitly lists Portrait Mode as a supported display mode. The main thing you'd be paying extra for elsewhere in this list is headroom you may not actually use."
       }
     ]
@@ -156,7 +156,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine rotating stand vs. fixed-angle cover repositioning",
     "description": "Distinguished picks with a real rotating hinge or 360° bracket from ones where 'portrait support' just means repositioning a fixed-angle folio cover."
   },
   {

@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Jabra Speak 510"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Anker PowerConf Speakerphone"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $53",
           "EMEET M0 Plus Conference Speaker and Microphone"
         ],
         [
-          "",
+          "Up to $175",
           "Jabra Speak2 55 Wireless Bluetooth Speakerphone"
         ]
       ]
@@ -105,16 +105,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to EMEET M0 Plus Conference Speaker and Microphone unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Anker PowerConf Speakerphone"
         ]
       ]
     }
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Anker PowerConf Speakerphone is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Jabra Speak2 55 Wireless Bluetooth Speakerphone's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where EMEET M0 Plus Conference Speaker and Microphone covers the same job at a lower price."
       }
     ]

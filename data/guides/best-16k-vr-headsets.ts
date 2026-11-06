@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Comfort-vr-faq",
     "q": "Which VR headset is most comfortable for long sessions?",
     "a": "Check reviews for weight distribution, not just total weight, a design with rear-mounted weight like a battery pack balances the load better than a front-heavy design that concentrates weight on the face."
   },
   {
-    "id": "",
+    "id": "Lens-faq",
     "q": "What are 'god rays' in a VR headset?",
     "a": "Light streaking around bright objects against dark backgrounds, common with cheaper Fresnel lenses, newer pancake lens designs reduce this glare meaningfully but typically cost more."
   },
   {
-    "id": "",
+    "id": "Standalone-faq",
     "q": "Should I get a standalone or PC VR headset?",
     "a": "Standalone offers real freedom from cables and a computer but caps out at mobile-chip-level graphics, PC-tethered unlocks far more demanding visuals but needs a gaming PC and either a cable or a solid wireless streaming setup."
   },
   {
-    "id": "",
+    "id": "Resolution-vr-faq",
     "q": "What resolution should I look for in a VR headset?",
     "a": "Check the true per-eye resolution, not a combined total across both eyes, a low per-eye resolution can produce a visible screen door effect that's especially distracting when reading in-game text."
   },
   {
-    "id": "",
+    "id": "Motionsick-faq",
     "q": "Can a VR headset cause motion sickness?",
     "a": "It can, particularly at lower refresh rates, if you or the intended user is sensitive to VR discomfort, prioritize a headset running at 90Hz or higher over other specs."
   },
   {
-    "id": "",
+    "id": "Storage-vr-faq",
     "q": "How much storage do I need on a standalone VR headset?",
     "a": "More than the base tier usually offers, VR game file sizes have grown significantly, a smaller storage tier fills up faster than expected and forces regular uninstall-and-redownload cycles."
   }
@@ -67,15 +67,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/31kUHxrsnAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No gaming PC available",
           "TECKNET VR Headset for Phone with Bluetooth Controller"
         ],
         [
@@ -83,18 +83,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Oculus Rift S PC-Powered VR Gaming Headset"
         ],
         [
-          "",
-          ""
+          "Want maximum visual fidelity",
+          "Meta Quest 3 512GB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,36 +102,36 @@ export const howToChoose: HowToChooseSection[] = [
           "TECKNET VR Headset for Phone with Bluetooth Controller"
         ],
         [
-          "",
+          "Mid-range pick",
           "VR Headset, Universal 3D Virtual Reality Goggles Support 360°Panorama Large"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Meta Quest 3 512GB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Standalone vs PC-Tethered",
     "cards": [
       {
         "label": "TECKNET VR Headset for Phone with Bluetooth Controller)",
         "text": "No cables or computer needed, capped at mobile-chip-level graphics."
       },
       {
-        "label": "",
+        "label": "PC-tethered",
         "text": "Far more demanding visuals possible, needs a gaming PC and a cable or wireless streaming setup."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Motion Sensitivity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sensitivity",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,7 +139,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Oculus Rift S PC-Powered VR Gaming Headset"
         ],
         [
-          "",
+          "Sensitive to VR discomfort",
           "VR Headset, Universal 3D Virtual Reality Goggles Support 360°Panorama Large"
         ]
       ]
@@ -149,24 +149,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Fast-Paced or Full-Body Games Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Controller tracking that holds up specifically when controllers move outside the headset's camera view."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Oculus Rift S PC-Powered VR Gaming Headset is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Meta Quest 3 512GB justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where TECKNET VR Headset for Phone with Bluetooth Controller already covers the job at the lowest price here."
       }
     ]

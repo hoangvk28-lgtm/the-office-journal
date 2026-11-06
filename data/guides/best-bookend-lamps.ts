@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41JWFdkgknL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "AELS Solid Wood Bookshelf Lamp with Bulb"
         ],
         [
-          "",
+          "A full mixed shelf",
           "Library Lantern Mini Bookshelf Lamp"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "AELS Solid Wood Bookshelf Lamp with Bulb"
         ],
         [
-          "",
+          "Mid-range pick",
           "YEEUTIUL 3 PCS Library Lantern Mini Bookshelf Lamp"
         ],
         [
-          "",
+          "Higher budget",
           "AELS Solid Wood Bookshelf Lamp with Bulb"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
         "label": "AELS Solid Wood Bookshelf Lamp with Bulb)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Glossy or glass surface",
           "Library Lantern Mini Bookshelf Lamp"
         ],
         [
-          "",
+          "Textured wood surface",
           "YEEUTIUL 3 PCS Library Lantern Mini Bookshelf Lamp"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Library Lantern Mini Bookshelf Lamp is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where AELS Solid Wood Bookshelf Lamp with Bulb justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where AELS Solid Wood Bookshelf Lamp with Bulb already covers the job at the lowest price here."
       }
     ]

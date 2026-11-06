@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/418LoEy3tzL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $170",
+          "RayBit ($169.99)"
         ],
         [
-          "",
-          ""
+          "Under $185",
+          "EMEET Luna Plus + Luna Bundle ($184.78)"
         ],
         [
-          "",
-          ""
+          "Under $192",
+          "Yealink CP900 ($191.67)"
         ],
         [
-          "",
-          ""
+          "Under $212",
+          "Wireless Daisy Chain for 30 People ($211.65)"
         ]
       ]
     }
@@ -129,20 +129,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your two speakerphone placements are far apart or awkward to cable together, the wireless cascading option is worth the tradeoff. If your office has significant electronic interference, the wired EMEET bundle's stability claim is the safer bet."
   },
   {
-    "subheading": "",
+    "subheading": "By Room Configuration",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room setup",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Extra-large or irregularly shaped single room",
-          ""
+          "RayBit with extension mic"
         ],
         [
           "Standard large conference room, single unit",
-          ""
+          "Yealink CP900"
         ],
         [
           "Two-zone room needing cascaded coverage",
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Growing Company Outfitting Multiple Meeting Rooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An established brand with a broader product line spanning multiple price tiers, so future purchases for other rooms can standardize on the same ecosystem."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Yealink CP900 pick's established brand presence, also represented in this series' lower tiers, specifically supports standardizing hardware across multiple rooms over time."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need wireless daisy chain cascading for a two-zone room without cable routing, where the Wireless Daisy Chain pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need extra-large room coverage via an extension mic without cascading complexity, where the RayBit pick covers that for about $42 less."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Expansion Method",
     "description": "Compared wired versus wireless daisy chain cascading and satellite microphone bundling across the lineup."
   },
   {
-    "title": "",
+    "title": "Stated Attendee Capacity",
     "description": "Compared maximum stated attendee counts for single-unit and expanded configurations."
   },
   {
-    "title": "",
+    "title": "Included Accessories",
     "description": "Checked which picks bundle extension mics, dongles, or cables versus requiring separate purchases."
   },
   {
-    "title": "",
+    "title": "Battery and Power",
     "description": "Compared battery capacity, call time, and charging speed across the lineup."
   },
   {
-    "title": "",
+    "title": "Brand Reputation",
     "description": "Checked for established business communications brand names versus newer market entrants."
   }
 ];

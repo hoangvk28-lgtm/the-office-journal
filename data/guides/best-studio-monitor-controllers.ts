@@ -61,43 +61,43 @@ export const heroImage = "https://m.media-amazon.com/images/I/31GdMofa9xL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Setup Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fast, low-cost fix",
           "StudioMan MV4 Passive Monitor Controller"
         ],
         [
-          "",
+          "Standard desk setup",
           "Mackie Big Knob Passive Monitor Controller (2x2)"
         ],
         [
-          "",
-          ""
+          "Precise, adjustable positioning",
+          "Mackie Big Knob Series"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Cheapest option",
           "StudioMan MV4 Passive Monitor Controller"
         ],
         [
-          "",
-          ""
+          "Higher budget, more adjustment",
+          "Mackie Big Knob Series"
         ]
       ]
     }
@@ -110,22 +110,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Cheap, simple, and give a couple of fixed tilt angles, a practical choice for a tight budget or limited desk space."
       },
       {
-        "label": "",
+        "label": "Engineered stands (e.g. Mackie Big Knob Series)",
         "text": "Adjustable height and tilt for precise aim, at a real cost premium, best for a dedicated mixing position."
       }
     ],
     "note": "Match the choice to how much your setup benefits from fine-tuned positioning versus a quick, affordable fix."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard monitor weight",
           "Mackie Big Knob Passive Monitor Controller (2x2)"
         ],
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Tight Desk Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A compact footprint or clamp-on design that doesn't eat into usable desk surface."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Mackie Big Knob Passive Monitor Controller (2x2) is worth checking against its footprint before assuming any stand fits your specific desk."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want precise, adjustable positioning for a dedicated mixing setup, where Mackie Big Knob Series justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a quick, honest fix, where StudioMan MV4 Passive Monitor Controller already covers the job at the lowest price here."
       }
     ]

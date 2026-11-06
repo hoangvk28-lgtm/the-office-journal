@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which corner converter has the most reviews?",
-    "a": ""
+    "a": "The VIVO Extra Wide 38 inch Corner Desk Converter, with 715 reviews."
   },
   {
     "q": "Is there an electric corner converter?",
@@ -37,11 +37,11 @@ export const faq = [
   },
   {
     "q": "What's the cheapest corner converter?",
-    "a": ""
+    "a": "The Aconcept 32 inch White Corner Standing Desk Converter at $99.99."
   },
   {
     "q": "What's the largest corner converter platform?",
-    "a": ""
+    "a": "The Lubvlook 47 inch Corner Standing Desk Converter, though it has only 8 reviews at research time."
   },
   {
     "q": "Can I use a standard converter on a corner desk?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/517aMgUqrpL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Aconcept 32 inch White Corner Height Adjustable Standing Desk Converter"
         ],
         [
-          "",
+          "Dual monitors",
           "VIVO Black 43 in Corner Desk Converter"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $160",
           "Aconcept 32 inch White Corner Height Adjustable Standing Desk Converter"
         ],
         [
-          "",
+          "Mid-range",
           "VIVO Black 43 in Corner Desk Converter"
         ],
         [
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: VIVO Black 43 in Corner Desk Converter, VIVO Extra Wide 38 inch Corner Desk Converter, Lubvlook 47 inch Corner Standing Desk Converter."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: VIVO Black 43 in Electric Corner Desk Converter, VERSADESK PowerPro 36 Inch Electric Standing Desk Converter."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Lubvlook 47 inch Corner Standing Desk Converter"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "VIVO Extra Wide 38 inch Corner Desk Converter"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VIVO Black 43 in Corner Desk Converter fits this specifically: Solid review base for a specialized corner converter."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Aconcept 32 inch White Corner Height Adjustable Standing Desk Converter already covers the essentials: Lowest price for a corner converter in this comparison. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]
@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Weighed very small review counts on newer corner-specific listings",
-    "description": ""
+    "description": "The largest corner platform has only 8 reviews; we flagged this directly rather than treating the rating with unwarranted confidence."
   },
   {
     "title": "Noted where electric lift combines with corner-specific geometry",

@@ -53,23 +53,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/31VzBQ+jwWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $15",
           "WALI Computer Monitor Stand for Desk"
         ],
         [
-          "",
+          "Mid-range",
           "Simple Trending Monitor Stand with Drawer"
         ],
         [
@@ -80,24 +80,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Freestanding vs Clamp/Clip-On",
     "cards": [
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits directly on the desk with zero installation, at the cost of using up some desk depth. In this comparison: WALI Computer Monitor Stand for Desk, HUANUO Monitor Riser for Desk, Simple Trending Monitor Stand with Drawer."
       },
       {
-        "label": "",
+        "label": "Clamp/Clip-On",
         "text": "Attaches to the desk's back edge, freeing up desk surface underneath, but needs a compatible edge thickness. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "With Storage vs Platform-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -111,24 +111,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy or Ultrawide Monitor Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity with real margin above your monitor's actual weight, a rigid material like metal or thick wood, and a wide enough platform to support the monitor's full base without overhang."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Gianotter Dual Monitor Stand Riser With Drawer and 2 Pen Holders fits this specifically: Purpose-built for dual-monitor setups."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what gianotter Dual Monitor Stand Riser With Drawer and 2 Pen Holders offers: Purpose-built for dual-monitor setups. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "WALI Computer Monitor Stand for Desk already covers the essentials: Stable, well-reviewed metal build. The main thing you'd be paying extra for elsewhere in this list is capacity or storage you may not need."
       }
     ]
@@ -137,7 +137,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Point-load versus distributed-load capacity",
     "description": "Checked whether each shelf's rated capacity is described for evenly spread weight, then flagged how a single centered monitor changes the real-world safety margin."
   },
   {

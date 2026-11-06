@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "Which has the largest proven track record?",
-    "a": ""
+    "a": "The reMarkable 2, with 1,354 reviews, though its full AI feature set requires a paid subscription."
   }
 ];
 
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/31TxeKtPWwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
         "What you need it for",
@@ -65,31 +65,31 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "",
-          ""
+          "Everyday note-taking and reading",
+          "XPPen 3 in 1 Color Digital Notebook 10.95\""
         ],
         [
-          "",
+          "AI-assisted or document-heavy work",
           "Amazon Kindle Scribe Colorsoft 64GB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $300",
+          "XPPen 3 in 1 Color Digital Notebook 10.95\""
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "Amazon Kindle Scribe"
         ],
         [
           "No firm budget ceiling, prioritizing storage or ecosystem",
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "AI Features Included vs Subscription-Gated",
     "cards": [
       {
-        "label": "",
+        "label": "Included, No Subscription",
         "text": "AI note tools come with the purchase price, no ongoing cost. In this comparison: check each listing's terms directly."
       },
       {
-        "label": "",
+        "label": "Subscription-Gated",
         "text": "Advanced AI features require an ongoing paid plan on top of the hardware price. In this comparison: Amazon Kindle Scribe Colorsoft 64GB, reMarkable 2 with Marker Plus."
       }
     ],
@@ -116,43 +116,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "ReMarkable 2 with Marker Plus"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "ReMarkable 2 with Marker Plus"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Handwriting-to-Text Conversion Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of handwriting-to-text conversion (not just \"AI\" generally), and whether that specific feature is included or requires a subscription."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Amazon Kindle Scribe Colorsoft 64GB fits this specifically: Highest storage and color display of any pick here."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Amazon Kindle Scribe Colorsoft 64GB offers: Highest storage and color display of any pick here. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "95\" already covers the essentials: Lowest price in this comparison. The main thing you'd be paying extra for elsewhere in this list is features or storage you may not need."
       }
     ]
@@ -161,7 +161,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Traceable handwriting-to-text conversion",
     "description": "We required a real, working path from handwritten notes to organized digital text, not just a general chatbot feature disconnected from the notebook content."
   },
   {
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "We flagged which devices include AI note tools in the purchase price versus which gate advanced organization behind a paid plan."
   },
   {
-    "title": "",
+    "title": "Price against feature set",
     "description": "We compared handwriting-recognition capability directly against price, since the cheapest option here (XPPen) includes it at roughly half the cost of the top Kindle Scribe model."
   },
   {

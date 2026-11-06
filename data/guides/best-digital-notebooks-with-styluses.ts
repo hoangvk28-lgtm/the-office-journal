@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest option with a pen included?",
-    "a": ""
+    "a": "The XPPen Note Plus at $69.98, with the pen bundled and 1,889 reviews backing it up."
   },
   {
     "q": "Why are two XPPen listings nearly identical?",
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41StVO0JWOL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
         "What you need it for",
@@ -65,31 +65,31 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "",
+          "Everyday note-taking and reading",
           "XPPen Note Plus Digital Notebook with Pen"
         ],
         [
-          "",
+          "AI-assisted or document-heavy work",
           "Amazon Kindle Scribe Colorsoft 64GB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $70",
           "XPPen Note Plus Digital Notebook with Pen"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "XPPen 3 in 1 Color Digital Notebook 10.95\""
         ],
         [
           "No firm budget ceiling, prioritizing storage or ecosystem",
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "AI Features Included vs Subscription-Gated",
     "cards": [
       {
-        "label": "",
+        "label": "Included, No Subscription",
         "text": "AI note tools come with the purchase price, no ongoing cost. In this comparison: check each listing's terms directly."
       },
       {
-        "label": "",
+        "label": "Subscription-Gated",
         "text": "Advanced AI features require an ongoing paid plan on top of the hardware price. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
@@ -116,43 +116,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "XPPen Note Plus Digital Notebook with Pen"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "XPPen Note Plus Digital Notebook with Pen"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Handwriting-to-Text Conversion Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of handwriting-to-text conversion (not just \"AI\" generally), and whether that specific feature is included or requires a subscription."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "95\" fits this specifically: Highest pressure sensitivity in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Amazon Kindle Scribe Colorsoft 64GB offers: Highest-end display and storage in this comparison. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "XPPen Note Plus Digital Notebook with Pen already covers the essentials: Lowest price with pen included. The main thing you'd be paying extra for elsewhere in this list is features or storage you may not need."
       }
     ]
@@ -161,7 +161,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Pen included vs. sold separately",
     "description": "We verified whether the listed price includes the stylus outright, since a device that requires buying the pen separately isn't a fair price comparison against one that bundles it."
   },
   {
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "We compared actual pressure-level specs (16384 levels on the XPPen devices) rather than treating every included pen as equivalent."
   },
   {
-    "title": "",
+    "title": "Battery-free vs. battery-powered pen technology",
     "description": "We noted where a pen uses electromagnetic resonance (no battery, no charging) versus an active battery-powered pen, since that affects long-term convenience and replacement cost."
   },
   {

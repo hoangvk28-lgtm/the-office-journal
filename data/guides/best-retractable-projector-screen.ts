@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41I6SudFPZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Setup Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,35 +69,35 @@ export const howToChoose: HowToChooseSection[] = [
           "VIVOHOME 80 Inch 16:9 Pull Down Projector Screen"
         ],
         [
-          "",
-          ""
+          "Permanent install",
+          "Motorized Projector Screen"
         ],
         [
-          "",
+          "Budget occasional use",
           "Mdbebbron 120 inch Projector Screen 16:9 Foldable Anti-Crease Portable"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Cheapest option",
           "Mdbebbron 120 inch Projector Screen 16:9 Foldable Anti-Crease Portable"
         ],
         [
-          "",
+          "Mid-range",
           "VIVOHOME 100 Inch 16:9 Pull Down Projector Screen"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Motorized Projector Screen"
         ]
       ]
     }
@@ -110,7 +110,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Sets up and packs away in minutes, but repeated folding can eventually create visible crease lines under bright light."
       },
       {
-        "label": "",
+        "label": "Motorized fixed-frame (e.g. Motorized Projector Screen)",
         "text": "Stays permanently mounted and retracts into a housing, giving a wrinkle-free surface every time, at a higher price with no portability."
       }
     ],
@@ -120,8 +120,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Screen Gain and Viewing Angle",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Genuine Outdoor Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit UV-resistant and weatherproof material claims, not just 'outdoor' in the product name."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "VIVOHOME 100 Inch 16:9 Pull Down Projector Screen is worth checking against its specific material claims before assuming it will hold up to repeated outdoor exposure."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a permanent, wrinkle-free setup, where Motorized Projector Screen justifies the higher price for a space you use often."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're setting up occasionally, where Mdbebbron 120 inch Projector Screen 16:9 Foldable Anti-Crease Portable covers the job at the lowest price in this lineup."
       }
     ]

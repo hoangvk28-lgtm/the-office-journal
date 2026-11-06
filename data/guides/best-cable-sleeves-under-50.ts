@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41T58utJi8L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "StangH Flexible Office Cable Management kit 39 Inches"
         ],
         [
           "A mixed bundle of 3-5 cables",
-          ""
+          "Uxcell Insulation Cable Protector"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "Tatuo 151 ft Braided Cable Sleeve Expandable Wire Sheathing(Green, Black)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,41 +95,41 @@ export const howToChoose: HowToChooseSection[] = [
           "StangH Flexible Office Cable Management kit 39 Inches"
         ],
         [
-          "",
+          "Mid-range pick",
           "BEST CONNECTIONS Split Wire Loom Flex-Guard Convoluted Tubing Protective Split"
         ],
         [
-          "",
+          "Higher budget",
           "Tatuo 151 ft Braided Cable Sleeve Expandable Wire Sheathing(Green, Black)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "StangH Flexible Office Cable Management kit 39 Inches)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "General desk use",
+          "Uxcell Insulation Cable Protector"
         ],
         [
           "Near a real heat source",
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Uxcell Insulation Cable Protector is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Tatuo 151 ft Braided Cable Sleeve Expandable Wire Sheathing(Green, Black) justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where StangH Flexible Office Cable Management kit 39 Inches already covers the job at the lowest price here."
       }
     ]

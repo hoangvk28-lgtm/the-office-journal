@@ -56,60 +56,60 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "VIVO Steel Triple Clamp Desk Pegboard System with 2 Monitor Mounts and Storage Shelf"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $28",
           "VIVO Articulating Single Monitor Pegboard Mount"
         ],
         [
-          "",
+          "Up to $180",
           "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Screwed Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Clamp-on",
         "text": "No drilling required, the safer choice for a rented space or shared furniture. In this comparison: EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands, VIVO Steel Triple Clamp Desk Pegboard System with 2 Monitor Mounts and Storage Shelf, Sailret Clamp."
       },
       {
-        "label": "",
+        "label": "Screwed mount",
         "text": "Generally more rigid and stable once loaded, worth it if you own the desk. In this comparison: VIVO Articulating Single Monitor Pegboard Mount."
       }
     ],
     "note": "Default to clamp-on unless you own the desk and want maximum loaded stability."
   },
   {
-    "subheading": "",
+    "subheading": "By Built-In Shelving",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "VIVO Steel Triple Clamp Desk Pegboard System with 2 Monitor Mounts and Storage Shelf"
         ],
         [
-          "",
+          "Hooks alone are enough",
           "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Loaded, Multi-Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine metal or thick MDF construction, confirmed standard hole spacing, and a wall-anchor mounting option for stability once loaded with monitor arms and accessories."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands is worth checking against its listed material and mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to load the board with monitor arms and multiple accessories, where EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands's material and mounting give real stability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a few lightweight decorative hooks, where VIVO Articulating Single Monitor Pegboard Mount covers the same job at a lower price."
       }
     ]
@@ -153,7 +153,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Mount type disclosed accurately",
     "description": "Checked whether each product is freestanding or, as is more common in this category, clamp-mounted, and described it accurately rather than assuming freestanding framing."
   },
   {
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "Considered how each mount type resists tipping once loaded with hooks, monitor mounts, or a shelf, not just how it sits empty."
   },
   {
-    "title": "",
+    "title": "Assembly and hardware completeness",
     "description": "Weighed whether each listing indicates a straightforward setup or a longer build session, based on included hardware and product descriptions."
   }
 ];

@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31HY55jpV+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General screen time",
           "Joopin Grey Square Photochromic Glasses Anti Blue Light & UV Protection"
         ],
         [
-          "",
+          "Design/color-sensitive work",
           "ANDWOOD Photochromic Sunglasses for Men Women UV Protection Blue Light Blocking"
         ],
         [
-          "",
+          "Long gaming sessions",
           "MIRYEA Blue Light Blocking Computer Glasses Photochromic Polarized UV"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,44 +95,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Joopin Grey Square Photochromic Glasses Anti Blue Light & UV Protection"
         ],
         [
-          "",
+          "Mid-range pick",
           "Joopin Black Square Photochromic Glasses Blue Light Blocking UV Protection"
         ],
         [
-          "",
+          "Higher budget",
           "MIRYEA Blue Light Blocking Computer Glasses Photochromic Polarized UV"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clear vs Yellow-Tinted Lenses",
     "cards": [
       {
         "label": "Joopin Grey Square Photochromic Glasses Anti Blue Light & UV Protection)",
         "text": "Filters less blue light but keeps on-screen colors accurate."
       },
       {
-        "label": "",
+        "label": "Yellow-tinted",
         "text": "Filters more blue light but visibly shifts color perception."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Vision Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No vision correction needed",
           "ANDWOOD Photochromic Sunglasses for Men Women UV Protection Blue Light Blocking"
         ],
         [
-          "",
+          "Reading magnification needed",
           "Joopin Black Square Photochromic Glasses Blue Light Blocking UV Protection"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For All-Day Desk Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A frame width and nose bridge that actually fits your face, with a flexible, durable frame material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ANDWOOD Photochromic Sunglasses for Men Women UV Protection Blue Light Blocking is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where MIRYEA Blue Light Blocking Computer Glasses Photochromic Polarized UV justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Joopin Grey Square Photochromic Glasses Anti Blue Light & UV Protection already covers the job at the lowest price here."
       }
     ]

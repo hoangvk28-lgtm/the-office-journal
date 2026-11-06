@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Speaker-gaming-faq",
     "q": "Are built-in gaming monitor speakers good enough?",
     "a": "They're a convenience for quick cable-free audio, but thin form factors limit bass and volume compared to even modest external speakers, treat them as a backup rather than a primary audio solution."
   },
   {
-    "id": "",
+    "id": "Sync-faq",
     "q": "Does G-Sync work with an AMD graphics card?",
     "a": "Full G-Sync certification generally requires an NVIDIA GPU, FreeSync tends to work more broadly across both AMD and NVIDIA cards, check the monitor's specific certification against your actual GPU brand."
   },
   {
-    "id": "",
+    "id": "Console-faq",
     "q": "Do all gaming monitor features work with a console?",
     "a": "No, some high refresh rate or adaptive sync features require a PC connection and GPU-side support, verify the monitor's feature list against your specific console's actual output capability."
   },
   {
-    "id": "",
+    "id": "Strobe-faq",
     "q": "Can I use backlight strobing and adaptive sync at the same time?",
     "a": "Usually not, strobing modes often can't run simultaneously with G-Sync or FreeSync, check whether a specific monitor supports both together before assuming it's not a tradeoff."
   },
   {
-    "id": "",
+    "id": "Response-gaming-faq",
     "q": "Is a 1ms gaming monitor actually blur-free?",
     "a": "Not necessarily, the gray-to-gray number is one narrow measurement, panel technology, backlight behavior, and overdrive tuning all affect real perceived motion blur, check independent motion clarity testing instead."
   },
   {
-    "id": "",
+    "id": "Port-gaming-faq",
     "q": "Should I use HDMI or DisplayPort for gaming?",
     "a": "DisplayPort has generally led HDMI in bandwidth for high refresh rate gaming at full resolution, though this depends on the specific versions your monitor and GPU support, verify both before assuming full advertised specs."
   }
@@ -66,11 +66,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41d5LMiIXNL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By GPU Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your GPU output",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,7 +78,7 @@ export const howToChoose: HowToChooseSection[] = [
           "AOC 27\" Gaming Monitor QHD 240Hz QD OLED NVIDIA G-SYNC Compatible Q27GAZDV"
         ],
         [
-          "",
+          "Solid mid-range frame rates",
           "GIGABYTE GO27Q24G 27\" W-OLED 240Hz QHD Gaming Monitor"
         ],
         [
@@ -89,11 +89,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "AOC 27\" Gaming Monitor QHD 240Hz QD OLED NVIDIA G-SYNC Compatible Q27GAZDV"
         ],
         [
-          "",
+          "Mid-range pick",
           "ASUS ROG XG27AQDMGR 27 Inch 1440p 240Hz Glossy OLED HDR Gaming Monitor"
         ],
         [
-          "",
+          "Higher budget",
           "LG 27GX704A-B 27-inch Ultragear QHD (2650x1440) OLED Gaming Monitor 240Hz"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "G-Sync vs FreeSync",
     "cards": [
       {
         "label": "AOC 27\" Gaming Monitor QHD 240Hz QD OLED NVIDIA G-SYNC Compatible Q27GAZDV)",
         "text": "Built and validated specifically for NVIDIA GPUs."
       },
       {
-        "label": "",
+        "label": "FreeSync",
         "text": "Works more broadly across AMD and NVIDIA cards in most cases."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Curvature",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard flat panel",
           "GIGABYTE GO27Q24G 27\" W-OLED 240Hz QHD Gaming Monitor"
         ],
         [
-          "",
+          "Curved for wider immersion",
           "ASUS ROG XG27AQDMGR 27 Inch 1440p 240Hz Glossy OLED HDR Gaming Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Competitive Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Independent input lag testing, not just the headline refresh rate number, since the two specs don't always move together."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "GIGABYTE GO27Q24G 27\" W-OLED 240Hz QHD Gaming Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where LG 27GX704A-B 27-inch Ultragear QHD (2650x1440) OLED Gaming Monitor 240Hz justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where AOC 27\" Gaming Monitor QHD 240Hz QD OLED NVIDIA G-SYNC Compatible Q27GAZDV already covers the job at the lowest price here."
       }
     ]

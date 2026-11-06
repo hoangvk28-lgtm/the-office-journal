@@ -61,75 +61,75 @@ export const heroImage = "https://m.media-amazon.com/images/I/41LKtREs8jL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Carrying your own cards",
+          "MaxGear Business Card Holder"
         ],
         [
-          "",
+          "Displaying cards for visitors",
           "Google Review Stand by TapFive, NFC Tap & QR Code Sign for Restaurants"
         ],
         [
-          "",
+          "Client-facing handoffs",
           "Newppy Personalized Business Card Holder, Custom Business Card Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "MaxGear Business Card Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "Leicraft Business Card Holder for Desk"
         ],
         [
-          "",
+          "Higher budget",
           "Newppy Personalized Business Card Holder, Custom Business Card Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Top vs Snap-Closed",
     "cards": [
       {
-        "label": "",
+        "label": "Open-top (e.g. MaxGear Business Card Holder)",
         "text": "Faster one-hand access, less protection against spilling."
       },
       {
-        "label": "",
+        "label": "Snap/magnetic closed",
         "text": "Secures cards fully, takes an extra motion to open."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your card volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A small daily-carry stack",
           "Google Review Stand by TapFive, NFC Tap & QR Code Sign for Restaurants"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Client-Facing Handoffs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A material (leather or solid metal) that reinforces a professional impression at the handoff moment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Google Review Stand by TapFive, NFC Tap & QR Code Sign for Restaurants is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Newppy Personalized Business Card Holder, Custom Business Card Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where MaxGear Business Card Holder already covers the job at the lowest price here."
       }
     ]

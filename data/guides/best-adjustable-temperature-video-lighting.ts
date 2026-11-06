@@ -55,80 +55,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "RALENO 9\" LED Video Light"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Video Conference Lighting Kit"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $18",
+          "Video Conference Lighting Kit"
         ],
         [
-          "",
+          "Up to $40",
           "RALENO 9\" LED Video Light"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clip-On vs Stand-Mounted",
     "cards": [
       {
-        "label": "",
+        "label": "Clip-on",
         "text": "Attaches directly to your monitor or laptop, no extra desk footprint. In this comparison: ALTSON 10in Zoom Lighting for Computer, Video Conference Lighting Kit."
       },
       {
-        "label": "",
+        "label": "Stand-mounted",
         "text": "More flexible positioning, but takes up desk space. In this comparison: RALENO 9\" LED Video Light, Zoom Lighting for Computer, Desk Ring Light with Stand for Computer."
       }
     ],
     "note": "Default to clip-on unless you need more flexible positioning than a screen-mounted clip allows."
   },
   {
-    "subheading": "",
+    "subheading": "By Color Temperature Adjustability",
     "note": "Check each pick's listed color temperature range in Kelvin against your room's existing ambient lighting before buying, not just brightness alone."
   },
   {
     "subheading": "For Accurate Skin Tone on Camera Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed CRI rating of 95 or higher, not just brightness or wattage figures, since CRI is what actually determines how natural skin tone looks on camera."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Zoom Lighting for Computer discloses a CRI rating worth checking before buying."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Accurate color rendering and adjustability matter for how you look on calls, where RALENO 9\" LED Video Light's features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic supplemental lighting for occasional calls, where Video Conference Lighting Kit covers the same job at a lower price."
       }
     ]

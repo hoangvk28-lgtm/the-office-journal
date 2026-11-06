@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41d2vOL+ThL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $1,300",
+          "GWEIKE G2 20W ($1,299.00)"
         ],
         [
-          "",
-          ""
+          "Under $1,400",
+          "ComMarker B4 ($1,399.00)"
         ],
         [
-          "",
-          ""
+          "Under $1,600",
+          "GWEIKE G2 Pro 30W ($1,599.00)"
         ],
         [
-          "",
-          ""
+          "Under $2,000",
+          "Monport 60W ($1,999.99)"
         ]
       ]
     }
@@ -132,8 +132,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Working Area and Flexibility Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical item type",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -146,7 +146,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Small, detailed items on a budget",
-          ""
+          "GWEIKE G2 20W"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Metal Art and Craft Businesses Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Higher wattage for consistent deep engraving results across a variety of metal thicknesses and hardness levels."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Monport 60W's higher power output makes it the most versatile choice for a business handling varied metal engraving jobs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You regularly need deep or 3D engraving effects, where the Monport 60W or GWEIKE G2 Pro 30W deliver real depth capability the 20W picks lack."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your work is mainly flat surface marking, where the GWEIKE G2 20W covers that need at nearly $700 less than the Monport 60W."
       }
     ]
@@ -185,19 +185,19 @@ export const howWeEvaluated = [
     "description": "Compared real stated wattage and which picks specifically support 3D or deep engraving versus surface marking only."
   },
   {
-    "title": "",
+    "title": "Engraving Speed",
     "description": "Compared maximum stated engraving speed in millimeters per second across the lineup."
   },
   {
-    "title": "",
+    "title": "Working Area",
     "description": "Compared engraving surface dimensions and lens flexibility across fixed and dual-lens designs."
   },
   {
-    "title": "",
+    "title": "Software Compatibility",
     "description": "Checked LightBurn compatibility and bundled proprietary software across each pick."
   },
   {
-    "title": "",
+    "title": "Price-Per-Watt Value",
     "description": "Weighed each pick's price against its rated wattage to judge relative power value."
   }
 ];

@@ -56,68 +56,68 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Aurora AU1210MA Professional Grade High Security 12"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Amazon Basics 18 Sheet Cross Cut Paper"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $56",
+          "Bonsaii 12"
         ],
         [
-          "",
-          ""
+          "Up to $180",
+          "Bonsaii 18"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Bonsaii 12",
         "text": "The lower-priced option in this comparison, worth checking its security rating against your document sensitivity."
       },
       {
-        "label": "",
+        "label": "Bonsaii 18",
         "text": "The higher-priced option, worth it if it offers real capacity or security headroom above the cheaper pick."
       }
     ],
     "note": "Default to Bonsaii 12 unless your document volume or sensitivity calls for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Bin Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 7-gallon bin",
+          "Amazon Basics 24"
         ],
         [
-          "",
+          "Around 6-gallon bin",
           "Amazon Basics 18 Sheet Cross Cut Paper"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Sensitive Financial Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A P-4 cross-cut rating or higher, not just the marketing term \"cross-cut\" without a specific P-rating attached."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Amazon Basics 18 Sheet Cross Cut Paper is worth checking against its listed P-rating before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You regularly shred large stacks or sensitive documents, where Bonsaii 18's higher price buys real capacity or security headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only shred occasionally with a low sheet volume, where Bonsaii 12 covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howWeEvaluated = [
     "description": "Distinguished ease-of-movement from stability while actually shredding, since an unlocked caster can allow a shredder to shift slightly during a run, especially with an auto-feed hopper vibrating through a batch."
   },
   {
-    "title": "",
+    "title": "Full-bin vs. empty-bin rolling difficulty",
     "description": "Noted that a large-bin wheeled shredder is meaningfully harder to roll once full of shredded paper than when empty, a real interaction between bin size and wheel design."
   },
   {
@@ -168,7 +168,7 @@ export const howWeEvaluated = [
 
 export const introParagraphs = [
   "Caster locking mechanisms directly affect shredding stability, not just mobility. A shredder without lockable casters can shift slightly during operation, especially with an auto-feed hopper vibrating through a run, while locking casters keep the unit stable while actually shredding. We note which picks below address this.",
-  ""
+  "Also worth knowing: a wheeled shredder's rolling difficulty changes significantly once the bin is full versus empty, and moving it out from under a desk needs pivot/turning clearance, not just straight-line rolling space, both real placement considerations beyond 'has wheels.'"
 ];
 
 export const lastUpdated = "2026-07-28";

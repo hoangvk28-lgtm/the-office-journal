@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Queen Size Murphy Bed Hardware Kit"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Create"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $1",
           "AFI Northampton Full Murphy Bed Desk with Memory Foam 6 Inch Mattress"
         ],
         [
-          "",
+          "Up to $609",
           "Merax Full Size Murphy Bed with Storage Cabinets"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Built-In Storage vs Desk-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in storage",
         "text": "Adds shelving or cabinet space beyond just the desk, useful in a smaller room. In this comparison: Merax Full Size Wall Murphy Bed with Desk, MERITLINE Full Murphy Bed with Desk and Storage Shelves, Merax Full Size Murphy Bed with Storage Cabinets."
       },
       {
-        "label": "",
+        "label": "Desk-only",
         "text": "Simpler, focuses cabinet space on the fold-down desk itself. In this comparison: MERITLINE Full Murphy Bed with Desk, AFI Northampton Full Murphy Bed Desk with Memory Foam 6 Inch Mattress, THINK 30 Murphy Bed with Foldable Desk, Queen Size Murphy Bed Hardware Kit, Create."
       }
     ],
     "note": "Default to desk-only unless extra built-in storage solves a real space problem for you."
   },
   {
-    "subheading": "",
+    "subheading": "By Room Clearance Requirements",
     "note": "Check each pick's listed minimum ceiling height and wall clearance against your room's actual measured dimensions before buying, not just the general size category."
   },
   {
     "subheading": "For a Studio Apartment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Verified real desk integration with a stated weight limit, plus confirmed ceiling height and wall clearance for your specific room."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Create is worth checking against its listed clearance requirements before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You'll fold the unit daily as part of an active desk-bed routine, where Merax Full Size Murphy Bed with Storage Cabinets's build quality and mechanism give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The bed stays in one position most of the time, where AFI Northampton Full Murphy Bed Desk with Memory Foam 6 Inch Mattress covers the same job at a lower price."
       }
     ]
@@ -158,7 +158,7 @@ export const howWeEvaluated = [
     "description": "Compared desk panel depth across the confirmed desk picks against equivalent queen-size desk units, since a narrower full-size cabinet does not automatically mean a narrower desk surface."
   },
   {
-    "title": "",
+    "title": "Mattress upgrade path safety",
     "description": "Considered whether upgrading from a thinner included mattress (like the AFI's 6 inch pad) to a thicker 10-12 inch mattress is safe for the calibrated mechanism, or whether that requires manufacturer verification first."
   },
   {

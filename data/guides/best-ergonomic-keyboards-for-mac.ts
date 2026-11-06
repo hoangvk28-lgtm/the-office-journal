@@ -53,23 +53,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ogsiz47VL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "note": "Every pick in this specific comparison uses a similar layout approach; check the product names above for the exact curve, split, or angle."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $60",
           "Logitech Wave Keys Wireless Ergonomic Keyboard"
         ],
         [
-          "",
+          "Mid-range",
           "ProtoArc EK01 Plus Backlit Bluetooth Ergonomic Keyboard"
         ],
         [
@@ -80,14 +80,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: check each listing's connection type directly."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech Wave Keys for Mac Wireless Ergonomic Keyboard, Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest, Logitech Wave Keys Wireless Ergonomic Keyboard."
       }
     ]
@@ -96,12 +96,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest cost, quiet typing",
           "Logitech Wave Keys Wireless Ergonomic Keyboard"
         ],
         [
@@ -115,24 +115,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest fits this specifically: Largest verified review base among Mac-usable picks."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Microsoft Surface Ergonomic Wireless Keyboard offers: Premium build and finish. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Logitech Wave Keys Wireless Ergonomic Keyboard already covers the essentials: Lower price than the dedicated Mac-layout version. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -141,7 +141,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Out-of-box modifier key accuracy",
     "description": "Verified whether Command and Option keys are printed and mapped correctly out of the box versus requiring manual remapping through System Settings."
   },
   {
@@ -149,7 +149,7 @@ export const howWeEvaluated = [
     "description": "Checked, where disclosed, whether brightness and volume keys work natively on macOS versus needing a workaround or third-party utility."
   },
   {
-    "title": "",
+    "title": "Dedicated Mac variant availability",
     "description": "Noted whether a distinct Mac-layout version exists separate from the standard Windows-oriented product, since not every ergonomic keyboard offers one."
   },
   {

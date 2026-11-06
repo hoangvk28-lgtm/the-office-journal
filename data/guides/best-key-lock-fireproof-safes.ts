@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Store the included spare key somewhere other than inside or right next to the safe itself, since keeping both keys together defeats the point of a backup."
   },
   {
-    "criterion": "",
+    "criterion": "Understand Replacement-Key Support",
     "explanation": "Check whether the manufacturer offers replacement keys by serial or lock-cylinder number if the originals are lost, since a key-only safe with no replacement path may need a locksmith or full lock replacement."
   },
   {
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Store the included spare key somewhere other than inside or right next to the safe itself, since keeping both keys together defeats the point of a backup."
   },
   {
-    "subheading": "",
+    "subheading": "Understand Replacement-Key Support",
     "note": "Check whether the manufacturer offers replacement keys by serial or lock-cylinder number if the originals are lost, since a key-only safe with no replacement path may need a locksmith or full lock replacement."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Recorded fire duration and test temperature separately for each model rather than accepting a vague 'fireproof' label, since a 30-minute rating and a 2-hour rating protect very differently in a real house fire."
   },
   {
-    "title": "",
+    "title": "Water Evidence Verified Independently",
     "description": "Checked water-resistance claims (submersion depth, duration) as a separate fact from the fire rating, since the two protections are tested and certified independently even on the same product."
   },
   {

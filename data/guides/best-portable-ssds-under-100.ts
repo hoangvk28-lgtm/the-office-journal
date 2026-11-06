@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31i6F9sbEYL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,58 +74,58 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Documented health monitoring and thermal specs",
-          ""
+          "SSK Portable SSD 500GB"
         ],
         [
           "An established brand name at the lowest price",
-          ""
+          "Sandisk 500GB Portable Drive"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $90",
+          "Sandisk 500GB Portable Drive ($89.99)"
         ],
         [
-          "",
-          ""
+          "$90-$95",
+          "SSK Portable SSD 500GB ($92.99)"
         ],
         [
-          "",
-          ""
+          "$95-$100",
+          "Nusyn NSU53 1TB External SSD or Sandisk 500GB Portable SSD, New Model ($99.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "500GB vs 1TB",
     "cards": [
       {
         "label": "500GB (SSK, both Sandisk picks)",
         "text": "Comfortable for photos, documents, and moderate video, backed by established brands and documented specs in this comparison. Best if brand familiarity or documented health monitoring matters more than raw space."
       },
       {
-        "label": "",
+        "label": "1TB (nusyn)",
         "text": "Double the room at essentially the same price, the better default for anyone regularly working with 4K video or large game files. Best if capacity is the deciding factor over brand history."
       }
     ],
     "note": "Most buyers should default to the nusyn 1TB pick for the capacity-per-dollar advantage unless brand track record specifically matters more to you."
   },
   {
-    "subheading": "",
+    "subheading": "By Speed Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For 4K Video Offloading Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A listing that explicitly names iPhone ProRes or 4K video support and a capacity that comfortably fits a full shoot, not just a fast MB/s number in isolation."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The nusyn NSU53 1TB External SSD combines the largest capacity with explicit iPhone 15+ and PS4/PS5 4K support, making it the clearest fit for video-heavy workflows."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "And TRIM support alongside a full 1TB, which typically requires stepping up past $100 to something like a Samsung T7 or SSK 1TB model rather than staying at this exact price ceiling."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "500GB is enough for your files, where the Sandisk 500GB Portable Drive covers the need for under $90 without paying for capacity you won't use."
       }
     ]
@@ -169,23 +169,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Capacity Per Dollar",
     "description": "Compared price against actual usable capacity at each tier, since a 1TB drive at the same price as a 500GB drive is a materially different value proposition, not just a bigger number."
   },
   {
-    "title": "",
+    "title": "Real USB Bandwidth",
     "description": "Checked the documented USB generation and rated speed for each drive rather than assuming similar-sounding marketing language means similar real-world performance."
   },
   {
-    "title": "",
+    "title": "Health Monitoring Documentation",
     "description": "Support versus those that only describe general durability in vague terms."
   },
   {
-    "title": "",
+    "title": "Stated Durability Figures",
     "description": "Prioritized listings that cite a specific drop-height or protection figure over those using only general \"durable\" or \"shockproof\" language without a number attached."
   },
   {
-    "title": "",
+    "title": "Brand Track Record",
     "description": "Weighed established storage brand names against newer, less familiar brands, since reliability history is harder to verify on unfamiliar brands even when specs look similar."
   }
 ];

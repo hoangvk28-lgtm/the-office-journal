@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Strobe-faq",
     "q": "Can I use backlight strobing and adaptive sync at the same time?",
     "a": "Usually not, strobing modes often can't run simultaneously with G-Sync or FreeSync, check whether a specific monitor supports both together before assuming it's not a tradeoff."
   },
   {
-    "id": "",
+    "id": "Speaker-gaming-faq",
     "q": "Are built-in gaming monitor speakers good enough?",
     "a": "They're a convenience for quick cable-free audio, but thin form factors limit bass and volume compared to even modest external speakers, treat them as a backup rather than a primary audio solution."
   },
   {
-    "id": "",
+    "id": "Response-gaming-faq",
     "q": "Is a 1ms gaming monitor actually blur-free?",
     "a": "Not necessarily, the gray-to-gray number is one narrow measurement, panel technology, backlight behavior, and overdrive tuning all affect real perceived motion blur, check independent motion clarity testing instead."
   },
   {
-    "id": "",
+    "id": "Sync-faq",
     "q": "Does G-Sync work with an AMD graphics card?",
     "a": "Full G-Sync certification generally requires an NVIDIA GPU, FreeSync tends to work more broadly across both AMD and NVIDIA cards, check the monitor's specific certification against your actual GPU brand."
   },
   {
-    "id": "",
+    "id": "Curve-faq",
     "q": "What does the curve radius number mean on a curved gaming monitor?",
     "a": "A lower number means a tighter, more aggressive curve, suited to very wide ultrawide panels, a higher number is gentler and better suited to a standard-width panel."
   },
   {
-    "id": "",
+    "id": "Size-density-faq",
     "q": "Is a bigger gaming monitor always sharper?",
     "a": "No, stretching the same resolution across a larger screen reduces pixel density, a 32-inch 1440p monitor looks visibly softer than a 27-inch 1440p monitor at the same viewing distance."
   }
@@ -66,11 +66,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41OeWF1LSdL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By GPU Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your GPU output",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,7 +78,7 @@ export const howToChoose: HowToChooseSection[] = [
           "KOORUI 27\" 4K Gaming Monitor"
         ],
         [
-          "",
+          "Solid mid-range frame rates",
           "ASUS TUF Gaming VG27UQEL5A 27 Inch 4K 80Hz, 1080P"
         ],
         [
@@ -89,11 +89,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "KOORUI 27\" 4K Gaming Monitor"
         ],
         [
-          "",
+          "Mid-range pick",
           "Msi MAG 321UPD E14 32-inch 3840 x 2160 (UHD) Gaming Monitor"
         ],
         [
-          "",
+          "Higher budget",
           "LG 45GX950A-B 45-inch Ultragear 5K2K WUHD (5120 x 2160) OLED Curved Gaming"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "G-Sync vs FreeSync",
     "cards": [
       {
         "label": "KOORUI 27\" 4K Gaming Monitor)",
         "text": "Built and validated specifically for NVIDIA GPUs."
       },
       {
-        "label": "",
+        "label": "FreeSync",
         "text": "Works more broadly across AMD and NVIDIA cards in most cases."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Curvature",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard flat panel",
           "ASUS TUF Gaming VG27UQEL5A 27 Inch 4K 80Hz, 1080P"
         ],
         [
-          "",
+          "Curved for wider immersion",
           "Msi MAG 321UPD E14 32-inch 3840 x 2160 (UHD) Gaming Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Competitive Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Independent input lag testing, not just the headline refresh rate number, since the two specs don't always move together."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ASUS TUF Gaming VG27UQEL5A 27 Inch 4K 80Hz, 1080P is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where LG 45GX950A-B 45-inch Ultragear 5K2K WUHD (5120 x 2160) OLED Curved Gaming justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where KOORUI 27\" 4K Gaming Monitor already covers the job at the lowest price here."
       }
     ]

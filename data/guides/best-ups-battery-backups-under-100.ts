@@ -61,24 +61,24 @@ export const heroImage = "https://m.media-amazon.com/images/I/31u-pK1+OwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Maximum capacity with USB charging and warranty",
-          ""
+          "CyberPower SL700U Standby UPS"
         ],
         [
           "Concrete runtime figures and the most outlets",
-          ""
+          "Eaton Tripp Lite INTERNET550U"
         ],
         [
           "USB charging with a matching warranty at a lower price",
-          ""
+          "CyberPower ST625U Standby UPS"
         ],
         [
           "A UPS purpose-built for computer and router protection",
@@ -88,54 +88,54 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $79",
+          "Eaton Tripp Lite INTERNET550U ($78.95)"
         ],
         [
-          "",
-          ""
+          "Under $80",
+          "CyberPower ST625U ($79.95)"
         ],
         [
-          "",
-          ""
+          "Under $84",
+          "APC BE600M1 ($83.99)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "CyberPower SL700U ($89.95)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By VA Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your equipment load",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Highest capacity for demanding setups",
-          ""
+          "CyberPower SL700U (700VA)"
         ],
         [
           "Moderate capacity with USB charging",
-          ""
+          "CyberPower ST625U (625VA)"
         ],
         [
           "Computer and router specific sizing",
-          ""
+          "APC BE600M1 (600VA)"
         ],
         [
-          "",
+          "Detailed runtime transparency",
           "Eaton Tripp Lite INTERNET550U (550VA)"
         ]
       ]
@@ -145,11 +145,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB Charging vs Maximum Outlet Count",
     "cards": [
       {
-        "label": "",
+        "label": "USB charging (SL700U, ST625U)",
         "text": "Adds convenient device charging directly from the UPS, useful for keeping a phone charged during setup or an outage."
       },
       {
-        "label": "",
+        "label": "Maximum outlet count (INTERNET550U)",
         "text": "Prioritizes 10 total outlets over USB ports, better if you have many AC devices to connect rather than needing USB charging."
       }
     ],
@@ -159,24 +159,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office With Both a Computer and a Phone to Keep Charged Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A UPS with both battery-backup AC outlets and a USB port that continues functioning during an actual power outage."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5A USB port specifically continues working during outages, keeping a phone charged alongside the computer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest capacity with the strongest USB charging and warranty combination, where the CyberPower SL700U delivers the most complete package in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want USB charging with the same $100,000 warranty tier at a lower price, where the CyberPower ST625U covers that for about $10 less."
       }
     ]
@@ -185,11 +185,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "VA/Wattage Capacity",
     "description": "Compared stated VA and wattage ratings across the lineup, from 550VA to 700VA."
   },
   {
-    "title": "",
+    "title": "USB Charging Inclusion",
     "description": "Checked which picks include USB charging ports and their stated amperage output."
   },
   {
@@ -197,11 +197,11 @@ export const howWeEvaluated = [
     "description": "Compared how many outlets provide genuine battery backup versus surge protection alone."
   },
   {
-    "title": "",
+    "title": "Runtime Transparency",
     "description": "Compared how specifically each listing details expected runtime at different device wattages."
   },
   {
-    "title": "",
+    "title": "Battery Replaceability",
     "description": "Checked whether each pick supports user-replaceable batteries for long-term serviceability."
   }
 ];

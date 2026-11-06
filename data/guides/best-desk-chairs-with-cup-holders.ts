@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "NEO CHAIR Office Desk Chair"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Wheelchair Cup Holder for Armrests"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $22",
           "Wheelchair Cup Holder for Armrests"
         ],
         [
-          "",
+          "Up to $70",
           "NEO CHAIR PU Leather Office Desk Chair with Adjustable Arms"
         ]
       ]
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Wheelchair Cup Holder for Armrests unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Wheelchair Cup Holder for Armrests"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Wheelchair Cup Holder for Armrests is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where NEO CHAIR PU Leather Office Desk Chair with Adjustable Arms's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Wheelchair Cup Holder for Armrests covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howWeEvaluated = [
     "description": "We researched specifically for office chairs with an actual integrated cup holder and found this feature is rare on standard desk chairs, disclosed honestly rather than force-fitting unrelated chairs."
   },
   {
-    "title": "",
+    "title": "Chair-mountable accessory compatibility",
     "description": "We identified a relevant armrest-clamp cup holder accessory and disclosed its original wheelchair/mobility-device design context."
   },
   {
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "For the chairs included without a built-in holder, we compared their standalone rating and review history as a strong desk chair, separate from the cup holder question."
   },
   {
-    "title": "",
+    "title": "Armrest compatibility disclosure",
     "description": "We noted that clamp accessory fit varies by each specific chair's armrest width and shape, and flagged this as unverified for flip-up or unusually shaped armrests."
   }
 ];

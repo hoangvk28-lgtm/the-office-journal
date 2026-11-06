@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41XVb4K-DfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "30ft PET Expandable Sleeving Wire Cable Sleeve (1/2\", Green& Black)"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "50ft - 1/4 inch & 1/2 inch PET Expandable Braided Sleeving, Black, Alex Tech"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "132 ft Expandable Braided Cable Sleeve Wire Loom PET Wiring Sleeving"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,40 +95,40 @@ export const howToChoose: HowToChooseSection[] = [
           "30ft PET Expandable Sleeving Wire Cable Sleeve (1/2\", Green& Black)"
         ],
         [
-          "",
+          "Mid-range pick",
           "25ft - 1 inch PET Expandable Braided Sleeving, Black, Alex Tech Braided Cable"
         ],
         [
-          "",
+          "Higher budget",
           "132 ft Expandable Braided Cable Sleeve Wire Loom PET Wiring Sleeving"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "30ft PET Expandable Sleeving Wire Cable Sleeve (1/2\", Green& Black))",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "50ft - 1/4 inch & 1/2 inch PET Expandable Braided Sleeving, Black, Alex Tech"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "50ft - 1/4 inch & 1/2 inch PET Expandable Braided Sleeving, Black, Alex Tech is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 132 ft Expandable Braided Cable Sleeve Wire Loom PET Wiring Sleeving justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 30ft PET Expandable Sleeving Wire Cable Sleeve (1/2\", Green& Black) already covers the job at the lowest price here."
       }
     ]

@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "6 Inch 1080P FHD 60Hz 85% SRGB Travel Monitor with Speaker HDMI USB-C Second Screen for Laptop MacBook Surface PC Xbox PS4/5"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "6\" 1080P Computer Monitor Screen Extender w/Cover"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $45",
+          "ForHelp 15.6inch Portable Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "6\" 1080P Computer Monitor Screen Extender w/Cover"
         ],
         [
@@ -95,30 +95,30 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clip-On/Magnetic Attachment vs Stand-Based",
     "cards": [
       {
-        "label": "",
+        "label": "Clip-On or Magnetic",
         "text": "Attaches directly to the laptop lid for a compact, travel-friendly setup that moves with the laptop. In this comparison: check each listing's attachment mechanism directly."
       },
       {
-        "label": "",
+        "label": "Stand-Based",
         "text": "Sits independently on the desk, keeping stress off the laptop's own lid hinge but adding desk footprint. 6 Inch 1080P FHD 60Hz 85% SRGB Travel Monitor with Speaker HDMI USB-C Second Screen for Laptop MacBook Surface PC Xbox PS4/5."
       }
     ],
     "note": "6inch Portable Monitor if you travel with your laptop often, and consider a stand-based design if this is a permanent desk setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Connection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Flexible power and video routing",
-          ""
+          "ARZOPA Portable Monitor 15.6'' FHD 1080P"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Video Calls and Presentations Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A swivel or adjustable-angle mechanism specifically, so you can reposition the extended screen toward a camera or a colleague without moving the whole laptop."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "KYY Portable Monitor 15.6\" 1080P Computer Monitor Screen Extender w/Cover fits this specifically: By far the largest review base of any pick in this guide, strong category-maturity evidence."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "6-inch picks in this guide. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6inch Portable Monitor already covers the essentials: Lowest price in this guide. The main thing you'd be paying extra for elsewhere in this list is build quality or features you may not need."
       }
     ]

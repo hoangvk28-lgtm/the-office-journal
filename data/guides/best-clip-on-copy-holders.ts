@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41YlcLOB3aL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "2 Pack Document Holder Adjustable for Typing Flexible Documents Holder Foldable"
         ],
         [
-          "",
+          "Continuous data entry",
           "Adjustable Copy Holder Clip, Flexiable Docments Holder"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "2 Pack Document Holder Adjustable for Typing Flexible Documents Holder Foldable"
         ],
         [
-          "",
+          "Mid-range pick",
           "Kensington Document Holder for Typing for Laptops and Monitors"
         ],
         [
-          "",
+          "Higher budget",
           "Fellowes 21103 Non-Magnetic Desktop Copyholder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Side-Mounted",
     "cards": [
       {
         "label": "2 Pack Document Holder Adjustable for Typing Flexible Documents Holder Foldable)",
         "text": "Keeps the page in your direct sightline, minimal neck movement."
       },
       {
-        "label": "",
+        "label": "Side-mounted",
         "text": "Sits off to one side, more placement flexibility but more head turning."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single sheets",
           "Adjustable Copy Holder Clip, Flexiable Docments Holder"
         ],
         [
-          "",
+          "Thicker stacks or booklets",
           "Kensington Document Holder for Typing for Laptops and Monitors"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Data-Entry Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sliding line guide and an adjustable viewing angle to reduce glare and neck strain."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Adjustable Copy Holder Clip, Flexiable Docments Holder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Fellowes 21103 Non-Magnetic Desktop Copyholder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 2 Pack Document Holder Adjustable for Typing Flexible Documents Holder Foldable already covers the job at the lowest price here."
       }
     ]

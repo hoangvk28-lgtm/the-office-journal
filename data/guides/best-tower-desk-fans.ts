@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41KnE-wpqML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Desk Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "Winado 2-in-1 Mini Tower Fan"
         ],
         [
-          "",
+          "Standard desk",
           "Honeywell QuietSet Personal Table Fan"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Winado 2-in-1 Mini Tower Fan"
         ],
         [
-          "",
+          "Mid-range pick",
           "Levoit Tower Fan for Bedroom"
         ],
         [
-          "",
+          "Higher budget",
           "Levoit Windi Mini Tower Fan for Bedroom"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs AC-Plugged",
     "cards": [
       {
         "label": "Winado 2-in-1 Mini Tower Fan)",
         "text": "Convenient for a laptop-only setup, but capped at lower airflow than AC power."
       },
       {
-        "label": "",
+        "label": "AC-plugged",
         "text": "More consistent, stronger airflow, but ties the fan to one spot near an outlet."
       }
     ],
     "note": "Match this to whether portability or raw airflow matters more for your setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Noise Sensitivity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,7 +133,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Check the DB rating at your actual daily speed, not just the lowest setting"
         ],
         [
-          "",
+          "Noise isn't a concern",
           "Honeywell QuietSet Personal Table Fan"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk or Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wider oscillation range (90 to 120 degrees) to spread airflow across more of the surface."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Honeywell QuietSet Personal Table Fan is worth checking against its specific oscillation range before assuming any 'wide coverage' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want stronger airflow, lower noise, and extra features like a remote or timer, where Levoit Windi Mini Tower Fan for Bedroom justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want a straightforward personal cooling boost, where Winado 2-in-1 Mini Tower Fan already covers the job at the lowest price here."
       }
     ]

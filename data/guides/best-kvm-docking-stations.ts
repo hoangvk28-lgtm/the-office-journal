@@ -55,68 +55,68 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "AV Access iDock P10 KVM Docking Station 2 Monitors 2 PC"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "AV Access iDock P10 KVM Docking Station 2 Monitors 2 PC"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $170",
           "AV Access Docking Station KVM Switch 2 Monitors 2 Laptops"
         ],
         [
-          "",
+          "Up to $296",
           "Thunderbolt 4 KVM Switch 3 Monitors 2 Laptops 4K@60Hz"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Thunderbolt vs USB-C Only",
     "cards": [
       {
-        "label": "",
+        "label": "Thunderbolt-certified",
         "text": "Higher bandwidth for demanding multi-display and high-speed data setups, but requires a Thunderbolt-capable laptop port. In this comparison: Thunderbolt 4 KVM Switch 3 Monitors 2 Laptops 4K@60Hz."
       },
       {
-        "label": "",
+        "label": "USB-C only",
         "text": "Usually cheaper and works with any USB-C laptop, but with less headroom for multiple high-resolution displays. In this comparison: AV Access iDock P10 KVM Docking Station 2 Monitors 2 PC, AV Access Dual Monitor KVM Docking Station for Laptop & Desktop, AV Access Docking Station KVM Switch 2 Monitors 2 Laptops, AV Access KVM Switch Dock 2 Monitors 2 Laptops."
       }
     ],
     "note": "Default to USB-C only unless your laptop has a genuine Thunderbolt port and you need the extra display or data bandwidth."
   },
   {
-    "subheading": "",
+    "subheading": "By Ethernet Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Wired Ethernet needed",
           "AV Access iDock P10 KVM Docking Station 2 Monitors 2 PC"
         ],
         [
-          "",
+          "Wi-Fi only is fine",
           "AV Access Dual Monitor KVM Docking Station for Laptop & Desktop"
         ]
       ]
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual or Triple Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native DisplayPort Alt Mode or DisplayLink chip technology, verified against your specific laptop's documented maximum external display count."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "AV Access iDock P10 KVM Docking Station 2 Monitors 2 PC is worth checking against its listed display support before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need reliable multi-display support and full-speed charging under daily sustained use, where Thunderbolt 4 KVM Switch 3 Monitors 2 Laptops 4K@60Hz's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional charging and a single extra port, where AV Access Docking Station KVM Switch 2 Monitors 2 Laptops covers the same job at a lower price."
       }
     ]

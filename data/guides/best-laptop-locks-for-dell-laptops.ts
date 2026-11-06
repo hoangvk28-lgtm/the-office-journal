@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the best overall Dell laptop lock?",
-    "a": ""
+    "a": "The Kensington N17 Dell Laptop Combination Lock, for its combination of the largest confirmed review base among Wedge-specific picks and independent torque, pull, and corrosion testing."
   },
   {
     "q": "Is there a non-Kensington alternative for the Wedge slot?",
@@ -57,66 +57,66 @@ export const heroImage = "https://m.media-amazon.com/images/I/318e9NPLaXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Slot Type",
     "table": {
       "headers": [
-        "",
+        "Your laptop's slot",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Confirmed noble wedge slot",
+          "StarTech Laptop Cable Lock"
         ],
         [
-          "",
+          "Confirmed nano slot",
           "Kensington Universal 3-in-1 Combination Laptop Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $15",
           "N17 Keyed Lock for Dell Laptops On Demand"
         ],
         [
-          "",
+          "Mid-range",
           "Kensington Universal 3-in-1 Combination Laptop Lock"
         ],
         [
           "No firm budget ceiling, prioritizing documented compatibility",
-          ""
+          "StarTech Laptop Cable Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: Kensington N17 Dell Laptop Combination Lock, Kensington Universal 3-in-1 Combination Laptop Lock."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: Kensington N17 Dell Laptop Lock, StarTech Laptop Cable Lock, N17 Keyed Lock for Dell Laptops On Demand."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -124,7 +124,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Kensington N17 Dell Laptop Combination Lock"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "Kensington Universal 3-in-1 Combination Laptop Lock"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Kensington N17 Dell Laptop Combination Lock fits this specifically: Largest confirmed review base among the Wedge-specific picks here."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what StarTech Laptop Cable Lock offers: Explicit Dell XPS and Latitude compatibility documentation. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "N17 Keyed Lock for Dell Laptops On Demand already covers the essentials: Lowest price of any Wedge-compatible lock in this comparison. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

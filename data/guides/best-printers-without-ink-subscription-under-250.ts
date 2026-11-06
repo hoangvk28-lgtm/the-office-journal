@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41jRzO+vcAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,19 +88,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $50",
           "HPRT Portable Inkless Thermal Printer"
         ],
         [
-          "",
+          "$190 to $250",
           "Epson EcoTank ET-2400, ET-2803, ET-2800, or HP Smart Tank Plus 651"
         ]
       ]
@@ -110,7 +110,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Thermal (Inkless) vs Ink-Tank Supertank",
     "cards": [
       {
-        "label": "",
+        "label": "Thermal printer (HPRT)",
         "text": "Never needs ink or toner at all, using heat-sensitive paper instead, but limited to black and white output on special paper."
       },
       {
@@ -121,15 +121,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you need color printing or standard document quality, choose a supertank model; if you only need occasional black and white output and value portability, the thermal printer is a different, lighter-weight option."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Handling Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single-sheet printing is fine",
           "Epson EcoTank ET-2400 or ET-2803"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Heavy Color Printing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The highest stated color page yield per ink fill, since this is the number that determines how often you'll need to refill for color-heavy printing specifically."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Epson EcoTank ET-2803 states the highest color yield at up to 7,500 pages per fill among the picks here."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "89) is the only pick here with an automatic document feeder."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) covers that core need at the lowest supertank price here."
       }
     ]
@@ -169,23 +169,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Ink technology classification",
     "description": "We distinguished true cartridge-free supertank/ink-tank printers from thermal (inkless) printers, since both avoid subscriptions but work in different ways with different output quality."
   },
   {
-    "title": "",
+    "title": "Stated page yield comparison",
     "description": "We compared each listing's specific stated page yield per ink fill (black and color separately where available), since this figure determines real long-term cost more than the printer's sticker price."
   },
   {
-    "title": "",
+    "title": "Years-of-ink-included verification",
     "description": "We noted which listings state a specific \"years of ink included\" figure, a directly comparable claim across brands rather than a vague \"long-lasting\" description."
   },
   {
-    "title": "",
+    "title": "Feature completeness check",
     "description": "We identified which picks include extras like an automatic document feeder or bundled extra ink, genuine functional or value differences at similar price points."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $250 on the date this guide was checked; printers that only hit this tier during a temporary sale were excluded."
   }
 ];

@@ -55,35 +55,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest star rating",
+          "Power Strip"
         ],
         [
-          "",
-          ""
+          "Largest review base (more statistical confidence)",
+          "Power Strip"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $19",
           "Surge Protector Power Strip 4800J"
         ],
         [
-          "",
+          "Mid-range",
           "Surge Protector Power Strip 15 Ft Cord"
         ],
         [
@@ -97,21 +97,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C PD Charging vs Outlets Only",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C PD Charging",
         "text": "Charges laptops and higher-power devices faster directly from the strip, without a separate charging brick. In this comparison: Surge Protector Power Strip 4800J, Surge Protector Power Strip 15 Ft Cord."
       },
       {
-        "label": "",
+        "label": "AC Outlets Only",
         "text": "Simpler design focused purely on outlet count, pair with your own chargers as needed. In this comparison: IPX6 Outdoor Power Strip Weatherproof, Power Strip, Amazon Basics 12-Outlet Surge Protector Power Strip."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Surge Protection Level",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -119,7 +119,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Surge Protector Power Strip 4800J"
         ],
         [
-          "",
+          "Basic protection, lower cost",
           "Surge Protector Power Strip 4800J"
         ]
       ]
@@ -129,24 +129,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Bulky Wall-Wart Adapters Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Wide or offset outlet spacing explicitly mentioned in the listing or shown in product photos, not just a high raw outlet count."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "IPX6 Outdoor Power Strip Weatherproof fits this specifically: UL listed for verified safety in a mounted installation."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what IPX6 Outdoor Power Strip Weatherproof offers: UL listed for verified safety in a mounted installation. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Surge Protector Power Strip 4800J already covers the essentials: Explicitly designed for wall mounting. The main thing you'd be paying extra for elsewhere in this list is capacity or charging speed you may not need."
       }
     ]
@@ -155,7 +155,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Explicit wall-mount design vs. DIY mounting",
     "description": "Distinguished picks explicitly marketed and hardware-equipped for wall mounting from those designed primarily for horizontal desktop use that buyers would need to mount themselves."
   },
   {

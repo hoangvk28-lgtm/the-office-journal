@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/31MuCEQHXSL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "PLANTOP 100 Pack 30 Degree Cable Railing Rubber Grommets"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Car Windshield Wire Hider Roof Rack Light Bar Cable Hider"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "200 Pack Cable Railing Kit Rubber Grommets Protector Sleeve"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,40 +95,40 @@ export const howToChoose: HowToChooseSection[] = [
           "PLANTOP 100 Pack 30 Degree Cable Railing Rubber Grommets"
         ],
         [
-          "",
+          "Mid-range pick",
           "Sunnates 9 PCS Cable Sheath Protector Electric Drill Cable Sleeve Rubber Power"
         ],
         [
-          "",
+          "Higher budget",
           "200 Pack Cable Railing Kit Rubber Grommets Protector Sleeve"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "PLANTOP 100 Pack 30 Degree Cable Railing Rubber Grommets)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "Car Windshield Wire Hider Roof Rack Light Bar Cable Hider"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Car Windshield Wire Hider Roof Rack Light Bar Cable Hider is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 200 Pack Cable Railing Kit Rubber Grommets Protector Sleeve justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where PLANTOP 100 Pack 30 Degree Cable Railing Rubber Grommets already covers the job at the lowest price here."
       }
     ]

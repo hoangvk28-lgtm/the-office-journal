@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/31LP+3ckPAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "Tape Dispenser, Heat Press Tape Dispenser, Holder Fits 1\" 3\" Core"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "IHOMECOOKER Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core)"
         ],
         [
-          "",
+          "High-volume packing",
           "SHDSL Blue Heat Tape Dispenser Sublimation"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Tape Dispenser, Heat Press Tape Dispenser, Holder Fits 1\" 3\" Core"
         ],
         [
-          "",
+          "Mid-range pick",
           "Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core) with Weighted"
         ],
         [
-          "",
+          "Higher budget",
           "SHDSL Blue Heat Tape Dispenser Sublimation"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "Tape Dispenser, Heat Press Tape Dispenser, Holder Fits 1\" 3\" Core)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "IHOMECOOKER Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core)"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core) with Weighted"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "IHOMECOOKER Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core) is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where SHDSL Blue Heat Tape Dispenser Sublimation justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Tape Dispenser, Heat Press Tape Dispenser, Holder Fits 1\" 3\" Core already covers the job at the lowest price here."
       }
     ]

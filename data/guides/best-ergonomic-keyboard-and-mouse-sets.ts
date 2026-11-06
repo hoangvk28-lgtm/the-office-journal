@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/4114VdW9JcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Minimal adjustment period",
           "Logitech Wave Keys Wireless Ergonomic Keyboard"
         ],
         [
@@ -76,26 +76,26 @@ export const howToChoose: HowToChooseSection[] = [
           "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest"
         ],
         [
-          "",
+          "Maximum forearm rotation relief",
           "Wireless Keyboard and Mouse Combo"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "Wireless Keyboard and Mouse Combo"
         ],
         [
-          "",
+          "Mid-range",
           "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"
         ],
         [
@@ -106,14 +106,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: Perixx PERIBOARD-512B Wired Ergonomic Keyboard."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech Wave Keys Wireless Ergonomic Keyboard, Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest, Wireless Keyboard and Mouse Combo."
       }
     ]
@@ -122,12 +122,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest cost, quiet typing",
           "Wireless Keyboard and Mouse Combo"
         ],
         [
@@ -141,24 +141,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Wireless Keyboard and Mouse Combo fits this specifically: sold as a matched keyboard + mouse pair."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest offers: Only split layout in this list. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Wireless Keyboard and Mouse Combo already covers the essentials: sold as a matched keyboard + mouse pair. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -175,7 +175,7 @@ export const howWeEvaluated = [
     "description": "Assessed whether the bundled mouse offers a sculpted grip shape, a vertical design, or no meaningful ergonomic shaping at all, since none of the sets here include a true vertical mouse."
   },
   {
-    "title": "",
+    "title": "Receiver and connection type",
     "description": "4GHz USB receiver, and Bluetooth pairing across sets, and noted where a keyboard and mouse share one receiver versus needing separate connections."
   },
   {
@@ -183,14 +183,14 @@ export const howWeEvaluated = [
     "description": "Distinguished products that are truly sold and packaged as a keyboard-and-mouse pair from standalone ergonomic keyboards that frequently surface in set searches without an included mouse."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed real ergonomic benefit, connection type, and build quality against price, from the budget curved combos to the true split keyboard."
   }
 ];
 
 export const introParagraphs = [
   "Most products sold as an \"ergonomic keyboard and mouse set\" are not built the same way. Some pair a curved or split keyboard with a sculpted mouse designed to reduce wrist strain, while others are standard flat wireless combos with the word ergonomic added to the listing title. This guide evaluates both types honestly, and none of the mice included here are true vertical mice, so if pronation relief from the mouse specifically is your priority, a dedicated vertical mouse purchased separately will do more for you than any set.",
-  ""
+  "Below are 8 keyboard and mouse sets we compared on whether the keyboard is actually curved or split, whether the paired mouse offers any real ergonomic shape, receiver type, and price, ranging from a $19.99 budget silent combo to a $59.99 wave-style set."
 ];
 
 export const lastUpdated = "2026-07-23";

@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "UGREEN NAS DXP4800 Plus 4"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "UGREEN NAS DXP4800 Plus 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $152",
+          "TERRAMASTER D4"
         ],
         [
-          "",
-          ""
+          "Up to $700",
+          "Synology 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Bay Count vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "TERRAMASTER D4",
         "text": "The lower-priced option in this comparison, worth checking its CPU and RAM against your actual workload."
       },
       {
-        "label": "",
+        "label": "Synology 4",
         "text": "The higher-priced option, worth it if it offers real bay count or performance headroom above the cheaper pick."
       }
     ],
     "note": "Default to TERRAMASTER D4 unless your storage needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By CPU and RAM",
     "note": "Check each pick's listed CPU architecture and RAM amount against your actual workload before buying, not just bay count alone."
   },
   {
     "subheading": "For Media Streaming or Plex Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A CPU capable of hardware transcoding and enough RAM to handle multiple simultaneous streams, not just total bay count."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "UGREEN NAS DXP4800 Plus 4 is worth checking against its listed CPU and RAM before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real multi-user performance, media transcoding, or business-critical reliability, where Synology 4's CPU and RAM give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need simple backup storage for one or two users, where TERRAMASTER D4 covers the same job at a lower price."
       }
     ]
@@ -146,7 +146,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "RAID flexibility",
     "description": "Compared RAID 5, hybrid RAID (SHR), and RAID 10 support across models, since a true 4-bay NAS should offer more than the basic mirroring a 2-bay unit provides."
   },
   {
@@ -154,15 +154,15 @@ export const howWeEvaluated = [
     "description": "Weighed diskless enclosure price against the real cost of 4 NAS-grade drives, since the enclosure alone understates the actual investment."
   },
   {
-    "title": "",
+    "title": "Network-attached vs. direct-attached distinction",
     "description": "Verified whether each pick is genuine network-attached storage accessible by multiple devices, or direct-attached storage connected to a single computer via USB."
   },
   {
-    "title": "",
+    "title": "Processor capability",
     "description": "Compared Intel-based processors against lighter-duty chips for their ability to handle Docker, transcoding, and multitasking without becoming a bottleneck."
   },
   {
-    "title": "",
+    "title": "Drive compatibility policy",
     "description": "Checked whether each brand's 2024+ models show compatibility warnings for third-party drives, and what that means for real-world cost and setup friction."
   }
 ];

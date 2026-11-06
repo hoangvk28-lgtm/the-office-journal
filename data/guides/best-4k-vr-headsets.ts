@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Motionsick-faq",
     "q": "Can a VR headset cause motion sickness?",
     "a": "It can, particularly at lower refresh rates, if you or the intended user is sensitive to VR discomfort, prioritize a headset running at 90Hz or higher over other specs."
   },
   {
-    "id": "",
+    "id": "Storage-vr-faq",
     "q": "How much storage do I need on a standalone VR headset?",
     "a": "More than the base tier usually offers, VR game file sizes have grown significantly, a smaller storage tier fills up faster than expected and forces regular uninstall-and-redownload cycles."
   },
   {
-    "id": "",
+    "id": "Tracking-faq",
     "q": "Does VR tracking work in any room?",
     "a": "Inside-out tracking can struggle in poorly lit rooms, near reflective surfaces, or unusually shaped spaces, check specific tracking reliability reviews if your play space has any of these challenges."
   },
   {
-    "id": "",
+    "id": "Ipd-faq",
     "q": "What if a VR headset doesn't fit my eyes clearly?",
     "a": "Check the IPD adjustment range, a headset with only a few fixed steps may leave users outside the average range with a persistently blurry image, a continuous adjustment range accommodates more people."
   },
   {
-    "id": "",
+    "id": "Resolution-vr-faq",
     "q": "What resolution should I look for in a VR headset?",
     "a": "Check the true per-eye resolution, not a combined total across both eyes, a low per-eye resolution can produce a visible screen door effect that's especially distracting when reading in-game text."
   },
   {
-    "id": "",
+    "id": "Lens-faq",
     "q": "What are 'god rays' in a VR headset?",
     "a": "Light streaking around bright objects against dark backgrounds, common with cheaper Fresnel lenses, newer pancake lens designs reduce this glare meaningfully but typically cost more."
   }
@@ -67,15 +67,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/31vp1nAOTGL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No gaming PC available",
           "HTC Vive Focus Vision, Mixed Reality and PC VR Headset + Controllers"
         ],
         [
@@ -83,18 +83,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Pimax Crystal Super VR Headset"
         ],
         [
-          "",
+          "Want maximum visual fidelity",
           "Vision 8K Plus Compatible for Pimax Vision 8K+ VR Headset 8K Plus VR Headset"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,36 +102,36 @@ export const howToChoose: HowToChooseSection[] = [
           "HTC Vive Focus Vision, Mixed Reality and PC VR Headset + Controllers"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Meta Quest 3 512GB"
         ],
         [
-          "",
+          "Higher budget",
           "Vision 8K Plus Compatible for Pimax Vision 8K+ VR Headset 8K Plus VR Headset"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Standalone vs PC-Tethered",
     "cards": [
       {
         "label": "HTC Vive Focus Vision, Mixed Reality and PC VR Headset + Controllers)",
         "text": "No cables or computer needed, capped at mobile-chip-level graphics."
       },
       {
-        "label": "",
+        "label": "PC-tethered",
         "text": "Far more demanding visuals possible, needs a gaming PC and a cable or wireless streaming setup."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Motion Sensitivity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sensitivity",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,8 +139,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Pimax Crystal Super VR Headset"
         ],
         [
-          "",
-          ""
+          "Sensitive to VR discomfort",
+          "Meta Quest 3 512GB"
         ]
       ]
     }
@@ -149,24 +149,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Fast-Paced or Full-Body Games Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Controller tracking that holds up specifically when controllers move outside the headset's camera view."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Pimax Crystal Super VR Headset is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Vision 8K Plus Compatible for Pimax Vision 8K+ VR Headset 8K Plus VR Headset justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where HTC Vive Focus Vision, Mixed Reality and PC VR Headset + Controllers already covers the job at the lowest price here."
       }
     ]

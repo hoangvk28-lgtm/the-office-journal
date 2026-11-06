@@ -60,13 +60,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $300",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "The best all-around option in this comparison",
-          ""
+          "HDMI Switch 4k@60hz Splitter"
         ],
         [
           "A strong alternative with a different tradeoff",
@@ -79,8 +79,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,8 +88,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Osee GoStream Deck Pro 4-Ch HDMI Live Streaming Video Mixer Switcher"
         ],
         [
-          "",
-          ""
+          "Best overall value",
+          "HDMI Switch 4k@60hz Splitter"
         ]
       ]
     }
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "HDMI Switch 4k@60hz vs Osee GoStream Deck",
     "cards": [
       {
-        "label": "",
+        "label": "HDMI Switch 4k@60hz Splitter",
         "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
       },
       {
@@ -109,16 +109,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to HDMI Switch 4k@60hz Splitter unless your specific use case points toward Osee GoStream Deck Pro 4-Ch HDMI Live Streaming Video Mixer Switcher's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Matches this guide's core use case most closely",
-          ""
+          "HDMI Switch 4k@60hz Splitter"
         ],
         [
           "A close secondary option worth comparing",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "HDMI Switch 4k@60hz Splitter is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on Osee GoStream Deck Pro 4-Ch HDMI Live Streaming Video Mixer Switcher, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by HDMI Switch 4k@60hz Splitter without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick must be new, in stock and up to $300 on the update date; expired sale pricing removes it from the qualifying set."
   },
   {
-    "title": "",
+    "title": "Budget-ladder context",
     "description": "Show the previous tier, below current ATEM Mini Pro tier and next-higher tier so readers see the real capability step instead of duplicate lists."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize simultaneous inputs/formats, scalers/frame sync and required accessory/setup cost against price."
   },
   {
-    "title": "",
+    "title": "Evidence split",
     "description": "We separated multiview/monitoring and streaming/recording figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
-    "title": "",
+    "title": "Ownership/step-up verdict",
     "description": "Judge keying/audio/control, warranty, software/parts/support and whether the reader should spend less or move above $300 for a meaningful upgrade."
   }
 ];

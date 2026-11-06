@@ -61,79 +61,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/41N69lSnX+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A light stack of paperbacks",
-          ""
+          "Wood Bookends 2 Pack"
         ],
         [
-          "",
+          "A full mixed shelf",
           "Large Bookend Hold Heavy Books-7x4x5in 3 Pack Non-Skid Wood Bookends Walnut"
         ],
         [
           "A long shelf needing multiple pairs",
-          ""
+          "Wood Bookends 2 Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Wood Bookends 2 Pack"
         ],
         [
-          "",
+          "Mid-range pick",
           "Book Ends 1Pair Wooden Heavy Duty Non Slip Book for Shelf Books & Media"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Wood Bookends 2 Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
-        "label": "",
+        "label": "Decorative (e.g. Wood Bookends 2 Pack)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Glossy or glass surface",
           "Large Bookend Hold Heavy Books-7x4x5in 3 Pack Non-Skid Wood Bookends Walnut"
         ],
         [
-          "",
+          "Textured wood surface",
           "Book Ends 1Pair Wooden Heavy Duty Non Slip Book for Shelf Books & Media"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Large Bookend Hold Heavy Books-7x4x5in 3 Pack Non-Skid Wood Bookends Walnut is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Wood Bookends 2 Pack justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Wood Bookends 2 Pack already covers the job at the lowest price here."
       }
     ]

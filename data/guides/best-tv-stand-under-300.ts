@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/415ICeWEqtL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,37 +84,37 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $160",
+          "PRETZI 70\" Fireplace ($159.99)"
         ],
         [
-          "",
-          ""
+          "$180-$190",
+          "OKD Modern Non-Fireplace ($179.99) or YESHOMY Fireplace ($188.99)"
         ],
         [
-          "",
-          ""
+          "Under $250",
+          "AMERLIFE Fluted Fireplace ($249.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Fireplace vs No Fireplace",
     "cards": [
       {
-        "label": "",
+        "label": "Fireplace-Equipped (AMERLIFE, YESHOMY, PRETZI)",
         "text": "Adds genuine ambiance and heating output, a meaningful upgrade for cold climates or buyers who want the cozy visual effect, at the cost of more complex wiring and safety considerations."
       },
       {
-        "label": "",
+        "label": "No Fireplace (OKD)",
         "text": "Simpler setup with strong TV size and weight capacity, better suited to warmer climates, rental restrictions on heating appliances, or buyers who just don't want the added feature."
       }
     ],
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Fireplace Size and Color Options",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Year-Round Use in Varying Climates Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A fireplace that can run its flame display without heat, useful for warmer months when you want the ambiance but not the added warmth."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The AMERLIFE 70\" Fluted Fireplace TV Stand specifically states its display can run with or without heat, ideal for year-round use."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want distinctive fluted styling with genuine safety engineering, where the AMERLIFE pick delivers anti-tip design and overheat protection in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You don't need a fireplace, where the OKD Modern TV Stand delivers 80\" TV compatibility and strong weight capacity without the added cost and complexity."
       }
     ]
@@ -173,15 +173,15 @@ export const howWeEvaluated = [
     "description": "Compared stated wattage, temperature range, and safety features like overheat protection and anti-tip design across the fireplace-equipped picks."
   },
   {
-    "title": "",
+    "title": "Flame Color Customization",
     "description": "Compared the number of flame color options and whether the fireplace can run purely for visual effect without heat."
   },
   {
-    "title": "",
+    "title": "Shipping and Assembly Complexity",
     "description": "Noted which picks ship in multiple packages due to the separate fireplace insert, since this affects delivery timing expectations."
   },
   {
-    "title": "",
+    "title": "Fireplace vs Non-Fireplace Value",
     "description": "Weighed the genuine ambiance and heating benefit of a fireplace stand against a comparable non-fireplace alternative at a similar price."
   },
   {

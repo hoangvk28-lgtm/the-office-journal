@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/515YXZp1t0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Carrying your own cards",
           "Meyeyaia 64 Pack Business Card Holder for Desk, Desktop Style Business Card"
         ],
         [
-          "",
+          "Displaying cards for visitors",
           "Padike Professional Business Card Holder PU Leather Business Card Case Name"
         ],
         [
-          "",
+          "Client-facing handoffs",
           "Xiviers Business Card Holder, PU Leather Business Card Case Color Printing"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Meyeyaia 64 Pack Business Card Holder for Desk, Desktop Style Business Card"
         ],
         [
-          "",
+          "Mid-range pick",
           "Sooez Leather Professional Business Card Book Holder Organizer for 240 Card"
         ],
         [
-          "",
+          "Higher budget",
           "Xiviers Business Card Holder, PU Leather Business Card Case Color Printing"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Top vs Snap-Closed",
     "cards": [
       {
         "label": "Meyeyaia 64 Pack Business Card Holder for Desk, Desktop Style Business Card)",
         "text": "Faster one-hand access, less protection against spilling."
       },
       {
-        "label": "",
+        "label": "Snap/magnetic closed",
         "text": "Secures cards fully, takes an extra motion to open."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your card volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A small daily-carry stack",
           "Padike Professional Business Card Holder PU Leather Business Card Case Name"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Client-Facing Handoffs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A material (leather or solid metal) that reinforces a professional impression at the handoff moment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Padike Professional Business Card Holder PU Leather Business Card Case Name is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where xiviers Business Card Holder, PU Leather Business Card Case Color Printing justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Meyeyaia 64 Pack Business Card Holder for Desk, Desktop Style Business Card already covers the job at the lowest price here."
       }
     ]

@@ -56,45 +56,45 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "NETGEAR Nighthawk Modem Router Combo"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "NETGEAR Nighthawk Cable Modem and WiFi 6 Router Combo"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $170",
+          "TP"
         ],
         [
-          "",
+          "Up to $450",
           "NETGEAR Nighthawk Cable Modem and WiFi 6 Router Combo"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "TP",
         "text": "The lower-priced option in this comparison, worth checking its band configuration against your actual needs."
       },
       {
@@ -105,16 +105,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to TP unless your setup calls for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Wired Port Speed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "2.5GbE port available",
+          "TP"
         ]
       ]
     }
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fiber Internet Plan Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A WAN port speed matched to or exceeding your actual fiber plan's rated speed, not just a fast LAN port for local devices."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "NETGEAR Nighthawk Cable Modem and WiFi 6 Router Combo is worth checking against its listed WAN port speed before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a fast fiber plan, run a NAS, or need mesh coverage, where NETGEAR Nighthawk Cable Modem and WiFi 6 Router Combo's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your internet plan tops out at standard gigabit, where TP covers the same job at a lower price."
       }
     ]

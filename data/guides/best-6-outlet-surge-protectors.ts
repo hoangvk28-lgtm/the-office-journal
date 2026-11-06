@@ -53,75 +53,75 @@ export const heroImage = "https://m.media-amazon.com/images/I/419wfBM0uWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Joule Rating",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 2700 joules",
+          "Surge Protector Power Strip"
         ],
         [
-          "",
+          "Around 1800 joules",
           "Addtam Surge Protector Outlet Extender"
         ],
         [
-          "",
+          "Around 1680 joules",
           "6Ft Power Strip Surge Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "Addtam Surge Protector Outlet Extender"
         ],
         [
-          "",
+          "Up to $16",
           "One Beat Power Strip Surge Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB-C Charging vs Outlets-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in USB-C charging",
         "text": "Saves an outlet slot per device charged directly, useful if you regularly charge phones or tablets at your desk. In this comparison: Addtam Surge Protector Outlet Extender."
       },
       {
-        "label": "",
+        "label": "Outlets-only",
         "text": "No built-in charging ports, but often a lower price and simpler design for equipment that only needs AC power. In this comparison: Amazon Basics Surge Protector Power Strip, One Beat Power Strip Surge Protector."
       }
     ],
     "note": "Default to a USB-equipped strip unless you already have enough dedicated chargers and want to save on price."
   },
   {
-    "subheading": "",
+    "subheading": "By Plug Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Desk situation",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Tight space behind furniture, flat plug needed",
-          ""
+          "Surge Protector Power Strip"
         ],
         [
-          "",
+          "Standard outlet clearance",
           "6Ft Power Strip Surge Protector"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed joule rating of at least 1000-2000 with UL 1449 certification, plus enough spaced outlets for a monitor, dock, and peripherals."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Surge Protector Power Strip discloses the highest joule rating at 2700 joules."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your equipment is expensive or sensitive, where One Beat Power Strip Surge Protector's higher price buys real protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're protecting lower-value, easily replaceable electronics, where Addtam Surge Protector Outlet Extender covers the same basic job at a lower price."
       }
     ]

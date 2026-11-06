@@ -53,15 +53,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41c8RfrvyLL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Capacity",
     "table": {
       "headers": [
-        "",
+        "Your storage need",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Lightest everyday storage needs",
           "0 256-bit AES XTS Hardware Encrypted Portable External Hard Drive"
         ],
         [
@@ -72,19 +72,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $190",
           "0 256-bit AES XTS Hardware Encrypted Portable External Hard Drive"
         ],
         [
-          "",
+          "Mid-range",
           "Western Digital 2TB My Passport SSD Portable External Solid State Drive"
         ],
         [
@@ -95,25 +95,25 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "TLC vs QLC NAND",
     "cards": [
       {
-        "label": "",
+        "label": "TLC NAND",
         "text": "Better sustained write speed and longer-term endurance, especially once any onboard cache is exhausted during a large transfer. In this comparison: check each listing's specs directly, NAND type isn't always disclosed."
       },
       {
-        "label": "",
+        "label": "QLC NAND",
         "text": "More capacity per dollar, at the cost of a bigger sustained-speed drop once the cache fills on long transfers. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
     "note": "NAND type isn't explicitly confirmed for every pick here, check each specific listing's technical details if sustained speed matters to your workflow."
   },
   {
-    "subheading": "",
+    "subheading": "Rugged/Waterproof vs Standard Build",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -121,7 +121,7 @@ export const howToChoose: HowToChooseSection[] = [
           "IStorage diskAshur2 SSD 2TB Blue | Secure portable solid state drive | Password protected | Dust & water resistant | Hardware Encryption"
         ],
         [
-          "",
+          "Slimmest, lightest everyday carry",
           "IStorage diskAshur2 SSD 2TB Blue | Secure portable solid state drive | Password protected | Dust & water resistant | Hardware Encryption"
         ]
       ]
@@ -131,11 +131,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Large Sustained Transfers (Video Editing) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "TLC NAND specifically, a stated sustained write speed (not just the peak burst number), and a USB generation on both drive and host that actually supports the rated speed."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SANDISK 1TB Extreme Portable SSD fits this specifically: Fast rated unencrypted speed."
       }
     ]
@@ -144,16 +144,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "SANDISK 1TB Extreme Portable SSD"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Western Digital 2TB My Passport SSD Portable External Solid State Drive"
         ]
       ]
@@ -175,7 +175,7 @@ export const howWeEvaluated = [
     "description": "Disclosed that some encrypted drives offer no recovery path for a forgotten password, resulting in permanent, unrecoverable data loss, a real risk worth knowing before buying."
   },
   {
-    "title": "",
+    "title": "Encryption's speed overhead considered",
     "description": "Considered encryption's effect on real-world transfer speed, since encryption/decryption processing overhead can measurably reduce throughput compared to the same drive's unencrypted performance."
   }
 ];

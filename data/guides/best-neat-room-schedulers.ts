@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/416T8h-KR0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Desk Calendar 2026-2027, Jan 2026"
         ],
         [
-          "",
+          "Standard conference room",
           "2026 Desk Calendar and Sticky Notes"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Desk Calendar 2026-2027, Jan 2026"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "PAPERIAN Brilliant Weekly Scheduler"
         ],
         [
-          "",
+          "Higher budget",
           "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "Desk Calendar 2026-2027, Jan 2026)",
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "2026 Desk Calendar and Sticky Notes"
         ],
         [
-          "",
-          ""
+          "Google Workspace / Calendar",
+          "PAPERIAN Brilliant Weekly Scheduler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "2026 Desk Calendar and Sticky Notes is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward single-room display without advanced features, where Desk Calendar 2026-2027, Jan 2026 already covers the job at the lowest price here."
       }
     ]

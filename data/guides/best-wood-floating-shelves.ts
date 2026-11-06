@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/41mq1zpzkVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light decorative items",
+          "QEEIG Bathroom Floating Shelves for Wall (Brown, Set of 2, 15.7\")"
         ],
         [
-          "",
-          ""
+          "Books, standard decor",
+          "BAYKA Rustic Brown Floating Shelves 22.5in"
         ],
         [
-          "",
-          ""
+          "Heavier items, electronics",
+          "Floating Shelves for Wall"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "QEEIG Bathroom Floating Shelves for Wall (Brown, Set of 2, 15.7\")"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "QEEIG Floating Shelves for Wall Small Shelf (Brown, Set of 3, 15.7\" x 6.7\")"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Floating Shelves for Wall"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
-        "label": "",
+        "label": "Stud-mounted (e.g. Floating Shelves for Wall)",
         "text": "Highest weight capacity, but requires drilling into a wall stud."
       },
       {
-        "label": "",
+        "label": "No-drill (e.g. QEEIG Bathroom Floating Shelves for Wall (Brown, Set of 2, 15.7\"))",
         "text": "No wall damage, ideal for renters, but a much lower weight limit."
       }
     ],
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Studs available where needed",
+          "BAYKA Rustic Brown Floating Shelves 22.5in"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Floating Shelves for Wall is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where Floating Shelves for Wall justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "7\") already covers the job at the lowest price here."
       }
     ]

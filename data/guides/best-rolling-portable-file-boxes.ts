@@ -57,24 +57,24 @@ export const heroImage = "https://m.media-amazon.com/images/I/41MRJ+Td0jL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $19",
           "IRIS USA File Box Organizer with Lid"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "Sterilite Portable File Box"
         ],
         [
           "No firm budget ceiling, prioritizing security or durability",
@@ -84,14 +84,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: Dorfury Locking Rolling File Box with Wheels, DocSafe Fireproof Document Box with Lock, Vaultz Portable File Box with Handle."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: IRIS USA File Box Organizer with Lid, Sterilite Portable File Box."
       }
     ],
@@ -101,8 +101,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -120,24 +120,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "DocSafe Fireproof Document Box with Lock fits this specifically: Much stronger review count than the top pick."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Vaultz Portable File Box with Handle offers: portable, hand-carried design. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "IRIS USA File Box Organizer with Lid already covers the essentials: Very affordable, no rolling premium. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -146,7 +146,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "\"Rolling\" vs. \"with wheels\" terminology distinction",
     "description": "We assessed whether 'rolling' represents distinct terminology for the same wheeled product category or a larger, more cabinet-like product."
   },
   {
@@ -158,7 +158,7 @@ export const howWeEvaluated = [
     "description": "We flagged a premium-sounding pick with an extremely small review count, weighed honestly against a more proven, low-cost alternative."
   },
   {
-    "title": "",
+    "title": "Wheeled vs. hand-carried genuine comparison",
     "description": "We included non-wheeled alternatives directly so buyers can honestly assess whether they need rolling mobility at all."
   }
 ];

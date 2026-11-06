@@ -53,15 +53,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Filtration Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Certified True HEPA",
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ],
         [
@@ -69,26 +69,26 @@ export const howToChoose: HowToChooseSection[] = [
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $81",
           "Germ Guardian True HEPA Filter Air Purifier for Home"
         ],
         [
-          "",
+          "Up to $349",
           "Blueair Air Purifiers for Home Large Room"
         ]
       ]
@@ -98,30 +98,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Quiet Operation vs Maximum Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Quiet operation",
         "text": "Better suited for a bedroom or a desk during calls. In this comparison: LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom."
       },
       {
-        "label": "",
+        "label": "Maximum airflow",
         "text": "Faster air turnover for a larger room, usually at a higher noise level on top speed. In this comparison: WINIX 5520 Air Purifier with PlasmaWave Technology, COWAY Air Purifier for Home Up to 1, Blueair Air Purifiers for Home Large Room, Germ Guardian True HEPA Filter Air Purifier for Home."
       }
     ],
     "note": "Default to the quieter pick unless your room is large enough that airflow speed matters more than noise."
   },
   {
-    "subheading": "",
+    "subheading": "By Certified HEPA Filtration",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Certified True HEPA needed",
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ],
         [
-          "",
+          "Basic filtration is enough",
           "COWAY Air Purifier for Home Up to 1"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Allergies or Pet Dander Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Certified True HEPA filtration with an H13 or higher rating, sized for a room at least as large as where it'll actually run."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom discloses certified True HEPA filtration."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real odor, VOC, or large-room coverage, where Blueair Air Purifiers for Home Large Room's higher price buys real filtration or CADR headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're covering a small space with a basic dust or allergen concern, where Germ Guardian True HEPA Filter Air Purifier for Home covers the same job at a lower price."
       }
     ]

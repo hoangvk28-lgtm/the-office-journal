@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Jsb2wvcTL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "The lowest price for a genuine EGPU enclosure",
-          ""
+          "PELADN S-3 EGPU Dock"
         ],
         [
           "Private, offline local AI model hosting alongside gaming",
@@ -81,34 +81,34 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A modular, upgrade-friendly enclosure for the widest host range",
-          ""
+          "Razer Core X V2"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $280",
+          "PELADN S-3 EGPU Dock ($279.99)"
         ],
         [
-          "",
-          ""
+          "Under $380",
+          "Razer Thunderbolt 5 Dock Chroma ($379.99)"
         ],
         [
-          "",
-          ""
+          "Under $600",
+          "Razer Core X V2 ($595.46)"
         ],
         [
-          "",
-          ""
+          "Under $630",
+          "Plugable Thunderbolt 5 AI EGPU Enclosure ($629.99)"
         ]
       ]
     }
@@ -128,11 +128,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you want to add real desktop-class GPU power to your laptop, budget for a separate GPU and PSU purchase alongside any of the three EGPU enclosures. If you just want a great all-around gaming dock with storage, the Razer Chroma works immediately."
   },
   {
-    "subheading": "",
+    "subheading": "By Intended Workload",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your primary workload",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Gaming Handheld Owners Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An EGPU enclosure that explicitly confirms compatibility with USB4 gaming handhelds, not just Thunderbolt laptops, since not every enclosure supports this connection type."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Razer Core X V2 specifically confirms compatibility with USB4 gaming handhelds alongside Thunderbolt 4 and 5 laptops."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You specifically want to run local AI models privately with complete data isolation alongside gaming, where the Plugable AI EGPU Enclosure justifies its $629.99 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You want the lowest price for a genuine EGPU enclosure with broad GPU compatibility, where the PELADN S-3 delivers that for $279.99."
       }
     ]
   }
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "GPU and PSU Inclusion",
     "description": "Compared complete all-in-one docks against dedicated EGPU enclosures requiring separate GPU and power supply purchases."
   },
   {
-    "title": "",
+    "title": "Graphics Card Compatibility",
     "description": "Compared maximum supported card size and named compatible GPU models."
   },
   {
-    "title": "",
+    "title": "Cooling Design",
     "description": "Compared active fan cooling systems and their disclosed thermal management approach."
   },
   {
-    "title": "",
+    "title": "Host Platform Compatibility",
     "description": "Compared Windows-only requirements against broader cross-platform and gaming handheld support."
   },
   {
-    "title": "",
+    "title": "Specialized Use Case Fit",
     "description": "Compared local AI workload support against general gaming and creative positioning."
   }
 ];

@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/31M1ek-vGgL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Occasional light use",
+          "Scotch Desktop Dispenser"
         ],
         [
           "Regular desk or office use",
-          ""
+          "Eagle Automatic Tape Dispenser"
         ],
         [
-          "",
-          ""
+          "High-volume packing",
+          "Scotch Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Scotch Desktop Dispenser"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Ergonomic Handheld Tape Dispenser"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Scotch Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
-        "label": "",
+        "label": "Desktop (e.g. Scotch Desktop Dispenser)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard clear or packing tape",
-          ""
+          "Eagle Automatic Tape Dispenser"
         ],
         [
-          "",
-          ""
+          "Masking or specialty tape",
+          "Ergonomic Handheld Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Eagle Automatic Tape Dispenser is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Scotch Tape Dispenser justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Scotch Desktop Dispenser already covers the job at the lowest price here."
       }
     ]

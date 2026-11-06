@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/31DsLHp9vML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,19 +76,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $28",
           "Gaming Laptop Cooler with 13 Ultra Quiet Fans"
         ],
         [
-          "",
+          "Mid-range",
           "YICOSUN Adjustable Laptop Cooling Stand with 2 Quiet Fans & RGB Lighting"
         ],
         [
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: Razer Laptop Cooling Pad Adaptive Smart."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: Gaming Laptop Cooler with 13 Ultra Quiet Fans."
       }
     ],
     "note": "Most buyers should default to a slim pick like Razer Laptop Cooling Pad Adaptive Smart for everyday portability, and only step up to Gaming Laptop Cooler with 13 Ultra Quiet Fans's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Razer Laptop Cooling Pad Adaptive Smart offers: RGB integrates with the broader Razer Chroma ecosystem. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Gaming Laptop Cooler with 13 Ultra Quiet Fans already covers the essentials: Lowest price of any RGB pick in this guide. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -165,15 +165,15 @@ export const howWeEvaluated = [
     "description": "We compared fan count, speed, and stated temperature claims first, then treated RGB as a secondary feature layered on top rather than the primary differentiator."
   },
   {
-    "title": "",
+    "title": "RGB control method",
     "description": "We compared whether lighting is controlled on-device (buttons, LCD) or requires separate software, and whether it can be fully disabled without affecting cooling."
   },
   {
-    "title": "",
+    "title": "Power draw and source",
     "description": "We noted whether each pad runs entirely off laptop USB power or includes an external adapter, since RGB and fan count together add to the power budget your laptop's USB port has to supply."
   },
   {
-    "title": "",
+    "title": "Ecosystem and software dependency",
     "description": "For pads tied to a software ecosystem, like Razer Synapse, we flagged that dependency clearly since it affects setup complexity and cross-device compatibility."
   }
 ];

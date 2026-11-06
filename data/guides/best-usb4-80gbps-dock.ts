@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31BnpkMKwqL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,11 +73,11 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Built-in SSD caching for video editing",
-          ""
+          "WAVLINK Thunderbolt 5 Dock, 13-in-1 with NVMe M.2"
         ],
         [
           "A dedicated EGPU enclosure for gaming or rendering",
-          ""
+          "TREBLEET 80Gbps EGPU Enclosure"
         ],
         [
           "The lowest price with genuine 80Gbps and dual-SSD storage",
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $180",
+          "OWC Thunderbolt 5 Hub ($179.99)"
         ],
         [
-          "",
-          ""
+          "Under $245",
+          "WAVLINK Thunderbolt 5 Dock ($244.99)"
         ],
         [
-          "",
-          ""
+          "Under $135",
+          "80Gbps Mac mini Dock & Stand ($132.04)"
         ],
         [
-          "",
-          ""
+          "Under $360",
+          "TREBLEET 80Gbps EGPU Enclosure ($359.99)"
         ]
       ]
     }
@@ -121,23 +121,23 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Provides broad port expansion, displays, and optional storage for everyday productivity and creative work."
       },
       {
-        "label": "",
+        "label": "Dedicated EGPU enclosure (TREBLEET)",
         "text": "Specifically houses a full desktop graphics card with its own power supply, purpose-built for gaming and GPU-accelerated rendering."
       }
     ],
     "note": "If you need general connectivity, displays, and storage, the OWC or WAVLINK picks cover that well. If you specifically want to run a desktop-class GPU externally, the TREBLEET enclosure is purpose-built for that."
   },
   {
-    "subheading": "",
+    "subheading": "By GPU Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your GPU and platform",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Windows with NVIDIA or AMD GPU",
-          ""
+          "TREBLEET 80Gbps EGPU Enclosure"
         ],
         [
           "Intel Mac with specific AMD GPU",
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For RAW Video Footage Caching Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "2 SSD slot rated for at least 40-60Gbps, so you can store and edit high-bitrate RAW footage directly without an external drive enclosure."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "2 SSD slot at up to 64Gbps for exactly this RAW footage caching use case."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You specifically want a dedicated EGPU enclosure with built-in high-wattage power supply for gaming or rendering, where the TREBLEET pick justifies its $359.99 price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "04, the lowest price in this comparison."
       }
     ]
@@ -176,7 +176,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Real Bandwidth Allocation",
     "description": "Compared stated Gbps figures for data versus dynamically allocated display bandwidth."
   },
   {
@@ -184,15 +184,15 @@ export const howWeEvaluated = [
     "description": "Compared docks offering integrated NVMe slots or GPU enclosures against pure connectivity hubs."
   },
   {
-    "title": "",
+    "title": "OS-Specific Limitations",
     "description": "Compared explicitly disclosed macOS and Windows compatibility exceptions."
   },
   {
-    "title": "",
+    "title": "Cooling Design",
     "description": "Compared fanless designs against active-cooled enclosures for GPU workloads."
   },
   {
-    "title": "",
+    "title": "Use Case Fit",
     "description": "Compared EGPU gaming, video creation, and Mac mini storage expansion positioning."
   }
 ];

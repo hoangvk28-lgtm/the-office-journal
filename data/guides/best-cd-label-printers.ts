@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Sensor-faq",
     "q": "Can I use any label stock with any label printer?",
     "a": "No, printers use either a gap sensor for die-cut labels or a black-mark sensor for continuous stock, using the wrong label type for your printer's sensor causes alignment problems, check compatibility before buying label stock separately."
   },
   {
-    "id": "",
+    "id": "Connect-faq",
     "q": "Should I get a Bluetooth or USB label printer?",
     "a": "Bluetooth is more convenient if you print from a phone or move around, but USB is generally more reliable for a printer that sits in one fixed spot, check reviews for connectivity complaints before relying on wireless for daily volume."
   },
   {
-    "id": "",
+    "id": "Battery-faq",
     "q": "Are battery-powered label printers slower than plug-in models?",
     "a": "Generally yes, a battery-powered unit gives you true portability for warehouse or on-site printing but typically runs slower and handles smaller batches per charge than a desktop model on constant power."
   },
   {
-    "id": "",
+    "id": "Width-faq",
     "q": "Will a label printer handle labels wider than shipping labels?",
     "a": "Only up to its stated maximum width, a printer rated for 4-inch shipping labels physically cannot print wider, check the max width spec against your actual intended label size, not just the shipping use case shown in marketing."
   },
   {
-    "id": "",
+    "id": "Thermal-faq",
     "q": "What's the difference between direct thermal and thermal transfer label printers?",
     "a": "Direct thermal burns the image into heat-sensitive paper with no ink, cheaper to run but labels fade within months, thermal transfer melts a ribbon onto standard stock for labels that last years but costs more per label due to the ribbon."
   },
   {
-    "id": "",
+    "id": "Cutter-faq",
     "q": "Is an automatic cutter worth paying extra for?",
     "a": "Only if you're printing at real volume, a cutter saves time on dozens of labels a day but adds a mechanical part that can jam or dull, a tear-bar design has nothing to fail but is slower at high volume."
   }
@@ -67,15 +67,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Xq-tRk12L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light printing",
           "Avery Printable Full-Face CD Labels"
         ],
         [
@@ -83,18 +83,18 @@ export const howToChoose: HowToChooseSection[] = [
           "16 Count Printable CD Labels for Inkjet & Laser Printers, Matte White CD Disc"
         ],
         [
-          "",
-          ""
+          "High-volume daily printing",
+          "Avery Printable CD Labels"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,12 +102,12 @@ export const howToChoose: HowToChooseSection[] = [
           "Avery Printable Full-Face CD Labels"
         ],
         [
-          "",
+          "Mid-range pick",
           "Avery® Printable CD Jewel Case Inserts"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Avery Printable CD Labels"
         ]
       ]
     }
@@ -120,22 +120,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Lower running cost, labels fade within months."
       },
       {
-        "label": "",
+        "label": "Thermal transfer",
         "text": "Costs more per label with ribbon, labels last years."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Connectivity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fixed desk spot",
           "16 Count Printable CD Labels for Inkjet & Laser Printers, Matte White CD Disc"
         ],
         [
@@ -146,27 +146,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Shipping Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic cutter and larger roll capacity rather than a compact desktop model stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "16 Count Printable CD Labels for Inkjet & Laser Printers, Matte White CD Disc is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Avery Printable CD Labels justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Avery Printable Full-Face CD Labels already covers the job at the lowest price here."
       }
     ]

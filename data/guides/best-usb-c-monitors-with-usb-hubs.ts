@@ -52,68 +52,68 @@ export const heroImage = "https://m.media-amazon.com/images/I/41LA4JXX5oL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Power Delivery Wattage",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 65W power delivery",
           "AV Access iDock P10 KVM Docking Station 2 Monitors 2 PC"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $40",
           "Anker Laptop Docking Station Dual Monitor"
         ],
         [
-          "",
+          "Up to $250",
           "Dell 27 Plus QHD USB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "4K Resolution vs 1080p/1440p",
     "cards": [
       {
-        "label": "",
+        "label": "4K resolution",
         "text": "Sharper detail, best on a larger panel or closer viewing distance where the extra pixels are actually visible. In this comparison: Anker Laptop Docking Station Dual Monitor."
       },
       {
-        "label": "",
+        "label": "1080p/1440p",
         "text": "Usually cheaper and less demanding on your laptop's GPU, often the more practical choice at typical desk distances. In this comparison: ASUS 24\" USB, AV Access iDock P10 KVM Docking Station 2 Monitors 2 PC, Dell 27 Plus QHD USB, AV Access Dual Monitor KVM Docking Station for Laptop & Desktop."
       }
     ],
     "note": "Default to 1080p/1440p unless your desk setup and viewing distance benefit from 4K's extra detail."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 27-inch panel",
           "Dell 27 Plus QHD USB"
         ],
         [
-          "",
-          ""
+          "Around 24-inch panel",
+          "ASUS 24\" USB"
         ]
       ]
     }
@@ -122,24 +122,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a MacBook or Mac Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed DisplayPort Alt Mode support and a power delivery wattage matched to your MacBook's charging brick wattage."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "AV Access iDock P10 KVM Docking Station 2 Monitors 2 PC discloses the highest power delivery at 65W."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want full single-cable charging, sharper resolution, or built-in hub ports, where Dell 27 Plus QHD USB's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You already have a separate charger and just need a display, where Anker Laptop Docking Station Dual Monitor covers the same job at a lower price."
       }
     ]

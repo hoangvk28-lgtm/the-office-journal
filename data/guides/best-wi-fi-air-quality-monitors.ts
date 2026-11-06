@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41DBTZ2PDdL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sensor Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your main concern",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Particulates (PM2.5/dust)",
           "AcuRite (17012M) Wi-Fi Indoor Air Quality Monitor for Particulate Matter"
         ],
         [
-          "",
+          "General everyday tracking",
           "Temtop WiFi Air Quality Monitor M100 2nd Gen"
         ],
         [
-          "",
+          "Multiple pollutants at once",
           "AprilAire ZAWTHCPV Smart Indoor 5-in-1 Wi-Fi Air Quality Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "AcuRite (17012M) Wi-Fi Indoor Air Quality Monitor for Particulate Matter"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Air Quality Monitor"
         ],
         [
-          "",
+          "Higher budget",
           "AprilAire ZAWTHCPV Smart Indoor 5-in-1 Wi-Fi Air Quality Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "WiFi vs Zigbee/Hub-Based",
     "cards": [
       {
         "label": "AcuRite (17012M) Wi-Fi Indoor Air Quality Monitor for Particulate Matter)",
@@ -121,20 +121,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have a compatible smart-home hub."
   },
   {
-    "subheading": "",
+    "subheading": "By Data Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Live readings only",
           "Temtop WiFi Air Quality Monitor M100 2nd Gen"
         ],
         [
-          "",
-          ""
+          "Long-term history and export",
+          "Air Quality Monitor"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Pollutant Concern Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated sensor for your specific concern (formaldehyde, CO2, or radon) rather than a general VOC or air-quality index alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Temtop WiFi Air Quality Monitor M100 2nd Gen is worth checking against its specific spec sheet before assuming any pick here covers your exact concern."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want longer-term sensor accuracy and multi-pollutant coverage, where AprilAire ZAWTHCPV Smart Indoor 5-in-1 Wi-Fi Air Quality Monitor justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want a trend indicator for everyday tracking, where AcuRite (17012M) Wi-Fi Indoor Air Quality Monitor for Particulate Matter already covers the job at the lowest price here."
       }
     ]

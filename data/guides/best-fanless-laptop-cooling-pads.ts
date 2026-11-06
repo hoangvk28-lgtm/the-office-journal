@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41-P9I-xIRL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "note": "Gogoonike Adjustable Laptop Stand for Desk is currently the only pick in this specific comparison. If your laptop falls outside that range, check our broader cooling pad roundup rather than assuming this specific pad fits."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around $14.24",
           "Gogoonike Adjustable Laptop Stand for Desk"
         ]
       ]
@@ -80,31 +80,31 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Gogoonike Adjustable Laptop Stand for Desk uses 1 fan. If you specifically want the opposite tradeoff (slimmer and quieter, or more fans and airflow), check our broader roundup."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "note": "With only one pick in this comparison, there's no second option to weigh height range against. Check the specs above for Gogoonike Adjustable Laptop Stand for Desk's exact number of height settings."
   },
   {
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Gogoonike Adjustable Laptop Stand for Desk is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "24: fanless, zero added noise or power draw. If that's what you're after, the tradeoffs in its cons list probably won't bother you either."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Here's the real tradeoff: No active airflow, cooling benefit is limited to elevation and ventilation clearance. If that matters to you, compare it against other pads in our broader roundup before committing."
       }
     ]
@@ -121,11 +121,11 @@ export const howWeEvaluated = [
     "description": "We are transparent that the vast majority of researched laptop cooling pads include at least one fan, even ones with minimal-sounding branding, and did not force ill-fitting products into this list to pad the count."
   },
   {
-    "title": "",
+    "title": "Real cooling mechanism assessed",
     "description": "For the one fanless product found, we compared its cooling claim honestly as elevation and passive ventilation, not equivalent to active fan-driven airflow."
   },
   {
-    "title": "",
+    "title": "Redirect to genuine alternatives",
     "description": "Where a fanless pick could not be verified, we pointed to our silent laptop cooling pads guide, which covers fan-equipped, low-noise options with documented figures where available."
   }
 ];

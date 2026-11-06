@@ -37,7 +37,7 @@ export const faq = [
   },
   {
     "q": "Which pick has the most proven track record?",
-    "a": ""
+    "a": "The Yuanshikj Small Steel Security Safe Box, with by far the largest review base at nearly 23,000 reviews."
   },
   {
     "q": "Is there an option that bolts down for anti-removal security?",
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Q5YDqAEdL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Protection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,30 +69,30 @@ export const howToChoose: HowToChooseSection[] = [
           "Voncabay Money Safe Box for Home with Digital Keypad"
         ],
         [
-          "",
+          "Genuine anti-removal, bolt-down support",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $24",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ],
         [
-          "",
+          "Up to $70",
           "3 Cub Small Fireproof Safe for Home"
         ]
       ]
@@ -102,26 +102,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Physical Key vs Electronic Access",
     "cards": [
       {
-        "label": "",
+        "label": "Physical key",
         "text": "No batteries to fail, but a lost key means a lockout with no backup. 3 Cub Small Fireproof Safe for Home, [UPGRADED] Small Safes for Home."
       },
       {
-        "label": "",
+        "label": "Electronic access",
         "text": "More convenient day to day, worth checking for a backup access method in case the battery dies. In this comparison: Bonsaii Safe Box with Electronic Keypad for Home Office, Yuanshikj Small Steel Security Safe Box with Keypad, Voncabay Money Safe Box for Home with Digital Keypad, Honeywell Safes & Door Locks, Bonsaii Small Safe Box with Electronic Keypad for Valuables, PATRON Small Safe Box for Money with Code and Keys."
       }
     ],
     "note": "Most buyers should default to electronic access with a confirmed backup method unless simplicity is the top priority."
   },
   {
-    "subheading": "",
+    "subheading": "By Fire Protection",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fire resistance claimed",
           "Voncabay Money Safe Box for Home with Digital Keypad"
         ],
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Storing Documents or Cash Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed interior dimension roomy enough for the actual items, plus a backup access method beyond just a keypad."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Yuanshikj Small Steel Security Safe Box with Keypad is worth checking against its listed interior dimensions before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "3 Cub Small Fireproof Safe for Home's higher price buys real security or fire-protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic theft deterrence for low-value items, where Yuanshikj Small Steel Security Safe Box with Keypad covers the same job at a lower price."
       }
     ]

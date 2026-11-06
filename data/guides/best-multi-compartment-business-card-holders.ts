@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/515DZxRlZuL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Carrying your own cards",
           "HSYMQ 1 Piece Desktop Clear Bussiness Card Holder"
         ],
         [
-          "",
+          "Displaying cards for visitors",
           "Dunzoom Business Card Holder for Desk"
         ],
         [
-          "",
+          "Client-facing handoffs",
           "Acacia Wood Business Card Holder 4 Tier Multiple Business Card Display Stands"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "HSYMQ 1 Piece Desktop Clear Bussiness Card Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "HIIMIEI Acrylic Business Card Holder Desk"
         ],
         [
-          "",
+          "Higher budget",
           "Acacia Wood Business Card Holder 4 Tier Multiple Business Card Display Stands"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Top vs Snap-Closed",
     "cards": [
       {
         "label": "HSYMQ 1 Piece Desktop Clear Bussiness Card Holder)",
         "text": "Faster one-hand access, less protection against spilling."
       },
       {
-        "label": "",
+        "label": "Snap/magnetic closed",
         "text": "Secures cards fully, takes an extra motion to open."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your card volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A small daily-carry stack",
           "Dunzoom Business Card Holder for Desk"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Client-Facing Handoffs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A material (leather or solid metal) that reinforces a professional impression at the handoff moment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Dunzoom Business Card Holder for Desk is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Acacia Wood Business Card Holder 4 Tier Multiple Business Card Display Stands justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where HSYMQ 1 Piece Desktop Clear Bussiness Card Holder already covers the job at the lowest price here."
       }
     ]

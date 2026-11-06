@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41idr1+lvwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -72,7 +72,7 @@ export const howToChoose: HowToChooseSection[] = [
           "MageGee 75% Mechanical Gaming Keyboard, Red Switch"
         ],
         [
-          "",
+          "Hot-swappable switch customization",
           "Redragon Mechanical Gaming Keyboard, Hot-Swappable Red Switch"
         ],
         [
@@ -87,33 +87,33 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $23",
+          "60% Wired ($22.99)"
         ],
         [
-          "",
-          ""
+          "Under $29",
+          "RisoPhy ($28.99)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "MageGee or Redragon (both $29.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Hot-Swappable vs Fixed Switches",
     "cards": [
       {
-        "label": "",
+        "label": "Hot-swappable (Redragon)",
         "text": "Lets you replace individual switches without soldering, useful if you want to try different switch feels later without buying a new board."
       },
       {
@@ -124,20 +124,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're new to mechanical keyboards and might want to try different switches later, the Redragon's hot-swap feature is worth having even at this price. If you already know your preferred switch feel, any of the fixed-switch picks work fine."
   },
   {
-    "subheading": "",
+    "subheading": "By Layout Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your space needs",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Maximum desk space, compact typing",
-          ""
+          "60% Wired (61 keys)"
         ],
         [
           "Balanced compact layout with arrows",
-          ""
+          "MageGee (87 keys, TKL)"
         ],
         [
           "Full number pad and function row",
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Mechanical Keyboard Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A listing that explicitly names a real switch type like 'red', 'blue', or 'brown' mechanical switches, rather than the ambiguous phrase 'mechanical feeling', which typically indicates a membrane keyboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "All four picks explicitly confirm genuine named mechanical switches, unlike many similarly priced boards on the market that use misleading 'mechanical feeling' language."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want hot-swappable switch customization to experiment with different feels over time, where the Redragon pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want the smallest possible footprint with genuine mechanical switches, where the 60% Wired pick covers that for about $7 less."
       }
     ]
@@ -176,7 +176,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine Switch Verification",
     "description": "Confirmed each pick uses named genuine mechanical switches rather than vague 'mechanical feeling' marketing language."
   },
   {
@@ -184,15 +184,15 @@ export const howWeEvaluated = [
     "description": "Compared full-size, TKL, and 60% layouts against desk space tradeoffs."
   },
   {
-    "title": "",
+    "title": "Anti-Ghosting and Rollover",
     "description": "Checked N-key rollover and anti-ghosting support across all four picks."
   },
   {
-    "title": "",
+    "title": "Hot-Swap Capability",
     "description": "Checked which picks allow switch replacement without soldering versus fixed switches."
   },
   {
-    "title": "",
+    "title": "Build Quality and Extras",
     "description": "Compared metal frames, drainage holes, and warranty length across the lineup."
   }
 ];

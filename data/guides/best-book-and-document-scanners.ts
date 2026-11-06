@@ -53,52 +53,52 @@ export const heroImage = "https://m.media-amazon.com/images/I/41AkGJtV+CL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By ADF Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "100-sheet ADF",
+          "ScanSnap iX2400 High"
         ],
         [
-          "",
-          ""
+          "50-sheet ADF",
+          "Epson Workforce ES"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $199",
           "CZUR Shine Ultra Book Scanner"
         ],
         [
-          "",
+          "Up to $650",
           "VIISAN S48 Duo Book and Document Scanner"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Scanning",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex scanning",
         "text": "Captures both sides of a page in one pass, worth it if you regularly handle double-sided documents. In this comparison: CZUR ET24 Pro Book Scanner, ScanSnap iX2400 High, Epson Workforce ES, ScanSnap iX1300 Wireless or USB Double."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if your documents are mostly single-sided. In this comparison: CZUR Shine Ultra Book Scanner, Canon RS40 Photo/Document Scanner, VIISAN Large Format A2/A3 Book and Document Scanner, VIISAN S48 Duo Book and Document Scanner."
       }
     ],
@@ -108,17 +108,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By OCR / Searchable PDF Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Searchable PDF with OCR",
           "CZUR ET24 Pro Book Scanner"
         ],
         [
-          "",
-          ""
+          "Plain scans are enough",
+          "ScanSnap iX2400 High"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tax or Financial Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated duty cycle matched to your real monthly volume, plus verified OCR accuracy on receipts and financial documents specifically."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "CZUR ET24 Pro Book Scanner discloses OCR and searchable PDF support."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You process a real daily volume of double-sided documents, where VIISAN S48 Duo Book and Document Scanner's higher duty cycle and speed give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only scan occasionally at low volume, where CZUR Shine Ultra Book Scanner covers the same job at a lower price."
       }
     ]

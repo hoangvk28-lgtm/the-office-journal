@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51ZbBVAvrZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "HAUOMS Corner Vanity Desk with Mirror Lights & Storage Bench"
         ],
         [
-          "",
+          "Standard home office",
           "White L-Shaped Corner Vanity Desk with LED Lighted Mirror & Storage Shelves"
         ],
         [
-          "",
+          "Larger dedicated office",
           "Yanosaku Corner Vanity Desk with Buil-in Speaker"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "HAUOMS Corner Vanity Desk with Mirror Lights & Storage Bench"
         ],
         [
-          "",
+          "Mid-range pick",
           "FIONESO Vanity Desk with LED Light Mirror & Power Outlet"
         ],
         [
-          "",
+          "Higher budget",
           "Yanosaku Corner Vanity Desk with Buil-in Speaker"
         ]
       ]
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor",
           "White L-Shaped Corner Vanity Desk with LED Lighted Mirror & Storage Shelves"
         ],
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "HAUOMS Corner Vanity Desk with Mirror Lights & Storage Bench is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in storage, better cable management, and sturdier build quality, where Yanosaku Corner Vanity Desk with Buil-in Speaker justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where HAUOMS Corner Vanity Desk with Mirror Lights & Storage Bench already covers the job at the lowest price here."
       }
     ]

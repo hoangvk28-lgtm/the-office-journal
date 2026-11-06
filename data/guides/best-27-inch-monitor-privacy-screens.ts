@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which 27 inch privacy screen has the most reviews?",
-    "a": ""
+    "a": "The Peslv [2-Pack] 27 Inch Privacy Screen, with 6,437 reviews at a 4.2 rating."
   },
   {
     "q": "Is there an option for curved 27 inch monitors?",
@@ -37,7 +37,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest 27 inch option?",
-    "a": ""
+    "a": "The Computer Privacy Screen Filter for 27 Inch at $29.99."
   },
   {
     "q": "Is there a genuine 3M option at this size?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "Peslv [2-Pack] 27 Inch Privacy Screen for Computer Monitor"
         ],
         [
-          "",
+          "Laptop screen",
           "Peslv [2-Pack] 27 Inch Privacy Screen for Computer Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $41",
           "Computer Privacy Screen Filter for 27 Inch 16:9 Aspect Ratio Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "Peslv [2-Pack] 27 Inch Privacy Screen for Computer Monitor"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: infoWall 2-Pack 27 Inch Computer Privacy Screen Filter, [2 Pack] 27 Inch Computer Monitor Privacy Screen."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: Peslv [2-Pack] 27 Inch Privacy Screen for Computer Monitor, Verponity 2 Pack 27 Inch Magnetic Privacy Screen for Computer Monitor 16:9, SightPro 27 Inch 16:9 Computer Privacy Screen Filter for Monitor."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Verponity 2 Pack 27 Inch Magnetic Privacy Screen for Computer Monitor 16:9"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Peslv [2-Pack] 27 Inch Privacy Screen for Computer Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Peslv [2-Pack] 27 Inch Privacy Screen for Computer Monitor fits this specifically: Largest review base of any 27 inch filter in our research."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Verponity 2 Pack 27 Inch Magnetic Privacy Screen for Computer Monitor 16:9 offers: Bundles genuine privacy with blue-light filtering. That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Computer Privacy Screen Filter for 27 Inch 16:9 Aspect Ratio Monitor already covers the essentials: Lowest price among all 27 inch options. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]
@@ -168,11 +168,11 @@ export const howWeEvaluated = [
     "description": "We noted which pick is explicitly rated for curved 27 inch monitors, since a standard flat filter generally won't fit a curved screen properly."
   },
   {
-    "title": "",
+    "title": "Included a genuine 3M option with the largest review base in our research",
     "description": "We confirmed a real 3M SKU at this size and noted it has more reviews than any other genuine 3M product we found across all sizes."
   },
   {
-    "title": "",
+    "title": "Weighed frameless-specific mounting separately",
     "description": "We flagged the tool-free hanging magnetic pick as specifically built for frameless monitors, a different mounting need than standard bezel-clip filters."
   }
 ];

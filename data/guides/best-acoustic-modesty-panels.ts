@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41CWUbRp1GL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Desk Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard office desk",
           "Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board"
         ],
         [
-          "",
+          "Standing/height-adjustable desk",
           "Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding"
         ],
         [
-          "",
+          "L-shaped desk",
           "VIVO Gray Clamp-on 59 x 46 in Desk Privacy Panel"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board"
         ],
         [
-          "",
+          "Mid-range pick",
           "OBEX Modesty Desk PET Privacy Screen Acoustic Sound Absorbing Panel"
         ],
         [
-          "",
+          "Higher budget",
           "VIVO Gray Clamp-on 59 x 46 in Desk Privacy Panel"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Laminate vs Perforated Metal",
     "cards": [
       {
         "label": "Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board)",
         "text": "Matches most standard desk finishes, adds real rigidity."
       },
       {
-        "label": "",
+        "label": "Perforated metal",
         "text": "Better airflow for cable heat, more industrial look."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Extra Function",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Privacy and rigidity only",
           "Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding"
         ],
         [
-          "",
+          "Built-in cable management",
           "OBEX Modesty Desk PET Privacy Screen Acoustic Sound Absorbing Panel"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Branded Standing Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A bracket kit confirmed compatible with your exact desk brand and model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Yaomiao 4 Pack Acoustic Desk Divider Soundproof Desk Privacy Panel Freestanding is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where VIVO Gray Clamp-on 59 x 46 in Desk Privacy Panel justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Poola Voidra 4 Pack Desk Privacy Panels Freestanding Cubicle Divider Board already covers the job at the lowest price here."
       }
     ]

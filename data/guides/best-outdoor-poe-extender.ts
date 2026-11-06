@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31BfkGDfQ1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $24",
+          "YuanLey Outdoor Gigabit PoE Extender ($23.98)"
         ],
         [
-          "",
-          ""
+          "Under $28",
+          "Tliffpaco Outdoor Gigabit PoE Extender ($27.99)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "LINOVISION Gigabit Outdoor PoE Extender ($39.99)"
         ],
         [
-          "",
-          ""
+          "Under $80",
+          "Cudy Outdoor Gigabit PoE+ Extender ($79.99)"
         ]
       ]
     }
@@ -118,22 +118,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "IP66 vs IP67 Waterproof Rating",
     "cards": [
       {
-        "label": "",
+        "label": "IP66 (YuanLey)",
         "text": "Protects against powerful water jets from any direction but is not certified for temporary submersion, adequate for most wall-mounted outdoor installations under an eave or overhang."
       },
       {
-        "label": "",
+        "label": "IP67 (LINOVISION, Cudy)",
         "text": "Adds certified protection against temporary submersion in up to 1 meter of water for a limited time, a meaningfully higher standard for installations in flood-prone or heavy-rain-exposed locations."
       }
     ],
     "note": "If your extender will be mounted under cover and only exposed to rain and spray, the YuanLey's IP66 rating is sufficient. If it could face standing water or heavy flooding risk, the IP67-rated LINOVISION or Cudy picks offer real additional protection."
   },
   {
-    "subheading": "",
+    "subheading": "By Power Output Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device's power need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Coastal or Storm-Exposed Installation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An IP67 rating combined with explicit surge protection, since coastal and storm-prone locations face both heavy water exposure and elevated electrical surge risk from frequent storms."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Cudy pick specifically combines IP67 waterproofing with built-in surge protection, making it the strongest fit for adverse coastal or storm-exposed conditions."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by those combined protections."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "98, the lowest price in this comparison."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
-    "description": ""
+    "title": "Exact IP Waterproof Rating",
+    "description": "Compared IP66 versus IP67 ratings and what each actually certifies against water exposure."
   },
   {
     "title": "Port Count and Power Output",
     "description": "Compared how many devices each extender can power and at what wattage per port."
   },
   {
-    "title": "",
+    "title": "Cascade Distance Support",
     "description": "Compared documented multi-unit cascade configurations and their total extended distance."
   },
   {
-    "title": "",
+    "title": "Warranty and Support Commitment",
     "description": "Compared warranty length and the specificity of ongoing technical support offered."
   },
   {
-    "title": "",
+    "title": "Electrical Surge Protection",
     "description": "Compared whether each listing explicitly discloses surge protection for outdoor electrical exposure."
   }
 ];

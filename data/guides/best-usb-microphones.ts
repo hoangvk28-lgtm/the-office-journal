@@ -63,35 +63,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Logitech Blue Yeti USB Microphone"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Logitech Blue Yeti USB Microphone"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $30",
           "FIFINE K669B Metal Condenser USB Microphone"
         ],
         [
-          "",
+          "Up to $90",
           "Logitech Blue Yeti USB Microphone"
         ]
       ]
@@ -112,15 +112,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to FIFINE K669B Metal Condenser USB Microphone unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Logitech Blue Yeti USB Microphone"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Logitech Blue Yeti USB Microphone is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Logitech Blue Yeti USB Microphone's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where FIFINE K669B Metal Condenser USB Microphone covers the same job at a lower price."
       }
     ]
@@ -156,23 +156,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Room-noise handling",
     "description": "Weighed condenser versus dynamic capsule design against how forgiving each mic is in an untreated room, since this is the single biggest factor in how a USB mic actually sounds day to day."
   },
   {
-    "title": "",
+    "title": "Mute button design",
     "description": "Distinguished hardware mute, which is instant, from software mute, which can lag half a second to a second and clip the first word after unmuting in a meeting."
   },
   {
-    "title": "",
+    "title": "Desk vibration and pickup",
     "description": "Checked whether each mic ships with or supports a boom arm, since a mic sitting flat on the desk picks up keyboard clatter and desk bumps that a boom arm decouples."
   },
   {
-    "title": "",
+    "title": "Upgrade path",
     "description": "Noted which mics offer both USB and XLR output, letting a buyer start simple and later move to a full audio interface without replacing the microphone itself."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed included accessories, boom arms, stands, RGB, mute buttons, against price, from the budget picks up through the full-size Blue Yeti."
   }
 ];

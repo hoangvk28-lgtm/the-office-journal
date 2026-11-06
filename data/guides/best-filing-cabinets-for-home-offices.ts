@@ -61,79 +61,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Nz-Myx-1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Drawer Extension Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "VASAGLE CUSTOS 2"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $53",
+          "VASAGLE CUSTOS 2"
         ],
         [
-          "",
+          "Up to $130",
           "DEVAISE 2 Drawer Metal File Cabinet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Locking vs Non-Locking",
     "cards": [
       {
-        "label": "",
+        "label": "Locking cabinet",
         "text": "Genuine security for sensitive documents, worth it if the cabinet sits in a shared or semi-public space. In this comparison: Letaya 3 Drawer Mobile File Cabinet with Lock, DEVAISE 2 Drawer Metal File Cabinet, Letaya 2 Drawer File Cabinet with Lock, BYNSOE 2 Drawer File Cabinet with Lock, SteeLoong 2 Drawer File Cabinet."
       },
       {
-        "label": "",
+        "label": "Non-locking",
         "text": "Simpler and usually cheaper, fine for a private home office. In this comparison: DEVAISE 3, VASAGLE CUSTOS 2, GYIIYUO 2 Drawer File Cabinet with 24 Inch Extended Desktop."
       }
     ],
     "note": "Default to locking unless the cabinet stays in a fully private, controlled-access space."
   },
   {
-    "subheading": "",
+    "subheading": "By Drawer Count",
     "note": "Check each pick's listed drawer count and interior dimensions against your actual filing volume before buying."
   },
   {
-    "subheading": "",
+    "subheading": "For Legal-Size Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed letter and legal-size hanging file compatibility, not just general drawer dimensions."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VASAGLE CUSTOS 2 is worth checking against its listed hanging-file compatibility before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real steel construction, anti-tip safety, and full-extension drawers, where DEVAISE 2 Drawer Metal File Cabinet's higher price buys real build-quality headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light, occasional storage for a small volume of documents, where VASAGLE CUSTOS 2 covers the same job at a lower price."
       }
     ]
@@ -150,7 +150,7 @@ export const howWeEvaluated = [
     "description": "Noted stated hanging file size support (letter, legal, A4) and whether drawers were described as full-extension or standard, since partial-extension drawers leave back files harder to reach."
   },
   {
-    "title": "",
+    "title": "Assembly requirement",
     "description": "Distinguished fully assembled cabinets from ones requiring buyer assembly, factoring setup time into the overall value assessment."
   },
   {

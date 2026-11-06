@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Tq9c64jPL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "SONGMICS Bed Laptop Desk, Foldable, Adjustable Height"
         ],
         [
-          "",
+          "Purpose-tuned ergonomic viewing angles",
           "AboveTEK Adjustable Laptop Lap Desk, 3 Ergonomic Angles"
         ],
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "HUANUO 8 Angles ($19.99)"
         ],
         [
-          "",
-          ""
+          "Under $26",
+          "AboveTEK Retractable Mouse Pad ($25.99)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "AboveTEK 3 Ergonomic Angles ($29.99)"
         ],
         [
-          "",
-          ""
+          "Under $34",
+          "SONGMICS Foldable ($33.99)"
         ]
       ]
     }
@@ -129,24 +129,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you like fine-tuning your exact preferred angle, the SONGMICS or HUANUO's wider range of positions offers more control. If you'd rather choose from a few pre-optimized angles, the AboveTEK 3-angle pick simplifies that decision."
   },
   {
-    "subheading": "",
+    "subheading": "By Surface Size Needs",
     "table": {
       "headers": [
         "Your device and material needs",
-        ""
+        "Recommended pick"
       ],
       "rows": [
         [
           "Laptop plus tablet or reading material together",
-          ""
+          "SONGMICS (15.7x22 in)"
         ],
         [
           "Standard laptop use with mouse pad",
-          ""
+          "Either AboveTEK pick"
         ],
         [
-          "",
-          ""
+          "Compact laptop-only use",
+          "HUANUO (14.8x11 in)"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Left-Handed Mouse Users Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A retractable mouse pad tray that extends on both the left and right sides rather than one fixed side only."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The AboveTEK Retractable Mouse Pad pick is specifically designed to extend both directions for either-handed use."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest weight capacity and largest surface with the widest adjustment range, where the SONGMICS pick leads this comparison on all three fronts."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want multiple tilt positions without extra features, where the HUANUO pick delivers 8 positions for under $20."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Tilt Adjustability Range",
     "description": "Compared the number of distinct tilt angles or the total degree range each pick supports."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated weight capacity where specified across the lineup."
   },
   {
-    "title": "",
+    "title": "Surface Size",
     "description": "Compared stated surface dimensions and their fit for different laptop and tablet sizes."
   },
   {
-    "title": "",
+    "title": "Heat Management",
     "description": "Compared heat shield features designed to protect both the device and the user's lap."
   },
   {
-    "title": "",
+    "title": "Fold-Flat Portability",
     "description": "Compared folded dimensions and weight for storage and travel convenience."
   }
 ];

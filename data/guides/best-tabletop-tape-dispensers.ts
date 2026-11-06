@@ -61,71 +61,71 @@ export const heroImage = "https://m.media-amazon.com/images/I/41xIcR+BuTL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Occasional light use",
+          "Scotch Desktop Tape Dispenser"
         ],
         [
           "Regular desk or office use",
           "Excell ET-447 Heavy Duty Steel Desk Tape Dispenser 4\" Wide 3\" Core"
         ],
         [
-          "",
+          "High-volume packing",
           "Scotch Magic Tape with Scotch Desktop Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Scotch Desktop Tape Dispenser"
         ],
         [
-          "",
+          "Mid-range pick",
           "Heavy Duty 2-Inch Desktop Tape Dispenser"
         ],
         [
-          "",
+          "Higher budget",
           "Scotch Magic Tape with Scotch Desktop Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
-        "label": "",
+        "label": "Desktop (e.g. Scotch Desktop Tape Dispenser)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Excell ET-447 Heavy Duty Steel Desk Tape Dispenser 4\" Wide 3\" Core"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "Heavy Duty 2-Inch Desktop Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Excell ET-447 Heavy Duty Steel Desk Tape Dispenser 4\" Wide 3\" Core is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Scotch Magic Tape with Scotch Desktop Dispenser justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Scotch Desktop Tape Dispenser already covers the job at the lowest price here."
       }
     ]

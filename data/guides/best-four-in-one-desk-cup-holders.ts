@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "KDD 4"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "KDD 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $17",
           "4 in 1 Desk Cup Holder Clamp on Under Desk Headphone Detachable Pen Holder"
         ],
         [
-          "",
+          "Up to $27",
           "4 in 1 Metal Clip On Cup Holder Attachment for Gaming Desk"
         ]
       ]
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Deep Cavity vs Flat Ring",
     "cards": [
       {
-        "label": "",
+        "label": "KDD 4",
         "text": "Cradles the cup on multiple sides, meaningfully more resistant to tipping from an incidental bump."
       },
       {
@@ -109,16 +109,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to a deep-cavity design unless desk space is tight."
   },
   {
-    "subheading": "",
+    "subheading": "By Feature Set",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Want a headphone hanger or hybrid design",
-          ""
+          "KDD 4"
         ],
         [
           "Just want a dedicated cup holder",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Oversized Tumbler Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed cavity diameter in inches, not just a vague \"large\" label, since oversized tumblers vary in exact width and a mismatched cavity won't grip securely."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "KDD 4 is worth checking against its listed diameter spec before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a metal clamp and deeper cavity, where 4 in 1 Metal Clip On Cup Holder Attachment for Gaming Desk's higher price buys real durability and tip resistance over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You use a standard-size mug and rarely bump your desk, where 4 in 1 Desk Cup Holder Clamp on Under Desk Headphone Detachable Pen Holder covers the same job at a lower price."
       }
     ]
@@ -165,11 +165,11 @@ export const howWeEvaluated = [
     "description": "We checked whether each claimed function is useful and well-executed, not a compromised afterthought to justify the combined framing."
   },
   {
-    "title": "",
+    "title": "Combo value vs. four separate purchases",
     "description": "We weighed whether the combined product offers real space-saving and cost value over buying four dedicated single-purpose accessories."
   },
   {
-    "title": "",
+    "title": "Compound-load structural stability",
     "description": "We considered stability when all four functions are loaded simultaneously, a full cup, hung headphones, and stored accessories all at once."
   }
 ];

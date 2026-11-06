@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41hMbbRKWkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -82,34 +82,34 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A single 5V device at the lowest single-unit price",
-          ""
+          "DSLRKIT DC 5V 2.4A Active PoE Splitter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $11",
+          "DSLRKIT DC 5V 2.4A ($10.50)"
         ],
         [
-          "",
-          ""
+          "Under $15",
+          "TRENDnet TPE-104GS ($14.99)"
         ],
         [
-          "",
-          ""
+          "Under $19",
+          "2Pack Gigabit PoE Splitter USB C ($18.99)"
         ],
         [
-          "",
-          ""
+          "Under $32",
+          "ANVISION 2-Pack Multi-Voltage ($31.58)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adjustable Voltage vs Fixed Voltage Value",
     "cards": [
       {
-        "label": "",
+        "label": "Adjustable voltage (TRENDnet, ANVISION)",
         "text": "Both let you switch between 5V, 9V, and 12V, useful if you're unsure of your exact device requirement or plan to use the same splitter for different devices over time."
       },
       {
@@ -129,11 +129,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're unsure of your device's exact voltage or want flexibility for future devices, the adjustable-voltage picks are worth the extra cost. If you've already confirmed your device's fixed voltage, the simpler fixed-voltage picks deliver the same practical result for less."
   },
   {
-    "subheading": "",
+    "subheading": "By Device Connector Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device's connector",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -146,7 +146,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Standard 5V DC (household IP cameras)",
-          ""
+          "DSLRKIT DC 5V 2.4A"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time PoE Splitter Buyer on a Budget Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A clear, honest compatibility disclosure stating exactly which voltage and PoE source the splitter requires, avoiding a mismatched purchase for your specific device."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The USB-C 2-Pack specifically includes an explicit compatibility guide clarifying its exact requirements and limitations, helping a first-time buyer avoid a mismatch."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by its 3-year protection and NDAA compliance."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "50, the lowest price in this comparison."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Voltage Flexibility",
     "description": "Compared fixed-voltage splitters against adjustable multi-voltage designs."
   },
   {
-    "title": "",
+    "title": "Real Price Per Unit",
     "description": "Compared total price against pack size to determine actual per-unit cost."
   },
   {
-    "title": "",
+    "title": "Warranty and Compliance",
     "description": "Compared stated warranty length and any institutional compliance certifications."
   },
   {
-    "title": "",
+    "title": "Connector Compatibility",
     "description": "Compared DC barrel versus USB-C connectors and included adapter accessories."
   },
   {
-    "title": "",
+    "title": "Documentation Transparency",
     "description": "Compared how clearly each listing discloses compatibility limitations."
   }
 ];

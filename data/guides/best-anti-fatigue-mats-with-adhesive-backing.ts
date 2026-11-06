@@ -63,31 +63,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Hours Standing Per Day",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your day",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional standing",
           "HappyTrends 2 PCS Kitchen Mat Cushioned Anti-Fatigue Floor Mat"
         ],
         [
-          "",
+          "Several hours daily",
           "AAwipes Sticky Mat Tacky Pads Adhesive 24\" x 36\" 5 Packs"
         ],
         [
-          "",
+          "Full-day standing desk use",
           "SeaDek 20mm Dual Density Boat Helm Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "HappyTrends 2 PCS Kitchen Mat Cushioned Anti-Fatigue Floor Mat"
         ],
         [
-          "",
+          "Mid-range pick",
           "CALPALMY 150 Sheets 24\" x 36\" Adhesive Mats"
         ],
         [
-          "",
+          "Higher budget",
           "SeaDek 20mm Dual Density Boat Helm Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Foam vs Polyurethane",
     "cards": [
       {
         "label": "HappyTrends 2 PCS Kitchen Mat Cushioned Anti-Fatigue Floor Mat)",
@@ -120,19 +120,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how many hours a day the mat will actually see, not just initial comfort."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hard flooring",
           "AAwipes Sticky Mat Tacky Pads Adhesive 24\" x 36\" 5 Packs"
         ],
         [
-          "",
+          "Carpet",
           "Check specifically for a mat rated for carpet use"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Barefoot or Sock Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A textured surface rather than smooth, which can feel slippery without shoes."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "AAwipes Sticky Mat Tacky Pads Adhesive 24\" x 36\" 5 Packs is worth checking against its specific surface texture before assuming any mat grips the same barefoot."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You stand for most of the workday and want long-term support, where SeaDek 20mm Dual Density Boat Helm Pad justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only stand occasionally and want basic cushioning, where HappyTrends 2 PCS Kitchen Mat Cushioned Anti-Fatigue Floor Mat already covers the job at the lowest price here."
       }
     ]

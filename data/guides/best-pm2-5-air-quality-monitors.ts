@@ -61,56 +61,56 @@ export const heroImage = "https://m.media-amazon.com/images/I/41iCZ2H+oVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sensor Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your main concern",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Particulates (PM2.5/dust)",
+          "LSENLTY 4 in 1 PM 2.5 and PM 10 Air Quality Monitor(Temp/Humidity/PM2.5/PM10)"
         ],
         [
-          "",
-          ""
+          "General everyday tracking",
+          "Temtop P600 PM2.5 Monitor"
         ],
         [
-          "",
+          "Multiple pollutants at once",
           "BRWISSEN Air Quality Monitor Indoor AQI Dust Meter Pollution Tester Particle"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "LSENLTY 4 in 1 PM 2.5 and PM 10 Air Quality Monitor(Temp/Humidity/PM2.5/PM10)"
         ],
         [
-          "",
+          "Mid-range pick",
           "Ring Sensors: Air Quality Monitor, Instant Notifications"
         ],
         [
-          "",
+          "Higher budget",
           "BRWISSEN Air Quality Monitor Indoor AQI Dust Meter Pollution Tester Particle"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "WiFi vs Zigbee/Hub-Based",
     "cards": [
       {
-        "label": "",
+        "label": "WiFi-only (e.g. LSENLTY 4 in 1 PM 2.5 and PM 10 Air Quality Monitor(Temp/Humidity/PM2.5/PM10))",
         "text": "Connects directly to your router and app, no extra hardware needed."
       },
       {
@@ -121,19 +121,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have a compatible smart-home hub."
   },
   {
-    "subheading": "",
+    "subheading": "By Data Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Live readings only",
+          "Temtop P600 PM2.5 Monitor"
         ],
         [
-          "",
+          "Long-term history and export",
           "Ring Sensors: Air Quality Monitor, Instant Notifications"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Pollutant Concern Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated sensor for your specific concern (formaldehyde, CO2, or radon) rather than a general VOC or air-quality index alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5 Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact concern."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want longer-term sensor accuracy and multi-pollutant coverage, where BRWISSEN Air Quality Monitor Indoor AQI Dust Meter Pollution Tester Particle justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5/PM10) already covers the job at the lowest price here."
       }
     ]

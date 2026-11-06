@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ufWf04EkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "ADHES Kraft Paper Tape with Dispenser 2 in x 55 yds"
         ],
         [
           "Regular desk or office use",
-          ""
+          "Water-Activated Tape Dispenser"
         ],
         [
-          "",
+          "High-volume packing",
           "Better Packages 555eS Electronic Paper Tape Dispenser (BET555E)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "ADHES Kraft Paper Tape with Dispenser 2 in x 55 yds"
         ],
         [
-          "",
+          "Mid-range pick",
           "Rose Romee 2 Rolls Surgical Medical Tape with Dispenser, 1 Inch x 10 Yard"
         ],
         [
-          "",
+          "Higher budget",
           "Better Packages 555eS Electronic Paper Tape Dispenser (BET555E)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "ADHES Kraft Paper Tape with Dispenser 2 in x 55 yds)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard clear or packing tape",
-          ""
+          "Water-Activated Tape Dispenser"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "Rose Romee 2 Rolls Surgical Medical Tape with Dispenser, 1 Inch x 10 Yard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Water-Activated Tape Dispenser is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Better Packages 555eS Electronic Paper Tape Dispenser (BET555E) justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where ADHES Kraft Paper Tape with Dispenser 2 in x 55 yds already covers the job at the lowest price here."
       }
     ]

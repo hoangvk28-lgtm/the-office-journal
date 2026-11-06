@@ -56,36 +56,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Jabra Speak 510 UC Wireless Bluetooth Speakerphone, Outstanding Sound Quality"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Jabra Speak 510 UC Wireless Bluetooth Speakerphone, Outstanding Sound Quality"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $61",
           "Yealink SP92 Conference Speaker and Microphone with AI Noise Cancellation"
         ],
         [
-          "",
-          ""
+          "Up to $150",
+          "Anker PowerConf Speakerphone"
         ]
       ]
     }
@@ -98,22 +98,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Anker PowerConf Speakerphone",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Yealink SP92 Conference Speaker and Microphone with AI Noise Cancellation unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Jabra Speak 510 UC Wireless Bluetooth Speakerphone, Outstanding Sound Quality"
         ]
       ]
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Jabra Speak 510 UC Wireless Bluetooth Speakerphone, Outstanding Sound Quality is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Anker PowerConf Speakerphone's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Yealink SP92 Conference Speaker and Microphone with AI Noise Cancellation covers the same job at a lower price."
       }
     ]
@@ -149,12 +149,12 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine Zoom certification vs. general USB/Bluetooth compatibility",
     "description": "Distinguished picks that have passed Zoom's own hardware testing program from those offering general plug-and-play compatibility, since these represent different levels of tested confidence."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Review base as evidence of real-world Zoom call reliability",
+    "description": "Weighed larger, more established review bases more heavily, since consistent performance across years of real Zoom meetings matters more than a spec-sheet claim."
   },
   {
     "title": "Mic count and pickup radius for real conference-table performance",

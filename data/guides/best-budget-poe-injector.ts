@@ -49,7 +49,7 @@ export const faq = [
   },
   {
     "q": "Do I need a higher wattage budget injector if my device's power draw is uncertain?",
-    "a": ""
+    "a": "If you're not sure of your exact device's power requirement, a slightly higher wattage ceiling like the TP-Link pick's 18W provides more headroom than the 15W picks without needing to step up to a pricier 802.3at injector."
   }
 ];
 
@@ -61,55 +61,55 @@ export const heroImage = "https://m.media-amazon.com/images/I/31qK6sMGZNL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "What matters most",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Recognized brand, higher power ceiling",
-          ""
+          "TP-Link TL-PI4818G 48V/18W"
         ],
         [
-          "",
+          "Documented UL/CE/FCC certification",
           "PoE Texas Single-Port Mode A 48V 15W"
         ],
         [
-          "",
+          "Integrated wall-mount design",
           "PoE Texas Single-Port Mode B 48V 15W"
         ],
         [
-          "",
+          "Absolute lowest price",
           "15V 1A Passive PoE Injector 2-Port"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $8",
+          "15V 1A Passive PoE Injector ($7.09)"
         ],
         [
-          "",
-          ""
+          "Under $13",
+          "TP-Link TL-PI4818G ($12.99)"
         ],
         [
-          "",
-          ""
+          "Under $14",
+          "PoE Texas Single-Port Mode A ($13.99)"
         ],
         [
-          "",
-          ""
+          "Under $17",
+          "PoE Texas Single-Port Mode B ($16.99)"
         ]
       ]
     }
@@ -122,18 +122,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Worth the modest price premium for most standard-definition to mid-resolution IP cameras and access points at this budget tier."
       },
       {
-        "label": "",
+        "label": "100Mbps (15V ultra-budget pick)",
         "text": "Acceptable only for a low-bandwidth device where the absolute lowest price outweighs the speed limitation."
       }
     ],
     "note": "Check your specific device's actual bandwidth need before choosing the ultra-budget 100Mbps option purely to save a few dollars."
   },
   {
-    "subheading": "",
+    "subheading": "By Certification Requirement",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you need confirmed",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -141,7 +141,7 @@ export const howToChoose: HowToChooseSection[] = [
           "PoE Texas Single-Port Mode A 48V 15W"
         ],
         [
-          "",
+          "No specific certification requirement",
           "TP-Link TL-PI4818G or the ultra-budget pick"
         ]
       ]
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Budget PoE Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated Gigabit port speed and at minimum a named brand or basic electrical protection list, since the very cheapest options can sacrifice both speed and certification to hit the lowest possible price."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The TP-Link pick balances a recognized brand name, Gigabit speed, and a competitive budget price, a reasonable default for a first-time buyer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want documented UL/CE/FCC certification or Mode B negotiation for a specific device, where the PoE Texas picks near $14-17 justify their price with those specific features."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "09 ultra-budget pick covers that specific need."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Port Speed",
     "description": "Compared Gigabit versus 100Mbps port speeds across similarly priced budget listings."
   },
   {
-    "title": "",
+    "title": "Certification Marks",
     "description": "Compared listings naming specific UL, CE, or FCC certification against those with no stated certification."
   },
   {
-    "title": "",
+    "title": "Power Ceiling",
     "description": "Compared stated wattage output relative to price across the budget tier."
   },
   {
-    "title": "",
+    "title": "Form Factor",
     "description": "Compared integrated wall-mount designs against separate power brick designs."
   },
   {
-    "title": "",
+    "title": "Real Total Value",
     "description": "Compared price against the combination of speed, certification, and power ceiling rather than price alone."
   }
 ];

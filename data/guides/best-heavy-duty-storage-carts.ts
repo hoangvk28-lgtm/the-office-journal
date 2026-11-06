@@ -64,31 +64,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Much You Need to Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, everyday items",
           "YASONIC 3 Tier Rolling Cart"
         ],
         [
-          "",
+          "Standard mixed storage",
           "MaxWorks Heavy Duty 2‐Shelf Service Cart 500 lb Capacity Polypropylene Utility"
         ],
         [
-          "",
+          "Heavier or bulkier items",
           "ELAFROS 3-Shelf Heavy Duty Rolling Utility Cart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "YASONIC 3 Tier Rolling Cart"
         ],
         [
-          "",
+          "Mid-range pick",
           "WDT 990Lbs Capacity Heavy Duty Rolling Utility Cart"
         ],
         [
-          "",
+          "Higher budget",
           "ELAFROS 3-Shelf Heavy Duty Rolling Utility Cart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Drawers vs Open Bins",
     "cards": [
       {
         "label": "MaxWorks Heavy Duty 2‐Shelf Service Cart 500 lb Capacity Polypropylene Utility)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how often you need to see contents versus how much you want the cart to blend in."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hardwood or tile",
           "Check for polyurethane or rubber casters specifically"
         ],
         [
-          "",
+          "Carpet or concrete",
           "MaxWorks Heavy Duty 2‐Shelf Service Cart 500 lb Capacity Polypropylene Utility"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Tight Spaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The actual width and depth measurement, not just a 'slim' or 'narrow' label, plus the extra inch the wheels add to the base footprint."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "YASONIC 3 Tier Rolling Cart is worth checking against its exact footprint before assuming it fits a tight gap like between a washer and dryer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier casters for daily heavy use, where ELAFROS 3-Shelf Heavy Duty Rolling Utility Cart justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing lighter, everyday items, where YASONIC 3 Tier Rolling Cart already covers the job at the lowest price here."
       }
     ]

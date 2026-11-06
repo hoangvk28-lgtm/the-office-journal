@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ZdZ-xPxiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,37 +87,37 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $37",
+          "Redragon K552 ($36.99)"
         ],
         [
-          "",
-          ""
+          "Under $44",
+          "Keychron C2 ($43.30)"
         ],
         [
-          "",
-          ""
+          "Under $45",
+          "HUO JI E-Yooso ($44.99)"
         ],
         [
-          "",
-          ""
+          "Under $50",
+          "Kisnt KN85 ($49.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Gasket-Mounted vs Standard Construction",
     "cards": [
       {
-        "label": "",
+        "label": "Gasket-mounted (Kisnt, HUO JI)",
         "text": "Uses layered foam and silicone dampening to produce a deeper, quieter 'thock' sound and softer keystroke feel, a genuine upgrade over standard cases."
       },
       {
@@ -128,24 +128,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If typing sound and feel matter to you, especially in a shared space, the gasket-mounted Kisnt or HUO JI picks are worth prioritizing. If sound isn't a concern, the Keychron C2 or Redragon picks deliver solid mechanical typing for less."
   },
   {
-    "subheading": "",
+    "subheading": "By Connectivity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your connectivity needs",
+        "Recommended pick"
       ],
       "rows": [
         [
           "True wireless with multi-device switching",
-          ""
+          "Kisnt KN85 (tri-mode)"
         ],
         [
-          "",
+          "Simple, reliable wired connection",
           "HUO JI E-Yooso or Redragon K552"
         ],
         [
           "Wired with strong Mac optimization",
-          ""
+          "Keychron C2"
         ]
       ]
     }
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Small Desk With Limited USB Ports Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "4GHz dongle, freeing up a physical USB port for other peripherals rather than a permanent wired connection."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Kisnt KN85's tri-mode connectivity specifically supports Bluetooth pairing, freeing up a USB port that a wired-only pick would otherwise occupy."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want genuine gasket-mount sound quality combined with true wireless flexibility, where the Kisnt KN85 delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want reliable wired mechanical typing with software remapping, where the Redragon K552 covers that for about $13 less."
       }
     ]
@@ -180,23 +180,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Sound Dampening Design",
     "description": "Checked for genuine gasket-mount construction with foam layers versus standard non-dampened cases."
   },
   {
-    "title": "",
+    "title": "Connectivity Options",
     "description": "Compared wired-only versus tri-mode wireless connectivity across the lineup."
   },
   {
-    "title": "",
+    "title": "Hot-Swap Support",
     "description": "Checked which picks allow tool-free switch replacement versus fixed switches."
   },
   {
-    "title": "",
+    "title": "Switch Durability Claims",
     "description": "Compared stated keystroke lifespan ratings where manufacturers specified them."
   },
   {
-    "title": "",
+    "title": "Cross-Platform Compatibility",
     "description": "Checked explicit Mac and Windows support including included alternate keycaps."
   }
 ];

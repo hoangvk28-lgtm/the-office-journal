@@ -57,41 +57,41 @@ export const heroImage = "https://m.media-amazon.com/images/I/41BoSK8sBwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "BALEINE 2PK File Organizer Box"
         ],
         [
-          "",
+          "Mid-range",
           "IRIS USA File Box Organizer with Lid"
         ],
         [
           "No firm budget ceiling, prioritizing security or durability",
-          ""
+          "Sterilite Portable File Box"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: BALEINE 2PK File Organizer Box, Pendaflex Portable File Box, Oterri File Organizer Box with Lid."
       }
     ],
@@ -101,8 +101,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -116,24 +116,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Sterilite Portable File Box offers: Strong per-unit value for multiple collections. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "BALEINE 2PK File Organizer Box already covers the essentials: Most affordable pick here. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -142,11 +142,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Concrete dimension quantification",
     "description": "We favored picks with disclosed specific dimensions rather than a vague 'small' relative descriptor."
   },
   {
-    "title": "",
+    "title": "Realistic reduced-capacity disclosure",
     "description": "We noted that a smaller box holds meaningfully fewer hanging folders than buyers might assume, and disclosed this honestly for each pick."
   },
   {
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
     "description": "We identified the realistic best-fit use case for this size tier as a modest personal document collection, not an active larger filing system."
   },
   {
-    "title": "",
+    "title": "Price-per-capacity value comparison",
     "description": "We compared value against a standard-size box, since a small box isn't automatically cheaper per document stored."
   }
 ];

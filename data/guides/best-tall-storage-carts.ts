@@ -64,31 +64,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Much You Need to Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, everyday items",
           "Pipishell 3 Tier Rolling Cart"
         ],
         [
-          "",
+          "Standard mixed storage",
           "Sywhitta 6-Tier Plastic Rolling Utility Cart with Wheels for Storage, Black"
         ],
         [
-          "",
+          "Heavier or bulkier items",
           "Qiaoxuan Slim Rolling Storage Cart with Wheels"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Pipishell 3 Tier Rolling Cart"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Sakugi 5-Tier Storage Shelves 33.1\" x12.6\" x73.5\" Black with Wheels"
         ],
         [
-          "",
+          "Higher budget",
           "Qiaoxuan Slim Rolling Storage Cart with Wheels"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Drawers vs Open Bins",
     "cards": [
       {
         "label": "Sywhitta 6-Tier Plastic Rolling Utility Cart with Wheels for Storage, Black)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how often you need to see contents versus how much you want the cart to blend in."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hardwood or tile",
           "Check for polyurethane or rubber casters specifically"
         ],
         [
-          "",
+          "Carpet or concrete",
           "Sywhitta 6-Tier Plastic Rolling Utility Cart with Wheels for Storage, Black"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Tight Spaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The actual width and depth measurement, not just a 'slim' or 'narrow' label, plus the extra inch the wheels add to the base footprint."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Pipishell 3 Tier Rolling Cart is worth checking against its exact footprint before assuming it fits a tight gap like between a washer and dryer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier casters for daily heavy use, where Qiaoxuan Slim Rolling Storage Cart with Wheels justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing lighter, everyday items, where Pipishell 3 Tier Rolling Cart already covers the job at the lowest price here."
       }
     ]

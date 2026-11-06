@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41eyOpLwdKL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,30 +74,30 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Placement flexibility, freestanding or wall-flush",
-          ""
+          "Tribesigns 5-Tier Ladder Bookshelf"
         ],
         [
-          "",
+          "Genuine glass-door dust-free display",
           "7\" Tall 5-Tier Bookcase with Glass Doors"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "$112-$116",
+          "HOMISSUE ($112.99) or Loomie Glass Doors ($115.99)"
         ],
         [
-          "",
-          ""
+          "$139-$150",
+          "Tribesigns Ladder ($139.99) or TVU ($149.99)"
         ]
       ]
     }
@@ -110,18 +110,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Maximum visibility and easy access to items, but no dust protection over time."
       },
       {
-        "label": "",
+        "label": "Glass-Door Display (Loomie)",
         "text": "Protects displayed items from dust while still showing them off, at the cost of needing to open a door for access."
       }
     ],
     "note": "If you're displaying collectibles or items sensitive to dust, the Loomie glass-door pick is worth its premium. For everyday book access, open shelving is more convenient."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your storage needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Cozy Reading Corner Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A bookshelf with a functional lower cabinet space that can double as seating, not just standard storage."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "7\" Tall Bookcase's deep lower cabinet is specifically designed to double as a reading nook with a cushion added."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest total weight capacity and an elegant decor-elevating design, where the TVU pick leads this comparison at 300 lbs total capacity."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A back-panel design with high stability engineering covers your needs, where the HOMISSUE pick delivers this at the lowest price in this comparison."
       }
     ]
@@ -165,11 +165,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Real Weight Capacity Claims",
     "description": "Compared stated per-shelf and total weight capacity figures, with the TVU pick's 300 lb total rating standing out as the highest in this comparison."
   },
   {
-    "title": "",
+    "title": "Glass Door Display Quality",
     "description": "Checked which pick offers genuine glass cabinet doors for dust-free display versus fully open shelving."
   },
   {
@@ -177,11 +177,11 @@ export const howWeEvaluated = [
     "description": "Compared ladder-style rear designs, back-panel construction, and steel frame reinforcement across the lineup."
   },
   {
-    "title": "",
+    "title": "Floor-Leveling Hardware",
     "description": "Noted specific adjustable foot pad details for accommodating uneven flooring on taller, heavier units."
   },
   {
-    "title": "",
+    "title": "Unique Functional Features",
     "description": "Identified distinctive features like the Loomie pick's dual-purpose reading nook cabinet."
   }
 ];

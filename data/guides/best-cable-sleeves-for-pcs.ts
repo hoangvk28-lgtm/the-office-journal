@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/51jnW29OITL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "6ft Braided Cable Sleeve Expandable Wire Sheathing(Black)"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "N NOROCME 192 PCS Cable Management Kit 4 Wire Organizer Sleeve"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "AGPTEK White Cable Management Sleeve"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,40 +95,40 @@ export const howToChoose: HowToChooseSection[] = [
           "6ft Braided Cable Sleeve Expandable Wire Sheathing(Black)"
         ],
         [
-          "",
+          "Mid-range pick",
           "Alex Tech 10ft - 1/2 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ],
         [
-          "",
+          "Higher budget",
           "AGPTEK White Cable Management Sleeve"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "6ft Braided Cable Sleeve Expandable Wire Sheathing(Black))",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "N NOROCME 192 PCS Cable Management Kit 4 Wire Organizer Sleeve"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "N NOROCME 192 PCS Cable Management Kit 4 Wire Organizer Sleeve is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where AGPTEK White Cable Management Sleeve justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6ft Braided Cable Sleeve Expandable Wire Sheathing(Black) already covers the job at the lowest price here."
       }
     ]

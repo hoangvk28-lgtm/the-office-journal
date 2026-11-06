@@ -61,20 +61,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/41fUouIn7dL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A light stack of paperbacks",
-          ""
+          "VFINE Bookends 3 Pairs"
         ],
         [
-          "",
-          ""
+          "A full mixed shelf",
+          "1InTheOffice Black Metal Bookends"
         ],
         [
           "A long shelf needing multiple pairs",
@@ -84,56 +84,56 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "VFINE Bookends 3 Pairs"
         ],
         [
-          "",
+          "Mid-range pick",
           "DRELIFAM Wood Handmade Book Ends to Hold Books Large Heavy Duty Bookends"
         ],
         [
-          "",
+          "Higher budget",
           "STEELMASTER by BankSupplies 10-Inch Heavy Duty Bookends"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
-        "label": "",
+        "label": "Decorative (e.g. VFINE Bookends 3 Pairs)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Glossy or glass surface",
+          "1InTheOffice Black Metal Bookends"
         ],
         [
-          "",
+          "Textured wood surface",
           "DRELIFAM Wood Handmade Book Ends to Hold Books Large Heavy Duty Bookends"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "1InTheOffice Black Metal Bookends is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where STEELMASTER by BankSupplies 10-Inch Heavy Duty Bookends justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where VFINE Bookends 3 Pairs already covers the job at the lowest price here."
       }
     ]

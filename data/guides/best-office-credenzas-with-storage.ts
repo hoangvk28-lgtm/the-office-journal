@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Get interior dimensions and shelf-adjustment range for every compartment, since center partitions and hardware can make interior bays meaningfully smaller than exterior width suggests."
   },
   {
-    "criterion": "",
+    "criterion": "Verify Documented Shelf Load",
     "explanation": "Check for a stated shelf weight rating before loading it with books, binders, or equipment, rather than assuming printer-grade strength without documentation."
   },
   {
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Get interior dimensions and shelf-adjustment range for every compartment, since center partitions and hardware can make interior bays meaningfully smaller than exterior width suggests."
   },
   {
-    "subheading": "",
+    "subheading": "Verify Documented Shelf Load",
     "note": "Check for a stated shelf weight rating before loading it with books, binders, or equipment, rather than assuming printer-grade strength without documentation."
   },
   {
@@ -80,7 +80,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Function Classified Before Comparison",
     "description": "Sorted each product into storage credenza, credenza desk, file credenza, or desk-system credenza before ranking, since 'office credenza' spans meaningfully different furniture types that don't compare fairly against each other."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Compared published interior drawer, shelf, and cabinet dimensions rather than exterior width or door count alone, since partitions and hardware can meaningfully shrink real usable space."
   },
   {
-    "title": "",
+    "title": "File Compatibility Verified Directly",
     "description": "Checked letter/legal compatibility, filing direction, and lock coverage against each product's own documentation rather than assuming a 'file drawer' label means full hanging-file support."
   },
   {

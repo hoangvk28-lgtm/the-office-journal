@@ -56,45 +56,45 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "16 Inch LCD Writing Tablet 2 Pack"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "16 Inch LCD Writing Tablet 2 Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $18",
           "16 Inch LCD Writing Tablet 2 Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Kids-Marketed vs Adult-Marketed",
     "cards": [
       {
-        "label": "",
+        "label": "Kids-Marketed",
         "text": "Bright colors and character branding, often the same core technology as adult versions at a similar or lower price. In this comparison: check each listing's marketing angle directly."
       },
       {
-        "label": "",
+        "label": "Adult-Marketed",
         "text": "Neutral styling suited to an office desk, sometimes at a price premium for the plainer look alone. In this comparison: Large 16 Inch Screen LCD Writing Tablet with 2 Pens."
       }
     ],
@@ -104,32 +104,32 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "With Memory Lock vs Basic Erase",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simplest single-button design",
           "16 Inch LCD Writing Tablet 2 Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Gift-Giving Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear age-range marketing if buying for a specific child, genuine screen size (not just overall unit size), and a replaceable coin-cell battery for the longest useful life."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "16 Inch LCD Writing Tablet 2 Pack fits this specifically: Two genuine 16 inch screens for one price."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "note": "Every pick in this specific comparison sits in a similar price range, so the decision here comes down to styling and included features rather than a budget-versus-premium tradeoff. Check the pros and cons above for what actually differs between them."
   }
 ];

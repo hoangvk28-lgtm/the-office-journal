@@ -17,7 +17,7 @@ export const buyingCriteria = [
     "explanation": "If you opt for a complete whiteboard with built-in storage instead, verify the drawer or tray capacity via listing images since it's rarely quantified in the title."
   },
   {
-    "criterion": "",
+    "criterion": "Revisit this category periodically",
     "explanation": "Standalone whiteboard organizer accessories may become available on Amazon after this research pass. Search again closer to your purchase date if this is a strict requirement."
   }
 ];
@@ -57,7 +57,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your real goal is somewhere to keep markers and small supplies at your desk, a complete whiteboard with a built-in drawer or tray achieves that without needing a separate accessory. See our dedicated guide to desktop whiteboards with storage for verified picks in that category."
   },
   {
-    "subheading": "",
+    "subheading": "When to Check Back",
     "note": "Product categories on Amazon shift over time. If you're specifically set on a standalone organizer accessory rather than a complete whiteboard, it's worth searching Amazon directly closer to your purchase date in case new listings have appeared since this research pass."
   }
 ];

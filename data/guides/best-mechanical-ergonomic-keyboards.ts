@@ -53,15 +53,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EsewSK2nL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Minimal adjustment period",
           "Cloud Nine C989M Ergonomic Mechanical Keyboard for PC"
         ],
         [
@@ -72,20 +72,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $60",
           "AULA F2088 Typewriter Style Mechanical Gaming Keyboard"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "RAGNOK Ergonomic Mechanical Keyboard"
         ],
         [
           "No firm budget ceiling, prioritizing switch quality or ergonomics",
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: check each listing's connection type directly."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest, X9 Performance Wireless Mechanical Ergonomic Keyboard, RAGNOK Ergonomic Mechanical Keyboard."
       }
     ]
@@ -111,12 +111,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest cost, quiet typing",
           "AULA F2088 Typewriter Style Mechanical Gaming Keyboard"
         ],
         [
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest fits this specifically: Largest verified review base in this guide."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Cloud Nine C989M Ergonomic Mechanical Keyboard for PC offers: Genuine mechanical tactile switches. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -156,7 +156,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine mechanical switches vs. scissor mechanisms",
     "description": "Distinguished true mechanical-switch keyboards from scissor-switch ergonomic boards marketed alongside them, since the feel and customization potential differ significantly."
   },
   {

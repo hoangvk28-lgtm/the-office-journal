@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Strobe-faq",
     "q": "Can I use backlight strobing and adaptive sync at the same time?",
     "a": "Usually not, strobing modes often can't run simultaneously with G-Sync or FreeSync, check whether a specific monitor supports both together before assuming it's not a tradeoff."
   },
   {
-    "id": "",
+    "id": "Port-gaming-faq",
     "q": "Should I use HDMI or DisplayPort for gaming?",
     "a": "DisplayPort has generally led HDMI in bandwidth for high refresh rate gaming at full resolution, though this depends on the specific versions your monitor and GPU support, verify both before assuming full advertised specs."
   },
   {
-    "id": "",
+    "id": "Curve-faq",
     "q": "What does the curve radius number mean on a curved gaming monitor?",
     "a": "A lower number means a tighter, more aggressive curve, suited to very wide ultrawide panels, a higher number is gentler and better suited to a standard-width panel."
   },
   {
-    "id": "",
+    "id": "Sync-faq",
     "q": "Does G-Sync work with an AMD graphics card?",
     "a": "Full G-Sync certification generally requires an NVIDIA GPU, FreeSync tends to work more broadly across both AMD and NVIDIA cards, check the monitor's specific certification against your actual GPU brand."
   },
   {
-    "id": "",
+    "id": "Console-faq",
     "q": "Do all gaming monitor features work with a console?",
     "a": "No, some high refresh rate or adaptive sync features require a PC connection and GPU-side support, verify the monitor's feature list against your specific console's actual output capability."
   },
   {
-    "id": "",
+    "id": "Size-density-faq",
     "q": "Is a bigger gaming monitor always sharper?",
     "a": "No, stretching the same resolution across a larger screen reduces pixel density, a 32-inch 1440p monitor looks visibly softer than a 27-inch 1440p monitor at the same viewing distance."
   }
@@ -66,11 +66,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41dB3dH36vL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By GPU Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your GPU output",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,7 +78,7 @@ export const howToChoose: HowToChooseSection[] = [
           "ASUS TUF VG279QM5A 27 Inch 1080p 240Hz Fast IPS G-SYNC Gaming Monitor"
         ],
         [
-          "",
+          "Solid mid-range frame rates",
           "Msi PRO MP243L E14 24-inch IPS 1920 x 1080 (FHD) Gaming Office Monitor"
         ],
         [
@@ -89,11 +89,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "ASUS TUF VG279QM5A 27 Inch 1080p 240Hz Fast IPS G-SYNC Gaming Monitor"
         ],
         [
-          "",
+          "Mid-range pick",
           "Acer Nitro 27in QHD 2560x1440 IPS 320Hz Gaming Monitor KG271U F3bmiipx"
         ],
         [
-          "",
+          "Higher budget",
           "Philips Evnia 27\" Gaming Monitor QHD 360Hz QD OLED True Black 400 27M2N8500"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "G-Sync vs FreeSync",
     "cards": [
       {
         "label": "ASUS TUF VG279QM5A 27 Inch 1080p 240Hz Fast IPS G-SYNC Gaming Monitor)",
         "text": "Built and validated specifically for NVIDIA GPUs."
       },
       {
-        "label": "",
+        "label": "FreeSync",
         "text": "Works more broadly across AMD and NVIDIA cards in most cases."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Curvature",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard flat panel",
           "Msi PRO MP243L E14 24-inch IPS 1920 x 1080 (FHD) Gaming Office Monitor"
         ],
         [
-          "",
+          "Curved for wider immersion",
           "Acer Nitro 27in QHD 2560x1440 IPS 320Hz Gaming Monitor KG271U F3bmiipx"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Competitive Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Independent input lag testing, not just the headline refresh rate number, since the two specs don't always move together."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Msi PRO MP243L E14 24-inch IPS 1920 x 1080 (FHD) Gaming Office Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Philips Evnia 27\" Gaming Monitor QHD 360Hz QD OLED True Black 400 27M2N8500 justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where ASUS TUF VG279QM5A 27 Inch 1080p 240Hz Fast IPS G-SYNC Gaming Monitor already covers the job at the lowest price here."
       }
     ]

@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/21WFFX3i5JL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light decorative items",
           "AHDECOR Modern Storage Floating Shelves"
         ],
         [
-          "",
+          "Books, standard decor",
           "HIGH & MIGHTY Modern 24\" Floating Shelf Holds up to 20 lbs"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "5 inch Floating Shelves Set of 2 with Hidden Brackets"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "AHDECOR Modern Storage Floating Shelves"
         ],
         [
-          "",
+          "Mid-range pick",
           "SAUMONIERES Floating Wall Shelves for Bedroom Bathroom Wall Mounted Solid Wood"
         ],
         [
-          "",
+          "Higher budget",
           "5 inch Floating Shelves Set of 2 with Hidden Brackets"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "5 inch Floating Shelves Set of 2 with Hidden Brackets)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Studs available where needed",
           "HIGH & MIGHTY Modern 24\" Floating Shelf Holds up to 20 lbs"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5 inch Floating Shelves Set of 2 with Hidden Brackets is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5 inch Floating Shelves Set of 2 with Hidden Brackets justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're displaying light decorative items only, where AHDECOR Modern Storage Floating Shelves already covers the job at the lowest price here."
       }
     ]

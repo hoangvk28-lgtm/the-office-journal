@@ -48,7 +48,7 @@ export const faq = [
     "a": "It's a genuine when-not-if occurrence with regular use, what matters more is how easily you can clear a jam, check reviews specifically since this detail rarely appears in the listing itself."
   },
   {
-    "q": "",
+    "q": "Are electric staplers loud?",
     "a": "They produce a distinct motor click or whir each time they fire, check reviews specifically for noise complaints if you'll use it near coworkers in a quiet shared office."
   }
 ];
@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/41wr6NWHKAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Stack Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light, a few sheets",
+          "Bostitch Office Stapler"
         ],
         [
-          "",
+          "A regular office stack",
           "Marsrock Heavy Duty Stapler for Desk with 40-50 Sheet"
         ],
         [
-          "",
+          "Consistently thick stacks",
           "ZENITH 590 Fun Stapler Colour Transparent Blue"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Bostitch Office Stapler"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Leven Effortless Desktop Stapler"
         ],
         [
-          "",
+          "Higher budget",
           "ZENITH 590 Fun Stapler Colour Transparent Blue"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Manual vs Electric",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (e.g. Bostitch Office Stapler)",
         "text": "No power dependency, reliable for any volume."
       },
       {
-        "label": "",
+        "label": "Electric",
         "text": "Reduces hand strain at high volume, depends on charge or power."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Staple Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 26/6 staples",
           "Marsrock Heavy Duty Stapler for Desk with 40-50 Sheet"
         ],
         [
-          "",
-          ""
+          "A specific alternate size",
+          "Leven Effortless Desktop Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Center-of-Document Stapling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A deep throat depth spec, not just a standard corner-reach stapler."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Marsrock Heavy Duty Stapler for Desk with 40-50 Sheet is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where ZENITH 590 Fun Stapler Colour Transparent Blue justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Bostitch Office Stapler already covers the job at the lowest price here."
       }
     ]

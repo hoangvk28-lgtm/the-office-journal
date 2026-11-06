@@ -29,11 +29,11 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which 24 inch privacy screen has the most reviews?",
-    "a": ""
+    "a": "The Peslv [2-Pack] 24 Inch Privacy Screen, with 6,437 reviews at a 4.2 rating."
   },
   {
     "q": "What's the cheapest 24 inch option?",
-    "a": ""
+    "a": "The Computer Privacy Screen Filter for 24 Inch at $26.98."
   },
   {
     "q": "Is there a genuine 3M option at this size?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "Peslv [2-Pack] 24 Inch Privacy Screen for Computer Monitor"
         ],
         [
-          "",
+          "Laptop screen",
           "Peslv [2-Pack] 24 Inch Privacy Screen for Computer Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $36",
           "Computer Privacy Screen Filter for 24 Inch 16:9 Aspect Ratio Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "Peslv [2-Pack] 24 Inch Privacy Screen for Computer Monitor"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: 2 Pack 24 Inch Magnetic Computer Privacy Screen for Monitor, 3M Privacy Filters for 24 Inch Widescreen Monitor."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: Peslv [2-Pack] 24 Inch Privacy Screen for Computer Monitor, SightPro 24 Inch 16:9 Computer Privacy Screen Filter for Monitor, 3M Privacy Filter for 24in Full Screen Monitor with 3M Comply Magnetic Attach."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "2 Pack 24 Inch Magnetic Computer Privacy Screen for Monitor"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Peslv [2-Pack] 24 Inch Privacy Screen for Computer Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Peslv [2-Pack] 24 Inch Privacy Screen for Computer Monitor fits this specifically: Largest review base of any 24 inch filter in our research."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what 3M Privacy Filter for 24in Full Screen Monitor with 3M Comply Magnetic Attach offers: Lowest price among all 24 inch options. That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Computer Privacy Screen Filter for 24 Inch 16:9 Aspect Ratio Monitor already covers the essentials: Lowest price among all 24 inch options. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]
@@ -169,11 +169,11 @@ export const howWeEvaluated = [
   },
   {
     "title": "Included a genuine 3M option alongside generic alternatives",
-    "description": ""
+    "description": "We confirmed real 3M SKUs at this size and compared their premium price directly against non-3M options with far larger review bases."
   },
   {
     "title": "Weighed review volume against rating consistently",
-    "description": ""
+    "description": "We compared both the size of the review base and the star rating together, since a high rating on very few reviews carries different weight than thousands."
   }
 ];
 

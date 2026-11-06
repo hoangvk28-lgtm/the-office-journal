@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31n7LXyep2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mouse Weight",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your mouse",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard wired mouse",
           "Pulsar Gaming Gears Micro Bungee ES"
         ],
         [
-          "",
+          "Ultra-light 8K mouse",
           "HOTLINEGAMES Mouse Bungee Mouse Cord Clip Cord Management System Fixer Holder"
         ],
         [
-          "",
-          ""
+          "Heavier gaming mouse",
+          "SteelSeries Mouse Bungee"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,44 +95,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Pulsar Gaming Gears Micro Bungee ES"
         ],
         [
-          "",
+          "Mid-range pick",
           "30 Pack Small Bungee Cords with Hooks"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "SteelSeries Mouse Bungee"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Slot vs Closed-Loop Channel",
     "cards": [
       {
         "label": "Pulsar Gaming Gears Micro Bungee ES)",
         "text": "Faster to use, drop the cable in without unplugging."
       },
       {
-        "label": "",
+        "label": "Closed-loop",
         "text": "Holds the cable more securely once threaded through."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Extra Function",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just cable management",
           "HOTLINEGAMES Mouse Bungee Mouse Cord Clip Cord Management System Fixer Holder"
         ],
         [
-          "",
+          "Built-in USB hub passthrough",
           "30 Pack Small Bungee Cords with Hooks"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Aggressive Flick Shots Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A base weight of 200g or more, or a rubberized non-slip base."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "HOTLINEGAMES Mouse Bungee Mouse Cord Clip Cord Management System Fixer Holder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where SteelSeries Mouse Bungee justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Pulsar Gaming Gears Micro Bungee ES already covers the job at the lowest price here."
       }
     ]

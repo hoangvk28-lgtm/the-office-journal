@@ -64,31 +64,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Much You Need to Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, everyday items",
           "Utility Cart Cover Accessories Storage Pockets & Zipper"
         ],
         [
-          "",
+          "Standard mixed storage",
           "COSHNIBI Utility Cart Cover, Dustproof Cover for Rolling Cart with Storage"
         ],
         [
-          "",
+          "Heavier or bulkier items",
           "Dalema Waterproof Shelf Cover, Outdoor 600D Heavy Duty Dustproof Storage Shelves"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Utility Cart Cover Accessories Storage Pockets & Zipper"
         ],
         [
-          "",
+          "Mid-range pick",
           "YFXCVSL 4 Tier Plastic Storage Bins with Lid 32QT"
         ],
         [
-          "",
+          "Higher budget",
           "Dalema Waterproof Shelf Cover, Outdoor 600D Heavy Duty Dustproof Storage Shelves"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Drawers vs Open Bins",
     "cards": [
       {
         "label": "COSHNIBI Utility Cart Cover, Dustproof Cover for Rolling Cart with Storage)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how often you need to see contents versus how much you want the cart to blend in."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hardwood or tile",
           "Check for polyurethane or rubber casters specifically"
         ],
         [
-          "",
+          "Carpet or concrete",
           "COSHNIBI Utility Cart Cover, Dustproof Cover for Rolling Cart with Storage"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Tight Spaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The actual width and depth measurement, not just a 'slim' or 'narrow' label, plus the extra inch the wheels add to the base footprint."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Utility Cart Cover Accessories Storage Pockets & Zipper is worth checking against its exact footprint before assuming it fits a tight gap like between a washer and dryer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier casters for daily heavy use, where Dalema Waterproof Shelf Cover, Outdoor 600D Heavy Duty Dustproof Storage Shelves justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing lighter, everyday items, where Utility Cart Cover Accessories Storage Pockets & Zipper already covers the job at the lowest price here."
       }
     ]

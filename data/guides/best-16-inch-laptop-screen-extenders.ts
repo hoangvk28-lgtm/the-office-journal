@@ -55,36 +55,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "1\" Portable Monitor for Laptop"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "16\" Portable Monitor for Laptop with Speakers and Stand"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $80",
+          "Redalf 16\" Portable Monitor"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "Orfibz 16\" Portable Monitor"
         ],
         [
           "No firm budget ceiling, prioritizing build or features",
@@ -94,29 +94,29 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clip-On/Magnetic Attachment vs Stand-Based",
     "cards": [
       {
-        "label": "",
+        "label": "Clip-On or Magnetic",
         "text": "Attaches directly to the laptop lid for a compact, travel-friendly setup that moves with the laptop. 1\" Portable Monitor for Laptop."
       },
       {
-        "label": "",
+        "label": "Stand-Based",
         "text": "Sits independently on the desk, keeping stress off the laptop's own lid hinge but adding desk footprint. In this comparison: 16\" Portable Monitor for Laptop with Speakers and Stand."
       }
     ],
     "note": "1\" Portable Monitor for Laptop if you travel with your laptop often, and consider a stand-based design if this is a permanent desk setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Connection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simplest single-cable setup",
           "1\" Portable Monitor for Laptop"
         ]
       ]
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Video Calls and Presentations Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A swivel or adjustable-angle mechanism specifically, so you can reposition the extended screen toward a camera or a colleague without moving the whole laptop."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Ozirex 16\" Portable Monitor for Laptop fits this specifically: Very high rating, though from a small sample."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "1\" Portable Monitor for Laptop offers: Highest average rating of any pick in this guide. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Redalf 16\" Portable Monitor already covers the essentials: High rating for this ultra-slim design. The main thing you'd be paying extra for elsewhere in this list is build quality or features you may not need."
       }
     ]
@@ -164,7 +164,7 @@ export const howWeEvaluated = [
     "description": "Weighed integrated stand, speaker, and multi-port connectivity features specifically relevant to this larger panel size category."
   },
   {
-    "title": "",
+    "title": "Small review base ratings weighed with appropriate caution",
     "description": "Weighed several very high ratings from small review samples with appropriate caution against the more established, larger-review-base top pick."
   }
 ];

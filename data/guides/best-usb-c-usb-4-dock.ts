@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/310OoVrsP4L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $62",
+          "Lenovo USB-C Dual Display Travel Dock ($61.99)"
         ],
         [
-          "",
-          ""
+          "Under $103",
+          "HP USB-C/A Universal Dock G2 ($102.19)"
         ],
         [
-          "",
-          ""
+          "Under $120",
+          "Anker Nano Laptop Docking Station ($119.99)"
         ],
         [
-          "",
-          ""
+          "Under $126",
+          "Lenovo ThinkPad Universal USB-C Dock ($125.80)"
         ]
       ]
     }
@@ -128,11 +128,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're outfitting a single home office desk, any of the non-enterprise picks work well. If you're an IT administrator deploying docks across many employee desks, the ThinkPad Universal Dock's management features are worth the focus."
   },
   {
-    "subheading": "",
+    "subheading": "By Laptop Fleet Composition",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your laptop mix",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Remote and Hybrid Workers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock with an always-on USB port for continuous device charging and genuine universal USB-C compatibility, so the same dock works reliably whether you're in the office or working from home."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Lenovo USB-C Dual Display Travel Dock specifically includes an always-on USB port and engineered universal compatibility for exactly this remote/hybrid use case."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You specifically need enterprise IT fleet management features like automatic firmware updates and remote device monitoring, where the Lenovo ThinkPad Universal Dock justifies its $125.80 price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Cross-Brand Compatibility",
     "description": "Compared explicitly confirmed compatibility across Dell, Lenovo, HP, and other laptop brands."
   },
   {
-    "title": "",
+    "title": "IT Management Features",
     "description": "Compared enterprise deployment tools like PXE boot, Wake-on-LAN, and remote firmware updates."
   },
   {
-    "title": "",
+    "title": "Display Support",
     "description": "Compared single, dual, and triple display configurations across all four picks."
   },
   {
-    "title": "",
+    "title": "Form Factor Flexibility",
     "description": "Compared detachable, compact, and travel-oriented designs."
   },
   {
-    "title": "",
+    "title": "Sustainability Disclosure",
     "description": "Compared recycled content figures and other disclosed sustainability details."
   }
 ];

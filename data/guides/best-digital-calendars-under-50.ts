@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51cLdxxp5PL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $56",
+          "Smart Electronic Wall Organizer ($55.39)"
         ],
         [
-          "",
-          ""
+          "Under $60",
+          "Smart WiFi Electronic Calendar ($59.84) or Wall Plan Touch Screen ($59.98)"
         ],
         [
-          "",
-          ""
+          "Under $68",
+          "Electronic Family Calendar Planner ($67.99)"
         ]
       ]
     }
@@ -125,15 +125,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you just want everything unlocked at the lowest price with standard Google, iCloud, and Outlook sync, the Smart Electronic Wall Organizer delivers that. If your family specifically relies on Cozi or Yahoo calendars, the broader-sync pick is worth the extra cost."
   },
   {
-    "subheading": "",
+    "subheading": "By Household Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your household size",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard family size",
           "Any of the four picks"
         ],
         [
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Family That Uses Cozi for Meal and Chore Planning Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit Cozi calendar sync support in the listing, since not every digital calendar in this tier supports that specific platform alongside the more common Google, iCloud, and Outlook trio."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Electronic Family Calendar Planner pick specifically syncs with Cozi and Yahoo in addition to the standard platforms, directly addressing households already using Cozi."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You specifically use Cozi or Yahoo calendars and want the broadest platform sync, where the Electronic Family Calendar Planner delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want every feature unlocked with standard calendar sync, where the Smart Electronic Wall Organizer covers that for about $13 less."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Calendar Sync Platform Coverage",
     "description": "Compared which third-party calendar platforms each pick supports for syncing."
   },
   {
-    "title": "",
+    "title": "Chore Tracking Design",
     "description": "Compared reward systems and interactive chore chart features across the lineup."
   },
   {
-    "title": "",
+    "title": "Subscription Terms",
     "description": "Checked whether listings explicitly stated all features unlocked without hidden fees."
   },
   {
-    "title": "",
+    "title": "Setup Speed and Ease",
     "description": "Compared stated setup time and connectivity process across all four picks."
   },
   {
-    "title": "",
+    "title": "Photo Frame Functionality",
     "description": "Compared photo slideshow features and storage capabilities across the tier."
   }
 ];

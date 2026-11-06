@@ -33,11 +33,11 @@ export const faq = [
   },
   {
     "q": "Which has the most reviews?",
-    "a": ""
+    "a": "The HumanCentric Thin Client Mount Bracket, with 702 reviews at 4.4 stars."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The VIVO Multifunctional Adjustable Thin Client Mini PC Mount Bracket at $14.99."
   },
   {
     "q": "Can I mount my mini PC as a freestanding desk unit rather than attached to something?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41nWvL8pqlL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Surface",
     "table": {
       "headers": [
-        "",
+        "Where it's going",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,24 +76,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $15",
           "VIVO Multifunctional Adjustable Thin Client Mini PC Mount Bracket"
         ],
         [
-          "",
+          "Mid-range",
           "Yimaut Adjustable Mini PC Vesa Mount Bracket Behind Monitor"
         ],
         [
           "No firm budget ceiling, prioritizing brand-specific fit",
-          ""
+          "StarTech Thin Client Mount"
         ]
       ]
     }
@@ -102,42 +102,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Fit vs Universal Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-Specific Fit",
         "text": "Matches one specific chassis shape exactly, generally a more secure fit for that exact model. In this comparison: StarTech Thin Client Mount."
       },
       {
-        "label": "",
+        "label": "Universal / Multi-Brand",
         "text": "Works across several mini PC brands with adjustable hardware, more flexible if you might switch devices later. In this comparison: StarTech Thin Client Mount."
       }
     ],
     "note": "Confirm your exact mini PC model against the listing's stated compatibility either way, since even a \"universal\" mount has real size limits."
   },
   {
-    "subheading": "",
+    "subheading": "By Post-Install Port Access",
     "note": "None of these picks specifically advertise preserved front-port access after mounting; check each listing's product photos for where the ports land once installed if that matters to you."
   },
   {
     "subheading": "For a Home Lab Rack Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of 10-inch (home-lab) versus 19-inch (commercial) rack compatibility, since these are different standards, plus whether it's full or half rack-unit width."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm fits this specifically: Widest device depth range in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what StarTech Thin Client Mount offers: From a well-established computer-hardware brand. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "VIVO Multifunctional Adjustable Thin Client Mini PC Mount Bracket already covers the essentials: Cheapest option in this comparison. The main thing you'd be paying extra for elsewhere in this list is broader compatibility you may not need."
       }
     ]
@@ -150,15 +150,15 @@ export const howWeEvaluated = [
     "description": "Our original candidate ASINs were no longer accessible, so we researched and confirmed real, currently listed products before ranking anything."
   },
   {
-    "title": "",
+    "title": "Device depth/width compatibility range",
     "description": "We compared each mount's stated compatible device dimensions, since mini PCs vary meaningfully in thickness across brands."
   },
   {
-    "title": "",
+    "title": "VESA pattern support confirmed",
     "description": "We verified 75x75mm and/or 100x100mm VESA compatibility for each pick, the standard that makes cross-brand mounting possible."
   },
   {
-    "title": "",
+    "title": "Mounting location flexibility",
     "description": "We noted whether each bracket supports under-desk, behind-monitor, wall, pole, or freestanding placement."
   }
 ];

@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "Is there a slimmer Wedge lock for ultra-thin laptops?",
-    "a": ""
+    "a": "Yes, the StarTech Slim Lock uses a smaller 0.62-inch head diameter, though it carries the lowest rating and thinnest review base in this comparison."
   },
   {
     "q": "Do these locks fully prevent laptop theft?",
@@ -60,63 +60,63 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Kensington N17 Dell Laptop Lock"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Kensington N17 Dell Laptop Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $24",
+          "StarTech Slim Lock"
         ],
         [
-          "",
+          "Mid-range",
           "Noble Locks TZ04T Compact Wedge Lock with Barrel Key for Dell Latitude"
         ],
         [
           "No firm budget ceiling, prioritizing documented compatibility",
-          ""
+          "StarTech Laptop Cable Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: check each listing's mechanism directly."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: Noble Locks TZ04T Compact Wedge Lock with Barrel Key for Dell Latitude, Kensington N17 Dell Laptop Lock, StarTech Laptop Cable Lock."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Noble Locks TZ04T Compact Wedge Lock with Barrel Key for Dell Latitude"
         ],
         [
-          "",
-          ""
+          "Widest general slot-type compatibility",
+          "StarTech Slim Lock"
         ]
       ]
     }
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Noble Locks TZ04T Compact Wedge Lock with Barrel Key for Dell Latitude fits this specifically: Sold directly by Noble Locks, the brand that designed the Wedge slot."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what StarTech Laptop Cable Lock offers: Third-brand alternative to Noble's own lock and Kensington's Wedge line. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "StarTech Slim Lock already covers the essentials: Lowest price among the dedicated Wedge locks in this comparison. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

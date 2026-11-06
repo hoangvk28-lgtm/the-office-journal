@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Require Controller-Triggered Changes",
     "explanation": "Confirm desktop cnc machines with tool changer changes tools automatically via controller or G-code command, not a manual quick-swap system marketed as automatic."
   },
   {
@@ -17,7 +17,7 @@ export const buyingCriteria = [
     "explanation": "Check the collet or toolholder ecosystem and recurring cost, since automatic tool changers often require matched holders."
   },
   {
-    "criterion": "",
+    "criterion": "Confirm Tool-Length Probing",
     "explanation": "Verify the machine documents an automatic tool-length probing and offset workflow, not manual measurement between changes."
   },
   {
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41O57KT7Z8L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Require Controller-Triggered Changes",
     "note": "Confirm desktop cnc machines with tool changer changes tools automatically via controller or G-code command, not a manual quick-swap system marketed as automatic."
   },
   {
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check the collet or toolholder ecosystem and recurring cost, since automatic tool changers often require matched holders."
   },
   {
-    "subheading": "",
+    "subheading": "Confirm Tool-Length Probing",
     "note": "Verify the machine documents an automatic tool-length probing and offset workflow, not manual measurement between changes."
   },
   {
@@ -80,7 +80,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified Before Comparison",
     "description": "Sorted each machine into router, mill, lathe, laser hybrid, or waterjet before ranking, since desktop CNC spans different cutting architectures that don't compare fairly on one scale."
   },
   {
@@ -88,11 +88,11 @@ export const howWeEvaluated = [
     "description": "Compared usable XYZ travel after vise, clamps, and tool stick-out rather than nominal axis travel alone, since fixtures and tooling eat into the advertised work envelope."
   },
   {
-    "title": "",
+    "title": "Spindle and Rigidity Evidence",
     "description": "Checked documented spindle speed, torque, and runout figures alongside frame and rail rigidity, since motor wattage alone doesn't predict real cut quality."
   },
   {
-    "title": "",
+    "title": "Software and Workholding Verified",
     "description": "Checked CAM/postprocessor support, probing, workholding, and dust or chip control as part of daily usability, not just the headline spec sheet."
   },
   {

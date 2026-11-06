@@ -9,7 +9,7 @@ export const buyingCriteria = [
     "explanation": "A portable AC's advertised BTU figure and its real-world SACC rating are often two very different numbers, since ASHRAE BTU is measured under ideal lab conditions while SACC accounts for the heat the unit's own compressor adds back into the room you're trying to cool. This gap can be 20 to 40%, meaning a unit's actual cooling power is meaningfully lower than the headline BTU suggests. Check the spec sheet specifically for a SACC number, since a listing that only advertises ASHRAE BTU is likely quoting the more flattering figure."
   },
   {
-    "criterion": "",
+    "criterion": "Single-Hose vs Dual-Hose Venting",
     "explanation": "A single-hose unit draws air from inside your room to cool its condenser, then exhausts that warm air outside, which creates negative pressure that pulls hot, humid outside air back in through door and window gaps, reducing real efficiency. A dual-hose unit uses a separate dedicated intake hose for the condenser, avoiding that negative-pressure effect entirely, which is why a dual-hose unit's SACC rating is typically significantly higher than a single-hose unit with the same ASHRAE BTU rating. Single-hose units are usually adequate up to about 10,000-12,000 BTU; above that, a dual-hose design is worth the added cost and setup complexity."
   },
   {
@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Nz5xFGarL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small room or bedroom",
           "Midea 8,500 BTU ASHRAE Portable Air Conditioner"
         ],
         [
-          "",
+          "Standard-size room",
           "Midea Duo 14,000 BTU Portable Air Conditioner"
         ],
         [
-          "",
+          "Large or open space",
           "Midea Duo 14,000 BTU Portable Air Conditioner with Heat"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Midea 8,500 BTU ASHRAE Portable Air Conditioner"
         ],
         [
-          "",
+          "Mid-range pick",
           "Midea Duo 12,000 BTU Portable Air Conditioner"
         ],
         [
-          "",
+          "Higher budget",
           "Midea Duo 14,000 BTU Portable Air Conditioner with Heat"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Single-Hose vs Dual-Hose Venting",
     "cards": [
       {
         "label": "Midea 8,500 BTU ASHRAE Portable Air Conditioner)",
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By SACC vs ASHRAE BTU Rating",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Bedroom or Noise-Sensitive Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A specific decibel rating at standard operating speed, since compressor noise is one of the most common complaints about portable AC units."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Midea Duo 14,000 BTU Portable Air Conditioner is worth checking against its specific decibel rating before assuming any unit is quiet enough for a bedroom."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're cooling a large room and want dual-hose efficiency and higher real cooling power, where Midea Duo 14,000 BTU Portable Air Conditioner with Heat justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're cooling a small room or bedroom, where Midea 8,500 BTU ASHRAE Portable Air Conditioner already covers the job at the lowest price here."
       }
     ]
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "A portable AC's advertised BTU figure and its real-world SACC rating are often two very different numbers, since ASHRAE BTU is measured under ideal lab conditions while SACC accounts for the heat the unit's own compressor adds back into the room you're trying to cool."
   },
   {
-    "title": "",
+    "title": "Single-Hose vs Dual-Hose Venting",
     "description": "A single-hose unit draws air from inside your room to cool its condenser, then exhausts that warm air outside, which creates negative pressure that pulls hot, humid outside air back in through door and window gaps, reducing real efficiency."
   },
   {

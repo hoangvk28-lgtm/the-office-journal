@@ -60,16 +60,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41VAMpqFglL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Silent operation during recording or editing",
-          ""
+          "Keychron Thunderbolt 5 Dock"
         ],
         [
           "Built-in NVMe and future PCIe module expansion",
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $228",
+          "Cable Matters 11-in-1 ($227.99)"
         ],
         [
-          "",
-          ""
+          "Under $320",
+          "HyperDrive Next ($319.99)"
         ],
         [
-          "",
-          ""
+          "Under $350",
+          "Keychron Thunderbolt 5 Dock ($349.99)"
         ],
         [
-          "",
-          ""
+          "Under $500",
+          "CalDigit TS5 Plus ($499.99)"
         ]
       ]
     }
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Silent Fanless Operation vs Maximum Sustained Performance",
     "cards": [
       {
-        "label": "",
+        "label": "Silent fanless (Keychron)",
         "text": "A fanless all-aluminum design with internal heat spreaders keeps operation completely silent, ideal for a recording booth or quiet studio, though with somewhat less thermal headroom under extreme sustained load than an actively cooled dock."
       },
       {
@@ -128,11 +128,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're recording audio or need silent operation, the Keychron's fanless design is the right tradeoff. If you're running a demanding multi-drive editing workstation and noise isn't a concern, the CalDigit TS5 Plus delivers more sustained headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Card Reader Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your footage offload need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Two-Editor Collaborative Workflow Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock with Thunderbolt Share support, letting two computers share files, storage, and control directly over Thunderbolt without needing a network connection."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both the HyperDrive Next and Cable Matters picks specifically include Thunderbolt Share, making either a strong fit for a two-editor collaborative setup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by its 20-port design and dual USB controllers."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -192,11 +192,11 @@ export const howWeEvaluated = [
     "description": "Compared UHS-II SD and microSD card reader inclusion for footage offload workflows."
   },
   {
-    "title": "",
+    "title": "Collaboration Features",
     "description": "Compared Thunderbolt Share and similar PC-to-PC collaboration capabilities relevant to shared editing."
   },
   {
-    "title": "",
+    "title": "Build Quality and Noise",
     "description": "Compared fanless versus actively cooled designs for a quiet studio or recording environment."
   }
 ];

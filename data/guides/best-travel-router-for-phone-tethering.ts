@@ -61,68 +61,68 @@ export const heroImage = "https://m.media-amazon.com/images/I/31vfCX-04BL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "What matters most",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Highest device count, newest Wi-Fi",
-          ""
+          "TP-Link Roam 7 BE3600"
         ],
         [
           "5G port at a lower price",
-          ""
+          "TP-Link Roam 6 AX3000"
         ],
         [
           "Lowest price with tethering support",
-          ""
+          "TP-Link Roam 6 AX1500"
         ],
         [
-          "",
-          ""
+          "OpenWrt customization with tethering",
+          "GL.iNet GL-A1300 Pocket VPN"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $40",
+          "TP-Link Roam 6 AX1500 ($39.99)"
         ],
         [
-          "",
-          ""
+          "Under $56",
+          "TP-Link Roam 6 AX3000 ($55.99)"
         ],
         [
-          "",
-          ""
+          "Under $70",
+          "GL.iNet GL-A1300 Pocket VPN ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "TP-Link Roam 7 BE3600 ($89.98)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "TP-Link Roam Simplicity vs GL.iNet OpenWrt Depth",
     "cards": [
       {
-        "label": "",
+        "label": "TP-Link Roam lineup",
         "text": "A straightforward 3-mode setup (Router, Hotspot, AP/RE) that's quick to configure for tethering without OpenWrt's added complexity."
       },
       {
-        "label": "",
+        "label": "GL.iNet GL-A1300",
         "text": "Adds OpenWrt customization, a VPN kill switch, and per-site routing policies for buyers who want tethering plus deeper network control."
       }
     ],
@@ -132,13 +132,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Wi-Fi Generation Needed for Tethering",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your cellular connection speed",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard 4G/5G speeds, budget priority",
-          ""
+          "TP-Link Roam 6 AX1500"
         ],
         [
           "Faster 5G speeds, multiple devices",
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Working Remotely From a Phone's Cellular Connection Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit USB tethering mode support named in the listing, since not every travel router clearly documents this capability, and confirm your phone's data plan allows tethering without additional carrier fees."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "All four picks specifically name tethering or router mode compatibility, removing uncertainty about whether the connection method actually works before purchase."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the highest device count and newest Wi-Fi standard, or want OpenWrt customization alongside tethering, where the Roam 7 or GL-A1300 justify their price with those specific capabilities."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99 covers that need at the lowest price in this comparison."
       }
     ]
@@ -177,7 +177,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Explicit Tethering Mode Support",
     "description": "Confirmed each listing explicitly names USB phone tethering as a supported connection method."
   },
   {
@@ -185,15 +185,15 @@ export const howWeEvaluated = [
     "description": "Compared Wi-Fi speed ceilings against typical real-world cellular tethering bandwidth needs."
   },
   {
-    "title": "",
+    "title": "Simultaneous Device Support",
     "description": "Compared the maximum number of devices each router supports connecting simultaneously."
   },
   {
-    "title": "",
+    "title": "VPN and Security Features",
     "description": "Compared VPN client/server support, kill switch, and routing policy features across listings."
   },
   {
-    "title": "",
+    "title": "Price-to-Feature Value",
     "description": "Compared tethering capability retained across the price range from budget to flagship."
   }
 ];

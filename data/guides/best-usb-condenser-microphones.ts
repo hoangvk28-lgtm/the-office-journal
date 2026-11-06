@@ -63,35 +63,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Logitech Blue Yeti USB Microphone"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Logitech Blue Yeti USB Microphone"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $30",
           "FIFINE K669B Metal Condenser USB Microphone"
         ],
         [
-          "",
+          "Up to $90",
           "Logitech Blue Yeti USB Microphone"
         ]
       ]
@@ -112,15 +112,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to FIFINE K669B Metal Condenser USB Microphone unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Logitech Blue Yeti USB Microphone"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Logitech Blue Yeti USB Microphone is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Logitech Blue Yeti USB Microphone's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where FIFINE K669B Metal Condenser USB Microphone covers the same job at a lower price."
       }
     ]
@@ -156,23 +156,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Capsule type verification",
     "description": "Checked each listing closely to confirm whether it was a genuine condenser capsule or a dynamic capsule marketed for the same desk use cases, and labeled dynamic picks honestly rather than folding them in as condensers."
   },
   {
-    "title": "",
+    "title": "Room suitability",
     "description": "Weighed condenser sensitivity against typical desk environments, treated room, untreated bedroom, or shared apartment, since this determines whether a condenser is even the right choice before comparing features."
   },
   {
-    "title": "",
+    "title": "Self-noise and bit depth",
     "description": "Noted published self-noise specs and recording bit depth where available, since these directly affect how clean a condenser sounds in a quiet recording versus introducing audible hiss."
   },
   {
-    "title": "",
+    "title": "Mute button and monitoring",
     "description": "Compared hardware mute against software mute, and checked for a headphone jack, since real-time monitoring is how you catch gain staging problems before they end up in a recording."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed included accessories, boom arms, mute buttons, patterns, against price, from the budget condenser up through the full-size Blue Yeti."
   }
 ];

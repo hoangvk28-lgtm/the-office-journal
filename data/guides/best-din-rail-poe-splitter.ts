@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Krbc-0cqL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $50",
+          "LINOVISION Industrial 30W ($49.00)"
         ],
         [
-          "",
-          ""
+          "Under $70",
+          "ThePoEstore 90W Splitter ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $80",
+          "Industrial Din-Rail 60W Splitter ($79.99)"
         ],
         [
-          "",
-          ""
+          "Under $120",
+          "LINOVISION 90W with 2 DC Outputs ($119.99)"
         ]
       ]
     }
@@ -129,11 +129,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your installation needs to power two devices with different voltage requirements from one splitter, the LINOVISION dual-output pick justifies its higher price. If all your devices share the same voltage need, a single-output switchable splitter is more cost-effective."
   },
   {
-    "subheading": "",
+    "subheading": "By Total Power Requirement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your total power need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Control Cabinet With Multiple Voltage-Different Devices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A splitter with genuine simultaneous dual-voltage output rather than a single switchable output, if your cabinet needs to power devices with different voltage requirements from the same PoE source at once."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The LINOVISION 90W pick with 2 DC Outputs is specifically designed for exactly this scenario, providing both a fixed 24V and an adjustable 3-36V output simultaneously."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by that simultaneous dual-output design."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "00, the lowest price in this comparison."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Output Flexibility",
     "description": "Compared fixed-voltage, switchable, and simultaneous dual-output DC designs."
   },
   {
-    "title": "",
+    "title": "Real Wattage Delivery",
     "description": "Compared total output wattage from 30W to 90W across the picks."
   },
   {
-    "title": "",
+    "title": "DIN-Rail Mounting Design",
     "description": "Compared mounting orientation options and physical footprint for control cabinet installations."
   },
   {
-    "title": "",
+    "title": "Industrial Durability",
     "description": "Compared IP ratings, operating temperature, and surge/ESD protection specifications."
   },
   {
-    "title": "",
+    "title": "PoE Standard Requirements",
     "description": "3bt requirements and compatibility warnings against passive BT injectors."
   }
 ];

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41l1QK7tddL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $89",
+          "Jabra Speak 510 ($88.78)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "Jabra Speak 410 ($89.99)"
         ],
         [
-          "",
-          ""
+          "Under $96",
+          "Q95mini ($95.90)"
         ],
         [
-          "",
-          ""
+          "Under $100",
+          "Anker PowerConf ($99.99)"
         ]
       ]
     }
@@ -132,25 +132,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Room and Meeting Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your meeting scenario",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Larger room needing maximum mic coverage",
-          ""
+          "Anker PowerConf (6-mic array)"
         ],
         [
-          "",
-          ""
+          "Frequent travel between locations",
+          "Jabra Speak 510"
         ],
         [
           "Fixed desk with Skype for Business use",
-          ""
+          "Jabra Speak 410"
         ],
         [
           "Desk setup low on available USB ports",
-          ""
+          "Q95mini"
         ]
       ]
     }
@@ -159,24 +159,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Desk With Limited USB Ports Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A speakerphone with a built-in USB hub, letting it double as a port expander rather than consuming one of your limited available ports."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Q95mini pick's built-in USB hub specifically solves the limited-port problem by letting you connect additional peripherals through the speakerphone itself."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the largest mic array, longest battery life, and the ability to charge other devices, where the Anker PowerConf delivers all three at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need reliable wired connectivity without wireless features, where the Jabra Speak 410 covers that for about $10 less."
       }
     ]
@@ -185,23 +185,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Microphone Array Size",
     "description": "Compared mic count and pickup pattern across the lineup, from single-mic to 6-mic arrays."
   },
   {
-    "title": "",
+    "title": "Corded vs Wireless Design",
     "description": "Distinguished always-connected corded designs from battery-powered Bluetooth options."
   },
   {
-    "title": "",
+    "title": "Battery Life and Charging",
     "description": "Compared stated battery capacity, call time, and any device-charging capabilities."
   },
   {
-    "title": "",
+    "title": "Brand Reputation and Certification",
     "description": "Checked for established brand names and formal platform certifications like Zoom or Teams."
   },
   {
-    "title": "",
+    "title": "Unique Functional Features",
     "description": "Compared standout features like built-in USB hubs or device charging not found on every pick."
   }
 ];

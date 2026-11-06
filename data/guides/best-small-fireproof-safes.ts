@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "What's the largest-capacity fireproof safe here?",
-    "a": ""
+    "a": "The 1.3 Cub Small Fireproof Safe for Home, at 1.3 cubic feet."
   },
   {
     "q": "Why does this list have 7 products instead of 8?",
@@ -57,15 +57,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41DOhkXmzOL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What Matters Most",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most explicitly documented certification",
           "SentrySafe Fireproof Safe Box with Key Lock (UL + lifetime guarantee)"
         ],
         [
@@ -73,11 +73,11 @@ export const howToChoose: HowToChooseSection[] = [
           "SentrySafe Black Fireproof and Waterproof Safe"
         ],
         [
-          "",
+          "Travel portability",
           "SentrySafe Fireproof Safe, Chest Lock Box for Home or Travel"
         ],
         [
-          "",
+          "Largest capacity",
           "3 Cub Small Fireproof Safe for Home"
         ]
       ]

@@ -37,7 +37,7 @@ export const faq = [
   },
   {
     "q": "2 NVMe SSD in any enclosure in this list?",
-    "a": ""
+    "a": "No. Check the exact M.2 length (2230/2242/2260/2280) and keying (M-Key vs B+M Key) the enclosure supports against your specific SSD before buying, and confirm whether the enclosure supports NVMe only or also SATA M.2 drives."
   },
   {
     "q": "Why does my enclosure run slower than its advertised speed?",
@@ -57,16 +57,16 @@ export const howToChoose: HowToChooseSection[] = [
     "intro": "Before buying, check your computer's exact port protocol, not just whether it has a USB-C connector.",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your host port",
+        "What to look for"
       ],
       "rows": [
         [
-          "",
+          "USB-C 10Gbps (USB 3.2 Gen 2)",
           "Any 10Gbps-rated pick above works at full speed"
         ],
         [
-          "",
+          "USB-C 20Gbps (USB 3.2 Gen 2x2)",
           "Confirm the enclosure specifically states Gen 2x2 support, not just USB-C"
         ],
         [
@@ -77,11 +77,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "intro": "Interface speed, bridge controller sophistication, and cooling design all scale price in this category.",
     "cards": [
       {
-        "label": "",
+        "label": "Occasional file transfers",
         "text": "A 10Gbps pick from this list covers most casual thunderbolt ssd enclosures for mac needs without paying for bandwidth you won't use."
       },
       {
@@ -89,7 +89,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Step up to a 40Gbps USB4/Thunderbolt pick with active cooling to avoid thermal throttling mid-transfer."
       },
       {
-        "label": "",
+        "label": "Professional or archival workflows",
         "text": "An 80Gbps Thunderbolt 5 enclosure or a RAID-capable multi-bay design is worth the premium if downtime or data loss has real cost."
       }
     ]
@@ -114,7 +114,7 @@ export const howWeEvaluated = [
     "description": "Weighed published tested throughput figures, fan trigger temperatures, and passive-versus-active cooling design over marketing language that repeats across nearly identical products."
   },
   {
-    "title": "",
+    "title": "Real Feature Differentiators",
     "description": "Prioritized genuine differentiators, RAID mode support, write-lock switches, health-monitoring displays, magnetic attachment systems, over generic \"fast and durable\" claims with nothing behind them."
   }
 ];

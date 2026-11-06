@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41yuUOBFa3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Guest Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "RØDE PodMic Cardioid Dynamic Broadcast Microphone"
         ],
         [
-          "",
+          "Mid-range pick",
           "RØDE RØDECaster Pro II All-in-One Audio Production Studio"
         ],
         [
-          "",
+          "Higher budget",
           "RODE RODECaster Pro II + 4x Headphones + 4x Podcast Microphone + 64GB Micro SD"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Mixer vs Simple Interface",
     "cards": [
       {
         "label": "RODE RODECaster Pro II + 4x Headphones + 4x Podcast Microphone + 64GB Micro SD)",
@@ -121,15 +121,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Skip the full mixer if you're a solo host recording to a laptop."
   },
   {
-    "subheading": "",
+    "subheading": "By Recording Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Computer-based recording via USB",
           "RØDE RØDECaster Duo Compact Audio Production Studio"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Livestreaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Zero-latency direct monitoring and simple loopback routing so you can hear yourself and other audio without lag while broadcasting."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "RØDE RØDECaster Duo Compact Audio Production Studio is worth checking against its specific monitoring-latency spec before assuming any mixer handles live streaming equally well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're hosting multiple guests regularly and want physical channel control, where RODE RODECaster Pro II + 4x Headphones + 4x Podcast Microphone + 64GB Micro SD justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're a solo host just starting out, where RØDE PodMic Cardioid Dynamic Broadcast Microphone already covers the job at the lowest price here."
       }
     ]

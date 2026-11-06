@@ -61,56 +61,56 @@ export const heroImage = "https://m.media-amazon.com/images/I/41oAO1CXldL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sensor Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your main concern",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Particulates (PM2.5/dust)",
+          "Air Quality Monitor Indoor, 16-in-1 Smart Air Quality Tester with PM 2.5"
         ],
         [
-          "",
+          "General everyday tracking",
           "TOPCUBE 3D Printer Enclosure for Bambu Lab A1 Mini with LED Light Grey"
         ],
         [
-          "",
+          "Multiple pollutants at once",
           "Anycubic Kobra X Multicolor 3D Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Air Quality Monitor Indoor, 16-in-1 Smart Air Quality Tester with PM 2.5"
         ],
         [
-          "",
+          "Mid-range pick",
           "16-in-1 Indoor Air Quality Monitor"
         ],
         [
-          "",
+          "Higher budget",
           "Anycubic Kobra X Multicolor 3D Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "WiFi vs Zigbee/Hub-Based",
     "cards": [
       {
-        "label": "",
+        "label": "WiFi-only (e.g. Air Quality Monitor Indoor, 16-in-1 Smart Air Quality Tester with PM 2.5)",
         "text": "Connects directly to your router and app, no extra hardware needed."
       },
       {
@@ -121,19 +121,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have a compatible smart-home hub."
   },
   {
-    "subheading": "",
+    "subheading": "By Data Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Live readings only",
           "TOPCUBE 3D Printer Enclosure for Bambu Lab A1 Mini with LED Light Grey"
         ],
         [
-          "",
+          "Long-term history and export",
           "16-in-1 Indoor Air Quality Monitor"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Pollutant Concern Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated sensor for your specific concern (formaldehyde, CO2, or radon) rather than a general VOC or air-quality index alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TOPCUBE 3D Printer Enclosure for Bambu Lab A1 Mini with LED Light Grey is worth checking against its specific spec sheet before assuming any pick here covers your exact concern."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want longer-term sensor accuracy and multi-pollutant coverage, where Anycubic Kobra X Multicolor 3D Printer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5 already covers the job at the lowest price here."
       }
     ]

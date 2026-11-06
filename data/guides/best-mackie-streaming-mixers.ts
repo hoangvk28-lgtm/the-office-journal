@@ -17,7 +17,7 @@ export const buyingCriteria = [
     "explanation": "Streaming specifically, as opposed to just recording, usually requires a loopback function that captures your computer's own audio output and mixes it cleanly with your microphone for your audience, without your voice call partners hearing an echo of themselves. This is a distinct feature from basic USB audio interfacing, so check for it explicitly if game or call audio needs to be part of your stream."
   },
   {
-    "criterion": "",
+    "criterion": "Single-PC vs Dual-PC Routing",
     "explanation": "Most modern streaming mixers handle everything through virtual audio channels on a single PC, but some higher-end models add a second USB connection specifically for a dual-PC setup, common among gamers who run the game on one machine and streaming software on another. Check specifically for dual USB-C or dual USB-B ports if a two-computer setup is part of your plan, since single-PC routing won't cover that use case."
   },
   {
@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/4107iv9EjqL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Microphone Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Solo streamer, 1 mic",
           "Mackie DLZ Creator XS Compact Adaptive Digital Mixer"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Mackie DLZ Creator XS Adaptive Digital Mixer for Podcasting"
         ],
         [
-          "",
+          "4+ mics regularly",
           "Mackie DLZ Creator Adaptive Digital Mixer for Podcasting"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Mackie DLZ Creator XS Compact Adaptive Digital Mixer"
         ],
         [
-          "",
+          "Mid-range pick",
           "Mackie DLZ Creator Adaptive Digital Mixer for Podcasting"
         ],
         [
-          "",
+          "Higher budget",
           "Mackie DLZ Creator Adaptive Digital Mixer for Podcasting"
         ]
       ]
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Single-PC vs Dual-PC Routing",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,7 +133,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Mackie DLZ Creator XS Adaptive Digital Mixer for Podcasting"
         ],
         [
-          "",
+          "True dual-PC routing needed",
           "Check specifically for dual USB output support"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Game and Call Audio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated loopback or 'sample' channel so game and call audio mix cleanly with your mic without an echo for people on the call."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Mackie DLZ Creator XS Adaptive Digital Mixer for Podcasting is worth checking against its specific loopback routing before assuming any mixer handles this cleanly."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're running multiple microphones and want onboard effects and dual-PC routing, where Mackie DLZ Creator Adaptive Digital Mixer for Podcasting justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're a solo streamer just starting out, where Mackie DLZ Creator XS Compact Adaptive Digital Mixer already covers the job at the lowest price here."
       }
     ]
@@ -181,7 +181,7 @@ export const howWeEvaluated = [
     "description": "Streaming specifically, as opposed to just recording, usually requires a loopback function that captures your computer's own audio output and mixes it cleanly with your microphone for your audience, without your voice call partners hearing an echo of themselves."
   },
   {
-    "title": "",
+    "title": "Single-PC vs Dual-PC Routing",
     "description": "Most modern streaming mixers handle everything through virtual audio channels on a single PC, but some higher-end models add a second USB connection specifically for a dual-PC setup, common among gamers who run the game on one machine and streaming software on another."
   },
   {

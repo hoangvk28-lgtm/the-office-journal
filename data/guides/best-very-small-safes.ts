@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the absolute smallest safe in this comparison?",
-    "a": ""
+    "a": "The SentrySafe Small Safe with Combination Lock, at 2.6\" H x 5.9\" W x 8.0\" D exterior."
   },
   {
     "q": "Is there a compact safe that still fits a passport?",
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/317kzwqRXbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Protection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,30 +69,30 @@ export const howToChoose: HowToChooseSection[] = [
           "SentrySafe Fireproof Safe with Key Lock"
         ],
         [
-          "",
+          "Genuine anti-removal, bolt-down support",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $14",
           "KYODOLED Small Metal Lock Box with Key for Cash and Medication"
         ],
         [
-          "",
+          "Up to $40",
           "SentrySafe Fireproof Safe with Key Lock"
         ]
       ]
@@ -102,31 +102,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Physical Key vs Electronic Access",
     "cards": [
       {
-        "label": "",
+        "label": "Physical key",
         "text": "No batteries to fail, but a lost key means a lockout with no backup. In this comparison: KYODOLED Small Metal Lock Box with Key for Cash and Medication, Master Lock Small Travel Safe with Cable."
       },
       {
-        "label": "",
+        "label": "Electronic access",
         "text": "More convenient day to day, worth checking for a backup access method in case the battery dies. In this comparison: SentrySafe Small Safe, MAESTON Mini Electronic Safe Box with Digital Keypad & Keys, Yuanshikj Small Steel Security Safe Box with Keypad, Bonsaii Small Safe Box with Electronic Keypad for Valuables, SentrySafe Fireproof Safe with Key Lock."
       }
     ],
     "note": "Most buyers should default to electronic access with a confirmed backup method unless simplicity is the top priority."
   },
   {
-    "subheading": "",
+    "subheading": "By Fire Protection",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fire resistance claimed",
           "SentrySafe Fireproof Safe with Key Lock"
         ],
         [
           "Theft deterrence only, no fire claim",
-          ""
+          "SentrySafe Small Safe"
         ]
       ]
     }
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Storing Documents or Cash Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed interior dimension roomy enough for the actual items, plus a backup access method beyond just a keypad."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Yuanshikj Small Steel Security Safe Box with Keypad is worth checking against its listed interior dimensions before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're storing valuable or irreplaceable items, where SentrySafe Fireproof Safe with Key Lock's higher price buys real security or fire-protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic theft deterrence for low-value items, where KYODOLED Small Metal Lock Box with Key for Cash and Medication covers the same job at a lower price."
       }
     ]

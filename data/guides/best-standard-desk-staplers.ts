@@ -40,7 +40,7 @@ export const faq = [
     "a": "Only with a stapler that has a deep throat, standard staplers only reach a shallow distance from the paper's edge, check the throat depth spec if you need to staple toward the center."
   },
   {
-    "q": "",
+    "q": "Are electric staplers loud?",
     "a": "They produce a distinct motor click or whir each time they fire, check reviews specifically for noise complaints if you'll use it near coworkers in a quiet shared office."
   },
   {
@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/41JDDoSZQiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Stack Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light, a few sheets",
+          "Bostitch Office Stapler"
         ],
         [
-          "",
+          "A regular office stack",
           "Metal Stapler Heavy Duty 50 Sheet Capacity with 1750 Staples and Staple Remover"
         ],
         [
-          "",
-          ""
+          "Consistently thick stacks",
+          "Swingline Stapler Value Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Bostitch Office Stapler"
         ],
         [
-          "",
+          "Mid-range pick",
           "Marsrock Heavy Duty Stapler for Desk with 40-50 Sheet"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Swingline Stapler Value Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Manual vs Electric",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (e.g. Bostitch Office Stapler)",
         "text": "No power dependency, reliable for any volume."
       },
       {
-        "label": "",
+        "label": "Electric",
         "text": "Reduces hand strain at high volume, depends on charge or power."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Staple Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 26/6 staples",
           "Metal Stapler Heavy Duty 50 Sheet Capacity with 1750 Staples and Staple Remover"
         ],
         [
-          "",
+          "A specific alternate size",
           "Marsrock Heavy Duty Stapler for Desk with 40-50 Sheet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Center-of-Document Stapling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A deep throat depth spec, not just a standard corner-reach stapler."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Metal Stapler Heavy Duty 50 Sheet Capacity with 1750 Staples and Staple Remover is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Swingline Stapler Value Pack justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Bostitch Office Stapler already covers the job at the lowest price here."
       }
     ]

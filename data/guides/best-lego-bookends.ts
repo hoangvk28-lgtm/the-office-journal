@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41RFM+S0U-L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A light stack of paperbacks",
-          ""
+          "VFINE Bookends 1 Pair"
         ],
         [
-          "",
+          "A full mixed shelf",
           "LEGO Disney and Pixar Toy Story Slinky Dog Bookends 43301"
         ],
         [
@@ -84,57 +84,57 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "VFINE Bookends 1 Pair"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Acrylic Bookends 4 Pcs"
         ],
         [
-          "",
+          "Higher budget",
           "HappyHapi 3 Pair Book Ends"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
-        "label": "",
+        "label": "Decorative (e.g. VFINE Bookends 1 Pair)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Glossy or glass surface",
           "LEGO Disney and Pixar Toy Story Slinky Dog Bookends 43301"
         ],
         [
-          "",
-          ""
+          "Textured wood surface",
+          "Acrylic Bookends 4 Pcs"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "LEGO Disney and Pixar Toy Story Slinky Dog Bookends 43301 is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where HappyHapi 3 Pair Book Ends justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where VFINE Bookends 1 Pair already covers the job at the lowest price here."
       }
     ]

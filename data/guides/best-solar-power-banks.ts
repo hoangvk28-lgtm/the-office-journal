@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/51FO3FenTyL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device You're Charging",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Phone, occasional use",
           "Solar Charger Power Bank 20000mAh Portable Charger with 4 Built-in Cables"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "BLAVOR Solar Power Bank 10,000mAh Portable Wireless Charger for Cell Phones"
         ],
         [
-          "",
+          "Laptop or multiple devices",
           "0 Fast Charging Portable Charger"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Solar Charger Power Bank 20000mAh Portable Charger with 4 Built-in Cables"
         ],
         [
-          "",
+          "Mid-range pick",
           "SOARAISE Solar Power Bank 48000mAh Wireless Portable Charger with 4 Cables"
         ],
         [
-          "",
+          "Higher budget",
           "0 Fast Charging Portable Charger"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Capacity vs Portability",
     "cards": [
       {
         "label": "0 Fast Charging Portable Charger)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you're carrying it daily or leaving it in a bag for emergencies."
   },
   {
-    "subheading": "",
+    "subheading": "By Travel Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Flying with it",
           "Check the watt-hour (Wh) rating stays under 100Wh"
         ],
         [
-          "",
+          "Never flying with it",
           "BLAVOR Solar Power Bank 10,000mAh Portable Wireless Charger for Cell Phones"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "USB-PD support at 45W or higher, not just any USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "0 Fast Charging Portable Charger is worth checking against your specific laptop's wattage requirement before assuming any power bank charges it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "0 Fast Charging Portable Charger justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need backup charges for a phone, where Solar Charger Power Bank 20000mAh Portable Charger with 4 Built-in Cables already covers the job at the lowest price here."
       }
     ]

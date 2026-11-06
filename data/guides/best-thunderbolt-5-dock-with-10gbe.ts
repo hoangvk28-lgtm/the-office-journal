@@ -36,7 +36,7 @@ export const faq = [
   },
   {
     "q": "Is the Sonnet Echo 21 worth the same price as the CalDigit TS5 Plus if I don't need built-in NVMe storage?",
-    "a": ""
+    "a": "If you don't need the built-in NVMe SSD slot, the CalDigit TS5 Plus's higher total port count and dual USB controller design likely deliver more everyday value at the same $499.99 price."
   },
   {
     "q": "Will the IVANKY FusionDock Ultra work with my Windows laptop?",
@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31J58ZzJmlL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -81,30 +81,30 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "The highest simultaneous display count on a Mac",
-          ""
+          "IVANKY 26-in-1 FusionDock Ultra"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $450",
+          "Sonnet Echo 20 SecureDock ($449.99)"
         ],
         [
-          "",
-          ""
+          "Under $500",
+          "CalDigit TS5 Plus or Sonnet Echo 21 (both $499.99)"
         ],
         [
-          "",
-          ""
+          "Under $650",
+          "IVANKY 26-in-1 FusionDock Ultra ($649.99)"
         ]
       ]
     }
@@ -117,18 +117,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "These docks work across Mac, Windows, Chromebook, and iPad Pro, trading peak Mac-specific display count for broader device compatibility."
       },
       {
-        "label": "",
+        "label": "Mac-optimized (IVANKY FusionDock Ultra)",
         "text": "Built exclusively for the Mac ecosystem with a dual-chip architecture, unlocking a higher simultaneous display count on M-series Max chips than the cross-platform picks support."
       }
     ],
     "note": "If you work across multiple operating systems, default to the CalDigit or Sonnet picks. If you're committed to a MacBook Pro Max-chip workflow with several external displays, the IVANKY's Mac-exclusive design delivers more display headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Storage Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your storage situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -141,7 +141,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Running multiple external RAID arrays instead",
-          ""
+          "IVANKY 26-in-1 FusionDock Ultra"
         ]
       ]
     }
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Home Office NAS Backup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A 10GbE port that works with standard Cat6 or Cat6A cabling you likely already have run, rather than requiring specialty cabling or hardware."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Sonnet Echo 20 SecureDock specifically states standard Cat6/Cat6A compatibility, making it a straightforward drop-in for an existing home office network."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price buys more display headroom than any other pick here."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -180,7 +180,7 @@ export const howWeEvaluated = [
     "description": "Compared stated Ethernet speeds and whether each dock's 10GbE port works with slower existing networks."
   },
   {
-    "title": "",
+    "title": "Driver and Setup Requirements",
     "description": "Compared whether Windows or macOS requires a separate driver install for full 10GbE speed."
   },
   {
@@ -188,7 +188,7 @@ export const howWeEvaluated = [
     "description": "Compared overall connectivity including any built-in NVMe SSD expansion."
   },
   {
-    "title": "",
+    "title": "Display Support Per Platform",
     "description": "Compared documented display count and resolution limits on Mac versus Windows."
   },
   {

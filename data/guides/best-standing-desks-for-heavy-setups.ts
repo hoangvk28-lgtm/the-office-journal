@@ -63,35 +63,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "SIAGO Black 60x28 in Electric Standing Desk"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "SIAGO Black 60x28 in Electric Standing Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $95",
           "ErGear 48 X 24 Inch Height Adjustable Electric Standing Desk"
         ],
         [
-          "",
+          "Up to $170",
           "SIAGO Black 60x28 in Electric Standing Desk"
         ]
       ]
@@ -112,15 +112,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to ErGear 48 X 24 Inch Height Adjustable Electric Standing Desk unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "SIAGO Black 60x28 in Electric Standing Desk"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SIAGO Black 60x28 in Electric Standing Desk is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where SIAGO Black 60x28 in Electric Standing Desk's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where ErGear 48 X 24 Inch Height Adjustable Electric Standing Desk covers the same job at a lower price."
       }
     ]
@@ -156,7 +156,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Static capacity vs. real-world load distribution",
     "description": "Looked past the single stated weight capacity number to how each desk's frame design, motor count, and desktop thickness are likely to handle an unevenly distributed heavy load, since off-center weight is the more realistic wobble risk for a heavy setup."
   },
   {

@@ -60,18 +60,18 @@ export const heroImage = "https://m.media-amazon.com/images/I/41L8G06liXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "True Deployed Cost",
     "note": "Add a wall mount or mobile stand ($100-300), any needed cables, and factor in that most panels ship without a stand at all. A $600 panel plus a $200 stand is a different budget decision than the panel price alone suggests."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Product Architecture",
     "description": "Classified each product as a flat-panel display, projector-based interactive system, or portable conversion hardware, since these serve fundamentally different room setups and budgets."
   },
   {
-    "title": "",
+    "title": "Touch & Writing Behavior",
     "description": "Checked documented touch-point count, simultaneous-writer capacity, response latency, and touch technology (infrared, PCAP, or sensor-bar) rather than assuming higher touch-point numbers always mean a better writing experience."
   },
   {
@@ -79,11 +79,11 @@ export const howWeEvaluated = [
     "description": "Verified whether each board has genuine Google EDLA certification, which Android or Windows generation it runs, and whether an OPS slot requires a separately purchased module for full functionality."
   },
   {
-    "title": "",
+    "title": "Connectivity & Collaboration",
     "description": "Tested claims around wireless casting device limits, touch-back control, video conferencing platform compatibility (Zoom, Teams, Meet, Webex), and camera/microphone hardware quality where documented."
   },
   {
-    "title": "",
+    "title": "Build, Mounting & Support",
     "description": "Weighed panel weight, included wall mount versus separately sold stands, warranty length, and after-sales support commitments against the realistic deployment cost."
   }
 ];

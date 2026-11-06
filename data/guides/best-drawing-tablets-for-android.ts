@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Confirm Standalone vs Peripheral",
     "explanation": "Verify whether drawing tablets for android is a standalone Android device or a peripheral connecting to your phone by USB/OTG/Bluetooth."
   },
   {
@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Confirm the exact Android or IOS version required, since compatibility varies significantly by phone model."
   },
   {
-    "criterion": "",
+    "criterion": "Verify Portrait/Landscape Mapping",
     "explanation": "Check aspect-ratio mapping specifically, since a mismatch turns circles into ellipses when drawing."
   },
   {
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41iZmynD2WL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Confirm Standalone vs Peripheral",
     "note": "Verify whether drawing tablets for android is a standalone Android device or a peripheral connecting to your phone by USB/OTG/Bluetooth."
   },
   {
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Confirm the exact Android or IOS version required, since compatibility varies significantly by phone model."
   },
   {
-    "subheading": "",
+    "subheading": "Verify Portrait/Landscape Mapping",
     "note": "Check aspect-ratio mapping specifically, since a mismatch turns circles into ellipses when drawing."
   },
   {
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified First",
     "description": "Sorted each product into screenless pen tablet, computer-dependent pen display, or true standalone before comparing specs, since these solve different problems."
   },
   {
-    "title": "",
+    "title": "Pen Behavior Verified",
     "description": "Checked activation force, pressure-level count, tilt support, and parallax evidence directly from documentation rather than trusting a headline pressure number alone."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Verified current Windows/macOS/Linux/Android compatibility by exact model, since older tablets can lose driver support over time."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included pen, nibs, stand, and cables against what needs to be bought separately, plus warranty length and driver update history."
   }
 ];

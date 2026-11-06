@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41T7TwXodLL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -70,30 +70,30 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Widest range, flexible for future upgrades",
-          ""
+          "TECKNET Laptop Cooling Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $26",
           "ICE COOREL Aluminum Laptop Cooling Pad with 7 Height Adjustable"
         ],
         [
-          "",
+          "Mid-range",
           "3 Inch with 6 RGB Fans"
         ],
         [
           "No firm budget ceiling, prioritizing fan count or extras",
-          ""
+          "IETS GT500 Powerful Turbo-Fan"
         ]
       ]
     }
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: ICE COOREL Aluminum Laptop Cooling Pad with 7 Height Adjustable."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: KYOLLY Aluminum Alloy RGB Gaming Laptop Cooler with 6 Fans and LCD Screen."
       }
     ],
     "note": "Most buyers should default to a slim pick like ICE COOREL Aluminum Laptop Cooling Pad with 7 Height Adjustable for everyday portability, and only step up to KYOLLY Aluminum Alloy RGB Gaming Laptop Cooler with 6 Fans and LCD Screen's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what IETS GT500 Powerful Turbo-Fan offers: Highest documented fan speed in this list. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "ICE COOREL Aluminum Laptop Cooling Pad with 7 Height Adjustable already covers the essentials: Explicit aluminum alloy surface claim. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -161,11 +161,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Material verification",
     "description": "We checked each listing's own feature copy for an explicit aluminum, steel, or metal-alloy claim, and separated genuine metal-body pads from pads that only describe a metal mesh top."
   },
   {
-    "title": "",
+    "title": "Weight and portability tradeoff",
     "description": "We compared stated weights, since a real metal chassis adds bulk versus plastic or a mesh-top design, which matters for anyone who carries a pad in a laptop bag."
   },
   {
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "We compared fan count, RPM, and coverage pattern separately from material claims, since a plastic pad with strong fans can outperform a metal pad with a weak one."
   },
   {
-    "title": "",
+    "title": "Noise and structural tradeoffs",
     "description": "We weighed documented noise figures and frame rigidity together, since metal frames can transmit fan vibration differently than plastic ones."
   }
 ];

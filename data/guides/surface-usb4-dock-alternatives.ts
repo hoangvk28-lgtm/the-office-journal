@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/31RILPwp5+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Microsoft-certified compatibility with expansion",
           "Kensington SD5750T Thunderbolt 4 Docking Station"
         ],
         [
@@ -81,40 +81,40 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A portable, low-cost hub",
-          ""
+          "Kensington MD120U4 USB4 Hub"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $95",
+          "Kensington MD120U4 USB4 Hub ($92.57)"
         ],
         [
-          "",
-          ""
+          "Under $240",
+          "Kensington SD5760T ($237.99)"
         ],
         [
-          "",
-          ""
+          "Under $320",
+          "Kensington SD5750T ($318.43)"
         ],
         [
-          "",
-          ""
+          "Under $380",
+          "CalDigit TS4 ($379.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Microsoft-Certified vs Universally Compatible",
     "cards": [
       {
         "label": "Microsoft-certified (both Kensington SD57 series picks)",
@@ -131,8 +131,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Desk Setup vs Travel Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your usage pattern",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -141,7 +141,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Hybrid work moving between locations",
-          ""
+          "Kensington MD120U4 USB4 Hub"
         ]
       ]
     }
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Video Editors and Photographers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Fast built-in UHS-II SD and microSD card readers, so offloading footage and photos doesn't require a separate card reader accessory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Kensington SD5760T specifically markets its UHS-II card readers toward graphic designers, video editors, and animators."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want the maximum port count with universal cross-platform compatibility, where the CalDigit TS4's 18 ports justify its $379.99 price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "57, the lowest price in this comparison."
       }
     ]
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Microsoft Certification",
     "description": "Compared Designed for Surface certification against uncertified but Surface-compatible alternatives."
   },
   {
-    "title": "",
+    "title": "Port Count and Variety",
     "description": "Compared total ports, card readers, and networking options across all four picks."
   },
   {
-    "title": "",
+    "title": "Charging Wattage",
     "description": "Compared stated laptop charging output and power pass-through design."
   },
   {
-    "title": "",
+    "title": "Portability",
     "description": "Compared desk-anchored docks against portable hub form factors."
   },
   {
-    "title": "",
+    "title": "Warranty Coverage",
     "description": "Compared stated warranty length and included technical support."
   }
 ];

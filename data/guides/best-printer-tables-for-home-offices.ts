@@ -64,35 +64,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HUANUO Printer Stand with Cable Management and Storage Drawer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HUANUO Printer Stand with Cable Management and Storage Drawer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $27",
+          "HOOBRO 2"
         ],
         [
-          "",
+          "Up to $100",
           "Letaya 3 Drawer Mobile File Cabinet with Lock"
         ]
       ]
@@ -102,7 +102,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "HOOBRO 2 vs Letaya 3 Drawer Mobile File Cabinet with Lock",
     "cards": [
       {
-        "label": "",
+        "label": "HOOBRO 2",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
@@ -113,15 +113,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to HOOBRO 2 unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "HUANUO Printer Stand with Cable Management and Storage Drawer"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HUANUO Printer Stand with Cable Management and Storage Drawer is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Letaya 3 Drawer Mobile File Cabinet with Lock's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where HOOBRO 2 covers the same job at a lower price."
       }
     ]
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "Checked whether each pick is a fixed-height table, a compact platform stand, or a mobile cart, since buyers searching printer table often actually need the mobility of a cart or the small footprint of a stand."
   },
   {
-    "title": "",
+    "title": "Cable clearance and management",
     "description": "Looked for a dedicated rear channel or open gap for a power cord, USB cable, or ethernet line, since a unit pushed flush to the wall without clearance can make plugging in the printer difficult."
   },
   {

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Bx7Z39uKL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,30 +88,30 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $70",
+          "Canon Canoscan Lide 300 ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $120",
+          "Epson Perfection V39 II ($117.00)"
         ],
         [
-          "",
-          ""
+          "Under $150",
+          "Brother DS-640 ($134.99) or HP HPPS100 ($139.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Mobile Sheet-Fed vs Flatbed",
     "cards": [
       {
         "label": "Mobile sheet-fed (Brother DS-640, HP HPPS100)",
@@ -125,11 +125,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're digitizing loose paperwork on the go, a mobile scanner wins. If you're restoring old photos or scanning a book, a flatbed is the only real option here."
   },
   {
-    "subheading": "",
+    "subheading": "By Resolution Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,33 +142,33 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Basic desk scanning on a tight budget",
-          ""
+          "Canon Canoscan Lide 300"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Frequent Travelers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "USB-only power with no separate wall adapter, and a weight under 2 lbs that fits easily in a laptop bag."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "0 cable, making it the most travel-ready pick here."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need genuine portability or high-resolution photo restoration, where the Brother DS-640 or Epson V39 II each deliver a capability the Canon budget pick lacks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly scan occasional documents at a fixed desk, where the Canon Canoscan Lide 300 covers the basics for under $70."
       }
     ]
@@ -177,15 +177,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Scan Speed and Method",
     "description": "Compared automatic sheet feeding, manual mobile feeding, and flatbed scanning across the lineup."
   },
   {
-    "title": "",
+    "title": "Portability",
     "description": "Checked physical size, weight, and power source to judge how portable each scanner is."
   },
   {
-    "title": "",
+    "title": "Resolution and Photo Handling",
     "description": "Compared optical resolution figures and any dedicated photo restoration or enhancement features."
   },
   {
@@ -193,7 +193,7 @@ export const howWeEvaluated = [
     "description": "Checked accepted paper size ranges and whether each scanner handles more than standard letter-sized documents."
   },
   {
-    "title": "",
+    "title": "Software and OS Compatibility",
     "description": "Compared included software features and operating system support across Windows, Mac, and Linux."
   }
 ];

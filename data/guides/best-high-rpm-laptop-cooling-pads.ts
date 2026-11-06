@@ -57,38 +57,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EAHvL+KZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
           "Tightest size match for your laptop",
-          ""
+          "IETS GT500 Powerful Turbo-Fan"
         ],
         [
           "Widest range, flexible for future upgrades",
-          ""
+          "IETS GT500 Powerful Turbo-Fan"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $56",
           "KLIM Everest Laptop Cooling Pad"
         ],
         [
-          "",
+          "Mid-range",
           "Llano V10 Gaming Laptop Cooling Pad"
         ],
         [
@@ -102,27 +102,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: IETS GT500 Powerful Turbo-Fan."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: IETS GT500 Powerful Turbo-Fan."
       }
     ],
     "note": "Most buyers should default to a slim pick like IETS GT500 Powerful Turbo-Fan for everyday portability, and only step up to IETS GT500 Powerful Turbo-Fan's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Most ergonomic height adjustment range",
-          ""
+          "IETS GT500 Powerful Turbo-Fan"
         ],
         [
           "Simplest setup, fewer adjustments to fuss with",
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Razer Laptop Cooling Pad Adaptive Smart offers: Long-lifespan brushless fan design addresses bearing wear directly. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "KLIM Everest Laptop Cooling Pad already covers the essentials: Documented dual-fan RPM figure. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -161,7 +161,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "RPM claim verification",
     "description": "We only ranked pads by RPM where the listing published an actual number. Pads using 'turbo' or 'powerful' branding without a documented RPM figure are included honestly, but flagged and ranked separately from the documented tier."
   },
   {
@@ -169,11 +169,11 @@ export const howWeEvaluated = [
     "description": "Where a DB figure was published, we compared it directly against the documented RPM, since higher fan speed in this category consistently correlates with higher stated noise."
   },
   {
-    "title": "",
+    "title": "Bearing longevity considerations",
     "description": "We noted design features aimed at sustained high-speed reliability, like brushless motor design or long manufacturer assurance periods, since sustained high RPM operation puts more wear on fan bearings over time."
   },
   {
-    "title": "",
+    "title": "Gaming workload relevance",
     "description": "We weighed whether each pad's speed range and design (bottom intake for rear-exhaust laptops, sealed pressure chambers) specifically targets the sustained heat loads gaming workloads produce."
   }
 ];

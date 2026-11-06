@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41y+vnwtbQL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A few light cables",
           "Lamicall 6 Pack Rotating Magnetic Cable Clips"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Alex Tech 10ft - 1/4 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ],
         [
-          "",
+          "A large mixed bundle",
           "Walnut Wood Cord Holder, 5 Slots Cable Organizer with Adhesive Tape"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Lamicall 6 Pack Rotating Magnetic Cable Clips"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Stazuvrt 12-Lead Cable Organizer"
         ],
         [
-          "",
+          "Higher budget",
           "Walnut Wood Cord Holder, 5 Slots Cable Organizer with Adhesive Tape"
         ]
       ]
@@ -113,27 +113,27 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Hides cables completely, needs ventilation for warm power bricks."
       },
       {
-        "label": "",
+        "label": "Sleeve/wrap",
         "text": "More flexible for adding cables, less visually contained."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under-desk hidden",
           "Alex Tech 10ft - 1/4 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ],
         [
-          "",
-          ""
+          "Surface or freestanding",
+          "Stazuvrt 12-Lead Cable Organizer"
         ]
       ]
     }
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequently Changing Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reusable fasteners and an open or slotted entry point rather than a fully sealed box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Alex Tech 10ft - 1/4 inch Cord Protector Wire Loom Tubing Cable Sleeve Split is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Walnut Wood Cord Holder, 5 Slots Cable Organizer with Adhesive Tape justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Lamicall 6 Pack Rotating Magnetic Cable Clips already covers the job at the lowest price here."
       }
     ]

@@ -60,80 +60,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "EXPERLAM 8"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "VASAGLE CUSTOS 5"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $60",
+          "VASAGLE CUSTOS 5"
         ],
         [
-          "",
-          ""
+          "Up to $159",
+          "Homykic 6"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Built-In Storage vs Panel-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in storage (bookcase/cube)",
         "text": "Doubles as shelving while dividing the room, useful in a smaller space. In this comparison: VASAGLE CUSTOS 5, Furologee 6, FDW 4, Yusong 5, EXPERLAM 8, Homykic 6."
       },
       {
-        "label": "",
+        "label": "Panel-only",
         "text": "Simpler, focused purely on visual or acoustic separation. In this comparison: Gadroad 5."
       }
     ],
     "note": "Default to panel-only unless built-in storage solves a real space problem for you."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Height",
     "note": "Check each pick's listed panel height against your room's ceiling and the actual privacy level you need before buying."
   },
   {
     "subheading": "For a Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VASAGLE CUSTOS 5 is worth checking against its listed mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening or a taller, more stable divider, where Homykic 6's material and construction give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual separation without noise or stability concerns, where VASAGLE CUSTOS 5 covers the same job at a lower price."
       }
     ]
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Freestanding stability",
     "description": "Scored on base width, anti-tip hardware included, and center of gravity, since a true divider stands in the open and usually can't be strapped to a wall on either side."
   },
   {
@@ -150,15 +150,15 @@ export const howWeEvaluated = [
     "description": "Compared per-shelf ratings and total capacity against material, particleboard, MDF, engineered wood, and solid bamboo all carry weight differently."
   },
   {
-    "title": "",
+    "title": "Storage style fit",
     "description": "Weighed open-shelf, S-shaped, cube-with-bins, and folding-screen-with-shelf designs against what kind of items they realistically hold well."
   },
   {
-    "title": "",
+    "title": "Build material honesty",
     "description": "Checked listings closely to confirm whether a piece was solid wood or bamboo versus MDF or particleboard marketed with a wood-look finish."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed capacity, material, and included hardware against price, the VASAGLE CUSTOS and Homykic bamboo tower sit at opposite ends of that budget-to-capacity trade-off."
   }
 ];

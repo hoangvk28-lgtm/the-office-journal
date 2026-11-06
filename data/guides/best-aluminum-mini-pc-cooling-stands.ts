@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41rvTsVvGiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cooling Type",
     "table": {
       "headers": [
-        "",
+        "Your thermal situation",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -70,26 +70,26 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Sustained heavy load (server, transcoding)",
-          ""
+          "Quiet 120mm USB Fan"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "IFCASE Aluminum Desktop Stand for Mac Studio"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "Quiet 120mm USB Fan"
         ],
         [
           "No firm budget ceiling, prioritizing active cooling power",
@@ -102,27 +102,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Passive Stand vs Active Fan",
     "cards": [
       {
-        "label": "",
+        "label": "Passive Stand",
         "text": "Zero noise, no power needed, improves airflow through elevation alone. In this comparison: IFCASE Aluminum Desktop Stand for Mac Studio, ElecGear INUC-K Vertical Stand for Intel NUC Mini PC."
       },
       {
-        "label": "",
+        "label": "Active Fan",
         "text": "Genuine forced airflow that helps more under sustained load, at the cost of some noise and a power connection. In this comparison: Quiet 120mm USB Fan, Aluminum Mini PC Cooler Stand with 120mm Fan, Quiet 120mm USB Cooling Fan with Aluminum Stand."
       }
     ],
     "note": "Default to a passive pick for light everyday use, and only step up to an active fan if your mini PC runs warm under sustained load."
   },
   {
-    "subheading": "",
+    "subheading": "By Chassis Vent Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Widest confirmed mini PC compatibility",
-          ""
+          "Quiet 120mm USB Fan"
         ],
         [
           "Most tailored fit for a specific chassis shape",
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a 24/7 Home Server or Media Server Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed active airflow rather than passive elevation alone, a stated noise level or speed control, and USB power so it only runs while the mini PC itself is on."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Quiet 120mm USB Fan fits this specifically: Verified aluminum construction, not just an aluminum-look finish."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Aluminum Mini PC Cooler Stand with 120mm Fan offers: Verified aluminum construction with a genuine passive-mode use case. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "IFCASE Aluminum Desktop Stand for Mac Studio already covers the essentials: Verified aircraft-grade aluminum construction. The main thing you'd be paying extra for elsewhere in this list is cooling power you may not need."
       }
     ]
@@ -161,19 +161,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Material authenticity",
     "description": "We compared whether the product documentation identifies real aluminum structure, aerospace-grade, aircraft-grade, or CNC-machined, rather than a vague metallic finish, before including it in this list."
   },
   {
-    "title": "",
+    "title": "Thermal relevance",
     "description": "We did not assume material conductivity translates directly into lower CPU or GPU temperatures, and prioritized listings with documented CFM or DBA figures where available."
   },
   {
-    "title": "",
+    "title": "Airflow compatibility",
     "description": "We compared support geometry and vent clearance because aluminum is ineffective if the stand blocks the computer's own airflow."
   },
   {
-    "title": "",
+    "title": "Value and desk impact",
     "description": "We considered price, load rating, surface protection, and whether the material premium produces a practical ownership benefit versus a plastic or acrylic alternative."
   }
 ];

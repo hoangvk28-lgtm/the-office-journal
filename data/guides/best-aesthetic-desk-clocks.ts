@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Which has the most reviews?",
-    "a": ""
+    "a": "The DreamSky Wooden Digital Alarm Clock (alternate listing), with 6,145 reviews at 4.6 stars."
   },
   {
     "q": "Is there a dimmable option?",
@@ -44,8 +44,8 @@ export const faq = [
     "a": "Yes, several listings here appear to be the same core design from the same brand at slightly different prices. Compare current listings before choosing."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The DreamSky Wooden Digital Alarm Clock (alternate listing) at $15.29."
   }
 ];
 
@@ -57,15 +57,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41A45jPnYsL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Movement Type",
     "table": {
       "headers": [
-        "",
+        "What you want",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "A quiet, non-ticking movement",
           "Peakeep Slim Digital Mirror Aesthetic Alarm Clock for Bedrooms Desk Decor"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $16",
           "DreamSky Wooden Digital Alarm Clock for Bedrooms Desk with Large Numbers"
         ],
         [
-          "",
+          "Mid-range",
           "Uscce Wooden Digital Alarm Clocks for Bedrooms with 0-100% Dimmable Display"
         ],
         [
@@ -103,14 +103,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs Corded",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-Powered",
         "text": "Runs on batteries alone, so it can sit anywhere on a desk or shelf with no cord in the way, at the cost of an eventual battery swap. In this comparison: Peakeep Slim Digital Mirror Aesthetic Alarm Clock for Bedrooms Desk Decor, uscce Wooden Digital Alarm Clocks for Bedrooms with 0-100% Dimmable Display, DreamSky Wooden Digital Alarm Clock for Bedroom with Large Numbers."
       },
       {
-        "label": "",
+        "label": "Corded (Plug-In)",
         "text": "Draws continuous power from a wall outlet, often adding features like USB charging ports or a battery backup for outages, but it has to sit within cord length of a plug. In this comparison: none in this specific roundup, since most picks here are battery powered."
       }
     ],
@@ -120,12 +120,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Purpose: Everyday Use vs Gift",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your purpose",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday functional desk use",
           "Peakeep Slim Digital Mirror Aesthetic Alarm Clock for Bedrooms Desk Decor"
         ],
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buying as a Gift Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine material language, such as hand carved, real marble, or real crystal, rather than a marble-look or crystal-look plastic finish, plus a stated production or engraving lead time if personalization is involved."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Uscce Wooden Digital Alarm Clocks for Bedrooms with 0-100% Dimmable Display (Alt) fits this specifically: Same proven dimmable design as the other uscce listing. That's the kind of detail that signals a deliberate gift rather than a purely functional purchase."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real material or craftsmanship upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is styling rather than function."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "We separated slim mirror-finish designs from warm wooden-body designs, since these are the two distinct aesthetic styles dominating current results."
   },
   {
-    "title": "",
+    "title": "Flagged near-identical listings directly",
     "description": "Several products here are the same design from the same brand at slightly different prices or review counts, we noted this rather than presenting them as distinct choices."
   },
   {

@@ -48,7 +48,7 @@ export const faq = [
     "a": "A combiner like the IPCamPower pick is specifically designed for that scenario, letting you run one cable to both nearby cameras rather than extending distance separately to each one with two individual extenders."
   },
   {
-    "q": "",
+    "q": "How do I know if my camera uses 24V PoE or the standard 802.3af/at PoE?",
     "a": "Checking your camera's own product documentation or power specification label for the exact PoE standard it requires, and matching that against an extender's explicitly stated compatibility, is the reliable way to confirm before buying an extender that specifically excludes 24V devices."
   }
 ];
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/21mxN3gYJbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Installation Scenario",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "IPCamPower POE Combiner Splitter Adapter ($19.99)"
         ],
         [
-          "",
-          ""
+          "Under $66",
+          "Gigabit PoE+ Extender Outdoor IP67 ($65.99)"
         ],
         [
-          "",
-          ""
+          "Under $80",
+          "PoE Over Coax Converter EOC ($79.11)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "LINOVISION Long Distance Extender ($89.99)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Maximum Distance vs Full Gigabit Speed",
     "cards": [
       {
-        "label": "",
+        "label": "Maximum distance (LINOVISION)",
         "text": "Reaches up to 2600ft in paired mode, but bandwidth drops to just 10Mbps past 1960ft, a real tradeoff for cameras with modest bandwidth needs at extreme distance."
       },
       {
@@ -129,11 +129,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your camera is extremely far away and doesn't need high bitrate (a basic monitoring camera), the LINOVISION's extreme distance is the right tradeoff. If you're running a high-resolution camera that needs its full bandwidth, the Gigabit extender keeps that intact over a more modest distance."
   },
   {
-    "subheading": "",
+    "subheading": "By Existing Wiring",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your existing wiring",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -141,7 +141,7 @@ export const howToChoose: HowToChooseSection[] = [
           "PoE Over Coax Converter BNC to Ethernet (EOC)"
         ],
         [
-          "",
+          "New Cat5e/Cat6 Ethernet runs",
           "LINOVISION Long Distance Extender or Gigabit PoE+ Extender"
         ],
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Harsh Outdoor Climate Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An extender with an explicitly wide operating temperature range beyond just an IP waterproof rating, since extreme heat or cold can affect electronics even in a weatherproof enclosure."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Gigabit PoE+ Extender Outdoor specifically states a -40F to 158F operating range, the widest temperature tolerance of any pick here."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price buys more reach than any other pick here."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -185,19 +185,19 @@ export const howWeEvaluated = [
     "description": "Compared documented speed reduction as distance from the PoE source increases."
   },
   {
-    "title": "",
+    "title": "Outdoor Weatherproofing Rating",
     "description": "Compared IP-rated waterproofing and operating temperature range for outdoor camera installations."
   },
   {
-    "title": "",
+    "title": "Installation Method Fit",
     "description": "Compared straight-line extension, coax reuse, and multi-camera combining approaches to different real installation scenarios."
   },
   {
-    "title": "",
+    "title": "PoE Standard Compatibility",
     "description": "3af/at compliance and any explicit compatibility exclusions like 24V PoE."
   },
   {
-    "title": "",
+    "title": "Documentation Transparency",
     "description": "Compared how clearly each listing discloses bandwidth or compatibility tradeoffs rather than only headline figures."
   }
 ];

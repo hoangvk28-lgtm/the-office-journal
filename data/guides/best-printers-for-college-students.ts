@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HP DeskJet 4355 Wireless All"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HP DeskJet 4355 Wireless All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $54",
           "Inkless Portable Printer for Travel"
         ],
         [
-          "",
-          ""
+          "Up to $140",
+          "Brother HL"
         ]
       ]
     }
@@ -106,22 +106,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Brother HL",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Inkless Portable Printer for Travel unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "HP DeskJet 4355 Wireless All"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HP DeskJet 4355 Wireless All is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Brother HL's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Inkless Portable Printer for Travel covers the same job at a lower price."
       }
     ]
@@ -157,11 +157,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Fit for major-specific printing",
     "description": "Weighed each printer against the real needs of different majors, color output for design coursework, low cost-per-page for high-volume reading majors, and document feeders for scanning-heavy programs."
   },
   {
-    "title": "",
+    "title": "Cost-per-page at semester volume",
     "description": "Estimated cost across a realistic 200-400 page semester print volume, comparing inkjet ink cost against laser toner cost at that same page count."
   },
   {
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "Compared flatbed-only scanning against auto document feeders for the specific case of multi-page handwritten problem sets or signed forms professors commonly require."
   },
   {
-    "title": "",
+    "title": "Device compatibility",
     "description": "Checked mobile and tablet printing support as a proxy for compatibility with school-issued Chromebooks or locked-down Windows builds that block standard driver installs."
   },
   {

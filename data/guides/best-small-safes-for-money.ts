@@ -40,7 +40,7 @@ export const faq = [
     "a": "The KYODOLED Small Metal Lock Box, with a removable 5-compartment coin tray, though it's a portable lockbox, not a mountable safe."
   },
   {
-    "q": "",
+    "q": "What's the cheapest option?",
     "a": "49, a portable lockbox suited to petty cash rather than large sums."
   },
   {
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/413jIpPxMOL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Protection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,30 +69,30 @@ export const howToChoose: HowToChooseSection[] = [
           "Voncabay Money Safe Box for Home with Digital Keypad"
         ],
         [
-          "",
+          "Genuine anti-removal, bolt-down support",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $14",
           "KYODOLED Small Metal Lock Box with Key for Cash and Medication"
         ],
         [
-          "",
+          "Up to $53",
           "Bonsaii Safe Box with Electronic Keypad for Home Office"
         ]
       ]
@@ -102,26 +102,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Physical Key vs Electronic Access",
     "cards": [
       {
-        "label": "",
+        "label": "Physical key",
         "text": "No batteries to fail, but a lost key means a lockout with no backup. In this comparison: PATRON Small Safe Box for Money with Code and Keys, KYODOLED Small Metal Lock Box with Key for Cash and Medication, KYODOLED Small Metal Combination Lock Box for Cash and Medication."
       },
       {
-        "label": "",
+        "label": "Electronic access",
         "text": "More convenient day to day, worth checking for a backup access method in case the battery dies. In this comparison: Yuanshikj Small Steel Security Safe Box with Keypad, Voncabay Money Safe Box for Home with Digital Keypad, Digital Electronic Money Safe, Bonsaii Small Safe Box with Electronic Keypad for Valuables, Bonsaii Safe Box with Electronic Keypad for Home Office."
       }
     ],
     "note": "Most buyers should default to electronic access with a confirmed backup method unless simplicity is the top priority."
   },
   {
-    "subheading": "",
+    "subheading": "By Fire Protection",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fire resistance claimed",
           "Voncabay Money Safe Box for Home with Digital Keypad"
         ],
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Storing Documents or Cash Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed interior dimension roomy enough for the actual items, plus a backup access method beyond just a keypad."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Yuanshikj Small Steel Security Safe Box with Keypad is worth checking against its listed interior dimensions before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're storing valuable or irreplaceable items, where Bonsaii Safe Box with Electronic Keypad for Home Office's higher price buys real security or fire-protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic theft deterrence for low-value items, where KYODOLED Small Metal Lock Box with Key for Cash and Medication covers the same job at a lower price."
       }
     ]
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "We checked whether mounting hardware ships in the box and can actually be installed, since an unanchored money safe can simply be carried away regardless of lock strength."
   },
   {
-    "title": "",
+    "title": "Compared cash-specific organization features",
     "description": "Coin trays, denomination-splitting shelves, and compartment layouts matter for a money safe differently than a general valuables safe. We flagged which picks include dedicated cash organization."
   },
   {

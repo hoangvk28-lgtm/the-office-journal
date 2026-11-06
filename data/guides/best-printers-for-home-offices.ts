@@ -61,83 +61,83 @@ export const heroImage = "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Technology",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Laser, lower cost per page at volume",
-          ""
+          "Brother DCP"
         ],
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "Canon PIXMA TR4720 All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $17",
           "Nelko P21 Bluetooth Label Maker Machine with Tape"
         ],
         [
-          "",
-          ""
+          "Up to $210",
+          "Brother DCP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Printing",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex (auto two-sided)",
         "text": "Prints both sides automatically, saves paper and time for double-sided documents. In this comparison: Canon PIXMA TS6520 Wireless Color Inkjet Printer, Brother DCP, HP OfficeJet Pro 8125 Wireless All, HP OfficeJet Pro 8125e Wireless All, Canon PIXMA TS4320 Wireless Color Inkjet Printer."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if you rarely need double-sided printing. In this comparison: Canon PIXMA TR4720 All, HP DeskJet 4355 Wireless All, Nelko P21 Bluetooth Label Maker Machine with Tape."
       }
     ],
     "note": "Default to duplex unless you're confident your printing is mostly single-sided."
   },
   {
-    "subheading": "",
+    "subheading": "By Scan Resolution",
     "note": "Check each pick's listed optical scan resolution in DPI against how you'll actually use scanning before buying, not just print specs."
   },
   {
     "subheading": "For Scanning Contracts or Receipts Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed optical scan resolution in DPI high enough to keep fine print legible, not just the printer's overall feature list."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Canon PIXMA TR4720 All is worth checking against its listed scan resolution before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You print regularly at moderate to high volume, where Brother DCP's duty cycle and cost-per-page give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only print occasionally at low volume, where Nelko P21 Bluetooth Label Maker Machine with Tape covers the same job at a lower price."
       }
     ]
@@ -150,7 +150,7 @@ export const howWeEvaluated = [
     "description": "Checked each printer's rated duty cycle and weighed it as a maximum ceiling, not a recommended monthly volume, since sustained use near the rated maximum wears a printer faster than intended."
   },
   {
-    "title": "",
+    "title": "Multi-user wifi handling",
     "description": "Considered how well each printer's print queue and wireless setup supports 2-3 people sharing it from different devices, a common home-office scenario."
   },
   {
@@ -158,11 +158,11 @@ export const howWeEvaluated = [
     "description": "Weighed scan resolution against practical home-office needs like reading contracts, receipts, and tax documents clearly, not just glossy photo scanning."
   },
   {
-    "title": "",
+    "title": "Feature relevance in 2026",
     "description": "Distinguished useful features from legacy ones like fax that add cost without matching how most home offices actually operate today."
   },
   {
-    "title": "",
+    "title": "Honest product category",
     "description": "Confirmed each pick is a genuine home-office printer or clearly flagged it as a specialty accessory, like the Bluetooth label maker, rather than blurring the two together."
   }
 ];

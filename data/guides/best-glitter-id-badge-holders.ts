@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/51VWr6hSrOL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Daily Movement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Mostly desk-based",
           "3 Pcs Pink Glitter ID Badge Holder with Clear Window"
         ],
         [
-          "",
+          "Frequent movement or bending",
           "3 Pcs Silver Glitter ID Badge Holder with Clear Window"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "3 Pcs Pink Glitter ID Badge Holder with Clear Window"
         ],
         [
-          "",
+          "Mid-range pick",
           "2 Pieces Glitter ID Badge Holder Vertical Badge Clip Key Chain Holder Silicone"
         ],
         [
-          "",
+          "Higher budget",
           "Gersoniel 4 Pcs Bling Crystal ID Badge Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Retractable vs Fixed Lanyard",
     "cards": [
       {
         "label": "3 Pcs Pink Glitter ID Badge Holder with Clear Window)",
         "text": "Extends for scanning, retracts out of the way when not needed."
       },
       {
-        "label": "",
+        "label": "Fixed lanyard",
         "text": "Simpler, no reel mechanism to wear out over time."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Card Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your credentials",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single ID only",
           "3 Pcs Silver Glitter ID Badge Holder with Clear Window"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Wet or Outdoor Workplace Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine waterproof rating, not just standard plastic construction."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3 Pcs Silver Glitter ID Badge Holder with Clear Window is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Gersoniel 4 Pcs Bling Crystal ID Badge Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 3 Pcs Pink Glitter ID Badge Holder with Clear Window already covers the job at the lowest price here."
       }
     ]

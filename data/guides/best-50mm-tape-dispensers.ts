@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41figfxBv-L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "Zuvo Heavy Duty Tape Gun and Dispenser with 6 Clear Packaging Tapes."
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Yueidung Electric Tape Cutting Machine"
         ],
         [
-          "",
+          "High-volume packing",
           "BriSunshine Automatic Tape Dispenser Cutter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Zuvo Heavy Duty Tape Gun and Dispenser with 6 Clear Packaging Tapes."
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Yamato Memoc Roll Tape"
         ],
         [
-          "",
+          "Higher budget",
           "BriSunshine Automatic Tape Dispenser Cutter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "Zuvo Heavy Duty Tape Gun and Dispenser with 6 Clear Packaging Tapes.",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Yueidung Electric Tape Cutting Machine"
         ],
         [
-          "",
-          ""
+          "Masking or specialty tape",
+          "Yamato Memoc Roll Tape"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Yueidung Electric Tape Cutting Machine is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where BriSunshine Automatic Tape Dispenser Cutter justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Zuvo Heavy Duty Tape Gun and Dispenser with 6 Clear Packaging Tapes. Clear already covers the job at the lowest price here."
       }
     ]

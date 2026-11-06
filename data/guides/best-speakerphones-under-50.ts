@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51zfICZQrEL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "EMEET M0 Plus Conference Speaker and Microphone"
         ],
         [
-          "",
+          "Simple touch-based call management",
           "CofunKool Conference Speaker and Microphone"
         ],
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $35",
+          "Cyber Acoustics ($34.99)"
         ],
         [
-          "",
-          ""
+          "Under $44",
+          "AIRHUG ($43.99)"
         ],
         [
-          "",
-          ""
+          "Under $46",
+          "CofunKool ($45.99)"
         ],
         [
-          "",
-          ""
+          "Under $50",
+          "EMEET M0 Plus ($49.99)"
         ]
       ]
     }
@@ -129,28 +129,28 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your meeting sizes might grow over time, the EMEET M0 Plus's daisy chain option is worth the premium. If you only ever host small 1-on-1 or small group calls, any of the other three picks work fine."
   },
   {
-    "subheading": "",
+    "subheading": "By Connection Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your connection preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simultaneous Bluetooth and USB",
           "AIRHUG (both active at once)"
         ],
         [
           "Switch between PC and phone with one button",
-          ""
+          "Cyber Acoustics"
         ],
         [
-          "",
-          ""
+          "USB-C with Bluetooth 5.0 dual mode",
+          "EMEET M0 Plus"
         ],
         [
           "Simple USB plug and play only",
-          ""
+          "CofunKool"
         ]
       ]
     }
@@ -159,24 +159,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office With Occasional Phone Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A speakerphone that keeps both a Bluetooth phone connection and a USB computer connection active without requiring you to switch modes mid-call."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The AIRHUG pick's simultaneous Bluetooth and USB-C connection specifically avoids the need to switch modes between a phone call and a computer call."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want daisy chain expansion and the longest battery life for growing meeting needs, where the EMEET M0 Plus delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need reliable dual-mode connectivity for small calls, where the Cyber Acoustics pick covers that for about $15 less."
       }
     ]
@@ -189,19 +189,19 @@ export const howWeEvaluated = [
     "description": "Compared mic count, pickup radius, and stated attendee capacity across the lineup."
   },
   {
-    "title": "",
+    "title": "Connectivity Flexibility",
     "description": "Checked whether Bluetooth and USB work simultaneously or require manual switching."
   },
   {
-    "title": "",
+    "title": "Noise Cancellation Technology",
     "description": "Compared stated echo cancellation figures and noise reduction algorithm claims."
   },
   {
-    "title": "",
+    "title": "Expandability",
     "description": "Checked which picks support daisy chain expansion for larger meeting scenarios."
   },
   {
-    "title": "",
+    "title": "Battery Life and Portability",
     "description": "Compared stated battery life, Bluetooth range, and physical portability features."
   }
 ];

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ScwflEUGL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "EDUP LOVE Starlink Mini PoE Injector 150W & Isolated Splitter"
         ],
         [
-          "",
+          "Genuine IP68 submersion-level waterproofing",
           "IP68 Waterproof DC PoE Injector Splitter"
         ],
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $37",
+          "IP68 Waterproof DC PoE Injector Splitter ($36.99)"
         ],
         [
-          "",
-          ""
+          "Under $63",
+          "SURVADV or XLTTYWL 150W Kit (both $62.99)"
         ],
         [
-          "",
-          ""
+          "Under $100",
+          "EDUP LOVE 150W Injector & Isolated Splitter ($99.99)"
         ]
       ]
     }
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "IP68 Waterproofing vs Detailed Electrical Protection",
     "cards": [
       {
-        "label": "",
+        "label": "IP68 waterproofing (IP68 pick)",
         "text": "Certified for prolonged water immersion, the strongest choice for genuine marine, RV, or heavy-rain exposure at the lowest price in this comparison."
       },
       {
@@ -125,11 +125,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your Starlink Mini faces genuine water exposure like on a boat or in heavy rain, the IP68 pick's submersion rating is the priority. If lightning and electrical surge protection matter more for your location, the EDUP LOVE pick's detailed protection specs are worth the higher price."
   },
   {
-    "subheading": "",
+    "subheading": "By Installation Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Roof-Mounted Vehicle Installation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reinforced locking connectors specifically designed to resist accidental disconnection from vehicle vibration or wind while driving, alongside genuine weatherproofing for constant outdoor exposure."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The IP68 pick specifically names reinforced locking connectors built to prevent disconnection from vehicle vibration or strong winds, ideal for a roof-mounted RV or vehicle setup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by that protection level."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Waterproof Rating Specificity",
     "description": "Compared IP68 certified submersion protection against general heavy-duty ABS housings without a specific IP rating."
   },
   {
-    "title": "",
+    "title": "Real Power Delivery",
     "description": "Compared documented injector and splitter wattage across the picks."
   },
   {
-    "title": "",
+    "title": "Surge and ESD Protection",
     "description": "Compared specifically stated surge voltage and ESD discharge protection ratings."
   },
   {
-    "title": "",
+    "title": "Installation Convenience",
     "description": "Compared whether a kit integrates with the existing Starlink Mini cable or requires additional setup."
   },
   {
-    "title": "",
+    "title": "Operating Temperature Range",
     "description": "Compared documented temperature tolerance for outdoor and mobile deployments."
   }
 ];

@@ -29,11 +29,11 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the best true 20-device charging cart?",
-    "a": ""
+    "a": "The Meteteel Fully Assembled 20 Device Laptop Charging Cart, with the largest confirmed review base among true 20-device carts, available in black or gray."
   },
   {
     "q": "Is there a cheaper true 20-device option?",
-    "a": ""
+    "a": "Yes, the VEVOR 20 Device Mobile Charging Cart at $309.90, the lowest price among true 20-device picks, and the only one confirmed for screens up to 15.6 inches."
   },
   {
     "q": "Are any of these picks actually smaller than 20 devices?",
@@ -60,42 +60,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "VEVOR 16 Device Charging Station with Lock & Key"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Meteteel Fully Assembled 20 Device Laptop Charging Cart for School"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $230",
           "VEVOR 16 Device Charging Station with Lock & Key"
         ],
         [
-          "",
+          "Up to $420",
           "Meteteel Fully Assembled 20 Device Laptop Charging Cart for School"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
         "label": "VEVOR 16 Device Charging Station with Lock & Key",
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to VEVOR 16 Device Charging Station with Lock & Key unless your fleet size or security needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Locking Security",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a School or Classroom Fleet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed bay geometry for your actual laptop model, zoned or timed charging for larger fleets, and a genuine locking door for unattended storage."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Meteteel Fully Assembled 20 Device Laptop Charging Cart for School is worth checking against its listed capacity and charging architecture before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're managing a larger fleet needing safe zoned charging and genuine security, where Meteteel Fully Assembled 20 Device Laptop Charging Cart for School's higher price buys real capacity and reliability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing a small number of devices with simple charging needs, where VEVOR 16 Device Charging Station with Lock & Key covers the same job at a lower price."
       }
     ]
@@ -165,8 +165,8 @@ export const howWeEvaluated = [
     "description": "The VEVOR true 20-device pick has both the lowest price and the largest confirmed screen-size support, a genuine value combination worth highlighting directly."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Review base weighted against the smaller-capacity alternatives",
+    "description": "The 16-device alternatives here carry thinner review bases (2-4 reviews) than the true 20-device picks (8-78 reviews), a real confidence gap to weigh against their locking or price advantages."
   }
 ];
 

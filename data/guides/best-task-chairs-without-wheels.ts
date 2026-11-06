@@ -63,31 +63,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Long You Sit Each Day",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your day",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Short, active sessions",
           "Bell Glides Replacement Office Chair Stool Fixed Castors Chair Feet Stopper"
         ],
         [
-          "",
+          "Standard full workday",
           "VINGLI Comfy Black Leather Office Desk Chair, Ergonomic High-Back Support"
         ],
         [
-          "",
+          "Uninterrupted 8+ hour days",
           "No Wheels Ergonomic Executive Office Chair with Footrest"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Bell Glides Replacement Office Chair Stool Fixed Castors Chair Feet Stopper"
         ],
         [
-          "",
+          "Mid-range pick",
           "Simple Deluxe Office Guest Chair with Padded Arm Rest No Wheels"
         ],
         [
-          "",
+          "Higher budget",
           "No Wheels Ergonomic Executive Office Chair with Footrest"
         ]
       ]
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Seat Height Range vs Your Desk",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 28-30 inch desk",
           "VINGLI Comfy Black Leather Office Desk Chair, Ergonomic High-Back Support"
         ],
         [
-          "",
+          "Taller or drafting-style desk",
           "Check the chair's maximum height range specifically"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, All-Day Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Real lumbar adjustment and a weight capacity rated comfortably above your actual weight, not just at it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "VINGLI Comfy Black Leather Office Desk Chair, Ergonomic High-Back Support is worth checking against its specific lumbar adjustment before assuming any 'ergonomic' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You sit 8+ hours a day and want adjustable lumbar, arms, and a higher weight rating, where No Wheels Ergonomic Executive Office Chair with Footrest justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your sitting sessions are shorter and more active, where Bell Glides Replacement Office Chair Stool Fixed Castors Chair Feet Stopper already covers the job at the lowest price here."
       }
     ]

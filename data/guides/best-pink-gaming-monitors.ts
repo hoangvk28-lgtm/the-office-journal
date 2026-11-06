@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Response-gaming-faq",
     "q": "Is a 1ms gaming monitor actually blur-free?",
     "a": "Not necessarily, the gray-to-gray number is one narrow measurement, panel technology, backlight behavior, and overdrive tuning all affect real perceived motion blur, check independent motion clarity testing instead."
   },
   {
-    "id": "",
+    "id": "Sync-faq",
     "q": "Does G-Sync work with an AMD graphics card?",
     "a": "Full G-Sync certification generally requires an NVIDIA GPU, FreeSync tends to work more broadly across both AMD and NVIDIA cards, check the monitor's specific certification against your actual GPU brand."
   },
   {
-    "id": "",
+    "id": "Speaker-gaming-faq",
     "q": "Are built-in gaming monitor speakers good enough?",
     "a": "They're a convenience for quick cable-free audio, but thin form factors limit bass and volume compared to even modest external speakers, treat them as a backup rather than a primary audio solution."
   },
   {
-    "id": "",
+    "id": "Refresh-gpu-faq",
     "q": "Is a 240Hz or 360Hz gaming monitor worth it?",
     "a": "Only if your GPU can actually push frame rates close to that number in the games you play, check your realistic frame rates first, pairing a high-refresh monitor with a GPU that can't fill it wastes the extra capability."
   },
   {
-    "id": "",
+    "id": "Strobe-faq",
     "q": "Can I use backlight strobing and adaptive sync at the same time?",
     "a": "Usually not, strobing modes often can't run simultaneously with G-Sync or FreeSync, check whether a specific monitor supports both together before assuming it's not a tradeoff."
   },
   {
-    "id": "",
+    "id": "Size-density-faq",
     "q": "Is a bigger gaming monitor always sharper?",
     "a": "No, stretching the same resolution across a larger screen reduces pixel density, a 32-inch 1440p monitor looks visibly softer than a 27-inch 1440p monitor at the same viewing distance."
   }
@@ -66,11 +66,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31bWeok3X0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By GPU Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your GPU output",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,7 +78,7 @@ export const howToChoose: HowToChooseSection[] = [
           "CUNPU 24“ Pink USBC Gaming Monitor for Laptop MacBook/Mac mini"
         ],
         [
-          "",
+          "Solid mid-range frame rates",
           "Pixio PXC248 Wave Pink 24 inch 200Hz Refresh Rate FHD 1080p Resolution 1500R"
         ],
         [
@@ -89,11 +89,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "CUNPU 24“ Pink USBC Gaming Monitor for Laptop MacBook/Mac mini"
         ],
         [
-          "",
+          "Mid-range pick",
           "Raywego 34 Inch Pink Curved Ultrawide Gaming Monitor"
         ],
         [
-          "",
+          "Higher budget",
           "DJiEX 34 Inch Pink Ultrawide Curved Gaming Monitor 165Hz"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "G-Sync vs FreeSync",
     "cards": [
       {
         "label": "CUNPU 24“ Pink USBC Gaming Monitor for Laptop MacBook/Mac mini)",
         "text": "Built and validated specifically for NVIDIA GPUs."
       },
       {
-        "label": "",
+        "label": "FreeSync",
         "text": "Works more broadly across AMD and NVIDIA cards in most cases."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Curvature",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard flat panel",
           "Pixio PXC248 Wave Pink 24 inch 200Hz Refresh Rate FHD 1080p Resolution 1500R"
         ],
         [
-          "",
+          "Curved for wider immersion",
           "Raywego 34 Inch Pink Curved Ultrawide Gaming Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Competitive Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Independent input lag testing, not just the headline refresh rate number, since the two specs don't always move together."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Pixio PXC248 Wave Pink 24 inch 200Hz Refresh Rate FHD 1080p Resolution 1500R is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where DJiEX 34 Inch Pink Ultrawide Curved Gaming Monitor 165Hz justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where CUNPU 24“ Pink USBC Gaming Monitor for Laptop MacBook/Mac mini already covers the job at the lowest price here."
       }
     ]

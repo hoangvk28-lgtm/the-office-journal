@@ -60,80 +60,80 @@ export const heroImage = "https://m.media-amazon.com/images/I/41y+vnwtbQL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "1-2 thin cables",
+          "Ultra Spec Cables"
         ],
         [
           "A mixed bundle of 3-5 cables",
           "Alex Tech 10ft - 1 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "Primeda-telecom Fiber Optic Fusion Splice Protection Sleeve 1000pcs, Come"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Ultra Spec Cables"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Uxcell Insulation Cable Protector 40mm/1.57 Inch-1m/3 Feet Black"
         ],
         [
-          "",
+          "Higher budget",
           "Primeda-telecom Fiber Optic Fusion Splice Protection Sleeve 1000pcs, Come"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
-        "label": "",
+        "label": "Zipper (e.g. Ultra Spec Cables)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "Alex Tech 10ft - 1 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ],
         [
           "Near a real heat source",
-          ""
+          "Uxcell Insulation Cable Protector 40mm/1.57 Inch-1m/3 Feet Black"
         ]
       ]
     }
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Alex Tech 10ft - 1 inch Cord Protector Wire Loom Tubing Cable Sleeve Split is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Primeda-telecom Fiber Optic Fusion Splice Protection Sleeve 1000pcs, Come justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Ultra Spec Cables already covers the job at the lowest price here."
       }
     ]

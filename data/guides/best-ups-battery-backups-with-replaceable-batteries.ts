@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "APC 850VA/510W Pro UPS Battery Backup for Office Electronics"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "APC UPS 600VA/330W UPS Battery Backup for Computer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $84",
           "APC UPS 600VA/330W UPS Battery Backup for Computer"
         ],
         [
-          "",
+          "Up to $300",
           "APC UPS 1500VA/900W Pure Sine Wave UPS for Computer"
         ]
       ]
@@ -94,11 +94,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Pure Sine Wave vs Modified Sine Wave",
     "cards": [
       {
-        "label": "",
+        "label": "Pure sine wave",
         "text": "Clean power matching wall-outlet quality, avoids APFC compatibility issues with modern PC power supplies. In this comparison: APC UPS 1500VA/900W Pure Sine Wave UPS for Computer."
       },
       {
-        "label": "",
+        "label": "Modified sine wave",
         "text": "Cheaper, but can cause buzzing or shutdown risk on APFC-equipped power supplies. In this comparison: APC UPS 1500VA/900W Battery Backup for PCs, APC 1000VA/600W Pro UPS Battery Backup for Office Electronics, APC 850VA/510W Pro UPS Battery Backup for Office Electronics, APC UPS 650VA/390W Battery Backup & Surge Protector for PC, APC UPS 600VA/330W UPS Battery Backup for Computer."
       }
     ],
@@ -112,24 +112,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a PC Plus Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Real watts (not VA) comfortably above your combined equipment draw, plus pure sine wave if your PC has an APFC power supply."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "APC UPS 1500VA/900W Pure Sine Wave UPS for Computer discloses the highest real capacity at 900W."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a high-draw workstation, multiple monitors, or NAS equipment, where APC UPS 1500VA/900W Pure Sine Wave UPS for Computer's higher watts capacity gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need brief runtime for a single low-draw device, where APC UPS 600VA/330W UPS Battery Backup for Computer covers the same job at a lower price."
       }
     ]
@@ -138,7 +138,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Standard vs. proprietary replacement battery parts",
     "description": "Prioritized picks using widely available standard replacement battery cartridges, since a proprietary or hard-to-source cell can cost nearly as much as a new unit, undermining the entire replaceable-battery value proposition."
   },
   {

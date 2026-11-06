@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Verify Official Hutch-to-Credenza Compatibility",
     "explanation": "Confirm the hutch is officially rated and fastens to the exact credenza model in home office credenzas with hutch, since hutches are frequently sold as separate components that only fit specific bases."
   },
   {
@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Check the open niche height and depth beneath the hutch, since a tall overall height figure doesn't tell you how much clear working space remains below it."
   },
   {
-    "criterion": "",
+    "criterion": "Check Wall Anchoring Requirements",
     "explanation": "Verify anti-tip and wall-fastening requirements, since a hutch raises the total assembled height and center of gravity significantly compared to the credenza alone."
   },
   {
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41FtiDY3A9L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Verify Official Hutch-to-Credenza Compatibility",
     "note": "Confirm the hutch is officially rated and fastens to the exact credenza model in home office credenzas with hutch, since hutches are frequently sold as separate components that only fit specific bases."
   },
   {
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check the open niche height and depth beneath the hutch, since a tall overall height figure doesn't tell you how much clear working space remains below it."
   },
   {
-    "subheading": "",
+    "subheading": "Check Wall Anchoring Requirements",
     "note": "Verify anti-tip and wall-fastening requirements, since a hutch raises the total assembled height and center of gravity significantly compared to the credenza alone."
   },
   {
@@ -80,7 +80,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Function Classified Before Comparison",
     "description": "Sorted each product into storage credenza, credenza desk, file credenza, or desk-system credenza before ranking, since 'office credenza' spans meaningfully different furniture types that don't compare fairly against each other."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Compared published interior drawer, shelf, and cabinet dimensions rather than exterior width or door count alone, since partitions and hardware can meaningfully shrink real usable space."
   },
   {
-    "title": "",
+    "title": "File Compatibility Verified Directly",
     "description": "Checked letter/legal compatibility, filing direction, and lock coverage against each product's own documentation rather than assuming a 'file drawer' label means full hanging-file support."
   },
   {

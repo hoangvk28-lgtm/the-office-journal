@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31qOIWagKNL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Like-New Amazon Echo Show 8"
         ],
         [
-          "",
+          "Genuine Google Assistant compatibility",
           "Google Nest Hub (1st Gen), 7-inch Display"
         ],
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $100",
+          "Echo Show 5 ($99.99)"
         ],
         [
-          "",
-          ""
+          "Under $110",
+          "Google Nest Hub ($109.99) or Echo Spot ($109.99)"
         ],
         [
-          "",
-          ""
+          "Under $135",
+          "Like-New Echo Show 8 ($134.99)"
         ]
       ]
     }
@@ -118,18 +118,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Integrates with Amazon's broader Alexa smart home ecosystem, ideal if you already own other Echo devices or Alexa-compatible smart home gear."
       },
       {
-        "label": "",
+        "label": "Google Assistant (Nest Hub)",
         "text": "Integrates with Google's ecosystem instead, the better fit if your smart home devices already work with Google Home or Google Assistant."
       }
     ],
     "note": "Check which ecosystem your existing smart lights, plugs, or cameras support before choosing, since mixing ecosystems can mean losing voice control over some devices."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your primary use",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -138,11 +138,11 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Compact bedside or desk use",
-          ""
+          "Echo Show 5 (5.5 in)"
         ],
         [
-          "",
-          ""
+          "Nightstand alarm clock specifically",
+          "Echo Spot (round display)"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Video Calling with Family Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A larger screen with a higher-resolution camera and auto-framing technology for a more natural calling experience."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Like-New Echo Show 8's 13 MP auto-framing camera offers the most capable video calling experience here."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger screen and built-in smart home hub, where the Like-New Echo Show 8 delivers both at a price still under $135."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want a basic, affordable entry into smart displays, where the Echo Show 5 covers that for under $100."
       }
     ]
@@ -177,7 +177,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Voice Assistant Ecosystem",
     "description": "Distinguished Alexa-based picks from the Google Assistant-based Nest Hub, since ecosystem compatibility affects existing smart home integration."
   },
   {
@@ -185,15 +185,15 @@ export const howWeEvaluated = [
     "description": "Compared display size and form factor, from compact bedside clocks to larger general-purpose touchscreens."
   },
   {
-    "title": "",
+    "title": "Camera and Privacy Controls",
     "description": "Compared built-in camera presence and physical privacy controls like mic/camera off buttons and shutters."
   },
   {
-    "title": "",
+    "title": "Smart Home Hub Integration",
     "description": "Checked which picks include a built-in smart home hub versus relying on a separate hub device."
   },
   {
-    "title": "",
+    "title": "Sustainability Materials",
     "description": "Compared recycled material content across the lineup where specifically stated."
   }
 ];

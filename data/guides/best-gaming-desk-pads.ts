@@ -60,56 +60,56 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Rx7zvpbbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Surface Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Soft feel for typing",
+          "Gaming Mouse Pad"
         ],
         [
           "Balance of feel and durability",
-          ""
+          "Large Extended Gaming Mouse Pad with Stitched Edges (31.5X15.7In) Mousepad"
         ],
         [
-          "",
+          "Wipeable, polished look",
           "SteelSeries QcK Gaming Mouse Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Gaming Mouse Pad"
         ],
         [
-          "",
+          "Mid-range pick",
           "KTRIO Large Gaming Mouse Pad Desk Mat for Gamer"
         ],
         [
-          "",
+          "Higher budget",
           "SteelSeries QcK Gaming Mouse Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Leather",
     "cards": [
       {
-        "label": "",
+        "label": "Cloth (e.g. Gaming Mouse Pad)",
         "text": "Softer feel, absorbs spills, shows staining faster."
       },
       {
@@ -120,19 +120,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how much coffee and food realistically ends up near your desk."
   },
   {
-    "subheading": "",
+    "subheading": "By Setup Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Single keyboard and mouse",
+          "Large Extended Gaming Mouse Pad with Stitched Edges (31.5X15.7In) Mousepad"
         ],
         [
-          "",
+          "Dual monitor, wider setup",
           "Check for extra-large or extended sizing"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "7In) Mousepad is worth checking against its specific edge construction before assuming any desk pad holds up the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a wipeable, longer-lasting surface with a more polished look, where SteelSeries QcK Gaming Mouse Pad justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward daily protection and comfort, where Gaming Mouse Pad already covers the job at the lowest price here."
       }
     ]

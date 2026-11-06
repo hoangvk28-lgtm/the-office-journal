@@ -60,16 +60,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Pkc+S9DWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "The fastest NVMe enclosure with premium multi-display support",
-          ""
+          "Satechi Thunderbolt 5 CubeDock"
         ],
         [
           "NVMe expansion with broad compatibility at a low price",
@@ -81,34 +81,34 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "The lowest possible price for basic NVMe expansion",
-          ""
+          "USB C Hub 6-in-1 with M.2 NVMe SSD Enclosure"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "USB C Hub 6-in-1 ($28.99)"
         ],
         [
-          "",
-          ""
+          "Under $60",
+          "UGREEN Revodok NVMe 10-in-1 ($59.99)"
         ],
         [
-          "",
-          ""
+          "Under $70",
+          "Qwiizlab Mac mini USB Hub & Stand ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $400",
+          "Satechi Thunderbolt 5 CubeDock ($399.99)"
         ]
       ]
     }
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Premium All-in-One vs Budget Storage Expansion",
     "cards": [
       {
-        "label": "",
+        "label": "Premium all-in-one (Satechi CubeDock)",
         "text": "Combines the fastest NVMe speed with high-end multi-display support in one unit, at a significant price premium."
       },
       {
@@ -128,11 +128,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you need fast storage alongside demanding multi-monitor work, the Satechi CubeDock is worth the investment. If you just want to add fast storage to your existing setup affordably, either budget pick covers that well."
   },
   {
-    "subheading": "",
+    "subheading": "By Host Device",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -141,7 +141,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Any modern MacBook, Windows laptop, or older Mac mini",
-          ""
+          "UGREEN Revodok NVMe 10-in-1"
         ]
       ]
     }
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Video Editors Working Directly Off the Dock's Storage Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A high stated MB/s enclosure speed and active cooling, so sustained large file access during editing doesn't bottleneck or thermal-throttle."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Satechi CubeDock specifically states up to 6000MB/s with an adaptive cooling system engineered for sustained heavy workloads like long renders."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want the fastest possible enclosure speed with premium multi-display support built in, where the Satechi CubeDock justifies its $399.99 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You just need basic NVMe storage expansion and display output, where the USB C Hub 6-in-1 delivers that for $28.99."
       }
     ]
   }
@@ -176,19 +176,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Enclosure Interface Speed",
     "description": "2 NVMe enclosures in each dock."
   },
   {
-    "title": "",
+    "title": "Cooling Design",
     "description": "Compared active fan cooling against fanless passive aluminum heat dissipation."
   },
   {
-    "title": "",
+    "title": "Total Port Count",
     "description": "Compared connectivity beyond the storage slot, including display, network, and charging ports."
   },
   {
-    "title": "",
+    "title": "Device Compatibility Scope",
     "description": "Compared broad multi-device compatibility against narrow single-model compatibility."
   },
   {

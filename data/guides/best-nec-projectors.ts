@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/31GO5on8V+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fully dark, dedicated room",
           "NEC Higher Brightness Video Projector (NP-V332X)"
         ],
         [
-          "",
+          "Some ambient light",
           "NEC NP-PA500X-13ZL 5000-Lumen Advanced Professional Installation Projector with"
         ],
         [
@@ -80,23 +80,23 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "NEC NP-V311X Projector"
         ],
         [
-          "",
+          "Mid-range pick",
           "NEC NP-PA500X-13ZL 5000-Lumen Advanced Professional Installation Projector with"
         ],
         [
-          "",
+          "Higher budget",
           "NEC NP-PA622U 6200 Lumen Advanced Professional Installation Projector"
         ]
       ]
@@ -110,18 +110,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "No bulb to replace and instant full brightness, at a higher upfront price that pays off mainly under frequent, heavy use."
       },
       {
-        "label": "",
+        "label": "Lamp-based models (e.g. NEC NP-V311X Projector)",
         "text": "Lower purchase price, but the bulb dims over time and eventually needs replacing, an added cost most buyers forget to budget for."
       }
     ],
     "note": "Most casual, weekly-use buyers should default to a lamp-based pick unless they'll run it daily, where laser's near-zero maintenance pays for itself over a few years."
   },
   {
-    "subheading": "",
+    "subheading": "By Throw Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "NEC Higher Brightness Video Projector (NP-V332X) is worth checking against its documented native contrast figures before assuming any headline contrast number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want laser reliability and top-tier brightness, where NEC NP-PA622U 6200 Lumen Advanced Professional Installation Projector justifies the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want casual, occasional use, where NEC NP-V311X Projector already covers the job at the lowest price here."
       }
     ]

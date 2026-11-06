@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Are AMD mini PCs better for gaming than Intel ones?",
-    "a": ""
+    "a": "AMD's integrated Radeon graphics generally outperform Intel's integrated graphics at similar price points, a genuine advantage for light gaming."
   },
   {
     "q": "Does a higher AMD model number always mean a newer or faster chip?",
@@ -53,10 +53,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41OccK3d-wL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
+        "What you're running",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -65,26 +65,26 @@ export const howToChoose: HowToChooseSection[] = [
           "Beelink SER5 Pro Mini PC"
         ],
         [
-          "",
+          "Demanding, sustained workloads",
           "GEEKOM A9 Max High AI Productivity Mini PC"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $320",
           "Beelink SER5 Pro Mini PC"
         ],
         [
-          "",
+          "Mid-range",
           "GEEKOM [2026 Edition Multitasking Mini PC A7 MAX with AMD Ryzen 9 7940HS"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fanless (Passive) vs Actively Cooled",
     "cards": [
       {
-        "label": "",
+        "label": "Fanless, Passive Cooling",
         "text": "Completely silent with no moving parts, at the cost of throttling under sustained heavy load. In this comparison: check each listing's cooling design directly."
       },
       {
-        "label": "",
+        "label": "Actively Cooled (Fan)",
         "text": "Sustains heavier workloads longer without throttling, at the cost of some fan noise under load. In this comparison: GEEKOM A9 Max High AI Productivity Mini PC, GEEKOM A8 MAX Gaming Mini PC AMD Ryzen 9 8945HS 32GB DDR5 & 1TB SSD, GEEKOM [2026 Edition Multitasking Mini PC A7 MAX with AMD Ryzen 9 7940HS."
       }
     ],
@@ -112,12 +112,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By RAM and Storage Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lightest low-cost configuration",
           "Beelink SER5 Pro Mini PC"
         ],
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For GPU-Accelerated Work or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated GPU or a confirmed Oculink/Thunderbolt EGPU connection explicitly stated in the listing, not just a generic \"gaming capable\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "GEEKOM A9 Max High AI Productivity Mini PC fits this specifically: Most current-generation AMD chip in this guide."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what GEEKOM A9 Max High AI Productivity Mini PC offers: Most current-generation AMD chip in this guide. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Beelink SER5 Pro Mini PC already covers the essentials: capable 6-core processor well beyond bare-bones budget tiers. The main thing you'd be paying extra for elsewhere in this list is headroom you may not need."
       }
     ]
@@ -158,7 +158,7 @@ export const howToChoose: HowToChooseSection[] = [
 export const howWeEvaluated = [
   {
     "title": "AMD's integrated graphics advantage weighted honestly",
-    "description": ""
+    "description": "Weighted AMD's generally stronger integrated Radeon graphics at similar price points as a genuine advantage for buyers wanting light gaming or GPU-accelerated tasks."
   },
   {
     "title": "AMD naming complexity flagged to avoid generation confusion",
@@ -175,7 +175,7 @@ export const howWeEvaluated = [
 ];
 
 export const introParagraphs = [
-  "",
+  "AMD's integrated Radeon graphics generally outperform Intel's integrated graphics at similar price points, worth weighing this genuine advantage if light gaming or GPU-accelerated tasks matter to you alongside general productivity performance.",
   "AMD's Ryzen mobile chip naming can be confusing, model numbers don't always indicate generation clearly, worth verifying the specific chip's actual release generation and benchmark performance rather than assuming a higher model number always means newer or faster."
 ];
 

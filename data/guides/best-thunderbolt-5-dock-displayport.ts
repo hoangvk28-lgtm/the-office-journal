@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41lwtc0cgPL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $283",
+          "StarTech Thunderbolt 5 USB4 Dock ($282.99)"
         ],
         [
-          "",
-          ""
+          "Under $303",
+          "Kensington EQ Pro Thunderbolt 5 Dock ($302.41)"
         ],
         [
-          "",
-          ""
+          "Under $450",
+          "Dell Pro Bundle ($449.95) or Sonnet Echo 20 ($449.99)"
         ]
       ]
     }
@@ -124,11 +124,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you want to avoid any additional cable-buying step, the Dell bundle's complete kit is the most straightforward. If you already own a compatible DisplayPort cable, the other picks may offer better core value for the same budget."
   },
   {
-    "subheading": "",
+    "subheading": "By Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -140,7 +140,7 @@ export const howToChoose: HowToChooseSection[] = [
           "StarTech Thunderbolt 5 USB4 Dock"
         ],
         [
-          "",
+          "Windows-focused professional workstation",
           "Dell Pro Bundle or Sonnet Echo 20"
         ]
       ]
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Monitor With DisplayPort-Only Input Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock with an independent DisplayPort output rather than one that shares bandwidth or requires switching away from other connected displays."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The StarTech pick specifically supports DisplayPort, HDMI, and USB-C outputs independently and simultaneously, making it a strong fit if one of your monitors is DisplayPort-only."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "95 price removes any additional cable-shopping step."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -180,11 +180,11 @@ export const howWeEvaluated = [
     "description": "Compared whether each listing bundles a DisplayPort cable or requires a separate purchase."
   },
   {
-    "title": "",
+    "title": "Real DisplayPort Resolution Ceiling",
     "description": "Compared documented DisplayPort-specific resolution and refresh rate limits versus the dock's HDMI output."
   },
   {
-    "title": "",
+    "title": "Platform Optimization",
     "description": "Compared Mac-optimized versus cross-platform DisplayPort support."
   },
   {

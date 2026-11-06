@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Officemate Expandable Drawer Organizer Tray"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Officemate Expandable Drawer Organizer Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $14",
           "TRU RED Expandable Plastic Drawer Organizer"
         ],
         [
-          "",
+          "Up to $28",
           "Homeify Under Desk Drawer Organizer Clamp"
         ]
       ]
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to TRU RED Expandable Plastic Drawer Organizer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Officemate Expandable Drawer Organizer Tray"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Officemate Expandable Drawer Organizer Tray is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Homeify Under Desk Drawer Organizer Clamp's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where TRU RED Expandable Plastic Drawer Organizer covers the same job at a lower price."
       }
     ]
@@ -153,7 +153,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Weave openness vs. small-item containment",
     "description": "We checked whether each mesh or wire design's weave is tight enough to contain small items like paper clips, or open enough that they could fall through."
   },
   {
@@ -161,11 +161,11 @@ export const howWeEvaluated = [
     "description": "We favored open mesh designs that let you see contents at a glance, a genuine convenience over a solid-walled organizer requiring you to open it fully."
   },
   {
-    "title": "",
+    "title": "Attachment method disclosure",
     "description": "We clearly distinguished clamp-on, no-drill desk-hanging baskets from wall-mounted or in-drawer alternatives included for capacity or containment comparison."
   },
   {
-    "title": "",
+    "title": "Depth and capacity quantification",
     "description": "We noted actual capacity rather than accepting a vague 'spacious storage' claim from any listing."
   }
 ];

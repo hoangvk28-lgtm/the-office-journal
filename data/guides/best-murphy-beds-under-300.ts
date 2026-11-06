@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51H6j9qVxwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $86",
+          "Happybuy ($85.26)"
         ],
         [
-          "",
-          ""
+          "Under $210",
+          "Queen Hardware Kit ($207.00)"
         ],
         [
-          "",
-          ""
+          "Under $275",
+          "SOFTSEA Twin ($271.99)"
         ],
         [
-          "",
-          ""
+          "Under $300",
+          "Create-A-Bed ($299.00)"
         ]
       ]
     }
@@ -122,31 +122,31 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Costs less upfront but requires sourcing plywood, tools, and construction time, pushing true total cost higher and requiring woodworking skill."
       },
       {
-        "label": "",
+        "label": "Complete cabinet bed (SOFTSEA)",
         "text": "Costs more upfront but arrives as a finished furniture piece needing only assembly, no separate lumber shopping or cutting required."
       }
     ],
     "note": "If you have woodworking tools, skill, and time, a hardware kit like the Queen Hardware Kit or Create-A-Bed saves money once you factor in your own labor. If you want a straightforward assembly without a construction project, the SOFTSEA Twin is the simpler path."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall type",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Wood stud walls",
           "Queen Hardware Kit or Create-A-Bed"
         ],
         [
           "Solid concrete or wood stud walls",
-          ""
+          "SOFTSEA Twin"
         ],
         [
-          "",
-          ""
+          "Professional installation available",
+          "Happybuy (recommends carpenter)"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Renter or Temporary Living Situation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A pick that doesn't require permanent wall anchoring into studs, since renters often can't drill into walls without landlord approval or a security deposit risk."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Buyers in this situation should carefully verify wall mounting requirements before purchase, since all four picks here specifically require anchoring into studs or solid walls rather than offering a freestanding option."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a proven, lifetime-warrantied system with decades of commercial hotel use behind it, where the Create-A-Bed kit delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need the core spring mechanism and already have carpentry help, where the Happybuy kit covers that for about $214 less."
       }
     ]
@@ -181,7 +181,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hardware vs Complete Furniture",
     "description": "Distinguished bare hardware kits requiring separate lumber from fully assembled cabinet beds."
   },
   {
@@ -189,15 +189,15 @@ export const howWeEvaluated = [
     "description": "Compared stated weight limits and mattress thickness compatibility across the lineup."
   },
   {
-    "title": "",
+    "title": "Wall and Structural Requirements",
     "description": "Checked stud, concrete, or plaster wall requirements for each pick's installation."
   },
   {
-    "title": "",
+    "title": "Warranty and Support",
     "description": "Compared warranty length and manufacturer support availability across all four picks."
   },
   {
-    "title": "",
+    "title": "Total Cost Transparency",
     "description": "Checked whether listings disclosed additional lumber, mattress, or accessory costs beyond the sticker price."
   }
 ];

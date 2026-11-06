@@ -43,8 +43,8 @@ export const faq = [
     "a": "This framing largely exists to serve buyers explicitly searching after discovering left-handed options are limited, a useful search even though most of the category already defaults to right-handed."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "Does a bigger review base matter more for right-handed mice than other categories?",
+    "a": "It's a strong signal here specifically, since right-handed vertical mice represent the market default, the largest review bases genuinely reflect the deepest accumulated real-world evidence for that exact ergonomic curve."
   }
 ];
 
@@ -59,65 +59,65 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Logitech Lift Vertical Ergonomic Wireless Mouse"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Anker 2.4G Wireless Ergonomic Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $21",
+          "Anker 2.4G Wireless Ergonomic Mouse"
         ],
         [
-          "",
+          "Up to $59",
           "Logitech Lift Vertical Ergonomic Wireless Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Rechargeable vs Disposable Battery",
     "cards": [
       {
-        "label": "",
+        "label": "Rechargeable battery",
         "text": "No recurring battery purchases, usually a USB-C charge cable does the job in downtime. In this comparison: ProtoArc EM11 NL Wireless Ergonomic Vertical Mouse."
       },
       {
-        "label": "",
+        "label": "Disposable battery",
         "text": "Simple to swap anywhere without carrying a charge cable, at the cost of ongoing battery purchases. 4G Wireless Ergonomic Mouse, Logitech Lift Vertical Ergonomic Wireless Mouse, Logitech Lift Vertical Ergonomic Wireless Mouse, TECKNET Ergonomic Mouse."
       }
     ],
     "note": "Default to rechargeable unless you specifically want to avoid ever plugging the mouse in to charge."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "Anker 2.4G Wireless Ergonomic Mouse"
         ]
       ]
     }
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist or Forearm Strain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A pronounced vertical angle matched to your hand size, with reviews specifically mentioning strain relief after the adjustment period."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Anker 2.4G Wireless Ergonomic Mouse is worth checking against its listed hand-size guidance before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You use a mouse for many hours daily and strain relief or sensor precision is the priority, where Logitech Lift Vertical Ergonomic Wireless Mouse's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "4G Wireless Ergonomic Mouse covers the same job at a lower price."
       }
     ]

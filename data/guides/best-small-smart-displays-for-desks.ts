@@ -49,38 +49,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/31qOIWagKNL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 7-inch display",
           "Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant"
         ],
         [
-          "",
-          ""
+          "Around 5.5-inch display",
+          "Amazon Echo Show 5"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $90",
+          "Amazon Echo Show 5"
         ],
         [
-          "",
+          "Up to $NaN",
           "Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant"
         ]
       ]
@@ -90,42 +90,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "With Camera vs No-Camera Privacy Pick",
     "cards": [
       {
-        "label": "",
+        "label": "With camera",
         "text": "Enables video calls and visual check-ins, worth it if you'll actually use that capability. In this comparison: Amazon Echo Show 5."
       },
       {
-        "label": "",
+        "label": "No camera",
         "text": "Privacy-focused, no camera pointed at your workspace at all. In this comparison: Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant."
       }
     ],
     "note": "Default to no-camera unless you specifically plan to use the display for video calls."
   },
   {
-    "subheading": "",
+    "subheading": "By Voice Assistant Ecosystem",
     "note": "Check each pick's voice assistant ecosystem against your existing smart home devices and calendar service before buying, not just screen specs."
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine front-facing camera with decent resolution, and motorized tracking if you move around during calls."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Amazon Echo Show 5 includes a front-facing camera for video calls."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger screen, motorized tracking, or better audio, where Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant's features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple clock and notification glance display, where Amazon Echo Show 5 covers the same job at a lower price."
       }
     ]

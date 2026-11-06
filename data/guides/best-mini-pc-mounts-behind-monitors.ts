@@ -37,15 +37,15 @@ export const faq = [
   },
   {
     "q": "Is there an Intel NUC-specific option?",
-    "a": ""
+    "a": "Yes, the HumanCentric Mounting Bracket for Intel NUC, with a large review base and the lowest price in this comparison."
   },
   {
     "q": "Which has the most reviews overall?",
-    "a": ""
+    "a": "The HumanCentric Thin Client Mount Bracket (general-purpose version), with 702 reviews at 4.4 stars."
   },
   {
     "q": "Which has the highest rating?",
-    "a": ""
+    "a": "The VIVO Dell OptiPlex mount and the Monzlteck wall/VESA mount are tied at 4.6 stars."
   }
 ];
 
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41nWvL8pqlL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Surface",
     "table": {
       "headers": [
-        "",
+        "Where it's going",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -73,26 +73,26 @@ export const howToChoose: HowToChooseSection[] = [
           "HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm"
         ],
         [
-          "",
+          "Wall or under-desk",
           "Monzlteck Adjustable Small Device Wall Mount Or VESA Mount Behind the Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $15",
           "HumanCentric Mounting Bracket for Intel NUC mini pc VESA Monitor Arm 75x75"
         ],
         [
-          "",
+          "Mid-range",
           "Adjustable Thin Client Mini PC Mount Bracket"
         ],
         [
@@ -106,42 +106,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Fit vs Universal Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-Specific Fit",
         "text": "Matches one specific chassis shape exactly, generally a more secure fit for that exact model. In this comparison: HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm."
       },
       {
-        "label": "",
+        "label": "Universal / Multi-Brand",
         "text": "Works across several mini PC brands with adjustable hardware, more flexible if you might switch devices later. In this comparison: VIVO Behind Monitor Mini PC VESA Mount Designed for Dell OptiPlex Micro."
       }
     ],
     "note": "Confirm your exact mini PC model against the listing's stated compatibility either way, since even a \"universal\" mount has real size limits."
   },
   {
-    "subheading": "",
+    "subheading": "By Post-Install Port Access",
     "note": "None of these picks specifically advertise preserved front-port access after mounting; check each listing's product photos for where the ports land once installed if that matters to you."
   },
   {
     "subheading": "For a Home Lab Rack Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of 10-inch (home-lab) versus 19-inch (commercial) rack compatibility, since these are different standards, plus whether it's full or half rack-unit width."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm fits this specifically: Largest, most proven review base in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is broader compatibility you may not need."
       }
     ]
@@ -163,7 +163,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Review volume and rating together",
-    "description": ""
+    "description": "We weighted both metrics, noting where a brand-specific product has a smaller but still strong review base."
   }
 ];
 

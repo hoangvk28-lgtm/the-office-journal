@@ -13,15 +13,15 @@ export const buyingCriteria = [
     "explanation": "Evaluate how fingerprints, dust, and light scuffs show under normal office lighting, since gloss level and color both affect how visible daily wear becomes."
   },
   {
-    "criterion": "",
+    "criterion": "Inspect Scratch Contrast Risk",
     "explanation": "Check whether a scratch would expose a contrasting substrate color underneath the finish, which is more visually jarring on some color-and-material combinations than others."
   },
   {
-    "criterion": "",
+    "criterion": "Verify Component Color Match",
     "explanation": "Compare color consistency across the top, case, drawers, doors, and any hutch, since add-on components don't always match perfectly across production batches."
   },
   {
-    "criterion": "",
+    "criterion": "Use Manufacturer-Approved Cleaning Methods",
     "explanation": "Follow the specific cleaning guidance for the finish type rather than a generic furniture polish, since the wrong cleaner can dull or damage certain gloss and matte finishes."
   }
 ];
@@ -65,22 +65,22 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Evaluate how fingerprints, dust, and light scuffs show under normal office lighting, since gloss level and color both affect how visible daily wear becomes."
   },
   {
-    "subheading": "",
+    "subheading": "Inspect Scratch Contrast Risk",
     "note": "Check whether a scratch would expose a contrasting substrate color underneath the finish, which is more visually jarring on some color-and-material combinations than others."
   },
   {
-    "subheading": "",
+    "subheading": "Verify Component Color Match",
     "note": "Compare color consistency across the top, case, drawers, doors, and any hutch, since add-on components don't always match perfectly across production batches."
   },
   {
-    "subheading": "",
+    "subheading": "Use Manufacturer-Approved Cleaning Methods",
     "note": "Follow the specific cleaning guidance for the finish type rather than a generic furniture polish, since the wrong cleaner can dull or damage certain gloss and matte finishes."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Function Classified Before Comparison",
     "description": "Sorted each product into storage credenza, credenza desk, file credenza, or desk-system credenza before ranking, since 'office credenza' spans meaningfully different furniture types that don't compare fairly against each other."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Compared published interior drawer, shelf, and cabinet dimensions rather than exterior width or door count alone, since partitions and hardware can meaningfully shrink real usable space."
   },
   {
-    "title": "",
+    "title": "File Compatibility Verified Directly",
     "description": "Checked letter/legal compatibility, filing direction, and lock coverage against each product's own documentation rather than assuming a 'file drawer' label means full hanging-file support."
   },
   {

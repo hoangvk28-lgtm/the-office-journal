@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "A preamp boosts a microphone's naturally quiet signal to a usable recording level, and how much clean gain it provides before introducing audible hiss determines whether quieter microphones sound clear or noisy. Interfaces with 55 to 60 DB of clean gain comfortably handle most dynamic and ribbon microphones without noticeable hiss. Check the specific gain figure in DB and cross-reference it against the microphone you actually plan to use."
   },
   {
-    "criterion": "",
+    "criterion": "USB vs Thunderbolt Latency",
     "explanation": "Connection type affects real-world recording latency more than most buyers realize: USB now delivers latency low enough for real-time monitoring in the vast majority of home setups, while Thunderbolt's lower latency mainly pays off in larger multi-channel professional rigs. Check for a stated round-trip latency figure at a standard buffer size before assuming Thunderbolt is worth the added cost for your setup."
   },
   {
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/414YNuwZzbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Input Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,22 +73,22 @@ export const howToChoose: HowToChooseSection[] = [
           "Depensheng DX16 DJ Sound Controller Interface w/USB Drive for Computer"
         ],
         [
-          "",
-          ""
+          "Two sources at once",
+          "Fender Quantum LT 16"
         ],
         [
-          "",
+          "Multiple simultaneous sources",
           "MOTU 16A 32x34 Thunderbolt 4/USB4 audio interface for Mac"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,25 +96,25 @@ export const howToChoose: HowToChooseSection[] = [
           "Depensheng DX16 DJ Sound Controller Interface w/USB Drive for Computer"
         ],
         [
-          "",
+          "Mid-range pick",
           "Tascam US-16x08 Rackmount USB Audio/MIDI Interface for Recording"
         ],
         [
-          "",
+          "Higher budget",
           "MOTU 16A 32x34 Thunderbolt 4/USB4 audio interface for Mac"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs Thunderbolt Connectivity",
     "cards": [
       {
-        "label": "",
+        "label": "USB (e.g. Fender Quantum LT 16)",
         "text": "Works on virtually any modern computer, often runs on bus power alone, plenty of speed for a small home setup at a lower price."
       },
       {
-        "label": "",
+        "label": "Thunderbolt (higher-end setups)",
         "text": "Lower latency and higher bandwidth for larger channel counts, but costs more and needs a Thunderbolt port."
       }
     ],
@@ -124,13 +124,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Bit Depth and Sample Rate",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "24-bit standard, suitable for most home recording",
-          ""
+          "Fender Quantum LT 16"
         ],
         [
           "Verify your DAW's actual project settings first",
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Podcasting and Streaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Low-latency direct monitoring so you can hear your own voice without delay while recording or streaming live."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Fender Quantum LT 16 is worth checking against its specific direct-monitoring spec before assuming any interface handles live monitoring equally well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You regularly record multiple sources at once and want the best all-around pick, where MOTU 16A 32x34 Thunderbolt 4/USB4 audio interface for Mac justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're recording a single source, where Depensheng DX16 DJ Sound Controller Interface w/USB Drive for Computer already covers the job at the lowest price here."
       }
     ]
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "A preamp boosts a microphone's naturally quiet signal to a usable recording level, and how much clean gain it provides before introducing audible hiss determines whether quieter microphones sound clear or noisy."
   },
   {
-    "title": "",
+    "title": "USB vs Thunderbolt Latency",
     "description": "Connection type affects real-world recording latency more than most buyers realize: USB now delivers latency low enough for real-time monitoring in the vast majority of home setups, while Thunderbolt's lower latency mainly pays off in larger multi-channel professional rigs."
   },
   {

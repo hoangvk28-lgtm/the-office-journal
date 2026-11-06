@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "ASUS 24\" USB"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "AV Access iDock P10 KVM Docking Station 2 Monitors 2 PC"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $170",
           "AV Access Docking Station KVM Switch 2 Monitors 2 Laptops"
         ],
         [
-          "",
+          "Up to $234",
           "AV Access KVM Switch Dock 2 Monitors 2 Laptops"
         ]
       ]
@@ -105,15 +105,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to AV Access Docking Station KVM Switch 2 Monitors 2 Laptops unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "AV Access iDock P10 KVM Docking Station 2 Monitors 2 PC"
         ]
       ]
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "AV Access iDock P10 KVM Docking Station 2 Monitors 2 PC is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where AV Access KVM Switch Dock 2 Monitors 2 Laptops's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where AV Access Docking Station KVM Switch 2 Monitors 2 Laptops covers the same job at a lower price."
       }
     ]

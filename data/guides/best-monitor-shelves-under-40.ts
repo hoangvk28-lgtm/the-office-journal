@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51YEL4BLDcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,44 +83,44 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "$32-$33",
+          "Klearlook Foldable ($32.99) or Ufine Bamboo ($32.99)"
         ],
         [
-          "",
-          ""
+          "$39-$40",
+          "Simple Trending with USB ($39.97) or HOOBRO 2-Tier ($39.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Fixed-Width vs Adjustable-Width Design",
     "cards": [
       {
         "label": "Fixed-Width (Simple Trending, HOOBRO, Ufine)",
         "text": "Simpler, one-piece construction that works well once set up, but doesn't adapt if you rearrange your desk or change equipment later."
       },
       {
-        "label": "",
+        "label": "Adjustable-Width (Klearlook)",
         "text": "Folds to 3 different widths, useful if your desk setup changes or you want to fit a full-sized mechanical keyboard underneath."
       }
     ],
     "note": "If your desk configuration is stable and unlikely to change, a fixed-width pick works fine. If you anticipate rearranging your setup, the adjustable Klearlook pick offers more long-term flexibility."
   },
   {
-    "subheading": "",
+    "subheading": "By Charging Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your charging needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -128,7 +128,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Simple Trending 2-Tier Metal Dual Monitor Stand with USB"
         ],
         [
-          "",
+          "No built-in charging needed",
           "Klearlook, Ufine Bamboo, or HOOBRO"
         ]
       ]
@@ -138,24 +138,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full-Sized Mechanical Keyboard Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An adjustable-width design that can extend wide enough to fit a full-sized mechanical keyboard underneath comfortably."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5 inch maximum width is specifically designed to fit a full-sized mechanical keyboard underneath."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in USB charging and the most spacious 2-tier storage, where the Simple Trending pick delivers both features at the top of this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A bamboo aesthetic with repositionable storage covers your needs, where the Ufine pick delivers this for slightly less than the pricier alternatives."
       }
     ]
@@ -164,15 +164,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "USB Charging Integration",
     "description": "Checked which pick includes a built-in USB charging port directly on the stand for phones or tablets."
   },
   {
-    "title": "",
+    "title": "Width and Angle Adjustability",
     "description": "Compared foldable width adjustment and multi-angle elevation options across the lineup for fitting different desk configurations."
   },
   {
-    "title": "",
+    "title": "2-Tier Storage Capacity",
     "description": "Compared bottom-tier dimensions for accommodating larger items like gaming keyboards, consoles, or cable boxes."
   },
   {
@@ -180,7 +180,7 @@ export const howWeEvaluated = [
     "description": "Compared stated weight capacity figures relevant to supporting heavier ultrawide monitor setups."
   },
   {
-    "title": "",
+    "title": "Dual-Monitor Platform Width",
     "description": "Checked which picks are specifically sized to unify a dual-monitor setup onto one continuous platform."
   }
 ];

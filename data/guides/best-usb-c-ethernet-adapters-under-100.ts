@@ -59,8 +59,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $100",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A strong alternative with a different tradeoff",
-          ""
+          "USB C to Ethernet Adapter 2.5Gb"
         ]
       ]
     }
@@ -78,8 +78,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,7 +87,7 @@ export const howToChoose: HowToChooseSection[] = [
           "TP-Link USB C to Ethernet Adapter"
         ],
         [
-          "",
+          "Best overall value",
           "UGREEN USB C to Ethernet Adapter"
         ]
       ]
@@ -108,11 +108,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to UGREEN USB C to Ethernet Adapter unless your specific use case points toward TP-Link USB C to Ethernet Adapter's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -121,7 +121,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A close secondary option worth comparing",
-          ""
+          "USB C to Ethernet Adapter 2.5Gb"
         ]
       ]
     }
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "UGREEN USB C to Ethernet Adapter is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on TP-Link USB C to Ethernet Adapter, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by UGREEN USB C to Ethernet Adapter without needing the higher-tier features."
       }
     ]
@@ -156,23 +156,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every recommended product must be new, in stock and up to $100 on the article refresh date; stale sale prices are automatically disqualified."
   },
   {
-    "title": "",
+    "title": "Budget-ladder context",
     "description": "Explicitly show what changes between the next-lower tier, the 10GbE crossover tier, and the next-higher tier so this page is not a cloned generic ranking."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize price against link rate/USB host bandwidth, NIC chipset and the minimum usable setup cost rather than raw feature count."
   },
   {
-    "title": "",
+    "title": "Evidence split",
     "description": "We separated driver/features and PD passthrough figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
-    "title": "",
+    "title": "Threshold-specific ownership verdict",
     "description": "Judge thermals/cable strain, warranty/support, replacement accessories and the chance that a buyer should save money or step up a tier instead of spending the full $100."
   }
 ];

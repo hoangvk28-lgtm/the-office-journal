@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/31sko6c9NQL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Genuine battery-powered portability",
           "KODAK Luma 150 Portable Mini Projector, Battery Powered, Speaker"
         ],
         [
-          "",
+          "Pocket-sized, take-anywhere design",
           "AKASO Mini Projector, Pocket-Sized DLP Portable Movie Cookie Projector"
         ],
         [
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -92,11 +92,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Magcubic 2026 Upgraded HY300PRO Mini Projector with WiFi and Bluetooth"
         ],
         [
-          "",
+          "Mid-range, built-in battery included",
           "Mini Projector with WiFi and Bluetooth, Built-in Battery"
         ],
         [
-          "",
+          "Higher budget, established brand",
           "KODAK Luma 150 Mini Projector, 1080p Input, Battery"
         ]
       ]
@@ -120,8 +120,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Real ANSI Lumens vs Marketing Claims",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Camping and Off-Grid Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated real-world battery runtime at full or medium brightness, not just the projector's idle or eco-mode figure, since manufacturers often quote the longer, dimmer runtime as the headline number."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "KODAK Luma 150 Portable Mini Projector, Battery Powered, Speaker is worth checking against independent battery-runtime tests before assuming the marketed hours apply at usable brightness."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need reliable indoor brightness and don't mind staying plugged in, where AKASO WT50 Mini Projector with WiFi and Bluetooth, 1080P DLP delivers steadier performance than a battery-powered model at the same price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need occasional casual viewing and portability matters more than peak brightness, where Magcubic 2026 Upgraded HY300PRO Mini Projector covers the job at the lowest price in this lineup."
       }
     ]

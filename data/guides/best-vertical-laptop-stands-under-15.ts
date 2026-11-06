@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41xZCdOa22L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "The absolute lowest price",
           "Ahonnpely Vertical Laptop Stand, Adjustable 3-in-1"
         ],
         [
@@ -77,7 +77,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Vaydeer Vertical Laptop Stand Holder Organizer"
         ],
         [
-          "",
+          "Storage for two laptops",
           "Vaydeer Vertical Laptop Stand, Dual Slots 4-in-1"
         ],
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "Ahonnpely Vertical Laptop Stand ($8.99)"
         ],
         [
-          "",
-          ""
+          "$12 to $15",
+          "Vaydeer single-slot ($12.99), Vaydeer dual-slot ($13.86), or TECKNET ($13.99)"
         ]
       ]
     }
@@ -114,22 +114,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Lighter and generally cheaper, adequate for holding a closed laptop's weight without excessive flex."
       },
       {
-        "label": "",
+        "label": "Aluminum (TECKNET)",
         "text": "Feels sturdier and includes protective silicone grips, at a marginal price difference from the plastic alternatives."
       }
     ],
     "note": "At this price range, the material difference is more about feel and scratch protection than actual load-bearing capability, since both handle typical laptop weights fine."
   },
   {
-    "subheading": "",
+    "subheading": "By Storage Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "You need to store",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "One laptop",
           "Ahonnpely, single-slot Vaydeer, or TECKNET"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Larger Gaming or Workstation Laptop Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "3 inches, since larger gaming and workstation laptops are often thicker and wider than a standard 13-15 inch ultrabook."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3 inch maximum compatibility, covering larger laptops confidently."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) is the only pick here offering that combination."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) covers that core need at the lowest price in this comparison."
       }
     ]
@@ -173,19 +173,19 @@ export const howWeEvaluated = [
     "description": "3 inches) and any specific width adjustability range, since a mismatch means the laptop simply won't sit securely."
   },
   {
-    "title": "",
+    "title": "Named brand compatibility check",
     "description": "We favored listings that name specific compatible laptop brands directly over vague \"fits most laptops\" language, since a named list is more directly checkable against your own laptop."
   },
   {
-    "title": "",
+    "title": "Material comparison",
     "description": "We distinguished ABS plastic construction from aluminum, since these affect both perceived durability and, in one case, the presence of scratch-protective silicone grips."
   },
   {
-    "title": "",
+    "title": "Single vs dual-slot capacity",
     "description": "We noted which stands support storing one laptop versus two side by side, a real capacity difference relevant to anyone managing multiple laptops."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $15 on the date this guide was checked; stands that only hit this tier during a temporary sale were excluded."
   }
 ];

@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31WtoZYBB5L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Keyboard crumbs",
           "Completely upgraded Car Vacuum, Portable Mini Cordless Cleaner"
         ],
         [
-          "",
+          "Whole-desk cleaning",
           "Black+Decker, Dustbuster AdvancedClean Handheld Vacuum Cordless, Compact Home"
         ],
         [
-          "",
+          "Car interior",
           "Sycoodeal Car Vacuum Cleaner, Mini Vacuum Portable Cordless, 25000PA Powerful"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Completely upgraded Car Vacuum, Portable Mini Cordless Cleaner"
         ],
         [
-          "",
+          "Mid-range pick",
           "Ego Car Vacuum Portable Cordless"
         ],
         [
-          "",
+          "Higher budget",
           "Sycoodeal Car Vacuum Cleaner, Mini Vacuum Portable Cordless, 25000PA Powerful"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Corded vs Cordless",
     "cards": [
       {
         "label": "Completely upgraded Car Vacuum, Portable Mini Cordless Cleaner)",
         "text": "Consistent suction, no battery to manage, lower price."
       },
       {
-        "label": "",
+        "label": "Cordless",
         "text": "Portable and quiet, but suction fades as the battery drains."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Suction Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday light cleaning",
           "Black+Decker, Dustbuster AdvancedClean Handheld Vacuum Cordless, Compact Home"
         ],
         [
-          "",
+          "Maximum suction power",
           "Ego Car Vacuum Portable Cordless"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tight Keyboard Crevices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A narrow brush or crevice nozzle attachment included in the box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Black+Decker, Dustbuster AdvancedClean Handheld Vacuum Cordless, Compact Home is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Sycoodeal Car Vacuum Cleaner, Mini Vacuum Portable Cordless, 25000PA Powerful justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Completely upgraded Car Vacuum, Portable Mini Cordless Cleaner already covers the job at the lowest price here."
       }
     ]

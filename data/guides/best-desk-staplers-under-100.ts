@@ -36,7 +36,7 @@ export const faq = [
     "a": "The stated capacity is a tested maximum, not a comfortable daily number, if you regularly staple near that ceiling, choose a stapler rated with real headroom above your typical stack thickness."
   },
   {
-    "q": "",
+    "q": "Are electric staplers loud?",
     "a": "They produce a distinct motor click or whir each time they fire, check reviews specifically for noise complaints if you'll use it near coworkers in a quiet shared office."
   },
   {
@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31e-T-f1TGL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Stack Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, a few sheets",
           "Mini Stapler with Staple Remover"
         ],
         [
-          "",
-          ""
+          "A regular office stack",
+          "Swingline Stapler"
         ],
         [
-          "",
-          ""
+          "Consistently thick stacks",
+          "Black Desk Organizer Set"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "Mini Stapler with Staple Remover"
         ],
         [
-          "",
+          "Mid-range pick",
           "Bostitch Office Stapler Heavy Duty"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Black Desk Organizer Set"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Manual vs Electric",
     "cards": [
       {
         "label": "Mini Stapler with Staple Remover)",
         "text": "No power dependency, reliable for any volume."
       },
       {
-        "label": "",
+        "label": "Electric",
         "text": "Reduces hand strain at high volume, depends on charge or power."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Staple Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Standard 26/6 staples",
+          "Swingline Stapler"
         ],
         [
-          "",
+          "A specific alternate size",
           "Bostitch Office Stapler Heavy Duty"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Center-of-Document Stapling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A deep throat depth spec, not just a standard corner-reach stapler."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Swingline Stapler is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Black Desk Organizer Set justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Mini Stapler with Staple Remover already covers the job at the lowest price here."
       }
     ]

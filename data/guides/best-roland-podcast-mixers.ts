@@ -61,20 +61,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ZQwWgK6BL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Guest Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Solo host or 1 guest",
-          ""
+          "FIFINE Gaming Audio Mixer"
         ],
         [
           "2-3 people in the room",
-          ""
+          "Roland GO:MIXER STUDIO"
         ],
         [
           "4 or more guests regularly",
@@ -84,53 +84,53 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "FIFINE Gaming Audio Mixer"
         ],
         [
-          "",
+          "Mid-range pick",
           "Roland GO:MIXER PRO-X Audio Mixer for Smartphones"
         ],
         [
-          "",
+          "Higher budget",
           "Roland VR-6HD Ultra-compact Audio/Video Mixer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Mixer vs Simple Interface",
     "cards": [
       {
         "label": "Roland VR-6HD Ultra-compact Audio/Video Mixer)",
         "text": "Gives you physical faders and knobs for live gain riding, useful when hosting 3+ guests."
       },
       {
-        "label": "",
+        "label": "Compact interface (e.g. FIFINE Gaming Audio Mixer)",
         "text": "Simpler and cheaper for a solo host or two-person show, less desk footprint but fewer physical controls."
       }
     ],
     "note": "Skip the full mixer if you're a solo host recording to a laptop."
   },
   {
-    "subheading": "",
+    "subheading": "By Recording Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Computer-based recording via USB",
+          "Roland GO:MIXER STUDIO"
         ],
         [
           "Standalone SD card recording as a backup",
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Livestreaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Zero-latency direct monitoring and simple loopback routing so you can hear yourself and other audio without lag while broadcasting."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Roland GO:MIXER STUDIO is worth checking against its specific monitoring-latency spec before assuming any mixer handles live streaming equally well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're hosting multiple guests regularly and want physical channel control, where Roland VR-6HD Ultra-compact Audio/Video Mixer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're a solo host just starting out, where FIFINE Gaming Audio Mixer already covers the job at the lowest price here."
       }
     ]

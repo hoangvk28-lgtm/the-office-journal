@@ -53,68 +53,68 @@ export const heroImage = "https://m.media-amazon.com/images/I/31z5JT0yL+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Connectivity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Wireless freedom",
+          "Anker 2.4G Wireless Ergonomic Mouse"
         ],
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "Anker 2.4G Wireless Ergonomic Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "TECKNET Wired Mouse"
         ],
         [
-          "",
+          "Up to $58",
           "Logitech Lift Vertical Ergonomic Wireless Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Rechargeable vs Disposable Battery",
     "cards": [
       {
-        "label": "",
+        "label": "Rechargeable battery",
         "text": "No recurring battery purchases, usually a USB-C charge cable does the job in downtime. 4G Wireless Ergonomic Mouse, Logitech Lift Vertical Ergonomic Wireless Mouse, Lekvey Ergonomic Mouse, ProtoArc EM11 NL Wireless Ergonomic Vertical Mouse."
       },
       {
-        "label": "",
+        "label": "Disposable battery",
         "text": "Simple to swap anywhere without carrying a charge cable, at the cost of ongoing battery purchases. In this comparison: Luhaso Ergonomic Vertical Wireless Mouse, TECKNET Wired Mouse, Anker USB Wired Vertical Mouse, Attoe Gaming Mouse with 5D Rocker."
       }
     ],
     "note": "Default to rechargeable unless you specifically want to avoid ever plugging the mouse in to charge."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "Anker 2.4G Wireless Ergonomic Mouse"
         ]
       ]
     }
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist or Forearm Strain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A pronounced vertical angle matched to your hand size, with reviews specifically mentioning strain relief after the adjustment period."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Anker 2.4G Wireless Ergonomic Mouse is worth checking against its listed hand-size guidance before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You use a mouse for many hours daily and strain relief or sensor precision is the priority, where Logitech Lift Vertical Ergonomic Wireless Mouse's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional use, where TECKNET Wired Mouse covers the same job at a lower price."
       }
     ]

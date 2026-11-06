@@ -61,16 +61,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/31zlK2OuOML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "High bandwidth and power for a 4K camera",
-          ""
+          "REVODATA 2.5G 36W PoE Splitter"
         ],
         [
           "Multiple voltage options for a PTZ camera with accessories",
@@ -81,35 +81,35 @@ export const howToChoose: HowToChooseSection[] = [
           "5A Output, Dual DC Plug Compatible"
         ],
         [
-          "",
-          ""
+          "The lowest price for a confirmed 5.5x2.1mm 5V camera",
+          "DSLRKIT DC 5V 2.4A Active PoE Splitter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $11",
+          "DSLRKIT DC 5V 2.4A ($10.50)"
         ],
         [
-          "",
-          ""
+          "Under $14",
+          "PoE Splitter 5V2.5A Dual Plug ($13.96)"
         ],
         [
-          "",
-          ""
+          "Under $19",
+          "REVODATA 2.5G 36W Splitter ($18.19)"
         ],
         [
-          "",
-          ""
+          "Under $79",
+          "LINOVISION Industrial PoE++ Splitter ($78.99)"
         ]
       ]
     }
@@ -118,31 +118,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fixed Connector vs Dual-Compatible Connector",
     "cards": [
       {
-        "label": "",
+        "label": "Fixed connector (DSLRKIT)",
         "text": "1mm connector size, requiring you to confirm your exact camera's connector before buying."
       },
       {
-        "label": "",
+        "label": "Dual-compatible connector (PoE Splitter 5V2.5A)",
         "text": "1mm sizes, removing the guesswork if you're unsure which exact size your camera uses."
       }
     ],
     "note": "If you've already confirmed your camera's exact DC connector size, the fixed-connector DSLRKIT pick's lower price is a fine choice. If you're unsure or buying for a camera you haven't measured yet, the dual-compatible pick removes that risk."
   },
   {
-    "subheading": "",
+    "subheading": "By Camera Power Requirement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your camera's power need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Standard 5V IP camera",
+          "PoE Splitter 5V2.5A or DSLRKIT DC 5V 2.4A"
         ],
         [
           "High-power 4K camera needing 12V/3A",
-          ""
+          "REVODATA 2.5G 36W PoE Splitter"
         ],
         [
           "PTZ camera with wiper or IR accessories",
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Popular Smart Home Camera Bridge Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit hardware revision compatibility warnings, since manufacturers sometimes change connector sizes between hardware versions of the same product line without renaming it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The DSLRKIT pick specifically warns about a Philips Bridge hardware revision changing DC socket size, a useful heads-up before assuming compatibility with your specific unit."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by its switchable multi-voltage design."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "50, the lowest price in this comparison."
       }
     ]
@@ -185,19 +185,19 @@ export const howWeEvaluated = [
     "description": "Compared documented power delivery relevant to different IP camera power draws."
   },
   {
-    "title": "",
+    "title": "Connector Compatibility Documentation",
     "description": "Compared how clearly each listing discloses DC connector size and any device-specific compatibility warnings."
   },
   {
-    "title": "",
+    "title": "Speed Support",
     "description": "5Gbps speed options relevant to camera resolution."
   },
   {
-    "title": "",
+    "title": "Electrical Protection",
     "description": "Compared isolation voltage and other named safety features."
   },
   {
-    "title": "",
+    "title": "Multi-Voltage Flexibility",
     "description": "Compared fixed-voltage splitters against switchable multi-voltage designs."
   }
 ];

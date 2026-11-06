@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "72in 3"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "SUNALLY Room Divider Privacy Screens"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $1",
           "Versare VersiPanel Acoustical Partition Wall"
         ],
         [
-          "",
+          "Up to $400",
           "KERRAM 3 Panel Foldable Office Partitions"
         ]
       ]
@@ -94,30 +94,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "On Wheels vs Fixed Base",
     "cards": [
       {
-        "label": "",
+        "label": "On wheels",
         "text": "Repositionable between rooms or layouts, worth locking casters once positioned. In this comparison: KERRAM 3 Panel Foldable Office Partitions, SUNALLY Room Divider Privacy Screens, 72in 3, 72in 3."
       },
       {
-        "label": "",
+        "label": "Fixed base",
         "text": "More stable for a divider that stays in one spot long-term. In this comparison: Versare VersiPanel Acoustical Partition Wall."
       }
     ],
     "note": "Default to a fixed base unless you need to reposition the divider often."
   },
   {
-    "subheading": "",
+    "subheading": "By Acoustic Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Genuine sound-dampening material",
           "SUNALLY Room Divider Privacy Screens"
         ],
         [
-          "",
+          "Visual separation is enough",
           "KERRAM 3 Panel Foldable Office Partitions"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SUNALLY Room Divider Privacy Screens is worth checking against its listed mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening or a taller, more stable divider, where KERRAM 3 Panel Foldable Office Partitions's material and construction give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual separation without noise or stability concerns, where Versare VersiPanel Acoustical Partition Wall covers the same job at a lower price."
       }
     ]
@@ -161,7 +161,7 @@ export const howWeEvaluated = [
     "description": "Ranked picks from the most affordable visual screen through the premium architectural option, so buyers can match spending to whether they need visual privacy or genuine sound transmission reduction."
   },
   {
-    "title": "",
+    "title": "Review base scrutiny across a wide price range",
     "description": "Weighed review count and rating together at every price tier, including flagging the premium architectural pick's notably lower rating despite its scale and cost."
   }
 ];

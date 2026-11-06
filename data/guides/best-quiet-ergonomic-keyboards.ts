@@ -53,16 +53,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EsewSK2nL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Minimal adjustment period",
+          "COLIKES Wireless Ergonomic Keyboard"
         ],
         [
           "Independent hand and wrist angling",
@@ -72,19 +72,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $40",
           "SABLUTE MA41 Wireless Keyboard and Mouse Combo"
         ],
         [
-          "",
+          "Mid-range",
           "Logitech Wave Keys Wireless Ergonomic Keyboard"
         ],
         [
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: Arteck Split Ergonomic Keyboard with Palm Rest."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest, Logitech Wave Keys Wireless Ergonomic Keyboard, Arteck Split Ergonomic Keyboard with Palm Rest."
       }
     ]
@@ -111,12 +111,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest cost, quiet typing",
           "SABLUTE MA41 Wireless Keyboard and Mouse Combo"
         ],
         [
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest fits this specifically: Quieter typing than mechanical switches while retaining tactile feel."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest offers: Quieter typing than mechanical switches while retaining tactile feel. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "SABLUTE MA41 Wireless Keyboard and Mouse Combo already covers the essentials: Matched quiet keyboard and mouse in one purchase. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -160,11 +160,11 @@ export const howWeEvaluated = [
     "description": "Weighed verified buyer feedback describing sound during active typing sessions rather than a single isolated keypress test."
   },
   {
-    "title": "",
+    "title": "Membrane vs. quiet-mechanical tactile tradeoff",
     "description": "Presented membrane and quiet scissor-switch designs as a genuine tradeoff between noise level and tactile feedback rather than assuming membrane is always the better choice."
   },
   {
-    "title": "",
+    "title": "Open-office and video-call suitability",
     "description": "Considered relevance to shared home-office and video-call environments specifically, where realistic typing noise output matters more than a lab-quiet spec."
   },
   {

@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/31T+2fGvShL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "48inch Neoprene Trolling Motor Cable Sleeve 2'' Dia Cable Organizer"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "CCTIVED 5Ft Neoprene Trolling Motor Cable Sleeve Compatible for Ultrex,"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "Trolling Motor Cable Sleeve, 60\" L Black Trolling Motor Sleeve Wire Cover"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,40 +95,40 @@ export const howToChoose: HowToChooseSection[] = [
           "48inch Neoprene Trolling Motor Cable Sleeve 2'' Dia Cable Organizer"
         ],
         [
-          "",
+          "Mid-range pick",
           "Trolling Motor Cable Sleeve, 60\" L Black Trolling Motor Sleeve Wire Cover"
         ],
         [
-          "",
+          "Higher budget",
           "Trolling Motor Cable Sleeve, 60\" L Black Trolling Motor Sleeve Wire Cover"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "48inch Neoprene Trolling Motor Cable Sleeve 2'' Dia Cable Organizer)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "CCTIVED 5Ft Neoprene Trolling Motor Cable Sleeve Compatible for Ultrex,"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "CCTIVED 5Ft Neoprene Trolling Motor Cable Sleeve Compatible for Ultrex, is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Trolling Motor Cable Sleeve, 60\" L Black Trolling Motor Sleeve Wire Cover justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 48inch Neoprene Trolling Motor Cable Sleeve 2'' Dia Cable Organizer already covers the job at the lowest price here."
       }
     ]

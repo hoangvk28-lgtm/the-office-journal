@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51zntOixwpL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $81",
+          "DEVAISE ($80.74)"
         ],
         [
-          "",
-          ""
+          "Under $140",
+          "SEDETA Farmhouse 3-Drawer ($139.99)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "SEDETA 4-Drawer w/Power Outlets ($159.99)"
         ],
         [
-          "",
-          ""
+          "Under $180",
+          "Letaya Lateral ($179.99)"
         ]
       ]
     }
@@ -122,7 +122,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Prioritizes aesthetic appeal and multi-room versatility, better suited to a visible home office or living space."
       },
       {
-        "label": "",
+        "label": "All-steel interlock (Letaya Lateral)",
         "text": "Prioritizes mechanical tipping safety and long-term corrosion resistance, better for pure functional storage."
       }
     ],
@@ -132,12 +132,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Charging and Power Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device charging needs",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Multiple devices charging simultaneously",
           "SEDETA 4-Drawer with Power Outlets"
         ],
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an L-Shaped Home Office Desk Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A filing cabinet with a matching desktop height and finish specifically designed to combine with a computer desk."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The SEDETA 4-Drawer pick is specifically noted as combinable with a computer desk to form an L-shaped office area."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in charging for multiple devices alongside flexible file sizing, where the SEDETA 4-Drawer pick delivers a unique feature no other pick here offers."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want mobile, tip-resistant storage without needing charging or farmhouse styling, where the DEVAISE pick covers that for a fraction of the price."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Built-In Charging Capability",
     "description": "Checked which picks include power outlets or USB ports for charging devices directly from the cabinet."
   },
   {
-    "title": "",
+    "title": "Drawer Safety Design",
     "description": "Compared mechanical interlock systems and center-caster tip prevention across the lineup."
   },
   {
-    "title": "",
+    "title": "Material and Sourcing",
     "description": "Compared FSC-certified wood, engineered wood, and all-steel construction across the lineup."
   },
   {
-    "title": "",
+    "title": "File Size Flexibility",
     "description": "Compared how many file size combinations each cabinet's hanging rail system accommodates."
   },
   {
-    "title": "",
+    "title": "Weight Capacity and Mobility",
     "description": "Compared stated weight capacity and caster design for mobile versus stationary use."
   }
 ];

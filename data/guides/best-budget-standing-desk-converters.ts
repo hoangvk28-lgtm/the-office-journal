@@ -29,11 +29,11 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the best overall budget converter?",
-    "a": ""
+    "a": "The VIVO Black 26 in Standing Desk Converter, with the largest review base of any budget option we researched at a strong 4.6 rating."
   },
   {
     "q": "What's the cheapest converter that still meets a quality bar?",
-    "a": ""
+    "a": "The Aconcept Extra-Slim 24 x 14 inch Standing Desk Converter at $49.99, meeting our minimum 4.1 rating threshold."
   },
   {
     "q": "How is this different from the Under $100 guide?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Eh8j3wCSL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "VIVO Black 26 in Standing Desk Converter"
         ],
         [
-          "",
+          "Dual monitors",
           "VIVO Black 26 in Standing Desk Converter"
         ],
         [
@@ -80,24 +80,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $50",
           "Aconcept Extra-Slim 24 x 14 inch White Lift Standing Desk Converter"
         ],
         [
-          "",
+          "Mid-range",
           "FITUEYES Height Adjustable Standing Desk 32 Inch Wide Sit to Stand Converter"
         ],
         [
           "No firm budget ceiling, prioritizing lift quality or brand",
-          ""
+          "Mount-It! Compact Standing Desk Riser"
         ]
       ]
     }
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: VIVO Black 26 in Standing Desk Converter, FITUEYES Height Adjustable Standing Desk 32 Inch Wide Sit to Stand Converter, Mount-It!"
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: none in this specific roundup, since most picks here use a manual lift."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "VIVO Black 26 in Standing Desk Converter"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "VIVO Black 26 in Standing Desk Converter"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VIVO Black 26 in Standing Desk Converter fits this specifically: Largest review base of any budget converter in our research."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Compact Standing Desk Riser offers: From an ergonomic-focused brand. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Aconcept Extra-Slim 24 x 14 inch White Lift Standing Desk Converter already covers the essentials: Lowest price in this comparison while still meeting our quality threshold. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]
@@ -174,7 +174,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Weighed review volume as genuine value evidence",
-    "description": ""
+    "description": "A large review base at a low price, like the VIVO top pick's over 15,000 reviews, is stronger evidence of real value than an unproven cheap listing."
   },
   {
     "title": "Flagged where current pricing wasn't confirmed",

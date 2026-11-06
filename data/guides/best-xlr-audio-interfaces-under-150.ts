@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31V1JqLqB3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $140",
+          "Behringer UMC404HD or Shure MVX2U Gen 2 (both $139.00)"
         ],
         [
-          "",
-          ""
+          "Under $148",
+          "Zoom PodTrak P4 ($147.99)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "Focusrite Scarlett Solo 4th Gen ($159.99)"
         ]
       ]
     }
@@ -125,15 +125,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you always record from the same desk, a computer-tethered interface is simpler and often cheaper for the fidelity. If you need to record away from your desk or want on-location flexibility, the PodTrak P4's standalone capability is worth the tradeoff."
   },
   {
-    "subheading": "",
+    "subheading": "By Channel Count Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your recording format",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Solo podcasting or streaming",
           "Focusrite Scarlett Solo 4th Gen or Shure MVX2U Gen 2"
         ],
         [
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Live Streaming or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Onboard DSP processing (limiter, compressor, noise gate, denoiser) that handles voice cleanup in real time without needing a separate mixer app running in the background."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Shure MVX2U Gen 2 specifically includes a real-time Denoiser and onboard voice modes controlled through ShurePlus MOTIV, built for exactly this streaming and gaming use case."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want smart auto-gain technology that removes manual level-setting entirely, where the Focusrite Scarlett Solo 4th Gen sits at the top of this tier for that reason."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need multiple simultaneous inputs on a budget, where the Behringer UMC404HD delivers 4 channels for about $20 less than the Scarlett Solo."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Onboard Recording Capability",
     "description": "Compared standalone SD-card recording versus computer-tethered-only designs."
   },
   {
-    "title": "",
+    "title": "Channel Count",
     "description": "Compared single versus multi-channel simultaneous XLR input support."
   },
   {
-    "title": "",
+    "title": "Built-in Processing",
     "description": "Compared onboard DSP voice modes versus DAW-dependent processing."
   },
   {
-    "title": "",
+    "title": "Driver and Software Support",
     "description": "Compared bundled control software and driver compatibility across platforms."
   },
   {
-    "title": "",
+    "title": "Form Factor",
     "description": "Compared desktop versus rack-mountable physical designs for studio fit."
   }
 ];

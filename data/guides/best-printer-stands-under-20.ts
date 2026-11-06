@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41yzmLPoapL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "HOOBRO ($19.99)"
         ],
         [
-          "",
-          ""
+          "Under $22",
+          "Asgolion ($21.99)"
         ],
         [
-          "",
-          ""
+          "Under $23",
+          "Gewudraw ($22.99)"
         ],
         [
-          "",
-          ""
+          "Under $24",
+          "VYUOL ($23.99)"
         ]
       ]
     }
@@ -122,31 +122,31 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Provides a stable, stationary platform without the added cost or complexity of caster wheels, better for a printer that stays in one spot."
       },
       {
-        "label": "",
+        "label": "Rolling casters (Asgolion)",
         "text": "Lets you reposition the stand easily between desk configurations or rooms, worth the tradeoff if your setup changes regularly."
       }
     ],
     "note": "If your printer setup is permanent and won't move, a fixed-base pick like the HOOBRO saves a little money. If you rearrange your workspace often, the Asgolion's rolling casters add genuine convenience."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your printer weight",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Light printers under 55 lbs total load",
-          ""
+          "HOOBRO"
         ],
         [
           "Heavier printers or combined supplies up to 120 lbs",
-          ""
+          "Gewudraw"
         ],
         [
           "Unspecified capacity, standard home printers",
-          ""
+          "Asgolion or VYUOL"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Home Office With Multiple Users Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Rolling casters with locking wheels, so the printer stand can be repositioned to accommodate different users' desk setups without needing to lift and carry it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Asgolion pick's four swivel casters with 2 locking wheels specifically support easy repositioning for a shared or frequently rearranged office space."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest stated weight capacity with warranty backing, where the Gewudraw pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a basic fixed stand for a lightweight printer, where the HOOBRO pick covers that for about $3 less."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated weight capacity figures where disclosed across the lineup."
   },
   {
-    "title": "",
+    "title": "Mobility Design",
     "description": "Compared fixed-base stands against rolling caster designs for repositioning."
   },
   {
-    "title": "",
+    "title": "Structural Bracing",
     "description": "Checked for reinforced support designs like X-shaped bracing beyond simple straight legs."
   },
   {
-    "title": "",
+    "title": "Material Construction",
     "description": "Compared particleboard, MDF, and metal frame combinations across all four picks."
   },
   {
-    "title": "",
+    "title": "Warranty and Support",
     "description": "Checked for stated warranty coverage and customer support availability."
   }
 ];

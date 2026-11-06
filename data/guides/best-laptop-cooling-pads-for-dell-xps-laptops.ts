@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/51+142vwVRL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,19 +76,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $25",
           "ICE COOREL Aluminum Laptop Cooling Pad"
         ],
         [
-          "",
+          "Mid-range",
           "6\"-17\" Laptop Cooler Cooling Pad"
         ],
         [
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. 6\"-17\" Laptop Cooler Cooling Pad."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: Trullypine Laptop Cooling Pad with 12 Quiet Fans."
       }
     ],
     "note": "6\"-17\" Laptop Cooler Cooling Pad for everyday portability, and only step up to Trullypine Laptop Cooling Pad with 12 Quiet Fans's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Razer Laptop Cooling Pad Adaptive Smart offers: Automatic temperature-based fan adjustment. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "ICE COOREL Aluminum Laptop Cooling Pad already covers the essentials: Aluminum surface complements XPS's own build material. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -165,15 +165,15 @@ export const howWeEvaluated = [
     "description": "We compared each pad against XPS's typically lighter cooling needs compared to a gaming laptop, rather than defaulting to the highest fan count available."
   },
   {
-    "title": "",
+    "title": "Vent placement honesty",
     "description": "We flagged that XPS's compact chassis can place intake and exhaust vents differently than the bulkier laptops these universal pads are often designed around, and noted this as a real fit consideration in each product description."
   },
   {
-    "title": "",
+    "title": "Portability match",
     "description": "We weighted slim, lightweight pads higher given XPS's own travel-friendly design, while still including higher-airflow options for heavier creative workloads."
   },
   {
-    "title": "",
+    "title": "Aesthetic and desk-space fit",
     "description": "We noted where a pad's RGB lighting or gaming-oriented design might clash with XPS's minimalist build, without penalizing pads purely on looks."
   }
 ];

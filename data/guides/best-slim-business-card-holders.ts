@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41X+-c9NwML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Carrying your own cards",
           "MaxGear Stainless Steel Business Card Holder"
         ],
         [
-          "",
-          ""
+          "Displaying cards for visitors",
+          "MaxGear Business Card Holder"
         ],
         [
-          "",
+          "Client-facing handoffs",
           "VULKIT Leather Business Card Holder 2 Sided Slim Business Name Card Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,41 +96,41 @@ export const howToChoose: HowToChooseSection[] = [
           "MaxGear Stainless Steel Business Card Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "DMFLY Slim Business Card Case for Men & Women"
         ],
         [
-          "",
+          "Higher budget",
           "VULKIT Leather Business Card Holder 2 Sided Slim Business Name Card Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Top vs Snap-Closed",
     "cards": [
       {
         "label": "MaxGear Stainless Steel Business Card Holder)",
         "text": "Faster one-hand access, less protection against spilling."
       },
       {
-        "label": "",
+        "label": "Snap/magnetic closed",
         "text": "Secures cards fully, takes an extra motion to open."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your card volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "A small daily-carry stack",
+          "MaxGear Business Card Holder"
         ],
         [
           "A larger desk or display stock",
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Client-Facing Handoffs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A material (leather or solid metal) that reinforces a professional impression at the handoff moment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MaxGear Business Card Holder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where VULKIT Leather Business Card Holder 2 Sided Slim Business Name Card Organizer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where MaxGear Stainless Steel Business Card Holder already covers the job at the lowest price here."
       }
     ]

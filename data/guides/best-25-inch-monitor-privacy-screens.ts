@@ -29,15 +29,15 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which 25 inch privacy screen has the most reviews?",
-    "a": ""
+    "a": "The [2 Pack] 25 Inch Computer Monitor Privacy Screen, with 938 reviews at a 4.3 rating."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the highest-rated 25 inch option?",
+    "a": "The Vxaop [2-Pack] 25 Inch Computer Privacy Screen Filter at 4.6."
   },
   {
     "q": "What's the cheapest 25 inch option?",
-    "a": ""
+    "a": "The [2-Pack] 25 Inch Monitor Privacy Screen at $36.99."
   },
   {
     "q": "Is 25 inch the same as 24 inch?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "[2 Pack] 25 Inch Computer Monitor Privacy Screen"
         ],
         [
-          "",
+          "Laptop screen",
           "[2 Pack] 25 Inch Computer Monitor Privacy Screen"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $37",
           "[2-Pack] 25 Inch Monitor Privacy Screen"
         ],
         [
-          "",
+          "Mid-range",
           "Vxaop [2-Pack] 25 Inch Computer Privacy Screen Filter (16:9 Aspect Ratio)"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: check each listing's mounting method, it isn't always stated clearly."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: none explicitly confirmed in this specific roundup, check the listing directly before assuming."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Vxaop [2-Pack] 25 Inch Computer Privacy Screen Filter (16:9 Aspect Ratio)"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "[2 Pack] 25 Inch Computer Monitor Privacy Screen"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "[2 Pack] 25 Inch Computer Monitor Privacy Screen fits this specifically: Largest review base of any 25 inch filter in our research."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "[2-Pack] 25 Inch Monitor Privacy Screen already covers the essentials: Lowest price among the confirmed 25 inch options. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]

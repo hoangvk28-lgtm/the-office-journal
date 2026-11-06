@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/21CckbbzDhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "5\" x 11\" Double Sided Meeting Pad"
         ],
         [
-          "",
+          "Standard conference room",
           "Joan 6 Pro Gray: Seamless Calendar Integration"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "5\" x 11\" Double Sided Meeting Pad"
         ],
         [
-          "",
+          "Mid-range pick",
           "Joan 6 RE Gray: Wireless E Ink Touch 6-Inch Display Meeting Scheduler"
         ],
         [
-          "",
+          "Higher budget",
           "Visionect Joan Premium 13-inch Meeting Room Display"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "5\" x 11\" Double Sided Meeting Pad)",
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Joan 6 Pro Gray: Seamless Calendar Integration"
         ],
         [
-          "",
+          "Google Workspace / Calendar",
           "Joan 6 RE Gray: Wireless E Ink Touch 6-Inch Display Meeting Scheduler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Joan 6 Pro Gray: Seamless Calendar Integration is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where Visionect Joan Premium 13-inch Meeting Room Display justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5\" x 11\" Double Sided Meeting Pad already covers the job at the lowest price here."
       }
     ]

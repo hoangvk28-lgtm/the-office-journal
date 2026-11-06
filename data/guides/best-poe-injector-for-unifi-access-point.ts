@@ -36,7 +36,7 @@ export const faq = [
     "a": "3bt tier, so check your specific model's power class before assuming a standard 30W injector is sufficient."
   },
   {
-    "q": "",
+    "q": "Is a first-party Ubiquiti injector necessary, or will any 802.3at injector work?",
     "a": "Most standard UniFi access points work fine with any compliant third-party injector, but a first-party Ubiquiti accessory removes any small compatibility uncertainty and is validated directly by Ubiquiti."
   },
   {
@@ -44,7 +44,7 @@ export const faq = [
     "a": "The access point may fail to fully boot, disable certain radio features, or perform unreliably, rather than simply not powering on at all, making underpowering a subtle issue to diagnose."
   },
   {
-    "q": "",
+    "q": "Do older UniFi U6 access points need 2.5G or 10G injectors?",
     "a": "5G or 10G injector unnecessary extra cost for that generation."
   },
   {
@@ -64,52 +64,52 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By UniFi Access Point Model",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your UniFi model",
+        "Recommended pick"
       ],
       "rows": [
         [
           "U6-LR, U6-Lite, U6-Pro (Wi-Fi 6)",
-          ""
+          "UBIQUITI POE Injector 802.3AT 30W"
         ],
         [
-          "",
-          ""
+          "Standard Wi-Fi 7 model needing 2.5G",
+          "Ubiquiti UACC-POE+-2.5G Adapter"
         ],
         [
           "E7 Campus or U7 Pro XG (high draw)",
           "PROCET 10 Gigabit PoE Injector 60W"
         ],
         [
-          "",
-          ""
+          "Any 2.5G model, first-party unavailable",
+          "Omada 2.5G PoE+ Injector POE260S"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $22",
+          "UBIQUITI POE Injector 802.3AT 30W ($21.99)"
         ],
         [
-          "",
-          ""
+          "Under $27",
+          "Ubiquiti UACC-POE+-2.5G Adapter ($26.00)"
         ],
         [
-          "",
-          ""
+          "Under $35",
+          "Omada 2.5G PoE+ Injector ($34.99)"
         ],
         [
-          "",
-          ""
+          "Under $53",
+          "PROCET 10 Gigabit PoE Injector 60W ($52.49)"
         ]
       ]
     }
@@ -118,31 +118,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "First-Party Ubiquiti vs Third-Party Alternatives",
     "cards": [
       {
-        "label": "",
+        "label": "First-party Ubiquiti (UACC-POE+-2.5G, U6 30W injector)",
         "text": "Validated directly against Ubiquiti's own PoE negotiation, the safest default choice when available for your specific model."
       },
       {
-        "label": "",
+        "label": "Third-party (PROCET, Omada)",
         "text": "Necessary when a first-party option doesn't cover your specific power or speed tier, like the E7 Campus's higher 60W draw."
       }
     ],
     "note": "Default to a first-party Ubiquiti accessory when one exists for your exact model; reach for a third-party alternative only when Ubiquiti doesn't offer a matching first-party option."
   },
   {
-    "subheading": "",
+    "subheading": "By Link Speed Requirement",
     "table": {
       "headers": [
         "Your access point's max throughput",
-        ""
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Gigabit (older U6 models)",
+          "UBIQUITI POE Injector 802.3AT 30W"
         ],
         [
           "5G (most Wi-Fi 7 models)",
-          ""
+          "Ubiquiti UACC-POE+-2.5G or Omada POE260S"
         ],
         [
           "Up to 10Gbps (E7 Campus, U7 Pro XG)",
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a New Wi-Fi 7 Home Network Upgrade Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5G models to the much higher-draw E7 Campus."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5G adapter matches most standard Wi-Fi 7 UniFi models, while the PROCET pick specifically covers the higher-draw E7 Campus and U7 Pro XG."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "49 price is justified by its named compatibility and full 60W 10Gbps capability those specific models need."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99 UBIQUITI 30W injector delivers exactly matched power without overpaying for unused speed or wattage."
       }
     ]
@@ -181,30 +181,30 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "UniFi Model Compatibility",
     "description": "Compared named compatibility with specific UniFi access point models across the U6 and U7 lineups."
   },
   {
-    "title": "",
+    "title": "Power Class Matching",
     "description": "Compared each injector's power delivery against the actual draw of the UniFi model it targets."
   },
   {
-    "title": "",
+    "title": "Link Speed",
     "description": "5G, and up to 10Gbps port speeds relative to each UniFi model's throughput capability."
   },
   {
-    "title": "",
+    "title": "First-Party vs Third-Party Sourcing",
     "description": "Compared first-party Ubiquiti accessories against certified third-party alternatives."
   },
   {
-    "title": "",
+    "title": "Safety Detection",
     "description": "Compared listings with active device-detection chips against basic auto-sensing."
   }
 ];
 
 export const introParagraphs = [
   "3bt PoE++ power at multi-gigabit link speeds, so matching the right injector to your specific UniFi model matters more here than in most PoE categories.",
-  ""
+  "We compared this lineup on real power class and link speed, since the newest Wi-Fi 7 access points from Ubiquiti specifically push past what a basic 802.3at 30W injector can deliver, requiring either a 2.5G-capable or full 60W 802.3bt unit instead."
 ];
 
 export const lastUpdated = "2026-09-17";

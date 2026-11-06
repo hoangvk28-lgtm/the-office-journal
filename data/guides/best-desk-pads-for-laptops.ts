@@ -60,56 +60,56 @@ export const heroImage = "https://m.media-amazon.com/images/I/411bezC-CcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Surface Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Soft feel for typing",
+          "AFIING Desk Pad Protector 23.6\" x 13.7\""
         ],
         [
           "Balance of feel and durability",
           "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse"
         ],
         [
-          "",
+          "Wipeable, polished look",
           "Vaydeer Wrist Rest for Keyboard and Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "AFIING Desk Pad Protector 23.6\" x 13.7\""
         ],
         [
-          "",
+          "Mid-range pick",
           "YSAGi Leather Office Desk Pad Protector"
         ],
         [
-          "",
+          "Higher budget",
           "Vaydeer Wrist Rest for Keyboard and Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Leather",
     "cards": [
       {
-        "label": "",
+        "label": "Cloth (e.g. AFIING Desk Pad Protector 23.6\" x 13.7\")",
         "text": "Softer feel, absorbs spills, shows staining faster."
       },
       {
@@ -120,19 +120,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how much coffee and food realistically ends up near your desk."
   },
   {
-    "subheading": "",
+    "subheading": "By Setup Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single keyboard and mouse",
           "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse"
         ],
         [
-          "",
+          "Dual monitor, wider setup",
           "Check for extra-large or extended sizing"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse is worth checking against its specific edge construction before assuming any desk pad holds up the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a wipeable, longer-lasting surface with a more polished look, where Vaydeer Wrist Rest for Keyboard and Mouse justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "7\" already covers the job at the lowest price here."
       }
     ]

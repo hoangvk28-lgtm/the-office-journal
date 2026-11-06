@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Date-Stamp Current Street Price",
     "explanation": "Verify cheap drawing tablets's current price and include any required adapters or stand in the total cost before calling it a deal."
   },
   {
@@ -13,11 +13,11 @@ export const buyingCriteria = [
     "explanation": "Weigh activation force and driver stability more heavily than a high pressure-level number on the spec sheet."
   },
   {
-    "criterion": "",
+    "criterion": "Check What's Actually Included",
     "explanation": "List the included pen, nibs, stand, glove, and cables accurately, since budget listings sometimes omit accessories shown in photos."
   },
   {
-    "criterion": "",
+    "criterion": "Verify Replacement Part Availability",
     "explanation": "Check that replacement pen nibs and cables are still sold separately for the exact model."
   },
   {
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/31QUDvbQX0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Date-Stamp Current Street Price",
     "note": "Verify cheap drawing tablets's current price and include any required adapters or stand in the total cost before calling it a deal."
   },
   {
@@ -65,11 +65,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Weigh activation force and driver stability more heavily than a high pressure-level number on the spec sheet."
   },
   {
-    "subheading": "",
+    "subheading": "Check What's Actually Included",
     "note": "List the included pen, nibs, stand, glove, and cables accurately, since budget listings sometimes omit accessories shown in photos."
   },
   {
-    "subheading": "",
+    "subheading": "Verify Replacement Part Availability",
     "note": "Check that replacement pen nibs and cables are still sold separately for the exact model."
   },
   {
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified First",
     "description": "Sorted each product into screenless pen tablet, computer-dependent pen display, or true standalone before comparing specs, since these solve different problems."
   },
   {
-    "title": "",
+    "title": "Pen Behavior Verified",
     "description": "Checked activation force, pressure-level count, tilt support, and parallax evidence directly from documentation rather than trusting a headline pressure number alone."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Verified current Windows/macOS/Linux/Android compatibility by exact model, since older tablets can lose driver support over time."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included pen, nibs, stand, and cables against what needs to be bought separately, plus warranty length and driver update history."
   }
 ];

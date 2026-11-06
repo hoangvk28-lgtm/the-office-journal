@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "Verify transfer behavior and alarms if the station is intended as therapy backup during a grid outage."
   },
   {
-    "criterion": "",
+    "criterion": "Follow Manufacturer Backup Guidance",
     "explanation": "Follow your CPAP manufacturer and clinician's backup-power guidance rather than relying on a generic runtime estimate."
   }
 ];
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Verify transfer behavior and alarms if the station is intended as therapy backup during a grid outage."
   },
   {
-    "subheading": "",
+    "subheading": "Follow Manufacturer Backup Guidance",
     "note": "Follow your CPAP manufacturer and clinician's backup-power guidance rather than relying on a generic runtime estimate."
   }
 ];
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Looked for UL, UL2743, or other documented safety certification and battery chemistry evidence rather than trusting a safety claim alone."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included cables, solar panel bundling, warranty length, and app requirements as part of the real cost and usability of each pick."
   }
 ];

@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device You're Charging",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Phone, occasional use",
           "BLAVOR Solar Power Bank 10,000mAh Portable Wireless Charger for Cell Phones"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Jackery Explorer 300 Portable Power Station, 292Wh"
         ],
         [
-          "",
+          "Laptop or multiple devices",
           "Anker SOLIX S2000 Portable Power Station"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "BLAVOR Solar Power Bank 10,000mAh Portable Wireless Charger for Cell Phones"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Portable Charger 56800mAh"
         ],
         [
-          "",
+          "Higher budget",
           "Anker SOLIX S2000 Portable Power Station"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Capacity vs Portability",
     "cards": [
       {
         "label": "Anker SOLIX S2000 Portable Power Station)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you're carrying it daily or leaving it in a bag for emergencies."
   },
   {
-    "subheading": "",
+    "subheading": "By Travel Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Flying with it",
           "Check the watt-hour (Wh) rating stays under 100Wh"
         ],
         [
-          "",
+          "Never flying with it",
           "Jackery Explorer 300 Portable Power Station, 292Wh"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "USB-PD support at 45W or higher, not just any USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Anker SOLIX S2000 Portable Power Station is worth checking against your specific laptop's wattage requirement before assuming any power bank charges it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher capacity, faster charging, and support for a laptop, where Anker SOLIX S2000 Portable Power Station justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need backup charges for a phone, where BLAVOR Solar Power Bank 10,000mAh Portable Wireless Charger for Cell Phones already covers the job at the lowest price here."
       }
     ]

@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the best overall Nano-slot laptop lock?",
-    "a": ""
+    "a": "The Kensington NanoSaver Combination Laptop Lock, for its combination of the largest confirmed review base among Nano-specific picks and Register and Retrieve online code recovery."
   },
   {
     "q": "Is there a non-Kensington Nano-slot lock?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Kensington NanoSaver Combination Laptop Lock"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Kensington NanoSaver Combination Laptop Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $17",
           "Black Notebook Laptop Combination Lock for Nano Security Slots"
         ],
         [
-          "",
+          "Mid-range",
           "Kensington Universal 3-in-1 Combination Laptop Lock"
         ],
         [
@@ -99,24 +99,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: Kensington NanoSaver Combination Laptop Lock, Kensington Combination Laptop Lock for Nano Size Security Slot, Black Notebook Laptop Combination Lock for Nano Security Slots."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: Kensington NanoSaver Keyed Laptop Lock, Sendt Silver Notebook Laptop Keyed Lock for Nano Security Slots."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -124,7 +124,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Kensington NanoSaver Combination Laptop Lock"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "Kensington Universal 3-in-1 Combination Laptop Lock"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Kensington NanoSaver Combination Laptop Lock fits this specifically: Largest confirmed review base among Nano-specific picks in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Kensington NanoSaver Keyed Laptop Lock offers: Keyed option for buyers who prefer a physical key over a dial. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Black Notebook Laptop Combination Lock for Nano Security Slots already covers the essentials: Lowest price of any Nano-slot lock in this comparison. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

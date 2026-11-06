@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the best overall ASUS laptop lock?",
-    "a": ""
+    "a": "The Kensington Combination Cable T-Bar Standard Lock, for its combination of the largest confirmed review base in this comparison and explicit ASUS compatibility documentation."
   },
   {
     "q": "Is there a lock designed for thin ASUS ultrabooks specifically?",
@@ -57,38 +57,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/31aTmwV+A2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Slot Type",
     "table": {
       "headers": [
-        "",
+        "Your laptop's slot",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Confirmed standard slot",
           "Kensington Combination Cable T-Bar Standard Lock"
         ],
         [
-          "",
+          "Confirmed nano slot",
           "Kensington NanoSaver Combination Laptop Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "Laptop Lock"
         ],
         [
-          "",
+          "Mid-range",
           "Kensington Combination Cable T-Bar Standard Lock"
         ],
         [
@@ -99,24 +99,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: Kensington Combination Cable T-Bar Standard Lock, Kensington NanoSaver Combination Laptop Lock, Kensington Slim Combination T-Bar Standard Lock."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: check each listing's mechanism directly."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -124,7 +124,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Kensington Combination Cable T-Bar Standard Lock"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "2 Pack Laptop Cable Lock"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Kensington Combination Cable T-Bar Standard Lock fits this specifically: Largest confirmed review base in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Kensington Slim Combination T-Bar Standard Lock offers: Slim head specifically avoids raising thin ASUS laptops off their surface. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Laptop Lock already covers the essentials: Longest cable of any pick in this comparison. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]
@@ -168,12 +168,12 @@ export const howWeEvaluated = [
     "description": "ASUS's thinner ZenBook-class laptops benefit from a slim lock head that won't raise the chassis off its surface, a real design difference we surfaced explicitly."
   },
   {
-    "title": "",
+    "title": "Verified Standard vs. Nano slot compatibility separately",
     "description": "We sorted picks by which of ASUS's two documented slot standards they fit, rather than treating all Kensington locks as interchangeable across ASUS models."
   },
   {
     "title": "Flagged thin review histories on newer budget picks",
-    "description": ""
+    "description": "The lowest-rated pick in this comparison also carries the thinnest review base, and we surfaced that combination directly rather than ranking on price alone."
   }
 ];
 

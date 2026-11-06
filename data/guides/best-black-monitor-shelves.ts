@@ -56,66 +56,66 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Ja9BAK1RL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Prioritizing metal",
           "OPNICE Desk Organizers and Accessories"
         ],
         [
-          "",
-          ""
+          "Prioritizing wood",
+          "Snughome Desk Shelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $26",
           "OPNICE Desk Organizers and Accessories"
         ],
         [
-          "",
+          "Mid-range",
           "Metal Clamp On Desk Shelf"
         ],
         [
           "No firm budget ceiling, prioritizing capacity or storage",
-          ""
+          "Snughome Desk Shelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Freestanding vs Clamp/Clip-On",
     "cards": [
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits directly on the desk with zero installation, at the cost of using up some desk depth. In this comparison: OPNICE Desk Organizers and Accessories, gianotter Dual Monitor Stand Riser With Drawer and 2 Pen Holders, Snughome Desk Shelf."
       },
       {
-        "label": "",
+        "label": "Clamp/Clip-On",
         "text": "Attaches to the desk's back edge, freeing up desk surface underneath, but needs a compatible edge thickness. In this comparison: Metal Clamp On Desk Shelf."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "With Storage vs Platform-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -123,7 +123,7 @@ export const howToChoose: HowToChooseSection[] = [
           "OPNICE Desk Organizers and Accessories"
         ],
         [
-          "",
+          "Simplest platform-only design",
           "Homiflex Desk Shelf with Computer Monitor Stand"
         ]
       ]
@@ -133,24 +133,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy or Ultrawide Monitor Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity with real margin above your monitor's actual weight, a rigid material like metal or thick wood, and a wide enough platform to support the monitor's full base without overhang."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Snughome Desk Shelf fits this specifically: Genuine 4-tier design with integrated pegboard hooks."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Snughome Desk Shelf offers: Genuine 4-tier design with integrated pegboard hooks. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "OPNICE Desk Organizers and Accessories already covers the essentials: Highest average rating of any pick in this guide. The main thing you'd be paying extra for elsewhere in this list is capacity or storage you may not need."
       }
     ]

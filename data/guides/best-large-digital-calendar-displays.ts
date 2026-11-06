@@ -32,12 +32,12 @@ export const faq = [
     "a": "1 inch picks explicitly advertise no subscription requirement; verify subscription terms directly for the other picks before buying."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The Cotoala 10.1 inch Smart Digital Calendar at $59.99, also confirmed subscription-free."
   },
   {
     "q": "What's the largest screen available?",
-    "a": ""
+    "a": "The Apolosign 21.5 inch Digital Calendar, roughly double the diagonal size of the standard 10.1 inch options."
   },
   {
     "q": "Which is best for tracking kids' chores?",
@@ -60,36 +60,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Skylight Calendar"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Skylight Calendar"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $60",
           "1 inch Smart Digital Calendar"
         ],
         [
-          "",
-          ""
+          "Up to $370",
+          "Apolosign 21.5 inch Digital Calendar"
         ]
       ]
     }
@@ -98,42 +98,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Chore Chart Features vs Calendar-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Chore chart included",
         "text": "Useful for a family actively managing kids' responsibilities and rewards."
       },
       {
-        "label": "",
+        "label": "Calendar-only",
         "text": "Simpler, cleaner display without extra features you might not use."
       }
     ],
     "note": "Default to calendar-only unless your household actively wants chore-tracking tools."
   },
   {
-    "subheading": "",
+    "subheading": "By Sync Method",
     "note": "Check each pick's listed calendar sync method against the accounts your household actually uses before buying, not just a generic \"calendar sync\" claim."
   },
   {
     "subheading": "For a Shared Family Household Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A screen size legible from across the room, plus genuine multi-account two-way sync with the calendar accounts your household already uses."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Skylight Calendar is worth checking against its listed sync method and screen size before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5 inch Digital Calendar's features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "1 inch Smart Digital Calendar covers the same job at a lower price."
       }
     ]

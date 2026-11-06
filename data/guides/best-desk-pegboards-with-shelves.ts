@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "PEGZONE Under Desk Cable Management Tray"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Univivi No Drill Under Desk Cable Management Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $26",
           "PEGZONE Under Desk Cable Management Tray"
         ],
         [
-          "",
+          "Up to $170",
           "VIVO Steel Triple Clamp Desk Pegboard System with 2 Monitor Mounts and Storage Shelf"
         ]
       ]
@@ -94,42 +94,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Built-In Monitor Mount vs Board-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in monitor mount",
         "text": "Combines cable management and monitor positioning in one panel, saving a separate monitor arm purchase. In this comparison: VIVO Steel Triple Clamp Desk Pegboard System with 2 Monitor Mounts and Storage Shelf."
       },
       {
-        "label": "",
+        "label": "Board-only",
         "text": "Simpler and usually cheaper, fine if you already have a separate monitor arm or stand. In this comparison: Metal Clamp On Desk Shelf, PEGZONE Under Desk Cable Management Tray, Univivi No Drill Under Desk Cable Management Tray."
       }
     ],
     "note": "Default to board-only unless you specifically need to consolidate a monitor mount into the same purchase."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Size",
     "note": "Check each pick's listed panel dimensions against your desk's available depth and width before buying."
   },
   {
     "subheading": "For a Loaded, Multi-Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine metal or thick MDF construction, confirmed standard hole spacing, and a wall-anchor mounting option for stability once loaded with monitor arms and accessories."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Univivi No Drill Under Desk Cable Management Tray is worth checking against its listed material and mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to load the board with monitor arms and multiple accessories, where VIVO Steel Triple Clamp Desk Pegboard System with 2 Monitor Mounts and Storage Shelf's material and mounting give real stability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a few lightweight decorative hooks, where PEGZONE Under Desk Cable Management Tray covers the same job at a lower price."
       }
     ]
@@ -142,11 +142,11 @@ export const howWeEvaluated = [
     "description": "Verified whether each listing distinguishes the shelf's own weight limit from the board's overall hook-load capacity rather than treating them as one number."
   },
   {
-    "title": "",
+    "title": "Loaded-shelf tipping leverage",
     "description": "Weighed how a forward-projecting shelf increases tipping leverage more than simple hooks, and how each product's mount type offsets this."
   },
   {
-    "title": "",
+    "title": "Shelf attachment mechanism compatibility",
     "description": "Checked whether each shelf uses standard pegs or hooks versus a proprietary bracket that limits repositioning."
   },
   {

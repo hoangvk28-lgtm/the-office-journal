@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41aHn+TfzkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "IHOMECOOKER Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core)"
         ],
         [
           "Regular desk or office use",
-          ""
+          "LEM Products Freezer Tape"
         ],
         [
-          "",
-          ""
+          "High-volume packing",
+          "Kitchen Stickin’® Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "IHOMECOOKER Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core)"
         ],
         [
-          "",
+          "Mid-range pick",
           "Lichamp Desk Tape Dispenser 3in Core for Masking/Painters Tapes"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Kitchen Stickin’® Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "IHOMECOOKER Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core))",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard clear or packing tape",
-          ""
+          "LEM Products Freezer Tape"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "Lichamp Desk Tape Dispenser 3in Core for Masking/Painters Tapes"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "LEM Products Freezer Tape is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Kitchen Stickin’® Tape Dispenser justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where IHOMECOOKER Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core) already covers the job at the lowest price here."
       }
     ]

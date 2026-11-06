@@ -40,7 +40,7 @@ export const faq = [
     "a": "Only for high-volume stapling or if hand strength is a concern, electric staplers depend on battery charge or a power outlet, a manual stapler works reliably regardless of power availability."
   },
   {
-    "q": "",
+    "q": "Are electric staplers loud?",
     "a": "They produce a distinct motor click or whir each time they fire, check reviews specifically for noise complaints if you'll use it near coworkers in a quiet shared office."
   },
   {
@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41pJvHl+8ML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Stack Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, a few sheets",
           "Deli Stapler, Desktop Staplers with 640 Staples, 25 Sheet Capacity, Purple"
         ],
         [
-          "",
-          ""
+          "A regular office stack",
+          "Heavy Duty Stapler Manual"
         ],
         [
-          "",
+          "Consistently thick stacks",
           "Marsrock Heavy Duty Stapler for Desk with 40-50 Sheet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "Deli Stapler, Desktop Staplers with 640 Staples, 25 Sheet Capacity, Purple"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Leven Effortless Desktop Stapler"
         ],
         [
-          "",
+          "Higher budget",
           "Marsrock Heavy Duty Stapler for Desk with 40-50 Sheet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Manual vs Electric",
     "cards": [
       {
         "label": "Deli Stapler, Desktop Staplers with 640 Staples, 25 Sheet Capacity, Purple)",
         "text": "No power dependency, reliable for any volume."
       },
       {
-        "label": "",
+        "label": "Electric",
         "text": "Reduces hand strain at high volume, depends on charge or power."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Staple Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Standard 26/6 staples",
+          "Heavy Duty Stapler Manual"
         ],
         [
-          "",
-          ""
+          "A specific alternate size",
+          "Leven Effortless Desktop Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Center-of-Document Stapling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A deep throat depth spec, not just a standard corner-reach stapler."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Heavy Duty Stapler Manual is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Marsrock Heavy Duty Stapler for Desk with 40-50 Sheet justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Deli Stapler, Desktop Staplers with 640 Staples, 25 Sheet Capacity, Purple already covers the job at the lowest price here."
       }
     ]

@@ -61,20 +61,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/316eDWLDW1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Genuine IP67 protection with high wattage and 2.5Gbps speed",
+          "MokerLink IP67 Outdoor 2.5 Gigabit PoE Splitter"
         ],
         [
           "Extreme temperature tolerance or TAA compliance",
-          ""
+          "IPOE-175S Industrial IP67 802.3bt PoE++ Splitter"
         ],
         [
           "Powering a 24V wireless bridge or access point outdoors",
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $9",
+          "Waterproof PoE Combiner Splitter Adapter ($8.88)"
         ],
         [
-          "",
-          ""
+          "Under $18",
+          "REVODATA 48V to 24V PoE Converter ($17.19)"
         ],
         [
-          "",
-          ""
+          "Under $69",
+          "MokerLink IP67 2.5 Gigabit Splitter ($68.99)"
         ],
         [
-          "",
-          ""
+          "Under $168",
+          "IPOE-175S Industrial Splitter ($167.20)"
         ]
       ]
     }
@@ -129,19 +129,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your problem is cable routing for two nearby cameras, the combiner splitter is the cheapest fix. If you need to convert PoE to actual DC power for a non-PoE device, the MokerLink or IPOE-175S picks deliver that capability."
   },
   {
-    "subheading": "",
+    "subheading": "By Voltage Output Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device's voltage need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "12V DC output",
+          "MokerLink IP67 Outdoor 2.5 Gigabit PoE Splitter"
         ],
         [
-          "",
+          "24V DC output",
           "REVODATA Waterproof Gigabit 48V to 24V PoE Converter"
         ],
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Government or Institutional Outdoor Deployment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "TAA compliance and an extreme operating temperature rating if your organization has specific federal procurement requirements or your installation faces extreme climate exposure."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The IPOE-175S is the only pick specifically stating TAA compliance alongside its extreme -40C to 75C temperature range."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "20 price is justified by its TAA compliance and extreme temperature rating."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "88, the lowest price in this comparison."
       }
     ]
@@ -182,10 +182,10 @@ export const howToChoose: HowToChooseSection[] = [
 export const howWeEvaluated = [
   {
     "title": "Real IP Rating and Cable Protection",
-    "description": ""
+    "description": "Compared IP67 ratings and whether waterproof protection extends to cable connection points specifically."
   },
   {
-    "title": "",
+    "title": "Operating Temperature Range",
     "description": "Compared documented temperature tolerance from standard outdoor to extreme industrial ratings."
   },
   {
@@ -193,11 +193,11 @@ export const howWeEvaluated = [
     "description": "Compared wattage output relevant to different outdoor camera and bridge power needs."
   },
   {
-    "title": "",
+    "title": "Compliance and Certification",
     "description": "Compared TAA compliance and other institutional procurement certifications."
   },
   {
-    "title": "",
+    "title": "Price Relative to Capability",
     "description": "Compared cost across the wide price range this outdoor category spans."
   }
 ];

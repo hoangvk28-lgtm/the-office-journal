@@ -61,79 +61,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/414d9YEDZYL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "YAOHUOO 22x15 Large Printer Stand with Drawer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $40",
           "YAOHUOO 22x15 Large Printer Stand with Drawer"
         ],
         [
-          "",
-          ""
+          "Up to $100",
+          "Letaya 3"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Rolling vs Stationary",
     "cards": [
       {
-        "label": "",
+        "label": "Rolling (casters)",
         "text": "Easy to reposition for access or cleaning, worth it if the stand needs to move regularly. In this comparison: YAOHUOO 22x15 Large Printer Stand with Drawer, DEVAISE 3, GYIIYUO 2, OLIXIS 7, VASAGLE CUSTOS 2, HUANUO Printer Stand with Cable Management and Storage Drawer."
       },
       {
-        "label": "",
+        "label": "Stationary",
         "text": "More stable under a heavy printer since there's no wheel mechanism to add wobble. In this comparison: DUMOS File Cabinet with 3 Drawers, Letaya 3."
       }
     ],
     "note": "Default to stationary unless you specifically need to reposition the stand often."
   },
   {
-    "subheading": "",
+    "subheading": "By Ventilation Clearance",
     "note": "Check each pick's design for open clearance around your printer's exhaust and paper output path before buying, not just its front-facing dimensions."
   },
   {
     "subheading": "For a Heavy All-in-One Printer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weight capacity with real margin above your printer's actual listed weight, and genuine vibration stability confirmed in reviews, not just static capacity."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since weight capacity isn't consistently disclosed across every stand in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your printer is heavy or used frequently throughout the day, where Letaya 3's capacity and stability give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You have a light, compact printer used only occasionally, where YAOHUOO 22x15 Large Printer Stand with Drawer covers the same job at a lower price."
       }
     ]
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Actual tier count",
     "description": "Checked whether each pick has two separate flat surfaces or a single top, since most products marketed toward printer setups are single-tier file cabinets, not dual-tier stands."
   },
   {
@@ -150,11 +150,11 @@ export const howWeEvaluated = [
     "description": "Measured how much usable flat space each top surface offers, since a wide single-tier top can sometimes fit two compact machines side by side even without a second shelf."
   },
   {
-    "title": "",
+    "title": "Per-shelf weight rating",
     "description": "Looked for whether weight capacity is stated per shelf or only as a single total figure, since a heavier laser printer needs to know its specific shelf can hold it, not just the unit as a whole."
   },
   {
-    "title": "",
+    "title": "Storage capacity for supplies",
     "description": "Compared drawer count and filing capacity, since a two-printer setup usually means double the paper, ink, and toner that needs somewhere to live."
   },
   {

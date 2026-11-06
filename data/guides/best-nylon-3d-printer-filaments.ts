@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Sensor-3dp-faq",
     "q": "What happens if filament runs out mid-print?",
     "a": "Without a filament run-out sensor, the print simply fails and wastes everything printed so far, this matters most for long unattended prints, check for this feature if you run extended jobs."
   },
   {
-    "id": "",
+    "id": "Speed-faq",
     "q": "Should I print at the printer's maximum advertised speed?",
     "a": "Usually not for best quality, max speed often introduces visible ringing or dimensional drift, most users get better results dialing back somewhat from the advertised ceiling."
   },
   {
-    "id": "",
+    "id": "Volume-faq",
     "q": "How do I know what build volume I actually need?",
     "a": "Check it against your largest realistically planned print with margin, the stated volume is a hard maximum and real prints need edge clearance, don't buy sized exactly to your biggest project."
   },
   {
-    "id": "",
+    "id": "Fdm-resin-faq",
     "q": "Should I get an FDM or resin 3D printer?",
     "a": "FDM produces sturdier functional parts at lower cost with visible layer lines, resin produces far finer detail and smoother surfaces but requires ventilation and messier post-processing with isopropyl alcohol, match to what you're actually printing."
   },
   {
-    "id": "",
+    "id": "Leveling-faq",
     "q": "Is automatic bed leveling worth paying extra for?",
     "a": "It saves real recurring setup time if you print frequently, manual leveling requires adjusting corner screws and checking with a feeler gauge before nearly every session."
   },
   {
-    "id": "",
+    "id": "Nozzle-faq",
     "q": "Will any nozzle work with any filament?",
     "a": "No, abrasive filaments like carbon-fiber-infused or metal-infused wear down a standard brass nozzle quickly, a hardened steel or ruby-tipped nozzle holds up much longer with those materials."
   }
@@ -67,80 +67,80 @@ export const heroImage = "https://m.media-amazon.com/images/I/41MSOXNOpOL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you print",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Functional parts and prototypes",
+          "Kingroon PA6 Nylon 3D Printer Filament 1.75mm"
         ],
         [
-          "",
-          ""
+          "Fine-detail miniatures or jewelry",
+          "Polymaker Fiberon PA6-CF20 Carbon Fiber Nylon Filament 1.75mm"
         ],
         [
-          "",
+          "Large-format projects",
           "SUNLU Nylon PA6-CF 3D Printer Filament"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Kingroon PA6 Nylon 3D Printer Filament 1.75mm"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "CHCKX Nylon Filament Black PA6 Nylon 6+66 3D Printer 1.75mm Polyamide 1KG"
         ],
         [
-          "",
+          "Higher budget",
           "SUNLU Nylon PA6-CF 3D Printer Filament"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "FDM vs Resin",
     "cards": [
       {
-        "label": "",
+        "label": "FDM (e.g. Kingroon PA6 Nylon 3D Printer Filament 1.75mm)",
         "text": "Sturdier functional parts at lower cost, visible layer lines."
       },
       {
-        "label": "",
+        "label": "Resin",
         "text": "Far finer detail and smoother finish, messier post-processing with toxic uncured resin."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Filament Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your materials",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard PLA in a stable room",
-          ""
+          "Polymaker Fiberon PA6-CF20 Carbon Fiber Nylon Filament 1.75mm"
         ],
         [
-          "",
-          ""
+          "Warping-prone ABS or nylon",
+          "CHCKX Nylon Filament Black PA6 Nylon 6+66 3D Printer 1.75mm Polyamide 1KG"
         ]
       ]
     }
@@ -149,24 +149,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Unattended Prints Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine filament run-out sensor so a multi-hour print doesn't silently fail and waste material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "75mm is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where SUNLU Nylon PA6-CF 3D Printer Filament justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "75mm already covers the job at the lowest price here."
       }
     ]

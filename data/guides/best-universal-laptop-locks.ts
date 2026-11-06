@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the best overall universal laptop lock?",
-    "a": ""
+    "a": "The Kensington Universal 3-in-1 Combination Laptop Lock, for its verified coverage of Standard, Nano, and Wedge slots with the largest confirmed review base among true multi-slot picks."
   },
   {
     "q": "Is there a universal option for a slotless laptop?",
@@ -57,38 +57,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/31gawjeeBDS._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Slot Type",
     "table": {
       "headers": [
-        "",
+        "Your laptop's slot",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Confirmed nano slot",
           "Kensington Universal 3-in-1 Combination Laptop Lock"
         ],
         [
-          "",
+          "Confirmed standard slot",
           "HOX Laptop Cable Lock for iPad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $16",
           "Kensington Combination Laptop Lock for Standard Security Slot"
         ],
         [
-          "",
+          "Mid-range",
           "Kensington Combination Cable T-Bar Standard Lock"
         ],
         [
@@ -99,24 +99,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: Kensington Universal 3-in-1 Combination Laptop Lock, HOX Laptop Cable Lock for iPad, Computer Laptop Cable Lock for Laptop."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: check each listing's mechanism directly."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -124,7 +124,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Kensington Universal 3-in-1 Combination Laptop Lock"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "Multplx Universal Laptop Security Lock"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Kensington Universal 3-in-1 Combination Laptop Lock fits this specifically: Verified coverage of three named slot standards, not a vague claim."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Multplx Universal Laptop Security Lock offers: No adhesive means no cosmetic residue risk on slotless devices. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Kensington Combination Laptop Lock for Standard Security Slot already covers the essentials: Lowest price in this entire comparison. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

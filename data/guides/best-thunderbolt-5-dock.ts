@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31NNGWOexiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,23 +87,23 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $350",
+          "Belkin 140W Thunderbolt 5 Dock ($349.97)"
         ],
         [
-          "",
-          ""
+          "Under $352",
+          "StarTech Universal Docking Station ($351.58)"
         ],
         [
-          "",
+          "Under $400",
           "CalDigit TS5 or Anker Prime TB5 (both around $400)"
         ]
       ]
@@ -117,18 +117,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Delivers 15 total ports and sustained full-power delivery, ideal for a permanent, fully-loaded workstation setup."
       },
       {
-        "label": "",
+        "label": "Strongest warranty protection (Belkin)",
         "text": "Backs its 14-in-1 dock with 3-year coverage up to $2,500 in connected device protection, a concrete assurance figure."
       }
     ],
     "note": "If you're building a maximally connected permanent desk setup, the CalDigit TS5's port count and sustained power delivery are worth the investment. If long-term protection assurance matters more, the Belkin's concrete warranty terms stand out."
   },
   {
-    "subheading": "",
+    "subheading": "By Mac Chip Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your Mac chip",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For IT-Managed Shared Workspaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock with driverless plug-and-play operation across both macOS and Windows, plus physical security lock slots, to minimize setup friction and theft risk in shared or hot-desking environments."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The StarTech pick specifically emphasizes driverless cross-platform consistency and includes both K-slot and Nano lock slots for secured deployment."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want the most comprehensive port count with sustained full power delivery across every connected device, where the CalDigit TS5 justifies its $399.95 price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "97, the lowest price in this comparison."
       }
     ]
@@ -176,19 +176,19 @@ export const howWeEvaluated = [
     "description": "Compared stated Gbps figures for data versus dynamically allocated display bandwidth via Bandwidth Boost."
   },
   {
-    "title": "",
+    "title": "Per-Chip Apple Silicon Documentation",
     "description": "Compared how specifically each listing documents display support by exact Mac chip tier."
   },
   {
-    "title": "",
+    "title": "Warranty and Safety Coverage",
     "description": "Compared warranty length, monetary protection figures, and disclosed electrical safety systems."
   },
   {
-    "title": "",
+    "title": "Total Port Count",
     "description": "Compared comprehensive connectivity beyond just Thunderbolt ports."
   },
   {
-    "title": "",
+    "title": "Cross-Platform Reliability",
     "description": "Compared driverless deployment and testing scope across monitors and laptop brands."
   }
 ];

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31nztYAn9iL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,7 +78,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A named compatibility list and phone support",
-          ""
+          "PoE Texas 802.3af 12V PoE Splitter"
         ],
         [
           "An industrial metal build with 12V/24V selection",
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "SICSOLINK Gigabit Active PoE Splitter ($9.98)"
         ],
         [
-          "",
-          ""
+          "Under $18",
+          "PoE Texas 802.3af 12V PoE Splitter ($17.99)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "IPCamPower POE to 12V DC Converter ($29.99)"
         ],
         [
-          "",
-          ""
+          "Under $50",
+          "LINOVISION Industrial 30W Splitter ($49.00)"
         ]
       ]
     }
@@ -122,22 +122,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Both convert PoE to a single 12V DC output, straightforward for powering one non-PoE device like a camera."
       },
       {
-        "label": "",
+        "label": "Dual-output versatility (IPCamPower)",
         "text": "Splits PoE into both a 12V DC output and a downstream PoE output, letting you power two separate devices from one cable run."
       }
     ],
     "note": "If you only need to power one non-PoE device, the simpler single-output picks are more cost-effective. If you want to power both a camera and a separate 12V accessory like an IR illuminator, the IPCamPower's dual-output design is worth the higher price."
   },
   {
-    "subheading": "",
+    "subheading": "By Output Voltage Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device's voltage need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fixed 12V output",
           "SICSOLINK, IPCamPower, or PoE Texas"
         ],
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Camera Plus Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A splitter with genuine dual-output capability, powering both the camera's DC input and a separate accessory like an illuminator, rather than a single-output splitter you'd need to double up on."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The IPCamPower pick is specifically designed for exactly this dual-device scenario, sharing power between a 12V output and a PoE pass-through output."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "00 price is justified by that flexibility."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "98, the lowest price in this comparison."
       }
     ]
@@ -185,11 +185,11 @@ export const howWeEvaluated = [
     "description": "Compared documented wattage and voltage output options across the picks."
   },
   {
-    "title": "",
+    "title": "Pass-Through and Multi-Device Capability",
     "description": "Compared whether each splitter can power an additional downstream device alongside its DC output."
   },
   {
-    "title": "",
+    "title": "Electrical Safety Protection",
     "description": "Compared overcurrent, overvoltage, and short-circuit protection disclosures."
   },
   {
@@ -197,7 +197,7 @@ export const howWeEvaluated = [
     "description": "Compared plastic versus metal housing and mounting options."
   },
   {
-    "title": "",
+    "title": "Support and Compatibility Documentation",
     "description": "Compared named device compatibility lists and support channel accessibility."
   }
 ];

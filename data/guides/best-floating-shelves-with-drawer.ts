@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41k-fbM+H3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light decorative items",
           "Yesland 2 Packs Space-Saving Floating Nightstand with Drawer"
         ],
         [
-          "",
+          "Books, standard decor",
           "NiHome Floating Nightstand with Drawer"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "Kate and Laurel Kitt Modern Floating Shelf with Drawers"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Yesland 2 Packs Space-Saving Floating Nightstand with Drawer"
         ],
         [
-          "",
+          "Mid-range pick",
           "Floating Shelves With Drawers Set of 2"
         ],
         [
-          "",
+          "Higher budget",
           "Kate and Laurel Kitt Modern Floating Shelf with Drawers"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "Kate and Laurel Kitt Modern Floating Shelf with Drawers)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Studs available where needed",
           "NiHome Floating Nightstand with Drawer"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Kate and Laurel Kitt Modern Floating Shelf with Drawers is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where Kate and Laurel Kitt Modern Floating Shelf with Drawers justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're displaying light decorative items only, where Yesland 2 Packs Space-Saving Floating Nightstand with Drawer already covers the job at the lowest price here."
       }
     ]

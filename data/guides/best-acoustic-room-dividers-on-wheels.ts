@@ -56,80 +56,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "72in 3"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "3 Panel Soundproof Room Divider"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $273",
+          "72in 3"
         ],
         [
-          "",
+          "Up to $475",
           "4 Panel Soundproof Room Divider"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Built-In Storage vs Panel-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in storage (bookcase/cube)",
         "text": "Doubles as shelving while dividing the room, useful in a smaller space. In this comparison: 3 Panel Soundproof Room Divider, 3 Panel Soundproof Room Divider."
       },
       {
-        "label": "",
+        "label": "Panel-only",
         "text": "Simpler, focused purely on visual or acoustic separation. In this comparison: 72in 3, 4 Panel Soundproof Room Divider, 72in 3."
       }
     ],
     "note": "Default to panel-only unless built-in storage solves a real space problem for you."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Height",
     "note": "Check each pick's listed panel height against your room's ceiling and the actual privacy level you need before buying."
   },
   {
     "subheading": "For a Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "3 Panel Soundproof Room Divider is worth checking against its listed mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening or a taller, more stable divider, where 4 Panel Soundproof Room Divider's material and construction give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual separation without noise or stability concerns, where 72in 3 covers the same job at a lower price."
       }
     ]
@@ -138,7 +138,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Panel count vs. folded footprint tradeoff",
     "description": "Weighed how coverage width scales with panel count against the bulkier folded footprint each additional panel adds when the divider is pushed aside for storage."
   },
   {
@@ -146,7 +146,7 @@ export const howWeEvaluated = [
     "description": "Considered wheel and locking-caster quality as a real differentiator, since a divider that's hard to roll or won't stay positioned undermines the entire point of choosing a mobile design."
   },
   {
-    "title": "",
+    "title": "Review base scrutiny for newer heavy-duty listings",
     "description": "Flagged newer listings with very limited review counts honestly, rather than treating an early well suited rating as equivalent evidence to an established, more-reviewed product."
   }
 ];

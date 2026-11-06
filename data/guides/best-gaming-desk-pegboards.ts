@@ -60,60 +60,60 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "PEGZONE Clamp on Desk Pegboard"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Keepo Peg Board Wall Organizer, Plastic Pegboard Panels"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $36",
           "PEGZONE Clamp on Desk Pegboard"
         ],
         [
-          "",
+          "Up to $59",
           "Keepo Peg Board Wall Organizer for Gaming Setup"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Screwed Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Clamp-on",
         "text": "No drilling required, the safer choice for a rented space or shared furniture. In this comparison: PEGZONE Clamp on Desk Pegboard, PEGZONE Clamp on Desk Pegboard, Keepo Peg Board Wall Organizer for Gaming Setup."
       },
       {
-        "label": "",
+        "label": "Screwed mount",
         "text": "Generally more rigid and stable once loaded, worth it if you own the desk. In this comparison: Zestify Pegboard Wall Organizer Kit, Keepo Peg Board Wall Organizer, Plastic Pegboard Panels."
       }
     ],
     "note": "Default to clamp-on unless you own the desk and want maximum loaded stability."
   },
   {
-    "subheading": "",
+    "subheading": "By Built-In Shelving",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -121,7 +121,7 @@ export const howToChoose: HowToChooseSection[] = [
           "PEGZONE Clamp on Desk Pegboard"
         ],
         [
-          "",
+          "Hooks alone are enough",
           "PEGZONE Clamp on Desk Pegboard"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Loaded, Multi-Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine metal or thick MDF construction, confirmed standard hole spacing, and a wall-anchor mounting option for stability once loaded with monitor arms and accessories."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Keepo Peg Board Wall Organizer, Plastic Pegboard Panels is worth checking against its listed material and mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to load the board with monitor arms and multiple accessories, where Keepo Peg Board Wall Organizer for Gaming Setup's material and mounting give real stability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a few lightweight decorative hooks, where PEGZONE Clamp on Desk Pegboard covers the same job at a lower price."
       }
     ]

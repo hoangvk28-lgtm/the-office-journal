@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31g3ScsUWxL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -77,7 +77,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Revotech 2 Port POE Extender (POE5003)"
         ],
         [
-          "",
+          "A simple single-device extender",
           "CENTROPOWER PoE Extender Ethernet Repeater, 1 Port"
         ],
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $14",
+          "DSLRKIT 2-Port ($13.99)"
         ],
         [
-          "",
-          ""
+          "Under $15",
+          "CENTROPOWER 1-Port ($14.59)"
         ],
         [
-          "",
-          ""
+          "Under $17",
+          "Revotech 2 Port ($16.79) or MokerLink 4 Port ($16.98)"
         ]
       ]
     }
@@ -114,26 +114,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Single-Device Simplicity vs Multi-Device Value",
     "cards": [
       {
-        "label": "",
+        "label": "Single-device simplicity (DSLRKIT, CENTROPOWER)",
         "text": "Both keep installation straightforward with 1-2 ports, ideal if you only need to extend one or two nearby devices."
       },
       {
-        "label": "",
+        "label": "Multi-device value (MokerLink)",
         "text": "Powers three separate devices from one unit at a similar price to the single-port picks, delivering better per-device value for multi-camera setups."
       }
     ],
     "note": "If you only have one or two devices to extend, the simpler single or dual-port picks keep things straightforward. If you have three or more nearby devices, the MokerLink pick's per-device cost is meaningfully lower."
   },
   {
-    "subheading": "",
+    "subheading": "By Cascade Distance Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your distance need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 100m single-hop distance",
           "DSLRKIT 2-Port Outdoor Gigabit PoE Passthrough Switch"
         ],
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time PoE Extender Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Automatic device detection and installation protection features, which prevent damage from incorrect wiring or an unsupported device type, especially valuable if you're new to PoE installations."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Revotech and CENTROPOWER picks both specifically state automatic detection and protection features that guard against installation mistakes."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "98 price delivers better per-device value than buying multiple single-port units."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Real Price Per Port",
     "description": "Compared total price against how many devices each extender actually powers."
   },
   {
-    "title": "",
+    "title": "Cascade and Daisy-Chain Distance",
     "description": "Compared documented multi-unit configurations and total achievable distance at this price tier."
   },
   {
-    "title": "",
+    "title": "PoE Standard Compatibility",
     "description": "Compared active versus passive PoE source compatibility."
   },
   {
-    "title": "",
+    "title": "Speed Consistency",
     "description": "Compared Gigabit versus Fast Ethernet speeds across the budget tier."
   },
   {
-    "title": "",
+    "title": "Installation Simplicity",
     "description": "Compared plug-and-play design and automatic protection features."
   }
 ];

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31FHtS8BWtL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you own",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "JINGCHENGMEI ($9.99)"
         ],
         [
-          "",
-          ""
+          "Under $13",
+          "IFCASE ($12.99) or Bedycoon ($13.99)"
         ],
         [
-          "",
-          ""
+          "Under $15",
+          "HumanCentric NUC bracket ($14.99)"
         ]
       ]
     }
@@ -118,18 +118,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Work as standalone mounting solutions without needing an additional factory bracket from your PC's manufacturer."
       },
       {
-        "label": "",
+        "label": "Extension plate only (HumanCentric)",
         "text": "Requires you already have your NUC's original factory mounting bracket, since this plate only bridges that bracket to a VESA arm."
       }
     ],
     "note": "Check whether you still have your mini PC's original factory bracket before buying an extension-plate-only pick like the HumanCentric option."
   },
   {
-    "subheading": "",
+    "subheading": "By Specific Brand Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device brand",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Multi-Monitor Desk Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A VESA extension solution that works around an already-occupied monitor mount point rather than requiring a free VESA port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The IFCASE Metal VESA Extension Plate is specifically designed to solve this exact occupied-port problem."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want direct maker support and confirmed compatibility for a specific NUC generation, where the HumanCentric or Bedycoon picks both offer detailed compatibility documentation."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You own a Dell OptiPlex Micro or Lenovo ThinkCentre Tiny and want the lowest price, where the JINGCHENGMEI pick covers 3 mounting scenarios for under $10."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "VESA Pattern Compatibility",
     "description": "Checked whether each pick supports the standard 75x75mm and 100x100mm VESA hole patterns used by most monitor arms."
   },
   {
-    "title": "",
+    "title": "Specific Device Fit",
     "description": "Compared which exact mini PC models and generations each mount is verified to fit."
   },
   {
-    "title": "",
+    "title": "Included Mounting Hardware",
     "description": "Checked what screws, straps, and installation aids ship in the box versus what buyers must source separately."
   },
   {
-    "title": "",
+    "title": "Mounting Scenario Flexibility",
     "description": "Compared how many distinct mounting locations, wall, under desk, or behind a monitor, each pick supports."
   },
   {
-    "title": "",
+    "title": "Installation Simplicity",
     "description": "Noted stated installation time and tool requirements across the lineup."
   }
 ];

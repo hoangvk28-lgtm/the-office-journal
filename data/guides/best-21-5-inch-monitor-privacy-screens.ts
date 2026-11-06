@@ -29,11 +29,11 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "5 inch privacy screen has the most reviews?",
-    "a": ""
+    "a": "The SightPro 21.5 Inch 16:9 Computer Privacy Screen Filter, with 4,087 reviews at a 4.3 rating."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest 21.5 inch option?",
+    "a": "The Computer Privacy Screen Filter for 21.5 Inch at $25.99."
   },
   {
     "q": "5 inch the same as 22 inch?",
@@ -44,8 +44,8 @@ export const faq = [
     "a": "5 Inch Monitor Privacy Screen bundle this feature."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the best value for a dual-monitor 21.5 inch desk?",
+    "a": "The [2 Pack] 21.5 Inch Computer Monitor Privacy Screen, with a solid review base and bundled blue-light filtering."
   }
 ];
 
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "5 Inch 16:9 Computer Privacy Screen Filter for Monitor"
         ],
         [
-          "",
+          "Laptop screen",
           "5 Inch 16:9 Computer Privacy Screen Filter for Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $26",
           "5 Inch 16:9 Aspect Ratio Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "5 Inch Computer Monitor Privacy Screen"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: check each listing's mounting method, it isn't always stated clearly."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: none explicitly confirmed in this specific roundup, check the listing directly before assuming."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "5 Inch 16:9 Aspect Ratio Monitor"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "5 Inch 16:9 Computer Privacy Screen Filter for Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5 inch filter we found."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]
@@ -179,7 +179,7 @@ export const howWeEvaluated = [
 
 export const introParagraphs = [
   "5 inch is a common size for entry-level and older business monitors, distinct from the rounder 22 inch tier. 5 inch, 16:9 filters in our research.",
-  ""
+  "We compared single-unit and matched 2-pack options across a real price range, from a $25.99 basic filter to a $40.49 higher-reviewed single unit."
 ];
 
 export const lastUpdated = "2026-08-09";

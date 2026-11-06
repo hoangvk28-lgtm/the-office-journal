@@ -63,35 +63,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "ErGear Single Monitor Arm"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "ErGear Single Monitor Arm"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "ErGear Single Monitor Arm"
         ],
         [
-          "",
+          "Up to $199",
           "Ergotron Upgraded LX Pro Premium Monitor Arm"
         ]
       ]
@@ -101,22 +101,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Dual-Monitor Arm vs Single-Monitor Arm",
     "cards": [
       {
-        "label": "",
+        "label": "Dual-monitor arm",
         "text": "Mounts two monitors from one clamp point, worth checking the combined weight rating. In this comparison: HUANUO TitanLift Heavy Duty Monitor Arm, Ergotron LX Monitor Arm, Ergotron Upgraded LX Pro Premium Monitor Arm."
       },
       {
-        "label": "",
+        "label": "Single-monitor arm",
         "text": "Simpler and usually cheaper per monitor, fine for a one-screen setup. In this comparison: ErGear Single Monitor Arm, HUANUO FlowLift Single Monitor Mount, HUANUO FlowLift Pro Monitor Arm, WALI Single Monitor Mount, NB SmooVex Monitor Mount."
       }
     ],
     "note": "Default to single arms unless you're mounting two monitors from the same desk clamp point."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Desk situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -125,7 +125,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Need a grommet hole mount instead",
-          ""
+          "ErGear Single Monitor Arm"
         ]
       ]
     }
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Standing Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wide vertical height range to stay at eye level through sit-stand transitions, plus a clamp rated for your desk's edge thickness."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "ErGear Single Monitor Arm is worth checking against its listed height range before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a heavier or ultrawide monitor, where Ergotron Upgraded LX Pro Premium Monitor Arm's weight capacity and gas spring quality give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You have a light, standard monitor and just want basic height adjustment, where ErGear Single Monitor Arm covers the same job at a lower price."
       }
     ]
@@ -164,7 +164,7 @@ export const howWeEvaluated = [
     "description": "Confirmed each arm's VESA pattern (75x75mm or 100x100mm) since that is what actually determines whether a separate laptop tray adapter can attach at all."
   },
   {
-    "title": "",
+    "title": "Combined weight headroom",
     "description": "Compared each arm's rated capacity against a realistic combined load, a monitor plus a laptop and tray adapter, rather than the monitor's weight alone."
   },
   {
@@ -172,7 +172,7 @@ export const howWeEvaluated = [
     "description": "Checked reach and retraction range so the arm can actually position a monitor and laptop tray comfortably on a typical 60-80cm-deep desk."
   },
   {
-    "title": "",
+    "title": "Cable routing capacity",
     "description": "Evaluated whether the arm's cable channel can realistically handle a power adapter cable plus an HDMI or DisplayPort cable, the minimum a combined setup needs."
   },
   {

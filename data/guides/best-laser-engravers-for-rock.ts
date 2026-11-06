@@ -9,19 +9,19 @@ export const buyingCriteria = [
     "explanation": "Define the exact rock substrate, coating/finish and desired process before selecting a laser source. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
-    "criterion": "",
+    "criterion": "Publish source wavelength",
     "explanation": "Publish source wavelength, optical power, focus/spot and full settings used on representative material coupons. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
-    "criterion": "",
+    "criterion": "Separate surface marking",
     "explanation": "” This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
-    "criterion": "",
+    "criterion": "Document fumes",
     "explanation": "Document fumes, fire risk, cracking/melting/warping and any material chemistry that makes laser processing unsuitable. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
-    "criterion": "",
+    "criterion": "Compare contrast",
     "explanation": "Compare contrast, depth, edge/heat-affected zone and repeatability after cleaning or handling. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   }
 ];
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51KyZzIEruL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -76,11 +76,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget tier",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,7 +88,7 @@ export const howToChoose: HowToChooseSection[] = [
           "ACMER S1 Laser Engraver Machine"
         ],
         [
-          "",
+          "Best overall value",
           "Carverall K15 Pro Laser Engraver 10W-Laser Engraving Machine"
         ]
       ]
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to Carverall K15 Pro Laser Engraver 10W-Laser Engraving Machine unless your specific use case points toward ACMER S1 Laser Engraver Machine's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title (material, feature, or use case) verified directly on the product listing, not assumed from the category."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Carverall K15 Pro Laser Engraver 10W-Laser Engraving Machine is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on ATOMSTACK P1 5W Laser Engraver Dual, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by ACMER S1 Laser Engraver Machine without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hard-scope eligibility",
     "description": "Keep `Best Laser Engravers for Rock` as its own target and require the exact source, material, wattage, brand, accessory, price or workflow modifier."
   },
   {
-    "title": "",
+    "title": "Source-first evidence",
     "description": "Publish wavelength/source architecture, true optical output, spot/field/work area and process mechanism before speed claims."
   },
   {
-    "title": "",
+    "title": "Representative-job protocol",
     "description": "Disclose material, coating, thickness, focus, power, speed, frequency/pulse where relevant, passes, air assist and measured result."
   },
   {
-    "title": "",
+    "title": "Safety/process score",
     "description": "Document laser class/access controls, enclosure/interlocks, extraction, fire supervision, material restrictions and required PPE/control area where applicable."
   },
   {
-    "title": "",
+    "title": "Ownership/production verdict",
     "description": "Include camera/rotary calibration, software, consumables, exhaust/cooling, source life/replacement, service and total ready-to-run cost."
   }
 ];

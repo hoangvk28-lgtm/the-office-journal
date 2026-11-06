@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $69",
+          "Canon PIXMA TR4720 All"
         ],
         [
-          "",
+          "Up to $491",
           "Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Printing",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex (auto two-sided)",
         "text": "Prints both sides automatically, saves paper and time for double-sided documents. In this comparison: Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer, Brother HL, Brother DCP, Brother INKvestment 5010 Wireless Color Inkjet All, Brother Work Smart 1360 Wireless Color Inkjet All."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if you rarely need double-sided printing. In this comparison: Epson EcoTank ET, Canon PIXMA TR4720 All, HP DeskJet 4355 Wireless All."
       }
     ],
     "note": "Default to duplex unless you're confident your printing is mostly single-sided."
   },
   {
-    "subheading": "",
+    "subheading": "By Scan Resolution",
     "note": "Check each pick's listed optical scan resolution in DPI against how you'll actually use scanning before buying, not just print specs."
   },
   {
     "subheading": "For Scanning Contracts or Receipts Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed optical scan resolution in DPI high enough to keep fine print legible, not just the printer's overall feature list."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer is worth checking against its listed scan resolution before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You print regularly at moderate to high volume, where Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer's duty cycle and cost-per-page give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only print occasionally at low volume, where Canon PIXMA TR4720 All covers the same job at a lower price."
       }
     ]
@@ -150,7 +150,7 @@ export const howWeEvaluated = [
     "description": "Weighed each pick's rated speed as a best-case, simple-document figure, and factored in how much slower real-world graphics-heavy documents typically run compared to that number."
   },
   {
-    "title": "",
+    "title": "First-page-out readiness",
     "description": "Considered how quickly each printer's mechanism, laser fuser warm-up versus inkjet carriage motor, reaches printing readiness for a single, bursty job rather than only sustained output."
   },
   {
@@ -158,7 +158,7 @@ export const howWeEvaluated = [
     "description": "Checked which picks include automatic duplex and auto document feeders, since these features meaningfully cut total time on two-sided or multi-page jobs regardless of per-page PPM."
   },
   {
-    "title": "",
+    "title": "Quality mode speed trade-off",
     "description": "Noted that switching from a fast draft mode to a best-quality mode can take considerably longer per page, and factored that flexibility into picks offering multiple quality settings."
   },
   {

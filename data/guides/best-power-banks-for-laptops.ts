@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/31TACmxxIGL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device You're Charging",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Phone, occasional use",
+          "Anker Power Bank"
         ],
         [
           "Phone plus tablet, daily use",
-          ""
+          "Anker Laptop Power Bank"
         ],
         [
-          "",
-          ""
+          "Laptop or multiple devices",
+          "Anker Prime Power Bank"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Anker Power Bank"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "INIU Laptop Power Bank"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Anker Prime Power Bank"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Capacity vs Portability",
     "cards": [
       {
-        "label": "",
+        "label": "Higher capacity (e.g. Anker Prime Power Bank)",
         "text": "More charges before a recharge, but heavier and bulkier to carry."
       },
       {
-        "label": "",
+        "label": "Lower capacity (e.g. Anker Power Bank)",
         "text": "Pocket-friendly and light, but needs more frequent recharging."
       }
     ],
     "note": "Match this to whether you're carrying it daily or leaving it in a bag for emergencies."
   },
   {
-    "subheading": "",
+    "subheading": "By Travel Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Flying with it",
           "Check the watt-hour (Wh) rating stays under 100Wh"
         ],
         [
-          "",
-          ""
+          "Never flying with it",
+          "Anker Laptop Power Bank"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "USB-PD support at 45W or higher, not just any USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Anker Prime Power Bank is worth checking against your specific laptop's wattage requirement before assuming any power bank charges it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher capacity, faster charging, and support for a laptop, where Anker Prime Power Bank justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need backup charges for a phone, where Anker Power Bank already covers the job at the lowest price here."
       }
     ]

@@ -63,35 +63,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HSH Extra Large Home Office Desk for 2 People"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "ErGear 48 x 24 Inch Height Adjustable Electric Standing Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $76",
+          "HUANUO 32"
         ],
         [
-          "",
+          "Up to $220",
           "VIVO Height Adjustable 42 Inch Standing Desk Converter with Dual Monitor Stand"
         ]
       ]
@@ -101,7 +101,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "HUANUO 32 vs VIVO Height Adjustable 42 Inch Standing Desk Converter with Dual Monitor Stand",
     "cards": [
       {
-        "label": "",
+        "label": "HUANUO 32",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
@@ -112,15 +112,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to HUANUO 32 unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "ErGear 48 x 24 Inch Height Adjustable Electric Standing Desk"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "ErGear 48 x 24 Inch Height Adjustable Electric Standing Desk is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where VIVO Height Adjustable 42 Inch Standing Desk Converter with Dual Monitor Stand's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where HUANUO 32 covers the same job at a lower price."
       }
     ]
@@ -160,7 +160,7 @@ export const howWeEvaluated = [
     "description": "Checked each listing's actual marketing language to separate the one desk explicitly built for two people from single-user desks that merely appear in two-person searches due to width."
   },
   {
-    "title": "",
+    "title": "Per-person surface area",
     "description": "Divided total desk width by two to estimate realistic per-person surface, comparing that figure against the 36-inch-plus threshold that supports comfortable side-by-side use."
   },
   {

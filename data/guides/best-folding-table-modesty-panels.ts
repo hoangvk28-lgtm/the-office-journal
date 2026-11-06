@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41k8mDIaT2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Desk Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard office desk",
           "Scranton & Co 60 x 24 in Oak Flip-Top Table with Modesty Panel"
         ],
         [
-          "",
+          "Standing/height-adjustable desk",
           "WAHHWF Adhesive Desk Skirt Self Stick with Track, Foldable Modesty Panel, Linen"
         ],
         [
-          "",
-          ""
+          "L-shaped desk",
+          "QXYXSM Folding Conference Table"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Scranton & Co 60 x 24 in Oak Flip-Top Table with Modesty Panel"
         ],
         [
-          "",
+          "Mid-range pick",
           "Modular Conference Table, Folding Training Table with Modesty Panel, 6ft"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "QXYXSM Folding Conference Table"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Laminate vs Perforated Metal",
     "cards": [
       {
         "label": "Scranton & Co 60 x 24 in Oak Flip-Top Table with Modesty Panel)",
         "text": "Matches most standard desk finishes, adds real rigidity."
       },
       {
-        "label": "",
+        "label": "Perforated metal",
         "text": "Better airflow for cable heat, more industrial look."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Extra Function",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Privacy and rigidity only",
           "WAHHWF Adhesive Desk Skirt Self Stick with Track, Foldable Modesty Panel, Linen"
         ],
         [
-          "",
+          "Built-in cable management",
           "Modular Conference Table, Folding Training Table with Modesty Panel, 6ft"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Branded Standing Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A bracket kit confirmed compatible with your exact desk brand and model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "WAHHWF Adhesive Desk Skirt Self Stick with Track, Foldable Modesty Panel, Linen is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where QXYXSM Folding Conference Table justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Scranton & Co 60 x 24 in Oak Flip-Top Table with Modesty Panel already covers the job at the lowest price here."
       }
     ]

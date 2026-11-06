@@ -60,36 +60,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Universal Large Desk Cup Holder Clamp"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "GUNKING Luxury 2"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "HzTinT Large Desk Cup Holder"
         ],
         [
-          "",
-          ""
+          "Up to $18",
+          "GUNKING Luxury 2"
         ]
       ]
     }
@@ -98,27 +98,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Metal Clamp vs Plastic Clamp",
     "cards": [
       {
-        "label": "",
+        "label": "Metal clamp",
         "text": "Holds its grip strength longer under repeated tightening, the better choice if you reposition the holder often. In this comparison: HzTinT Large Desk Cup Holder, OOKUU Upgraded Large Desk Cup Holder Clamp."
       },
       {
-        "label": "",
+        "label": "Plastic clamp",
         "text": "Usually lighter and cheaper, a reasonable choice if you clamp it once and leave it in place. In this comparison: Universal Large Desk Cup Holder Clamp."
       }
     ],
     "note": "Default to a metal clamp unless price is the deciding factor and you won't reposition the holder often."
   },
   {
-    "subheading": "",
+    "subheading": "By Feature Set",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Want a headphone hanger or hybrid design",
-          ""
+          "GUNKING Luxury 2"
         ],
         [
           "Just want a dedicated cup holder",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Oversized Tumbler Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed cavity diameter in inches, not just a vague \"large\" label, since oversized tumblers vary in exact width and a mismatched cavity won't grip securely."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "GUNKING Luxury 2 is worth checking against its listed diameter spec before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a metal clamp and deeper cavity, where GUNKING Luxury 2's higher price buys real durability and tip resistance over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You use a standard-size mug and rarely bump your desk, where HzTinT Large Desk Cup Holder covers the same job at a lower price."
       }
     ]
@@ -157,19 +157,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine clip vs. clamp distinction",
     "description": "We checked whether each product is a lighter clip mechanism or simply a clamp marketed with 'clip-on' language, and disclosed which is which."
   },
   {
-    "title": "",
+    "title": "Weight capacity honesty",
     "description": "We noted that lighter clip designs generally support less weight than full metal clamps, and flagged this tradeoff explicitly."
   },
   {
-    "title": "",
+    "title": "Spill and tip resistance",
     "description": "We favored covered cavity designs over flat rings regardless of clip or clamp mechanism."
   },
   {
-    "title": "",
+    "title": "Desk-edge compatibility",
     "description": "We compared narrower clip openings against the wider ranges found on full clamp designs."
   }
 ];

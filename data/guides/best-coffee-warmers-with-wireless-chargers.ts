@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41z8cPy5PbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Casual desk use",
           "TTKXT Smart Coffee Mug Warmer with LED Display"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Coffee Mug Warmer for Desk with 15W Wireless Charging Pad"
         ],
         [
-          "",
+          "Gift or bundle use",
           "USB Coffee Mug Warmer: Candle Wax Warmer Smart Electric Cup Warmer Charge"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "TTKXT Smart Coffee Mug Warmer with LED Display"
         ],
         [
-          "",
+          "Mid-range pick",
           "BEARWIND Coffee Mug Warmer for Desk"
         ],
         [
-          "",
+          "Higher budget",
           "USB Coffee Mug Warmer: Candle Wax Warmer Smart Electric Cup Warmer Charge"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs Wall-Powered",
     "cards": [
       {
         "label": "TTKXT Smart Coffee Mug Warmer with LED Display)",
         "text": "Plugs into a laptop or power bank, weaker heating strength."
       },
       {
-        "label": "",
+        "label": "Wall-powered",
         "text": "Stronger, more consistent heating, needs a free outlet."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Control Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simple, no-fuss warming",
           "Coffee Mug Warmer for Desk with 15W Wireless Charging Pad"
         ],
         [
-          "",
+          "Adjustable temperature control",
           "BEARWIND Coffee Mug Warmer for Desk"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Large or Insulated Mug Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wide base plate matched to your mug's diameter, and a ceramic or non-insulated mug material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Coffee Mug Warmer for Desk with 15W Wireless Charging Pad is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where USB Coffee Mug Warmer: Candle Wax Warmer Smart Electric Cup Warmer Charge justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where TTKXT Smart Coffee Mug Warmer with LED Display already covers the job at the lowest price here."
       }
     ]

@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $100",
           "HP OfficeJet Pro 8125e Wireless All"
         ],
         [
-          "",
+          "Up to $491",
           "Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Printing",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex (auto two-sided)",
         "text": "Prints both sides automatically, saves paper and time for double-sided documents. In this comparison: Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer, HP OfficeJet Pro 8125 Wireless All, HP OfficeJet Pro 8125e Wireless All."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if you rarely need double-sided printing. In this comparison: Epson EcoTank ET, Brother INKvestment MFC, Brother INKvestment MFC, Epson EcoTank ET, Canon PIXMA TR8620a All."
       }
     ],
     "note": "Default to duplex unless you're confident your printing is mostly single-sided."
   },
   {
-    "subheading": "",
+    "subheading": "By Scan Resolution",
     "note": "Check each pick's listed optical scan resolution in DPI against how you'll actually use scanning before buying, not just print specs."
   },
   {
     "subheading": "For Scanning Contracts or Receipts Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed optical scan resolution in DPI high enough to keep fine print legible, not just the printer's overall feature list."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer is worth checking against its listed scan resolution before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You print regularly at moderate to high volume, where Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer's duty cycle and cost-per-page give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only print occasionally at low volume, where HP OfficeJet Pro 8125e Wireless All covers the same job at a lower price."
       }
     ]
@@ -146,11 +146,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Honest print technology labeling",
     "description": "Verified each product's actual engine from its specs rather than assuming 'color printer' meant laser, and labeled ink-tank and cartridge inkjets clearly instead of blending them into the color laser category."
   },
   {
-    "title": "",
+    "title": "Cost-per-page reality across technologies",
     "description": "Weighed the true color laser's toner cost against ink-tank and cartridge inkjet running costs, since a color laser's per-page math only pays off at real sustained volume."
   },
   {
@@ -158,7 +158,7 @@ export const howWeEvaluated = [
     "description": "Compared how each engine handles crisp text and charts against photo and gradient reproduction, since color laser and inkjet excel at different things."
   },
   {
-    "title": "",
+    "title": "Size and placement fit",
     "description": "Noted the physical footprint difference between the four-toner color laser body and the more compact inkjet and ink-tank alternatives for small home offices."
   },
   {

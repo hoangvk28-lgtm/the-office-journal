@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Nteg-PPcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $24",
+          "Anker ($23.99)"
         ],
         [
-          "",
-          ""
+          "Under $27",
+          "LeZone 4800J ($26.99)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "PASSUS Tower ($28.99) or Belkin ($29.95)"
         ]
       ]
     }
@@ -113,11 +113,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Established Brand vs Higher Joule Rating from a Generic Manufacturer",
     "cards": [
       {
-        "label": "",
+        "label": "Established brand (Belkin, Anker)",
         "text": "Backed by documented connected equipment warranties and a company track record, even if the joule rating is technically lower than a generic competitor."
       },
       {
-        "label": "",
+        "label": "Generic manufacturer (LeZone)",
         "text": "Can offer a higher raw joule rating and longer cord at a lower price, without the same documented warranty backing."
       }
     ],
@@ -127,13 +127,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By USB Charging Speed Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your charging priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Fastest single USB-C port for phone charging",
-          ""
+          "Anker (20W USB-C)"
         ],
         [
           "Multiple USB-C ports for several devices",
@@ -141,7 +141,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "No USB needed, maximum joule rating instead",
-          ""
+          "Belkin (no USB ports)"
         ]
       ]
     }
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Nightstand or Bedside Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A built-in light feature that lets the power strip double as functional bedside lighting rather than needing a separate lamp."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The PASSUS Tower's built-in night light with adjustable brightness is specifically suited to this bedside use case."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a documented connected equipment warranty from an established brand, where the Belkin or Anker picks each back their surge protection with real financial assurance."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want the highest raw joule rating and longest cord without brand-name warranty backing, where the LeZone pick delivers 4800J of protection for about $3 less than the Belkin."
       }
     ]
@@ -176,7 +176,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Joule Surge Protection Rating",
     "description": "Compared stated joule ratings across the lineup, from 2100J up to 4800J."
   },
   {
@@ -184,15 +184,15 @@ export const howWeEvaluated = [
     "description": "Compared documented connected equipment warranties and standard product warranty length."
   },
   {
-    "title": "",
+    "title": "USB-C Power Delivery Speed",
     "description": "Compared USB-C port wattage and stated real-world charging speed for compatible devices."
   },
   {
-    "title": "",
+    "title": "Cord Length",
     "description": "Compared cord length across brand-name and generic picks in this comparison."
   },
   {
-    "title": "",
+    "title": "Unique Features",
     "description": "Noted distinguishing features like built-in lighting or grouped switch controls beyond standard outlet and USB specs."
   }
 ];

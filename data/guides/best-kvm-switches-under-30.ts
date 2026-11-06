@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41uSOQO2ILL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,26 +83,26 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $19",
+          "HDMI KVM Switch, Wired Extend Controller ($16.99) or 4K KVM Switch Box ($18.99)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "HDMI KVM Switch 2 Port ($29.69) or TIGKTING USB 3.0 ($29.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB 2.0 vs USB 3.0 Ports",
     "cards": [
       {
         "label": "0 (Wired Extend Controller pick)",
@@ -113,14 +113,14 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Up to 5Gbps transfer speed, meaningfully faster for USB storage devices, scanners, and other data-heavy peripherals shared between computers."
       }
     ],
-    "note": ""
+    "note": "If you only connect a keyboard and mouse, USB 2.0 is sufficient. If you regularly share a flash drive or external storage between computers, prioritize a USB 3.0 pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Cable Requirements",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -138,24 +138,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Direct HDMI Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A listing that explicitly states compatibility with HDMI adapters or conversion cables if your setup requires one, rather than assuming universal compatibility."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The HDMI KVM Switch with Wired Extend Controller explicitly warns against using adapters, so a direct HDMI-to-HDMI setup is required for stable performance."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "0 pick offers four full-speed ports in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A basic switch with included cables covers your needs, where the 4K KVM Switch HDMI 2 Port Box delivers a complete kit for under $19."
       }
     ]
@@ -168,19 +168,19 @@ export const howWeEvaluated = [
     "description": "0 speeds and total port count across the lineup, since this varies meaningfully at this price point."
   },
   {
-    "title": "",
+    "title": "Switching Method Flexibility",
     "description": "Checked whether each switch supports both a physical button and a wired remote or desktop controller for flexible placement away from the desk."
   },
   {
-    "title": "",
+    "title": "Cable Inclusion",
     "description": "Noted which listings include the necessary HDMI and USB cables versus requiring buyers to source them separately, a real cost difference."
   },
   {
-    "title": "",
+    "title": "Compatibility Caveats and Warnings",
     "description": "Checked listings for specific disclosed limitations, like warnings against using HDMI adapters, rather than assuming universal compatibility."
   },
   {
-    "title": "",
+    "title": "Warranty and Support Terms",
     "description": "Compared stated warranty length and after-sales service commitments across the lineup, since these varied even among similarly priced switches."
   }
 ];

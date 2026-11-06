@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41A3q0YLcML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "7 Inch Small Gaming Desk Table with LED Lights & Power Outlets"
         ],
         [
-          "",
+          "Standard home office",
           "Lufeiya White L Shaped Computer Desk with Drawers & Storage Shelves"
         ],
         [
-          "",
+          "Larger dedicated office",
           "UTEX Wooden Kids Corner Desk and Chair Set with Hutch for Ages 3-8"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "7 Inch Small Gaming Desk Table with LED Lights & Power Outlets"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Tangkula White Corner Desk"
         ],
         [
-          "",
+          "Higher budget",
           "UTEX Wooden Kids Corner Desk and Chair Set with Hutch for Ages 3-8"
         ]
       ]
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor",
           "Lufeiya White L Shaped Computer Desk with Drawers & Storage Shelves"
         ],
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "7 Inch Small Gaming Desk Table with LED Lights & Power Outlets is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in storage, better cable management, and sturdier build quality, where UTEX Wooden Kids Corner Desk and Chair Set with Hutch for Ages 3-8 justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "7 Inch Small Gaming Desk Table with LED Lights & Power Outlets already covers the job at the lowest price here."
       }
     ]

@@ -56,36 +56,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Jabra Speak 510"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Anker PowerConf S330 USB Speakerphone for Home Office"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $53",
           "EMEET M0 Plus Conference Speaker and Microphone"
         ],
         [
-          "",
-          ""
+          "Up to $98",
+          "Jabra Speak 510"
         ]
       ]
     }
@@ -98,22 +98,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Jabra Speak 510",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to EMEET M0 Plus Conference Speaker and Microphone unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Anker PowerConf S330 USB Speakerphone for Home Office"
         ]
       ]
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Anker PowerConf S330 USB Speakerphone for Home Office is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Jabra Speak 510's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where EMEET M0 Plus Conference Speaker and Microphone covers the same job at a lower price."
       }
     ]
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Portability as a real practical advantage for shared small offices",
-    "description": ""
+    "description": "Weighed how easily each pick moves between two people's desks or gets handed off during a call, a genuine advantage a shared small office has over a fixed conference room."
   },
   {
     "title": "Value at close range over premium conference-room features",

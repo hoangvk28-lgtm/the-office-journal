@@ -53,38 +53,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/51I1QfNfgIL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Prioritizing metal",
           "Simple Trending Monitor Stand with Drawer"
         ],
         [
-          "",
+          "Prioritizing wood",
           "OPNICE 2-Tier Monitor Stand Riser with Drawer and 2 Pen Holders"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $17",
           "Zimilar Monitor Stand Riser with Metal Mesh Drawer"
         ],
         [
-          "",
+          "Mid-range",
           "OPNICE 2-Tier Monitor Stand Riser with Drawer and 2 Pen Holders"
         ],
         [
@@ -95,24 +95,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Freestanding vs Clamp/Clip-On",
     "cards": [
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits directly on the desk with zero installation, at the cost of using up some desk depth. In this comparison: Simple Trending Monitor Stand with Drawer, OPNICE 2-Tier Monitor Stand Riser with Drawer and 2 Pen Holders, Klearlook Foldable Height Adjustable Monitor Stand Riser with Drawer."
       },
       {
-        "label": "",
+        "label": "Clamp/Clip-On",
         "text": "Attaches to the desk's back edge, freeing up desk surface underneath, but needs a compatible edge thickness. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "With Storage vs Platform-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy or Ultrawide Monitor Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity with real margin above your monitor's actual weight, a rigid material like metal or thick wood, and a wide enough platform to support the monitor's full base without overhang."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Klearlook Foldable Height Adjustable Monitor Stand Riser with Drawer fits this specifically: Solid 4.7-star rating with 3,294 ratings."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is capacity or storage you may not need."
       }
     ]

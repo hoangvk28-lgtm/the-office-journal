@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/51cY482PQCL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Placement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "On the desk surface",
           "SMART& COOL Magnetic Pop-Up Note Dispenser for 3 x 3 in Accordion-Style"
         ],
         [
-          "",
+          "Clipped to a monitor",
           "Rhinestone Self Stick Note Pad Holders 4 x 4 Inches Crystal Note Holder Sticky"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "SMART& COOL Magnetic Pop-Up Note Dispenser for 3 x 3 in Accordion-Style"
         ],
         [
-          "",
+          "Mid-range pick",
           "NatSumeBasics Gold Sticky Note Holder Memo Note Pad Holder Dispenser"
         ],
         [
-          "",
+          "Higher budget",
           "BTSKY Golden Glass 3x3 Inch Sticky Note Holder with Pen Slot"
         ]
       ]
@@ -114,22 +114,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "One-at-a-time dispensing, needs z-fold refill pads specifically."
       },
       {
-        "label": "",
+        "label": "Standard pad holder",
         "text": "Works with any standard pad, no special refill needed."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Note Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your notes",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 3x3 size",
           "Rhinestone Self Stick Note Pad Holders 4 x 4 Inches Crystal Note Holder Sticky"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For One-Handed Desk Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weighted or non-slip base that stays put while you pull a note with one hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Rhinestone Self Stick Note Pad Holders 4 x 4 Inches Crystal Note Holder Sticky is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where BTSKY Golden Glass 3x3 Inch Sticky Note Holder with Pen Slot justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where SMART& COOL Magnetic Pop-Up Note Dispenser for 3 x 3 in Accordion-Style already covers the job at the lowest price here."
       }
     ]

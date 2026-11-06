@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Compare CPU core count, RAM, and storage (plus expansion) rather than judging by screen size alone."
   },
   {
-    "criterion": "",
+    "criterion": "Measure Real Battery Runtime",
     "explanation": "Check battery capacity and realistic runtime under actual drawing brightness and app use, not an idle-only figure."
   },
   {
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Compare CPU core count, RAM, and storage (plus expansion) rather than judging by screen size alone."
   },
   {
-    "subheading": "",
+    "subheading": "Measure Real Battery Runtime",
     "note": "Check battery capacity and realistic runtime under actual drawing brightness and app use, not an idle-only figure."
   },
   {
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified First",
     "description": "Sorted each product into screenless pen tablet, computer-dependent pen display, or true standalone before comparing specs, since these solve different problems."
   },
   {
-    "title": "",
+    "title": "Pen Behavior Verified",
     "description": "Checked activation force, pressure-level count, tilt support, and parallax evidence directly from documentation rather than trusting a headline pressure number alone."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Verified current Windows/macOS/Linux/Android compatibility by exact model, since older tablets can lose driver support over time."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included pen, nibs, stand, and cables against what needs to be bought separately, plus warranty length and driver update history."
   }
 ];

@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Panel-faq",
     "q": "Should I get an IPS, OLED, or VA 4K monitor?",
     "a": "IPS gives the most consistent accurate color, OLED gives the deepest contrast and fastest response with a real long-term burn-in risk on static content, VA splits the difference with strong contrast but slower response, match to your primary use."
   },
   {
-    "id": "",
+    "id": "Stand-faq",
     "q": "Do all 4K monitors come with height-adjustable stands?",
     "a": "No, it ranges from tilt-only to full ergonomic adjustment, check the specific stand spec against your desk setup, a VESA-compatible arm is a simple add-on if the included stand falls short."
   },
   {
-    "id": "",
+    "id": "Hdr-faq",
     "q": "Does HDR on a 4K monitor actually look different?",
     "a": "It depends heavily on the certification tier, DisplayHDR 400 is a low bar with modest brightness gains, DisplayHDR 600 and above reflects capable HDR hardware, check the specific tier rather than trusting the word HDR alone."
   },
   {
-    "id": "",
+    "id": "Curved-faq",
     "q": "Is a curved 4K monitor better than flat?",
     "a": "It depends on your use, curved reduces eye travel and adds immersion for gaming or media but distorts straight lines in spreadsheet, CAD, or design work where geometric accuracy matters."
   },
   {
-    "id": "",
+    "id": "Response-faq",
     "q": "Can I trust the response time number on the box?",
     "a": "Not fully, it's usually a best-case lab number under aggressive overdrive settings, real-world motion clarity is often worse and can show ghosting, check independent motion-clarity reviews instead."
   },
   {
-    "id": "",
+    "id": "Usbc-faq",
     "q": "Will a USB-C 4K monitor charge my laptop?",
     "a": "Only if its power delivery wattage matches or exceeds your laptop's charging requirement, check the monitor's specific PD wattage spec rather than assuming any USB-C monitor fully charges any laptop."
   }
@@ -66,34 +66,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51joCWrjgYL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General office and browsing",
           "ZZA 34 Inch Ultrawide Curved Monitor Built in Speakers 4K Gaming Computer"
         ],
         [
-          "",
+          "Color-critical creative work",
           "LG 32GS60QC-B Ultragear 32-inch Curved Gaming Monitor QHD (2560x1440) 180Hz 1ms"
         ],
         [
-          "",
+          "Fast-paced gaming",
           "ZZA 32 Inch Curved Gaming Monitor 4K 160HZ Computer Monitor UHD 3840 * 2160P VA"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "ZZA 34 Inch Ultrawide Curved Monitor Built in Speakers 4K Gaming Computer"
         ],
         [
-          "",
+          "Mid-range pick",
           "ZZA 32 Inch 4K Curved Gaming Monitor 165Hz"
         ],
         [
-          "",
+          "Higher budget",
           "ZZA 32 Inch Curved Gaming Monitor 4K 160HZ Computer Monitor UHD 3840 * 2160P VA"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "IPS vs OLED Panel",
     "cards": [
       {
         "label": "ZZA 34 Inch Ultrawide Curved Monitor Built in Speakers 4K Gaming Computer)",
         "text": "Consistent accurate color from wide angles, weaker black levels."
       },
       {
-        "label": "",
+        "label": "OLED",
         "text": "Deeper contrast and faster response, real long-term burn-in risk on static content."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk depth",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard desk distance",
           "LG 32GS60QC-B Ultragear 32-inch Curved Gaming Monitor QHD (2560x1440) 180Hz 1ms"
         ],
         [
-          "",
+          "Larger or multi-monitor desk",
           "ZZA 32 Inch 4K Curved Gaming Monitor 165Hz"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed USB-C power delivery wattage that matches your laptop's actual charging requirement, not just a USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "LG 32GS60QC-B Ultragear 32-inch Curved Gaming Monitor QHD (2560x1440) 180Hz 1ms is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where ZZA 32 Inch Curved Gaming Monitor 4K 160HZ Computer Monitor UHD 3840 * 2160P VA justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where ZZA 34 Inch Ultrawide Curved Monitor Built in Speakers 4K Gaming Computer already covers the job at the lowest price here."
       }
     ]

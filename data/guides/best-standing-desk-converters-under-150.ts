@@ -59,8 +59,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $150",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A strong alternative with a different tradeoff",
-          ""
+          "Height Adjustable Standing Desk Converter Keyboard Riser 23.6 Inch Black"
         ]
       ]
     }
@@ -78,16 +78,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Height Adjustable Standing Desk Converter Keyboard Riser 23.6 Inch Black"
         ],
         [
-          "",
+          "Best overall value",
           "JOY worker Standing Desk Converter"
         ]
       ]
@@ -101,18 +101,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
       },
       {
-        "label": "",
+        "label": "Adjustable Height Standing Desk Converter Keyboard Riser 23.6 Inch Black",
         "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
       }
     ],
     "note": "6 Inch Black's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -121,7 +121,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A close secondary option worth comparing",
-          ""
+          "Height Adjustable Standing Desk Converter Keyboard Riser 23.6 Inch Black"
         ]
       ]
     }
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "JOY worker Standing Desk Converter is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "6 Inch Black, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6 Inch Black without needing the higher-tier features."
       }
     ]
@@ -156,23 +156,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every recommended product must be new, in stock and up to $150 on the article refresh date; stale sale prices are automatically disqualified."
   },
   {
-    "title": "",
+    "title": "Budget-ladder context",
     "description": "Explicitly show what changes between the next-lower tier, the constrained value converter tier, and the next-higher tier so this page is not a cloned generic ranking."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize price against true sit-stand workspace, work-surface/keyboard area and the minimum usable setup cost rather than raw feature count."
   },
   {
-    "title": "",
+    "title": "Evidence split",
     "description": "We separated height range and loaded stability figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
-    "title": "",
+    "title": "Threshold-specific ownership verdict",
     "description": "Judge lift effort/desk footprint, warranty/support, replacement accessories and the chance that a buyer should save money or step up a tier instead of spending the full $150."
   }
 ];

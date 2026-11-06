@@ -56,36 +56,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "TP"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "TP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $80",
+          "TP"
         ],
         [
-          "",
-          ""
+          "Up to $153",
+          "TP"
         ]
       ]
     }
@@ -94,27 +94,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Mesh System vs Single Router",
     "cards": [
       {
-        "label": "",
+        "label": "Mesh system",
         "text": "Spreads coverage more evenly across a larger home or multiple floors, worth it if a single router leaves dead zones. In this comparison: TP, Cudy BE6500 WiFi 7 Router Dual Band Gigabit Gaming Router, TP, TP."
       },
       {
-        "label": "",
+        "label": "Single router",
         "text": "Simpler and usually cheaper, fine for a smaller home or apartment. In this comparison: NETGEAR Nighthawk Dual."
       }
     ],
     "note": "Default to a single router unless your home's size or layout needs mesh coverage."
   },
   {
-    "subheading": "",
+    "subheading": "By Wired Port Speed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "2.5GbE port available",
+          "TP"
         ]
       ]
     }
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fiber Internet Plan Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A WAN port speed matched to or exceeding your actual fiber plan's rated speed, not just a fast LAN port for local devices."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "TP is worth checking against its listed WAN port speed before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a fast fiber plan, run a NAS, or need mesh coverage, where TP's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your internet plan tops out at standard gigabit, where TP covers the same job at a lower price."
       }
     ]

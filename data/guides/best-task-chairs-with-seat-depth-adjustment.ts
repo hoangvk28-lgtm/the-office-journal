@@ -63,43 +63,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Long You Sit Each Day",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your day",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Short, active sessions",
+          "ErgoSift M1 Ergonomic Office Chair with 3.1-Inch Adjustable Seat Depth"
         ],
         [
-          "",
+          "Standard full workday",
           "Farini Office Chair High Back Computer Chair with Wheels Black"
         ],
         [
-          "",
+          "Uninterrupted 8+ hour days",
           "Marsail Ergonomic Office Chair: Office Desk Chair with High Back Mesh"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "ErgoSift M1 Ergonomic Office Chair with 3.1-Inch Adjustable Seat Depth"
         ],
         [
-          "",
+          "Mid-range pick",
           "ErgoSift Ergonomic Office Chair with Adjustable Seat Depth"
         ],
         [
-          "",
+          "Higher budget",
           "Marsail Ergonomic Office Chair: Office Desk Chair with High Back Mesh"
         ]
       ]
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Seat Height Range vs Your Desk",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 28-30 inch desk",
           "Farini Office Chair High Back Computer Chair with Wheels Black"
         ],
         [
-          "",
+          "Taller or drafting-style desk",
           "Check the chair's maximum height range specifically"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, All-Day Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Real lumbar adjustment and a weight capacity rated comfortably above your actual weight, not just at it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Farini Office Chair High Back Computer Chair with Wheels Black is worth checking against its specific lumbar adjustment before assuming any 'ergonomic' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You sit 8+ hours a day and want adjustable lumbar, arms, and a higher weight rating, where Marsail Ergonomic Office Chair: Office Desk Chair with High Back Mesh justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "1-Inch Adjustable Seat Depth already covers the job at the lowest price here."
       }
     ]

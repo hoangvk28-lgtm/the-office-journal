@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41WPVTUITbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $199",
+          "TOPUTURE ($198.99)"
         ],
         [
-          "",
-          ""
+          "Under $220",
+          "WELLFIT ($218.99)"
         ],
         [
-          "",
-          ""
+          "Under $250",
+          "450 lb Auto Incline ($249.00)"
         ],
         [
-          "",
-          ""
+          "Under $330",
+          "MERACH UltraWalk ($329.99)"
         ]
       ]
     }
@@ -128,23 +128,23 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you want to vary incline frequently during a single session without stopping, the automatic incline pick is worth prioritizing. If you typically set one incline level per session, the manual options work just as well at a lower price."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your weight capacity needs",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard capacity, up to 300 lbs",
-          ""
+          "TOPUTURE"
         ],
         [
           "Higher capacity, up to 350 lbs",
-          ""
+          "WELLFIT"
         ],
         [
-          "",
+          "Heavy-duty capacity, 400-450 lbs",
           "MERACH or the 450 lb Auto Incline pick"
         ]
       ]
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Taller User Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wider deck explicitly marketed for taller users with a stated width increase, rather than assuming any standard walking pad accommodates a longer stride comfortably."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3 inch deck is specifically marketed as providing 33% more stride space for taller users, a detail none of the other three picks emphasize."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the most durable frame with a stated 15,000-hour motor lifespan and a deck built for taller users, where the MERACH pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a solid, cushioned walking pad with an adjustable handlebar without needing the highest weight capacity, where the TOPUTURE pick covers that for about $131 less."
       }
     ]
@@ -184,7 +184,7 @@ export const howWeEvaluated = [
     "description": "Compared stated weight ratings and frame material weight across the lineup, from 300 to 450 lbs."
   },
   {
-    "title": "",
+    "title": "Motor Lifespan and Power",
     "description": "Compared stated motor HP and any disclosed lifespan figures across all four picks."
   },
   {
@@ -192,7 +192,7 @@ export const howWeEvaluated = [
     "description": "Compared belt dimensions and their suitability for taller users."
   },
   {
-    "title": "",
+    "title": "Incline Type",
     "description": "Distinguished automatic incline adjustment from manual repositioning systems."
   },
   {

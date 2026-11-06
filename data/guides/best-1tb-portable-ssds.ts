@@ -49,10 +49,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41eTFK7clfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Speed Tier",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -68,19 +68,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $165",
+          "SANDISK 1TB Portable SSD"
         ],
         [
-          "",
+          "Mid-range",
           "SANDISK 1TB Extreme Portable SSD"
         ],
         [
@@ -91,25 +91,25 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "TLC vs QLC NAND",
     "cards": [
       {
-        "label": "",
+        "label": "TLC NAND",
         "text": "Better sustained write speed and longer-term endurance, especially once any onboard cache is exhausted during a large transfer. In this comparison: check each listing's specs directly, NAND type isn't always disclosed."
       },
       {
-        "label": "",
+        "label": "QLC NAND",
         "text": "More capacity per dollar, at the cost of a bigger sustained-speed drop once the cache fills on long transfers. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
     "note": "NAND type isn't explicitly confirmed for every pick here, check each specific listing's technical details if sustained speed matters to your workflow."
   },
   {
-    "subheading": "",
+    "subheading": "Rugged/Waterproof vs Standard Build",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Samsung T7 Shield Portable SSD 1TB"
         ],
         [
-          "",
+          "Slimmest, lightest everyday carry",
           "Samsung T7 Portable SSD 1TB Titan Gray"
         ]
       ]
@@ -127,11 +127,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Large Sustained Transfers (Video Editing) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "TLC NAND specifically, a stated sustained write speed (not just the peak burst number), and a USB generation on both drive and host that actually supports the rated speed."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SANDISK 1TB Extreme Portable SSD fits this specifically: Higher rated speed ceiling than Gen 2 drives."
       }
     ]
@@ -140,16 +140,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Samsung T7 Shield Portable SSD 1TB"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Samsung T7 Portable SSD 1TB Titan Gray"
         ]
       ]
@@ -159,7 +159,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Verified genuine 1TB capacity",
     "description": "Confirmed each pick is rated 1TB by the manufacturer, not a smaller drive marketed loosely near that tier."
   },
   {
@@ -171,7 +171,7 @@ export const howWeEvaluated = [
     "description": "Weighted how quickly a 1TB drive's cache is likely to be exhausted during large transfers relative to larger-capacity siblings."
   },
   {
-    "title": "",
+    "title": "Price per gigabyte",
     "description": "Compared street price across this specific capacity tier to judge genuine value rather than raw price alone."
   }
 ];

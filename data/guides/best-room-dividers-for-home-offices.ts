@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "SUNALLY Room Divider No Drilling Curtain Rod Wall Divider"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Room Divider 6FT Portable Folding Privacy Screen"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $31",
           "RANTILA Single Large Panel Room Divider"
         ],
         [
-          "",
-          ""
+          "Up to $NaN",
+          "Black 6"
         ]
       ]
     }
@@ -102,30 +102,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "On Wheels vs Fixed Base",
     "cards": [
       {
-        "label": "",
+        "label": "On wheels",
         "text": "Repositionable between rooms or layouts, worth locking casters once positioned. In this comparison: SUNALLY Room Divider 6FT Folding Privacy Screen with Lockable Wheels, Room Divider 6FT Portable Folding Privacy Screen."
       },
       {
-        "label": "",
+        "label": "Fixed base",
         "text": "More stable for a divider that stays in one spot long-term. In this comparison: SUNALLY Room Divider No Drilling Curtain Rod Wall Divider, RANTILA Single Large Panel Room Divider, Room Divider Single Panel, GTU Furniture Japanese Style 3 Panels Wood Shoji Room Divider Screen, Brown Wave Fiber Portable 4, Black 6."
       }
     ],
     "note": "Default to a fixed base unless you need to reposition the divider often."
   },
   {
-    "subheading": "",
+    "subheading": "By Acoustic Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Genuine sound-dampening material",
           "Room Divider 6FT Portable Folding Privacy Screen"
         ],
         [
-          "",
+          "Visual separation is enough",
           "SUNALLY Room Divider No Drilling Curtain Rod Wall Divider"
         ]
       ]
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Room Divider 6FT Portable Folding Privacy Screen is worth checking against its listed mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening or a taller, more stable divider, where Black 6's material and construction give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual separation without noise or stability concerns, where RANTILA Single Large Panel Room Divider covers the same job at a lower price."
       }
     ]
@@ -161,23 +161,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Divider type and material",
     "description": "Distinguished tension-rod curtains, fabric folding screens, single fixed panels, and rigid wave fiber or wood-framed screens, since each construction type behaves differently for stability and light blocking."
   },
   {
-    "title": "",
+    "title": "Freestanding stability",
     "description": "Considered whether each divider self-supports through a zig-zag panel arrangement, a wheeled and lockable base, or a wall-tensioned rod, since a single flat panel needs a stand or furniture to lean against."
   },
   {
-    "title": "",
+    "title": "Coverage height and width",
     "description": "5-inch single panel up to a 10-foot adjustable curtain and a 6-panel screen, relevant to how much of a room a divider actually visually encloses."
   },
   {
-    "title": "",
+    "title": "Video call background suitability",
     "description": "Noted which picks offer a solid, neutral color suited to sitting a foot or two behind a webcam versus a busier pattern or a translucent panel that lets light and shapes show through."
   },
   {
-    "title": "",
+    "title": "Honest acoustic framing",
     "description": "Distinguished echo and reflection reduction, which fabric and fiber panels provide, from real sound transmission blocking between rooms, which none of the picks in this list are designed to do."
   }
 ];

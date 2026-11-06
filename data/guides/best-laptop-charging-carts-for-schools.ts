@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the best cart for a full district deployment?",
-    "a": ""
+    "a": "The Tripp Lite 42-Port AC Mobile Charging Cart, from a brand with an established institutional support channel, though pilot one unit first given the thin review base."
   },
   {
     "q": "Is there an option built specifically for K-12 classrooms?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Tripp Lite 42"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Meteteel Fully Assembled 20 Device Laptop Charging Cart for School"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $1",
+          "Tripp Lite 42"
         ],
         [
-          "",
+          "Up to $460",
           "Pearington 30 Device Mobile Charging/Storage Cart for iPads"
         ]
       ]
@@ -98,30 +98,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Lockable Security vs Open Access",
     "cards": [
       {
-        "label": "",
+        "label": "Genuine locking door",
         "text": "Real security for devices stored unattended in a semi-public space. In this comparison: Pearington 30 Device Mobile Charging/Storage Cart for iPads, Meteteel Fully Assembled 20 Device Laptop Charging Cart for School, Meteteel Fully Assembled 18 Device Laptop Charging Cart for School, POCHAR 30 Devices 14'' Screen Laptop Charging Cart for K, POCHAR 30 Unit Device Charging Station for Chromebook."
       },
       {
-        "label": "",
+        "label": "Open access",
         "text": "Faster to grab devices from, fine for a supervised or private space. In this comparison: Tripp Lite 42, ALT Technology 30, Kraftgen 16."
       }
     ],
     "note": "Default to a locking cart unless the space is always supervised or private."
   },
   {
-    "subheading": "",
+    "subheading": "By Ethernet Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "In-cabinet Ethernet for a router or hotspot",
-          ""
+          "Tripp Lite 42"
         ],
         [
-          "",
+          "Wi-Fi only is fine",
           "Pearington 30 Device Mobile Charging/Storage Cart for iPads"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a School or Classroom Fleet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed bay geometry for your actual laptop model, zoned or timed charging for larger fleets, and a genuine locking door for unattended storage."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Meteteel Fully Assembled 20 Device Laptop Charging Cart for School is worth checking against its listed capacity and charging architecture before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're managing a larger fleet needing safe zoned charging and genuine security, where Pearington 30 Device Mobile Charging/Storage Cart for iPads's higher price buys real capacity and reliability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing a small number of devices with simple charging needs, where Tripp Lite 42 covers the same job at a lower price."
       }
     ]
@@ -161,12 +161,12 @@ export const howWeEvaluated = [
     "description": "We weighed whether a manufacturer offers matching capacity tiers (like Meteteel's 18- and 20-device siblings) that let a school mix class sizes without abandoning one brand for parts and service."
   },
   {
-    "title": "",
+    "title": "Mixed-device compatibility disclosure",
     "description": "Where a listing explicitly claims Chromebook, iPad, and laptop compatibility, we noted it as a real school-relevant feature rather than assuming any 30-device cart handles a mixed fleet identically."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Review base relative to fleet-wide commitment risk",
+    "description": "A cart with 0-1 reviews carries more real risk when a district is ordering ten units for a building than when one classroom orders a single cart."
   },
   {
     "title": "Price scaled against district versus single-classroom budgets",

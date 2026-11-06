@@ -56,60 +56,60 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "APC UPS 600VA/330W UPS Battery Backup for Computer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "APC UPS 600VA/330W UPS Battery Backup for Computer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $80",
           "CyberPower ST625U Standby UPS Battery Backup and Surge Protector"
         ],
         [
-          "",
+          "Up to $97",
           "CyberPower EC650LCD Ecologic UPS Battery Backup and Surge Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "AVR vs No AVR",
     "cards": [
       {
-        "label": "",
+        "label": "AVR included",
         "text": "Corrects minor voltage fluctuations without draining the battery, extending battery lifespan. In this comparison: Tripp Lite 550VA UPS Battery Backup Surge Protector."
       },
       {
-        "label": "",
+        "label": "No AVR",
         "text": "Simpler, fine if your power is already consistently stable. In this comparison: APC UPS 600VA/330W UPS Battery Backup for Computer, CyberPower EC650LCD Ecologic UPS Battery Backup and Surge Protector, Eaton Tripp Lite Series INTERNET600U Small UPS Battery Backup & Surge Protector, CyberPower ST625U Standby UPS Battery Backup and Surge Protector."
       }
     ],
     "note": "Default to AVR unless your power is already known to be very stable."
   },
   {
-    "subheading": "",
+    "subheading": "By Replaceable Battery",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "APC UPS 600VA/330W UPS Battery Backup for Computer"
         ],
         [
-          "",
+          "Sealed unit is fine",
           "CyberPower EC650LCD Ecologic UPS Battery Backup and Surge Protector"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a PC Plus Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Real watts (not VA) comfortably above your combined equipment draw, plus pure sine wave if your PC has an APFC power supply."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "APC UPS 600VA/330W UPS Battery Backup for Computer discloses the highest real capacity at 330W."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a high-draw workstation, multiple monitors, or NAS equipment, where CyberPower EC650LCD Ecologic UPS Battery Backup and Surge Protector's higher watts capacity gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need brief runtime for a single low-draw device, where CyberPower ST625U Standby UPS Battery Backup and Surge Protector covers the same job at a lower price."
       }
     ]

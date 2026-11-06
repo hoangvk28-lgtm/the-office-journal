@@ -64,31 +64,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Much You Need to Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, everyday items",
           "YASONIC 3 Tier Metal Rolling Cart"
         ],
         [
-          "",
+          "Standard mixed storage",
           "SUNALLY Rolling Carts with 5 Drawers"
         ],
         [
-          "",
+          "Heavier or bulkier items",
           "14 Drawer Rolling Storage Cart with Tabletop and Pegboard for Crafts Green"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "YASONIC 3 Tier Metal Rolling Cart"
         ],
         [
-          "",
+          "Mid-range pick",
           "SYKIARIOL Rolling Craft Storage Cart with 4 Drawers, Kids Art Cart, White"
         ],
         [
-          "",
+          "Higher budget",
           "14 Drawer Rolling Storage Cart with Tabletop and Pegboard for Crafts Green"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Drawers vs Open Bins",
     "cards": [
       {
         "label": "SUNALLY Rolling Carts with 5 Drawers)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how often you need to see contents versus how much you want the cart to blend in."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hardwood or tile",
           "Check for polyurethane or rubber casters specifically"
         ],
         [
-          "",
+          "Carpet or concrete",
           "SUNALLY Rolling Carts with 5 Drawers"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Tight Spaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The actual width and depth measurement, not just a 'slim' or 'narrow' label, plus the extra inch the wheels add to the base footprint."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "YASONIC 3 Tier Metal Rolling Cart is worth checking against its exact footprint before assuming it fits a tight gap like between a washer and dryer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier casters for daily heavy use, where 14 Drawer Rolling Storage Cart with Tabletop and Pegboard for Crafts Green justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing lighter, everyday items, where YASONIC 3 Tier Metal Rolling Cart already covers the job at the lowest price here."
       }
     ]

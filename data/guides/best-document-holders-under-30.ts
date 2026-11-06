@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/31JwYvlwCJL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "Readaeer Metal Book Stand for Desk Portable Document Holder for Cook Book"
         ],
         [
-          "",
+          "Continuous transcription/typing",
           "Camelmother Metal Book Holder Adjustable Book Stand for Reading"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Readaeer Metal Book Stand for Desk Portable Document Holder for Cook Book"
         ],
         [
-          "",
+          "Mid-range pick",
           "Adjustable Copy Holder Clip, Flexiable Docments Holder"
         ],
         [
-          "",
+          "Higher budget",
           "LOXP Book Stand for Reading"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Freestanding",
     "cards": [
       {
         "label": "Readaeer Metal Book Stand for Desk Portable Document Holder for Cook Book)",
         "text": "Sits between monitor and keyboard, minimal head movement."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits beside the monitor at eye level, more placement flexibility."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Letter/A4 size",
           "Camelmother Metal Book Holder Adjustable Book Stand for Reading"
         ],
         [
-          "",
+          "Legal size or larger",
           "Adjustable Copy Holder Clip, Flexiable Docments Holder"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Transcription Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A line guide feature and independently adjustable angle and height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Camelmother Metal Book Holder Adjustable Book Stand for Reading is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where LOXP Book Stand for Reading justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Readaeer Metal Book Stand for Desk Portable Document Holder for Cook Book already covers the job at the lowest price here."
       }
     ]

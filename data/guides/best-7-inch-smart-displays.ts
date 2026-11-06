@@ -49,30 +49,30 @@ export const heroImage = "https://m.media-amazon.com/images/I/31xy1VOYHUL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "This guide's featured display",
           "Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "See price on Amazon",
           "Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant"
         ]
       ]
@@ -86,18 +86,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Adds a visual display for at-a-glance info and video calls, worth checking against your desk space and privacy preferences."
       },
       {
-        "label": "",
+        "label": "A basic smart speaker",
         "text": "Cheaper and no camera concerns, but no visual glance information or video call capability."
       }
     ],
     "note": "Most buyers evaluating this guide's keyword should default to Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant unless a basic smart speaker meets your specific, limited need."
   },
   {
-    "subheading": "",
+    "subheading": "By Voice Assistant Ecosystem",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -108,27 +108,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine front-facing camera with decent resolution, and motorized tracking if you move around during calls."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant is worth checking against its listed camera specs before buying."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger screen, motorized tracking, or better audio, where Google Nest Hub 7\" Smart Display 2nd Generation with Google Assistant's features give real headroom over a basic display."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple clock and notification glance display."
       }
     ]
@@ -142,7 +142,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Checked for a competing 7 inch Echo Show model",
-    "description": ""
+    "description": "Confirmed Amazon's current Echo Show lineup has no genuine 7 inch class model, jumping from roughly 5.5 inches to 8.7 inches and larger."
   },
   {
     "title": "Camera absence verified and treated as a defining trait",

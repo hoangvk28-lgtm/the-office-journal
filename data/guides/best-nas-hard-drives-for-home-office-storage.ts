@@ -61,43 +61,43 @@ export const heroImage = "https://m.media-amazon.com/images/I/4155kjpaFaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Bay Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "4-bay capacity",
           "UGREEN NAS DXP4800 Plus 4"
         ],
         [
-          "",
-          ""
+          "4-bay capacity",
+          "Synology DS925+ 4"
         ],
         [
-          "",
-          ""
+          "4-bay capacity",
+          "Synology DS423 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $193",
           "BUFFALO LinkStation 210 4TB 1"
         ],
         [
-          "",
-          ""
+          "Up to $700",
+          "Synology DS925+ 4"
         ]
       ]
     }
@@ -106,42 +106,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Diskless Enclosure vs Drives Included",
     "cards": [
       {
-        "label": "",
+        "label": "Diskless enclosure",
         "text": "Lets you choose your own NAS-grade drives and capacity, but budget $80-200+ per bay separately. In this comparison: UGREEN NAS DXP2800 2, UGREEN NAS DXP4800 Plus 4, UGREEN NAS DH2300 2, Synology DS225+ 2, Synology DS925+ 4, Synology DS423 4."
       },
       {
-        "label": "",
+        "label": "Drives included",
         "text": "Ready to use out of the box, simpler for a first NAS purchase. In this comparison: Western Digital 8TB WD Red Plus NAS Internal Hard Drive, BUFFALO LinkStation 210 4TB 1."
       }
     ],
     "note": "Default to diskless if you want control over drive choice and capacity, drives-included for the simplest setup."
   },
   {
-    "subheading": "",
+    "subheading": "By CPU and RAM",
     "note": "Check each pick's listed CPU architecture and RAM amount against your actual workload before buying, not just bay count alone."
   },
   {
     "subheading": "For Media Streaming or Plex Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A CPU capable of hardware transcoding and enough RAM to handle multiple simultaneous streams, not just total bay count."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Western Digital 8TB WD Red Plus NAS Internal Hard Drive is worth checking against its listed CPU and RAM before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real multi-user performance, media transcoding, or business-critical reliability, where Synology DS925+ 4's CPU and RAM give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need simple backup storage for one or two users, where BUFFALO LinkStation 210 4TB 1 covers the same job at a lower price."
       }
     ]
@@ -150,11 +150,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Product category accuracy",
     "description": "Confirmed whether each listing was a bare internal hard drive, a diskless enclosure, or a drives-included bundle before writing any copy, since these are fundamentally different purchases with different total costs."
   },
   {
-    "title": "",
+    "title": "CMR vs. SMR recording",
     "description": "Checked drive specs for CMR (Conventional Magnetic Recording) versus SMR, since SMR drives can slow or fail during a RAID rebuild in multi-bay enclosures."
   },
   {
@@ -166,7 +166,7 @@ export const howWeEvaluated = [
     "description": "Weighed CPU class across enclosures, from basic ARM-class units to Intel Pentium Gold multi-core options, against whether the buyer needs transcoding or just file storage."
   },
   {
-    "title": "",
+    "title": "Total cost including drives",
     "description": "Factored in that diskless enclosures require a separate drive purchase, so total cost of ownership was compared against drives-included bundles rather than sticker price alone."
   }
 ];

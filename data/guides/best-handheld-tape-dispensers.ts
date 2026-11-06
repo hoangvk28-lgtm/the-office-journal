@@ -61,71 +61,71 @@ export const heroImage = "https://m.media-amazon.com/images/I/31XEGyOxX4L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Occasional light use",
+          "Scotch Magic Tape"
         ],
         [
           "Regular desk or office use",
           "FavoGift One-Handed Tape Dispenser Gun"
         ],
         [
-          "",
-          ""
+          "High-volume packing",
+          "Eagle Automatic Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Scotch Magic Tape"
         ],
         [
-          "",
+          "Mid-range pick",
           "Scotch Stainless Steel Refillable Dispenser and 2 Rolls of Scotch Magic Tape"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Eagle Automatic Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
-        "label": "",
+        "label": "Desktop (e.g. Scotch Magic Tape)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "FavoGift One-Handed Tape Dispenser Gun"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "Scotch Stainless Steel Refillable Dispenser and 2 Rolls of Scotch Magic Tape"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "FavoGift One-Handed Tape Dispenser Gun is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Eagle Automatic Tape Dispenser justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Scotch Magic Tape already covers the job at the lowest price here."
       }
     ]

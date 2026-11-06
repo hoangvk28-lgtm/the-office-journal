@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/411a7d-cU7L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,22 +73,22 @@ export const howToChoose: HowToChooseSection[] = [
           "Honeywell Slim Ceramic Tower Heater"
         ],
         [
-          "",
+          "Standard bedroom or office",
           "PELONIS Oscillating Ceramic Tower Indoor Space Heater for Home with Oscillation"
         ],
         [
-          "",
+          "Larger living space",
           "Lasko Oscillating Digital Ceramic Tower Space Heater"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Honeywell Slim Ceramic Tower Heater"
         ],
         [
-          "",
+          "Mid-range pick",
           "AUBKN X-Large 1500W Electric Space Heaters for Indoor Use"
         ],
         [
-          "",
+          "Higher budget",
           "Lasko Oscillating Digital Ceramic Tower Space Heater"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Ceramic vs Oil-Filled Heat",
     "cards": [
       {
         "label": "PELONIS Oscillating Ceramic Tower Indoor Space Heater for Home with Oscillation)",
         "text": "Heats a room fastest using a fan, but cools down quickly once switched off."
       },
       {
-        "label": "",
+        "label": "Oil-filled radiator",
         "text": "Slower to warm up but silent and holds heat long after being turned off, best for overnight use."
       }
     ],
     "note": "Match this to whether you need fast heat now or quiet, sustained warmth overnight."
   },
   {
-    "subheading": "",
+    "subheading": "By Safety Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,7 +133,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Check for both tip-over AND overheat protection specifically"
         ],
         [
-          "",
+          "Standard adult-only room",
           "PELONIS Oscillating Ceramic Tower Indoor Space Heater for Home with Oscillation"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Overnight Bedroom Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine low-wattage setting, a working thermostat that cycles off, and UL/ETL/CSA safety certification."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "PELONIS Oscillating Ceramic Tower Indoor Space Heater for Home with Oscillation is worth checking against its specific safety certifications before assuming any 'safe' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're heating a larger room and want a thermostat and multiple heat settings, where Lasko Oscillating Digital Ceramic Tower Space Heater justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're heating a small space or supplementing central heat, where Honeywell Slim Ceramic Tower Heater already covers the job at the lowest price here."
       }
     ]

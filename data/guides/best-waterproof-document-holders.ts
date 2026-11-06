@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41fEqJBK0mL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "Manual Pak Weatherproof Document Holder"
         ],
         [
-          "",
+          "Continuous transcription/typing",
           "Beebel 10 Pack Job Ticket Holders 8 1/2\" x 11\" Waterproof Zip Page Protectors"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Manual Pak Weatherproof Document Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "Andyer 2 Pockets Fireproof Document Bag (15\"x11\")"
         ],
         [
-          "",
+          "Higher budget",
           "5\" x 11\" Waterproof Resealable Zip Wall"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Freestanding",
     "cards": [
       {
         "label": "Manual Pak Weatherproof Document Holder)",
         "text": "Sits between monitor and keyboard, minimal head movement."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits beside the monitor at eye level, more placement flexibility."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Letter/A4 size",
           "Beebel 10 Pack Job Ticket Holders 8 1/2\" x 11\" Waterproof Zip Page Protectors"
         ],
         [
-          "",
+          "Legal size or larger",
           "Andyer 2 Pockets Fireproof Document Bag (15\"x11\")"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Transcription Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A line guide feature and independently adjustable angle and height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Beebel 10 Pack Job Ticket Holders 8 1/2\" x 11\" Waterproof Zip Page Protectors is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5\" x 11\" Waterproof Resealable Zip Wall justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Manual Pak Weatherproof Document Holder already covers the job at the lowest price here."
       }
     ]

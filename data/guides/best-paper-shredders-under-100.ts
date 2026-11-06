@@ -56,69 +56,69 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Bonsaii 12"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Amazon Basics 8"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $34",
+          "Amazon Basics 8"
         ],
         [
-          "",
-          ""
+          "Up to $80",
+          "Bonsaii 12"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Amazon Basics 8",
         "text": "The lower-priced option in this comparison, worth checking its security rating against your document sensitivity."
       },
       {
-        "label": "",
+        "label": "Bonsaii 12",
         "text": "The higher-priced option, worth it if it offers real capacity or security headroom above the cheaper pick."
       }
     ],
     "note": "Default to Amazon Basics 8 unless your document volume or sensitivity calls for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Bin Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 5.5-gallon bin",
+          "Bonsaii 12"
         ],
         [
-          "",
-          ""
+          "Around 5.5-gallon bin",
+          "Bonsaii 10"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Sensitive Financial Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A P-4 cross-cut rating or higher, not just the marketing term \"cross-cut\" without a specific P-rating attached."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Amazon Basics 8 is worth checking against its listed P-rating before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You regularly shred large stacks or sensitive documents, where Bonsaii 12's higher price buys real capacity or security headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only shred occasionally with a low sheet volume, where Amazon Basics 8 covers the same job at a lower price."
       }
     ]

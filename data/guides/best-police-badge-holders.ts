@@ -40,7 +40,7 @@ export const faq = [
     "a": "A belt clip suits physical, mobile work better since nothing hangs around your neck, a lanyard keeps the badge visible for quick ID checks but can catch on equipment, match it to your actual job."
   },
   {
-    "q": "",
+    "q": "Are badge holders waterproof?",
     "a": "Standard plastic handles light moisture fine, but genuine waterproofing needs a sealed edge or specific rating, check for this if you work outdoors or in a consistently wet environment."
   },
   {
@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51WH64qxKhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Daily Movement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Mostly desk-based",
           "Police Badge Holder Belt Clip"
         ],
         [
-          "",
+          "Frequent movement or bending",
           "Wisdompro Cowhide Leather Police Badge Holder Belt Clip with Chain"
         ],
         [
           "Machinery or tight spaces nearby",
-          ""
+          "AKITSUMA Police Badge Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Police Badge Holder Belt Clip"
         ],
         [
-          "",
+          "Mid-range pick",
           "Wisdompro Cowhide Leather Police Badge Holder Belt Clip with Chain"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "AKITSUMA Police Badge Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Retractable vs Fixed Lanyard",
     "cards": [
       {
         "label": "Police Badge Holder Belt Clip)",
         "text": "Extends for scanning, retracts out of the way when not needed."
       },
       {
-        "label": "",
+        "label": "Fixed lanyard",
         "text": "Simpler, no reel mechanism to wear out over time."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Card Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your credentials",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single ID only",
           "Wisdompro Cowhide Leather Police Badge Holder Belt Clip with Chain"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Wet or Outdoor Workplace Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine waterproof rating, not just standard plastic construction."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Wisdompro Cowhide Leather Police Badge Holder Belt Clip with Chain is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where AKITSUMA Police Badge Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Police Badge Holder Belt Clip already covers the job at the lowest price here."
       }
     ]

@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What devices actually need a 90W PoE++ injector?",
-    "a": ""
+    "a": "PTZ cameras with built-in heaters, large digital signage displays, industrial IoT gateways, and some multi-radio access points typically draw enough power to require the full 90W 802.3bt tier rather than the lower 30W or 15.4W standards."
   },
   {
     "q": "Do I need a 10Gbps injector if my devices only need 90W of power?",
@@ -61,55 +61,55 @@ export const heroImage = "https://m.media-amazon.com/images/I/41C9QSDDCqL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Network Speed Requirement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your network backbone",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Gigabit, industrial-grade protection priority",
           "Cudy 90W Gigabit PoE++ Injector"
         ],
         [
-          "",
-          ""
+          "10Gbps backbone",
+          "Omada 10G PoE++ Injector"
         ],
         [
-          "",
-          ""
+          "Gigabit, NDAA compliance needed",
+          "BV-Tech 90W PoE++ Injector"
         ],
         [
-          "",
+          "Gigabit, budget priority",
           "YuanLey Gigabit PoE Injector 90W"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $40",
+          "YuanLey Gigabit PoE Injector 90W ($39.98)"
         ],
         [
-          "",
-          ""
+          "Under $45",
+          "BV-Tech 90W PoE++ Injector ($42.00)"
         ],
         [
-          "",
-          ""
+          "Under $70",
+          "Cudy 90W Gigabit PoE++ Injector ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $85",
+          "Omada 10G PoE++ Injector ($80.45)"
         ]
       ]
     }
@@ -118,35 +118,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Gigabit vs 10Gbps at the 90W Tier",
     "cards": [
       {
-        "label": "",
+        "label": "Gigabit (Cudy, BV-Tech, YuanLey)",
         "text": "Sufficient for the vast majority of 90W-class devices like PTZ cameras and digital signage, which don't generate enough data traffic to need multi-gigabit speed."
       },
       {
-        "label": "",
+        "label": "10Gbps (Omada)",
         "text": "Necessary only if the injector sits on a genuine 10Gbps network backbone; otherwise the extra speed capability goes unused."
       }
     ],
     "note": "Most buyers should default to a Gigabit 90W injector unless their specific network infrastructure is already built around 10Gbps switching."
   },
   {
-    "subheading": "",
+    "subheading": "By Certification Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you want confirmed",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Documented surge/ESD KV ratings",
           "Cudy 90W Gigabit PoE++ Injector"
         ],
         [
-          "",
-          ""
+          "NDAA compliance",
+          "BV-Tech 90W PoE++ Injector"
         ],
         [
-          "",
-          ""
+          "UL certification with 10Gbps",
+          "Omada 10G PoE++ Injector"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a PTZ Camera With a Heater Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "3bt compliance rated at the true 90W tier, since a PTZ camera's heater element alone can draw significant power on top of the camera's base operation, and an underpowered injector will fail intermittently in cold weather."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Cudy pick specifically names PTZ cameras with heaters in its stated use cases, backed by its documented sustained 90W load capability."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your network runs on a 10Gbps backbone or you want documented industrial surge protection, where the Omada or Cudy picks justify their higher prices."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "3bt delivery for a Gigabit network without NDAA compliance, where the YuanLey pick delivers that at the lowest price in this comparison."
       }
     ]
@@ -181,29 +181,29 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "802.3bt Standard Compliance",
     "description": "3bt compliance for genuine 90W delivery, not just a wattage headline."
   },
   {
-    "title": "",
+    "title": "Port Speed",
     "description": "Compared Gigabit versus multi-gigabit (up to 10Gbps) port speeds at the 90W tier."
   },
   {
-    "title": "",
+    "title": "Industrial Protection Ratings",
     "description": "Compared stated surge and ESD protection KV ratings where listings provided specific numbers."
   },
   {
-    "title": "",
+    "title": "Compliance and Certification",
     "description": "Compared NDAA compliance and UL certification across listings."
   },
   {
-    "title": "",
+    "title": "Backward Compatibility Range",
     "description": "Compared how far down each listing's stated compatibility extends to lower PoE standards."
   }
 ];
 
 export const introParagraphs = [
-  "",
+  "A 90W 802.3bt PoE++ injector powers demanding devices like PTZ cameras with heaters, digital signage, and industrial IoT gateways that draw well beyond what the older 802.3af and 802.3at standards can provide.",
   "We compared this lineup on real port speed and industrial-grade protection, since one listing specifically offers 10Gbps port speeds for high-bandwidth applications while the others cap at Gigabit, and stated surge protection levels vary meaningfully between listings at this power tier."
 ];
 

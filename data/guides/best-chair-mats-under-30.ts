@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51aIF9KY80L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -76,7 +76,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Kuyal Clear Chair Mat for Hardwood Floor, 30in x 48in"
         ],
         [
-          "",
+          "Larger hardwood coverage",
           "Kuyal Clear Chair Mat for Hardwood Floor, 36in x 48in"
         ],
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "BesWin ($29.99)"
         ],
         [
-          "",
-          ""
+          "Under $31",
+          "Kuyal 30in ($30.95)"
         ],
         [
-          "",
-          ""
+          "Under $33",
+          "Kuyal 36in ($32.95)"
         ],
         [
-          "",
-          ""
+          "Under $36",
+          "HON ($35.98)"
         ]
       ]
     }
@@ -128,20 +128,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Never use a studded carpet mat on hardwood, since the spikes can scratch the floor. Never rely on a smooth hardwood mat for carpet, since it will slide without anything to grip into the fibers."
   },
   {
-    "subheading": "",
+    "subheading": "By Coverage Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your space needs",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Compact desk area",
           "BesWin or Kuyal 30in (both 30in x 48in)"
         ],
         [
           "Standard coverage with more width",
-          ""
+          "Kuyal 36in x 48in"
         ],
         [
           "Standard coverage with extended lip",
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Rental Apartment With Carpet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A studded carpet mat with a stated pile-thickness compatibility, since using the wrong grip type risks either sliding or subtle carpet damage that could affect a security deposit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The HON pick's precise 1/4 inch pile compatibility spec helps confirm it matches typical rental-grade low pile carpet before you buy."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a brand-name carpet mat with a precise pile-thickness spec and extended lip coverage, where the HON pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic carpet anchoring without extra brand or lip features, where the BesWin pick covers that for about $6 less."
       }
     ]
@@ -184,19 +184,19 @@ export const howWeEvaluated = [
     "description": "Distinguished studded carpet-grip backings from anti-slide hardwood coatings across the lineup."
   },
   {
-    "title": "",
+    "title": "Thickness and Durability",
     "description": "Compared stated thickness in millimeters and resistance to cracking, curling, or shattering."
   },
   {
-    "title": "",
+    "title": "Coverage Size",
     "description": "Compared stated dimensions to determine typical chair rolling radius coverage."
   },
   {
-    "title": "",
+    "title": "Material Safety",
     "description": "Checked for stated absence of phthalates, toxins, and heavy metals in construction materials."
   },
   {
-    "title": "",
+    "title": "Edge and Transition Design",
     "description": "Compared ramped, beveled, or lip-extended edges affecting how smoothly a chair transitions on and off."
   }
 ];

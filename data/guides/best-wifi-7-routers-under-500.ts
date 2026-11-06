@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31hsjP9+bQL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,24 +84,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $260",
+          "TP-Link Archer BE600 single router ($249.99)"
         ],
         [
-          "",
-          ""
+          "$310-$360",
+          "Deco 7 Pro 2-Pack ($311.45) or eero 7 3-Pack ($359.99)"
         ],
         [
-          "",
-          ""
+          "Under $400",
+          "TP-Link Deco 7 Pro 3-Pack ($399.98)"
         ]
       ]
     }
@@ -110,22 +110,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "2-Pack vs 3-Pack Deco 7 Pro",
     "cards": [
       {
-        "label": "",
+        "label": "2-Pack (5,800 sq. ft.)",
         "text": "Identical hardware and features to the 3-pack, just calibrated to a smaller total footprint, the better value if your home comfortably fits within this coverage area."
       },
       {
-        "label": "",
+        "label": "3-Pack (7,600 sq. ft.)",
         "text": "The same per-unit hardware extended to a third unit, worth the roughly $90 premium if your home is larger or has a layout that benefits from a third access point."
       }
     ],
     "note": "Measure or estimate your home's actual square footage before choosing between these two, since buying the 3-pack when the 2-pack would have sufficed wastes nearly $90 on unnecessary coverage."
   },
   {
-    "subheading": "",
+    "subheading": "By Ecosystem Integration",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your existing setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Large Households With Many Connected Devices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated device capacity figure well above your household's actual device count, since smart home devices, phones, laptops, and streaming devices add up faster than most people expect."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both TP-Link Deco 7 Pro packs state support for over 200 devices, meaningfully higher than the eero 7's 120+ device figure."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a large home needing maximum coverage and device capacity, where the TP-Link Deco 7 Pro 3-Pack delivers the most complete solution in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your home doesn't need multi-unit mesh coverage, where the TP-Link Archer BE600 single router saves nearly $150 versus the cheapest mesh system here."
       }
     ]
@@ -173,11 +173,11 @@ export const howWeEvaluated = [
     "description": "Compared how much coverage each system's price actually buys, since the 2-pack and 3-pack Deco 7 Pro systems use identical hardware at different total footprints."
   },
   {
-    "title": "",
+    "title": "Backhaul Speed and Type",
     "description": "Checked whether each mesh system supports wired backhaul alongside wireless, and the maximum backhaul port speed available."
   },
   {
-    "title": "",
+    "title": "Software vs Hardware-Driven Optimization",
     "description": "Compared the eero 7's software-first TrueMesh approach against the TP-Link Deco 7 Pro's tri-band hardware-focused design."
   },
   {
@@ -185,7 +185,7 @@ export const howWeEvaluated = [
     "description": "Weighed the TP-Link Archer BE600 single router's lower price and simpler setup against the multi-unit mesh systems' larger total coverage."
   },
   {
-    "title": "",
+    "title": "Device Capacity Claims",
     "description": "Compared stated maximum device counts across the lineup, relevant for larger households with many simultaneously connected devices."
   }
 ];

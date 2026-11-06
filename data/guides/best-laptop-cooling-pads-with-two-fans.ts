@@ -57,16 +57,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41jbtM+PovL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
           "Tightest size match for your laptop",
-          ""
+          "TECKNET Laptop Cooling Pad"
         ],
         [
           "Widest range, flexible for future upgrades",
@@ -76,24 +76,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $15",
           "KYOLLY Ultra Slim Laptop Cooling Pad with 2 Quiet Big Fans"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "KeiBn Laptop Cooling Pad"
         ],
         [
           "No firm budget ceiling, prioritizing fan count or extras",
-          ""
+          "TECKNET Laptop Cooling Pad"
         ]
       ]
     }
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: TECKNET Laptop Cooling Pad."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: KeiBn Laptop Cooling Pad."
       }
     ],
     "note": "Most buyers should default to a slim pick like TECKNET Laptop Cooling Pad for everyday portability, and only step up to KeiBn Laptop Cooling Pad's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what TECKNET Laptop Cooling Pad offers: Two large 110mm fans channel air toward the CPU area. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "KYOLLY Ultra Slim Laptop Cooling Pad with 2 Quiet Big Fans already covers the essentials: Smooth rolling-wheel speed control instead of just on/off. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -161,7 +161,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Fan-count verification",
     "description": "We read the actual listed feature text for every candidate pad and only kept ones that state two fans. Several pads marketed loosely as compact turned out to list a different fan count once we checked the specs."
   },
   {
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "We checked whether each pad frees up a second USB port for other devices, and whether USB-C support is included for MacBook compatibility."
   },
   {
-    "title": "",
+    "title": "Height adjustment and stability",
     "description": "We compared the number of height settings and whether non-slip baffles or pads were included, since a two-fan pad is often chosen partly as an ergonomic stand."
   }
 ];

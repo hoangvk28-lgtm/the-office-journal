@@ -53,10 +53,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41IjiC3RdaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
+        "What you're running",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -65,26 +65,26 @@ export const howToChoose: HowToChooseSection[] = [
           "GMKtec Mini PC Computers Intel N95 Processor"
         ],
         [
-          "",
+          "Demanding, sustained workloads",
           "MeLE Quieter4C N150 Fanless Mini PC with Win-11-Pro 16GB RAM DDR4 512GB SSD"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $250",
           "GMKtec Mini PC Computers Intel N95 Processor"
         ],
         [
-          "",
+          "Mid-range",
           "MINIX Z150-0dB Fanless Mini PC"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fanless (Passive) vs Actively Cooled",
     "cards": [
       {
-        "label": "",
+        "label": "Fanless, Passive Cooling",
         "text": "Completely silent with no moving parts, at the cost of throttling under sustained heavy load. In this comparison: MINIX Z150-0dB Fanless Mini PC, MeLE Quieter4C N150 Fanless Mini PC with Win-11-Pro 16GB RAM DDR4 512GB SSD, MeLE Fanless Mini PC Quieter 4C N150."
       },
       {
-        "label": "",
+        "label": "Actively Cooled (Fan)",
         "text": "Sustains heavier workloads longer without throttling, at the cost of some fan noise under load. In this comparison: QAZIPO Mini PC, GMKtec Mini PC Computers Intel N95 Processor."
       }
     ],
@@ -112,12 +112,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By RAM and Storage Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lightest low-cost configuration",
           "GMKtec Mini PC Computers Intel N95 Processor"
         ],
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For GPU-Accelerated Work or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated GPU or a confirmed Oculink/Thunderbolt EGPU connection explicitly stated in the listing, not just a generic \"gaming capable\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms dedicated or external GPU support; check our EGPU-focused mini PC roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what MeLE Quieter4C N150 Fanless Mini PC with Win-11-Pro 16GB RAM DDR4 512GB SSD offers: Windows 11 Pro included avoids a separate license purchase. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "GMKtec Mini PC Computers Intel N95 Processor already covers the essentials: Lower price if the N150 upgrade doesn't matter for your use case. The main thing you'd be paying extra for elsewhere in this list is headroom you may not need."
       }
     ]

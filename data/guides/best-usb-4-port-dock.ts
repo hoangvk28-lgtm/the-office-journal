@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31QKkkmqqhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A simple 4-port hub without extra peripheral ports",
-          ""
+          "OWC Thunderbolt Hub 5-Port"
         ],
         [
           "A travel-friendly, compact 4-port dock",
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $130",
+          "OWC Thunderbolt Hub 5-Port ($129.99)"
         ],
         [
-          "",
-          ""
+          "Under $180",
+          "UGREEN 8-in-1 ($179.99)"
         ],
         [
-          "",
-          ""
+          "Under $215",
+          "Amazon Basics Thunderbolt 4 Pro ($213.75)"
         ],
         [
-          "",
-          ""
+          "Under $250",
+          "CalDigit E5 ($249.99)"
         ]
       ]
     }
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Simple 4-Port Hub vs Full-Featured Multi-Peripheral Dock",
     "cards": [
       {
-        "label": "",
+        "label": "Simple 4-port hub (OWC)",
         "text": "Focuses purely on the core Thunderbolt/USB4 expansion without extra peripheral ports, at a lower price."
       },
       {
@@ -128,19 +128,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you specifically need only Thunderbolt/USB4 expansion for SSDs and displays, the OWC hub's focused design saves money. If you want one dock to cover networking and additional peripherals too, the CalDigit or UGREEN picks are more complete."
   },
   {
-    "subheading": "",
+    "subheading": "By Portability Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your usage pattern",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Permanent desk setup with maximum bandwidth",
-          ""
+          "CalDigit E5"
         ],
         [
-          "",
+          "Travel between locations regularly",
           "Amazon Basics Thunderbolt 4 Pro Docking Station"
         ]
       ]
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For SSD-Heavy Storage Workflows Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The highest stated per-port PCIe bandwidth figure, since connecting multiple Thunderbolt SSDs simultaneously benefits directly from each port's individual maximum throughput."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The CalDigit E5 specifically states each of its 4 Thunderbolt 5 ports supports up to 6,200MB/s performance for ultra-fast Thunderbolt SSDs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want the highest per-port bandwidth with sustained power across every connected device, where the CalDigit E5 justifies its $249.99 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You just need a straightforward 4-port Thunderbolt hub without extra features, where the OWC pick delivers that for $129.99."
       }
     ]
   }
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Per-Port Bandwidth",
     "description": "Compared stated Gb/s figures per individual Thunderbolt/USB4 port across all four docks."
   },
   {
-    "title": "",
+    "title": "Total Port Count",
     "description": "Compared additional peripheral ports beyond the headline 4 Thunderbolt/USB4 connections."
   },
   {
-    "title": "",
+    "title": "Sustained Power Delivery",
     "description": "Compared power delivery consistency across all connected devices simultaneously."
   },
   {
-    "title": "",
+    "title": "Portability",
     "description": "Compared compact travel-friendly designs against larger desk-anchored hubs."
   },
   {
-    "title": "",
+    "title": "Included Accessories",
     "description": "Compared bundled chargers and cables against docks requiring separate purchases."
   }
 ];

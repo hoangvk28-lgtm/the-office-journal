@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "HUANUO Monitor Riser for Desk"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "WALI Computer Monitor Stand for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $15",
           "WALI Computer Monitor Stand for Desk"
         ],
         [
-          "",
+          "Mid-range",
           "Single LCD Monitor Free-Standing Desk Riser"
         ],
         [
@@ -95,24 +95,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Freestanding vs Clamp/Clip-On",
     "cards": [
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits directly on the desk with zero installation, at the cost of using up some desk depth. In this comparison: WALI Computer Monitor Stand for Desk, HUANUO Monitor Riser for Desk, Simple Trending 2-Tier Dual Monitor Stand with Mouse Pad."
       },
       {
-        "label": "",
+        "label": "Clamp/Clip-On",
         "text": "Attaches to the desk's back edge, freeing up desk surface underneath, but needs a compatible edge thickness. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "With Storage vs Platform-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -120,7 +120,7 @@ export const howToChoose: HowToChooseSection[] = [
           "WALI Computer Monitor Stand for Desk"
         ],
         [
-          "",
+          "Simplest platform-only design",
           "Single LCD Monitor Free-Standing Desk Riser"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy or Ultrawide Monitor Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity with real margin above your monitor's actual weight, a rigid material like metal or thick wood, and a wide enough platform to support the monitor's full base without overhang."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Simple Trending 2-Tier Dual Monitor Stand with Mouse Pad fits this specifically: Solid 4.7-star rating with 888 ratings."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is capacity or storage you may not need."
       }
     ]
@@ -164,7 +164,7 @@ export const howWeEvaluated = [
     "description": "Looked specifically for buyer complaints about sharp edges or rough welds, a real risk on lower-quality metal units."
   },
   {
-    "title": "",
+    "title": "Powder coating durability considered",
     "description": "Weighted reviews mentioning coating chips or scratches developing under regular daily use."
   },
   {

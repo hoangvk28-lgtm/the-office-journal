@@ -60,8 +60,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $400",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -79,8 +79,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,7 +88,7 @@ export const howToChoose: HowToChooseSection[] = [
           "10,000 BTU Portable Air Conditioners"
         ],
         [
-          "",
+          "Best overall value",
           "Garvee 8000 BTU (5000 BTU SACC) AC Unit"
         ]
       ]
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to Garvee 8000 BTU (5000 BTU SACC) AC Unit unless your specific use case points toward Portable Air Conditioner PAC25 by Manastin's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Garvee 8000 BTU (5000 BTU SACC) AC Unit is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on TCL 6,000 BTU Smart Portable Air Conditioner, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by 10,000 BTU Portable Air Conditioners without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick must be new, in stock and up to $400 on the update date; expired sale pricing removes it from the qualifying set."
   },
   {
-    "title": "",
+    "title": "Budget-ladder context",
     "description": "Show the previous tier, mainstream tier and next-higher tier so readers see the real capability step instead of duplicate lists."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize DOE SACC cooling capacity, single vs dual hose/inverter and required accessory/setup cost against price."
   },
   {
-    "title": "",
+    "title": "Evidence split",
     "description": "We separated efficiency/power and noise figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
-    "title": "",
+    "title": "Ownership/step-up verdict",
     "description": "Judge window/drain installation, warranty, software/parts/support and whether the reader should spend less or move above $400 for a meaningful upgrade."
   }
 ];

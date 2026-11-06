@@ -56,36 +56,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "CyberPower CP1500PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "CyberPower CP1500PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $170",
           "CyberPower CP850PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector"
         ],
         [
-          "",
-          ""
+          "Up to $582",
+          "APC Smart"
         ]
       ]
     }
@@ -94,22 +94,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Pure Sine Wave vs Modified Sine Wave",
     "cards": [
       {
-        "label": "",
+        "label": "Pure sine wave",
         "text": "Clean power matching wall-outlet quality, avoids APFC compatibility issues with modern PC power supplies. In this comparison: APC UPS 1500VA/900W Pure Sine Wave UPS for Computer, APC UPS 1000VA/600W Pure Sine Wave UPS for Computer, CyberPower CP1500PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector, CyberPower CP850PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector, APC Smart, GOLDENMATE 1000VA/800W Lithium UPS Battery Backup & Surge Protector."
       },
       {
-        "label": "",
+        "label": "Modified sine wave",
         "text": "Cheaper, but can cause buzzing or shutdown risk on APFC-equipped power supplies. In this comparison: CyberPower CP1000PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector."
       }
     ],
     "note": "Default to pure sine wave if your PC has an APFC power supply, which most modern PCs do."
   },
   {
-    "subheading": "",
+    "subheading": "By Replaceable Battery",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "APC UPS 1500VA/900W Pure Sine Wave UPS for Computer"
         ],
         [
-          "",
+          "Sealed unit is fine",
           "APC UPS 1000VA/600W Pure Sine Wave UPS for Computer"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a PC Plus Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Real watts (not VA) comfortably above your combined equipment draw, plus pure sine wave if your PC has an APFC power supply."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "CyberPower CP1500PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector discloses the highest real capacity at 1000W."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a high-draw workstation, multiple monitors, or NAS equipment, where APC Smart's higher watts capacity gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need brief runtime for a single low-draw device, where CyberPower CP850PFCLCD PFC Sinewave UPS Battery Backup and Surge Protector covers the same job at a lower price."
       }
     ]

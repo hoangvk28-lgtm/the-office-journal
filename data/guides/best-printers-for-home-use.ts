@@ -61,83 +61,83 @@ export const heroImage = "https://m.media-amazon.com/images/I/41GcHne8IoL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Technology",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Laser, lower cost per page at volume",
-          ""
+          "Brother DCP"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "HP DeskJet 4355 Wireless All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $17",
           "Nelko P21 Bluetooth Label Maker Machine with Tape"
         ],
         [
-          "",
-          ""
+          "Up to $210",
+          "Brother DCP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Printing",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex (auto two-sided)",
         "text": "Prints both sides automatically, saves paper and time for double-sided documents. In this comparison: Canon PIXMA TS4320 Wireless Color Inkjet Printer, Canon PIXMA TS6520 Wireless Color Inkjet Printer, Brother DCP, HP OfficeJet Pro 8125e Wireless All, HP OfficeJet Pro 8125 Wireless All."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if you rarely need double-sided printing. In this comparison: HP DeskJet 4355 Wireless All, Canon PIXMA TR4720 All, Nelko P21 Bluetooth Label Maker Machine with Tape."
       }
     ],
     "note": "Default to duplex unless you're confident your printing is mostly single-sided."
   },
   {
-    "subheading": "",
+    "subheading": "By Scan Resolution",
     "note": "Check each pick's listed optical scan resolution in DPI against how you'll actually use scanning before buying, not just print specs."
   },
   {
     "subheading": "For Scanning Contracts or Receipts Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed optical scan resolution in DPI high enough to keep fine print legible, not just the printer's overall feature list."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HP DeskJet 4355 Wireless All is worth checking against its listed scan resolution before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You print regularly at moderate to high volume, where Brother DCP's duty cycle and cost-per-page give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only print occasionally at low volume, where Nelko P21 Bluetooth Label Maker Machine with Tape covers the same job at a lower price."
       }
     ]
@@ -146,11 +146,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Print technology fit",
     "description": "Weighed inkjet, ink-tank, and laser engines against realistic home print volume, since the cheapest upfront option isn't always the cheapest over 3-5 years."
   },
   {
-    "title": "",
+    "title": "Idle-ink risk",
     "description": "Flagged standard cartridge inkjets against the risk of cartridges drying out after 2-4 weeks of infrequent home use, a real cost most home printer comparisons skip."
   },
   {
@@ -158,7 +158,7 @@ export const howWeEvaluated = [
     "description": "Checked for duplex printing, auto document feeders, and display quality against what actually gets used in a home rather than an office setting."
   },
   {
-    "title": "",
+    "title": "Honest product category",
     "description": "Confirmed each pick is a genuine general-purpose printer or clearly labeled it as a specialty device, like the Bluetooth label maker, rather than blending them together."
   },
   {

@@ -17,7 +17,7 @@ export const buyingCriteria = [
     "explanation": "A larger working area only helps if the machine's overall footprint still fits the intended space, since some large-bed machines exceed 20 inches per side once housing and cable clearance are included. Match the bed size to actual planned projects (sign blanks need 16in+, most gift and craft work fits an A4-size 12in bed) rather than buying the largest available bed by default. Object height clearance matters separately from bed footprint for anything taller than a flat panel."
   },
   {
-    "criterion": "",
+    "criterion": "Control Software and Workflow",
     "explanation": "Some machines run entirely from a companion phone app or offline TF card, while others require a permanently connected computer running LightBurn, a paid license after a trial period, or LaserGRBL, a free but less polished tool. Decide up front whether jobs will be designed and queued from a phone, a shared shop computer, or offline, since this affects both real project turnaround time and any recurring software cost. AI-assisted design generation from a photo or prompt is a genuine time-saver for buyers without vector-design experience."
   },
   {
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51kc+d-Ss0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
         "If you mainly need to",
-        ""
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,19 +88,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget tier",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Entry-level, smallest footprint",
           "Twotrees TS1 Mini Laser Engraver, Enclosed"
         ],
         [
-          "",
+          "Mid-range, best all-around value",
           "Creality Laser Engraver 10W Output, 72W"
         ],
         [
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Open Frame vs Fully Enclosed",
     "cards": [
       {
-        "label": "",
+        "label": "Open frame (e.g. Creality 72W)",
         "text": "Cheaper for the power delivered and usually a larger bed, but containment, ventilation, and eye protection during operation are entirely on the buyer to set up."
       },
       {
@@ -125,11 +125,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers in a shared living space should default to a fully enclosed model unless a dedicated, ventilated workshop space is already available."
   },
   {
-    "subheading": "",
+    "subheading": "By Working Area",
     "table": {
       "headers": [
-        "",
-        ""
+        "Bed size needed",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -137,7 +137,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Creality Laser Engraver 10W Output, 72W or LONGER Ray5"
         ],
         [
-          "",
+          "Standard A4-size projects (11.8x7.9in)",
           "Carverall K15 Pro Laser Engraver 10W"
         ],
         [
@@ -148,27 +148,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For First-Time Buyers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A verified (not inflated) power rating, an app-based or offline control path that doesn't require learning LightBurn on day one, and tool-free or minimal assembly."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Carverall K15 Pro Laser Engraver 10W publishes an independently verified output range and runs from a free phone app with AI-assisted design, cutting the learning curve most first machines carry."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need genuine enclosed containment (Woxcker) or want a module system that lets the same machine scale up in power later (Creality Falcon A1C)."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need small-object detail engraving with no cutting, where Twotrees TS1 Mini Laser Engraver, Enclosed covers the job at the lowest price in this lineup."
       }
     ]
@@ -181,7 +181,7 @@ export const howWeEvaluated = [
     "description": "72W) rather than the smaller actual laser output that determines cutting performance."
   },
   {
-    "title": "",
+    "title": "Enclosure and Safety Hardware",
     "description": "Checked whether each machine ships with a genuine physical enclosure, lid interlock, flame sensor, or tilt cutoff, versus an open frame that leaves containment and eye protection entirely to the buyer."
   },
   {
@@ -189,11 +189,11 @@ export const howWeEvaluated = [
     "description": "Weighed usable bed size against total machine footprint and weight, since a larger work area is only a real advantage if the machine still fits the space it's bought for."
   },
   {
-    "title": "",
+    "title": "Software and Control Path",
     "description": "Tested which control paths each machine actually supports, phone app, offline TF card, touchscreen, or LightBurn/LaserGRBL only, since a machine that requires a paid license or a permanently connected laptop changes the real cost and workflow."
   },
   {
-    "title": "",
+    "title": "Material Compatibility Claims",
     "description": "Cross-checked stated cutting depth (wood, acrylic) and material lists against the laser's rated output, since underpowered machines sometimes list materials they can only mark, not cleanly cut."
   }
 ];

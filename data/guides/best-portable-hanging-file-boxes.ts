@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41PdCI0nCgL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "Staples File Folder Tote"
         ],
         [
-          "",
+          "Mid-range",
           "Pendaflex Portable File Box with File Rails"
         ],
         [
@@ -84,14 +84,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: Pendaflex Portable File Box with File Rails, samstar 2 Pack Hanging File Organizer, Storex Portable Letter/Legal Filebox with Organizer Lid."
       }
     ],
@@ -101,8 +101,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -116,24 +116,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what samstar 2 Pack Hanging File Organizer offers: Rail placement visible through mesh. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Staples File Folder Tote already covers the essentials: Explicitly confirmed rail compatibility. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -142,15 +142,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Rail spacing standardization",
     "description": "We verified each pick's rail spacing accommodates standard letter or legal hanging folder dimensions, compatible with generically purchased folders."
   },
   {
-    "title": "",
+    "title": "Rail visibility and verification",
     "description": "We favored mesh or transparent designs that let you visually confirm folder placement on the rails, a genuine usability benefit over a fully enclosed solid box."
   },
   {
-    "title": "",
+    "title": "Rail material durability",
     "description": "We considered rail durability under repeated file insertion and removal, a genuine longevity concern for this core mechanism."
   },
   {

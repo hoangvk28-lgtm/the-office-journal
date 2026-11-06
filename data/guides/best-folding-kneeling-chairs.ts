@@ -63,12 +63,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Long You'll Sit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your session length",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Short 20-30 minute stretches",
           "VEVOR Garden Kneeler and Seat Heavy Duty"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Master Massage Ergonomic Wooden Foldable Kneeling Chair for Office, Wood"
         ],
         [
-          "",
+          "Longer 2-4 hour stretches",
           "MASTER HEALTH PRODUCT Massage Ergonomic Kneeling Chair"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "VEVOR Garden Kneeler and Seat Heavy Duty"
         ],
         [
-          "",
+          "Mid-range pick",
           "Master Massage Ergonomic Steel Prefect for Home Kneeling Chair Metal Folding"
         ],
         [
-          "",
+          "Higher budget",
           "MASTER HEALTH PRODUCT Massage Ergonomic Kneeling Chair"
         ]
       ]
@@ -120,11 +120,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're notably tall or short, a rocking model gives you more real range of motion to compensate."
   },
   {
-    "subheading": "",
+    "subheading": "By Backrest Availability",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Back Pain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An adjustable shin pad and seat tilt, since a fixed, poorly-angled pad can concentrate pressure rather than relieve it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Master Massage Ergonomic Wooden Foldable Kneeling Chair for Office, Wood is worth checking against its specific tilt and cushioning spec before assuming it fits your back pain needs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to sit for longer stretches and want a genuine rocking mechanism and better cushioning, where MASTER HEALTH PRODUCT Massage Ergonomic Kneeling Chair justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're rotating in short sessions and just want the basic kneeling posture benefit, where VEVOR Garden Kneeler and Seat Heavy Duty already covers the job at the lowest price here."
       }
     ]

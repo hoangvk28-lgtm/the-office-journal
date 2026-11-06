@@ -29,15 +29,15 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the best overall storage and charging cart?",
-    "a": ""
+    "a": "The Meteteel Fully Assembled 20 Device Laptop Charging Cart, with the largest confirmed review base in this comparison."
   },
   {
     "q": "Which pick has a confirmed physical lock?",
     "a": "The VEVOR 16 Device Charging Station with Lock & Key is the only pick that explicitly confirms a physical lock and key."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the highest-capacity option?",
+    "a": "The TIOPLY 36 Device Charging Cart, supporting screens up to 16.3 inches."
   },
   {
     "q": "Is there an option with extra storage beyond the charging bays?",
@@ -57,52 +57,52 @@ export const heroImage = "https://m.media-amazon.com/images/I/41gKt63zFUL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 36-device capacity",
+          "TIOPLY 36 Device Charging Cart for Laptop Up to 16.3"
         ],
         [
-          "",
-          ""
+          "Around 32-device capacity",
+          "Plugsharge 32"
         ],
         [
-          "",
+          "Around 30-device capacity",
           "POCHAR 30 Devices 14'' Screen Laptop Charging Cart for K"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $190",
+          "Hupsjer 16"
         ],
         [
-          "",
+          "Up to $460",
           "Pearington 30 Device Mobile Charging/Storage Cart for iPads"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Hupsjer 16",
         "text": "The lower-priced option in this comparison, worth checking its capacity and charging architecture against your fleet."
       },
       {
@@ -113,11 +113,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Hupsjer 16 unless your fleet size or security needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Locking Security",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a School or Classroom Fleet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed bay geometry for your actual laptop model, zoned or timed charging for larger fleets, and a genuine locking door for unattended storage."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Meteteel Fully Assembled 20 Device Laptop Charging Cart for School is worth checking against its listed capacity and charging architecture before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're managing a larger fleet needing safe zoned charging and genuine security, where Pearington 30 Device Mobile Charging/Storage Cart for iPads's higher price buys real capacity and reliability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing a small number of devices with simple charging needs, where Hupsjer 16 covers the same job at a lower price."
       }
     ]
@@ -161,8 +161,8 @@ export const howWeEvaluated = [
     "description": "We separated the VEVOR pick's explicitly confirmed lock and key from carts that describe enclosed storage without confirming the specific locking mechanism."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Capacity tiers compared against review base",
+    "description": "We compared 16- to 36-device capacity directly against review count, since a higher-capacity pick with only 3 reviews carries more evaluation risk than a smaller pick with 78."
   },
   {
     "title": "Storage shelf as a distinct feature from device bays",

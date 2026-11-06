@@ -61,20 +61,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/41PUPJ4-ZWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "2TB at the lowest price with health monitoring",
-          ""
+          "SSK 2TB Portable SSD"
         ],
         [
           "The fastest 2TB drive for large file transfers",
-          ""
+          "Fanxiang 2TB External SSD"
         ],
         [
           "Built-in encryption software at 2TB",
@@ -84,24 +84,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $250",
+          "SSK 2TB Portable SSD ($239.99) or fanxiang 2TB External SSD ($246.99)"
         ],
         [
-          "",
-          ""
+          "$270-$280",
+          "Sandisk 2TB Portable SSD, Old Model ($277.95)"
         ],
         [
-          "",
-          ""
+          "$290-$300",
+          "Lexar ES3 2TB Portable SSD ($299.99)"
         ]
       ]
     }
@@ -114,18 +114,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Rated between 550MB/s and 1050MB/s, sufficient for most everyday transfers and moderate video work. Best if your host device doesn't support the faster Gen 2x2 standard anyway."
       },
       {
-        "label": "",
+        "label": "Gen 2x2 (fanxiang)",
         "text": "Rated up to 2000MB/s, nearly 4x the SSK's speed, but only reaches that ceiling with a host device that also supports the 20Gbps standard. Best for heavy 4K or RAW workflows on a modern computer."
       }
     ],
     "note": "Check your computer's actual USB port specification before paying extra for Gen 2x2 speed, since an older port caps you at the lower standard regardless of the drive's rating."
   },
   {
-    "subheading": "",
+    "subheading": "By Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Feature priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Lexar ES3 2TB Portable SSD"
         ],
         [
-          "",
-          ""
+          "Documented longevity rating (TBW)",
+          "Fanxiang 2TB External SSD"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Professional Photography Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated drop-protection figure and a physical carry option like a belt or bag hook, since a photographer's drive travels more than a desk-bound one."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Sandisk 2TB Portable SSD, Old Model specifically markets itself around professional photographer use with a stated 2-meter drop rating and rubber carry hook."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fanxiang 2TB External SSD's Gen 2x2 speed for heavy 4K workflows, or the Lexar ES3 2TB Portable SSD's encryption software for sensitive files, both genuine capability upgrades over the base SSK pick."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need reliable 2TB storage without a speed or security premium, where the SSK 2TB Portable SSD covers the need at the lowest price in this comparison with documented health monitoring."
       }
     ]
@@ -173,19 +173,19 @@ export const howWeEvaluated = [
     "description": "Compared price specifically among 2TB options at this tier, since capacity is a solved variable and speed, brand, and features are the real differentiators."
   },
   {
-    "title": "",
+    "title": "USB Generation Gap",
     "description": "2 Gen 2 drives from Gen 2x2 drives, since this comparison spans nearly a 4x speed difference despite similar pricing at points."
   },
   {
-    "title": "",
+    "title": "Stated Longevity Figures",
     "description": "Noted which listings cite a specific TBW (terabytes written) rating or service length versus those that don't provide a comparable longevity figure."
   },
   {
-    "title": "",
+    "title": "Documented Security Features",
     "description": "Checked which listings specifically include encryption software versus those offering only basic storage without a security feature."
   },
   {
-    "title": "",
+    "title": "Brand Track Record",
     "description": "Weighed established storage brand names against newer entrants, particularly relevant at this higher price point where buyers have more to lose from a reliability issue."
   }
 ];

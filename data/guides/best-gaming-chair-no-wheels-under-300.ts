@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31cPYkQ0V2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,20 +87,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $110 (floor chairs)",
+          "GTPLAYER Rocking ($44.99), HOPERAN ($79.99), or either GTPLAYER foldable ($98.98-$109.99)"
         ],
         [
-          "",
-          ""
+          "$280 to $300 (recliners)",
+          "Dowinx ($279.99) or RESPAWN 900 ($297.71)"
         ]
       ]
     }
@@ -109,22 +109,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Floor Chair vs Full-Size Recliner",
     "cards": [
       {
-        "label": "",
+        "label": "Floor chair (GTPLAYER, HOPERAN)",
         "text": "Low-profile seating with no legs or wheelbase at all, compact and affordable, well-suited to a smaller room or bedroom gaming setup."
       },
       {
-        "label": "",
+        "label": "Full-size recliner (Dowinx, RESPAWN)",
         "text": "Raised seating on fixed legs with a footrest, built for extended sessions the way a standard gaming chair is, just without a rolling base."
       }
     ],
     "note": "Choose based on why you want to avoid wheels: if it's about room space and a low-key setup, a floor chair fits; if it's about avoiding a rolling base while keeping full-size raised seating, a fixed-leg recliner is the better match."
   },
   {
-    "subheading": "",
+    "subheading": "By Swivel Capability",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -132,7 +132,7 @@ export const howToChoose: HowToChooseSection[] = [
           "GTPLAYER Floor Rocking Gaming Chair"
         ],
         [
-          "",
+          "Full 360-degree swivel wanted",
           "HOPERAN, either GTPLAYER foldable model, or RESPAWN 900"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Extended Gaming Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A built-in footrest and raised seating rather than floor-level seating, since extended sessions benefit from the same ergonomic support a standard gaming chair provides."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Dowinx and RESPAWN 900 are the two picks here built as full-size recliners with footrests for exactly this kind of extended use."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "71) both deliver that, with different bonus features (massage versus cup holder and swivel)."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) is wheel-free and functional for a fraction of the recliner picks' price."
       }
     ]
@@ -168,23 +168,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Product type classification",
     "description": "We distinguished floor-level rocking or swivel chairs from full-size recliner-style gaming chairs, since these are different products serving different room setups and budgets despite both being wheel-free."
   },
   {
-    "title": "",
+    "title": "Swivel and recline functionality",
     "description": "We compared which floor chairs offer genuine 360-degree swivel and multiple recline positions versus a simpler fixed rocking motion, a real functional difference at similar price points."
   },
   {
-    "title": "",
+    "title": "Fixed-leg recliner feature comparison",
     "description": "For the recliner-style picks, we noted distinct added features like massage function, cup holders, and swivel capability on a fixed-leg base, since these varied meaningfully between similarly priced options."
   },
   {
-    "title": "",
+    "title": "Footrest and seating height",
     "description": "We checked which picks include a built-in footrest and raised seating versus floor-level seating, since this affects long-term comfort differently for extended gaming sessions."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $300 on the date this guide was checked; chairs that only hit this tier during a temporary sale were excluded."
   }
 ];

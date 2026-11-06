@@ -64,42 +64,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Softa Queen Murphy Bed Cabinet with Storage Drawer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Softa Queen Murphy Bed Cabinet with Storage Drawer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $1",
           "Merax Queen Size Murphy Bed with Desk and Lights"
         ],
         [
-          "",
+          "Up to $720",
           "KEIKI Queen Murphy Bed with Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desk Integration vs Price",
     "cards": [
       {
         "label": "Merax Queen Size Murphy Bed with Desk and Lights",
@@ -113,31 +113,31 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Merax Queen Size Murphy Bed with Desk and Lights unless your desk usage calls for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Room Clearance Requirements",
     "note": "Check each pick's listed minimum ceiling height and wall clearance against your room's actual measured dimensions before buying, not just the general size category."
   },
   {
     "subheading": "For a Studio Apartment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Verified real desk integration with a stated weight limit, plus confirmed ceiling height and wall clearance for your specific room."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Softa Queen Murphy Bed Cabinet with Storage Drawer is worth checking against its listed clearance requirements before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You'll fold the unit daily as part of an active desk-bed routine, where KEIKI Queen Murphy Bed with Desk's build quality and mechanism give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The bed stays in one position most of the time, where Merax Queen Size Murphy Bed with Desk and Lights covers the same job at a lower price."
       }
     ]
@@ -146,7 +146,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "True 3-in-1 combo completeness",
     "description": "Checked whether each unit combines storage, a desk, and a bed in one wall cabinet, or whether it offers only two of the three, such as storage and charging without a desk surface, so buyers know exactly what they're getting."
   },
   {
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
     "description": "Noted stated fold mechanisms, like gas struts, that affect how much daily effort and time it takes to clear the desk and lower the bed, since a combo unit used daily has different needs than one left in one position most of the time."
   },
   {
-    "title": "",
+    "title": "Desk depth vs. standard desk comparison",
     "description": "Factored in that a Murphy desk surface runs shallower than a standard 24 to 30 inch deep desk, which affects comfortable monitor viewing distance and usable desk workspace."
   },
   {

@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/419hpw5XqiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom or office",
           "Vicks Humidifier 3-in-1 SleepyTime Cool Mist Humidifier for Nursery"
         ],
         [
-          "",
-          ""
+          "Standard bedroom",
+          "Vicks Filter-Free Ultrasonic Humidifier"
         ],
         [
-          "",
+          "Larger living space",
           "Vicks Mini Filter Free Cool Mist Humidifier for Small Room"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Vicks Humidifier 3-in-1 SleepyTime Cool Mist Humidifier for Nursery"
         ],
         [
-          "",
+          "Mid-range pick",
           "Vicks CoolRelief Cool Mist Humidifier"
         ],
         [
-          "",
+          "Higher budget",
           "Vicks Mini Filter Free Cool Mist Humidifier for Small Room"
         ]
       ]
@@ -110,57 +110,57 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Cool Mist vs Warm Mist",
     "cards": [
       {
-        "label": "",
+        "label": "Cool mist (e.g. Vicks Filter-Free Ultrasonic Humidifier)",
         "text": "Uses less electricity and covers larger rooms more effectively."
       },
       {
-        "label": "",
+        "label": "Warm mist",
         "text": "Kills bacteria in the water during boiling and runs near-silently, best for a small room."
       }
     ],
     "note": "Match this to your room size and how much you value quiet operation versus coverage."
   },
   {
-    "subheading": "",
+    "subheading": "By Maintenance Tolerance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Minimal daily upkeep",
           "Check tank capacity against how often you're willing to refill it"
         ],
         [
-          "",
-          ""
+          "Don't mind frequent cleaning",
+          "Vicks Filter-Free Ultrasonic Humidifier"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Hard Water Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An evaporative design (traps minerals in the wick) or plan to use distilled water with an ultrasonic model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Vicks Filter-Free Ultrasonic Humidifier is worth checking against its specific mist type before assuming any humidifier handles hard water the same way."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger tank, quieter operation, and extra features like a hygrometer display, where Vicks Mini Filter Free Cool Mist Humidifier for Small Room justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need basic humidity for a small room and don't mind more frequent refills, where Vicks Humidifier 3-in-1 SleepyTime Cool Mist Humidifier for Nursery already covers the job at the lowest price here."
       }
     ]

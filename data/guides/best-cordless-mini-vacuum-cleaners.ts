@@ -48,7 +48,7 @@ export const faq = [
     "a": "No, blower or reverse-airflow mode is a bonus feature on some models, not universal; check the specific listing rather than assuming any '2-in-1' or '3-in-1' branding includes it."
   },
   {
-    "q": "",
+    "q": "Are mini vacuums loud?",
     "a": "Cordless models typically run around 55 to 62 DB, noticeable in a quiet shared office; check buyer reviews for real-world noise impressions if discretion matters."
   }
 ];
@@ -61,80 +61,80 @@ export const heroImage = "https://m.media-amazon.com/images/I/41dyzUQUgBL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Keyboard crumbs",
+          "SERVOMASTER Handheld Vacuum Cordless"
         ],
         [
-          "",
-          ""
+          "Whole-desk cleaning",
+          "Yomile Mini Vacuum Cleaner"
         ],
         [
-          "",
-          ""
+          "Car interior",
+          "SERVOMASTER Handheld Vacuum Cordless"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "SERVOMASTER Handheld Vacuum Cordless"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Levoit Cordless Vacuum Cleaner"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "SERVOMASTER Handheld Vacuum Cordless"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Corded vs Cordless",
     "cards": [
       {
-        "label": "",
+        "label": "Corded (e.g. SERVOMASTER Handheld Vacuum Cordless)",
         "text": "Consistent suction, no battery to manage, lower price."
       },
       {
-        "label": "",
+        "label": "Cordless",
         "text": "Portable and quiet, but suction fades as the battery drains."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Suction Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Everyday light cleaning",
+          "Yomile Mini Vacuum Cleaner"
         ],
         [
-          "",
-          ""
+          "Maximum suction power",
+          "Levoit Cordless Vacuum Cleaner"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tight Keyboard Crevices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A narrow brush or crevice nozzle attachment included in the box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Yomile Mini Vacuum Cleaner is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where SERVOMASTER Handheld Vacuum Cordless justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where SERVOMASTER Handheld Vacuum Cordless already covers the job at the lowest price here."
       }
     ]

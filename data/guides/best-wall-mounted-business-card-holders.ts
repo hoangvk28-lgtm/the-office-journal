@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31wMooaklBL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Carrying your own cards",
           "VELATYVIO Acrylic business card holder Wall mounted business card holder Clear"
         ],
         [
-          "",
+          "Displaying cards for visitors",
           "Hillban Acrylic Business Card Holder Wall Mount Office"
         ],
         [
-          "",
+          "Client-facing handoffs",
           "TURSTIN Business Card Holder Wall Mount Clear Sticker Display Marketing Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "VELATYVIO Acrylic business card holder Wall mounted business card holder Clear"
         ],
         [
-          "",
+          "Mid-range pick",
           "Lincia 2 Pcs Acrylic Business Card Holder"
         ],
         [
-          "",
+          "Higher budget",
           "TURSTIN Business Card Holder Wall Mount Clear Sticker Display Marketing Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Top vs Snap-Closed",
     "cards": [
       {
         "label": "VELATYVIO Acrylic business card holder Wall mounted business card holder Clear)",
         "text": "Faster one-hand access, less protection against spilling."
       },
       {
-        "label": "",
+        "label": "Snap/magnetic closed",
         "text": "Secures cards fully, takes an extra motion to open."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your card volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A small daily-carry stack",
           "Hillban Acrylic Business Card Holder Wall Mount Office"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Client-Facing Handoffs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A material (leather or solid metal) that reinforces a professional impression at the handoff moment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Hillban Acrylic Business Card Holder Wall Mount Office is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where TURSTIN Business Card Holder Wall Mount Clear Sticker Display Marketing Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where VELATYVIO Acrylic business card holder Wall mounted business card holder Clear already covers the job at the lowest price here."
       }
     ]

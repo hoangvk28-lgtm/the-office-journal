@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41igESYFEiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A few light cables",
           "INCHOR Cord Organizer for Desk"
         ],
         [
           "A full desk of cables and chargers",
-          ""
+          "Cable Management Under Desk"
         ],
         [
-          "",
+          "A large mixed bundle",
           "Naeety 2Pack Cable Management Box, Wooden Style Cord Organizer Cord Hide Box"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "INCHOR Cord Organizer for Desk"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Cable Management Box"
         ],
         [
-          "",
+          "Higher budget",
           "Naeety 2Pack Cable Management Box, Wooden Style Cord Organizer Cord Hide Box"
         ]
       ]
@@ -113,27 +113,27 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Hides cables completely, needs ventilation for warm power bricks."
       },
       {
-        "label": "",
+        "label": "Sleeve/wrap",
         "text": "More flexible for adding cables, less visually contained."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under-desk hidden",
+          "Cable Management Under Desk"
         ],
         [
-          "",
-          ""
+          "Surface or freestanding",
+          "Cable Management Box"
         ]
       ]
     }
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequently Changing Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reusable fasteners and an open or slotted entry point rather than a fully sealed box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Cable Management Under Desk is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Naeety 2Pack Cable Management Box, Wooden Style Cord Organizer Cord Hide Box justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where INCHOR Cord Organizer for Desk already covers the job at the lowest price here."
       }
     ]

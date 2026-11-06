@@ -22,22 +22,22 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Use review volume for build-quality confidence",
-    "explanation": ""
+    "explanation": "An established review base is useful evidence a board holds up to regular home-office use."
   }
 ];
 
 export const faq = [
   {
     "q": "What's the best board for a small home-office desk?",
-    "a": ""
+    "a": "The TSJ OFFICE Small Desktop Whiteboard, compact and keyboard-adjacent with the largest review base in this comparison."
   },
   {
     "q": "Is there an option that saves desk space by combining storage?",
     "a": "Yes, the Varhomax Glass Desk Whiteboard with Storage combines writing surface and organizer in one footprint."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The Small Dry Erase Board 10x10 at $8.99."
   },
   {
     "q": "Which has the most writing area for a bigger home-office desk?",
@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "Is there a budget option with an organizer?",
-    "a": ""
+    "a": "Yes, the Amazon Basics Desktop Dry Erase Whiteboard at $15.74."
   }
 ];
 
@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41+-w5AGGrL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Choose by Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most proven compact option",
           "TSJ OFFICE Small Desktop Whiteboard"
         ],
         [
-          "",
+          "Combined whiteboard and storage",
           "Varhomax Glass Desk Whiteboard with Storage"
         ],
         [
-          "",
+          "Budget organizer option",
           "Amazon Basics Desktop Dry Erase Whiteboard"
         ],
         [
@@ -99,7 +99,7 @@ export const howWeEvaluated = [
     "description": "We noted where a board includes storage, since a home-office desk often needs to serve multiple functions in less space."
   },
   {
-    "title": "",
+    "title": "Price against home-office budgets",
     "description": "We covered a wide price range, from to premium since home-office spending varies more than corporate procurement."
   },
   {
@@ -109,7 +109,7 @@ export const howWeEvaluated = [
 ];
 
 export const introParagraphs = [
-  "",
+  "Home-office desks tend to be smaller and more crowded than a dedicated office workstation, so we specifically weighted usable writing area against footprint rather than just picking the largest or highest-rated board overall.",
   "We also factored in whether a product includes organizer features, since a home-office desk often needs to double as storage in a way a corporate desk doesn't."
 ];
 

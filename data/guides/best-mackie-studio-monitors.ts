@@ -13,15 +13,15 @@ export const buyingCriteria = [
     "explanation": "A bigger woofer isn't automatically the better choice, it's a tradeoff against your actual room size. Larger woofers reproduce deeper bass but also excite more low-frequency room resonance in a small, untreated space, which can mislead mixing decisions rather than improve them. Match the woofer diameter, typically 5 or 8 inches for home use, to your room's real dimensions before assuming size alone determines quality."
   },
   {
-    "criterion": "",
+    "criterion": "Wattage and Real Headroom",
     "explanation": "Wattage describes how loud a monitor can play before the amplifier distorts, and for most home studio use 50 to 75 watts per channel is sufficient, since mixing at reasonable volume rarely demands more. Check the per-channel wattage figure specifically, not a combined system total, since some listings quote the sum of both speakers as one inflated number."
   },
   {
-    "criterion": "",
+    "criterion": "Equilateral Triangle Placement",
     "explanation": "Stereo imaging accuracy depends as much on placement as on the monitor itself: your pair should form an equilateral triangle with your listening position, speaker-to-speaker distance equal to speaker-to-ear distance. Getting this geometry wrong distorts the stereo image regardless of how good the monitors are, so check your desk layout against this rule before assuming a purchase decision will fix an imaging problem."
   },
   {
-    "criterion": "",
+    "criterion": "Powered vs Passive Design",
     "explanation": "A powered studio monitor has its amplifier built directly into the cabinet, needing only a line-level source cable, while a passive monitor requires a separate external amplifier matched to its impedance and wattage rating. Nearly every home studio buyer should choose powered monitors, since they're simpler to set up and avoid amp-matching mistakes, which is what most current monitors on the market are built as. Check the listing specifically for 'powered' or 'active' rather than assuming, since a passive monitor without a matched amp produces no sound at all."
   }
 ];
@@ -61,20 +61,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/41WDaxej-KL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Small bedroom or desk setup",
-          ""
+          "Mackie CR3.5 Studio Monitors (Pair)"
         ],
         [
-          "",
-          ""
+          "Standard home studio room",
+          "Mackie CR-X Series"
         ],
         [
           "Larger room, need more headroom",
@@ -84,33 +84,33 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Mackie CR3.5 Studio Monitors (Pair)"
         ],
         [
-          "",
+          "Mid-range pick",
           "Mackie CR8SBT 8\" Studio Subwoofer for CR Monitors"
         ],
         [
-          "",
+          "Higher budget",
           "Mackie CR5BT CR Series 5\" Multimedia Monitors with Bluetooth (Pair) (2046563-00)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Powered vs Passive Monitors",
     "cards": [
       {
-        "label": "",
+        "label": "Powered (e.g. Mackie CR-X Series)",
         "text": "Has the amplifier built in, so you just need a source cable, no separate power amp to buy and match."
       },
       {
@@ -121,16 +121,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Almost every home studio buyer should default to powered monitors for the simplicity."
   },
   {
-    "subheading": "",
+    "subheading": "By Woofer Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Tightest desk fit and detail at close range",
-          ""
+          "Mackie CR-X Series"
         ],
         [
           "Verify your exact desk distance before buying any size",
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Small Home Studio Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rear-panel room-compensation switch or EQ, since a monitor placed close to a wall needs bass correction most factory tunings assume you won't need."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Mackie CR-X Series is worth checking against its room-control switches before assuming flat response out of the box."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're mixing professionally and need maximum headroom and detail, where Mackie CR5BT CR Series 5\" Multimedia Monitors with Bluetooth (Pair) (2046563-00) justifies the higher price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5 Studio Monitors (Pair) already covers the job."
       }
     ]
@@ -177,15 +177,15 @@ export const howWeEvaluated = [
     "description": "A bigger woofer isn't automatically the better choice, it's a tradeoff against your actual room size."
   },
   {
-    "title": "",
+    "title": "Wattage and Real Headroom",
     "description": "Wattage describes how loud a monitor can play before the amplifier distorts, and for most home studio use 50 to 75 watts per channel is sufficient, since mixing at reasonable volume rarely demands more."
   },
   {
-    "title": "",
+    "title": "Equilateral Triangle Placement",
     "description": "Stereo imaging accuracy depends as much on placement as on the monitor itself: your pair should form an equilateral triangle with your listening position, speaker-to-speaker distance equal to speaker-to-ear distance."
   },
   {
-    "title": "",
+    "title": "Powered vs Passive Design",
     "description": "A powered studio monitor has its amplifier built directly into the cabinet, needing only a line-level source cable, while a passive monitor requires a separate external amplifier matched to its impedance and wattage rating."
   }
 ];

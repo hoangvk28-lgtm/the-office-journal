@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/419hWbxp-bL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "Upgraded Adjustable Bracket ($16.99)"
         ],
         [
-          "",
-          ""
+          "Under $20",
+          "VIVO ($19.99), Pen Holder pick ($19.99), or Freejia ($19.99)"
         ]
       ]
     }
@@ -114,18 +114,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Sliding side arms fit a range of device widths, useful if you might switch mini PCs later or aren't certain of exact compatibility."
       },
       {
-        "label": "",
+        "label": "Brand-specific (Freejia for Lenovo)",
         "text": "Hardware matched exactly to a listed ThinkCentre Tiny model, a more precise but less flexible fit for that specific device."
       }
     ],
     "note": "If you own one of the specifically listed Lenovo ThinkCentre Tiny models, the Freejia's exact-match hardware is worth choosing over a generic adjustable bracket."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Location Needs",
     "table": {
       "headers": [
         "Where you need to mount",
-        ""
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Compact Desk With Limited Surface Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A mount that also organizes small desk items like pens, reducing the number of separate accessories cluttering the desktop."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The pen-holder pick's built-in organizer addresses this need directly while still mounting the mini PC out of the way."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a longer warranty and the widest mounting flexibility, where the VIVO pick's 3-year warranty and pole-clamp option add real value over the budget bracket."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic under-desk mounting with height adjustment, where the Upgraded Adjustable Bracket covers that for about $3 less."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Adjustable Width Range",
     "description": "Compared the minimum and maximum device width each bracket's sliding arms can accommodate."
   },
   {
-    "title": "",
+    "title": "Mounting Scenario Versatility",
     "description": "Compared how many distinct mounting locations, wall, VESA, under desk, or pole clamp, each pick supports."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated maximum supported weight across the lineup where available."
   },
   {
-    "title": "",
+    "title": "Extra Features",
     "description": "Noted bonus features like pen holders, power adapter straps, and cable management ties."
   },
   {
-    "title": "",
+    "title": "Warranty and Support",
     "description": "Compared stated warranty length and manufacturer support commitments."
   }
 ];

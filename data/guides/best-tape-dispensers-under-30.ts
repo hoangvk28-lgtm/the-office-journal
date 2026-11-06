@@ -61,71 +61,71 @@ export const heroImage = "https://m.media-amazon.com/images/I/41WzpVk5EIL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Occasional light use",
+          "LotFancy Paper Medical Tape"
         ],
         [
           "Regular desk or office use",
           "Brampton Golf Grip Tape Strips"
         ],
         [
-          "",
+          "High-volume packing",
           "Tape King Packing Tape Dispenser Gun"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "LotFancy Paper Medical Tape"
         ],
         [
-          "",
+          "Mid-range pick",
           "Master Magnetics Roll-N-Cut Dispenser With One Flexible Magnet Tape Roll"
         ],
         [
-          "",
+          "Higher budget",
           "Tape King Packing Tape Dispenser Gun"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
-        "label": "",
+        "label": "Desktop (e.g. LotFancy Paper Medical Tape)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Brampton Golf Grip Tape Strips"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "Master Magnetics Roll-N-Cut Dispenser With One Flexible Magnet Tape Roll"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Brampton Golf Grip Tape Strips is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Tape King Packing Tape Dispenser Gun justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where LotFancy Paper Medical Tape already covers the job at the lowest price here."
       }
     ]

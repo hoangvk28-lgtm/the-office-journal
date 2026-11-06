@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/21KH+uw1QfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,7 +74,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "The most detailed spec sheet plus NVMe caching",
-          ""
+          "Asustor AS5402T, 2-Bay NAS"
         ],
         [
           "4 bays to separate backup from other storage",
@@ -88,19 +88,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "$360 to $410 (2-bay)",
           "Synology DS225+, UGREEN DXP2800, or Asustor AS5402T"
         ],
         [
-          "",
+          "$600 to $700 (4-bay)",
           "Synology DS425+, UGREEN DXP4800 Plus, or Synology DS925+"
         ]
       ]
@@ -110,7 +110,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "2-Bay vs 4-Bay for Time Machine Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "2-Bay (DS225+, DXP2800, AS5402T)",
         "text": "Both bays typically go into one RAID 1 mirror for Time Machine redundancy, leaving no separate pool for other storage needs on the same unit."
       },
       {
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By CPU and Workload Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your workload is",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Active Video Editing Workflows Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "NVMe cache slots and fast network ports, since active video editing involves much more frequent read/write access than passive Time Machine backup alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5GbE ports is the pick here specifically built for that kind of active workload."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) both deliver real upgrades over the 2-bay picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) covers both well without paying for 4-bay capacity you may not need."
       }
     ]
@@ -173,7 +173,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "CPU class comparison",
     "description": "We noted which listings name a specific CPU model versus a general description, since a named CPU is directly comparable and matters more at this budget where multiple simultaneous workloads are common."
   },
   {
@@ -181,15 +181,15 @@ export const howWeEvaluated = [
     "description": "We distinguished 2-bay from 4-bay designs, since a 4-bay unit lets you dedicate separate drives to Time Machine backup versus other storage needs rather than sharing one pool."
   },
   {
-    "title": "",
+    "title": "NVMe cache slot availability",
     "description": "2 NVMe slots for read/write caching, a real performance feature that speeds up both Time Machine's incremental backups and general NAS use."
   },
   {
-    "title": "",
+    "title": "Network port speed",
     "description": "5GbE port configurations, since faster networking directly reduces the time a large Time Machine backup or restore takes."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $700 on the date this guide was checked; units that only hit this tier during a temporary sale were excluded."
   }
 ];

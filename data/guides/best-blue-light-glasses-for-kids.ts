@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41SOGm3OMwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General screen time",
           "Gaoye Blue Light Glasses for Computer & Gaming"
         ],
         [
-          "",
+          "Design/color-sensitive work",
           "FANNYGO Kids Blue Light Glasses"
         ],
         [
-          "",
+          "Long gaming sessions",
           "Okany Blue Light Glasses for Kids 3 Pack Blue Light Blocking Glasses for Girls"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,44 +95,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Gaoye Blue Light Glasses for Computer & Gaming"
         ],
         [
-          "",
+          "Mid-range pick",
           "DYLB Kids Blue Light Blocking Glasses 2 Pack for Girls Boys Age 3-10"
         ],
         [
-          "",
+          "Higher budget",
           "Okany Blue Light Glasses for Kids 3 Pack Blue Light Blocking Glasses for Girls"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clear vs Yellow-Tinted Lenses",
     "cards": [
       {
         "label": "Gaoye Blue Light Glasses for Computer & Gaming)",
         "text": "Filters less blue light but keeps on-screen colors accurate."
       },
       {
-        "label": "",
+        "label": "Yellow-tinted",
         "text": "Filters more blue light but visibly shifts color perception."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Vision Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No vision correction needed",
           "FANNYGO Kids Blue Light Glasses"
         ],
         [
-          "",
+          "Reading magnification needed",
           "DYLB Kids Blue Light Blocking Glasses 2 Pack for Girls Boys Age 3-10"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For All-Day Desk Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A frame width and nose bridge that actually fits your face, with a flexible, durable frame material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "FANNYGO Kids Blue Light Glasses is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Okany Blue Light Glasses for Kids 3 Pack Blue Light Blocking Glasses for Girls justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Gaoye Blue Light Glasses for Computer & Gaming already covers the job at the lowest price here."
       }
     ]

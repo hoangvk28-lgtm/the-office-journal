@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41d9ePK-7vL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Surface",
     "table": {
       "headers": [
-        "",
+        "Where it's going",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -73,26 +73,26 @@ export const howToChoose: HowToChooseSection[] = [
           "Adjustable Thin Client Mini PC Mount Bracket"
         ],
         [
-          "",
+          "Wall or under-desk",
           "Universal Wall and VESA Bracket"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "Adjustable Thin Client Mini PC Mount Bracket"
         ],
         [
-          "",
+          "Mid-range",
           "Universal Wall and VESA Bracket"
         ],
         [
@@ -106,42 +106,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Fit vs Universal Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-Specific Fit",
         "text": "Matches one specific chassis shape exactly, generally a more secure fit for that exact model. In this comparison: Adjustable Thin Client Mini PC Mount Bracket."
       },
       {
-        "label": "",
+        "label": "Universal / Multi-Brand",
         "text": "Works across several mini PC brands with adjustable hardware, more flexible if you might switch devices later. In this comparison: Adjustable Thin Client Mini PC Mount Bracket."
       }
     ],
     "note": "Confirm your exact mini PC model against the listing's stated compatibility either way, since even a \"universal\" mount has real size limits."
   },
   {
-    "subheading": "",
+    "subheading": "By Post-Install Port Access",
     "note": "None of these picks specifically advertise preserved front-port access after mounting; check each listing's product photos for where the ports land once installed if that matters to you."
   },
   {
     "subheading": "For a Home Lab Rack Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of 10-inch (home-lab) versus 19-inch (commercial) rack compatibility, since these are different standards, plus whether it's full or half rack-unit width."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Adjustable Thin Client Mini PC Mount Bracket fits this specifically: complete kit despite the 'bracket' name."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what HumanCentric Thin Client Mount Bracket offers: Complete hardware for three mounting locations in one kit. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Adjustable Thin Client Mini PC Mount Bracket already covers the essentials: complete kit despite the 'bracket' name. The main thing you'd be paying extra for elsewhere in this list is broader compatibility you may not need."
       }
     ]
@@ -162,7 +162,7 @@ export const howWeEvaluated = [
     "description": "We separated brackets built for one named chassis from universal adjustable brackets, since a rigid model-specific fit and broad multi-device compatibility solve different problems."
   },
   {
-    "title": "",
+    "title": "Complete installation cost",
     "description": "We compared whether the price shown includes everything needed for installation, or whether a buyer should budget for additional wall or VESA hardware beyond what is in the box."
   }
 ];

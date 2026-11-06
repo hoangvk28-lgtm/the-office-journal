@@ -60,16 +60,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/51JbSk7t+uL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "The most cushioned belt and largest walking area",
-          ""
+          "Walking Pad Treadmill with Remote, 2.5HP"
         ],
         [
           "Built-in incline for more intense workouts",
@@ -80,35 +80,35 @@ export const howToChoose: HowToChooseSection[] = [
           "Walking Pad Treadmill with Handle Bar, Foldable"
         ],
         [
-          "",
+          "The simplest, lowest-cost option",
           "Walking Pad Treadmill, Mini Portable with Adjustable Speed"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $80",
+          "Mini Portable ($79.99)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "Handle Bar Foldable ($89.98)"
         ],
         [
-          "",
-          ""
+          "Under $100",
+          "8% Incline ($99.99)"
         ],
         [
-          "",
-          ""
+          "Under $110",
+          "2.5HP with Remote ($109.99)"
         ]
       ]
     }
@@ -121,23 +121,23 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Provides a simple, stable walking surface without added workout intensity, better for casual walking during desk work."
       },
       {
-        "label": "",
+        "label": "Built-in incline (8% Incline)",
         "text": "Increases calorie burn and muscle engagement over flat walking, better for buyers specifically prioritizing workout intensity in a compact frame."
       }
     ],
     "note": "If you're mainly walking casually while working, a flat belt keeps things simple. If you want a more intense workout without upgrading to a pricier incline treadmill, the 8% Incline pick delivers that at a similar price to the flat options."
   },
   {
-    "subheading": "",
+    "subheading": "By Handle Bar Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your support needs",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Removable handle bar for jogging support",
-          ""
+          "Handle Bar Foldable"
         ],
         [
           "No handle bar, purely flat under-desk use",
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Small Apartment With Limited Storage Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A compact folded profile with built-in transport wheels, so the pad slides easily under furniture without requiring a dedicated storage closet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Mini Portable pick's lightweight structure and transport wheels specifically support easy storage under a bed, sofa, or desk in tight apartment layouts."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5HP with Remote pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want a simple, no-assembly walking pad for casual desk use, where the Mini Portable pick covers that for about $30 less."
       }
     ]
@@ -180,11 +180,11 @@ export const howWeEvaluated = [
     "description": "Compared stated motor HP and speed ranges across the lineup."
   },
   {
-    "title": "",
+    "title": "Belt Cushioning",
     "description": "Compared belt layer count and shock absorption design across all four picks."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated weight limits ranging from 264 to 265 lbs across the tier."
   },
   {
@@ -192,7 +192,7 @@ export const howWeEvaluated = [
     "description": "Checked which picks offer built-in incline or a removable handle bar."
   },
   {
-    "title": "",
+    "title": "Portability and Assembly",
     "description": "Compared folded dimensions, weight, and assembly requirements across the lineup."
   }
 ];

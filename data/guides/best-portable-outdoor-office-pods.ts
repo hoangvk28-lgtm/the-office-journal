@@ -53,26 +53,26 @@ export const heroImage = "https://m.media-amazon.com/images/I/41tY3PYt8NL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Acoustic Performance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "This guide's featured pod",
           "Luxury Acoustic Home Office Pod for Meeting and Multipurpose Use"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -90,22 +90,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Provides genuine enclosed acoustic isolation, worth checking its actual STC rating against your noise concerns."
       },
       {
-        "label": "",
+        "label": "A basic room divider",
         "text": "Much cheaper but offers minimal sound isolation, worth it only for visual privacy, not noise blocking."
       }
     ],
     "note": "Most buyers evaluating this guide's keyword should default to Luxury Acoustic Home Office Pod for Meeting and Multipurpose Use unless a basic divider meets your specific, limited need."
   },
   {
-    "subheading": "",
+    "subheading": "By Footprint",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Disclosed exact dimensions",
           "Luxury Acoustic Home Office Pod for Meeting and Multipurpose Use"
         ]
       ]
@@ -115,24 +115,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Remote Work Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A verified STC or DB reduction rating, plus confirmed ventilation with a stated CFM figure for comfortable extended use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Luxury Acoustic Home Office Pod for Meeting and Multipurpose Use is worth checking against its listed acoustic and ventilation specs before buying."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need verified acoustic isolation and ventilation for daily extended use, where Luxury Acoustic Home Office Pod for Meeting and Multipurpose Use's specs give real headroom over a basic divider."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional light visual privacy, not real sound blocking."
       }
     ]
@@ -149,7 +149,7 @@ export const howWeEvaluated = [
     "description": "Did not assume a documented weatherproof rating exists just because \"outdoor\" appears in a title, no listing in this niche discloses a specific weatherproofing standard."
   },
   {
-    "title": "",
+    "title": "Safety-relevant gaps flagged explicitly",
     "description": "Flagged electrical safety, foundation/anchoring, and local permit requirements as buyer responsibilities to verify directly, since none of that is addressed in the listing."
   },
   {

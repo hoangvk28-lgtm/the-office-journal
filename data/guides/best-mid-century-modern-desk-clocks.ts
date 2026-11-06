@@ -49,15 +49,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/51VmsHegsZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Movement Type",
     "note": "DecoMates Non-Ticking 24-Hour Silent Wall and Desk Clock is currently the only pick in this specific comparison, so there's no second movement type to weigh it against here. Its own movement and design details are broken down in the pros and cons below, and our broader desk clock roundup covers flip, digital, and analog styles side by side if you want that wider comparison."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -68,14 +68,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs the Alternative",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-Powered (this pick)",
         "text": "DecoMates Non-Ticking 24-Hour Silent Wall and Desk Clock is battery powered, so it can sit anywhere with no cord. Clean, restrained design in the general spirit of the era."
       },
       {
-        "label": "",
+        "label": "Corded (elsewhere)",
         "text": "If you specifically need the opposite power type, check our broader desk clock roundup, since this particular comparison only includes DecoMates Non-Ticking 24-Hour Silent Wall and Desk Clock."
       }
     ]
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buying as a Gift Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine material language, such as hand carved, real marble, or real crystal, rather than a marble-look or crystal-look plastic finish, plus a stated production or engraving lead time if personalization is involved."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "DecoMates Non-Ticking 24-Hour Silent Wall and Desk Clock is positioned as an everyday functional pick rather than a gift piece, so if you're buying specifically as a gift, check our broader roundup for a better-suited option."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Here's what you get: Clean, restrained design in the general spirit of the era. If that's what you're after, the tradeoffs in its cons list probably won't bother you either."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Here's the real tradeoff: Not marketed or styled as mid-century modern. If that matters to you, compare it against other styles in our broader desk clock roundup before committing."
       }
     ]

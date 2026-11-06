@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Which magnetic filter has the highest rating?",
-    "a": ""
+    "a": "The JEAPKA 2 Pack Magnetic 24 Inch Computer Privacy Screen Filter at 4.6."
   },
   {
     "q": "Is there a magnetic option for frameless monitors?",
@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "Is there a magnetic option for 27 inch monitors?",
-    "a": ""
+    "a": "Yes, the JEEETINTX Magnetic Computer Privacy Screen Filter 27 Inch, with the largest review base at this size tier."
   }
 ];
 
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "JEAPKA 2 Pack Magnetic 24 Inch Computer Privacy Screen Filter for Monitor"
         ],
         [
-          "",
+          "Laptop screen",
           "JEAPKA 2 Pack Magnetic 24 Inch Computer Privacy Screen Filter for Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $50",
           "JEAPKA 2 Pack Hidden Design Magnetic Computer Privacy Screen"
         ],
         [
-          "",
+          "Mid-range",
           "JEAPKA 2 Pack Magnetic 24 Inch Computer Privacy Screen Filter for Monitor"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: JEAPKA 2 Pack Hidden Design Magnetic Computer Privacy Screen."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: JEAPKA 2 Pack Magnetic 24 Inch Computer Privacy Screen Filter for Monitor, JEEETINTX Magnetic Computer Privacy Screen Filter 27 Inch, GUDTEKE 2Pack Magnetic 24 Inch Privacy Screen for Computer Monitor."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "[2-Pack] 24 Inch Privacy Screen for Computer Monitor"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "GUDTEKE 2Pack Magnetic 24 Inch Privacy Screen for Computer Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "JEAPKA 2 Pack Magnetic 24 Inch Computer Privacy Screen Filter for Monitor fits this specifically: Highest rating among confirmed magnetic filters."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what GUDTEKE 2Pack Magnetic 24 Inch Privacy Screen for Computer Monitor offers: Highest rating among confirmed magnetic filters. That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "JEAPKA 2 Pack Hidden Design Magnetic Computer Privacy Screen already covers the essentials: The only frameless-compatible pick in this comparison. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]
@@ -164,7 +164,7 @@ export const howWeEvaluated = [
     "description": "We noted where a magnetic design is a standard hanging strip versus a hidden design specifically built for frameless monitors, since these serve different needs."
   },
   {
-    "title": "",
+    "title": "Flagged frameless compatibility explicitly",
     "description": "Only one pick in this comparison is specifically designed for frameless monitors, and we called this out directly rather than assuming all magnetic filters work the same way."
   },
   {

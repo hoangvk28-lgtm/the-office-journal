@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41SC9p+UBHL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "Wire Loom 1/4\", 1/2\", 3/8 Inch x 50 FT, Split Wire Loom Tubing Wire Conduit"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Alex Tech 10ft - 1/2 inch Split Wire Loom Tubing - Black"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "Wire Loom 1/4\", 1/2\", 3/8 Inch x 50 FT, Split Wire Loom Tubing Wire Conduit"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,40 +95,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Wire Loom 1/4\", 1/2\", 3/8 Inch x 50 FT, Split Wire Loom Tubing Wire Conduit"
         ],
         [
-          "",
+          "Mid-range pick",
           "15ft - 1in Split Braided Sleeve Cable Management"
         ],
         [
-          "",
+          "Higher budget",
           "Wire Loom 1/4\", 1/2\", 3/8 Inch x 50 FT, Split Wire Loom Tubing Wire Conduit"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "Wire Loom 1/4\", 1/2\", 3/8 Inch x 50 FT, Split Wire Loom Tubing Wire Conduit)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "Alex Tech 10ft - 1/2 inch Split Wire Loom Tubing - Black"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Alex Tech 10ft - 1/2 inch Split Wire Loom Tubing - Black is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Wire Loom 1/4\", 1/2\", 3/8 Inch x 50 FT, Split Wire Loom Tubing Wire Conduit justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Wire Loom 1/4\", 1/2\", 3/8 Inch x 50 FT, Split Wire Loom Tubing Wire Conduit already covers the job at the lowest price here."
       }
     ]

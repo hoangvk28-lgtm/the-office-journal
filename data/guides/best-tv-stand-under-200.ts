@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41cQ9TMpGzL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "LINSY HOME Farmhouse TV Stand with Glass Door Storage"
         ],
         [
-          "",
+          "App-controllable LED ambiance lighting",
           "OneBlis 58\" LED Farmhouse TV Stand with Glass Door Storage"
         ],
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $100",
+          "AUXSOUL 70 Inch Mid Century Modern ($99.99)"
         ],
         [
-          "",
-          ""
+          "$156-$180",
+          "LINSY HOME ($156.25), OneBlis LED ($164.99), or OKD Modern ($179.99)"
         ]
       ]
     }
@@ -110,7 +110,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Traditional or vintage-grid glass cabinets suited to farmhouse, rustic, or transitional living room decor styles."
       },
       {
-        "label": "",
+        "label": "Modern Low-Profile (OKD)",
         "text": "Clean-lined, wall-mount-friendly design at 22 inches tall, better suited to contemporary or minimalist interiors."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Maximum TV Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your TV size",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Up to 65\"",
           "LINSY HOME or OneBlis LED Farmhouse picks"
         ],
         [
-          "",
+          "Up to 80\"",
           "OKD 70\" Modern TV Stand or AUXSOUL 70 Inch Mid Century"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Movie Night Ambiance Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "App-controllable LED lighting with adjustable brightness, rather than a fixed-color light strip with only an on/off switch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The OneBlis 58\" LED Farmhouse TV Stand is the only pick offering app-based control over brightness and color for customized movie night ambiance."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest weight capacity and waterproof glass cabinet durability, where the LINSY HOME pick leads this comparison at 360 lbs capacity."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need 80\" TV compatibility without glass doors or LED lighting, where the AUXSOUL pick saves $60-80 versus the pricier alternatives here."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "Compared glass door quality and cable-hiding cutout design across the picks featuring cabinet doors in this comparison."
   },
   {
-    "title": "",
+    "title": "LED Lighting Control Quality",
     "description": "Checked which picks offer app-controllable versus remote-only LED lighting, and the level of customization available."
   },
   {
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "Compared stated maximum TV size ratings up to 80 inches and total weight capacity figures across the lineup."
   },
   {
-    "title": "",
+    "title": "Design Aesthetic Variety",
     "description": "Noted the range of styles available, from classic farmhouse to modern low-profile to mid-century, at this price point."
   },
   {

@@ -61,51 +61,51 @@ export const heroImage = "https://m.media-amazon.com/images/I/317SFfkvt1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you need most",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Real-time power monitoring and 2.5G speed",
           "5G BT 60W PoE++ Injector"
         ],
         [
-          "",
-          ""
+          "UL certification",
+          "Omada PoE++ Injector 60W"
         ],
         [
-          "",
+          "Durable metal housing",
           "Cudy 60W Gigabit PoE++ Injector"
         ],
         [
-          "",
+          "Lowest price, multi-unit deployment",
           "BV-Tech 60W Gigabit PoE++ Injector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $23",
+          "BV-Tech 60W Gigabit PoE++ Injector ($22.49)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "Cudy 60W Gigabit PoE++ Injector ($39.99)"
         ],
         [
-          "",
-          ""
+          "Under $46",
+          "Omada POE170S or LINOVISION 2.5G (both under $46)"
         ]
       ]
     }
@@ -114,26 +114,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "5G at the 60W Tier",
     "cards": [
       {
-        "label": "",
+        "label": "Gigabit (Omada, Cudy, BV-Tech)",
         "text": "Covers the bandwidth needs of most PTZ cameras and standard access points at this power tier without a price premium for unused speed."
       },
       {
-        "label": "",
+        "label": "2.5G (LINOVISION)",
         "text": "Matches newer Wi-Fi 6E and Wi-Fi 7 access points that can exceed Gigabit throughput, worth the modest premium if your network backbone supports it."
       }
     ],
     "note": "5G speed your device or network can't use."
   },
   {
-    "subheading": "",
+    "subheading": "By Deployment Scale",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your deployment",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single unit, feature-rich",
           "5G BT 60W PoE++ Injector"
         ],
         [
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wi-Fi 6 or 6E Access Point Deployment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "3bt compliance at the full 60W tier plus port speed matching the access point's actual throughput capability, since some Wi-Fi 6E APs can exceed Gigabit speeds under heavy load."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5G port speed specifically accommodates high-bandwidth Wi-Fi 6/6E access points that a Gigabit-capped injector would bottleneck."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want live power monitoring or UL certification, where the LINOVISION or Omada picks near $45 justify the price with a genuine feature or certification difference."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "49 price and interlocking design fit that need well."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "802.3bt Compliance Verification",
     "description": "3bt compliance for the 60W tier rather than just a wattage headline."
   },
   {
-    "title": "",
+    "title": "Port Speed",
     "description": "5G multi-gigabit port speeds at the 60W tier."
   },
   {
-    "title": "",
+    "title": "Power Monitoring Features",
     "description": "Compared listings offering a real-time power display against a simple status LED."
   },
   {
-    "title": "",
+    "title": "Certification",
     "description": "Compared UL certification and stated warranty length across listings."
   },
   {
-    "title": "",
+    "title": "Build and Deployment Design",
     "description": "Compared housing material and multi-unit deployment features like interlocking designs."
   }
 ];

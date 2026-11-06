@@ -53,48 +53,48 @@ export const heroImage = "https://m.media-amazon.com/images/I/41BE3lVftQL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Filtration Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Certified True HEPA",
+          "Air Purifiers for Bedroom"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Levoit Air Purifiers for Bedroom Home Pets Dorm Room"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $25",
+          "Air Purifiers for Bedroom"
         ],
         [
-          "",
+          "Up to $50",
           "Levoit Air Purifiers for Bedroom Home Pets Dorm Room"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Air Purifiers for Bedroom",
         "text": "The lower-priced option in this comparison, worth checking its filtration type against your actual concern."
       },
       {
@@ -105,19 +105,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Air Purifiers for Bedroom unless your room size or air-quality concern calls for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Certified HEPA Filtration",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Certified True HEPA needed",
+          "Air Purifiers for Bedroom"
         ],
         [
-          "",
+          "Basic filtration is enough",
           "VOOPNU Air Purifiers for Home"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Allergies or Pet Dander Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Certified True HEPA filtration with an H13 or higher rating, sized for a room at least as large as where it'll actually run."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Air Purifiers for Bedroom discloses certified True HEPA filtration."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real odor, VOC, or large-room coverage, where Levoit Air Purifiers for Bedroom Home Pets Dorm Room's higher price buys real filtration or CADR headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're covering a small space with a basic dust or allergen concern, where Air Purifiers for Bedroom covers the same job at a lower price."
       }
     ]

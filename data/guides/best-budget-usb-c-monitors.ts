@@ -56,69 +56,69 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "ViewSonic VA2448"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "ViewSonic VA2448"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $80",
+          "Samsung 22\""
         ],
         [
-          "",
-          ""
+          "Up to $230",
+          "Dell S2722DC Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Curved vs Flat Panel",
     "cards": [
       {
-        "label": "",
+        "label": "Curved panel",
         "text": "More immersive for wide-format content, worth it for an ultrawide setup. In this comparison: SANSUI Curved Monitor 27 inch 120Hz USB Type."
       },
       {
-        "label": "",
+        "label": "Flat panel",
         "text": "Simpler and usually cheaper, better for precise on-screen work like design or spreadsheets. In this comparison: ViewSonic VA2448, Samsung 22\", ViewSonic VX2416A 24 Inch 1080p Gaming Monitor, Dell S2722DC Monitor."
       }
     ],
     "note": "Default to a flat panel unless you specifically want the immersive feel of a curve."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 27-inch panel",
           "SANSUI Curved Monitor 27 inch 120Hz USB Type"
         ],
         [
-          "",
-          ""
+          "Around 27-inch panel",
+          "Dell S2722DC Monitor"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a MacBook or Mac Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed DisplayPort Alt Mode support and a power delivery wattage matched to your MacBook's charging brick wattage."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since PD wattage isn't consistently disclosed across every monitor in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want full single-cable charging, sharper resolution, or built-in hub ports, where Dell S2722DC Monitor's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You already have a separate charger and just need a display, where Samsung 22\" covers the same job at a lower price."
       }
     ]

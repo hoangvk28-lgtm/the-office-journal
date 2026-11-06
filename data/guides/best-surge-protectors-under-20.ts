@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/413IXwsIORL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,20 +87,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $18",
+          "TLP606B ($17.49)"
         ],
         [
-          "",
-          ""
+          "Under $20",
+          "GE All-in-One ($19.59), Amazon Basics ($19.83), or SK6-0B ($19.99)"
         ]
       ]
     }
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your devices cluster right at the wall, a cordless wall tap keeps things tidy. If you need to reach a desk or entertainment center set back from the outlet, a corded design is necessary."
   },
   {
-    "subheading": "",
+    "subheading": "By Joule Rating Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your protection priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Maximum raw protection capacity",
+          "Amazon Basics (4000J)"
         ],
         [
           "Solid protection with dual certification",
@@ -137,7 +137,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Basic protection in a cordless design",
-          ""
+          "SK6-0B (540J)"
         ]
       ]
     }
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Kitchen Counter Charging Station Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A cordless wall tap with built-in USB ports so phones and tablets can charge directly without extra cable clutter on the counter."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The GE All-in-One's built-in USB-C and USB-A ports make it specifically suited to this kitchen counter use case."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the most outlets, USB charging, and the highest documented warranty, where the GE All-in-One delivers all three in one wall tap."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want dual UL certification and a lifetime warranty without USB ports, where the TLP606B covers that for about $2 less."
       }
     ]
@@ -172,11 +172,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Joule Surge Protection Rating",
     "description": "Compared stated joule ratings across corded strips and cordless wall tap designs."
   },
   {
-    "title": "",
+    "title": "UL Certification Depth",
     "description": "Checked whether each pick cites single or dual UL certification standards."
   },
   {
@@ -184,11 +184,11 @@ export const howWeEvaluated = [
     "description": "Compared total outlet count and whether USB charging ports are built directly into the design."
   },
   {
-    "title": "",
+    "title": "Connected Equipment Warranty",
     "description": "Compared documented warranty coverage amounts across the lineup."
   },
   {
-    "title": "",
+    "title": "Cord vs Cordless Design",
     "description": "Distinguished corded strips that reach across a room from direct-plug wall taps requiring no cord."
   }
 ];

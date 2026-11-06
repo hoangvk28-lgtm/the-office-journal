@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51S4xSPgfiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "4 Pack Stackable Paper Trays for Letter Documents"
         ],
         [
-          "",
+          "Several distinct categories",
           "DALTACK 3 Tier Paper Organizer for Desk"
         ],
         [
-          "",
+          "High document volume",
           "4E's Novelty 6 Colorful Plastic Trays for Teachers"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "4 Pack Stackable Paper Trays for Letter Documents"
         ],
         [
-          "",
+          "Mid-range pick",
           "Mind Reader Stackable Paper Tray"
         ],
         [
-          "",
+          "Higher budget",
           "4E's Novelty 6 Colorful Plastic Trays for Teachers"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "4 Pack Stackable Paper Trays for Letter Documents)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "DALTACK 3 Tier Paper Organizer for Desk"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "DALTACK 3 Tier Paper Organizer for Desk is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 4E's Novelty 6 Colorful Plastic Trays for Teachers justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 4 Pack Stackable Paper Trays for Letter Documents already covers the job at the lowest price here."
       }
     ]

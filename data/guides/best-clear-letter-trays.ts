@@ -61,76 +61,76 @@ export const heroImage = "https://m.media-amazon.com/images/I/510gCmYcuDL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Just 2-3 categories",
+          "IDesign Clear Drawer Organizer"
         ],
         [
-          "",
-          ""
+          "Several distinct categories",
+          "Tiawudi Desk Organizer"
         ],
         [
-          "",
+          "High document volume",
           "NUOGIC 4-Tier Paper Organizer Desk Organizer Acrylic Paper Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "IDesign Clear Drawer Organizer"
         ],
         [
-          "",
+          "Mid-range pick",
           "DCA 2 Tier Desk Organizer"
         ],
         [
-          "",
+          "Higher budget",
           "NUOGIC 4-Tier Paper Organizer Desk Organizer Acrylic Paper Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
-        "label": "",
+        "label": "Wire mesh (e.g. iDesign Clear Drawer Organizer)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Limited desk depth",
+          "Tiawudi Desk Organizer"
         ],
         [
           "Room for a taller multi-tier tray",
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Tiawudi Desk Organizer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where NUOGIC 4-Tier Paper Organizer Desk Organizer Acrylic Paper Tray justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where iDesign Clear Drawer Organizer already covers the job at the lowest price here."
       }
     ]

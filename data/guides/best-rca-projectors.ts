@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/21sp8iWT99L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fully dark, dedicated room",
           "RCA 720P Home Theater Projector"
         ],
         [
-          "",
+          "Some ambient light",
           "RCA 1080P Smart Streaming Mini Projector intended for Roku Express Streaming"
         ],
         [
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -92,11 +92,11 @@ export const howToChoose: HowToChooseSection[] = [
           "RCA RPJ136 Home Theater Projector"
         ],
         [
-          "",
+          "Mid-range pick",
           "RCA 1080P Smart Streaming Mini Projector intended for Roku Express Streaming"
         ],
         [
-          "",
+          "Higher budget",
           "Aurzen Roku TV D1R Smart Portable Outdoor Projector with WiFi and Bluetooth"
         ]
       ]
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most casual, weekly-use buyers should default to a lamp-based pick unless they'll run it daily, where laser's near-zero maintenance pays for itself over a few years."
   },
   {
-    "subheading": "",
+    "subheading": "By Throw Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "RCA 720P Home Theater Projector is worth checking against its documented native contrast figures before assuming any headline contrast number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want laser reliability and top-tier brightness, where Aurzen Roku TV D1R Smart Portable Outdoor Projector with WiFi and Bluetooth justifies the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want casual, occasional use, where RCA RPJ136 Home Theater Projector already covers the job at the lowest price here."
       }
     ]

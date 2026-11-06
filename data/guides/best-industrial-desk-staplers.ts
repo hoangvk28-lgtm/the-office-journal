@@ -40,7 +40,7 @@ export const faq = [
     "a": "Only for high-volume stapling or if hand strength is a concern, electric staplers depend on battery charge or a power outlet, a manual stapler works reliably regardless of power availability."
   },
   {
-    "q": "",
+    "q": "Are electric staplers loud?",
     "a": "They produce a distinct motor click or whir each time they fire, check reviews specifically for noise complaints if you'll use it near coworkers in a quiet shared office."
   },
   {
@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/311XScRbzJL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Stack Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light, a few sheets",
+          "Metal Stapler Heavy Duty"
         ],
         [
-          "",
+          "A regular office stack",
           "Amazon Basics Heavy-Duty Desktop Stapler"
         ],
         [
-          "",
+          "Consistently thick stacks",
           "Amazon Basics Heavy Duty Industrial Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Metal Stapler Heavy Duty"
         ],
         [
-          "",
+          "Mid-range pick",
           "Better Office Products Heavy Duty Commercial Stapler with 2,000 Staples"
         ],
         [
-          "",
+          "Higher budget",
           "Amazon Basics Heavy Duty Industrial Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Manual vs Electric",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (e.g. Metal Stapler Heavy Duty)",
         "text": "No power dependency, reliable for any volume."
       },
       {
-        "label": "",
+        "label": "Electric",
         "text": "Reduces hand strain at high volume, depends on charge or power."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Staple Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 26/6 staples",
           "Amazon Basics Heavy-Duty Desktop Stapler"
         ],
         [
-          "",
+          "A specific alternate size",
           "Better Office Products Heavy Duty Commercial Stapler with 2,000 Staples"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Center-of-Document Stapling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A deep throat depth spec, not just a standard corner-reach stapler."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Amazon Basics Heavy-Duty Desktop Stapler is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Amazon Basics Heavy Duty Industrial Stapler justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Metal Stapler Heavy Duty already covers the job at the lowest price here."
       }
     ]

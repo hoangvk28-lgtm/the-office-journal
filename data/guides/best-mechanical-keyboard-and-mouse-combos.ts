@@ -60,79 +60,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Le3Kt7hgL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Switch Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Logitech POP Keys + POP Mouse Wireless Keyboard and Bluetooth Mouse Combo"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $23",
           "Logitech MK250 Bluetooth Wireless Keyboard and Mouse Combo"
         ],
         [
-          "",
+          "Up to $200",
           "Logitech MX Keys S Combo Performance Wireless Keyboard and Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wireless vs Wired Connection",
     "cards": [
       {
-        "label": "",
+        "label": "Wireless",
         "text": "4GHz dongle option beyond just Bluetooth. In this comparison: Logitech POP Keys + POP Mouse Wireless Keyboard and Bluetooth Mouse Combo, Logitech MX Keys S Combo Performance Wireless Keyboard and Mouse, Logitech MK540 Full Size Advanced Wireless Keyboard and Mouse Combo, Logitech MK295 Full Size Silent Wireless Keyboard Mouse Combo, Logitech MK250 Bluetooth Wireless Keyboard and Mouse Combo, Logitech MK270 Full Size Wireless Keyboard and Mouse Combo."
       },
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, the safer choice for competitive gaming. In this comparison: Redragon K668 RGB Gaming Keyboard, Redragon Mechanical Gaming Keyboard."
       }
     ],
     "note": "Default to wired if competitive gaming latency matters, wireless for general typing and office use."
   },
   {
-    "subheading": "",
+    "subheading": "By Keycap Material",
     "note": "Check each pick's listed keycap material (PBT vs ABS) against how long you plan to use it daily before buying, since PBT resists shine and wear better over years."
   },
   {
     "subheading": "For Shared Office or Video Call Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Linear or tactile switches rather than clicky ones, to avoid disruptive noise on calls or in a shared space."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Logitech POP Keys + POP Mouse Wireless Keyboard and Bluetooth Mouse Combo is worth checking against its listed switch type before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want hot-swappable switches and premium PBT keycaps for years of daily use, where Logitech MX Keys S Combo Performance Wireless Keyboard and Mouse's build quality gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want to try the mechanical feel without a big investment, where Logitech MK250 Bluetooth Wireless Keyboard and Mouse Combo covers the same job at a lower price."
       }
     ]
@@ -141,11 +141,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Switch type honesty",
     "description": "Verified each keyboard's actual switch technology against its listing, since most keyboards marketed as combos use membrane or scissor switches rather than genuine mechanical ones."
   },
   {
-    "title": "",
+    "title": "Mouse inclusion and specs",
     "description": "Checked whether a mouse was actually bundled in the current listing and, when specs were available, compared DPI range, button count, and connection type rather than assuming a matched mouse was equally capable."
   },
   {
@@ -153,11 +153,11 @@ export const howWeEvaluated = [
     "description": "Noted whether the keyboard and mouse share a single USB receiver, need two, or run over Bluetooth, since port availability is a real constraint on laptops."
   },
   {
-    "title": "",
+    "title": "Noise level",
     "description": "Weighed keyboard and mouse click loudness for shared and open-plan office use, since quiet clicks matter as much as mechanical feel for many office buyers."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Compared build quality, features, and switch type against price, from a budget membrane combo to a premium performance combo."
   }
 ];

@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41zm8EM48CL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tower Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tower",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small/mini-ITX case",
           "HOOBRO PC Stand, 2-Tier PC Tower Stand Fits Most Computer Towers, CPU Holder"
         ],
         [
-          "",
+          "Standard mid-tower",
           "TIFFLOI Computer Tower Stand / PC Tower Stand with Wheels"
         ],
         [
-          "",
+          "Large full-tower",
           "HOOBRO PC Stand, 2-Tier PC Tower Stand Fits Most Computer Towers, CPU Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "HOOBRO PC Stand, 2-Tier PC Tower Stand Fits Most Computer Towers, CPU Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "ZIIWIND Adjustable 2-Tier PC Stand"
         ],
         [
-          "",
+          "Higher budget",
           "HOOBRO PC Stand, 2-Tier PC Tower Stand Fits Most Computer Towers, CPU Holder"
         ]
       ]
@@ -113,26 +113,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Easy to reposition for cleaning or cable access, needs floor space."
       },
       {
-        "label": "",
+        "label": "Fixed/hanging",
         "text": "Frees floor space but commits the tower to one spot."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Floor caddy on carpet",
           "TIFFLOI Computer Tower Stand / PC Tower Stand with Wheels"
         ],
         [
-          "",
+          "Under-desk hanging mount",
           "ZIIWIND Adjustable 2-Tier PC Stand"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy Full-Tower PC Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weight capacity rated comfortably above your tower's actual weight, with a solid steel frame."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TIFFLOI Computer Tower Stand / PC Tower Stand with Wheels is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where HOOBRO PC Stand, 2-Tier PC Tower Stand Fits Most Computer Towers, CPU Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where HOOBRO PC Stand, 2-Tier PC Tower Stand Fits Most Computer Towers, CPU Holder already covers the job at the lowest price here."
       }
     ]

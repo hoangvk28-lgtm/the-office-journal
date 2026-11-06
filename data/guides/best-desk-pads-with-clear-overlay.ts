@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/31mdoJRwrbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Surface Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Soft feel for typing",
           "Eisdroma 14 x 24 Inch Clear Table Cover Protector"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Artistic Logo Pad Engineering Desk Mat Pad for Desktop Organization & Document"
         ],
         [
-          "",
+          "Wipeable, polished look",
           "Lift-Top Pad Desktop Organizer with Clear Overlay"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Eisdroma 14 x 24 Inch Clear Table Cover Protector"
         ],
         [
-          "",
+          "Mid-range pick",
           "Oterri Clear Writing Desk Pad"
         ],
         [
-          "",
+          "Higher budget",
           "Lift-Top Pad Desktop Organizer with Clear Overlay"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Leather",
     "cards": [
       {
         "label": "Eisdroma 14 x 24 Inch Clear Table Cover Protector)",
@@ -120,19 +120,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how much coffee and food realistically ends up near your desk."
   },
   {
-    "subheading": "",
+    "subheading": "By Setup Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single keyboard and mouse",
           "Artistic Logo Pad Engineering Desk Mat Pad for Desktop Organization & Document"
         ],
         [
-          "",
+          "Dual monitor, wider setup",
           "Check for extra-large or extended sizing"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reinforced or stitched edges to resist curling and fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Artistic Logo Pad Engineering Desk Mat Pad for Desktop Organization & Document is worth checking against its specific edge construction before assuming any desk pad holds up the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a wipeable, longer-lasting surface with a more polished look, where Lift-Top Pad Desktop Organizer with Clear Overlay justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward daily protection and comfort, where Eisdroma 14 x 24 Inch Clear Table Cover Protector already covers the job at the lowest price here."
       }
     ]

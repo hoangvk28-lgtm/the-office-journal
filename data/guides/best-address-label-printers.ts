@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Dpi-faq",
     "q": "Do I need 300 DPI or is 203 DPI enough?",
     "a": "203 DPI is fine for large simple shipping labels, but if your labels include small text, fine barcodes, or 2D codes, 300 DPI produces noticeably crisper results worth the price difference."
   },
   {
-    "id": "",
+    "id": "Width-faq",
     "q": "Will a label printer handle labels wider than shipping labels?",
     "a": "Only up to its stated maximum width, a printer rated for 4-inch shipping labels physically cannot print wider, check the max width spec against your actual intended label size, not just the shipping use case shown in marketing."
   },
   {
-    "id": "",
+    "id": "Sensor-faq",
     "q": "Can I use any label stock with any label printer?",
     "a": "No, printers use either a gap sensor for die-cut labels or a black-mark sensor for continuous stock, using the wrong label type for your printer's sensor causes alignment problems, check compatibility before buying label stock separately."
   },
   {
-    "id": "",
+    "id": "Thermal-faq",
     "q": "What's the difference between direct thermal and thermal transfer label printers?",
     "a": "Direct thermal burns the image into heat-sensitive paper with no ink, cheaper to run but labels fade within months, thermal transfer melts a ribbon onto standard stock for labels that last years but costs more per label due to the ribbon."
   },
   {
-    "id": "",
+    "id": "Ribbon-faq",
     "q": "Why does a thermal transfer printer cost more to run over time?",
     "a": "It needs a fresh ribbon roughly proportional to your print volume, a real recurring cost direct thermal printers don't have, factor this into your actual cost per label before choosing thermal transfer purely for label longevity."
   },
   {
-    "id": "",
+    "id": "Cutter-faq",
     "q": "Is an automatic cutter worth paying extra for?",
     "a": "Only if you're printing at real volume, a cutter saves time on dozens of labels a day but adds a mechanical part that can jam or dull, a tear-bar design has nothing to fail but is slower at high volume."
   }
@@ -67,15 +67,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/4136vgjZ0+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light printing",
           "FungLam 1\" x 2-5/8\" Shipping Address Labels 900 Label Stickers Paper"
         ],
         [
@@ -83,18 +83,18 @@ export const howToChoose: HowToChooseSection[] = [
           "DYMO LabelWriter 550 Series Label Printer with Dymo-Branded Label Compatibility"
         ],
         [
-          "",
+          "High-volume daily printing",
           "Ponek Label Maker Machine with Tape"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
           "FungLam 1\" x 2-5/8\" Shipping Address Labels 900 Label Stickers Paper"
         ],
         [
-          "",
+          "Mid-range pick",
           "Brother QL-600 Desktop Monochrome Label Printer"
         ],
         [
-          "",
+          "Higher budget",
           "Ponek Label Maker Machine with Tape"
         ]
       ]
@@ -120,22 +120,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Lower running cost, labels fade within months."
       },
       {
-        "label": "",
+        "label": "Thermal transfer",
         "text": "Costs more per label with ribbon, labels last years."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Connectivity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fixed desk spot",
           "DYMO LabelWriter 550 Series Label Printer with Dymo-Branded Label Compatibility"
         ],
         [
@@ -146,27 +146,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Shipping Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic cutter and larger roll capacity rather than a compact desktop model stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "DYMO LabelWriter 550 Series Label Printer with Dymo-Branded Label Compatibility is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Ponek Label Maker Machine with Tape justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where FungLam 1\" x 2-5/8\" Shipping Address Labels 900 Label Stickers Paper already covers the job at the lowest price here."
       }
     ]

@@ -36,8 +36,8 @@ export const faq = [
     "a": "Yes, the Digital Alarm Clock with 10 Color Changing LED options, the only color-changing pick in this comparison."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The Netzu 3-in-1 Digital Clock at $11.99."
   },
   {
     "q": "Which is best for reading from across a room?",
@@ -57,15 +57,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/31xwXNHjTaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Movement Type",
     "table": {
       "headers": [
-        "",
+        "What you want",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "A quiet, non-ticking movement",
           "DreamSky Small Digital Alarm Clock for Bedroom"
         ],
         [
@@ -80,37 +80,37 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $12",
           "Netzu 3-in-1 Digital Clocks for Living Room"
         ],
         [
-          "",
+          "Mid-range",
           "Odokee Digital Alarm Clocks for Bedrooms: Easy to Read Across The Room"
         ],
         [
           "No firm budget ceiling, prioritizing material or brand",
-          ""
+          "Digital Alarm Clock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs Corded",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-Powered",
         "text": "Runs on batteries alone, so it can sit anywhere on a desk or shelf with no cord in the way, at the cost of an eventual battery swap. In this comparison: DreamSky Small Digital Alarm Clock for Bedroom, DreamSky Small Digital Alarm Clock for Bedroom with Large Big Numbers, Digital Alarm Clock."
       },
       {
-        "label": "",
+        "label": "Corded (Plug-In)",
         "text": "Draws continuous power from a wall outlet, often adding features like USB charging ports or a battery backup for outages, but it has to sit within cord length of a plug. In this comparison: none in this specific roundup, since most picks here are battery powered."
       }
     ],
@@ -120,12 +120,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Purpose: Everyday Use vs Gift",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your purpose",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday functional desk use",
           "DreamSky Small Digital Alarm Clock for Bedroom"
         ],
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buying as a Gift Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine material language, such as hand carved, real marble, or real crystal, rather than a marble-look or crystal-look plastic finish, plus a stated production or engraving lead time if personalization is involved."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Netzu 3-in-1 Digital Clocks for Living Room fits this specifically: Cheapest option in this comparison. That's the kind of detail that signals a deliberate gift rather than a purely functional purchase."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Digital Alarm Clock offers: Only color-changing illumination option in this comparison. That's a real material or craftsmanship upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Netzu 3-in-1 Digital Clocks for Living Room already covers the essentials: Cheapest option in this comparison. The main thing you'd be paying extra for elsewhere in this list is styling rather than function."
       }
     ]
@@ -165,7 +165,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Required practical, readability-focused illumination",
     "description": "We favored products with confirmed large or across-the-room-readable illuminated displays, not just decorative glow."
   },
   {
@@ -173,12 +173,12 @@ export const howWeEvaluated = [
     "description": "We noted the one product with true color-changing illumination as a distinct mood-lighting option beyond basic readability."
   },
   {
-    "title": "",
+    "title": "Near-identical listings flagged directly",
     "description": "Two DreamSky listings share identical review data at different prices, we noted this rather than treating them as distinct products."
   },
   {
     "title": "Review volume and rating together",
-    "description": ""
+    "description": "We weighted both metrics, with the top pick's massive 29,253-review base being particularly strong evidence."
   }
 ];
 

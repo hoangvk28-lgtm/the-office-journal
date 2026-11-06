@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/51QkELL-KFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,19 +76,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $21",
           "AIMIUZI Laptop Cooling Pad Laptop Cooler Stand"
         ],
         [
-          "",
+          "Mid-range",
           "Trullypine Laptop Cooling Pad with 12 Quiet Fans"
         ],
         [
@@ -102,27 +102,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: llano V12 Gaming Laptop Cooling Pad Laptop Cooler Laptop Cooling Fan Stand."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: Trullypine Laptop Cooling Pad with 12 Quiet Fans."
       }
     ],
     "note": "Most buyers should default to a slim pick like llano V12 Gaming Laptop Cooling Pad Laptop Cooler Laptop Cooling Fan Stand for everyday portability, and only step up to Trullypine Laptop Cooling Pad with 12 Quiet Fans's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Most ergonomic height adjustment range",
-          ""
+          "LIANGSTAR Laptop Cooling Pad"
         ],
         [
           "Simplest setup, fewer adjustments to fuss with",
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what llano V12 Gaming Laptop Cooling Pad Laptop Cooler Laptop Cooling Fan Stand offers: Single large fan design paired with a documented temperature reduction. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "AIMIUZI Laptop Cooling Pad Laptop Cooler Stand already covers the essentials: Mixed fan sizing targets center-heavy CPU heat specifically. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -165,11 +165,11 @@ export const howWeEvaluated = [
     "description": "We compared actual fan count, size, and layout since nearly every pad in this category includes a fan, presence alone is not a meaningful differentiator."
   },
   {
-    "title": "",
+    "title": "Speed control granularity",
     "description": "We noted whether each pad offers staged modes, independent zones, a stepless dial, or a single fixed speed, since control flexibility affects real-world usefulness."
   },
   {
-    "title": "",
+    "title": "Noise evidence",
     "description": "We prioritized pads with a specific stated DBA figure over vague 'quiet' marketing language."
   },
   {

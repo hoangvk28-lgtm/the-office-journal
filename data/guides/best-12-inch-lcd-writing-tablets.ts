@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "12in Rechargeable LCD Writing Tablet"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "12in Rechargeable LCD Writing Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "AYIYAKE 2 Pack LCD Writing Tablet for Kids Doodle Board 12-Inch"
         ],
         [
-          "",
+          "Mid-range",
           "Hockvill LCD Writing Tablet for Kids 12 Inch"
         ],
         [
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Kids-Marketed vs Adult-Marketed",
     "cards": [
       {
-        "label": "",
+        "label": "Kids-Marketed",
         "text": "Bright colors and character branding, often the same core technology as adult versions at a similar or lower price. In this comparison: Mafiti LCD Writing Tablet 12 Inch Electronic Writing Drawing Pads Doodle Board for Kids Birthday Gifts Toys for Boys Girls Age 3 4 5 6 7 8 Year Old Red, KOKODI 12 Inch LCD Writing Tablet with Anti-Lost Stylus, AYIYAKE 2 Pack LCD Writing Tablet for Kids Doodle Board 12-Inch."
       },
       {
-        "label": "",
+        "label": "Adult-Marketed",
         "text": "Neutral styling suited to an office desk, sometimes at a price premium for the plainer look alone. In this comparison: KOKODI 12 Inch LCD Writing Tablet with Anti-Lost Stylus."
       }
     ],
@@ -112,39 +112,39 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "With Memory Lock vs Basic Erase",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simplest single-button design",
           "12in Rechargeable LCD Writing Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Gift-Giving Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear age-range marketing if buying for a specific child, genuine screen size (not just overall unit size), and a replaceable coin-cell battery for the longest useful life."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Mafiti LCD Writing Tablet 12 Inch Electronic Writing Drawing Pads Doodle Board for Kids Birthday Gifts Toys for Boys Girls Age 3 4 5 6 7 8 Year Old Red fits this specifically: Large 12 inch screen at a budget price."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what 12in Rechargeable LCD Writing Tablet offers: rechargeable via Type-C, no battery swaps. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "AYIYAKE 2 Pack LCD Writing Tablet for Kids Doodle Board 12-Inch already covers the essentials: Only 12 inch 2-pack available, strong per-unit value. The main thing you'd be paying extra for elsewhere in this list is styling or accessories you may not need."
       }
     ]

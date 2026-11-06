@@ -37,7 +37,7 @@ export const faq = [
   },
   {
     "q": "Is the Fiberglass 80in pick worth it over the cheaper Wootfairy 100in option?",
-    "a": ""
+    "a": "If you specifically want a stated 1.2 gain rating with fiberglass construction for 4K reproduction, yes, but if maximum viewing area at the same price matters more, the Wootfairy pick delivers 100 inches for the same $69.99."
   },
   {
     "q": "How do I know if the Aluminium Frame pick's 60 inch size is large enough for my room?",
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41hJfdMVTyL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,7 +74,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Genuine fiberglass construction with a stated gain rating",
-          ""
+          "Projector Screen with Stand, 80 Inch, 1.2 Gain Fiberglass"
         ],
         [
           "The largest viewing area at this price point",
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $65",
+          "Pyle 40-Inch ($64.99)"
         ],
         [
-          "",
-          ""
+          "Under $70",
+          "Fiberglass 80in ($69.99) or Wootfairy 100in ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $80",
+          "Aluminium Frame 60in ($77.86)"
         ]
       ]
     }
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Larger Size vs Higher Gain Rating",
     "cards": [
       {
-        "label": "",
+        "label": "Larger size (Wootfairy 100in)",
         "text": "Prioritizes maximum viewing area, without a specifically stated gain rating."
       },
       {
@@ -125,20 +125,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If maximum screen size for your room is the priority, the Wootfairy pick delivers that. If you want a specific, verified gain rating for image quality confidence, the fiberglass or aluminum-framed picks provide that at smaller sizes."
   },
   {
-    "subheading": "",
+    "subheading": "By Aspect Ratio Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your primary use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Movies and widescreen content",
           "Fiberglass 80in, Wootfairy 100in, or Aluminium Frame 60in (16:9)"
         ],
         [
-          "",
-          ""
+          "Presentations and classroom use",
+          "Pyle 40-Inch (4:3)"
         ]
       ]
     }
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Buyer Specifically Comparing Gain Ratings Across Screens Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "2 gain) stated in the listing, since gain directly affects brightness and viewing angle tradeoffs in a checkable way that generic quality claims don't."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "2 gain rating gives you a specific, comparable figure that the Wootfairy and Pyle picks don't provide in their listings."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the lightest, most portable screen with a stated high gain rating, where the Aluminium Frame pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want an established brand with precise alignment features without needing a large diagonal size, where the Pyle 40-Inch pick covers that for about $13 less."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Gain Rating and Material",
     "description": "Compared stated gain figures and frame material, fiberglass versus polyester, across the lineup."
   },
   {
-    "title": "",
+    "title": "Stand Weight and Portability",
     "description": "Compared stand weight and setup time across all four picks."
   },
   {
-    "title": "",
+    "title": "Viewing Area Size",
     "description": "Compared diagonal size and aspect ratio suited to different use cases."
   },
   {
-    "title": "",
+    "title": "Image Alignment Features",
     "description": "Checked for masking borders and other alignment-focused design details."
   },
   {
-    "title": "",
+    "title": "Brand Track Record",
     "description": "Checked for established brand presence in the projector accessory category."
   }
 ];

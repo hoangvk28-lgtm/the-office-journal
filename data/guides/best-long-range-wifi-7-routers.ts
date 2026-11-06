@@ -53,68 +53,68 @@ export const heroImage = "https://m.media-amazon.com/images/I/41u8VJ6j2gL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Band Configuration",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Genuine tri-band with 6GHz radio",
-          ""
+          "TP"
         ],
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "Amazon eero 7 Dual"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $87",
+          "TP"
         ],
         [
-          "",
-          ""
+          "Up to $350",
+          "Amazon eero 7 Dual"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "TP",
         "text": "The lower-priced option in this comparison, worth checking its band configuration against your actual needs."
       },
       {
-        "label": "",
+        "label": "Amazon eero 7 Dual",
         "text": "The higher-priced option, worth it if it offers real coverage or port-speed headroom above the cheaper pick."
       }
     ],
     "note": "Default to TP unless your setup calls for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Wired Port Speed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "2.5GbE port available",
+          "TP"
         ]
       ]
     }
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fiber Internet Plan Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A WAN port speed matched to or exceeding your actual fiber plan's rated speed, not just a fast LAN port for local devices."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Amazon eero 7 Dual is worth checking against its listed WAN port speed before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a fast fiber plan, run a NAS, or need mesh coverage, where Amazon eero 7 Dual's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your internet plan tops out at standard gigabit, where TP covers the same job at a lower price."
       }
     ]

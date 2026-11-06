@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HP DeskJet 4355 Wireless All"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HP DeskJet 4355 Wireless All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $64",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ],
         [
-          "",
-          ""
+          "Up to $210",
+          "Brother DCP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Printing",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex (auto two-sided)",
         "text": "Prints both sides automatically, saves paper and time for double-sided documents. In this comparison: Canon PIXMA TS4320 Wireless Color Inkjet Printer, Canon PIXMA TS6520 Wireless Color Inkjet Printer, HP OfficeJet Pro 8125e Wireless All, Brother DCP, HP OfficeJet Pro 8125 Wireless All."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if you rarely need double-sided printing. In this comparison: HP DeskJet 4355 Wireless All, Canon PIXMA TR4720 All, Epson EcoTank ET."
       }
     ],
     "note": "Default to duplex unless you're confident your printing is mostly single-sided."
   },
   {
-    "subheading": "",
+    "subheading": "By Scan Resolution",
     "note": "Check each pick's listed optical scan resolution in DPI against how you'll actually use scanning before buying, not just print specs."
   },
   {
     "subheading": "For Scanning Contracts or Receipts Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed optical scan resolution in DPI high enough to keep fine print legible, not just the printer's overall feature list."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HP DeskJet 4355 Wireless All is worth checking against its listed scan resolution before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You print regularly at moderate to high volume, where Brother DCP's duty cycle and cost-per-page give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only print occasionally at low volume, where Canon PIXMA TS4320 Wireless Color Inkjet Printer covers the same job at a lower price."
       }
     ]
@@ -146,23 +146,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Setup method dependency",
     "description": "Checked whether setup requires a WPS button or works entirely through a guided app flow, since many mesh routers like Eero and Google Nest WiFi don't have a WPS button at all."
   },
   {
-    "title": "",
+    "title": "Brand-level offline complaint pattern",
     "description": "Weighed documented brand tendencies for a printer dropping off the network after sleep mode, HP shows this pattern more often than Brother or Epson based on widely reported user experience."
   },
   {
-    "title": "",
+    "title": "WiFi Direct vs. network WiFi clarity",
     "description": "Distinguished printers offering a direct phone-to-printer hotspot connection from those requiring both devices to join the same router network, since these solve different connectivity situations."
   },
   {
-    "title": "",
+    "title": "5GHz vs. 2.4GHz realistic range",
     "description": "Assessed whether dual-band support is a genuine benefit given typical home office layouts, since 5GHz trades range and wall penetration for speed and only helps at close range."
   },
   {
-    "title": "",
+    "title": "MacOS-specific stability reputation",
     "description": "Factored in brand-level Mac compatibility reputation, since printer-goes-offline complaints on macOS specifically skew toward HP more than Brother or Canon based on widely reported patterns."
   }
 ];

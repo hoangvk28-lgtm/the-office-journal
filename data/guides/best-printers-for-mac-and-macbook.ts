@@ -60,36 +60,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Brother DCP"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Brother DCP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $69",
+          "Canon PIXMA TR4720 All"
         ],
         [
-          "",
-          ""
+          "Up to $210",
+          "Brother DCP"
         ]
       ]
     }
@@ -98,27 +98,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Canon PIXMA TR4720 All vs Brother DCP",
     "cards": [
       {
-        "label": "",
+        "label": "Canon PIXMA TR4720 All",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Brother DCP",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Canon PIXMA TR4720 All unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Brother DCP"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Brother DCP is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Brother DCP's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon PIXMA TR4720 All covers the same job at a lower price."
       }
     ]
@@ -153,7 +153,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "AirPrint compatibility",
     "description": "Checked whether each printer supports AirPrint, macOS's built-in driverless printing standard, since that's the actual technical requirement for a printer to work with a Mac without extra software."
   },
   {
@@ -161,15 +161,15 @@ export const howWeEvaluated = [
     "description": "Noted whether the manufacturer offers a full macOS driver download for buyers who want more detailed print settings, ink monitoring, or maintenance tools than AirPrint alone exposes."
   },
   {
-    "title": "",
+    "title": "Apple Silicon driver compatibility",
     "description": "Flagged where confirming current driver support on M-series MacBooks is worth double-checking directly with the manufacturer, since older printer models have sometimes lagged on updated Apple Silicon drivers."
   },
   {
-    "title": "",
+    "title": "Brand-specific macOS reliability signals",
     "description": "Weighed publicly reported macOS offline or connectivity dropout patterns by brand, noting where one manufacturer has more reported issues on macOS forums than competitors."
   },
   {
-    "title": "",
+    "title": "Honest certification framing",
     "description": "Avoided claiming any of these printers are explicitly \"Mac-certified\" since most listings market general wireless or AirPrint support rather than a formal Mac certification label."
   }
 ];

@@ -64,31 +64,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Much You Need to Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, everyday items",
           "DTK 3 Tier Rolling Utility Cart with Cover Top Board"
         ],
         [
-          "",
+          "Standard mixed storage",
           "Kmiectse Clear Storage Bins with Lids"
         ],
         [
-          "",
+          "Heavier or bulkier items",
           "XCBYT 50L Foldable Rolling Crate"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "DTK 3 Tier Rolling Utility Cart with Cover Top Board"
         ],
         [
-          "",
+          "Mid-range pick",
           "DTK 3 Tier Metal Utility Rolling Cart with Table Top and Side Bags"
         ],
         [
-          "",
+          "Higher budget",
           "XCBYT 50L Foldable Rolling Crate"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Drawers vs Open Bins",
     "cards": [
       {
         "label": "Kmiectse Clear Storage Bins with Lids)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how often you need to see contents versus how much you want the cart to blend in."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hardwood or tile",
           "Check for polyurethane or rubber casters specifically"
         ],
         [
-          "",
+          "Carpet or concrete",
           "Kmiectse Clear Storage Bins with Lids"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Tight Spaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The actual width and depth measurement, not just a 'slim' or 'narrow' label, plus the extra inch the wheels add to the base footprint."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "DTK 3 Tier Rolling Utility Cart with Cover Top Board is worth checking against its exact footprint before assuming it fits a tight gap like between a washer and dryer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier casters for daily heavy use, where XCBYT 50L Foldable Rolling Crate justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing lighter, everyday items, where DTK 3 Tier Rolling Utility Cart with Cover Top Board already covers the job at the lowest price here."
       }
     ]

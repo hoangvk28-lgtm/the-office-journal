@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HUANUO Printer Stand with Cable Management and Storage Drawer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HUANUO Printer Stand with Cable Management and Storage Drawer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "WALI Computer Monitor Stand with Underneath Storage"
         ],
         [
-          "",
+          "Up to $100",
           "Letaya 3 Drawer Mobile File Cabinet with Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Rolling vs Stationary",
     "cards": [
       {
-        "label": "",
+        "label": "Rolling (casters)",
         "text": "Easy to reposition for access or cleaning, worth it if the stand needs to move regularly. In this comparison: HUANUO Printer Stand with Cable Management and Storage Drawer, Liitrton Mobile CPU Stand, Hovadova Adjustable Mobile CPU Stand, VASAGLE CUSTOS 2."
       },
       {
-        "label": "",
+        "label": "Stationary",
         "text": "More stable under a heavy printer since there's no wheel mechanism to add wobble. In this comparison: HOOBRO 2, WALI Computer Monitor Stand with Underneath Storage, Letaya 3 Drawer Mobile File Cabinet with Lock, SISESOL 2 Drawer File Cabinet with Lock."
       }
     ],
     "note": "Default to stationary unless you specifically need to reposition the stand often."
   },
   {
-    "subheading": "",
+    "subheading": "By Ventilation Clearance",
     "note": "Check each pick's design for open clearance around your printer's exhaust and paper output path before buying, not just its front-facing dimensions."
   },
   {
     "subheading": "For a Heavy All-in-One Printer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weight capacity with real margin above your printer's actual listed weight, and genuine vibration stability confirmed in reviews, not just static capacity."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since weight capacity isn't consistently disclosed across every stand in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your printer is heavy or used frequently throughout the day, where Letaya 3 Drawer Mobile File Cabinet with Lock's capacity and stability give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You have a light, compact printer used only occasionally, where WALI Computer Monitor Stand with Underneath Storage covers the same job at a lower price."
       }
     ]
@@ -158,7 +158,7 @@ export const howWeEvaluated = [
     "description": "Considered whether an enclosed under-desk area could amplify printer noise and whether open-frame designs help airflow, especially relevant for laser printers that generate heat during longer jobs."
   },
   {
-    "title": "",
+    "title": "Honest product category labeling",
     "description": "Confirmed whether each pick is printer-specific furniture or a CPU tower stand, monitor riser, or file cabinet repurposed for the role, and framed each one according to what it actually is."
   },
   {

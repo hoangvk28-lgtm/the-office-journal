@@ -53,66 +53,66 @@ export const heroImage = "https://m.media-amazon.com/images/I/51925teREsL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Prioritizing metal",
           "Klearlook Foldable Height Adjustable Monitor Stand Riser with Drawer"
         ],
         [
-          "",
-          ""
+          "Prioritizing wood",
+          "Snughome 38.6\" Desktop Organizer Shelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $18",
           "Canyora Monitor Stand Riser for Desk"
         ],
         [
-          "",
+          "Mid-range",
           "Klearlook Foldable Height Adjustable Monitor Stand Riser with Drawer"
         ],
         [
           "No firm budget ceiling, prioritizing capacity or storage",
-          ""
+          "Snughome 38.6\" Desktop Organizer Shelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Freestanding vs Clamp/Clip-On",
     "cards": [
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits directly on the desk with zero installation, at the cost of using up some desk depth."
       },
       {
-        "label": "",
+        "label": "Clamp/Clip-On",
         "text": "Attaches to the desk's back edge, freeing up desk surface underneath, but needs a compatible edge thickness. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "With Storage vs Platform-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -120,7 +120,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Klearlook Foldable Height Adjustable Monitor Stand Riser with Drawer"
         ],
         [
-          "",
+          "Simplest platform-only design",
           "Canyora Monitor Stand Riser for Desk"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy or Ultrawide Monitor Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity with real margin above your monitor's actual weight, a rigid material like metal or thick wood, and a wide enough platform to support the monitor's full base without overhang."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Snughome 38.6\" Desktop Organizer Shelf fits this specifically: Solid 4.5-star rating with 330 ratings."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is capacity or storage you may not need."
       }
     ]
@@ -160,7 +160,7 @@ export const howWeEvaluated = [
     "description": "Focused on open cubbies, phone or tablet slots, and cable channels rather than the enclosed drawer designs covered in our drawer guides."
   },
   {
-    "title": "",
+    "title": "Per-compartment weight capacity checked",
     "description": "Verified whether each storage compartment has its own separate weight rating rather than one undifferentiated 'with storage' spec."
   },
   {

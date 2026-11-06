@@ -61,55 +61,55 @@ export const heroImage = "https://m.media-amazon.com/images/I/21CYJAPQ9lL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Installation Scenario",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your installation",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Single Reolink camera or device",
-          ""
+          "REOLINK Gigabit Injector"
         ],
         [
           "Two cameras installed near each other",
-          ""
+          "IPCamPower POE Combiner Splitter"
         ],
         [
           "5+ cameras, bulk installer job",
           "5 Pairs Passive PoE Injector Kit"
         ],
         [
-          "",
+          "Single camera, budget priority",
           "PoE Texas Single-Port Mode B Injector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10 (per 5-pack)",
+          "5 Pairs Passive PoE Injector Kit ($9.98)"
         ],
         [
-          "",
-          ""
+          "Under $10 (single unit)",
+          "PoE Texas Single-Port Mode B Injector ($9.99)"
         ],
         [
-          "",
-          ""
+          "Under $20",
+          "IPCamPower POE Combiner Splitter ($19.99)"
         ],
         [
-          "",
-          ""
+          "Under $25",
+          "REOLINK Gigabit Injector ($24.99)"
         ]
       ]
     }
@@ -122,26 +122,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The standard choice when you have one camera per cable run back to your switch or NVR."
       },
       {
-        "label": "",
+        "label": "Two-camera combiner (IPCamPower)",
         "text": "Saves a full separate cable run when two cameras are physically near each other, combining their signal and power onto one shared cable back to the switch."
       }
     ],
     "note": "The combiner kit only makes sense when two cameras are close together; for cameras in different locations, standard single injectors per camera remain the simpler choice."
   },
   {
-    "subheading": "",
+    "subheading": "By Camera Resolution",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your camera's resolution",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "4K or high-resolution",
           "REOLINK Gigabit Injector or PoE Texas (both Gigabit)"
         ],
         [
-          "",
+          "Standard-definition, bulk install",
           "5 Pairs Passive PoE Injector Kit (10Mbps)"
         ]
       ]
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Outdoor Camera Installation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An IP-rated component wherever the hardware will actually be exposed to weather, not just a generic waterproof claim covering the whole kit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The IPCamPower kit specifically states its receiver splitter unit is IP68-rated for full exposure to rain, sleet, snow, and sun."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a Reolink camera or two cameras near each other needing a combiner, where the REOLINK or IPCamPower picks solve those specific scenarios that a basic injector can't."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're installing several standard-definition cameras at once, where the bulk 5-pair kit's roughly $2 per-unit cost beats buying individual injectors."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Installation Scenario Match",
     "description": "Compared single-camera, multi-camera-combiner, and bulk-installer use cases separately rather than by wattage alone."
   },
   {
-    "title": "",
+    "title": "Camera Brand Compatibility",
     "description": "Compared first-party brand-specific injectors against generic multi-brand compatibility."
   },
   {
-    "title": "",
+    "title": "Port Speed",
     "description": "Compared Gigabit versus 10/100Mbps port speeds relative to typical camera resolution needs."
   },
   {
-    "title": "",
+    "title": "Cost Per Camera",
     "description": "Compared real per-unit cost for bulk kits against standard single-unit injector pricing."
   },
   {
-    "title": "",
+    "title": "Weatherproofing for Outdoor Cameras",
     "description": "Compared stated IP ratings for outdoor-exposed components."
   }
 ];

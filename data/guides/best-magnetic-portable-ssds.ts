@@ -49,54 +49,54 @@ export const heroImage = "https://m.media-amazon.com/images/I/41eTFK7clfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Capacity",
     "note": "Corsair EX400U 2TB USB4 Portable External Type-C SSD is currently the only pick in this specific comparison. If you need a different capacity or speed tier, check our broader portable SSD roundup rather than assuming this specific pick fits."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around $399.99",
           "Corsair EX400U 2TB USB4 Portable External Type-C SSD"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "TLC vs QLC NAND",
     "note": "Corsair EX400U 2TB USB4 Portable External Type-C SSD's NAND type is not explicitly confirmed in the listing. Check the current listing's technical details if sustained-speed endurance matters to your workflow."
   },
   {
-    "subheading": "",
+    "subheading": "Rugged/Waterproof vs Standard Build",
     "note": "Corsair EX400U 2TB USB4 Portable External Type-C SSD is a standard, non-ruggedized build. If you specifically need the opposite, check our broader roundup."
   },
   {
     "subheading": "For Large Sustained Transfers (Video Editing) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "TLC NAND specifically, a stated sustained write speed (not just the peak burst number), and a USB generation on both drive and host that actually supports the rated speed."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Corsair EX400U 2TB USB4 Portable External Type-C SSD fits this specifically: designed with MagSafe magnetic compatibility."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99: designed with MagSafe magnetic compatibility. If that's what you're after, the tradeoffs in its cons list probably won't bother you either."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Here's the real tradeoff: Magnet holding strength should be checked against your specific case and cable weight. If that matters to you, compare it against other drives in our broader roundup before committing."
       }
     ]
@@ -105,11 +105,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Verified genuine magnetic-mount design",
     "description": "Confirmed the pick advertises MagSafe magnetic compatibility rather than assuming a magnetic feature from vague marketing language."
   },
   {
-    "title": "",
+    "title": "Honest category-size disclosure",
     "description": "Researched the broader magnetic-mount portable SSD market and disclosed that verified options were limited rather than padding the list."
   },
   {

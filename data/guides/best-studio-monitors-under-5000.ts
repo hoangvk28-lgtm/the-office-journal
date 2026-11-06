@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Define the high-end professional capability floor: The article should demand exceptional directivity/room integration, low distortion and scalable monitoring workflow. This matters directly when comparing the picks in this guide, since two products near the same price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific listing for this detail rather than assuming parity across similarly priced options, and weigh it against your actual use case before deciding between two close picks in this price tier."
   },
   {
-    "criterion": "",
+    "criterion": "Make price basis",
     "explanation": "Make price basis: single vs pair + frequency extension/SPL the primary threshold-specific comparison instead of copying a generic best-list order. This matters directly when comparing the picks in this guide, since two products near the same price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific listing for this detail rather than assuming parity across similarly priced options, and weigh it against your actual use case before deciding between two close picks in this price tier."
   },
   {
@@ -60,8 +60,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $5000",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -79,8 +79,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,7 +88,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Yamaha HS4 Powered Studio Monitor in Black"
         ],
         [
-          "",
+          "Best overall value",
           "(2) JBL 305P MkII 5\" 2-Way Active Powered Studio Reference Monitors Speakers"
         ]
       ]
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to (2) JBL 305P MkII 5\" 2-Way Active Powered Studio Reference Monitors Speakers unless your specific use case points toward Kali Audio LP Series Monitors's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "(2) JBL 305P MkII 5\" 2-Way Active Powered Studio Reference Monitors Speakers is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on Kali Audio LP Series Monitors, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by Yamaha HS4 Powered Studio Monitor in Black without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick must be new, in stock and up to $5000 on the update date; expired sale pricing removes it from the qualifying set."
   },
   {
-    "title": "",
+    "title": "Budget-ladder context",
     "description": "Show the previous tier, high-end professional tier and next-higher tier so readers see the real capability step instead of duplicate lists."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize price basis: single vs pair, frequency extension/SPL and required accessory/setup cost against price."
   },
   {
-    "title": "",
+    "title": "Evidence split",
     "description": "We separated directivity/room controls and self-noise/distortion figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
-    "title": "",
+    "title": "Ownership/step-up verdict",
     "description": "Judge room/listening-distance fit, warranty, software/parts/support and whether the reader should spend less or move above $5000 for a meaningful upgrade."
   }
 ];

@@ -52,76 +52,76 @@ export const heroImage = "https://m.media-amazon.com/images/I/41J41Z-k38L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Joule Rating",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 4000 joules",
+          "Amazon Basics 12"
         ],
         [
-          "",
-          ""
+          "Around 2700 joules",
+          "Power Strip"
         ],
         [
-          "",
+          "Around 2000 joules",
           "Anker Power Strip with 2000J Surge Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "Addtam Surge Protector Outlet Extender"
         ],
         [
-          "",
+          "Up to $28",
           "Anker Power Strip with 2000J Surge Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB-C Charging vs Outlets-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in USB-C charging",
         "text": "Saves an outlet slot per device charged directly, useful if you regularly charge phones or tablets at your desk. In this comparison: Addtam Surge Protector Outlet Extender."
       },
       {
-        "label": "",
+        "label": "Outlets-only",
         "text": "No built-in charging ports, but often a lower price and simpler design for equipment that only needs AC power. In this comparison: HANYCONY Surge Protector Power Strip, Anker Power Strip with 2000J Surge Protector, Amazon Basics 12."
       }
     ],
     "note": "Default to a USB-equipped strip unless you already have enough dedicated chargers and want to save on price."
   },
   {
-    "subheading": "",
+    "subheading": "By Outlet Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "12 outlets",
+          "Power Strip"
         ],
         [
-          "",
-          ""
+          "12 outlets",
+          "Amazon Basics 12"
         ]
       ]
     }
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed joule rating of at least 1000-2000 with UL 1449 certification, plus enough spaced outlets for a monitor, dock, and peripherals."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Amazon Basics 12 discloses the highest joule rating at 4000 joules."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your equipment is expensive or sensitive, where Anker Power Strip with 2000J Surge Protector's higher price buys real protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're protecting lower-value, easily replaceable electronics, where Addtam Surge Protector Outlet Extender covers the same basic job at a lower price."
       }
     ]

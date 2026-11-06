@@ -52,10 +52,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41K5Wvne7oL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Port Count",
     "table": {
       "headers": [
-        "",
+        "Your setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -71,19 +71,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $27",
           "0 HDMI KVM Switch for 2 Computers 1 Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "0 KVM Switch 2 Port HDMI"
         ],
         [
@@ -97,21 +97,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Hotkey Switching vs Physical Button Only",
     "cards": [
       {
-        "label": "",
+        "label": "Hotkey Switching",
         "text": "Switches computers without reaching for the device, faster for frequent switching during a work session. 0 KVM Switch 2 Port HDMI."
       },
       {
-        "label": "",
+        "label": "Physical Button Only",
         "text": "Simpler and more predictable, but requires reaching the device every time you switch. In this comparison: check each listing's switching method directly."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "USB Peripheral Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -126,27 +126,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Audio Switching Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of audio switching in the listing, since many KVM switches handle video and USB but leave speakers or headphones tied to one fixed computer."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms audio switching; check our dedicated audio-support KVM switch roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what UGREEN HDMI KVM Switch 2 Monitors 2 Computers 4K@60Hz offers: Hotkey switching designed to synchronize both monitors together. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "0 HDMI KVM Switch for 2 Computers 1 Monitor already covers the essentials: Absolute lowest price in this guide. The main thing you'd be paying extra for elsewhere in this list is resolution headroom or build quality you may not need."
       }
     ]

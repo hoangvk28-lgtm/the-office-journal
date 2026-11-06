@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the best overall Lenovo laptop lock?",
-    "a": ""
+    "a": "For ThinkPad owners, the Lenovo NanoSaver Essential Cable Lock carries the highest rating in this comparison, though the Kensington NanoSaver has a much larger review base for the same slot type."
   },
   {
     "q": "How do I know if my ThinkPad uses the NanoSaver slot?",
@@ -57,66 +57,66 @@ export const heroImage = "https://m.media-amazon.com/images/I/318zbGjhbiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Slot Type",
     "table": {
       "headers": [
-        "",
+        "Your laptop's slot",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Confirmed nano slot",
           "Lenovo NanoSaver Essential Cable Lock"
         ],
         [
-          "",
+          "Confirmed standard slot",
           "Kensington Combination Cable T-Bar Standard Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $27",
           "Kensington Combination Laptop Lock for Standard Security Slot"
         ],
         [
-          "",
+          "Mid-range",
           "Kensington NanoSaver Combination Laptop Lock"
         ],
         [
           "No firm budget ceiling, prioritizing documented compatibility",
-          ""
+          "Kensington Universal 3-in-1 2.0 Combination Laptop Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: Kensington NanoSaver Keyed Laptop Lock, Kensington T-Bar Standard Keyed Lock."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -124,7 +124,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Lenovo NanoSaver Essential Cable Lock"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "Kensington Combination Laptop Lock for Standard Security Slot"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Lenovo NanoSaver Essential Cable Lock fits this specifically: Highest rating in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "0 Combination Laptop Lock offers: Removes the need to identify ThinkPad vs. Non-ThinkPad slot type before buying. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Kensington Combination Laptop Lock for Standard Security Slot already covers the essentials: Lowest price of any Standard-slot lock in this comparison. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Included both a Lenovo-branded and Kensington-branded NanoSaver option",
-    "description": ""
+    "description": "We compared the newer Lenovo-branded lock's higher rating against Kensington's larger, more established review base for the same slot type."
   },
   {
     "title": "Checked keyed and combination access for each slot type",

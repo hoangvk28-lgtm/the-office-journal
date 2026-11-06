@@ -49,33 +49,33 @@ export const heroImage = "https://m.media-amazon.com/images/I/51C9d8utpcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Movement Type",
     "note": "Desk Organizer with Wireless Charger is currently the only pick in this specific comparison, so there's no second movement type to weigh it against here. Its own movement and design details are broken down in the pros and cons below, and our broader desk clock roundup covers flip, digital, and analog styles side by side if you want that wider comparison."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around $39.99",
           "Desk Organizer with Wireless Charger"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs the Alternative",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-Powered (this pick)",
         "text": "Desk Organizer with Wireless Charger is battery powered, so it can sit anywhere with no cord. Genuine wireless charging pad, not just a USB port."
       },
       {
-        "label": "",
+        "label": "Corded (elsewhere)",
         "text": "If you specifically need the opposite power type, check our broader desk clock roundup, since this particular comparison only includes Desk Organizer with Wireless Charger."
       }
     ]
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buying as a Gift Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine material language, such as hand carved, real marble, or real crystal, rather than a marble-look or crystal-look plastic finish, plus a stated production or engraving lead time if personalization is involved."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Desk Organizer with Wireless Charger is positioned as an everyday functional pick rather than a gift piece, so if you're buying specifically as a gift, check our broader roundup for a better-suited option."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99: Genuine wireless charging pad, not just a USB port. If that's what you're after, the tradeoffs in its cons list probably won't bother you either."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Here's the real tradeoff: Higher price reflecting the combined feature set. If that matters to you, compare it against other styles in our broader desk clock roundup before committing."
       }
     ]

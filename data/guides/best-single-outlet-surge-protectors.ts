@@ -52,49 +52,49 @@ export const heroImage = "https://m.media-amazon.com/images/I/31ovehM96AL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Joule Rating",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 1350 joules",
           "[ETL Listed] Cable Matters 1350J Single Outlet Surge Protector"
         ],
         [
-          "",
+          "Around 1350 joules",
           "[ETL Listed] Cable Matters 2"
         ],
         [
-          "",
+          "Around 1050 joules",
           "TESSAN Single Outlet Wall Surge Protector with 1050J Surge Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "[ETL Listed] Cable Matters 1350J Single Outlet Surge Protector"
         ],
         [
-          "",
+          "Up to $18",
           "[ETL Listed] Cable Matters 2"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Joule Rating vs Price",
     "cards": [
       {
         "label": "[ETL Listed] Cable Matters 1350J Single Outlet Surge Protector",
@@ -108,16 +108,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to [ETL Listed] Cable Matters 1350J Single Outlet Surge Protector unless your equipment's value calls for more protection."
   },
   {
-    "subheading": "",
+    "subheading": "By Outlet Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "1 outlets",
+          "Single Surge Protector Plug"
         ]
       ]
     }
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed joule rating of at least 1000-2000 with UL 1449 certification, plus enough spaced outlets for a monitor, dock, and peripherals."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "[ETL Listed] Cable Matters 1350J Single Outlet Surge Protector discloses the highest joule rating at 1350 joules."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your equipment is expensive or sensitive, where [ETL Listed] Cable Matters 2's higher price buys real protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're protecting lower-value, easily replaceable electronics, where [ETL Listed] Cable Matters 1350J Single Outlet Surge Protector covers the same basic job at a lower price."
       }
     ]

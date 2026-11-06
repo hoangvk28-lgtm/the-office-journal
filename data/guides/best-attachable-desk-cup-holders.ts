@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Universal Large Desk Cup Holder Clamp"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "OOKUU Upgraded Large Desk Cup Holder Clamp"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "HzTinT Large Desk Cup Holder"
         ],
         [
-          "",
+          "Up to $27",
           "4 in 1 Metal Clip On Cup Holder Attachment for Gaming Desk"
         ]
       ]
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to a deep-cavity design unless desk space is tight."
   },
   {
-    "subheading": "",
+    "subheading": "By Feature Set",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Oversized Tumbler Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed cavity diameter in inches, not just a vague \"large\" label, since oversized tumblers vary in exact width and a mismatched cavity won't grip securely."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "OOKUU Upgraded Large Desk Cup Holder Clamp is worth checking against its listed diameter spec before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a metal clamp and deeper cavity, where 4 in 1 Metal Clip On Cup Holder Attachment for Gaming Desk's higher price buys real durability and tip resistance over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You use a standard-size mug and rarely bump your desk, where HzTinT Large Desk Cup Holder covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Attachment mechanism clarity",
     "description": "We identified the actual attachment type (clamp or clip) behind the 'attachable' umbrella term for each pick, rather than treating the label as a distinct mechanism."
   },
   {
@@ -165,11 +165,11 @@ export const howWeEvaluated = [
     "description": "We checked disclosed capacity ratings, like a 40oz limit, against the attachment's actual holding strength."
   },
   {
-    "title": "",
+    "title": "Tip and spill resistance",
     "description": "We favored deep, covered cavity designs regardless of the specific attachment mechanism used."
   },
   {
-    "title": "",
+    "title": "Desk-edge compatibility across mechanisms",
     "description": "We compared clamp and clip opening ranges to confirm genuine desk-edge fit before recommending any pick."
   }
 ];

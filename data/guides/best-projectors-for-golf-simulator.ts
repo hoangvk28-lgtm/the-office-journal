@@ -57,16 +57,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/3121MYOM2PL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your space",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Dedicated dark simulator room",
+          "Optoma GT2400HDR"
         ],
         [
           "Garage or space with some ambient light",
@@ -76,15 +76,15 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Cheapest option",
           "Short Throw Projector 4K with Built-in Apps AI Auto Focus"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Short Throw vs Standard Throw",
     "cards": [
       {
-        "label": "",
+        "label": "Short throw (0.4-1.0 ratio)",
         "text": "Mounts close behind or above the hitting area without casting a shadow across the screen mid-swing, the standard choice for simulator setups."
       },
       {
-        "label": "",
+        "label": "Standard throw",
         "text": "Needs more distance from the screen, which can force an awkward mounting position or produce a shadow across the image during your swing."
       }
     ],
@@ -112,16 +112,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Brightness for Your Room's Lighting",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Fully dark dedicated room",
+          "Optoma GT2400HDR"
         ],
         [
-          "",
+          "Any ambient light present",
           "BenQ AH700ST 4000-Lumen Full HD Short-Throw Laser DLP Golf Simulator Projec"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Dual-Purpose Gaming Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A documented 'Game Mode' with low input lag if you'll also use the setup for general gaming beyond golf."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Optoma GT2400HDR is worth checking against its specific input lag spec before assuming any model handles fast-paced gaming well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You'll use the simulator daily or in a room with real ambient light, where BenQ AH700ST 4000-Lumen Full HD Short-Throw Laser DLP Golf Simulator Projec justifies the extra brightness and durability."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You have a dedicated dark room and moderate use, where Short Throw Projector 4K with Built-in Apps AI Auto Focus already covers the job at the lowest price here."
       }
     ]

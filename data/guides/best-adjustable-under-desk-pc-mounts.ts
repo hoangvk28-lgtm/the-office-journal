@@ -53,38 +53,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/41GmNtILiJL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 66 lbs capacity",
           "VIVO Heavy Duty Adjustable Under"
         ],
         [
-          "",
+          "Around 66 lbs capacity",
           "Heavy Duty Under Desk PC Mount"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $35",
           "VIVO Black Under Desk and Wall Office PC Mount"
         ],
         [
-          "",
+          "Up to $60",
           "VIVO Heavy Duty Adjustable Under"
         ]
       ]
@@ -94,30 +94,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "No-Drill Clamp Mount vs Screwed Bracket",
     "cards": [
       {
-        "label": "",
+        "label": "No-drill / clamp-on",
         "text": "Attaches without putting a hole in the desk, the safer choice for a rented space or furniture you don't want to modify. In this comparison: ZUAVIALA Under Desk PC Mount."
       },
       {
-        "label": "",
+        "label": "Screwed bracket",
         "text": "Generally supports a higher weight capacity and a more rigid hold since it's anchored directly into the desk. In this comparison: VIVO Black Under Desk and Wall Office PC Mount, VIVO Heavy Duty Adjustable Under, Heavy Duty Under Desk PC Mount."
       }
     ],
     "note": "Default to a no-drill mount unless you own the desk outright and need the extra capacity a screwed bracket provides."
   },
   {
-    "subheading": "",
+    "subheading": "By Disclosed Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 66 lbs capacity",
           "VIVO Heavy Duty Adjustable Under"
         ],
         [
-          "",
+          "Around 66 lbs capacity",
           "Heavy Duty Under Desk PC Mount"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavier Modern Tower Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed weight capacity meaningfully above the generic mid-tower assumption, ideally with the tested figure stated in pounds, not a vague marketing term."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "VIVO Heavy Duty Adjustable Under discloses the highest capacity at 66 lbs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your tower is a heavier modern build with multiple drives or a discrete GPU, where VIVO Heavy Duty Adjustable Under's higher price buys real capacity headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your case is a lightweight, standard mid-tower, where VIVO Black Under Desk and Wall Office PC Mount covers the same job at a lower price."
       }
     ]

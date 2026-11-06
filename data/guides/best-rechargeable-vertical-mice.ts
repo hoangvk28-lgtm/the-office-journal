@@ -59,35 +59,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Seenda MOU"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Lekvey Ergonomic Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "Seenda MOU"
         ],
         [
-          "",
+          "Up to $75",
           "Logitech MX Vertical Wireless Mouse Ergonomic Design"
         ]
       ]
@@ -97,27 +97,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Silent Clicks vs Standard Clicks",
     "cards": [
       {
-        "label": "",
+        "label": "Silent clicks",
         "text": "Meaningfully quieter for shared spaces or calls, worth it if noise is a real concern. In this comparison: TECKNET Ergonomic Mouse."
       },
       {
-        "label": "",
+        "label": "Standard clicks",
         "text": "Usually gives more tactile feedback, fine for a private office or home setup. In this comparison: Logitech MX Vertical Wireless Mouse Ergonomic Design, Lekvey Ergonomic Mouse, ProtoArc EM11 NL Wireless Ergonomic Mouse, seenda MOU."
       }
     ],
     "note": "Default to standard clicks unless you specifically work in a shared or call-heavy space."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "Lekvey Ergonomic Mouse"
         ]
       ]
     }
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist or Forearm Strain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A pronounced vertical angle matched to your hand size, with reviews specifically mentioning strain relief after the adjustment period."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Lekvey Ergonomic Mouse is worth checking against its listed hand-size guidance before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You use a mouse for many hours daily and strain relief or sensor precision is the priority, where Logitech MX Vertical Wireless Mouse Ergonomic Design's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional use, where seenda MOU covers the same job at a lower price."
       }
     ]

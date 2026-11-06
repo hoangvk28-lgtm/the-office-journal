@@ -61,71 +61,71 @@ export const heroImage = "https://m.media-amazon.com/images/I/41bM3qRD-lL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Small room or under a desk",
-          ""
+          "Gaiatop Mini Space Heater"
         ],
         [
-          "",
+          "Standard bedroom or office",
           "WINHL Space Heaters for Indoor Use with Thermostat"
         ],
         [
-          "",
-          ""
+          "Larger living space",
+          "Gaiatop Mini Space Heater"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Gaiatop Mini Space Heater"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "DREO Space Heater"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Gaiatop Mini Space Heater"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Ceramic vs Oil-Filled Heat",
     "cards": [
       {
         "label": "WINHL Space Heaters for Indoor Use with Thermostat)",
         "text": "Heats a room fastest using a fan, but cools down quickly once switched off."
       },
       {
-        "label": "",
+        "label": "Oil-filled radiator",
         "text": "Slower to warm up but silent and holds heat long after being turned off, best for overnight use."
       }
     ],
     "note": "Match this to whether you need fast heat now or quiet, sustained warmth overnight."
   },
   {
-    "subheading": "",
+    "subheading": "By Safety Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,7 +133,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Check for both tip-over AND overheat protection specifically"
         ],
         [
-          "",
+          "Standard adult-only room",
           "WINHL Space Heaters for Indoor Use with Thermostat"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Overnight Bedroom Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine low-wattage setting, a working thermostat that cycles off, and UL/ETL/CSA safety certification."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "WINHL Space Heaters for Indoor Use with Thermostat is worth checking against its specific safety certifications before assuming any 'safe' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're heating a larger room and want a thermostat and multiple heat settings, where Gaiatop Mini Space Heater justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're heating a small space or supplementing central heat, where Gaiatop Mini Space Heater already covers the job at the lowest price here."
       }
     ]

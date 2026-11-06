@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41gULKnEAAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device You're Charging",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Phone, occasional use",
           "Solar Charger Power Bank 20000mAh Portable Charger with 4 Built-in Cables"
         ],
         [
           "Phone plus tablet, daily use",
-          ""
+          "NESTOUT Rugged Power Bank"
         ],
         [
-          "",
+          "Laptop or multiple devices",
           "BLAVOR Solar Power Bank 20000mAh"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Solar Charger Power Bank 20000mAh Portable Charger with 4 Built-in Cables"
         ],
         [
-          "",
+          "Mid-range pick",
           "Aswayke 20,000mAh Rugged Power Bank with Fast Charge USB-C PD"
         ],
         [
-          "",
+          "Higher budget",
           "BLAVOR Solar Power Bank 20000mAh"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Capacity vs Portability",
     "cards": [
       {
         "label": "BLAVOR Solar Power Bank 20000mAh)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you're carrying it daily or leaving it in a bag for emergencies."
   },
   {
-    "subheading": "",
+    "subheading": "By Travel Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Flying with it",
           "Check the watt-hour (Wh) rating stays under 100Wh"
         ],
         [
-          "",
-          ""
+          "Never flying with it",
+          "NESTOUT Rugged Power Bank"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "USB-PD support at 45W or higher, not just any USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "BLAVOR Solar Power Bank 20000mAh is worth checking against your specific laptop's wattage requirement before assuming any power bank charges it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher capacity, faster charging, and support for a laptop, where BLAVOR Solar Power Bank 20000mAh justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need backup charges for a phone, where Solar Charger Power Bank 20000mAh Portable Charger with 4 Built-in Cables already covers the job at the lowest price here."
       }
     ]

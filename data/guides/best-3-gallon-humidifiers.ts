@@ -61,46 +61,46 @@ export const heroImage = "https://m.media-amazon.com/images/I/31+-maf5rkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Small bedroom or office",
+          "Cool Mist Humidifier"
         ],
         [
-          "",
+          "Standard bedroom",
           "Vornado MISTIC 8 Whole Room Ultrasonic Humidifier"
         ],
         [
-          "",
+          "Larger living space",
           "2 Gal/16L Humidifier Large Room"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Cool Mist Humidifier"
         ],
         [
-          "",
+          "Mid-range pick",
           "Vornado MISTIC 6 Whole Room Ultrasonic Humidifier"
         ],
         [
-          "",
+          "Higher budget",
           "2 Gal/16L Humidifier Large Room"
         ]
       ]
@@ -114,53 +114,53 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Uses less electricity and covers larger rooms more effectively."
       },
       {
-        "label": "",
+        "label": "Warm mist",
         "text": "Kills bacteria in the water during boiling and runs near-silently, best for a small room."
       }
     ],
     "note": "Match this to your room size and how much you value quiet operation versus coverage."
   },
   {
-    "subheading": "",
+    "subheading": "By Maintenance Tolerance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Minimal daily upkeep",
           "Check tank capacity against how often you're willing to refill it"
         ],
         [
-          "",
+          "Don't mind frequent cleaning",
           "Vornado MISTIC 8 Whole Room Ultrasonic Humidifier"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Hard Water Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An evaporative design (traps minerals in the wick) or plan to use distilled water with an ultrasonic model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Vornado MISTIC 8 Whole Room Ultrasonic Humidifier is worth checking against its specific mist type before assuming any humidifier handles hard water the same way."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "2 Gal/16L Humidifier Large Room justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need basic humidity for a small room and don't mind more frequent refills, where Cool Mist Humidifier already covers the job at the lowest price here."
       }
     ]

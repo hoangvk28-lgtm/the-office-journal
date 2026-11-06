@@ -53,23 +53,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ZMKpXsEAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Refresh Rate",
     "note": "Refresh rate isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $229",
           "6 Inch 16:10 USB-C OLED Portable Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "Qunub 14\" 4K Portable Monitor OLED"
         ],
         [
@@ -83,22 +83,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C DisplayPort Alt Mode vs HDMI",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C (DisplayPort Alt Mode)",
         "text": "Usually the port that hits the panel's full rated refresh rate, and can carry power alongside video on one cable. In this comparison: check each listing's stated USB-C refresh rate directly."
       },
       {
-        "label": "",
+        "label": "HDMI",
         "text": "Reliable for consoles and older sources, but often capped below the panel's full rated refresh, especially at higher resolutions. In this comparison: check each listing's stated HDMI refresh ceiling directly."
       }
     ],
     "note": "Check each listing's per-port refresh specs directly before assuming HDMI matches the headline rate."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Mount Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -112,24 +112,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Handheld Gaming PC or Console Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Your exact source device's documented maximum output refresh rate over the connection type you'll use, checked independently from the monitor's own rated capability, since handhelds like Steam Deck and ROG Ally commonly cap at 60Hz over USB-C."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "6 Inch 16:10 USB-C OLED Portable Monitor fits this specifically: Genuine OLED panel with true blacks and per-pixel contrast."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what ViewSonic VX1655-4K-OLED 16 Inch 4K UHD OLED Portable Monitor offers: Genuine 4K OLED panel from a trusted display brand. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6 Inch 16:10 USB-C OLED Portable Monitor already covers the essentials: Genuine OLED panel with true blacks and per-pixel contrast. The main thing you'd be paying extra for elsewhere in this list is headroom you may not actually use."
       }
     ]

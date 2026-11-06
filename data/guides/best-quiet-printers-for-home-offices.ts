@@ -60,80 +60,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HP DeskJet 4355 Wireless All"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HP DeskJet 4355 Wireless All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $69",
+          "Canon PIXMA TR4720 All"
         ],
         [
-          "",
-          ""
+          "Up to $285",
+          "Brother HL"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Printing",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex (auto two-sided)",
         "text": "Prints both sides automatically, saves paper and time for double-sided documents. In this comparison: Brother Work Smart 1360 Wireless Color Inkjet All, Brother DCP, Brother HL."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if you rarely need double-sided printing. In this comparison: HP DeskJet 4355 Wireless All, Canon PIXMA TR4720 All, Epson EcoTank ET, Epson EcoTank ET."
       }
     ],
     "note": "Default to duplex unless you're confident your printing is mostly single-sided."
   },
   {
-    "subheading": "",
+    "subheading": "By Scan Resolution",
     "note": "Check each pick's listed optical scan resolution in DPI against how you'll actually use scanning before buying, not just print specs."
   },
   {
     "subheading": "For Scanning Contracts or Receipts Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed optical scan resolution in DPI high enough to keep fine print legible, not just the printer's overall feature list."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HP DeskJet 4355 Wireless All is worth checking against its listed scan resolution before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You print regularly at moderate to high volume, where Brother HL's duty cycle and cost-per-page give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only print occasionally at low volume, where Canon PIXMA TR4720 All covers the same job at a lower price."
       }
     ]
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Noise-generating mechanism",
     "description": "Compared inkjet carriage-motor operation, a steadier lower hum during a print job, against laser fuser warm-up and drum rotation, a louder short burst followed by silence."
   },
   {
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
     "description": "Weighed automatic document feeder and duplex printing availability, since these reduce the number of separate noisy actions, like repeated scans or manual page flips, needed to finish a task."
   },
   {
-    "title": "",
+    "title": "Placement flexibility",
     "description": "Checked wireless connectivity and mobile printing support, since a printer that can sit farther from a desk reduces how noticeable its operating sound is during a call."
   },
   {

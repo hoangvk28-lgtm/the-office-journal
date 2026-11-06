@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/5174SE1COCL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "The fastest, simplest assembly",
           "Furinno Turn-N-Tube 3-Tier Entertainment TV Stand"
         ],
         [
@@ -84,24 +84,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $33",
+          "Furinno Turn-S-Tube Wide ($32.94)"
         ],
         [
-          "",
-          ""
+          "$37-$39",
+          "Luplom 50 Inch ($37.99) or Furinno Turn-N-Tube ($38.73)"
         ],
         [
-          "",
-          ""
+          "Just above $50",
+          "YGEOMER with Charging Station ($54.99)"
         ]
       ]
     }
@@ -110,11 +110,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Round-Tube Frame vs Metal-and-MDF Hybrid",
     "cards": [
       {
-        "label": "",
+        "label": "Round-Tube Frame (Furinno picks)",
         "text": "Lighter, faster to assemble, and sufficient for standard TV weights, though with a somewhat lower stated weight capacity than metal-hybrid alternatives."
       },
       {
-        "label": "",
+        "label": "Metal-and-MDF Hybrid (Luplom)",
         "text": "Meaningfully higher weight capacity at 150+ lbs, worth prioritizing if you have a heavier TV or just want more peace of mind about long-term stability."
       }
     ],
@@ -124,16 +124,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Maximum TV Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your TV size",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Up to 50\"",
           "Furinno Turn-N-Tube or Luplom 50 Inch"
         ],
         [
-          "",
+          "Up to 55\"",
           "Furinno Turn-S-Tube Wide or YGEOMER with Charging Station"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Charging-Heavy Entertainment Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A built-in charging station with multiple AC and USB ports, eliminating the need for a separate power strip near your TV setup."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The YGEOMER Entertainment Center is the only pick here with an integrated charging station, worth its slight premium above this guide's $50 ceiling."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a built-in charging station and customizable LED lighting, where the YGEOMER pick is the only option offering both, just above this guide's ceiling."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A simple, sturdy stand covers your needs, where the Furinno Turn-S-Tube Wide delivers the lowest price with a larger 55\" TV rating."
       }
     ]
@@ -169,11 +169,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Stated Weight Capacity",
     "description": "Compared documented top-shelf and total unit weight capacity figures across the lineup, since this varies meaningfully even among similarly priced stands."
   },
   {
-    "title": "",
+    "title": "Maximum Supported TV Size",
     "description": "Checked the stated maximum TV size each stand is rated for, since this ranged from 50 to 55 inches across otherwise similar designs."
   },
   {
@@ -181,11 +181,11 @@ export const howWeEvaluated = [
     "description": "Compared round-tube frames against metal-and-MDF hybrid construction for real differences in sturdiness and weight capacity."
   },
   {
-    "title": "",
+    "title": "Assembly Time and Complexity",
     "description": "Noted stated assembly time and whether tools are required, since this varies at this price point."
   },
   {
-    "title": "",
+    "title": "Notable Extra Features",
     "description": "Checked for useful extras like adjustable feet, curved shelving, or built-in charging stations that differentiate otherwise similar stands."
   }
 ];

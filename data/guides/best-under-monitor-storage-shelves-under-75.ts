@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/51mnGO2zgkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You'll Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light supplies only",
           "2 park TV Top Shelf apple tv mount Monitor Shelf Screen Storage Shelf floating"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "FITUEYES Wooden Monitor Stand Riser"
         ],
         [
-          "",
+          "A heavier daily-use load",
           "Gianotter Dual Monitor Stand Riser With Drawer and 2 Pen Holders"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,36 +95,36 @@ export const howToChoose: HowToChooseSection[] = [
           "2 park TV Top Shelf apple tv mount Monitor Shelf Screen Storage Shelf floating"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "OUTIOE 2-Tier Desk Shelf"
         ],
         [
-          "",
+          "Higher budget",
           "Gianotter Dual Monitor Stand Riser With Drawer and 2 Pen Holders"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Freestanding",
     "cards": [
       {
         "label": "2 park TV Top Shelf apple tv mount Monitor Shelf Screen Storage Shelf floating)",
         "text": "Stays firmly in place, can mark softer desk surfaces."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Protects your desk finish, can shift under a heavier load."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Depth",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,7 +133,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Deeper desk with room to spare",
-          ""
+          "OUTIOE 2-Tier Desk Shelf"
         ]
       ]
     }
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Monitor Arm Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Mounting hardware confirmed to coexist with your monitor arm's own desk clamp."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "FITUEYES Wooden Monitor Stand Riser is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where gianotter Dual Monitor Stand Riser With Drawer and 2 Pen Holders justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 2 park TV Top Shelf apple tv mount Monitor Shelf Screen Storage Shelf floating already covers the job at the lowest price here."
       }
     ]

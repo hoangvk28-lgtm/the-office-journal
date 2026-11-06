@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51GZ2yatp6L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,30 +74,30 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Maximum usable space in a compact footprint",
-          ""
+          "LCD Writing Tablet 11.5in, Bezel-Free Digital Notepad"
         ],
         [
           "More writing capacity before needing to erase",
-          ""
+          "LCD Writing Tablet for Adults, 10.5\" Double-Sided Full Screen"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $22",
+          "LCD Writing Tablet 11.5in Bezel-Free ($21.59)"
         ],
         [
-          "",
-          ""
+          "$24-$27",
+          "10.5\" Double-Sided ($24.58), TEKFUN 15\" ($26.99), or 12in Rechargeable Bezel-Free ($26.99)"
         ]
       ]
     }
@@ -106,22 +106,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Rechargeable Battery vs Replaceable Battery",
     "cards": [
       {
-        "label": "",
+        "label": "Rechargeable (12in Type-C pick)",
         "text": "Never need to buy a specific replacement battery, just plug in via USB-C when it runs low, though the built-in battery will eventually degrade over years of use."
       },
       {
-        "label": "",
+        "label": "Replaceable Battery (TEKFUN, 11.5in Bezel-Free, 10.5\" Double-Sided)",
         "text": "Swap in a fresh battery indefinitely once the current one dies, at the cost of needing to keep spares or find the right size when it eventually runs out."
       }
     ],
     "note": "If long-term battery longevity matters most, a replaceable battery design lets you keep the tablet working indefinitely with fresh batteries."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Design",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -130,7 +130,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Maximum total writing capacity per session",
-          ""
+          "LCD Writing Tablet for Adults, 10.5\" Double-Sided Full Screen"
         ]
       ]
     }
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Family Tablet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A larger, presentable design that doesn't look like a children's toy, suitable for homework, professional notes, and household use all in one device."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The TEKFUN 15\" Whiteboard Style tablet is specifically designed and marketed for exactly this kind of broad household use."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want both a rechargeable battery and a bezel-free precision screen together, where the 12in Rechargeable Bezel-Free pick combines both features in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5in Bezel-Free pick is the cheapest option here."
       }
     ]
@@ -169,19 +169,19 @@ export const howWeEvaluated = [
     "description": "Compared how much of each tablet's physical footprint is actually usable writing space, since bezel-free designs pack more area into a smaller frame."
   },
   {
-    "title": "",
+    "title": "Rechargeable vs Replaceable Battery",
     "description": "Checked which picks use a Type-C rechargeable battery versus a traditional replaceable coin-cell or button battery."
   },
   {
-    "title": "",
+    "title": "Writing Capacity Features",
     "description": "Noted specific capacity-boosting features like double-sided screens that offer more usable writing area within the same footprint."
   },
   {
-    "title": "",
+    "title": "Precision and Palm-Rejection Technology",
     "description": "Compared stated fine-tip stylus precision and palm-rejection claims across the lineup for legible, accident-free writing."
   },
   {
-    "title": "",
+    "title": "Versatility Across Use Cases",
     "description": "Assessed which picks are designed for broad daily use across homework, professional notes, and household messages versus a narrower focus."
   }
 ];

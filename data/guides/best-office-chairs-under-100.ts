@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/415Q7qsFObL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -81,30 +81,30 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "The lowest price with a certified gas lift",
-          ""
+          "DUMOS Home Office Chair"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $34",
+          "DUMOS ($33.99)"
         ],
         [
-          "",
-          ""
+          "Under $68",
+          "NEO CHAIR ($67.80)"
         ],
         [
-          "",
-          ""
+          "Under $100",
+          "Sweetcrispy ($97.98) or 330LBS Capacity chair ($99.99)"
         ]
       ]
     }
@@ -113,7 +113,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fixed Armrests vs Flip-Up Armrests",
     "cards": [
       {
-        "label": "",
+        "label": "Fixed armrests (DUMOS)",
         "text": "Adds structural stability and durability at a lower price, but doesn't fully tuck under a desk when not in use."
       },
       {
@@ -124,24 +124,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If desk space is tight, prioritize a flip-up armrest design. If budget is the top concern, fixed armrests still deliver solid comfort for less."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your weight range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under 250 lbs",
+          "DUMOS or NEO CHAIR"
         ],
         [
-          "",
-          ""
+          "Under 275 lbs",
+          "Sweetcrispy Ergonomic Office Chair"
         ],
         [
-          "",
-          ""
+          "Up to 330 lbs",
+          "330LBS Capacity Office Chair"
         ]
       ]
     }
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Small Home Office With Limited Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Flip-up armrests and a compact frame that can slide fully under a desk when not in active use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The NEO CHAIR's flip-up armrests and compact mesh design suit a small-space setup particularly well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the highest weight capacity or a lockable recline with footrest, where the 330LBS chair or Sweetcrispy pick each deliver a genuine capability upgrade over the budget options."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a certified gas lift without paying full price, where the DUMOS pick delivers BIFMA certification for under $34."
       }
     ]
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated maximum supported weight across the budget lineup, from 250 lbs to 330 lbs."
   },
   {
-    "title": "",
+    "title": "Certified Component Quality",
     "description": "Checked which picks specify a BIFMA or SGS certification for their gas lift or overall structure."
   },
   {
-    "title": "",
+    "title": "Lumbar and Recline Adjustability",
     "description": "Compared lumbar support adjustment range and whether recline positions lock or return upright freely."
   },
   {
-    "title": "",
+    "title": "Space-Saving Features",
     "description": "Checked which picks offer flip-up armrests or other under-desk storage conveniences."
   },
   {
-    "title": "",
+    "title": "Assembly and Included Hardware",
     "description": "Compared stated assembly time and included tools across the lineup."
   }
 ];

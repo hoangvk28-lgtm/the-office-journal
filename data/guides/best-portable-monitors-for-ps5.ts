@@ -52,38 +52,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/51OXc4g9NHL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Refresh Rate",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Standard smooth motion",
           "VisionOwl Portable Monitor for Laptop"
         ],
         [
-          "",
-          ""
+          "Maximum refresh headroom",
+          "ARZOPA 16.1'' 180Hz 2.5K Portable Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $120",
           "1'' 144Hz Portable Gaming Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "VisionOwl Portable Monitor for Laptop"
         ],
         [
@@ -97,22 +97,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C DisplayPort Alt Mode vs HDMI",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C (DisplayPort Alt Mode)",
         "text": "Usually the port that hits the panel's full rated refresh rate, and can carry power alongside video on one cable. In this comparison: check each listing's stated USB-C refresh rate directly."
       },
       {
-        "label": "",
+        "label": "HDMI",
         "text": "Reliable for consoles and older sources, but often capped below the panel's full rated refresh, especially at higher resolutions. 5K QHD 110% SRGB 144Hz USB-C."
       }
     ],
     "note": "If you're connecting a console or HDMI-only source specifically, verify the actual HDMI refresh ceiling on your chosen pick, since several picks here cap lower over HDMI than their headline spec suggests."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Mount Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Handheld Gaming PC or Console Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Your exact source device's documented maximum output refresh rate over the connection type you'll use, checked independently from the monitor's own rated capability, since handhelds like Steam Deck and ROG Ally commonly cap at 60Hz over USB-C."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5 Inch 2K QHD 120Hz 120% SRGB fits this specifically: Full-size HDMI, no adapter needed for PS5."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "6 Inch 4K UHD 145% SRGB offers: Only true 4K panel in this guide. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "1'' 144Hz Portable Gaming Monitor already covers the essentials: Explicitly lists PS5 compatibility. The main thing you'd be paying extra for elsewhere in this list is headroom you may not actually use."
       }
     ]
@@ -160,7 +160,7 @@ export const howWeEvaluated = [
     "description": "Confirmed every pick has a genuine HDMI input, since PS5's USB-C ports carry no video signal at all, a USB-C-only monitor simply cannot connect."
   },
   {
-    "title": "",
+    "title": "HDMI 2.0 vs. 2.1 feature reality",
     "description": "0-tier, capped at 4K60 with no VRR."
   },
   {

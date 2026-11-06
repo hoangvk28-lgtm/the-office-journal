@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Define the Measurement Explicitly",
     "explanation": "Confirm whether 19-inch drawing tablets's stated size refers to display diagonal or pen-tablet active-area dimension, since these are frequently conflated in listings."
   },
   {
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/51ysUzNp4uL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Define the Measurement Explicitly",
     "note": "Confirm whether 19-inch drawing tablets's stated size refers to display diagonal or pen-tablet active-area dimension, since these are frequently conflated in listings."
   },
   {
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified First",
     "description": "Sorted each product into screenless pen tablet, computer-dependent pen display, or true standalone before comparing specs, since these solve different problems."
   },
   {
-    "title": "",
+    "title": "Pen Behavior Verified",
     "description": "Checked activation force, pressure-level count, tilt support, and parallax evidence directly from documentation rather than trusting a headline pressure number alone."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Verified current Windows/macOS/Linux/Android compatibility by exact model, since older tablets can lose driver support over time."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included pen, nibs, stand, and cables against what needs to be bought separately, plus warranty length and driver update history."
   }
 ];

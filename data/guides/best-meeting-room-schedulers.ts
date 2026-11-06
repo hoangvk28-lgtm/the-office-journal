@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Zq8vlTaZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "2pcs Magnetic Conference Room Slider Privacy Sign with Status"
         ],
         [
-          "",
+          "Standard conference room",
           "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "2pcs Magnetic Conference Room Slider Privacy Sign with Status"
         ],
         [
-          "",
+          "Mid-range pick",
           "Joan 6 RE Black: Wireless E Ink Touch 6-Inch Display Meeting Scheduler"
         ],
         [
-          "",
+          "Higher budget",
           "Black Box 7\" On-Wall in-Session Room Scheduler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "2pcs Magnetic Conference Room Slider Privacy Sign with Status)",
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black"
         ],
         [
-          "",
+          "Google Workspace / Calendar",
           "Joan 6 RE Black: Wireless E Ink Touch 6-Inch Display Meeting Scheduler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where Black Box 7\" On-Wall in-Session Room Scheduler justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward single-room display without advanced features, where 2pcs Magnetic Conference Room Slider Privacy Sign with Status already covers the job at the lowest price here."
       }
     ]

@@ -63,53 +63,53 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Hours Standing Per Day",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your day",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Occasional standing",
+          "Bertech Anti-Fatigue Floor Mat"
         ],
         [
-          "",
+          "Several hours daily",
           "Performance Tool W88981 Large EVA Foam Anti-Fatigue Grip Mat Roll"
         ],
         [
-          "",
+          "Full-day standing desk use",
           "Durable Diamond-Dek Ultra-Safe Anti-Fatigue Floor Mat Roll"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Bertech Anti-Fatigue Floor Mat"
         ],
         [
-          "",
+          "Mid-range pick",
           "Durable Safety Spun Anti-Fatigue Mat Roll"
         ],
         [
-          "",
+          "Higher budget",
           "Durable Diamond-Dek Ultra-Safe Anti-Fatigue Floor Mat Roll"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Foam vs Polyurethane",
     "cards": [
       {
-        "label": "",
+        "label": "Foam/gel (e.g. Bertech Anti-Fatigue Floor Mat)",
         "text": "Softer initial feel, but flattens faster under continuous daily use."
       },
       {
@@ -120,19 +120,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how many hours a day the mat will actually see, not just initial comfort."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hard flooring",
           "Performance Tool W88981 Large EVA Foam Anti-Fatigue Grip Mat Roll"
         ],
         [
-          "",
+          "Carpet",
           "Check specifically for a mat rated for carpet use"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Barefoot or Sock Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A textured surface rather than smooth, which can feel slippery without shoes."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Performance Tool W88981 Large EVA Foam Anti-Fatigue Grip Mat Roll is worth checking against its specific surface texture before assuming any mat grips the same barefoot."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You stand for most of the workday and want long-term support, where Durable Diamond-Dek Ultra-Safe Anti-Fatigue Floor Mat Roll justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only stand occasionally and want basic cushioning, where Bertech Anti-Fatigue Floor Mat already covers the job at the lowest price here."
       }
     ]

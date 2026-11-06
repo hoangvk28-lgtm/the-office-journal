@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41BAHZnTXeL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,24 +83,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $225",
+          "CUNPU Z32UI06-TE 32 Inch 4K ($219.99)"
         ],
         [
-          "",
-          ""
+          "$225-$235",
+          "ASUS ProArt PA278CV ($229.00) or Dell S2725DC ($229.99)"
         ],
         [
-          "",
-          ""
+          "$240-$245",
+          "LG 32U631A-B 32-inch QHD ($241.17)"
         ]
       ]
     }
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "4K on 32\" vs Calibrated 1440p on 27\"",
     "cards": [
       {
-        "label": "",
+        "label": "4K 32\" (CUNPU)",
         "text": "Sharper text and more visible detail thanks to higher pixel count, at the lowest price in this comparison, but without a stated factory Delta E calibration figure."
       },
       {
@@ -123,8 +123,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By USB-C Power Delivery Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device's charging needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Integrated speakers with a stated wider frequency range, so you're not relying solely on your laptop's built-in speakers during calls."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Dell 27 Plus QHD USB-C Monitor S2725DC specifically states dual 3W speakers with a wider frequency response, the strongest audio-focused pick here."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger 32\" QHD screen with useful multitasking software, where the LG 32U631A-B's Switch app adds genuine screen-splitting functionality."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want the sharpest resolution for the least money, where the CUNPU Z32UI06-TE delivers genuine 4K at the lowest price in this guide."
       }
     ]
@@ -172,15 +172,15 @@ export const howWeEvaluated = [
     "description": "Weighed the sharper text and detail of the CUNPU's 4K panel against the more moderate GPU and USB-C bandwidth demands of the 1440p picks in this comparison."
   },
   {
-    "title": "",
+    "title": "Factory Color Calibration Claims",
     "description": "Checked which listings state a specific Delta E figure and independent verification versus general color gamut percentages without calibration backing."
   },
   {
-    "title": "",
+    "title": "USB-C Power Delivery Range",
     "description": "Compared stated wattage figures across the lineup, from 15W phone-only charging up to 65W laptop charging."
   },
   {
-    "title": "",
+    "title": "Built-In Extras",
     "description": "Noted useful extras like integrated speakers, pop-out quick-access ports, and multitasking software that differentiate otherwise similar panels."
   },
   {

@@ -53,15 +53,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EsewSK2nL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Minimal adjustment period",
           "ProtoArc EK01 Plus Backlit Bluetooth Ergonomic Keyboard"
         ],
         [
@@ -72,19 +72,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $55",
+          "COLIKES Wireless Ergonomic Keyboard"
         ],
         [
-          "",
+          "Mid-range",
           "Logitech Wave Keys for Mac Wireless Ergonomic Keyboard"
         ],
         [
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: check each listing's connection type directly."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest, Logitech Wave Keys Wireless Ergonomic Keyboard, Arteck Split Ergonomic Keyboard with Palm Rest."
       }
     ]
@@ -111,13 +111,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Lowest cost, quiet typing",
+          "COLIKES Wireless Ergonomic Keyboard"
         ],
         [
           "Tactile feedback, lighter actuation force",
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest fits this specifically: Largest verified review base among wireless picks here."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "COLIKES Wireless Ergonomic Keyboard already covers the essentials: Lowest price among wireless picks in this guide. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -160,15 +160,15 @@ export const howWeEvaluated = [
     "description": "Weighed verified buyer feedback on responsiveness during rapid touch-typing bursts, since wireless latency is more noticeable to fast typists than casual users."
   },
   {
-    "title": "",
+    "title": "Split-half battery logistics",
     "description": "Checked whether split keyboards use one shared connection or two independently battery-powered halves, since uneven modifier-key usage can drain one half faster than the other."
   },
   {
-    "title": "",
+    "title": "Multi-device pairing capability",
     "description": "Noted how many Bluetooth pairing slots each keyboard supports where disclosed, relevant to anyone switching between a laptop and desktop."
   },
   {
-    "title": "",
+    "title": "Firmware and long-term support",
     "description": "Considered whether a firmware update path exists for fixing pairing or connectivity bugs discovered after purchase, a factor rarely disclosed on the product listing itself."
   }
 ];

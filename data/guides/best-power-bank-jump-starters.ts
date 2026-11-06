@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/415s12kBJ6L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device You're Charging",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Phone, occasional use",
           "Jump Starter Battery Jumper Starter Portable Car Battery Jump Starter 5000A"
         ],
         [
           "Phone plus tablet, daily use",
-          ""
+          "S ZEVZO ET03 Car Jump Starter 4000A Jump Starter Battery Pack for Up to 8.0L"
         ],
         [
-          "",
+          "Laptop or multiple devices",
           "AstroAI S8 Car Battery Jump Starter 1500A"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Jump Starter Battery Jumper Starter Portable Car Battery Jump Starter 5000A"
         ],
         [
-          "",
+          "Mid-range pick",
           "OXILAM Jump Starter 6000A for All Gas/12L Diesel"
         ],
         [
-          "",
+          "Higher budget",
           "AstroAI S8 Car Battery Jump Starter 1500A"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Capacity vs Portability",
     "cards": [
       {
         "label": "AstroAI S8 Car Battery Jump Starter 1500A)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you're carrying it daily or leaving it in a bag for emergencies."
   },
   {
-    "subheading": "",
+    "subheading": "By Travel Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Flying with it",
           "Check the watt-hour (Wh) rating stays under 100Wh"
         ],
         [
-          "",
-          ""
+          "Never flying with it",
+          "S ZEVZO ET03 Car Jump Starter 4000A Jump Starter Battery Pack for Up to 8.0L"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "USB-PD support at 45W or higher, not just any USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "AstroAI S8 Car Battery Jump Starter 1500A is worth checking against your specific laptop's wattage requirement before assuming any power bank charges it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher capacity, faster charging, and support for a laptop, where AstroAI S8 Car Battery Jump Starter 1500A justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need backup charges for a phone, where Jump Starter Battery Jumper Starter Portable Car Battery Jump Starter 5000A already covers the job at the lowest price here."
       }
     ]

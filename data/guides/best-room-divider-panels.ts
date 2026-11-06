@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "VEVOR 4"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "RANTILA 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $31",
           "RANTILA Single Large Panel Room Divider"
         ],
         [
-          "",
+          "Up to $130",
           "DECOLAB Standing Room Divider Panel"
         ]
       ]
@@ -98,42 +98,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "On Wheels vs Fixed Base",
     "cards": [
       {
-        "label": "",
+        "label": "On wheels",
         "text": "Repositionable between rooms or layouts, worth locking casters once positioned. In this comparison: SUNALLY 6."
       },
       {
-        "label": "",
+        "label": "Fixed base",
         "text": "More stable for a divider that stays in one spot long-term. In this comparison: RANTILA 4, RANTILA Single Large Panel Room Divider, HOMSCREENER 4, VEVOR 4, MAYOLIAH 6, DECOLAB Standing Room Divider Panel."
       }
     ],
     "note": "Default to a fixed base unless you need to reposition the divider often."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Height",
     "note": "Check each pick's listed panel height against your room's ceiling and the actual privacy level you need before buying."
   },
   {
     "subheading": "For a Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "RANTILA 4 is worth checking against its listed mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening or a taller, more stable divider, where DECOLAB Standing Room Divider Panel's material and construction give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual separation without noise or stability concerns, where RANTILA Single Large Panel Room Divider covers the same job at a lower price."
       }
     ]
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Fabric or material thickness",
     "description": "Compared gsm ratings on fabric panels and material type on non-fabric picks, since thicker fabric resists sag, wrinkling, and see-through better over repeated folding."
   },
   {
@@ -150,11 +150,11 @@ export const howWeEvaluated = [
     "description": "Measured total span against panel count, since a wider divider needs fewer fold points to cover the same floor width, but more panels add reconfiguration flexibility."
   },
   {
-    "title": "",
+    "title": "Foot and base stability",
     "description": "Scored foot length and width relative to panel height, a tall panel on narrow feet tips far more easily than the same height on extended, widened feet."
   },
   {
-    "title": "",
+    "title": "Portability and reconfiguration",
     "description": "Assessed weight, wheels, and whether panels can be added or removed, since some buyers need a fixed permanent wall while others need to move or resize their divider often."
   },
   {

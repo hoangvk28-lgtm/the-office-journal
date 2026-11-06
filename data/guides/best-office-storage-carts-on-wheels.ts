@@ -29,15 +29,15 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the best overall rolling office storage cart?",
-    "a": ""
+    "a": "The IRIS USA 4-Drawer Rolling Storage Cart, with the largest confirmed review base in this comparison at over 5,000 reviews."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The Goovilla 3 Tier Rolling Utility Cart Organizer at $21.59."
   },
   {
     "q": "Which cart has the most drawers?",
-    "a": ""
+    "a": "The 10 Drawers Rolling Cart with Wooden Tabletop, at $98.99."
   },
   {
     "q": "Is there a white cart instead of black?",
@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "Which pick has the highest rating?",
-    "a": ""
+    "a": "The LEHOM Rolling Storage Cart with 8 Drawers, at a 4.7 rating with 681 reviews."
   }
 ];
 
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "LEHOM Rolling Storage Cart with 8 Drawers"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "IRIS USA 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $22",
           "Goovilla 3 Tier Rolling Utility Cart Organizer with Removable Drawer"
         ],
         [
-          "",
+          "Up to $99",
           "10 Drawers Rolling Cart with Wooden Tabletop"
         ]
       ]
@@ -109,16 +109,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Goovilla 3 Tier Rolling Utility Cart Organizer with Removable Drawer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "IRIS USA 4"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "IRIS USA 4 is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where 10 Drawers Rolling Cart with Wooden Tabletop's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Goovilla 3 Tier Rolling Utility Cart Organizer with Removable Drawer covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howWeEvaluated = [
     "description": "We distinguished fully enclosed drawer carts from open-tier carts, since drawers separate small supplies better while open tiers load and unload faster."
   },
   {
-    "title": "",
+    "title": "Review base weighted heavily given the wide count range",
     "description": "Review counts here range from 70 to over 5,000. We treated that spread as a meaningful confidence signal rather than a secondary detail."
   },
   {

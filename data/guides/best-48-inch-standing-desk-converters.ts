@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest confirmed 48 inch option?",
-    "a": ""
+    "a": "The VIVO Black 48 in Standing Desk Converter, DESK-V048KB, at $197.99."
   },
   {
     "q": "Is 48 inches different from 47 inches?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41brvuY+FwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Standing Desk Converter 48 Wide Sit Stand Extra Large Desk Riser"
         ],
         [
-          "",
+          "Dual monitors",
           "VIVO Black 48 in Standing Desk Converter"
         ],
         [
@@ -80,15 +80,15 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $198",
           "VIVO Black 48 in Standing Desk Converter"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: VIVO Black 48 in Standing Desk Converter, Vari VariDesk Pro Plus 48, VIVO Black 48 in Standing Desk Converter."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: none in this specific roundup, since most picks here use a manual lift."
       }
     ],
@@ -116,16 +116,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Vari VariDesk Pro Plus 48"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "VIVO Black 48 in Standing Desk Converter"
         ]
       ]
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VIVO Black 48 in Standing Desk Converter fits this specifically: Largest review base of any confirmed 48 inch converter."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]

@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41i9AVJl3DL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "Uxcell Black PVC Tube Wire Harness Tubing"
         ],
         [
           "A mixed bundle of 3-5 cables",
-          ""
+          "Spiral Cable Wrap"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "Uxcell Black PVC Tube Wire Harness Tubing"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,41 +95,41 @@ export const howToChoose: HowToChooseSection[] = [
           "Uxcell Black PVC Tube Wire Harness Tubing"
         ],
         [
-          "",
+          "Mid-range pick",
           "50ft - 1/4 inch & 1/2 inch PET Expandable Braided Sleeving, Black, Alex Tech"
         ],
         [
-          "",
+          "Higher budget",
           "Uxcell Black PVC Tube Wire Harness Tubing"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "Uxcell Black PVC Tube Wire Harness Tubing)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "General desk use",
+          "Spiral Cable Wrap"
         ],
         [
           "Near a real heat source",
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Spiral Cable Wrap is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where uxcell Black PVC Tube Wire Harness Tubing justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where uxcell Black PVC Tube Wire Harness Tubing already covers the job at the lowest price here."
       }
     ]

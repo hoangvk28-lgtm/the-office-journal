@@ -60,16 +60,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/317t71geL6L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A quiet, effective incline system in a compact frame",
-          ""
+          "Walking Pad with QuietClimb 8% Incline, 2.5HP"
         ],
         [
           "Manual multi-level incline with the highest weight capacity",
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $112",
+          "Superun ($111.10)"
         ],
         [
-          "",
-          ""
+          "Under $130",
+          "LONTEK ($129.99)"
         ],
         [
-          "",
-          ""
+          "Under $150",
+          "QuietClimb ($149.95)"
         ],
         [
-          "",
-          ""
+          "Under $170",
+          "Acezoe ($169.98)"
         ]
       ]
     }
@@ -117,35 +117,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fixed Incline vs Manual Multi-Level Incline",
     "cards": [
       {
-        "label": "",
+        "label": "Fixed incline (QuietClimb)",
         "text": "Provides a simple, always-on incline boost without needing to physically adjust anything, but offers less flexibility."
       },
       {
-        "label": "",
+        "label": "Manual multi-level incline (LONTEK)",
         "text": "Requires physically flipping out legs or placing pads to change incline, but gives you genuine choice between flat, moderate, and steep settings."
       }
     ],
     "note": "If you want a consistent, no-fuss incline workout every time, the QuietClimb's fixed system is simpler. If you want to vary intensity across sessions or over time as fitness improves, the LONTEK's multi-level system is worth the extra manual step."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your weight capacity needs",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard capacity, up to 265 lbs",
-          ""
+          "QuietClimb"
         ],
         [
           "Higher capacity, up to 300 lbs",
-          ""
+          "Acezoe or Superun"
         ],
         [
           "Highest capacity in this tier, up to 350 lbs",
-          ""
+          "LONTEK"
         ]
       ]
     }
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Buyer Who Wants Social Fitness Motivation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "App connectivity that supports real-time data sync and social features like friend competitions, not just basic step tracking on an LED display."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Acezoe pick's app connectivity specifically enables synchronized real-time data and friend competitions that the non-app picks in this tier don't offer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want app-based tracking with the widest speed range and most belt cushioning, where the Acezoe pick delivers all three at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want flexible side-rail support without incline levels, where the Superun pick covers that for about $39 less."
       }
     ]
@@ -180,7 +180,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Incline Flexibility",
     "description": "Compared fixed incline systems against multi-level manual incline options across the lineup."
   },
   {
@@ -188,15 +188,15 @@ export const howWeEvaluated = [
     "description": "Compared stated HP and weight capacity ranging from 265 to 350 lbs."
   },
   {
-    "title": "",
+    "title": "Belt Cushioning",
     "description": "Compared belt layer count and shock absorber components across all four picks."
   },
   {
-    "title": "",
+    "title": "App and Smart Features",
     "description": "Checked which picks offer app connectivity for tracking and social features."
   },
   {
-    "title": "",
+    "title": "Support Hardware Design",
     "description": "Compared handle bar and side rail stability approaches across the tier."
   }
 ];

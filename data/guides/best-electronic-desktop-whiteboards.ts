@@ -14,7 +14,7 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Weigh a proven standard board if electronics aren't essential",
-    "explanation": ""
+    "explanation": "The glass and magnetic dry-erase boards here have much larger, higher-rated review bases than the LCD tablet."
   },
   {
     "criterion": "Check writing area against your desk space",
@@ -37,11 +37,11 @@ export const faq = [
   },
   {
     "q": "Which standard board has the best rating if I don't need electronics?",
-    "a": ""
+    "a": "The Small Desktop Glass Whiteboard with Keyboard Stand, at 4.8 stars."
   },
   {
     "q": "Which has the most reviews overall?",
-    "a": ""
+    "a": "The TSJ OFFICE Small Desktop Whiteboard, with 2,500 reviews."
   },
   {
     "q": "Is there a cheaper large magnetic board?",
@@ -64,7 +64,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Honestly labeled electronic vs. standard products",
     "description": "We checked which products are electronic (LCD screen, battery) versus standard dry-erase boards, and labeled every pick clearly rather than implying all results have a screen."
   },
   {

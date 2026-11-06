@@ -55,36 +55,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest star rating",
+          "ARZOPA 17.3\" Portable Monitor"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "6\" 1080P Computer Monitor Screen Extender w/Cover"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $50",
           "6\" FHD 60Hz Portable Monitor USB-C HDMI IPS HDR Gaming Laptop"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "KEFEYA Laptop Screen Extender"
         ],
         [
           "No firm budget ceiling, prioritizing build or features",
@@ -94,33 +94,33 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clip-On/Magnetic Attachment vs Stand-Based",
     "cards": [
       {
-        "label": "",
+        "label": "Clip-On or Magnetic",
         "text": "Attaches directly to the laptop lid for a compact, travel-friendly setup that moves with the laptop. In this comparison: check each listing's attachment mechanism directly."
       },
       {
-        "label": "",
+        "label": "Stand-Based",
         "text": "Sits independently on the desk, keeping stress off the laptop's own lid hinge but adding desk footprint."
       }
     ],
     "note": "6\" FHD 60Hz Portable Monitor USB-C HDMI IPS HDR Gaming Laptop if you travel with your laptop often, and consider a stand-based design if this is a permanent desk setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Connection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Flexible power and video routing",
-          ""
+          "ARZOPA 17.3\" Portable Monitor"
         ],
         [
-          "",
+          "Simplest single-cable setup",
           "KYY Laptop Screen Extender Driver Need"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Video Calls and Presentations Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A swivel or adjustable-angle mechanism specifically, so you can reposition the extended screen toward a camera or a colleague without moving the whole laptop."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3-inch panel, not a smaller size marketed misleadingly."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is build quality or features you may not need."
       }
     ]

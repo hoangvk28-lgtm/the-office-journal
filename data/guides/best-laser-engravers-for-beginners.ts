@@ -17,11 +17,11 @@ export const buyingCriteria = [
     "explanation": "Require appropriate laser class/housing/interlocks and material-safety guidance for the intended home/beginner environment. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
-    "criterion": "",
+    "criterion": "Time design-to-first-good-part",
     "explanation": "Time design-to-first-good-part, focus, placement and parameter setup rather than using marketing “easy” claims. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
-    "criterion": "",
+    "criterion": "Compare replacement optics/tubes/sources",
     "explanation": "Compare replacement optics/tubes/sources, warranty/support and upgrade path so the cheapest starter does not become a dead end. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   }
 ];
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51tvvnhtgvL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -76,11 +76,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget tier",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,7 +88,7 @@ export const howToChoose: HowToChooseSection[] = [
           "AlgoLaser 3W Mini Laser Engraver Machine"
         ],
         [
-          "",
+          "Best overall value",
           "ACMER S1 Laser Engraver Machine"
         ]
       ]
@@ -109,11 +109,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to ACMER S1 Laser Engraver Machine unless your specific use case points toward AlgoLaser 3W Mini Laser Engraver Machine's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title (material, feature, or use case) verified directly on the product listing, not assumed from the category."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ACMER S1 Laser Engraver Machine is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on Woxcker Laser Engraver 10W 300mm Large Engraving Working Area Class 1 10000mW, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by AlgoLaser 3W Mini Laser Engraver Machine without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hard-scope eligibility",
     "description": "Keep `Best Laser Engravers for Beginners` as its own target and require the exact source, material, wattage, brand, accessory, price or workflow modifier."
   },
   {
-    "title": "",
+    "title": "Source-first evidence",
     "description": "Publish wavelength/source architecture, true optical output, spot/field/work area and process mechanism before speed claims."
   },
   {
-    "title": "",
+    "title": "Representative-job protocol",
     "description": "Disclose material, coating, thickness, focus, power, speed, frequency/pulse where relevant, passes, air assist and measured result."
   },
   {
-    "title": "",
+    "title": "Safety/process score",
     "description": "Document laser class/access controls, enclosure/interlocks, extraction, fire supervision, material restrictions and required PPE/control area where applicable."
   },
   {
-    "title": "",
+    "title": "Ownership/production verdict",
     "description": "Include camera/rotary calibration, software, consumables, exhaust/cooling, source life/replacement, service and total ready-to-run cost."
   }
 ];

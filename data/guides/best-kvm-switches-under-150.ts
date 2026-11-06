@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/319Zp1ATBTL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,48 +83,48 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $113",
+          "HDMI Displayport 3-Monitor 4-Computer switch ($112.99)"
         ],
         [
-          "",
-          ""
+          "$140-$150",
+          "Hybrid 4-Port EDID switch ($139.99), ATEN US3311 ($149.99), or ATEN US3310 ($149.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "ATEN US3311 vs US3310",
     "cards": [
       {
-        "label": "",
+        "label": "US3311 (Higher Resolution)",
         "text": "100W charging and up to 144Hz refresh rate for buyers who prioritize the sharpest, smoothest display over the fastest possible switch time."
       },
       {
-        "label": "",
+        "label": "US3310 (Faster Switching)",
         "text": "85W charging with a stated 2-second lag-free switch time and confirmed Apple M1/M2 compatibility, better for buyers switching frequently between mixed devices."
       }
     ],
     "note": "If you switch between computers dozens of times a day, the US3310's fast switching matters more. If display quality is your priority, the US3311's higher resolution ceiling wins."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Count Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your monitor setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor, docking-focused",
           "ATEN US3311 or ATEN US3310"
         ],
         [
@@ -138,24 +138,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Mixed Laptop-and-Desktop Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A hybrid-input switch accepting different connector combinations simultaneously, since a mixed office often pairs a USB-C laptop with desktops using varied ports."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Hybrid 4-Port KVM Switch with EDID Emulator specifically accepts USB-C, DisplayPort, and HDMI inputs together across four different computers."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want maximum charging wattage and the highest resolution ceiling in a compact docking switch, where the ATEN US3311 leads this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Triple-monitor, multi-computer scaling matters more than charging or docking features, where the HDMI Displayport 3-Monitor pick costs less while still delivering high resolution."
       }
     ]
@@ -168,11 +168,11 @@ export const howWeEvaluated = [
     "description": "Compared stated Power Delivery wattage and, where disclosed, the actual real-world charging wattage delivered versus the rated maximum."
   },
   {
-    "title": "",
+    "title": "EDID Emulation Quality",
     "description": "Checked which picks specifically address window-position stability during switching through EDID emulation technology."
   },
   {
-    "title": "",
+    "title": "Multi-Monitor and Multi-Computer Scaling",
     "description": "Compared how many monitors and computers each switch supports simultaneously at this price tier."
   },
   {
@@ -180,7 +180,7 @@ export const howWeEvaluated = [
     "description": "Noted specific confirmed compatibility with MacBook M1/M2 chips, iPad Pro, and other mixed device types beyond standard Windows laptops."
   },
   {
-    "title": "",
+    "title": "Switching Speed and Lag",
     "description": "Compared stated switching speed and any specific lag-reduction technology across the lineup."
   }
 ];

@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Waterproof claims vary meaningfully by depth (a few inches versus full submersion) and duration (24 hours versus 72 hours); check the exact figures rather than trusting the word 'waterproof' alone."
   },
   {
-    "criterion": "",
+    "criterion": "Plan for Post-Flood Handling",
     "explanation": "Know how to safely open and dry out a safe that's been exposed to floodwater, since opening it improperly can expose contents to residual moisture or contamination."
   },
   {
@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "A true waterproof or submersion rating (ETL Verified, for example) is a meaningfully stronger claim than a basic splash-resistant or IPX-rated seal; check which one applies to the specific model."
   },
   {
-    "criterion": "",
+    "criterion": "Manage Normal Humidity Separately",
     "explanation": "Even a waterproof safe can trap ambient humidity during normal storage; periodic airing out and a silica gel packet help protect paper contents long-term."
   }
 ];
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Waterproof claims vary meaningfully by depth (a few inches versus full submersion) and duration (24 hours versus 72 hours); check the exact figures rather than trusting the word 'waterproof' alone."
   },
   {
-    "subheading": "",
+    "subheading": "Plan for Post-Flood Handling",
     "note": "Know how to safely open and dry out a safe that's been exposed to floodwater, since opening it improperly can expose contents to residual moisture or contamination."
   },
   {
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "A true waterproof or submersion rating (ETL Verified, for example) is a meaningfully stronger claim than a basic splash-resistant or IPX-rated seal; check which one applies to the specific model."
   },
   {
-    "subheading": "",
+    "subheading": "Manage Normal Humidity Separately",
     "note": "Even a waterproof safe can trap ambient humidity during normal storage; periodic airing out and a silica gel packet help protect paper contents long-term."
   }
 ];
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Recorded fire duration and test temperature separately for each model rather than accepting a vague 'fireproof' label, since a 30-minute rating and a 2-hour rating protect very differently in a real house fire."
   },
   {
-    "title": "",
+    "title": "Water Evidence Verified Independently",
     "description": "Checked water-resistance claims (submersion depth, duration) as a separate fact from the fire rating, since the two protections are tested and certified independently even on the same product."
   },
   {

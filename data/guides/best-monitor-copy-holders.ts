@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41GpKCgcyML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "TreochtFUN Adjustable Paper Holder Copy Holder, Flexible Rotating Clips"
         ],
         [
-          "",
+          "Continuous data entry",
           "HAUTOCO Monitor Mount Document Clip"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "TreochtFUN Adjustable Paper Holder Copy Holder, Flexible Rotating Clips"
         ],
         [
-          "",
+          "Mid-range pick",
           "TONOS Paper Stand Document Holder"
         ],
         [
-          "",
+          "Higher budget",
           "4 Pack Flexible Documents Holder Foldable Copy Paper Holder Clip"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Side-Mounted",
     "cards": [
       {
         "label": "TreochtFUN Adjustable Paper Holder Copy Holder, Flexible Rotating Clips)",
         "text": "Keeps the page in your direct sightline, minimal neck movement."
       },
       {
-        "label": "",
+        "label": "Side-mounted",
         "text": "Sits off to one side, more placement flexibility but more head turning."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single sheets",
           "HAUTOCO Monitor Mount Document Clip"
         ],
         [
-          "",
+          "Thicker stacks or booklets",
           "TONOS Paper Stand Document Holder"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Data-Entry Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sliding line guide and an adjustable viewing angle to reduce glare and neck strain."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "HAUTOCO Monitor Mount Document Clip is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 4 Pack Flexible Documents Holder Foldable Copy Paper Holder Clip justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where TreochtFUN Adjustable Paper Holder Copy Holder, Flexible Rotating Clips already covers the job at the lowest price here."
       }
     ]

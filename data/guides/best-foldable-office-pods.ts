@@ -56,36 +56,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Portable Noise"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Portable Noise"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $NaN",
+          "Portable Noise"
         ],
         [
-          "",
-          ""
+          "Up to $4",
+          "Mobile Office Pod Booth"
         ]
       ]
     }
@@ -94,42 +94,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Mobile on Wheels vs Fixed Placement",
     "cards": [
       {
-        "label": "",
+        "label": "Wheels for repositioning",
         "text": "Easier to reposition within a room, though still heavy and not truly portable between floors. In this comparison: Mobile Office Pod Booth."
       },
       {
-        "label": "",
+        "label": "Fixed placement",
         "text": "No mobility, but often a more stable, permanent installation. In this comparison: Portable Noise, Portable Soundproof Office Pod Booth."
       }
     ],
     "note": "Default to fixed placement unless you specifically expect to reposition the pod within a room."
   },
   {
-    "subheading": "",
+    "subheading": "By Disclosed Dimensions",
     "note": "Check each pick's listed exterior dimensions in inches against your actual available space before buying, not just its size category label."
   },
   {
     "subheading": "For Remote Work Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A verified STC or DB reduction rating, plus confirmed ventilation with a stated CFM figure for comfortable extended use during calls."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Portable Noise is worth checking against its listed acoustic and ventilation specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need verified acoustic isolation and ventilation for daily extended use, where Mobile Office Pod Booth's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional light use, where Portable Noise covers the same job at a lower price."
       }
     ]
@@ -150,7 +150,7 @@ export const howWeEvaluated = [
     "description": "Flagged that fold-joint durability, assembly time, and real handling weight are not addressed in any listing, since no product is actually foldable, these specific concerns don't apply, but general assembly logistics still do."
   },
   {
-    "title": "",
+    "title": "Verified listing data only",
     "description": "Used only prices, dimensions, and features actually printed in each Amazon listing, no invented ratings or review counts."
   }
 ];

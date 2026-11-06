@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41TAKdnW-KL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A few light cables",
           "GDSZ LAERSI 100Pcs Cable Straps Hook and Loop Cable Ties"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "120\" Neoprene Cable Management Organizer"
         ],
         [
-          "",
+          "A large mixed bundle",
           "HAVICATO 3-in-1 Hair Tool Organzier Wall Mount"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "GDSZ LAERSI 100Pcs Cable Straps Hook and Loop Cable Ties"
         ],
         [
-          "",
+          "Mid-range pick",
           "Vidifor 2-Layer Cable Organizer Box with 20 Cable Ties"
         ],
         [
-          "",
+          "Higher budget",
           "HAVICATO 3-in-1 Hair Tool Organzier Wall Mount"
         ]
       ]
@@ -113,26 +113,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Hides cables completely, needs ventilation for warm power bricks."
       },
       {
-        "label": "",
+        "label": "Sleeve/wrap",
         "text": "More flexible for adding cables, less visually contained."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under-desk hidden",
           "120\" Neoprene Cable Management Organizer"
         ],
         [
-          "",
+          "Surface or freestanding",
           "Vidifor 2-Layer Cable Organizer Box with 20 Cable Ties"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequently Changing Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reusable fasteners and an open or slotted entry point rather than a fully sealed box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "120\" Neoprene Cable Management Organizer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where HAVICATO 3-in-1 Hair Tool Organzier Wall Mount justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where GDSZ LAERSI 100Pcs Cable Straps Hook and Loop Cable Ties already covers the job at the lowest price here."
       }
     ]

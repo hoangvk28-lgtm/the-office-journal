@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41FBNsAaL4L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $105",
+          "Keychron V5 Max ($104.99)"
         ],
         [
-          "",
-          ""
+          "Under $120",
+          "Logitech G316 X or Keychron K10 Max (both $119.99)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "Logitech MX Mechanical ($159.99)"
         ]
       ]
     }
@@ -124,24 +124,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your primary use is office work or calls where typing noise matters, the Logitech MX Mechanical's low-profile design is worth prioritizing. If competitive gaming performance is the priority, the Logitech G316 X's higher report rate and gaming-focused features are the better fit."
   },
   {
-    "subheading": "",
+    "subheading": "By Programmability Ecosystem",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your customization preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Open-source QMK firmware",
           "Keychron K10 Max or V5 Max"
         ],
         [
           "Proprietary G HUB gaming software",
-          ""
+          "Logitech G316 X"
         ],
         [
           "Proprietary Logi Options+ with Flow",
-          ""
+          "Logitech MX Mechanical"
         ]
       ]
     }
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Hybrid Work Setup Moving Between Multiple Computers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Cross-computer control software like Logitech's Flow feature, which lets one keyboard and mouse control multiple computers seamlessly without manual device switching."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Logitech MX Mechanical's Flow support specifically enables seamless cross-computer control, a feature none of the Keychron picks in this tier offer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want quiet low-profile switches with smart illumination and cross-computer Flow support, where the Logitech MX Mechanical delivers all three at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want full QMK programmability with solid gasket-mount comfort, where the Keychron V5 Max covers that for about $55 less."
       }
     ]
@@ -176,7 +176,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Acoustic Engineering",
     "description": "Compared single-layer versus dual-layer foam designs and their impact on typing sound."
   },
   {
@@ -184,15 +184,15 @@ export const howWeEvaluated = [
     "description": "Compared standard-height versus low-profile switches and their relative typing noise."
   },
   {
-    "title": "",
+    "title": "Report Rate and Responsiveness",
     "description": "Compared 1000Hz versus 8kHz report rates and their competitive gaming implications."
   },
   {
-    "title": "",
+    "title": "Programmability Ecosystem",
     "description": "Compared QMK open-source support against proprietary software ecosystems like G HUB and Logi Options+."
   },
   {
-    "title": "",
+    "title": "On-Board Controls",
     "description": "Checked for physical displays, dials, or knobs providing direct control without software."
   }
 ];

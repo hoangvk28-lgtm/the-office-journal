@@ -63,8 +63,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Platform and Display Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $250",
+          "IVANKY Thunderbolt 5 Dock Quad Display ($249.99)"
         ],
         [
-          "",
-          ""
+          "Under $300",
+          "StarTech Thunderbolt 5 USB4 Dock ($282.99) or Kensington SD5010T5 ($295.47)"
         ],
         [
-          "",
-          ""
+          "Under $400",
+          "CalDigit TS5 Thunderbolt 5 Dock ($399.95)"
         ]
       ]
     }
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Both docks specifically support three 4K displays at high refresh rates on Windows Thunderbolt 5 hosts, a configuration that doesn't carry over identically to macOS on the same hardware."
       },
       {
-        "label": "",
+        "label": "Mac chip-dependent (StarTech, IVANKY)",
         "text": "On a Mac, your exact chip generation, not just the dock, determines your real display ceiling, with only M5 Pro and M5 Max chips unlocking triple or quad display support on these two picks."
       }
     ],
@@ -127,12 +127,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Port Type Needed for Your Monitors",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your monitor's input type",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Monitors primarily using HDMI",
           "Kensington SD5010T5 Thunderbolt 5 Docking Station"
         ],
         [
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Office Hot-Desking Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A driverless, plug-and-play design that works consistently across both macOS and Windows without requiring per-user software installation, minimizing setup friction between different employees."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The StarTech pick specifically emphasizes driverless operation across Windows 11 and macOS 15/26, making it a strong fit for a shared, multi-user desk."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "95 price is justified by its 15-port connectivity."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -192,7 +192,7 @@ export const howWeEvaluated = [
     "description": "Compared sustained host and downstream charging while driving multiple displays."
   },
   {
-    "title": "",
+    "title": "Warranty and Build Quality",
     "description": "Compared warranty length and disclosed materials for long-term multi-monitor desk setups."
   }
 ];

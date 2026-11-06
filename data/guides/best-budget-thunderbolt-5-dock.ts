@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31nbiFWBkyL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $200",
+          "WAVLINK Intel EVO Certified Dock ($199.99)"
         ],
         [
-          "",
-          ""
+          "Under $220",
+          "WAVLINK 12-in-1 ($219.99)"
         ],
         [
-          "",
-          ""
+          "Under $227",
+          "Kensington SD5000T5 ($226.98)"
         ],
         [
-          "",
-          ""
+          "Under $320",
+          "OWC Thunderbolt 5 Dock, 11-Port ($319.99)"
         ]
       ]
     }
@@ -117,22 +117,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Lowest Price vs Longest Warranty",
     "cards": [
       {
-        "label": "",
+        "label": "Lowest price (WAVLINK EVO)",
         "text": "Delivers genuine Intel EVO-certified Thunderbolt 5 performance at the lowest cost in this comparison, backed by a standard 2-year warranty."
       },
       {
-        "label": "",
+        "label": "Longest warranty (Kensington)",
         "text": "Costs slightly more but includes a 3-year manufacturer warranty with lifetime technical support, a meaningfully longer coverage period."
       }
     ],
     "note": "If minimizing upfront cost is your priority, the WAVLINK EVO pick delivers real Thunderbolt 5 performance for less. If long-term warranty peace of mind matters more, the Kensington's extra year of coverage is worth the modest price difference."
   },
   {
-    "subheading": "",
+    "subheading": "By Networking Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your networking priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -140,7 +140,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Either WAVLINK pick or Kensington SD5000T5"
         ],
         [
-          "",
+          "Maximum flexible daisy-chain expansion",
           "OWC Thunderbolt 5 Dock, 11-Port"
         ]
       ]
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buyers Who Prioritize Sustainable Materials Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock that specifically discloses recycled material content and certified sustainable packaging, not just generic 'eco-friendly' marketing language."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Kensington SD5000T5 specifically states its casing is composed of 100% post-consumer recycled aluminum, delivered in FSC-certified packaging."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price within this budget tier."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You want the absolute lowest price for genuine Intel EVO-certified Thunderbolt 5 performance, where the WAVLINK EVO pick delivers that for $199.99."
       }
     ]
   }
@@ -180,19 +180,19 @@ export const howWeEvaluated = [
     "description": "Compared price against genuine Intel-certified Thunderbolt 5 performance in the $200-320 tier."
   },
   {
-    "title": "",
+    "title": "Per-Chip Mac Display Documentation",
     "description": "Compared theoretical versus real-world tested display limits by exact Mac chip."
   },
   {
-    "title": "",
+    "title": "Port Count and Variety",
     "description": "Compared total port count including Ethernet, card readers, and audio jacks."
   },
   {
-    "title": "",
+    "title": "Warranty and Sustainability",
     "description": "Compared warranty length and disclosed sustainable material sourcing."
   },
   {
-    "title": "",
+    "title": "Expansion Flexibility",
     "description": "Compared daisy-chain support and independent device chain management."
   }
 ];

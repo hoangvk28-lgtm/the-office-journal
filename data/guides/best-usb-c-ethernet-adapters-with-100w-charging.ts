@@ -48,30 +48,30 @@ export const heroImage = "https://m.media-amazon.com/images/I/41gsxkEO0sL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "100W vs 140W Charging",
     "intro": "For most laptops and all phones/tablets, 100W is more than sufficient. Only step up to 140W if you specifically own a high-draw laptop like a 16-inch MacBook Pro doing sustained heavy work."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Ethernet Speed & Chipset",
     "description": "5G/5G/10G) and, where published, the specific Realtek, Marvell, or other controller chip driving it, rather than assuming USB-C connector shape implies a speed tier."
   },
   {
-    "title": "",
+    "title": "Host & OS Compatibility",
     "description": "2 Gen 2 vs Thunderbolt/USB4) and confirmed OS support, since several products in this cluster have real exclusions (Android, Nintendo Switch, older Apple silicon)."
   },
   {
-    "title": "",
+    "title": "Real-World Documentation",
     "description": "Favored listings that publish honest real-world throughput or explicit host-speed caveats over ones that only quote the theoretical link rate."
   },
   {
-    "title": "",
+    "title": "Build Quality & Durability",
     "description": "Weighed braided cable construction, aluminum housing, and reinforced connectors, since these adapters see frequent plug/unplug cycles in daily use."
   },
   {
-    "title": "",
+    "title": "Genuine Feature Differentiators",
     "description": "Prioritized real differences like Wake-on-LAN, PXE boot, PD passthrough wattage, and multiport expansion over marketing language that repeats across nearly identical adapters."
   }
 ];

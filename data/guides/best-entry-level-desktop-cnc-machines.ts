@@ -9,7 +9,7 @@ export const buyingCriteria = [
     "explanation": "Check how long entry level desktop cnc machines actually takes from unboxing to a first successful cut, not just an advertised assembly time."
   },
   {
-    "criterion": "",
+    "criterion": "Verify Beginner-Friendly Software",
     "explanation": "Confirm the bundled or recommended CAM software has an approachable learning curve for a first CNC machine."
   },
   {
@@ -61,7 +61,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check how long entry level desktop cnc machines actually takes from unboxing to a first successful cut, not just an advertised assembly time."
   },
   {
-    "subheading": "",
+    "subheading": "Verify Beginner-Friendly Software",
     "note": "Confirm the bundled or recommended CAM software has an approachable learning curve for a first CNC machine."
   },
   {
@@ -80,7 +80,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified Before Comparison",
     "description": "Sorted each machine into router, mill, lathe, laser hybrid, or waterjet before ranking, since desktop CNC spans different cutting architectures that don't compare fairly on one scale."
   },
   {
@@ -88,11 +88,11 @@ export const howWeEvaluated = [
     "description": "Compared usable XYZ travel after vise, clamps, and tool stick-out rather than nominal axis travel alone, since fixtures and tooling eat into the advertised work envelope."
   },
   {
-    "title": "",
+    "title": "Spindle and Rigidity Evidence",
     "description": "Checked documented spindle speed, torque, and runout figures alongside frame and rail rigidity, since motor wattage alone doesn't predict real cut quality."
   },
   {
-    "title": "",
+    "title": "Software and Workholding Verified",
     "description": "Checked CAM/postprocessor support, probing, workholding, and dust or chip control as part of daily usability, not just the headline spec sheet."
   },
   {

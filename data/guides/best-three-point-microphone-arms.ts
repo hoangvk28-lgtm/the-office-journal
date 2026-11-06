@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/21kwm-U4iOL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Your Microphone's Weight",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your microphone",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lightweight USB mic",
           "Andoer Handheld Microphone Boom Arm 5-Section Extendable Mic Arm Aluminum Alloy"
         ],
         [
-          "",
+          "Standard condenser mic",
           "NEEWER NW-7000 Microphone Boom Arm"
         ],
         [
-          "",
+          "Heavier dynamic mic (e.g. SM7B)",
           "RGB Low Profile Microphone Boom Arm"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Andoer Handheld Microphone Boom Arm 5-Section Extendable Mic Arm Aluminum Alloy"
         ],
         [
-          "",
+          "Mid-range pick",
           "Handheld Boom Pole for Shotgun Mic"
         ],
         [
-          "",
+          "Higher budget",
           "RGB Low Profile Microphone Boom Arm"
         ]
       ]
@@ -114,26 +114,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "No installation needed, best if you rent your space or might reposition the arm later."
       },
       {
-        "label": "",
+        "label": "Grommet mount option",
         "text": "More stable long-term but usually requires drilling, worth it for a permanent studio setup."
       }
     ],
     "note": "Match this to how permanent your setup actually is, not just which sounds more professional."
   },
   {
-    "subheading": "",
+    "subheading": "By Cable Routing Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "On-camera, polished look matters",
           "Check specifically for internal cable routing"
         ],
         [
-          "",
+          "Off-camera, budget matters more",
           "Andoer Handheld Microphone Boom Arm 5-Section Extendable Mic Arm Aluminum Alloy"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Streaming or Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Internal cable routing and a low-profile design that doesn't block your webcam frame or dual-monitor view."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "NEEWER NW-7000 Microphone Boom Arm is worth checking against its specific reach and cable routing before assuming it fits your camera framing."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're on camera regularly and want internal cable routing and a higher weight capacity, where RGB Low Profile Microphone Boom Arm justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your setup stays off-camera and you have a lightweight mic, where Andoer Handheld Microphone Boom Arm 5-Section Extendable Mic Arm Aluminum Alloy already covers the job at the lowest price here."
       }
     ]

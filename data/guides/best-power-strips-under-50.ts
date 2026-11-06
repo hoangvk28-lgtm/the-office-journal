@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41MRW2Nq98L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $38",
+          "CRST 8-Outlet Metal ($37.99)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "Amazon Basics Smart Plug ($39.99)"
         ],
         [
-          "",
-          ""
+          "Under $42",
+          "Tapo Matter ($41.99)"
         ],
         [
-          "",
-          ""
+          "Under $48",
+          "Kasa HS300 ($47.99)"
         ]
       ]
     }
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Matter Certification vs Single-Ecosystem Smart Control",
     "cards": [
       {
-        "label": "",
+        "label": "Matter certified (Tapo)",
         "text": "Works across Alexa, Google Home, Apple HomeKit, and SmartThings interchangeably, future-proofing against ecosystem changes."
       },
       {
@@ -128,24 +128,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you might switch smart home platforms later or already use HomeKit or SmartThings, the Tapo's Matter certification offers real future flexibility the other smart picks don't."
   },
   {
-    "subheading": "",
+    "subheading": "By Energy Monitoring Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your monitoring priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Detailed per-outlet consumption data",
           "Kasa HS300 or Tapo Matter"
         ],
         [
           "Basic on/off smart control, no monitoring needed",
-          ""
+          "Amazon Basics Smart Plug"
         ],
         [
           "No monitoring, physical switches instead",
-          ""
+          "CRST 8-Outlet Metal"
         ]
       ]
     }
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Reducing a Home Office's Electricity Costs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Per-outlet energy monitoring that identifies which specific connected device is drawing the most power, not just total strip consumption."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both the Kasa HS300 and Tapo Matter picks let you check individual outlet consumption directly from their respective apps."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want per-outlet energy monitoring and the widest voice assistant support, where the Kasa HS300 delivers the most complete smart feature set in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want basic hub-free smart control without energy monitoring, where the Amazon Basics pick covers that for about $8 less than the Kasa."
       }
     ]
@@ -180,23 +180,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Energy Monitoring Depth",
     "description": "Compared which picks offer per-outlet energy consumption data versus no monitoring at all."
   },
   {
-    "title": "",
+    "title": "Smart Home Protocol Support",
     "description": "Compared Matter certification against single-ecosystem or dual-ecosystem compatibility."
   },
   {
-    "title": "",
+    "title": "Voice Assistant Breadth",
     "description": "Compared which voice assistants each smart pick supports beyond basic Alexa integration."
   },
   {
-    "title": "",
+    "title": "Physical Construction",
     "description": "Compared genuine metal housing against standard plastic construction for the heavy-duty pick."
   },
   {
-    "title": "",
+    "title": "Local vs Cloud-Dependent Control",
     "description": "Checked whether each smart pick can be controlled locally during an internet outage."
   }
 ];

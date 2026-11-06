@@ -57,41 +57,41 @@ export const heroImage = "https://m.media-amazon.com/images/I/51s4ME0+FCL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "SEDETA L Shaped Gaming Corner Desk with Drawers"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $180",
           "SEDETA L Shaped Gaming Corner Desk with Drawers"
         ],
         [
-          "",
+          "Up to $270",
           "UPOSOJA L Shaped Standing Desk Adjustable Height"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
         "label": "SEDETA L Shaped Gaming Corner Desk with Drawers",
@@ -105,11 +105,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to SEDETA L Shaped Gaming Corner Desk with Drawers unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Built-In Shelving",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "SEDETA L Shaped Gaming Corner Desk with Drawers"
         ],
         [
-          "",
+          "Hooks alone are enough",
           "Gaming Desk With LED Lighting And Charging Station"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Loaded, Multi-Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine metal or thick MDF construction, confirmed standard hole spacing, and a wall-anchor mounting option for stability once loaded with monitor arms and accessories."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SEDETA L Shaped Gaming Corner Desk with Drawers is worth checking against its listed material and mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to load the board with monitor arms and multiple accessories, where UPOSOJA L Shaped Standing Desk Adjustable Height's material and mounting give real stability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a few lightweight decorative hooks, where SEDETA L Shaped Gaming Corner Desk with Drawers covers the same job at a lower price."
       }
     ]

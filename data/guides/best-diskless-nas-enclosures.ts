@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Synology 4"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Synology 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $152",
+          "TERRAMASTER D4"
         ],
         [
-          "",
-          ""
+          "Up to $700",
+          "Synology 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Bay Count vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "TERRAMASTER D4",
         "text": "The lower-priced option in this comparison, worth checking its CPU and RAM against your actual workload."
       },
       {
-        "label": "",
+        "label": "Synology 4",
         "text": "The higher-priced option, worth it if it offers real bay count or performance headroom above the cheaper pick."
       }
     ],
     "note": "Default to TERRAMASTER D4 unless your storage needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By CPU and RAM",
     "note": "Check each pick's listed CPU architecture and RAM amount against your actual workload before buying, not just bay count alone."
   },
   {
     "subheading": "For Media Streaming or Plex Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A CPU capable of hardware transcoding and enough RAM to handle multiple simultaneous streams, not just total bay count."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Synology 4 is worth checking against its listed CPU and RAM before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real multi-user performance, media transcoding, or business-critical reliability, where Synology 4's CPU and RAM give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need simple backup storage for one or two users, where TERRAMASTER D4 covers the same job at a lower price."
       }
     ]
@@ -150,11 +150,11 @@ export const howWeEvaluated = [
     "description": "Compared 2-bay versus 4-bay layouts and which RAID levels each enclosure supports, since bay count directly limits redundancy options."
   },
   {
-    "title": "",
+    "title": "NAS versus DAS distinction",
     "description": "Separated true network-attached enclosures from USB direct-attached storage units, since the two solve different problems despite similar pricing and bay counts."
   },
   {
-    "title": "",
+    "title": "Drive compatibility posture",
     "description": "Checked whether each platform's compatibility list is restrictive, like 2024+ Synology Plus-series models flagging third-party drives, or more permissive."
   },
   {

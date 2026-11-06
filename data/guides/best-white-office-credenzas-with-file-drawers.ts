@@ -9,7 +9,7 @@ export const buyingCriteria = [
     "explanation": "Check whether each file drawer in white office credenzas with file drawers supports letter, legal, or both, including hanging-rail filing direction, rather than assuming 'file drawer' guarantees universal size support."
   },
   {
-    "criterion": "",
+    "criterion": "Measure Interior Drawer Geometry",
     "explanation": "Get actual interior dimensions and hanging-rail length rather than trusting exterior drawer size, since hardware and rail mechanisms take up real interior space."
   },
   {
@@ -61,7 +61,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check whether each file drawer in white office credenzas with file drawers supports letter, legal, or both, including hanging-rail filing direction, rather than assuming 'file drawer' guarantees universal size support."
   },
   {
-    "subheading": "",
+    "subheading": "Measure Interior Drawer Geometry",
     "note": "Get actual interior dimensions and hanging-rail length rather than trusting exterior drawer size, since hardware and rail mechanisms take up real interior space."
   },
   {
@@ -80,7 +80,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Function Classified Before Comparison",
     "description": "Sorted each product into storage credenza, credenza desk, file credenza, or desk-system credenza before ranking, since 'office credenza' spans meaningfully different furniture types that don't compare fairly against each other."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Compared published interior drawer, shelf, and cabinet dimensions rather than exterior width or door count alone, since partitions and hardware can meaningfully shrink real usable space."
   },
   {
-    "title": "",
+    "title": "File Compatibility Verified Directly",
     "description": "Checked letter/legal compatibility, filing direction, and lock coverage against each product's own documentation rather than assuming a 'file drawer' label means full hanging-file support."
   },
   {

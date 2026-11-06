@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31fYy+VFgML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -82,34 +82,34 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "The lowest price with automatic device recovery",
-          ""
+          "SICSOLINK 8-Port PoE+ Switch"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $27",
+          "SICSOLINK 8-Port PoE+ Switch ($26.98)"
         ],
         [
-          "",
-          ""
+          "Under $33",
+          "STEAMEMO 8 Port Managed Switch ($32.99)"
         ],
         [
-          "",
-          ""
+          "Under $54",
+          "Outdoor Waterproof 8-Port Switch ($53.99)"
         ],
         [
-          "",
-          ""
+          "Under $58",
+          "TP-Link LS108GP ($57.49)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Full Gigabit Speed vs Extended Range Mode",
     "cards": [
       {
-        "label": "",
+        "label": "Full Gigabit speed (TP-Link)",
         "text": "Maintains Gigabit ports when Extend Mode is off, better suited to devices needing full bandwidth within the standard 328ft range."
       },
       {
@@ -129,11 +129,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your cameras or devices sit within standard cable range and need full bandwidth, the TP-Link's Gigabit ports are the better fit. If you need to reach far-flung devices and can accept reduced speed for those specific ports, the extend-mode switches deliver that reach."
   },
   {
-    "subheading": "",
+    "subheading": "By Deployment Scale",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your deployment",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -146,7 +146,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A straightforward indoor multi-camera setup on a budget",
-          ""
+          "SICSOLINK 8-Port PoE+ Switch"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Unattended 24/7 Surveillance System Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An automatic device recovery feature that detects and restarts an offline PoE port without requiring a technician to visit the site, reducing downtime and maintenance costs for unattended systems."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The SICSOLINK pick's AI watchdog and the TP-Link's PoE Auto Recovery both specifically address this need for unattended 24/7 monitoring deployments."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "49 price is justified by that combination."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "98, the lowest price in this comparison."
       }
     ]
@@ -185,19 +185,19 @@ export const howWeEvaluated = [
     "description": "Compared documented bandwidth reduction when each switch's extended-range mode is enabled."
   },
   {
-    "title": "",
+    "title": "Total PoE Power Budget",
     "description": "Compared combined wattage available across all 8 ports for demanding devices."
   },
   {
-    "title": "",
+    "title": "Outdoor Durability",
     "description": "Compared IP ratings and lightning protection for outdoor camera deployments."
   },
   {
-    "title": "",
+    "title": "Management Capability",
     "description": "Compared unmanaged plug-and-play versus remotely manageable configurations."
   },
   {
-    "title": "",
+    "title": "Automatic Recovery Features",
     "description": "Compared auto-reboot and watchdog functions for unattended 24/7 deployments."
   }
 ];

@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/31zseHxGUTL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fully dark, dedicated room",
           "NEBULA Capsule 3 Portable Projector"
         ],
         [
-          "",
+          "Some ambient light",
           "NEBULA Capsule 3 Laser Outdoor Portable Mini Smart TV Projector"
         ],
         [
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -92,11 +92,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Soundcore Nebula P1i Portable Projector with Flippable Speaker"
         ],
         [
-          "",
+          "Mid-range pick",
           "NEBULA Capsule 3 Laser Outdoor Portable Mini Smart TV Projector"
         ],
         [
-          "",
+          "Higher budget",
           "Nebula X1S 4K Triple Laser Projector"
         ]
       ]
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most casual, weekly-use buyers should default to a lamp-based pick unless they'll run it daily, where laser's near-zero maintenance pays for itself over a few years."
   },
   {
-    "subheading": "",
+    "subheading": "By Throw Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "NEBULA Capsule 3 Portable Projector is worth checking against its documented native contrast figures before assuming any headline contrast number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want laser reliability and top-tier brightness, where Nebula X1S 4K Triple Laser Projector justifies the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want casual, occasional use, where soundcore Nebula P1i Portable Projector with Flippable Speaker already covers the job at the lowest price here."
       }
     ]

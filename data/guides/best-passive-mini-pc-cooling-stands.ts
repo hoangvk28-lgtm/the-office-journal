@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/31jzso+fIGL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cooling Type",
     "note": "Every pick in this specific comparison uses a similar cooling approach; check the product names and specs above for the exact passive-versus-fan design."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "IFCASE Aluminum Desktop Stand for Mac Studio"
         ]
       ]
@@ -79,22 +79,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Passive Stand vs Active Fan",
     "cards": [
       {
-        "label": "",
+        "label": "Passive Stand",
         "text": "Zero noise, no power needed, improves airflow through elevation alone. In this comparison: IFCASE Aluminum Desktop Stand for Mac Studio, ElecGear INUC-K Vertical Stand for Intel NUC Mini PC, CaSZLUTION Acrylic Stand for Beelink S12 Pro Mini PC."
       },
       {
-        "label": "",
+        "label": "Active Fan",
         "text": "Genuine forced airflow that helps more under sustained load, at the cost of some noise and a power connection. In this comparison: check each listing to confirm whether it's passive or fan-equipped."
       }
     ],
     "note": "Default to a passive pick for light everyday use, and only step up to an active fan if your mini PC runs warm under sustained load."
   },
   {
-    "subheading": "",
+    "subheading": "By Chassis Vent Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -112,36 +112,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a 24/7 Home Server or Media Server Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed active airflow rather than passive elevation alone, a stated noise level or speed control, and USB power so it only runs while the mini PC itself is on."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "CaSZLUTION Acrylic Stand for Beelink S12 Pro Mini PC fits this specifically: Purpose-built for specific Beelink Mini PC models."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "note": "Every pick in this specific comparison sits in a similar price range, so the decision here comes down to passive versus active cooling rather than a budget-versus-premium tradeoff. Check the pros and cons above for what actually differs between them."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Passive cooling mechanism",
     "description": "We compared whether each stand improves natural airflow or conductive heat spreading without powered airflow, and excluded any fan-equipped stand from this narrower list."
   },
   {
-    "title": "",
+    "title": "Device-specific fit",
     "description": "We prioritized stands built for a specific chassis, Mac mini/Studio, Intel NUC, or Beelink, over generic risers, since material contact and vent alignment matter more without a fan to compensate for a poor fit."
   },
   {
-    "title": "",
+    "title": "Material authenticity",
     "description": "We compared stated construction materials, aluminum versus acrylic, and what that means for heat conduction versus simple mechanical elevation."
   },
   {
-    "title": "",
+    "title": "Cooling limitation disclosure",
     "description": "We weighed the modest realistic gains of passive-only cooling against the genuine benefit of zero added noise, rather than overstating what elevation alone can achieve."
   }
 ];

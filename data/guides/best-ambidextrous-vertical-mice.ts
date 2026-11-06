@@ -56,64 +56,64 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "KINESIS DXT2 Ergonomic Vertical Mouse"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "KINESIS DXT2 Ergonomic Vertical Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $104",
           "KINESIS DXT2 Ergonomic Vertical Mouse"
         ],
         [
-          "",
-          ""
+          "Up to $109",
+          "R"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
         "label": "KINESIS DXT2 Ergonomic Vertical Mouse",
         "text": "The lower-priced option in this comparison, worth checking its hand-size fit against your grip."
       },
       {
-        "label": "",
+        "label": "R",
         "text": "The higher-priced option, worth it if it offers real ergonomic or sensor headroom above the cheaper pick."
       }
     ],
     "note": "Default to KINESIS DXT2 Ergonomic Vertical Mouse unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "KINESIS DXT2 Ergonomic Vertical Mouse"
         ]
       ]
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist or Forearm Strain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A pronounced vertical angle matched to your hand size, with reviews specifically mentioning strain relief after the adjustment period."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "KINESIS DXT2 Ergonomic Vertical Mouse is worth checking against its listed hand-size guidance before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You use a mouse for many hours daily and strain relief or sensor precision is the priority, where R's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional use, where KINESIS DXT2 Ergonomic Vertical Mouse covers the same job at a lower price."
       }
     ]

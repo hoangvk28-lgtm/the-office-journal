@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Tm0295azL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light decorative items",
           "Starunder 6 Inch Floating Shelf Brackets, 6 Pack L‐Shape Shelf Supports"
         ],
         [
-          "",
+          "Books, standard decor",
           "8pcs Wall Shelf Brackets Heavy Duty Floating Shelf Bracket Hidden, Invisible"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "2pcs Floating Shelf Bracket Heavy Duty Floating Mantel Bracket Black Metal"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Starunder 6 Inch Floating Shelf Brackets, 6 Pack L‐Shape Shelf Supports"
         ],
         [
-          "",
+          "Mid-range pick",
           "12 Pack - 10 inch Black Hidden L Shelf Bracket (1/5 Inch Thicked) Iron Floating"
         ],
         [
-          "",
+          "Higher budget",
           "2pcs Floating Shelf Bracket Heavy Duty Floating Mantel Bracket Black Metal"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "2pcs Floating Shelf Bracket Heavy Duty Floating Mantel Bracket Black Metal)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Studs available where needed",
           "8pcs Wall Shelf Brackets Heavy Duty Floating Shelf Bracket Hidden, Invisible"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "2pcs Floating Shelf Bracket Heavy Duty Floating Mantel Bracket Black Metal is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where 2pcs Floating Shelf Bracket Heavy Duty Floating Mantel Bracket Black Metal justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're displaying light decorative items only, where Starunder 6 Inch Floating Shelf Brackets, 6 Pack L‐Shape Shelf Supports already covers the job at the lowest price here."
       }
     ]

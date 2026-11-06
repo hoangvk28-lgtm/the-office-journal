@@ -53,38 +53,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/4131yLyXeiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Most compact and portable",
           "[2 Pack] LCD Writing Tablet"
         ],
         [
-          "",
+          "Most writing room",
           "16 Inch LCD Writing Tablet 2 Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $6",
           "[2 Pack] LCD Writing Tablet"
         ],
         [
-          "",
+          "Mid-range",
           "AYIYAKE 2 Pack LCD Writing Tablet for Kids Doodle Board 12-Inch"
         ],
         [
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Kids-Marketed vs Adult-Marketed",
     "cards": [
       {
-        "label": "",
+        "label": "Kids-Marketed",
         "text": "Bright colors and character branding, often the same core technology as adult versions at a similar or lower price. In this comparison: AYIYAKE 2 Pack LCD Writing Tablet for Kids Doodle Board 12-Inch."
       },
       {
-        "label": "",
+        "label": "Adult-Marketed",
         "text": "Neutral styling suited to an office desk, sometimes at a price premium for the plainer look alone. In this comparison: [2 Pack] LCD Writing Tablet, [2 Pack] LCD Writing Tablet."
       }
     ],
@@ -112,43 +112,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "With Memory Lock vs Basic Erase",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Prevent accidental erasing",
           "[2 Pack] LCD Writing Tablet"
         ],
         [
-          "",
+          "Simplest single-button design",
           "[2 Pack] LCD Writing Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Gift-Giving Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear age-range marketing if buying for a specific child, genuine screen size (not just overall unit size), and a replaceable coin-cell battery for the longest useful life."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "AYIYAKE 2 Pack LCD Writing Tablet for Kids Doodle Board 12-Inch fits this specifically: Confirmed genuine 2-pack at a larger 12 inch size."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what 16 Inch LCD Writing Tablet 2 Pack offers: Confirmed genuine 2-pack at a rare, large screen size. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "[2 Pack] LCD Writing Tablet already covers the essentials: Confirmed genuine 2-pack in the listing title. The main thing you'd be paying extra for elsewhere in this list is styling or accessories you may not need."
       }
     ]

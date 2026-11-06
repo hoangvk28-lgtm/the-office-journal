@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41MhNix4psL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A light stack of paperbacks",
-          ""
+          "VFINE Bookends 1 Pair"
         ],
         [
-          "",
+          "A full mixed shelf",
           "Book Ends, Bulk 1 Pair Bookends Folding Book Ends Metal Bookend (1 Pair)"
         ],
         [
@@ -84,57 +84,57 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "VFINE Bookends 1 Pair"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Mr. Pen- Book Ends"
         ],
         [
-          "",
+          "Higher budget",
           "Harloon 2 Pcs Animal Bookends Wooden Cute Safari Decor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
-        "label": "",
+        "label": "Decorative (e.g. VFINE Bookends 1 Pair)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Glossy or glass surface",
           "Book Ends, Bulk 1 Pair Bookends Folding Book Ends Metal Bookend (1 Pair)"
         ],
         [
-          "",
-          ""
+          "Textured wood surface",
+          "Mr. Pen- Book Ends"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Book Ends, Bulk 1 Pair Bookends Folding Book Ends Metal Bookend (1 Pair) is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Harloon 2 Pcs Animal Bookends Wooden Cute Safari Decor justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where VFINE Bookends 1 Pair already covers the job at the lowest price here."
       }
     ]

@@ -40,7 +40,7 @@ export const faq = [
   },
   {
     "q": "How do I know if a USB-C port will fast-charge my phone?",
-    "a": ""
+    "a": "Check the stated amperage output for the USB-C port, since a 3A rating like several picks in this comparison offer will charge most modern phones noticeably faster than a standard 2.4A USB-A port."
   },
   {
     "q": "Does the Amazon Basics 2-pack's short 2-foot cord limit where I can place it?",
@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41pGoqzlnHL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "Olcorife ($9.99) or YISHU ($9.98)"
         ],
         [
-          "",
-          ""
+          "Under $13",
+          "Yintar ($12.99)"
         ],
         [
-          "",
-          ""
+          "Under $14",
+          "Amazon Basics 2-Pack ($13.99)"
         ]
       ]
     }
@@ -117,18 +117,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Traditional shape fits neatly along a baseboard or desk edge, familiar and predictable in how it takes up space."
       },
       {
-        "label": "",
+        "label": "3-side compact (Olcorife, YISHU)",
         "text": "Spreads outlets across three sides to prevent large plugs from blocking each other, at the cost of a slightly bulkier footprint."
       }
     ],
     "note": "If you regularly plug in bulky chargers or adapters, the 3-side designs prevent the blocking problem a linear strip can create. If space efficiency along a flat surface matters more, a linear strip is simpler."
   },
   {
-    "subheading": "",
+    "subheading": "By Surge Protection Level",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your protection priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -141,7 +141,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "No stated joule rating, compact priority instead",
-          ""
+          "Olcorife Flat Plug"
         ]
       ]
     }
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Cramped Dorm Room Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A compact 3-side design with an ultra-thin flat plug that can tuck behind furniture without wasting desk space."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "27 inch flat plug are specifically built for this kind of space-constrained setup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want meaningfully higher surge protection with a documented joule rating, where the Yintar pick's 1680J rating offers real protection headroom over the basic picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need the most outlets for the lowest price, where the YISHU pick delivers 8 outlets and 4 USB ports for under $10."
       }
     ]
@@ -176,7 +176,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Outlet Count and Spacing",
     "description": "Compared total outlet count and the physical spacing between outlets, since tighter spacing can block adjacent plugs."
   },
   {
@@ -184,7 +184,7 @@ export const howWeEvaluated = [
     "description": "Compared USB-An and USB-C port counts and their maximum stated charging output."
   },
   {
-    "title": "",
+    "title": "Surge Protection Rating",
     "description": "Compared stated joule ratings and response speed where available across the lineup."
   },
   {
@@ -192,7 +192,7 @@ export const howWeEvaluated = [
     "description": "Compared cord length and whether each pick uses a flat, low-profile plug for tight spaces."
   },
   {
-    "title": "",
+    "title": "Safety Certification",
     "description": "Checked for independent certifications like ETL confirming overload and short-circuit protection."
   }
 ];

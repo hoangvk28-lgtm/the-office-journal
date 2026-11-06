@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "MAGIPEA Gooseneck Phone Holder"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "SAIJI Gooseneck Bed Phone Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $13",
           "SAIJI Gooseneck Bed Phone Holder"
         ],
         [
-          "",
+          "Up to $34",
           "SMALLRIG 22\" Magic Arm Clamp"
         ]
       ]
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to SAIJI Gooseneck Bed Phone Holder unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "SAIJI Gooseneck Bed Phone Holder"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SAIJI Gooseneck Bed Phone Holder is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where SMALLRIG 22\" Magic Arm Clamp's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where SAIJI Gooseneck Bed Phone Holder covers the same job at a lower price."
       }
     ]
@@ -153,15 +153,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Holder clip width range",
     "description": "We compared each clip's stated width tolerance against a phone plus a typical protective case, not just the bare device."
   },
   {
-    "title": "",
+    "title": "Grip security",
     "description": "We compared spring-clip versus friction-locked holder mechanisms for how securely they grip during touch interaction."
   },
   {
-    "title": "",
+    "title": "Padding and scratch protection",
     "description": "We checked for silicone or TPE padding inside the holder clip to prevent scratching the phone or case."
   },
   {

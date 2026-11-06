@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41p8GU3SdKL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "TEAMIX 26 inch Corner Monitor Stand Riser with Keyboard Storage"
         ],
         [
-          "",
+          "Standard home office",
           "VENNQD Corner Desk with Drawers Shelves for Small Space 90 Degrees Triangle"
         ],
         [
-          "",
+          "Larger dedicated office",
           "VIVO Black 43 in Corner Desk Converter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "TEAMIX 26 inch Corner Monitor Stand Riser with Keyboard Storage"
         ],
         [
-          "",
+          "Mid-range pick",
           "PRAISUN 66\" L Shaped Gaming Desk with LED Lights & Power Outlets"
         ],
         [
-          "",
+          "Higher budget",
           "VIVO Black 43 in Corner Desk Converter"
         ]
       ]
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor",
           "VENNQD Corner Desk with Drawers Shelves for Small Space 90 Degrees Triangle"
         ],
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TEAMIX 26 inch Corner Monitor Stand Riser with Keyboard Storage is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in storage, better cable management, and sturdier build quality, where VIVO Black 43 in Corner Desk Converter justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where TEAMIX 26 inch Corner Monitor Stand Riser with Keyboard Storage already covers the job at the lowest price here."
       }
     ]

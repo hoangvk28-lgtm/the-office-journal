@@ -57,39 +57,39 @@ export const heroImage = "https://m.media-amazon.com/images/I/31tgxXrxOrL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Prioritizing metal",
           "Vaultz File Organizer Storage Box"
         ],
         [
-          "",
+          "Prioritizing plastic",
           "Storex Portable Letter/Legal Filebox with Organizer Lid"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $24",
           "Storex Portable Letter/Legal Filebox with Organizer Lid"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "Sterilite Portable File Box"
         ],
         [
           "No firm budget ceiling, prioritizing security or durability",
@@ -99,14 +99,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: Vaultz Portable File Box with Handle, Vaultz File Organizer Storage Box."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: Storex Portable Letter/Legal Filebox with Organizer Lid, Pendaflex Portable File Box with File Rails, Sterilite Portable File Box."
       }
     ],
@@ -116,8 +116,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Vaultz Portable File Box with Handle offers: Most reinforced construction in this comparison. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Storex Portable Letter/Legal Filebox with Organizer Lid already covers the essentials: Highest review count of any pick here. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -157,7 +157,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine construction difference verification",
     "description": "We checked whether 'heavy-duty' picks show real material or construction differences justifying the label versus standard-tier boxes, rather than assuming heavier marketing language alone indicates superior build."
   },
   {
@@ -165,11 +165,11 @@ export const howWeEvaluated = [
     "description": "We treated this as the central differentiating test given this category's transport-focused use, where drops are a realistic risk."
   },
   {
-    "title": "",
+    "title": "Price premium vs. tested durability improvement",
     "description": "We weighed each heavy-duty pick's price premium against genuine, verifiable durability improvement over standard-tier alternatives."
   },
   {
-    "title": "",
+    "title": "Standard-tier comparison points",
     "description": "We included proven standard-tier boxes directly in this comparison so buyers can honestly weigh whether the heavy-duty premium is worth it for their use case."
   }
 ];

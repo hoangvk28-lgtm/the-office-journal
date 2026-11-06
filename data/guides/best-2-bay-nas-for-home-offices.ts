@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Synology DS223 Home & Office Backup Hub"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Synology DS223 Home & Office Backup Hub"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $200",
           "Asustor Drivestor 2 Gen 2"
         ],
         [
-          "",
-          ""
+          "Up to $520",
+          "Synology DS725+ Expandable NAS"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Bay Count vs Price",
     "cards": [
       {
         "label": "Asustor Drivestor 2 Gen 2",
         "text": "The lower-priced option in this comparison, worth checking its CPU and RAM against your actual workload."
       },
       {
-        "label": "",
+        "label": "Synology DS725+ Expandable NAS",
         "text": "The higher-priced option, worth it if it offers real bay count or performance headroom above the cheaper pick."
       }
     ],
     "note": "Default to Asustor Drivestor 2 Gen 2 unless your storage needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By CPU and RAM",
     "note": "Check each pick's listed CPU architecture and RAM amount against your actual workload before buying, not just bay count alone."
   },
   {
     "subheading": "For Media Streaming or Plex Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A CPU capable of hardware transcoding and enough RAM to handle multiple simultaneous streams, not just total bay count."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Synology DS223 Home & Office Backup Hub is worth checking against its listed CPU and RAM before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real multi-user performance, media transcoding, or business-critical reliability, where Synology DS725+ Expandable NAS's CPU and RAM give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need simple backup storage for one or two users, where Asustor Drivestor 2 Gen 2 covers the same job at a lower price."
       }
     ]
@@ -146,23 +146,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "True all-in cost",
     "description": "5GbE switch upgrade where relevant, rather than the sticker price alone."
   },
   {
-    "title": "",
+    "title": "RAM upgradeability",
     "description": "Distinguished value-series units with soldered RAM from Plus-series units with upgradeable DDR4, since that decides whether a unit can grow into heavier apps later."
   },
   {
-    "title": "",
+    "title": "Networking speed",
     "description": "5GbE only pays off with a compatible router or switch already in place."
   },
   {
-    "title": "",
+    "title": "Software ecosystem maturity",
     "description": "Weighed DSM, QTS, TOS, and UGREEN NAS OS against each other for app selection, ease of use, and ongoing development."
   },
   {
-    "title": "",
+    "title": "Drive compatibility policy",
     "description": "Checked whether each brand restricts or warns against third-party drives, since Synology's 2024+ Plus-series models now flag non-Synology drives."
   }
 ];

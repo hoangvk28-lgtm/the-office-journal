@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/31gfkFNYRHL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "2 Pack of A5 File Folders Felt Folder Expanding Document Folder Portable Felt"
         ],
         [
-          "",
+          "Continuous transcription/typing",
           "Yufocusqc PU Leather A5 File Folder Document Holder A5 Envelope Folder"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "2 Pack of A5 File Folders Felt Folder Expanding Document Folder Portable Felt"
         ],
         [
-          "",
+          "Mid-range pick",
           "Toplive File Folders, 12 Packs Plastic Envelopes Clear A5 Letter Size Waterproof"
         ],
         [
-          "",
+          "Higher budget",
           "H4D 9x5 Plastic Budget Envelopes for Cash System"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Freestanding",
     "cards": [
       {
         "label": "2 Pack of A5 File Folders Felt Folder Expanding Document Folder Portable Felt)",
         "text": "Sits between monitor and keyboard, minimal head movement."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits beside the monitor at eye level, more placement flexibility."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Letter/A4 size",
           "Yufocusqc PU Leather A5 File Folder Document Holder A5 Envelope Folder"
         ],
         [
-          "",
+          "Legal size or larger",
           "Toplive File Folders, 12 Packs Plastic Envelopes Clear A5 Letter Size Waterproof"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Transcription Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A line guide feature and independently adjustable angle and height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Yufocusqc PU Leather A5 File Folder Document Holder A5 Envelope Folder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where H4D 9x5 Plastic Budget Envelopes for Cash System justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 2 Pack of A5 File Folders Felt Folder Expanding Document Folder Portable Felt already covers the job at the lowest price here."
       }
     ]

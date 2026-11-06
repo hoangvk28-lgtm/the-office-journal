@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which converter with a monitor mount has the most reviews?",
-    "a": ""
+    "a": "The VIVO Height Adjustable 32 inch Standing Desk Converter with Dual Monitor Stand, with 1,872 reviews."
   },
   {
     "q": "Is there a single-monitor mount option?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41cvTPf-cXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "VIVO Black 32 inch Desk Riser with Monitor Mount"
         ],
         [
-          "",
+          "Dual monitors",
           "VIVO Height Adjustable 32 inch Standing Desk Converter with Dual 13-30 Inch Monitor Stand"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $180",
           "VIVO Height Adjustable 32 inch Standing Desk Converter with Dual 13-30 Inch Monitor Stand"
         ],
         [
-          "",
+          "Mid-range",
           "VIVO Height Adjustable 36 inch Standing Desk Converter with Dual 13-30 Inch Monitor Stand"
         ],
         [
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: VIVO Height Adjustable 32 inch Standing Desk Converter with Dual 13-30 Inch Monitor Stand, VIVO Height Adjustable 32 inch Standing Desk Converter with Dual Monitor Stand (Alt Listing), VIVO Height Adjustable 36 inch Standing Desk Converter with Dual 13-30 Inch Monitor Stand."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. Electric Standing Desk Converter with Dual Monitor Arm."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "VIVO Height Adjustable 32 inch Standing Desk Converter with Dual 13-30 Inch Monitor Stand"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "VIVO Height Adjustable 32 inch Standing Desk Converter with Dual 13-30 Inch Monitor Stand"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VIVO Height Adjustable 32 inch Standing Desk Converter with Dual 13-30 Inch Monitor Stand fits this specifically: Largest review base among integrated-mount converters."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Electric Standing Desk Converter with Dual Monitor Arm offers: Only pick combining integrated monitor mounts with electric lift. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]

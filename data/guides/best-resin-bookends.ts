@@ -61,80 +61,80 @@ export const heroImage = "https://m.media-amazon.com/images/I/41xFs8o4+aL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A light stack of paperbacks",
-          ""
+          "Acrylic Bookends 4 Pcs"
         ],
         [
-          "",
-          ""
+          "A full mixed shelf",
+          "Large Bookends Resin Mold"
         ],
         [
           "A long shelf needing multiple pairs",
-          ""
+          "Lukitas Thinker Decorative Bookends"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Acrylic Bookends 4 Pcs"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Lukitas Thinker Decorative Bookends"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Lukitas Thinker Decorative Bookends"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
-        "label": "",
+        "label": "Decorative (e.g. Acrylic Bookends 4 Pcs)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Glossy or glass surface",
+          "Large Bookends Resin Mold"
         ],
         [
-          "",
-          ""
+          "Textured wood surface",
+          "Lukitas Thinker Decorative Bookends"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Large Bookends Resin Mold is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Lukitas Thinker Decorative Bookends justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Acrylic Bookends 4 Pcs already covers the job at the lowest price here."
       }
     ]

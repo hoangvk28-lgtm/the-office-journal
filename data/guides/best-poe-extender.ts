@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41lhN5lv6aL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $27",
+          "YuanLey 4 Port PoE Extender ($26.98)"
         ],
         [
-          "",
-          ""
+          "Under $39",
+          "TRENDnet TPE-E100 ($38.01)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "WAVLINK IP67 Outdoor Extender ($39.99)"
         ],
         [
-          "",
-          ""
+          "Under $60",
+          "Intellinet 1-Port Extender ($59.59)"
         ]
       ]
     }
@@ -118,11 +118,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Maximum Daisy-Chain Distance vs Outdoor Durability",
     "cards": [
       {
-        "label": "",
+        "label": "Maximum distance (Intellinet)",
         "text": "Supports up to five daisy-chained units for a total of 1968ft, the longest documented range in this comparison, but without an outdoor waterproof rating."
       },
       {
-        "label": "",
+        "label": "Outdoor durability (WAVLINK)",
         "text": "IP67-rated with fully enclosed, waterproof-capped ports, built for harsh outdoor and industrial environments, though its 2-unit chain covers less total distance."
       }
     ],
@@ -132,16 +132,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Number of Devices to Power",
     "table": {
       "headers": [
-        "",
-        ""
+        "Devices to power",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "One device, maximum distance",
           "Intellinet Gigabit PoE+ Extender, 1-Port"
         ],
         [
-          "",
+          "One device, outdoor installation",
           "WAVLINK IP67 Outdoor Gigabit PoE Extender"
         ],
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Government or Institutional Deployment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "NDAA compliance if your organization is subject to federal procurement rules restricting networking hardware from certain manufacturers."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The TRENDnet TPE-E100 specifically states NDAA compliance for US and Canada deployments, making it the clear choice for institutional buyers with that requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "59 price is justified by that level of disclosure and reach."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "98, the lowest price in this comparison."
       }
     ]
@@ -185,26 +185,26 @@ export const howWeEvaluated = [
     "description": "Compared how specifically each listing discloses wattage available at various daisy-chain lengths."
   },
   {
-    "title": "",
+    "title": "Warranty and Support Commitment",
     "description": "Compared warranty length and stated ongoing manufacturer support."
   },
   {
-    "title": "",
+    "title": "Outdoor and Industrial Durability",
     "description": "Compared IP waterproof ratings and housing materials for non-indoor installations."
   },
   {
-    "title": "",
+    "title": "Multi-Device Support",
     "description": "Compared whether an extender powers one, two, or three separate devices from a single unit."
   },
   {
-    "title": "",
+    "title": "PoE Standard Compatibility",
     "description": "3af/at compliance and auto-sensing wattage delivery."
   }
 ];
 
 export const introParagraphs = [
   "A PoE extender solves a simple but common networking problem: pushing Power over Ethernet and data beyond the standard 328ft (100m) Ethernet limit to reach a camera, access point, or other device mounted farther away than a direct cable run allows.",
-  ""
+  "We compared this lineup on documented power output at daisy-chained distance, brand warranty and support commitment, and outdoor durability, since one listing specifically breaks down power delivery across five chained units, from 24.6W at 656ft down to just 8.6W at 1968ft."
 ];
 
 export const lastUpdated = "2026-09-15";

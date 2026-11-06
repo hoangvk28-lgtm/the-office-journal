@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41oNQlE28AL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $530",
+          "LIVAUVEAD ($529.99)"
         ],
         [
-          "",
-          ""
+          "Under $580",
+          "Mjkone ($579.99)"
         ],
         [
-          "",
-          ""
+          "Under $650",
+          "Squireewo ($649.99)"
         ],
         [
-          "",
-          ""
+          "Under $800",
+          "Merax ($779.71)"
         ]
       ]
     }
@@ -118,39 +118,39 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Wall-Mounted vs Freestanding Rotating Design",
     "cards": [
       {
-        "label": "",
+        "label": "Wall-mounted (LIVAUVEAD, Squireewo, Merax)",
         "text": "Requires anchoring into a load-bearing or stud wall, typically offering higher weight capacity and more integrated features in exchange for a permanent installation."
       },
       {
-        "label": "",
+        "label": "Freestanding rotating (Mjkone)",
         "text": "Skips wall mounting entirely via a 180-degree rotation mechanism, ideal for renters or anyone who can't or doesn't want to drill into walls."
       }
     ],
     "note": "If you're renting or want the flexibility to relocate the bed later without wall damage, the Mjkone's freestanding design is the clear choice. If you own your home and want maximum integrated features, the wall-mounted picks offer more storage and lighting options."
   },
   {
-    "subheading": "",
+    "subheading": "By Storage Type Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your storage priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Hanging clothing storage plus shelving",
-          ""
+          "Merax"
         ],
         [
           "Simple integrated shelf without wall mounting",
-          ""
+          "Mjkone"
         ],
         [
           "Ambient LED lighting over storage",
-          ""
+          "Squireewo"
         ],
         [
           "No storage, just headboard comfort",
-          ""
+          "LIVAUVEAD"
         ]
       ]
     }
@@ -159,24 +159,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Rented Apartment Without Drilling Permission Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A freestanding rotation mechanism that doesn't require anchoring into wall studs, since most rental agreements restrict permanent wall modifications."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Mjkone pick's 180-degree rotating system specifically eliminates the need for wall mounting, making it the only pick in this tier suitable for a strict no-drilling rental."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the most comprehensive integrated storage wall with hanging space and shelving, where the Merax pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want headboard comfort for reading without extra storage or lighting features, where the LIVAUVEAD pick covers that for about $250 less."
       }
     ]
@@ -185,23 +185,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Mounting Requirements",
     "description": "Distinguished wall-mounted gas-strut or spring designs from freestanding rotating mechanisms."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated weight limits ranging from 400 to 1000 lbs across the lineup."
   },
   {
-    "title": "",
+    "title": "Integrated Storage and Lighting",
     "description": "Checked for built-in shelving, hanging storage, and LED lighting features."
   },
   {
-    "title": "",
+    "title": "Comfort Features",
     "description": "Compared headboard inclusion and mattress thickness compatibility across all four picks."
   },
   {
-    "title": "",
+    "title": "Shipping and Assembly Complexity",
     "description": "Checked package count and stated assembly requirements across the tier."
   }
 ];

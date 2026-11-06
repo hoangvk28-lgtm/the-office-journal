@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "JMHUD 5"
         ],
         [
-          "",
+          "Up to $27",
           "Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder"
         ]
       ]
@@ -98,42 +98,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adjustable Tiers vs Fixed Spacing",
     "cards": [
       {
-        "label": "",
+        "label": "Adjustable tiers",
         "text": "Customize spacing for mixed folder or document sizes. In this comparison: Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder."
       },
       {
-        "label": "",
+        "label": "Fixed spacing",
         "text": "Simpler, fine if your items are a consistent size. B Wall File Organizer Office Hanging Magazine Holder, JMHUD 5, Simple Trending Wall File Organizer, JMHUD 5."
       }
     ],
     "note": "Default to adjustable tiers unless your filing needs are uniform in size."
   },
   {
-    "subheading": "",
+    "subheading": "By Footprint",
     "note": "Check each pick's listed dimensions against your actual measured wall or desk-edge space before buying, not just the general size category."
   },
   {
     "subheading": "For a Renter or Shared Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine no-drill desk-edge or under-desk clamp mount, not a wall-mount requiring drilling into drywall or a stud."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since mounting method varies across this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're organizing a heavy, varied file collection, where Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder's capacity and adjustability give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light, occasional storage for a few folders, where JMHUD 5 covers the same job at a lower price."
       }
     ]
@@ -146,11 +146,11 @@ export const howWeEvaluated = [
     "description": "We checked whether each organizer's weight rating is tied to stud mounting, drywall anchors, or both, and disclosed the difference."
   },
   {
-    "title": "",
+    "title": "Renter-friendliness tradeoff",
     "description": "We were explicit that every pick in this guide requires drilling, distinct from the no-drill desk-edge alternatives covered in our other hanging organizer guides."
   },
   {
-    "title": "",
+    "title": "Desk-to-wall proximity and reach",
     "description": "We considered how convenient it is to reach a wall-mounted organizer from a nearby desk compared to a desk-edge-hung alternative."
   },
   {

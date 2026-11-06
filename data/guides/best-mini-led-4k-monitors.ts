@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Curved-faq",
     "q": "Is a curved 4K monitor better than flat?",
     "a": "It depends on your use, curved reduces eye travel and adds immersion for gaming or media but distorts straight lines in spreadsheet, CAD, or design work where geometric accuracy matters."
   },
   {
-    "id": "",
+    "id": "Panel-faq",
     "q": "Should I get an IPS, OLED, or VA 4K monitor?",
     "a": "IPS gives the most consistent accurate color, OLED gives the deepest contrast and fastest response with a real long-term burn-in risk on static content, VA splits the difference with strong contrast but slower response, match to your primary use."
   },
   {
-    "id": "",
+    "id": "Hdr-faq",
     "q": "Does HDR on a 4K monitor actually look different?",
     "a": "It depends heavily on the certification tier, DisplayHDR 400 is a low bar with modest brightness gains, DisplayHDR 600 and above reflects capable HDR hardware, check the specific tier rather than trusting the word HDR alone."
   },
   {
-    "id": "",
+    "id": "Scaling-faq",
     "q": "Is a smaller 4K monitor harder to use than a larger one?",
     "a": "It needs OS-level scaling to keep text readable, which works well in most modern software but can render blurry in some older or niche applications, verify your specific software handles scaling before buying a smaller panel."
   },
   {
-    "id": "",
+    "id": "Response-faq",
     "q": "Can I trust the response time number on the box?",
     "a": "Not fully, it's usually a best-case lab number under aggressive overdrive settings, real-world motion clarity is often worse and can show ghosting, check independent motion-clarity reviews instead."
   },
   {
-    "id": "",
+    "id": "Hdmi-faq",
     "q": "Why isn't my 4K monitor hitting its advertised refresh rate?",
     "a": "0 caps out around 60Hz at full 4K regardless of what the panel itself is rated for."
   }
@@ -66,34 +66,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41aGMYKpSYL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General office and browsing",
           "TITAN ARMY P275MV Plus 27\" Dual Mode Mini LED Gaming Monitor"
         ],
         [
-          "",
+          "Color-critical creative work",
           "AOC 27\" Gaming Monitor 4K Mini-LED Dual Mode 320Hz NVIDIA G-SYNC U27G4XM"
         ],
         [
-          "",
+          "Fast-paced gaming",
           "KTC 27 Inch Dual Mode Mini LED Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "TITAN ARMY P275MV Plus 27\" Dual Mode Mini LED Gaming Monitor"
         ],
         [
-          "",
+          "Mid-range pick",
           "Msi MPG 274URDFW E16M 27-inch 3840 x 2160 (UHD) Gaming Monitor"
         ],
         [
-          "",
+          "Higher budget",
           "KTC 27 Inch Dual Mode Mini LED Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "IPS vs OLED Panel",
     "cards": [
       {
         "label": "TITAN ARMY P275MV Plus 27\" Dual Mode Mini LED Gaming Monitor)",
         "text": "Consistent accurate color from wide angles, weaker black levels."
       },
       {
-        "label": "",
+        "label": "OLED",
         "text": "Deeper contrast and faster response, real long-term burn-in risk on static content."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk depth",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard desk distance",
           "AOC 27\" Gaming Monitor 4K Mini-LED Dual Mode 320Hz NVIDIA G-SYNC U27G4XM"
         ],
         [
-          "",
+          "Larger or multi-monitor desk",
           "Msi MPG 274URDFW E16M 27-inch 3840 x 2160 (UHD) Gaming Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed USB-C power delivery wattage that matches your laptop's actual charging requirement, not just a USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "AOC 27\" Gaming Monitor 4K Mini-LED Dual Mode 320Hz NVIDIA G-SYNC U27G4XM is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where KTC 27 Inch Dual Mode Mini LED Monitor justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where TITAN ARMY P275MV Plus 27\" Dual Mode Mini LED Gaming Monitor already covers the job at the lowest price here."
       }
     ]

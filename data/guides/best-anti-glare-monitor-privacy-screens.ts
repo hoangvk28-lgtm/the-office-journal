@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which anti-glare privacy screen has the most reviews?",
-    "a": ""
+    "a": "The SightPro 24 Inch 16:9 Computer Privacy Screen Filter, with 4,087 reviews at a 4.3 rating."
   },
   {
     "q": "Does anti-glare reduce text sharpness?",
@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest anti-glare option?",
-    "a": ""
+    "a": "The Computer Privacy Screen Filter for 21.5 Inch at $25.99."
   },
   {
     "q": "Is there a bundled anti-glare and blue-light option?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "SightPro 24 Inch 16:9 Computer Privacy Screen Filter"
         ],
         [
-          "",
+          "Laptop screen",
           "SightPro 24 Inch 16:9 Computer Privacy Screen Filter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $36",
+          "Computer Privacy Screen Filter for 21.5 Inch 16:9"
         ],
         [
-          "",
+          "Mid-range",
           "[2 Pack] 24 Inch Computer Privacy Screen Filter"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: SightPro 24 Inch 16:9 Computer Privacy Screen Filter."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: none explicitly confirmed in this specific roundup, check the listing directly before assuming."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest star rating",
+          "Computer Privacy Screen Filter for 21.5 Inch 16:9"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "[2 Pack] 34 Inch Privacy Screen for Curved Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SightPro 24 Inch 16:9 Computer Privacy Screen Filter fits this specifically: Large review base with explicit anti-glare marketing."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what [2 Pack] 34 Inch Privacy Screen for Curved Monitor offers: Bundles anti-glare with blue-light filtering. That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5 Inch 16:9 already covers the essentials: Lowest price among anti-glare options in this comparison. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]

@@ -33,11 +33,11 @@ export const faq = [
   },
   {
     "q": "What's the cheapest 32 inch option?",
-    "a": ""
+    "a": "The J J-Dream 32 Inch Computer Monitor Privacy Screen at $45.99."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the highest-rated 32 inch option?",
+    "a": "The Vxaop [2-Pack] 32 Inch Computer Privacy Screen Filter at 4.6, at roughly half the price of the most-reviewed pick."
   },
   {
     "q": "Why is the price range so wide at this size?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "Peslv [2 Pack] 32 Inch Privacy Screen for Computer Monitor"
         ],
         [
-          "",
+          "Laptop screen",
           "Peslv [2 Pack] 32 Inch Privacy Screen for Computer Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $46",
           "J J-Dream 32 Inch Computer Monitor Privacy Screen"
         ],
         [
-          "",
+          "Mid-range",
           "SightPro 32 Inch 16:9 Computer Privacy Screen Filter for Monitor"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: check each listing's mounting method, it isn't always stated clearly."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: none explicitly confirmed in this specific roundup, check the listing directly before assuming."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Vxaop [2-Pack] 32 Inch Computer Privacy Screen Filter (16:9 Aspect Ratio)"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Peslv [2 Pack] 32 Inch Privacy Screen for Computer Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Peslv [2 Pack] 32 Inch Privacy Screen for Computer Monitor fits this specifically: Largest review base of any 32 inch filter in our research."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Peslv [2 Pack] 32 Inch Privacy Screen for Computer Monitor offers: Bundles anti-glare and blue-light filtering. That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "J J-Dream 32 Inch Computer Monitor Privacy Screen already covers the essentials: Lowest price among all confirmed 32 inch options. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Weighed very small review counts appropriately",
-    "description": ""
+    "description": "One pick here has only 4 reviews; we flagged this directly rather than treating its rating with the same confidence as picks with hundreds or thousands."
   },
   {
     "title": "Noted bundled anti-glare and blue-light features where present",

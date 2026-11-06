@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the best overall XPS laptop lock?",
-    "a": ""
+    "a": "For Wedge-slot XPS generations, the Kensington N17 Dell Laptop Lock (Keyed), with the highest rating in this comparison at 4.6 stars."
   },
   {
     "q": "Is there a lock for the newest XPS 14 or 16 with USB-C security?",
@@ -57,42 +57,42 @@ export const heroImage = "https://m.media-amazon.com/images/I/318e9NPLaXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Slot Type",
     "table": {
       "headers": [
-        "",
+        "Your laptop's slot",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Confirmed usb-c slot",
           "Kensington PortLock Keyed Laptop Lock for USB-C Slots"
         ],
         [
-          "",
-          ""
+          "Confirmed noble wedge slot",
+          "StarTech Laptop Cable Lock"
         ],
         [
-          "",
+          "Confirmed nano slot",
           "Kensington Universal 3-in-1 Combination Laptop Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $24",
           "Kensington N17 Dell Laptop Combination Lock"
         ],
         [
-          "",
+          "Mid-range",
           "Kensington N17 Dell Laptop Lock"
         ],
         [
@@ -103,24 +103,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: Kensington N17 Dell Laptop Combination Lock, Kensington Universal 3-in-1 Combination Laptop Lock."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: Kensington N17 Dell Laptop Lock, Kensington PortLock Keyed Laptop Lock for USB-C Slots."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -128,7 +128,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Kensington N17 Dell Laptop Lock"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "Kensington Universal 3-in-1 Combination Laptop Lock"
         ]
       ]
@@ -138,24 +138,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Kensington N17 Dell Laptop Lock fits this specifically: Highest confirmed rating in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Kensington PortLock Keyed Laptop Lock for USB-C Slots offers: Only pick in this comparison purpose-built for the newest XPS USB-C security slot. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

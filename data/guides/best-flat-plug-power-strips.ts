@@ -52,39 +52,39 @@ export const heroImage = "https://m.media-amazon.com/images/I/41J41Z-k38L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Outlet Count",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Compact, fewer outlets needed",
+          "Surge Protector Power Strip"
         ],
         [
-          "",
-          ""
+          "Maximum outlet capacity",
+          "Surge Protector Power Strip"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "Surge Protector Power Strip"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "SUPERDANNY Extension Cord"
         ],
         [
           "No firm budget ceiling, prioritizing outlets or surge protection",
@@ -97,30 +97,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C PD Charging vs Outlets Only",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C PD Charging",
         "text": "Charges laptops and higher-power devices faster directly from the strip, without a separate charging brick. In this comparison: Surge Protector Power Strip 15 Ft Cord, Surge Protector Power Strip."
       },
       {
-        "label": "",
+        "label": "AC Outlets Only",
         "text": "Simpler design focused purely on outlet count, pair with your own chargers as needed. In this comparison: Surge Protector Power Strip, One Beat Surge Protector Power Strip, SUPERDANNY Extension Cord."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Surge Protection Level",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Highest joule rating for surge protection",
-          ""
+          "Surge Protector Power Strip"
         ],
         [
-          "",
-          ""
+          "Basic protection, lower cost",
+          "Surge Protector Power Strip"
         ]
       ]
     }
@@ -129,24 +129,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Bulky Wall-Wart Adapters Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Wide or offset outlet spacing explicitly mentioned in the listing or shown in product photos, not just a high raw outlet count."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Surge Protector Power Strip 15 Ft Cord fits this specifically: long 15ft cord for distant placement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Surge Protector Power Strip 15 Ft Cord offers: long 15ft cord for distant placement. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Surge Protector Power Strip already covers the essentials: Very affordable for the outlet and USB-C count. The main thing you'd be paying extra for elsewhere in this list is capacity or charging speed you may not need."
       }
     ]
@@ -159,7 +159,7 @@ export const howWeEvaluated = [
     "description": "Clarified that a flat plug allows the cord to exit close to the wall behind furniture, but the power strip body itself still needs its own placement space, a distinction competitors rarely make."
   },
   {
-    "title": "",
+    "title": "Rotating vs. fixed-angle plug orientation compatibility",
     "description": "Noted that only rotating flat plugs accommodate outlets oriented differently, a fixed flat plug designed for vertical outlets may not sit flush against horizontally oriented outlets."
   },
   {

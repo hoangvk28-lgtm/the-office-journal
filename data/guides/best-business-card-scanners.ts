@@ -56,49 +56,49 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Brother DS"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Brother DS"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $135",
+          "Brother DS"
         ],
         [
-          "",
+          "Up to $280",
           "ScanSnap iX1300 Wireless or USB Double"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Scanning",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex scanning",
         "text": "Captures both sides of a page in one pass, worth it if you regularly handle double-sided documents. In this comparison: ScanSnap iX1300 Wireless or USB Double, Canon imageFORMULA R40II Office Document Scanner."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if your documents are mostly single-sided. In this comparison: Medical Insurance Card and ID Card Scanner, Ambir ImageScan Pro 667 Business Card Scanner with AmbirScan Business Card, AMBIR ID Card and Business Card Scanner PS670ST, PenPower WorldCard Pro Business Card Scanner, Ambir Technology PS667 Simplex A6 Card Scanner, Brother DS."
       }
     ],
@@ -108,16 +108,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By OCR / Searchable PDF Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Searchable PDF with OCR",
           "Medical Insurance Card and ID Card Scanner"
         ],
         [
-          "",
+          "Plain scans are enough",
           "AMBIR ID Card and Business Card Scanner PS670ST"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tax or Financial Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated duty cycle matched to your real monthly volume, plus verified OCR accuracy on receipts and financial documents specifically."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Medical Insurance Card and ID Card Scanner discloses OCR and searchable PDF support."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You process a real daily volume of double-sided documents, where ScanSnap iX1300 Wireless or USB Double's higher duty cycle and speed give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only scan occasionally at low volume, where Brother DS covers the same job at a lower price."
       }
     ]
@@ -157,11 +157,11 @@ export const howWeEvaluated = [
     "description": "Flagged that standard OCR trained on document text struggles with decorative business card fonts and dark/foil designs, an accuracy gap most reviews miss by testing only plain white-background sample cards."
   },
   {
-    "title": "",
+    "title": "Non-standard card size compatibility",
     "description": "5x2 inch size (square, oversized, rounded corners) commonly cause feed jams in ADF-based card-scan modes, a real compatibility gap for creative-industry or international cards."
   },
   {
-    "title": "",
+    "title": "Contact export format vs. real CRM import usability",
     "description": "Distinguished basic proprietary/CSV export from vCard-compatible export that imports cleanly into Salesforce, HubSpot, or similar CRM platforms without manual cleanup."
   }
 ];

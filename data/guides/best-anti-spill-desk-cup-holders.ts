@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Universal Large Desk Cup Holder Clamp"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "GUNKING Luxury 2"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "HzTinT Large Desk Cup Holder"
         ],
         [
-          "",
+          "Up to $20",
           "OOKUU Deeper Desk Cup Holder"
         ]
       ]
@@ -98,27 +98,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Metal Clamp vs Plastic Clamp",
     "cards": [
       {
-        "label": "",
+        "label": "Metal clamp",
         "text": "Holds its grip strength longer under repeated tightening, the better choice if you reposition the holder often. In this comparison: OOKUU Upgraded Large Desk Cup Holder Clamp, OOKUU Deeper Desk Cup Holder."
       },
       {
-        "label": "",
+        "label": "Plastic clamp",
         "text": "Usually lighter and cheaper, a reasonable choice if you clamp it once and leave it in place. In this comparison: Universal Large Desk Cup Holder Clamp."
       }
     ],
     "note": "Default to a metal clamp unless price is the deciding factor and you won't reposition the holder often."
   },
   {
-    "subheading": "",
+    "subheading": "By Feature Set",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Want a headphone hanger or hybrid design",
-          ""
+          "GUNKING Luxury 2"
         ],
         [
           "Just want a dedicated cup holder",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Oversized Tumbler Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed cavity diameter in inches, not just a vague \"large\" label, since oversized tumblers vary in exact width and a mismatched cavity won't grip securely."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "GUNKING Luxury 2 is worth checking against its listed diameter spec before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a metal clamp and deeper cavity, where OOKUU Deeper Desk Cup Holder's higher price buys real durability and tip resistance over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You use a standard-size mug and rarely bump your desk, where HzTinT Large Desk Cup Holder covers the same job at a lower price."
       }
     ]
@@ -161,11 +161,11 @@ export const howWeEvaluated = [
     "description": "We identified whether each 'anti-spill' claim is backed by a genuine deep, form-fitting cavity or a simple flat ring, and disclosed the difference."
   },
   {
-    "title": "",
+    "title": "Realistic incidental bump resistance",
     "description": "We prioritized picks with strong verified review history as a proxy for real-world performance under actual knee bumps and elbow knocks, not just static undisturbed conditions."
   },
   {
-    "title": "",
+    "title": "Container shape compatibility",
     "description": "We noted whether a mechanism performs consistently across both narrow bottles and wide mugs, or is optimized for only one shape."
   },
   {

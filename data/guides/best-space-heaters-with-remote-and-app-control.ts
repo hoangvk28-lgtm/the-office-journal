@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41yl-4HT31L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,22 +73,22 @@ export const howToChoose: HowToChooseSection[] = [
           "SereneLife Smart Space Heater, 1500W Indoor Electric Heater with Thermostat"
         ],
         [
-          "",
+          "Standard bedroom or office",
           "MORENTO Space Heaters for Indoor Use"
         ],
         [
-          "",
+          "Larger living space",
           "FLANUR 1500W PTC Ceramic Smart Space Heaters for Indoor Use"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "SereneLife Smart Space Heater, 1500W Indoor Electric Heater with Thermostat"
         ],
         [
-          "",
+          "Mid-range pick",
           "FLANUR 1500W Space Heaters for Indoor Use Large Room"
         ],
         [
-          "",
+          "Higher budget",
           "FLANUR 1500W PTC Ceramic Smart Space Heaters for Indoor Use"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Ceramic vs Oil-Filled Heat",
     "cards": [
       {
         "label": "MORENTO Space Heaters for Indoor Use)",
         "text": "Heats a room fastest using a fan, but cools down quickly once switched off."
       },
       {
-        "label": "",
+        "label": "Oil-filled radiator",
         "text": "Slower to warm up but silent and holds heat long after being turned off, best for overnight use."
       }
     ],
     "note": "Match this to whether you need fast heat now or quiet, sustained warmth overnight."
   },
   {
-    "subheading": "",
+    "subheading": "By Safety Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,7 +133,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Check for both tip-over AND overheat protection specifically"
         ],
         [
-          "",
+          "Standard adult-only room",
           "MORENTO Space Heaters for Indoor Use"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Overnight Bedroom Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine low-wattage setting, a working thermostat that cycles off, and UL/ETL/CSA safety certification."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MORENTO Space Heaters for Indoor Use is worth checking against its specific safety certifications before assuming any 'safe' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're heating a larger room and want a thermostat and multiple heat settings, where FLANUR 1500W PTC Ceramic Smart Space Heaters for Indoor Use justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're heating a small space or supplementing central heat, where SereneLife Smart Space Heater, 1500W Indoor Electric Heater with Thermostat already covers the job at the lowest price here."
       }
     ]
@@ -178,7 +178,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Third-Party Safety Certification (UL, ETL, or CSA)",
-    "description": ""
+    "description": "A label from UL Solutions, ETL (Intertek), or CSA means the heater's construction and performance were independently tested against recognized U.S."
   },
   {
     "title": "Ceramic vs Infrared vs Oil-Filled Heat Type",
@@ -186,7 +186,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Running Cost at Full Wattage",
-    "description": ""
+    "description": "A typical 1,500-watt space heater costs roughly $0.12 to $0.23 per hour to run at the U.S."
   }
 ];
 

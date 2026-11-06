@@ -9,7 +9,7 @@ export const buyingCriteria = [
     "explanation": "Count every source you'll actually switch between, cameras, a laptop for slides or overlays, a playback device, not just your camera count, since overlays and graphics sources eat into the same input budget. A 4-input switcher fills up fast once you add a single graphics overlay to two cameras, so buy with real margin above your current setup rather than the bare minimum."
   },
   {
-    "criterion": "",
+    "criterion": "HDMI vs SDI Connectivity",
     "explanation": "The choice between HDMI and SDI connectivity comes down to cable run distance and connection security: HDMI works well for short runs in a small studio, while SDI's locking connector and longer maximum cable length suit live events or larger venues where cables run farther and get bumped. Check your cameras' actual output connectors against the switcher's input type before buying."
   },
   {
@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41eYeWA0knL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Input Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "2-3 cameras, minimal overlays",
           "MT-VIKI 4K HDMI Matrix Switch 4x4 with Audio Extraction +Web GUI+ Remote"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "FERRISA 4x2 HDMI Matrix Switch"
         ],
         [
-          "",
+          "Multiple cameras plus graphics",
           "Arvitek 8x8 4K Seamless HDMI Matrix Switch with Web GUI"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "MT-VIKI 4K HDMI Matrix Switch 4x4 with Audio Extraction +Web GUI+ Remote"
         ],
         [
-          "",
+          "Mid-range pick",
           "MT-VIKI 4K HDMI Matrix Switch 8X8 w/Web GUI & Audio Extraction w/Remote"
         ],
         [
-          "",
+          "Higher budget",
           "Arvitek 8x8 4K Seamless HDMI Matrix Switch with Web GUI"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "HDMI vs SDI Connectivity",
     "cards": [
       {
         "label": "MT-VIKI 4K HDMI Matrix Switch 4x4 with Audio Extraction +Web GUI+ Remote)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match connector type to your actual cameras and cable run distances."
   },
   {
-    "subheading": "",
+    "subheading": "By Network Routing Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard cabled setup",
           "FERRISA 4x2 HDMI Matrix Switch"
         ],
         [
-          "",
+          "NDI routing over network",
           "Check specifically for NDI support and plan real network bandwidth"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Post-Production Flexibility Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "ISO recording support, which captures each individual camera separately so you can re-edit footage after the fact."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "FERRISA 4x2 HDMI Matrix Switch is worth checking against its specific ISO recording spec before assuming any switcher supports it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need more inputs, SDI connectivity, or ISO recording for a growing production, where Arvitek 8x8 4K Seamless HDMI Matrix Switch with Web GUI justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're running a simple 2-3 camera setup, where MT-VIKI 4K HDMI Matrix Switch 4x4 with Audio Extraction +Web GUI+ Remote already covers the job at the lowest price here."
       }
     ]
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "Count every source you'll actually switch between, cameras, a laptop for slides or overlays, a playback device, not just your camera count, since overlays and graphics sources eat into the same input budget."
   },
   {
-    "title": "",
+    "title": "HDMI vs SDI Connectivity",
     "description": "The choice between HDMI and SDI connectivity comes down to cable run distance and connection security: HDMI works well for short runs in a small studio, while SDI's locking connector and longer maximum cable length suit live events or larger venues where cables run farther and get bumped."
   },
   {

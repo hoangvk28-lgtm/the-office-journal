@@ -64,31 +64,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Much You Need to Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, everyday items",
           "SUNALLY Makeup Cart Organizer with Drawer, 3 Tier Rolling Makeup Cart"
         ],
         [
-          "",
+          "Standard mixed storage",
           "Goovilla Rolling Makeup Organizer Cart with Removable Drawer"
         ],
         [
-          "",
+          "Heavier or bulkier items",
           "Makeup Organizer Cart with Drawers Make Up Organizers for Vanity"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "SUNALLY Makeup Cart Organizer with Drawer, 3 Tier Rolling Makeup Cart"
         ],
         [
-          "",
+          "Mid-range pick",
           "Hongtamoya Makeup Cart Organizer with 4 Drawers"
         ],
         [
-          "",
+          "Higher budget",
           "Makeup Organizer Cart with Drawers Make Up Organizers for Vanity"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Drawers vs Open Bins",
     "cards": [
       {
         "label": "Goovilla Rolling Makeup Organizer Cart with Removable Drawer)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how often you need to see contents versus how much you want the cart to blend in."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hardwood or tile",
           "Check for polyurethane or rubber casters specifically"
         ],
         [
-          "",
+          "Carpet or concrete",
           "Goovilla Rolling Makeup Organizer Cart with Removable Drawer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Tight Spaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The actual width and depth measurement, not just a 'slim' or 'narrow' label, plus the extra inch the wheels add to the base footprint."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SUNALLY Makeup Cart Organizer with Drawer, 3 Tier Rolling Makeup Cart is worth checking against its exact footprint before assuming it fits a tight gap like between a washer and dryer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier casters for daily heavy use, where Makeup Organizer Cart with Drawers Make Up Organizers for Vanity justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing lighter, everyday items, where SUNALLY Makeup Cart Organizer with Drawer, 3 Tier Rolling Makeup Cart already covers the job at the lowest price here."
       }
     ]

@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Require Documented Solid-Wood Construction",
     "explanation": "Verify solid wood office credenzas's main structural components are solid wood, not just solid-wood accents on an engineered-wood body, before paying a premium for the material."
   },
   {
@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Plan for meaningfully higher shipping weight and potentially professional delivery, since true solid wood is considerably heavier than engineered-wood equivalents at the same size."
   },
   {
-    "criterion": "",
+    "criterion": "Understand Seasonal Movement",
     "explanation": "Expect some natural expansion and contraction with humidity changes, a normal characteristic of solid wood that engineered wood and laminate largely avoid."
   },
   {
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/51XR7nTc5bL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Require Documented Solid-Wood Construction",
     "note": "Verify solid wood office credenzas's main structural components are solid wood, not just solid-wood accents on an engineered-wood body, before paying a premium for the material."
   },
   {
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Plan for meaningfully higher shipping weight and potentially professional delivery, since true solid wood is considerably heavier than engineered-wood equivalents at the same size."
   },
   {
-    "subheading": "",
+    "subheading": "Understand Seasonal Movement",
     "note": "Expect some natural expansion and contraction with humidity changes, a normal characteristic of solid wood that engineered wood and laminate largely avoid."
   },
   {
@@ -80,7 +80,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Function Classified Before Comparison",
     "description": "Sorted each product into storage credenza, credenza desk, file credenza, or desk-system credenza before ranking, since 'office credenza' spans meaningfully different furniture types that don't compare fairly against each other."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Compared published interior drawer, shelf, and cabinet dimensions rather than exterior width or door count alone, since partitions and hardware can meaningfully shrink real usable space."
   },
   {
-    "title": "",
+    "title": "File Compatibility Verified Directly",
     "description": "Checked letter/legal compatibility, filing direction, and lock coverage against each product's own documentation rather than assuming a 'file drawer' label means full hanging-file support."
   },
   {

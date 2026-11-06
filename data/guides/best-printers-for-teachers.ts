@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Brother DCP"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Brother DCP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $74",
           "Canon PIXMA TS6520 Wireless Color Inkjet Printer"
         ],
         [
-          "",
-          ""
+          "Up to $285",
+          "Brother HL"
         ]
       ]
     }
@@ -106,23 +106,23 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Brother HL",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Canon PIXMA TS6520 Wireless Color Inkjet Printer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Brother DCP"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Brother DCP is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Brother HL's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon PIXMA TS6520 Wireless Color Inkjet Printer covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Home versus classroom fit",
     "description": "Separated picks suited to a teacher's home grading and prep workflow from picks built for sustained classroom-scale daily volume."
   },
   {
@@ -165,11 +165,11 @@ export const howWeEvaluated = [
     "description": "Weighed printer price plus ongoing ink or toner cost against a typical its price-200 annual district supply stipend, not against sticker price alone."
   },
   {
-    "title": "",
+    "title": "Color contrast for worksheets",
     "description": "Considered readability of diagrams, charts, and color-coded materials, since worksheet legibility matters more for teaching than full photo color accuracy."
   },
   {
-    "title": "",
+    "title": "Paperless workflow support",
     "description": "Checked automatic document feeder support and scan quality for teachers building a scan-to-cloud grading workflow to reduce paper handling."
   },
   {

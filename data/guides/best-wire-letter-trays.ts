@@ -61,75 +61,75 @@ export const heroImage = "https://m.media-amazon.com/images/I/41HOYlKGjIL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Just 2-3 categories",
+          "YOUEON 2 Pack Wire Mesh Letter Trays 12.8\"x10\"x2.9\""
         ],
         [
-          "",
+          "Several distinct categories",
           "Mind Reader Stackable Paper Tray"
         ],
         [
-          "",
+          "High document volume",
           "AZFUNN Desk Metal Mesh Basket"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "YOUEON 2 Pack Wire Mesh Letter Trays 12.8\"x10\"x2.9\""
         ],
         [
-          "",
+          "Mid-range pick",
           "Letter Tray Paper Organizer 5-Tier Desk Organizer File Organizer Paper Holder"
         ],
         [
-          "",
+          "Higher budget",
           "AZFUNN Desk Metal Mesh Basket"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
-        "label": "",
+        "label": "Wire mesh (e.g. YOUEON 2 Pack Wire Mesh Letter Trays 12.8\"x10\"x2.9\")",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "Mind Reader Stackable Paper Tray"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Mind Reader Stackable Paper Tray is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where AZFUNN Desk Metal Mesh Basket justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "9\" already covers the job at the lowest price here."
       }
     ]

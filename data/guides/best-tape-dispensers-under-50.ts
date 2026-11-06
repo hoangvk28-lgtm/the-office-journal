@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41LU4umWzaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "Minghaoda 12 Rolls Clear Tape Refills Roll Transparent Tape Refill Rolls"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Scotch Heavy Duty Shipping Packing Tape"
         ],
         [
-          "",
+          "High-volume packing",
           "Acrylic Gold Tape Dispenser & Desktop Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Minghaoda 12 Rolls Clear Tape Refills Roll Transparent Tape Refill Rolls"
         ],
         [
-          "",
+          "Mid-range pick",
           "PROSUN Fast Reload 2 Inch Tape Gun Dispenser Packing Packaging Sealing Cutter"
         ],
         [
-          "",
+          "Higher budget",
           "Acrylic Gold Tape Dispenser & Desktop Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "Minghaoda 12 Rolls Clear Tape Refills Roll Transparent Tape Refill Rolls)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Scotch Heavy Duty Shipping Packing Tape"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "PROSUN Fast Reload 2 Inch Tape Gun Dispenser Packing Packaging Sealing Cutter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Scotch Heavy Duty Shipping Packing Tape is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Acrylic Gold Tape Dispenser & Desktop Stapler justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Minghaoda 12 Rolls Clear Tape Refills Roll Transparent Tape Refill Rolls already covers the job at the lowest price here."
       }
     ]

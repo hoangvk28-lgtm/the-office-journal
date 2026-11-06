@@ -41,39 +41,39 @@ export const heroImage = "https://m.media-amazon.com/images/I/31yaJir8URL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Watt-Hour Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 97.2Wh capacity",
+          "TalentCell Mini UPS 27000mAh 97.2Wh"
         ],
         [
-          "",
+          "Around 29.6Wh capacity",
           "RGTTOTG POE04 Mini UPS 8800mAh"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $49",
           "RGTTOTG POE04 Mini UPS 8800mAh"
         ],
         [
-          "",
-          ""
+          "Up to $65",
+          "TalentCell Mini UPS 27000mAh 97.2Wh"
         ]
       ]
     }
@@ -82,42 +82,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "PoE Output vs DC-Only Rails",
     "cards": [
       {
-        "label": "",
+        "label": "PoE output",
         "text": "Can back up a router and a PoE camera off one unit over a single Ethernet run, worth checking passive vs active PoE compatibility. In this comparison: RGTTOTG POE04 Mini UPS 8800mAh."
       },
       {
-        "label": "",
+        "label": "DC rails only",
         "text": "Simpler and covers standard router power needs without PoE complexity."
       }
     ],
     "note": "Default to DC-only unless you specifically need to back up a PoE device from the same unit."
   },
   {
-    "subheading": "",
+    "subheading": "By Connector Type",
     "note": "Check each pick's listed connector size and polarity against your router's original power adapter before buying, not just the voltage number. RGTTOTG POE04 Mini UPS 8800mAh is worth starting with if you want the most affordable option."
   },
   {
     "subheading": "For Router Plus Modem Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Two independent output rails at different voltages, or a confirmed combined wattage ceiling that covers both devices' actual draw without a Y-splitter."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since dual-rail output isn't consistently disclosed across every unit in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "2Wh's higher capacity gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a short bridge through brief flickers for a single router, where RGTTOTG POE04 Mini UPS 8800mAh covers the same job at a lower price."
       }
     ]
@@ -134,15 +134,15 @@ export const howWeEvaluated = [
     "description": "Normalized battery capacity to watt-hours wherever the listing or official spec sheet provided pack voltage, since mAh alone is not comparable across products with different cell configurations."
   },
   {
-    "title": "",
+    "title": "Combined Output Ceiling",
     "description": "Looked for an explicit maximum continuous wattage figure, since routers and secondary devices (modems, cameras) sharing one UPS need headroom under that ceiling, not just individually rated ports."
   },
   {
-    "title": "",
+    "title": "Connector & Protection Documentation",
     "description": "Favored listings that specify exact connector size, polarity, and safety protections (short-circuit, overcharge, over-discharge, temperature) over listings that only market broad 'wide compatibility' claims."
   },
   {
-    "title": "",
+    "title": "Real Feature Differentiators",
     "description": "Weighed genuine differentiators, PoE output, LCD status displays, dual charging inputs, LiFePO4 battery chemistry, over marketing language that repeats across nearly identical products."
   }
 ];

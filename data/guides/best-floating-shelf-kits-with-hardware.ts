@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Tm0295azL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light decorative items",
           "8pcs Floating Shelf Bracket Heavy Duty, Hidden Shelf Brackets Wall"
         ],
         [
-          "",
+          "Books, standard decor",
           "8pcs Wall Shelf Brackets Heavy Duty Floating Shelf Bracket Hidden, Invisible"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "2Pcs 34\" Heavy Duty Floating Shelf Brackets with Complete Installation Kit"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "8pcs Floating Shelf Bracket Heavy Duty, Hidden Shelf Brackets Wall"
         ],
         [
-          "",
+          "Mid-range pick",
           "Upgrade 34 in Floating Shelf Bracket"
         ],
         [
-          "",
+          "Higher budget",
           "2Pcs 34\" Heavy Duty Floating Shelf Brackets with Complete Installation Kit"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "2Pcs 34\" Heavy Duty Floating Shelf Brackets with Complete Installation Kit)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Studs available where needed",
           "8pcs Wall Shelf Brackets Heavy Duty Floating Shelf Bracket Hidden, Invisible"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "2Pcs 34\" Heavy Duty Floating Shelf Brackets with Complete Installation Kit is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where 2Pcs 34\" Heavy Duty Floating Shelf Brackets with Complete Installation Kit justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're displaying light decorative items only, where 8pcs Floating Shelf Bracket Heavy Duty, Hidden Shelf Brackets Wall already covers the job at the lowest price here."
       }
     ]

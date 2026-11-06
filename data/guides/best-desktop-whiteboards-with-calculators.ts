@@ -18,7 +18,7 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Weigh review volume heavily given similar core function",
-    "explanation": ""
+    "explanation": "Since the calculator feature is similar across all five, an established review base is the strongest way to differentiate them."
   },
   {
     "criterion": "Check writing area size if that matters to you",
@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "Which has the highest rating?",
-    "a": ""
+    "a": "The Varhomax Glass Desk Whiteboard with Calculator, at 4.8 stars, though with a smaller review base."
   },
   {
     "q": "Is there an option with storage as well as a calculator?",
@@ -57,27 +57,27 @@ export const heroImage = "https://m.media-amazon.com/images/I/31G9bJljgSL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Choose by Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest rating",
           "Varhomax Glass Desk Whiteboard with Calculator"
         ],
         [
-          "",
+          "Calculator plus storage",
           "SELEAD Desktop Glass Whiteboard with Calculator and Storage"
         ],
         [
-          "",
+          "Most proven, largest board",
           "TOWON Glass Desk Whiteboard 18x6"
         ],
         [
-          "",
+          "Keyboard-adjacent placement",
           "Small Glass Desktop Whiteboard, Keyboard Stand with Calculator"
         ]
       ]
@@ -87,11 +87,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Confirmed permanently integrated calculator",
     "description": "We required a built-in, non-removable calculator, not a loose accessory sold alongside a whiteboard."
   },
   {
-    "title": "",
+    "title": "Price clustering noted directly",
     "description": "We observed all five products price within a band (this comparison's price range) and focused the comparison on other differentiators rather than price alone."
   },
   {

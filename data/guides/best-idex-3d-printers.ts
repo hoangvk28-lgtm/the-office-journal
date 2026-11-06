@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Leveling-faq",
     "q": "Is automatic bed leveling worth paying extra for?",
     "a": "It saves real recurring setup time if you print frequently, manual leveling requires adjusting corner screws and checking with a feeler gauge before nearly every session."
   },
   {
-    "id": "",
+    "id": "Enclosure-faq",
     "q": "Do I need an enclosed 3D printer?",
     "a": "Only if you plan to print warping-prone materials like ABS or nylon, or your room is drafty, PLA in a stable room works fine on an open-frame printer."
   },
   {
-    "id": "",
+    "id": "Sensor-3dp-faq",
     "q": "What happens if filament runs out mid-print?",
     "a": "Without a filament run-out sensor, the print simply fails and wastes everything printed so far, this matters most for long unattended prints, check for this feature if you run extended jobs."
   },
   {
-    "id": "",
+    "id": "Nozzle-faq",
     "q": "Will any nozzle work with any filament?",
     "a": "No, abrasive filaments like carbon-fiber-infused or metal-infused wear down a standard brass nozzle quickly, a hardened steel or ruby-tipped nozzle holds up much longer with those materials."
   },
   {
-    "id": "",
+    "id": "Speed-faq",
     "q": "Should I print at the printer's maximum advertised speed?",
     "a": "Usually not for best quality, max speed often introduces visible ringing or dimensional drift, most users get better results dialing back somewhat from the advertised ceiling."
   },
   {
-    "id": "",
+    "id": "Fdm-resin-faq",
     "q": "Should I get an FDM or resin 3D printer?",
     "a": "FDM produces sturdier functional parts at lower cost with visible layer lines, resin produces far finer detail and smoother surfaces but requires ventilation and messier post-processing with isopropyl alcohol, match to what you're actually printing."
   }
@@ -67,34 +67,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/4180LQZaf1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you print",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Functional parts and prototypes",
           "Official IdeaFormer-3D IR3 V2 Conveyor Belt 3D Printer"
         ],
         [
-          "",
+          "Fine-detail miniatures or jewelry",
           "ANYCUBIC Kobra X Fast 3D Printer"
         ],
         [
-          "",
+          "Large-format projects",
           "Anycubic Kobra X Multicolor 3D Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,36 +102,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Official IdeaFormer-3D IR3 V2 Conveyor Belt 3D Printer"
         ],
         [
-          "",
+          "Mid-range pick",
           "FLASHFORGE Adventurer 5M Pro 3D Printer with 1 Click Auto Printing System"
         ],
         [
-          "",
+          "Higher budget",
           "Anycubic Kobra X Multicolor 3D Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "FDM vs Resin",
     "cards": [
       {
         "label": "Official IdeaFormer-3D IR3 V2 Conveyor Belt 3D Printer)",
         "text": "Sturdier functional parts at lower cost, visible layer lines."
       },
       {
-        "label": "",
+        "label": "Resin",
         "text": "Far finer detail and smoother finish, messier post-processing with toxic uncured resin."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Filament Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your materials",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,7 +139,7 @@ export const howToChoose: HowToChooseSection[] = [
           "ANYCUBIC Kobra X Fast 3D Printer"
         ],
         [
-          "",
+          "Warping-prone ABS or nylon",
           "FLASHFORGE Adventurer 5M Pro 3D Printer with 1 Click Auto Printing System"
         ]
       ]
@@ -149,24 +149,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Unattended Prints Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine filament run-out sensor so a multi-hour print doesn't silently fail and waste material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ANYCUBIC Kobra X Fast 3D Printer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Anycubic Kobra X Multicolor 3D Printer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Official IdeaFormer-3D IR3 V2 Conveyor Belt 3D Printer already covers the job at the lowest price here."
       }
     ]

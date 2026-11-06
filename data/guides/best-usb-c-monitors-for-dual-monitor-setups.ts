@@ -52,68 +52,68 @@ export const heroImage = "https://m.media-amazon.com/images/I/41uYhQ+-HGL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Power Delivery Wattage",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Dell 27 Plus QHD USB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $100",
+          "ViewSonic VA2448"
         ],
         [
-          "",
-          ""
+          "Up to $313",
+          "Dell 27 Monitor S2725QC"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "4K Resolution vs 1080p/1440p",
     "cards": [
       {
-        "label": "",
+        "label": "4K resolution",
         "text": "Sharper detail, best on a larger panel or closer viewing distance where the extra pixels are actually visible. In this comparison: Dell 27 Monitor S2725QC."
       },
       {
-        "label": "",
+        "label": "1080p/1440p",
         "text": "Usually cheaper and less demanding on your laptop's GPU, often the more practical choice at typical desk distances. In this comparison: Dell 27 Plus QHD USB, Dell S2722DC Monitor, ASUS ProArt PA247CV 24 Inch 1080p USB, ViewSonic VA2448."
       }
     ],
     "note": "Default to 1080p/1440p unless your desk setup and viewing distance benefit from 4K's extra detail."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 27-inch panel",
           "Dell 27 Plus QHD USB"
         ],
         [
-          "",
-          ""
+          "Around 27-inch panel",
+          "Dell S2722DC Monitor"
         ]
       ]
     }
@@ -122,24 +122,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a MacBook or Mac Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed DisplayPort Alt Mode support and a power delivery wattage matched to your MacBook's charging brick wattage."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since PD wattage isn't consistently disclosed across every monitor in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want full single-cable charging, sharper resolution, or built-in hub ports, where Dell 27 Monitor S2725QC's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You already have a separate charger and just need a display, where ViewSonic VA2448 covers the same job at a lower price."
       }
     ]

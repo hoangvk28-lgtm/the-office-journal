@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51xmdHxlzYL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $160",
+          "SEDETA 4-Drawer ($159.99)"
         ],
         [
-          "",
-          ""
+          "Under $180",
+          "Letaya Lateral ($179.99)"
         ],
         [
-          "",
-          ""
+          "Under $210",
+          "Perledesign White ($209.99)"
         ],
         [
-          "",
-          ""
+          "Under $230",
+          "Perledesign Black Walnut ($229.99)"
         ]
       ]
     }
@@ -118,35 +118,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Charging-Focused Design vs Security-Focused Design",
     "cards": [
       {
-        "label": "",
+        "label": "Charging-focused (Perledesign picks, SEDETA)",
         "text": "Prioritizes built-in power for devices, better suited to a busy home office charging multiple electronics regularly."
       },
       {
-        "label": "",
+        "label": "Security-focused (Letaya Lateral)",
         "text": "Prioritizes lock security and mechanical tip-prevention, better suited to sensitive document storage without charging needs."
       }
     ],
     "note": "If your priority is consolidating device charging at your filing cabinet, the Perledesign or SEDETA picks deliver that. If document security and tipping safety matter more, the Letaya Lateral's lock and interlock system address those needs directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Design Aesthetic",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your decor style",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Contemporary or Scandinavian, darker tones",
-          ""
+          "Perledesign Black Walnut"
         ],
         [
-          "",
-          ""
+          "Bright, minimalist spaces",
+          "Perledesign White"
         ],
         [
-          "",
-          ""
+          "Farmhouse or rustic styling",
+          "SEDETA 4-Drawer"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office Running Multiple Devices Simultaneously Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A cabinet with both traditional outlets and modern USB/Type-C ports to cover both legacy and current device charging needs."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both Perledesign picks specifically include outlets, USB, and Type-C ports together, covering the broadest range of device charging needs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the most diverse charging port selection and a dedicated pull-out equipment shelf, where the Perledesign picks deliver both at the top of this tier's price range."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want the most drawers with solid charging capability without needing a pull-out shelf, where the SEDETA pick covers that for about $70 less."
       }
     ]
@@ -181,11 +181,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Charging Port Variety",
     "description": "Compared the specific types of charging ports, outlets, USB, and Type-C, included on each cabinet."
   },
   {
-    "title": "",
+    "title": "Pull-Out Shelf Functionality",
     "description": "Checked which picks include a dedicated pull-out shelf for equipment access versus a fixed flat top."
   },
   {
@@ -193,11 +193,11 @@ export const howWeEvaluated = [
     "description": "Compared total drawer count and mechanical safety features like interlock systems."
   },
   {
-    "title": "",
+    "title": "Design Distinctiveness",
     "description": "Compared fluted wood, vertical slat, and farmhouse styling across the lineup."
   },
   {
-    "title": "",
+    "title": "Lock and Security Features",
     "description": "Checked which picks include genuine lock mechanisms versus charging-focused designs without locks."
   }
 ];

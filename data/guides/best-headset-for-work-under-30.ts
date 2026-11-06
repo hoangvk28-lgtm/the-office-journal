@@ -48,7 +48,7 @@ export const faq = [
     "a": "Most protein-memory foam or standard foam ear cushions can be wiped down with a slightly damp cloth; avoid fully soaking them in water. Check your specific headset's manual or listing for manufacturer-recommended cleaning instructions if included."
   },
   {
-    "q": "",
+    "q": "Why do some headsets support both USB and 3.5mm connections?",
     "a": "5mm jack rather than a free USB port. A headset supporting both connection types works across more devices without needing an adapter."
   }
 ];
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41tQ5sTffkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -77,31 +77,31 @@ export const howToChoose: HowToChooseSection[] = [
           "Logitech H390 Wired Headset (Rose or Black)"
         ],
         [
-          "",
+          "Connectivity flexibility (USB or 3.5mm)",
           "JIAMQISHI USB Headset with Microphone"
         ],
         [
-          "",
-          ""
+          "A recognized brand name",
+          "Logitech H390 Wired Headset"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "AOC ($17.18) or Logitech H390 Rose ($19.88)"
         ],
         [
-          "",
-          ""
+          "$21 to $30",
+          "Logitech H390 Black ($20.99) or JIAMQISHI ($29.99)"
         ]
       ]
     }
@@ -121,19 +121,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you switch frequently between calls and general audio listening throughout the day, the Logitech H390's tuck-away mic is a genuine convenience the fixed-boom picks don't offer."
   },
   {
-    "subheading": "",
+    "subheading": "By Connection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device has",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "USB-A port",
           "Any pick in this comparison"
         ],
         [
-          "",
+          "USB-C port only",
           "AOC USB Headset with Microphone for PC"
         ],
         [
@@ -144,27 +144,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For All-Day Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Protein-memory foam ear cushions and a stated lightweight design, since these two factors most affect comfort during multi-hour workdays."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both AOC and JIAMQISHI specifically mention protein-memory foam ear cushions designed for all-day comfort."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) is the only pick here covering both connection types."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "18) covers that at the lowest price in this comparison."
       }
     ]
@@ -173,15 +173,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Boom mic mechanism comparison",
     "description": "We distinguished fixed boom mics from rotating, tuck-away designs, since this affects daily convenience when switching between calls and general listening."
   },
   {
-    "title": "",
+    "title": "Stated driver size verification",
     "description": "We noted which listings state a specific driver size (commonly 40mm) versus vague audio quality language, since a stated number is directly comparable across competing headsets."
   },
   {
-    "title": "",
+    "title": "Connection type flexibility",
     "description": "5mm compatibility across this comparison, since device port availability varies and affects which headset actually works with your specific computer."
   },
   {
@@ -189,7 +189,7 @@ export const howWeEvaluated = [
     "description": "We noted ear cushion material and stated weight, since comfort during multi-hour workdays is a real, checkable factor beyond audio specs alone."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $30 on the date this guide was checked; headsets that only hit this tier during a temporary sale were excluded."
   }
 ];

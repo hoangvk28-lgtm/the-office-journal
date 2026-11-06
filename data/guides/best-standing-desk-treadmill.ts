@@ -59,80 +59,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Walking Pad Treadmill for Home"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Walking Pad Treadmill for Home"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $80",
           "Walking Pad Treadmill for Home"
         ],
         [
-          "",
+          "Up to $250",
           "0HP Walking Pad Treadmill with Incline 2%"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Incline vs Flat Walking",
     "cards": [
       {
-        "label": "",
+        "label": "Incline",
         "text": "Meaningfully increases calorie burn and leg engagement over flat walking. 0HP Walking Pad Treadmill with Incline 2%."
       },
       {
-        "label": "",
+        "label": "Flat walking",
         "text": "Simpler and usually slimmer, fine for light movement rather than a fitness goal. In this comparison: Walking Pad Treadmill for Home, Walking Pad Treadmill with Removable Desk Workstation."
       }
     ],
     "note": "Default to flat walking unless calorie burn intensity is a real goal beyond light movement."
   },
   {
-    "subheading": "",
+    "subheading": "By Motor Power",
     "note": "Check each pick's listed motor horsepower and max speed against your actual intended pace before buying, not just the general \"treadmill\" label."
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A quiet motor and belt confirmed in reviews specifically during video call use, not just a general decibel spec."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Walking Pad Treadmill for Home is worth checking against its listed noise level before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "0HP Walking Pad Treadmill with Incline 2%'s features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want light, occasional movement during the workday, where Walking Pad Treadmill for Home covers the same job at a lower price."
       }
     ]
@@ -145,7 +145,7 @@ export const howWeEvaluated = [
     "description": "Evaluated the desk surface separately from the treadmill deck, since a removable or foldable desk usually carries its own, lower weight limit than the walking deck's rated capacity."
   },
   {
-    "title": "",
+    "title": "Incline type and range",
     "description": "Compared fixed, manual, multi-stage, and 3-stage incline designs across this guide's combo units, since incline increases calorie burn substantially over flat walking but adjustment convenience varies a lot by type."
   },
   {
@@ -153,11 +153,11 @@ export const howWeEvaluated = [
     "description": "Weighed HP rating against noise, brushless motors and specific DB ratings like the Akluer's 45dB matter most for buyers who take calls while walking."
   },
   {
-    "title": "",
+    "title": "Foldability and storage footprint",
     "description": "Checked how compactly each combo folds down for storage, since these units combine a desk and a treadmill and take up more floor space than a treadmill alone when in use."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed motor power, incline range, capacity, and included desk quality against price, from the base pad through the 6-in-1 feature-complete model."
   }
 ];

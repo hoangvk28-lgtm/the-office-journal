@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/41MJcM3Jw6L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light decorative items",
+          "VASAGLE Floating Corner Shelves"
         ],
         [
-          "",
+          "Books, standard decor",
           "ROMGUAR CRAFT Corner Floating Shelves Wall Mounted Set of 4"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "Furnulem 6 Tier Corner Shelf with LED Light"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "VASAGLE Floating Corner Shelves"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Homode Corner Floating Shelves"
         ],
         [
-          "",
+          "Higher budget",
           "Furnulem 6 Tier Corner Shelf with LED Light"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "Furnulem 6 Tier Corner Shelf with LED Light)",
         "text": "Highest weight capacity, but requires drilling into a wall stud."
       },
       {
-        "label": "",
+        "label": "No-drill (e.g. VASAGLE Floating Corner Shelves)",
         "text": "No wall damage, ideal for renters, but a much lower weight limit."
       }
     ],
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Studs available where needed",
           "ROMGUAR CRAFT Corner Floating Shelves Wall Mounted Set of 4"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Furnulem 6 Tier Corner Shelf with LED Light is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where Furnulem 6 Tier Corner Shelf with LED Light justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're displaying light decorative items only, where VASAGLE Floating Corner Shelves already covers the job at the lowest price here."
       }
     ]

@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31hLN9-6TNL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tracking Surface Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Controlled, precise movement",
           "EooCoo Mouse Pad with Gel Wrist Rest"
         ],
         [
-          "",
+          "Fast, low-friction glide",
           "Hokafenle 2 in 1 Ergonomic Mouse Pad Wrist Support & Wrist Rest for Computer"
         ],
         [
-          "",
+          "Budget cloth surface",
           "BRILA Ergonomic Memory Foam Mouse Wrist Rest Support Pad Cushion for Computer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "BRILA Ergonomic Memory Foam Mouse Wrist Rest Support Pad Cushion for Computer"
         ],
         [
-          "",
+          "Mid-range pick",
           "MROCO Ergonomic Mouse Pad with Gel Wrist Rest"
         ],
         [
-          "",
+          "Higher budget",
           "Hokafenle 2 in 1 Ergonomic Mouse Pad Wrist Support & Wrist Rest for Computer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Hard Surface",
     "cards": [
       {
         "label": "EooCoo Mouse Pad with Gel Wrist Rest)",
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Size vs Your Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "BRILA Ergonomic Memory Foam Mouse Wrist Rest Support Pad Cushion for Computer"
         ],
         [
-          "",
+          "Standard desk",
           "EooCoo Mouse Pad with Gel Wrist Rest"
         ],
         [
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "EooCoo Mouse Pad with Gel Wrist Rest is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where Hokafenle 2 in 1 Ergonomic Mouse Pad Wrist Support & Wrist Rest for Computer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward cloth pad for everyday use, where BRILA Ergonomic Memory Foam Mouse Wrist Rest Support Pad Cushion for Computer already covers the job at the lowest price here."
       }
     ]

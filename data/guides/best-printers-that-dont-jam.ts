@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Brother DCP"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Brother DCP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $69",
+          "Canon PIXMA TR4720 All"
         ],
         [
-          "",
-          ""
+          "Up to $285",
+          "Brother HL"
         ]
       ]
     }
@@ -102,27 +102,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Canon PIXMA TR4720 All vs Brother HL",
     "cards": [
       {
-        "label": "",
+        "label": "Canon PIXMA TR4720 All",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Brother HL",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Canon PIXMA TR4720 All unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Brother DCP"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Brother DCP is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Brother HL's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon PIXMA TR4720 All covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Feed path design",
     "description": "Weighed whether each printer uses a straight-through path, a curved C-path, or a single simplified tray, since straighter paths generally have fewer points where paper can catch or curl."
   },
   {
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "Considered tray size and whether a clear fill-line marking exists, since overfilling is one of the most common, entirely avoidable jam causes regardless of brand."
   },
   {
-    "title": "",
+    "title": "ADF presence and design",
     "description": "For models with an automatic document feeder, checked whether it separates sheets individually rather than pulling multiple pages at once, a common source of multi-page scan jams."
   },
   {
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "Weighed laser's generally wider paper-weight tolerance and lower humidity sensitivity against inkjet's typically simpler, cheaper feed mechanisms."
   },
   {
-    "title": "",
+    "title": "Honest jam-risk framing",
     "description": "Avoided claiming any specific model has a verified low jam rate, since no manufacturer or independent lab publishes that data; focused instead on documented mechanism-level design factors."
   }
 ];

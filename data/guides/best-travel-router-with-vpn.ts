@@ -61,16 +61,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/31VKdnsfk1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "What matters most",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Fastest VPN throughput",
+          "GL.iNet GL-MT3000 Beryl AX"
         ],
         [
           "VPN kill switch and per-site routing",
@@ -78,38 +78,38 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Smallest size with VPN server capability",
-          ""
+          "GL.iNet GL-AR300M16 Mini"
         ],
         [
-          "",
-          ""
+          "Lowest price",
+          "GL.iNet GL-MT300N-V2 (Mango)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "GL.iNet GL-MT300N-V2 (Mango) ($29.99)"
         ],
         [
-          "",
-          ""
+          "Under $37",
+          "GL.iNet GL-AR300M16 Mini ($36.99)"
         ],
         [
-          "",
-          ""
+          "Under $70",
+          "GL.iNet GL-A1300 Pocket VPN ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $99",
+          "GL.iNet GL-MT3000 Beryl AX ($98.99)"
         ]
       ]
     }
@@ -122,7 +122,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Worth the larger size and higher price when you plan to route bandwidth-heavy activities like video calls or streaming through the VPN regularly."
       },
       {
-        "label": "",
+        "label": "Ultra-compact (AR300M16, Mango)",
         "text": "Better for minimalist travelers who want basic VPN protection for browsing and email without needing to route heavy traffic through it."
       }
     ],
@@ -132,21 +132,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By VPN Feature Depth Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Feature you need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "VPN kill switch to prevent unprotected traffic",
-          ""
+          "GL.iNet GL-A1300 Pocket VPN"
         ],
         [
           "VPN server capability, not just client",
           "INet GL-MT3000 Beryl AX or GL-AR300M16"
         ],
         [
-          "",
-          ""
+          "Basic VPN client only",
+          "GL.iNet GL-MT300N-V2 (Mango)"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequent Business Travel With Sensitive Data Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A VPN kill switch that blocks all internet traffic if the VPN connection unexpectedly drops, preventing sensitive work data from ever transmitting over an unprotected hotel or airport network."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The GL-A1300 Pocket VPN specifically states a VPN internet kill switch feature not called out on the other three picks."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need fast VPN throughput for video calls or want granular per-site routing control, where the Beryl AX or GL-A1300 near $70-100 deliver those specific capabilities."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99 covers that need in the smallest package."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "VPN Throughput",
     "description": "Compared stated OpenVPN and WireGuard maximum speeds across listings."
   },
   {
-    "title": "",
+    "title": "VPN Feature Depth",
     "description": "Compared kill switch, per-site routing policies, and client-versus-server capability."
   },
   {
-    "title": "",
+    "title": "Provider Compatibility",
     "description": "Confirmed each listing states compatibility with 30+ VPN service providers."
   },
   {
-    "title": "",
+    "title": "Portability",
     "description": "Compared physical size and weight for carrying a VPN-enabled router while traveling."
   },
   {
-    "title": "",
+    "title": "Setup Accessibility",
     "description": "Compared OpenWrt-based configuration depth against simpler app-based setup."
   }
 ];

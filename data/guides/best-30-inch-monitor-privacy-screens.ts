@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the best option for a curved 30 inch ultrawide?",
-    "a": ""
+    "a": "The ACONETMAX 30 Inches Privacy Screen Filter has the most bundled features, while the APeiSi alternative has a larger review base."
   },
   {
     "q": "Is there an option for a flat 30 inch monitor?",
@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "Which curved option has more reviews?",
-    "a": ""
+    "a": "The APeiSi 30 Inch Privacy Screen Filter, with 187 reviews versus ACONETMAX's 55."
   },
   {
     "q": "0 rating on the flat 16:10 pick?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "ACONETMAX 30 Inches Privacy Screen Filter for Curved 21:9 Ultrawide Monitor"
         ],
         [
-          "",
+          "Laptop screen",
           "ACONETMAX 30 Inches Privacy Screen Filter for Curved 21:9 Ultrawide Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $60",
           "ACONETMAX 30 Inches Privacy Screen Filter for Curved 21:9 Ultrawide Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "APeiSi 30 Inch Privacy Screen Filter for 21:9 Curved Ultrawide Gaming Monitor"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: check each listing's mounting method, it isn't always stated clearly."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: none explicitly confirmed in this specific roundup, check the listing directly before assuming."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "TYLGDSGS 30 Inch Privacy Screen Filter for 16:10 Widescreen Monitor"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "APeiSi 30 Inch Privacy Screen Filter for 21:9 Curved Ultrawide Gaming Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ACONETMAX 30 Inches Privacy Screen Filter for Curved 21:9 Ultrawide Monitor fits this specifically: Most bundled features among the confirmed 30 inch options."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what TYLGDSGS 30 Inch Privacy Screen Filter for 16:10 Widescreen Monitor offers: Most bundled features among the confirmed 30 inch options. That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "ACONETMAX 30 Inches Privacy Screen Filter for Curved 21:9 Ultrawide Monitor already covers the essentials: Most bundled features among the confirmed 30 inch options. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]
@@ -164,7 +164,7 @@ export const howWeEvaluated = [
     "description": "All three confirmed 30 inch filters share a diagonal but not a shape, and we treated them as distinct categories rather than interchangeable."
   },
   {
-    "title": "",
+    "title": "Disclosed the very small review base for the flat 16:10 option",
     "description": "The only confirmed 16:10 pick has just 1 review, and we flagged this directly rather than treating its well suited rating as meaningful."
   },
   {

@@ -28,7 +28,7 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "q": "",
+    "q": "Are flip clocks loud?",
     "a": "Most use a gear-driven mechanism that clicks audibly on each flip. One pick in this guide, the FOSA clock, uses a silent electronic movement instead if noise is a concern."
   },
   {
@@ -53,60 +53,60 @@ export const heroImage = "https://m.media-amazon.com/images/I/41k3GTPieAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Movement Type",
     "table": {
       "headers": [
-        "",
+        "What you want",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "A quiet, non-ticking movement",
+          "FOSA Flip Desk Clock"
         ],
         [
           "A digital, fully silent display",
-          ""
+          "KENJIEY Flip Clock"
         ],
         [
           "Maximum visual personality (flip or mechanical action)",
-          ""
+          "KENJIEY Flip Clock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $40",
           "Mooas Flip Desk Clock (Black)"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "KENJIEY Flip Clock"
         ],
         [
           "No firm budget ceiling, prioritizing material or brand",
-          ""
+          "FOSA Flip Desk Clock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs Corded",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-Powered",
         "text": "Runs on batteries alone, so it can sit anywhere on a desk or shelf with no cord in the way, at the cost of an eventual battery swap. In this comparison: KENJIEY Flip Clock, FOSA Flip Desk Clock, mooas Flip Desk Clock (Black)."
       },
       {
-        "label": "",
+        "label": "Corded (Plug-In)",
         "text": "Draws continuous power from a wall outlet, often adding features like USB charging ports or a battery backup for outages, but it has to sit within cord length of a plug. In this comparison: none in this specific roundup, since most picks here are battery powered."
       }
     ],
@@ -116,17 +116,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Purpose: Everyday Use vs Gift",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your purpose",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Everyday functional desk use",
+          "KENJIEY Flip Clock"
         ],
         [
           "A gift or milestone piece",
-          ""
+          "Wkevnu Vintage Flip Clock"
         ]
       ]
     }
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buying as a Gift Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine material language, such as hand carved, real marble, or real crystal, rather than a marble-look or crystal-look plastic finish, plus a stated production or engraving lead time if personalization is involved."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Wkevnu Vintage Flip Clock fits this specifically: Accessible entry price for genuine flip-clock styling. That's the kind of detail that signals a deliberate gift rather than a purely functional purchase."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what FOSA Flip Desk Clock offers: Silent operation, no mechanical click. That's a real material or craftsmanship upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Mooas Flip Desk Clock (Black) already covers the essentials: Compact footprint for smaller desks. The main thing you'd be paying extra for elsewhere in this list is styling rather than function."
       }
     ]

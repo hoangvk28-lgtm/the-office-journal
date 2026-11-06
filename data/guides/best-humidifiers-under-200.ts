@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41JbkBGb-2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom or office",
           "Levoit Top Fill Humidifiers for Bedroom"
         ],
         [
-          "",
+          "Standard bedroom",
           "Lacidoll 8L Large Humidifier for Bedroom Large Room Home 800 sq ft"
         ],
         [
-          "",
+          "Larger living space",
           "AIRCARE Valiant Digital Whole-House Console-Style Evaporative Humidifier"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Levoit Top Fill Humidifiers for Bedroom"
         ],
         [
-          "",
+          "Mid-range pick",
           "AIRCARE MA Whole-House Console-Style Evaporative Humidifier (Mini-Console)"
         ],
         [
-          "",
+          "Higher budget",
           "AIRCARE Valiant Digital Whole-House Console-Style Evaporative Humidifier"
         ]
       ]
@@ -114,53 +114,53 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Uses less electricity and covers larger rooms more effectively."
       },
       {
-        "label": "",
+        "label": "Warm mist",
         "text": "Kills bacteria in the water during boiling and runs near-silently, best for a small room."
       }
     ],
     "note": "Match this to your room size and how much you value quiet operation versus coverage."
   },
   {
-    "subheading": "",
+    "subheading": "By Maintenance Tolerance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Minimal daily upkeep",
           "Check tank capacity against how often you're willing to refill it"
         ],
         [
-          "",
+          "Don't mind frequent cleaning",
           "Lacidoll 8L Large Humidifier for Bedroom Large Room Home 800 sq ft"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Hard Water Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An evaporative design (traps minerals in the wick) or plan to use distilled water with an ultrasonic model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Lacidoll 8L Large Humidifier for Bedroom Large Room Home 800 sq ft is worth checking against its specific mist type before assuming any humidifier handles hard water the same way."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger tank, quieter operation, and extra features like a hygrometer display, where AIRCARE Valiant Digital Whole-House Console-Style Evaporative Humidifier justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need basic humidity for a small room and don't mind more frequent refills, where Levoit Top Fill Humidifiers for Bedroom already covers the job at the lowest price here."
       }
     ]

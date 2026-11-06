@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Brother DCP"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Brother DCP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $117",
           "Canon MAXIFY MB2720 Wireless Color Photo Printer"
         ],
         [
-          "",
+          "Up to $491",
           "Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer"
         ]
       ]
@@ -109,16 +109,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Canon MAXIFY MB2720 Wireless Color Photo Printer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Brother DCP"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Brother DCP is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon MAXIFY MB2720 Wireless Color Photo Printer covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howWeEvaluated = [
     "description": "Evaluated each pick separately on plain text sharpness and on smooth grayscale gradient handling, since laser and inkjet trade off differently on these two jobs."
   },
   {
-    "title": "",
+    "title": "Honest technology labeling",
     "description": "Clearly identified which picks are true laser engines and which are color inkjets being used in B&W mode, rather than blending the two under a single label."
   },
   {
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "Noted which laser picks support a toner-save draft mode for internal, non-final printing, and what quality tradeoff it introduces."
   },
   {
-    "title": "",
+    "title": "Long-term quality consistency",
     "description": "Considered drum contamination and ghost-imaging risk on laser picks as a long-term quality factor beyond the first few thousand pages."
   }
 ];

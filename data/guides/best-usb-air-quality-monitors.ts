@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31qfZxwlglL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sensor Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your main concern",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Particulates (PM2.5/dust)",
           "5 Air Quality Monitor & Indoor Thermometer"
         ],
         [
-          "",
+          "General everyday tracking",
           "Amazon Smart Air Quality Monitor"
         ],
         [
-          "",
-          ""
+          "Multiple pollutants at once",
+          "Temtop Air Quality Monitor PM2.5 PM10 Particle Counter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "5 Air Quality Monitor & Indoor Thermometer"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Air Quality Monitor Indoor, 16-in-1 Smart Air Quality Tester with PM 2.5"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Temtop Air Quality Monitor PM2.5 PM10 Particle Counter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "WiFi vs Zigbee/Hub-Based",
     "cards": [
       {
         "label": "5 Air Quality Monitor & Indoor Thermometer)",
         "text": "Connects directly to your router and app, no extra hardware needed."
       },
       {
-        "label": "",
+        "label": "Hub or app-ecosystem pick (e.g. Temtop Air Quality Monitor PM2.5 PM10 Particle Counter)",
         "text": "May need a bridge or hub for full smart-home integration, check before buying."
       }
     ],
     "note": "Match this to whether you already have a compatible smart-home hub."
   },
   {
-    "subheading": "",
+    "subheading": "By Data Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Live readings only",
           "Amazon Smart Air Quality Monitor"
         ],
         [
-          "",
-          ""
+          "Long-term history and export",
+          "Air Quality Monitor Indoor, 16-in-1 Smart Air Quality Tester with PM 2.5"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Pollutant Concern Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated sensor for your specific concern (formaldehyde, CO2, or radon) rather than a general VOC or air-quality index alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Amazon Smart Air Quality Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact concern."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5 PM10 Particle Counter justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5 Air Quality Monitor & Indoor Thermometer already covers the job at the lowest price here."
       }
     ]

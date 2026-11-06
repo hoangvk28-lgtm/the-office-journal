@@ -53,7 +53,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/31EchKlKb3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
         "What you need it for",
@@ -61,30 +61,30 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "",
+          "Everyday note-taking and reading",
           "3in Note Air 5 C"
         ],
         [
-          "",
+          "AI-assisted or document-heavy work",
           "ReMarkable Paper Pro with Marker Plus and Basalt Book Folio"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $530",
           "3in Note Air 5 C"
         ],
         [
-          "",
+          "Mid-range",
           "Amazon Kindle Scribe Colorsoft 64GB"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "AI Features Included vs Subscription-Gated",
     "cards": [
       {
-        "label": "",
+        "label": "Included, No Subscription",
         "text": "AI note tools come with the purchase price, no ongoing cost. In this comparison: check each listing's terms directly."
       },
       {
-        "label": "",
+        "label": "Subscription-Gated",
         "text": "Advanced AI features require an ongoing paid plan on top of the hardware price. In this comparison: reMarkable Paper Pro with Marker Plus and Basalt Book Folio, reMarkable Paper Pro with Marker Plus."
       }
     ],
@@ -112,43 +112,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "BOOX Tablet Note Air 4C"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "BOOX Tablet Note Air 4C"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Handwriting-to-Text Conversion Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of handwriting-to-text conversion (not just \"AI\" generally), and whether that specific feature is included or requires a subscription."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "BOOX Tablet Note Air 4C fits this specifically: Color ePaper display confirmed on the listing."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what reMarkable Paper Pro with Marker Plus and Basalt Book Folio offers: Confirmed color e-paper display. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "3in Note Air 5 C already covers the essentials: Confirmed color ePaper display. The main thing you'd be paying extra for elsewhere in this list is features or storage you may not need."
       }
     ]

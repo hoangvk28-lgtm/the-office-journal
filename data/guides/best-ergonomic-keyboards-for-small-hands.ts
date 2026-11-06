@@ -53,23 +53,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/4114VdW9JcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "note": "Every pick in this specific comparison uses a similar layout approach; check the product names above for the exact curve, split, or angle."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $55",
+          "Nulea Wireless Ergonomic Keyboard"
         ],
         [
-          "",
+          "Mid-range",
           "Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest"
         ],
         [
@@ -80,14 +80,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: check each listing's connection type directly."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech Wave Keys Wireless Ergonomic Keyboard, Logitech Wave Keys Wireless Ergonomic Keyboard, Arteck Split Ergonomic Keyboard with Palm Rest."
       }
     ]
@@ -96,13 +96,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Lowest cost, quiet typing",
+          "Nulea Wireless Ergonomic Keyboard"
         ],
         [
           "Tactile feedback, lighter actuation force",
@@ -115,24 +115,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Logitech Wave Keys Wireless Ergonomic Keyboard fits this specifically: No split-gap minimum width to worry about."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Perixx PERIDUO-606II 2-in-1 Wireless Compact Ergonomic Keyboard offers: Highest rating of any pick in this guide. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Nulea Wireless Ergonomic Keyboard already covers the essentials: Lower price than other split picks in this guide. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -141,11 +141,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Reach-to-modifier-key comfort",
     "description": "Weighed verified buyer feedback specifically from smaller-handed users on modifier key reach, rather than assuming any ergonomic label solves this automatically."
   },
   {
-    "title": "",
+    "title": "Split-gap minimum width disclosure",
     "description": "Noted, where knowable, the minimum gap between split keyboard halves, since it isn't always narrow enough for a smaller shoulder width."
   },
   {

@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41pg5jD0I5L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $230",
+          "UGREEN 13-in-1 Thunderbolt 4 ($229.99)"
         ],
         [
-          "",
-          ""
+          "Under $245",
+          "Dell WD22TB4 ($244.99)"
         ],
         [
-          "",
-          ""
+          "Under $270",
+          "Anker Prime 14-in-1 ($269.99)"
         ],
         [
-          "",
-          ""
+          "Under $300",
+          "UGREEN Maxidok Thunderbolt 5 ($299.97)"
         ]
       ]
     }
@@ -128,11 +128,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Confirm your actual monitor count needs before paying extra for triple-display capability you may not fully use, since your laptop's own chip may cap you below the dock's maximum anyway."
   },
   {
-    "subheading": "",
+    "subheading": "By Host Laptop Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your laptop/Mac type",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Permanent Multi-Monitor Desk Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock that includes a complete cable bundle (HDMI, DisplayPort, USB-C, Ethernet) so you're not making separate purchases to complete the setup."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Dell WD22TB4 specifically includes a full cable bundle plus a microfiber cleaning cloth, reducing additional purchases for a new desk setup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want the highest bandwidth and refresh rates for a demanding triple-monitor setup, where the UGREEN Maxidok's 120Gbps Thunderbolt 5 justifies its $299.97 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You want solid dual 4K display support without triple-display bandwidth you may not need, where the UGREEN 13-in-1 delivers that for $229.99."
       }
     ]
   }
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Native Video Bandwidth",
     "description": "Compared Thunderbolt 4 versus Thunderbolt 5 bandwidth for display output."
   },
   {
-    "title": "",
+    "title": "Per-Chip Display Disclosure",
     "description": "Compared how transparently each listing discloses Mac chip-specific display limits."
   },
   {
-    "title": "",
+    "title": "Display Combination Support",
     "description": "Compared dual versus triple display configurations and maximum refresh rates."
   },
   {
-    "title": "",
+    "title": "Included Accessories",
     "description": "Compared bundled cables and power adapters across all four picks."
   },
   {
-    "title": "",
+    "title": "Charging Capacity",
     "description": "Compared total charging wattage and simultaneous device charging support."
   }
 ];

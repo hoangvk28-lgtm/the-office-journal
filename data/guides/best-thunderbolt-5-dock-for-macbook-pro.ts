@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41tUd3UqrmL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $370",
+          "UGREEN Maxidok ($369.99)"
         ],
         [
-          "",
-          ""
+          "Under $400",
+          "IVANKY FusionDock Max 2 or Anker Prime TB5 (both $399.99)"
         ],
         [
-          "",
-          ""
+          "Under $500",
+          "CalDigit TS5 Plus ($499.99)"
         ]
       ]
     }
@@ -113,7 +113,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Silent Fanless Cooling vs Active Fan Cooling",
     "cards": [
       {
-        "label": "",
+        "label": "Silent fanless cooling (IVANKY)",
         "text": "Uses aerospace-grade thermal materials and an aluminum chassis with no internal fan at all, disclosed to stay well below UL touch-temperature limits during sustained load."
       },
       {
@@ -127,13 +127,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Your Exact Mac Chip Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your Mac chip",
+        "Recommended pick"
       ],
       "rows": [
         [
           "M1/M2/M3/M4 Max (triple display capable)",
-          ""
+          "IVANKY FusionDock Max 2"
         ],
         [
           "M4/M5 base or Pro chips (dual display)",
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buyers Who Switch Between Multiple Macs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock that doesn't explicitly restrict itself to a single paired Mac, since some Mac-exclusive docks are specifically locked and don't support switching between different Macs."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The IVANKY FusionDock Max 2 specifically states it is restricted to only one Mac and does not support switching between other Macs, a real limitation to check before purchase."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want the highest port count with dual USB controllers and genuine 10GbE networking, where the CalDigit TS5 Plus justifies its $499.99 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You want built-in NVMe storage at the lowest price and your SSD's heatsink fits the disclosed width limit, where the UGREEN Maxidok delivers that for $369.99."
       }
     ]
   }
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Per-Chip-Tier Display Documentation",
     "description": "Compared how specifically each listing documents display support by exact Apple Silicon chip tier."
   },
   {
-    "title": "",
+    "title": "Cooling Design",
     "description": "Compared fanless silent cooling against active fan-based thermal management."
   },
   {
-    "title": "",
+    "title": "Cross-Platform vs Mac-Exclusive",
     "description": "Compared docks working across Mac and Windows against Mac-only restricted designs."
   },
   {
-    "title": "",
+    "title": "Built-in Storage Constraints",
     "description": "Compared docks offering NVMe storage and any disclosed physical size limitations."
   },
   {
-    "title": "",
+    "title": "Real-World Transfer Speed",
     "description": "Compared concrete stated file transfer benchmarks against raw bandwidth figures alone."
   }
 ];

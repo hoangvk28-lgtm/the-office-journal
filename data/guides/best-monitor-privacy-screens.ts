@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which privacy screen has the most reviews overall?",
-    "a": ""
+    "a": "The Peslv [2-Pack] 24 Inch Privacy Screen, with 6,437 reviews at a 4.2 rating."
   },
   {
     "q": "What's the best option for a laptop?",
@@ -40,7 +40,7 @@ export const faq = [
     "a": "Yes, laptop and desktop filters are sized and mounted differently; a desktop-sized filter will not fit a laptop's built-in screen."
   },
   {
-    "q": "",
+    "q": "What's the cheapest option?",
     "a": "6 Inch Laptop Privacy Screen Filter for laptops."
   },
   {
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "2 Pack 24 Inch Magnetic Computer Privacy Screen for Monitor"
         ],
         [
-          "",
+          "Laptop screen",
           "Peslv [2-Pack] 24 Inch Privacy Screen for Computer Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $27",
           "6 Inch 16:9 Laptop Privacy Screen Filter"
         ],
         [
-          "",
+          "Mid-range",
           "[2 Pack] 27 Inch Computer Monitor Privacy Screen"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. 6 Inch 16:9 Laptop Privacy Screen Filter, 2 Pack 24 Inch Magnetic Computer Privacy Screen for Monitor."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: Peslv [2-Pack] 24 Inch Privacy Screen for Computer Monitor, SightPro 24 Inch 16:9 Computer Privacy Screen Filter for Monitor, Computer Privacy Screen Filter for 24 Inch 16:9 Aspect Ratio Monitor."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "2 Pack 24 Inch Magnetic Computer Privacy Screen for Monitor"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Peslv [2-Pack] 24 Inch Privacy Screen for Computer Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "2 Pack 24 Inch Magnetic Computer Privacy Screen for Monitor fits this specifically: Highest rating in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Weighed review volume alongside rating",
-    "description": ""
+    "description": "We compared both the size of the review base and the rating itself, since a high rating on very few reviews carries different weight than a large established review base."
   },
   {
     "title": "Distinguished magnetic from standard tab attachment",

@@ -53,12 +53,12 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're not sure which port type your laptop has, check its exact model specs before buying any 10GbE adapter, since these are the most host-restrictive products in this entire category."
   },
   {
-    "subheading": "",
+    "subheading": "Windows Driver Trap",
     "intro": "The budget 10GbE adapter (B0FY4RVJNM) caps at 100Mbps on Windows until you manually install its driver, an easy trap for buyers expecting true plug-and-play.",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Best pick"
       ],
       "rows": [
         [
@@ -71,7 +71,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Lowest price, willing to install a driver",
-          ""
+          "Budget RTL8159 10GbE adapter"
         ]
       ]
     }
@@ -80,23 +80,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Ethernet Speed & Chipset",
     "description": "5G/5G/10G) and, where published, the specific Realtek, Marvell, or other controller chip driving it, rather than assuming USB-C connector shape implies a speed tier."
   },
   {
-    "title": "",
+    "title": "Host & OS Compatibility",
     "description": "2 Gen 2 vs Thunderbolt/USB4) and confirmed OS support, since several products in this cluster have real exclusions (Android, Nintendo Switch, older Apple silicon)."
   },
   {
-    "title": "",
+    "title": "Real-World Documentation",
     "description": "Favored listings that publish honest real-world throughput or explicit host-speed caveats over ones that only quote the theoretical link rate."
   },
   {
-    "title": "",
+    "title": "Build Quality & Durability",
     "description": "Weighed braided cable construction, aluminum housing, and reinforced connectors, since these adapters see frequent plug/unplug cycles in daily use."
   },
   {
-    "title": "",
+    "title": "Genuine Feature Differentiators",
     "description": "Prioritized real differences like Wake-on-LAN, PXE boot, PD passthrough wattage, and multiport expansion over marketing language that repeats across nearly identical adapters."
   }
 ];

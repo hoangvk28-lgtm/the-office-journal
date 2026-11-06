@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31gIccZABsL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "Southern Enterprises SEI Keaton Metal/Glass Corner Desk ?"
         ],
         [
-          "",
+          "Standard home office",
           "INNOVAR L Shaped Glass Standing Desk with Drawers"
         ],
         [
-          "",
+          "Larger dedicated office",
           "SHW Mission 55 x 60 L-Shape Home Office Computer Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Southern Enterprises SEI Keaton Metal/Glass Corner Desk ?"
         ],
         [
-          "",
+          "Mid-range pick",
           "Techni Mobili L Shaped Desk with Keyboard Tray & Tempered Glass Desktop"
         ],
         [
-          "",
+          "Higher budget",
           "SHW Mission 55 x 60 L-Shape Home Office Computer Desk"
         ]
       ]
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor",
           "INNOVAR L Shaped Glass Standing Desk with Drawers"
         ],
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Southern Enterprises SEI Keaton Metal/Glass Corner Desk ? Soft Gold is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in storage, better cable management, and sturdier build quality, where SHW Mission 55 x 60 L-Shape Home Office Computer Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where Southern Enterprises SEI Keaton Metal/Glass Corner Desk ? Soft Gold already covers the job at the lowest price here."
       }
     ]

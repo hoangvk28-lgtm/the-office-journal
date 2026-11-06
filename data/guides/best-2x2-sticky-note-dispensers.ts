@@ -61,20 +61,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/31-6rqK9t2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Placement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "On the desk surface",
+          "Post-it Pop-up Notes Dispenser"
         ],
         [
-          "",
-          ""
+          "Clipped to a monitor",
+          "Sticky Notes 2x2 in"
         ],
         [
           "Carried between desk and laptop",
@@ -84,23 +84,23 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Post-it Pop-up Notes Dispenser"
         ],
         [
-          "",
+          "Mid-range pick",
           "Chicvilla Acacia Wood Sticky Note Holder with 3 Pen Holders"
         ],
         [
-          "",
+          "Higher budget",
           "Sticky Note Organizer with 2 Pads"
         ]
       ]
@@ -110,27 +110,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Pop-Up vs Standard Pad Holder",
     "cards": [
       {
-        "label": "",
+        "label": "Pop-up (e.g. Post-it Pop-up Notes Dispenser)",
         "text": "One-at-a-time dispensing, needs z-fold refill pads specifically."
       },
       {
-        "label": "",
+        "label": "Standard pad holder",
         "text": "Works with any standard pad, no special refill needed."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Note Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your notes",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Standard 3x3 size",
+          "Sticky Notes 2x2 in"
         ],
         [
           "A different or mini size",
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For One-Handed Desk Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weighted or non-slip base that stays put while you pull a note with one hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Sticky Notes 2x2 in is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Sticky Note Organizer with 2 Pads justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Post-it Pop-up Notes Dispenser already covers the job at the lowest price here."
       }
     ]

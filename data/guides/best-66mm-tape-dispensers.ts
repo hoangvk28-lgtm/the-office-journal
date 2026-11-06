@@ -61,71 +61,71 @@ export const heroImage = "https://m.media-amazon.com/images/I/31HV1vlmAvL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Occasional light use",
+          "Scotch Desktop Tape Dispenser"
         ],
         [
           "Regular desk or office use",
           "Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core) with Weighted"
         ],
         [
-          "",
+          "High-volume packing",
           "Officemate 2-in-1 Heavy Duty Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Scotch Desktop Tape Dispenser"
         ],
         [
-          "",
+          "Mid-range pick",
           "Lichamp Desktop Tape Dispenser Holder with Large 3 inch Core for Masking"
         ],
         [
-          "",
+          "Higher budget",
           "Officemate 2-in-1 Heavy Duty Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
-        "label": "",
+        "label": "Desktop (e.g. Scotch Desktop Tape Dispenser)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core) with Weighted"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "Lichamp Desktop Tape Dispenser Holder with Large 3 inch Core for Masking"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Desktop Tape Dispenser Adhesive Roll Holder (Fits 1\" & 3\" Core) with Weighted is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Officemate 2-in-1 Heavy Duty Tape Dispenser justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Scotch Desktop Tape Dispenser already covers the job at the lowest price here."
       }
     ]

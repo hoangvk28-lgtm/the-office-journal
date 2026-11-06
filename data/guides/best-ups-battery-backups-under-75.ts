@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/419Vaq+T56L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,7 +74,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A high-capacity portable battery pack for DC devices",
-          ""
+          "TalentCell Mini UPS, 27000mAh/97.2Wh"
         ],
         [
           "A compact UPS for small home-office electronics",
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $60",
+          "CyberPower ST425 ($59.95)"
         ],
         [
-          "",
-          ""
+          "Under $63",
+          "APC BE425M ($62.50)"
         ],
         [
-          "",
-          ""
+          "Under $65",
+          "TalentCell 27000mAh ($64.99)"
         ],
         [
-          "",
-          ""
+          "Under $73",
+          "Eaton Tripp Lite BC350 ($72.49)"
         ]
       ]
     }
@@ -132,8 +132,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Sine Wave Output Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your electronics sensitivity",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dorm Room or Small Apartment Home Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A compact, wall-mountable UPS sized specifically for small electronics rather than a full desktop tower form factor."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The APC BE425M's compact, wall-mountable design is specifically built for apartments, dorm rooms, and small workspaces."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want genuine sine wave output for sensitive electronics and the highest documented warranty, where the Eaton Tripp Lite BC350 delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want the most total outlets without needing genuine sine wave output, where the CyberPower ST425 covers that for about $13 less."
       }
     ]
@@ -177,7 +177,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "VA/Wattage Rating",
     "description": "Compared stated VA and wattage capacity across the desktop AC-outlet units in this comparison."
   },
   {
@@ -185,15 +185,15 @@ export const howWeEvaluated = [
     "description": "Compared how many outlets provide genuine battery backup versus surge protection alone."
   },
   {
-    "title": "",
+    "title": "Sine Wave Output Type",
     "description": "Distinguished genuine sine wave from simulated sine wave output for sensitive electronics compatibility."
   },
   {
-    "title": "",
+    "title": "Connected Equipment Warranty",
     "description": "Compared documented warranty and insurance coverage amounts across the lineup."
   },
   {
-    "title": "",
+    "title": "Physical Footprint and Mounting",
     "description": "Compared compact, wall-mountable designs against standard desktop form factors."
   }
 ];

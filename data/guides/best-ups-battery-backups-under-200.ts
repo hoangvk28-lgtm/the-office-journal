@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41OE+tVig0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $140",
+          "CyberPower AVRG900LCD ($139.95)"
         ],
         [
-          "",
-          ""
+          "Under $180",
+          "CyberPower CP1000PFCLCD ($179.95)"
         ],
         [
-          "",
-          ""
+          "Under $184",
+          "APC BX1000M ($183.99)"
         ],
         [
-          "",
-          ""
+          "Under $200",
+          "CyberPower CP1500AVRLCD3 ($199.95)"
         ]
       ]
     }
@@ -132,8 +132,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Data Line Protection Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your connection type",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -141,12 +141,12 @@ export const howToChoose: HowToChooseSection[] = [
           "APC BX1000M (built-in coax/Ethernet protection)"
         ],
         [
-          "",
-          ""
+          "Telephone line only",
+          "CyberPower CP1500AVRLCD3 or AVRG900LCD"
         ],
         [
           "No wired data lines to protect",
-          ""
+          "CyberPower CP1000PFCLCD"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Modern Gaming PC or High-End Workstation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "PFC sine wave compatibility explicitly stated for active PFC power supplies, common in modern gaming PC builds."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both the CyberPower CP1000PFCLCD and APC BX1000M specifically support active PFC power supplies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest capacity and strongest documented warranty, where the CP1500AVRLCD3's $500,000 guarantee and 1500VA capacity lead this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want solid 900VA capacity and telephone protection without PFC or coax/Ethernet features, where the AVRG900LCD covers that for $60 less."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "VA/Wattage Capacity",
     "description": "Compared stated VA and wattage ratings across the lineup, from 900VA to 1500VA."
   },
   {
-    "title": "",
+    "title": "PFC Sine Wave Compatibility",
     "description": "Checked which picks specifically support active PFC power supplies common in modern computers."
   },
   {
-    "title": "",
+    "title": "Data Line Protection Breadth",
     "description": "Compared telephone-only protection against built-in coaxial and Ethernet surge protection."
   },
   {
-    "title": "",
+    "title": "Energy Efficiency Certification",
     "description": "Checked for Energy Star certification and stated efficiency percentages."
   },
   {
-    "title": "",
+    "title": "Connected Equipment Warranty",
     "description": "Compared documented warranty and insurance coverage amounts across the lineup."
   }
 ];

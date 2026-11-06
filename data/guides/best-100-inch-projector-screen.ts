@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51FIr58liEL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Setup Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,34 +69,34 @@ export const howToChoose: HowToChooseSection[] = [
           "TOWOND Projector Screen with Stand"
         ],
         [
-          "",
+          "Permanent install",
           "100 Inch Motorized Projector Screen with RF Remote"
         ],
         [
-          "",
-          ""
+          "Budget occasional use",
+          "Projector Screen"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Cheapest option",
+          "Projector Screen"
         ],
         [
-          "",
+          "Mid-range",
           "AAJK 100inch Outdoor Projector Screen Anti Crease Portable Movie Screen"
         ],
         [
-          "",
+          "Higher budget",
           "100 Inch Motorized Projector Screen with RF Remote"
         ]
       ]
@@ -120,8 +120,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Screen Gain and Viewing Angle",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Genuine Outdoor Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit UV-resistant and weatherproof material claims, not just 'outdoor' in the product name."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "AAJK 100inch Outdoor Projector Screen Anti Crease Portable Movie Screen is worth checking against its specific material claims before assuming it will hold up to repeated outdoor exposure."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a permanent, wrinkle-free setup, where 100 Inch Motorized Projector Screen with RF Remote justifies the higher price for a space you use often."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're setting up occasionally, where Projector Screen covers the job at the lowest price in this lineup."
       }
     ]

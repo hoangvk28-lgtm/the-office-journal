@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41GzEENvuwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device You're Charging",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Phone, occasional use",
           "CFIAI Portable Charger 15000mAh Slim Power Bank with Built in Cables"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "INIU 10000mAh 45W Fast Charging Portable Charger"
         ],
         [
-          "",
-          ""
+          "Laptop or multiple devices",
+          "Anker Laptop Power Bank"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,21 +96,21 @@ export const howToChoose: HowToChooseSection[] = [
           "CFIAI Portable Charger 15000mAh Slim Power Bank with Built in Cables"
         ],
         [
-          "",
+          "Mid-range pick",
           "Anker Power Bank, 10,000mAh 30W with USB-C Travel Essential Portable Charger"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Anker Laptop Power Bank"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Capacity vs Portability",
     "cards": [
       {
-        "label": "",
+        "label": "Higher capacity (e.g. Anker Laptop Power Bank)",
         "text": "More charges before a recharge, but heavier and bulkier to carry."
       },
       {
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you're carrying it daily or leaving it in a bag for emergencies."
   },
   {
-    "subheading": "",
+    "subheading": "By Travel Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Flying with it",
           "Check the watt-hour (Wh) rating stays under 100Wh"
         ],
         [
-          "",
+          "Never flying with it",
           "INIU 10000mAh 45W Fast Charging Portable Charger"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "USB-PD support at 45W or higher, not just any USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Anker Laptop Power Bank is worth checking against your specific laptop's wattage requirement before assuming any power bank charges it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher capacity, faster charging, and support for a laptop, where Anker Laptop Power Bank justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need backup charges for a phone, where CFIAI Portable Charger 15000mAh Slim Power Bank with Built in Cables already covers the job at the lowest price here."
       }
     ]

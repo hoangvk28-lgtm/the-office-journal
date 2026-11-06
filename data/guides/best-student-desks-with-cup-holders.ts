@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest way to outfit a full classroom?",
-    "a": ""
+    "a": "The Ferrochef 12 Pcs pack has the lowest per-unit price in this comparison at $15.99 for 12 holders."
   },
   {
     "q": "Is there an option for a single dorm room desk?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Ferrochef 12 Pcs Classroom Adjustable Water Bottle Holder for Desk"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Ferrochef 12 Pcs Classroom Adjustable Water Bottle Holder for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $16",
           "Ferrochef 12 Pcs Classroom Adjustable Water Bottle Holder for Desk"
         ],
         [
-          "",
+          "Up to $42",
           "Gisgfim 24 Pcs Water Bottle Holder for Classroom"
         ]
       ]
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Ferrochef 12 Pcs Classroom Adjustable Water Bottle Holder for Desk unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Ferrochef 12 Pcs Classroom Adjustable Water Bottle Holder for Desk"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Ferrochef 12 Pcs Classroom Adjustable Water Bottle Holder for Desk is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where gisgfim 24 Pcs Water Bottle Holder for Classroom's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Ferrochef 12 Pcs Classroom Adjustable Water Bottle Holder for Desk covers the same job at a lower price."
       }
     ]
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "A teacher outfitting 24 desks has different needs than a parent buying one holder for a dorm room desk, and we ranked accordingly."
   },
   {
-    "title": "",
+    "title": "Noted mounting compatibility directly",
     "description": "We flagged which packs include hardware (zip ties) for chair-frame mounting versus desk-edge-only clip designs."
   }
 ];

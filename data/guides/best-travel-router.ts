@@ -61,57 +61,57 @@ export const heroImage = "https://m.media-amazon.com/images/I/31cQhCMxTqL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "What matters most",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Fastest wired uplink speed",
+          "GL.iNet GL-MT3000 Beryl AX"
         ],
         [
           "Fastest VPN throughput and NAS",
-          ""
+          "GL.iNet GL-AXT1800 Slate AX"
         ],
         [
-          "",
-          ""
+          "Easiest setup without OpenWrt",
+          "TP-Link Roam 6 AX1500"
         ],
         [
-          "",
-          ""
+          "Budget with Gigabit ports",
+          "GL.iNet GL-SFT1200 Opal"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $40",
+          "TP-Link Roam 6 AX1500 or GL.iNet Opal (both $39.99)"
         ],
         [
-          "",
-          ""
+          "Under $100",
+          "GL.iNet GL-MT3000 Beryl AX ($98.99)"
         ],
         [
-          "",
-          ""
+          "Under $120",
+          "GL.iNet GL-AXT1800 Slate AX ($119.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "OpenWrt vs Simplified Firmware",
     "cards": [
       {
         "label": "OpenWrt (Beryl AX, Slate AX)",
@@ -125,11 +125,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most casual travelers should default to a simplified-firmware router; choose OpenWrt specifically if you want to customize VPN routing rules or install additional network utilities."
   },
   {
-    "subheading": "",
+    "subheading": "By Wi-Fi Generation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bandwidth need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -138,7 +138,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Basic browsing and email, budget priority",
-          ""
+          "GL.iNet GL-SFT1200 Opal (AC1200)"
         ]
       ]
     }
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequent Hotel Wi-Fi Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated hotspot or repeater mode that converts a shared public network into your own private, secured network, plus WPA3 support to protect against password brute-force attacks on that private network."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "All four picks support converting public or hotel Wi-Fi into a private network, with the Beryl AX and Slate AX specifically adding WPA3 protocol support."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the fastest wired uplink or VPN throughput plus deep OpenWrt customization, where the Beryl AX or Slate AX near $100-120 deliver faster performance and more configuration depth."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99 covers that need without OpenWrt's added complexity."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Firmware and Customization",
     "description": "Compared OpenWrt-based routers offering deep customization against simpler mode-based firmware."
   },
   {
-    "title": "",
+    "title": "VPN Support and Throughput",
     "description": "Compared pre-installed VPN client/server support and stated OpenVPN/WireGuard throughput."
   },
   {
-    "title": "",
+    "title": "Wired Port Speed",
     "description": "5G, Gigabit, and standard wired port speeds across the lineup."
   },
   {
-    "title": "",
+    "title": "Portability and Power Options",
     "description": "Compared physical size, weight, and power input flexibility including USB-C and power bank compatibility."
   },
   {
-    "title": "",
+    "title": "Setup Complexity",
     "description": "Compared straightforward mode-based setup against OpenWrt's deeper but more complex configuration options."
   }
 ];

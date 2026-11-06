@@ -57,56 +57,56 @@ export const heroImage = "https://m.media-amazon.com/images/I/51qCZHhqU3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Prioritizing clear",
           "Decorative Portable File Box with Clear Accents"
         ],
         [
-          "",
-          ""
+          "Prioritizing plastic",
+          "Wood File Box"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "Abcxgood Desktop File Organizer Box"
         ],
         [
-          "",
+          "Mid-range",
           "Decorative File Organizer Box Set of 2"
         ],
         [
           "No firm budget ceiling, prioritizing security or durability",
-          ""
+          "Wood File Box"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: Decorative Portable File Box with Clear Accents, Decorative File Organizer Box Set of 2, Wood File Box."
       }
     ],
@@ -116,8 +116,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Wood File Box offers: distinct wood aesthetic. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Abcxgood Desktop File Organizer Box already covers the essentials: Highest rating in this comparison. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -161,15 +161,15 @@ export const howWeEvaluated = [
     "description": "We verified hanging file compatibility, handle comfort, and lid security for each pick separately from its decorative finish, consistent with the pattern established throughout our broader research."
   },
   {
-    "title": "",
+    "title": "Discreet vs. decorative-visible tradeoff",
     "description": "We addressed the genuine tradeoff between decorative visibility and the discreet, non-descript storage some buyers prefer for sensitive documents in a shared space."
   },
   {
-    "title": "",
+    "title": "Pattern and finish durability",
     "description": "We considered whether a decorative pattern or finish fades or wears with handling, distinct from the base material's own structural durability."
   },
   {
-    "title": "",
+    "title": "Price premium vs. functional quality correlation",
     "description": "We weighed each decorative pick's price premium against genuine functional quality rather than assuming these correlate automatically."
   }
 ];

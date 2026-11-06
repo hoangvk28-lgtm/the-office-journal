@@ -61,47 +61,47 @@ export const heroImage = "https://m.media-amazon.com/images/I/31BRZ4TjcjL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Small bedroom or office",
+          "Dyson Purifier Cool PC1"
         ],
         [
-          "",
+          "Standard bedroom",
           "Dyson Purifier Humidify+Cool PH2 De-NOx​"
         ],
         [
-          "",
-          ""
+          "Larger living space",
+          "Dyson Purifier Humidify+Cool PH03"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Dyson Purifier Cool PC1"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Dyson Purifier Hot+Cool HP1"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Dyson Purifier Humidify+Cool PH03"
         ]
       ]
     }
@@ -114,53 +114,53 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Uses less electricity and covers larger rooms more effectively."
       },
       {
-        "label": "",
+        "label": "Warm mist",
         "text": "Kills bacteria in the water during boiling and runs near-silently, best for a small room."
       }
     ],
     "note": "Match this to your room size and how much you value quiet operation versus coverage."
   },
   {
-    "subheading": "",
+    "subheading": "By Maintenance Tolerance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Minimal daily upkeep",
           "Check tank capacity against how often you're willing to refill it"
         ],
         [
-          "",
+          "Don't mind frequent cleaning",
           "Dyson Purifier Humidify+Cool PH2 De-NOx​"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Hard Water Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An evaporative design (traps minerals in the wick) or plan to use distilled water with an ultrasonic model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Dyson Purifier Humidify+Cool PH2 De-NOx​ is worth checking against its specific mist type before assuming any humidifier handles hard water the same way."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger tank, quieter operation, and extra features like a hygrometer display, where Dyson Purifier Humidify+Cool PH03 justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need basic humidity for a small room and don't mind more frequent refills, where Dyson Purifier Cool PC1 already covers the job at the lowest price here."
       }
     ]

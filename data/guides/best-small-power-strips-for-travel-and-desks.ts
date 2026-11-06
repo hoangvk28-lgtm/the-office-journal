@@ -52,38 +52,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/318aKVnZqgL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Outlet Count",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Compact, fewer outlets needed",
+          "Cruise Essentials"
         ],
         [
-          "",
+          "Maximum outlet capacity",
           "Olcorife Flat Plug Power Strip with 10 FT Extension Cord"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $9",
+          "Cruise Essentials"
         ],
         [
-          "",
+          "Mid-range",
           "Olcorife Flat Plug Power Strip with 10 FT Extension Cord"
         ],
         [
@@ -97,21 +97,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C PD Charging vs Outlets Only",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C PD Charging",
         "text": "Charges laptops and higher-power devices faster directly from the strip, without a separate charging brick. In this comparison: Olcorife Flat Plug Power Strip with 10 FT Extension Cord."
       },
       {
-        "label": "",
+        "label": "AC Outlets Only",
         "text": "Simpler design focused purely on outlet count, pair with your own chargers as needed. In this comparison: TESSAN Small Flat Plug Power Strip, Travel Essentials, ORICO Purple Cruise Approved Travel Power Strip with 4FT Extension Cord."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Surge Protection Level",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -125,24 +125,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Bulky Wall-Wart Adapters Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Wide or offset outlet spacing explicitly mentioned in the listing or shown in product photos, not just a high raw outlet count."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ORICO Purple Cruise Approved Travel Power Strip with 4FT Extension Cord fits this specifically: Cruise-approved design avoids confiscation risk."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what ORICO Purple Cruise Approved Travel Power Strip with 4FT Extension Cord offers: Cruise-approved design avoids confiscation risk. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Cruise Essentials already covers the essentials: Most affordable pick in this guide. The main thing you'd be paying extra for elsewhere in this list is capacity or charging speed you may not need."
       }
     ]

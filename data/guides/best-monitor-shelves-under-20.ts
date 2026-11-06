@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51tWuVEuo0L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,48 +83,48 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "WALI Computer Monitor Stand ($9.49)"
         ],
         [
-          "",
-          ""
+          "$19-$20",
+          "OPNICE 2-Tier ($19.79), gianotter ($19.99), or Simple Trending ($19.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Plastic vs Wood-and-Metal Construction",
     "cards": [
       {
-        "label": "",
+        "label": "Plastic (WALI)",
         "text": "Lightweight, vented for cooling, and the cheapest option, sufficient for a standard monitor without needing extra storage features."
       },
       {
-        "label": "",
+        "label": "Wood-and-Metal (gianotter, OPNICE)",
         "text": "More finished look with genuine storage features like drawers and pen holders, at a modest price premium over plain plastic."
       }
     ],
     "note": "If you just need a basic height boost, the WALI plastic riser covers it. If you want integrated desk organization too, the wood-and-metal picks deliver more value per dollar."
   },
   {
-    "subheading": "",
+    "subheading": "By Storage Priority",
     "table": {
       "headers": [
         "What you need to store",
-        ""
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Pens, small supplies, files",
           "Gianotter or OPNICE (drawer + pen holders)"
         ],
         [
@@ -138,24 +138,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Maximum Desk Cooling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A vented platform design that allows airflow around your monitor or laptop, reducing heat buildup during extended use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The WALI Computer Monitor Stand specifically features a vented platform designed to prevent device overheating."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest weight capacity and most integrated storage, where the gianotter pick delivers both in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A simple adjustable riser covers your needs, where the WALI pick offers genuine height adjustability at the lowest price here."
       }
     ]
@@ -164,15 +164,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Stated Weight Capacity",
     "description": "Compared documented weight capacity figures across the lineup, since this varied from unstated to a specific 44 lb rating."
   },
   {
-    "title": "",
+    "title": "Storage Feature Depth",
     "description": "Checked which picks include drawers, pen holders, or multi-tier storage versus a simple raised platform alone."
   },
   {
-    "title": "",
+    "title": "Height Adjustability",
     "description": "Compared the number of distinct height settings each riser offers for customizing viewing angle."
   },
   {
@@ -180,7 +180,7 @@ export const howWeEvaluated = [
     "description": "Noted construction materials (plastic, metal, wood) and whether non-slip or rubber pads protect the desk surface."
   },
   {
-    "title": "",
+    "title": "Warranty and Return Policy",
     "description": "Compared stated return policy length across the lineup, since this varied meaningfully even among similarly priced picks."
   }
 ];

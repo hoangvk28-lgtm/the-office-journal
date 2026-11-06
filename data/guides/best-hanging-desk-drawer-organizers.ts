@@ -60,80 +60,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Officemate Expandable Drawer Organizer Tray"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Officemate Expandable Drawer Organizer Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $14",
           "TRU RED Expandable Plastic Drawer Organizer"
         ],
         [
-          "",
+          "Up to $28",
           "Homeify Under Desk Drawer Organizer Clamp"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wall-Mounted vs No-Drill Clamp",
     "cards": [
       {
-        "label": "",
+        "label": "Wall-mounted",
         "text": "More permanent and often higher capacity, but requires drilling into drywall or a stud. In this comparison: Homeify Under Desk Drawer Organizer Clamp, INLDY Under Desk Drawer, SB Simpli Better File Organizer that Attaches Under the Desk."
       },
       {
-        "label": "",
+        "label": "No-drill clamp",
         "text": "Installs and removes without wall damage, the safer choice for a rented space. In this comparison: Officemate Expandable Drawer Organizer Tray, TRU RED Expandable Plastic Drawer Organizer."
       }
     ],
     "note": "Default to a no-drill clamp unless you own the space and want maximum capacity."
   },
   {
-    "subheading": "",
+    "subheading": "By Footprint",
     "note": "Check each pick's listed dimensions against your actual measured wall or desk-edge space before buying, not just the general size category."
   },
   {
     "subheading": "For a Renter or Shared Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine no-drill desk-edge or under-desk clamp mount, not a wall-mount requiring drilling into drywall or a stud."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Officemate Expandable Drawer Organizer Tray is worth checking against its listed no-drill mounting method before buying."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're organizing a heavy, varied file collection, where Homeify Under Desk Drawer Organizer Clamp's capacity and adjustability give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light, occasional storage for a few folders, where TRU RED Expandable Plastic Drawer Organizer covers the same job at a lower price."
       }
     ]
@@ -146,7 +146,7 @@ export const howWeEvaluated = [
     "description": "We identified whether each product adds a new hanging drawer or organizes the inside of an existing drawer, and clearly labeled the distinction."
   },
   {
-    "title": "",
+    "title": "Drawer rail/slide interference verification",
     "description": "For hanging drawer units, we noted these attach to the desk underside rather than an existing drawer's rail, avoiding interference with existing drawer mechanisms."
   },
   {

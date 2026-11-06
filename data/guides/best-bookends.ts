@@ -61,79 +61,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/41oqLnw4KAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A light stack of paperbacks",
-          ""
+          "4 Pcs Acrylic Bookends"
         ],
         [
-          "",
+          "A full mixed shelf",
           "Book Ends, 1 Pair Bookends Wood Book Ends Universal Economy Bookend"
         ],
         [
           "A long shelf needing multiple pairs",
-          ""
+          "Acrylic Bookends 4 Pcs"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "4 Pcs Acrylic Bookends"
         ],
         [
-          "",
+          "Mid-range pick",
           "VFINE 4-Piece Modern Metal Bookends for Shelves"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Acrylic Bookends 4 Pcs"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
-        "label": "",
+        "label": "Decorative (e.g. 4 Pcs Acrylic Bookends)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Glossy or glass surface",
           "Book Ends, 1 Pair Bookends Wood Book Ends Universal Economy Bookend"
         ],
         [
-          "",
+          "Textured wood surface",
           "VFINE 4-Piece Modern Metal Bookends for Shelves"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Book Ends, 1 Pair Bookends Wood Book Ends Universal Economy Bookend is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Acrylic Bookends 4 Pcs justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 4 Pcs Acrylic Bookends already covers the job at the lowest price here."
       }
     ]

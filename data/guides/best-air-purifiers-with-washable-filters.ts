@@ -53,34 +53,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/415AbiHqgpL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Filtration Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "COWAY Air Purifier for Home Up to 1"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $100",
           "Membrane Solutions MSA3 Air Purifier for Home"
         ],
         [
-          "",
+          "Up to $230",
           "COWAY Air Purifier for Home Up to 1"
         ]
       ]
@@ -90,22 +90,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Smart App-Connected vs Basic Manual Controls",
     "cards": [
       {
-        "label": "",
+        "label": "Smart, app-connected",
         "text": "Lets you monitor air quality and adjust fan speed remotely, useful if you want automation or scheduling. In this comparison: LEVOIT Smart Air Purifier for Home Large Room up to 1875 ft Vital 200S."
       },
       {
-        "label": "",
+        "label": "Basic manual controls",
         "text": "Simpler and usually cheaper, with nothing to set up or connect. In this comparison: LEVOIT Air Purifier for Home Pets Bedroom Up to 1073Ft² Washable Pre, COWAY Air Purifier for Home Up to 1, COWAY Air Purifier for Home Up to 1, Membrane Solutions MSA3 Air Purifier for Home."
       }
     ],
     "note": "Default to basic manual controls unless you specifically want app-based monitoring or automation."
   },
   {
-    "subheading": "",
+    "subheading": "By Room Coverage",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Allergies or Pet Dander Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Certified True HEPA filtration with an H13 or higher rating, sized for a room at least as large as where it'll actually run."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since HEPA certification isn't consistently disclosed across every unit in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real odor, VOC, or large-room coverage, where COWAY Air Purifier for Home Up to 1's higher price buys real filtration or CADR headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're covering a small space with a basic dust or allergen concern, where Membrane Solutions MSA3 Air Purifier for Home covers the same job at a lower price."
       }
     ]

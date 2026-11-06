@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/419C11rQcXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $25",
+          "LISEN ($19.68), Lamicall Gooseneck ($19.99), or Lamicall Nylon ($24.99)"
         ],
         [
-          "",
-          ""
+          "$25 to $35",
+          "Evershop Ring Light ($29.99), SMALLRIG ($33.90), or NEEWER ($33.99)"
         ]
       ]
     }
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you only ever mount a phone, a phone-specific gooseneck is lighter and cheaper; if you shoot with a mix of phone, action camera, and lights, a magic arm's versatility is worth the extra cost."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your main use is",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -144,27 +144,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Content Creators Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A standard 1/4\"-20 threaded mount rather than a fixed phone-only clamp, so you can swap in a ring light, microphone, or small camera as your setup grows."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Evershop ring light pick and the SMALLRIG/NEEWER magic arms all use standard threaded mounting rather than a phone-only clamp."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) use standard threaded mounts with a stated load capacity."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "68) covers that core need for roughly half the price of the magic-arm picks here."
       }
     ]
@@ -173,15 +173,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Phone-specific vs magic-arm classification",
     "description": "We separated arms built and tested only for phone weight from true camera-style magic arms with a stated load capacity, since these are different product categories that happen to share a similar form factor."
   },
   {
-    "title": "",
+    "title": "Load capacity verification",
     "description": "For the magic-arm picks, we checked the stated maximum load rating (in grams or ounces) rather than assuming any articulating arm can hold any accessory."
   },
   {
-    "title": "",
+    "title": "Mounting interface standard",
     "description": "We noted which picks use a standard 1/4\"-20 or 3/8\"-16 threaded mount (compatible with widely available camera and light accessories) versus a phone-clamp-only design with no accessory expansion."
   },
   {
@@ -189,7 +189,7 @@ export const howWeEvaluated = [
     "description": "We compared stated arm length and base clamp opening width across both product types, since a longer reach or wider clamp is a real functional difference even between two phone-specific arms."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $40 on the date this guide was checked; arms that only hit this tier during a temporary sale were excluded."
   }
 ];

@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Verify Factory-Set vs. User-Changeable Combinations",
     "explanation": "Check whether combination fireproof safes's combination can be changed by the owner or is permanently factory-set, since a fixed code matters if the safe changes hands or a code is compromised."
   },
   {
@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "A combination lock offers no fire protection on its own; verify the safe's fire classification separately from its lock mechanism."
   },
   {
-    "criterion": "",
+    "criterion": "Confirm Lost-Combination Support",
     "explanation": "Ask what happens if the combination is forgotten and the override key is lost, since mechanical combination locks generally require professional locksmith service to open."
   }
 ];
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/31+ZaOADbhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Verify Factory-Set vs. User-Changeable Combinations",
     "note": "Check whether combination fireproof safes's combination can be changed by the owner or is permanently factory-set, since a fixed code matters if the safe changes hands or a code is compromised."
   },
   {
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "A combination lock offers no fire protection on its own; verify the safe's fire classification separately from its lock mechanism."
   },
   {
-    "subheading": "",
+    "subheading": "Confirm Lost-Combination Support",
     "note": "Ask what happens if the combination is forgotten and the override key is lost, since mechanical combination locks generally require professional locksmith service to open."
   }
 ];
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Recorded fire duration and test temperature separately for each model rather than accepting a vague 'fireproof' label, since a 30-minute rating and a 2-hour rating protect very differently in a real house fire."
   },
   {
-    "title": "",
+    "title": "Water Evidence Verified Independently",
     "description": "Checked water-resistance claims (submersion depth, duration) as a separate fact from the fire rating, since the two protections are tested and certified independently even on the same product."
   },
   {

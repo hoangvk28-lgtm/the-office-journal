@@ -53,16 +53,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EsewSK2nL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Minimal adjustment period",
+          "RECCAZR Ergonomic Keyboard"
         ],
         [
           "Independent hand and wrist angling",
@@ -72,19 +72,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $36",
+          "RECCAZR Ergonomic Keyboard"
         ],
         [
-          "",
+          "Mid-range",
           "Arteck Split Ergonomic Keyboard with Palm Rest"
         ],
         [
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: Perixx PERIBOARD-512B Wired Ergonomic Keyboard, Arteck Split Ergonomic Keyboard with Palm Rest, RECCAZR Ergonomic Keyboard."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest, Logitech Wave Keys Wireless Ergonomic Keyboard, Arteck Split Ergonomic Keyboard with Palm Rest."
       }
     ]
@@ -111,13 +111,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Lowest cost, quiet typing",
+          "RECCAZR Ergonomic Keyboard"
         ],
         [
           "Tactile feedback, lighter actuation force",
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest fits this specifically: Largest verified review base in this guide."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "RECCAZR Ergonomic Keyboard already covers the essentials: Lowest price of any pick in this guide. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -156,7 +156,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Correcting the continuous-rest-vs-hovering misconception",
     "description": "Led with the foundational correction that wrists should hover while actively typing and rest on the pad only during pauses, since continuous resting can increase rather than relieve strain."
   },
   {
@@ -164,7 +164,7 @@ export const howWeEvaluated = [
     "description": "Compared wrist rest firmness and angle across picks as real specs, not a single 'has a wrist rest' checkbox every product either passes or fails."
   },
   {
-    "title": "",
+    "title": "Built-in vs. detachable rest design",
     "description": "Distinguished built-in, non-removable rests from detachable ones, noting that detachable allows cleaning, replacement, or removal if the user's approach changes."
   },
   {

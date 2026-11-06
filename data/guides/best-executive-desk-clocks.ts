@@ -49,15 +49,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41-tdoWEyKL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Movement Type",
     "table": {
       "headers": [
-        "",
+        "What you want",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "A quiet, non-ticking movement",
           "Executive Gift Shoppe | Personalized Glass Table Clock with Silver Finish Accents and Custom Engraving"
         ],
         [
@@ -72,37 +72,37 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $54",
           "Executive Gift Shoppe | Arched Personalized Mahogany Desktop Alarm Clock with Custom Engraving"
         ],
         [
-          "",
+          "Mid-range",
           "Executive Gift Shoppe | Personalized Glass Table Clock with Silver Finish Accents and Custom Engraving"
         ],
         [
           "No firm budget ceiling, prioritizing material or brand",
-          ""
+          "Luxurious Marble Desk Clock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs Corded",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-Powered",
         "text": "Runs on batteries alone, so it can sit anywhere on a desk or shelf with no cord in the way, at the cost of an eventual battery swap. In this comparison: Executive Gift Shoppe | Personalized Glass Table Clock with Silver Finish Accents and Custom Engraving, Executive Gift Shoppe | Arched Personalized Mahogany Desktop Alarm Clock with Custom Engraving, Luxurious Marble Desk Clock."
       },
       {
-        "label": "",
+        "label": "Corded (Plug-In)",
         "text": "Draws continuous power from a wall outlet, often adding features like USB charging ports or a battery backup for outages, but it has to sit within cord length of a plug. In this comparison: none in this specific roundup, since most picks here are battery powered."
       }
     ],
@@ -112,12 +112,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Purpose: Everyday Use vs Gift",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your purpose",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday functional desk use",
           "Executive Gift Shoppe | Personalized Glass Table Clock with Silver Finish Accents and Custom Engraving"
         ],
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buying as a Gift Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine material language, such as hand carved, real marble, or real crystal, rather than a marble-look or crystal-look plastic finish, plus a stated production or engraving lead time if personalization is involved."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Executive Gift Shoppe | Personalized Glass Table Clock with Silver Finish Accents and Custom Engraving fits this specifically: Genuine custom engraving option for personalization. That's the kind of detail that signals a deliberate gift rather than a purely functional purchase."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Luxurious Marble Desk Clock offers: Genuine polished marble material for real desk presence. That's a real material or craftsmanship upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Executive Gift Shoppe | Arched Personalized Mahogany Desktop Alarm Clock with Custom Engraving already covers the essentials: Warm mahogany finish suits a traditional office look. The main thing you'd be paying extra for elsewhere in this list is styling rather than function."
       }
     ]

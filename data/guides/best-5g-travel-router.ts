@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Q8pmaKJoL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "What matters most",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,12 +73,12 @@ export const howToChoose: HowToChooseSection[] = [
           "NETGEAR Nighthawk M7 5G Mobile Hotspot"
         ],
         [
-          "",
-          ""
+          "VPN protection and customization",
+          "GL.iNet GL-E750V2 MUDI"
         ],
         [
           "Touchscreen, 32-device support at lower price",
-          ""
+          "NETGEAR Nighthawk M6"
         ],
         [
           "Lowest price, basic reliable connectivity",
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $50",
+          "SCHOK 4G LTE Portable WiFi ($49.99)"
         ],
         [
-          "",
-          ""
+          "Under $180",
+          "GL.iNet MUDI ($169.99) or NETGEAR M6 ($179.99)"
         ],
         [
-          "",
-          ""
+          "Under $500",
+          "NETGEAR Nighthawk M7 5G ($499.88)"
         ]
       ]
     }
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "5G vs 4G LTE for Travel",
     "cards": [
       {
-        "label": "",
+        "label": "5G (Nighthawk M7)",
         "text": "Delivers significantly faster speeds where 5G coverage is strong, worth the premium for buyers regularly in well-covered urban and suburban areas."
       },
       {
@@ -125,27 +125,27 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check actual 5G coverage maps for your specific travel destinations before paying a premium for 5G capability that may not be available where you're actually traveling."
   },
   {
-    "subheading": "",
+    "subheading": "By SIM/ESIM Approach",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your preference",
+        "Recommended pick"
       ],
       "rows": [
         [
           "App-based global ESIM, no physical SIM",
-          ""
+          "NETGEAR Nighthawk M7"
         ],
         [
           "Physical ESIM card, operator switching",
-          ""
+          "GL.iNet MUDI"
         ],
         [
           "Standard Nano SIM, any compatible carrier",
-          ""
+          "NETGEAR Nighthawk M6"
         ],
         [
-          "",
+          "Included starter SIM card",
           "SCHOK 4G LTE Portable WiFi"
         ]
       ]
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequent International Business Travel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "App-based ESIM data plan purchasing that works across many countries without needing to locate and purchase a local SIM card at each destination, plus built-in security features like a firewall and WPA3 encryption for protecting sensitive business data."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Nighthawk M7 specifically offers ESIM coverage across 140+ countries purchasable directly through its app, removing the local SIM card hunt at each destination."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "88 price delivers differentiated international travel convenience."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need reliable 4G connectivity for a family or small group's basic needs, where the SCHOK pick covers that for a fraction of the flagship price."
       }
     ]
@@ -181,11 +181,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Speed and Wi-Fi Generation",
     "description": "Compared Wi-Fi 6 and Wi-Fi 7 speed ceilings alongside stated 4G/5G cellular speed capability."
   },
   {
-    "title": "",
+    "title": "Simultaneous Device Support",
     "description": "Compared the maximum number of devices each hotspot supports connecting at once."
   },
   {
@@ -193,11 +193,11 @@ export const howWeEvaluated = [
     "description": "Compared built-in ESIM systems against standard Nano SIM slots and included starter SIM cards."
   },
   {
-    "title": "",
+    "title": "Battery Life",
     "description": "Compared stated battery capacity and usage hours across listings."
   },
   {
-    "title": "",
+    "title": "Additional Features",
     "description": "Compared touchscreen interfaces, VPN client support, and security features like firewalls and WPA3."
   }
 ];

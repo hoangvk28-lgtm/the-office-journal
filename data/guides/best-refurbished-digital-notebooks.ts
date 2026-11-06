@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/31vXCSmH+ML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
         "What you need it for",
@@ -65,31 +65,31 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "",
-          ""
+          "Everyday note-taking and reading",
+          "Like-New Amazon Kindle Scribe"
         ],
         [
-          "",
+          "AI-assisted or document-heavy work",
           "ReMarkable 2 with Marker Plus"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $303",
+          "Like-New Amazon Kindle Scribe"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "Amazon Kindle Scribe"
         ],
         [
           "No firm budget ceiling, prioritizing storage or ecosystem",
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "AI Features Included vs Subscription-Gated",
     "cards": [
       {
-        "label": "",
+        "label": "Included, No Subscription",
         "text": "AI note tools come with the purchase price, no ongoing cost. In this comparison: check each listing's terms directly."
       },
       {
-        "label": "",
+        "label": "Subscription-Gated",
         "text": "Advanced AI features require an ongoing paid plan on top of the hardware price. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
@@ -116,43 +116,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "ReMarkable 2 with Marker Plus"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "ReMarkable 2 with Marker Plus"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Handwriting-to-Text Conversion Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of handwriting-to-text conversion (not just \"AI\" generally), and whether that specific feature is included or requires a subscription."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Like-New Amazon Kindle Scribe fits this specifically: More storage than the new base model for meaningfully less money."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Like-New Amazon Kindle Scribe already covers the essentials: Lowest price of any Kindle Scribe option here. The main thing you'd be paying extra for elsewhere in this list is features or storage you may not need."
       }
     ]
@@ -166,14 +166,14 @@ export const howWeEvaluated = [
   },
   {
     "title": "Rating and review count as refurbished-specific evidence",
-    "description": ""
+    "description": "We flagged where a refurbished listing has a meaningfully lower rating or smaller review base than its new-condition counterpart, since that's specific evidence worth weighing."
   },
   {
     "title": "Storage-to-price value within the refurbished tier",
     "description": "We compared 32GB and 64GB refurbished Kindle Scribe options directly, since the price gap between them turned out to be small enough to change the recommendation."
   },
   {
-    "title": "",
+    "title": "Condition grading terms",
     "description": "We noted that \"Like-New\" still permits light cosmetic wear under most sellers' grading systems, verify the specific listing's terms before buying."
   }
 ];

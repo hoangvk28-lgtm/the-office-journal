@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/311lDEFB-KL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,7 +74,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A small business deployment with dedicated uplink",
-          ""
+          "BV-Tech 3-Port PoE Extender"
         ],
         [
           "Flexibility to adapt between extender and switch roles",
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $14",
+          "Ztyuav 3 Port Gigabit PoE Extender ($13.99)"
         ],
         [
-          "",
-          ""
+          "Under $22",
+          "BV-Tech 3-Port PoE Extender ($21.99)"
         ],
         [
-          "",
-          ""
+          "Under $27",
+          "NICGIGA 1 in 3 Out Extender ($26.99)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "MokerLink 3 Ports Passthrough Switch ($29.78)"
         ]
       ]
     }
@@ -122,7 +122,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "All three are purpose-built PoE extenders that draw power exclusively from the upstream PoE source, simple and predictable for a straightforward extension need."
       },
       {
-        "label": "",
+        "label": "Multi-mode flexibility (MokerLink)",
         "text": "This pick functions as a PoE extender, network extender, or PoE switch depending on the power source connected, adaptable if your network needs might change over time."
       }
     ],
@@ -132,8 +132,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Warranty and Support Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your support preference",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Comfortable without an extended warranty commitment",
-          ""
+          "BV-Tech or Ztyuav picks"
         ],
         [
           "Business deployment wanting documented reliability",
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Basic Two-Camera Home Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A straightforward 1-in-2-out extender at the lowest price, since a basic home camera setup typically doesn't need multi-mode flexibility or business-oriented uplink architecture."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Ztyuav pick's low price and optional VLAN toggle make it a strong, uncomplicated fit for a basic two-camera home installation."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "78 price is justified by that versatility."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -181,19 +181,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Power Source Flexibility",
     "description": "Compared whether each extender supports only PoE input or can adapt to multiple power source types."
   },
   {
-    "title": "",
+    "title": "Per-Port Wattage Budget",
     "description": "Compared how total input power is shared or allocated across the 2 PoE output ports."
   },
   {
-    "title": "",
+    "title": "Warranty and Support Commitment",
     "description": "Compared warranty length and stated ongoing technical support."
   },
   {
-    "title": "",
+    "title": "Network Security Features",
     "description": "Compared VLAN isolation and port isolation options for improved network security."
   },
   {

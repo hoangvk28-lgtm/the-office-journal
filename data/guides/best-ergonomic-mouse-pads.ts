@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31OldV+I7IL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tracking Surface Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Controlled, precise movement",
           "MROCO Ergonomic Mouse Pad with Gel Wrist Rest"
         ],
         [
-          "",
+          "Fast, low-friction glide",
           "TECKNET Ergonomic Mouse Pad with Wrist Rest, Soft Comfortable Massage Design"
         ],
         [
-          "",
+          "Budget cloth surface",
           "EooCoo Ergonomic Mouse Pad with Wrist Rest"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "EooCoo Ergonomic Mouse Pad with Wrist Rest"
         ],
         [
-          "",
+          "Mid-range pick",
           "MROCO Ergonomic Mouse Pad with Wrist Support"
         ],
         [
-          "",
+          "Higher budget",
           "TECKNET Ergonomic Mouse Pad with Wrist Rest, Soft Comfortable Massage Design"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Hard Surface",
     "cards": [
       {
         "label": "MROCO Ergonomic Mouse Pad with Gel Wrist Rest)",
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Size vs Your Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "EooCoo Ergonomic Mouse Pad with Wrist Rest"
         ],
         [
-          "",
+          "Standard desk",
           "MROCO Ergonomic Mouse Pad with Gel Wrist Rest"
         ],
         [
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MROCO Ergonomic Mouse Pad with Gel Wrist Rest is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where TECKNET Ergonomic Mouse Pad with Wrist Rest, Soft Comfortable Massage Design justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward cloth pad for everyday use, where EooCoo Ergonomic Mouse Pad with Wrist Rest already covers the job at the lowest price here."
       }
     ]

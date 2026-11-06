@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51iNMIzAY4L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Protection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,30 +69,30 @@ export const howToChoose: HowToChooseSection[] = [
           "SentrySafe Fireproof Safe Box with Key Lock"
         ],
         [
-          "",
+          "Genuine anti-removal, bolt-down support",
           "SentrySafe Fireproof Safe with Key Lock"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "SentrySafe Fireproof Safe Box with Key Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $14",
           "KYODOLED Small Metal Lock Box with Key for Cash and Medication"
         ],
         [
-          "",
+          "Up to $68",
           "SentrySafe Black Fireproof and Waterproof Safe"
         ]
       ]
@@ -102,26 +102,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Physical Key vs Electronic Access",
     "cards": [
       {
-        "label": "",
+        "label": "Physical key",
         "text": "No batteries to fail, but a lost key means a lockout with no backup. In this comparison: Bonsaii Security Safe Box with Key Lock, Yuanshikj Steel Small Safe Lock Box with Key Security, KYODOLED Small Metal Lock Box with Key for Cash and Medication, SentrySafe Black Fireproof and Waterproof Safe, DocSafe 5200°F Fireproof Document Organizer Box with Lock, SentrySafe Small Safe."
       },
       {
-        "label": "",
+        "label": "Electronic access",
         "text": "More convenient day to day, worth checking for a backup access method in case the battery dies. In this comparison: SentrySafe Fireproof Safe Box with Key Lock, SentrySafe Fireproof Safe with Key Lock."
       }
     ],
     "note": "Most buyers should default to electronic access with a confirmed backup method unless simplicity is the top priority."
   },
   {
-    "subheading": "",
+    "subheading": "By Fire Protection",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fire resistance claimed",
           "SentrySafe Fireproof Safe Box with Key Lock"
         ],
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Storing Documents or Cash Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed interior dimension roomy enough for the actual items, plus a backup access method beyond just a keypad."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SentrySafe Fireproof Safe Box with Key Lock is worth checking against its listed interior dimensions before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're storing valuable or irreplaceable items, where SentrySafe Black Fireproof and Waterproof Safe's higher price buys real security or fire-protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic theft deterrence for low-value items, where KYODOLED Small Metal Lock Box with Key for Cash and Medication covers the same job at a lower price."
       }
     ]

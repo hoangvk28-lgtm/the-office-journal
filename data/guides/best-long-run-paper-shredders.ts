@@ -56,69 +56,69 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Aurora AU1210MA Professional Grade High Security 12"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Bonsaii 18"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $56",
+          "Bonsaii 12"
         ],
         [
-          "",
-          ""
+          "Up to $180",
+          "Bonsaii 120"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Auto-Feed vs Manual-Feed",
     "cards": [
       {
-        "label": "",
+        "label": "Auto-feed",
         "text": "Load a stack and walk away, the shredder pulls sheets automatically, worth it for large regular volumes. In this comparison: QUIETLEMON 100, Bonsaii 120, Bonsaii 100."
       },
       {
-        "label": "",
+        "label": "Manual-feed",
         "text": "You feed sheets by hand, usually cheaper and simpler for occasional light use. In this comparison: Aurora AU1210MA Professional Grade High Security 12, Bonsaii 18, BONSEN 14, Bonsaii 12, Bonsaii 12."
       }
     ],
     "note": "Default to manual-feed for occasional light use, auto-feed if you regularly shred large stacks."
   },
   {
-    "subheading": "",
+    "subheading": "By Bin Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 6-gallon bin",
+          "Bonsaii 18"
         ],
         [
-          "",
-          ""
+          "Around 6-gallon bin",
+          "Bonsaii 120"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Sensitive Financial Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A P-4 cross-cut rating or higher, not just the marketing term \"cross-cut\" without a specific P-rating attached."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Bonsaii 18 is worth checking against its listed P-rating before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You regularly shred large stacks or sensitive documents, where Bonsaii 120's higher price buys real capacity or security headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only shred occasionally with a low sheet volume, where Bonsaii 12 covers the same job at a lower price."
       }
     ]

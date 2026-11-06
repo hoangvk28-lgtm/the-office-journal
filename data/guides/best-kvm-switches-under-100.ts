@@ -36,7 +36,7 @@ export const faq = [
   },
   {
     "q": "What's the practical difference between the UGREEN and Heravo dual-monitor switches given their similar specs?",
-    "a": ""
+    "a": "Based on the listings, UGREEN doesn't explicitly claim adaptive EDID technology while Heravo does, and UGREEN carries a $10 price premium likely reflecting its more established brand recognition; functionally, both deliver a similar dual-monitor, 4 USB 3.0 port experience."
   },
   {
     "q": "Is the IOGEAR switch's 1920x1200 resolution good enough for general office work?",
@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ZrB2w7oOL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -76,31 +76,31 @@ export const howToChoose: HowToChooseSection[] = [
           "0 HDMI KVM Switch, 2 Monitors 2 Computers"
         ],
         [
-          "",
+          "Managing four separate computers",
           "HDMI Displayport KVM Switch, 4 Computers 2 Monitors"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $40",
+          "IOGEAR GCS32HU ($39.99) for single-monitor needs"
         ],
         [
-          "",
-          ""
+          "$60-$70",
+          "Heravo Dual Monitor ($59.99) or UGREEN Dual Monitor ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $100",
+          "HDMI Displayport 4-Computer Switch ($99.99)"
         ]
       ]
     }
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most home offices only need 2-computer switching. The 4-computer pick is worth its added complexity specifically for IT professionals or power users managing multiple systems."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Count Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your monitor setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor is enough",
           "IOGEAR 2-Port Full HD KVM Switch"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For IT Professionals Managing Multiple Systems Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A switch that scales beyond two computers, with mixed HDMI and DisplayPort input options for connecting varied hardware."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The HDMI Displayport KVM Switch, 4 Computers 2 Monitors is specifically built for managing more systems than the standard 2-computer limit."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need to manage four separate computers from one desk, where the HDMI Displayport 4-Computer pick is the only option here supporting this scale."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A single monitor and two computers cover your needs, where the IOGEAR GCS32HU costs less than half of the dual-monitor picks in this comparison."
       }
     ]
@@ -172,11 +172,11 @@ export const howWeEvaluated = [
     "description": "Checked which picks support true extend mode across two monitors versus only mirroring the same image, a meaningful functional difference."
   },
   {
-    "title": "",
+    "title": "Computer Scaling Beyond Two",
     "description": "Noted which pick in this comparison scales to four computers rather than the standard two-computer limit found elsewhere."
   },
   {
-    "title": "",
+    "title": "USB-C Port Inclusion",
     "description": "Compared which switches include a USB-C port alongside USB-A for modern peripheral compatibility."
   },
   {

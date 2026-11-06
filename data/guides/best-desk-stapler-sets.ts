@@ -44,7 +44,7 @@ export const faq = [
     "a": "Only for high-volume stapling or if hand strength is a concern, electric staplers depend on battery charge or a power outlet, a manual stapler works reliably regardless of power availability."
   },
   {
-    "q": "",
+    "q": "Are electric staplers loud?",
     "a": "They produce a distinct motor click or whir each time they fire, check reviews specifically for noise complaints if you'll use it near coworkers in a quiet shared office."
   },
   {
@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41gREd2DPWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Stack Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, a few sheets",
           "SKYDUE Pink Desk Accessories 11Pcs with Rotating Pen Holder for Desk"
         ],
         [
-          "",
+          "A regular office stack",
           "SKYDUE Black Office Supplies Set"
         ],
         [
-          "",
-          ""
+          "Consistently thick stacks",
+          "Black Desk Organizer Set"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "SKYDUE Pink Desk Accessories 11Pcs with Rotating Pen Holder for Desk"
         ],
         [
-          "",
+          "Mid-range pick",
           "7Pcs White Office Supplies Set"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Black Desk Organizer Set"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Manual vs Electric",
     "cards": [
       {
         "label": "SKYDUE Pink Desk Accessories 11Pcs with Rotating Pen Holder for Desk)",
         "text": "No power dependency, reliable for any volume."
       },
       {
-        "label": "",
+        "label": "Electric",
         "text": "Reduces hand strain at high volume, depends on charge or power."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Staple Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 26/6 staples",
           "SKYDUE Black Office Supplies Set"
         ],
         [
-          "",
+          "A specific alternate size",
           "7Pcs White Office Supplies Set"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Center-of-Document Stapling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A deep throat depth spec, not just a standard corner-reach stapler."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SKYDUE Black Office Supplies Set is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Black Desk Organizer Set justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where SKYDUE Pink Desk Accessories 11Pcs with Rotating Pen Holder for Desk already covers the job at the lowest price here."
       }
     ]

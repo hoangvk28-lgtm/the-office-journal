@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "Do I need a 30W extender for a standard IP camera, or is a lower wattage extender enough?",
-    "a": ""
+    "a": "Standard IP cameras typically use 15.4W under the older 802.3af standard, so a 30W extender is specifically necessary only if your camera or device requires the higher IEEE 802.3at (PoE+) power tier."
   },
   {
     "q": "How do I know if my device needs the full 30W or can work with a lower output?",
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31GK+AcsDUL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $14",
+          "Tliffpaco ($13.98) or Davuaz 100Mbps ($13.99)"
         ],
         [
-          "",
-          ""
+          "Under $17",
+          "Davuaz Gigabit (30W in, 24W out) ($16.99)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "WAVLINK IP67 Outdoor ($39.99)"
         ]
       ]
     }
@@ -128,8 +128,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Number of Devices to Power",
     "table": {
       "headers": [
-        "",
-        ""
+        "Devices to power",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a PTZ Camera Requiring Full 30W Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A listing that discloses actual output wattage per port, not just the input rating, since some extenders share a 30W input across multiple ports for a lower per-port output."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3af/at rating to one device, rather than splitting it across multiple ports like the multi-device picks."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by that build quality."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "98, the lowest price in this comparison."
       }
     ]
@@ -181,19 +181,19 @@ export const howWeEvaluated = [
     "description": "Compared documented output wattage against the stated 30W input to check for an undisclosed gap."
   },
   {
-    "title": "",
+    "title": "Speed and Distance Tradeoffs",
     "description": "Compared fixed versus switchable speed-and-distance modes."
   },
   {
-    "title": "",
+    "title": "Multi-Device Power Sharing",
     "description": "Compared how total wattage splits across multiple output ports."
   },
   {
-    "title": "",
+    "title": "Build Quality and Waterproofing",
     "description": "Compared plastic versus metal housing and IP rating specificity."
   },
   {
-    "title": "",
+    "title": "Warranty and Support Commitment",
     "description": "Compared stated guarantee terms and support responsiveness."
   }
 ];

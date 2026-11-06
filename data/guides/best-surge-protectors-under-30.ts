@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ifGw1gOlL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $24",
+          "SWIVEL6 ($23.38) or TLP604TEL ($23.44)"
         ],
         [
-          "",
-          ""
+          "Under $27",
+          "CyberPower HT812TC ($26.72)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "ECHOGEAR ShockBlocker ($29.99)"
         ]
       ]
     }
@@ -117,35 +117,35 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Address a specific need, phone line protection, rotating outlets, or AV noise filtering, that a generic strip doesn't cover."
       },
       {
-        "label": "",
+        "label": "Maximum raw protection (ECHOGEAR)",
         "text": "Prioritizes the highest joule rating and slim concealability over any single specialized feature."
       }
     ],
     "note": "If you have a specific setup need, a landline, a media console, or awkward plug angles, a specialized pick solves that directly. If raw protection capacity matters most, the ECHOGEAR's 3420J rating leads this comparison."
   },
   {
-    "subheading": "",
+    "subheading": "By Setup Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Home theater or AV equipment",
-          ""
+          "CyberPower HT812TC"
         ],
         [
           "Home office with a landline or fax",
-          ""
+          "Eaton Tripp Lite TLP604TEL"
         ],
         [
           "Kitchen counter or tight-space wall tap",
-          ""
+          "Eaton Tripp Lite SWIVEL6"
         ],
         [
           "General desk or gaming setup",
-          ""
+          "ECHOGEAR ShockBlocker"
         ]
       ]
     }
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office Still Using a Landline or Fax Machine Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "RJ-11 phone line surge suppression built directly into the surge protector, not just AC outlet protection alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Eaton Tripp Lite TLP604TEL is the only pick here specifically protecting phone and modem lines alongside AC outlets."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest joule rating in a slim, concealable design, where the ECHOGEAR pick delivers 3420J of protection at the top of this tier's price range."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need rotating outlets or phone line protection specifically, where the SWIVEL6 or TLP604TEL each solve a targeted need for about $6 less."
       }
     ]
@@ -180,7 +180,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Joule Surge Protection Rating",
     "description": "Compared stated joule ratings across the slim, home-theater, and wall-tap style picks."
   },
   {
@@ -188,15 +188,15 @@ export const howWeEvaluated = [
     "description": "Checked which picks specifically include RJ-11 or similar protection for telephone and modem lines."
   },
   {
-    "title": "",
+    "title": "Outlet Mechanism Design",
     "description": "Compared fixed versus rotating outlet designs for ease of plugging in bulky adapters."
   },
   {
-    "title": "",
+    "title": "AV-Specific Features",
     "description": "Checked for noise filtering and other features specifically tuned for home theater and audio equipment."
   },
   {
-    "title": "",
+    "title": "Connected Equipment Warranty",
     "description": "Compared documented warranty and insurance coverage amounts across the lineup."
   }
 ];

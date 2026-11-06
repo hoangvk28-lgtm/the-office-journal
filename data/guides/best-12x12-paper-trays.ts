@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31SnRYG4qNL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "SONGWAY Scrapbook Paper Organizer 12x12-7 Tier File Organizer for Desk"
         ],
         [
-          "",
+          "Several distinct categories",
           "EasyPAG Scrapbook Paper Storage Organizer for Craft Room"
         ],
         [
-          "",
+          "High document volume",
           "Yumkfoi 12x18 Construction Paper Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "SONGWAY Scrapbook Paper Organizer 12x12-7 Tier File Organizer for Desk"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Juexica 4 Tier Scrapbook Paper Organizer 8.3 x 12.6 x 12.6 Inch Stackable Paper"
         ],
         [
-          "",
+          "Higher budget",
           "Yumkfoi 12x18 Construction Paper Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "SONGWAY Scrapbook Paper Organizer 12x12-7 Tier File Organizer for Desk)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "EasyPAG Scrapbook Paper Storage Organizer for Craft Room"
         ],
         [
           "Room for a taller multi-tier tray",
-          ""
+          "Juexica 4 Tier Scrapbook Paper Organizer 8.3 x 12.6 x 12.6 Inch Stackable Paper"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "EasyPAG Scrapbook Paper Storage Organizer for Craft Room is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Yumkfoi 12x18 Construction Paper Organizer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where SONGWAY Scrapbook Paper Organizer 12x12-7 Tier File Organizer for Desk already covers the job at the lowest price here."
       }
     ]

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41KNs-ATsNL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $290",
+          "X7 ($285.00)"
         ],
         [
-          "",
-          ""
+          "Under $310",
+          "KOGATA ($309.79)"
         ],
         [
-          "",
-          ""
+          "Under $350",
+          "Google TV-Licensed ($345.00)"
         ],
         [
-          "",
-          ""
+          "Under $360",
+          "HAPPRUN ($359.99)"
         ]
       ]
     }
@@ -129,24 +129,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you plan years of daily use and want assurance against needing a lamp replacement, the X7's 100,000-hour rating is worth prioritizing. If audio quality with formal certification matters more to your viewing experience, the KOGATA pick's dual certification delivers that."
   },
   {
-    "subheading": "",
+    "subheading": "By Support Location Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your support preference",
+        "Recommended pick"
       ],
       "rows": [
         [
           "US-based lifetime support explicitly stated",
-          ""
+          "Google TV-Licensed"
         ],
         [
-          "",
-          ""
+          "Lifetime technical support, general",
+          "KOGATA"
         ],
         [
-          "",
-          ""
+          "Standard manufacturer support",
+          "X7 or HAPPRUN"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Music and Concert Content Viewer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Dual audio certification like both Dolby and DTS, since these formal standards specifically optimize different types of audio content for accuracy and immersion."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The KOGATA pick's dual Dolby and DTS certification specifically caters to music, instrumental, and concert-style content beyond standard movie dialogue."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest brightness with the most complete connectivity options, where the HAPPRUN pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want the longest lamp life with a short-throw design for small spaces, where the X7 pick covers that for about $75 less."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Lamp Lifespan",
     "description": "Compared stated lamp hour ratings across the lineup, from standard to 100,000 hours."
   },
   {
-    "title": "",
+    "title": "Operating System Generation",
     "description": "Compared Android version and app ecosystem across all four picks."
   },
   {
-    "title": "",
+    "title": "Audio Certification",
     "description": "Checked for Dolby, DTS, or other certified audio standards versus generic speaker claims."
   },
   {
-    "title": "",
+    "title": "Connectivity Standards",
     "description": "Compared WiFi generation, Bluetooth version, and port selection across the tier."
   },
   {
-    "title": "",
+    "title": "Support and Warranty",
     "description": "Compared stated customer support location and warranty terms."
   }
 ];

@@ -60,46 +60,46 @@ export const heroImage = "https://m.media-amazon.com/images/I/41R2fUTfTqL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tower Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tower",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Small/mini-ITX case",
+          "YOSE Computer Tower Stand"
         ],
         [
-          "",
-          ""
+          "Standard mid-tower",
+          "ZUAVIALA Computer Tower Stand"
         ],
         [
-          "",
+          "Large full-tower",
           "EUREKA ERGONOMIC PC Stand Height Adjustable Black"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "YOSE Computer Tower Stand"
         ],
         [
-          "",
+          "Mid-range pick",
           "JANE EYRE Computer Tower Stand"
         ],
         [
-          "",
+          "Higher budget",
           "EUREKA ERGONOMIC PC Stand Height Adjustable Black"
         ]
       ]
@@ -109,30 +109,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Rolling Caddy vs Fixed Stand",
     "cards": [
       {
-        "label": "",
+        "label": "Rolling (e.g. YOSE Computer Tower Stand)",
         "text": "Easy to reposition for cleaning or cable access, needs floor space."
       },
       {
-        "label": "",
+        "label": "Fixed/hanging",
         "text": "Frees floor space but commits the tower to one spot."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Floor caddy on carpet",
+          "ZUAVIALA Computer Tower Stand"
         ],
         [
-          "",
+          "Under-desk hanging mount",
           "JANE EYRE Computer Tower Stand"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy Full-Tower PC Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weight capacity rated comfortably above your tower's actual weight, with a solid steel frame."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ZUAVIALA Computer Tower Stand is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where EUREKA ERGONOMIC PC Stand Height Adjustable Black justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where YOSE Computer Tower Stand already covers the job at the lowest price here."
       }
     ]

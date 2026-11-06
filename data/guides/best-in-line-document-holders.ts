@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/51yCAELXr+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "Business Source Easel Copy Holder"
         ],
         [
-          "",
+          "Continuous transcription/typing",
           "FEL8039401 - Fellowes Professional Series in-Line Document Holder"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Business Source Easel Copy Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "3M DH630 in-Line Document Holder"
         ],
         [
-          "",
+          "Higher budget",
           "3M Desktop Document Holder with Adjustable Clip"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Freestanding",
     "cards": [
       {
         "label": "Business Source Easel Copy Holder)",
         "text": "Sits between monitor and keyboard, minimal head movement."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits beside the monitor at eye level, more placement flexibility."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Letter/A4 size",
           "FEL8039401 - Fellowes Professional Series in-Line Document Holder"
         ],
         [
-          "",
+          "Legal size or larger",
           "3M DH630 in-Line Document Holder"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Transcription Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A line guide feature and independently adjustable angle and height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "FEL8039401 - Fellowes Professional Series in-Line Document Holder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 3M Desktop Document Holder with Adjustable Clip justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Business Source Easel Copy Holder already covers the job at the lowest price here."
       }
     ]

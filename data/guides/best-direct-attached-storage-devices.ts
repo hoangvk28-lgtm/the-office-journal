@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "A 10Gbps USB-C enclosure with 5 mechanical HDDs running simultaneously will bottleneck well below 10Gbps once you account for real sustained HDD throughput, typically 150-250MB/s per drive. Multi-drive aggregate speed matters more than the port's rated maximum."
   },
   {
-    "criterion": "",
+    "criterion": "RAID is not backup",
     "explanation": "RAID 1 or RAID 5 protects against a single drive failure, not against accidental deletion, ransomware, fire, or theft. Keep a genuine separate backup copy of anything irreplaceable, regardless of how much RAID redundancy your DAS provides."
   },
   {
@@ -64,21 +64,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Matching Device Type to Workflow",
     "table": {
       "headers": [
-        "",
-        ""
+        "Use case",
+        "Best pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Simple backup expansion",
+          "Sabrent DS-SC4B (JBOD)"
         ],
         [
           "Mirrored redundancy for critical files",
-          ""
+          "TerraMaster D2-320 (RAID 1)"
         ],
         [
           "Tight budget, single external drive",
-          ""
+          "CENMATE 2-Bay"
         ]
       ]
     }
@@ -87,23 +87,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Connection & Drive Architecture",
     "description": "Verified whether each product is direct-attached storage (USB, Thunderbolt, or SAS to one host) and whether drives mount individually, in JBOD, or under real hardware RAID, rather than assuming any multi-bay box works the same way."
   },
   {
-    "title": "",
+    "title": "Real Interface Speed",
     "description": "Checked the documented USB generation, Thunderbolt generation, or SAS link speed against real sustained throughput figures where manufacturers publish them, rather than repeating theoretical link-rate marketing numbers."
   },
   {
-    "title": "",
+    "title": "RAID/JBOD Implementation",
     "description": "Distinguished hardware-controller RAID from host-software RAID from plain JBOD/individual-disk presentation, since these have very different failure, portability, and rebuild behavior."
   },
   {
-    "title": "",
+    "title": "Build, Cooling & Serviceability",
     "description": "Weighed tool-free tray design, hot-swap support, fan noise where documented, and daisy-chain or expansion options against the product's likely desk, closet, or rack environment."
   },
   {
-    "title": "",
+    "title": "Total Ownership Cost",
     "description": "Considered that most DAS enclosures ship diskless, factoring in drive cost, cables, and RAID software where relevant rather than judging price on the empty enclosure alone."
   }
 ];

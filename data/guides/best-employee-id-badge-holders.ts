@@ -48,7 +48,7 @@ export const faq = [
     "a": "Only if your actual badge contains an RFID or proximity chip used for access, a standard printed ID with no chip gets no benefit from RFID blocking."
   },
   {
-    "q": "",
+    "q": "Are badge holders waterproof?",
     "a": "Standard plastic handles light moisture fine, but genuine waterproofing needs a sealed edge or specific rating, check for this if you work outdoors or in a consistently wet environment."
   }
 ];
@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/51sJNCuYtaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Daily Movement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Mostly desk-based",
           "ABEYATH 10 Pack Extra Thick ID Card Name Badge Holder Heavy Duty Waterproof"
         ],
         [
-          "",
+          "Frequent movement or bending",
           "Koorito 3 Pack Clear ID Badge Holder with Lanyard"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "ABEYATH 10 Pack Extra Thick ID Card Name Badge Holder Heavy Duty Waterproof"
         ],
         [
-          "",
+          "Mid-range pick",
           "Teskyer 2 Pack Double Sided Clear Badge Holder with Lanyard"
         ],
         [
-          "",
+          "Higher budget",
           "Diateklity 20 Pack Badge Reels Retractable with Carabiner Reel Clip Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Retractable vs Fixed Lanyard",
     "cards": [
       {
         "label": "ABEYATH 10 Pack Extra Thick ID Card Name Badge Holder Heavy Duty Waterproof)",
         "text": "Extends for scanning, retracts out of the way when not needed."
       },
       {
-        "label": "",
+        "label": "Fixed lanyard",
         "text": "Simpler, no reel mechanism to wear out over time."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Card Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your credentials",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single ID only",
           "Koorito 3 Pack Clear ID Badge Holder with Lanyard"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Wet or Outdoor Workplace Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine waterproof rating, not just standard plastic construction."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Koorito 3 Pack Clear ID Badge Holder with Lanyard is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Diateklity 20 Pack Badge Reels Retractable with Carabiner Reel Clip Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where ABEYATH 10 Pack Extra Thick ID Card Name Badge Holder Heavy Duty Waterproof already covers the job at the lowest price here."
       }
     ]

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Szlhl10ZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -77,35 +77,35 @@ export const howToChoose: HowToChooseSection[] = [
           "2 NVMe SSD Enclosure (TBU405 Pro)"
         ],
         [
-          "",
-          ""
+          "A recognized brand warranty",
+          "Lexar E750 40Gbps M.2 NVMe SSD Enclosure"
         ],
         [
-          "",
+          "Capacity beyond 8TB",
           "Satechi USB4 NVMe SSD Pro Enclosure"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $60",
+          "Cable Matters ($49.99) or Rosewill ($59.99)"
         ],
         [
-          "",
-          ""
+          "$60 to $90",
+          "ACASIS ($71.99), Lexar E750 ($89.99), or SABRENT ($89.99)"
         ],
         [
-          "",
-          ""
+          "Up to $150",
+          "Satechi USB4 NVMe SSD Pro Enclosure ($99.99)"
         ]
       ]
     }
@@ -128,8 +128,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Drive Generation and Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your SSD is",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -141,11 +141,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Cable Matters, Rosewill, ACASIS, or Lexar"
         ],
         [
-          "",
+          "A SATA M.2 or MSATA drive",
           "None of these enclosures, all require PCIe NVMe"
         ],
         [
-          "",
+          "Larger than 8TB",
           "Satechi USB4 NVMe SSD Pro Enclosure"
         ]
       ]
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Mac-Based Creative Professionals Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit testing against Apple Silicon Macs named in the listing (M1/M2/M3 or later), not just a generic \"Mac compatible\" claim with no chip generation named."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ACASIS is the only pick that names specific M1/M2/M3 Pro and Max MacBook and iPad Pro testing directly in its listing."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) is the only pick here rated past 8TB."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) matches the core speed and cooling of pricier picks here for less than half the cost."
       }
     ]
@@ -185,7 +185,7 @@ export const howWeEvaluated = [
     "description": "We distinguished certified Intel Thunderbolt chips (like ACASIS's JHL7440) from the more common third-party ASM2464PD controller, since Intel certification is a checkable, real credential rather than a marketing claim."
   },
   {
-    "title": "",
+    "title": "Brand warranty comparison",
     "description": "At this higher price tier, we specifically compared stated warranty length and brand reputation, since a $90-100 enclosure failing after a year is a meaningfully worse outcome than a $50 one failing at the same point."
   },
   {
@@ -197,7 +197,7 @@ export const howWeEvaluated = [
     "description": "We favored listings that documented sustained-use behavior (like a stated hours-long full-speed rating) over ones that only quote a single peak burst-speed number with no context for how long it holds."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $150 on the date this guide was checked; enclosures that only hit this tier during a temporary sale were excluded."
   }
 ];

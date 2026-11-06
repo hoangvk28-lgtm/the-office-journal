@@ -56,23 +56,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41nJBsy2cuL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "note": "Every pick in this specific comparison uses a similar layout approach; check the product names above for the exact curve, split, or angle."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $40",
+          "COLIKES Wireless Ergonomic Keyboard"
         ],
         [
-          "",
+          "Mid-range",
           "Arteck Split Ergonomic Keyboard with Palm Rest"
         ],
         [
@@ -83,14 +83,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: check each listing's connection type directly."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Arteck Split Ergonomic Keyboard with Palm Rest, ProtoArc EK01 Plus Backlit Bluetooth Ergonomic Keyboard, ProtoArc EK01 Plus Backlit Bluetooth Ergonomic Keyboard."
       }
     ]
@@ -99,13 +99,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Lowest cost, quiet typing",
+          "COLIKES Wireless Ergonomic Keyboard"
         ],
         [
           "Tactile feedback, lighter actuation force",
@@ -118,24 +118,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Arteck Split Ergonomic Keyboard with Palm Rest fits this specifically: Large, well-established review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "COLIKES Wireless Ergonomic Keyboard already covers the essentials: disclosed 2500mAh battery capacity, rare specificity in this category. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -144,7 +144,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Rechargeable-versus-replaceable-battery angle clarified explicitly",
     "description": "Clarified whether this addresses a distinct rechargeable-battery-specific angle, versus replaceable AA/AAA batteries, differentiating from general wireless keyboard content."
   },
   {

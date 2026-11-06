@@ -56,36 +56,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Mobile Office Pod Booth"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Mobile Office Pod Booth"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $4",
+          "Mobile Office Pod Booth"
         ],
         [
-          "",
-          ""
+          "Up to $4",
+          "Soundproof Office Pod Booth"
         ]
       ]
     }
@@ -94,42 +94,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Mobile on Wheels vs Fixed Placement",
     "cards": [
       {
-        "label": "",
+        "label": "Wheels for repositioning",
         "text": "Easier to reposition within a room, though still heavy and not truly portable between floors. In this comparison: Mobile Office Pod Booth."
       },
       {
-        "label": "",
+        "label": "Fixed placement",
         "text": "No mobility, but often a more stable, permanent installation. In this comparison: Soundproof Office Pod Booth."
       }
     ],
     "note": "Default to fixed placement unless you specifically expect to reposition the pod within a room."
   },
   {
-    "subheading": "",
+    "subheading": "By Disclosed Dimensions",
     "note": "Check each pick's listed exterior dimensions in inches against your actual available space before buying, not just its size category label."
   },
   {
     "subheading": "For Remote Work Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A verified STC or DB reduction rating, plus confirmed ventilation with a stated CFM figure for comfortable extended use during calls."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Mobile Office Pod Booth is worth checking against its listed acoustic and ventilation specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need verified acoustic isolation and ventilation for daily extended use, where Soundproof Office Pod Booth's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional light use, where Mobile Office Pod Booth covers the same job at a lower price."
       }
     ]
@@ -150,7 +150,7 @@ export const howWeEvaluated = [
     "description": "Compared wheel/mobility features and included furniture (table, USB ports) between the two qualifying picks."
   },
   {
-    "title": "",
+    "title": "Verified listing data only",
     "description": "Used only prices, dimensions, and features actually printed in each Amazon listing, no invented ratings or review counts."
   }
 ];

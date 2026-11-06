@@ -60,42 +60,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Amsleekey 4 Panel Wood Room Divider"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "RANTILA Single Large Panel Room Divider"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $31",
           "RANTILA Single Large Panel Room Divider"
         ],
         [
-          "",
+          "Up to $110",
           "Amsleekey 4 Panel Wood Room Divider"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stability vs Price",
     "cards": [
       {
         "label": "RANTILA Single Large Panel Room Divider",
@@ -109,31 +109,31 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to RANTILA Single Large Panel Room Divider unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Height",
     "note": "Check each pick's listed panel height against your room's ceiling and the actual privacy level you need before buying."
   },
   {
     "subheading": "For a Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "RANTILA Single Large Panel Room Divider is worth checking against its listed mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening or a taller, more stable divider, where Amsleekey 4 Panel Wood Room Divider's material and construction give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual separation without noise or stability concerns, where RANTILA Single Large Panel Room Divider covers the same job at a lower price."
       }
     ]
@@ -142,19 +142,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Confirmed caster hardware",
     "description": "Checked each listing's title and description for explicit mention of wheels, casters, or brakes, rather than assuming mobility from the product category alone, and flagged listings without confirmed wheels."
   },
   {
-    "title": "",
+    "title": "Caster load rating vs. panel weight",
     "description": "Weighed the realistic combined weight of the folded panel frame against typical small-caster load ratings in this category, often 20-30 lbs per wheel."
   },
   {
-    "title": "",
+    "title": "Locking mechanism reliability",
     "description": "Compared brake and lock hardware where confirmed, since a caster that doesn't lock securely defeats the purpose of a stationary divider that occasionally needs to move."
   },
   {
-    "title": "",
+    "title": "Rolling stability by height",
     "description": "Considered that taller dividers (6 ft+) are less stable when rolling and require more careful, slower repositioning than shorter panels."
   },
   {

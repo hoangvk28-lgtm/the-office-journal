@@ -60,36 +60,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HP DeskJet 4355 Wireless All"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HP DeskJet 4355 Wireless All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $69",
+          "Canon PIXMA TR4720 All"
         ],
         [
-          "",
-          ""
+          "Up to $210",
+          "Brother DCP"
         ]
       ]
     }
@@ -98,26 +98,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Canon PIXMA TR4720 All vs Brother DCP",
     "cards": [
       {
-        "label": "",
+        "label": "Canon PIXMA TR4720 All",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Brother DCP",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Canon PIXMA TR4720 All unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "HP DeskJet 4355 Wireless All"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HP DeskJet 4355 Wireless All is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Brother DCP's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon PIXMA TR4720 All covers the same job at a lower price."
       }
     ]
@@ -153,11 +153,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Standard wireless protocol support",
     "description": "Checked whether each printer supports standard wireless printing protocols that generally underpin ChromeOS's driverless IPP Everywhere setup, since Chromebooks can't install traditional manufacturer drivers."
   },
   {
-    "title": "",
+    "title": "Honest certification status",
     "description": "Flagged that none of these listings explicitly advertise ChromeOS or IPP Everywhere certification, and recommended checking each manufacturer's current compatibility page before buying rather than assuming support."
   },
   {
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "Weighed advertised AirPrint support as a modest positive signal for broader driverless protocol compatibility, since AirPrint and IPP Everywhere share underlying standards, without treating it as a guarantee."
   },
   {
-    "title": "",
+    "title": "Feature usefulness from ChromeOS",
     "description": "Considered ADF, duplex, and display features specifically for how they function through ChromeOS's built-in, more limited print and scan settings rather than a manufacturer's full driver interface."
   },
   {

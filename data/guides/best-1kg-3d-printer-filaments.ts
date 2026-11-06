@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Sensor-3dp-faq",
     "q": "What happens if filament runs out mid-print?",
     "a": "Without a filament run-out sensor, the print simply fails and wastes everything printed so far, this matters most for long unattended prints, check for this feature if you run extended jobs."
   },
   {
-    "id": "",
+    "id": "Speed-faq",
     "q": "Should I print at the printer's maximum advertised speed?",
     "a": "Usually not for best quality, max speed often introduces visible ringing or dimensional drift, most users get better results dialing back somewhat from the advertised ceiling."
   },
   {
-    "id": "",
-    "q": "",
+    "id": "Noise-3dp-faq",
+    "q": "Are 3D printers loud?",
     "a": "It varies significantly by model, quieter stepper drivers and fan designs make a real difference, check specific noise-level reviews if the printer will run somewhere you spend time like a bedroom or office."
   },
   {
-    "id": "",
+    "id": "Enclosure-faq",
     "q": "Do I need an enclosed 3D printer?",
     "a": "Only if you plan to print warping-prone materials like ABS or nylon, or your room is drafty, PLA in a stable room works fine on an open-frame printer."
   },
   {
-    "id": "",
+    "id": "Leveling-faq",
     "q": "Is automatic bed leveling worth paying extra for?",
     "a": "It saves real recurring setup time if you print frequently, manual leveling requires adjusting corner screws and checking with a feeler gauge before nearly every session."
   },
   {
-    "id": "",
+    "id": "Ams-faq",
     "q": "Is a multi-material system worth it?",
     "a": "Only if you regularly print multi-color or multi-material objects, each filament switch wastes purge material and adds print time, single-color prints get no benefit from the feature."
   }
@@ -67,34 +67,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51M3Pp9X34L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you print",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Functional parts and prototypes",
           "SUNLU PLA 3D Printer Filament"
         ],
         [
-          "",
-          ""
+          "Fine-detail miniatures or jewelry",
+          "ERYONE Silk PLA Filament for 3D Printer 1.75mm +/- 0.03mm"
         ],
         [
-          "",
+          "Large-format projects",
           "ABCWavePrint PLA 3D Printer Filament Bundle"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,44 +102,44 @@ export const howToChoose: HowToChooseSection[] = [
           "SUNLU PLA 3D Printer Filament"
         ],
         [
-          "",
+          "Mid-range pick",
           "SUNLU 3D Printer Filament Bundle"
         ],
         [
-          "",
+          "Higher budget",
           "ABCWavePrint PLA 3D Printer Filament Bundle"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "FDM vs Resin",
     "cards": [
       {
         "label": "SUNLU PLA 3D Printer Filament)",
         "text": "Sturdier functional parts at lower cost, visible layer lines."
       },
       {
-        "label": "",
+        "label": "Resin",
         "text": "Far finer detail and smoother finish, messier post-processing with toxic uncured resin."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Filament Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your materials",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard PLA in a stable room",
-          ""
+          "ERYONE Silk PLA Filament for 3D Printer 1.75mm +/- 0.03mm"
         ],
         [
-          "",
+          "Warping-prone ABS or nylon",
           "SUNLU 3D Printer Filament Bundle"
         ]
       ]
@@ -149,24 +149,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Unattended Prints Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine filament run-out sensor so a multi-hour print doesn't silently fail and waste material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "03mm is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where ABCWavePrint PLA 3D Printer Filament Bundle justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where SUNLU PLA 3D Printer Filament already covers the job at the lowest price here."
       }
     ]

@@ -63,31 +63,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Hours Standing Per Day",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your day",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional standing",
           "3x6 Feet Interlocking Foam Floor Mats (18-Pack)"
         ],
         [
-          "",
+          "Several hours daily",
           "ProsourceFit Exercise Puzzle Mat 1⁄2-inch"
         ],
         [
-          "",
-          ""
+          "Full-day standing desk use",
+          "SUPERJARE Gym Floor Mats"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,44 +95,44 @@ export const howToChoose: HowToChooseSection[] = [
           "3x6 Feet Interlocking Foam Floor Mats (18-Pack)"
         ],
         [
-          "",
+          "Mid-range pick",
           "Haulcove 18 Pcs EVA Foam Floor Tiles"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "SUPERJARE Gym Floor Mats"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Foam vs Polyurethane",
     "cards": [
       {
         "label": "3x6 Feet Interlocking Foam Floor Mats (18-Pack))",
         "text": "Softer initial feel, but flattens faster under continuous daily use."
       },
       {
-        "label": "",
+        "label": "Dense polyurethane (e.g. SUPERJARE Gym Floor Mats)",
         "text": "Holds support and shape longer for genuine all-day standing."
       }
     ],
     "note": "Match this to how many hours a day the mat will actually see, not just initial comfort."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hard flooring",
           "ProsourceFit Exercise Puzzle Mat 1⁄2-inch"
         ],
         [
-          "",
+          "Carpet",
           "Check specifically for a mat rated for carpet use"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Barefoot or Sock Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A textured surface rather than smooth, which can feel slippery without shoes."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ProsourceFit Exercise Puzzle Mat 1⁄2-inch is worth checking against its specific surface texture before assuming any mat grips the same barefoot."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You stand for most of the workday and want long-term support, where SUPERJARE Gym Floor Mats justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only stand occasionally and want basic cushioning, where 3x6 Feet Interlocking Foam Floor Mats (18-Pack) already covers the job at the lowest price here."
       }
     ]

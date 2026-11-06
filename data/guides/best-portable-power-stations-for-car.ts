@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "Check DC outlet voltage, current, and connector compatibility for coolers or other 12V gear."
   },
   {
-    "criterion": "",
+    "criterion": "Never Assume Jump-Start Capability",
     "explanation": "Don't treat a power station as a jump starter unless the exact model or accessory officially supports that function."
   }
 ];
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check DC outlet voltage, current, and connector compatibility for coolers or other 12V gear."
   },
   {
-    "subheading": "",
+    "subheading": "Never Assume Jump-Start Capability",
     "note": "Don't treat a power station as a jump starter unless the exact model or accessory officially supports that function."
   }
 ];
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Looked for UL, UL2743, or other documented safety certification and battery chemistry evidence rather than trusting a safety claim alone."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included cables, solar panel bundling, warranty length, and app requirements as part of the real cost and usability of each pick."
   }
 ];

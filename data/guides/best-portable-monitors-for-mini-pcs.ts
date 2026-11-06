@@ -52,38 +52,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/51OXc4g9NHL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Refresh Rate",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Standard smooth motion",
           "VisionOwl Portable Monitor for Laptop"
         ],
         [
-          "",
+          "Maximum refresh headroom",
           "5K QHD 110% SRGB 144Hz USB-C"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $160",
+          "EVICIV Portable Monitor 18.5 Inch 120Hz"
         ],
         [
-          "",
+          "Mid-range",
           "VisionOwl Portable Monitor for Laptop"
         ],
         [
@@ -97,22 +97,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C DisplayPort Alt Mode vs HDMI",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C (DisplayPort Alt Mode)",
         "text": "Usually the port that hits the panel's full rated refresh rate, and can carry power alongside video on one cable. In this comparison: check each listing's stated USB-C refresh rate directly."
       },
       {
-        "label": "",
+        "label": "HDMI",
         "text": "Reliable for consoles and older sources, but often capped below the panel's full rated refresh, especially at higher resolutions. 5K QHD 110% SRGB 144Hz USB-C."
       }
     ],
     "note": "If you're connecting a console or HDMI-only source specifically, verify the actual HDMI refresh ceiling on your chosen pick, since several picks here cap lower over HDMI than their headline spec suggests."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Mount Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Handheld Gaming PC or Console Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Your exact source device's documented maximum output refresh rate over the connection type you'll use, checked independently from the monitor's own rated capability, since handhelds like Steam Deck and ROG Ally commonly cap at 60Hz over USB-C."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5 Inch 2K QHD 120Hz 120% SRGB fits this specifically: VESA piggyback-mountable alongside a Mini PC's own bracket."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5 Inch 2K QHD 120Hz Second Screen offers: Brightest large-format pick in this guide. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5 Inch 120Hz already covers the essentials: FreeSync can help on AMD-graphics Mini PCs. The main thing you'd be paying extra for elsewhere in this list is headroom you may not actually use."
       }
     ]
@@ -156,11 +156,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "HDMI 2.0 vs. 2.1 bandwidth reality",
     "description": "1 or capable USB-C DisplayPort Alt Mode."
   },
   {
-    "title": "",
+    "title": "VESA piggyback mounting compatibility",
     "description": "Verified genuine VESA mounting holes for piggyback-mounting alongside a Mini PC's own VESA bracket, a compact-desk setup angle most competitors don't address."
   },
   {

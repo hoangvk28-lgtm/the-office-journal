@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/31FQ+m0Lt2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device You're Charging",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Phone, occasional use",
           "YUANHOT Magnetic Battery Pack for Nintendo Switch 2"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Anker Power Bank, 10,000mAh 30W with USB-C Travel Essential Portable Charger"
         ],
         [
-          "",
+          "Laptop or multiple devices",
           "Belkin Nintendo Switch 2 Grip Charging Case with 10000mAh Power Bank 30W"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "YUANHOT Magnetic Battery Pack for Nintendo Switch 2"
         ],
         [
-          "",
+          "Mid-range pick",
           "Antank B5 Magnetic Power Bank 10000mAh for Nintendo Switch 2 2025"
         ],
         [
-          "",
+          "Higher budget",
           "Belkin Nintendo Switch 2 Grip Charging Case with 10000mAh Power Bank 30W"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Capacity vs Portability",
     "cards": [
       {
         "label": "Belkin Nintendo Switch 2 Grip Charging Case with 10000mAh Power Bank 30W)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you're carrying it daily or leaving it in a bag for emergencies."
   },
   {
-    "subheading": "",
+    "subheading": "By Travel Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Flying with it",
           "Check the watt-hour (Wh) rating stays under 100Wh"
         ],
         [
-          "",
+          "Never flying with it",
           "Anker Power Bank, 10,000mAh 30W with USB-C Travel Essential Portable Charger"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "USB-PD support at 45W or higher, not just any USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Belkin Nintendo Switch 2 Grip Charging Case with 10000mAh Power Bank 30W is worth checking against your specific laptop's wattage requirement before assuming any power bank charges it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher capacity, faster charging, and support for a laptop, where Belkin Nintendo Switch 2 Grip Charging Case with 10000mAh Power Bank 30W justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need backup charges for a phone, where YUANHOT Magnetic Battery Pack for Nintendo Switch 2 already covers the job at the lowest price here."
       }
     ]

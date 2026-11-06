@@ -63,43 +63,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Long You Sit Each Day",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your day",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Short, active sessions",
+          "FDW Office Chair"
         ],
         [
-          "",
+          "Standard full workday",
           "VINGLI Compact Small Desk Chair"
         ],
         [
-          "",
+          "Uninterrupted 8+ hour days",
           "Misolant Vanity Chair with Back"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "FDW Office Chair"
         ],
         [
-          "",
+          "Mid-range pick",
           "Click365 Ergonomic Office Chair with Lumbar Support"
         ],
         [
-          "",
+          "Higher budget",
           "Misolant Vanity Chair with Back"
         ]
       ]
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Seat Height Range vs Your Desk",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 28-30 inch desk",
           "VINGLI Compact Small Desk Chair"
         ],
         [
-          "",
+          "Taller or drafting-style desk",
           "Check the chair's maximum height range specifically"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, All-Day Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Real lumbar adjustment and a weight capacity rated comfortably above your actual weight, not just at it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "VINGLI Compact Small Desk Chair is worth checking against its specific lumbar adjustment before assuming any 'ergonomic' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You sit 8+ hours a day and want adjustable lumbar, arms, and a higher weight rating, where Misolant Vanity Chair with Back justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your sitting sessions are shorter and more active, where FDW Office Chair already covers the job at the lowest price here."
       }
     ]

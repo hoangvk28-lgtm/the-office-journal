@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/412dJY9u5rL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,34 +73,34 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Genuine triple-screen productivity at a lower cost",
-          ""
+          "ZUMWALT P7 Triple Portable Monitor 15.6\""
         ],
         [
           "One extra detachable screen without triple-screen complexity",
-          ""
+          "Laptop Screen Extender 15.6\" Detachable (Slim 0.27\")"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $130",
+          "Laptop Screen Extender 15.6\" Detachable ($110.48) or Cevaton 15.6\" Detachable ($125.98)"
         ],
         [
-          "",
-          ""
+          "$185-$195",
+          "ZUMWALT P7 Triple Portable Monitor 15.6\" ($189.99)"
         ],
         [
-          "",
-          ""
+          "Under $250",
+          "S12 Triple Portable Monitor 16\" 1200P ($249.98)"
         ]
       ]
     }
@@ -109,22 +109,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "1080P 16:9 vs 1200P 16:10",
     "cards": [
       {
-        "label": "",
+        "label": "1080P 16:9 (ZUMWALT P7)",
         "text": "Standard resolution and aspect ratio, sharp enough for most productivity and media use, at a meaningfully lower price than the 1200P alternative."
       },
       {
-        "label": "",
+        "label": "1200P 16:10 (S12)",
         "text": "Taller aspect ratio shows more vertical content per screen, useful for coding, spreadsheets, and document-heavy work, for roughly $60 more."
       }
     ],
     "note": "If your work involves long documents, spreadsheets, or code, the extra vertical space of 1200P 16:10 is worth the premium. Otherwise, the 1080P triple-screen pick delivers the same core productivity boost for less."
   },
   {
-    "subheading": "",
+    "subheading": "By Build Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Build priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,7 +133,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Standard aluminum shell at a lower price",
-          ""
+          "ZUMWALT P7 Triple Portable Monitor 15.6\""
         ]
       ]
     }
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Coding and Spreadsheet Work Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A 16:10 or taller aspect ratio and 1200P or higher resolution, since these show more lines of code or spreadsheet rows without scrolling."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The S12 Triple Portable Monitor 16\" 1200P is the clear choice, offering both the taller ratio and sharper resolution over the 1080P triple-screen alternative."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You do coding, spreadsheet, or document-heavy work where the extra vertical space of the S12 Triple Portable Monitor 16\" 1200P improves your workflow."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "48 saves well over $100 versus either triple-screen pick."
       }
     ]
@@ -168,7 +168,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Resolution and Aspect Ratio",
     "description": "Compared standard 1080P 16:9 panels against the 1200P 16:10 option, weighing the extra vertical workspace against the roughly $60 price premium."
   },
   {
@@ -180,11 +180,11 @@ export const howWeEvaluated = [
     "description": "Weighed the productivity gain of a genuine triple-screen setup against the cost, weight, and cable complexity versus a simpler detachable single panel."
   },
   {
-    "title": "",
+    "title": "MacBook M-Series Cable Requirements",
     "description": "Verified which triple-screen listings explicitly disclose extra hardware needs for MacBook M1/M2/M3 users lacking full-featured USB-C ports."
   },
   {
-    "title": "",
+    "title": "Price-to-Feature Justification",
     "description": "Assessed whether each step up in price within this $110-250 band buys a new capability, like higher resolution or triple-screen support, rather than incremental branding."
   }
 ];

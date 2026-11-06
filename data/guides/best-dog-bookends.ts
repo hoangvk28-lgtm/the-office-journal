@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41sIR0dkJfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Tatuo 2 Pcs Decorative Golden Brass Dog Bookends for Shelves"
         ],
         [
-          "",
+          "A full mixed shelf",
           "Mervkis Book Ends for Shelves to Hold Books Heavy Duty, Decorative Bookend"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Tatuo 2 Pcs Decorative Golden Brass Dog Bookends for Shelves"
         ],
         [
-          "",
+          "Mid-range pick",
           "Antique Brass Dog Bookends Set of 2"
         ],
         [
-          "",
+          "Higher budget",
           "MXARLTR Decorative Bookends for Shelves"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
         "label": "Tatuo 2 Pcs Decorative Golden Brass Dog Bookends for Shelves)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Glossy or glass surface",
           "Mervkis Book Ends for Shelves to Hold Books Heavy Duty, Decorative Bookend"
         ],
         [
-          "",
+          "Textured wood surface",
           "Antique Brass Dog Bookends Set of 2"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Mervkis Book Ends for Shelves to Hold Books Heavy Duty, Decorative Bookend is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where MXARLTR Decorative Bookends for Shelves justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Tatuo 2 Pcs Decorative Golden Brass Dog Bookends for Shelves already covers the job at the lowest price here."
       }
     ]

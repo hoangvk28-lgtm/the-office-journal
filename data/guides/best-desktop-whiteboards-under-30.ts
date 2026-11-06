@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41+-w5AGGrL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $18",
+          "U Brands Desk Whiteboard Easel ($17.75)"
         ],
         [
-          "",
-          ""
+          "$25-$30",
+          "TSJ OFFICE ($24.69), Yeoux ($25.99), or Quartet ($29.76)"
         ]
       ]
     }
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If desk space is extremely tight, the compact U Brands pick fits best. If you want the glass upgrade plus genuine accessory organization, the other three picks deliver more complete functionality."
   },
   {
-    "subheading": "",
+    "subheading": "By Aesthetic Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk aesthetic",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Air Quality Conscious Buyers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A specific, named third-party certification for low emissions, rather than a generic \"eco-friendly\" or \"non-toxic\" marketing claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Quartet Glass Dry Erase White Board is the only pick specifically stating GREENGUARD Gold Certification for low emissions."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want GREENGUARD Gold Certified materials or a handcrafted hardwood look, where the Quartet and Yeoux picks respectively deliver these features."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A compact glass board covers your needs, where the U Brands pick delivers genuine glass quality at the lowest price in this comparison."
       }
     ]
@@ -169,15 +169,15 @@ export const howWeEvaluated = [
     "description": "Compared genuine tempered glass surfaces, which resist staining and ghosting, against standard melamine boards common at cheaper tiers."
   },
   {
-    "title": "",
+    "title": "Drawer and Storage Depth",
     "description": "Checked which picks include hidden drawers, divided compartments, or accessory trays versus a bare board with no storage."
   },
   {
-    "title": "",
+    "title": "Keyboard-Monitor Gap Fit",
     "description": "Compared which picks are specifically designed with an angled surface to sit between a keyboard and monitor."
   },
   {
-    "title": "",
+    "title": "Material Certifications",
     "description": "Noted specific third-party certifications like GREENGUARD Gold disclosed in the listings, relevant for indoor air quality."
   },
   {

@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31G+pEHXoML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light decorative items",
           "YEXEXINM 5 Tier Wall Shelf Unit White Vertical Column Wall Decor Lack Floating"
         ],
         [
-          "",
+          "Books, standard decor",
           "Fixwal 7 Tier Wall Shelf with LED Lights Lack Shelf for Room Decor (White)"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "Sorbus 5-Tier Floating Wall Shelf with Hooks"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "YEXEXINM 5 Tier Wall Shelf Unit White Vertical Column Wall Decor Lack Floating"
         ],
         [
-          "",
+          "Mid-range pick",
           "HOOBRO 5 Tier Wall Shelf Unit for Storage"
         ],
         [
-          "",
+          "Higher budget",
           "Sorbus 5-Tier Floating Wall Shelf with Hooks"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "Sorbus 5-Tier Floating Wall Shelf with Hooks)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Studs available where needed",
           "Fixwal 7 Tier Wall Shelf with LED Lights Lack Shelf for Room Decor (White)"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Sorbus 5-Tier Floating Wall Shelf with Hooks is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where Sorbus 5-Tier Floating Wall Shelf with Hooks justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're displaying light decorative items only, where YEXEXINM 5 Tier Wall Shelf Unit White Vertical Column Wall Decor Lack Floating already covers the job at the lowest price here."
       }
     ]

@@ -22,7 +22,7 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Use review volume for confidence in durability claims",
-    "explanation": ""
+    "explanation": "A large, established review base is the best evidence available for how well a pad holds up to repeated erasing."
   }
 ];
 
@@ -36,8 +36,8 @@ export const faq = [
     "a": "Paper pads are cheaper but wear faster over repeated use. Glass costs more but resists ghosting better long-term."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The Scribbledo Mini Dry Erase Notepad 2-pack at $8.99."
   },
   {
     "q": "Which has the most writing area?",
@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "Which has the highest rating?",
-    "a": ""
+    "a": "The TSJ OFFICE 8x6 glass board, at 4.7 stars."
   }
 ];
 
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41fFLL-HlwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Paper Pad vs. Glass Low-Profile Board",
     "cards": [
       {
-        "label": "",
+        "label": "Paper pad (Scribbledo)",
         "text": "Cheapest option, flat, but wears faster than glass over repeated use."
       },
       {
@@ -77,7 +77,7 @@ export const howWeEvaluated = [
     "description": "We excluded freestanding upright boards, keeping this comparison to products that sit flat or at a low angle in front of a keyboard."
   },
   {
-    "title": "",
+    "title": "Material: paper pad vs. glass",
     "description": "We compared cheaper paper-pad products against glass surfaces, noting glass's better long-term ghosting resistance versus the paper pads' lower cost."
   },
   {

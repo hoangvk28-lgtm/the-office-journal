@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31FF4Gt-YvL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Desk Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard office desk",
           "Tegeme 60'' Under Desk Privacy Panel Modesty Panel Desk Skirt"
         ],
         [
-          "",
+          "Standing/height-adjustable desk",
           "2Pack Black Desk Dividers for Student"
         ],
         [
-          "",
+          "L-shaped desk",
           "VIVO Black Clamp-on 60 inch Desk Cable Management Sleeve"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Tegeme 60'' Under Desk Privacy Panel Modesty Panel Desk Skirt"
         ],
         [
-          "",
+          "Mid-range pick",
           "VIVO Steel Clamp-on 10 x 12 inch Desktop Pegboard"
         ],
         [
-          "",
+          "Higher budget",
           "VIVO Black Clamp-on 60 inch Desk Cable Management Sleeve"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Laminate vs Perforated Metal",
     "cards": [
       {
         "label": "Tegeme 60'' Under Desk Privacy Panel Modesty Panel Desk Skirt)",
         "text": "Matches most standard desk finishes, adds real rigidity."
       },
       {
-        "label": "",
+        "label": "Perforated metal",
         "text": "Better airflow for cable heat, more industrial look."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Extra Function",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Privacy and rigidity only",
           "2Pack Black Desk Dividers for Student"
         ],
         [
-          "",
+          "Built-in cable management",
           "VIVO Steel Clamp-on 10 x 12 inch Desktop Pegboard"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Branded Standing Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A bracket kit confirmed compatible with your exact desk brand and model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "2Pack Black Desk Dividers for Student is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where VIVO Black Clamp-on 60 inch Desk Cable Management Sleeve justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Tegeme 60'' Under Desk Privacy Panel Modesty Panel Desk Skirt already covers the job at the lowest price here."
       }
     ]

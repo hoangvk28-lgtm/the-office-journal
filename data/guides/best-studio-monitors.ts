@@ -13,15 +13,15 @@ export const buyingCriteria = [
     "explanation": "Woofer size, most commonly 5 or 8 inches for home studios, directly affects how much low-frequency detail a monitor can reproduce and how much bass builds up in a small, untreated room. A 5-inch woofer is the standard, safer choice for a bedroom or small desk setup, since a larger 8-inch woofer can overload a small room with bass reflections that make mixing decisions less reliable, not more accurate. Check the specific woofer diameter listed in the spec sheet and match it to your room's actual square footage rather than assuming bigger always means better."
   },
   {
-    "criterion": "",
+    "criterion": "Wattage and Real Headroom",
     "explanation": "Wattage describes how loud a monitor can play before the amplifier starts distorting, and for most home studio use 50 to 75 watts per channel is sufficient, since mixing at reasonable volume rarely demands more. Buyers sometimes assume more wattage always sounds better, but excess headroom mostly matters in larger rooms or louder monitoring situations, not for a typical desk setup a few feet from your ears. Check the per-channel wattage figure specifically, not a combined system total, since some listings quote the sum of both speakers as one inflated number."
   },
   {
-    "criterion": "",
+    "criterion": "Equilateral Triangle Placement",
     "explanation": "Correct stereo imaging depends on positioning your pair of monitors so they, along with your listening position, form an equilateral triangle, meaning the distance between the two speakers equals the distance from each speaker to your head. Placing monitors too close together or too far apart distorts the stereo image regardless of how good the monitors themselves are, which is a setup detail entirely independent of which model you buy. Before blaming a monitor for a weak stereo image, measure your actual desk layout against this triangle rule first."
   },
   {
-    "criterion": "",
+    "criterion": "Powered vs Passive Design",
     "explanation": "A powered (active) studio monitor has its amplifier built directly into the cabinet, so it only needs a line-level source cable to work, while a passive monitor requires a separate external power amplifier matched to its impedance and wattage rating. Nearly every home studio buyer should choose powered monitors, since they're simpler to set up, avoid amp-matching mistakes, and are what nearly every current monitor on the market, including every pick in this comparison, is built as. Check the listing specifically for the word 'powered' or 'active' rather than assuming, since a passive monitor without a matched amp won't produce sound at all."
   }
 ];
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31NB1pNiD8L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "M-AUDIO BX5BT 5\" Desktop Studio Monitors Pair"
         ],
         [
-          "",
+          "Standard home studio room",
           "YAMAHA HS5 Powered Studio Monitor, Pair"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,7 +96,7 @@ export const howToChoose: HowToChooseSection[] = [
           "PreSonus Eris 5BT Bluetooth Studio Monitors, Pair"
         ],
         [
-          "",
+          "Mid-range, industry-standard reference sound",
           "JBL 305P MkII 5\" 2-Way Active Powered Studio Reference Monitors"
         ],
         [
@@ -107,25 +107,25 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Powered vs Passive Monitors",
     "cards": [
       {
         "label": "Powered (every pick in this comparison)",
         "text": "Has the amplifier built in, so you just need a source cable, no separate power amp or crossover to buy and match."
       },
       {
-        "label": "",
+        "label": "Passive (not covered here)",
         "text": "Needs an external power amp matched to the speaker's impedance and wattage, more setup complexity but sometimes preferred in larger professional rooms."
       }
     ],
     "note": "Almost every home studio buyer should default to powered monitors, which is why this entire comparison focuses on them."
   },
   {
-    "subheading": "",
+    "subheading": "By Woofer Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Small Home Studio Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rear-panel room-compensation switch or EQ, since a monitor placed close to a wall or desk surface needs bass correction most factory tunings assume you won't need."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "YAMAHA HS5 Powered Studio Monitor, Pair is worth checking against its room-control switches before assuming flat response out of the box."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're mixing professionally and need maximum headroom and detail, where KRK Classic 5 Professional Bi-Amp 5\" Powered Studio Monitor justifies the higher price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're just starting a home setup and want capable sound without overspending, where PreSonus Eris 5BT Bluetooth Studio Monitors, Pair already covers the job."
       }
     ]
@@ -177,15 +177,15 @@ export const howWeEvaluated = [
     "description": "Woofer size, most commonly 5 or 8 inches for home studios, directly affects how much low-frequency detail a monitor can reproduce and how much bass builds up in a small, untreated room."
   },
   {
-    "title": "",
+    "title": "Wattage and Real Headroom",
     "description": "Wattage describes how loud a monitor can play before the amplifier starts distorting, and for most home studio use 50 to 75 watts per channel is sufficient, since mixing at reasonable volume rarely demands more."
   },
   {
-    "title": "",
+    "title": "Equilateral Triangle Placement",
     "description": "Correct stereo imaging depends on positioning your pair of monitors so they, along with your listening position, form an equilateral triangle, meaning the distance between the two speakers equals the distance from each speaker to your head."
   },
   {
-    "title": "",
+    "title": "Powered vs Passive Design",
     "description": "A powered (active) studio monitor has its amplifier built directly into the cabinet, so it only needs a line-level source cable to work, while a passive monitor requires a separate external power amplifier matched to its impedance and wattage rating."
   }
 ];

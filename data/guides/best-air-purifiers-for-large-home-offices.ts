@@ -53,38 +53,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Filtration Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Certified True HEPA",
           "WINIX 5520 Air Purifier with PlasmaWave Technology"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "WINIX 5520 Air Purifier with PlasmaWave Technology"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $175",
           "LEVOIT Smart Air Purifier for Home Large Room up to 1875 ft Vital 200S"
         ],
         [
-          "",
+          "Up to $800",
           "Nuwave OxyPure Smart Air Purifier"
         ]
       ]
@@ -94,30 +94,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Smart App-Connected vs Basic Manual Controls",
     "cards": [
       {
-        "label": "",
+        "label": "Smart, app-connected",
         "text": "Lets you monitor air quality and adjust fan speed remotely, useful if you want automation or scheduling. In this comparison: LEVOIT Smart Air Purifier for Home Large Room up to 1875 ft Vital 200S, Nuwave OxyPure Smart Air Purifier."
       },
       {
-        "label": "",
+        "label": "Basic manual controls",
         "text": "Simpler and usually cheaper, with nothing to set up or connect. In this comparison: WINIX 5520 Air Purifier with PlasmaWave Technology, COWAY Air Purifier for Home Up to 1, Blueair Air Purifiers for Home Large Room."
       }
     ],
     "note": "Default to basic manual controls unless you specifically want app-based monitoring or automation."
   },
   {
-    "subheading": "",
+    "subheading": "By Certified HEPA Filtration",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Certified True HEPA needed",
           "WINIX 5520 Air Purifier with PlasmaWave Technology"
         ],
         [
-          "",
+          "Basic filtration is enough",
           "LEVOIT Smart Air Purifier for Home Large Room up to 1875 ft Vital 200S"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Allergies or Pet Dander Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Certified True HEPA filtration with an H13 or higher rating, sized for a room at least as large as where it'll actually run."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "WINIX 5520 Air Purifier with PlasmaWave Technology discloses certified True HEPA filtration."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real odor, VOC, or large-room coverage, where Nuwave OxyPure Smart Air Purifier's higher price buys real filtration or CADR headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're covering a small space with a basic dust or allergen concern, where LEVOIT Smart Air Purifier for Home Large Room up to 1875 ft Vital 200S covers the same job at a lower price."
       }
     ]

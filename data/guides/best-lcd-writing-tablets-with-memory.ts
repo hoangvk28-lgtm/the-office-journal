@@ -53,38 +53,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/4131yLyXeiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Most compact and portable",
           "[2 Pack] LCD Writing Tablet"
         ],
         [
-          "",
+          "Most writing room",
           "LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board eWriter Drawing Pad with Memory Lock Kids & Adults Home School Office Handwriting Tablet Gifts"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $6",
           "[2 Pack] LCD Writing Tablet"
         ],
         [
-          "",
+          "Mid-range",
           "LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board eWriter Drawing Pad with Memory Lock Kids & Adults Home School Office Handwriting Tablet Gifts"
         ],
         [
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Kids-Marketed vs Adult-Marketed",
     "cards": [
       {
-        "label": "",
+        "label": "Kids-Marketed",
         "text": "Bright colors and character branding, often the same core technology as adult versions at a similar or lower price. In this comparison: LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board eWriter Drawing Pad with Memory Lock Kids & Adults Home School Office Handwriting Tablet Gifts."
       },
       {
-        "label": "",
+        "label": "Adult-Marketed",
         "text": "Neutral styling suited to an office desk, sometimes at a price premium for the plainer look alone. In this comparison: [2 Pack] LCD Writing Tablet, LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board eWriter Drawing Pad with Memory Lock Kids & Adults Home School Office Handwriting Tablet Gifts, [2 Pack] LCD Writing Tablet."
       }
     ],
@@ -112,36 +112,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "With Memory Lock vs Basic Erase",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Prevent accidental erasing",
           "[2 Pack] LCD Writing Tablet"
         ],
         [
-          "",
+          "Simplest single-button design",
           "[2 Pack] LCD Writing Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Gift-Giving Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear age-range marketing if buying for a specific child, genuine screen size (not just overall unit size), and a replaceable coin-cell battery for the longest useful life."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board eWriter Drawing Pad with Memory Lock Kids & Adults Home School Office Handwriting Tablet Gifts fits this specifically: Larger 10 inch screen than the 8.5 inch alternatives."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "note": "Every pick in this specific comparison sits in a similar price range, so the decision here comes down to styling and included features rather than a budget-versus-premium tradeoff. Check the pros and cons above for what actually differs between them."
   }
 ];

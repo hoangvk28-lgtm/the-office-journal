@@ -32,12 +32,12 @@ export const faq = [
     "a": "The DSDCDJ File Box with Lock, with confirmed slide rails supporting both letter and legal size folders."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The Lemical Portable Plastic Transparent File Box at $18.99."
   },
   {
     "q": "Is there a multi-pack option?",
-    "a": ""
+    "a": "Yes, the Sterilite 8-Pack, which works out to roughly $13.50 per box."
   },
   {
     "q": "Was there an error in the original research for this article?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Rocketbook Fusion Hybrid Reusable Planner Notebook"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Rocketbook Fusion Hybrid Reusable Planner Notebook"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $19",
           "Lemical Portable Plastic Transparent File Boxes with Handle A4 Large Capacity"
         ],
         [
-          "",
+          "Up to $NaN",
           "Black Portable File Box, Letter"
         ]
       ]
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Lemical Portable Plastic Transparent File Boxes with Handle A4 Large Capacity unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Rocketbook Fusion Hybrid Reusable Planner Notebook"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Rocketbook Fusion Hybrid Reusable Planner Notebook is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Black Portable File Box, Letter's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Lemical Portable Plastic Transparent File Boxes with Handle A4 Large Capacity covers the same job at a lower price."
       }
     ]

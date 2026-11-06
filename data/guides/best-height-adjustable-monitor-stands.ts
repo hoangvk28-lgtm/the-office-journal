@@ -56,42 +56,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Zimilar Monitor Stand Riser with Metal Mesh Drawer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "WALI Freestanding VESA Monitor Stand for 13"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $17",
           "Zimilar Monitor Stand Riser with Metal Mesh Drawer"
         ],
         [
-          "",
+          "Up to $28",
           "WALI Freestanding VESA Monitor Stand for 13"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Weight Capacity vs Price",
     "cards": [
       {
         "label": "Zimilar Monitor Stand Riser with Metal Mesh Drawer",
@@ -105,31 +105,31 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Zimilar Monitor Stand Riser with Metal Mesh Drawer unless your monitor's weight or size calls for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Compatibility",
     "note": "Check each pick's listed VESA pattern support against your specific monitor's spec sheet before buying, not just general compatibility claims."
   },
   {
     "subheading": "For a Standing Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wide vertical height range to stay at eye level through sit-stand transitions, plus a clamp rated for your desk's edge thickness."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "WALI Freestanding VESA Monitor Stand for 13 is worth checking against its listed height range before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a heavier or ultrawide monitor, where WALI Freestanding VESA Monitor Stand for 13's weight capacity and gas spring quality give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You have a light, standard monitor and just want basic height adjustment, where Zimilar Monitor Stand Riser with Metal Mesh Drawer covers the same job at a lower price."
       }
     ]

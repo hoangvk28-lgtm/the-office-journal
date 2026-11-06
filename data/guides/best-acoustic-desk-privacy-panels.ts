@@ -56,80 +56,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HOODANCOS Desk Privacy Panel 2"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HOODANCOS Desk Privacy Panel 2"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $17",
           "HOODANCOS Desk Privacy Panel 2"
         ],
         [
-          "",
+          "Up to $17",
           "Icegrey Acoustic Desk Divider Privacy Panel"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Freestanding",
     "cards": [
       {
-        "label": "",
+        "label": "Clamp-on",
         "text": "Mechanically secured to the desk, more stable for daily use than relying on weight alone. In this comparison: HOODANCOS Desk Privacy Panel 2."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Easier to reposition or remove without any mounting hardware. In this comparison: Sound Absorbing Privacy Shield, Icegrey Acoustic Desk Divider Privacy Panel."
       }
     ],
     "note": "Default to clamp-on for daily stable use unless you need to move the panel frequently."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Dimensions",
     "note": "Check each pick's listed height and width against your seated eyeline and desk width before buying, not just the general size category."
   },
   {
     "subheading": "For a Shared Open Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A panel height that covers your seated eyeline and a genuine acoustic material if noise reduction matters, not just visual blocking."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HOODANCOS Desk Privacy Panel 2 is worth checking against its listed dimensions and material before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening and secure clamp mounting, where Icegrey Acoustic Desk Divider Privacy Panel's material and hardware give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual privacy without noise concerns, where HOODANCOS Desk Privacy Panel 2 covers the same job at a lower price."
       }
     ]

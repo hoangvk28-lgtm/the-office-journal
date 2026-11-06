@@ -57,39 +57,39 @@ export const heroImage = "https://m.media-amazon.com/images/I/410AHQcKwvL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Most compact and portable",
           "10 inch LCD Writing Tablet Electronic Writing Notebook with PU Protective Cover"
         ],
         [
-          "",
+          "Most writing room",
           "LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $6",
           "LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board with Memory Lock"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "KOKODI LCD Writing Tablet"
         ],
         [
           "No firm budget ceiling, prioritizing features or styling",
@@ -99,14 +99,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Kids-Marketed vs Adult-Marketed",
     "cards": [
       {
-        "label": "",
+        "label": "Kids-Marketed",
         "text": "Bright colors and character branding, often the same core technology as adult versions at a similar or lower price. In this comparison: TEKFUN LCD Writing Tablet for Kids."
       },
       {
-        "label": "",
+        "label": "Adult-Marketed",
         "text": "Neutral styling suited to an office desk, sometimes at a price premium for the plainer look alone. In this comparison: check each listing's marketing angle directly."
       }
     ],
@@ -116,43 +116,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "With Memory Lock vs Basic Erase",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Prevent accidental erasing",
           "LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board with Memory Lock"
         ],
         [
-          "",
+          "Simplest single-button design",
           "10 inch LCD Writing Tablet Electronic Writing Notebook with PU Protective Cover"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Gift-Giving Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear age-range marketing if buying for a specific child, genuine screen size (not just overall unit size), and a replaceable coin-cell battery for the longest useful life."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TEKFUN LCD Writing Tablet for Kids fits this specifically: Lightweight for moving between desk and meetings."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what 10 inch LCD Writing Tablet Electronic Writing Notebook with PU Protective Cover offers: Plainest, most desk-appropriate design in this comparison. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board with Memory Lock already covers the essentials: Lowest price in this comparison. The main thing you'd be paying extra for elsewhere in this list is styling or accessories you may not need."
       }
     ]
@@ -165,11 +165,11 @@ export const howWeEvaluated = [
     "description": "We found no dedicated professional LCD writing tablet subcategory currently available and said so directly, rather than repackaging kids' products as office tools without noting it."
   },
   {
-    "title": "",
+    "title": "Weighed desk-appropriate styling directly",
     "description": "We ranked plainer, less cartoon-styled designs higher for buyers concerned with how the tablet looks on a visible or shared desk."
   },
   {
-    "title": "",
+    "title": "Considered portability between workspaces",
     "description": "For hybrid and multi-location workers, we noted which options are specifically lightweight or travel-marketed."
   },
   {

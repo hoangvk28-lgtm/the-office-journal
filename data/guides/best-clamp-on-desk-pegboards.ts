@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "PEGZONE Under Desk Cable Management Tray"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "PEGZONE Under Desk Cable Management Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $26",
           "PEGZONE Under Desk Cable Management Tray"
         ],
         [
-          "",
+          "Up to $170",
           "VIVO Steel Triple Clamp Desk Pegboard System with 2 Monitor Mounts and Storage Shelf"
         ]
       ]
@@ -94,22 +94,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Built-In Monitor Mount vs Board-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in monitor mount",
         "text": "Combines cable management and monitor positioning in one panel, saving a separate monitor arm purchase. In this comparison: Sailret Clamp, VIVO Steel Triple Clamp Desk Pegboard System with 2 Monitor Mounts and Storage Shelf."
       },
       {
-        "label": "",
+        "label": "Board-only",
         "text": "Simpler and usually cheaper, fine if you already have a separate monitor arm or stand. In this comparison: PEGZONE Under Desk Cable Management Tray, Metal Clamp On Desk Shelf."
       }
     ],
     "note": "Default to board-only unless you specifically need to consolidate a monitor mount into the same purchase."
   },
   {
-    "subheading": "",
+    "subheading": "By Built-In Shelving",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,8 +117,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Metal Clamp On Desk Shelf"
         ],
         [
-          "",
-          ""
+          "Hooks alone are enough",
+          "Sailret Clamp"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Loaded, Multi-Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine metal or thick MDF construction, confirmed standard hole spacing, and a wall-anchor mounting option for stability once loaded with monitor arms and accessories."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "PEGZONE Under Desk Cable Management Tray is worth checking against its listed material and mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to load the board with monitor arms and multiple accessories, where VIVO Steel Triple Clamp Desk Pegboard System with 2 Monitor Mounts and Storage Shelf's material and mounting give real stability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a few lightweight decorative hooks, where PEGZONE Under Desk Cable Management Tray covers the same job at a lower price."
       }
     ]
@@ -157,15 +157,15 @@ export const howWeEvaluated = [
     "description": "Weighed whether each clamp design accounts for the extra leverage stress a vertically hung pegboard creates versus a flat, horizontal accessory."
   },
   {
-    "title": "",
+    "title": "Desk edge compatibility",
     "description": "Considered whether each clamp fits standard flat desk edges versus rounded, beveled, or lipped edges that a standard clamp jaw may not grip."
   },
   {
-    "title": "",
+    "title": "Desk-surface marking risk",
     "description": "Weighed clamp material and design against sustained leverage load rather than accepting 'damage-free' marketing claims uncritically."
   },
   {
-    "title": "",
+    "title": "Clamp material durability",
     "description": "Compared metal versus plastic clamp jaws for long-term durability under repeated tightening and loosening."
   }
 ];

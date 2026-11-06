@@ -63,35 +63,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "FIFINE AmpliGame AM8 USB/XLR Dynamic Microphone with Mute Button"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "FIFINE AmpliGame AM8 USB/XLR Dynamic Microphone with Mute Button"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $30",
           "TONOR TC310+ Gaming Microphone Set with Boom Arm and Tap Mute"
         ],
         [
-          "",
+          "Up to $90",
           "Logitech Creators Blue Yeti USB Microphone"
         ]
       ]
@@ -112,15 +112,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to TONOR TC310+ Gaming Microphone Set with Boom Arm and Tap Mute unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "FIFINE AmpliGame AM8 USB/XLR Dynamic Microphone with Mute Button"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "FIFINE AmpliGame AM8 USB/XLR Dynamic Microphone with Mute Button is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Logitech Creators Blue Yeti USB Microphone's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where TONOR TC310+ Gaming Microphone Set with Boom Arm and Tap Mute covers the same job at a lower price."
       }
     ]
@@ -156,7 +156,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hardware vs software mute",
     "description": "Checked each listing for a dedicated physical mute button that cuts the signal directly, versus reliance on app-level or driver-based mute, since hardware mute responds faster and more reliably."
   },
   {
@@ -172,7 +172,7 @@ export const howWeEvaluated = [
     "description": "Factored in dynamic versus condenser capsules, since dynamic mics reject more room noise and can reduce how often a buyer needs to reach for the mute button at all."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed mute feature quality, capsule type, and included accessories like a boom arm or headphone jack against price across the full range of price points in this comparison in this list."
   }
 ];

@@ -57,47 +57,47 @@ export const heroImage = "https://m.media-amazon.com/images/I/41VsFRvYrkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fully dark, dedicated room",
           "GooDee 4K Smart Projector with 5G WiFi 6 & Bluetooth"
         ],
         [
-          "",
+          "Some ambient light",
           "GOODEE Mini Projector Built-in Apps"
         ],
         [
           "Bright room or daytime use",
-          ""
+          "Magcubic Mini Projector with WiFi 6 and Bluetooth 5.4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Magcubic Mini Projector with WiFi 6 and Bluetooth 5.4"
         ],
         [
-          "",
+          "Mid-range pick",
           "GOODEE Mini Projector Built-in Apps"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Magcubic Mini Projector with WiFi 6 and Bluetooth 5.4"
         ]
       ]
     }
@@ -106,22 +106,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Laser vs Lamp-Based Light Source",
     "cards": [
       {
-        "label": "",
+        "label": "Laser-lit models (e.g. Magcubic Mini Projector with WiFi 6 and Bluetooth 5.4)",
         "text": "No bulb to replace and instant full brightness, at a higher upfront price that pays off mainly under frequent, heavy use."
       },
       {
-        "label": "",
+        "label": "Lamp-based models (e.g. Magcubic Mini Projector with WiFi 6 and Bluetooth 5.4)",
         "text": "Lower purchase price, but the bulb dims over time and eventually needs replacing, an added cost most buyers forget to budget for."
       }
     ],
     "note": "Most casual, weekly-use buyers should default to a lamp-based pick unless they'll run it daily, where laser's near-zero maintenance pays for itself over a few years."
   },
   {
-    "subheading": "",
+    "subheading": "By Throw Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "GooDee 4K Smart Projector with 5G WiFi 6 & Bluetooth is worth checking against its documented native contrast figures before assuming any headline contrast number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want laser reliability and top-tier brightness, where Magcubic Mini Projector with WiFi 6 and Bluetooth 5.4 justifies the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "4 already covers the job at the lowest price here."
       }
     ]

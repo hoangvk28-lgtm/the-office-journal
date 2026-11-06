@@ -13,11 +13,11 @@ export const buyingCriteria = [
     "explanation": "Check the total programmable shortcut count, since production workflows benefit from more keys than casual sketching."
   },
   {
-    "criterion": "",
+    "criterion": "Confirm Color Accuracy Documentation",
     "explanation": "For pen displays, verify factory calibration data and Delta-E figures rather than trusting a gamut percentage alone."
   },
   {
-    "criterion": "",
+    "criterion": "Check Long-Session Ergonomics",
     "explanation": "Verify stand angle range and wrist support, since professional sessions run much longer than casual ones."
   },
   {
@@ -65,11 +65,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check the total programmable shortcut count, since production workflows benefit from more keys than casual sketching."
   },
   {
-    "subheading": "",
+    "subheading": "Confirm Color Accuracy Documentation",
     "note": "For pen displays, verify factory calibration data and Delta-E figures rather than trusting a gamut percentage alone."
   },
   {
-    "subheading": "",
+    "subheading": "Check Long-Session Ergonomics",
     "note": "Verify stand angle range and wrist support, since professional sessions run much longer than casual ones."
   },
   {
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified First",
     "description": "Sorted each product into screenless pen tablet, computer-dependent pen display, or true standalone before comparing specs, since these solve different problems."
   },
   {
-    "title": "",
+    "title": "Pen Behavior Verified",
     "description": "Checked activation force, pressure-level count, tilt support, and parallax evidence directly from documentation rather than trusting a headline pressure number alone."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Verified current Windows/macOS/Linux/Android compatibility by exact model, since older tablets can lose driver support over time."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included pen, nibs, stand, and cables against what needs to be bought separately, plus warranty length and driver update history."
   }
 ];

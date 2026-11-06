@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31w8P8D3oqL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,22 +73,22 @@ export const howToChoose: HowToChooseSection[] = [
           "Vornado AVH10 (2026) Space Heater"
         ],
         [
-          "",
+          "Standard bedroom or office",
           "Vornado Rise 20H (2026) Whole Room Tower Heater"
         ],
         [
-          "",
+          "Larger living space",
           "Vornado TAVH10 (2026) Space Heater with Remote"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Vornado AVH10 (2026) Space Heater"
         ],
         [
-          "",
+          "Mid-range pick",
           "Vornado MVH Space Heater (2026)"
         ],
         [
-          "",
+          "Higher budget",
           "Vornado TAVH10 (2026) Space Heater with Remote"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Ceramic vs Oil-Filled Heat",
     "cards": [
       {
         "label": "Vornado Rise 20H (2026) Whole Room Tower Heater)",
         "text": "Heats a room fastest using a fan, but cools down quickly once switched off."
       },
       {
-        "label": "",
+        "label": "Oil-filled radiator",
         "text": "Slower to warm up but silent and holds heat long after being turned off, best for overnight use."
       }
     ],
     "note": "Match this to whether you need fast heat now or quiet, sustained warmth overnight."
   },
   {
-    "subheading": "",
+    "subheading": "By Safety Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,7 +133,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Check for both tip-over AND overheat protection specifically"
         ],
         [
-          "",
+          "Standard adult-only room",
           "Vornado Rise 20H (2026) Whole Room Tower Heater"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Overnight Bedroom Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine low-wattage setting, a working thermostat that cycles off, and UL/ETL/CSA safety certification."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Vornado Rise 20H (2026) Whole Room Tower Heater is worth checking against its specific safety certifications before assuming any 'safe' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're heating a larger room and want a thermostat and multiple heat settings, where Vornado TAVH10 (2026) Space Heater with Remote justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're heating a small space or supplementing central heat, where Vornado AVH10 (2026) Space Heater already covers the job at the lowest price here."
       }
     ]
@@ -178,7 +178,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Third-Party Safety Certification (UL, ETL, or CSA)",
-    "description": ""
+    "description": "A label from UL Solutions, ETL (Intertek), or CSA means the heater's construction and performance were independently tested against recognized U.S."
   },
   {
     "title": "Ceramic vs Infrared vs Oil-Filled Heat Type",
@@ -186,7 +186,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Running Cost at Full Wattage",
-    "description": ""
+    "description": "A typical 1,500-watt space heater costs roughly $0.12 to $0.23 per hour to run at the U.S."
   }
 ];
 

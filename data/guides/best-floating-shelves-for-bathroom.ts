@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/51Lp9zRqkbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light decorative items",
+          "QEEIG Bathroom Shelves Over Toilet Wall Mounted (Brown, Set of 3, 15.7\")"
         ],
         [
-          "",
-          ""
+          "Books, standard decor",
+          "QEEIG Bathroom Floating Shelves for Wall (Brown, Set of 2, 15.7\")"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "WOPITUES Floating Shelves for Wall with Cube Shelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "QEEIG Bathroom Shelves Over Toilet Wall Mounted (Brown, Set of 3, 15.7\")"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "QEEIG Floating Shelves for Wall Small Shelf (Brown, Set of 3, 15.7\" x 6.7\")"
         ],
         [
-          "",
+          "Higher budget",
           "WOPITUES Floating Shelves for Wall with Cube Shelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "WOPITUES Floating Shelves for Wall with Cube Shelf)",
         "text": "Highest weight capacity, but requires drilling into a wall stud."
       },
       {
-        "label": "",
+        "label": "No-drill (e.g. QEEIG Bathroom Shelves Over Toilet Wall Mounted (Brown, Set of 3, 15.7\"))",
         "text": "No wall damage, ideal for renters, but a much lower weight limit."
       }
     ],
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Studs available where needed",
+          "QEEIG Bathroom Floating Shelves for Wall (Brown, Set of 2, 15.7\")"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "WOPITUES Floating Shelves for Wall with Cube Shelf is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where WOPITUES Floating Shelves for Wall with Cube Shelf justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "7\") already covers the job at the lowest price here."
       }
     ]

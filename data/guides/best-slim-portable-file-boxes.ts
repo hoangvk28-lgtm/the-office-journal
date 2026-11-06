@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/31XsRKHF0uL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "BALEINE 2PK File Organizer Box"
         ],
         [
-          "",
+          "Mid-range",
           "IRIS USA Slim Portable File Box Organizer with Lid"
         ],
         [
@@ -84,14 +84,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: IRIS USA Slim Portable File Box Organizer with Lid, STAPLES Slim Portable File Tote, BALEINE 2PK File Organizer Box."
       }
     ],
@@ -101,8 +101,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -116,24 +116,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what STAPLES Slim Portable File Tote offers: 2-pack value if you need two slim boxes. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "BALEINE 2PK File Organizer Box already covers the essentials: Much stronger review count than dedicated slim picks. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "\"Slim\" vs. \"small\" dimension-based distinction",
     "description": "We distinguished genuine width/depth reduction (slim) from overall size reduction (small), since these represent different buyer needs."
   },
   {
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
     "description": "We flagged that several dedicated slim-labeled products carry very small review counts, and included proven alternatives with naturally narrower profiles for comparison."
   },
   {
-    "title": "",
+    "title": "Storage footprint benefit verification",
     "description": "We confirmed genuine narrow-footprint value for fitting into a narrow shelf or closet space, this framing's core value proposition."
   }
 ];

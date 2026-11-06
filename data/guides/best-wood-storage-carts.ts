@@ -64,31 +64,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Much You Need to Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, everyday items",
           "3 Tier Metal Rolling Utility Cart Organizer with Walnut Table Top"
         ],
         [
-          "",
+          "Standard mixed storage",
           "Best Choice Products 3-Tier Water Hyacinth Rolling Nursery Caddy w/Wheels"
         ],
         [
-          "",
-          ""
+          "Heavier or bulkier items",
+          "WOPITUES Storage Drawer Cart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "3 Tier Metal Rolling Utility Cart Organizer with Walnut Table Top"
         ],
         [
-          "",
+          "Mid-range pick",
           "Linon Corinne Unfinished Six Drawer Wooden Rolling Storage Cart"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "WOPITUES Storage Drawer Cart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Drawers vs Open Bins",
     "cards": [
       {
         "label": "Best Choice Products 3-Tier Water Hyacinth Rolling Nursery Caddy w/Wheels)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how often you need to see contents versus how much you want the cart to blend in."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hardwood or tile",
           "Check for polyurethane or rubber casters specifically"
         ],
         [
-          "",
+          "Carpet or concrete",
           "Best Choice Products 3-Tier Water Hyacinth Rolling Nursery Caddy w/Wheels"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Tight Spaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The actual width and depth measurement, not just a 'slim' or 'narrow' label, plus the extra inch the wheels add to the base footprint."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3 Tier Metal Rolling Utility Cart Organizer with Walnut Table Top is worth checking against its exact footprint before assuming it fits a tight gap like between a washer and dryer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier casters for daily heavy use, where WOPITUES Storage Drawer Cart justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing lighter, everyday items, where 3 Tier Metal Rolling Utility Cart Organizer with Walnut Table Top already covers the job at the lowest price here."
       }
     ]

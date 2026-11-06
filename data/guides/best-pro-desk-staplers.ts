@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41MkVghLR1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Stack Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, a few sheets",
           "Business Source Vertical Desktop Stapler"
         ],
         [
-          "",
+          "A regular office stack",
           "Bostitch Office InPower Spring-Powered Premium Desktop Stapler"
         ],
         [
-          "",
+          "Consistently thick stacks",
           "Eco Electronix Black Electric Stapler Pro"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "Business Source Vertical Desktop Stapler"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "PaperPro(R) Prodigy(R) Stapler"
         ],
         [
-          "",
+          "Higher budget",
           "Eco Electronix Black Electric Stapler Pro"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Manual vs Electric",
     "cards": [
       {
         "label": "Business Source Vertical Desktop Stapler)",
         "text": "No power dependency, reliable for any volume."
       },
       {
-        "label": "",
+        "label": "Electric",
         "text": "Reduces hand strain at high volume, depends on charge or power."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Staple Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 26/6 staples",
           "Bostitch Office InPower Spring-Powered Premium Desktop Stapler"
         ],
         [
-          "",
-          ""
+          "A specific alternate size",
+          "PaperPro(R) Prodigy(R) Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Center-of-Document Stapling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A deep throat depth spec, not just a standard corner-reach stapler."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Bostitch Office InPower Spring-Powered Premium Desktop Stapler is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Eco Electronix Black Electric Stapler Pro justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Business Source Vertical Desktop Stapler already covers the job at the lowest price here."
       }
     ]

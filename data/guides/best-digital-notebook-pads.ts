@@ -37,15 +37,15 @@ export const faq = [
   },
   {
     "q": "Which is the most proven overall?",
-    "a": ""
+    "a": "The letter-size Rocketbook Fusion, with 26,593 reviews at 4.6 stars."
   },
   {
     "q": "Do I need a special pen?",
     "a": "Yes, Pilot FriXion pens are required for these to erase correctly."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The Rocketbook Mini Spiral Notebook at $14.99, backed by over 11,000 reviews."
   }
 ];
 
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41DUQEUXetL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
         "What you need it for",
@@ -65,30 +65,30 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "",
-          ""
+          "Everyday note-taking and reading",
+          "Rocketbook Smart Reusable Notebook"
         ],
         [
-          "",
+          "AI-assisted or document-heavy work",
           "Rocketbook Fusion Reusable Undated Productivity Planner"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $15",
+          "Rocketbook Smart Reusable Notebook"
         ],
         [
-          "",
+          "Mid-range",
           "Rocketbook Core Reusable Smart Notebook"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "AI Features Included vs Subscription-Gated",
     "cards": [
       {
-        "label": "",
+        "label": "Included, No Subscription",
         "text": "AI note tools come with the purchase price, no ongoing cost. In this comparison: check each listing's terms directly."
       },
       {
-        "label": "",
+        "label": "Subscription-Gated",
         "text": "Advanced AI features require an ongoing paid plan on top of the hardware price. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
@@ -116,43 +116,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Rocketbook Fusion Reusable Undated Productivity Planner"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Rocketbook Fusion Reusable Undated Productivity Planner"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Handwriting-to-Text Conversion Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of handwriting-to-text conversion (not just \"AI\" generally), and whether that specific feature is included or requires a subscription."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Rocketbook Fusion Reusable Undated Productivity Planner fits this specifically: Largest, highest-rated review base of any pad here."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Rocketbook Smart Reusable Notebook already covers the essentials: Cheapest option here. The main thing you'd be paying extra for elsewhere in this list is features or storage you may not need."
       }
     ]
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "Since the erase mechanism is shared across this product family, we weighted established review history heavily."
   },
   {
-    "title": "",
+    "title": "Price relative to format",
     "description": "We compared cost against page count, size, and whether planning templates are included."
   }
 ];

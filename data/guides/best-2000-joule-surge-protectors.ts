@@ -55,35 +55,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "SUPERDANNY Power Strip Surge Protector"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Anker Power Strip with 2100J Surge Protector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "Amazon Basics 12"
         ],
         [
-          "",
+          "Up to $28",
           "Anker Power Strip with 2000J Surge Protector"
         ]
       ]
@@ -93,7 +93,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Amazon Basics 12 vs Anker Power Strip with 300J Surge Protector",
     "cards": [
       {
-        "label": "",
+        "label": "Amazon Basics 12",
         "text": "Rated for a higher disclosed joule capacity, worth it for protecting expensive or sensitive equipment."
       },
       {
@@ -104,16 +104,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers with typical desk equipment should default to Anker Power Strip with 300J Surge Protector unless the equipment is high-value."
   },
   {
-    "subheading": "",
+    "subheading": "By Outlet Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "12 outlets",
+          "Amazon Basics 12"
         ]
       ]
     }
@@ -122,24 +122,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed joule rating of at least 1000-2000 with UL 1449 certification, plus enough spaced outlets for a monitor, dock, and peripherals."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Amazon Basics 12 discloses the highest joule rating at 4000 joules."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your equipment is expensive or sensitive, where Anker Power Strip with 2000J Surge Protector's higher price buys real protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're protecting lower-value, easily replaceable electronics, where Amazon Basics 12 covers the same basic job at a lower price."
       }
     ]
@@ -156,7 +156,7 @@ export const howWeEvaluated = [
     "description": "Considered that buyers sharing the 2000-joule budget across many devices deplete it faster than a single-device allocation, the joule number alone doesn't communicate per-device protection depth."
   },
   {
-    "title": "",
+    "title": "Two-single-outlet-units vs. one-shared-strip risk-distribution comparison",
     "description": "Compared the alternative of two lower-joule single-outlet units protecting two devices independently against one shared multi-outlet strip, a genuine alternative competitors don't present."
   }
 ];

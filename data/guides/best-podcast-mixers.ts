@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Oez+b87iL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Guest Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -110,7 +110,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Mixer vs Simple Audio Interface",
     "cards": [
       {
-        "label": "",
+        "label": "Mixer with hardware controls (e.g. 6-Channel Professional Audio Mixer)",
         "text": "Gives you physical faders and knobs for live gain riding and on-the-fly mixing, useful when hosting 3+ guests or a live show with music cues."
       },
       {
@@ -121,15 +121,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Skip the full mixer if you're a solo host recording to a laptop, a compact interface gets the same audio quality with far less complexity."
   },
   {
-    "subheading": "",
+    "subheading": "By Recording Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Computer-based recording via USB",
           "MAONO E2 Gen2 Podcast Equipment Bundle Audio Interface Mixer"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Livestreaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Zero-latency direct monitoring and simple loopback routing, so you can hear yourself and any game or call audio without lag while broadcasting live."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "2 USB Audio Interface and DSP Mixer is worth checking against its specific monitoring-latency spec before assuming any USB interface handles live streaming equally well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're hosting multiple guests regularly and want physical channel control, where 6-Channel Professional Audio Mixer, FX-6usb Mixing Console justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're a solo host just starting out, where BOMGE mini 2 Channel USB Audio Interface already covers the job at the lowest price here."
       }
     ]

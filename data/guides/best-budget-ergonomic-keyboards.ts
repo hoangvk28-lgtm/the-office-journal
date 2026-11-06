@@ -53,16 +53,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41MgdS5CMFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Minimal adjustment period",
+          "X9 Wired Ergonomic Keyboard"
         ],
         [
           "Independent hand and wrist angling",
@@ -72,19 +72,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "RECCAZR Ergonomic Keyboard"
         ],
         [
-          "",
+          "Mid-range",
           "Perixx PERIBOARD-512B Wired Ergonomic Keyboard"
         ],
         [
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: Perixx PERIBOARD-512B Wired Ergonomic Keyboard, Arteck Split Ergonomic Keyboard with Palm Rest, X9 Wired Ergonomic Keyboard."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Arteck Split Ergonomic Keyboard with Palm Rest, Wireless Keyboard and Mouse Combo, SABLUTE Ergonomic Wireless Keyboard and Mouse Combo."
       }
     ]
@@ -111,13 +111,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Lowest cost, quiet typing",
+          "RECCAZR Ergonomic Keyboard"
         ],
         [
           "Tactile feedback, lighter actuation force",
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Perixx PERIBOARD-512B Wired Ergonomic Keyboard fits this specifically: Genuine split design surviving at a budget price."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Arteck Split Ergonomic Keyboard with Palm Rest offers: Genuine split design with wireless convenience. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "RECCAZR Ergonomic Keyboard already covers the essentials: Attached wrist rest included at a low price. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]

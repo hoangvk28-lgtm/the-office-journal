@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41KMmg7VGpL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "CELYND Cable Railing Protector Sleeves"
         ],
         [
           "A mixed bundle of 3-5 cables",
-          ""
+          "Cable Management Kit"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "6ft Braided Cable Sleeve Expandable Wire Sheathing(Black)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,41 +95,41 @@ export const howToChoose: HowToChooseSection[] = [
           "CELYND Cable Railing Protector Sleeves"
         ],
         [
-          "",
+          "Mid-range pick",
           "DRIVUU White Cable Management Organizer Kit 4 Cable Sleeve Split 311Pcs"
         ],
         [
-          "",
+          "Higher budget",
           "6ft Braided Cable Sleeve Expandable Wire Sheathing(Black)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "CELYND Cable Railing Protector Sleeves)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "General desk use",
+          "Cable Management Kit"
         ],
         [
           "Near a real heat source",
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Cable Management Kit is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "6ft Braided Cable Sleeve Expandable Wire Sheathing(Black) justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where CELYND Cable Railing Protector Sleeves already covers the job at the lowest price here."
       }
     ]

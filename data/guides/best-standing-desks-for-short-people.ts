@@ -59,36 +59,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "ErGear 35 x 20 Inch Low Height Electric Standing Desk"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "ErGear 35 x 20 Inch Low Height Electric Standing Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $29",
+          "Techni Mobili Sit"
         ],
         [
-          "",
-          ""
+          "Up to $330",
+          "FlexiSpot E6 Bamboo 3"
         ]
       ]
     }
@@ -97,26 +97,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Techni Mobili Sit vs FlexiSpot E6 Bamboo 3",
     "cards": [
       {
-        "label": "",
+        "label": "Techni Mobili Sit",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "FlexiSpot E6 Bamboo 3",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Techni Mobili Sit unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "ErGear 35 x 20 Inch Low Height Electric Standing Desk"
         ]
       ]
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "ErGear 35 x 20 Inch Low Height Electric Standing Desk is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where FlexiSpot E6 Bamboo 3's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Techni Mobili Sit covers the same job at a lower price."
       }
     ]
@@ -152,23 +152,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Minimum sitting height",
     "description": "We prioritized desks and converters with the lowest stated minimum height, since that's the binding constraint for shorter users, not maximum standing height."
   },
   {
-    "title": "",
+    "title": "Adjustment type and presets",
     "description": "Electric desks were assessed on memory preset count for shared-desk convenience; manual desks were assessed on adjustment ease."
   },
   {
-    "title": "",
+    "title": "Desktop size vs. footprint",
     "description": "We weighed desktop width against typical small-room space, since compact desks suited to short users often trade surface area for a lower frame."
   },
   {
-    "title": "",
+    "title": "Stability at low height",
     "description": "Dual-motor and 3-stage frames were favored for steadier lift at low settings versus single-motor 2-stage frames."
   },
   {
-    "title": "",
+    "title": "Value and buyer feedback",
     "description": "Price was weighed against verified Amazon rating volume and consistency across each listing."
   }
 ];

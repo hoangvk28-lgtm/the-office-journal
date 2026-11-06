@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51H1OHxiP-L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $7",
+          "LUORNG POE Splitter Injector Kit ($6.96)"
         ],
         [
-          "",
-          ""
+          "Under $10",
+          "Coaxuhf ($9.49) or 5 Pairs Kit ($9.98)"
         ],
         [
-          "",
-          ""
+          "Under $15",
+          "UCTRONICS PoE Splitter Gigabit 5V ($14.98)"
         ]
       ]
     }
@@ -118,22 +118,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "1mm DC connectors at 10Mbps, sufficient for basic IP cameras and access points that don't need high bandwidth."
       },
       {
-        "label": "",
+        "label": "Gigabit micro-USB splitter (UCTRONICS)",
         "text": "Delivers full 1000Mbps alongside 5V power specifically for micro-USB devices like a Raspberry Pi, where both power and fast data matter."
       }
     ],
     "note": "If you're powering a basic IP camera or access point, the DC-jack passive splitters cover that need at a lower price. If you're powering a Raspberry Pi or similar device that also needs fast data transfer, the UCTRONICS pick is purpose-built for that combination."
   },
   {
-    "subheading": "",
+    "subheading": "By Kit Size Needed",
     "table": {
       "headers": [
         "Number of devices to power",
-        ""
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just one device",
           "LUORNG POE Splitter Injector Kit (1 Pair)"
         ],
         [
@@ -148,27 +148,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Safety-Conscious Buyers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "3af/at devices use, which can overvolt and damage a device expecting proper negotiation."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3af/at compliant source, the most transparent safety disclosure here."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "98 price is justified by that specific capability."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "96, the lowest price in this comparison."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Documented Voltage Range",
     "description": "Compared stated DC voltage compatibility and optimal operating voltage across listings."
   },
   {
-    "title": "",
+    "title": "Safety Disclosure",
     "description": "Compared how transparently each listing discloses risks of non-standard passive PoE use."
   },
   {
-    "title": "",
+    "title": "Speed and Bandwidth",
     "description": "Compared 10Mbps standard passive splitters against Gigabit-capable options."
   },
   {
-    "title": "",
+    "title": "Build Quality and Materials",
     "description": "Compared documented housing materials and conductor quality."
   },
   {
-    "title": "",
+    "title": "Kit Size and Value",
     "description": "Compared single-pair versus multi-pair kit packaging for different device counts."
   }
 ];

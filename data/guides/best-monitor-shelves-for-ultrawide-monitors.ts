@@ -53,39 +53,39 @@ export const heroImage = "https://m.media-amazon.com/images/I/51oe+oiyh9L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Prioritizing wood",
           "WESTREE Dual Monitor Stand Riser"
         ],
         [
-          "",
-          ""
+          "Prioritizing bamboo",
+          "Nnewvante Monitor Stand Riser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $30",
           "WESTREE Dual Monitor Stand Riser"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "Nnewvante Monitor Stand Riser"
         ],
         [
           "No firm budget ceiling, prioritizing capacity or storage",
@@ -95,24 +95,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Freestanding vs Clamp/Clip-On",
     "cards": [
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits directly on the desk with zero installation, at the cost of using up some desk depth. In this comparison: WESTREE Dual Monitor Stand Riser, Fenge Dual Monitor Stand Riser, Nnewvante Monitor Stand Riser."
       },
       {
-        "label": "",
+        "label": "Clamp/Clip-On",
         "text": "Attaches to the desk's back edge, freeing up desk surface underneath, but needs a compatible edge thickness. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "With Storage vs Platform-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -120,7 +120,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Fenge Dual Monitor Stand Riser"
         ],
         [
-          "",
+          "Simplest platform-only design",
           "WESTREE Dual Monitor Stand Riser"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy or Ultrawide Monitor Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity with real margin above your monitor's actual weight, a rigid material like metal or thick wood, and a wide enough platform to support the monitor's full base without overhang."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Fenge Dual Monitor Stand Riser fits this specifically: Solid 4.7-star rating with 764 ratings."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is capacity or storage you may not need."
       }
     ]
@@ -156,7 +156,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Center point-load stress assessed",
     "description": "Weighted how a single ultrawide monitor concentrates full weight at one center point, a more severe case than a distributed dual-monitor load."
   },
   {
@@ -168,7 +168,7 @@ export const howWeEvaluated = [
     "description": "Compared shelf depth against typical ultrawide stand bases, noting curved models can sit further back than standard monitors."
   },
   {
-    "title": "",
+    "title": "Front-to-back tipping stability checked",
     "description": "Considered tipping risk specifically for stands with a longer forward-reaching arm rather than a compact flat base."
   }
 ];

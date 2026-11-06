@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/51T8rsbqkgL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $23",
           "ZOOPIP Fireproof File Box with Lock"
         ],
         [
-          "",
+          "Mid-range",
           "DocSafe Fireproof Document Box with Lock"
         ],
         [
@@ -84,14 +84,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: SentrySafe Black Fireproof and Waterproof Safe, ENGPOW File Box with Lock, DocSafe Fireproof Document Box with Lock."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: check each listing's closure type directly."
       }
     ],
@@ -101,8 +101,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -116,24 +116,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SentrySafe Black Fireproof and Waterproof Safe fits this specifically: Established fire-safety-specific brand, not general storage."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what SentrySafe Black Fireproof and Waterproof Safe offers: Established fire-safety-specific brand, not general storage. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "ZOOPIP Fireproof File Box with Lock already covers the essentials: Most affordable fireproof-marketed pick. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "\"Fireproof\" vs. \"fire-resistant\" accuracy",
     "description": "We flagged that 'fireproof' often overstates actual protection, while 'fire-resistant' more honestly describes limited-duration, limited-temperature protection, and noted we could not independently verify specific certification numbers from Amazon listings alone."
   },
   {
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
     "description": "We explicitly weighed fire-resistant materials' added weight against this category's core 'portable' promise."
   },
   {
-    "title": "",
+    "title": "Dedicated safety brand vs. general storage brand marketing",
     "description": "We distinguished SentrySafe's established, dedicated fire-safety product line from general storage brands that add fireproof marketing to a standard box design."
   }
 ];

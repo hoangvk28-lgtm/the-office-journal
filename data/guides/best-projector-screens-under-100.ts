@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51jI83fzh1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $90",
+          "LEORFI ($89.99)"
         ],
         [
-          "",
-          ""
+          "Under $97",
+          "Pyle 50 Inch ($96.03)"
         ],
         [
-          "",
-          ""
+          "Under $100",
+          "2-in-1 ($99.98) or Paris RHONE ($99.99)"
         ]
       ]
     }
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "2-in-1 Mounting Flexibility vs Tripod-Only Dedicated Design",
     "cards": [
       {
-        "label": "",
+        "label": "2-in-1 flexibility (Portable 2-in-1)",
         "text": "Lets you switch between tripod and wall-mount installation as your room setup changes over time."
       },
       {
@@ -125,24 +125,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your setup location might change, like moving between a permanent home theater wall and occasional outdoor use, the 2-in-1 pick's flexibility is worth having. If you know you'll always use a tripod setup, the dedicated tripod-only picks are simpler."
   },
   {
-    "subheading": "",
+    "subheading": "By Ambient Light Conditions",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your viewing environment",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fully darkened room",
           "Paris RHONE or Pyle 50 Inch"
         ],
         [
           "Some ambient light or daytime viewing",
-          ""
+          "LEORFI (black backing, 1.5x gain)"
         ],
         [
           "Variable conditions, indoor and outdoor",
-          ""
+          "2-in-1 (flexible mounting)"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Buyer Setting Up a Semi-Permanent Home Theater Corner Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A 2-in-1 design offering both tripod and wall-mount options, so you can start with a tripod for testing placement before committing to a permanent wall installation."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Portable 2-in-1 pick's dual installation methods specifically support testing a tripod setup first before deciding on permanent wall mounting."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the flexibility of 2-in-1 tripod or wall-mount installation, where that pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You specifically need strong daytime viewing performance without needing wall-mount flexibility, where the LEORFI pick covers that for about $10 less."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Material Layer Construction",
     "description": "Compared multi-layer PVC and milk silk polyester construction across the lineup."
   },
   {
-    "title": "",
+    "title": "Gain Rating",
     "description": "5x across all four picks."
   },
   {
-    "title": "",
+    "title": "Installation Flexibility",
     "description": "Checked which picks offer wall-mount alternatives versus tripod-only setup."
   },
   {
-    "title": "",
+    "title": "Assembly Speed and Complexity",
     "description": "Compared stated assembly time and tool requirements across the tier."
   },
   {
-    "title": "",
+    "title": "Ambient Light Performance",
     "description": "Compared black backing and light-absorption claims for bright-room viewing."
   }
 ];

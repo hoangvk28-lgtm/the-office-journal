@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/419K2Ze6f2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,52 +84,52 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $18",
+          "TDRVODA 128GB Portable External SSD ($17.95)"
         ],
         [
-          "",
-          ""
+          "$18-$20",
+          "ORICO 64GB USB Flash Drive SSD ($18.99)"
         ],
         [
-          "",
-          ""
+          "$25-$30",
+          "Lexar 128GB Dual Drive D500 SSD ($29.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "64GB vs 128GB",
     "cards": [
       {
-        "label": "",
+        "label": "64GB (ORICO)",
         "text": "Enough for documents, a modest photo library, or quick file transfers, but tight for video. Best as a phone-storage extender rather than a general-purpose drive."
       },
       {
-        "label": "",
+        "label": "128GB (TDRVODA, Lexar)",
         "text": "More comfortable everyday capacity for the same or lower price in the TDRVODA's case. Best as a general-purpose transfer or backup drive rather than a phone-specific accessory."
       }
     ],
     "note": "Most buyers should default to a 128GB option like the TDRVODA unless the ORICO's specific USB-C-phone convenience matters more than raw capacity."
   },
   {
-    "subheading": "",
+    "subheading": "By Connector Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your devices",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Mostly USB-C devices only",
           "ORICO 64GB USB Flash Drive SSD or TDRVODA 128GB Portable External SSD"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For USB-C iPhone Backup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A listing that explicitly names your iPhone model as compatible, since Lightning-port and USB-C iPhones aren't interchangeable, and not every drive supports both."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The ORICO 64GB USB Flash Drive SSD specifically lists iPhone 16 and 17 series compatibility, making it the clearest confirmed fit for current USB-C iPhones."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You've had reliability problems with unfamiliar-brand electronics before and specifically want the Lexar 128GB Dual Drive D500 SSD's established brand name, even without a documented speed advantage over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a basic transfer or backup drive and don't have a specific brand preference, where the TDRVODA 128GB Portable External SSD covers the same 128GB capacity for roughly $12 less."
       }
     ]
@@ -169,23 +169,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Listing Consistency Check",
     "description": "Verified that each listing's title, capacity claim, and feature text agree with each other, since sub $30 storage listings occasionally contain internal contradictions worth flagging before buying."
   },
   {
-    "title": "",
+    "title": "Real USB Bandwidth",
     "description": "Checked the actual documented speed figure where a listing provided one, rather than accepting vague \"fast and stable\" language as a stand-in for a real spec."
   },
   {
-    "title": "",
+    "title": "Capacity-to-Price Math",
     "description": "Compared price per gigabyte across the 64GB and 128GB options here, since capacity varies more than speed at this specific price floor."
   },
   {
-    "title": "",
+    "title": "Connector Compatibility",
     "description": "Noted which drives include both USB-An and USB-C connectors versus a single connector type, since that affects which of your existing devices the drive works with out of the box."
   },
   {
-    "title": "",
+    "title": "Brand Recognition",
     "description": "Distinguished generic, unfamiliar-brand listings from an established storage brand name, since reliability track record is harder to verify on unfamiliar brands at this price floor."
   }
 ];

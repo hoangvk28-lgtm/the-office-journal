@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41QRGCH8aDL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "By Excell Triple Premium Extra Wide Metal Multi-Roll Desktop Tape Dispenser"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "BOX USA (1 Pack) Heavy-Duty Carton Sealing Tape Dispenser"
         ],
         [
-          "",
+          "High-volume packing",
           "Box USA Tape Logic 4 Inch Heavy-Duty Packing Tape Dispenser Gun"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "By Excell Triple Premium Extra Wide Metal Multi-Roll Desktop Tape Dispenser"
         ],
         [
-          "",
+          "Mid-range pick",
           "4 Mil x 55 Yards Heavy Duty Packaging"
         ],
         [
-          "",
+          "Higher budget",
           "Box USA Tape Logic 4 Inch Heavy-Duty Packing Tape Dispenser Gun"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "By Excell Triple Premium Extra Wide Metal Multi-Roll Desktop Tape Dispenser)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "BOX USA (1 Pack) Heavy-Duty Carton Sealing Tape Dispenser"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "4 Mil x 55 Yards Heavy Duty Packaging"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "BOX USA (1 Pack) Heavy-Duty Carton Sealing Tape Dispenser is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Box USA Tape Logic 4 Inch Heavy-Duty Packing Tape Dispenser Gun justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where by Excell Triple Premium Extra Wide Metal Multi-Roll Desktop Tape Dispenser already covers the job at the lowest price here."
       }
     ]

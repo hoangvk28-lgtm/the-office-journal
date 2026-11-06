@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41R+N2t3vlL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom or office",
           "Goldtech Air Purifier and Humidifier Combo for Office Bedroom"
         ],
         [
-          "",
+          "Standard bedroom",
           "Air Purifier and Humidifier Combo All in One for Bedroom"
         ],
         [
-          "",
+          "Larger living space",
           "AIRTHEREAL 2-in-1 Air Purifier & Humidifier for Large Room Up to 1200 ft2"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Goldtech Air Purifier and Humidifier Combo for Office Bedroom"
         ],
         [
-          "",
+          "Mid-range pick",
           "Afloia Air Purifier and Humidifier Combo"
         ],
         [
-          "",
+          "Higher budget",
           "AIRTHEREAL 2-in-1 Air Purifier & Humidifier for Large Room Up to 1200 ft2"
         ]
       ]
@@ -114,53 +114,53 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Uses less electricity and covers larger rooms more effectively."
       },
       {
-        "label": "",
+        "label": "Warm mist",
         "text": "Kills bacteria in the water during boiling and runs near-silently, best for a small room."
       }
     ],
     "note": "Match this to your room size and how much you value quiet operation versus coverage."
   },
   {
-    "subheading": "",
+    "subheading": "By Maintenance Tolerance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Minimal daily upkeep",
           "Check tank capacity against how often you're willing to refill it"
         ],
         [
-          "",
+          "Don't mind frequent cleaning",
           "Air Purifier and Humidifier Combo All in One for Bedroom"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Hard Water Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An evaporative design (traps minerals in the wick) or plan to use distilled water with an ultrasonic model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Air Purifier and Humidifier Combo All in One for Bedroom is worth checking against its specific mist type before assuming any humidifier handles hard water the same way."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger tank, quieter operation, and extra features like a hygrometer display, where AIRTHEREAL 2-in-1 Air Purifier & Humidifier for Large Room Up to 1200 ft2 justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need basic humidity for a small room and don't mind more frequent refills, where Goldtech Air Purifier and Humidifier Combo for Office Bedroom already covers the job at the lowest price here."
       }
     ]

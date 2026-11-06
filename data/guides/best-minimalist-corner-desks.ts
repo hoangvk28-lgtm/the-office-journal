@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41VXwmbKc1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "Lufeiya White L Shaped Computer Desk with Drawers & Storage Shelves"
         ],
         [
-          "",
-          ""
+          "Standard home office",
+          "Tangkula White Corner Desk"
         ],
         [
-          "",
+          "Larger dedicated office",
           "Techni Mobili 59\" Two-Tone L‐Shaped Office Desk with Storage Shelves"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Lufeiya White L Shaped Computer Desk with Drawers & Storage Shelves"
         ],
         [
-          "",
+          "Mid-range pick",
           "VENNQD Corner Desk with Drawers Shelves for Small Space 90 Degrees Triangle"
         ],
         [
-          "",
+          "Higher budget",
           "Techni Mobili 59\" Two-Tone L‐Shaped Office Desk with Storage Shelves"
         ]
       ]
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Single monitor",
+          "Tangkula White Corner Desk"
         ],
         [
           "Dual monitor or desktop tower",
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Lufeiya White L Shaped Computer Desk with Drawers & Storage Shelves is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in storage, better cable management, and sturdier build quality, where Techni Mobili 59\" Two-Tone L‐Shaped Office Desk with Storage Shelves justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where Lufeiya White L Shaped Computer Desk with Drawers & Storage Shelves already covers the job at the lowest price here."
       }
     ]

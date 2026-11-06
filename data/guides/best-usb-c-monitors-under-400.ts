@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41nZpJ46TjL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,33 +83,33 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $300",
+          "Dell 27 Monitor S2725QC 4K 120Hz ($299.99)"
         ],
         [
-          "",
-          ""
+          "$335-$365",
+          "ViewSonic VP2766-4K ($339.99) or ASUS VA34VCPSR Ultrawide ($359.99)"
         ],
         [
-          "",
-          ""
+          "Under $400",
+          "LG 27U730A 27 Inch 4K Ultrafine Monitor ($399.00)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Ultrawide vs Standard 4K",
     "cards": [
       {
-        "label": "",
+        "label": "Ultrawide 34\" (ASUS VA34VCPSR)",
         "text": "Panoramic 3440x1440 format that effectively replaces two side-by-side monitors with one screen, ideal for spreadsheet work, video editing timelines, or multitasking across apps."
       },
       {
@@ -123,8 +123,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By USB-C Power Delivery Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your laptop's charging needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -132,7 +132,7 @@ export const howToChoose: HowToChooseSection[] = [
           "LG 27U730A (90W), ASUS VA34VCPSR (96W), or ViewSonic VP2766-4K (90W)"
         ],
         [
-          "",
+          "65W (most standard ultrabooks)",
           "Dell 27 Monitor S2725QC 4K 120Hz"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Hybrid Work Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Built-in multi-device switching software or KVM functionality, since hybrid work often means toggling between a personal and work laptop on the same monitor."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The LG 27U730A's Switch feature specifically lets you toggle between connected devices using one keyboard and mouse, well suited to hybrid work."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need maximum USB-C charging wattage for a demanding creator laptop, where the LG 27U730A and ASUS VA34VCPSR both deliver 90W or more."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The core 4K 120Hz combination is enough without the highest wattage, where the Dell 27 Monitor S2725QC delivers the same resolution and refresh rate for $40-100 less."
       }
     ]
@@ -168,7 +168,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "USB-C Power Delivery Wattage",
     "description": "Compared stated wattage figures across the lineup, since 90-96W becomes achievable at this price and matters for demanding creator laptops."
   },
   {
@@ -176,15 +176,15 @@ export const howWeEvaluated = [
     "description": "Weighed the panoramic workspace of the ASUS ultrawide pick against the sharper resolution and higher refresh rate of the standard 16:9 4K panels."
   },
   {
-    "title": "",
+    "title": "Independent Color Validation",
     "description": "Compared Pantone Validated certification and stated DCI-P3 coverage against general color gamut claims without third-party backing."
   },
   {
-    "title": "",
+    "title": "USB-C Hub Functionality",
     "description": "Checked how many additional USB-C and USB-A ports each monitor provides for accessories, and whether built-in Ethernet functions as a genuine dock replacement."
   },
   {
-    "title": "",
+    "title": "Price-to-Feature Justification",
     "description": "Assessed whether each step up in price within this $300-400 band buys a new capability, like higher wattage or Pantone validation, rather than incremental branding."
   }
 ];

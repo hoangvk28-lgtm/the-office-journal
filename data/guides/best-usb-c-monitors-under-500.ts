@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41xEkLuh75L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,24 +83,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $365",
+          "ASUS VA34VCPSR 34 Inch Ultrawide ($359.99)"
         ],
         [
-          "",
-          ""
+          "$395-$400",
+          "BenQ PD2706U ($399.99) or LG 27U730A ($399.00)"
         ],
         [
-          "",
-          ""
+          "Under $500",
+          "Dell Pro Plus 27 Inch 4K USB-C Hub Monitor ($409.95)"
         ]
       ]
     }
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Hardware KVM vs Software Device Switching",
     "cards": [
       {
-        "label": "",
+        "label": "Hardware KVM (BenQ PD2706U)",
         "text": "A dedicated switch built into the monitor lets you control two separate PC systems with one keyboard and mouse, independent of either computer's own software or operating system."
       },
       {
@@ -123,8 +123,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By USB-C Power Delivery Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your laptop's charging needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -132,7 +132,7 @@ export const howToChoose: HowToChooseSection[] = [
           "ASUS VA34VCPSR 34 Inch Curved Ultrawide Monitor"
         ],
         [
-          "",
+          "90W (most creator laptops)",
           "BenQ PD2706U or LG 27U730A"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Two-Computer Home Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A monitor with a dedicated hardware KVM switch and clear documentation of how many devices it supports switching between."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The BenQ PD2706U's built-in KVM switch is purpose-built for exactly this two-computer workflow, saving the cost of a separate KVM device."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need built-in KVM switching or a straightforward branded hub solution, where the BenQ PD2706U and Dell Pro Plus monitor both deliver genuine workflow features."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A wide ultrawide screen covers your multitasking needs without requiring KVM or 4K resolution, where the ASUS VA34VCPSR saves $40-50 versus the standard 4K picks here."
       }
     ]
@@ -168,11 +168,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Built-In KVM Switching",
     "description": "Checked which monitors include genuine hardware KVM switching for two-computer keyboard and mouse sharing, versus software-based device toggling."
   },
   {
-    "title": "",
+    "title": "Multi-Standard Color Calibration",
     "description": "Compared stated Delta E figures, color gamut percentages, and independent validations like Pantone SkinTone across the lineup."
   },
   {

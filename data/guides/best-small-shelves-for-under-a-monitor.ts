@@ -60,71 +60,71 @@ export const heroImage = "https://m.media-amazon.com/images/I/31VpR8z7nuL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You'll Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light supplies only",
+          "CUISIBOT TV Top Shelf"
         ],
         [
           "Books or a small device",
           "VIVO Black 13 in Over Under VESA Monitor Shelf Mount"
         ],
         [
-          "",
+          "A heavier daily-use load",
           "13 inch Over Under VESA Monitor Shelf Mount"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "CUISIBOT TV Top Shelf"
         ],
         [
-          "",
+          "Mid-range pick",
           "TETVIK TV Screen Top Shelf Monitor Shelf Adjustable Computer Screen for Office"
         ],
         [
-          "",
+          "Higher budget",
           "13 inch Over Under VESA Monitor Shelf Mount"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Freestanding",
     "cards": [
       {
-        "label": "",
+        "label": "Clamp-on (e.g. CUISIBOT TV Top Shelf)",
         "text": "Stays firmly in place, can mark softer desk surfaces."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Protects your desk finish, can shift under a heavier load."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Depth",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Monitor Arm Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Mounting hardware confirmed to coexist with your monitor arm's own desk clamp."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "VIVO Black 13 in Over Under VESA Monitor Shelf Mount is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 13 inch Over Under VESA Monitor Shelf Mount justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where CUISIBOT TV Top Shelf already covers the job at the lowest price here."
       }
     ]

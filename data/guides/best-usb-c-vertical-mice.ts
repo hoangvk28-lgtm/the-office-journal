@@ -60,64 +60,64 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "TECKNET Ergonomic Mouse"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Logitech MX Vertical Wireless Mouse Ergonomic Design"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "Seenda MOU"
         ],
         [
-          "",
+          "Up to $75",
           "Logitech MX Vertical Wireless Mouse Ergonomic Design"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Rechargeable vs Disposable Battery",
     "cards": [
       {
-        "label": "",
+        "label": "Rechargeable battery",
         "text": "No recurring battery purchases, usually a USB-C charge cable does the job in downtime. In this comparison: Logitech MX Vertical Wireless Mouse Ergonomic Design, TECKNET Ergonomic Mouse, ProtoArc EM11 NL Wireless Ergonomic Mouse, seenda MOU."
       },
       {
-        "label": "",
+        "label": "Disposable battery",
         "text": "Simple to swap anywhere without carrying a charge cable, at the cost of ongoing battery purchases. In this comparison: Perixx PERIMICE."
       }
     ],
     "note": "Default to rechargeable unless you specifically want to avoid ever plugging the mouse in to charge."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Logitech MX Vertical Wireless Mouse Ergonomic Design"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist or Forearm Strain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A pronounced vertical angle matched to your hand size, with reviews specifically mentioning strain relief after the adjustment period."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Logitech MX Vertical Wireless Mouse Ergonomic Design is worth checking against its listed hand-size guidance before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You use a mouse for many hours daily and strain relief or sensor precision is the priority, where Logitech MX Vertical Wireless Mouse Ergonomic Design's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional use, where seenda MOU covers the same job at a lower price."
       }
     ]

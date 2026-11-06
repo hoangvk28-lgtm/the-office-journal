@@ -60,40 +60,40 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "Vxaop [2-Pack] 22 Inch Computer Privacy Screen Filter (16:10 Aspect Ratio)"
         ],
         [
-          "",
+          "Laptop screen",
           "Vxaop [2-Pack] 22 Inch Computer Privacy Screen Filter (16:10 Aspect Ratio)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $27",
           "Computer Privacy Screen Filter for 24 Inch 16:9 Aspect Ratio Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "[2-Pack] 22 Inch Monitor Privacy Screen"
         ],
         [
           "No firm budget ceiling, prioritizing extra coatings",
-          ""
+          "2 Pack Computer Privacy Screen Shield Compatible for 21.5/22 Inch"
         ]
       ]
     }
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: check each listing's mounting method, it isn't always stated clearly."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: none explicitly confirmed in this specific roundup, check the listing directly before assuming."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Vxaop [2-Pack] 22 Inch Computer Privacy Screen Filter (16:10 Aspect Ratio)"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "SightPro 24 Inch 16:9 Computer Privacy Screen Filter for Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Vxaop [2-Pack] 22 Inch Computer Privacy Screen Filter (16:10 Aspect Ratio) fits this specifically: Highest rating among confirmed 22 inch filters."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Computer Privacy Screen Filter for 24 Inch 16:9 Aspect Ratio Monitor already covers the essentials: Cheapest well-reviewed option in the nearby size range for context. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]

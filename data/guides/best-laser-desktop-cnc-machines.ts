@@ -17,11 +17,11 @@ export const buyingCriteria = [
     "explanation": "Verify the laser safety class and whether the enclosure itself filters radiation, versus relying solely on separate safety glasses."
   },
   {
-    "criterion": "",
+    "criterion": "Plan for Fume Extraction",
     "explanation": "Budget for real fume extraction appropriate to the materials you'll cut, since laser cutting produces smoke and fumes that need active ventilation."
   },
   {
-    "criterion": "",
+    "criterion": "Confirm Software Compatibility",
     "explanation": "Check compatibility with LightBurn, LaserGRBL, or the manufacturer's own app across your actual operating system before buying."
   }
 ];
@@ -69,18 +69,18 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Verify the laser safety class and whether the enclosure itself filters radiation, versus relying solely on separate safety glasses."
   },
   {
-    "subheading": "",
+    "subheading": "Plan for Fume Extraction",
     "note": "Budget for real fume extraction appropriate to the materials you'll cut, since laser cutting produces smoke and fumes that need active ventilation."
   },
   {
-    "subheading": "",
+    "subheading": "Confirm Software Compatibility",
     "note": "Check compatibility with LightBurn, LaserGRBL, or the manufacturer's own app across your actual operating system before buying."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified Before Comparison",
     "description": "Sorted each machine into router, mill, lathe, laser hybrid, or waterjet before ranking, since desktop CNC spans different cutting architectures that don't compare fairly on one scale."
   },
   {
@@ -88,11 +88,11 @@ export const howWeEvaluated = [
     "description": "Compared usable XYZ travel after vise, clamps, and tool stick-out rather than nominal axis travel alone, since fixtures and tooling eat into the advertised work envelope."
   },
   {
-    "title": "",
+    "title": "Spindle and Rigidity Evidence",
     "description": "Checked documented spindle speed, torque, and runout figures alongside frame and rail rigidity, since motor wattage alone doesn't predict real cut quality."
   },
   {
-    "title": "",
+    "title": "Software and Workholding Verified",
     "description": "Checked CAM/postprocessor support, probing, workholding, and dust or chip control as part of daily usability, not just the headline spec sheet."
   },
   {

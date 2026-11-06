@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31XCJJp2eLS._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Room Distance and Throw Ratio",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Theater Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated by the projector's own brightness-cycling and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Epson Home Cinema LS11000 4K PRO-UHD Laser Projector is worth checking against its documented native contrast figures before assuming any '100,000:1' marketing number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're building a dedicated theater room and want laser reliability plus true pixel-shifting 4K detail, where ViewSonic LS901-4K 4K UHD Laser Projector or Epson Home Cinema LS11000 justify the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want casual streaming in a living room with some ambient light, where HAPPRUN 2500 ANSI Google TV Built-in Smart Movie Projector for Home Theater already covers the job."
       }
     ]

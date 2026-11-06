@@ -44,7 +44,7 @@ export const faq = [
     "a": "It detaches under pressure as a real safety feature for workplaces with machinery or tight spaces where a caught lanyard could cause injury, check your workplace's actual safety policy."
   },
   {
-    "q": "",
+    "q": "Are badge holders waterproof?",
     "a": "Standard plastic handles light moisture fine, but genuine waterproofing needs a sealed edge or specific rating, check for this if you work outdoors or in a consistently wet environment."
   },
   {
@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41CEi3dTasL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Daily Movement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Mostly desk-based",
           "6 Pack ID Badge Holder"
         ],
         [
-          "",
+          "Frequent movement or bending",
           "Amazon Basics Vertical Clear Plastic ID Badge Holders"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "6 Pack ID Badge Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "KINGSUM Vertical ID Badge Holders Sealable Waterproof Clear Plastic Holder"
         ],
         [
-          "",
+          "Higher budget",
           "6 Pack ID Badge Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Retractable vs Fixed Lanyard",
     "cards": [
       {
         "label": "6 Pack ID Badge Holder)",
         "text": "Extends for scanning, retracts out of the way when not needed."
       },
       {
-        "label": "",
+        "label": "Fixed lanyard",
         "text": "Simpler, no reel mechanism to wear out over time."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Card Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your credentials",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single ID only",
           "Amazon Basics Vertical Clear Plastic ID Badge Holders"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Wet or Outdoor Workplace Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine waterproof rating, not just standard plastic construction."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Amazon Basics Vertical Clear Plastic ID Badge Holders is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 6 Pack ID Badge Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 6 Pack ID Badge Holder already covers the job at the lowest price here."
       }
     ]

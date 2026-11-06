@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41p8OW6U2DL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Carrying your own cards",
           "Leicraft Business Card Holder for Desk"
         ],
         [
-          "",
+          "Displaying cards for visitors",
           "Amyhill 2 Pieces Wood Business Card Holder for Desk, Light Wood Color"
         ],
         [
-          "",
+          "Client-facing handoffs",
           "Qizpcer 4 Pack Clear Plastic Business Card Holder, Acrylic Business Card Display"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Leicraft Business Card Holder for Desk"
         ],
         [
-          "",
+          "Mid-range pick",
           "Uniclife Acrylic Business Card Holder for Desk 1 Slot"
         ],
         [
-          "",
+          "Higher budget",
           "Qizpcer 4 Pack Clear Plastic Business Card Holder, Acrylic Business Card Display"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Top vs Snap-Closed",
     "cards": [
       {
         "label": "Leicraft Business Card Holder for Desk)",
         "text": "Faster one-hand access, less protection against spilling."
       },
       {
-        "label": "",
+        "label": "Snap/magnetic closed",
         "text": "Secures cards fully, takes an extra motion to open."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your card volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A small daily-carry stack",
           "Amyhill 2 Pieces Wood Business Card Holder for Desk, Light Wood Color"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Client-Facing Handoffs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A material (leather or solid metal) that reinforces a professional impression at the handoff moment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Amyhill 2 Pieces Wood Business Card Holder for Desk, Light Wood Color is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Qizpcer 4 Pack Clear Plastic Business Card Holder, Acrylic Business Card Display justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Leicraft Business Card Holder for Desk already covers the job at the lowest price here."
       }
     ]

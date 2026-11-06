@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51MMcCBjkpL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $63",
+          "3 Tier Large with Power Outlet ($62.99)"
         ],
         [
-          "",
-          ""
+          "Under $65",
+          "VECELO File Cabinet Style ($64.99)"
         ],
         [
-          "",
-          ""
+          "Under $70",
+          "Niffgaff ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $80",
+          "VECELO Adjustable ($79.90)"
         ]
       ]
     }
@@ -129,11 +129,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you anticipate storing different-sized equipment over time or want maximum flexibility, the adjustable-shelf picks are worth the investment. If your current equipment fits well and won't change, a fixed-shelf pick delivers solid value at a lower price."
   },
   {
-    "subheading": "",
+    "subheading": "By Power Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your power needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -141,12 +141,12 @@ export const howToChoose: HowToChooseSection[] = [
           "VECELO Adjustable or VECELO File Cabinet Style"
         ],
         [
-          "",
+          "Basic single outlet charging",
           "3 Tier Large with Power Outlet"
         ],
         [
-          "",
-          ""
+          "No built-in power needed",
+          "Niffgaff"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office With Large, Bulky Equipment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An explicitly marketed extra-large desktop surface with stated stability for bulky all-in-one machines, not just a standard-sized shelf labeled as fitting 'most printers'."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The niffgaff pick's extra-large desktop is specifically marketed as stably supporting even bulky printers, scanners, or all-in-one machines without workspace crowding."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want maximum shelf adjustability combined with the highest weight capacity and longest power cord, where the VECELO Adjustable pick delivers all three at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want a built-in outlet with basic shelf adjustability, where the 3 Tier Large pick covers that for about $17 less."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Shelf Adjustability",
     "description": "Compared the number of height positions available for middle shelves across the lineup."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared per-shelf and total weight capacity ranging from 40 to 300 lbs."
   },
   {
-    "title": "",
+    "title": "Power Outlet Configuration",
     "description": "Compared outlet count, USB ports, and cord length across power-equipped picks."
   },
   {
-    "title": "",
+    "title": "Desktop and Footprint Size",
     "description": "Checked which picks specifically accommodate larger, bulkier office equipment."
   },
   {
-    "title": "",
+    "title": "Mobility and Locking Hardware",
     "description": "Compared caster count, locking mechanisms, and brake features across all four picks."
   }
 ];

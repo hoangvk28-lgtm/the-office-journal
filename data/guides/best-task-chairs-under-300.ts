@@ -63,31 +63,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Long You Sit Each Day",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your day",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Short, active sessions",
           "Furmax Office Executive Chair High Back Adjustable Managerial Home Desk Chair"
         ],
         [
-          "",
+          "Standard full workday",
           "FLEXISPOT ErgoX Premium Ergonomic Office Chair Black FM-FT"
         ],
         [
-          "",
-          ""
+          "Uninterrupted 8+ hour days",
+          "MUXX.STIL Office Chair"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,12 +95,12 @@ export const howToChoose: HowToChooseSection[] = [
           "Furmax Office Executive Chair High Back Adjustable Managerial Home Desk Chair"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Ergonomic Office Chair"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "MUXX.STIL Office Chair"
         ]
       ]
     }
@@ -113,7 +113,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Stays cooler over long sessions, best for warm climates or anyone who runs hot."
       },
       {
-        "label": "",
+        "label": "Fabric or leather (e.g. MUXX.STIL Office Chair)",
         "text": "More cushioned feel, but retains more heat and can show wear faster under daily use."
       }
     ],
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Seat Height Range vs Your Desk",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 28-30 inch desk",
           "FLEXISPOT ErgoX Premium Ergonomic Office Chair Black FM-FT"
         ],
         [
-          "",
+          "Taller or drafting-style desk",
           "Check the chair's maximum height range specifically"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, All-Day Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Real lumbar adjustment and a weight capacity rated comfortably above your actual weight, not just at it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "FLEXISPOT ErgoX Premium Ergonomic Office Chair Black FM-FT is worth checking against its specific lumbar adjustment before assuming any 'ergonomic' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "STIL Office Chair justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your sitting sessions are shorter and more active, where Furmax Office Executive Chair High Back Adjustable Managerial Home Desk Chair already covers the job at the lowest price here."
       }
     ]

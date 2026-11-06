@@ -60,79 +60,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/41XsHeeU5GL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "General screen time",
+          "Vbewo 2 Packs Professional Sleep Glasses with 99.9% Blue Light Blocking"
         ],
         [
-          "",
+          "Design/color-sensitive work",
           "ANYLUV Blue Light Glasses for Sleep"
         ],
         [
-          "",
+          "Long gaming sessions",
           "Orange Blue Light Blocking Glasses for Better Sleep"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Vbewo 2 Packs Professional Sleep Glasses with 99.9% Blue Light Blocking"
         ],
         [
-          "",
+          "Mid-range pick",
           "Livho High Tech Blue Light Blocking Gaming Glasses"
         ],
         [
-          "",
+          "Higher budget",
           "Orange Blue Light Blocking Glasses for Better Sleep"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clear vs Yellow-Tinted Lenses",
     "cards": [
       {
-        "label": "",
+        "label": "Clear (e.g. Vbewo 2 Packs Professional Sleep Glasses with 99.9% Blue Light Blocking)",
         "text": "Filters less blue light but keeps on-screen colors accurate."
       },
       {
-        "label": "",
+        "label": "Yellow-tinted",
         "text": "Filters more blue light but visibly shifts color perception."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Vision Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No vision correction needed",
           "ANYLUV Blue Light Glasses for Sleep"
         ],
         [
-          "",
+          "Reading magnification needed",
           "Livho High Tech Blue Light Blocking Gaming Glasses"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For All-Day Desk Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A frame width and nose bridge that actually fits your face, with a flexible, durable frame material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ANYLUV Blue Light Glasses for Sleep is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Orange Blue Light Blocking Glasses for Better Sleep justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "9% Blue Light Blocking already covers the job at the lowest price here."
       }
     ]

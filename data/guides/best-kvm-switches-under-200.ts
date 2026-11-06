@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31xvvUntPnL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -76,27 +76,27 @@ export const howToChoose: HowToChooseSection[] = [
           "JCYMELE USB-C KVM Switch, 3 Monitors 2 Computers, 100W PD"
         ],
         [
-          "",
+          "A daily work-laptop-plus-personal-desktop workflow",
           "AV Access KVM Switch, 2 Monitors 2 Computers, USB-C"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $150",
+          "ATEN US3311 2-Port USB-C KVM Switch ($149.99)"
         ],
         [
-          "",
-          ""
+          "$183-$200",
+          "ATEN CS1922 ($183.99), JCYMELE ($199.99), or AV Access ($199.99)"
         ]
       ]
     }
@@ -105,7 +105,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Independent Switching vs Unified Docking",
     "cards": [
       {
-        "label": "",
+        "label": "Independent Switching (ATEN CS1922)",
         "text": "Lets KVM control and USB peripheral focus point to different computers simultaneously, a specific professional capability for transferring files between active systems."
       },
       {
@@ -116,11 +116,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Independent switching is a niche but useful capability for specific professional workflows. Most buyers benefit more from the comprehensive docking approach."
   },
   {
-    "subheading": "",
+    "subheading": "By Docking Port Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your docking needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -138,24 +138,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Hybrid Work Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A switch specifically engineered around a work-laptop-plus-personal-computer scenario, with charging and full docking built in."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The AV Access KVM Switch is specifically marketed and designed for exactly this daily work-laptop-and-personal-desktop workflow."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need a complete 15-in-1 docking station with triple-monitor support, where the JCYMELE pick delivers the most comprehensive feature set in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A compact single-monitor dock with strong charging covers your needs, where the ATEN US3311 saves $50 versus the full docking stations here."
       }
     ]
@@ -172,7 +172,7 @@ export const howWeEvaluated = [
     "description": "Compared the full range of ports beyond core KVM switching, like Ethernet, SD card readers, and additional USB ports, across the lineup."
   },
   {
-    "title": "",
+    "title": "Independent Signal Switching",
     "description": "Noted which picks allow independently switching KVM, USB, and audio signals to different computers rather than always switching all signals together."
   },
   {
@@ -180,7 +180,7 @@ export const howWeEvaluated = [
     "description": "Compared stated Power Delivery wattage figures and any disclosed real-world charging behavior across the docking-focused picks."
   },
   {
-    "title": "",
+    "title": "Device Compatibility Documentation",
     "description": "Checked how thoroughly each listing documents specific laptop and device compatibility, since this varies significantly at this price point."
   }
 ];

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41fyho-2g3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $70",
+          "UGREEN ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $72",
+          "ACASIS Aluminum Fins ($71.99)"
         ],
         [
-          "",
-          ""
+          "Under $76",
+          "ACASIS with Fan ($75.99)"
         ],
         [
-          "",
-          ""
+          "Under $80",
+          "ICY BOX ($79.99)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Intel-Certified Chip vs Standard ASM2464PD Chip",
     "cards": [
       {
-        "label": "",
+        "label": "Intel-certified chip (ACASIS picks)",
         "text": "Provides genuine Thunderbolt certification and dual-chip stability, backed by Intel's own testing standards."
       },
       {
@@ -129,24 +129,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If certified reliability specifically matters for professional or mission-critical use, the ACASIS picks' Intel-certified chip is worth prioritizing. For typical everyday use, the ASM2464PD-based picks perform reliably at a comparable or lower price."
   },
   {
-    "subheading": "",
+    "subheading": "By Cooling Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your cooling preference",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Active cooling for sustained heavy workloads",
-          ""
+          "ACASIS with Fan"
         ],
         [
-          "",
+          "Silent fanless operation",
           "ICY BOX or ACASIS Aluminum Fins"
         ],
         [
           "Efficient passive cooling at lower cost",
-          ""
+          "UGREEN"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Recording Studio or Quiet Office Environment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A fully fanless design using passive aluminum heat dissipation, eliminating any operational noise that could interfere with audio recording or a quiet workspace."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both the ICY BOX and ACASIS Aluminum Fins picks specifically use fanless designs, explicitly marketed for recording studios and quiet office environments."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want an Intel-certified chip with active cooling for sustained professional workloads, where the ACASIS with Fan pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want efficient passive cooling with 8TB support, where the UGREEN pick covers that for about $6 less."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Controller Chip Certification",
     "description": "Distinguished Intel-certified chips from standard ASM2464PD chips across the lineup."
   },
   {
-    "title": "",
+    "title": "Cooling Method",
     "description": "Compared active fan cooling against fanless passive designs across all four picks."
   },
   {
-    "title": "",
+    "title": "Real-World Speed Benchmarks",
     "description": "Compared stated tested speeds and specific transfer time benchmarks."
   },
   {
-    "title": "",
+    "title": "Brand Track Record",
     "description": "Checked for established brand history and warranty terms across the tier."
   },
   {
-    "title": "",
+    "title": "Thunderbolt Generation Compatibility",
     "description": "Compared Thunderbolt 3/4 versus Thunderbolt 5 forward compatibility."
   }
 ];

@@ -59,35 +59,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "SteelSeries Apex 3 TKL RGB Gaming Keyboard, Tenkeyless Compact Form Factor"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Perixx PERIBOARD"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $45",
+          "Perixx PERIBOARD"
         ],
         [
-          "",
+          "Up to $130",
           "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest"
         ]
       ]
@@ -97,42 +97,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adjustable Tenting vs Flat Split",
     "cards": [
       {
-        "label": "",
+        "label": "Adjustable tenting",
         "text": "Reduces forearm rotation strain by angling each half, worth it if forearm pronation is a real concern. In this comparison: Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest, Perixx PERIBOARD."
       },
       {
-        "label": "",
+        "label": "Flat split",
         "text": "Still separates hands to a natural width, but doesn't address forearm rotation. In this comparison: Perixx PERIBOARD, SteelSeries Apex 3 TKL RGB Gaming Keyboard, Tenkeyless Compact Form Factor, Logitech G413 TKL SE Mechanical Gaming Keyboard."
       }
     ],
     "note": "Default to adjustable tenting if forearm strain, not just hand separation, is your actual concern."
   },
   {
-    "subheading": "",
+    "subheading": "By Layout Size",
     "note": "Check each pick's listed layout size and whether it includes a number pad against your actual daily workflow before buying, not just the general \"ergonomic\" category."
   },
   {
     "subheading": "For Carpal Tunnel or Wrist Pain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An adjustable split gap and tenting angle, not just a fixed-gap board labeled ergonomic."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Perixx PERIBOARD is worth checking against its listed split and tenting adjustability before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Wrist or forearm strain is a genuine daily problem, where Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest's adjustability gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want to try a split layout without a big investment, where Perixx PERIBOARD covers the same job at a lower price."
       }
     ]
@@ -149,7 +149,7 @@ export const howWeEvaluated = [
     "description": "Applied the relevant findings from both split-keyboard research (gap-distance, tenting adjustability) and TKL research (number-pad-removal functionality tradeoff) rather than treating this as an unrelated combined category."
   },
   {
-    "title": "",
+    "title": "Combined desk-footprint-reduction quantified explicitly",
     "description": "Quantified this combined space savings explicitly, removing both the number pad and splitting the keyboard compounds the desk-footprint-reduction benefit, for buyers specifically seeking maximum efficiency alongside ergonomic benefit."
   },
   {

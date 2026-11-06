@@ -56,42 +56,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "ZUAVIALA Under Desk PC Mount"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "VIVO Adjustable Clamp"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $30",
           "Under Desk PC Mount & CPU Holder"
         ],
         [
-          "",
+          "Up to $44",
           "JOY worker Under Desk PC Mount for Standing Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Weight Capacity vs Price",
     "cards": [
       {
         "label": "Under Desk PC Mount & CPU Holder",
@@ -105,16 +105,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Under Desk PC Mount & CPU Holder unless your tower's loaded weight calls for more capacity."
   },
   {
-    "subheading": "",
+    "subheading": "By Disclosed Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Standard mid-tower fit",
+          "VIVO Adjustable Clamp"
         ]
       ]
     }
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavier Modern Tower Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed weight capacity meaningfully above the generic mid-tower assumption, ideally with the tested figure stated in pounds, not a vague marketing term."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since capacity isn't consistently disclosed across every mount in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your tower is a heavier modern build with multiple drives or a discrete GPU, where JOY worker Under Desk PC Mount for Standing Desk's higher price buys real capacity headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your case is a lightweight, standard mid-tower, where Under Desk PC Mount & CPU Holder covers the same job at a lower price."
       }
     ]
@@ -153,7 +153,7 @@ export const howWeEvaluated = [
     "description": "Clarified that most no-drill products here use the same clamp mechanism covered in our separate mounts-without-screws guide, rather than a different method, to avoid duplicating that research."
   },
   {
-    "title": "",
+    "title": "Renter-friendliness weight-capacity tradeoff disclosed",
     "description": "Disclosed plainly that no-drill methods generally carry lower weight capacity than drilled alternatives, rather than assuming any no-drill product matches a screwed-in mount's holding power."
   },
   {

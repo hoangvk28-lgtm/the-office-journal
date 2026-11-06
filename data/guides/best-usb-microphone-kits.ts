@@ -63,35 +63,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "FIFINE AmpliGame A6T USB Microphone Kit with Boom Arm and Pop Filter"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "FIFINE AmpliGame A6T USB Microphone Kit with Boom Arm and Pop Filter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $19",
           "InnoGear Boom Arm Microphone Stand"
         ],
         [
-          "",
+          "Up to $68",
           "FIFINE AmpliGame AM8T XLR/USB Microphone Set with Boom Arm"
         ]
       ]
@@ -112,15 +112,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to InnoGear Boom Arm Microphone Stand unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "FIFINE AmpliGame A6T USB Microphone Kit with Boom Arm and Pop Filter"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "FIFINE AmpliGame A6T USB Microphone Kit with Boom Arm and Pop Filter is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where FIFINE AmpliGame AM8T XLR/USB Microphone Set with Boom Arm's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where InnoGear Boom Arm Microphone Stand covers the same job at a lower price."
       }
     ]
@@ -164,7 +164,7 @@ export const howWeEvaluated = [
     "description": "Compared stated boom arm reach, typically 30-40cm on bundled arms, against common desk depths and L-shaped or shelf-backed layouts where full articulation can be tight."
   },
   {
-    "title": "",
+    "title": "Boom arm build quality",
     "description": "Weighed spring tension and hold, since a bundled arm's weakest link is often gradual drooping during a long recording or streaming session rather than the mic itself."
   },
   {
@@ -172,14 +172,14 @@ export const howWeEvaluated = [
     "description": "Noted whether a kit's arm or mic uses a standard thread size, 5/8\" or 3/8\", so a buyer can later swap just the mic or just the arm without replacing the whole setup."
   },
   {
-    "title": "",
+    "title": "Value for what's included",
     "description": "Weighed price against the genuine contents of the box, mic-only picks priced close to full kits were flagged rather than treated as equivalent value."
   }
 ];
 
 export const introParagraphs = [
   "A USB microphone kit is supposed to save a first-time buyer from piecing together a mic, boom arm, and mounting hardware separately, but what's actually included in the box varies a lot more than most listings make clear. Some bundles pair a mic with a genuine boom arm, others ship with only a desktop stand despite being marketed alongside boom-arm accessories, and the boom arm's own spring tension quality is often the weakest link in a kit that looks complete on paper.",
-  ""
+  "Below are 8 USB microphone kit options we compared on what's actually included, boom arm reach relative to a typical desk, and upgrade path if you later want to swap just the mic or just the arm, ranging from a standalone $18.99 boom arm accessory to a $67.99 full kit."
 ];
 
 export const lastUpdated = "2026-07-23";

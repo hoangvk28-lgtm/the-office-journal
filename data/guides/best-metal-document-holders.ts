@@ -61,20 +61,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/51zTaS5XU2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "Saunders Recycled Aluminum Snapak Form Holder"
         ],
         [
-          "",
-          ""
+          "Continuous transcription/typing",
+          "MaxGear Desktop Document Holder"
         ],
         [
           "Reading a full book/bound document",
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Saunders Recycled Aluminum Snapak Form Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "Hanghs Desktop Document Holder/Paper Stand/Clipboard for Sheet"
         ],
         [
-          "",
+          "Higher budget",
           "ZCZN Recycled Aluminum Storage Clipboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Freestanding",
     "cards": [
       {
         "label": "Saunders Recycled Aluminum Snapak Form Holder)",
         "text": "Sits between monitor and keyboard, minimal head movement."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits beside the monitor at eye level, more placement flexibility."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Letter/A4 size",
+          "MaxGear Desktop Document Holder"
         ],
         [
-          "",
+          "Legal size or larger",
           "Hanghs Desktop Document Holder/Paper Stand/Clipboard for Sheet"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Transcription Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A line guide feature and independently adjustable angle and height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MaxGear Desktop Document Holder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where ZCZN Recycled Aluminum Storage Clipboard justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Saunders Recycled Aluminum Snapak Form Holder already covers the job at the lowest price here."
       }
     ]

@@ -29,11 +29,11 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which TechOrbits converter has the most reviews?",
-    "a": ""
+    "a": "The TechOrbits Standing Desk Converter, 32 Inch, with 2,847 reviews."
   },
   {
     "q": "Which TechOrbits converter is highest rated?",
-    "a": ""
+    "a": "The TechOrbits OF-S06-2 Desk Converter, 37 Inch, at 4.6."
   },
   {
     "q": "What's TechOrbits' largest current platform?",
@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest TechOrbits option?",
-    "a": ""
+    "a": "The TechOrbits Standing Desk Converter, 32 Inch, at $129.99."
   }
 ];
 
@@ -57,47 +57,47 @@ export const heroImage = "https://m.media-amazon.com/images/I/51rafiFi9aL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
           "Single monitor or laptop, small desk",
-          ""
+          "TechOrbits Standing Desk Converter"
         ],
         [
-          "",
-          ""
+          "Dual monitors",
+          "TechOrbits Standing Desk Converter"
         ],
         [
           "Triple monitors, need maximum surface area",
-          ""
+          "TechOrbits OF-S06-2 Desk Converter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $130",
+          "TechOrbits Standing Desk Converter"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "TechOrbits OF-S06-2 Desk Converter"
         ],
         [
           "No firm budget ceiling, prioritizing lift quality or brand",
-          ""
+          "TechOrbits Standing Desk Converter"
         ]
       ]
     }
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: TechOrbits Standing Desk Converter, TechOrbits OF-S06-2 Desk Converter, TechOrbits Standing Desk Converter."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: none in this specific roundup, since most picks here use a manual lift."
       }
     ],
@@ -120,17 +120,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest star rating",
+          "TechOrbits OF-S06-2 Desk Converter"
         ],
         [
-          "",
-          ""
+          "Largest review base (more statistical confidence)",
+          "TechOrbits Standing Desk Converter"
         ]
       ]
     }
@@ -139,17 +139,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "TechOrbits Standing Desk Converter fits this specifically: Largest review base in TechOrbits' current lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "note": "Every pick in this specific comparison sits in a similar price range, so the decision here comes down to platform size and lift mechanism rather than a budget-versus-premium tradeoff. Check the pros and cons above for what actually differs between them."
   }
 ];
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Compared review volume and rating across TechOrbits' size range",
-    "description": ""
+    "description": "We noted where the smaller 32 inch model has the largest review base while the 37 inch model holds the highest rating."
   },
   {
     "title": "Weighed price against platform size within the brand",

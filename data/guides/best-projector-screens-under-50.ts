@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41rDKAh6IZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $35",
+          "IOLIEO 100in ($34.99)"
         ],
         [
-          "",
-          ""
+          "Under $37",
+          "IOLIEO 120in ($36.99)"
         ],
         [
-          "",
-          ""
+          "Under $50",
+          "STWUI ($49.99)"
         ],
         [
-          "",
-          ""
+          "Under $60",
+          "Tripod Stand Washable ($59.99)"
         ]
       ]
     }
@@ -129,11 +129,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If image quality and contrast matter most and you have a suitable wall or frame, the IOLIEO black-backed picks are worth prioritizing. If you need to set up in open outdoor spaces without a wall, the stand-equipped picks solve that problem instead."
   },
   {
-    "subheading": "",
+    "subheading": "By Setup Location",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup location",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daytime or Bright-Room Viewing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A black backing layer specifically designed to eliminate light bleed through the fabric, since ambient light in a bright room can wash out projected images on a standard screen."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both IOLIEO picks' black backing layers specifically address light bleed, a genuine benefit for viewing in rooms that aren't fully darkened."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a reinforced, stable tripod stand for outdoor use, where the Tripod Stand Washable pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want black-backing contrast benefits without needing a stand, where the IOLIEO 100 inch pick covers that for about $25 less."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Backing Layer Technology",
     "description": "Compared black-backed contrast-improving screens against standard white-backed fabric."
   },
   {
-    "title": "",
+    "title": "Stand Inclusion and Stability",
     "description": "Checked which picks include a self-supporting tripod stand versus fabric-only mounting."
   },
   {
-    "title": "",
+    "title": "Fabric Maintenance",
     "description": "Compared washability and wrinkle resistance across all four picks."
   },
   {
-    "title": "",
+    "title": "Customer Support Policy",
     "description": "Compared stated support availability and replacement policies across the lineup."
   },
   {
-    "title": "",
+    "title": "Assembly Time and Tools",
     "description": "Compared stated setup time and tool requirements for stand-equipped picks."
   }
 ];

@@ -28,20 +28,20 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "q": "",
-    "a": ""
+    "q": "Which Mount-It! converter is highest rated?",
+    "a": "The Mount-It! Standing Desk Converter 32 x 22 with Gas Spring Lift, at 4.6."
   },
   {
     "q": "Converter has the most reviews?",
-    "a": ""
+    "a": "The Mount-It! Standing Desk Converter, Compact Design, with 381 reviews."
   },
   {
-    "q": "",
+    "q": "Is the triple-monitor Mount-It! converter well-reviewed?",
     "a": "'s current lineup, though it's their only current triple-monitor electric option."
   },
   {
     "q": "What's the cheapest current Mount-It!",
-    "a": ""
+    "a": "The Mount-It! Height Adjustable Standing Desk Converter at 30 inches, priced at $128.97."
   },
   {
     "q": "Make a dual-monitor mount option?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41rhOnTY0jL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,8 +69,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Standing Desk Converter 32 x 22"
         ],
         [
-          "",
-          ""
+          "Dual monitors",
+          "Mount-It! Standing Desk Converter"
         ],
         [
           "Triple monitors, need maximum surface area",
@@ -80,20 +80,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $129",
           "Height Adjustable Standing Desk Converter"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "Mount-It! Compact Standing Desk Riser"
         ],
         [
           "No firm budget ceiling, prioritizing lift quality or brand",
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. Standing Desk Converter Dual Monitor, Mount-It! Standing Desk Converter 32 x 22."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. Triple Monitor Electric Standing Desk Converter."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Standing Desk Converter 32 x 22"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Standing Desk Converter Dual Monitor"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Mount-It! Standing Desk Converter fits this specifically: Largest review base in Mount-It!'s current lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Triple Monitor Electric Standing Desk Converter offers: Only current Mount-It! Model built for three monitors with electric lift. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]
@@ -165,7 +165,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Confirmed current Mount-It! model availability",
     "description": "We only included converters we could verify as currently sold rather than assuming the full historical Mount-It!"
   },
   {
@@ -174,10 +174,10 @@ export const howWeEvaluated = [
   },
   {
     "title": "Weighed the triple-monitor electric model's lower rating honestly",
-    "description": ""
+    "description": "This model has both the lowest rating and smallest review base in the current lineup, and we disclosed this directly rather than glossing over it because it's the specialized top-tier option."
   },
   {
-    "title": "",
+    "title": "Compared price across Mount-It!'s full current range",
     "description": "Pricing spans from a budget compact option to a premium triple-monitor electric model, and we compared value across that range."
   }
 ];

@@ -56,80 +56,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Acfunique Peg Board Display Stand for Vendors with 12 Hooks"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Peg Board Display Stand"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "Acfunique Peg Board Display Stand for Vendors with 12 Hooks"
         ],
         [
-          "",
-          ""
+          "Up to $46",
+          "Ultrawall Pegboard Display Stand"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
         "label": "Acfunique Peg Board Display Stand for Vendors with 12 Hooks",
         "text": "The lower-priced option in this comparison, worth checking its material and mounting method against your desk."
       },
       {
-        "label": "",
+        "label": "Ultrawall Pegboard Display Stand",
         "text": "The higher-priced option, worth it if it offers real material or feature headroom above the cheaper pick."
       }
     ],
     "note": "Default to Acfunique Peg Board Display Stand for Vendors with 12 Hooks unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Size",
     "note": "Check each pick's listed panel dimensions against your desk's available depth and width before buying."
   },
   {
     "subheading": "For a Loaded, Multi-Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine metal or thick MDF construction, confirmed standard hole spacing, and a wall-anchor mounting option for stability once loaded with monitor arms and accessories."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Peg Board Display Stand is worth checking against its listed material and mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to load the board with monitor arms and multiple accessories, where Ultrawall Pegboard Display Stand's material and mounting give real stability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a few lightweight decorative hooks, where Acfunique Peg Board Display Stand for Vendors with 12 Hooks covers the same job at a lower price."
       }
     ]
@@ -138,7 +138,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Search intent assessed honestly",
     "description": "Recognized this search term leans toward retail and craft-show merchandising intent rather than home-office desk organization, and evaluated products against that actual use case."
   },
   {
@@ -150,7 +150,7 @@ export const howWeEvaluated = [
     "description": "Judged construction quality against a customer-facing display standard rather than the utilitarian durability bar used for home desk organization pegboards."
   },
   {
-    "title": "",
+    "title": "Setup and teardown practicality",
     "description": "Considered how easily each stand could be set up and packed away for a mobile vendor booth versus a fixed retail counter."
   }
 ];

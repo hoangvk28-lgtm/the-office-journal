@@ -37,7 +37,7 @@ export const faq = [
   },
   {
     "q": "Why do combo units have fewer reviews than single-function air purifiers?",
-    "a": ""
+    "a": "Combo units are a genuinely smaller product category than single-function air purifiers or humidifiers, meaning generally smaller review bases across all combo picks."
   },
   {
     "q": "Should I just buy separate air purifier and humidifier units instead?",
@@ -53,63 +53,63 @@ export const heroImage = "https://m.media-amazon.com/images/I/41p66KxYQ6L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Filtration Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "GoveeLife Air Purifier and Humidifier Combo"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $80",
           "GoveeLife Air Purifier and Humidifier Combo"
         ],
         [
-          "",
-          ""
+          "Up to $320",
+          "4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
         "label": "GoveeLife Air Purifier and Humidifier Combo",
         "text": "The lower-priced option in this comparison, worth checking its filtration type against your actual concern."
       },
       {
-        "label": "",
+        "label": "4",
         "text": "The higher-priced option, worth it if it offers real filtration or coverage headroom above the cheaper pick."
       }
     ],
     "note": "Default to GoveeLife Air Purifier and Humidifier Combo unless your room size or air-quality concern calls for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Room Coverage",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "GoveeLife Air Purifier and Humidifier Combo"
         ]
       ]
@@ -119,24 +119,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Allergies or Pet Dander Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Certified True HEPA filtration with an H13 or higher rating, sized for a room at least as large as where it'll actually run."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since HEPA certification isn't consistently disclosed across every unit in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real odor, VOC, or large-room coverage, where 4's higher price buys real filtration or CADR headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're covering a small space with a basic dust or allergen concern, where GoveeLife Air Purifier and Humidifier Combo covers the same job at a lower price."
       }
     ]
@@ -145,7 +145,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Maintenance multiplication honestly disclosed",
     "description": "Considered that a combo unit means two separate maintenance schedules, filter replacement and water tank cleaning, live in one device, not half the upkeep of owning two separate units."
   },
   {
@@ -153,8 +153,8 @@ export const howWeEvaluated = [
     "description": "Weighed that a neglected humidifier water tank can become a source of mold and bacteria that the same unit's air purifier side then has to filter back out, unlike filter replacement which can sometimes be stretched."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Combo category's smaller review base contextualized",
+    "description": "Noted that combo units are a smaller product category than single-function purifiers or humidifiers, meaning generally smaller review bases across all picks in this guide."
   }
 ];
 

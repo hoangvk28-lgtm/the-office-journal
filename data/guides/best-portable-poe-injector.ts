@@ -61,16 +61,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41aehF6O8wL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Power Source",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your available power source",
+        "Recommended pick"
       ],
       "rows": [
         [
           "DeWalt or Milwaukee cordless tool battery",
-          ""
+          "Portable Combo PoE Injector"
         ],
         [
           "Solar panel or battery bank, permanent install",
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $16",
+          "PoE Texas 12-30V to PoE Inline Converter ($15.99)"
         ],
         [
-          "",
-          ""
+          "Under $20",
+          "PoE Texas DC-Powered Gigabit PoE+ Injector ($19.99)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "Gigabit DC PoE+ Injector 12-48V ($29.66)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "Portable Combo PoE Injector ($155.00)"
         ]
       ]
     }
@@ -132,8 +132,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Input Voltage Range Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your power source voltage",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "12-48V (solar panels, wider range)",
-          ""
+          "Gigabit DC PoE+ Injector"
         ],
         [
           "12-60V (widest range, mixed sources)",
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Field Network Testing Kit Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A design that reuses power sources you're already carrying for other equipment, rather than requiring a dedicated battery pack you need to separately charge and carry."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Portable Combo pick specifically works with common DeWalt and Milwaukee cordless drill batteries a field technician likely already carries for other job site tools."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're a field technician who wants to reuse existing cordless tool batteries and needs both passive and active PoE support in one unit, where the Portable Combo's $155 price reflects that specific convenience."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "66 DC-input picks deliver reliable power conversion at a fraction of the cost."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Power Source Type",
     "description": "Compared cordless tool battery compatibility against DC-barrel input designs for solar, vehicle, or battery pack power."
   },
   {
-    "title": "",
+    "title": "Input Voltage Range",
     "description": "Compared the width of each listing's stated DC input voltage range."
   },
   {
-    "title": "",
+    "title": "Named Device Compatibility",
     "description": "Compared listings naming specific compatible radio, access point, or camera models."
   },
   {
-    "title": "",
+    "title": "Portability and Form Factor",
     "description": "Compared physical size, weight, and whether the unit uses removable batteries or requires a continuous power connection."
   },
   {
-    "title": "",
+    "title": "Safety Features",
     "description": "Compared auto-shutdown and diode isolation features across listings."
   }
 ];

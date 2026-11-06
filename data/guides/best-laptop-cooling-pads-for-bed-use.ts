@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41WX0LRwktL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,19 +76,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $26",
           "AboveTEK Portable Laptop Lap Desk for Bed"
         ],
         [
-          "",
+          "Mid-range",
           "SAIJI Laptop Desk for Bed with Cooling Fan"
         ],
         [
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: SAIJI Laptop Desk for Bed with Cooling Fan."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: SAIJI Laptop Desk for Bed with Cooling Fan."
       }
     ],
     "note": "Most buyers should default to a slim pick like SAIJI Laptop Desk for Bed with Cooling Fan for everyday portability, and only step up to SAIJI Laptop Desk for Bed with Cooling Fan's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what MAX SMART Laptop Lap Pad with Mouse Pad offers: Explicitly named for bed and sofa use. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "AboveTEK Portable Laptop Lap Desk for Bed already covers the essentials: Explicitly named for bed and sofa use. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -161,7 +161,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine bed-use design verification",
     "description": "We prioritized products whose listings explicitly state bed, sofa, or couch use, rather than a general desk cooling pad that happens to be usable on a mattress."
   },
   {
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "We compared whether the underside design (rigid platform or stable cushion) avoids sinking into bedding, which could otherwise block airflow or cause instability."
   },
   {
-    "title": "",
+    "title": "Fan intake obstruction risk",
     "description": "We noted whether the fan, if present, is positioned in a way that avoids being blocked by soft bedding underneath."
   },
   {

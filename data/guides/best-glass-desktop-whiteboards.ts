@@ -76,16 +76,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Match Your Priority to a Specific Pick",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Distinctive black glass look",
           "Black Glass Whiteboard with Reversible Stand"
         ],
         [
-          "",
+          "Glass plus storage drawer",
           "TSJ OFFICE Glass Board with Drawer"
         ],
         [
@@ -93,7 +93,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Small Glass Whiteboard with Calculator"
         ],
         [
-          "",
+          "Established brand reliability",
           "Quartet GDE119 9\"x11\" Glass Pad"
         ],
         [
@@ -101,7 +101,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Quartet GDP186 18\"x6\" Glass Pad"
         ],
         [
-          "",
+          "Maximum surface area",
           "Quartet GDP1723W 17\"x23\" Glass Panel"
         ],
         [

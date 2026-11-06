@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/31DNDSYNwEL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device You're Charging",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Phone, occasional use",
           "0 Compact Power Bank for iPhone 17 Galaxy S25"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "UGREEN Nexode 25000mAh 145W 3-Port USB-C Power Bank for iPhone 17 Pro Max"
         ],
         [
-          "",
+          "Laptop or multiple devices",
           "UGREEN Nexode Pro 25000mAh 200W Laptop Power Bank with Retractable Cables"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "0 Compact Power Bank for iPhone 17 Galaxy S25"
         ],
         [
-          "",
+          "Mid-range pick",
           "1 TFT 3-Port Power Bank"
         ],
         [
-          "",
+          "Higher budget",
           "UGREEN Nexode Pro 25000mAh 200W Laptop Power Bank with Retractable Cables"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Capacity vs Portability",
     "cards": [
       {
         "label": "UGREEN Nexode Pro 25000mAh 200W Laptop Power Bank with Retractable Cables)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you're carrying it daily or leaving it in a bag for emergencies."
   },
   {
-    "subheading": "",
+    "subheading": "By Travel Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Flying with it",
           "Check the watt-hour (Wh) rating stays under 100Wh"
         ],
         [
-          "",
+          "Never flying with it",
           "UGREEN Nexode 25000mAh 145W 3-Port USB-C Power Bank for iPhone 17 Pro Max"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "USB-PD support at 45W or higher, not just any USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "UGREEN Nexode Pro 25000mAh 200W Laptop Power Bank with Retractable Cables is worth checking against your specific laptop's wattage requirement before assuming any power bank charges it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher capacity, faster charging, and support for a laptop, where UGREEN Nexode Pro 25000mAh 200W Laptop Power Bank with Retractable Cables justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "0 Compact Power Bank for iPhone 17 Galaxy S25 already covers the job at the lowest price here."
       }
     ]

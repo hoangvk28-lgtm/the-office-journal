@@ -52,76 +52,76 @@ export const heroImage = "https://m.media-amazon.com/images/I/41J41Z-k38L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Joule Rating",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 3780 joules",
+          "Belkin 12"
         ],
         [
-          "",
-          ""
+          "Around 2700 joules",
+          "Surge Protector Power Strip"
         ],
         [
-          "",
-          ""
+          "Around 2700 joules",
+          "Power Strip"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "Surge Protector Power Strip"
         ],
         [
-          "",
-          ""
+          "Up to $29",
+          "Belkin 12"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Joule Rating vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Surge Protector Power Strip",
         "text": "The lower-priced option in this comparison, worth checking its disclosed joule rating against your equipment's value."
       },
       {
-        "label": "",
+        "label": "Belkin 12",
         "text": "The higher-priced option, worth it if it offers real protection headroom above the cheaper pick's rating."
       }
     ],
     "note": "Default to Surge Protector Power Strip unless your equipment's value calls for more protection."
   },
   {
-    "subheading": "",
+    "subheading": "By Plug Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Desk situation",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Tight space behind furniture, flat plug needed",
-          ""
+          "Surge Protector Power Strip"
         ],
         [
-          "",
-          ""
+          "Standard outlet clearance",
+          "Power Strip"
         ]
       ]
     }
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed joule rating of at least 1000-2000 with UL 1449 certification, plus enough spaced outlets for a monitor, dock, and peripherals."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Belkin 12 discloses the highest joule rating at 3780 joules."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your equipment is expensive or sensitive, where Belkin 12's higher price buys real protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're protecting lower-value, easily replaceable electronics, where Surge Protector Power Strip covers the same basic job at a lower price."
       }
     ]

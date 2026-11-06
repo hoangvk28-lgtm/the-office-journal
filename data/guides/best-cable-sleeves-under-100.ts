@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/51cq1f1527L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "Klyeola 2Pcs Spiral Cable Protector"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Tatuo 151 ft Braided Cable Sleeve Expandable Wire Sheathing(Blue, Black)"
         ],
         [
-          "",
-          ""
+          "A thick multi-cable run",
+          "CableGeeker Cable Management Sleeve"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,45 +95,45 @@ export const howToChoose: HowToChooseSection[] = [
           "Klyeola 2Pcs Spiral Cable Protector"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Uxcell Heat Shrink Tubing"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "CableGeeker Cable Management Sleeve"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "Klyeola 2Pcs Spiral Cable Protector)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "Tatuo 151 ft Braided Cable Sleeve Expandable Wire Sheathing(Blue, Black)"
         ],
         [
           "Near a real heat source",
-          ""
+          "Uxcell Heat Shrink Tubing"
         ]
       ]
     }
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Tatuo 151 ft Braided Cable Sleeve Expandable Wire Sheathing(Blue, Black) is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where CableGeeker Cable Management Sleeve justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Klyeola 2Pcs Spiral Cable Protector already covers the job at the lowest price here."
       }
     ]

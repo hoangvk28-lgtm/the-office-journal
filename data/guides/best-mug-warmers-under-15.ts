@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31a8jB3B5DL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Casual desk use",
           "Coffee Mug Warmer with Auto Shut-Off, Compact 17W Cup Warmer for Desk"
         ],
         [
-          "",
+          "Precise temperature control",
           "Durable Heavy Portable Large Warmer Safe Plate for Candle Jar & Mug Warmer"
         ],
         [
-          "",
+          "Gaming setup",
           "Gaiatop Coffee Mug Warmer for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Coffee Mug Warmer with Auto Shut-Off, Compact 17W Cup Warmer for Desk"
         ],
         [
-          "",
+          "Mid-range pick",
           "Coffee Mug Warmer for Desk Auto Shut Off 3 Temps &1-12H Timer"
         ],
         [
-          "",
+          "Higher budget",
           "Gaiatop Coffee Mug Warmer for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs Wall-Powered",
     "cards": [
       {
         "label": "Coffee Mug Warmer with Auto Shut-Off, Compact 17W Cup Warmer for Desk)",
         "text": "Plugs into a laptop or power bank, weaker heating strength."
       },
       {
-        "label": "",
+        "label": "Wall-powered",
         "text": "Stronger, more consistent heating, needs a free outlet."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Feedback Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simple, no-fuss warming",
           "Durable Heavy Portable Large Warmer Safe Plate for Candle Jar & Mug Warmer"
         ],
         [
-          "",
+          "LED temperature display",
           "Coffee Mug Warmer for Desk Auto Shut Off 3 Temps &1-12H Timer"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Non-Insulated Ceramic Mug Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A base plate matched to your mug's diameter, since insulated or double-walled mugs won't heat well on any warmer."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Durable Heavy Portable Large Warmer Safe Plate for Candle Jar & Mug Warmer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Gaiatop Coffee Mug Warmer for Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Coffee Mug Warmer with Auto Shut-Off, Compact 17W Cup Warmer for Desk already covers the job at the lowest price here."
       }
     ]

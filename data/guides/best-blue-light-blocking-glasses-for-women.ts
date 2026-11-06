@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31I3SyN0wXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General screen time",
           "MIGSIR 6 Pack Blue Light Blocking Glasses for Women Men, Stylish Computer"
         ],
         [
-          "",
+          "Design/color-sensitive work",
           "Gaoye Round Blue Light Blocking Glasses"
         ],
         [
-          "",
+          "Long gaming sessions",
           "IBOANN Blue Light Blocking Glasses for Women"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,44 +95,44 @@ export const howToChoose: HowToChooseSection[] = [
           "MIGSIR 6 Pack Blue Light Blocking Glasses for Women Men, Stylish Computer"
         ],
         [
-          "",
+          "Mid-range pick",
           "Livho High Tech Blue Light Glasses"
         ],
         [
-          "",
+          "Higher budget",
           "IBOANN Blue Light Blocking Glasses for Women"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clear vs Yellow-Tinted Lenses",
     "cards": [
       {
         "label": "MIGSIR 6 Pack Blue Light Blocking Glasses for Women Men, Stylish Computer)",
         "text": "Filters less blue light but keeps on-screen colors accurate."
       },
       {
-        "label": "",
+        "label": "Yellow-tinted",
         "text": "Filters more blue light but visibly shifts color perception."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Vision Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No vision correction needed",
           "Gaoye Round Blue Light Blocking Glasses"
         ],
         [
-          "",
+          "Reading magnification needed",
           "Livho High Tech Blue Light Glasses"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For All-Day Desk Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A frame width and nose bridge that actually fits your face, with a flexible, durable frame material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Gaoye Round Blue Light Blocking Glasses is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where IBOANN Blue Light Blocking Glasses for Women justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where MIGSIR 6 Pack Blue Light Blocking Glasses for Women Men, Stylish Computer already covers the job at the lowest price here."
       }
     ]

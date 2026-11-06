@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51YpYvY4LwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Storing",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light supplies, no drilling",
           "Under Desk Drawer Organizer Clamp-On"
         ],
         [
-          "",
+          "Standard office supplies",
           "Homeify Under Desk Drawer Organizer Clamp-On"
         ],
         [
-          "",
+          "Heavier items, permanent install",
           "VIVO Black Corner Clamp-on Drawer and Shelf System"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "Under Desk Drawer Organizer Clamp-On"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Under Desk Drawer"
         ],
         [
-          "",
+          "Higher budget",
           "VIVO Black Corner Clamp-on Drawer and Shelf System"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Screw-Mounted",
     "cards": [
       {
         "label": "Under Desk Drawer Organizer Clamp-On)",
         "text": "No drilling needed, fully removable, but capped around 13 lbs."
       },
       {
-        "label": "",
+        "label": "Screw-mounted",
         "text": "Higher weight capacity, but permanent and requires drilling into the desk."
       }
     ],
     "note": "Match this to whether you rent, share the desk, or need real capacity for heavier items."
   },
   {
-    "subheading": "",
+    "subheading": "By Legroom Clearance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Tight knee clearance",
           "Measure your seated position before choosing any model"
         ],
         [
-          "",
+          "Standard desk depth",
           "Homeify Under Desk Drawer Organizer Clamp-On"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Standing Desks Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed clearance at your desk's lowest sitting height, including the motor housing and crossbar."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Homeify Under Desk Drawer Organizer Clamp-On is worth checking against your desk's specific understructure before assuming any drawer clears it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and smoother, longer-lasting slides for daily heavy use, where VIVO Black Corner Clamp-on Drawer and Shelf System justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing light supplies and want a simple, removable option, where Under Desk Drawer Organizer Clamp-On already covers the job at the lowest price here."
       }
     ]

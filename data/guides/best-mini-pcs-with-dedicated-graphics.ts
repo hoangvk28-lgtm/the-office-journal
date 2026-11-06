@@ -53,10 +53,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41HfTCupHML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
+        "What you're running",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -65,26 +65,26 @@ export const howToChoose: HowToChooseSection[] = [
           "AOOSTAR MACO AMD Ryzen 9 8945HS Mini PC"
         ],
         [
-          "",
+          "Demanding, sustained workloads",
           "GMKtec AI Mini PC Ultra 9 285H"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $399",
           "AOOSTAR MACO AMD Ryzen 9 8945HS Mini PC"
         ],
         [
-          "",
+          "Mid-range",
           "GEEKOM [2026 Edition Multitasking Mini PC A7 MAX with AMD Ryzen 9 7940HS"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fanless (Passive) vs Actively Cooled",
     "cards": [
       {
-        "label": "",
+        "label": "Fanless, Passive Cooling",
         "text": "Completely silent with no moving parts, at the cost of throttling under sustained heavy load. In this comparison: check each listing's cooling design directly."
       },
       {
-        "label": "",
+        "label": "Actively Cooled (Fan)",
         "text": "Sustains heavier workloads longer without throttling, at the cost of some fan noise under load. In this comparison: GEEKOM [2026 Edition Multitasking Mini PC A7 MAX with AMD Ryzen 9 7940HS, GEEKOM A9 Max High AI Productivity Mini PC, GMKtec AI Mini PC Ultra 9 285H."
       }
     ],
@@ -112,12 +112,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By RAM and Storage Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lightest low-cost configuration",
           "AOOSTAR MACO AMD Ryzen 9 8945HS Mini PC"
         ],
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For GPU-Accelerated Work or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated GPU or a confirmed Oculink/Thunderbolt EGPU connection explicitly stated in the listing, not just a generic \"gaming capable\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "GEEKOM [2026 Edition Multitasking Mini PC A7 MAX with AMD Ryzen 9 7940HS fits this specifically: strong integrated graphics tier, among the best available without a discrete GPU."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what GMKtec AI Mini PC Ultra 9 285H offers: Powerful processor well-suited to pairing with an external GPU. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "AOOSTAR MACO AMD Ryzen 9 8945HS Mini PC already covers the essentials: Strong integrated Radeon 780M graphics tier at a low base price. The main thing you'd be paying extra for elsewhere in this list is headroom you may not need."
       }
     ]

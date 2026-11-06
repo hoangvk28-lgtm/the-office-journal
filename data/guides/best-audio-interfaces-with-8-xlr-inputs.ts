@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "A preamp boosts a microphone's naturally quiet signal to a usable recording level, and how much clean gain it provides before introducing audible hiss determines whether quieter microphones sound clear or noisy. Interfaces with 55 to 60 DB of clean gain comfortably handle most dynamic and ribbon microphones without noticeable hiss. Check the specific gain figure in DB and cross-reference it against the microphone you actually plan to use."
   },
   {
-    "criterion": "",
+    "criterion": "USB vs Thunderbolt Latency",
     "explanation": "Connection type affects real-world recording latency more than most buyers realize: USB now delivers latency low enough for real-time monitoring in the vast majority of home setups, while Thunderbolt's lower latency mainly pays off in larger multi-channel professional rigs. Check for a stated round-trip latency figure at a standard buffer size before assuming Thunderbolt is worth the added cost for your setup."
   },
   {
@@ -61,60 +61,60 @@ export const heroImage = "https://m.media-amazon.com/images/I/31qaeL2R1JL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Input Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Solo vocalist or single instrument",
-          ""
+          "Fender Quantum LT 16"
         ],
         [
-          "",
+          "Two sources at once",
           "Behringer ADA8200 Audiophile 8 In/8 Out ADAT Audio Interface with Midas Mic"
         ],
         [
-          "",
+          "Multiple simultaneous sources",
           "Focusrite Scarlett 18i20 USB-C Audio/MIDI Interface (4th Generation) Bundle"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Fender Quantum LT 16"
         ],
         [
-          "",
+          "Mid-range pick",
           "Tascam US-16x08 Rackmount USB Audio/MIDI Interface for Recording"
         ],
         [
-          "",
+          "Higher budget",
           "Focusrite Scarlett 18i20 USB-C Audio/MIDI Interface (4th Generation) Bundle"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs Thunderbolt Connectivity",
     "cards": [
       {
         "label": "Behringer ADA8200 Audiophile 8 In/8 Out ADAT Audio Interface with Midas Mic)",
         "text": "Works on virtually any modern computer, often runs on bus power alone, plenty of speed for a small home setup at a lower price."
       },
       {
-        "label": "",
+        "label": "Thunderbolt (higher-end setups)",
         "text": "Lower latency and higher bandwidth for larger channel counts, but costs more and needs a Thunderbolt port."
       }
     ],
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Bit Depth and Sample Rate",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Podcasting and Streaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Low-latency direct monitoring so you can hear your own voice without delay while recording or streaming live."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Behringer ADA8200 Audiophile 8 In/8 Out ADAT Audio Interface with Midas Mic is worth checking against its specific direct-monitoring spec before assuming any interface handles live monitoring equally well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You regularly record multiple sources at once and want the best all-around pick, where Focusrite Scarlett 18i20 USB-C Audio/MIDI Interface (4th Generation) Bundle justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're recording a single source, where Fender Quantum LT 16 already covers the job at the lowest price here."
       }
     ]
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "A preamp boosts a microphone's naturally quiet signal to a usable recording level, and how much clean gain it provides before introducing audible hiss determines whether quieter microphones sound clear or noisy."
   },
   {
-    "title": "",
+    "title": "USB vs Thunderbolt Latency",
     "description": "Connection type affects real-world recording latency more than most buyers realize: USB now delivers latency low enough for real-time monitoring in the vast majority of home setups, while Thunderbolt's lower latency mainly pays off in larger multi-channel professional rigs."
   },
   {

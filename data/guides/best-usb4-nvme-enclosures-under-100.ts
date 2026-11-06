@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51KNvure+OL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,52 +73,52 @@ export const howToChoose: HowToChooseSection[] = [
           "Cable Matters 40Gbps USB4 / Thunderbolt 4 SSD Enclosure"
         ],
         [
-          "",
-          ""
+          "Silent, fanless operation",
+          "UGREEN 40Gbps M.2 NVMe Enclosure"
         ],
         [
-          "",
+          "Capacity beyond 8TB",
           "Satechi USB4 NVMe SSD Pro Enclosure"
         ],
         [
-          "",
-          ""
+          "Hours-long sustained transfer sessions",
+          "Rosewill 40Gbps M.2 NVMe SSD Enclosure"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $55",
+          "Cable Matters 40Gbps USB4 / Thunderbolt 4 SSD Enclosure ($49.99) or ANYOYO ($54.14)"
         ],
         [
-          "",
-          ""
+          "$55 to $70",
+          "ORICO ($56.99), Rosewill ($59.99), or UGREEN ($69.99)"
         ],
         [
-          "",
-          ""
+          "Up to $100",
+          "Satechi USB4 NVMe SSD Pro Enclosure ($99.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Fan-Cooled vs Fanless",
     "cards": [
       {
         "label": "Active fan cooling (Cable Matters, ANYOYO, ORICO, Rosewill, Satechi)",
         "text": "Better suited to hours-long sustained transfers since a fan actively removes heat, at the cost of some fan noise, usually low but present."
       },
       {
-        "label": "",
+        "label": "Fanless (UGREEN)",
         "text": "Completely silent with nothing to wear out over time, but has less thermal headroom for extended high-load sessions than a fan-cooled design."
       }
     ],
@@ -128,20 +128,20 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By SSD Size and Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your SSD is",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single-sided, up to 4TB",
           "Cable Matters 40Gbps USB4 / Thunderbolt 4 SSD Enclosure"
         ],
         [
           "Double-sided or up to 8TB",
-          ""
+          "ANYOYO or Rosewill"
         ],
         [
-          "",
+          "Larger than 8TB",
           "Satechi USB4 NVMe SSD Pro Enclosure"
         ],
         [
@@ -152,27 +152,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Video Editors Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A documented sustained-speed rating and active cooling rather than just a peak burst-speed number, since large video files push sustained write speeds much harder than small file transfers."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Rosewill's explicit 4-hour full-speed rating and ORICO's three-layer cooling bundle are the two picks here built with sustained load specifically in mind."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) is the only pick here rated past 8TB, and its 2-year warranty is longer than most competitors."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) uses the same class of 40Gbps controller as pricier picks and skips only the capacity headroom you don't need yet."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Controller chip verification",
     "description": "We identified each enclosure's actual bridge chip (ASM2464PD, JHL7440, or a dual-chip combination) from the listing rather than trusting the 40Gbps headline alone, since the chip drives real sustained speed and OS compatibility more than the marketing number does."
   },
   {
-    "title": "",
+    "title": "Cooling method comparison",
     "description": "We separated active fan-cooled designs from passive fin-based designs and noted the real tradeoff: fans generally sustain longer high-load sessions, while fanless designs run silently but with less thermal headroom."
   },
   {
-    "title": "",
+    "title": "Drive compatibility audit",
     "description": "2 support, maximum drive capacity, and any explicitly excluded SSD models, since these restrictions only surface in the fine print, not the headline bullets."
   },
   {
-    "title": "",
+    "title": "Bundled accessories check",
     "description": "We noted which enclosures included a thermal pad, heatsink, or cable beyond the bare minimum, since these accessories have real out-of-pocket value if you'd otherwise buy them separately."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $100 on the date this guide was checked; enclosures that only hit this tier during a temporary sale were excluded."
   }
 ];

@@ -64,35 +64,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Canon PIXMA TR4720 All"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Canon PIXMA TR4720 All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $69",
+          "Canon PIXMA TR4720 All"
         ],
         [
-          "",
+          "Up to $491",
           "Canon Color imageCLASS MF753Cdw II Duplex Laser Printer with ADF"
         ]
       ]
@@ -102,7 +102,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Canon PIXMA TR4720 All vs Canon Color imageCLASS MF753Cdw II Duplex Laser Printer with ADF",
     "cards": [
       {
-        "label": "",
+        "label": "Canon PIXMA TR4720 All",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
@@ -113,16 +113,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Canon PIXMA TR4720 All unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Canon PIXMA TR4720 All"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Canon PIXMA TR4720 All is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Canon Color imageCLASS MF753Cdw II Duplex Laser Printer with ADF's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon PIXMA TR4720 All covers the same job at a lower price."
       }
     ]
@@ -161,11 +161,11 @@ export const howWeEvaluated = [
     "description": "Weighed whether each pick's ADF is built for occasional short stacks or sustained higher-volume multi-page scanning, matching the pick to a realistic home or home-office workload."
   },
   {
-    "title": "",
+    "title": "ADF vs. flatbed guidance",
     "description": "Flagged paper types that generally shouldn't go through any ADF, thick cardstock, glossy photo paper, thermal receipts, regardless of how premium the printer is."
   },
   {
-    "title": "",
+    "title": "Duplex ADF vs. single-sided ADF",
     "description": "Distinguished picks with automatic two-sided scanning from those requiring a manual flip halfway through a stack, a real time difference for double-sided documents."
   },
   {

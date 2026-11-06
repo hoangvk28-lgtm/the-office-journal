@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31RhZg60gLL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,8 +73,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Deluxe Home Maintenance Log Book: Organize"
         ],
         [
-          "",
-          ""
+          "Standard conference room",
+          "Jabra Scheduler, 10.1” Touchscreen Tablet"
         ],
         [
           "Large room or lobby signage",
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Deluxe Home Maintenance Log Book: Organize"
         ],
         [
-          "",
+          "Mid-range pick",
           "PoE Texas 8-Inch Touchscreen PoE Meeting Room Scheduler Tablet"
         ],
         [
-          "",
+          "Higher budget",
           "7H-952000085 Meeting Room Touch Controller with PoE Connectivity"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "Deluxe Home Maintenance Log Book: Organize)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Microsoft 365 / Outlook / Teams",
-          ""
+          "Jabra Scheduler, 10.1” Touchscreen Tablet"
         ],
         [
-          "",
+          "Google Workspace / Calendar",
           "PoE Texas 8-Inch Touchscreen PoE Meeting Room Scheduler Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "1” Touchscreen Tablet is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where 7H-952000085 Meeting Room Touch Controller with PoE Connectivity justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward single-room display without advanced features, where Deluxe Home Maintenance Log Book: Organize already covers the job at the lowest price here."
       }
     ]

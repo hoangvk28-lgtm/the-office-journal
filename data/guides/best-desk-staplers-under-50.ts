@@ -36,7 +36,7 @@ export const faq = [
     "a": "Top-loading is generally quicker since you just drop the staple strip in, front-loading requires sliding a carrier out and back, a small but real difference if you refill often."
   },
   {
-    "q": "",
+    "q": "Are electric staplers loud?",
     "a": "They produce a distinct motor click or whir each time they fire, check reviews specifically for noise complaints if you'll use it near coworkers in a quiet shared office."
   },
   {
@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41R2XnIOHyL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Stack Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, a few sheets",
           "Amazon Basics Mesh Desk Organizer with Pen Holder"
         ],
         [
-          "",
+          "A regular office stack",
           "Stapler 25 Sheet Capacity with 1000 Staples and Staple Remover"
         ],
         [
-          "",
+          "Consistently thick stacks",
           "Black Desk Organizer and Accessories"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "Amazon Basics Mesh Desk Organizer with Pen Holder"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Swingline Stapler"
         ],
         [
-          "",
+          "Higher budget",
           "Black Desk Organizer and Accessories"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Manual vs Electric",
     "cards": [
       {
         "label": "Amazon Basics Mesh Desk Organizer with Pen Holder)",
         "text": "No power dependency, reliable for any volume."
       },
       {
-        "label": "",
+        "label": "Electric",
         "text": "Reduces hand strain at high volume, depends on charge or power."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Staple Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 26/6 staples",
           "Stapler 25 Sheet Capacity with 1000 Staples and Staple Remover"
         ],
         [
-          "",
-          ""
+          "A specific alternate size",
+          "Swingline Stapler"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Center-of-Document Stapling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A deep throat depth spec, not just a standard corner-reach stapler."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Stapler 25 Sheet Capacity with 1000 Staples and Staple Remover is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Black Desk Organizer and Accessories justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Amazon Basics Mesh Desk Organizer with Pen Holder already covers the job at the lowest price here."
       }
     ]

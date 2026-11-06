@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Canon TS5320 All"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Canon TS5320 All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $64",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ],
         [
-          "",
-          ""
+          "Up to $200",
+          "Epson EcoTank ET"
         ]
       ]
     }
@@ -106,23 +106,23 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Epson EcoTank ET",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Canon PIXMA TS4320 Wireless Color Inkjet Printer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Canon TS5320 All"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Canon TS5320 All is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Epson EcoTank ET's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon PIXMA TS4320 Wireless Color Inkjet Printer covers the same job at a lower price."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Listing transparency",
     "description": "Checked whether each Amazon listing names AirPrint explicitly in the title or bullet points, and flagged those that don't so buyers know to verify before purchasing."
   },
   {
-    "title": "",
+    "title": "Same-network setup friction",
     "description": "Weighed how likely each printer is to run into the most common AirPrint issue, the printer and iPhone landing on different subnets due to a guest wifi network or router configuration."
   },
   {
-    "title": "",
+    "title": "Troubleshooting support",
     "description": "Compared on-screen displays and app quality for cases where a printer doesn't appear in the AirPrint list on the first attempt, since a plain-language display beats guessing at blinking lights."
   },
   {
-    "title": "",
+    "title": "Manufacturer app fallback",
     "description": "Considered whether HP Smart, Canon PRINT, or Epson Smart Panel offers a reliable mobile printing path when AirPrint itself doesn't cooperate."
   },
   {
-    "title": "",
+    "title": "Value for wireless printing",
     "description": "Weighed price against print, scan, and copy features relevant to everyday iPhone and iPad printing, not just AirPrint support alone."
   }
 ];

@@ -52,75 +52,75 @@ export const heroImage = "https://m.media-amazon.com/images/I/51Y8l6bTK5L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Size",
     "table": {
       "headers": [
-        "",
+        "Your laptop size",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Compact 13-14 inch laptop",
           "Vixtan 14\" Triple Laptop Screen Extender"
         ],
         [
-          "",
-          ""
+          "Larger 15.6+ inch laptop",
+          "VueForge Laptop Screen Extender"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $180",
+          "VueForge Laptop Screen Extender"
         ],
         [
-          "",
+          "Mid-range",
           "Vixtan 14\" Triple Laptop Screen Extender"
         ],
         [
           "No firm budget ceiling, prioritizing build or features",
-          ""
+          "KEFEYA Laptop Screen Extender 15.6\""
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clip-On/Magnetic Attachment vs Stand-Based",
     "cards": [
       {
-        "label": "",
+        "label": "Clip-On or Magnetic",
         "text": "Attaches directly to the laptop lid for a compact, travel-friendly setup that moves with the laptop. In this comparison: Vixtan 14\" Triple Laptop Screen Extender, Vixtan 14\" Triple Laptop Screen Extender."
       },
       {
-        "label": "",
+        "label": "Stand-Based",
         "text": "Sits independently on the desk, keeping stress off the laptop's own lid hinge but adding desk footprint. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
     "note": "Default to a clip-on or magnetic pick like Vixtan 14\" Triple Laptop Screen Extender if you travel with your laptop often, and consider a stand-based design if this is a permanent desk setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Connection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Flexible power and video routing",
-          ""
+          "VueForge Laptop Screen Extender"
         ],
         [
-          "",
+          "Simplest single-cable setup",
           "Vixtan 14\" Triple Laptop Screen Extender"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Video Calls and Presentations Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A swivel or adjustable-angle mechanism specifically, so you can reposition the extended screen toward a camera or a colleague without moving the whole laptop."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "6\" fits this specifically: Highest average rating among genuine triple-configuration extenders."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "6\" offers: Highest average rating among genuine triple-configuration extenders. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "VueForge Laptop Screen Extender already covers the essentials: Highest average rating in this entire guide. The main thing you'd be paying extra for elsewhere in this list is build quality or features you may not need."
       }
     ]
@@ -168,7 +168,7 @@ export const howWeEvaluated = [
     "description": "Favored picks with explicitly disclosed total weight figures over generic 'lightweight' marketing language, giving buyers genuine comparison data."
   },
   {
-    "title": "",
+    "title": "Power-distribution approach (single vs. two-cable) evaluated",
     "description": "Evaluated whether a product uses a single cable or a two-cable USB-C/HDMI approach to distribute the higher power and video demand of a triple-screen setup."
   }
 ];

@@ -27,8 +27,8 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "q": "",
-    "a": ""
+    "q": "Is a 14-inch screen extender sharper than a 15.6-inch one?",
+    "a": "At the same 1080P resolution, yes, 14-inch panels have higher pixel density than a similarly resolved larger 15.6-inch panel."
   },
   {
     "q": "Should I match my extender size to my laptop's own screen size?",
@@ -36,7 +36,7 @@ export const faq = [
   },
   {
     "q": "Are all products marketed as '14-inch' actually 14 inches?",
-    "a": ""
+    "a": "Not always, verify the exact panel size, some budget alternatives in this category are actually a nearby size like 15.6 inches."
   },
   {
     "q": "Is an integrated speaker on a 14-inch extender worth it?",
@@ -55,36 +55,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "APILDELLA 14'' Dual Laptop Screen Extender"
         ],
         [
-          "",
-          ""
+          "Largest review base (more statistical confidence)",
+          "KEFEYA Laptop Screen Extender"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $70",
           "Ingnok Portable Monitor for Laptop"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "KEFEYA Laptop Screen Extender"
         ],
         [
           "No firm budget ceiling, prioritizing build or features",
@@ -94,33 +94,33 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clip-On/Magnetic Attachment vs Stand-Based",
     "cards": [
       {
-        "label": "",
+        "label": "Clip-On or Magnetic",
         "text": "Attaches directly to the laptop lid for a compact, travel-friendly setup that moves with the laptop. In this comparison: SideTrak Swivel 14\" Patented Attachable Portable Monitor for Laptop."
       },
       {
-        "label": "",
+        "label": "Stand-Based",
         "text": "Sits independently on the desk, keeping stress off the laptop's own lid hinge but adding desk footprint. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
     "note": "Default to a clip-on or magnetic pick like SideTrak Swivel 14\" Patented Attachable Portable Monitor for Laptop if you travel with your laptop often, and consider a stand-based design if this is a permanent desk setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Connection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Flexible power and video routing",
-          ""
+          "KEFEYA Laptop Screen Extender"
         ],
         [
-          "",
+          "Simplest single-cable setup",
           "Ingnok Portable Monitor for Laptop"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Video Calls and Presentations Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A swivel or adjustable-angle mechanism specifically, so you can reposition the extended screen toward a camera or a colleague without moving the whole laptop."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SideTrak Swivel 14\" Patented Attachable Portable Monitor for Laptop fits this specifically: Patented swivel mechanism for flexible angle adjustment."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what SideTrak Swivel 14\" Patented Attachable Portable Monitor for Laptop offers: Patented swivel mechanism for flexible angle adjustment. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is build quality or features you may not need."
       }
     ]
@@ -157,7 +157,7 @@ export const howToChoose: HowToChooseSection[] = [
 export const howWeEvaluated = [
   {
     "title": "Pixel density advantage of 14-inch at 1080P considered",
-    "description": ""
+    "description": "Considered that 14-inch panels commonly shipping at 1080P resolution have higher pixel density than a similarly resolved larger 15.6-inch panel."
   },
   {
     "title": "Proportional pairing with compact laptops evaluated",

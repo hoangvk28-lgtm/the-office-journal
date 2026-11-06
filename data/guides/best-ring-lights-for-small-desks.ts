@@ -12,7 +12,7 @@ export const buyingCriteria = [
     "explanation": "A ring light's advertised lux rating is one of the most commonly inflated specs in the category, often overstated by 2 to 3 times the light's real output at any usable distance. The number alone tells you little without knowing the distance it was measured at, so treat an unqualified lux figure with real skepticism and prioritize independently verified reviews when they're available over the brand's own spec sheet."
   },
   {
-    "criterion": "",
+    "criterion": "Diameter Doesn't Guarantee Brightness",
     "explanation": "A larger ring light doesn't automatically mean brighter or more even light output, a cheaply built 24-inch ring can output as little as 800 lux at half a meter, while a well-engineered 18-inch unit can deliver 2,400 lux at the same distance. LED density and driver quality matter more than sheer diameter, so don't assume the biggest ring in a lineup is the most capable one for actual video-call or streaming brightness."
   },
   {
@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31mYDWWDniL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shooting Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your distance",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Close-up, under 30cm",
           "InnoGear Ring Light with Stand for Desk Computer 60 LED Streaming Lighting"
         ],
         [
-          "",
+          "Video-call distance, 45-60cm",
           "NEEWER Basics 5\"/13cm Desk Ring Light with Stand"
         ],
         [
-          "",
+          "Full-body, 80cm+",
           "Upgrade Ring Light Overhead Camera Phone Mount for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "InnoGear Ring Light with Stand for Desk Computer 60 LED Streaming Lighting"
         ],
         [
-          "",
+          "Mid-range pick",
           "Evershop Ring Light for Laptop Desk Clip On, Small Computer Video Conference"
         ],
         [
-          "",
+          "Higher budget",
           "Upgrade Ring Light Overhead Camera Phone Mount for Desk"
         ]
       ]
@@ -113,53 +113,53 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Simple setup, but occupies permanent desk space."
       },
       {
-        "label": "",
+        "label": "Clamp mount",
         "text": "Frees up desk space, but needs enough clamp depth for your desk edge."
       }
     ],
     "note": "Match this to how much desk surface you're willing to give up permanently."
   },
   {
-    "subheading": "",
+    "subheading": "By Color Temperature Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Matches varying room light",
           "Check for a wide, adjustable color temperature range"
         ],
         [
-          "",
+          "Fixed single-purpose setup",
           "NEEWER Basics 5\"/13cm Desk Ring Light with Stand"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A 10 to 12 inch diameter and a real (not inflated) lux rating at video-call distance."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "NEEWER Basics 5\"/13cm Desk Ring Light with Stand is worth checking against its specific lux rating before assuming any ring light performs the same at your desk distance."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want verified brightness, adjustable color temperature, and reliable build quality, where Upgrade Ring Light Overhead Camera Phone Mount for Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic, even lighting for occasional video calls, where InnoGear Ring Light with Stand for Desk Computer 60 LED Streaming Lighting already covers the job at the lowest price here."
       }
     ]
@@ -176,7 +176,7 @@ export const howWeEvaluated = [
     "description": "A ring light's advertised lux rating is one of the most commonly inflated specs in the category, often overstated by 2 to 3 times the light's real output at any usable distance."
   },
   {
-    "title": "",
+    "title": "Diameter Doesn't Guarantee Brightness",
     "description": "A larger ring light doesn't automatically mean brighter or more even light output, a cheaply built 24-inch ring can output as little as 800 lux at half a meter, while a well-engineered 18-inch unit can deliver 2,400 lux at the same distance."
   },
   {

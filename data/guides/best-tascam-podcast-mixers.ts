@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41JXUVBU4iL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Guest Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,17 +78,17 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "4 or more guests regularly",
-          ""
+          "MAONO Podcast Equipment Bundle with Audio Mixer & 3.5mm Mic for Streaming"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,21 +96,21 @@ export const howToChoose: HowToChooseSection[] = [
           "Musiin Audio Mixer cover Compatible With Tascam Podcast Station Mixcast 4"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "FIFINE Gaming Audio Mixer"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "MAONO Podcast Equipment Bundle with Audio Mixer & 3.5mm Mic for Streaming"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Mixer vs Simple Interface",
     "cards": [
       {
-        "label": "",
+        "label": "Mixer with hardware controls (e.g. MAONO Podcast Equipment Bundle with Audio Mixer & 3.5mm Mic for Streaming)",
         "text": "Gives you physical faders and knobs for live gain riding, useful when hosting 3+ guests."
       },
       {
@@ -121,15 +121,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Skip the full mixer if you're a solo host recording to a laptop."
   },
   {
-    "subheading": "",
+    "subheading": "By Recording Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Computer-based recording via USB",
           "TASCAM Mixcast 4 Podcast Streaming Mixer"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Livestreaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Zero-latency direct monitoring and simple loopback routing so you can hear yourself and other audio without lag while broadcasting."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TASCAM Mixcast 4 Podcast Streaming Mixer is worth checking against its specific monitoring-latency spec before assuming any mixer handles live streaming equally well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5mm Mic for Streaming justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're a solo host just starting out, where Musiin Audio Mixer cover Compatible With Tascam Podcast Station Mixcast 4 already covers the job at the lowest price here."
       }
     ]

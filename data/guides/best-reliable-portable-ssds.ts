@@ -49,15 +49,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41eTFK7clfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Capacity",
     "table": {
       "headers": [
-        "",
+        "Your storage need",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Lightest everyday storage needs",
           "Samsung T7 Shield Portable SSD 1TB"
         ],
         [
@@ -68,19 +68,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $217",
           "Samsung T7 Portable SSD 1TB Titan Gray"
         ],
         [
-          "",
+          "Mid-range",
           "Samsung T7 Shield Portable SSD 1TB"
         ],
         [
@@ -91,25 +91,25 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "TLC vs QLC NAND",
     "cards": [
       {
-        "label": "",
+        "label": "TLC NAND",
         "text": "Better sustained write speed and longer-term endurance, especially once any onboard cache is exhausted during a large transfer. In this comparison: check each listing's specs directly, NAND type isn't always disclosed."
       },
       {
-        "label": "",
+        "label": "QLC NAND",
         "text": "More capacity per dollar, at the cost of a bigger sustained-speed drop once the cache fills on long transfers. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
     "note": "NAND type isn't explicitly confirmed for every pick here, check each specific listing's technical details if sustained speed matters to your workflow."
   },
   {
-    "subheading": "",
+    "subheading": "Rugged/Waterproof vs Standard Build",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "SANDISK 2TB Extreme Portable SSD"
         ],
         [
-          "",
+          "Slimmest, lightest everyday carry",
           "Seagate Storage Expansion Card 2TB Solid State Drive"
         ]
       ]
@@ -127,12 +127,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Large Sustained Transfers (Video Editing) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "TLC NAND specifically, a stated sustained write speed (not just the peak burst number), and a USB generation on both drive and host that actually supports the rated speed."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SANDISK 2TB Extreme Portable SSD fits this specifically: Largest verified review base in our research pool."
       }
     ]
   },
@@ -140,16 +140,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Seagate Storage Expansion Card 2TB Solid State Drive"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "SANDISK 2TB Extreme Portable SSD"
         ]
       ]
@@ -164,14 +164,14 @@ export const howWeEvaluated = [
   },
   {
     "title": "Review volume as a real-world reliability indicator",
-    "description": ""
+    "description": "Weighed the size of each drive's verified review base as a genuine signal of consistent real-world performance over time."
   },
   {
-    "title": "",
+    "title": "Warranty claim process quality",
     "description": "Considered that warranty length alone does not capture claim process quality, and favored brands with an established, predictable support track record."
   },
   {
-    "title": "",
+    "title": "S.M.A.R.T. health data accessibility",
     "description": "Noted that drive-health data accessibility through companion software varies by enclosure, and credited drives offering accessible health monitoring."
   }
 ];

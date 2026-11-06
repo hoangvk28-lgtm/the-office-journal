@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41fVmPfVqkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,7 +78,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "A larger clamp-on panel with more accessories and colors",
-          ""
+          "PEGZONE Clamp on Desk Pegboard, 20.4\" x 16.5\""
         ],
         [
           "Steel construction and scalability at the lowest price",
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $48",
+          "Daanxw Metal ($47.99)"
         ],
         [
-          "",
-          ""
+          "Under $56",
+          "PEGZONE 20.4\"x16.5\" ($55.99)"
         ],
         [
-          "",
-          ""
+          "Under $59",
+          "Keepo Gaming Setup ($58.99)"
         ],
         [
-          "",
-          ""
+          "Under $60",
+          "HUHOLE 32x12 ($59.99)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Dual-Position Clamp Mount vs Fixed Wall or Desk Mounting",
     "cards": [
       {
-        "label": "",
+        "label": "Dual-position clamp (HUHOLE)",
         "text": "Mounts above the desk for daily access or below the desk as a cable management modesty panel, versatile placement."
       },
       {
@@ -132,8 +132,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Panel Size and Specialization",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup type",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,11 +142,11 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Multi-purpose desk with color-matched aesthetic",
-          ""
+          "PEGZONE 20.4\"x16.5\""
         ],
         [
           "Scalable wall project, standard accessories",
-          ""
+          "Daanxw Metal Pegboard"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Open Office Needing Both Organization and Visual Privacy Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A pegboard specifically designed to double as a visual barrier or privacy screen, not just a storage panel."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The HUHOLE pick is specifically designed to block distractions and act as a visual barrier in an open office setting."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want dual-position mounting that doubles as a privacy screen or cable management panel, where the HUHOLE pick delivers unique functionality no other pick here matches."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want steel construction and scalable wall-mounted storage without needing clamp mounting or specialized functionality, where the Daanxw pick covers that for about $12 less."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Mounting Versatility",
     "description": "Compared clamp-on, dual-position, and wall-mounted installation options across the lineup."
   },
   {
-    "title": "",
+    "title": "Panel Size",
     "description": "Compared single-panel and combined-panel dimensions, from moderate to the largest sizes in this comparison."
   },
   {
-    "title": "",
+    "title": "Specialized Functionality",
     "description": "Checked for privacy screening, cable management, and gaming-specific accessory features."
   },
   {
-    "title": "",
+    "title": "Construction Material",
     "description": "Compared steel panel construction and finish quality across the lineup."
   },
   {
-    "title": "",
+    "title": "Accessory Completeness",
     "description": "Compared total accessory count and specialization for gaming versus general use."
   }
 ];

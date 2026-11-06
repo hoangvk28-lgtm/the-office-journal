@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41nWvL8pqlL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Surface",
     "table": {
       "headers": [
-        "",
+        "Where it's going",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,19 +76,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "VIVO Adjustable Thin Client Mini PC Mount Bracket"
         ],
         [
-          "",
+          "Mid-range",
           "Mini PC Mount for Lenovo ThinkCentre Tiny Desktops"
         ],
         [
@@ -102,42 +102,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Fit vs Universal Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-Specific Fit",
         "text": "Matches one specific chassis shape exactly, generally a more secure fit for that exact model. In this comparison: HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm."
       },
       {
-        "label": "",
+        "label": "Universal / Multi-Brand",
         "text": "Works across several mini PC brands with adjustable hardware, more flexible if you might switch devices later. In this comparison: Mini PC Mount for Lenovo ThinkCentre Tiny Desktops."
       }
     ],
     "note": "Confirm your exact mini PC model against the listing's stated compatibility either way, since even a \"universal\" mount has real size limits."
   },
   {
-    "subheading": "",
+    "subheading": "By Post-Install Port Access",
     "note": "None of these picks specifically advertise preserved front-port access after mounting; check each listing's product photos for where the ports land once installed if that matters to you."
   },
   {
     "subheading": "For a Home Lab Rack Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of 10-inch (home-lab) versus 19-inch (commercial) rack compatibility, since these are different standards, plus whether it's full or half rack-unit width."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm fits this specifically: Explicitly branded for thin-client use."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what HumanCentric Thin Client Mount Bracket Mini PC VESA Monitor Arm offers: Explicitly branded for thin-client use. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "VIVO Adjustable Thin Client Mini PC Mount Bracket already covers the essentials: 3-year warranty suits a multi-unit fleet deployment. The main thing you'd be paying extra for elsewhere in this list is broader compatibility you may not need."
       }
     ]
@@ -146,11 +146,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine thin-client sizing",
     "description": "We compared whether each mount's stated adjustable range matches the compact, lighter chassis common to thin-client and small form factor enterprise hardware."
   },
   {
-    "title": "",
+    "title": "Deployment consistency",
     "description": "We considered warranty length, named-model compatibility, and price for buyers purchasing the same mount across many desks in an office deployment."
   },
   {
@@ -158,7 +158,7 @@ export const howWeEvaluated = [
     "description": "We compared stated weight ratings against typical thin-client weight, which is generally lighter than a full Mini PC, to confirm mounts aren't unnecessarily oversized."
   },
   {
-    "title": "",
+    "title": "Continuous-operation ventilation",
     "description": "We favored open-frame designs since thin clients in an office often run continuously through the workday."
   }
 ];

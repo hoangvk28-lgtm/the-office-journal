@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31uKsr2q6gL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Connector Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device's charging port",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,7 +74,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "USB-A (Fire TV Stick, Roku, Echo Dot)",
-          ""
+          "Active PoE Splitter USB A 5V 2.4A"
         ],
         [
           "Multiple Micro USB devices at once",
@@ -84,28 +84,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "Active PoE Splitter USB A ($9.99)"
         ],
         [
-          "",
-          ""
+          "Under $11",
+          "UCTRONICS Micro USB Splitter ($10.89)"
         ],
         [
-          "",
-          ""
+          "Under $14",
+          "Gigabit Micro USB PoE Splitter ($13.99)"
         ],
         [
-          "",
-          ""
+          "Under $29",
+          "ANVISION 4-Pack ($28.98, ~$7.25 per unit)"
         ]
       ]
     }
@@ -118,26 +118,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Delivers full 1000Mbps data alongside 3A power, the better fit for a Raspberry Pi 4 running network-intensive applications."
       },
       {
-        "label": "",
+        "label": "Standard 100Mbps (UCTRONICS, ANVISION)",
         "text": "Adequate for a Raspberry Pi 2/3 or basic streaming device that doesn't need Gigabit throughput."
       }
     ],
     "note": "If you're powering a Raspberry Pi 4 or a device running demanding network applications, the Gigabit pick's extra bandwidth and amperage are worth the modest price increase. For older Pi models or simple devices, the standard-speed picks perform just as well for less."
   },
   {
-    "subheading": "",
+    "subheading": "By Device Count",
     "table": {
       "headers": [
         "Number of devices to power",
-        ""
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just one device",
           "UCTRONICS, Gigabit pick, or USB-A pick depending on connector"
         ],
         [
-          "",
+          "Multiple Micro USB devices",
           "ANVISION 4-Pack Active PoE Splitter"
         ]
       ]
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Smart Home Device Cluster Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The correct connector type for your specific smart home devices, since USB-An and Micro USB are not interchangeable, and confirm the splitter's amperage matches or exceeds your device's actual power draw."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The USB-A pick specifically names Fire TV Stick, Roku, and Echo Dot compatibility, common devices in a typical smart home entertainment setup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by that performance."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -173,15 +173,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Connector Type Match",
     "description": "Compared Micro USB, USB-A, and their fit with common 5V devices like Raspberry Pi and streaming sticks."
   },
   {
-    "title": "",
+    "title": "Real Amperage and Wattage",
     "description": "4A to 3A across the picks."
   },
   {
-    "title": "",
+    "title": "Speed for Network-Intensive Devices",
     "description": "Compared Gigabit versus 100Mbps speed relevant to Raspberry Pi 4 and similar boards."
   },
   {
@@ -189,7 +189,7 @@ export const howWeEvaluated = [
     "description": "Compared single-unit versus 4-pack pricing."
   },
   {
-    "title": "",
+    "title": "Warranty and Support",
     "description": "Compared stated warranty length across the picks."
   }
 ];

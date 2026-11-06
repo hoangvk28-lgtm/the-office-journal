@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Require Genuine Simultaneous Motion",
     "explanation": "Confirm 5 axis desktop cnc machines controls five axes simultaneously rather than adding an indexed rotary to a 3-axis base, a meaningfully different capability."
   },
   {
@@ -17,7 +17,7 @@ export const buyingCriteria = [
     "explanation": "Confirm the machine's controller supports genuine 5-axis CAM output, not just 3-axis toolpaths run through extra motors."
   },
   {
-    "criterion": "",
+    "criterion": "Understand Collision Management",
     "explanation": "Check whether the software includes simulation or collision checking, since 5-axis setups have real crash risk that 3-axis machines don't."
   },
   {
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41XkmDRsQyL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Require Genuine Simultaneous Motion",
     "note": "Confirm 5 axis desktop cnc machines controls five axes simultaneously rather than adding an indexed rotary to a 3-axis base, a meaningfully different capability."
   },
   {
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Confirm the machine's controller supports genuine 5-axis CAM output, not just 3-axis toolpaths run through extra motors."
   },
   {
-    "subheading": "",
+    "subheading": "Understand Collision Management",
     "note": "Check whether the software includes simulation or collision checking, since 5-axis setups have real crash risk that 3-axis machines don't."
   },
   {
@@ -80,7 +80,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified Before Comparison",
     "description": "Sorted each machine into router, mill, lathe, laser hybrid, or waterjet before ranking, since desktop CNC spans different cutting architectures that don't compare fairly on one scale."
   },
   {
@@ -88,11 +88,11 @@ export const howWeEvaluated = [
     "description": "Compared usable XYZ travel after vise, clamps, and tool stick-out rather than nominal axis travel alone, since fixtures and tooling eat into the advertised work envelope."
   },
   {
-    "title": "",
+    "title": "Spindle and Rigidity Evidence",
     "description": "Checked documented spindle speed, torque, and runout figures alongside frame and rail rigidity, since motor wattage alone doesn't predict real cut quality."
   },
   {
-    "title": "",
+    "title": "Software and Workholding Verified",
     "description": "Checked CAM/postprocessor support, probing, workholding, and dust or chip control as part of daily usability, not just the headline spec sheet."
   },
   {

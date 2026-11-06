@@ -61,42 +61,42 @@ export const heroImage = "https://m.media-amazon.com/images/I/41p79Ls4cCL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Setup Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Fast, low-cost fix",
+          "Liquid Stands Studio Monitor Sound Isolation Pads for Speakers 3\"-4.5\""
         ],
         [
-          "",
+          "Standard desk setup",
           "Liquid Stands Studio Monitor Sound Isolation Pads for Speakers 5\" High-Density"
         ],
         [
-          "",
+          "Precise, adjustable positioning",
           "Vondynote Pair Studio Monitor Stands 31\"-50\" Floor Monitor Speaker Stands"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Cheapest option",
+          "Liquid Stands Studio Monitor Sound Isolation Pads for Speakers 3\"-4.5\""
         ],
         [
-          "",
+          "Higher budget, more adjustment",
           "Vondynote Pair Studio Monitor Stands 31\"-50\" Floor Monitor Speaker Stands"
         ]
       ]
@@ -106,7 +106,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Foam Pads vs Engineered Stands",
     "cards": [
       {
-        "label": "",
+        "label": "Foam pads (e.g. Liquid Stands Studio Monitor Sound Isolation Pads for Speakers 3\"-4.5\")",
         "text": "Cheap, simple, and give a couple of fixed tilt angles, a practical choice for a tight budget or limited desk space."
       },
       {
@@ -117,15 +117,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match the choice to how much your setup benefits from fine-tuned positioning versus a quick, affordable fix."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard monitor weight",
           "Liquid Stands Studio Monitor Sound Isolation Pads for Speakers 5\" High-Density"
         ],
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Tight Desk Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A compact footprint or clamp-on design that doesn't eat into usable desk surface."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Liquid Stands Studio Monitor Sound Isolation Pads for Speakers 5\" High-Density is worth checking against its footprint before assuming any stand fits your specific desk."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want precise, adjustable positioning for a dedicated mixing setup, where Vondynote Pair Studio Monitor Stands 31\"-50\" Floor Monitor Speaker Stands justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5\" already covers the job at the lowest price here."
       }
     ]

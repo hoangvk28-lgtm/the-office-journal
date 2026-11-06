@@ -28,7 +28,7 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "q": "",
+    "q": "What's the real difference between IP67 and IK10 ratings on an outdoor PoE injector?",
     "a": "IP67 covers dust and water resistance, including temporary submersion, while IK10 is a separate rating for physical impact and vandal resistance, and a unit can have one rating without the other."
   },
   {
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/319BI3TUmCL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Installation Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your installation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $116",
+          "PROCET 10GbE 30W PoE+ Injector ($115.00)"
         ],
         [
-          "",
-          ""
+          "Under $130",
+          "Intellinet Outdoor Gigabit PoE++ Injector ($125.99)"
         ],
         [
-          "",
-          ""
+          "Under $150",
+          "FASTCABLING Outdoor Industrial PoE++ Injector ($146.26)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "TRENDnet Outdoor IP67 Gigabit PoE++ Injector ($154.99)"
         ]
       ]
     }
@@ -118,22 +118,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "AC-Powered vs DC/Solar-Powered Outdoor Injectors",
     "cards": [
       {
-        "label": "",
+        "label": "AC-powered (TRENDnet, Intellinet, FASTCABLING)",
         "text": "Suits installations with standard grid power access nearby, offering higher wattage ceilings up to 95W for demanding devices."
       },
       {
-        "label": "",
+        "label": "DC/solar-powered (PROCET)",
         "text": "Necessary for remote installations without grid power access, like solar-powered PTZ cameras or wireless bridges in areas without electrical infrastructure."
       }
     ],
     "note": "Confirm your installation site's actual power access before choosing; a DC-input unit is only worth its tradeoffs if you lack standard AC power nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Included Accessories",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you want included",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Remote Solar-Powered Camera Installation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wide DC input voltage range with voltage boosting, since solar and battery power sources fluctuate and a standard AC-only injector simply cannot connect to that kind of power source."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The PROCET pick specifically states a 12-55V DC input with voltage boosting designed for solar applications, unlike the three AC-only picks."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price justifies those specific requirements."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need solid 60W IP67 protection without NDAA compliance, where the Intellinet or FASTCABLING picks deliver that for roughly $20-30 less."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "IP Rating Verification",
     "description": "Confirmed each listing explicitly states IP67 (or higher) waterproof and dustproof protection."
   },
   {
-    "title": "",
+    "title": "Vandal Resistance",
     "description": "Compared stated IK-rating vandal resistance where listings provided it."
   },
   {
-    "title": "",
+    "title": "Surge and ESD Protection",
     "description": "Compared specific stated KV ratings for surge and ESD protection."
   },
   {
-    "title": "",
+    "title": "Power Source Flexibility",
     "description": "Compared standard AC-powered units against DC-input units built for solar or remote power."
   },
   {
-    "title": "",
+    "title": "Included Accessories",
     "description": "Compared whether a listing bundles mounting kits, earthing kits, or cable glands versus a separately sold power supply."
   }
 ];

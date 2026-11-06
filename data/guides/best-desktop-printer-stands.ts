@@ -61,79 +61,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/41vlbbgz9NL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "HUANUO Printer Stand with Cable Management and Storage Drawer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "WALI Computer Monitor Stand for Desk"
         ],
         [
-          "",
+          "Up to $40",
           "HUANUO Printer Stand with Cable Management and Storage Drawer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Rolling vs Stationary",
     "cards": [
       {
-        "label": "",
+        "label": "Rolling (casters)",
         "text": "Easy to reposition for access or cleaning, worth it if the stand needs to move regularly. In this comparison: HUANUO Printer Stand with Cable Management and Storage Drawer, Liitrton Mobile CPU Stand Adjustable Computer Tower Stand, Hovadova Adjustable Mobile CPU Stand, Hovadova Adjustable Mobile CPU Stand, Pipishell 3 Tier Rolling Cart with Wheels and Handle, Simple Houseware 3."
       },
       {
-        "label": "",
+        "label": "Stationary",
         "text": "More stable under a heavy printer since there's no wheel mechanism to add wobble. In this comparison: HOOBRO 2, WALI Computer Monitor Stand for Desk."
       }
     ],
     "note": "Default to stationary unless you specifically need to reposition the stand often."
   },
   {
-    "subheading": "",
+    "subheading": "By Ventilation Clearance",
     "note": "Check each pick's design for open clearance around your printer's exhaust and paper output path before buying, not just its front-facing dimensions."
   },
   {
     "subheading": "For a Heavy All-in-One Printer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weight capacity with real margin above your printer's actual listed weight, and genuine vibration stability confirmed in reviews, not just static capacity."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since weight capacity isn't consistently disclosed across every stand in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your printer is heavy or used frequently throughout the day, where HUANUO Printer Stand with Cable Management and Storage Drawer's capacity and stability give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You have a light, compact printer used only occasionally, where WALI Computer Monitor Stand for Desk covers the same job at a lower price."
       }
     ]
@@ -142,19 +142,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Real weight rating vs. printer weight",
     "description": "Cross-checked each stand's stated capacity against typical printer weights, since acrylic-style risers commonly rated around 20-25 lbs cannot safely hold a 40+ lb all-in-one laser printer."
   },
   {
-    "title": "",
+    "title": "Vibration stability while printing",
     "description": "Weighed frame rigidity and material, since thinner acrylic or plastic platforms can wobble more during an active print cycle than a bamboo, wood, or welded metal frame."
   },
   {
-    "title": "",
+    "title": "Heat dissipation by material",
     "description": "Compared open, ventilated designs against solid enclosed shelving, since printers, especially laser models, radiate heat downward and an open platform dissipates it better than a sealed surface."
   },
   {
-    "title": "",
+    "title": "Honest product category labeling",
     "description": "Verified each listing's actual marketed purpose, printer stand, CPU tower stand, or monitor riser, rather than assuming a product is printer-built just because it could technically hold one."
   },
   {

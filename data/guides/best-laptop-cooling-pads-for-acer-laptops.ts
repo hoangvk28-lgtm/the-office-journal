@@ -57,38 +57,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/51+142vwVRL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
           "Tightest size match for your laptop",
-          ""
+          "ChillCore Laptop Cooling Pad"
         ],
         [
           "Widest range, flexible for future upgrades",
-          ""
+          "ChillCore Laptop Cooling Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $25",
+          "LIANGSTAR Laptop Cooling Pad"
         ],
         [
-          "",
+          "Mid-range",
           "ICE COOREL Gaming Laptop Cooling Pad"
         ],
         [
@@ -102,31 +102,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. 6\"-17\" Laptop Cooler Cooling Pad."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: TECKNET Laptop Cooling Pad with Phone Stand."
       }
     ],
     "note": "6\"-17\" Laptop Cooler Cooling Pad for everyday portability, and only step up to TECKNET Laptop Cooling Pad with Phone Stand's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Most ergonomic height adjustment range",
-          ""
+          "ChillCore Laptop Cooling Pad"
         ],
         [
           "Simplest setup, fewer adjustments to fuss with",
-          ""
+          "LIANGSTAR Laptop Cooling Pad"
         ]
       ]
     }
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what llano V12 Gaming Laptop Cooling Pad Laptop Cooler Fan Stand offers: Strong stated temperature drop under heavy load. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "LIANGSTAR Laptop Cooling Pad already covers the essentials: Lowest price in this guide. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -169,11 +169,11 @@ export const howWeEvaluated = [
     "description": "We compared fan count, RPM, and stated DB ratings against the kind of sustained heat output a gaming chassis produces versus an everyday ultrabook workload."
   },
   {
-    "title": "",
+    "title": "Universal-fit honesty",
     "description": "We flagged that none of these pads are Acer-exclusive hardware, and weighed each pad's stated size and weight range against typical Acer chassis dimensions rather than assuming brand-name fit."
   },
   {
-    "title": "",
+    "title": "Port and power tradeoffs",
     "description": "We checked whether each pad's USB pass-through or hub frees a port versus being limited to peripherals only, and noted power draw considerations."
   }
 ];

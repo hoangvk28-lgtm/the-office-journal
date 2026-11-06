@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Sbanmao 3 Drawer Mobile File Cabinet for Home Office"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Vaultz Portable File Box with Handle"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $48",
           "DocSafe Fireproof Document Box with Lock"
         ],
         [
-          "",
+          "Up to $100",
           "Vaultz Portable File Box with Handle"
         ]
       ]
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to DocSafe Fireproof Document Box with Lock unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Vaultz Portable File Box with Handle"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Vaultz Portable File Box with Handle is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Vaultz Portable File Box with Handle's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where DocSafe Fireproof Document Box with Lock covers the same job at a lower price."
       }
     ]
@@ -153,7 +153,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine cabinet-scale vs. single-box distinction",
     "description": "We clarified whether each product offers multi-drawer cabinet capacity or is actually a single wheeled box, since 'cabinet' implies meaningfully more scale."
   },
   {
@@ -161,11 +161,11 @@ export const howWeEvaluated = [
     "description": "We prioritized locking wheels for cabinet-scale products, since a heavier, larger wheeled unit benefits more from stationary stability than a lighter single box."
   },
   {
-    "title": "",
+    "title": "\"Portable\" vs. \"mobile\" honesty",
     "description": "We scrutinized whether 'portable' claims are accurate at cabinet scale, since a cabinet-sized product is more honestly described as mobile (wheeled but not hand-carried) rather than portable in the lighter sense."
   },
   {
-    "title": "",
+    "title": "Multi-drawer capacity verification",
     "description": "We confirmed genuine multi-drawer capacity as this category's actual differentiating feature from our wheeled file box research."
   }
 ];

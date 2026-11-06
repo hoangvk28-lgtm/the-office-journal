@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31L+W43WNgL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -77,38 +77,38 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Dual HDMI with more total ports at a low price",
-          ""
+          "UGREEN 10-in-1 Docking Station"
         ],
         [
           "The lowest possible price for basic dual-screen extension",
-          ""
+          "Anker 7-in-1 USB-C Hub"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $32",
+          "Anker 7-in-1 ($31.99)"
         ],
         [
-          "",
-          ""
+          "Under $38",
+          "UGREEN 10-in-1 ($37.98)"
         ],
         [
-          "",
-          ""
+          "Under $77",
+          "StarTech Driverless Mini Dock ($76.99)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "J5create Dual HDMI Hub ($89.99)"
         ]
       ]
     }
@@ -117,58 +117,58 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "MST-Based vs Native GPU Video Output",
     "cards": [
       {
-        "label": "",
+        "label": "MST-based (j5create)",
         "text": "Uses Multi-Stream Transport to split one video output into two independent displays on Windows, but mirrors content on macOS and Chrome OS."
       },
       {
-        "label": "",
+        "label": "Native GPU output (StarTech)",
         "text": "Uses direct GPU performance with no compression or MST dependency, delivering more consistent cross-platform dual-display behavior."
       }
     ],
     "note": "If you're exclusively on Windows, the j5create's MST-based approach works well and costs slightly more. If you need reliable dual-display behavior across Mac and Windows, the StarTech's native GPU output is the safer choice."
   },
   {
-    "subheading": "",
+    "subheading": "By Resolution Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your display resolution need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Standard 1080p dual-screen extension",
+          "Anker 7-in-1 USB-C Hub"
         ],
         [
-          "",
+          "Full 4K dual-display support",
           "J5create, StarTech, or UGREEN picks"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Mac Users Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock using native GPU video output rather than MST, since MST-based dual-display splitting explicitly does not work independently on macOS."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The StarTech pick specifically documents genuine dual-display support by exact Mac chip generation using native GPU output, not MST."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want native uncompressed dual 4K video with enterprise IT deployment features, where the StarTech pick justifies its $76.99 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You just need basic 1080p dual-screen extension at the lowest cost, where the Anker pick delivers that for $31.99."
       }
     ]
   }
@@ -180,15 +180,15 @@ export const howWeEvaluated = [
     "description": "Compared Multi-Stream Transport availability and its explicit macOS/Chrome OS limitations."
   },
   {
-    "title": "",
+    "title": "Native vs Compressed Video",
     "description": "Compared direct GPU video output against MST-based display splitting."
   },
   {
-    "title": "",
+    "title": "Maximum Resolution",
     "description": "Compared 4K display support against 1080p resolution caps."
   },
   {
-    "title": "",
+    "title": "Portability",
     "description": "Compared compact mini dock designs across all four picks."
   },
   {

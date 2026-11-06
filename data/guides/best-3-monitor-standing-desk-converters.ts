@@ -29,11 +29,11 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which 3-monitor converter has the most reviews?",
-    "a": ""
+    "a": "The Rocelco 46 inch Large Standing Desk Converter, with 1,693 reviews, far more than any other triple-monitor option we found."
   },
   {
     "q": "Is there an electric triple-monitor mount converter?",
-    "a": ""
+    "a": "Yes, the Mount-It! Triple Monitor Electric Standing Desk Converter, though it has the lowest rating and smallest review base in this comparison."
   },
   {
     "q": "Can I fit three monitors on an open platform without a dedicated mount?",
@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest true triple-monitor mount option?",
-    "a": ""
+    "a": "The VIVO Black 48 inch Desk Riser with Triple Monitor Mount at $259.99, though it has a small review base and below-average VIVO rating."
   }
 ];
 
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41sW5lDV5eL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "VERSADESK PowerPro 36 Inch Electric Standing Desk Converter"
         ],
         [
-          "",
+          "Dual monitors",
           "Rocelco 46 inch Large Height Adjustable Standing Desk Converter"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $260",
           "VIVO Black 48 inch Desk Riser with Triple Monitor Mount"
         ],
         [
-          "",
+          "Mid-range",
           "VERSADESK PowerPro 36 Inch Electric Standing Desk Converter"
         ],
         [
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: Rocelco 46 inch Large Height Adjustable Standing Desk Converter, VIVO Black 48 inch Desk Riser with Triple Monitor Mount."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: VERSADESK PowerPro 36 Inch Electric Standing Desk Converter, VERSADESK PowerPro 40 Inch Electric Standing Desk Converter, Mount-It! Triple Monitor Electric Standing Desk Converter."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Rocelco 46 inch Large Height Adjustable Standing Desk Converter"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Rocelco 46 inch Large Height Adjustable Standing Desk Converter"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Rocelco 46 inch Large Height Adjustable Standing Desk Converter fits this specifically: By far the largest review base of any triple-monitor converter."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Triple Monitor Electric Standing Desk Converter offers: Only pick combining a true triple-monitor mount with electric lift. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "VIVO Black 48 inch Desk Riser with Triple Monitor Mount already covers the essentials: Lower price than the Mount-It! The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]
@@ -174,7 +174,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Weighed electric lift for the heavier combined weight of three monitors",
-    "description": ""
+    "description": "Three displays add significant weight to the platform; we noted where electric adjustment offers a genuine advantage over manual lift for this load."
   },
   {
     "title": "Compared price against the specific combination of features each pick offers",

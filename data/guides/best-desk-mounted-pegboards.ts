@@ -53,11 +53,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31ll21hyHHL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -65,36 +65,36 @@ export const howToChoose: HowToChooseSection[] = [
           "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $80",
+          "Sailret Clamp"
         ],
         [
-          "",
+          "Up to $270",
           "EUREKA ERGONOMIC Desk Pegboard Dual Monitor Stand 59x34 White"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Sailret Clamp",
         "text": "The lower-priced option in this comparison, worth checking its material and mounting method against your desk."
       },
       {
@@ -105,11 +105,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Sailret Clamp unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Built-In Shelving",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "VIVO Steel Triple Clamp Desk Pegboard System with 2 Monitor Mounts and Storage Shelf"
         ],
         [
-          "",
+          "Hooks alone are enough",
           "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Loaded, Multi-Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine metal or thick MDF construction, confirmed standard hole spacing, and a wall-anchor mounting option for stability once loaded with monitor arms and accessories."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "EUREKA ERGONOMIC Desk Pegboard with Dual Monitor Stands is worth checking against its listed material and mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to load the board with monitor arms and multiple accessories, where EUREKA ERGONOMIC Desk Pegboard Dual Monitor Stand 59x34 White's material and mounting give real stability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a few lightweight decorative hooks, where Sailret Clamp covers the same job at a lower price."
       }
     ]
@@ -153,7 +153,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Mounting method breadth",
     "description": "Considered clamp, screw-in, and adhesive mounting methods across the category, distinguishing this guide's broader scope from a clamp-only comparison."
   },
   {
@@ -161,7 +161,7 @@ export const howWeEvaluated = [
     "description": "Weighed whether a mount leaves permanent holes or marks against how easily it can be removed and the desk restored."
   },
   {
-    "title": "",
+    "title": "Mounting hardware completeness",
     "description": "Checked whether each product includes mounting hardware in the box versus requiring a separate purchase."
   },
   {

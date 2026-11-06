@@ -72,17 +72,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Match Your Priority to a Specific Pick",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Balanced general-purpose board",
           "White Board with Stand 16\"x12\""
         ],
         [
-          "",
-          ""
+          "Two independent writing surfaces",
+          "AMUSIGHT Double-Sided 16\"x12\""
         ],
         [
           "Ghost-resistant glass in a small size",
@@ -97,8 +97,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Quartet GDP1723W 17\"x23\" Glass Panel"
         ],
         [
-          "",
-          ""
+          "Lowest price, basic function",
+          "MaxGear 16\"x12\" Double-Sided"
         ]
       ]
     }

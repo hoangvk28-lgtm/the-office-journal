@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51qmRF0UuKL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $115",
+          "YESHOMY 58\" Farmhouse TV Stand ($110.49)"
         ],
         [
-          "",
-          ""
+          "$116-$120",
+          "WLIVE Acrylic Doors ($116.99), VASAGLE Barn Doors ($116.99), or JUMMICO Barn Doors ($119.99)"
         ]
       ]
     }
@@ -106,7 +106,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Acrylic Doors vs Solid Barn Doors",
     "cards": [
       {
-        "label": "",
+        "label": "Frosted Acrylic (WLIVE)",
         "text": "Lets a hint of light through while hiding clutter, keeping the room feeling more open, with a distinctive semi-transparent look."
       },
       {
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you want cabinet contents fully hidden, choose a solid barn door pick. If you prefer a more open, airy feel while still hiding clutter, the WLIVE acrylic doors are the distinctive choice."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your TV weight",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Quiet Home Theater Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A specifically engineered smooth-sliding door mechanism, since a squeaky or sticky sliding door can be a genuine annoyance during quiet movie nights."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The JUMMICO TV Stand specifically states its steel bar mechanism moves smoothly and without noise, addressing this concern directly."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest weight capacity or the most adjustable shelving, where the VASAGLE and JUMMICO picks respectively offer these advantages."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The core sliding barn door design covers your needs, where the YESHOMY pick delivers this at the lowest price in this comparison."
       }
     ]
@@ -165,7 +165,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Sliding Door Mechanism Quality",
     "description": "Compared stated door mechanism details, like steel bar rails and quiet operation, across the sliding-door picks in this comparison."
   },
   {
@@ -177,11 +177,11 @@ export const howWeEvaluated = [
     "description": "Compared documented top-shelf weight capacity figures, since supporting a larger 65\" TV requires more capacity than the smaller stands at cheaper tiers."
   },
   {
-    "title": "",
+    "title": "Cable Management Design",
     "description": "Noted specific cable routing features like circular drilling or rear cutouts across the lineup."
   },
   {
-    "title": "",
+    "title": "Style and Finish Variety",
     "description": "Compared available color and style options to match different living room decor preferences."
   }
 ];

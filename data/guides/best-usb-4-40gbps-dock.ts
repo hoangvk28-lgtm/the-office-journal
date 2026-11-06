@@ -60,16 +60,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/31fUQfMB2lL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Transparent bandwidth allocation with flexible displays",
-          ""
+          "Hagibis USB4 Docking Station"
         ],
         [
           "Thunderbolt-certified reliability with daisy-chain expansion",
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $100",
+          "ACASIS 40Gbps Dock ($99.99)"
         ],
         [
-          "",
-          ""
+          "Under $110",
+          "Hagibis USB4 Docking Station ($109.99)"
         ],
         [
-          "",
-          ""
+          "Under $170",
+          "Plugable 5-in-1 Hub ($169.99)"
         ],
         [
-          "",
-          ""
+          "Under $180",
+          "Plugable Thunderbolt 4 Hub, 3x Ports ($175.99)"
         ]
       ]
     }
@@ -128,19 +128,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you'll run multiple demanding peripherals simultaneously (fast SSD plus high-res display plus more), a dock with full 40Gbps throughout avoids bottlenecks. If you mainly need one fast connection plus basic peripherals, a mixed-speed dock still delivers strong value."
   },
   {
-    "subheading": "",
+    "subheading": "By Certification Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Thunderbolt certification specifically",
           "Plugable Thunderbolt 4 Hub, 3x Ports"
         ],
         [
-          "",
+          "Intel EVO certification specifically",
           "Plugable 5-in-1 Thunderbolt 4 Hub"
         ]
       ]
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Content Creators Running Multiple SSDs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Daisy-chain support across multiple downstream Thunderbolt ports, so you can connect several high-performance SSDs simultaneously without running out of direct connections."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Plugable Thunderbolt 4 Hub with 3 ports specifically supports daisy-chaining up to 6 additional Thunderbolt peripherals."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want Thunderbolt-certified reliability with maximum daisy-chain expansion for a content creation setup, where the 3-port Plugable pick justifies its $175.99 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You want dual 40Gbps ports with a portable power adapter, where the ACASIS pick delivers that for $99.99."
       }
     ]
   }
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Bandwidth Allocation Transparency",
     "description": "Compared how clearly each listing discloses whether 40Gbps applies upstream, downstream, or both."
   },
   {
-    "title": "",
+    "title": "Certification",
     "description": "Compared Thunderbolt certification and Intel EVO certification against generic USB4 branding."
   },
   {
-    "title": "",
+    "title": "Display Support",
     "description": "Compared maximum resolution, refresh rate, and per-chip Mac compatibility details."
   },
   {
-    "title": "",
+    "title": "Expansion Capability",
     "description": "Compared daisy-chain support and downstream port flexibility."
   },
   {
-    "title": "",
+    "title": "Price and Portability",
     "description": "Compared price against power adapter size and travel-friendliness."
   }
 ];

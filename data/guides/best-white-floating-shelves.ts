@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/31PollgYKhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light decorative items",
+          "BAYKA White Floating Shelves 22.5in"
         ],
         [
-          "",
+          "Books, standard decor",
           "7\" Floating Shelves for Wall Decor & Storage"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "Sorbus Floating Shelves for Wall Storage (48 Inch, 2 Pack, White)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "BAYKA White Floating Shelves 22.5in"
         ],
         [
-          "",
+          "Mid-range pick",
           "Sorbus 16 Inch Floating Shelves for Wall (2 Pack, White)"
         ],
         [
-          "",
+          "Higher budget",
           "Sorbus Floating Shelves for Wall Storage (48 Inch, 2 Pack, White)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "Sorbus Floating Shelves for Wall Storage (48 Inch, 2 Pack, White))",
         "text": "Highest weight capacity, but requires drilling into a wall stud."
       },
       {
-        "label": "",
+        "label": "No-drill (e.g. BAYKA White Floating Shelves 22.5in)",
         "text": "No wall damage, ideal for renters, but a much lower weight limit."
       }
     ],
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Studs available where needed",
           "7\" Floating Shelves for Wall Decor & Storage"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Sorbus Floating Shelves for Wall Storage (48 Inch, 2 Pack, White) is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where Sorbus Floating Shelves for Wall Storage (48 Inch, 2 Pack, White) justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5in already covers the job at the lowest price here."
       }
     ]

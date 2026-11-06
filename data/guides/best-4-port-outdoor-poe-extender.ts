@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41mkvmmoaVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $16",
+          "YuLinca ($15.86) or VLAN Function pick ($15.99)"
         ],
         [
-          "",
-          ""
+          "Under $22",
+          "YuanLey 4 Port Outdoor (250m) ($21.99)"
         ],
         [
-          "",
-          ""
+          "Under $150",
+          "Outdoor PoE Extender 90W PoE++ ($149.00)"
         ]
       ]
     }
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "High-Power PoE++ vs Standard-Wattage Value",
     "cards": [
       {
-        "label": "",
+        "label": "High-power PoE++ (90W pick)",
         "text": "Delivers up to 90W per port for demanding devices, at a price point roughly 7 to 9 times higher than the budget alternatives in this comparison."
       },
       {
@@ -125,11 +125,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check your actual connected devices' wattage requirements before paying for PoE++ support most standard cameras and access points don't need. If none of your devices exceed roughly 25-30W, the budget picks deliver the same practical outcome for far less."
   },
   {
-    "subheading": "",
+    "subheading": "By Distance Requirement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your distance need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Multi-Camera Perimeter Security Installation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "VLAN isolation to prevent one malfunctioning camera's broadcast traffic from disrupting the other connected cameras, plus a genuine outdoor IP rating for weather exposure."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The 4 Port Outdoor PoE Extender with VLAN Function is specifically marketed around stable HD video surveillance playback with broadcast storm isolation."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "00 price is justified by power delivery the budget picks simply can't provide."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "86, the lowest price in this comparison."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Real Per-Port Wattage",
     "description": "Compared actual power delivery per port, since total input wattage doesn't always split evenly across four ports."
   },
   {
-    "title": "",
+    "title": "IP Waterproof Rating Specificity",
     "description": "Compared listings that state an exact IP rating number against those using only general waterproof language."
   },
   {
-    "title": "",
+    "title": "Extended Distance Modes",
     "description": "Compared documented speed-versus-distance tradeoffs for reaching beyond the standard 100m range."
   },
   {
-    "title": "",
+    "title": "Video Surveillance Stability Features",
     "description": "Compared VLAN isolation and broadcast storm prevention relevant to multi-camera CCTV deployments."
   },
   {
-    "title": "",
+    "title": "Operating Temperature Range",
     "description": "Compared documented temperature tolerance for outdoor exposure."
   }
 ];

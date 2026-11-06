@@ -53,10 +53,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41XUgWeu2EL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
+        "What you're running",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -65,26 +65,26 @@ export const howToChoose: HowToChooseSection[] = [
           "GEEKOM IT13 MAX AI Mini PC"
         ],
         [
-          "",
+          "Demanding, sustained workloads",
           "GMKtec AI Mini PC Ryzen Al Max+ 395"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $799",
           "GEEKOM IT13 MAX AI Mini PC"
         ],
         [
-          "",
+          "Mid-range",
           "GEEKOM A9 Max High AI Productivity Mini PC"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fanless (Passive) vs Actively Cooled",
     "cards": [
       {
-        "label": "",
+        "label": "Fanless, Passive Cooling",
         "text": "Completely silent with no moving parts, at the cost of throttling under sustained heavy load. In this comparison: check each listing's cooling design directly."
       },
       {
-        "label": "",
+        "label": "Actively Cooled (Fan)",
         "text": "Sustains heavier workloads longer without throttling, at the cost of some fan noise under load. 1GHz, GEEKOM A9 Max High AI Productivity Mini PC, GMKtec K15 AI Mini PC Oculink with Intel Core Ultra 5 125U Processor."
       }
     ],
@@ -112,12 +112,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By RAM and Storage Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lightest low-cost configuration",
           "GEEKOM IT13 MAX AI Mini PC"
         ],
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For GPU-Accelerated Work or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated GPU or a confirmed Oculink/Thunderbolt EGPU connection explicitly stated in the listing, not just a generic \"gaming capable\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms dedicated or external GPU support; check our EGPU-focused mini PC roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what GMKtec AI Mini PC Ryzen Al Max+ 395 offers: Powerful Ryzen AI Max+ 395 for mixed inference and image generation workloads. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "GEEKOM IT13 MAX AI Mini PC already covers the essentials: Genuine Intel Ultra 9 flagship platform with built-in NPU. The main thing you'd be paying extra for elsewhere in this list is headroom you may not need."
       }
     ]

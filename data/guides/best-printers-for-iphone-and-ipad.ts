@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Canon PIXMA TR4720 All"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Canon PIXMA TR4720 All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $69",
+          "Canon PIXMA TR4720 All"
         ],
         [
-          "",
-          ""
+          "Up to $200",
+          "Epson EcoTank ET"
         ]
       ]
     }
@@ -102,27 +102,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Canon PIXMA TR4720 All vs Epson EcoTank ET",
     "cards": [
       {
-        "label": "",
+        "label": "Canon PIXMA TR4720 All",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Epson EcoTank ET",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Canon PIXMA TR4720 All unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Canon PIXMA TR4720 All"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Canon PIXMA TR4720 All is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Epson EcoTank ET's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon PIXMA TR4720 All covers the same job at a lower price."
       }
     ]
@@ -161,11 +161,11 @@ export const howWeEvaluated = [
     "description": "Checked each listing for explicit AirPrint mention rather than assuming any wireless printer supports it, since AirPrint compatibility is not universal across budget models."
   },
   {
-    "title": "",
+    "title": "Manufacturer app dependency",
     "description": "Noted which printers rely on HP Smart, Canon PRINT, or Epson Smart Panel for full feature access versus AirPrint's driver-free share-sheet printing."
   },
   {
-    "title": "",
+    "title": "Scanning workflow for IOS",
     "description": "Weighed auto document feeder availability against flatbed-only scanning, since scanning from an iPhone or iPad benefits most from a feeder for multi-page documents."
   },
   {
@@ -173,14 +173,14 @@ export const howWeEvaluated = [
     "description": "Compared cartridge-based ink against refillable EcoTank systems, since ongoing ink cost matters more than sticker price for regular IOS printing users."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed AirPrint reliability, app quality, and included features like duplex printing or a document feeder against price across the range of price points in this comparison in this list."
   }
 ];
 
 export const introParagraphs = [
   "AirPrint gets treated as a given on every printer box, but it is not universal, and buyers who assume every wireless printer supports it sometimes find out otherwise after unboxing. Apple's AirPrint standard lets an iPhone or iPad print directly over the same Wi-Fi network without installing any driver, but a printer that only advertises general wireless printing may require a manufacturer app like HP Smart, Canon PRINT, or Epson Smart Panel instead, and those apps vary in how reliably they connect and how many settings they expose compared to AirPrint's simple share-sheet flow.",
-  ""
+  "Below are 7 wireless all-in-one printers we compared for IOS compatibility, covering standard AirPrint-class wireless printing, manufacturer app support, and how well each handles printing from iCloud Photos, the Files app, and cloud drives like Google Drive, ranging from a compact $69 inkjet to a $199.99 cartridge-free tank printer."
 ];
 
 export const lastUpdated = "2026-07-25";

@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/21N2nrrUHUL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tracking Surface Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Controlled, precise movement",
+          "Glass Gaming Mouse Pad"
         ],
         [
-          "",
-          ""
+          "Fast, low-friction glide",
+          "Razer Atlas Pro, Tempered Glass Gaming Mouse Mat, Ultra-Thin 1.9mm, Black"
         ],
         [
-          "",
+          "Budget cloth surface",
           "Logitech G440 Hard Gaming Mouse Pad (340x280x5)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,25 +95,25 @@ export const howToChoose: HowToChooseSection[] = [
           "Logitech G440 Hard Gaming Mouse Pad (340x280x5)"
         ],
         [
-          "",
+          "Mid-range pick",
           "Gogofree Black Glass Mousepad for Gaming"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Razer Atlas Pro, Tempered Glass Gaming Mouse Mat, Ultra-Thin 1.9mm, Black"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Hard Surface",
     "cards": [
       {
-        "label": "",
+        "label": "Cloth surface (e.g. Glass Gaming Mouse Pad)",
         "text": "Slightly higher friction, often preferred for controlled, precise movement."
       },
       {
-        "label": "",
+        "label": "Hard surface (e.g. Razer Atlas Pro, Tempered Glass Gaming Mouse Mat, Ultra-Thin 1.9mm, Black)",
         "text": "Faster, lower-friction glide, better suited to quick flick-based movement."
       }
     ],
@@ -123,21 +123,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Size vs Your Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "Logitech G440 Hard Gaming Mouse Pad (340x280x5)"
         ],
         [
-          "",
-          ""
+          "Standard desk",
+          "Glass Gaming Mouse Pad"
         ],
         [
           "Large desk, low DPI, wide swipes",
-          ""
+          "Razer Atlas Pro, Tempered Glass Gaming Mouse Mat, Ultra-Thin 1.9mm, Black"
         ]
       ]
     }
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Glass Gaming Mouse Pad is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "9mm, Black justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward cloth pad for everyday use, where Logitech G440 Hard Gaming Mouse Pad (340x280x5) already covers the job at the lowest price here."
       }
     ]

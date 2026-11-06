@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41FBNsAaL4L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Switch Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -72,36 +72,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Keychron C2 Full Size Wired Mechanical Keyboard"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Logitech MX Mechanical Wireless Illuminated Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $39",
+          "Keychron B6 Pro Ultra"
         ],
         [
-          "",
+          "Up to $160",
           "Logitech MX Mechanical Mini Mac Wireless Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Keychron B6 Pro Ultra",
         "text": "The lower-priced option in this comparison, worth checking its switch type against your typing environment."
       },
       {
@@ -112,31 +112,31 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Keychron B6 Pro Ultra unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Keycap Material",
     "note": "Check each pick's listed keycap material (PBT vs ABS) against how long you plan to use it daily before buying, since PBT resists shine and wear better over years."
   },
   {
     "subheading": "For Shared Office or Video Call Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Linear or tactile switches rather than clicky ones, to avoid disruptive noise on calls or in a shared space."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Logitech MX Mechanical Wireless Illuminated Keyboard is worth checking against its listed switch type before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want hot-swappable switches and premium PBT keycaps for years of daily use, where Logitech MX Mechanical Mini Mac Wireless Keyboard's build quality gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want to try the mechanical feel without a big investment, where Keychron B6 Pro Ultra covers the same job at a lower price."
       }
     ]
@@ -146,14 +146,14 @@ export const howToChoose: HowToChooseSection[] = [
 export const howWeEvaluated = [
   {
     "title": "Switch type and noise honesty",
-    "description": ""
+    "description": "Checked each listing's actual switch technology, low-profile mechanical, standard tactile mechanical, or scissor-switch, since noise level depends far more on switch type than on marketing labels like \"quiet\" or \"silent.\""
   },
   {
     "title": "Bottom-out noise, not just stem noise",
     "description": "Weighed whether a keyboard's quietness comes only from a dampened switch stem or also accounts for the keycap-on-plate impact sound that a silent switch alone doesn't eliminate."
   },
   {
-    "title": "",
+    "title": "Office layout fit",
     "description": "Considered how each pick performs across different office contexts, an open-plan desk a meter from a coworker, a private office, and a home office on video calls, since \"quiet enough\" changes by setting."
   },
   {
@@ -161,7 +161,7 @@ export const howWeEvaluated = [
     "description": "Compared full-size versus compact layouts, keycap material, and wireless versus wired connections for buyers typing most of the workday."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed switch quality and features against price, from the budget mechanical pick to the premium Mac-ready mechanical board."
   }
 ];

@@ -32,7 +32,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Does Apple officially support USB-C Ethernet adapters on iPad?",
-    "a": ""
+    "a": "Yes, Apple's own support documentation covers using USB to Ethernet adapters with USB-C iPad models, and Apple's store sells a validated Belkin 2.5GbE option directly."
   },
   {
     "q": "Will using Ethernet drain my iPad's battery if I'm not charging?",
@@ -48,10 +48,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/31qWnFxWYaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Bus-Powered vs Charge-While-Connected",
     "cards": [
       {
-        "label": "",
+        "label": "Short wired sessions",
         "text": "A basic bus-powered adapter is fine for quick file transfers or occasional wired use."
       },
       {
@@ -64,23 +64,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Ethernet Speed & Chipset",
     "description": "5G/5G/10G) and, where published, the specific Realtek, Marvell, or other controller chip driving it, rather than assuming USB-C connector shape implies a speed tier."
   },
   {
-    "title": "",
+    "title": "Host & OS Compatibility",
     "description": "2 Gen 2 vs Thunderbolt/USB4) and confirmed OS support, since several products in this cluster have real exclusions (Android, Nintendo Switch, older Apple silicon)."
   },
   {
-    "title": "",
+    "title": "Real-World Documentation",
     "description": "Favored listings that publish honest real-world throughput or explicit host-speed caveats over ones that only quote the theoretical link rate."
   },
   {
-    "title": "",
+    "title": "Build Quality & Durability",
     "description": "Weighed braided cable construction, aluminum housing, and reinforced connectors, since these adapters see frequent plug/unplug cycles in daily use."
   },
   {
-    "title": "",
+    "title": "Genuine Feature Differentiators",
     "description": "Prioritized real differences like Wake-on-LAN, PXE boot, PD passthrough wattage, and multiport expansion over marketing language that repeats across nearly identical adapters."
   }
 ];

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51BWCnPchYL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,24 +84,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $180",
+          "FINETONES Corner Bookshelf ($179.99)"
         ],
         [
-          "",
-          ""
+          "$190-$230",
+          "Tribesigns 6-Tier ($189.99) or CKEASEAN Glass Curio ($229.99)"
         ],
         [
-          "",
-          ""
+          "Under $240",
+          "HOSTACK Triple Wide ($239.99)"
         ]
       ]
     }
@@ -110,22 +110,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Triple-Wide Storage Variety vs Single-Column High Capacity",
     "cards": [
       {
-        "label": "",
+        "label": "Triple-Wide Variety (HOSTACK)",
         "text": "Combines open display, drawers, and cabinets in one wide unit, ideal if you need different storage styles for different item types."
       },
       {
-        "label": "",
+        "label": "Single-Column High Capacity (Tribesigns)",
         "text": "Maximizes total weight capacity in a narrower footprint, better suited to a large uniform collection like books alone."
       }
     ],
     "note": "If you're organizing a mix of item types, books, decor, hidden clutter, the HOSTACK triple-wide design serves that variety better. For a large book-focused collection, the Tribesigns pick's higher capacity is the more efficient choice."
   },
   {
-    "subheading": "",
+    "subheading": "By Display Style Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your display preference",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Room with Limited Straight Wall Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A corner-fitting design that utilizes 90-degree wall space, rather than assuming you need a wide, straight-wall unit like the triple-wide pick."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The FINETONES Corner Bookshelf is specifically engineered for exactly this scenario, fitting a corner rather than requiring wide straight wall space."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want maximum storage variety across open, drawer, and cabinet sections in one substantial unit, where the HOSTACK triple-wide pick delivers the most comprehensive solution in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "High weight capacity is your priority over storage variety, where the Tribesigns pick actually claims a higher capacity than the pricier picks here for $40-50 less."
       }
     ]
@@ -173,11 +173,11 @@ export const howWeEvaluated = [
     "description": "Compared how many distinct storage styles each pick combines in one unit, from the HOSTACK triple-wide's three-way combination to single-style designs."
   },
   {
-    "title": "",
+    "title": "Glass Display Cabinet Coverage",
     "description": "Checked how comprehensively glass doors cover the unit's tiers, distinguishing full curio-style coverage from partial glass sections."
   },
   {
-    "title": "",
+    "title": "Total Footprint vs Capacity",
     "description": "Weighed wider, more storage-diverse units against taller, narrower high-capacity designs for real space-versus-storage tradeoffs."
   },
   {

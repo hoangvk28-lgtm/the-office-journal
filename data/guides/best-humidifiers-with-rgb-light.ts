@@ -61,47 +61,47 @@ export const heroImage = "https://m.media-amazon.com/images/I/41NBT53znkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Small bedroom or office",
+          "MIPOW x Miffy 2.0 Humidifier"
         ],
         [
-          "",
+          "Standard bedroom",
           "GoveeLife Smart Humidifiers for Bedroom"
         ],
         [
-          "",
-          ""
+          "Larger living space",
+          "MIPOW x Miffy 2.0 Humidifier"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "MIPOW x Miffy 2.0 Humidifier"
         ],
         [
-          "",
+          "Mid-range pick",
           "DREO Smart Humidifiers for Bedroom Baby"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "MIPOW x Miffy 2.0 Humidifier"
         ]
       ]
     }
@@ -114,53 +114,53 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Uses less electricity and covers larger rooms more effectively."
       },
       {
-        "label": "",
+        "label": "Warm mist",
         "text": "Kills bacteria in the water during boiling and runs near-silently, best for a small room."
       }
     ],
     "note": "Match this to your room size and how much you value quiet operation versus coverage."
   },
   {
-    "subheading": "",
+    "subheading": "By Maintenance Tolerance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Minimal daily upkeep",
           "Check tank capacity against how often you're willing to refill it"
         ],
         [
-          "",
+          "Don't mind frequent cleaning",
           "GoveeLife Smart Humidifiers for Bedroom"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Hard Water Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An evaporative design (traps minerals in the wick) or plan to use distilled water with an ultrasonic model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "GoveeLife Smart Humidifiers for Bedroom is worth checking against its specific mist type before assuming any humidifier handles hard water the same way."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "0 Humidifier justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "0 Humidifier already covers the job at the lowest price here."
       }
     ]

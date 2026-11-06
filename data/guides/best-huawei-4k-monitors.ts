@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Stand-faq",
     "q": "Do all 4K monitors come with height-adjustable stands?",
     "a": "No, it ranges from tilt-only to full ergonomic adjustment, check the specific stand spec against your desk setup, a VESA-compatible arm is a simple add-on if the included stand falls short."
   },
   {
-    "id": "",
+    "id": "Scaling-faq",
     "q": "Is a smaller 4K monitor harder to use than a larger one?",
     "a": "It needs OS-level scaling to keep text readable, which works well in most modern software but can render blurry in some older or niche applications, verify your specific software handles scaling before buying a smaller panel."
   },
   {
-    "id": "",
+    "id": "Panel-faq",
     "q": "Should I get an IPS, OLED, or VA 4K monitor?",
     "a": "IPS gives the most consistent accurate color, OLED gives the deepest contrast and fastest response with a real long-term burn-in risk on static content, VA splits the difference with strong contrast but slower response, match to your primary use."
   },
   {
-    "id": "",
+    "id": "Usbc-faq",
     "q": "Will a USB-C 4K monitor charge my laptop?",
     "a": "Only if its power delivery wattage matches or exceeds your laptop's charging requirement, check the monitor's specific PD wattage spec rather than assuming any USB-C monitor fully charges any laptop."
   },
   {
-    "id": "",
+    "id": "Hdmi-faq",
     "q": "Why isn't my 4K monitor hitting its advertised refresh rate?",
     "a": "0 caps out around 60Hz at full 4K regardless of what the panel itself is rated for."
   },
   {
-    "id": "",
+    "id": "Hdr-faq",
     "q": "Does HDR on a 4K monitor actually look different?",
     "a": "It depends heavily on the certification tier, DisplayHDR 400 is a low bar with modest brightness gains, DisplayHDR 600 and above reflects capable HDR hardware, check the specific tier rather than trusting the word HDR alone."
   }
@@ -66,34 +66,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41elSoQm1qL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General office and browsing",
           "Gawfolk 4K Curved Monitor 32 Inch"
         ],
         [
-          "",
+          "Color-critical creative work",
           "6\" 4K UHD IPS HDR USB-C HDMI Monitor"
         ],
         [
-          "",
+          "Fast-paced gaming",
           "LG 32UP83AK-W 32-inch Ultrafine 4K UHD (3840 x 2160) IPS Computer Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "Gawfolk 4K Curved Monitor 32 Inch"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Dell 27 Monitor S2725QS"
         ],
         [
-          "",
+          "Higher budget",
           "LG 32UP83AK-W 32-inch Ultrafine 4K UHD (3840 x 2160) IPS Computer Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "IPS vs OLED Panel",
     "cards": [
       {
         "label": "Gawfolk 4K Curved Monitor 32 Inch)",
         "text": "Consistent accurate color from wide angles, weaker black levels."
       },
       {
-        "label": "",
+        "label": "OLED",
         "text": "Deeper contrast and faster response, real long-term burn-in risk on static content."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk depth",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard desk distance",
           "6\" 4K UHD IPS HDR USB-C HDMI Monitor"
         ],
         [
-          "",
-          ""
+          "Larger or multi-monitor desk",
+          "Dell 27 Monitor S2725QS"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed USB-C power delivery wattage that matches your laptop's actual charging requirement, not just a USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "6\" 4K UHD IPS HDR USB-C HDMI Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where LG 32UP83AK-W 32-inch Ultrafine 4K UHD (3840 x 2160) IPS Computer Monitor justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Gawfolk 4K Curved Monitor 32 Inch already covers the job at the lowest price here."
       }
     ]

@@ -63,36 +63,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "HUANUO 32"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Techni Mobili Sit"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $29",
+          "Techni Mobili Sit"
         ],
         [
-          "",
-          ""
+          "Up to $330",
+          "FlexiSpot E6 Bamboo 3"
         ]
       ]
     }
@@ -101,27 +101,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Techni Mobili Sit vs FlexiSpot E6 Bamboo 3",
     "cards": [
       {
-        "label": "",
+        "label": "Techni Mobili Sit",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "FlexiSpot E6 Bamboo 3",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Techni Mobili Sit unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Techni Mobili Sit"
         ]
       ]
     }
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Techni Mobili Sit is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where FlexiSpot E6 Bamboo 3's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Techni Mobili Sit covers the same job at a lower price."
       }
     ]
@@ -172,7 +172,7 @@ export const howWeEvaluated = [
     "description": "Weighed how much a desk's drawers, shelves, or a paired storage cart actually reduce open desktop working area, not just the desk's raw listed dimensions."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed storage capacity, motor type, and surface area against price across the range of price points in this comparison in this list."
   }
 ];

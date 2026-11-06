@@ -61,79 +61,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/41S5znZDoHL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Casual desk use",
+          "Double Coffee Warmer"
         ],
         [
           "Keeping a large mug hot",
-          ""
+          "Dual Plate Coffee Warmer"
         ],
         [
-          "",
+          "Gift or bundle use",
           "BUNN BUNWX2 Two Station Warmer Plate"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Double Coffee Warmer"
         ],
         [
-          "",
+          "Mid-range pick",
           "Commercial Coffee Decanter Warm Plate (Dual Plate)"
         ],
         [
-          "",
+          "Higher budget",
           "BUNN BUNWX2 Two Station Warmer Plate"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs Wall-Powered",
     "cards": [
       {
-        "label": "",
+        "label": "USB-powered (e.g. Double Coffee Warmer)",
         "text": "Plugs into a laptop or power bank, weaker heating strength."
       },
       {
-        "label": "",
+        "label": "Wall-powered",
         "text": "Stronger, more consistent heating, needs a free outlet."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Control Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Simple, no-fuss warming",
+          "Dual Plate Coffee Warmer"
         ],
         [
-          "",
+          "Adjustable temperature control",
           "Commercial Coffee Decanter Warm Plate (Dual Plate)"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Large or Insulated Mug Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wide base plate matched to your mug's diameter, and a ceramic or non-insulated mug material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Dual Plate Coffee Warmer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where BUNN BUNWX2 Two Station Warmer Plate justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Double Coffee Warmer already covers the job at the lowest price here."
       }
     ]

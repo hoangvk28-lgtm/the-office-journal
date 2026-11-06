@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/516t4-GeY2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,8 +73,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Book Ends for Shelves to Hold Books Hevay Duty, Decorative Rabbit Bookends"
         ],
         [
-          "",
-          ""
+          "A full mixed shelf",
+          "MXARLTR Rabbit Bookends"
         ],
         [
           "A long shelf needing multiple pairs",
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Book Ends for Shelves to Hold Books Hevay Duty, Decorative Rabbit Bookends"
         ],
         [
-          "",
+          "Mid-range pick",
           "Remenna Decorative Bookends Antique Gold Bunny Book Ends"
         ],
         [
-          "",
+          "Higher budget",
           "Book Ends for Shelves to Hold Books Hevay Duty, Decorative Rabbit Bookends"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
         "label": "Book Ends for Shelves to Hold Books Hevay Duty, Decorative Rabbit Bookends)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Glossy or glass surface",
+          "MXARLTR Rabbit Bookends"
         ],
         [
-          "",
+          "Textured wood surface",
           "Remenna Decorative Bookends Antique Gold Bunny Book Ends"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MXARLTR Rabbit Bookends is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Book Ends for Shelves to Hold Books Hevay Duty, Decorative Rabbit Bookends justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Book Ends for Shelves to Hold Books Hevay Duty, Decorative Rabbit Bookends already covers the job at the lowest price here."
       }
     ]

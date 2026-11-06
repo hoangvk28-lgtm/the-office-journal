@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41fNLUFpOeL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $99",
+          "330LBS Capacity Chair ($98.16)"
         ],
         [
-          "",
-          ""
+          "Under $110",
+          "HUANUO 3D Armrests ($109.98)"
         ],
         [
-          "",
-          ""
+          "Under $120",
+          "Marsail ($118.94) or FelixKing ($119.99)"
         ]
       ]
     }
@@ -113,7 +113,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "3D Armrests vs Flip-Up-Only Armrests",
     "cards": [
       {
-        "label": "",
+        "label": "3D armrests (Marsail, HUANUO)",
         "text": "Move forward, backward, and swivel independently for precise arm positioning during typing or reading."
       },
       {
@@ -124,24 +124,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If precise arm positioning matters more than space-saving, the Marsail or HUANUO's 3D armrests are worth prioritizing over a simpler flip-up design."
   },
   {
-    "subheading": "",
+    "subheading": "By Lumbar Adjustment Precision",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your lumbar needs",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Precise, continuous forward/back and up/down range",
-          ""
+          "Marsail or HUANUO (1.18 in and 2.16 in range)"
         ],
         [
-          "",
+          "Discrete height-level adjustment",
           "330LBS Capacity Chair (3 height levels)"
         ],
         [
           "Widened headrest support without directional lumbar tuning",
-          ""
+          "FelixKing Office Chair"
         ]
       ]
     }
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Users With Recurring Lower Back Discomfort Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Lumbar support that adjusts in both forward-backward depth and up-down height, not just a fixed backrest curve."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "The Marsail and HUANUO picks both offer this precise two-directional lumbar adjustment at 1.18 and 2.16 inches respectively."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the most complete 5-point support with an FSC-certified frame, where the FelixKing pick offers a distinct sourcing and support advantage over the budget option."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want the same precise 3D armrest and lumbar adjustment as the pricier Marsail pick, where the HUANUO delivers nearly identical specs for about $9 less."
       }
     ]
@@ -176,15 +176,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Armrest Adjustment Dimensions",
     "description": "Compared whether armrests offer 3D movement (depth and swivel) versus simple flip-up-only designs."
   },
   {
-    "title": "",
+    "title": "Lumbar Support Precision",
     "description": "Compared specific stated adjustment measurements for lumbar support depth and height range."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated maximum supported weight across the lineup."
   },
   {
@@ -192,7 +192,7 @@ export const howWeEvaluated = [
     "description": "Checked how many distinct body zones each chair specifically claims to support."
   },
   {
-    "title": "",
+    "title": "Certification and Documentation",
     "description": "Checked which picks cite a specific third-party certification like SGS or note environmental sourcing like FSC certification."
   }
 ];

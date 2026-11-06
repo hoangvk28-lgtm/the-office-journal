@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41BNB1bbm1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "SEDETA L Shaped Gaming Desk with Storage Shelves"
         ],
         [
-          "",
+          "Standard home office",
           "AODK 66\" L Shaped Computer Desk"
         ],
         [
-          "",
+          "Larger dedicated office",
           "2\" 2 Person Desk with 6 Drawers & Storage Shelves"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "SEDETA L Shaped Gaming Desk with Storage Shelves"
         ],
         [
-          "",
+          "Mid-range pick",
           "SEDETA L Shaped Computer Desk with 6 Drawer"
         ],
         [
-          "",
+          "Higher budget",
           "2\" 2 Person Desk with 6 Drawers & Storage Shelves"
         ]
       ]
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor",
           "AODK 66\" L Shaped Computer Desk"
         ],
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SEDETA L Shaped Gaming Desk with Storage Shelves is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "2\" 2 Person Desk with 6 Drawers & Storage Shelves justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where SEDETA L Shaped Gaming Desk with Storage Shelves already covers the job at the lowest price here."
       }
     ]

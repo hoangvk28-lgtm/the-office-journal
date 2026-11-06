@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Verify Paper-Specific Fire Evidence",
     "explanation": "Check that fireproof safes for documents's fire rating specifically covers paper records, and treat any digital-media claim as a separate fact rather than assuming one rating covers both."
   },
   {
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/612mey+zIsL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Verify Paper-Specific Fire Evidence",
     "note": "Check that fireproof safes for documents's fire rating specifically covers paper records, and treat any digital-media claim as a separate fact rather than assuming one rating covers both."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Recorded fire duration and test temperature separately for each model rather than accepting a vague 'fireproof' label, since a 30-minute rating and a 2-hour rating protect very differently in a real house fire."
   },
   {
-    "title": "",
+    "title": "Water Evidence Verified Independently",
     "description": "Checked water-resistance claims (submersion depth, duration) as a separate fact from the fire rating, since the two protections are tested and certified independently even on the same product."
   },
   {

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/213mNm11-tL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "LINOVISION 4 Ports Gigabit PoE Passthrough Switch"
         ],
         [
-          "",
+          "Genuine industrial-grade temperature tolerance",
           "PoE Extender Industrial 4 Port Gigabit Ethernet"
         ],
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "MokerLink 4 Port PoE Extender ($16.98)"
         ],
         [
-          "",
-          ""
+          "Under $22",
+          "VIMIN 4-Port Outdoor Gigabit Extender ($21.59)"
         ],
         [
-          "",
-          ""
+          "Under $49",
+          "PoE Extender Industrial 4 Port ($48.99)"
         ],
         [
-          "",
-          ""
+          "Under $60",
+          "LINOVISION 4 Ports Passthrough Switch ($59.00)"
         ]
       ]
     }
@@ -122,7 +122,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Both offer 6KV surge protection and, for the Industrial pick, a wide -40F to 167F temperature range, suited for harsh or unstable electrical environments."
       },
       {
-        "label": "",
+        "label": "Budget simplicity (VIMIN, MokerLink)",
         "text": "Both deliver core PoE extension functionality at a much lower price without surge protection or extreme temperature tolerance, suited for a standard indoor or moderately protected outdoor installation."
       }
     ],
@@ -132,8 +132,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Total Power Budget Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your total power need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Small Business Network Closet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A 4-port extender with genuine surge protection if your building's electrical infrastructure has a history of power fluctuations, alongside enough total wattage budget for your specific mix of connected devices."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The LINOVISION pick's combination of 6KV surge protection and 80W total output budget makes it the strongest fit for a small business network closet with real power stability concerns."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "00 price is justified by that comprehensive package."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "98, the lowest price in this comparison."
       }
     ]
@@ -185,19 +185,19 @@ export const howWeEvaluated = [
     "description": "Compared how each listing's total input power is divided across its 4 output ports."
   },
   {
-    "title": "",
+    "title": "Industrial and Outdoor Durability",
     "description": "Compared enclosure ratings and operating temperature ranges for harsh environments."
   },
   {
-    "title": "",
+    "title": "Electrical Surge Protection",
     "description": "Compared whether each listing explicitly discloses a surge protection rating."
   },
   {
-    "title": "",
+    "title": "Speed Consistency",
     "description": "Compared Gigabit versus Fast Ethernet speeds across all 4 ports."
   },
   {
-    "title": "",
+    "title": "Support and Warranty Commitment",
     "description": "Compared warranty length and stated ongoing technical support."
   }
 ];

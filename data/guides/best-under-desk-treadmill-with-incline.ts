@@ -63,35 +63,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "5HP Walking Mat with Incline Pad"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "5HP Walking Mat with Incline Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $90",
           "5HP Walking Mat with Incline Pad"
         ],
         [
-          "",
+          "Up to $375",
           "TOPUTURE Walking Pad Treadmill with 15% 15"
         ]
       ]
@@ -101,42 +101,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Remote Control vs Manual Buttons",
     "cards": [
       {
-        "label": "",
+        "label": "Remote control",
         "text": "Adjust speed without stepping off or reaching down, useful while working. In this comparison: Superun Walking Pad with 6% Incline, Gkyet Walking Pad with 5%, TREAFLOW Walking Pad with Incline, FOUSAE Walking Pad Treadmill with 10% Incline."
       },
       {
-        "label": "",
+        "label": "Manual buttons",
         "text": "Simpler, fine if you rarely change speed mid-session. 5HP Walking Mat with Incline Pad, Walking Pad Treadmill with Handle Bar and Adjustable Incline, TRAILVIBER Walking Pad Treadmill with 12% 9, TOPUTURE Walking Pad Treadmill with 15% 15."
       }
     ],
     "note": "Default to remote control for convenience while actively working."
   },
   {
-    "subheading": "",
+    "subheading": "By Motor Power",
     "note": "Check each pick's listed motor horsepower and max speed against your actual intended pace before buying, not just the general \"treadmill\" label."
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A quiet motor and belt confirmed in reviews specifically during video call use, not just a general decibel spec."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "RJOP 2.5HP Walking Mat with Incline Pad is worth checking against its listed noise level before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want incline, remote control, and heavy daily-use durability, where TOPUTURE Walking Pad Treadmill with 15% 15's features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5HP Walking Mat with Incline Pad covers the same job at a lower price."
       }
     ]
@@ -149,7 +149,7 @@ export const howWeEvaluated = [
     "description": "Compared fixed, manually adjustable, and motorized auto-incline designs, since auto-incline changes via remote or app while manual incline requires stepping off or reaching down to adjust a lever."
   },
   {
-    "title": "",
+    "title": "Motor power and noise",
     "description": "Weighed HP rating and motor type, brushless motors run meaningfully quieter than older motor designs, a real factor for anyone whose desk sits in a shared home office during calls."
   },
   {
@@ -157,18 +157,18 @@ export const howWeEvaluated = [
     "description": "Compared capacity ratings from 265 lbs up to 450 lbs against frame construction, since a double frame or reinforced base supports higher capacity without added wobble."
   },
   {
-    "title": "",
+    "title": "Under-desk clearance fit",
     "description": "Considered each unit's deck height against the roughly 9-12 inches of clearance most under-desk treadmills need beneath a standard 28-30 inch desk."
   },
   {
-    "title": "",
+    "title": "Safety features",
     "description": "Checked for an auto-stop sensor that halts the belt if you step off and a soft-start feature that begins at a very low speed, reducing the chance of being caught off guard when the belt starts moving."
   }
 ];
 
 export const introParagraphs = [
   "An under desk treadmill with incline adds real calorie burn over a flat walking pad, but it also raises the bar on what you need to check before buying: incline type (manual lever versus motorized auto-incline), motor power, and most importantly whether the unit actually fits the clearance under your desk. Standard desks run 28-30 inches tall, and most under-desk treadmills need roughly 9-12 inches of vertical clearance between the floor and the underside of the desk, so the listed desk height alone doesn't tell you if a given unit will fit.",
-  ""
+  "Below are 8 under desk treadmills with incline we compared on incline range and type, motor power, noise level, and safety features, ranging from an $89.99 flat-pad starter with an incline pad accessory to a $374.99 model with a 15%, 15-level auto-incline and a 3.0HP brushless motor."
 ];
 
 export const lastUpdated = "2026-07-18";

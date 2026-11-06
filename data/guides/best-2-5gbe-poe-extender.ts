@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "All four picks specifically support 100/1000/2500Mbps adaptive speed, useful for newer WiFi 6E or WiFi 7 access points and multi-gig NAS devices that can exceed standard Gigabit throughput, but providing no practical benefit for a standard IP camera or basic access point that tops out well under 1Gbps anyway. This matters if you're specifically deploying multi-gig-capable equipment that benefits from the extra bandwidth headroom, and matters much less for standard PoE devices where a cheaper Gigabit-only extender would perform identically in practice. 5GbE support it may never utilize."
   },
   {
-    "criterion": "",
+    "criterion": "IP55 Waterproofing Is a Meaningfully Lower Water Resistance Standard Than IP66 or IP67 Ratings Seen Elsewhere",
     "explanation": "5GbE outdoor technology is still catching up to the waterproofing standards of the more mature Gigabit extender market. This matters if your installation faces heavy rain or potential water pooling, where an IP55 rating provides less assurance than a higher-rated alternative, and matters less for a moderately sheltered outdoor location. 5GbE outdoor extender and compare it against your installation's real water exposure risk, rather than assuming 'waterproof' claims are equivalent across different rated products."
   },
   {
@@ -32,12 +32,12 @@ export const faq = [
     "a": "5GbE extender is specifically worth the investment only if you're deploying WiFi 6E, WiFi 7, or other multi-gig-capable equipment that can actually exceed 1Gbps throughput."
   },
   {
-    "q": "",
+    "q": "What's the most common mistake buyers make when choosing a 2.5GbE PoE extender?",
     "a": "Assuming the impressive 90W total input figure means each connected device receives that much power, when every pick in this comparison specifically caps per-port output at 30W regardless of the higher total input rating."
   },
   {
     "q": "Is the YuanLey Outdoor extender worth the higher price over the Ztyuav DIN-Rail pick?",
-    "a": ""
+    "a": "If you specifically need genuine IP55 outdoor waterproofing with always-on VLAN isolation, the YuanLey's higher price is justified, but for an indoor deployment without those specific needs, the Ztyuav DIN-Rail pick delivers the same core 2.5Gbps performance for less."
   },
   {
     "q": "5GbE extenders in a standard industrial control cabinet?",
@@ -49,7 +49,7 @@ export const faq = [
   },
   {
     "q": "Is IP55 waterproofing good enough for a fully exposed outdoor camera installation?",
-    "a": ""
+    "a": "IP55 provides protection against low-pressure water jets but is a lower standard than IP66 or IP67 ratings, so for a fully exposed installation facing heavy rain or potential water pooling, you may want to consider additional weather protection beyond the extender's own rating."
   }
 ];
 
@@ -61,16 +61,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/31hXdsxuwvL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Genuine outdoor waterproofing with always-on VLAN isolation",
-          ""
+          "YuanLey Outdoor 2.5 Gigabit PoE Extender"
         ],
         [
           "DIN-rail mounting for an indoor industrial installation",
@@ -78,38 +78,38 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "IP55 outdoor capability with optional VLAN at a lower price",
-          ""
+          "Ztyuav 4 Port Outdoor 2.5Gbps PoE Extender"
         ],
         [
-          "",
-          ""
+          "The lowest price for an indoor 2.5GbE deployment",
+          "Ztyuav 4 Port 2.5Gbps PoE Extender (DIN-Rail)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $35",
+          "Ztyuav DIN-Rail pick ($34.99)"
         ],
         [
-          "",
-          ""
+          "Under $36",
+          "Ztyuav Outdoor pick ($35.99)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "YuanLey Mini DIN-Rail pick ($39.98)"
         ],
         [
-          "",
-          ""
+          "Under $43",
+          "YuanLey Outdoor pick ($42.98)"
         ]
       ]
     }
@@ -129,23 +129,23 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your installation faces real outdoor weather exposure, choose one of the IP55-rated picks. If you're mounting inside a control cabinet or indoor industrial enclosure, the DIN-rail picks deliver the same core performance at a lower price."
   },
   {
-    "subheading": "",
+    "subheading": "By VLAN Isolation Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your VLAN preference",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Always-on VLAN isolation for maximum default security",
-          ""
+          "YuanLey Outdoor 2.5 Gigabit PoE Extender"
         ],
         [
           "Optional VLAN toggle to enable only when needed",
-          ""
+          "Either Ztyuav pick"
         ],
         [
-          "",
+          "No specific VLAN preference",
           "YuanLey Mini DIN-Rail pick (lowest indoor price with VLAN)"
         ]
       ]
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a WiFi 6E or WiFi 7 Access Point Deployment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5Gbps-rated extender rather than a standard Gigabit unit, since modern WiFi 6E and WiFi 7 access points can exceed 1Gbps throughput under ideal conditions and benefit from the extra headroom."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5Gbps adaptive speed, making any of them suitable for a multi-gig access point deployment, with the choice coming down to outdoor versus indoor mounting needs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "98 price is justified by that combination."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -185,25 +185,25 @@ export const howWeEvaluated = [
     "description": "Compared documented per-port output against the shared 90W total input across all four picks."
   },
   {
-    "title": "",
+    "title": "2.5Gbps Speed Consistency",
     "description": "Compared adaptive 100/1000/2500Mbps speed support across all ports."
   },
   {
-    "title": "",
+    "title": "Outdoor Durability",
     "description": "Compared IP waterproof ratings for outdoor-capable versus indoor-only designs."
   },
   {
-    "title": "",
+    "title": "Mounting Flexibility",
     "description": "Compared DIN-rail, wall, and desktop mounting options."
   },
   {
-    "title": "",
+    "title": "VLAN and Security Features",
     "description": "Compared always-on versus optional dipswitch-controlled VLAN isolation."
   }
 ];
 
 export const introParagraphs = [
-  "",
+  "A 2.5GbE PoE extender delivers 2.5 times the throughput of standard Gigabit Ethernet, useful for newer WiFi 6E or WiFi 7 access points and multi-gig NAS devices that can actually use that extra bandwidth, but the technology is still new enough that per-port wattage and outdoor durability vary meaningfully between otherwise similar-looking 2.5G extenders.",
   "We compared this lineup on real per-port wattage against total input, outdoor durability, and mounting flexibility, since every listing in this comparison consistently splits a 90W PoE++ input down to a 30W maximum per output port, a pattern worth understanding before assuming higher input wattage benefits each connected device."
 ];
 

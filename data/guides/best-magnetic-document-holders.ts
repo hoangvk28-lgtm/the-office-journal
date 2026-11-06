@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31wTXOlzn2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "5 x 11 Magnetic Paper Holder"
         ],
         [
-          "",
+          "Continuous transcription/typing",
           "5'' x 11'' Rigid Magnetic Sign Holders"
         ],
         [
           "Reading a full book/bound document",
-          ""
+          "Marbrasse Magnetic File Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "5 x 11 Magnetic Paper Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "LQPAFZ Magnetic File Holder 1 Pockets File Folder Organizer"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Marbrasse Magnetic File Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Freestanding",
     "cards": [
       {
         "label": "5 x 11 Magnetic Paper Holder)",
         "text": "Sits between monitor and keyboard, minimal head movement."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits beside the monitor at eye level, more placement flexibility."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Letter/A4 size",
           "5'' x 11'' Rigid Magnetic Sign Holders"
         ],
         [
-          "",
+          "Legal size or larger",
           "LQPAFZ Magnetic File Holder 1 Pockets File Folder Organizer"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Transcription Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A line guide feature and independently adjustable angle and height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5'' x 11'' Rigid Magnetic Sign Holders is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Marbrasse Magnetic File Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5 x 11 Magnetic Paper Holder already covers the job at the lowest price here."
       }
     ]

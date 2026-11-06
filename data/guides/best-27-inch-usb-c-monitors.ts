@@ -55,68 +55,68 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "ASUS ProArt PA278CV 27 Inch 1440p QHD USB"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "INNOCN 27\" 4K USB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $195",
+          "INNOCN 27\" 4K USB"
         ],
         [
-          "",
-          ""
+          "Up to $313",
+          "Dell 27 Monitor S2725QC"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "4K Resolution vs 1080p/1440p",
     "cards": [
       {
-        "label": "",
+        "label": "4K resolution",
         "text": "Sharper detail, best on a larger panel or closer viewing distance where the extra pixels are actually visible. In this comparison: INNOCN 27\" 4K USB, Dell 27 Plus QHD USB, Dell 27 Monitor S2725QC, ASUS ProArt PA278CV 27 Inch 1440p QHD USB."
       },
       {
-        "label": "",
+        "label": "1080p/1440p",
         "text": "Usually cheaper and less demanding on your laptop's GPU, often the more practical choice at typical desk distances. In this comparison: Dell S2722DC Monitor."
       }
     ],
     "note": "Default to 1080p/1440p unless your desk setup and viewing distance benefit from 4K's extra detail."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 27-inch panel",
+          "INNOCN 27\" 4K USB"
         ],
         [
-          "",
+          "Around 27-inch panel",
           "Dell 27 Plus QHD USB"
         ]
       ]
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a MacBook or Mac Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed DisplayPort Alt Mode support and a power delivery wattage matched to your MacBook's charging brick wattage."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since PD wattage isn't consistently disclosed across every monitor in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want full single-cable charging, sharper resolution, or built-in hub ports, where Dell 27 Monitor S2725QC's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You already have a separate charger and just need a display, where INNOCN 27\" 4K USB covers the same job at a lower price."
       }
     ]

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $65",
+          "Logitech Lift ($64.99)"
         ],
         [
-          "",
-          ""
+          "Under $77",
+          "Logitech MX Vertical ($76.99)"
         ],
         [
-          "",
-          ""
+          "Under $80",
+          "Evoluent VMC Classic Wireless ($79.95)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "Evoluent Wired Medium-Large ($89.95)"
         ]
       ]
     }
@@ -129,20 +129,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If brand heritage and proven long-term workplace adoption matter most, the Evoluent picks offer that pedigree. If documented, measured ergonomic performance and precision tracking matter more, the Logitech MX Vertical delivers that."
   },
   {
-    "subheading": "",
+    "subheading": "By Customization Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your customization priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Deep software-driven button remapping",
           "Evoluent Wired (Mouse Manager software)"
         ],
         [
-          "",
-          ""
+          "Built-in copy/paste without setup",
+          "Evoluent VMC Classic Wireless"
         ],
         [
           "Simple, reliable operation without deep customization",
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buyers With a Documented Carpal Tunnel or RSI Concern Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A brand with a documented history of workplace wellness program adoption and specific carpal tunnel-focused design language."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Evoluent Wired pick specifically states it helps with carpal tunnel and has been selected by many global companies for workplace wellness programs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the original vertical mouse brand's heritage and deep software customization, where the Evoluent Wired pick offers a pedigree and customization depth the other picks don't match."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want documented ergonomic certification and long battery life without needing original-brand heritage, where the Logitech Lift covers that at the lowest price in this comparison."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Optical Tracking Precision",
     "description": "Compared DPI sensor specifications and documented precision claims across the lineup."
   },
   {
-    "title": "",
+    "title": "Brand Heritage and Pedigree",
     "description": "Checked which picks come from Evoluent, the original vertical mouse inventor, versus other established brands."
   },
   {
-    "title": "",
+    "title": "Customization Software Depth",
     "description": "Compared button customization options, from fixed presets to full software-driven remapping."
   },
   {
-    "title": "",
+    "title": "Connectivity and OS Compatibility",
     "description": "Compared wired versus wireless connectivity and operating system compatibility breadth."
   },
   {
-    "title": "",
+    "title": "Documented Ergonomic Claims",
     "description": "Checked for specific, measured ergonomic benefit claims versus general marketing language."
   }
 ];

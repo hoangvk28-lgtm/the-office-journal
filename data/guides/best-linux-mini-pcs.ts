@@ -53,10 +53,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EVo3RKAZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
+        "What you're running",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -65,26 +65,26 @@ export const howToChoose: HowToChooseSection[] = [
           "Io TK Node Mini PC"
         ],
         [
-          "",
+          "Demanding, sustained workloads",
           "GEEKOM [2026 Edition Multitasking Mini PC A7 MAX with AMD Ryzen 9 7940HS"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $299",
           "Io TK Node Mini PC"
         ],
         [
-          "",
+          "Mid-range",
           "BOSGAME P4 Ultra Linux Mini PC"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fanless (Passive) vs Actively Cooled",
     "cards": [
       {
-        "label": "",
+        "label": "Fanless, Passive Cooling",
         "text": "Completely silent with no moving parts, at the cost of throttling under sustained heavy load."
       },
       {
-        "label": "",
+        "label": "Actively Cooled (Fan)",
         "text": "Sustains heavier workloads longer without throttling, at the cost of some fan noise under load. Io TK Node Mini PC."
       }
     ],
@@ -112,12 +112,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By RAM and Storage Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lightest low-cost configuration",
           "Io TK Node Mini PC"
         ],
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For GPU-Accelerated Work or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated GPU or a confirmed Oculink/Thunderbolt EGPU connection explicitly stated in the listing, not just a generic \"gaming capable\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "GEEKOM [2026 Edition Multitasking Mini PC A7 MAX with AMD Ryzen 9 7940HS fits this specifically: powerful chip for demanding Linux workstation or development use."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what GEEKOM [2026 Edition Multitasking Mini PC A7 MAX with AMD Ryzen 9 7940HS offers: powerful chip for demanding Linux workstation or development use. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Io TK Node Mini PC already covers the essentials: Proxmox preinstalled proves genuine Linux compatibility out of the box. The main thing you'd be paying extra for elsewhere in this list is headroom you may not need."
       }
     ]

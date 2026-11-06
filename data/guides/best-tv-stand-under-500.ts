@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41jZBxRiY7L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Genuine large-room heating capability",
           "OKD 70\" Fireplace TV Stand, Thick Block Media Console"
         ],
         [
@@ -84,24 +84,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $190",
+          "YESHOMY 58\" Fireplace TV Stand ($188.99)"
         ],
         [
-          "",
-          ""
+          "Under $250",
+          "AMERLIFE 70\" Fluted Fireplace ($249.99)"
         ],
         [
-          "",
-          ""
+          "Under $400",
+          "OKD 70\" Fireplace ($399.99) or PRAISUN 70'' Fireplace ($399.99)"
         ]
       ]
     }
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Keeps media equipment visible and easily accessible, better suited to devices you access frequently like a game console or streaming box."
       },
       {
-        "label": "",
+        "label": "Storage Drawers (PRAISUN)",
         "text": "Fully conceals smaller items like remotes, chargers, and cables behind smooth-gliding drawers, better suited to keeping small clutter out of sight entirely."
       }
     ],
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Room Size and Heating Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room size",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Households With Young Children Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A specific child-safety heat lock or turn-off function, beyond basic overheat protection, that lets you disable the heating element entirely while keeping the flame display active."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The PRAISUN 70'' Fireplace TV Stand specifically states a lock or turn-off heat function for peace of mind around kids or pets."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need genuine large-room heating or the largest fireplace insert with drawer storage, where the OKD and PRAISUN picks lead this comparison respectively."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Core fireplace ambiance and storage cover your needs, where the AMERLIFE or YESHOMY picks deliver genuine fireplace functionality for $150-210 less."
       }
     ]
@@ -169,7 +169,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Real BTU Heating Output",
     "description": "Compared stated BTU heating figures and room-size ratings across the fireplace picks, since this varies from unstated to a specific 5,000 BTU/1,000 sq."
   },
   {
@@ -177,15 +177,15 @@ export const howWeEvaluated = [
     "description": "Compared stated weight capacity figures up to 300 lbs across the lineup, relevant for the largest 75-80 inch TVs plus additional equipment."
   },
   {
-    "title": "",
+    "title": "Storage Organization Style",
     "description": "Distinguished picks using open cabinets and shelves from the PRAISUN pick's drawer-based storage approach."
   },
   {
-    "title": "",
+    "title": "Fireplace Insert Size",
     "description": "Compared fireplace insert diagonal size across the picks, from 30 inches up to the PRAISUN pick's 42 inch insert."
   },
   {
-    "title": "",
+    "title": "Safety Feature Depth",
     "description": "Compared stated safety features like anti-tip design, overheat protection, and child-safety heat locks across the fireplace-equipped picks."
   }
 ];

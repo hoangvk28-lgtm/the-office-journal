@@ -36,7 +36,7 @@ export const faq = [
     "a": "It depends on the design. Most pads share one upstream USB connection between the fan and hub. The IETS GT500 pick specifically states its hub has an independent data line, working separately from the fan."
   },
   {
-    "q": "",
+    "q": "What's the difference between USB 2.0 and 3.0 hub ports?",
     "a": "0 offers significantly faster data transfer speeds, useful for external drives. 0 ports, letting you match the right port to each device."
   },
   {
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/51QkELL-KFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,19 +76,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $28",
           "Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans"
         ],
         [
-          "",
+          "Mid-range",
           "Targus Laptop Cooling Pad with Dual Fans + 4-Port USB Hub"
         ],
         [
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: ICE COOREL Gaming Laptop Cooling Pad."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans."
       }
     ],
     "note": "Most buyers should default to a slim pick like ICE COOREL Gaming Laptop Cooling Pad for everyday portability, and only step up to Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what IETS GT500 Powerful Turbo-Fan Laptop Cooling Pad offers: Hub explicitly described as working independently of fan power. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans already covers the essentials: confirmed USB hub in the listing. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -169,11 +169,11 @@ export const howWeEvaluated = [
     "description": "0) of hub ports where the listing provides that detail."
   },
   {
-    "title": "",
+    "title": "Shared power budget consideration",
     "description": "We noted whether the hub shares power with the cooling fan or operates on an independent data line, since this affects how much load the hub can handle."
   },
   {
-    "title": "",
+    "title": "Hub accessibility while mounted",
     "description": "We considered whether hub ports remain reachable while the laptop sits on the pad in normal use."
   }
 ];

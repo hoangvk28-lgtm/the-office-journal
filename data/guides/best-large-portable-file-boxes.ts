@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41f-9zIZ9rL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $28",
           "IRIS USA WeatherPro File Box Organizer"
         ],
         [
-          "",
+          "Mid-range",
           "Storex Portable File Box with XL Lid"
         ],
         [
@@ -84,14 +84,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: DocSafe Fireproof Document Box with Lock."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: Storex File Storage Box, IRIS USA WeatherPro File Box Organizer, Storex Portable File Box with XL Lid."
       }
     ],
@@ -101,8 +101,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -111,7 +111,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Occasional short lifts, simpler design",
-          ""
+          "Storex File Storage Box"
         ]
       ]
     }
@@ -120,24 +120,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "DocSafe Fireproof Document Box with Lock fits this specifically: Wheels honestly address the heavy-load handle-comfort problem."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what DocSafe Fireproof Document Box with Lock offers: Wheels honestly address the heavy-load handle-comfort problem. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "IRIS USA WeatherPro File Box Organizer already covers the essentials: Substantial 32 qt capacity. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -146,11 +146,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Concrete dimension quantification",
     "description": "We favored picks with specific disclosed dimensions rather than a vague relative 'large' descriptor."
   },
   {
-    "title": "",
+    "title": "Fully loaded weight honesty",
     "description": "We disclosed that a large box filled with paper files can become difficult to carry comfortably despite technically having a handle."
   },
   {
@@ -158,7 +158,7 @@ export const howWeEvaluated = [
     "description": "For the largest capacity tiers, we assessed whether a box might be more realistically handled by two people or wheels rather than assuming any handle stays comfortable at maximum capacity."
   },
   {
-    "title": "",
+    "title": "Price-per-capacity value comparison",
     "description": "We compared value against the standard-size pillar box, since large capacity comes at a real price and weight premium."
   }
 ];

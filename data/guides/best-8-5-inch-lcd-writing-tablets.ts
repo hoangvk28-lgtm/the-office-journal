@@ -36,11 +36,11 @@ export const faq = [
     "a": "5 inch LCD writing tablet erases permanently with no save function."
   },
   {
-    "q": "",
+    "q": "Is a 2-pack a better deal than a single 8.5 inch tablet?",
     "a": "Often yes on a per-unit basis, compare the total price divided by the number of screens against single-unit listings to check."
   },
   {
-    "q": "",
+    "q": "What does a memory lock button do on an 8.5 inch tablet?",
     "a": "It prevents the screen from accidentally erasing when bumped, it does not save your writing to a device or app."
   }
 ];
@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "[2 Pack] LCD Writing Tablet"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "[2 Pack] LCD Writing Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $6",
           "[2 Pack] LCD Writing Tablet"
         ],
         [
-          "",
+          "Mid-range",
           "5 Inch Electronic Writing Drawing Pad Portable Doodle Board Gifts for Kids Office Memo Home Whiteboard Black"
         ],
         [
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Kids-Marketed vs Adult-Marketed",
     "cards": [
       {
-        "label": "",
+        "label": "Kids-Marketed",
         "text": "Bright colors and character branding, often the same core technology as adult versions at a similar or lower price. 5 Inch Electronic Writing Drawing Pad Portable Doodle Board Gifts for Kids Office Memo Home Whiteboard Black, LCD Writing Tablet."
       },
       {
-        "label": "",
+        "label": "Adult-Marketed",
         "text": "Neutral styling suited to an office desk, sometimes at a price premium for the plainer look alone. 5 Inch Electronic Writing Drawing Pad Portable Doodle Board Gifts for Kids Office Memo Home Whiteboard Black."
       }
     ],
@@ -112,44 +112,44 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "With Memory Lock vs Basic Erase",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Prevent accidental erasing",
           "[2 Pack] LCD Writing Tablet"
         ],
         [
-          "",
+          "Simplest single-button design",
           "[2 Pack] LCD Writing Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Gift-Giving Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear age-range marketing if buying for a specific child, genuine screen size (not just overall unit size), and a replaceable coin-cell battery for the longest useful life."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "LCD Writing Tablet Colorful 10 Inch Electronic Graphics Doodle Board eWriter Drawing Pad with Memory Lock Kids & Adults Home School Office Handwriting Tablet Gifts fits this specifically: Very low price for a single unit."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "note": "Every pick in this specific comparison sits in a similar price range, so the decision here comes down to styling and included features rather than a budget-versus-premium tradeoff. Check the pros and cons above for what actually differs between them."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "",
-    "description": ""
+    "title": "Screen size verified as 8.5 inches",
+    "description": "Confirmed each product's listed screen size against its title to ensure this size-specific guide only includes 8.5 inch models."
   },
   {
     "title": "Lock function distinguished from save function",

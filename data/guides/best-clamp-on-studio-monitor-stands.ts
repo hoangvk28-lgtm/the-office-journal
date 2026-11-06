@@ -61,42 +61,42 @@ export const heroImage = "https://m.media-amazon.com/images/I/41DleVkg2WL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Setup Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fast, low-cost fix",
           "Liquid Stands Studio Monitor Stands"
         ],
         [
-          "",
+          "Standard desk setup",
           "Vondynote Set of 2 Desktop Clamp Speaker Stands Short Studio Monitor Stands"
         ],
         [
-          "",
+          "Precise, adjustable positioning",
           "Liquid Stands Studio Monitor Stands"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Cheapest option",
           "Liquid Stands Studio Monitor Stands"
         ],
         [
-          "",
+          "Higher budget, more adjustment",
           "Liquid Stands Studio Monitor Stands"
         ]
       ]
@@ -117,15 +117,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match the choice to how much your setup benefits from fine-tuned positioning versus a quick, affordable fix."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard monitor weight",
           "Vondynote Set of 2 Desktop Clamp Speaker Stands Short Studio Monitor Stands"
         ],
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Tight Desk Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A compact footprint or clamp-on design that doesn't eat into usable desk surface."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Vondynote Set of 2 Desktop Clamp Speaker Stands Short Studio Monitor Stands is worth checking against its footprint before assuming any stand fits your specific desk."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want precise, adjustable positioning for a dedicated mixing setup, where Liquid Stands Studio Monitor Stands justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a quick, honest fix, where Liquid Stands Studio Monitor Stands already covers the job at the lowest price here."
       }
     ]

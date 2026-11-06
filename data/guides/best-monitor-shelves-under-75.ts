@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41FlB5HhimL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,24 +83,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $40",
+          "HOOBRO 2-Tier Dual Monitor Stand ($39.99)"
         ],
         [
-          "",
-          ""
+          "$50-$60",
+          "ROCDEER Bamboo ($49.99) or ROCDEER Customizable ($59.99)"
         ],
         [
-          "",
-          ""
+          "Under $70",
+          "Nordik Hardwood Acacia ($69.97)"
         ]
       ]
     }
@@ -109,22 +109,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Solid Hardwood vs Bamboo Construction",
     "cards": [
       {
-        "label": "",
+        "label": "Solid Acacia Hardwood (Nordik)",
         "text": "Hand-polished, one-of-a-kind grain patterns with the highest weight capacity in this comparison, at a price premium for the material quality."
       },
       {
-        "label": "",
+        "label": "FSC-Certified Bamboo (ROCDEER picks)",
         "text": "Still sustainable and sturdy with a 100-130 lb capacity, at a meaningfully lower price than solid hardwood."
       }
     ],
     "note": "If maximum weight capacity and unique hardwood character matter most, the Nordik pick justifies its premium. For most standard desk setups, the bamboo picks deliver excellent value at a lower cost."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Configuration",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk type",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Corner or L-Shaped Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A modular stand that can separate into multiple individual shelves, rather than one fixed rectangular platform that won't fit an angled desk layout."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The ROCDEER Customizable Configuration is specifically patented for this modular reconfiguration, splitting into 2 or 3 separate shelves as needed."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest weight capacity and unique hardwood craftsmanship, where the Nordik pick delivers 200 lbs of capacity and hand-polished Acacia wood."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Straightforward dual-monitor support covers your needs, where the HOOBRO pick delivers this at nearly half the price of the Nordik pick."
       }
     ]
@@ -168,7 +168,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hardwood Material Quality",
     "description": "Compared solid Acacia hardwood construction against bamboo and particleboard alternatives in this comparison for genuine material quality differences."
   },
   {
@@ -176,15 +176,15 @@ export const howWeEvaluated = [
     "description": "Compared stated weight capacity figures, with one pick reaching a high 200 lb rating suited to the heaviest desk equipment."
   },
   {
-    "title": "",
+    "title": "Modular Reconfiguration Options",
     "description": "Checked which pick offers a modular design that separates into multiple individual shelves for L-desks or corner setups."
   },
   {
-    "title": "",
+    "title": "Sustainable Material Certification",
     "description": "Compared FSC certification and other sustainability credentials across the bamboo and modular wood picks in this comparison."
   },
   {
-    "title": "",
+    "title": "Price-to-Material Justification",
     "description": "Assessed whether each step up in price within this range buys better material quality or structural capability, rather than incremental branding."
   }
 ];

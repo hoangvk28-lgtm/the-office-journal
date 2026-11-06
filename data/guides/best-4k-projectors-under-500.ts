@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41rANbFm4SL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $400",
+          "WiMiUS G2 ($399.99)"
         ],
         [
-          "",
-          ""
+          "Under $410",
+          "Daytime Smart 4K ($409.00)"
         ],
         [
-          "",
-          ""
+          "Under $500",
+          "HAPPRUN ($499.98)"
         ],
         [
-          "",
-          ""
+          "Under $540",
+          "VISSPL ($539.99)"
         ]
       ]
     }
@@ -129,20 +129,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you specifically value a manufacturer's transparency about brightness measurement standards, the WiMiUS pick's explicit honesty is worth noting. If you need higher brightness for bright-room use, the VISSPL or HAPPRUN picks' higher ANSI figures better serve that need."
   },
   {
-    "subheading": "",
+    "subheading": "By Noise Sensitivity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your noise sensitivity",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard living room use",
           "WiMiUS G2, Daytime, or HAPPRUN"
         ],
         [
           "Bedroom or shared quiet space",
-          ""
+          "VISSPL (25 DB whisper-quiet)"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Household With Young Children Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Built-in Kids Mode with content filtering and multi-user profiles with PIN protection, rather than relying solely on external streaming app parental controls."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The WiMiUS G2 pick's built-in Kids Mode and PIN-protected multi-user profiles specifically address family content management at the projector level."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want whisper-quiet operation combined with the highest stated brightness, where the VISSPL pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want verified honest brightness with the longest warranty, where the WiMiUS G2 pick covers that for about $140 less."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Brightness Verification",
     "description": "Checked for transparently verified ANSI claims versus unverified brightness marketing."
   },
   {
-    "title": "",
+    "title": "Motion Smoothing Technology",
     "description": "Compared MEMC and similar motion processing across the lineup for sports and gaming."
   },
   {
-    "title": "",
+    "title": "Cooling Noise Level",
     "description": "Compared stated decibel figures for cooling system noise across all four picks."
   },
   {
-    "title": "",
+    "title": "Warranty Coverage",
     "description": "Compared stated warranty length and money-back guarantee terms."
   },
   {
-    "title": "",
+    "title": "Streaming Platform Integration",
     "description": "Compared built-in Google TV and voice assistant integration across the tier."
   }
 ];

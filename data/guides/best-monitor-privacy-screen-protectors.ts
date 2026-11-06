@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "Peslv [2-Pack] 24 Inch Privacy Screen for Computer Monitor"
         ],
         [
-          "",
+          "Laptop screen",
           "SightPro Magnetic Laptop Privacy Screen 14 Inch 16:9"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $35",
           "Computer Privacy Screen Filter for 24 Inch 16:9 Aspect Ratio Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "Vxaop [2-Pack] 24 Inch Computer Privacy Screen Filter (16:9 Aspect Ratio)"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: infoWall 2-Pack 27 Inch Computer Privacy Screen Filter, Vxaop [2-Pack] 24 Inch Computer Privacy Screen Filter (16:9 Aspect Ratio)."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: SightPro Magnetic Laptop Privacy Screen 14 Inch 16:9, SightPro 24 Inch 16:9 Computer Privacy Screen Filter for Monitor."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Vxaop [2-Pack] 24 Inch Computer Privacy Screen Filter (16:9 Aspect Ratio)"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Peslv [2-Pack] 24 Inch Privacy Screen for Computer Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Peslv [2-Pack] 24 Inch Privacy Screen for Computer Monitor fits this specifically: Largest review base in our entire monitor privacy research."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what infoWall 2-Pack 27 Inch Computer Privacy Screen Filter offers: Bundles genuine privacy with blue-light filtering. That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Computer Privacy Screen Filter for 24 Inch 16:9 Aspect Ratio Monitor already covers the essentials: Lowest price among confirmed genuine privacy options. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]
@@ -164,7 +164,7 @@ export const howWeEvaluated = [
     "description": "We excluded plain anti-glare or scratch-protection films that don't actually reduce off-angle visibility, even when marketed under the same search term."
   },
   {
-    "title": "",
+    "title": "Distinguished attachment methods directly",
     "description": "We flagged which picks use tape-free nano-suction, magnetic, or standard tab mounting, since daily removal behavior differs meaningfully between these."
   },
   {
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Weighed review volume across both laptop and desktop picks",
-    "description": ""
+    "description": "We compared review history within each device category, since laptop and desktop filter review bases aren't directly comparable to each other."
   }
 ];
 

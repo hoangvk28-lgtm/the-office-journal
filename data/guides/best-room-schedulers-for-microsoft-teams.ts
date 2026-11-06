@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Zq8vlTaZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,22 +73,22 @@ export const howToChoose: HowToChooseSection[] = [
           "PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring"
         ],
         [
-          "",
+          "Standard conference room",
           "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black"
         ],
         [
           "Large room or lobby signage",
-          ""
+          "Jabra Scheduler, 10.1” Touchscreen Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring"
         ],
         [
-          "",
+          "Mid-range pick",
           "Yealink Roompanel E2 All-in-One Meeting Room Scheduling Panel, 1303172"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Jabra Scheduler, 10.1” Touchscreen Tablet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring)",
         "text": "Long battery life and bright-light legibility, but slower refresh and simpler interaction."
       },
       {
-        "label": "",
+        "label": "LCD touchscreen (e.g. Jabra Scheduler, 10.1” Touchscreen Tablet)",
         "text": "Instant refresh and full tap-to-book interaction, at the cost of higher power draw."
       }
     ],
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black"
         ],
         [
-          "",
+          "Google Workspace / Calendar",
           "Yealink Roompanel E2 All-in-One Meeting Room Scheduling Panel, 1303172"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Yealink ROOMPANEL E2 8 in. Android Based E2 Version Room Scheduling Panel Black is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "1” Touchscreen Tablet justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward single-room display without advanced features, where PoE Texas 10-Inch PoE Meeting Room Scheduler Tablet with LED Ring already covers the job at the lowest price here."
       }
     ]

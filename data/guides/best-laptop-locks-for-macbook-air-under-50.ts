@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41W5M6dGKDL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $35",
+          "AboveTEK Adhesive Lock ($31.99) or Multplx Adapter ($32.99)"
         ],
         [
-          "",
-          ""
+          "Up to $50",
+          "Compulocks Ledge Adapter, AboveTEK Locking Station, or Multplx Combination (all $45.99-$49.99)"
         ]
       ]
     }
@@ -114,18 +114,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "5mm audio port while installed, a real drawback if you regularly use wired headphones."
       },
       {
-        "label": "",
+        "label": "Adhesive anchor plate (AboveTEK)",
         "text": "Leaves the headphone jack completely free, but the adhesive is meant to be semi-permanent once applied, so it commits you to one physical location."
       }
     ],
     "note": "If you regularly use the headphone jack for wired audio, prioritize the AboveTEK adhesive pick or the Compulocks corner adapter over either Multplx option."
   },
   {
-    "subheading": "",
+    "subheading": "By Lock Mechanism",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared or Hot-Desk Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A lock that also functions as an adjustable stand, so the same purchase covers both security and ergonomic positioning in a space you don't control long-term."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The AboveTEK MacBook & Surface Laptop Locking Station is the only pick here that combines a full locking station with an adjustable viewing angle."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) is built specifically for that."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) is the cheapest compatible option here."
       }
     ]
@@ -169,11 +169,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "MacBook Air compatibility verification",
     "description": "We only included picks that explicitly name MacBook Air compatibility in their listing, after finding real competing listings in this category that state older Kensington-slot-style locks cannot be used on any current MacBook at all."
   },
   {
-    "title": "",
+    "title": "Mounting method comparison",
     "description": "We identified whether each pick mounts via the headphone jack, an adhesive anchor plate, or a full clamp-based locking station, since each method has real, different tradeoffs for daily use."
   },
   {
@@ -185,7 +185,7 @@ export const howWeEvaluated = [
     "description": "We flagged which listings include a full cable lock in the purchase versus selling only the mounting adapter, since that affects the real total cost of a working setup."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $50 on the date this guide was checked; locks that only hit this tier during a temporary sale were excluded."
   }
 ];

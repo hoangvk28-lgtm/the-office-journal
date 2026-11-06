@@ -55,35 +55,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "SUPERDANNY Power Strip Surge Protector"
         ],
         [
-          "",
-          ""
+          "Largest review base (more statistical confidence)",
+          "Power Strip"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $19",
           "Surge Protector Power Strip 4800J"
         ],
         [
-          "",
+          "Mid-range",
           "SUPERDANNY Power Strip Surge Protector"
         ],
         [
@@ -97,21 +97,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C PD Charging vs Outlets Only",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C PD Charging",
         "text": "Charges laptops and higher-power devices faster directly from the strip, without a separate charging brick. In this comparison: Surge Protector Power Strip 4800J."
       },
       {
-        "label": "",
+        "label": "AC Outlets Only",
         "text": "Simpler design focused purely on outlet count, pair with your own chargers as needed. In this comparison: SUPERDANNY Power Strip Surge Protector, Power Strip, Amazon Basics 12-Outlet Surge Protector Power Strip."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Surge Protection Level",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -119,7 +119,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Surge Protector Power Strip 4800J"
         ],
         [
-          "",
+          "Basic protection, lower cost",
           "Surge Protector Power Strip 4800J"
         ]
       ]
@@ -129,24 +129,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Bulky Wall-Wart Adapters Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Wide or offset outlet spacing explicitly mentioned in the listing or shown in product photos, not just a high raw outlet count."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Belkin 12-Outlet Surge Protector Power Strip w/ 12 AC Outlets & 8ft Flat Plug fits this specifically: Established Belkin brand build quality."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Belkin 12-Outlet Surge Protector Power Strip w/ 12 AC Outlets & 8ft Flat Plug offers: Established Belkin brand build quality. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Surge Protector Power Strip 4800J already covers the essentials: High joule rating for many devices. The main thing you'd be paying extra for elsewhere in this list is capacity or charging speed you may not need."
       }
     ]
@@ -163,7 +163,7 @@ export const howWeEvaluated = [
     "description": "Calculated realistic combined wattage against each pick's rated capacity, since a high outlet count inviting many simultaneous devices needs the same amperage-budget verification as any other strip."
   },
   {
-    "title": "",
+    "title": "Vertical desk-space footprint vs. horizontal stability tradeoff",
     "description": "Considered that a vertical tower saves horizontal desk space but consumes vertical clearance and introduces tip-over risk, while a horizontal high-outlet strip trades footprint for inherent stability."
   }
 ];

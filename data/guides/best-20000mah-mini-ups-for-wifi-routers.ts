@@ -41,34 +41,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41CH0ulmnKL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Watt-Hour Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 74Wh capacity",
           "Mini UPS Battery Backup 20000mAh 74Wh"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $55",
           "UPS Battery Backup Portable 20000mAh"
         ],
         [
-          "",
+          "Up to $85",
           "Mini UPS Battery Backup 20000mAh 74Wh"
         ]
       ]
@@ -78,42 +78,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Dual Output Rails vs Single Rail",
     "cards": [
       {
-        "label": "",
+        "label": "Dual output rails",
         "text": "Powers two devices at independent voltages without a Y-splitter reducing available current. In this comparison: Mini UPS Battery Backup 20000mAh 74Wh, UPS Battery Backup Portable 20000mAh."
       },
       {
-        "label": "",
+        "label": "Single output rail",
         "text": "Simpler and usually cheaper, fine for backing up just one device. In this comparison: SKE DC20000 Plus Altair Mini DC UPS."
       }
     ],
     "note": "Default to a single rail unless you're backing up more than one device from the same unit."
   },
   {
-    "subheading": "",
+    "subheading": "By Connector Type",
     "note": "Check each pick's listed connector size and polarity against your router's original power adapter before buying, not just the voltage number. UPS Battery Backup Portable 20000mAh is worth starting with if you want the most affordable option."
   },
   {
     "subheading": "For Router Plus Modem Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Two independent output rails at different voltages, or a confirmed combined wattage ceiling that covers both devices' actual draw without a Y-splitter."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Mini UPS Battery Backup 20000mAh 74Wh is worth checking against its listed dual-rail output before buying."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Outages regularly exceed an hour or you're backing up multiple devices, where Mini UPS Battery Backup 20000mAh 74Wh's higher capacity gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a short bridge through brief flickers for a single router, where UPS Battery Backup Portable 20000mAh covers the same job at a lower price."
       }
     ]
@@ -130,15 +130,15 @@ export const howWeEvaluated = [
     "description": "Normalized battery capacity to watt-hours wherever the listing or official spec sheet provided pack voltage, since mAh alone is not comparable across products with different cell configurations."
   },
   {
-    "title": "",
+    "title": "Combined Output Ceiling",
     "description": "Looked for an explicit maximum continuous wattage figure, since routers and secondary devices (modems, cameras) sharing one UPS need headroom under that ceiling, not just individually rated ports."
   },
   {
-    "title": "",
+    "title": "Connector & Protection Documentation",
     "description": "Favored listings that specify exact connector size, polarity, and safety protections (short-circuit, overcharge, over-discharge, temperature) over listings that only market broad 'wide compatibility' claims."
   },
   {
-    "title": "",
+    "title": "Real Feature Differentiators",
     "description": "Weighed genuine differentiators, PoE output, LCD status displays, dual charging inputs, LiFePO4 battery chemistry, over marketing language that repeats across nearly identical products."
   }
 ];

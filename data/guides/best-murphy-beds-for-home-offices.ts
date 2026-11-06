@@ -49,7 +49,7 @@ export const faq = [
   },
   {
     "q": "Do budget murphy bed cabinets hold up as well as mid-tier ones?",
-    "a": ""
+    "a": "Budget cabinets in the $249.99 to $349.99 range generally use particleboard or veneer, which is more prone to wear at drawer runners and hinges over years of daily folding compared to the MDF and dovetail joinery typical of mid-tier picks in the $459.99 to $699.98 range."
   }
 ];
 
@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Create"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Create"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $197",
           "Queen Size Murphy Bed Hardware Kit"
         ],
         [
-          "",
+          "Up to $700",
           "Hlivelood Queen Size Murphy Bed with 2 LED Lights"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Built-In Storage vs Desk-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in storage",
         "text": "Adds shelving or cabinet space beyond just the desk, useful in a smaller room. In this comparison: Create, Yoobure Queen Murphy Bed with Charging Station, AMERLIFE Queen Murphy Bed with Storage and Charging Station, Hlivelood Full Size Murphy Chest Bed with Drawer and Charging Station, LIVAUVEAD Twin Size Murphy Bed with Charging Station and Drawer."
       },
       {
-        "label": "",
+        "label": "Desk-only",
         "text": "Simpler, focuses cabinet space on the fold-down desk itself. In this comparison: Queen Size Murphy Bed Hardware Kit, Hlivelood Queen Size Murphy Bed with 2 LED Lights, Hlivelood Queen Size Murphy Bed with 2 LED Lights."
       }
     ],
     "note": "Default to desk-only unless extra built-in storage solves a real space problem for you."
   },
   {
-    "subheading": "",
+    "subheading": "By Room Clearance Requirements",
     "note": "Check each pick's listed minimum ceiling height and wall clearance against your room's actual measured dimensions before buying, not just the general size category."
   },
   {
     "subheading": "For a Studio Apartment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Verified real desk integration with a stated weight limit, plus confirmed ceiling height and wall clearance for your specific room."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Create is worth checking against its listed clearance requirements before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You'll fold the unit daily as part of an active desk-bed routine, where Hlivelood Queen Size Murphy Bed with 2 LED Lights's build quality and mechanism give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The bed stays in one position most of the time, where Queen Size Murphy Bed Hardware Kit covers the same job at a lower price."
       }
     ]
@@ -146,15 +146,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Desk lighting after fold-down",
     "description": "Considered whether each pick includes built-in desk lighting or leaves the desk surface reliant on overhead room light, which is often insufficient once you're seated facing the closed cabinet."
   },
   {
-    "title": "",
+    "title": "Monitor arm compatibility",
     "description": "Evaluated desk surface depth and panel thickness against the clamp range and load needs of a standard monitor arm, flagging which desks are realistically limited to a lightweight riser instead."
   },
   {
-    "title": "",
+    "title": "Acoustic and privacy considerations",
     "description": "Weighed cabinet material mass and finish against how much sound insulation the closed bed side realistically offers for video calls in a shared living space."
   },
   {
@@ -162,7 +162,7 @@ export const howWeEvaluated = [
     "description": "Classified each pick's cabinet material, from budget particleboard to mid-tier MDF, to set realistic expectations for long-term wear from daily folding."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed desk usability features, lighting, and cabinet material quality against price across the range of price points in this comparison in this list."
   }
 ];

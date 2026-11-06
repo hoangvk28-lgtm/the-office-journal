@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51ZcyYd0UxL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "Letter Tray Paper Organizer 5-Tier Desk Organizer File Organizer Paper Holder"
         ],
         [
-          "",
+          "Several distinct categories",
           "SUPEASY Mail Organizer for Desk"
         ],
         [
-          "",
+          "High document volume",
           "Ballucci 5-Tier File Organizer for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "Letter Tray Paper Organizer 5-Tier Desk Organizer File Organizer Paper Holder"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "WALI Desk File Organizer"
         ],
         [
-          "",
+          "Higher budget",
           "Ballucci 5-Tier File Organizer for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "Letter Tray Paper Organizer 5-Tier Desk Organizer File Organizer Paper Holder)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "SUPEASY Mail Organizer for Desk"
         ],
         [
           "Room for a taller multi-tier tray",
-          ""
+          "WALI Desk File Organizer"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SUPEASY Mail Organizer for Desk is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Ballucci 5-Tier File Organizer for Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Letter Tray Paper Organizer 5-Tier Desk Organizer File Organizer Paper Holder already covers the job at the lowest price here."
       }
     ]

@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ZaybQrcTL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Casual desk use",
           "12V Car Heating Cup Travel Coffee Maker Cup Insulated Water Heater Mug"
         ],
         [
           "Keeping a large mug hot",
-          ""
+          "LINGYOKY Car Electric Kettle for Travel 12-24V Compatible 13.5oz (Black)"
         ],
         [
-          "",
+          "Gift or bundle use",
           "Vacuum Insulated Car Electric Kettle, Miicasa Stainless Steel Tumbler Car Water"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "12V Car Heating Cup Travel Coffee Maker Cup Insulated Water Heater Mug"
         ],
         [
-          "",
+          "Mid-range pick",
           "FVPE Car Electric Kettle with Boil & Keep Warm for Commute/Travel, 450ML"
         ],
         [
-          "",
+          "Higher budget",
           "Vacuum Insulated Car Electric Kettle, Miicasa Stainless Steel Tumbler Car Water"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs Wall-Powered",
     "cards": [
       {
         "label": "12V Car Heating Cup Travel Coffee Maker Cup Insulated Water Heater Mug)",
         "text": "Plugs into a laptop or power bank, weaker heating strength."
       },
       {
-        "label": "",
+        "label": "Wall-powered",
         "text": "Stronger, more consistent heating, needs a free outlet."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Control Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Simple, no-fuss warming",
+          "LINGYOKY Car Electric Kettle for Travel 12-24V Compatible 13.5oz (Black)"
         ],
         [
-          "",
+          "Adjustable temperature control",
           "FVPE Car Electric Kettle with Boil & Keep Warm for Commute/Travel, 450ML"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Large or Insulated Mug Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wide base plate matched to your mug's diameter, and a ceramic or non-insulated mug material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5oz (Black) is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Vacuum Insulated Car Electric Kettle, Miicasa Stainless Steel Tumbler Car Water justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 12V Car Heating Cup Travel Coffee Maker Cup Insulated Water Heater Mug already covers the job at the lowest price here."
       }
     ]

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31xwXNHjTaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "Peakeep Battery Powered ($16.99)"
         ],
         [
-          "",
-          ""
+          "$19-$20",
+          "DreamSky ($18.99), Peakeep Mirror ($18.99), or Color Night Light ($19.99)"
         ]
       ]
     }
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you want USB charging or continuous ambient lighting, you'll need an AC-powered pick. If cordless placement flexibility matters more, the battery-only Peakeep pick is the better fit."
   },
   {
-    "subheading": "",
+    "subheading": "By Brightness Control Granularity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your lighting sensitivity",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -130,7 +130,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Want automatic adjustment without manual settings",
-          ""
+          "Peakeep Battery Powered (auto-dimmer)"
         ]
       ]
     }
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Charging Multiple Devices Overnight Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A clock with more than one USB port, ideally covering both USB-An and USB-C connector types for different devices."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Digital Alarm Clock with Color Night Light is the only pick here with both USB-An and USB-C ports for charging two devices simultaneously."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want ambient mood lighting and dual-device USB charging, where the Color Night Light pick delivers both features at the top of this price range."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A cordless clock with automatic dimming covers your needs, where the Peakeep Battery Powered pick delivers this at the lowest price in this comparison."
       }
     ]
@@ -165,19 +165,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Dimmable Brightness Range",
     "description": "Compared the number of distinct brightness levels each clock offers, from single-dimmer designs to 6-level granular control."
   },
   {
-    "title": "",
+    "title": "Alarm Volume Adjustability",
     "description": "Compared stated decibel ranges and the number of volume level options across the lineup for accommodating different sleep sensitivities."
   },
   {
-    "title": "",
+    "title": "USB Charging Port Inclusion",
     "description": "Checked which picks include a genuine USB charging port, and whether it supports one or multiple simultaneous devices."
   },
   {
-    "title": "",
+    "title": "Power Source Flexibility",
     "description": "Distinguished AC-adapter-powered clocks from fully battery-operated designs for placement flexibility."
   },
   {

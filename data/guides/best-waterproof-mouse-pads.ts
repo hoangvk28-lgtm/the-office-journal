@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/21AXnGIKhpL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tracking Surface Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Controlled, precise movement",
           "TECKNET Mouse Pad with Durable Anti-fray Stitching"
         ],
         [
-          "",
+          "Fast, low-friction glide",
           "TECKNET Gel Mouse Pad with Wrist Rest for Relieve Wrist Pain Comfortably"
         ],
         [
-          "",
+          "Budget cloth surface",
           "Premium Square Waterproof Mouse Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Premium Square Waterproof Mouse Pad"
         ],
         [
-          "",
+          "Mid-range pick",
           "Aothia Non-Slip Waterproof PU Leather Desk Pad Protector for Mouse"
         ],
         [
-          "",
+          "Higher budget",
           "TECKNET Gel Mouse Pad with Wrist Rest for Relieve Wrist Pain Comfortably"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Hard Surface",
     "cards": [
       {
         "label": "TECKNET Mouse Pad with Durable Anti-fray Stitching)",
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Size vs Your Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "Premium Square Waterproof Mouse Pad"
         ],
         [
-          "",
+          "Standard desk",
           "TECKNET Mouse Pad with Durable Anti-fray Stitching"
         ],
         [
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TECKNET Mouse Pad with Durable Anti-fray Stitching is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where TECKNET Gel Mouse Pad with Wrist Rest for Relieve Wrist Pain Comfortably justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward cloth pad for everyday use, where Premium Square Waterproof Mouse Pad already covers the job at the lowest price here."
       }
     ]

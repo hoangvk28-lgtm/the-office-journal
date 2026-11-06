@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/3145NISi9BL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -77,7 +77,7 @@ export const howToChoose: HowToChooseSection[] = [
           "TIENFOKOTA POE Splitter 48V to 12V (2 Pack)"
         ],
         [
-          "",
+          "Explicit 4KV surge protection",
           "LINOVISION Waterproof PoE Splitter, DC 12V (2 Pack)"
         ],
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $9",
+          "Bawofu Active PoE Splitter (2 Pack) ($8.99)"
         ],
         [
-          "",
-          ""
+          "Under $14",
+          "Gigabit PoE Splitter 12V 2A ($13.39)"
         ],
         [
-          "",
-          ""
+          "Under $16",
+          "TIENFOKOTA POE Splitter (2 Pack) ($15.99)"
         ],
         [
-          "",
-          ""
+          "Under $20",
+          "LINOVISION Waterproof Splitter (2 Pack) ($19.99)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Higher Amperage vs Waterproof Outdoor Rating",
     "cards": [
       {
-        "label": "",
+        "label": "Higher amperage (Gigabit pick)",
         "text": "Delivers 24W (2A) at full Gigabit speed, best for a higher-draw device that needs more continuous power and bandwidth."
       },
       {
@@ -129,23 +129,23 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your device draws close to 2A or needs Gigabit bandwidth, the top pick's higher output is worth prioritizing. If your installation faces real outdoor weather exposure, the waterproof-rated picks are the more appropriate choice regardless of amperage."
   },
   {
-    "subheading": "",
+    "subheading": "By Device Power Draw",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device's power draw",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Up to 1A (12W)",
           "Any pick in this comparison covers this need"
         ],
         [
-          "",
+          "1A to 1.2A",
           "Bawofu Active PoE Splitter Adapter"
         ],
         [
-          "",
+          "Up to 2A (24W)",
           "Gigabit PoE Splitter 12V 2A Output"
         ]
       ]
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a New Installer Unsure of Power Matching Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A listing that explicitly explains power matching, confirming the splitter's output power must exceed the device's actual power requirement to avoid underpowering."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The TIENFOKOTA pick specifically provides detailed power-matching guidance, walking through a concrete example of matching a 12V/1A device to an appropriately rated splitter."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by that combination."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -185,19 +185,19 @@ export const howWeEvaluated = [
     "description": "Compared documented current and total wattage across the 12V output picks."
   },
   {
-    "title": "",
+    "title": "Outdoor Waterproofing",
     "description": "Compared IP ratings and operating temperature ranges for outdoor installations."
   },
   {
-    "title": "",
+    "title": "Surge and Electrical Protection",
     "description": "Compared explicit surge protection ratings and other safety features."
   },
   {
-    "title": "",
+    "title": "Speed and Bandwidth",
     "description": "Compared Gigabit versus 100Mbps speed support."
   },
   {
-    "title": "",
+    "title": "Pack Size and Value",
     "description": "Compared single-unit versus 2-pack pricing for per-unit value."
   }
 ];

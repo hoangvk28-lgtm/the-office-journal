@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/31685mw+XnL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "Hanghs Desktop Document Holder/Paper Stand/Clipboard for Sheet"
         ],
         [
-          "",
+          "Continuous data entry",
           "3M Desktop Document Holder for Monitor"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "Hanghs Desktop Document Holder/Paper Stand/Clipboard for Sheet"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "MaxGear Desktop Document Holder"
         ],
         [
-          "",
+          "Higher budget",
           "TONOS Paper Stand Document Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Side-Mounted",
     "cards": [
       {
         "label": "Hanghs Desktop Document Holder/Paper Stand/Clipboard for Sheet)",
         "text": "Keeps the page in your direct sightline, minimal neck movement."
       },
       {
-        "label": "",
+        "label": "Side-mounted",
         "text": "Sits off to one side, more placement flexibility but more head turning."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single sheets",
           "3M Desktop Document Holder for Monitor"
         ],
         [
-          "",
-          ""
+          "Thicker stacks or booklets",
+          "MaxGear Desktop Document Holder"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Data-Entry Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sliding line guide and an adjustable viewing angle to reduce glare and neck strain."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3M Desktop Document Holder for Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where TONOS Paper Stand Document Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Hanghs Desktop Document Holder/Paper Stand/Clipboard for Sheet already covers the job at the lowest price here."
       }
     ]

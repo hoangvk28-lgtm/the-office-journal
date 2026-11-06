@@ -55,36 +55,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "5K QHD 110% SRGB 144Hz USB-C"
         ],
         [
-          "",
-          ""
+          "Largest review base (more statistical confidence)",
+          "EVICIV Portable Monitor 18.5 Inch 120Hz"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $97",
           "AHXJKA Portable Monitor 16\" 165Hz 1920x1200P 133% SRGB"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "ARZOPA 16.1'' 180Hz 2.5K Portable Monitor"
         ],
         [
           "No firm budget ceiling, prioritizing panel quality or resolution",
@@ -97,22 +97,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C DisplayPort Alt Mode vs HDMI",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C (DisplayPort Alt Mode)",
         "text": "Usually the port that hits the panel's full rated refresh rate, and can carry power alongside video on one cable. In this comparison: check each listing's stated USB-C refresh rate directly."
       },
       {
-        "label": "",
+        "label": "HDMI",
         "text": "Reliable for consoles and older sources, but often capped below the panel's full rated refresh, especially at higher resolutions. 5K QHD 110% SRGB 144Hz USB-C."
       }
     ],
     "note": "If you're connecting a console or HDMI-only source specifically, verify the actual HDMI refresh ceiling on your chosen pick, since several picks here cap lower over HDMI than their headline spec suggests."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Mount Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -121,7 +121,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Prefer the included kickstand or case",
-          ""
+          "ARZOPA 16.1'' 180Hz 2.5K Portable Monitor"
         ]
       ]
     }
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Handheld Gaming PC or Console Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Your exact source device's documented maximum output refresh rate over the connection type you'll use, checked independently from the monitor's own rated capability, since handhelds like Steam Deck and ROG Ally commonly cap at 60Hz over USB-C."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5K Portable Monitor fits this specifically: Exceeds 165Hz with real headroom."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5\" 2K 165Hz Portable Monitor offers: Largest screen in this guide by far. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "AHXJKA Portable Monitor 16\" 165Hz 1920x1200P 133% SRGB already covers the essentials: Explicitly discloses the USB-C 165Hz vs. The main thing you'd be paying extra for elsewhere in this list is headroom you may not actually use."
       }
     ]
@@ -160,8 +160,8 @@ export const howWeEvaluated = [
     "description": "Distinguished panels rated 165Hz from strong 144Hz/120Hz alternatives included because the perceptible difference is often minimal for the price difference."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Per-port refresh rate disclosure",
+    "description": "Checked which listings explicitly separate their USB-C ceiling from their HDMI ceiling, since 165Hz almost always requires DisplayPort/USB-C, not HDMI 2.0."
   },
   {
     "title": "Portability versus screen size honesty",

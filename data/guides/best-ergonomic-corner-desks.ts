@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Qojmc6p-L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "SEDETA Corner Electric Standing Desk with Drawer for Gaming"
         ],
         [
-          "",
+          "Standard home office",
           "Casaottima 63 Inch L Shaped Electric Standing Desk"
         ],
         [
-          "",
+          "Larger dedicated office",
           "VIVO Black 63 x 55 in Corner Standing Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "SEDETA Corner Electric Standing Desk with Drawer for Gaming"
         ],
         [
-          "",
+          "Mid-range pick",
           "Acrolix L Shaped Electric Standing Desk, 59x40 Reversible, Rustic Brown"
         ],
         [
-          "",
+          "Higher budget",
           "VIVO Black 63 x 55 in Corner Standing Desk"
         ]
       ]
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor",
           "Casaottima 63 Inch L Shaped Electric Standing Desk"
         ],
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SEDETA Corner Electric Standing Desk with Drawer for Gaming is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in storage, better cable management, and sturdier build quality, where VIVO Black 63 x 55 in Corner Standing Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where SEDETA Corner Electric Standing Desk with Drawer for Gaming already covers the job at the lowest price here."
       }
     ]

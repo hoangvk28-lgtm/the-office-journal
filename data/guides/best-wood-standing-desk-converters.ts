@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Which wood converter has the most reviews?",
-    "a": ""
+    "a": "The TechOrbits Standing Desk Converter, 32 inch, MDF Wood, with 2,847 reviews."
   },
   {
     "q": "Is there a genuine bamboo option?",
@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest confirmed wood or bamboo option?",
-    "a": ""
+    "a": "The Amazer 22 inch Standing Desk Converter, Bamboo Desk Riser, at $64.99."
   },
   {
     "q": "Are all wood-branded converters actually solid wood?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/51rQq+TqKyL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,30 +69,30 @@ export const howToChoose: HowToChooseSection[] = [
           "Amazer 22 inch Standing Desk Converter"
         ],
         [
-          "",
-          ""
+          "Dual monitors",
+          "TechOrbits OF-S06-2 Desk Converter"
         ],
         [
           "Triple monitors, need maximum surface area",
-          ""
+          "TechOrbits OF-S06-2 Desk Converter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $65",
           "Amazer 22 inch Standing Desk Converter"
         ],
         [
-          "",
+          "Mid-range",
           "VIVO Real Bamboo 32 inch Standing Desk Converter"
         ],
         [
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: TechOrbits OF-S06-2 Desk Converter, TechOrbits Standing Desk Converter, VIVO Real Bamboo 32 inch Standing Desk Converter."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: none in this specific roundup, since most picks here use a manual lift."
       }
     ],
@@ -120,17 +120,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest star rating",
+          "TechOrbits OF-S06-2 Desk Converter"
         ],
         [
-          "",
-          ""
+          "Largest review base (more statistical confidence)",
+          "TechOrbits Standing Desk Converter"
         ]
       ]
     }
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TechOrbits OF-S06-2 Desk Converter fits this specifically: Explicitly confirms MDF wood construction."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Amazer 22 inch Standing Desk Converter already covers the essentials: Confirmed bamboo at a much lower price. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]

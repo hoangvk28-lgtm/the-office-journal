@@ -57,38 +57,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/410AHQcKwvL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Most compact and portable",
           "5 Inch Full Screen Mini Digital Notepad Reusable Small Writing Pad with Hall Switch and Cover Case Portable Use for Office Study Teaching"
         ],
         [
-          "",
+          "Most writing room",
           "16 Inch LCD Writing Tablet 2 Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $18",
           "16 Inch LCD Writing Tablet 2 Pack"
         ],
         [
-          "",
+          "Mid-range",
           "10 inch LCD Writing Tablet Electronic Writing Notebook with PU Protective Cover Erasable Drawing Pad Gift for Adults at Home Business Office"
         ],
         [
@@ -99,14 +99,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Kids-Marketed vs Adult-Marketed",
     "cards": [
       {
-        "label": "",
+        "label": "Kids-Marketed",
         "text": "Bright colors and character branding, often the same core technology as adult versions at a similar or lower price. In this comparison: check each listing's marketing angle directly."
       },
       {
-        "label": "",
+        "label": "Adult-Marketed",
         "text": "Neutral styling suited to an office desk, sometimes at a price premium for the plainer look alone. 5 Inch Full Screen Mini Digital Notepad Reusable Small Writing Pad with Hall Switch and Cover Case Portable Use for Office Study Teaching."
       }
     ],
@@ -116,39 +116,39 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "With Memory Lock vs Basic Erase",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simplest single-button design",
           "10 inch LCD Writing Tablet Electronic Writing Notebook with PU Protective Cover Erasable Drawing Pad Gift for Adults at Home Business Office"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Gift-Giving Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear age-range marketing if buying for a specific child, genuine screen size (not just overall unit size), and a replaceable coin-cell battery for the longest useful life."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "10 inch LCD Writing Tablet Electronic Writing Notebook with PU Protective Cover Erasable Drawing Pad Gift for Adults at Home Business Office fits this specifically: Practical 10 inch size for everyday notes and sketches."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Boogie Board Jot Reusable Writing Tablet offers: Genuine magnetic mounting plus kickstand, rare in this pool. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "16 Inch LCD Writing Tablet 2 Pack already covers the essentials: Rare 16 inch large-format size. The main thing you'd be paying extra for elsewhere in this list is styling or accessories you may not need."
       }
     ]

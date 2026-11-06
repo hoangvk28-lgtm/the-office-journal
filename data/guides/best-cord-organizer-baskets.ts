@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41OBGLjQ34L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A few light cables",
           "Under Desk Cable Management Tray No Drill"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Cable Management Box Handwoven Faux Rattan Cord Basket with Lid (Scallop)"
         ],
         [
-          "",
-          ""
+          "A large mixed bundle",
+          "Rattan Cable Management Box"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,12 +95,12 @@ export const howToChoose: HowToChooseSection[] = [
           "Under Desk Cable Management Tray No Drill"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Cable Management Box"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Rattan Cable Management Box"
         ]
       ]
     }
@@ -113,27 +113,27 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Hides cables completely, needs ventilation for warm power bricks."
       },
       {
-        "label": "",
+        "label": "Sleeve/wrap",
         "text": "More flexible for adding cables, less visually contained."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under-desk hidden",
           "Cable Management Box Handwoven Faux Rattan Cord Basket with Lid (Scallop)"
         ],
         [
-          "",
-          ""
+          "Surface or freestanding",
+          "Cable Management Box"
         ]
       ]
     }
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequently Changing Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reusable fasteners and an open or slotted entry point rather than a fully sealed box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Cable Management Box Handwoven Faux Rattan Cord Basket with Lid (Scallop) is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Rattan Cable Management Box justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Under Desk Cable Management Tray No Drill already covers the job at the lowest price here."
       }
     ]

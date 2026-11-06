@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41+sWqQWZbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom or office",
           "JRD Warm & Cool Mist Humidifiers for Bedroom 5L"
         ],
         [
-          "",
+          "Standard bedroom",
           "Vicks Warm Mist Humidifier for Small to Medium Rooms"
         ],
         [
-          "",
+          "Larger living space",
           "Levoit LV600S Smart Warm& Cool Mist Humidifiers for Home Bedroom Large Room"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "JRD Warm & Cool Mist Humidifiers for Bedroom 5L"
         ],
         [
-          "",
+          "Mid-range pick",
           "Coolfiqu 6L Warm & Cool Mist Humidifiers for Bedroom, Large Room, Plants"
         ],
         [
-          "",
+          "Higher budget",
           "Levoit LV600S Smart Warm& Cool Mist Humidifiers for Home Bedroom Large Room"
         ]
       ]
@@ -114,53 +114,53 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Uses less electricity and covers larger rooms more effectively."
       },
       {
-        "label": "",
+        "label": "Warm mist",
         "text": "Kills bacteria in the water during boiling and runs near-silently, best for a small room."
       }
     ],
     "note": "Match this to your room size and how much you value quiet operation versus coverage."
   },
   {
-    "subheading": "",
+    "subheading": "By Maintenance Tolerance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Minimal daily upkeep",
           "Check tank capacity against how often you're willing to refill it"
         ],
         [
-          "",
+          "Don't mind frequent cleaning",
           "Vicks Warm Mist Humidifier for Small to Medium Rooms"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Hard Water Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An evaporative design (traps minerals in the wick) or plan to use distilled water with an ultrasonic model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Vicks Warm Mist Humidifier for Small to Medium Rooms is worth checking against its specific mist type before assuming any humidifier handles hard water the same way."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger tank, quieter operation, and extra features like a hygrometer display, where Levoit LV600S Smart Warm& Cool Mist Humidifiers for Home Bedroom Large Room justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need basic humidity for a small room and don't mind more frequent refills, where JRD Warm & Cool Mist Humidifiers for Bedroom 5L already covers the job at the lowest price here."
       }
     ]

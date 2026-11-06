@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41DOhkXmzOL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Protection Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,30 +69,30 @@ export const howToChoose: HowToChooseSection[] = [
           "SentrySafe Black Fireproof and Waterproof Safe"
         ],
         [
-          "",
+          "Genuine anti-removal, bolt-down support",
           "SentrySafe Fireproof Safe with Key Lock"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $68",
           "SentrySafe Black Fireproof and Waterproof Safe"
         ],
         [
-          "",
+          "Up to $102",
           "SentrySafe Shelf Safe with Digital Keypad Lock"
         ]
       ]
@@ -102,42 +102,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Physical Key vs Electronic Access",
     "cards": [
       {
-        "label": "",
+        "label": "Physical key",
         "text": "No batteries to fail, but a lost key means a lockout with no backup. In this comparison: SentrySafe Black Fireproof and Waterproof Safe, SentrySafe Fireproof Safe with Key Lock."
       },
       {
-        "label": "",
+        "label": "Electronic access",
         "text": "More convenient day to day, worth checking for a backup access method in case the battery dies. In this comparison: SentrySafe Fireproof Safe Box with Key Lock, DocSafe 5200°F Fireproof Document Organizer Box with Lock, SentrySafe Shelf Safe with Digital Keypad Lock, Bonsaii Safe Box with Electronic Keypad for Home Office, Yuanshikj Small Steel Security Safe Box with Keypad, Bonsaii Small Safe Box with Electronic Keypad for Valuables."
       }
     ],
     "note": "Most buyers should default to electronic access with a confirmed backup method unless simplicity is the top priority."
   },
   {
-    "subheading": "",
+    "subheading": "By Interior Capacity",
     "note": "Check each pick's listed interior dimensions, not just the cubic-footage figure, against what you're actually planning to store before buying."
   },
   {
     "subheading": "For Storing Documents or Cash Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed interior dimension roomy enough for the actual items, plus a backup access method beyond just a keypad."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Yuanshikj Small Steel Security Safe Box with Keypad is worth checking against its listed interior dimensions before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're storing valuable or irreplaceable items, where SentrySafe Shelf Safe with Digital Keypad Lock's higher price buys real security or fire-protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic theft deterrence for low-value items, where SentrySafe Black Fireproof and Waterproof Safe covers the same job at a lower price."
       }
     ]

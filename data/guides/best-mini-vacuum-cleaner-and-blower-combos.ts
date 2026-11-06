@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ALDoWmkVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Keyboard crumbs",
           "4 in 1 Cordless Handheld Car Vacuum"
         ],
         [
-          "",
+          "Whole-desk cleaning",
           "Vacuum/Air Duster Super Power Mini Car Vacuum Cleaner 4-in-1 air Blower Gun"
         ],
         [
-          "",
+          "Car interior",
           "Fanttik Slim V8 APEX Cordless Car Vacuum & Air Duster"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "4 in 1 Cordless Handheld Car Vacuum"
         ],
         [
-          "",
+          "Mid-range pick",
           "Glowsky Compressed Air Duster& Vacuum Cleaner"
         ],
         [
-          "",
+          "Higher budget",
           "Fanttik Slim V8 APEX Cordless Car Vacuum & Air Duster"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Corded vs Cordless",
     "cards": [
       {
         "label": "4 in 1 Cordless Handheld Car Vacuum)",
         "text": "Consistent suction, no battery to manage, lower price."
       },
       {
-        "label": "",
+        "label": "Cordless",
         "text": "Portable and quiet, but suction fades as the battery drains."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Suction Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday light cleaning",
           "Vacuum/Air Duster Super Power Mini Car Vacuum Cleaner 4-in-1 air Blower Gun"
         ],
         [
-          "",
+          "Maximum suction power",
           "Glowsky Compressed Air Duster& Vacuum Cleaner"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tight Keyboard Crevices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A narrow brush or crevice nozzle attachment included in the box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Vacuum/Air Duster Super Power Mini Car Vacuum Cleaner 4-in-1 air Blower Gun is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Fanttik Slim V8 APEX Cordless Car Vacuum & Air Duster justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 4 in 1 Cordless Handheld Car Vacuum already covers the job at the lowest price here."
       }
     ]

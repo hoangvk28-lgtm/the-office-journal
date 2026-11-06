@@ -18,7 +18,7 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Use review volume as evidence of durability under active study use",
-    "explanation": ""
+    "explanation": "Frequent erasing during study sessions is more demanding than occasional office notes — an established review base is useful evidence."
   },
   {
     "criterion": "Compare near-identical large boards by price and rating",
@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the cheapest option for students?",
-    "a": ""
+    "a": "The Small Dry Erase Board 10x10 at $8.99."
   },
   {
     "q": "Which has the most writing area for study notes?",
@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41sEyXE5tML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Choose by Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Tightest budget",
           "Small Dry Erase Board 10x10"
         ],
         [
-          "",
+          "Most study-note space",
           "AMUSIGHT Double-Sided Magnetic White Board"
         ],
         [
-          "",
+          "Same size, better value",
           "Cazeyoo Magnetic Desktop Whiteboard 16x12"
         ],
         [
@@ -81,7 +81,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Varhomax Glass Desk Whiteboard with Storage"
         ],
         [
-          "",
+          "Budget organizer",
           "Amazon Basics Desktop Dry Erase Whiteboard"
         ]
       ]
@@ -95,7 +95,7 @@ export const howWeEvaluated = [
     "description": "We prioritized affordable options more than in our home-office or professional whiteboard guides, reflecting typical student budget constraints."
   },
   {
-    "title": "",
+    "title": "Dorm-desk footprint",
     "description": "We noted where a board's size fits a typical, often shared or limited, dorm-room desk."
   },
   {
@@ -109,7 +109,7 @@ export const howWeEvaluated = [
 ];
 
 export const introParagraphs = [
-  "",
+  "Student desks are typically smaller than home-office desks and budgets are tighter, so we weighted price more heavily here than in our other whiteboard guides, while still requiring a genuine review base as evidence of durability under frequent use.",
   "Dorm-room desk space is also usually shared or limited, so compact footprint matters more here than for a dedicated home office."
 ];
 

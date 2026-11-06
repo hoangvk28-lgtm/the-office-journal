@@ -63,31 +63,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Hours Standing Per Day",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your day",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional standing",
           "FEATOL Anti Fatigue Mat for Standing Desk & Kitchen Floor"
         ],
         [
-          "",
+          "Several hours daily",
           "4/5 Inch Thick Kitchen Mats for Floor"
         ],
         [
-          "",
+          "Full-day standing desk use",
           "Ophanie Kitchen Mats for Floor, 3/4 inch Thick, 20x39 Anti Fatigue Cushioned"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "FEATOL Anti Fatigue Mat for Standing Desk & Kitchen Floor"
         ],
         [
-          "",
+          "Mid-range pick",
           "1-Inch Thick Anti-Fatigue Mat for Kitchen and Standing Desk"
         ],
         [
-          "",
+          "Higher budget",
           "Ophanie Kitchen Mats for Floor, 3/4 inch Thick, 20x39 Anti Fatigue Cushioned"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Foam vs Polyurethane",
     "cards": [
       {
         "label": "FEATOL Anti Fatigue Mat for Standing Desk & Kitchen Floor)",
@@ -120,19 +120,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how many hours a day the mat will actually see, not just initial comfort."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hard flooring",
           "4/5 Inch Thick Kitchen Mats for Floor"
         ],
         [
-          "",
+          "Carpet",
           "Check specifically for a mat rated for carpet use"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Barefoot or Sock Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A textured surface rather than smooth, which can feel slippery without shoes."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "4/5 Inch Thick Kitchen Mats for Floor is worth checking against its specific surface texture before assuming any mat grips the same barefoot."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You stand for most of the workday and want long-term support, where Ophanie Kitchen Mats for Floor, 3/4 inch Thick, 20x39 Anti Fatigue Cushioned justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only stand occasionally and want basic cushioning, where FEATOL Anti Fatigue Mat for Standing Desk & Kitchen Floor already covers the job at the lowest price here."
       }
     ]

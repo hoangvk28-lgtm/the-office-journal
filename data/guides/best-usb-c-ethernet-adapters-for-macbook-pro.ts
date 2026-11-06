@@ -52,16 +52,16 @@ export const howToChoose: HowToChooseSection[] = [
     "intro": "UGREEN's 5Gb adapter explicitly only works on Apple M3 and above, a real trap if you have an M1 or M2 MacBook Pro.",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your MacBook Pro chip",
+        "Safe pick"
       ],
       "rows": [
         [
-          "",
+          "M1 or M2",
           "5G adapter in this list except the 5Gb UGREEN"
         ],
         [
-          "",
+          "M3 and above",
           "Any pick, including the 5Gb UGREEN adapter"
         ]
       ]
@@ -84,23 +84,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Ethernet Speed & Chipset",
     "description": "5G/5G/10G) and, where published, the specific Realtek, Marvell, or other controller chip driving it, rather than assuming USB-C connector shape implies a speed tier."
   },
   {
-    "title": "",
+    "title": "Host & OS Compatibility",
     "description": "2 Gen 2 vs Thunderbolt/USB4) and confirmed OS support, since several products in this cluster have real exclusions (Android, Nintendo Switch, older Apple silicon)."
   },
   {
-    "title": "",
+    "title": "Real-World Documentation",
     "description": "Favored listings that publish honest real-world throughput or explicit host-speed caveats over ones that only quote the theoretical link rate."
   },
   {
-    "title": "",
+    "title": "Build Quality & Durability",
     "description": "Weighed braided cable construction, aluminum housing, and reinforced connectors, since these adapters see frequent plug/unplug cycles in daily use."
   },
   {
-    "title": "",
+    "title": "Genuine Feature Differentiators",
     "description": "Prioritized real differences like Wake-on-LAN, PXE boot, PD passthrough wattage, and multiport expansion over marketing language that repeats across nearly identical adapters."
   }
 ];

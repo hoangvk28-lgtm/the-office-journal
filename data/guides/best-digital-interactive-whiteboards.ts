@@ -63,15 +63,15 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "The Digital Workflow, End to End",
     "cards": [
       {
-        "label": "",
+        "label": "Create",
         "text": "Verify the board's native annotation tools support the content types (PDF, images, freehand) you'll actually use."
       },
       {
-        "label": "",
+        "label": "Save/export",
         "text": "Check whether sessions save to cloud storage (Google Drive, OneDrive) or only locally, and what file formats export supports."
       },
       {
-        "label": "",
+        "label": "Share/reopen",
         "text": "Confirm QR-code or link-based sharing works without requiring the recipient to install a specific app or create an account."
       }
     ]
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Product Architecture",
     "description": "Classified each product as a flat-panel display, projector-based interactive system, or portable conversion hardware, since these serve fundamentally different room setups and budgets."
   },
   {
-    "title": "",
+    "title": "Touch & Writing Behavior",
     "description": "Checked documented touch-point count, simultaneous-writer capacity, response latency, and touch technology (infrared, PCAP, or sensor-bar) rather than assuming higher touch-point numbers always mean a better writing experience."
   },
   {
@@ -92,11 +92,11 @@ export const howWeEvaluated = [
     "description": "Verified whether each board has genuine Google EDLA certification, which Android or Windows generation it runs, and whether an OPS slot requires a separately purchased module for full functionality."
   },
   {
-    "title": "",
+    "title": "Connectivity & Collaboration",
     "description": "Tested claims around wireless casting device limits, touch-back control, video conferencing platform compatibility (Zoom, Teams, Meet, Webex), and camera/microphone hardware quality where documented."
   },
   {
-    "title": "",
+    "title": "Build, Mounting & Support",
     "description": "Weighed panel weight, included wall mount versus separately sold stands, warranty length, and after-sales support commitments against the realistic deployment cost."
   }
 ];

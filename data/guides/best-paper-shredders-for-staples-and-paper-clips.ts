@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Aurora AU1210MA Professional Grade High Security 12"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Amazon Basics 12"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $34",
+          "Amazon Basics 8"
         ],
         [
-          "",
+          "Up to $136",
           "Aurora AU1210MA Professional Grade High Security 12"
         ]
       ]
@@ -94,7 +94,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Amazon Basics 8 vs Aurora AU1210MA Professional Grade High Security 12",
     "cards": [
       {
-        "label": "",
+        "label": "Amazon Basics 8",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
@@ -105,16 +105,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Amazon Basics 8 unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Amazon Basics 12"
         ]
       ]
     }
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Amazon Basics 12 is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Aurora AU1210MA Professional Grade High Security 12's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Amazon Basics 8 covers the same job at a lower price."
       }
     ]
@@ -149,7 +149,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Security-vs-staple-tolerance tradeoff explicitly separated",
     "description": "Distinguished coarser cross-cut/strip-cut picks (better staple tolerance) from finer micro-cut picks (higher security, tighter tolerances more prone to jamming on fasteners), rather than treating any 'handles staples' claim as equivalent."
   },
   {

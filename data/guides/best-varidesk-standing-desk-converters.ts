@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Does VariDesk make an electric model?",
-    "a": ""
+    "a": "Yes, the Vari Pro Plus 36 Electric, though it has a much smaller review base (27) than the manual models."
   },
   {
     "q": "What's the largest current VariDesk?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41I06ihR+sL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Vari Pro Plus 36 Electric"
         ],
         [
-          "",
+          "Dual monitors",
           "Vari VariDesk Pro Plus 36"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $299",
           "Vari Pro Plus 36 Electric"
         ],
         [
-          "",
+          "Mid-range",
           "Vari VariDesk Pro Plus 36"
         ],
         [
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: Vari VariDesk Pro Plus 36, Vari VariDesk Pro Plus 48, Vari VariDesk Essential 36."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: Vari Pro Plus 36 Electric."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Vari VariDesk Pro Plus 36"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Vari VariDesk Pro Plus 36"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Vari VariDesk Pro Plus 36 fits this specifically: Highest rating in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Vari VariDesk Pro Plus 48 offers: Largest current VariDesk platform we confirmed. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Vari Pro Plus 36 Electric already covers the essentials: Only confirmed current electric VariDesk model. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]
@@ -174,7 +174,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Weighed the electric model's small review count honestly",
-    "description": ""
+    "description": "The only confirmed current electric VariDesk has just 27 reviews, and we flagged this directly rather than treating its rating with the same confidence as the established Pro Plus models."
   },
   {
     "title": "Compared price against the specific mechanism and platform size",

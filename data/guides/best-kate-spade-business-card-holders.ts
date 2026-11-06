@@ -61,76 +61,76 @@ export const heroImage = "https://m.media-amazon.com/images/I/319b+KH4yOL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Carrying your own cards",
+          "Kakurookie Business Card Holder"
         ],
         [
-          "",
-          ""
+          "Displaying cards for visitors",
+          "PATIKIL Business Card Holder"
         ],
         [
-          "",
-          ""
+          "Client-facing handoffs",
+          "Kakurookie Business Card Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Kakurookie Business Card Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "2 Pack Business Card Holder Case"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Kakurookie Business Card Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Top vs Snap-Closed",
     "cards": [
       {
-        "label": "",
+        "label": "Open-top (e.g. Kakurookie Business Card Holder)",
         "text": "Faster one-hand access, less protection against spilling."
       },
       {
-        "label": "",
+        "label": "Snap/magnetic closed",
         "text": "Secures cards fully, takes an extra motion to open."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your card volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "A small daily-carry stack",
+          "PATIKIL Business Card Holder"
         ],
         [
           "A larger desk or display stock",
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Client-Facing Handoffs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A material (leather or solid metal) that reinforces a professional impression at the handoff moment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "PATIKIL Business Card Holder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Kakurookie Business Card Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Kakurookie Business Card Holder already covers the job at the lowest price here."
       }
     ]

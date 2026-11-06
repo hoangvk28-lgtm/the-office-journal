@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41u0-G8pZhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -72,7 +72,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Walking Pad Treadmill with 18% Incline and Handle, Bluetooth Speaker"
         ],
         [
-          "",
+          "Detailed app-based workout reports",
           "UREVO Strol 2E Pro Smart Walking Pad Treadmill"
         ],
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $180",
+          "18% Incline Bluetooth or 15% Incline Dual Display (both $179.99)"
         ],
         [
-          "",
-          ""
+          "Under $199",
+          "TOPUTURE ($198.99)"
         ],
         [
-          "",
-          ""
+          "Under $198",
+          "UREVO ($197.99)"
         ]
       ]
     }
@@ -127,21 +127,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Family or Multi-User Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your household situation",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Multiple users of different heights",
-          ""
+          "TOPUTURE (adjustable handlebar)"
         ],
         [
           "Single primary user, entertainment focus",
-          ""
+          "18% Incline Bluetooth Speaker"
         ],
         [
           "Single primary user, data tracking focus",
-          ""
+          "UREVO"
         ]
       ]
     }
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Household With Both Walkers and Joggers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine dual-mode design with a raised handrail option supporting running speeds up to 6-7 MPH, not just an extended walking speed range."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "0 MPH for different household members."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want detailed app-based workout reports and data tracking, where the UREVO pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want dual-mode walking-to-running functionality with entertainment features, where the 18% Incline Bluetooth Speaker pick covers that for about $18 less."
       }
     ]
@@ -180,15 +180,15 @@ export const howWeEvaluated = [
     "description": "Compared genuine walking-to-running dual-mode switching against single-mode designs."
   },
   {
-    "title": "",
+    "title": "Incline Flexibility",
     "description": "Compared incline percentage range and number of adjustable levels across the lineup."
   },
   {
-    "title": "",
+    "title": "App and Smart Features",
     "description": "Checked for app-based tracking, Bluetooth speakers, and RGB lighting across all four picks."
   },
   {
-    "title": "",
+    "title": "Ergonomic Design",
     "description": "Compared handlebar adjustability and belt surface size across the tier."
   },
   {

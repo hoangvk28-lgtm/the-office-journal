@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the best desktop charging station for a typical family?",
-    "a": ""
+    "a": "The Prosumer's Choice Wooden Charging Station Organizer, with the largest confirmed review base at 2,862 reviews."
   },
   {
     "q": "Is there an option that actually charges laptops, not just phones and tablets?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "VEVOR 16 Device Charging Station with Lock & Key"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Prosumer's Choice Wooden Charging Station Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $36",
           "510W Fast Charging Station for Multiple Devices"
         ],
         [
-          "",
+          "Up to $230",
           "VEVOR 16 Device Charging Station with Lock & Key"
         ]
       ]
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to 510W Fast Charging Station for Multiple Devices unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Prosumer's Choice Wooden Charging Station Organizer"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Prosumer's Choice Wooden Charging Station Organizer is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where VEVOR 16 Device Charging Station with Lock & Key's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where 510W Fast Charging Station for Multiple Devices covers the same job at a lower price."
       }
     ]
@@ -153,7 +153,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Desktop-scale versus cart-scale disclosure",
     "description": ") from small institutional-style carts (JOXPRING, VEVOR, Kraftgen) rather than presenting all eight as equivalent home options."
   },
   {
@@ -161,11 +161,11 @@ export const howWeEvaluated = [
     "description": "We recorded stated total wattage for the high-port-count chargers, but none of these listings had independently verified simultaneous-load data across every port at once."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Review base weighted against price and claims",
+    "description": "A cart with 4 reviews and a cart with 0 reviews both carry more evaluation risk than the two desktop organizers with over 1,600 reviews each."
   },
   {
-    "title": "",
+    "title": "Laptop-specific rating disclosure",
     "description": "Only the Plugsharge pick explicitly claims laptop compatibility; we flagged this rather than assuming every phone/tablet charging dock handles laptop-level power needs."
   }
 ];

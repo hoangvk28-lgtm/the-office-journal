@@ -63,31 +63,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Long You'll Sit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your session length",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Short 20-30 minute stretches",
           "Kneeling Chair with Backrest Ergonomic Adjustable Office Kneel Chair"
         ],
         [
           "Regular rotation through the day",
-          ""
+          "Ergonomic Kneeling Chair"
         ],
         [
-          "",
+          "Longer 2-4 hour stretches",
           "Kneeling Chair with Backrest Adjustable PU Leather Ergonomic Office Chair"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Kneeling Chair with Backrest Ergonomic Adjustable Office Kneel Chair"
         ],
         [
-          "",
+          "Mid-range pick",
           "Kneeling Chair Linen Ergonomic Home Office Chair Adjustable Height"
         ],
         [
-          "",
+          "Higher budget",
           "Kneeling Chair with Backrest Adjustable PU Leather Ergonomic Office Chair"
         ]
       ]
@@ -120,11 +120,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're notably tall or short, a rocking model gives you more real range of motion to compensate."
   },
   {
-    "subheading": "",
+    "subheading": "By Backrest Availability",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,33 +133,33 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Fine with the classic backless design",
-          ""
+          "Ergonomic Kneeling Chair"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Back Pain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An adjustable shin pad and seat tilt, since a fixed, poorly-angled pad can concentrate pressure rather than relieve it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Ergonomic Kneeling Chair is worth checking against its specific tilt and cushioning spec before assuming it fits your back pain needs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to sit for longer stretches and want a genuine rocking mechanism and better cushioning, where Kneeling Chair with Backrest Adjustable PU Leather Ergonomic Office Chair justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're rotating in short sessions and just want the basic kneeling posture benefit, where Kneeling Chair with Backrest Ergonomic Adjustable Office Kneel Chair already covers the job at the lowest price here."
       }
     ]

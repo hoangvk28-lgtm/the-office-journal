@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the best overall office supply organizer cart?",
-    "a": ""
+    "a": "The Pipishell 3 Tier Rolling Cart, with by far the largest confirmed review base at over 15,000 reviews, though it uses open tiers rather than enclosed drawers."
   },
   {
     "q": "Which pick offers true multi-drawer organization?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "YASONIC 3 Tier Metal Rolling Cart"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Pipishell 3 Tier Rolling Cart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $22",
           "Goovilla 3 Tier Rolling Utility Cart Organizer with Removable Drawer"
         ],
         [
-          "",
+          "Up to $60",
           "SYKIARIOL Rolling Cart with Drawers"
         ]
       ]
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Goovilla 3 Tier Rolling Utility Cart Organizer with Removable Drawer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Pipishell 3 Tier Rolling Cart"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Pipishell 3 Tier Rolling Cart is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where SYKIARIOL Rolling Cart with Drawers's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Goovilla 3 Tier Rolling Utility Cart Organizer with Removable Drawer covers the same job at a lower price."
       }
     ]

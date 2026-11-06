@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/31TxeKtPWwL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
         "What you need it for",
@@ -65,30 +65,30 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "",
-          ""
+          "Everyday note-taking and reading",
+          "Like-New Amazon Kindle Scribe"
         ],
         [
-          "",
+          "AI-assisted or document-heavy work",
           "Amazon Kindle Scribe Colorsoft 64GB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $324",
+          "Like-New Amazon Kindle Scribe"
         ],
         [
-          "",
+          "Mid-range",
           "ReMarkable 2 with Marker Plus"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "AI Features Included vs Subscription-Gated",
     "cards": [
       {
-        "label": "",
+        "label": "Included, No Subscription",
         "text": "AI note tools come with the purchase price, no ongoing cost. In this comparison: check each listing's terms directly."
       },
       {
-        "label": "",
+        "label": "Subscription-Gated",
         "text": "Advanced AI features require an ongoing paid plan on top of the hardware price. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
@@ -116,43 +116,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "ReMarkable 2 with Marker Plus"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "ReMarkable 2 with Marker Plus"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Handwriting-to-Text Conversion Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of handwriting-to-text conversion (not just \"AI\" generally), and whether that specific feature is included or requires a subscription."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Amazon Kindle Scribe Colorsoft 64GB fits this specifically: Largest fixed storage tier in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Amazon Kindle Scribe Colorsoft 64GB offers: Largest fixed storage tier in this comparison. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Like-New Amazon Kindle Scribe already covers the essentials: Same top storage tier as the new Colorsoft at a fraction of the price. The main thing you'd be paying extra for elsewhere in this list is features or storage you may not need."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "We ranked by the largest available fixed storage configuration for each product line, since that's what buyers actually control."
   },
   {
-    "title": "",
+    "title": "Price against storage tier",
     "description": "We compared refurbished versus new pricing at the same storage tier, since the value gap can be significant."
   },
   {

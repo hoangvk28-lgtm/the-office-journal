@@ -56,49 +56,49 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Epson Workforce ES"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Canon imageFORMULA R10 Portable Document Scanner"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $140",
           "HP Small USB Document & Photo Scanner for Portable 1"
         ],
         [
-          "",
-          ""
+          "Up to $350",
+          "ScanSnap iX2400 High"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Scanning",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex scanning",
         "text": "Captures both sides of a page in one pass, worth it if you regularly handle double-sided documents. In this comparison: Epson Workforce ES, Canon imageFORMULA R10 Portable Document Scanner, ScanSnap iX1300 Wireless or USB Double, Canon imageFORMULA R40II Office Document Scanner."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if your documents are mostly single-sided. In this comparison: ScanSnap iX2400 High, HP Small USB Document & Photo Scanner for Portable 1."
       }
     ],
@@ -108,17 +108,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By OCR / Searchable PDF Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Searchable PDF with OCR",
+          "Epson Workforce ES"
         ],
         [
-          "",
-          ""
+          "Plain scans are enough",
+          "ScanSnap iX2400 High"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tax or Financial Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated duty cycle matched to your real monthly volume, plus verified OCR accuracy on receipts and financial documents specifically."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Epson Workforce ES discloses OCR and searchable PDF support."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You process a real daily volume of double-sided documents, where ScanSnap iX2400 High's higher duty cycle and speed give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only scan occasionally at low volume, where HP Small USB Document & Photo Scanner for Portable 1 covers the same job at a lower price."
       }
     ]

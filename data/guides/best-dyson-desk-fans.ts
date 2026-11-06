@@ -61,20 +61,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/31sZIZnj3TL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Desk Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "Dyson HushJet Mini Bladeless Personal Fan (Ink/Cobalt)"
         ],
         [
-          "",
-          ""
+          "Standard desk",
+          "Dyson Purifier Cool PC1"
         ],
         [
           "Large desk, need real airflow",
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Dyson HushJet Mini Bladeless Personal Fan (Ink/Cobalt)"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Dyson Purifier Hot+Cool HP1"
         ],
         [
-          "",
+          "Higher budget",
           "Dyson Purifier Cool PC2 De-NOx"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs AC-Plugged",
     "cards": [
       {
         "label": "Dyson HushJet Mini Bladeless Personal Fan (Ink/Cobalt))",
         "text": "Convenient for a laptop-only setup, but capped at lower airflow than AC power."
       },
       {
-        "label": "",
+        "label": "AC-plugged",
         "text": "More consistent, stronger airflow, but ties the fan to one spot near an outlet."
       }
     ],
     "note": "Match this to whether portability or raw airflow matters more for your setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Noise Sensitivity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,8 +133,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Check the DB rating at your actual daily speed, not just the lowest setting"
         ],
         [
-          "",
-          ""
+          "Noise isn't a concern",
+          "Dyson Purifier Cool PC1"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk or Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wider oscillation range (90 to 120 degrees) to spread airflow across more of the surface."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Dyson Purifier Cool PC1 is worth checking against its specific oscillation range before assuming any 'wide coverage' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want stronger airflow, lower noise, and extra features like a remote or timer, where Dyson Purifier Cool PC2 De-NOx justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want a straightforward personal cooling boost, where Dyson HushJet Mini Bladeless Personal Fan (Ink/Cobalt) already covers the job at the lowest price here."
       }
     ]

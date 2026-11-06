@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "A '10GbE' Label Should Be Confirmed as True 10Gbps Speed, Not a Rebranded 2.5G or 5G Unit",
     "explanation": "All four picks in this comparison explicitly state true 10Gbps speed capability, but the broader market includes units marketed loosely with '10G' language that actually cap at lower speeds internally, meaning the specific stated speed range in a listing's technical specifications matters more than the product title alone. This matters significantly if you're specifically buying to support a bandwidth-hungry application like aggregated 4K camera feeds or a high-density Wi-Fi 7 deployment, since a mislabeled unit would fail to deliver the throughput you're paying for. 5G/5G/10G), not just a product title using '10GbE' language."
   },
   {
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41QxbUaBLgL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Access Point Brand",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your access point",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,7 +78,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "No specific brand, want UL certification",
-          ""
+          "Omada 10G PoE++ Injector"
         ],
         [
           "Industrial cabinet with redundancy need",
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $60",
+          "PROCET PoE Injector 10 Gigabit 60W ($59.99)"
         ],
         [
-          "",
-          ""
+          "Under $81",
+          "Omada 10G PoE++ Injector ($80.45)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "Cudy 90W 10 Gbps PoE++ Injector ($89.99)"
         ],
         [
-          "",
-          ""
+          "Under $120",
+          "PROCET 10 Gbps DIN Rail AC/DC ($119.00)"
         ]
       ]
     }
@@ -118,26 +118,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "60W vs 90W at the 10Gbps Tier",
     "cards": [
       {
-        "label": "",
+        "label": "60W (PROCET picks)",
         "text": "Sufficient for most Wi-Fi 6E/7 access points and standard PTZ cameras that don't include a heater element or extreme high-draw features."
       },
       {
-        "label": "",
+        "label": "90W (Cudy, Omada)",
         "text": "Necessary for the highest-draw devices like a PTZ camera with a heater or the most demanding enterprise access point models."
       }
     ],
     "note": "Check your specific device's actual power draw specification before assuming you need the higher 90W tier; most devices this injector class serves fall within the 60W ceiling."
   },
   {
-    "subheading": "",
+    "subheading": "By Power Input Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your installation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard indoor AC outlet",
           "Cudy, PROCET 60W, or Omada picks"
         ],
         [
@@ -145,7 +145,7 @@ export const howToChoose: HowToChooseSection[] = [
           "PROCET 10 Gbps DIN Rail AC/DC"
         ],
         [
-          "",
+          "Mission-critical with redundancy need",
           "PROCET 10 Gbps DIN Rail AC/DC"
         ]
       ]
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Multi-Camera 4K Surveillance Backbone Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5G unit mislabeled with 10G marketing language, since aggregating multiple 4K camera feeds benefits from the higher bandwidth ceiling."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "6A cable support at 90m specifically suited to a demanding camera backbone."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the highest power ceiling with documented surge protection, or an industrial DIN-rail unit with redundant power input, where the Cudy or PROCET DIN-rail picks justify their price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99 price delivers named compatibility at the lowest cost in this comparison."
       }
     ]
@@ -181,29 +181,29 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
-    "description": ""
+    "title": "True 10Gbps Verification",
+    "description": "Confirmed each listing explicitly states true 10Gbps port speed, not just a 2.5G or 5G label."
   },
   {
-    "title": "",
+    "title": "Named Device Compatibility",
     "description": "Compared listings naming specific compatible eero, UniFi, or brand-specific access point models."
   },
   {
-    "title": "",
+    "title": "Power Delivery Tier",
     "description": "Compared 60W versus 90W power ceilings relative to real device requirements."
   },
   {
-    "title": "",
+    "title": "Power Input Flexibility",
     "description": "Compared AC-only designs against dual AC/DC input with redundancy support."
   },
   {
-    "title": "",
+    "title": "Certification and Protection",
     "description": "Compared UL certification and stated surge/ESD protection ratings."
   }
 ];
 
 export const introParagraphs = [
-  "",
+  "A true 10GbE PoE injector breaks past the traditional 1Gbps bottleneck for the newest Wi-Fi 6E and Wi-Fi 7 access points, high-resolution multi-camera surveillance systems, and other bandwidth-hungry PoE devices that a Gigabit or even 2.5G injector would throttle.",
   "We compared this lineup on real named device compatibility and power delivery, since one listing specifically names eero PoE 7, UniFi U6-Enterprise, and U7 Pro Max/XG compatibility while another targets Cudy's own AP11000 and AP6500 access points."
 ];
 

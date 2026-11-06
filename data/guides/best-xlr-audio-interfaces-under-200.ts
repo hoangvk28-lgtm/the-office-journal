@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/21gVPbaunLL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,12 +73,12 @@ export const howToChoose: HowToChooseSection[] = [
           "Focusrite Scarlett 2i2 4th Gen USB Audio Interface"
         ],
         [
-          "",
+          "Vintage tube-style preamp coloration",
           "Universal Audio Volt 2 USB Audio Interface"
         ],
         [
           "A physical production controller for hands-on DAW mixing",
-          ""
+          "PreSonus ioStation 24c"
         ],
         [
           "Console-grade single-preamp quality at the lowest price",
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $186",
+          "Audient iD4 MKII ($185.00)"
         ],
         [
-          "",
-          ""
+          "Under $200",
+          "Universal Audio Volt 2 ($199.00)"
         ],
         [
-          "",
-          ""
+          "Under $225",
+          "Focusrite Scarlett 2i2 4th Gen ($224.99)"
         ],
         [
-          "",
-          ""
+          "Under $250",
+          "PreSonus ioStation 24c ($249.99)"
         ]
       ]
     }
@@ -129,20 +129,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to a clean, transparent preamp like the Audient iD4 unless you specifically want the vintage coloration the Volt 2 provides for music production."
   },
   {
-    "subheading": "",
+    "subheading": "By Physical Control Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your workflow preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Mouse-and-keyboard DAW control",
           "Focusrite Scarlett 2i2 4th Gen or Universal Audio Volt 2"
         ],
         [
           "Hands-on physical fader and transport control",
-          ""
+          "PreSonus ioStation 24c"
         ]
       ]
     }
@@ -151,25 +151,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Two-Person Podcasts or Interviews Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "2 simultaneous mic preamps with independent gain control per channel, so each speaker's voice can be leveled separately without one overpowering the other."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Focusrite Scarlett 2i2 4th Gen specifically offers 2 channels of Auto Gain technology, automatically balancing both speakers without manual adjustment."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price with genuine tactile control hardware."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You want console-grade single-channel preamp quality without paying for a second channel you don't need, where the Audient iD4 MKII delivers that for $185.00."
       }
     ]
   }
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Preamp Gain Range",
     "description": "Compared stated maximum gain in decibels and clean-gain headroom across all four picks."
   },
   {
-    "title": "",
+    "title": "Tone-Shaping Features",
     "description": "Compared vintage emulation modes and onboard compression against transparent, clean designs."
   },
   {
-    "title": "",
+    "title": "Physical Control Surfaces",
     "description": "Compared monitor dials, faders, and transport controls for hands-on workflow support."
   },
   {
-    "title": "",
+    "title": "Bundled Software Depth",
     "description": "Compared included DAW software and plugin suites for genuine dollar value."
   },
   {
-    "title": "",
+    "title": "Channel Count",
     "description": "Compared single versus dual simultaneous mic preamp configurations."
   }
 ];

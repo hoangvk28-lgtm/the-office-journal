@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Portable Noise"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Portable Noise"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $NaN",
+          "Portable Noise"
         ],
         [
-          "",
+          "Up to $NaN",
           "Luxury Acoustic Home Office Pod for Meeting and Multipurpose Use"
         ]
       ]
@@ -98,42 +98,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Mobile on Wheels vs Fixed Placement",
     "cards": [
       {
-        "label": "",
+        "label": "Wheels for repositioning",
         "text": "Easier to reposition within a room, though still heavy and not truly portable between floors. In this comparison: Mobile Office Pod Booth."
       },
       {
-        "label": "",
+        "label": "Fixed placement",
         "text": "No mobility, but often a more stable, permanent installation. In this comparison: Portable Noise, Portable Soundproof Office Pod Booth, Soundproof Office Pod Booth, Luxury Acoustic Home Office Pod for Meeting and Multipurpose Use."
       }
     ],
     "note": "Default to fixed placement unless you specifically expect to reposition the pod within a room."
   },
   {
-    "subheading": "",
+    "subheading": "By Disclosed Dimensions",
     "note": "Check each pick's listed exterior dimensions in inches against your actual available space before buying, not just its size category label."
   },
   {
     "subheading": "For Remote Work Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A verified STC or DB reduction rating, plus confirmed ventilation with a stated CFM figure for comfortable extended use during calls."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Portable Noise is worth checking against its listed acoustic and ventilation specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need verified acoustic isolation and ventilation for daily extended use, where Luxury Acoustic Home Office Pod for Meeting and Multipurpose Use's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional light use, where Portable Noise covers the same job at a lower price."
       }
     ]
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Verified listing data only",
     "description": "Used only the price, dimensions, and occupancy claims actually printed in each Amazon listing, no invented ratings or review counts for any product in this niche."
   },
   {
@@ -150,11 +150,11 @@ export const howWeEvaluated = [
     "description": "Treated words like \"soundproof,\" \"silent,\" and \"outdoor\" as marketing claims and checked whether each listing backed them with any dimension or test data before repeating them as differentiators."
   },
   {
-    "title": "",
+    "title": "Installation logistics weighted heavily",
     "description": "Weighted freight delivery, assembly crew needs, and floor-loading requirements as seriously as interior comfort, since these are large structures, not standard furniture."
   },
   {
-    "title": "",
+    "title": "Brand landscape disclosed",
     "description": "Confirmed no established office-pod brand currently sells on Amazon and disclosed that fact rather than implying brand-name quality where none exists."
   }
 ];

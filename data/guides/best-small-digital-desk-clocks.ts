@@ -32,11 +32,11 @@ export const faq = [
     "a": "8) than the other picks."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "Which is the highest-rated?",
+    "a": "The DreamSky Wooden Digital Alarm Clock and the Peakeep Slim Digital Mirror Clock are tied at 4.6 stars."
   },
   {
-    "q": "",
+    "q": "What's the smallest footprint?",
     "a": "5 Inch Small Desk Clock."
   },
   {
@@ -44,8 +44,8 @@ export const faq = [
     "a": "The JALL Analog Alarm Clock is silent and non-ticking, though it's analog rather than digital."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The Lamisola and AMIR clocks are tied at $9.99."
   }
 ];
 
@@ -57,16 +57,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41zup4v0gaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Movement Type",
     "table": {
       "headers": [
-        "",
+        "What you want",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "A quiet, non-ticking movement",
+          "JALL Analog Alarm Clock"
         ],
         [
           "A digital, fully silent display",
@@ -80,20 +80,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "AMIR Digital Alarm Clock"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "JALL Analog Alarm Clock"
         ],
         [
           "No firm budget ceiling, prioritizing material or brand",
@@ -103,14 +103,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs Corded",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-Powered",
         "text": "Runs on batteries alone, so it can sit anywhere on a desk or shelf with no cord in the way, at the cost of an eventual battery swap. In this comparison: DreamSky Wooden Digital Alarm Clock for Bedroom Living Room, AMIR Digital Alarm Clock, JALL Analog Alarm Clock."
       },
       {
-        "label": "",
+        "label": "Corded (Plug-In)",
         "text": "Draws continuous power from a wall outlet, often adding features like USB charging ports or a battery backup for outages, but it has to sit within cord length of a plug. In this comparison: none in this specific roundup, since most picks here are battery powered."
       }
     ],
@@ -120,12 +120,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Purpose: Everyday Use vs Gift",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your purpose",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday functional desk use",
           "DreamSky Wooden Digital Alarm Clock for Bedroom Living Room"
         ],
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buying as a Gift Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine material language, such as hand carved, real marble, or real crystal, rather than a marble-look or crystal-look plastic finish, plus a stated production or engraving lead time if personalization is involved."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Peakeep Slim Digital Mirror Aesthetic Alarm Clock for Bedrooms Desk Decor fits this specifically: Tied for highest rating in this comparison. That's the kind of detail that signals a deliberate gift rather than a purely functional purchase."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Peakeep Slim Digital Mirror Aesthetic Alarm Clock for Bedrooms Desk Decor offers: Tied for highest rating in this comparison. That's a real material or craftsmanship upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is styling rather than function."
       }
     ]
@@ -169,12 +169,12 @@ export const howWeEvaluated = [
     "description": "We specifically favored products advertising large numbers or high-contrast displays, since a small clock that's unreadable defeats the purpose."
   },
   {
-    "title": "",
+    "title": "Genuine footprint comparison",
     "description": "We compared actual physical size across products, noting the Lamisola pick as the smallest true footprint here."
   },
   {
     "title": "Review volume weighed honestly against rating",
-    "description": ""
+    "description": "We flagged where the largest review base (AMIR) carries a notably lower rating than smaller-volume competitors."
   },
   {
     "title": "Included one analog alternative for silence",

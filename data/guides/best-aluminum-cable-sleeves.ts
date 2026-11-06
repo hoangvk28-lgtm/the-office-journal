@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/51S3FFP8rtL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "QDiShi 1/8\" (3mm) Aluminum Crimping Loop Sleeve for 1/8\" Wire Rope"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "1/8\" Aluminum Crimping Loop Sleeve 100PCS"
         ],
         [
-          "",
-          ""
+          "A thick multi-cable run",
+          "3/16 Aluminum Ferrules"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,45 +95,45 @@ export const howToChoose: HowToChooseSection[] = [
           "QDiShi 1/8\" (3mm) Aluminum Crimping Loop Sleeve for 1/8\" Wire Rope"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "1/8 Aluminum Cable Crimps"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "3/16 Aluminum Ferrules"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "QDiShi 1/8\" (3mm) Aluminum Crimping Loop Sleeve for 1/8\" Wire Rope)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "1/8\" Aluminum Crimping Loop Sleeve 100PCS"
         ],
         [
           "Near a real heat source",
-          ""
+          "1/8 Aluminum Cable Crimps"
         ]
       ]
     }
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "1/8\" Aluminum Crimping Loop Sleeve 100PCS is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 3/16 Aluminum Ferrules justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where QDiShi 1/8\" (3mm) Aluminum Crimping Loop Sleeve for 1/8\" Wire Rope already covers the job at the lowest price here."
       }
     ]

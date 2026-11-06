@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41-u7rlMnsL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $32",
+          "Maxspace Wooden Table Clock ($31.99)"
         ],
         [
-          "",
-          ""
+          "$40-$50",
+          "DreamSky Weather Station ($39.99), Newentor Weather Station ($39.99), or mooas Flip Clock ($49.90)"
         ]
       ]
     }
@@ -110,23 +110,23 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "A distinctive mechanical flip design and wood grain that doubles as a decor piece, prioritizing character over feature depth."
       },
       {
-        "label": "",
+        "label": "Functional Comprehensiveness (DreamSky, Newentor)",
         "text": "Maximum monitoring capability with outdoor sensors and forecasting, prioritizing data and features over aesthetic distinctiveness."
       }
     ],
     "note": "If the clock is meant to be a conversation piece or decor statement, the mooas flip clock delivers that character. If you want maximum practical monitoring capability, the weather stations serve that need better."
   },
   {
-    "subheading": "",
+    "subheading": "By Maintenance Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your maintenance tolerance",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Minimal maintenance, single battery only",
-          ""
+          "Maxspace Wooden Table Clock"
         ],
         [
           "Willing to manage multiple sensors and batteries",
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Desk That Doubles as a Design Showcase Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A clock with genuine mechanical or material distinctiveness, not just another flat digital or standard analog display."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The mooas Classic Modern Wood Mini Flip Desk Clock's auto-flip mechanism and sapele wood grain make it the clear choice for a desk meant to showcase design character."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a distinctive retro flip-clock mechanism as a design statement, where the mooas pick is the only option in this comparison offering this mechanical character."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Simple, quiet, low-maintenance timekeeping covers your needs, where the Maxspace analog pick delivers this at the lowest price in this comparison."
       }
     ]
@@ -165,11 +165,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Flip-Clock Mechanical Quality",
     "description": "Assessed the mooas pick's auto-flip mechanism and wood grade as a distinctive design and function combination in this comparison."
   },
   {
-    "title": "",
+    "title": "Full Weather Station Functionality",
     "description": "Compared the DreamSky and Newentor picks' outdoor sensor support, forecasting, and calibration methods for comprehensive climate monitoring."
   },
   {

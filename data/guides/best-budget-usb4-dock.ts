@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41I2C7hu+pL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -80,35 +80,35 @@ export const howToChoose: HowToChooseSection[] = [
           "11-in-1 USB C Hub with VGA"
         ],
         [
-          "",
+          "A detachable dock-plus-hub design",
           "Anker Nano Laptop Docking Station"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $15",
+          "11-in-1 USB C Hub with VGA ($14.88)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "MOKiN USB C Docking Station ($29.99)"
         ],
         [
-          "",
-          ""
+          "Under $50",
+          "USB C Laptop Docking Station, 14-in-1 ($49.99)"
         ],
         [
-          "",
-          ""
+          "Under $120",
+          "Anker Nano Laptop Docking Station ($119.99)"
         ]
       ]
     }
@@ -128,11 +128,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If budget is your top priority and you already own compatible cables and a power adapter, the 11-in-1 hub delivers real value. If you want everything included and ready to use out of the box, the Anker Nano's higher price reflects that completeness."
   },
   {
-    "subheading": "",
+    "subheading": "By Device Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Shared or Public Workspaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock with a screen-lock or privacy button, so you can instantly hide sensitive information on your screens when stepping away from a shared or public desk."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The MOKiN pick specifically includes a screen lock button that turns off connected screens with a short press."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want a detachable dock-plus-hub design with a complete package including a power adapter, where the Anker Nano justifies its $119.99 price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "88, the lowest price in this comparison."
       }
     ]
@@ -176,15 +176,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Named Laptop Compatibility",
     "description": "Compared how specifically each listing discloses confirmed compatible laptop brands and models."
   },
   {
-    "title": "",
+    "title": "Included Power Adapter",
     "description": "Compared docks that include a power adapter against those requiring a separate purchase."
   },
   {
-    "title": "",
+    "title": "Display Configuration",
     "description": "Compared dual and triple display support across all four picks."
   },
   {

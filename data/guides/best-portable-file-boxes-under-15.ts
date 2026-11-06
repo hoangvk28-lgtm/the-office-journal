@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/316ZxRulCFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $6",
+          "Tcbelosion ($5.99)"
         ],
         [
-          "",
-          ""
+          "Under $10",
+          "Clear Plastic Box ($8.97) or Oterri ($9.99)"
         ],
         [
-          "",
-          ""
+          "Under $15",
+          "Staples Portable File Box ($12.24)"
         ]
       ]
     }
@@ -118,18 +118,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Won't crush under stacked items and stands up to repeated handling, but stays the same size whether full or empty."
       },
       {
-        "label": "",
+        "label": "Collapsible cardboard (Oterri, Tcbelosion)",
         "text": "Folds flat when empty to save storage space, but generally offers less dust protection than a lidded plastic box."
       }
     ],
     "note": "If storage space when the box is empty matters more than crush resistance, a collapsible cardboard pick makes sense. If durability under stacking is the priority, rigid plastic wins."
   },
   {
-    "subheading": "",
+    "subheading": "By Lid Type Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your dust protection needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dorm Room or Small Apartment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A design that folds flat or stacks compactly when not holding a full load of documents."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Tcbelosion and Oterri collapsible boxes both fold flat, freeing up closet space when not actively storing files."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a rigid box that survives frequent stacking and travel, where the Staples or Clear Plastic picks offer real durability advantages over cardboard."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need occasional, lightweight file storage, where the Tcbelosion pick covers that need for under $6."
       }
     ]
@@ -177,7 +177,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Material and Durability",
     "description": "Compared rigid plastic construction against reinforced and standard collapsible cardboard designs."
   },
   {
@@ -185,11 +185,11 @@ export const howWeEvaluated = [
     "description": "Checked whether each pick includes a lid at all, and whether it snaps, lifts off, or is absent entirely."
   },
   {
-    "title": "",
+    "title": "Handle Design",
     "description": "Compared handle materials and grip comfort, from stainless steel to molded plastic to fabric loops."
   },
   {
-    "title": "",
+    "title": "Assembly and Storage Footprint",
     "description": "Compared assembly time and whether each box folds flat or remains rigid when not in use."
   },
   {

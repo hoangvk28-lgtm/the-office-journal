@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Classify each model as screenless pen tablet, pen display, or standalone before comparing specs across the same brand's range."
   },
   {
-    "criterion": "",
+    "criterion": "Verify Current Driver Support",
     "explanation": "Check the manufacturer's current driver download page directly for the exact model, since older tablets can lose active support over time."
   },
   {
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Classify each model as screenless pen tablet, pen display, or standalone before comparing specs across the same brand's range."
   },
   {
-    "subheading": "",
+    "subheading": "Verify Current Driver Support",
     "note": "Check the manufacturer's current driver download page directly for the exact model, since older tablets can lose active support over time."
   },
   {
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified First",
     "description": "Sorted each product into screenless pen tablet, computer-dependent pen display, or true standalone before comparing specs, since these solve different problems."
   },
   {
-    "title": "",
+    "title": "Pen Behavior Verified",
     "description": "Checked activation force, pressure-level count, tilt support, and parallax evidence directly from documentation rather than trusting a headline pressure number alone."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Verified current Windows/macOS/Linux/Android compatibility by exact model, since older tablets can lose driver support over time."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included pen, nibs, stand, and cables against what needs to be bought separately, plus warranty length and driver update history."
   }
 ];

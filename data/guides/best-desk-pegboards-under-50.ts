@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Jrc0iPkcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,7 +74,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "The largest panels with the widest accessory variety",
-          ""
+          "MULSAME Pegboard Combination Kit, 25.2\" x 25.2\""
         ],
         [
           "A gaming-oriented accessory set that's still versatile",
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $39",
+          "Zestify ($38.99)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "MULSAME ($39.99) or PEGZONE ($39.99)"
         ],
         [
-          "",
-          ""
+          "Under $48",
+          "Daanxw Metal ($47.99)"
         ]
       ]
     }
@@ -114,11 +114,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Steel vs Plastic Panel Construction",
     "cards": [
       {
-        "label": "",
+        "label": "Steel (Daanxw, PEGZONE)",
         "text": "Powder-coated for scratch resistance and long-term durability, better suited to heavier items and years of daily use."
       },
       {
-        "label": "",
+        "label": "ABS/HIPS plastic (MULSAME, Zestify)",
         "text": "Lighter weight and often includes more accessories at a similar price, suited to lighter everyday items."
       }
     ],
@@ -128,21 +128,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Total System Size Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your storage area needs",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A full wall, scalable up to 72x12 inches",
-          ""
+          "Daanxw Metal Pegboard"
         ],
         [
-          "",
-          ""
+          "A large single combination area at 25.2x25.2 inches",
+          "MULSAME Combination Kit"
         ],
         [
-          "",
-          ""
+          "A moderate desk-corner setup",
+          "PEGZONE Clamp On"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Entire Wall Organization Project Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Panels specifically designed to combine into larger configurations, with standard hole spacing for accessory compatibility."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Daanxw Metal Pegboard's scalable design up to 72x12 inches is specifically built for larger wall organization projects."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want steel construction and standard accessory compatibility for a scalable pegboard wall, where the Daanxw pick leads this comparison on durability and expandability."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a large combination kit with a wide accessory variety without needing steel construction, where the MULSAME pick delivers that for about $8 less."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Panel Material and Construction",
     "description": "Compared steel versus ABS/HIPS plastic construction and their respective durability claims."
   },
   {
-    "title": "",
+    "title": "Panel Size and Scalability",
     "description": "Compared individual panel dimensions and whether panels can combine into larger configurations."
   },
   {
-    "title": "",
+    "title": "Accessory Count and Variety",
     "description": "Compared total accessory count and the diversity of hook, shelf, and storage types included."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated weight ratings where specified across the lineup."
   },
   {
-    "title": "",
+    "title": "Mounting Method",
     "description": "Distinguished wall-mounted panel kits from clamp-on desk mounting designs."
   }
 ];

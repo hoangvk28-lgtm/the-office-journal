@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41jgnvX93fL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $34",
+          "AMUSIGHT 24x18 ($33.34)"
         ],
         [
-          "",
-          ""
+          "$54-$70",
+          "ZHIDIAN Adjustable Easel ($53.99), ECR4Kids ($66.47), or VIVO ($69.99)"
         ]
       ]
     }
@@ -106,7 +106,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Privacy Partition vs Standard Writing Surface",
     "cards": [
       {
-        "label": "",
+        "label": "Privacy Partition (VIVO, ECR4Kids)",
         "text": "Tall enough and specifically designed to create real visual separation in a cubicle or shared desk environment, beyond just a writing surface."
       },
       {
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you specifically need privacy from a neighboring desk or cubicle, the VIVO or ECR4Kids picks serve that dual purpose. If you just need a writing surface, the other two picks are more cost-effective."
   },
   {
-    "subheading": "",
+    "subheading": "By Certification Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -129,8 +129,8 @@ export const howToChoose: HowToChooseSection[] = [
           "ECR4Kids MessageStor (UL GREENGUARD Gold Certified)"
         ],
         [
-          "",
-          ""
+          "No specific certification requirement",
+          "VIVO, ZHIDIAN, or AMUSIGHT"
         ]
       ]
     }
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Cubicle or Shared Office Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A board specifically designed with partition-style height and a stable, non-skid base, rather than a flat board that only lies down on the desk."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both the VIVO and ECR4Kids picks are specifically designed to function as a genuine privacy divider in a cubicle or shared desk setting."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a genuine privacy partition with certified low-VOC materials, where the VIVO and ECR4Kids picks respectively lead this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A large writing surface without partition functionality covers your needs, where the AMUSIGHT pick delivers this at the lowest price here."
       }
     ]
@@ -165,11 +165,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Privacy-Partition Functionality",
     "description": "Checked which picks are specifically designed to double as a desk privacy divider versus a standard flat writing surface alone."
   },
   {
-    "title": "",
+    "title": "Third-Party Safety Certifications",
     "description": "Compared UL GREENGUARD Gold and similar certifications disclosed across the lineup, relevant for shared office and classroom environments."
   },
   {
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "Compared the number of included magnets and accessory tray design for organizing documents and supplies."
   },
   {
-    "title": "",
+    "title": "Stand and Base Stability",
     "description": "Compared solid support bases, non-skid designs, and adjustable easel mechanisms across the lineup for genuine stability."
   },
   {

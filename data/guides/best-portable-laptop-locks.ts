@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ziJlR1feL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Slot Type",
     "note": "Slot type isn't consistently confirmed across every pick in this comparison; check each listing's compatibility documentation directly against your exact laptop model."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $16",
           "Kensington Combination Laptop Lock for Standard Security Slot"
         ],
         [
-          "",
+          "Mid-range",
           "Computer Laptop Cable Lock for Laptop"
         ],
         [
@@ -84,24 +84,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: Multplx Universal Laptop Security Lock, Kensington Combination Laptop Lock for Standard Security Slot."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: LORADAR Security Hardware Cable Lock Kit."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
           "LORADAR Security Hardware Cable Lock Kit"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "Kensington Combination Laptop Lock for Standard Security Slot"
         ]
       ]
@@ -119,24 +119,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "LORADAR Security Hardware Cable Lock Kit fits this specifically: Largest confirmed review base among portable picks in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Multplx Universal Laptop Security Lock offers: Only no-adhesive portable option in this comparison, ideal for frequent attach/detach. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Kensington Combination Laptop Lock for Standard Security Slot already covers the essentials: Lowest price in this entire comparison. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

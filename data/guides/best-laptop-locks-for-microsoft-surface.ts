@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the best overall Surface laptop lock?",
-    "a": ""
+    "a": "The AboveTEK MacBook & Surface Laptop Locking Station, for its combination of the largest confirmed review base among Surface-specific picks and a pivot hinge that accommodates Surface Pro's kickstand viewing angles."
   },
   {
     "q": "Is there a portable option for traveling with a Surface?",
@@ -57,43 +57,43 @@ export const heroImage = "https://m.media-amazon.com/images/I/31QTbz37LdL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Slot Type",
     "table": {
       "headers": [
-        "",
+        "Your laptop's slot",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Confirmed nano slot",
           "Kensington Computer Lock Adapter Kit"
         ],
         [
-          "",
-          ""
+          "Confirmed standard slot",
+          "I3C Laptop Cable Lock"
         ],
         [
-          "",
+          "Confirmed usb-c slot",
           "USB C Port Blockers 5 Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $16",
           "USB C Port Blockers 5 Pack"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "I3C Laptop Cable Lock"
         ],
         [
           "No firm budget ceiling, prioritizing documented compatibility",
@@ -103,24 +103,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: Multplx Universal Laptop Security Lock."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: AboveTEK MacBook & Surface Laptop Locking Station with Combo Lock Cable, LORADAR Security Hardware Cable Lock Kit, USB C Port Blockers 5 Pack."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -128,7 +128,7 @@ export const howToChoose: HowToChooseSection[] = [
           "AboveTEK MacBook & Surface Laptop Locking Station with Combo Lock Cable"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "USB C Port Blockers 5 Pack"
         ]
       ]
@@ -138,24 +138,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "AboveTEK MacBook & Surface Laptop Locking Station with Combo Lock Cable fits this specifically: Largest confirmed review base among Surface-specific picks in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Multplx Universal Laptop Security Lock offers: Only no-adhesive option in this comparison naming Surface directly. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "USB C Port Blockers 5 Pack already covers the essentials: Addresses juice-jacking and data-theft risk a cable lock doesn't cover. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

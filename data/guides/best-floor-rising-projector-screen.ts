@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41W+sDJCLcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Setup Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,34 +69,34 @@ export const howToChoose: HowToChooseSection[] = [
           "LIHONG Screen 100 inch 16:9 Portable Manual Pull Up Floor Rising Projector"
         ],
         [
-          "",
+          "Permanent install",
           "AWOL VISION 120\" Motorized ALR Floor Rising Projector Screen for Ultra Short"
         ],
         [
-          "",
+          "Budget occasional use",
           "LIHONG Screen 80 inch 16:9 Manual Floor Rising Pull Up Projector Screen"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Cheapest option",
           "LIHONG Screen 80 inch 16:9 Manual Floor Rising Pull Up Projector Screen"
         ],
         [
-          "",
+          "Mid-range",
           "YODOLLA 120inch Projector Screen Motorized Floor Rising 16:9 Auto Screen"
         ],
         [
-          "",
+          "Higher budget",
           "AWOL VISION 120\" Motorized ALR Floor Rising Projector Screen for Ultra Short"
         ]
       ]
@@ -120,8 +120,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Screen Gain and Viewing Angle",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Genuine Outdoor Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit UV-resistant and weatherproof material claims, not just 'outdoor' in the product name."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "YODOLLA 120inch Projector Screen Motorized Floor Rising 16:9 Auto Screen is worth checking against its specific material claims before assuming it will hold up to repeated outdoor exposure."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a permanent, wrinkle-free setup, where AWOL VISION 120\" Motorized ALR Floor Rising Projector Screen for Ultra Short justifies the higher price for a space you use often."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're setting up occasionally, where LIHONG Screen 80 inch 16:9 Manual Floor Rising Pull Up Projector Screen covers the job at the lowest price in this lineup."
       }
     ]

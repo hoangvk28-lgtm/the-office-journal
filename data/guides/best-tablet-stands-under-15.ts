@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41WFef2b32L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $13",
+          "Lamicall ($12.99) or Nulaxy ($12.99)"
         ],
         [
-          "",
-          ""
+          "Under $16",
+          "Minthouz ($15.99)"
         ],
         [
-          "",
-          ""
+          "Under $18",
+          "Tounee ($17.99)"
         ]
       ]
     }
@@ -113,7 +113,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Damped Hinges vs Basic Adjustable Shafts",
     "cards": [
       {
-        "label": "",
+        "label": "Damped hinges (Minthouz)",
         "text": "Uses an engineered dual-axis damping mechanism specifically designed to prevent wobble during active screen interaction like tapping or scrolling."
       },
       {
@@ -124,28 +124,28 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you'll actively tap, draw, or scroll on your tablet while it's mounted, the Minthouz pick's damping mechanism is worth prioritizing for stability. If you mostly watch content passively, the simpler adjustable shaft designs work fine."
   },
   {
-    "subheading": "",
+    "subheading": "By Device Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device size",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard tablet or phone, 4-11in",
-          ""
+          "Nulaxy"
         ],
         [
           "Standard tablet up to 13in",
-          ""
+          "Lamicall"
         ],
         [
-          "",
-          ""
+          "Larger tablet up to 12.9in with charging access",
+          "Minthouz"
         ],
         [
-          "",
-          ""
+          "Tablet through portable monitor, up to 16.9in",
+          "Tounee"
         ]
       ]
     }
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Buyer Who Actively Interacts With Their Mounted Tablet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A specifically engineered damping mechanism described in the listing, not just a general 'adjustable hinge' claim, since active tapping or drawing requires genuine wobble resistance."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Minthouz pick's dual-axis damping mechanism is specifically engineered to prevent wobble during active screen interactions like gaming or video calls."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the widest device compatibility reaching up to a portable monitor size, where the tounee pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want a stylish, well-built aluminum stand for standard tablet sizes, where the Lamicall or Nulaxy picks cover that for about $5 less."
       }
     ]
@@ -180,23 +180,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Device Size Range",
     "description": "Compared minimum and maximum device compatibility across the lineup."
   },
   {
-    "title": "",
+    "title": "Hinge and Damping Quality",
     "description": "Compared engineered damping mechanisms against basic hinge designs."
   },
   {
-    "title": "",
+    "title": "Base Material and Stability",
     "description": "Compared named alloy materials and weighted base design for tip resistance."
   },
   {
-    "title": "",
+    "title": "Convenience Features",
     "description": "Checked for extras like reserved charging ports or stability guidance."
   },
   {
-    "title": "",
+    "title": "Folded Portability",
     "description": "Compared folded dimensions and weight across all four picks."
   }
 ];

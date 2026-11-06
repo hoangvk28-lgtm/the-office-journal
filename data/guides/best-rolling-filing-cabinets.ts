@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Letaya 3 Drawer Mobile File Cabinet with Lock"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Letaya 3 Drawer Mobile File Cabinet with Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $53",
           "VASAGLE CUSTOS Small Rolling Filing Cabinet"
         ],
         [
-          "",
+          "Up to $130",
           "DEVAISE 2 Drawer Metal File Cabinet"
         ]
       ]
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to VASAGLE CUSTOS Small Rolling Filing Cabinet unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Letaya 3 Drawer Mobile File Cabinet with Lock"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Letaya 3 Drawer Mobile File Cabinet with Lock is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where DEVAISE 2 Drawer Metal File Cabinet's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where VASAGLE CUSTOS Small Rolling Filing Cabinet covers the same job at a lower price."
       }
     ]
@@ -153,7 +153,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Confirmed mobility",
     "description": "We checked each listing's title and description for explicit 'mobile,' 'rolling,' or 'caster' language rather than assuming all filing cabinets in this category ship with wheels, and flagged any that did not."
   },
   {
@@ -161,11 +161,11 @@ export const howWeEvaluated = [
     "description": "Where stated, caster material was weighed against hardwood, tile, and carpet compatibility."
   },
   {
-    "title": "",
+    "title": "Loaded weight vs. caster durability",
     "description": "We factored typical loaded cabinet weight (60-100+ lbs for a full 2-3 drawer cabinet) against the practicality of rolling it once loaded."
   },
   {
-    "title": "",
+    "title": "Build and lock quality",
     "description": "Fabric drawer construction and lock presence were compared across verified buyer feedback."
   },
   {

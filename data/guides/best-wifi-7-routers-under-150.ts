@@ -44,7 +44,7 @@ export const faq = [
     "a": "The BE400's 6-stream dual-band radio configuration and higher combined bandwidth support a larger stated coverage area (2,400 sq. ) and higher device count (90 versus 50), reflecting different internal hardware specifications between the two routers."
   },
   {
-    "q": "",
+    "q": "How do I know if my internet plan actually needs a 2.5 Gbps WAN port?",
     "a": "5 Gbps WAN port, like all four picks in this comparison, to use your full plan speed."
   },
   {
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41kg9-1bsvL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,44 +84,44 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $100",
+          "TP-Link Archer BE230 ($98.00) or NETGEAR Nighthawk RS90 ($99.99)"
         ],
         [
-          "",
-          ""
+          "$140-$150",
+          "ASUS RT-BE58U ($142.99) or TP-Link Archer BE400 ($149.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Dual 2.5G Ports vs Single 2.5G Port",
     "cards": [
       {
         "label": "5G Ports (TP-Link BE400, BE230)",
         "text": "Lets you assign a second high-speed port as either WAN or LAN, useful if you have a multi-gig internet plan and also want a fast wired connection to a NAS or gaming PC."
       },
       {
-        "label": "",
+        "label": "Single 2.5G Port (NETGEAR RS90)",
         "text": "Covers a standard multi-gig internet connection but limits your fastest wired device to sharing bandwidth over the remaining 1 Gig LAN ports."
       }
     ],
-    "note": ""
+    "note": "If you have both a multi-gig internet plan and a device that benefits from a dedicated fast wired connection, prioritize a router with two 2.5G ports."
   },
   {
-    "subheading": "",
+    "subheading": "By Mesh Expansion Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your expansion plan",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Unreliable Internet Service Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Dual-WAN support with mobile tethering, so your network can fail over to a cellular connection if your primary ISP goes down."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The ASUS RT-BE58U is the only pick here with stated dual-WAN and 4G LTE/5G mobile tethering support."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5G ports, where the TP-Link Archer BE400 delivers the strongest spec sheet in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A solid dual-band router with good wired ports covers your needs, where the TP-Link Archer BE230 delivers similar port flexibility for roughly $50 less."
       }
     ]
@@ -165,7 +165,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Real Stated Mbps Figures",
     "description": "Compared actual per-band Mbps figures across the lineup rather than relying on the marketing \"BE\" model number alone, since router naming conventions don't always translate directly to real throughput."
   },
   {
@@ -177,11 +177,11 @@ export const howWeEvaluated = [
     "description": "Compared stated square footage and maximum device counts, while noting these figures assume open, unobstructed conditions that real homes rarely match exactly."
   },
   {
-    "title": "",
+    "title": "Mesh Expansion Compatibility",
     "description": "Verified whether each router uses the open EasyMesh standard, a manufacturer's own proprietary mesh system, or neither, since this affects future expansion options."
   },
   {
-    "title": "",
+    "title": "Additional Network Features",
     "description": "Noted extras like dual-WAN failover, multiple SSID support, and built-in security suites that differentiate otherwise similarly specced routers."
   }
 ];

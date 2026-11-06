@@ -29,11 +29,11 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which UPLIFT converter has the highest confirmed rating?",
-    "a": ""
+    "a": "The E3 Compact Stand Up Desk Converter, at 4.8, though on a smaller review base than general-market alternatives."
   },
   {
     "q": "Does UPLIFT offer a manual converter?",
-    "a": ""
+    "a": "Yes, the UPLIFT DESK Lady Bird Standing Desk Converter, though with very limited confirmed review history (3 reviews)."
   },
   {
     "q": "What worksurface materials does the E7 offer?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41c3Ie75PRL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "UPLIFTDESK E7 30 Inch Electric Standing Desk Converter"
         ],
         [
-          "",
+          "Dual monitors",
           "E3 Compact Stand Up Desk Converter (Black) by Uplift Desk"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $199",
           "E3 Compact Stand Up Desk Converter (Black) by Uplift Desk"
         ],
         [
-          "",
+          "Mid-range",
           "UPLIFT DESK E7 Electric Standing Desk Converter"
         ],
         [
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: E3 Compact Stand Up Desk Converter (Black) by Uplift Desk, UPLIFT DESK Lady Bird Standing Desk Converter (Black)."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: UPLIFT DESK E7 Electric Standing Desk Converter, UPLIFT DESK E7 Electric Standing Desk Converter, UPLIFT DESK E7 Electric Standing Desk Converter."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "UPLIFT DESK Lady Bird Standing Desk Converter (Black)"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "E3 Compact Stand Up Desk Converter (Black) by Uplift Desk"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "E3 Compact Stand Up Desk Converter (Black) by Uplift Desk fits this specifically: Highest rating among UPLIFT's current converter listings."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what UPLIFTDESK E7 30 Inch Electric Standing Desk Converter offers: Confirmed 30 inch platform size within UPLIFT's flagship line. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "E3 Compact Stand Up Desk Converter (Black) by Uplift Desk already covers the essentials: Highest rating among UPLIFT's current converter listings. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]
@@ -170,7 +170,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Disclosed very small or missing review data honestly",
-    "description": ""
+    "description": "Several E7 listings had no confirmed review data at all, and others had only 2-3 reviews; we flagged this directly rather than treating any rating as statistically meaningful."
   },
   {
     "title": "Distinguished UPLIFT's premium E7 flagship from the budget E3 and manual Lady Bird lines",

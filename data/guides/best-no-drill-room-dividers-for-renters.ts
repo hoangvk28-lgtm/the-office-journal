@@ -60,36 +60,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "SUNALLY No"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "RANTILA Single Large Panel Room Divider"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $29",
+          "Goovilla No"
         ],
         [
-          "",
-          ""
+          "Up to $120",
+          "Svimi 4"
         ]
       ]
     }
@@ -98,42 +98,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "On Wheels vs Fixed Base",
     "cards": [
       {
-        "label": "",
+        "label": "On wheels",
         "text": "Repositionable between rooms or layouts, worth locking casters once positioned. In this comparison: SUNALLY 6FT Folding Privacy Screen with Lockable Wheels."
       },
       {
-        "label": "",
+        "label": "Fixed base",
         "text": "More stable for a divider that stays in one spot long-term. In this comparison: SUNALLY No, Svimi 4, Goovilla No, Bonpally No, SUNALLY No, SUNALLY No, RANTILA Single Large Panel Room Divider."
       }
     ],
     "note": "Default to a fixed base unless you need to reposition the divider often."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Height",
     "note": "Check each pick's listed panel height against your room's ceiling and the actual privacy level you need before buying."
   },
   {
     "subheading": "For a Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "RANTILA Single Large Panel Room Divider is worth checking against its listed mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening or a taller, more stable divider, where Svimi 4's material and construction give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual separation without noise or stability concerns, where Goovilla No covers the same job at a lower price."
       }
     ]
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Confirmed no-drill, freestanding construction",
     "description": "Verified each listing explicitly confirms no drilling and a freestanding or tension-based mount rather than assuming it from the product category alone."
   },
   {
@@ -158,7 +158,7 @@ export const howWeEvaluated = [
     "description": "Considered whether freestanding folding screens are stable in a straight line or require an angled zig-zag arrangement to avoid tipping."
   },
   {
-    "title": "",
+    "title": "Portability for frequent movers",
     "description": "Weighed folded transport dimensions and included mobility features, relevant for renters who relocate within or between lease terms."
   }
 ];

@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/310kkq-vj5L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "MSDADA Desk Book Stand Metal Reading Rest Book Holder Adjustable"
         ],
         [
-          "",
+          "Continuous data entry",
           "UtySty Desktop Document Holder Stand Printer Paper Holder Clamp Clips"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "MSDADA Desk Book Stand Metal Reading Rest Book Holder Adjustable"
         ],
         [
-          "",
+          "Mid-range pick",
           "Adjustable Copy Holder Clip, Flexiable Docments Holder"
         ],
         [
-          "",
+          "Higher budget",
           "Fellowes 8039401 Prof Series In-Line Document Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Side-Mounted",
     "cards": [
       {
         "label": "MSDADA Desk Book Stand Metal Reading Rest Book Holder Adjustable)",
         "text": "Keeps the page in your direct sightline, minimal neck movement."
       },
       {
-        "label": "",
+        "label": "Side-mounted",
         "text": "Sits off to one side, more placement flexibility but more head turning."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single sheets",
           "UtySty Desktop Document Holder Stand Printer Paper Holder Clamp Clips"
         ],
         [
-          "",
+          "Thicker stacks or booklets",
           "Adjustable Copy Holder Clip, Flexiable Docments Holder"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Data-Entry Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sliding line guide and an adjustable viewing angle to reduce glare and neck strain."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "UtySty Desktop Document Holder Stand Printer Paper Holder Clamp Clips is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Fellowes 8039401 Prof Series In-Line Document Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where MSDADA Desk Book Stand Metal Reading Rest Book Holder Adjustable already covers the job at the lowest price here."
       }
     ]

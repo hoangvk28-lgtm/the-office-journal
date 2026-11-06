@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the best cart for a typical 20-student classroom?",
-    "a": ""
+    "a": "The Meteteel Fully Assembled 20 Device Laptop Charging Cart, with the largest confirmed review base in this comparison."
   },
   {
     "q": "Is there a locking option for classrooms left unattended?",
@@ -37,7 +37,7 @@ export const faq = [
   },
   {
     "q": "What's the highest-capacity cart for a very large roster?",
-    "a": ""
+    "a": "The Plugsharge 32-Device Laptop Charging Cart, though its review base is thin at just 3 reviews."
   },
   {
     "q": "Which cart is fastest for daily student handout?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "VEVOR 16 Device Charging Station with Lock & Key"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Meteteel Fully Assembled 20 Device Laptop Charging Cart for School"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $130",
+          "Kraftgen 16"
         ],
         [
-          "",
+          "Up to $420",
           "Meteteel Fully Assembled 20 Device Laptop Charging Cart for School"
         ]
       ]
@@ -98,22 +98,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Lockable Security vs Open Access",
     "cards": [
       {
-        "label": "",
+        "label": "Genuine locking door",
         "text": "Real security for devices stored unattended in a semi-public space. In this comparison: Meteteel Fully Assembled 20 Device Laptop Charging Cart for School, Meteteel Fully Assembled 18 Device Laptop Charging Cart for School, VEVOR 16 Device Charging Station with Lock & Key, POCHAR 30 Devices 14'' Screen Laptop Charging Cart for K, POCHAR 30 Unit Device Charging Station for Chromebook, Plugsharge 32."
       },
       {
-        "label": "",
+        "label": "Open access",
         "text": "Faster to grab devices from, fine for a supervised or private space. In this comparison: Kraftgen 16, ALT Technology 30."
       }
     ],
     "note": "Default to a locking cart unless the space is always supervised or private."
   },
   {
-    "subheading": "",
+    "subheading": "By Locking Security",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a School or Classroom Fleet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed bay geometry for your actual laptop model, zoned or timed charging for larger fleets, and a genuine locking door for unattended storage."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Meteteel Fully Assembled 20 Device Laptop Charging Cart for School is worth checking against its listed capacity and charging architecture before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're managing a larger fleet needing safe zoned charging and genuine security, where Meteteel Fully Assembled 20 Device Laptop Charging Cart for School's higher price buys real capacity and reliability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing a small number of devices with simple charging needs, where Kraftgen 16 covers the same job at a lower price."
       }
     ]
@@ -161,8 +161,8 @@ export const howWeEvaluated = [
     "description": "We compared 16-32 device capacity against realistic class sizes rather than assuming every classroom needs the highest available capacity."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Review base weighted against thin classroom-scale samples",
+    "description": "Several picks here have fewer than 15 reviews; we flagged that directly rather than treating a 5.0 rating on 3 reviews the same as a 4.4 rating on 78 reviews."
   },
   {
     "title": "Assembly status as a real deployment factor",

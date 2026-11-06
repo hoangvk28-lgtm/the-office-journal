@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "INLDY Under Desk Drawer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Homeify Under Desk Drawer Organizer Clamp"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "SB Simpli Better File Organizer that Attaches Under the Desk"
         ],
         [
-          "",
+          "Up to $47",
           "Rolling File Cart with 3 Storage Drawers"
         ]
       ]
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to SB Simpli Better File Organizer that Attaches Under the Desk unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Homeify Under Desk Drawer Organizer Clamp"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Homeify Under Desk Drawer Organizer Clamp is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Rolling File Cart with 3 Storage Drawers's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where SB Simpli Better File Organizer that Attaches Under the Desk covers the same job at a lower price."
       }
     ]
@@ -153,19 +153,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Knee clearance impact",
     "description": "We noted that under-desk mounting can interfere with legroom, and favored compact designs that minimize this impact."
   },
   {
-    "title": "",
+    "title": "Desk underside construction compatibility",
     "description": "We considered cross-bracing and drawer interference that could limit available mounting surface underneath a specific desk."
   },
   {
-    "title": "",
+    "title": "No-drill clamp verification",
     "description": "We confirmed each clamp-on pick attaches without drilling, and clearly disclosed which alternatives are actually freestanding rolling carts instead."
   },
   {
-    "title": "",
+    "title": "Capacity vs. clamp-on convenience tradeoff",
     "description": "We weighed the substantially higher capacity of freestanding rolling carts against the simpler no-drill convenience of a clamp-on drawer."
   }
 ];

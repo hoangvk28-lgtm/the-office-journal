@@ -56,69 +56,69 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Aurora AU1210MA Professional Grade High Security 12"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Bonsaii 18"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $43",
+          "Woolsche Paper Shredder"
         ],
         [
-          "",
-          ""
+          "Up to $180",
+          "Bonsaii 18"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Auto-Feed vs Manual-Feed",
     "cards": [
       {
-        "label": "",
+        "label": "Auto-feed",
         "text": "Load a stack and walk away, the shredder pulls sheets automatically, worth it for large regular volumes. In this comparison: Bonsaii 120, Bonsaii 100."
       },
       {
-        "label": "",
+        "label": "Manual-feed",
         "text": "You feed sheets by hand, usually cheaper and simpler for occasional light use. In this comparison: Woolsche Paper Shredder, Aurora AU1210MA Professional Grade High Security 12, Bonsaii 18, Bonsaii 12, BONSEN 14, Bonsaii 12."
       }
     ],
     "note": "Default to manual-feed for occasional light use, auto-feed if you regularly shred large stacks."
   },
   {
-    "subheading": "",
+    "subheading": "By Bin Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 6-gallon bin",
+          "Bonsaii 120"
         ],
         [
-          "",
-          ""
+          "Around 6-gallon bin",
+          "Bonsaii 18"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Sensitive Financial Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A P-4 cross-cut rating or higher, not just the marketing term \"cross-cut\" without a specific P-rating attached."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Bonsaii 18 is worth checking against its listed P-rating before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You regularly shred large stacks or sensitive documents, where Bonsaii 18's higher price buys real capacity or security headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only shred occasionally with a low sheet volume, where Woolsche Paper Shredder covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howWeEvaluated = [
     "description": "Verified whether each listing's anti-jam claim is an explicit named system (auto-reverse, sensor-based) rather than assuming any 'jam-proof' marketing means zero jams are possible."
   },
   {
-    "title": "",
+    "title": "Real-world jam threshold vs. rated sheet capacity",
     "description": "Treated each pick's rated sheet capacity as an upper bound rather than a guarantee, since real-world jam resistance with slightly heavier paper is typically lower than the advertised number."
   },
   {

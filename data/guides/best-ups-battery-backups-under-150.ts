@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41+dXlSCUBL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,42 +74,42 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Genuine ECO Mode energy savings with an LCD panel",
-          ""
+          "CyberPower EC850LCD Ecologic UPS"
         ],
         [
           "Solid mid-size capacity with easy battery replacement",
-          ""
+          "APC Battery Backup, 650VA/390W"
         ],
         [
           "The lowest price with documented equipment protection",
-          ""
+          "APC Battery Backup, 550VA/330W"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $102",
+          "APC 550VA ($101.13)"
         ],
         [
-          "",
-          ""
+          "Under $110",
+          "APC 650VA ($109.99)"
         ],
         [
-          "",
-          ""
+          "Under $120",
+          "CyberPower EC850LCD ($119.95)"
         ],
         [
-          "",
-          ""
+          "Under $140",
+          "CyberPower AVRG900LCD ($139.95)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "LCD Panel vs Basic Indicator Lights",
     "cards": [
       {
-        "label": "",
+        "label": "LCD panel (AVRG900LCD, EC850LCD)",
         "text": "Displays detailed, immediate battery and power condition information at a glance, easier to interpret than indicator lights alone."
       },
       {
@@ -129,24 +129,24 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you want detailed, real-time status information without checking an app, an LCD-equipped pick is worth the price difference. If basic status confirmation is enough, the APC picks save money."
   },
   {
-    "subheading": "",
+    "subheading": "By VA Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your equipment load",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Maximum capacity for a demanding setup",
-          ""
+          "AVRG900LCD (900VA)"
         ],
         [
-          "",
+          "Solid mid-size capacity",
           "APC 650VA or CyberPower EC850LCD"
         ],
         [
           "Basic router and small device coverage",
-          ""
+          "APC 550VA"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office Trying to Minimize Standby Energy Costs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A UPS with genuine ECO Mode that automatically cuts power to peripherals when the connected computer is off or sleeping."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The CyberPower EC850LCD's ECO Mode is specifically designed to reduce standby energy costs this way."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest capacity and most battery-backup outlets with the strongest documented warranty, where the AVRG900LCD leads this comparison on all three fronts."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want solid mid-size capacity and easy battery replacement without an LCD panel, where the APC 550VA covers that for the lowest price here."
       }
     ]
@@ -181,7 +181,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "VA/Wattage Capacity",
     "description": "Compared stated VA and wattage ratings across the lineup, from 550VA to 900VA."
   },
   {
@@ -193,11 +193,11 @@ export const howWeEvaluated = [
     "description": "Checked which picks include automatic energy-saving features for connected peripherals."
   },
   {
-    "title": "",
+    "title": "Battery Replaceability",
     "description": "Compared user-replaceable battery designs and availability of specific replacement battery models."
   },
   {
-    "title": "",
+    "title": "Connected Equipment Warranty",
     "description": "Compared documented warranty and insurance coverage amounts across the lineup."
   }
 ];

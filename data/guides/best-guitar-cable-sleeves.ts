@@ -60,75 +60,75 @@ export const heroImage = "https://m.media-amazon.com/images/I/41y+vnwtbQL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "1-2 thin cables",
+          "Braided Cable Sleeve"
         ],
         [
           "A mixed bundle of 3-5 cables",
           "Alex Tech 10ft - 1 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "100ft - 1/4 inch PET Expandable Braided Sleeving, Black, Alex Tech Braided"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Braided Cable Sleeve"
         ],
         [
-          "",
+          "Mid-range pick",
           "Alex Tech 25ft - 1/4 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ],
         [
-          "",
+          "Higher budget",
           "100ft - 1/4 inch PET Expandable Braided Sleeving, Black, Alex Tech Braided"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
-        "label": "",
+        "label": "Zipper (e.g. Braided Cable Sleeve)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "Alex Tech 10ft - 1 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Alex Tech 10ft - 1 inch Cord Protector Wire Loom Tubing Cable Sleeve Split is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 100ft - 1/4 inch PET Expandable Braided Sleeving, Black, Alex Tech Braided justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Braided Cable Sleeve already covers the job at the lowest price here."
       }
     ]

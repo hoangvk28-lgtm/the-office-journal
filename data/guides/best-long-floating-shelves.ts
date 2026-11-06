@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/41mq1zpzkVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light decorative items",
+          "BAYKA Black Floating Shelves 15.7in"
         ],
         [
-          "",
-          ""
+          "Books, standard decor",
+          "BAYKA Rustic Brown Floating Shelves 22.5in"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "RICHFOCUS 72Inch Floating Shelves for Wall 2 Pack Shelves"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "BAYKA Black Floating Shelves 15.7in"
         ],
         [
-          "",
+          "Mid-range pick",
           "Sorbus Floating Shelves for Wall Storage (48 Inch, 2 Pack, Black)"
         ],
         [
-          "",
+          "Higher budget",
           "RICHFOCUS 72Inch Floating Shelves for Wall 2 Pack Shelves"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "RICHFOCUS 72Inch Floating Shelves for Wall 2 Pack Shelves)",
         "text": "Highest weight capacity, but requires drilling into a wall stud."
       },
       {
-        "label": "",
+        "label": "No-drill (e.g. BAYKA Black Floating Shelves 15.7in)",
         "text": "No wall damage, ideal for renters, but a much lower weight limit."
       }
     ],
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Studs available where needed",
+          "BAYKA Rustic Brown Floating Shelves 22.5in"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "RICHFOCUS 72Inch Floating Shelves for Wall 2 Pack Shelves is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where RICHFOCUS 72Inch Floating Shelves for Wall 2 Pack Shelves justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "7in already covers the job at the lowest price here."
       }
     ]

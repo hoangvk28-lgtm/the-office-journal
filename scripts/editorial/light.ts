@@ -61,6 +61,9 @@ export function cleanText(s: string): string {
     const kept = sentences
       .map((x) => x.trim())
       .filter((x) => x && !BAD_SENTENCE.test(x) && x.split(/\s+/).length > 4);
+    // Short strings (headings, table headers/cells, labels, product names) have
+    // no "sentence" to keep; never blank them, just apply the word fixes.
+    if (!kept.length && sentences.length <= 1 && !BAD_SENTENCE.test(p.trim())) kept.push(p.trim());
     let out = kept.join(" ");
     for (const [re, rep] of REPLACE) out = out.replace(re, rep as string);
     out = fixArticles(out).replace(/\s{2,}/g, " ").replace(/\s+([,.])/g, "$1").replace(/(^|[.!?]\s+)([a-z])/g, (_, p1, c) => p1 + c.toUpperCase());

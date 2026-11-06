@@ -60,79 +60,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/21cuEITGy4L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "General screen time",
+          "Madison Avenue Vintage Blue Light Reading Glasses Women Brown 1.0x"
         ],
         [
-          "",
+          "Design/color-sensitive work",
           "Jectieey Reading Glasses for Women Men"
         ],
         [
-          "",
+          "Long gaming sessions",
           "Livho High Tech Blue Light Glasses"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Madison Avenue Vintage Blue Light Reading Glasses Women Brown 1.0x"
         ],
         [
-          "",
+          "Mid-range pick",
           "CCVOO Reading Glasses for Women with Blue Light Filter"
         ],
         [
-          "",
+          "Higher budget",
           "Livho High Tech Blue Light Glasses"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clear vs Yellow-Tinted Lenses",
     "cards": [
       {
-        "label": "",
+        "label": "Clear (e.g. Madison Avenue Vintage Blue Light Reading Glasses Women Brown 1.0x)",
         "text": "Filters less blue light but keeps on-screen colors accurate."
       },
       {
-        "label": "",
+        "label": "Yellow-tinted",
         "text": "Filters more blue light but visibly shifts color perception."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Vision Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No vision correction needed",
           "Jectieey Reading Glasses for Women Men"
         ],
         [
-          "",
+          "Reading magnification needed",
           "CCVOO Reading Glasses for Women with Blue Light Filter"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For All-Day Desk Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A frame width and nose bridge that actually fits your face, with a flexible, durable frame material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Jectieey Reading Glasses for Women Men is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where livho High Tech Blue Light Glasses justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "0x already covers the job at the lowest price here."
       }
     ]

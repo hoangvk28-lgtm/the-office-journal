@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41DjS4xHHAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $350",
+          "Plugable Thunderbolt 5 Dock ($349.95)"
         ],
         [
-          "",
-          ""
+          "Under $400",
+          "Brydge ProDock Trio ($399.00)"
         ],
         [
-          "",
-          ""
+          "Under $500",
+          "CalDigit TS5 Plus or Sonnet Echo 21 (both $499.99)"
         ]
       ]
     }
@@ -113,22 +113,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Native HDMI 8K vs Thunderbolt-Routed 8K",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Native HDMI 2.1 (Plugable)",
+        "text": "8K output goes directly through native HDMI 2.1 ports with no adapter needed, a cleaner signal path for buyers whose monitor already has an HDMI 2.1 input."
       },
       {
-        "label": "",
+        "label": "Thunderbolt-routed (CalDigit, Sonnet, Brydge)",
         "text": "8K output is achieved through the dock's Thunderbolt connection and depends more heavily on the specific host chip and operating system supporting that resolution."
       }
     ],
     "note": "1 input, the Plugable pick's adapter-free path is the most straightforward. If you need 8K through Thunderbolt-based connections tied to your exact Mac chip or Windows host, check the CalDigit, Sonnet, or Brydge picks' specific documented requirements first."
   },
   {
-    "subheading": "",
+    "subheading": "By Host Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your host device",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Video Editing or Color-Critical Workstation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock with native, adapter-free high-refresh 8K output and enough additional ports to support fast external storage alongside the display, since color-critical work often runs both simultaneously."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Sonnet Echo 21's built-in NVMe slot alongside its 8K HDMI output specifically supports this combined workflow without extra external boxes."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by its 20-port design."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "95, the lowest price in this comparison."
       }
     ]
@@ -184,11 +184,11 @@ export const howWeEvaluated = [
     "description": "Compared whether each dock supports one or two simultaneous 8K displays."
   },
   {
-    "title": "",
+    "title": "Documented Host Compatibility",
     "description": "Compared how specifically each listing discloses supported and excluded host types."
   },
   {
-    "title": "",
+    "title": "Platform-Specific 8K Limits",
     "description": "Compared Windows versus macOS 8K display support on the same dock."
   },
   {

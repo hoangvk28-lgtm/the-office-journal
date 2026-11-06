@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Which pick has the most confirmed reviews?",
-    "a": ""
+    "a": "The Amazon Basics Steel Security Safe, with nearly 48,000 reviews, though it's a general security safe rather than a purpose-built laptop enclosure."
   },
   {
     "q": "Is there a laptop-sized box with a cable anchor?",
@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41fsNSK97hL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Slot Type",
     "note": "Slot type isn't consistently confirmed across every pick in this comparison; check each listing's compatibility documentation directly against your exact laptop model."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $33",
           "Lalifebuss Large Lock Box for Personal Items"
         ],
         [
-          "",
+          "Mid-range",
           "Vaultz Locking Storage Chest with Dual Combination Lock"
         ],
         [
@@ -84,24 +84,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: Vaultz Locking Storage Chest with Dual Combination Lock, Vaultz Locking Storage Chest with Dual Combination Lock, Lalifebuss Large Lock Box for Personal Items."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: check each listing's mechanism directly."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Amazon Basics Steel Security Safe with Digital Keypad"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "Meteteel 8 Tablet Charging Station Lock Box"
         ]
       ]
@@ -119,24 +119,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Amazon Basics Steel Security Safe with Digital Keypad fits this specifically: By far the largest review base in this comparison at nearly 48,000 reviews."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Meteteel 8 Tablet Charging Station Lock Box offers: Genuine ventilation design for simultaneous multi-device charging. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Lalifebuss Large Lock Box for Personal Items already covers the essentials: Large capacity at a lower price than the dedicated laptop enclosures. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

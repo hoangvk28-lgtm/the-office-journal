@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/416WF8pTwPL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just 2-3 categories",
           "Supeasy 5 Trays Paper Organizer Letter Tray with Handle-Mesh Desk File Holders"
         ],
         [
-          "",
+          "Several distinct categories",
           "Fellowes Workstation 3\" Letter Desk Tray Organizer"
         ],
         [
-          "",
+          "High document volume",
           "6-Pack Paper Tray Organizer for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Supeasy 5 Trays Paper Organizer Letter Tray with Handle-Mesh Desk File Holders"
         ],
         [
-          "",
+          "Mid-range pick",
           "Mind Reader Stackable Paper Tray"
         ],
         [
-          "",
+          "Higher budget",
           "6-Pack Paper Tray Organizer for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
         "label": "Supeasy 5 Trays Paper Organizer Letter Tray with Handle-Mesh Desk File Holders)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "Fellowes Workstation 3\" Letter Desk Tray Organizer"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Fellowes Workstation 3\" Letter Desk Tray Organizer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 6-Pack Paper Tray Organizer for Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Supeasy 5 Trays Paper Organizer Letter Tray with Handle-Mesh Desk File Holders already covers the job at the lowest price here."
       }
     ]

@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51jAHaVcRbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "Korfile 40 Inch Gaming Desk with LED & Power Outlet"
         ],
         [
-          "",
+          "Standard home office",
           "ODK 53\" L Shaped Gaming Desk with Shelves"
         ],
         [
-          "",
+          "Larger dedicated office",
           "SEDETA L Shaped Gaming Corner Desk with Drawers"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Korfile 40 Inch Gaming Desk with LED & Power Outlet"
         ],
         [
-          "",
+          "Mid-range pick",
           "AODK L Shaped Desk Gaming Desk with LED Light & Power Outlet"
         ],
         [
-          "",
+          "Higher budget",
           "SEDETA L Shaped Gaming Corner Desk with Drawers"
         ]
       ]
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor",
           "ODK 53\" L Shaped Gaming Desk with Shelves"
         ],
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Korfile 40 Inch Gaming Desk with LED & Power Outlet is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in storage, better cable management, and sturdier build quality, where SEDETA L Shaped Gaming Corner Desk with Drawers justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where Korfile 40 Inch Gaming Desk with LED & Power Outlet already covers the job at the lowest price here."
       }
     ]

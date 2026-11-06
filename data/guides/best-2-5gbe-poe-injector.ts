@@ -61,55 +61,55 @@ export const heroImage = "https://m.media-amazon.com/images/I/3112nuvKQbL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "What matters most",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "NDAA compliance, longest warranty",
+          "TRENDnet 2.5G PoE+ Injector TPE-215GI"
         ],
         [
-          "",
-          ""
+          "Documented surge/ESD protection",
+          "Cudy 30W 2.5GbE PoE+ Injector POE200H"
         ],
         [
-          "",
-          ""
+          "First-party Ubiquiti sourcing",
+          "Ubiquiti Networks 2.5GbE 30W PoE+ Adapter"
         ],
         [
-          "",
-          ""
+          "Lowest price",
+          "Farsiglink 2.5Gbps PoE+ Injector"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $18",
+          "Farsiglink 2.5Gbps PoE+ Injector ($17.99)"
         ],
         [
-          "",
-          ""
+          "Under $25",
+          "Cudy 30W 2.5GbE PoE+ Injector ($24.99)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "Ubiquiti Networks 2.5GbE 30W PoE+ Adapter ($29.98)"
         ],
         [
-          "",
-          ""
+          "Under $41",
+          "TRENDnet 2.5G PoE+ Injector ($40.01)"
         ]
       ]
     }
@@ -118,30 +118,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Documented Certifications vs Budget Priority",
     "cards": [
       {
-        "label": "",
+        "label": "Documented certifications (TRENDnet, Cudy)",
         "text": "Worth the added cost for a business installation where compliance requirements or long-term reliability documentation matter to a purchasing decision."
       },
       {
-        "label": "",
+        "label": "Budget priority (Farsiglink)",
         "text": "5Gbps speed and power delivery matter more than documented certification specifics."
       }
     ],
     "note": "Most home users should default to the budget-tier pick unless a specific certification or extended warranty is a genuine requirement for the installation."
   },
   {
-    "subheading": "",
+    "subheading": "By Brand Ecosystem",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your existing network gear",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "UniFi ecosystem",
+          "Ubiquiti Networks 2.5GbE 30W PoE+ Adapter"
         ],
         [
-          "",
+          "No specific brand preference",
           "TRENDnet, Cudy, or Farsiglink based on budget"
         ]
       ]
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Wi-Fi 6E or Wi-Fi 7 Access Point Upgrade Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5Gbps port speed rather than a Gigabit-only injector, since these newer access point generations can exceed 1Gbps of aggregate throughput under multi-client load."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5Gbps speed, so the deciding factor becomes certification, protection documentation, and price rather than speed capability."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need NDAA compliance or want the most detailed documented surge protection, where the TRENDnet or Cudy picks justify their price with specific certifications and ratings."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5Gbps PoE+ power for a home network upgrade, where the Farsiglink pick delivers that at roughly half the cost of the certified alternatives."
       }
     ]
@@ -177,24 +177,24 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
-    "description": ""
+    "title": "Port Speed Verification",
+    "description": "Confirmed each listing explicitly supports full 2.5Gbps speed, not just a Gigabit port with a 2.5GbE label."
   },
   {
-    "title": "",
+    "title": "Surge and ESD Protection",
     "description": "Compared specific stated KV ratings for surge and ESD protection where listings provided them."
   },
   {
-    "title": "",
+    "title": "Certification and Warranty",
     "description": "Compared NDAA compliance and stated manufacturer warranty length across listings."
   },
   {
-    "title": "",
+    "title": "Brand Sourcing",
     "description": "Compared first-party brand-specific injectors against generic third-party alternatives."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Price-to-Speed Value",
+    "description": "Compared each listing's price against its confirmed 2.5Gbps speed capability."
   }
 ];
 

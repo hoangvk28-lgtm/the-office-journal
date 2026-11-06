@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31RBEXTRI7S._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Projector Weight",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your projector's weight",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -80,15 +80,15 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Cheapest option",
           "WALI Universal Projector Ceiling Wall Mount with Hidden Cable Management"
         ],
         [
@@ -102,26 +102,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Ceiling Mount vs Wall Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Ceiling mount",
         "text": "Keeps the projector out of the way and centered over typical seating, but requires finding a ceiling stud and usually a longer cable run."
       },
       {
-        "label": "",
+        "label": "Wall mount",
         "text": "Easier to install and service, but can introduce shadows if anyone walks between the projector and the screen at the wrong height."
       }
     ],
     "note": "Most dedicated theater rooms default to a ceiling mount; a wall mount suits a shared or multi-use room better."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Hole Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard projector hole spacing",
           "YiePhiot Mini Ceiling Wall Projector Mount Stand 175mm"
         ],
         [
@@ -132,27 +132,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Low-Clearance Ceilings Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A mount with a short minimum extension length so it doesn't hang too low from a low ceiling."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "YiePhiot Mini Ceiling Wall Projector Mount Stand 175mm is worth checking against its specific minimum extension figure before assuming any mount clears your ceiling height."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your projector is on the heavier side and you want real safety margin, where DYNAVISTA Full Motion Universal Ceiling Projector Mount Bracket with Adjustable is worth the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You have a lightweight, compact projector, where WALI Universal Projector Ceiling Wall Mount with Hidden Cable Management already covers the job at the lowest price here."
       }
     ]

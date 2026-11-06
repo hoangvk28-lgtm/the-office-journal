@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/314f0+ujGNL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "Enyuwlcm PU Leather A4 File Folder Document Holder Waterproof Portfolio"
         ],
         [
-          "",
+          "Continuous transcription/typing",
           "VANRA 5 Pieces A4 Envelopes Folders for Paperwork Plastic Wallets Document"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "Enyuwlcm PU Leather A4 File Folder Document Holder Waterproof Portfolio"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "ENGPOW Accordion File Organizer"
         ],
         [
-          "",
+          "Higher budget",
           "LonlyEagle 6 Pcs Clear A4 File Portable Project Case"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Freestanding",
     "cards": [
       {
         "label": "Enyuwlcm PU Leather A4 File Folder Document Holder Waterproof Portfolio)",
         "text": "Sits between monitor and keyboard, minimal head movement."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits beside the monitor at eye level, more placement flexibility."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Letter/A4 size",
           "VANRA 5 Pieces A4 Envelopes Folders for Paperwork Plastic Wallets Document"
         ],
         [
-          "",
-          ""
+          "Legal size or larger",
+          "ENGPOW Accordion File Organizer"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Transcription Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A line guide feature and independently adjustable angle and height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "VANRA 5 Pieces A4 Envelopes Folders for Paperwork Plastic Wallets Document is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where LonlyEagle 6 Pcs Clear A4 File Portable Project Case justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Enyuwlcm PU Leather A4 File Folder Document Holder Waterproof Portfolio already covers the job at the lowest price here."
       }
     ]

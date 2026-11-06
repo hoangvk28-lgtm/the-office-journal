@@ -44,7 +44,7 @@ export const faq = [
     "a": "Look for a model with a narrow brush or crevice nozzle attachment specifically, a wide flat nozzle designed for general surfaces struggles to reach between keys."
   },
   {
-    "q": "",
+    "q": "Are mini vacuums loud?",
     "a": "Cordless models typically run around 55 to 62 DB, noticeable in a quiet shared office; check buyer reviews for real-world noise impressions if discretion matters."
   },
   {
@@ -61,79 +61,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/41OQI6PqVyL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Keyboard crumbs",
+          "SERVOMASTER Handheld Vacuum Cordless"
         ],
         [
-          "",
+          "Whole-desk cleaning",
           "KMM Handheld Car Vacuum Cleaner"
         ],
         [
-          "",
+          "Car interior",
           "Black+Decker, Dustbuster AdvancedClean Handheld Vacuum Cordless, Compact Home"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "SERVOMASTER Handheld Vacuum Cordless"
         ],
         [
-          "",
+          "Mid-range pick",
           "Dirt Devil Scorpion Plus Handheld Vacuum"
         ],
         [
-          "",
+          "Higher budget",
           "Black+Decker, Dustbuster AdvancedClean Handheld Vacuum Cordless, Compact Home"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Corded vs Cordless",
     "cards": [
       {
-        "label": "",
+        "label": "Corded (e.g. SERVOMASTER Handheld Vacuum Cordless)",
         "text": "Consistent suction, no battery to manage, lower price."
       },
       {
-        "label": "",
+        "label": "Cordless",
         "text": "Portable and quiet, but suction fades as the battery drains."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Suction Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday light cleaning",
           "KMM Handheld Car Vacuum Cleaner"
         ],
         [
-          "",
+          "Maximum suction power",
           "Dirt Devil Scorpion Plus Handheld Vacuum"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tight Keyboard Crevices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A narrow brush or crevice nozzle attachment included in the box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "KMM Handheld Car Vacuum Cleaner is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Black+Decker, Dustbuster AdvancedClean Handheld Vacuum Cordless, Compact Home justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where SERVOMASTER Handheld Vacuum Cordless already covers the job at the lowest price here."
       }
     ]

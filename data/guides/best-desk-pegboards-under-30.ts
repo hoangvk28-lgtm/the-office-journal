@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/4153UROoWIL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "HGYZE Kawaii ($19.89)"
         ],
         [
-          "",
-          ""
+          "Under $25",
+          "FZK 4 Pack ($24.69)"
         ],
         [
-          "",
-          ""
+          "Under $26",
+          "White Metal Standing ($25.99)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "ANTHOSPACE ($29.99)"
         ]
       ]
     }
@@ -118,22 +118,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Wall-Mounted Panel Kit vs Freestanding Standing Organizer",
     "cards": [
       {
-        "label": "",
+        "label": "Wall-mounted (ANTHOSPACE, FZK, HGYZE)",
         "text": "Frees up desk surface entirely, best when wall space is available and desk real estate is at a premium."
       },
       {
-        "label": "",
+        "label": "Freestanding standing (White Metal)",
         "text": "Sits directly on the desk with repositionable accessories, no wall drilling needed at all."
       }
     ],
     "note": "If desk space matters more than wall space, a wall-mounted kit like the ANTHOSPACE or FZK frees up your work surface. If you can't or won't mount to a wall, the White Metal standing organizer works entirely on the desktop."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your storage load",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -146,7 +146,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Lightweight trinkets and decorative items",
-          ""
+          "HGYZE Kawaii"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Craft Room Needing a Complete Out-of-the-Box Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A kit that includes hooks, bins, and storage boxes together, not just bare panels requiring separate accessory purchases."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both the ANTHOSPACE and White Metal Standing picks include complete accessory sets ready to use immediately."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want documented weight ratings and a complete accessory set, where the ANTHOSPACE pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want an affordable, decorative pegboard for lightweight display items, where the HGYZE Kawaii pick covers that for under $20."
       }
     ]
@@ -181,15 +181,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Weight Capacity Documentation",
     "description": "Compared how specifically each listing states weight capacity by mounting method or total kit capacity."
   },
   {
-    "title": "",
+    "title": "Accessory Completeness",
     "description": "Checked whether hooks, bins, shelves, and other accessories are included versus requiring separate purchase."
   },
   {
-    "title": "",
+    "title": "Wall-Mounted vs Freestanding Design",
     "description": "Compared wall-mounted panel kits against standing desktop organizer designs."
   },
   {
@@ -197,7 +197,7 @@ export const howWeEvaluated = [
     "description": "Compared material thickness and whether panels can be combined into larger configurations."
   },
   {
-    "title": "",
+    "title": "Installation Flexibility",
     "description": "Compared adhesive versus screw mounting options and their respective ease of use."
   }
 ];

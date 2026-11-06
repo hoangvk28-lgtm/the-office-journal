@@ -60,41 +60,41 @@ export const heroImage = "https://m.media-amazon.com/images/I/41JElj6D14L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Room depth",
+        "Best pick"
       ],
       "rows": [
         [
-          "",
+          "Small classroom, under 20ft",
           "55-65in NEWORK NewBoard or JASZDOT"
         ],
         [
-          "",
+          "Standard classroom, 20-30ft",
           "75in NEWORK NewBoard or JAV Pro"
         ],
         [
-          "",
+          "Large lecture hall, 30ft+",
           "86in JASZDOT or Shiarffe X5"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Daily Startup Workflow",
     "note": "For daily classroom use, prioritize boards with fast boot times and simple teacher login, EDLA-certified boards with Google account sign-in are generally faster to get into a lesson than boards requiring manual app navigation each morning."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Product Architecture",
     "description": "Classified each product as a flat-panel display, projector-based interactive system, or portable conversion hardware, since these serve fundamentally different room setups and budgets."
   },
   {
-    "title": "",
+    "title": "Touch & Writing Behavior",
     "description": "Checked documented touch-point count, simultaneous-writer capacity, response latency, and touch technology (infrared, PCAP, or sensor-bar) rather than assuming higher touch-point numbers always mean a better writing experience."
   },
   {
@@ -102,11 +102,11 @@ export const howWeEvaluated = [
     "description": "Verified whether each board has genuine Google EDLA certification, which Android or Windows generation it runs, and whether an OPS slot requires a separately purchased module for full functionality."
   },
   {
-    "title": "",
+    "title": "Connectivity & Collaboration",
     "description": "Tested claims around wireless casting device limits, touch-back control, video conferencing platform compatibility (Zoom, Teams, Meet, Webex), and camera/microphone hardware quality where documented."
   },
   {
-    "title": "",
+    "title": "Build, Mounting & Support",
     "description": "Weighed panel weight, included wall mount versus separately sold stands, warranty length, and after-sales support commitments against the realistic deployment cost."
   }
 ];

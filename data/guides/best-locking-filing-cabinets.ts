@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Livofloral Vertical File Cabinet with 4 Drawers and 1 Door"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Yizosh Metal Garage Storage Cabinet with 2 Doors and 5 Adjustable Shelves"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $45",
           "SISESOL 2 Drawer File Cabinet with Lock"
         ],
         [
-          "",
+          "Up to $NaN",
           "Livofloral Vertical File Cabinet with 4 Drawers and 1 Door"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Legal-Size vs Letter-Size Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Legal-size compatible",
         "text": "Fits wider legal-size hanging folders in addition to letter-size. In this comparison: SISESOL 2 Drawer File Cabinet with Lock."
       },
       {
-        "label": "",
+        "label": "Letter-size only",
         "text": "Usually more compact and cheaper, fine if you never file legal-size documents. In this comparison: Letaya 3 Drawer Mobile File Cabinet with Lock, Yizosh Metal Garage Storage Cabinet with 2 Doors and 5 Adjustable Shelves, Letaya 2 Drawer File Cabinet with Lock, GYIIYUO 2 Drawer File Cabinet with 24, BYNSOE 2 Drawer File Cabinet with Lock, SteeLoong 2 Drawer File Cabinet with Lock, Livofloral Vertical File Cabinet with 4 Drawers and 1 Door."
       }
     ],
     "note": "Default to letter-size only unless you specifically file legal-size documents."
   },
   {
-    "subheading": "",
+    "subheading": "By Drawer Count",
     "note": "Check each pick's listed drawer count and interior dimensions against your actual filing volume before buying."
   },
   {
-    "subheading": "",
+    "subheading": "For Legal-Size Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed letter and legal-size hanging file compatibility, not just general drawer dimensions."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Yizosh Metal Garage Storage Cabinet with 2 Doors and 5 Adjustable Shelves is worth checking against its listed hanging-file compatibility before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real steel construction, anti-tip safety, and full-extension drawers, where Livofloral Vertical File Cabinet with 4 Drawers and 1 Door's higher price buys real build-quality headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light, occasional storage for a small volume of documents, where SISESOL 2 Drawer File Cabinet with Lock covers the same job at a lower price."
       }
     ]
@@ -158,11 +158,11 @@ export const howWeEvaluated = [
     "description": "Compared which folder sizes each cabinet is rated to hold, since not every pick fits all three common sizes."
   },
   {
-    "title": "",
+    "title": "Mobility and casters",
     "description": "Noted which picks include rolling casters for repositioning versus a stationary base, relevant for smaller rooms where furniture gets moved often."
   },
   {
-    "title": "",
+    "title": "Value for money",
     "description": "Weighed price against drawer count, confirmed lock status, and buyer feedback volume to judge which picks offer the strongest value at their price point."
   }
 ];

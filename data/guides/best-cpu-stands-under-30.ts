@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31O90iJpE+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tower Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tower",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small/mini-ITX case",
           "Pc Stand, Adjustable Computer Tower Stand for Carpet Fits Most PC-Black"
         ],
         [
-          "",
-          ""
+          "Standard mid-tower",
+          "YOSE Computer Tower Stand"
         ],
         [
-          "",
+          "Large full-tower",
           "PUTORSEN Computer Tower Stand with Rolling Caster Wheels"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Pc Stand, Adjustable Computer Tower Stand for Carpet Fits Most PC-Black"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Hmseng Computer Tower Stand"
         ],
         [
-          "",
+          "Higher budget",
           "PUTORSEN Computer Tower Stand with Rolling Caster Wheels"
         ]
       ]
@@ -113,27 +113,27 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Easy to reposition for cleaning or cable access, needs floor space."
       },
       {
-        "label": "",
+        "label": "Fixed/hanging",
         "text": "Frees floor space but commits the tower to one spot."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Floor caddy on carpet",
+          "YOSE Computer Tower Stand"
         ],
         [
-          "",
-          ""
+          "Under-desk hanging mount",
+          "Hmseng Computer Tower Stand"
         ]
       ]
     }
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy Full-Tower PC Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weight capacity rated comfortably above your tower's actual weight, with a solid steel frame."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "YOSE Computer Tower Stand is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where PUTORSEN Computer Tower Stand with Rolling Caster Wheels justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Pc Stand, Adjustable Computer Tower Stand for Carpet Fits Most PC-Black already covers the job at the lowest price here."
       }
     ]

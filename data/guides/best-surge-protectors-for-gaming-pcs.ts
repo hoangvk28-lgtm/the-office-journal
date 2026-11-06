@@ -52,67 +52,67 @@ export const heroImage = "https://m.media-amazon.com/images/I/41vcM-QMtVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Joule Rating",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 4800 joules",
           "Surge Protector Power Strip 4800J"
         ],
         [
-          "",
-          ""
+          "Around 3780 joules",
+          "Belkin 12"
         ],
         [
-          "",
-          ""
+          "Around 2700 joules",
+          "Power Strip"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $14",
+          "Surge Protector Power Strip"
         ],
         [
-          "",
-          ""
+          "Up to $29",
+          "Belkin 12"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB-C Charging vs Outlets-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in USB-C charging",
         "text": "Saves an outlet slot per device charged directly, useful if you regularly charge phones or tablets at your desk. In this comparison: Surge Protector Power Strip 4800J."
       },
       {
-        "label": "",
+        "label": "Outlets-only",
         "text": "No built-in charging ports, but often a lower price and simpler design for equipment that only needs AC power. In this comparison: Belkin 12."
       }
     ],
     "note": "Default to a USB-equipped strip unless you already have enough dedicated chargers and want to save on price."
   },
   {
-    "subheading": "",
+    "subheading": "By Plug Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Desk situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -120,7 +120,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Surge Protector Power Strip 4800J"
         ],
         [
-          "",
+          "Standard outlet clearance",
           "SUPERDANNY Power Strip Surge Protector"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed joule rating of at least 1000-2000 with UL 1449 certification, plus enough spaced outlets for a monitor, dock, and peripherals."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Surge Protector Power Strip 4800J discloses the highest joule rating at 4800 joules."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your equipment is expensive or sensitive, where Belkin 12's higher price buys real protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're protecting lower-value, easily replaceable electronics, where Surge Protector Power Strip covers the same basic job at a lower price."
       }
     ]
@@ -156,7 +156,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Realistic gaming-PC-plus-peripherals wattage calculation",
     "description": "Calculated total realistic wattage (PC power supply, high-refresh monitor(s), peripherals) against both the surge protector's rating and the underlying circuit's 15A capacity, given how much higher gaming PC draw is than typical office equipment."
   },
   {

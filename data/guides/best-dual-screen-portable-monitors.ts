@@ -53,20 +53,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/51pij3NpRXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Refresh Rate",
     "note": "6\" 1920x1080 Dual Stacked is currently the only pick in this specific comparison. If it doesn't match your priority, check our broader portable monitor roundup rather than assuming this specific pick fits."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around $219.99",
+          "InnoView Portable Dual Monitor 15.6\" 1920x1080 Dual Stacked"
         ]
       ]
     }
@@ -76,31 +76,31 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "6\" 1920x1080 Dual Stacked's stated per-port refresh rate directly, since USB-C and HDMI often support different maximum rates on the same panel."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Mount Compatibility",
     "note": "6\" 1920x1080 Dual Stacked doesn't explicitly confirm VESA mount compatibility. Check the listing directly if a permanent mounted setup matters to you."
   },
   {
     "subheading": "For a Handheld Gaming PC or Console Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Your exact source device's documented maximum output refresh rate over the connection type you'll use, checked independently from the monitor's own rated capability, since handhelds like Steam Deck and ROG Ally commonly cap at 60Hz over USB-C."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "6\" 1920x1080 Dual Stacked fits this specifically: Genuine standalone dual-screen unit independent of your laptop's own display."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99: Genuine standalone dual-screen unit independent of your laptop's own display. If that's what you're after, the tradeoffs in its cons list probably won't bother you either."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Here's the real tradeoff: Verify stand stability through current reviews for your desk setup. If that matters to you, compare it against other monitors in our broader roundup before committing."
       }
     ]

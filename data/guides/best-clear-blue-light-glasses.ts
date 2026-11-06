@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/315Xw06eAZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General screen time",
           "Gaoye Blue Light Blocking Glasses"
         ],
         [
-          "",
+          "Design/color-sensitive work",
           "Cyxus Clear Blue Light Glasses for Women Men Reduce Eye Strain 8082T34"
         ],
         [
-          "",
+          "Long gaming sessions",
           "ANYLUV Blue Light Glasses Men"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,44 +95,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Gaoye Blue Light Blocking Glasses"
         ],
         [
-          "",
+          "Mid-range pick",
           "TIJN Blue Light Blocking Glasses for Women Men Square Frame Nerd Eyeglasses"
         ],
         [
-          "",
+          "Higher budget",
           "ANYLUV Blue Light Glasses Men"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clear vs Yellow-Tinted Lenses",
     "cards": [
       {
         "label": "Gaoye Blue Light Blocking Glasses)",
         "text": "Filters less blue light but keeps on-screen colors accurate."
       },
       {
-        "label": "",
+        "label": "Yellow-tinted",
         "text": "Filters more blue light but visibly shifts color perception."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Vision Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No vision correction needed",
           "Cyxus Clear Blue Light Glasses for Women Men Reduce Eye Strain 8082T34"
         ],
         [
-          "",
+          "Reading magnification needed",
           "TIJN Blue Light Blocking Glasses for Women Men Square Frame Nerd Eyeglasses"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For All-Day Desk Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A frame width and nose bridge that actually fits your face, with a flexible, durable frame material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Cyxus Clear Blue Light Glasses for Women Men Reduce Eye Strain 8082T34 is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where ANYLUV Blue Light Glasses Men justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Gaoye Blue Light Blocking Glasses already covers the job at the lowest price here."
       }
     ]

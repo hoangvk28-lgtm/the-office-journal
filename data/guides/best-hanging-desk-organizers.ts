@@ -57,34 +57,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51NHUcgYmoL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Attachment Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "JMHUD 5"
         ],
         [
-          "",
+          "Up to $48",
           "Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays"
         ]
       ]
@@ -94,42 +94,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adjustable Tiers vs Fixed Spacing",
     "cards": [
       {
-        "label": "",
+        "label": "Adjustable tiers",
         "text": "Customize spacing for mixed folder or document sizes. In this comparison: Jakyitvi Adjustable 5 Tiers Wall File Organizer Metal Hanging Holder."
       },
       {
-        "label": "",
+        "label": "Fixed spacing",
         "text": "Simpler, fine if your items are a consistent size. B Wall File Organizer Office Hanging Magazine Holder, JMHUD 5, Simple Trending Wall File Organizer, Mind Reader Desktop Organizer with Hanging File Storage, Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays, Mind Reader Slide."
       }
     ],
     "note": "Default to adjustable tiers unless your filing needs are uniform in size."
   },
   {
-    "subheading": "",
+    "subheading": "By Footprint",
     "note": "Check each pick's listed dimensions against your actual measured wall or desk-edge space before buying, not just the general size category."
   },
   {
     "subheading": "For a Renter or Shared Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine no-drill desk-edge or under-desk clamp mount, not a wall-mount requiring drilling into drywall or a stud."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since mounting method varies across this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're organizing a heavy, varied file collection, where Safco Onyx Hanging Desktop Organizer with 3 Vertical Trays's capacity and adjustability give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light, occasional storage for a few folders, where JMHUD 5 covers the same job at a lower price."
       }
     ]
@@ -138,7 +138,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Attachment method honesty",
     "description": "We clearly disclosed whether each pick is wall-mounted (requires drilling), desk-edge hanging, or a freestanding desktop design, since these represent different installation commitments."
   },
   {
@@ -150,7 +150,7 @@ export const howWeEvaluated = [
     "description": "We checked mounting requirements against common desk types and wall materials."
   },
   {
-    "title": "",
+    "title": "Accessibility across tiers",
     "description": "For multi-tier designs, we noted whether top and bottom tiers remain comfortably reachable or require extra reach on taller designs."
   }
 ];

@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "How a dehumidifier gets rid of collected water matters as much as how much it collects: a gravity drain hose is the most reliable option but needs a nearby floor drain or lower elevation to work, while a built-in pump can send water uphill to a sink but adds a component that fails more often than a simple hose. A tank alone requires regular manual emptying, which quickly becomes impractical in a wet space running around the clock. Check your room's actual layout for a nearby drain before assuming any drain method will work as advertised."
   },
   {
-    "criterion": "",
+    "criterion": "Compressor vs Desiccant Technology",
     "explanation": "Compressor (refrigerant-based) dehumidifiers work well at typical room temperatures but lose efficiency below about 65°F and can ice up below 40°F, making them a poor fit for an unheated garage or cold basement in winter. Desiccant dehumidifiers use moisture-absorbing material instead of refrigeration, running effectively in cooler spaces where a compressor model would struggle or ice over. Check your space's typical temperature range, not just its humidity level, before choosing between the two technologies."
   },
   {
@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "Daily pint removal and tank capacity are two different numbers that both matter: a unit rated to remove 50 pints a day but with only a 10-pint tank will need emptying multiple times daily without a drain hose connected. Check the actual tank size specifically if you don't plan to use continuous drainage, since relying on manual emptying in a wet space quickly becomes impractical with a small tank."
   },
   {
-    "criterion": "",
+    "criterion": "Auto-Restart and Humidistat Control",
     "explanation": "An auto-restart feature resumes operation automatically after a power outage, important for basements and crawl spaces where you might not notice the unit stopped for days. A built-in humidistat lets you set a target humidity percentage and the unit cycles on and off automatically to maintain it, rather than running continuously and over-drying the air or wasting energy. Check for both features specifically if the unit will run unattended in a space you don't check daily."
   }
 ];
@@ -64,12 +64,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Room Size and Dampness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your space",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small room, slightly damp",
           "Ft Energy Star Most Efficient 2025 Dehumidifier Max 80Pint/D"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Ft Energy Star Most Efficient 2025 Dehumidifier Max 80Pint/D"
         ],
         [
-          "",
+          "Mid-range pick",
           "Airzentti 155 Pint Commercial Dehumidifier with Pump and Drain"
         ],
         [
-          "",
+          "Higher budget",
           "305 Pints Commercial Dehumidifier with Pump for Basement"
         ]
       ]
@@ -124,12 +124,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Technology: Compressor vs Desiccant",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard room temperature",
           "ALORAIR 180 PPD Commercial Dehumidifier with Pump"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Basement or Crawl Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Auto-restart after a power outage and a built-in humidistat, since these spaces often run unattended for days at a time."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ALORAIR 180 PPD Commercial Dehumidifier with Pump is worth checking against its specific auto-restart and humidistat spec before assuming any unit handles unattended operation well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're covering a large or wet space and want a built-in pump and higher capacity, where 305 Pints Commercial Dehumidifier with Pump for Basement justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Ft Energy Star Most Efficient 2025 Dehumidifier Max 80Pint/D already covers the job at the lowest price here."
       }
     ]
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "How a dehumidifier gets rid of collected water matters as much as how much it collects: a gravity drain hose is the most reliable option but needs a nearby floor drain or lower elevation to work, while a built-in pump can send water uphill to a sink but adds a component that fails more often than a simple hose."
   },
   {
-    "title": "",
+    "title": "Compressor vs Desiccant Technology",
     "description": "Compressor (refrigerant-based) dehumidifiers work well at typical room temperatures but lose efficiency below about 65°F and can ice up below 40°F, making them a poor fit for an unheated garage or cold basement in winter."
   },
   {
@@ -185,7 +185,7 @@ export const howWeEvaluated = [
     "description": "Daily pint removal and tank capacity are two different numbers that both matter: a unit rated to remove 50 pints a day but with only a 10-pint tank will need emptying multiple times daily without a drain hose connected."
   },
   {
-    "title": "",
+    "title": "Auto-Restart and Humidistat Control",
     "description": "An auto-restart feature resumes operation automatically after a power outage, important for basements and crawl spaces where you might not notice the unit stopped for days."
   }
 ];

@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "Which has the most reviews?",
-    "a": ""
+    "a": "The TSJ OFFICE Small Desktop Whiteboard, with 2,500 reviews at 4.7 stars."
   },
   {
     "q": "Do any of these include storage?",
@@ -64,11 +64,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Keyboard-adjacent placement design",
     "description": "We prioritized products specifically designed to sit behind or beside a keyboard on a single desk, since that's the real \"personal\" use case distinguishing this from a general compact board."
   },
   {
-    "title": "",
+    "title": "Built-in organizer features",
     "description": "We noted where a product combines whiteboard surface with storage, trays, or to-do sections, since that adds real personal-desk value beyond just writing space."
   },
   {

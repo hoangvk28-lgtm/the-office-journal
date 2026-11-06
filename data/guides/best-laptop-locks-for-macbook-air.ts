@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "Is there a budget option that isn't MacBook-Air-specific?",
-    "a": ""
+    "a": "The HOX Laptop Cable Lock is the lowest-priced and highest-rated pick here, marketed across iPads, tablets, laptops, and MacBooks generally rather than validated to a specific MacBook Air chassis generation."
   }
 ];
 
@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/310zWAukINL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Slot Type",
     "note": "Slot type isn't consistently confirmed across every pick in this comparison; check each listing's compatibility documentation directly against your exact laptop model."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $33",
           "HOX Laptop Cable Lock for iPad"
         ],
         [
-          "",
+          "Mid-range",
           "Multplx Universal Laptop Security Lock"
         ],
         [
@@ -84,24 +84,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: Kensington MacBook and Surface Laptop Locking Station with Combination Lock, Compulocks Ledge Adapter for MacBook Air 13-inch, HOX Laptop Cable Lock for iPad."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: Compulocks Ledge Adapter for MacBook Air 13-inch."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Kensington MacBook and Surface Laptop Locking Station with Combination Lock"
         ],
         [
-          "",
+          "Widest general slot-type compatibility",
           "Multplx Universal Laptop Security Lock"
         ]
       ]
@@ -119,24 +119,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Kensington MacBook and Surface Laptop Locking Station with Combination Lock fits this specifically: Preserves side port access unlike some adapter-based solutions."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Compulocks Ledge Adapter for MacBook Air 13-inch offers: Validated across four MacBook Air generations rather than one model year. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

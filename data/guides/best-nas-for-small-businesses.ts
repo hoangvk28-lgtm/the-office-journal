@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Synology 4"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Synology 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $354",
           "Western Digital 8TB WD Red Plus NAS Internal Hard Drive"
         ],
         [
-          "",
-          ""
+          "Up to $700",
+          "Synology 4"
         ]
       ]
     }
@@ -102,42 +102,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Diskless Enclosure vs Drives Included",
     "cards": [
       {
-        "label": "",
+        "label": "Diskless enclosure",
         "text": "Lets you choose your own NAS-grade drives and capacity, but budget $80-200+ per bay separately. In this comparison: Synology 4, UGREEN NAS DXP4800 Plus 4, UGREEN NAS DXP2800 2, Synology DS725+ Expandable NAS Storage, Synology DS225+ Private Cloud Media Server, Synology DS423 Family & Business Backup, Western Digital 8TB WD Red Plus NAS Internal Hard Drive."
       },
       {
-        "label": "",
+        "label": "Drives included",
         "text": "Ready to use out of the box, simpler for a first NAS purchase. In this comparison: QNAP TS."
       }
     ],
     "note": "Default to diskless if you want control over drive choice and capacity, drives-included for the simplest setup."
   },
   {
-    "subheading": "",
+    "subheading": "By CPU and RAM",
     "note": "Check each pick's listed CPU architecture and RAM amount against your actual workload before buying, not just bay count alone."
   },
   {
     "subheading": "For Media Streaming or Plex Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A CPU capable of hardware transcoding and enough RAM to handle multiple simultaneous streams, not just total bay count."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Synology 4 is worth checking against its listed CPU and RAM before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real multi-user performance, media transcoding, or business-critical reliability, where Synology 4's CPU and RAM give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need simple backup storage for one or two users, where Western Digital 8TB WD Red Plus NAS Internal Hard Drive covers the same job at a lower price."
       }
     ]
@@ -146,11 +146,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Concurrent-user network throughput",
     "description": "Weighed each NAS's network speed against how many people would realistically pull files at once, since a 1GbE connection bottlenecks fast with 5 or more simultaneous users."
   },
   {
-    "title": "",
+    "title": "Directory and account integration",
     "description": "Checked whether each platform supports centralized directory sync as a business scales past individual per-user accounts, and how complex that setup realistically is."
   },
   {

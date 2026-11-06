@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Inventory Essential Household Loads",
     "explanation": "List essential appliances portable power stations for home use needs to power and measure both running and startup surge demand for each."
   },
   {
@@ -17,7 +17,7 @@ export const buyingCriteria = [
     "explanation": "Confirm whether the station offers 120V-only or true 120/240V output, and check supported transfer-panel accessories."
   },
   {
-    "criterion": "",
+    "criterion": "Measure UPS Transfer Time",
     "explanation": "Verify EPS or UPS transfer time from official documentation and confirm sensitive-load suitability directly."
   },
   {
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Inventory Essential Household Loads",
     "note": "List essential appliances portable power stations for home use needs to power and measure both running and startup surge demand for each."
   },
   {
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Confirm whether the station offers 120V-only or true 120/240V output, and check supported transfer-panel accessories."
   },
   {
-    "subheading": "",
+    "subheading": "Measure UPS Transfer Time",
     "note": "Verify EPS or UPS transfer time from official documentation and confirm sensitive-load suitability directly."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Looked for UL, UL2743, or other documented safety certification and battery chemistry evidence rather than trusting a safety claim alone."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included cables, solar panel bundling, warranty length, and app requirements as part of the real cost and usability of each pick."
   }
 ];

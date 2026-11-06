@@ -60,79 +60,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/31au1imp3IL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "General screen time",
+          "Vbewo 2 Packs Professional Sleep Glasses with 98.7% Blue Light Blocking"
         ],
         [
-          "",
+          "Design/color-sensitive work",
           "Bloomoak-99% Blue Light Blocking Glasses"
         ],
         [
-          "",
-          ""
+          "Long gaming sessions",
+          "FEISEDY Sleep Blue Light Blocking Glasses for for Woman Men 99.9% Anti Blue"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Vbewo 2 Packs Professional Sleep Glasses with 98.7% Blue Light Blocking"
         ],
         [
-          "",
+          "Mid-range pick",
           "TIJN Sleep Glasses with Blue Green Light Blocking"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "FEISEDY Sleep Blue Light Blocking Glasses for for Woman Men 99.9% Anti Blue"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clear vs Yellow-Tinted Lenses",
     "cards": [
       {
-        "label": "",
+        "label": "Clear (e.g. Vbewo 2 Packs Professional Sleep Glasses with 98.7% Blue Light Blocking)",
         "text": "Filters less blue light but keeps on-screen colors accurate."
       },
       {
-        "label": "",
+        "label": "Yellow-tinted",
         "text": "Filters more blue light but visibly shifts color perception."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Vision Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No vision correction needed",
           "Bloomoak-99% Blue Light Blocking Glasses"
         ],
         [
-          "",
+          "Reading magnification needed",
           "TIJN Sleep Glasses with Blue Green Light Blocking"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For All-Day Desk Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A frame width and nose bridge that actually fits your face, with a flexible, durable frame material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Bloomoak-99% Blue Light Blocking Glasses is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "9% Anti Blue justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "7% Blue Light Blocking already covers the job at the lowest price here."
       }
     ]

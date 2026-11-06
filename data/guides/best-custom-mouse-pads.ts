@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41k6a81DvmL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tracking Surface Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Controlled, precise movement",
           "Mouse Pad Custom Personalized Photo Picture & Text Neoprene Office Supplies"
         ],
         [
-          "",
+          "Fast, low-friction glide",
           "Style In Print Mouse Pad Custom Personalized Photo Picture & Text Neoprene"
         ],
         [
-          "",
+          "Budget cloth surface",
           "Custom Mouse Pad with Photo Text Personalized Non-Slip Mouse Pad for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Custom Mouse Pad with Photo Text Personalized Non-Slip Mouse Pad for Desk"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Personalized Mouse Pad"
         ],
         [
-          "",
+          "Higher budget",
           "Style In Print Mouse Pad Custom Personalized Photo Picture & Text Neoprene"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Hard Surface",
     "cards": [
       {
         "label": "Mouse Pad Custom Personalized Photo Picture & Text Neoprene Office Supplies)",
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Size vs Your Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "Custom Mouse Pad with Photo Text Personalized Non-Slip Mouse Pad for Desk"
         ],
         [
-          "",
+          "Standard desk",
           "Mouse Pad Custom Personalized Photo Picture & Text Neoprene Office Supplies"
         ],
         [
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Mouse Pad Custom Personalized Photo Picture & Text Neoprene Office Supplies is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where Style In Print Mouse Pad Custom Personalized Photo Picture & Text Neoprene justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward cloth pad for everyday use, where Custom Mouse Pad with Photo Text Personalized Non-Slip Mouse Pad for Desk already covers the job at the lowest price here."
       }
     ]

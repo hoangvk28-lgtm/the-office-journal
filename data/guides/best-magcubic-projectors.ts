@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/31XITkJM-BL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Fully dark, dedicated room",
+          "Magcubic Mini Projector with WiFi 6 and Bluetooth 5.4"
         ],
         [
-          "",
+          "Some ambient light",
           "Magcubic 2026 Upgraded HY300PRO Mini Projector with WiFi and Bluetooth"
         ],
         [
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -92,11 +92,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Magcubic Mini Projector with WiFi and Bluetooth"
         ],
         [
-          "",
+          "Mid-range pick",
           "Magcubic 2026 Upgraded HY300PRO Mini Projector with WiFi and Bluetooth"
         ],
         [
-          "",
+          "Higher budget",
           "Magcubic 4K Smart Projector with WiFi and Bluetooth"
         ]
       ]
@@ -117,16 +117,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most casual, weekly-use buyers should default to a lamp-based pick unless they'll run it daily, where laser's near-zero maintenance pays for itself over a few years."
   },
   {
-    "subheading": "",
+    "subheading": "By Throw Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard room, 8-12 feet to the wall",
-          ""
+          "Magcubic Mini Projector with WiFi 6 and Bluetooth 5.4"
         ],
         [
           "Verify your exact throw ratio before buying any model",
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "4 is worth checking against its documented native contrast figures before assuming any headline contrast number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want laser reliability and top-tier brightness, where Magcubic 4K Smart Projector with WiFi and Bluetooth justifies the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want casual, occasional use, where Magcubic Mini Projector with WiFi and Bluetooth already covers the job at the lowest price here."
       }
     ]

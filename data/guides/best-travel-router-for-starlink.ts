@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31hTjZK1DCL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Starlink Generation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your Starlink system",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -81,63 +81,63 @@ export const howToChoose: HowToChooseSection[] = [
           "WiFi Router Mini (Starlink + standard ISP)"
         ],
         [
-          "",
-          ""
+          "Want closely Starlink-matched hardware",
+          "Compatible Starlink Mini Router"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $130",
+          "Mini Router Compatible with Gen 3/Mini/V4 ($129.99)"
         ],
         [
-          "",
-          ""
+          "Under $140",
+          "WiFi Router Mini (Starlink + ISP) ($139.99)"
         ],
         [
-          "",
-          ""
+          "Under $150",
+          "Compatible Starlink Mini Router ($149.99)"
         ],
         [
-          "",
-          ""
+          "Under $190",
+          "Mini Mesh Wi-Fi Router (Gen 2/3/4/Mini) ($189.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Starlink-Exclusive vs Dual-Compatible Routers",
     "cards": [
       {
         "label": "Starlink-exclusive (Mini Mesh, Mini Router)",
         "text": "Focused purely on extending or replacing Starlink coverage, appropriate if Starlink is your only or primary connection type."
       },
       {
-        "label": "",
+        "label": "Dual-compatible (WiFi Router Mini)",
         "text": "Works with both Starlink and a standard home ISP, useful if you split time between a Starlink-equipped property and a standard broadband connection elsewhere."
       }
     ],
     "note": "If you only ever use Starlink, a Starlink-exclusive router is simpler; if you regularly switch between Starlink and standard ISP connections, the dual-compatible pick avoids needing two separate routers."
   },
   {
-    "subheading": "",
+    "subheading": "By Installation Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your installation",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Wall-mounted mesh expansion node",
           "Mini Mesh Wi-Fi Router (includes mounting hardware)"
         ],
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an RV or Overlanding Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A compact, lightweight design specifically marketed for RV or mobile use, plus confirmed compatibility with your exact Starlink generation, since RV Starlink setups commonly use the Mini or Gen 3 hardware."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Mini Router Compatible with Gen 3/Mini/V4 specifically names RV use in its listing and includes a stand suited to a mobile installation."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price covers the widest range of Starlink hardware."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99 pick covers that specific need at the lowest price in this comparison."
       }
     ]
@@ -177,15 +177,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Starlink Generation Compatibility",
     "description": "Compared stated compatibility with Starlink Gen 2, Gen 3, Gen 4, and Mini hardware generations."
   },
   {
-    "title": "",
+    "title": "Dual Compatibility",
     "description": "Compared units working exclusively with Starlink against those also compatible with standard ISP connections."
   },
   {
-    "title": "",
+    "title": "Mesh Network Capability",
     "description": "Compared mesh expansion support and maximum stated connected device counts."
   },
   {
@@ -193,7 +193,7 @@ export const howWeEvaluated = [
     "description": "Compared compact form factors, included stands, and mounting hardware for RV or travel placement."
   },
   {
-    "title": "",
+    "title": "Ethernet Port Configuration",
     "description": "Compared standard versus latching Ethernet port designs for connection security."
   }
 ];

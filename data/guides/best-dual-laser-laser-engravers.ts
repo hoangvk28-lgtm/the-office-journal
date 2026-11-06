@@ -9,7 +9,7 @@ export const buyingCriteria = [
     "explanation": "Define whether dual means beam-combined same-wavelength diodes or different laser sources. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
-    "criterion": "",
+    "criterion": "Publish each source wavelength",
     "explanation": "Publish each source wavelength, optical power and material role separately. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "Verify whether both sources share identical work area/focus/rotary capability. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
-    "criterion": "",
+    "criterion": "Compare software workflow",
     "explanation": "Compare software workflow, safety controls and exhaust requirements when one machine processes both organic and metal materials. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   }
 ];
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/418htbyGRJL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -76,19 +76,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget tier",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lower price point in this lineup",
-          ""
+          "ACMER Laser Engraving Machine"
         ],
         [
-          "",
+          "Best overall value",
           "ATOMSTACK P1 5W Laser Engraver Dual"
         ]
       ]
@@ -102,18 +102,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The top pick in this comparison based on its documented spec set and feature completeness relative to the rest of this lineup."
       },
       {
-        "label": "",
+        "label": "ACMER Laser Engraving Machine",
         "text": "A meaningfully different option worth checking against your specific requirements before assuming the top pick is automatically the right fit."
       }
     ],
     "note": "Most buyers should default to ATOMSTACK P1 5W Laser Engraver Dual unless your specific use case points toward ACMER Laser Engraving Machine's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title (material, feature, or use case) verified directly on the product listing, not assumed from the category."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ATOMSTACK P1 5W Laser Engraver Dual is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on LaserPecker LP4 Dual Laser Engraver, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by ATOMSTACK P1 5W Laser Engraver Dual without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hard-scope eligibility",
     "description": "Keep `Best Dual Laser Laser Engravers` as its own target and require the exact source, material, wattage, brand, accessory, price or workflow modifier."
   },
   {
-    "title": "",
+    "title": "Source-first evidence",
     "description": "Publish wavelength/source architecture, true optical output, spot/field/work area and process mechanism before speed claims."
   },
   {
-    "title": "",
+    "title": "Representative-job protocol",
     "description": "Disclose material, coating, thickness, focus, power, speed, frequency/pulse where relevant, passes, air assist and measured result."
   },
   {
-    "title": "",
+    "title": "Safety/process score",
     "description": "Document laser class/access controls, enclosure/interlocks, extraction, fire supervision, material restrictions and required PPE/control area where applicable."
   },
   {
-    "title": "",
+    "title": "Ownership/production verdict",
     "description": "Include camera/rotary calibration, software, consumables, exhaust/cooling, source life/replacement, service and total ready-to-run cost."
   }
 ];

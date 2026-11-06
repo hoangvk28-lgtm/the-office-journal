@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41gVi4KhZ1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Desk Height",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk height",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -83,11 +83,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Marsail Ergonomic Drafting Chair for Standing Desk"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "500LBS Drafting Chair"
         ],
         [
-          "",
+          "Higher budget",
           "BOLISS Leather Drafting Chair Ergonomic Tall Office Chair"
         ]
       ]
@@ -120,11 +120,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how much of your day you'll actually spend seated versus standing, not just which looks more complete."
   },
   {
-    "subheading": "",
+    "subheading": "By Base Stability Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Standing Desk Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An independently adjustable foot ring, since a fixed-position ring can end up misaligned once the seat itself is raised to standing-desk height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Drafting Chair, Tall Office Chair for Standing Desk, High Executive Leather is worth checking against its specific foot ring adjustability before assuming any drafting chair pairs well with your desk."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You'll be seated for real chunks of the day at desk height and want genuine lumbar support and base stability, where BOLISS Leather Drafting Chair Ergonomic Tall Office Chair justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mostly stand and just need occasional perching, where Marsail Ergonomic Drafting Chair for Standing Desk already covers the job at the lowest price here."
       }
     ]

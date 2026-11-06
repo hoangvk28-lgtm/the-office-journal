@@ -22,7 +22,7 @@ export const buyingCriteria = [
   },
   {
     "criterion": "Weigh review volume for confidence in long-term durability",
-    "explanation": ""
+    "explanation": "Frequent meeting use means more erase cycles — an established review base is useful evidence of durability."
   }
 ];
 
@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest meeting-friendly option?",
-    "a": ""
+    "a": "The TSJ OFFICE 8x6 glass board at $16.99."
   }
 ];
 
@@ -57,31 +57,31 @@ export const heroImage = "https://m.media-amazon.com/images/I/41+-w5AGGrL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Choose by Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Most-reviewed keyboard-adjacent option",
           "TSJ OFFICE Small Desktop Whiteboard"
         ],
         [
-          "",
+          "Highest rating",
           "Small Desktop Glass Whiteboard, Keyboard Stand"
         ],
         [
-          "",
+          "Room for diagrams",
           "Tankee Dry Erase Board 16x12"
         ],
         [
-          "",
+          "Organizer for meeting materials",
           "Varhomax Glass Desk Whiteboard with Storage"
         ],
         [
-          "",
+          "Cheapest option",
           "TSJ OFFICE Glass Dry Erase Board 8x6"
         ]
       ]

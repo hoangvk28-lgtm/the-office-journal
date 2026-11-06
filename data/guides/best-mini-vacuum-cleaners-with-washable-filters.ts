@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/418IQ+fmUAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Keyboard crumbs",
           "BLACK+DECKER dustbuster Cordless Handheld Vacuum"
         ],
         [
-          "",
+          "Whole-desk cleaning",
           "UtySty 100 Pack Hand Vacuum Filter Cover Disposable Non-Woven Fabric Filters"
         ],
         [
-          "",
+          "Car interior",
           "Black+Decker, Dustbuster AdvancedClean Handheld Vacuum Cordless, Compact Home"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "BLACK+DECKER dustbuster Cordless Handheld Vacuum"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Gxzsk Handheld Vacuum Cordless"
         ],
         [
-          "",
+          "Higher budget",
           "Black+Decker, Dustbuster AdvancedClean Handheld Vacuum Cordless, Compact Home"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Corded vs Cordless",
     "cards": [
       {
         "label": "BLACK+DECKER dustbuster Cordless Handheld Vacuum)",
         "text": "Consistent suction, no battery to manage, lower price."
       },
       {
-        "label": "",
+        "label": "Cordless",
         "text": "Portable and quiet, but suction fades as the battery drains."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Suction Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday light cleaning",
           "UtySty 100 Pack Hand Vacuum Filter Cover Disposable Non-Woven Fabric Filters"
         ],
         [
-          "",
-          ""
+          "Maximum suction power",
+          "Gxzsk Handheld Vacuum Cordless"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tight Keyboard Crevices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A narrow brush or crevice nozzle attachment included in the box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "UtySty 100 Pack Hand Vacuum Filter Cover Disposable Non-Woven Fabric Filters is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Black+Decker, Dustbuster AdvancedClean Handheld Vacuum Cordless, Compact Home justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where BLACK+DECKER dustbuster Cordless Handheld Vacuum already covers the job at the lowest price here."
       }
     ]

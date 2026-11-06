@@ -60,16 +60,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41wsTOnkUGL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "The brightest 1080P triple-screen panels",
-          ""
+          "P7 Triple Laptop Screen Extender 15.6\" (300 Nits)"
         ],
         [
           "Maximum vertical workspace for coding or spreadsheets",
@@ -77,30 +77,30 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Triple-screen productivity at the lowest price",
-          ""
+          "ZUMWALT P7 Triple Portable Monitor 15.6\""
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $115",
+          "Laptop Screen Extender 15.6\" Detachable ($110.48)"
         ],
         [
-          "",
-          ""
+          "$185-$195",
+          "ZUMWALT P7 Triple Portable Monitor 15.6\" ($189.99)"
         ],
         [
-          "",
-          ""
+          "$245-$260",
+          "S12 Triple Portable Monitor 16\" 1200P ($249.98) or P7 300 Nits ($259.99)"
         ]
       ]
     }
@@ -120,19 +120,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "The S12 pick wins on both resolution and brightness, so it's the stronger choice unless the P7's lighter weight specifically matters more for how you'll use the setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Total Setup Weight",
     "table": {
       "headers": [
-        "",
-        ""
+        "Weight priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Lightest triple-screen setup",
+          "P7 Triple Laptop Screen Extender 15.6\" (300 Nits) at 3.9 lbs"
         ],
         [
-          "",
+          "Lightest overall (single panel)",
           "6\" Detachable at a fraction of triple-screen weight"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Home Office Multi-Monitor Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The highest resolution and largest usable screen area, since a fixed home office desk doesn't need to prioritize portability the way a travel setup would."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The S12 Triple Portable Monitor 16\" 1200P is the strongest fit, offering both higher resolution and larger 16 inch panels for a stationary desk setup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the sharpest, brightest triple-screen setup available, where the S12 Triple Portable Monitor 16\" 1200P delivers both higher resolution and higher brightness than the standard 1080P alternatives."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "48 covers the same core need for well under half the price."
       }
     ]
@@ -172,15 +172,15 @@ export const howWeEvaluated = [
     "description": "Compared stated nit brightness and viewing angle figures across all triple-screen picks, since these vary even among similarly priced triple-screen setups."
   },
   {
-    "title": "",
+    "title": "Resolution vs Brightness Tradeoff",
     "description": "Weighed the genuine benefit of 1200P resolution and a 16:10 aspect ratio against the alternative of higher stated brightness on a standard 1080P panel."
   },
   {
-    "title": "",
+    "title": "Total Setup Weight",
     "description": "Compared stated total weight figures across triple-screen picks, since weight varies meaningfully even between similarly specced two-panel setups."
   },
   {
-    "title": "",
+    "title": "MacBook M-Series Compatibility Caveats",
     "description": "Checked which triple-screen listings explicitly disclose extra hardware requirements for MacBook M1/M2/M3 users lacking full-featured USB-C ports."
   },
   {

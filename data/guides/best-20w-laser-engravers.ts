@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "Publish spot size or field lens/work area plus motion architecture, because higher watts can trade against fine detail. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   },
   {
-    "criterion": "",
+    "criterion": "Compare laser class/enclosure",
     "explanation": "Compare laser class/enclosure, exhaust, electrical/cooling requirements, consumables and source warranty. This matters directly when comparing the products in this guide, since listings at a similar price point often differ meaningfully on this exact point once you look past the headline spec. Check the specific product listing for this detail rather than assuming it from the category average, and weigh it against your actual use case before deciding between two closely matched options in this lineup."
   }
 ];
@@ -57,16 +57,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/51RuPX4PQcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "The best all-around option in this comparison",
-          ""
+          "ATOMSTACK 20W Laser Engraver"
         ],
         [
           "A strong alternative with a different tradeoff",
@@ -76,11 +76,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget tier",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,8 +88,8 @@ export const howToChoose: HowToChooseSection[] = [
           "LONGER RAY5 20000mW Laser Engraver 130W CNC Cutter"
         ],
         [
-          "",
-          ""
+          "Best overall value",
+          "ATOMSTACK 20W Laser Engraver"
         ]
       ]
     }
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "ATOMSTACK 20W Laser vs LASER TREE 20W",
     "cards": [
       {
-        "label": "",
+        "label": "ATOMSTACK 20W Laser Engraver",
         "text": "The top pick in this comparison based on its documented spec set and feature completeness relative to the rest of this lineup."
       },
       {
@@ -109,16 +109,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to ATOMSTACK 20W Laser Engraver unless your specific use case points toward LASER TREE 20W Laser Engraver & Cutter's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Matches this guide's core use case most closely",
-          ""
+          "ATOMSTACK 20W Laser Engraver"
         ],
         [
           "A close secondary option worth comparing",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title (material, feature, or use case) verified directly on the product listing, not assumed from the category."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ATOMSTACK 20W Laser Engraver is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on Creality Falcon A1 Pro 20W Laser Engraver, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by LONGER RAY5 20000mW Laser Engraver 130W CNC Cutter without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hard-scope eligibility",
     "description": "Keep `Best 20W Laser Engravers` as its own target and require the exact source, material, wattage, brand, accessory, price or workflow modifier."
   },
   {
-    "title": "",
+    "title": "Source-first evidence",
     "description": "Publish wavelength/source architecture, true optical output, spot/field/work area and process mechanism before speed claims."
   },
   {
-    "title": "",
+    "title": "Representative-job protocol",
     "description": "Disclose material, coating, thickness, focus, power, speed, frequency/pulse where relevant, passes, air assist and measured result."
   },
   {
-    "title": "",
+    "title": "Safety/process score",
     "description": "Document laser class/access controls, enclosure/interlocks, extraction, fire supervision, material restrictions and required PPE/control area where applicable."
   },
   {
-    "title": "",
+    "title": "Ownership/production verdict",
     "description": "Include camera/rotary calibration, software, consumables, exhaust/cooling, source life/replacement, service and total ready-to-run cost."
   }
 ];

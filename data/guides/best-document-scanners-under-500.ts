@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41wHhR2WCpL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $255",
+          "Canon imageFORMULA R40II ($253.00)"
         ],
         [
-          "",
-          ""
+          "Under $280",
+          "ScanSnap iX1300 ($279.99)"
         ],
         [
-          "",
-          ""
+          "Under $380",
+          "Epson ES-580W ($354.99) or ScanSnap iX2500 ($379.99)"
         ]
       ]
     }
@@ -125,11 +125,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you regularly scan large batches in one sitting, the extra feeder capacity on the ScanSnap iX2500 or Epson ES-580W reduces hands-on refilling time. For moderate volume, the Canon R40II's 60-sheet feeder is plenty."
   },
   {
-    "subheading": "",
+    "subheading": "By Wireless Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your connectivity needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -138,15 +138,15 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Scan directly to cloud without a computer",
-          ""
+          "Epson Workforce ES-580W"
         ],
         [
           "Wireless in the smallest body",
-          ""
+          "ScanSnap iX1300"
         ],
         [
           "No wireless needed, direct cable only",
-          ""
+          "Canon imageFORMULA R40II"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Busy Shared Office Scanning Station Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A large touchscreen with saved scan profiles so multiple users can select their own destination without reconfiguring settings each time."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The ScanSnap iX2500's large touchscreen with personalized profiles is built specifically for this kind of shared, multi-user scanning setup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the largest feeder capacity and the newest Wi-Fi 6 standard, where the ScanSnap iX2500 delivers the most complete feature set in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want top-tier 45ppm duplex speed without wireless or a 100-sheet feeder, where the Canon imageFORMULA R40II delivers that speed for over $100 less."
       }
     ]
@@ -181,11 +181,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Duplex Scan Speed",
     "description": "Compared stated pages-per-minute figures for duplex, two-sided scanning across every pick in this top-tier lineup."
   },
   {
-    "title": "",
+    "title": "Automatic Feeder Capacity",
     "description": "Compared feeder sheet capacity, ranging from 20-sheet compact designs to 100-sheet high-volume units."
   },
   {
@@ -193,11 +193,11 @@ export const howWeEvaluated = [
     "description": "Distinguished Wi-Fi 6 from older wireless standards and checked which picks can save scans without a computer connected."
   },
   {
-    "title": "",
+    "title": "Touchscreen and Control Interface",
     "description": "Compared touchscreen size and control interface across the pricier desktop models."
   },
   {
-    "title": "",
+    "title": "Jam Prevention Features",
     "description": "Checked for specific jam-prevention mechanisms like multi-feed sensors and double feed detection."
   }
 ];

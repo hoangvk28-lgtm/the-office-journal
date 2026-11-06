@@ -64,31 +64,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Much You Need to Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, everyday items",
           "IRIS USA 4-Drawer Rolling Storage Cart with Organizer Top"
         ],
         [
-          "",
+          "Standard mixed storage",
           "Sterilite Wide 3 Drawer Storage Cart Plastic Rolling Organizer"
         ],
         [
-          "",
+          "Heavier or bulkier items",
           "Sterilite Wide 3-Drawer Cart with Wheels for Bedroom and Dresser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "IRIS USA 4-Drawer Rolling Storage Cart with Organizer Top"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "HOMZ Drawer Tower"
         ],
         [
-          "",
+          "Higher budget",
           "Sterilite Wide 3-Drawer Cart with Wheels for Bedroom and Dresser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Drawers vs Open Bins",
     "cards": [
       {
         "label": "Sterilite Wide 3 Drawer Storage Cart Plastic Rolling Organizer)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how often you need to see contents versus how much you want the cart to blend in."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hardwood or tile",
           "Check for polyurethane or rubber casters specifically"
         ],
         [
-          "",
+          "Carpet or concrete",
           "Sterilite Wide 3 Drawer Storage Cart Plastic Rolling Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Tight Spaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The actual width and depth measurement, not just a 'slim' or 'narrow' label, plus the extra inch the wheels add to the base footprint."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "IRIS USA 4-Drawer Rolling Storage Cart with Organizer Top is worth checking against its exact footprint before assuming it fits a tight gap like between a washer and dryer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier casters for daily heavy use, where Sterilite Wide 3-Drawer Cart with Wheels for Bedroom and Dresser justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing lighter, everyday items, where IRIS USA 4-Drawer Rolling Storage Cart with Organizer Top already covers the job at the lowest price here."
       }
     ]

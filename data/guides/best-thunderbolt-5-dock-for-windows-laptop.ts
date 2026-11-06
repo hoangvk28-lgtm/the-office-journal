@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41e5nKqMKYL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $370",
+          "Lenovo ThinkPad Thunderbolt 5 Smart Dock ($368.00)"
         ],
         [
-          "",
-          ""
+          "Under $390",
+          "Dell SD25TB5 Pro 12-Port ($389.89)"
         ],
         [
-          "",
-          ""
+          "Under $460",
+          "Dell Pro SD25TB5 Bundle ($459.96)"
         ],
         [
-          "",
-          ""
+          "Under $635",
+          "ASUS Master Thunderbolt 5 Dock DC510 ($632.45)"
         ]
       ]
     }
@@ -121,23 +121,23 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Delivers the highest stated 300W charging specifically to Dell systems, with a real drop to 240W for non-Dell laptops."
       },
       {
-        "label": "",
+        "label": "Cross-brand fleet management (Lenovo)",
         "text": "Offers cloud-based AWS management specifically designed for organizations managing docks across potentially mixed laptop fleets."
       }
     ],
     "note": "If you're standardized on Dell hardware and want maximum charging wattage, either Dell pick delivers that. If you're managing a broader organizational fleet, Lenovo's cloud management platform is worth considering."
   },
   {
-    "subheading": "",
+    "subheading": "By Display Configuration Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your display setup",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Up to four 4K@120Hz or single 8K@60Hz",
-          ""
+          "Either Dell SD25TB5 pick"
         ],
         [
           "Up to three 8K@60Hz or mixed high-refresh configurations",
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Creative Professionals Sharing Files Between Computers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock with dedicated PC-to-PC sharing software that operates at Thunderbolt speeds, so transferring large project files or sharing a workstation between two machines doesn't require a separate network transfer."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The ASUS Master Thunderbolt 5 Dock DC510 specifically includes Thunderbolt Share software for secure, fast PC-to-PC screen, keyboard, mouse, and storage sharing."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You specifically want Thunderbolt Share's PC-to-PC sharing for creative collaboration, where the ASUS DC510 justifies its $632.45 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You want the same core Dell TB5 dock capability without a cable bundle, where the Dell SD25TB5 Pro 12-Port delivers that for $389.89."
       }
     ]
   }
@@ -184,15 +184,15 @@ export const howWeEvaluated = [
     "description": "Compared stated charging wattage to Dell/Lenovo-specific systems versus non-branded systems."
   },
   {
-    "title": "",
+    "title": "Enterprise IT Management",
     "description": "Compared cloud-based fleet management, remote firmware updates, and security features."
   },
   {
-    "title": "",
+    "title": "Data Transfer Speed",
     "description": "Compared stated Gbps and real-world file transfer time figures."
   },
   {
-    "title": "",
+    "title": "Collaborative Software Features",
     "description": "Compared PC-to-PC sharing and other bundled software capabilities."
   }
 ];

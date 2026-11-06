@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Hdmi-faq",
     "q": "Why isn't my 4K monitor hitting its advertised refresh rate?",
     "a": "0 caps out around 60Hz at full 4K regardless of what the panel itself is rated for."
   },
   {
-    "id": "",
+    "id": "Response-faq",
     "q": "Can I trust the response time number on the box?",
     "a": "Not fully, it's usually a best-case lab number under aggressive overdrive settings, real-world motion clarity is often worse and can show ghosting, check independent motion-clarity reviews instead."
   },
   {
-    "id": "",
+    "id": "Hdr-faq",
     "q": "Does HDR on a 4K monitor actually look different?",
     "a": "It depends heavily on the certification tier, DisplayHDR 400 is a low bar with modest brightness gains, DisplayHDR 600 and above reflects capable HDR hardware, check the specific tier rather than trusting the word HDR alone."
   },
   {
-    "id": "",
+    "id": "Usbc-faq",
     "q": "Will a USB-C 4K monitor charge my laptop?",
     "a": "Only if its power delivery wattage matches or exceeds your laptop's charging requirement, check the monitor's specific PD wattage spec rather than assuming any USB-C monitor fully charges any laptop."
   },
   {
-    "id": "",
+    "id": "Scaling-faq",
     "q": "Is a smaller 4K monitor harder to use than a larger one?",
     "a": "It needs OS-level scaling to keep text readable, which works well in most modern software but can render blurry in some older or niche applications, verify your specific software handles scaling before buying a smaller panel."
   },
   {
-    "id": "",
+    "id": "Curved-faq",
     "q": "Is a curved 4K monitor better than flat?",
     "a": "It depends on your use, curved reduces eye travel and adds immersion for gaming or media but distorts straight lines in spreadsheet, CAD, or design work where geometric accuracy matters."
   }
@@ -66,34 +66,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51JeLOpieVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General office and browsing",
           "ZZA 27 Inch 4K Gaming Monitor, UHD(3840x2160) 4K 144Hz Flat Monitor"
         ],
         [
-          "",
+          "Color-critical creative work",
           "KOORUI 27\" 4K Gaming Monitor"
         ],
         [
-          "",
+          "Fast-paced gaming",
           "ASUS TUF Gaming VG27UQ1A 27 Inch 4K 160Hz G-SYNC Gaming Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "ZZA 27 Inch 4K Gaming Monitor, UHD(3840x2160) 4K 144Hz Flat Monitor"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Dell 27 Monitor S2725QS"
         ],
         [
-          "",
+          "Higher budget",
           "ASUS TUF Gaming VG27UQ1A 27 Inch 4K 160Hz G-SYNC Gaming Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "IPS vs OLED Panel",
     "cards": [
       {
         "label": "ZZA 27 Inch 4K Gaming Monitor, UHD(3840x2160) 4K 144Hz Flat Monitor)",
         "text": "Consistent accurate color from wide angles, weaker black levels."
       },
       {
-        "label": "",
+        "label": "OLED",
         "text": "Deeper contrast and faster response, real long-term burn-in risk on static content."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk depth",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard desk distance",
           "KOORUI 27\" 4K Gaming Monitor"
         ],
         [
-          "",
-          ""
+          "Larger or multi-monitor desk",
+          "Dell 27 Monitor S2725QS"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed USB-C power delivery wattage that matches your laptop's actual charging requirement, not just a USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "KOORUI 27\" 4K Gaming Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where ASUS TUF Gaming VG27UQ1A 27 Inch 4K 160Hz G-SYNC Gaming Monitor justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where ZZA 27 Inch 4K Gaming Monitor, UHD(3840x2160) 4K 144Hz Flat Monitor already covers the job at the lowest price here."
       }
     ]
@@ -196,7 +196,7 @@ export const howWeEvaluated = [
 ];
 
 export const introParagraphs = [
-  "",
+  "Across best 4k monitors with hdmi 2.1, span a wider range, given 4k monitors with hdmi 2.1, details stay hidden.",
   "1 is judged here on honest scaling behavior, because advertised numbers use best-case settings."
 ];
 

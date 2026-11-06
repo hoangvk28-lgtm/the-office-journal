@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41R4USRxgSL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $27",
+          "HumanCentric Thin Client Mount ($26.99)"
         ],
         [
-          "",
-          ""
+          "Under $28",
+          "PUTORSEN NAS Bracket ($27.99)"
         ],
         [
-          "",
-          ""
+          "Under $35",
+          "HumanCentric Dell OptiPlex Mount ($34.99)"
         ],
         [
-          "",
-          ""
+          "Under $38",
+          "Suptek 2 Pack ($37.99)"
         ]
       ]
     }
@@ -122,31 +122,31 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Rated around 11 lbs, sufficient for typical mini PCs and thin clients but not built for heavier NAS enclosures."
       },
       {
-        "label": "",
+        "label": "Heavy-duty NAS rating (PUTORSEN)",
         "text": "Rated up to 22 lbs, built for heavier devices like NAS units or a mini PC paired with a docking station."
       }
     ],
     "note": "If you're mounting anything heavier than a standard lightweight mini PC, the PUTORSEN's doubled weight capacity is worth prioritizing over a standard-rated bracket."
   },
   {
-    "subheading": "",
+    "subheading": "By Device Count Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
           "One workstation, standard mini PC",
-          ""
+          "HumanCentric Thin Client Mount"
         ],
         [
           "Two workstations or want a spare",
-          ""
+          "Suptek 2 Pack"
         ],
         [
           "One Dell OptiPlex Micro with documented fit",
-          ""
+          "HumanCentric Dell OptiPlex Mount"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Network Closet or NAS Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity well above a typical mini PC's weight, since NAS enclosures with drives installed are meaningfully heavier."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The PUTORSEN bracket's 22 lb rating and explicit NAS compatibility make it the clear choice for this specific use case."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're mounting a NAS or heavier device, where the PUTORSEN's doubled weight capacity handles loads the standard-rated picks aren't built for."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, reliable mount for one standard mini PC, where the HumanCentric Thin Client Mount covers that need for about $10 less than the Dell-specific or 2-pack options."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated maximum supported weight, distinguishing standard thin-client-rated mounts from heavier-duty NAS-capable designs."
   },
   {
-    "title": "",
+    "title": "Device Compatibility Breadth",
     "description": "Checked which picks explicitly support NAS enclosures, docking stations, or other heavier peripherals beyond typical mini PCs."
   },
   {
-    "title": "",
+    "title": "Multi-Pack Value",
     "description": "Compared per-unit cost for any listing offering more than one mount in a single purchase."
   },
   {
-    "title": "",
+    "title": "Height Adjustment Range",
     "description": "Compared the number of adjustment levels and overall vertical range each bracket supports."
   },
   {
-    "title": "",
+    "title": "Documented Compatibility Detail",
     "description": "Checked how specifically each listing names compatible model numbers or manufacturer part numbers."
   }
 ];

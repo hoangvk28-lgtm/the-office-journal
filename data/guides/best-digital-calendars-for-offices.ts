@@ -52,35 +52,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "5inch Writing Board for Office Business Home Decor"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "5inch Writing Board for Office Business Home Decor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $24",
           "5inch Writing Board for Office Business Home Decor"
         ],
         [
-          "",
+          "Up to $530",
           "Skylight Calendar Max, 27\" Digital Calendar & Chore Chart"
         ]
       ]
@@ -90,42 +90,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Chore Chart Features vs Calendar-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Chore chart included",
         "text": "Useful for a family actively managing kids' responsibilities and rewards. 6\" Digital Calendar, Skylight Calendar, 15\" Touchscreen Digital Calendar & Chore Chart, Skylight Calendar Max, 27\" Digital Calendar & Chore Chart."
       },
       {
-        "label": "",
+        "label": "Calendar-only",
         "text": "Simpler, cleaner display without extra features you might not use."
       }
     ],
     "note": "Default to calendar-only unless your household actively wants chore-tracking tools."
   },
   {
-    "subheading": "",
+    "subheading": "By Sync Method",
     "note": "Check each pick's listed calendar sync method against the accounts your household actually uses before buying, not just a generic \"calendar sync\" claim."
   },
   {
     "subheading": "For a Shared Family Household Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A screen size legible from across the room, plus genuine multi-account two-way sync with the calendar accounts your household already uses."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "JSJGETYI Electronic Calendar with Notepad Digital Clock Date Display Desktop Calendar Rechargeable 9.5inch Writing Board for Office Business Home Decor is worth checking against its listed sync method and screen size before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need a large, legible display and reliable multi-account sync for a busy household, where Skylight Calendar Max, 27\" Digital Calendar & Chore Chart's features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5inch Writing Board for Office Business Home Decor covers the same job at a lower price."
       }
     ]
@@ -138,7 +138,7 @@ export const howWeEvaluated = [
     "description": "Considered whether a design suits a business or office setting, favoring neutral finishes and straightforward interfaces over playful family-oriented styling."
   },
   {
-    "title": "",
+    "title": "Office-specific marketing language cross-checked",
     "description": "Verified which listings explicitly market themselves for office or business use versus home use, and reflected that distinction honestly in the picks."
   },
   {

@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31VNov-Q7EL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Storing",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light supplies, no drilling",
           "Leadigol Under Desk Drawer Wood"
         ],
         [
-          "",
-          ""
+          "Standard office supplies",
+          "Gaxomo Under Desk Drawer"
         ],
         [
-          "",
+          "Heavier items, permanent install",
           "Solid Oak Wood Under Desk Drawer Attachment"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "Leadigol Under Desk Drawer Wood"
         ],
         [
-          "",
+          "Mid-range pick",
           "Under Desk Drawer Storage Organizer"
         ],
         [
-          "",
+          "Higher budget",
           "Solid Oak Wood Under Desk Drawer Attachment"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Screw-Mounted",
     "cards": [
       {
         "label": "Leadigol Under Desk Drawer Wood)",
         "text": "No drilling needed, fully removable, but capped around 13 lbs."
       },
       {
-        "label": "",
+        "label": "Screw-mounted",
         "text": "Higher weight capacity, but permanent and requires drilling into the desk."
       }
     ],
     "note": "Match this to whether you rent, share the desk, or need real capacity for heavier items."
   },
   {
-    "subheading": "",
+    "subheading": "By Legroom Clearance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Tight knee clearance",
           "Measure your seated position before choosing any model"
         ],
         [
-          "",
-          ""
+          "Standard desk depth",
+          "Gaxomo Under Desk Drawer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Standing Desks Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed clearance at your desk's lowest sitting height, including the motor housing and crossbar."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Gaxomo Under Desk Drawer is worth checking against your desk's specific understructure before assuming any drawer clears it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and smoother, longer-lasting slides for daily heavy use, where Solid Oak Wood Under Desk Drawer Attachment justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing light supplies and want a simple, removable option, where Leadigol Under Desk Drawer Wood already covers the job at the lowest price here."
       }
     ]

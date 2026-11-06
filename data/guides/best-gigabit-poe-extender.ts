@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31G1v++yaZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "Davuaz PoE Gigabit Extender ($19.99)"
         ],
         [
-          "",
-          ""
+          "Under $23",
+          "VIMIN 4-Port Gigabit Extender ($22.09)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "Gigabit PoE Passthrough Switch ($29.99)"
         ],
         [
-          "",
-          ""
+          "Under $39",
+          "TRENDnet TPE-E100 ($38.01)"
         ]
       ]
     }
@@ -118,22 +118,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Budget Value vs Established Brand Warranty",
     "cards": [
       {
-        "label": "",
+        "label": "Budget value (VIMIN, Davuaz)",
         "text": "Both deliver full Gigabit speed and multi-device power at under $23, ideal for a straightforward home or small-business installation without extended warranty needs."
       },
       {
-        "label": "",
+        "label": "Established brand warranty (TRENDnet)",
         "text": "A 3-year manufacturer warranty and NDAA compliance target buyers who want institutional-grade backing, at a meaningfully higher price than the budget picks."
       }
     ],
     "note": "If you want strong Gigabit performance at the lowest cost, the VIMIN or Davuaz picks deliver that well. If long-term warranty coverage or government compliance matters, the TRENDnet pick's higher price is worth it for those specific needs."
   },
   {
-    "subheading": "",
+    "subheading": "By Power Requirement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device's power need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Multi-Camera Installation Needing Full Bandwidth Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An extender that maintains full Gigabit speed across all its ports simultaneously, not just a single port, since modern 4K cameras benefit from more than the 100Mbps ceiling of Fast Ethernet extenders."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The VIMIN pick specifically maintains full Gigabit speed across three simultaneously powered devices, making it a strong fit for a multi-camera installation needing full bandwidth throughout."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "01 price is justified by its 3-year coverage."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Gigabit Speed Consistency",
     "description": "Compared whether full 1000Mbps holds across the extender's full rated distance and port count."
   },
   {
-    "title": "",
+    "title": "Per-Port Power Output",
     "description": "Compared standard versus dedicated high-power ports while maintaining Gigabit speed."
   },
   {
-    "title": "",
+    "title": "Warranty and Support",
     "description": "Compared warranty length and stated ongoing support commitment."
   },
   {
-    "title": "",
+    "title": "Local Power Requirement",
     "description": "Compared whether each extender requires a local outlet or draws entirely from the upstream PoE source."
   },
   {
-    "title": "",
+    "title": "Multi-Device Capacity",
     "description": "Compared how many devices each extender can power simultaneously at full Gigabit speed."
   }
 ];

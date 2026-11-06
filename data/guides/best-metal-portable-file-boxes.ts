@@ -60,36 +60,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Vaultz File Organizer Storage Box"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Vaultz File Organizer Storage Box"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "Pendaflex Portable File Box"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "File Organizer Storage Box"
         ],
         [
           "No firm budget ceiling, prioritizing security or durability",
@@ -99,14 +99,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: Vaultz File Organizer Storage Box, File Organizer Storage Box, Vaultz Portable File Box with Handle."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: samstar 2 Pack Hanging File Organizer, Pendaflex Portable File Box."
       }
     ],
@@ -116,8 +116,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Vaultz Portable File Box with Handle offers: Most heavy-duty metal build in this comparison. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Pendaflex Portable File Box already covers the essentials: Meaningfully lighter than every metal pick here. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -165,11 +165,11 @@ export const howWeEvaluated = [
     "description": "We explicitly weighed metal's substantially greater heft against plastic alternatives, a genuine tradeoff for this category's core portable value proposition."
   },
   {
-    "title": "",
+    "title": "Rust and corrosion resistance",
     "description": "We considered moisture exposure risk during transport or storage, a genuine metal-specific durability concern distinct from plastic construction."
   },
   {
-    "title": "",
+    "title": "Security-vs-weight tradeoff honesty",
     "description": "We assessed whether metal construction improves security and durability enough to justify the added weight versus a quality plastic alternative."
   }
 ];

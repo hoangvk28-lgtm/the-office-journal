@@ -52,38 +52,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/5130Dsp2DML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Refresh Rate",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Standard smooth motion",
           "6\" FHD 60Hz Portable Monitor USB-C HDMI IPS HDR Gaming Laptop"
         ],
         [
-          "",
+          "Maximum refresh headroom",
           "Upperizon Portable Monitor 16 inch 2K QHD 106% SRGB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $63",
           "6\" FHD 60Hz Portable Monitor USB-C HDMI IPS HDR Gaming Laptop"
         ],
         [
-          "",
+          "Mid-range",
           "Upperizon Portable Monitor 16 inch 2K QHD 106% SRGB"
         ],
         [
@@ -97,22 +97,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C DisplayPort Alt Mode vs HDMI",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C (DisplayPort Alt Mode)",
         "text": "Usually the port that hits the panel's full rated refresh rate, and can carry power alongside video on one cable. In this comparison: check each listing's stated USB-C refresh rate directly."
       },
       {
-        "label": "",
+        "label": "HDMI",
         "text": "Reliable for consoles and older sources, but often capped below the panel's full rated refresh, especially at higher resolutions. 5K QHD 110% SRGB 144Hz USB-C, Upperizon Portable Monitor 16 inch 2K QHD 106% SRGB."
       }
     ],
     "note": "If you're connecting a console or HDMI-only source specifically, verify the actual HDMI refresh ceiling on your chosen pick, since several picks here cap lower over HDMI than their headline spec suggests."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Mount Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Handheld Gaming PC or Console Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Your exact source device's documented maximum output refresh rate over the connection type you'll use, checked independently from the monitor's own rated capability, since handhelds like Steam Deck and ROG Ally commonly cap at 60Hz over USB-C."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "6\" FHD 60Hz Portable Monitor USB-C HDMI IPS HDR Gaming Laptop fits this specifically: 60Hz panel matches Air's own screen refresh, no mismatch."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "6 Inch 4K UHD 145% SRGB offers: Highest color gamut in this guide. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6\" FHD 60Hz Portable Monitor USB-C HDMI IPS HDR Gaming Laptop already covers the essentials: 60Hz panel matches Air's own screen refresh, no mismatch. The main thing you'd be paying extra for elsewhere in this list is headroom you may not actually use."
       }
     ]

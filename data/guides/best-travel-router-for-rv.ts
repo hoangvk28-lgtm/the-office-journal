@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41DVdxbtzDL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "What matters most",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest price, carrier flexibility",
           "KUMA Connect PRO 4G LTE Cellular Router"
         ],
         [
@@ -77,8 +77,8 @@ export const howToChoose: HowToChooseSection[] = [
           "TravlFi JourneyXTR LTE RV WiFi Router"
         ],
         [
-          "",
-          ""
+          "Permanent weatherproof rooftop install",
+          "Winegard Connect 2.0 4G WF2-435"
         ],
         [
           "Maximum 5G speed and reliability",
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $180",
+          "KUMA Connect PRO 4G LTE Cellular Router ($179.99)"
         ],
         [
-          "",
-          ""
+          "Under $245",
+          "TravlFi JourneyXTR LTE RV WiFi Router ($242.44)"
         ],
         [
-          "",
-          ""
+          "Under $430",
+          "Winegard Connect 2.0 4G WF2-435 ($428.41)"
         ],
         [
-          "",
-          ""
+          "Under $450",
+          "TravlFi XTR Pro 5G Router ($449.00)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Bring-Your-Own-SIM vs Bundled ESIM Data Plans",
     "cards": [
       {
-        "label": "",
+        "label": "Bring-your-own-SIM (KUMA)",
         "text": "Lets you choose the specific carrier with the best coverage in your typical travel areas and shop around for the best data plan rates independently."
       },
       {
@@ -129,20 +129,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you already know which carrier has the best coverage where you travel, bring-your-own-SIM offers more control; if you want simplicity without researching carrier options, the bundled ESIM systems remove that step."
   },
   {
-    "subheading": "",
+    "subheading": "By Installation Permanence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Portable, moves between vehicles",
           "KUMA Connect PRO or either TravlFi router"
         ],
         [
-          "",
-          ""
+          "Permanent, one dedicated RV",
+          "Winegard Connect 2.0 rooftop system"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Full-Time RV Living or Remote Work Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The highest available connection speed and multiple network access for redundancy, since a dropped connection during a work call or video meeting is a more serious problem for full-time remote workers than for occasional recreational campers."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The TravlFi XTR Pro specifically offers 5G speed and multiple network access, the most robust option in this comparison for demanding, consistent connectivity needs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need permanent weatherproof rooftop installation or the fastest available 5G speed for full-time remote work, where the Winegard or TravlFi XTR Pro justify their higher price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want reliable connectivity with carrier flexibility for occasional RV trips, where the KUMA Connect PRO covers that need at the lowest price in this comparison."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Coverage Approach",
     "description": "Compared bundled ESIM data plans, unlocked carrier-flexible SIM support, and dedicated rooftop antenna systems."
   },
   {
-    "title": "",
+    "title": "Real-World Signal Strength",
     "description": "Compared antenna gain and stated coverage range for capturing weak signals at remote campsites."
   },
   {
-    "title": "",
+    "title": "Installation Type",
     "description": "Compared portable indoor/outdoor kits against permanently mounted rooftop systems."
   },
   {
-    "title": "",
+    "title": "Data Plan Flexibility",
     "description": "Compared prepaid no-contract data tiers against bring-your-own-SIM carrier flexibility."
   },
   {
-    "title": "",
+    "title": "Power Source Compatibility",
     "description": "Compared 12V DC vehicle power and standard 110V AC compatibility."
   }
 ];

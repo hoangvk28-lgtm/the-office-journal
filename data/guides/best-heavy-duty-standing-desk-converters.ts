@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which heavy-duty converter has the most reviews?",
-    "a": ""
+    "a": "The Rocelco 46 inch Large Standing Desk Converter, with 1,693 reviews, built for triple-monitor loads."
   },
   {
     "q": "Does my desk need extra support for a heavy-duty converter?",
@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "Is there a true triple-monitor mount heavy-duty option?",
-    "a": ""
+    "a": "Yes, the VIVO Black 48 inch Desk Riser with Triple Monitor Mount, though it has a smaller review base and lower rating than other picks."
   },
   {
     "q": "What's the largest heavy-duty platform in this comparison?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41sW5lDV5eL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "VERSADESK PowerPro 36 Inch Electric Standing Desk Converter"
         ],
         [
-          "",
+          "Dual monitors",
           "Rocelco 46 inch Large Height Adjustable Standing Desk Converter"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $260",
           "VIVO Black 48 inch Desk Riser with Triple Monitor Mount"
         ],
         [
-          "",
+          "Mid-range",
           "Rocelco 46 inch Large Height Adjustable Standing Desk Converter"
         ],
         [
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: Rocelco 46 inch Large Height Adjustable Standing Desk Converter, VIVO Black 48 inch Desk Riser with Triple Monitor Mount, Mount-It! Standing Desk Converter 48 Wide Sit Stand Extra Large Desk Riser."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: VERSADESK PowerPro 36 Inch Electric Standing Desk Converter, VERSADESK PowerPro 40 Inch Electric Standing Desk Converter."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Rocelco 46 inch Large Height Adjustable Standing Desk Converter"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Rocelco 46 inch Large Height Adjustable Standing Desk Converter"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Rocelco 46 inch Large Height Adjustable Standing Desk Converter fits this specifically: Built for a genuinely heavy triple-monitor load, solid review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what VERSADESK PowerPro 40 Inch Electric Standing Desk Converter offers: More platform width to distribute a heavier device load. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "VIVO Black 48 inch Desk Riser with Triple Monitor Mount already covers the essentials: Genuine heavy-duty triple-monitor mount capability. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]
@@ -166,7 +166,7 @@ export const howToChoose: HowToChooseSection[] = [
 export const howWeEvaluated = [
   {
     "title": "Weighed review volume as evidence of genuine loaded stability",
-    "description": ""
+    "description": "A large positive review base is stronger evidence a converter holds up under real device weight over time than a static capacity number alone."
   },
   {
     "title": "Flagged the underlying desk's load capacity as a separate consideration",
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "We noted where push-button electric adjustment handles heavier device weight more predictably than a manual gas-spring mechanism tuned for a specific range."
   },
   {
-    "title": "",
+    "title": "Included the specialized triple-monitor mount option despite its smaller review base",
     "description": "We disclosed this pick's below-average rating and small sample size directly while still including it for buyers who specifically need this capability."
   }
 ];

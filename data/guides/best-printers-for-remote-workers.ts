@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Brother DCP"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Brother DCP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $74",
           "Canon PIXMA TS6520 Wireless Color Inkjet Printer"
         ],
         [
-          "",
-          ""
+          "Up to $210",
+          "Brother DCP"
         ]
       ]
     }
@@ -106,23 +106,23 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Brother DCP",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Canon PIXMA TS6520 Wireless Color Inkjet Printer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Brother DCP"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Brother DCP is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Brother DCP's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon PIXMA TS6520 Wireless Color Inkjet Printer covers the same job at a lower price."
       }
     ]
@@ -161,19 +161,19 @@ export const howWeEvaluated = [
     "description": "Weighed each printer against a typical remote-work volume of 30-80 pages a month, well below office-level use, rather than scoring for capacity most remote workers will never need."
   },
   {
-    "title": "",
+    "title": "Cost-per-page over time",
     "description": "Compared laser toner, standard inkjet cartridges, and refillable ink tank systems at realistic WFH volume, since the cheapest printer to buy isn't always the cheapest to run month to month."
   },
   {
-    "title": "",
+    "title": "Noise during video calls",
     "description": "Weighed laser vs inkjet mechanisms for print-time noise, since a printer firing up mid-call risks being picked up by a work laptop's microphone."
   },
   {
-    "title": "",
+    "title": "Confidentiality-friendly features",
     "description": "Checked for features relevant to printing HR files, contracts, or financial reports on a printer a family or roommate might also use, including any locking tray or dedicated-use design."
   },
   {
-    "title": "",
+    "title": "Home office feature completeness",
     "description": "Compared scan, copy, fax, and duplex printing support against what a genuine WFH workload, not a general household printer, actually needs."
   }
 ];

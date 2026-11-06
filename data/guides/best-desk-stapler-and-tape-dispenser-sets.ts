@@ -28,7 +28,7 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "q": "",
+    "q": "Are electric staplers loud?",
     "a": "They produce a distinct motor click or whir each time they fire, check reviews specifically for noise complaints if you'll use it near coworkers in a quiet shared office."
   },
   {
@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/418iJtY-ufL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Stack Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Light, a few sheets",
+          "Scotch Desktop Tape Dispenser"
         ],
         [
-          "",
+          "A regular office stack",
           "SKYDUE Blue Office Desk Accessories"
         ],
         [
-          "",
+          "Consistently thick stacks",
           "SKYDUE Black Office Supplies with Pencil Holder, Desk Accessories 11PCS"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Scotch Desktop Tape Dispenser"
         ],
         [
-          "",
+          "Mid-range pick",
           "13-in-1 Office Desk Organizer Set for Back to School Supplies Accessories"
         ],
         [
-          "",
+          "Higher budget",
           "SKYDUE Black Office Supplies with Pencil Holder, Desk Accessories 11PCS"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Manual vs Electric",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (e.g. Scotch Desktop Tape Dispenser)",
         "text": "No power dependency, reliable for any volume."
       },
       {
-        "label": "",
+        "label": "Electric",
         "text": "Reduces hand strain at high volume, depends on charge or power."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Staple Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 26/6 staples",
           "SKYDUE Blue Office Desk Accessories"
         ],
         [
-          "",
+          "A specific alternate size",
           "13-in-1 Office Desk Organizer Set for Back to School Supplies Accessories"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Center-of-Document Stapling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A deep throat depth spec, not just a standard corner-reach stapler."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SKYDUE Blue Office Desk Accessories is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where SKYDUE Black Office Supplies with Pencil Holder, Desk Accessories 11PCS justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Scotch Desktop Tape Dispenser already covers the job at the lowest price here."
       }
     ]

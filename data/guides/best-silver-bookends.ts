@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31EiCn1cMOL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shelf Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your books",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,22 +73,22 @@ export const howToChoose: HowToChooseSection[] = [
           "WSYDKNS Book Ends for Shelves"
         ],
         [
-          "",
-          ""
+          "A full mixed shelf",
+          "Acrylic Bookends 4 Pcs"
         ],
         [
           "A long shelf needing multiple pairs",
-          ""
+          "Decorative Bookends"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "WSYDKNS Book Ends for Shelves"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "4 Pcs Acrylic Bookends"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Decorative Bookends"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Decorative vs Purely Functional",
     "cards": [
       {
         "label": "WSYDKNS Book Ends for Shelves)",
         "text": "Adds real visual appeal, check reviews for holding-power complaints."
       },
       {
-        "label": "",
+        "label": "Functional/minimal",
         "text": "Prioritizes weight and grip over sculptural design."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Shelf Surface",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your shelf",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Glossy or glass surface",
+          "Acrylic Bookends 4 Pcs"
         ],
         [
-          "",
-          ""
+          "Textured wood surface",
+          "4 Pcs Acrylic Bookends"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Full, Heavy Shelf Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A heavy pair with a felt or rubber-lined base for real grip."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Acrylic Bookends 4 Pcs is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Decorative Bookends justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where WSYDKNS Book Ends for Shelves already covers the job at the lowest price here."
       }
     ]

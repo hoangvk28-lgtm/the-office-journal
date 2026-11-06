@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ba4+qL6WL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $11",
+          "16 Inch Large Tablet ($10.99) or 6.5 Inch Pocket Board ($10.99)"
         ],
         [
-          "",
-          ""
+          "$10-$13",
+          "TIQUS 10 Inch 2-Pack ($9.99) or Magnetic 13 Inch ($12.99)"
         ]
       ]
     }
@@ -110,26 +110,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Maximum writing space for detailed notes, sketches, or family message boards, but too bulky to easily carry in a bag or pocket."
       },
       {
-        "label": "",
+        "label": "Pocket-Sized (6.5\")",
         "text": "Fits easily in a pocket or small bag for travel and on-the-go use, at the cost of a much smaller usable writing area."
       }
     ],
     "note": "Choose based on where the tablet will actually live: a jumbo screen for a fixed spot at home, a pocket tablet for portable use."
   },
   {
-    "subheading": "",
+    "subheading": "By Battery Type Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Rechargeable, no coin-cell hunting",
           "Magnetic LCD Writing Tablet for Fridge, 13 Inch"
         ],
         [
-          "",
+          "Simple replaceable coin-cell battery",
           "5 Inch Pocket Board, or TIQUS 10 Inch 2-Pack"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Family Message Boards Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Magnetic mounting on a larger screen, so the board is both easy to place and big enough for a full grocery list or reminder note."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Magnetic LCD Writing Tablet for Fridge, 13 Inch is the only pick here combining a large screen with magnetic mounting."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a rechargeable battery and the largest magnetic screen, where the 13 Inch Magnetic pick delivers both in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Two smaller tablets cover your needs better than one large one, where the TIQUS 10 Inch 2-Pack costs the least in this comparison."
       }
     ]
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "Checked whether each tablet uses a rechargeable built-in battery versus a replaceable coin-cell, weighing long-term convenience against easy replacement."
   },
   {
-    "title": "",
+    "title": "Magnetic Mounting Availability",
     "description": "Noted which picks include built-in magnets for fridge or metal-surface mounting, useful for household message boards."
   },
   {
@@ -181,7 +181,7 @@ export const howWeEvaluated = [
     "description": "Compared the TIQUS 2-pack's per-unit cost against the single larger tablets in this comparison."
   },
   {
-    "title": "",
+    "title": "Lighting Condition Requirements",
     "description": "Checked listings for explicit notes about performance in low light versus bright rooms, since LCD writing tablets vary in this regard."
   }
 ];

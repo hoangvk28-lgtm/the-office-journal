@@ -59,35 +59,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Sweetcrispy Home Office Managerial Chair"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "BestOffice Ergonomic Mid"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $38",
           "Sweetcrispy Home Office Managerial Chair"
         ],
         [
-          "",
+          "Up to $126",
           "TRALT Ergonomic Mesh Desk Chair"
         ]
       ]
@@ -108,16 +108,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Sweetcrispy Home Office Managerial Chair unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "BestOffice Ergonomic Mid"
         ]
       ]
     }
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "BestOffice Ergonomic Mid is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where TRALT Ergonomic Mesh Desk Chair's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Sweetcrispy Home Office Managerial Chair covers the same job at a lower price."
       }
     ]
@@ -152,24 +152,24 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Base footprint",
     "description": "We prioritized standard 5-star bases in the 24 to 26 in range and flagged any chair whose armrests meaningfully widened the effective footprint."
   },
   {
-    "title": "",
+    "title": "Desk clearance compatibility",
     "description": "Flip-up armrest designs were compared against typical low desk apron heights to flag under-desk tuck issues."
   },
   {
-    "title": "",
+    "title": "Comfort for session length",
     "description": "Chairs were assessed on whether their support (lumbar, arms, headrest) suits short study sessions or longer workdays."
   },
   {
-    "title": "",
+    "title": "Build durability",
     "description": "Frame material and weight capacity were weighed against price tier to separate short-term dorm chairs from longer-lifespan picks."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Buyer feedback reliability",
+    "description": "We weighed verified Amazon rating volume, favoring picks with a large review base while flagging newer listings without rating history."
   }
 ];
 

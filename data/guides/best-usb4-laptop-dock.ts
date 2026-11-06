@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31VkRux4RUL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $35",
+          "Acer 9-in-1 Dual Monitor ($34.97)"
         ],
         [
-          "",
-          ""
+          "Under $38",
+          "HoDo 8-in-1 ($37.99)"
         ],
         [
-          "",
-          ""
+          "Under $110",
+          "Acer 13-in-1 Triple Display ($109.99)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "Plugable Triple Display Docking Station ($159.95)"
         ]
       ]
     }
@@ -121,7 +121,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Relies purely on your laptop's own DisplayPort Alt Mode output, meaning Apple Silicon Macs are limited to mirroring or a single extended display."
       },
       {
-        "label": "",
+        "label": "DisplayLink-assisted (Plugable)",
         "text": "Combines native Alt Mode with DisplayLink graphics technology to bypass Apple Silicon's native single-display limitation, unlocking genuine multi-display extension on Mac."
       }
     ],
@@ -131,8 +131,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Laptop Model Compatibility Risk",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buyers Uncertain About Their Laptop's USB-C Video Support Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A listing that explicitly names incompatible laptop models, not just a generic 'requires DisplayPort Alt Mode' disclaimer, since many buyers don't know whether their specific laptop's USB-C port supports video output."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The HoDo pick specifically names ThinkPad X1 Carbon Gen 7/8, certain Dell Latitude models, and HP EliteBook 855 G7/G8 as explicitly incompatible, a useful checklist."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You're on a Mac and want genuine extended triple-display support rather than mirroring, where the Plugable pick's DisplayLink technology justifies its $159.95 price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "97, the lowest price in this comparison."
       }
     ]
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Named Compatibility Exclusions",
     "description": "Compared how specifically each listing discloses incompatible laptop models."
   },
   {
-    "title": "",
+    "title": "Apple Silicon Display Support",
     "description": "Compared native Alt Mode limitations against DisplayLink-assisted multi-display workarounds."
   },
   {
-    "title": "",
+    "title": "Display Configuration",
     "description": "Compared dual versus triple display support and included video connector types."
   },
   {
-    "title": "",
+    "title": "Power Delivery Completeness",
     "description": "Compared included versus separately required power adapters."
   },
   {
-    "title": "",
+    "title": "Security Features",
     "description": "Compared lock buttons and Kensington-style security slots across all four picks."
   }
 ];

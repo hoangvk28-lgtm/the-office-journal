@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "A preamp boosts a microphone's naturally quiet signal up to a usable recording level, and how much clean gain it can provide before introducing audible hiss determines whether quieter, lower-output microphones sound clear or noisy. Interfaces with 55 to 60 DB of clean gain comfortably handle most dynamic and ribbon microphones without adding noticeable hiss, while weaker preamps can force you to add gain in software later, which amplifies noise along with your voice. Check the specific gain figure in DB listed in the spec sheet, and cross-reference it against the microphone you actually plan to use, since a quiet dynamic mic needs meaningfully more clean gain than a condenser microphone does."
   },
   {
-    "criterion": "",
+    "criterion": "USB vs Thunderbolt Latency",
     "explanation": "Latency is the delay between making a sound and hearing it played back through your monitoring setup, and it's determined largely by your interface's connection type and driver quality rather than just its price. USB interfaces, which is what every pick in this comparison uses, now commonly achieve round-trip latency low enough for real-time monitoring on most systems, while Thunderbolt offers even lower latency but mainly matters for larger multi-channel professional setups rather than a 1-2 input home setup. Check for a stated round-trip latency figure at a standard buffer size in the spec sheet or independent reviews, rather than assuming connection type alone tells the whole story."
   },
   {
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Ty6bmUmVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Input Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,7 +96,7 @@ export const howToChoose: HowToChooseSection[] = [
           "M-AUDIO M-Track Solo USB Audio Interface"
         ],
         [
-          "",
+          "Mid-range, established brand reliability",
           "Focusrite Scarlett Solo 3rd Gen USB-C Audio Interface"
         ],
         [
@@ -107,14 +107,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs Thunderbolt Connectivity",
     "cards": [
       {
         "label": "USB (every pick in this comparison)",
         "text": "Works on virtually any modern computer, often runs on bus power alone, and delivers plenty of speed for a 1-2 input home setup at a lower price."
       },
       {
-        "label": "",
+        "label": "Thunderbolt (not covered here)",
         "text": "Offers lower latency and higher bandwidth for larger channel counts, but costs more and needs a Thunderbolt port, overkill for most solo or two-person recording setups."
       }
     ],
@@ -124,8 +124,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Bit Depth and Sample Rate",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Podcasting and Streaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Low-latency direct monitoring so you can hear your own voice without delay while recording or streaming live."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Focusrite Scarlett Solo 4th Gen USB-C Audio Interface is worth checking against its specific direct-monitoring spec before assuming any interface handles live monitoring equally well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You regularly record two sources at once and want the best all-around 2-input interface, where Focusrite Scarlett 2i2 4th Gen justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're recording a single vocal or instrument source, where M-AUDIO M-Track Solo already covers the job at the lowest price here."
       }
     ]
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "A preamp boosts a microphone's naturally quiet signal up to a usable recording level, and how much clean gain it can provide before introducing audible hiss determines whether quieter, lower-output microphones sound clear or noisy."
   },
   {
-    "title": "",
+    "title": "USB vs Thunderbolt Latency",
     "description": "Latency is the delay between making a sound and hearing it played back through your monitoring setup, and it's determined largely by your interface's connection type and driver quality rather than just its price."
   },
   {

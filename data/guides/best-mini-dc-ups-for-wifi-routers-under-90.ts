@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31yaJir8URL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,39 +73,39 @@ export const howToChoose: HowToChooseSection[] = [
           "ALFOINE 48Wh UPS Battery Backup"
         ],
         [
-          "",
+          "Zero-downtime power switchover",
           "RGTTOTG Power Systems Mini UPS"
         ],
         [
           "Longer battery cycle life (LiFePO4)",
-          ""
+          "CHINTE Mini UPS 16000mAh"
         ],
         [
-          "",
-          ""
+          "The largest available capacity",
+          "TalentCell Mini UPS 27000mAh"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "$48 to $55",
+          "ALFOINE, RGTTOTG, or CHINTE"
         ],
         [
-          "",
+          "$54 to $65",
           "Yuuki Power LCD pick or TalentCell 27000mAh"
         ],
         [
-          "",
-          ""
+          "Up to $90",
+          "Mini UPS 20000mAh with dual router support ($84.99)"
         ]
       ]
     }
@@ -125,11 +125,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check your specific device: if it only has an Ethernet cable and no separate DC power port, you need a PoE-capable pick; otherwise any DC-output pick here works."
   },
   {
-    "subheading": "",
+    "subheading": "By Battery Chemistry",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Combined Modem-and-Router Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A unit explicitly stating it can power two devices simultaneously, with at least two matching-voltage DC output ports, not just a single port at each voltage."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The 20000mAh dual-router-support pick is the only one here that explicitly states dual-device simultaneous backup in its listing."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) is the only one here built specifically for that, with 60W max output across dual 12V ports."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) cover PoE and standard DC voltages without paying for TalentCell's larger, PoE-less capacity."
       }
     ]
@@ -173,11 +173,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "PoE type verification",
     "description": "3af/at PoE, or neither, since these standards aren't interchangeable and a mismatch means the connected device simply won't power on."
   },
   {
-    "title": "",
+    "title": "Battery chemistry comparison",
     "description": "We noted which picks use standard lithium-ion versus LiFePO4 chemistry, since LiFePO4 generally offers a longer cycle life at the cost of a bulkier physical size for the same capacity."
   },
   {
@@ -185,11 +185,11 @@ export const howWeEvaluated = [
     "description": "We compared total rated wattage and the number of simultaneous output ports, since a unit's max wattage caps how many devices it can realistically power at once without exceeding its rating."
   },
   {
-    "title": "",
+    "title": "Status feedback method",
     "description": "We distinguished units with a real LCD status screen from ones relying on a simple LED indicator light, since a screen gives more precise information about remaining capacity."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $90 on the date this guide was checked; units that only hit this tier during a temporary sale were excluded."
   }
 ];

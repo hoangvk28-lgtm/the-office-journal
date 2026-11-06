@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Verify exact rated capacity, continuous output, and battery chemistry for the specific model, not the brand's range in general."
   },
   {
-    "criterion": "",
+    "criterion": "Verify AC/Solar/Car Charging Input",
     "explanation": "Check documented charging input limits and current app or firmware requirements before assuming fast-charge claims apply automatically."
   },
   {
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Verify exact rated capacity, continuous output, and battery chemistry for the specific model, not the brand's range in general."
   },
   {
-    "subheading": "",
+    "subheading": "Verify AC/Solar/Car Charging Input",
     "note": "Check documented charging input limits and current app or firmware requirements before assuming fast-charge claims apply automatically."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Looked for UL, UL2743, or other documented safety certification and battery chemistry evidence rather than trusting a safety claim alone."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included cables, solar panel bundling, warranty length, and app requirements as part of the real cost and usability of each pick."
   }
 ];

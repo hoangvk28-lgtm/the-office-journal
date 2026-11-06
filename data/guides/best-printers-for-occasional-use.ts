@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HP DeskJet 4355 Wireless All"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HP DeskJet 4355 Wireless All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $54",
           "MT610Pro Inkless Portable Thermal Printer for Travel and Home Office"
         ],
         [
-          "",
-          ""
+          "Up to $139",
+          "Canon TS6420 All"
         ]
       ]
     }
@@ -106,22 +106,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Canon TS6420 All",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to MT610Pro Inkless Portable Thermal Printer for Travel and Home Office unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "HP DeskJet 4355 Wireless All"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HP DeskJet 4355 Wireless All is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Canon TS6420 All's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where MT610Pro Inkless Portable Thermal Printer for Travel and Home Office covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Ink dry-out resistance",
     "description": "Weighed whether each printer's ink system tolerates weeks or months of idle time without clogging or streaking on the first print after a break."
   },
   {
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "Prioritized low purchase price over cost per page at high volume, since an occasional user rarely accumulates enough volume for an ink-tank printer to pay back its higher price."
   },
   {
-    "title": "",
+    "title": "Setup simplicity",
     "description": "Considered how quickly an infrequent user could set up or reconnect the printer to wifi after not touching it for weeks, since occasional users forget setup steps between uses."
   },
   {
@@ -173,14 +173,14 @@ export const howWeEvaluated = [
     "description": "Checked whether extra features like automatic document feeders or fax add real value for occasional use, or just add cost without matching how these printers actually get used."
   },
   {
-    "title": "",
+    "title": "Storage footprint",
     "description": "Factored in physical size, since an occasional-use printer is more likely to be stored away in a closet or cabinet between uses rather than left permanently on a desk."
   }
 ];
 
 export const introParagraphs = [
   "Occasional use isn't one thing, weekly, monthly, and quarterly printing carry very different ink-drying risk profiles, and the printer that suits a weekly user isn't necessarily the right pick for someone printing a boarding pass once a quarter. Basic inkjets and one inkless thermal model dominate this list because they avoid the higher upfront cost of ink-tank printers that only pays off at real volume.",
-  ""
+  "Below are 8 printers we compared for occasional use, weighing ink dry-out risk, jam-free reliability after idle stretches, and low upfront cost over raw print speed or volume capacity, ranging from a $53.97 inkless thermal printer to a $139.00 basic all-in-one."
 ];
 
 export const lastUpdated = "2026-07-25";

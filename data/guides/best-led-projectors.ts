@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/31KpXhHx2+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fully dark, dedicated room",
           "BenQ W2720i 4K Smart AI Home Theater Projector 2500 Lumens w/ Android TV"
         ],
         [
-          "",
+          "Some ambient light",
           "YGSKK Mini Projector with Wifi and Bluetooth"
         ],
         [
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -92,11 +92,11 @@ export const howToChoose: HowToChooseSection[] = [
           "HERHOTER Galaxy Projector, Star Projector with Timer and Remote Control for"
         ],
         [
-          "",
+          "Mid-range pick",
           "YGSKK Mini Projector with Wifi and Bluetooth"
         ],
         [
-          "",
+          "Higher budget",
           "BenQ W4100i 4K HDR Smart Home Theater Projector 3200 Lumens"
         ]
       ]
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most casual, weekly-use buyers should default to a lamp-based pick unless they'll run it daily, where laser's near-zero maintenance pays for itself over a few years."
   },
   {
-    "subheading": "",
+    "subheading": "By Throw Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "BenQ W2720i 4K Smart AI Home Theater Projector 2500 Lumens w/ Android TV is worth checking against its documented native contrast figures before assuming any headline contrast number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want laser reliability and top-tier brightness, where BenQ W4100i 4K HDR Smart Home Theater Projector 3200 Lumens justifies the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want casual, occasional use, where HERHOTER Galaxy Projector, Star Projector with Timer and Remote Control for already covers the job at the lowest price here."
       }
     ]

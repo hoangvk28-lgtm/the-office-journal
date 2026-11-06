@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/21Wu0LTo6nL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Yealink Mount Kits for RoomPanel Plus"
         ],
         [
-          "",
+          "Standard conference room",
           "Yealink Mount Kits for RoomPanel-E2"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Yealink Mount Kits for RoomPanel Plus"
         ],
         [
-          "",
+          "Mid-range pick",
           "Yealink Roomcast E2 Wireless Presentation & Collaboration System"
         ],
         [
-          "",
+          "Higher budget",
           "Yealink A10-020 All-in-One Video Conferencing System with CTP18 Touch Panel"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "Yealink Mount Kits for RoomPanel Plus)",
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Yealink Mount Kits for RoomPanel-E2"
         ],
         [
-          "",
+          "Google Workspace / Calendar",
           "Yealink Roomcast E2 Wireless Presentation & Collaboration System"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Yealink Mount Kits for RoomPanel-E2 is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where Yealink A10-020 All-in-One Video Conferencing System with CTP18 Touch Panel justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward single-room display without advanced features, where Yealink Mount Kits for RoomPanel Plus already covers the job at the lowest price here."
       }
     ]

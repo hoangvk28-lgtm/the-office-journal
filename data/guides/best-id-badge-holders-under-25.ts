@@ -40,7 +40,7 @@ export const faq = [
     "a": "The reel mechanism's spring durability matters more than the cord length spec, check reviews specifically for complaints about jamming or weakened retraction after months of daily use."
   },
   {
-    "q": "",
+    "q": "Are badge holders waterproof?",
     "a": "Standard plastic handles light moisture fine, but genuine waterproofing needs a sealed edge or specific rating, check for this if you work outdoors or in a consistently wet environment."
   },
   {
@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/51MdEZHCPZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Daily Movement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Mostly desk-based",
           "Uniclife 2 Pcs Retractable Badge Reel Keychain Clip for Badge Holder Pink"
         ],
         [
-          "",
+          "Frequent movement or bending",
           "3 Pcs Black Glitter ID Badge Holder with Clear Window"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Uniclife 2 Pcs Retractable Badge Reel Keychain Clip for Badge Holder Pink"
         ],
         [
-          "",
+          "Mid-range pick",
           "Yeokliin PU Leather Badge Holder with Lanyard"
         ],
         [
-          "",
+          "Higher budget",
           "100 Sets Lanyards for ID Badges and Vertical Name Badge ID Card Holders"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Retractable vs Fixed Lanyard",
     "cards": [
       {
         "label": "Uniclife 2 Pcs Retractable Badge Reel Keychain Clip for Badge Holder Pink)",
         "text": "Extends for scanning, retracts out of the way when not needed."
       },
       {
-        "label": "",
+        "label": "Fixed lanyard",
         "text": "Simpler, no reel mechanism to wear out over time."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Card Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your credentials",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single ID only",
           "3 Pcs Black Glitter ID Badge Holder with Clear Window"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Wet or Outdoor Workplace Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine waterproof rating, not just standard plastic construction."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3 Pcs Black Glitter ID Badge Holder with Clear Window is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 100 Sets Lanyards for ID Badges and Vertical Name Badge ID Card Holders justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Uniclife 2 Pcs Retractable Badge Reel Keychain Clip for Badge Holder Pink already covers the job at the lowest price here."
       }
     ]

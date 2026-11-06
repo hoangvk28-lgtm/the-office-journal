@@ -5,11 +5,11 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Require Documented Continuous Output",
     "explanation": "Confirm 1500w portable power stations reaches the target wattage as continuous output, not only through a brief surge or boost mode."
   },
   {
-    "criterion": "",
+    "criterion": "Publish Surge Duration Separately",
     "explanation": "Check the surge rating and its time limit separately, and verify how the station handles a representative startup load."
   },
   {
@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31+D1tNXreL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Require Documented Continuous Output",
     "note": "Confirm 1500w portable power stations reaches the target wattage as continuous output, not only through a brief surge or boost mode."
   },
   {
-    "subheading": "",
+    "subheading": "Publish Surge Duration Separately",
     "note": "Check the surge rating and its time limit separately, and verify how the station handles a representative startup load."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Looked for UL, UL2743, or other documented safety certification and battery chemistry evidence rather than trusting a safety claim alone."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included cables, solar panel bundling, warranty length, and app requirements as part of the real cost and usability of each pick."
   }
 ];

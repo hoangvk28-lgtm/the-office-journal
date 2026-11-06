@@ -63,31 +63,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Hours Standing Per Day",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your day",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional standing",
           "HappyTrends Kitchen Mats for Floor Cushioned Anti-Fatigue Kitchen Rugs"
         ],
         [
-          "",
+          "Several hours daily",
           "Kitchen Mat Cushioned Anti Fatigue Rug Standing and Comfort Floor Mats"
         ],
         [
-          "",
-          ""
+          "Full-day standing desk use",
+          "The Standing Desk Mat"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,44 +95,44 @@ export const howToChoose: HowToChooseSection[] = [
           "HappyTrends Kitchen Mats for Floor Cushioned Anti-Fatigue Kitchen Rugs"
         ],
         [
-          "",
+          "Mid-range pick",
           "FEATOL Anti Fatigue Mat for Standing Desk & Kitchen Floor"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "The Standing Desk Mat"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Foam vs Polyurethane",
     "cards": [
       {
         "label": "HappyTrends Kitchen Mats for Floor Cushioned Anti-Fatigue Kitchen Rugs)",
         "text": "Softer initial feel, but flattens faster under continuous daily use."
       },
       {
-        "label": "",
+        "label": "Dense polyurethane (e.g. The Standing Desk Mat)",
         "text": "Holds support and shape longer for genuine all-day standing."
       }
     ],
     "note": "Match this to how many hours a day the mat will actually see, not just initial comfort."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hard flooring",
           "Kitchen Mat Cushioned Anti Fatigue Rug Standing and Comfort Floor Mats"
         ],
         [
-          "",
+          "Carpet",
           "Check specifically for a mat rated for carpet use"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Barefoot or Sock Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A textured surface rather than smooth, which can feel slippery without shoes."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Kitchen Mat Cushioned Anti Fatigue Rug Standing and Comfort Floor Mats is worth checking against its specific surface texture before assuming any mat grips the same barefoot."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You stand for most of the workday and want long-term support, where The Standing Desk Mat justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only stand occasionally and want basic cushioning, where HappyTrends Kitchen Mats for Floor Cushioned Anti-Fatigue Kitchen Rugs already covers the job at the lowest price here."
       }
     ]

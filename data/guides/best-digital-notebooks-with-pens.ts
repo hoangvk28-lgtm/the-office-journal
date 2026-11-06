@@ -53,7 +53,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/31x5OLmX1ZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
         "What you need it for",
@@ -61,30 +61,30 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "",
+          "Everyday note-taking and reading",
           "SyncPen Digital Notebook Smart Pen Set"
         ],
         [
-          "",
+          "AI-assisted or document-heavy work",
           "Amazon Kindle Scribe Colorsoft 64GB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $80",
           "SyncPen Digital Notebook Smart Pen Set"
         ],
         [
-          "",
+          "Mid-range",
           "Noteorius Smart Notebook with Pen and Folio"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "AI Features Included vs Subscription-Gated",
     "cards": [
       {
-        "label": "",
+        "label": "Included, No Subscription",
         "text": "AI note tools come with the purchase price, no ongoing cost. In this comparison: check each listing's terms directly."
       },
       {
-        "label": "",
+        "label": "Subscription-Gated",
         "text": "Advanced AI features require an ongoing paid plan on top of the hardware price. In this comparison: reMarkable 2 with Marker Plus, reMarkable Paper Pro with Marker Plus."
       }
     ],
@@ -112,43 +112,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "ReMarkable 2 with Marker Plus"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "ReMarkable 2 with Marker Plus"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Handwriting-to-Text Conversion Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of handwriting-to-text conversion (not just \"AI\" generally), and whether that specific feature is included or requires a subscription."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ReMarkable Paper Pro with Marker Plus fits this specifically: Marker Plus stylus included."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Amazon Kindle Scribe Colorsoft 64GB offers: Pen included, no separate purchase. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "SyncPen Digital Notebook Smart Pen Set already covers the essentials: Pen included at the lowest price point here. The main thing you'd be paying extra for elsewhere in this list is features or storage you may not need."
       }
     ]

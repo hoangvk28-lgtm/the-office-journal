@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/213uw5hJhlL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $21",
+          "CONETCH 3-Port Mini PoE Extender ($20.99)"
         ],
         [
-          "",
-          ""
+          "Under $32",
+          "EmpireTech PoE Extender Mini Passive ($31.99)"
         ],
         [
-          "",
-          ""
+          "Under $61",
+          "CENTROPOWER 5-Pack Kit ($60.99, covers 5 units)"
         ],
         [
-          "",
-          ""
+          "Under $260",
+          "Mini 2-Wire Converter Kit ($259.00)"
         ]
       ]
     }
@@ -129,11 +129,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your installation requires reaching a device thousands of feet away over existing wiring, the 2-Wire kit's unique technology justifies its price. For standard installation distances under 400m, the compact multi-port picks deliver better value."
   },
   {
-    "subheading": "",
+    "subheading": "By Power Delivery Method",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your power situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Multi-Camera Installation on a Budget Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A multi-pack format that reduces per-unit cost when you need to extend several separate camera runs rather than just one device."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The CENTROPOWER 5-Pack Kit specifically delivers five extender units in one purchase, a genuine value play for a multi-camera deployment."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "00 price is justified by that unique capability."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest single-unit price in this comparison."
       }
     ]
@@ -181,7 +181,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Physical Footprint",
     "description": "Compared actual dimensions to judge genuine compactness for tight installation spaces."
   },
   {
@@ -189,15 +189,15 @@ export const howWeEvaluated = [
     "description": "Compared documented range and whether the remote end needs its own local power source."
   },
   {
-    "title": "",
+    "title": "Per-Port and Total Wattage",
     "description": "Compared power output capability relative to the compact form factor."
   },
   {
-    "title": "",
+    "title": "Electrical Protection",
     "description": "Compared surge, lightning, and ESD protection specifications despite the smaller size."
   },
   {
-    "title": "",
+    "title": "Value for Multi-Unit Deployments",
     "description": "Compared per-unit cost for single extenders versus multi-pack kits."
   }
 ];

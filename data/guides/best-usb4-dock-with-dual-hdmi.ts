@@ -60,20 +60,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/41e7xuQ0nqL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Native uncompressed dual 4K 120Hz for Windows",
-          ""
+          "StarTech Driverless USB4 Dock"
         ],
         [
           "A complete, well-documented Windows desk setup",
-          ""
+          "Plugable USB-C Docking Station"
         ],
         [
           "Dual HDMI at the lowest possible price",
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "UGREEN 7-in-1 ($29.99)"
         ],
         [
-          "",
-          ""
+          "Under $115",
+          "MOKiN Dual Monitor Dock ($111.14)"
         ],
         [
-          "",
-          ""
+          "Under $120",
+          "Plugable USB-C Docking Station ($119.95)"
         ],
         [
-          "",
-          ""
+          "Under $200",
+          "StarTech Driverless USB4 Dock ($199.99)"
         ]
       ]
     }
@@ -121,27 +121,27 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Delivers the highest fidelity dual-display output but explicitly excludes macOS or limits it to a single monitor."
       },
       {
-        "label": "",
+        "label": "Mac-compatible dual display (MOKiN)",
         "text": "Specifically supports MacBook dual-display mode, at the tradeoff of a bulkier vertical form factor."
       }
     ],
     "note": "If you're on Windows and want the best possible dual-HDMI fidelity, the StarTech or Plugable picks deliver that. If you specifically need dual monitors on a MacBook, the MOKiN pick is the only one in this comparison that directly supports it."
   },
   {
-    "subheading": "",
+    "subheading": "By Refresh Rate Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your display need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Standard 4K@60Hz dual display",
+          "Plugable or UGREEN picks"
         ],
         [
-          "",
-          ""
+          "Higher-refresh 4K@120Hz dual display",
+          "StarTech Driverless USB4 Dock"
         ]
       ]
     }
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Shared or Corporate Desk Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Driverless plug-and-play operation, physical lock slots, and IT management features like PXE Boot and Wake-on-LAN for scalable deployment across many desks."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The StarTech pick specifically includes lock slots, VESA mounting compatibility, and PXE Boot/Wake-on-LAN support for IT-managed rollouts."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want native uncompressed 4K 120Hz dual HDMI with IT deployment features, where the StarTech pick justifies its $199.99 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You want basic dual 4K@60Hz HDMI on Windows at the lowest cost, where the UGREEN pick delivers that for $29.99."
       }
     ]
   }
@@ -176,11 +176,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Native vs Compressed Video",
     "description": "Compared uncompressed native GPU video against DisplayLink-style compressed video paths."
   },
   {
-    "title": "",
+    "title": "MacOS Behavior Disclosure",
     "description": "Compared how transparently each listing discloses macOS mirror or single-display limitations."
   },
   {
@@ -188,11 +188,11 @@ export const howWeEvaluated = [
     "description": "Compared 4K@60Hz against higher 4K@120Hz output per HDMI port."
   },
   {
-    "title": "",
+    "title": "Total Charging Capacity",
     "description": "Compared total wattage and simultaneous device charging support."
   },
   {
-    "title": "",
+    "title": "Price and Completeness",
     "description": "Compared price against included accessories like cables and power adapters."
   }
 ];

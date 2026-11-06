@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31ol43PXs-L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $2,200",
+          "OMTech Autofocus 20W MOPA ($2,199.99)"
         ],
         [
-          "",
-          ""
+          "Under $2,500",
+          "OMTech 50W ($2,449.99) or GWEIKE G2 Max ($2,499.00)"
         ],
         [
-          "",
-          ""
+          "Under $2,600",
+          "OMTech 20W MOPA with Rotary Axis ($2,519.99)"
         ]
       ]
     }
@@ -128,8 +128,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Working Area and Rotary Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical project type",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Small detailed jewelry or serial numbers",
-          ""
+          "OMTech Autofocus 20W MOPA"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Custom Jewelry or Engraving Business Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Autofocus and MOPA color marking, since consistent, repeatable color effects matter more for custom retail work than raw power alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The OMTech Autofocus 20W MOPA's automatic focal adjustment and genuine MOPA color control suit this kind of detailed, customer-facing work well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the widest color range and largest working area in one machine, where the GWEIKE G2 Max's 50W power and 150x150mm area deliver the most complete package here."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your main need is reliable color marking on smaller items, where the OMTech Autofocus 20W MOPA covers that at the lowest price in this comparison."
       }
     ]
@@ -185,11 +185,11 @@ export const howWeEvaluated = [
     "description": "Compared real stated wattage and deep engraving or metal cutting capability across the lineup."
   },
   {
-    "title": "",
+    "title": "Autofocus and Calibration Features",
     "description": "Checked which picks offer automatic focus adjustment versus manual calibration via red dot locators."
   },
   {
-    "title": "",
+    "title": "Rotary Axis Support",
     "description": "Noted which picks support engraving cylindrical items like tumblers and bottles via a rotary axis attachment."
   },
   {

@@ -64,69 +64,69 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HP OfficeJet Pro 8125e Wireless All"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HP OfficeJet Pro 8125e Wireless All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $64",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer for Duplex Printing"
         ],
         [
-          "",
+          "Up to $250",
           "Brother INKvestment 5010 Wireless Color Inkjet All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Color vs Monochrome",
     "cards": [
       {
-        "label": "",
+        "label": "Color",
         "text": "Handles graphics and color documents, worth it if you regularly print more than plain text. In this comparison: Canon PIXMA TS4320 Wireless Color Inkjet Printer for Duplex Printing, Canon PIXMA TS6520 Wireless Color Inkjet Printer with Duplex Printing, Brother INKvestment 4355 Wireless Color Inkjet All, Brother INKvestment 5010 Wireless Color Inkjet All."
       },
       {
-        "label": "",
+        "label": "Monochrome",
         "text": "Usually cheaper to buy and run, fine if you mostly print plain text documents. In this comparison: HP OfficeJet Pro 8125e Wireless All, Brother DCP, HP OfficeJet Pro 8125 Wireless All, Canon PIXMA TR8620a All."
       }
     ],
     "note": "Default to monochrome for text-heavy home office use unless color output matters."
   },
   {
-    "subheading": "",
+    "subheading": "By Wireless Sharing",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Multi-device wifi sharing",
           "HP OfficeJet Pro 8125e Wireless All"
         ],
         [
           "Single wired connection is fine",
-          ""
+          "Canon PIXMA TR8620a All"
         ]
       ]
     }
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Scanning Contracts or Receipts Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed optical scan resolution in DPI high enough to keep fine print legible, not just the printer's overall feature list."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HP OfficeJet Pro 8125e Wireless All is worth checking against its listed scan resolution before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You print regularly at moderate to high volume, where Brother INKvestment 5010 Wireless Color Inkjet All's duty cycle and cost-per-page give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only print occasionally at low volume, where Canon PIXMA TS4320 Wireless Color Inkjet Printer for Duplex Printing covers the same job at a lower price."
       }
     ]
@@ -161,15 +161,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Confirmed duplex print vs. unconfirmed",
     "description": "Separated picks whose listing explicitly states duplex printing from those where it isn't clearly stated, rather than assuming an all-in-one printer automatically includes it."
   },
   {
-    "title": "",
+    "title": "Duplex print vs. duplex scan distinction",
     "description": "Checked whether each pick's confirmed two-sided capability applies to printing, scanning, or both, since these are frequently conflated but are functionally different features."
   },
   {
-    "title": "",
+    "title": "Real-world duplex speed penalty",
     "description": "Factored in the roughly 5 to 10 second per-page flip delay duplex printing adds, meaning effective duplex speed runs meaningfully below the single-sided rated page-per-minute figure."
   },
   {

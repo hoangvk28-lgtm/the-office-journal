@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "2 NVMe SSD in any enclosure in this list?",
-    "a": ""
+    "a": "No. Check the exact M.2 length (2230/2242/2260/2280) and keying (M-Key vs B+M Key) the enclosure supports against your specific SSD before buying, and confirm whether the enclosure supports NVMe only or also SATA M.2 drives."
   },
   {
     "q": "Why does my enclosure run slower than its advertised speed?",
@@ -49,23 +49,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41NrjkgBHgL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By M.2 Size You Need",
     "note": "Every pick in this specific comparison runs at 40Gbps, so speed isn't the differentiator here, drive size compatibility is. 2 lengths in this comparison, including the shorter 2230/2242/2260/2280 sizes, worth checking against your specific SSD's length before ordering."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $70",
           "Cable Matters 40Gbps USB4/TB4 Enclosure"
         ],
         [
-          "",
+          "Mid-range",
           "ACASIS TBU406 Pro Fanless 40Gbps Enclosure"
         ],
         [
@@ -79,26 +79,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "NVMe-Only vs NVMe+SATA Dual Protocol",
     "cards": [
       {
-        "label": "",
+        "label": "NVMe-Only",
         "text": "2 drive at all if that's what you own. 2 NVMe Enclosure, ACASIS TBU405 Pro 40Gbps NVMe Enclosure, Cable Matters 40Gbps USB4/TB4 Enclosure."
       },
       {
-        "label": "",
+        "label": "NVMe+SATA Dual Protocol",
         "text": "2 drives in the same enclosure, more flexible if you're not certain which protocol your SSD uses. In this comparison: Sabrent EC-U4TN USB4 NVMe Enclosure."
       }
     ],
     "note": "Most buyers with a known NVMe SSD should default to an NVMe-only pick like Cable Matters 40Gbps USB4/TB4 Enclosure, and only pay extra for Sabrent EC-U4TN USB4 NVMe Enclosure's dual-protocol support if you're not certain which type of drive you own."
   },
   {
-    "subheading": "",
+    "subheading": "Passive vs Active Cooling",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your workload",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional file transfers",
           "Cable Matters 40Gbps USB4/TB4 Enclosure"
         ],
         [
@@ -112,24 +112,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Sustained Large File Transfers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Published tested read/write numbers using a named SSD and host, active cooling or substantial heatsink fins, and an explicit note about sustained (not just peak burst) performance."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Sabrent EC-U4TN USB4 NVMe Enclosure fits this specifically: Highest USB4 throughput (3,900MB/s) among 40Gbps picks in this cluster."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Satechi USB4 NVMe SSD Pro Enclosure offers: Rated for up to 16TB, the highest capacity ceiling in this cluster. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Cable Matters 40Gbps USB4/TB4 Enclosure already covers the essentials: Unique foldable design is notably more compact for travel. The main thing you'd be paying extra for elsewhere in this list is a faster interface tier or dual-protocol support you may not need."
       }
     ]
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
     "description": "Weighed published tested throughput figures, fan trigger temperatures, and passive-versus-active cooling design over marketing language that repeats across nearly identical products."
   },
   {
-    "title": "",
+    "title": "Real Feature Differentiators",
     "description": "Prioritized genuine differentiators, RAID mode support, write-lock switches, health-monitoring displays, magnetic attachment systems, over generic \"fast and durable\" claims with nothing behind them."
   }
 ];

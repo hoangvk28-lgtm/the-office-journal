@@ -8,7 +8,7 @@ export const buyingCriteria = [
     "explanation": "The JSAUX pick specifically states it fully supports ROG Ally and Ally X's 30W Turbo Mode and ROG Xbox Ally's 25W and 35W Turbo Modes by name, meaning the dock's charging circuit was validated against those exact performance profiles rather than just claiming a generic '100W charging' figure that might not sustain the handheld's actual peak power draw during demanding games. This matters directly if you regularly use your handheld's highest performance mode for graphically intensive titles, where undersized charging can cause the battery to drain even while connected, and matters less if you typically play in a lower, more power-efficient mode. Check whether a dock's listing specifically names your exact handheld model and performance mode rather than assuming any dock claiming sufficient wattage will sustain your device's peak power draw."
   },
   {
-    "criterion": "",
+    "criterion": "HDMI 2.1 Unlocks Meaningfully Higher Refresh Rates Than HDMI 2.0 for TV Gaming",
     "explanation": "0 ports cap out at lower refresh rates, a real difference that matters if you're connecting to a high-refresh-rate gaming TV or monitor and want to actually use its full refresh capability. This matters significantly for competitive or fast-paced games where smooth, high-refresh gameplay is noticeable, and matters less if you're connecting to a standard 60Hz television. 1) stated in a dock's listing rather than assuming any HDMI port supports the same maximum refresh rate."
   },
   {
@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41I9RBaxbLL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,11 +73,11 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Charging matched to specific Turbo Modes at the lowest price",
-          ""
+          "JSAUX 4-in-1 Docking Station"
         ],
         [
           "A portable, travel-friendly dock",
-          ""
+          "Razer Handheld Dock Chroma"
         ],
         [
           "Maximum active cooling to prevent throttling",
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $21",
+          "JSAUX 4-in-1 ($20.89)"
         ],
         [
-          "",
-          ""
+          "Under $43",
+          "Dual RGB Fans Dock ($42.70)"
         ],
         [
-          "",
-          ""
+          "Under $80",
+          "Razer Handheld Dock Chroma ($79.99)"
         ],
         [
-          "",
-          ""
+          "Under $110",
+          "BenQ GR10 ($109.00)"
         ]
       ]
     }
@@ -131,8 +131,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Handheld Brand and Turbo Mode",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your handheld",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -150,25 +150,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Cloud Gaming and Streaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5Gb or better) specifically to minimize latency and stuttering during cloud gaming sessions like Moonlight or GeForce NOW."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5Gb Ethernet supports stable streaming with Moonlight and GeForce NOW."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want the highest HDMI refresh rate for lag-free high-refresh gameplay on a TV, where the BenQ GR10's HDMI 2.1 justifies its $109.00 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You want charging specifically matched to your handheld's Turbo Mode at the lowest price, where the JSAUX dock delivers that for $20.89."
       }
     ]
   }
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Turbo Mode Charging Compatibility",
     "description": "Compared charging wattage against each handheld brand's named performance modes."
   },
   {
-    "title": "",
+    "title": "HDMI Refresh Rate",
     "description": "1 maximum refresh rate ceilings."
   },
   {
-    "title": "",
+    "title": "Cooling Design",
     "description": "Compared active fan cooling against passive aluminum heat dissipation."
   },
   {
-    "title": "",
+    "title": "Portability",
     "description": "Compared collapsible travel designs against permanent desk-oriented docks."
   },
   {
-    "title": "",
+    "title": "Handheld Compatibility Range",
     "description": "Compared stated compatibility across Steam Deck, ROG Ally, Legion Go, and Nintendo Switch."
   }
 ];

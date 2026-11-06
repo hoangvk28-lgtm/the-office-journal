@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31pmDiTi1NL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $14",
+          "Revotech Gigabit Splitter ($13.59)"
         ],
         [
-          "",
-          ""
+          "Under $16",
+          "SICSOLINK 2-Pack ($15.98)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "Procet Gigabit Splitter ($39.00)"
         ],
         [
-          "",
-          ""
+          "Under $50",
+          "802.3bt Gigabit PoE++ Splitter, 51W ($49.99)"
         ]
       ]
     }
@@ -118,30 +118,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Maximum Wattage vs Budget Value",
     "cards": [
       {
-        "label": "",
+        "label": "Maximum wattage (51W, Procet)",
         "text": "Both offer selectable voltage and higher power ceilings, suited to demanding PTZ cameras and industrial deployments."
       },
       {
-        "label": "",
+        "label": "Budget value (SICSOLINK, Revotech)",
         "text": "Both deliver full Gigabit speed and 24W at 12V for standard cameras and access points at a fraction of the price."
       }
     ],
     "note": "If your device needs more than 24W or requires 24V, the 51W or Procet picks are worth the investment. For a standard 12V camera or access point, the SICSOLINK or Revotech picks deliver full Gigabit performance at a much lower cost."
   },
   {
-    "subheading": "",
+    "subheading": "By Voltage Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device's voltage need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fixed 12V only",
           "SICSOLINK 2-Pack or Revotech Gigabit Splitter"
         ],
         [
-          "",
+          "Selectable 12V or 24V",
           "3bt Gigabit PoE++ Splitter or Procet Splitter"
         ]
       ]
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a High-Power PTZ Camera or LED Lighting Installation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A splitter with high wattage output and voltage selectability, since PTZ cameras with motorized functions and LED lighting installations often need more power and different voltages than a standard fixed camera."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3bt Gigabit PoE++ Splitter specifically names PTZ cameras and LED strip lights among its supported applications, with 51W available at either voltage."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by that power ceiling."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "59, the lowest price in this comparison."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Real Wattage Output",
     "description": "Compared documented power delivery from 24W to 51W across the picks."
   },
   {
-    "title": "",
+    "title": "Voltage Selectability",
     "description": "Compared fixed-voltage splitters against DIP-switch selectable 12V/24V designs."
   },
   {
-    "title": "",
+    "title": "Build Quality",
     "description": "Compared plastic versus metal housing and IP ratings."
   },
   {
-    "title": "",
+    "title": "Surge and Electrical Protection",
     "description": "Compared explicit surge protection voltage ratings and isolation design."
   },
   {
-    "title": "",
+    "title": "Value Per Unit",
     "description": "Compared single-unit versus 2-pack pricing."
   }
 ];

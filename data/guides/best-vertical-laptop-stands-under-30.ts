@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/417eXf3WJAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,11 +73,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Psitek Aluminum Vertical Laptop Stand Dock Holder"
         ],
         [
-          "",
+          "Storage for two laptops",
           "OMOTON Dual Vertical Desk Laptop Stand Holder"
         ],
         [
-          "",
+          "Explicit named brand compatibility",
           "UGREEN Vertical Laptop Stand Holder, Gray"
         ],
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "Psitek ($16.99), OMOTON ($19.66), or UGREEN Gray ($19.99)"
         ],
         [
-          "",
-          ""
+          "$21 to $30",
+          "UGREEN Black ($22.99)"
         ]
       ]
     }
@@ -110,26 +110,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Wide Range (Psitek/OMOTON) vs Narrower Named-Brand Range (UGREEN)",
     "cards": [
       {
-        "label": "",
+        "label": "Wider range: 12-42mm / 0.5-1.65\" (Psitek, OMOTON)",
         "text": "Covers thicker gaming and workstation laptops confidently, without naming specific compatible brands as explicitly."
       },
       {
-        "label": "",
+        "label": "Narrower range: 0.47-1\" (both UGREEN picks)",
         "text": "3\"), but won't fit unusually thick laptops beyond 1 inch."
       }
     ],
     "note": "Measure your laptop's closed thickness first: if it's under 1 inch and from a named UGREEN-compatible brand, either UGREEN pick works; if it's thicker, Psitek or OMOTON is the safer choice."
   },
   {
-    "subheading": "",
+    "subheading": "By Storage Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "You need to store",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "One laptop",
           "Psitek or either UGREEN pick"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Unusually Thick Gaming Laptop Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches, since standard ultrabook-focused stands often cap out around 1 inch, too narrow for many gaming laptops."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "65 inch maximum, meaningfully wider than either UGREEN pick's 1 inch cap."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) covers the widest single-slot range."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) confirms that fit directly without paying for range you don't need."
       }
     ]
@@ -169,15 +169,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Width range unit conversion",
     "description": "We converted each listing's stated adjustable width range to a common unit for direct comparison, since some state millimeters and others inches, making at-a-glance comparison otherwise difficult."
   },
   {
-    "title": "",
+    "title": "Single vs dual-slot capacity",
     "description": "We identified which stands support one laptop versus two simultaneously, a real capacity difference at a similar per-slot width range."
   },
   {
-    "title": "",
+    "title": "Named brand compatibility depth",
     "description": "We favored listings naming specific compatible brands and models directly over general \"fits most laptops\" claims, since a named list is more directly checkable."
   },
   {
@@ -185,7 +185,7 @@ export const howWeEvaluated = [
     "description": "For picks sold in multiple colors from the same manufacturer, we confirmed whether the underlying specs were identical or differed in any way beyond color."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $30 on the date this guide was checked; stands that only hit this tier during a temporary sale were excluded."
   }
 ];

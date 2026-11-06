@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Ja9BAK1RL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You'll Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light supplies only",
           "Gianotter Dual Monitor Stand Riser With Drawer and 2 Pen Holders"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "OPNICE Desk Organizers and Accessories"
         ],
         [
-          "",
+          "A heavier daily-use load",
           "OPNICE Adjustable Monitor Stand Riser for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,36 +95,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Gianotter Dual Monitor Stand Riser With Drawer and 2 Pen Holders"
         ],
         [
-          "",
+          "Mid-range pick",
           "WALI Computer Monitor Stand for Desk"
         ],
         [
-          "",
+          "Higher budget",
           "OPNICE Adjustable Monitor Stand Riser for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Freestanding",
     "cards": [
       {
         "label": "Gianotter Dual Monitor Stand Riser With Drawer and 2 Pen Holders)",
         "text": "Stays firmly in place, can mark softer desk surfaces."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Protects your desk finish, can shift under a heavier load."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Depth",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Monitor Arm Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Mounting hardware confirmed to coexist with your monitor arm's own desk clamp."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "OPNICE Desk Organizers and Accessories is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where OPNICE Adjustable Monitor Stand Riser for Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where gianotter Dual Monitor Stand Riser With Drawer and 2 Pen Holders already covers the job at the lowest price here."
       }
     ]

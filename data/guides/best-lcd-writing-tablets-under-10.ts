@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51aaKA6+2iL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,29 +84,29 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Under $7 for a single tablet",
-          ""
+          "Mafiti LCD Writing Tablet 8.5 Inch ($6.99)"
         ],
         [
           "Under $10 for a multi-pack",
-          ""
+          "Any of the three TIQUS packs, all at $9.98-$9.99"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Single Tablet vs Multi-Pack",
     "cards": [
       {
-        "label": "",
+        "label": "Single Tablet (Mafiti)",
         "text": "Lower total cost if you only need one tablet, with a bonus kickstand feature for display, but no backup unit if it's lost or fails."
       },
       {
@@ -117,20 +117,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're buying for a single desk or bag, the Mafiti single tablet saves the most. If you want tablets in multiple locations, a TIQUS pack delivers better per-unit value."
   },
   {
-    "subheading": "",
+    "subheading": "By Special Feature",
     "table": {
       "headers": [
-        "",
-        ""
+        "Feature you want",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Magnetic fridge mounting",
           "5 Inch Magnetic LCD Writing Tablet"
         ],
         [
           "A kickstand to display written notes",
-          ""
+          "Mafiti LCD Writing Tablet 8.5 Inch"
         ]
       ]
     }
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Households With Multiple Family Members Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A multi-pack that gives each family member or room its own tablet, rather than sharing a single unit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5 Inch 3-Pack delivers the lowest per-unit cost specifically for spreading tablets across multiple people or rooms."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a magnetic mounting option for a kitchen or office, where the TIQUS Magnetic 2-Pack is the only pick here with this specific feature."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A single basic tablet covers your needs, where the Mafiti LCD Writing Tablet delivers the lowest total price in this comparison."
       }
     ]
@@ -169,19 +169,19 @@ export const howWeEvaluated = [
     "description": "Calculated the effective per-tablet price across single units and multi-packs, since pack size varies significantly at this price point."
   },
   {
-    "title": "",
+    "title": "Lock Button Reliability",
     "description": "Checked which listings specifically describe a lock function to prevent accidental erasure, a common frustration with cheaper LCD tablets."
   },
   {
-    "title": "",
+    "title": "Distinguishing Extra Features",
     "description": "Noted specific added features like built-in magnets or a kickstand-capable stylus that differentiate otherwise similar tablets at this price."
   },
   {
-    "title": "",
+    "title": "Battery Type and Replaceability",
     "description": "Compared stated battery types and whether the listing describes user-replaceable batteries versus a sealed, non-replaceable design."
   },
   {
-    "title": "",
+    "title": "Age Suitability Disclosures",
     "description": "Noted listings that specifically state an intended minimum age, since some tablets at this price are marketed toward adults rather than young children."
   }
 ];

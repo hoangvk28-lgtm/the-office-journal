@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/31rSGBlPPeL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A few light cables",
           "Nettbe 60 PCS 6 Inches Reusable Cable Ties"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Star Shaped Cord Organizer Reusable Cute Fabric Pentagram Cable Organizer Blue"
         ],
         [
-          "",
+          "A large mixed bundle",
           "Univivi No Drill Under Desk Cable Management Tray"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Nettbe 60 PCS 6 Inches Reusable Cable Ties"
         ],
         [
-          "",
+          "Mid-range pick",
           "Cable Caddies USB Cable Organizer Pouches"
         ],
         [
-          "",
+          "Higher budget",
           "Univivi No Drill Under Desk Cable Management Tray"
         ]
       ]
@@ -113,26 +113,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Hides cables completely, needs ventilation for warm power bricks."
       },
       {
-        "label": "",
+        "label": "Sleeve/wrap",
         "text": "More flexible for adding cables, less visually contained."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under-desk hidden",
           "Star Shaped Cord Organizer Reusable Cute Fabric Pentagram Cable Organizer Blue"
         ],
         [
-          "",
+          "Surface or freestanding",
           "Cable Caddies USB Cable Organizer Pouches"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequently Changing Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reusable fasteners and an open or slotted entry point rather than a fully sealed box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Star Shaped Cord Organizer Reusable Cute Fabric Pentagram Cable Organizer Blue is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Univivi No Drill Under Desk Cable Management Tray justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Nettbe 60 PCS 6 Inches Reusable Cable Ties already covers the job at the lowest price here."
       }
     ]

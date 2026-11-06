@@ -61,71 +61,71 @@ export const heroImage = "https://m.media-amazon.com/images/I/513K8M38uxL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Small room or under a desk",
-          ""
+          "BLACK+DECKER Personal Ceramic Heater"
         ],
         [
-          "",
-          ""
+          "Standard bedroom or office",
+          "DREO Space Heater"
         ],
         [
-          "",
+          "Larger living space",
           "JIBUFI Portable Space Heater for Indoor Use with 70° Oscillation and Remote"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "BLACK+DECKER Personal Ceramic Heater"
         ],
         [
-          "",
+          "Mid-range pick",
           "Space Heater, WINHL Portable Electric Heaters for Indoor Use, 70°Oscillation"
         ],
         [
-          "",
+          "Higher budget",
           "JIBUFI Portable Space Heater for Indoor Use with 70° Oscillation and Remote"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Ceramic vs Oil-Filled Heat",
     "cards": [
       {
-        "label": "",
+        "label": "Ceramic (e.g. DREO Space Heater)",
         "text": "Heats a room fastest using a fan, but cools down quickly once switched off."
       },
       {
-        "label": "",
+        "label": "Oil-filled radiator",
         "text": "Slower to warm up but silent and holds heat long after being turned off, best for overnight use."
       }
     ],
     "note": "Match this to whether you need fast heat now or quiet, sustained warmth overnight."
   },
   {
-    "subheading": "",
+    "subheading": "By Safety Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,8 +133,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Check for both tip-over AND overheat protection specifically"
         ],
         [
-          "",
-          ""
+          "Standard adult-only room",
+          "DREO Space Heater"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Overnight Bedroom Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine low-wattage setting, a working thermostat that cycles off, and UL/ETL/CSA safety certification."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "DREO Space Heater is worth checking against its specific safety certifications before assuming any 'safe' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're heating a larger room and want a thermostat and multiple heat settings, where JIBUFI Portable Space Heater for Indoor Use with 70° Oscillation and Remote justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're heating a small space or supplementing central heat, where BLACK+DECKER Personal Ceramic Heater already covers the job at the lowest price here."
       }
     ]

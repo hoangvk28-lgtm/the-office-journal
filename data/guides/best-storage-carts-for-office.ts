@@ -64,31 +64,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Much You Need to Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, everyday items",
           "Sywhitta 3-Tier Plastic Rolling Utility Cart with Wheels for Storage, Black"
         ],
         [
-          "",
+          "Standard mixed storage",
           "Feyejade 6-Tier Rolling File Cart Multi Mobile Drawer Cabinet Black"
         ],
         [
-          "",
+          "Heavier or bulkier items",
           "SYKIARIOL Rolling Cart with Drawers, Craft Organizers and Storage"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Sywhitta 3-Tier Plastic Rolling Utility Cart with Wheels for Storage, Black"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Rolling Cart with Drawers"
         ],
         [
-          "",
+          "Higher budget",
           "SYKIARIOL Rolling Cart with Drawers, Craft Organizers and Storage"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Drawers vs Open Bins",
     "cards": [
       {
         "label": "Feyejade 6-Tier Rolling File Cart Multi Mobile Drawer Cabinet Black)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how often you need to see contents versus how much you want the cart to blend in."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hardwood or tile",
           "Check for polyurethane or rubber casters specifically"
         ],
         [
-          "",
+          "Carpet or concrete",
           "Feyejade 6-Tier Rolling File Cart Multi Mobile Drawer Cabinet Black"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Tight Spaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The actual width and depth measurement, not just a 'slim' or 'narrow' label, plus the extra inch the wheels add to the base footprint."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Sywhitta 3-Tier Plastic Rolling Utility Cart with Wheels for Storage, Black is worth checking against its exact footprint before assuming it fits a tight gap like between a washer and dryer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier casters for daily heavy use, where SYKIARIOL Rolling Cart with Drawers, Craft Organizers and Storage justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing lighter, everyday items, where Sywhitta 3-Tier Plastic Rolling Utility Cart with Wheels for Storage, Black already covers the job at the lowest price here."
       }
     ]

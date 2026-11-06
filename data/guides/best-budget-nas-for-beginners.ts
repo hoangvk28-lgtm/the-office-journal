@@ -64,42 +64,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "UGREEN NAS DH2300 2"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "UGREEN NAS DH2300 2"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $154",
           "Buffalo LinkStation 210 2TB 1"
         ],
         [
-          "",
+          "Up to $379",
           "Beelink Mini PC ME Pro 2"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Bay Count vs Price",
     "cards": [
       {
         "label": "Buffalo LinkStation 210 2TB 1",
@@ -113,11 +113,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Buffalo LinkStation 210 2TB 1 unless your storage needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Drive Type Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -126,7 +126,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "HDD for bulk storage is enough",
-          ""
+          "UGREEN NAS DH2300 2"
         ]
       ]
     }
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Media Streaming or Plex Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A CPU capable of hardware transcoding and enough RAM to handle multiple simultaneous streams, not just total bay count."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "UGREEN NAS DH2300 2 is worth checking against its listed CPU and RAM before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real multi-user performance, media transcoding, or business-critical reliability, where Beelink Mini PC ME Pro 2's CPU and RAM give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need simple backup storage for one or two users, where Buffalo LinkStation 210 2TB 1 covers the same job at a lower price."
       }
     ]
@@ -161,7 +161,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Total real-world cost",
     "description": "Weighed enclosure price against whether drives are included, since a diskless 2-bay unit plus 2 NAS-grade drives often costs close to double the enclosure price alone."
   },
   {
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "Compared software onboarding flows, wizard-driven setup versus more manual configuration, and how much networking or RAID knowledge each platform assumes."
   },
   {
-    "title": "",
+    "title": "Drive compatibility restrictions",
     "description": "Checked how strict each brand's drive compatibility list is, since some show scary-looking warnings for third-party drives that are often mostly cosmetic rather than functional blockers."
   },
   {
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "Verified whether each pick is actually network-accessible NAS or direct attached storage reachable from only one computer, a distinction that matters enormously for a beginner's actual use case."
   },
   {
-    "title": "",
+    "title": "Growth headroom",
     "description": "Considered CPU, RAM, networking speed, and bay count against how much a beginner is likely to expand into heavier use, like transcoding or running additional apps, over time."
   }
 ];

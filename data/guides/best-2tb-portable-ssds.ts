@@ -49,10 +49,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41eTFK7clfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Speed Tier",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -68,19 +68,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $120",
           "Seagate 2TB Game Drive for Xbox"
         ],
         [
-          "",
+          "Mid-range",
           "Samsung T7 Shield Portable SSD 2TB"
         ],
         [
@@ -91,25 +91,25 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "TLC vs QLC NAND",
     "cards": [
       {
-        "label": "",
+        "label": "TLC NAND",
         "text": "Better sustained write speed and longer-term endurance, especially once any onboard cache is exhausted during a large transfer. In this comparison: check each listing's specs directly, NAND type isn't always disclosed."
       },
       {
-        "label": "",
+        "label": "QLC NAND",
         "text": "More capacity per dollar, at the cost of a bigger sustained-speed drop once the cache fills on long transfers. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
     "note": "NAND type isn't explicitly confirmed for every pick here, check each specific listing's technical details if sustained speed matters to your workflow."
   },
   {
-    "subheading": "",
+    "subheading": "Rugged/Waterproof vs Standard Build",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Samsung T7 Shield Portable SSD 2TB"
         ],
         [
-          "",
+          "Slimmest, lightest everyday carry",
           "Seagate 2TB Game Drive for Xbox"
         ]
       ]
@@ -127,12 +127,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Large Sustained Transfers (Video Editing) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "TLC NAND specifically, a stated sustained write speed (not just the peak burst number), and a USB generation on both drive and host that actually supports the rated speed."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SANDISK 2TB Extreme Portable SSD fits this specifically: Large, well-established review base."
       }
     ]
   },
@@ -140,16 +140,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Samsung T7 Shield Portable SSD 2TB"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "SANDISK 2TB Extreme Portable SSD"
         ]
       ]
@@ -159,7 +159,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Verified genuine 2TB capacity",
     "description": "Confirmed each pick is rated 2TB by the manufacturer, not padded from a smaller actual capacity."
   },
   {
@@ -171,7 +171,7 @@ export const howWeEvaluated = [
     "description": "Accounted for the roughly 7 percent formatting overhead expected on a genuine 2TB drive."
   },
   {
-    "title": "",
+    "title": "Counterfeit and fake-capacity risk",
     "description": "Weighted seller verification and review consistency more heavily at this higher capacity tier, where fake-capacity firmware is a more common risk."
   }
 ];

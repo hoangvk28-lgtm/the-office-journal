@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "UL fire endurance tests specify both a duration and a furnace temperature; check that the listing states both, since either figure alone is incomplete."
   },
   {
-    "criterion": "",
+    "criterion": "Verify Protected-Content Scope",
     "explanation": "Check whether the UL rating covers paper documents only, or also digital media, since these are sometimes classified separately even under the same UL program."
   },
   {
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "UL fire endurance tests specify both a duration and a furnace temperature; check that the listing states both, since either figure alone is incomplete."
   },
   {
-    "subheading": "",
+    "subheading": "Verify Protected-Content Scope",
     "note": "Check whether the UL rating covers paper documents only, or also digital media, since these are sometimes classified separately even under the same UL program."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Recorded fire duration and test temperature separately for each model rather than accepting a vague 'fireproof' label, since a 30-minute rating and a 2-hour rating protect very differently in a real house fire."
   },
   {
-    "title": "",
+    "title": "Water Evidence Verified Independently",
     "description": "Checked water-resistance claims (submersion depth, duration) as a separate fact from the fire rating, since the two protections are tested and certified independently even on the same product."
   },
   {

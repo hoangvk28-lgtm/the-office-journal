@@ -9,7 +9,7 @@ export const buyingCriteria = [
     "explanation": "Multiple travel routers describe themselves as pocket-sized or compact in marketing copy, but only a specific stated weight (like 39 grams) and dimension measurement give you an objective way to compare actual physical size between listings, since 'pocket-sized' can mean very different things depending on the specific pocket or bag compartment you have in mind. This matters significantly if minimizing carry weight is a genuine priority, like for backpacking or strict carry-on luggage limits, and matters less if you have ample room in checked luggage or a larger travel bag. Check for a specific stated weight and dimension figure rather than relying on marketing terms like 'pocket-sized' or 'compact' alone."
   },
   {
-    "criterion": "",
+    "criterion": "The Smallest Routers Often Trade Away Dual-Band Wi-Fi for 2.4GHz-Only Operation",
     "explanation": "4GHz networks are more prone to congestion and interference in busy areas like hotels or airports. 4GHz's range advantage can actually help. Check whether a compact router specifically supports 5GHz if congestion resistance and speed matter more to you than achieving the absolute minimum size."
   },
   {
@@ -61,51 +61,51 @@ export const heroImage = "https://m.media-amazon.com/images/I/21lO76dEODL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "What matters most",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Smallest size with full VPN features",
-          ""
+          "GL.iNet GL-AR300M16 Mini"
         ],
         [
-          "",
-          ""
+          "Smallest size, lowest price",
+          "GL.iNet GL-MT300N-V2 (Mango)"
         ],
         [
-          "",
-          ""
+          "Maximum mode flexibility",
+          "TP-Link N300 Nano (TL-WR802N)"
         ],
         [
-          "",
+          "Ethernet-only hotel rooms",
           "TP-Link WiFi Travel Router (WiFi 5)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "GL.iNet Mango or TP-Link N300 Nano (both $29.99)"
         ],
         [
-          "",
-          ""
+          "Under $37",
+          "GL.iNet GL-AR300M16 Mini ($36.99)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "TP-Link WiFi Travel Router WiFi 5 ($39.99)"
         ]
       ]
     }
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Ultra-Light OpenWrt vs Simplified Nano Routers",
     "cards": [
       {
-        "label": "",
+        "label": "Ultra-light OpenWrt (AR300M16, Mango)",
         "text": "Delivers genuine pocket size without sacrificing VPN client software, ideal if security features matter alongside minimal size."
       },
       {
@@ -125,19 +125,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "INet picks; if you need repeater or WISP mode flexibility instead, the TP-Link nano picks cover that better."
   },
   {
-    "subheading": "",
+    "subheading": "By Power Source",
     "table": {
       "headers": [
-        "",
-        ""
+        "Available power source",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Laptop USB port or power bank",
-          ""
+          "GL.iNet GL-AR300M16 or Mango"
         ],
         [
-          "",
+          "Standard wall adapter",
           "TP-Link N300 Nano or WiFi 5 Travel Router"
         ]
       ]
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Ultralight Backpacking or Minimalist Carry-On Travel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A specifically stated weight under 50 grams, since every gram matters when optimizing a minimalist travel kit, and many standard travel routers weigh considerably more without stating an exact figure."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both the AR300M16 and Mango specifically state a 39g weight, the lightest options in this comparison for weight-conscious minimalist travel."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price delivers that specific combination."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99 covers that need at the lowest price in this comparison."
       }
     ]
@@ -173,7 +173,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Physical Size and Weight",
     "description": "Compared stated weight and dimensions to identify pocket-sized units versus standard-sized travel routers."
   },
   {
@@ -181,15 +181,15 @@ export const howWeEvaluated = [
     "description": "Compared which compact routers retain OpenWrt, VPN, or multi-mode capability despite their small footprint."
   },
   {
-    "title": "",
+    "title": "Operation Mode Flexibility",
     "description": "Compared the number of distinct operation modes (router, AP, repeater, WISP, client) each unit supports."
   },
   {
-    "title": "",
+    "title": "Power Flexibility",
     "description": "Compared USB, power bank, and DC adapter power compatibility."
   },
   {
-    "title": "",
+    "title": "Warranty and Support",
     "description": "Compared stated warranty length and support availability across listings."
   }
 ];

@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41iraJ4aO+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fully dark, dedicated room",
           "LG CineBeam S PU615U 4K UHD Ultra Short Throw Smart Projector"
         ],
         [
-          "",
+          "Some ambient light",
           "LG CineBeam Q PU600U 4K UHD Smart Portable Projector 2026"
         ],
         [
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -92,11 +92,11 @@ export const howToChoose: HowToChooseSection[] = [
           "LG Electronics PH30N Portable CineBeam Projector with connectivity Bluetooth"
         ],
         [
-          "",
+          "Mid-range pick",
           "LG CineBeam Q PU600U 4K UHD Smart Portable Projector 2026"
         ],
         [
-          "",
+          "Higher budget",
           "LG HU810PW 4K 300” UHD (3840 x 2160) Smart Dual Laser CineBeam Projector with"
         ]
       ]
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most casual, weekly-use buyers should default to a lamp-based pick unless they'll run it daily, where laser's near-zero maintenance pays for itself over a few years."
   },
   {
-    "subheading": "",
+    "subheading": "By Throw Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "LG CineBeam S PU615U 4K UHD Ultra Short Throw Smart Projector is worth checking against its documented native contrast figures before assuming any headline contrast number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want laser reliability and top-tier brightness, where LG HU810PW 4K 300” UHD (3840 x 2160) Smart Dual Laser CineBeam Projector with justifies the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want casual, occasional use, where LG Electronics PH30N Portable CineBeam Projector with connectivity Bluetooth already covers the job at the lowest price here."
       }
     ]

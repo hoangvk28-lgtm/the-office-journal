@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41+5q3i3W2L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $26",
+          "YUFAM ($25.26)"
         ],
         [
-          "",
-          ""
+          "Under $27",
+          "YATINEY ($26.59)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "VYUOL ($29.99)"
         ],
         [
-          "",
-          ""
+          "Under $34",
+          "HUANUO ($33.99)"
         ]
       ]
     }
@@ -122,27 +122,27 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Hides contents from view, protecting private documents and keeping small supplies from spilling out."
       },
       {
-        "label": "",
+        "label": "Open shelf only (YUFAM)",
         "text": "Provides simpler, quicker access to items without needing to open a drawer, but leaves contents visible."
       }
     ],
     "note": "If you're storing sensitive documents or want a tidier visual appearance, an enclosed drawer pick like the YATINEY is worth prioritizing. If quick visual access matters more than privacy, the open-shelf YUFAM works fine."
   },
   {
-    "subheading": "",
+    "subheading": "By Printer Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your printer setup",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Single printer with storage below",
-          ""
+          "YATINEY, HUANUO, or YUFAM"
         ],
         [
-          "",
-          ""
+          "Two printers simultaneously",
+          "VYUOL (3-tier design)"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office With Multiple Printing Devices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine 3-tier layout specifically designed to hold two printers on separate shelves, not just a taller single-printer stand with extra storage below."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The VYUOL pick's 3-tier design specifically accommodates two printers on the upper and middle shelves simultaneously, a capacity none of the 2-tier picks in this comparison offer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want to store two printers with dual-rod stability and a foldable fabric drawer, where the VYUOL pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want tested rolling wheels without an enclosed drawer, where the YUFAM pick covers that for about $5 less."
       }
     ]
@@ -177,7 +177,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Drawer and Storage Type",
     "description": "Distinguished enclosed drawers from open shelving across the lineup."
   },
   {
@@ -185,15 +185,15 @@ export const howWeEvaluated = [
     "description": "Compared 2-tier versus 3-tier designs and their ability to fit multiple printers."
   },
   {
-    "title": "",
+    "title": "Structural Support",
     "description": "Checked for dual-rod versus single-rod support systems and their stability implications."
   },
   {
-    "title": "",
+    "title": "Mobility Options",
     "description": "Compared fixed-base designs against rolling caster options across all four picks."
   },
   {
-    "title": "",
+    "title": "Height Adjustability",
     "description": "Checked which picks offer adjustable height configurations for different desk clearances."
   }
 ];

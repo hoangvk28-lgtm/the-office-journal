@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41H9C3WL86L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Desk Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "Amazon Basics Air Circulator Desk Fan for Bedroom"
         ],
         [
-          "",
+          "Standard desk",
           "Desk Fan, Small Quiet Table Fan, Digital Display, 360° Adjustable Tilt"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Amazon Basics Air Circulator Desk Fan for Bedroom"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "ColdSky Portable Handheld Fan"
         ],
         [
-          "",
+          "Higher budget",
           "Levoit Tower Fan for Bedroom"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs AC-Plugged",
     "cards": [
       {
         "label": "Amazon Basics Air Circulator Desk Fan for Bedroom)",
         "text": "Convenient for a laptop-only setup, but capped at lower airflow than AC power."
       },
       {
-        "label": "",
+        "label": "AC-plugged",
         "text": "More consistent, stronger airflow, but ties the fan to one spot near an outlet."
       }
     ],
     "note": "Match this to whether portability or raw airflow matters more for your setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Noise Sensitivity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,7 +133,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Check the DB rating at your actual daily speed, not just the lowest setting"
         ],
         [
-          "",
+          "Noise isn't a concern",
           "Desk Fan, Small Quiet Table Fan, Digital Display, 360° Adjustable Tilt"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk or Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wider oscillation range (90 to 120 degrees) to spread airflow across more of the surface."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Desk Fan, Small Quiet Table Fan, Digital Display, 360° Adjustable Tilt is worth checking against its specific oscillation range before assuming any 'wide coverage' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want stronger airflow, lower noise, and extra features like a remote or timer, where Levoit Tower Fan for Bedroom justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want a straightforward personal cooling boost, where Amazon Basics Air Circulator Desk Fan for Bedroom already covers the job at the lowest price here."
       }
     ]

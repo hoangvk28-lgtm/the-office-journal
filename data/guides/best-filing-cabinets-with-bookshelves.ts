@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "SISESOL 2 Drawer File Cabinet with Lock and Shelf"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "DEVAISE 3"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $95",
+          "DEVAISE 3"
         ],
         [
-          "",
+          "Up to $240",
           "NORTHSKY 72'' Tall Bookshelf with Power Outlet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Locking vs Non-Locking",
     "cards": [
       {
-        "label": "",
+        "label": "Locking cabinet",
         "text": "Genuine security for sensitive documents, worth it if the cabinet sits in a shared or semi-public space. In this comparison: SISESOL 2 Drawer File Cabinet with Lock and Shelf, SEDETA 2 Drawer File Cabinet with Lock, Letaya 4 Drawer File Cabinets with Lock."
       },
       {
-        "label": "",
+        "label": "Non-locking",
         "text": "Simpler and usually cheaper, fine for a private home office. In this comparison: NORTHSKY 72'' Tall Bookshelf with Power Outlet, DEVAISE 5, DEVAISE 3."
       }
     ],
     "note": "Default to locking unless the cabinet stays in a fully private, controlled-access space."
   },
   {
-    "subheading": "",
+    "subheading": "By Drawer Count",
     "note": "Check each pick's listed drawer count and interior dimensions against your actual filing volume before buying."
   },
   {
-    "subheading": "",
+    "subheading": "For Legal-Size Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed letter and legal-size hanging file compatibility, not just general drawer dimensions."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "DEVAISE 3 is worth checking against its listed hanging-file compatibility before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real steel construction, anti-tip safety, and full-extension drawers, where NORTHSKY 72'' Tall Bookshelf with Power Outlet's higher price buys real build-quality headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light, occasional storage for a small volume of documents, where DEVAISE 3 covers the same job at a lower price."
       }
     ]
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
     "description": "Compared drawer count against dedicated filing cabinets in other The Office Journal guides, noting that most combo units here offer 2 drawers versus the 4-drawer capacity of filing-focused cabinets."
   },
   {
-    "title": "",
+    "title": "Material and humidity durability",
     "description": "Noted whether each unit was steel, wood, or a mixed build, since wood and wood-composite combo units are more vulnerable to warping in humid environments than all-metal cabinets."
   },
   {

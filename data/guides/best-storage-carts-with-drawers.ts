@@ -64,31 +64,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Much You Need to Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, everyday items",
           "SUNALLY 3 Tier Rolling Cart with Drawer"
         ],
         [
-          "",
-          ""
+          "Standard mixed storage",
+          "Rolling Cart with Drawers"
         ],
         [
-          "",
+          "Heavier or bulkier items",
           "Giantex 15 Drawers Rolling Cart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,21 +96,21 @@ export const howToChoose: HowToChooseSection[] = [
           "SUNALLY 3 Tier Rolling Cart with Drawer"
         ],
         [
-          "",
+          "Mid-range pick",
           "SUNALLY Rolling Carts with 5 Drawers"
         ],
         [
-          "",
+          "Higher budget",
           "Giantex 15 Drawers Rolling Cart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Drawers vs Open Bins",
     "cards": [
       {
-        "label": "",
+        "label": "Drawers (e.g. Rolling Cart with Drawers)",
         "text": "Hides clutter and blends with furniture, better for a bedroom or living space."
       },
       {
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how often you need to see contents versus how much you want the cart to blend in."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hardwood or tile",
           "Check for polyurethane or rubber casters specifically"
         ],
         [
-          "",
-          ""
+          "Carpet or concrete",
+          "Rolling Cart with Drawers"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Tight Spaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The actual width and depth measurement, not just a 'slim' or 'narrow' label, plus the extra inch the wheels add to the base footprint."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "SUNALLY 3 Tier Rolling Cart with Drawer is worth checking against its exact footprint before assuming it fits a tight gap like between a washer and dryer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier casters for daily heavy use, where Giantex 15 Drawers Rolling Cart justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing lighter, everyday items, where SUNALLY 3 Tier Rolling Cart with Drawer already covers the job at the lowest price here."
       }
     ]

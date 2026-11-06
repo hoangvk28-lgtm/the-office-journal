@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What's the best overall laptop lock adapter?",
-    "a": ""
+    "a": "The Multplx Laptop Lock Adapter (audio port), for its combination of the largest confirmed review base and a no-adhesive, fully reversible design."
   },
   {
     "q": "Is there a complete kit that includes the cable lock?",
@@ -57,39 +57,39 @@ export const heroImage = "https://m.media-amazon.com/images/I/31dMK5dSvRL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Slot Type",
     "table": {
       "headers": [
-        "",
+        "Your laptop's slot",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Confirmed standard slot",
+          "Multplx Laptop Lock Adapter"
         ],
         [
-          "",
+          "Confirmed nano slot",
           "Kensington Computer Lock Adapter Kit"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $21",
           "I3C Laptop Cable Lock Hardware Security Cable Lock"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "AboveTEK Laptop Lock"
         ],
         [
           "No firm budget ceiling, prioritizing documented compatibility",
@@ -99,33 +99,33 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Combination vs Keyed",
     "cards": [
       {
-        "label": "",
+        "label": "Combination",
         "text": "A resettable dial avoids the risk of losing a physical key, at the cost of remembering or securely recording a code. In this comparison: check each listing's mechanism directly."
       },
       {
-        "label": "",
+        "label": "Keyed",
         "text": "Simple and fast to use, but a lost key means real trouble unless a spare is kept safe. In this comparison: check each listing's mechanism directly."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Confirmed Brand/Model Documentation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Most explicit model-level compatibility documentation",
-          ""
+          "Multplx Laptop Lock Adapter"
         ],
         [
-          "",
-          ""
+          "Widest general slot-type compatibility",
+          "I3C Laptop Cable Lock"
         ]
       ]
     }
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Device Model Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lock manufacturer's own documented compatibility list naming your exact model and generation, not just a retailer's generic \"fits most laptops\" claim."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Multplx Laptop Lock Adapter fits this specifically: Largest confirmed review base in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Kensington Lock Designed for Mac Studio Locking Adapter Mount offers: Only pick in this comparison purpose-built for Mac Studio. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "I3C Laptop Cable Lock Hardware Security Cable Lock already covers the essentials: Dual coverage: Standard slot laptops and slotless devices in one purchase. The main thing you'd be paying extra for elsewhere in this list is documentation depth or cable reinforcement you may not need."
       }
     ]

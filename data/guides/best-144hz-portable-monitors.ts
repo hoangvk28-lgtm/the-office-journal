@@ -55,40 +55,40 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "5K QHD 110% SRGB 144Hz USB-C"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "5K QHD 110% SRGB 144Hz USB-C"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $140",
           "1'' 144Hz Portable Gaming Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "Upperizon Portable Monitor 16 inch 2K QHD 106% SRGB"
         ],
         [
           "No firm budget ceiling, prioritizing panel quality or resolution",
-          ""
+          "VisionOwl Portable Monitor 16 Inch 2.5K QHD 144Hz"
         ]
       ]
     }
@@ -97,22 +97,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C DisplayPort Alt Mode vs HDMI",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C (DisplayPort Alt Mode)",
         "text": "Usually the port that hits the panel's full rated refresh rate, and can carry power alongside video on one cable. In this comparison: check each listing's stated USB-C refresh rate directly."
       },
       {
-        "label": "",
+        "label": "HDMI",
         "text": "Reliable for consoles and older sources, but often capped below the panel's full rated refresh, especially at higher resolutions. 5K QHD 110% SRGB 144Hz USB-C, Upperizon Portable Monitor 16 inch 2K QHD 145% SRGB, Upperizon Portable Monitor 16 inch 2K QHD 106% SRGB."
       }
     ],
     "note": "If you're connecting a console or HDMI-only source specifically, verify the actual HDMI refresh ceiling on your chosen pick, since several picks here cap lower over HDMI than their headline spec suggests."
   },
   {
-    "subheading": "",
+    "subheading": "By VESA Mount Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Handheld Gaming PC or Console Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Your exact source device's documented maximum output refresh rate over the connection type you'll use, checked independently from the monitor's own rated capability, since handhelds like Steam Deck and ROG Ally commonly cap at 60Hz over USB-C."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5K QHD 144Hz fits this specifically: Brightest 144Hz panel in this guide."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5K QHD 144Hz offers: Brightest 144Hz panel in this guide. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "1'' 144Hz Portable Gaming Monitor already covers the essentials: 1080p keeps 144Hz achievable over both USB-C and HDMI. The main thing you'd be paying extra for elsewhere in this list is headroom you may not actually use."
       }
     ]
@@ -156,7 +156,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Per-port refresh rate verification",
     "description": "Checked whether each listing discloses separate USB-C and HDMI refresh rate ceilings, since many panels hit 144Hz only over USB-C while capping at 120Hz over HDMI."
   },
   {
@@ -164,7 +164,7 @@ export const howWeEvaluated = [
     "description": "Confirmed whether 144Hz at the panel's resolution fits within standard USB-C DisplayPort Alt Mode bandwidth without requiring Display Stream Compression (DSC)."
   },
   {
-    "title": "",
+    "title": "Source-device compatibility, including handhelds",
     "description": "Noted that handheld gaming PCs like Steam Deck and ROG Ally typically cap at 60Hz over USB-C, making a 144Hz panel spec irrelevant for that specific source."
   }
 ];

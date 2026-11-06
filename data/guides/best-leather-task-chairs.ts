@@ -63,43 +63,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Long You Sit Each Day",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your day",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Short, active sessions",
+          "DUMOS Home Office Chair"
         ],
         [
-          "",
+          "Standard full workday",
           "YFO Home Office Desk Chair Office Rubber Casters Ergonomic Computer Chair"
         ],
         [
-          "",
+          "Uninterrupted 8+ hour days",
           "Furmax Office Executive Chair High Back Adjustable Managerial Home Desk Chair"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "DUMOS Home Office Chair"
         ],
         [
-          "",
+          "Mid-range pick",
           "NEO CHAIR PU Leather Office Desk Chair with Adjustable Arms"
         ],
         [
-          "",
+          "Higher budget",
           "Furmax Office Executive Chair High Back Adjustable Managerial Home Desk Chair"
         ]
       ]
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Seat Height Range vs Your Desk",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 28-30 inch desk",
           "YFO Home Office Desk Chair Office Rubber Casters Ergonomic Computer Chair"
         ],
         [
-          "",
+          "Taller or drafting-style desk",
           "Check the chair's maximum height range specifically"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, All-Day Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Real lumbar adjustment and a weight capacity rated comfortably above your actual weight, not just at it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "YFO Home Office Desk Chair Office Rubber Casters Ergonomic Computer Chair is worth checking against its specific lumbar adjustment before assuming any 'ergonomic' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You sit 8+ hours a day and want adjustable lumbar, arms, and a higher weight rating, where Furmax Office Executive Chair High Back Adjustable Managerial Home Desk Chair justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your sitting sessions are shorter and more active, where DUMOS Home Office Chair already covers the job at the lowest price here."
       }
     ]

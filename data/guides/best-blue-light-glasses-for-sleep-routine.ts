@@ -60,79 +60,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/41JBr45IrxL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "General screen time",
+          "FEISEDY Sleep Blue Light Blocking Glasses for for Woman Men 99.9% Anti Blue"
         ],
         [
-          "",
+          "Design/color-sensitive work",
           "6% Blue Light Blocking Glasses for Computer Gaming Anti Eyestrain"
         ],
         [
-          "",
+          "Long gaming sessions",
           "ANYLUV Blue Light Glasses for Sleep"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "FEISEDY Sleep Blue Light Blocking Glasses for for Woman Men 99.9% Anti Blue"
         ],
         [
-          "",
+          "Mid-range pick",
           "Livho High Tech Blue Light Blocking Gaming Glasses"
         ],
         [
-          "",
+          "Higher budget",
           "ANYLUV Blue Light Glasses for Sleep"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clear vs Yellow-Tinted Lenses",
     "cards": [
       {
-        "label": "",
+        "label": "Clear (e.g. FEISEDY Sleep Blue Light Blocking Glasses for for Woman Men 99.9% Anti Blue)",
         "text": "Filters less blue light but keeps on-screen colors accurate."
       },
       {
-        "label": "",
+        "label": "Yellow-tinted",
         "text": "Filters more blue light but visibly shifts color perception."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Vision Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No vision correction needed",
           "6% Blue Light Blocking Glasses for Computer Gaming Anti Eyestrain"
         ],
         [
-          "",
+          "Reading magnification needed",
           "Livho High Tech Blue Light Blocking Gaming Glasses"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For All-Day Desk Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A frame width and nose bridge that actually fits your face, with a flexible, durable frame material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "6% Blue Light Blocking Glasses for Computer Gaming Anti Eyestrain is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where ANYLUV Blue Light Glasses for Sleep justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "9% Anti Blue already covers the job at the lowest price here."
       }
     ]

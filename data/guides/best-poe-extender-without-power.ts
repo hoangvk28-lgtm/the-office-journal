@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "The LINOVISION pick's specifically stated IP53 metal enclosure and -22F to 149F operating range, combined with 4kV surge protection, target harsh industrial or outdoor environments more robustly than a standard plastic-enclosure extender rated for typical indoor or moderate outdoor use. This matters if your installation faces real temperature extremes, dust, or electrical surge risk, and matters less for a climate-controlled indoor network closet where a standard enclosure performs adequately. Check a passthrough extender's specific enclosure material, temperature range, and any stated surge protection rating if your deployment environment is demanding, rather than assuming any 'industrial' label means the same protection level."
   },
   {
-    "criterion": "",
+    "criterion": "24V Passive PoE Devices May Not Work With a Standard IEEE 802.3af/at/bt Passthrough Extender",
     "explanation": "3bt standards, simply won't receive power through these particular passthrough extenders. This matters significantly if you're not certain which PoE standard your existing device uses, since connecting an unsupported 24V passive device could result in it not powering on at all despite the extender otherwise functioning correctly for other devices. Verify your specific device's exact PoE standard against a passthrough extender's explicitly stated compatibility before purchasing, rather than assuming all PoE-labeled devices work interchangeably."
   }
 ];
@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the most common mistake buyers make when choosing a passthrough PoE extender?",
-    "a": ""
+    "a": "Assuming any port on a passthrough extender can power any device, when several extenders specifically exclude 24V passive PoE devices and only support the more common IEEE 802.3af/at/bt standards."
   },
   {
     "q": "Is the LINOVISION passthrough switch worth the higher price over the basic YuanLey extender?",
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31vGyUPsb6L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "PoE Passthrough Switch, 1 in 4 Out ($19.99)"
         ],
         [
-          "",
-          ""
+          "Under $27",
+          "YuanLey 4 Port PoE Extender ($26.98)"
         ],
         [
-          "",
-          ""
+          "Under $30",
+          "LINOVISION 2 Ports Passthrough ($29.99) or Gigabit Passthrough Switch ($29.99)"
         ]
       ]
     }
@@ -125,11 +125,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your devices need high bandwidth more than high wattage, the Gigabit-rated picks are the better fit. If you specifically need to power one higher-wattage device without local power, the 100Mbps pick's dedicated 60W port is worth the speed tradeoff."
   },
   {
-    "subheading": "",
+    "subheading": "By Installation Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your installation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -141,7 +141,7 @@ export const howToChoose: HowToChooseSection[] = [
           "LINOVISION 2 Ports Gigabit PoE Passthrough Switch"
         ],
         [
-          "",
+          "DIN-rail mounted network cabinet",
           "Any of the four picks support DIN-rail mounting"
         ]
       ]
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Location With No Nearby Electrical Outlet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An extender explicitly described as passthrough or requiring no AC power supply, confirming it draws 100% of its operating power from the upstream PoE cable rather than needing a separate local outlet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "All four picks specifically confirm no local power requirement, making any of them suitable for a location with no nearby electrical outlet."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by its industrial-grade build."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -177,7 +177,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine No-Local-Power Operation",
     "description": "Compared whether each unit draws 100% of its power from the upstream PoE source with no local outlet needed."
   },
   {
@@ -193,7 +193,7 @@ export const howWeEvaluated = [
     "description": "Compared enclosure material, size, and mounting options for different installation environments."
   },
   {
-    "title": "",
+    "title": "Speed and Cascade Support",
     "description": "Compared Gigabit versus Fast Ethernet speeds and multi-unit cascading distance."
   }
 ];

@@ -37,11 +37,11 @@ export const faq = [
   },
   {
     "q": "Which is the most proven option among what's actually available?",
-    "a": ""
+    "a": "The Peakeep Slim Digital Mirror Alarm Clock, with 2,643 reviews at 4.6 stars."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the cheapest option?",
+    "a": "The rjuwurv Metal Desk Clock at $9.99."
   },
   {
     "q": "Should I look elsewhere for a genuine dive-watch-themed clock?",
@@ -57,15 +57,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/51Ee1NBJrWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Movement Type",
     "table": {
       "headers": [
-        "",
+        "What you want",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "A quiet, non-ticking movement",
           "Maxspace Metal Golden Table Clock"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "Rjuwurv Metal Desk Clock"
         ],
         [
-          "",
+          "Mid-range",
           "Maxspace Metal Golden Table Clock"
         ],
         [
@@ -103,14 +103,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Battery-Powered vs Corded",
     "cards": [
       {
-        "label": "",
+        "label": "Battery-Powered",
         "text": "Runs on batteries alone, so it can sit anywhere on a desk or shelf with no cord in the way, at the cost of an eventual battery swap. In this comparison: Maxspace Metal Golden Table Clock, HZDHCLH Vintage Table Clock Battery Operated, rjuwurv Metal Desk Clock."
       },
       {
-        "label": "",
+        "label": "Corded (Plug-In)",
         "text": "Draws continuous power from a wall outlet, often adding features like USB charging ports or a battery backup for outages, but it has to sit within cord length of a plug. In this comparison: none in this specific roundup, since most picks here are battery powered."
       }
     ],
@@ -120,12 +120,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Purpose: Everyday Use vs Gift",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your purpose",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday functional desk use",
           "Maxspace Metal Golden Table Clock"
         ],
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buying as a Gift Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine material language, such as hand carved, real marble, or real crystal, rather than a marble-look or crystal-look plastic finish, plus a stated production or engraving lead time if personalization is involved."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "That's the kind of detail that signals a deliberate gift rather than a purely functional purchase."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what mooas Flip Desk Clock (Black) offers: Distinctive flip mechanism, not just another dial. That's a real material or craftsmanship upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Rjuwurv Metal Desk Clock already covers the essentials: Cheapest option with a genuine metal body. The main thing you'd be paying extra for elsewhere in this list is styling rather than function."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "We checked the real products behind this search and found none with genuine submarine or dive-watch design elements, and disclosed this directly."
   },
   {
-    "title": "",
+    "title": "No trademarked brand references",
     "description": "We deliberately avoided referencing any specific luxury watch brand, since doing so would misrepresent unrelated generic products as connected to a trademarked name."
   },
   {
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "We explicitly noted \"no nautical/dive-watch theming\" on every product, rather than implying a connection that doesn't exist."
   },
   {
-    "title": "",
+    "title": "Standard desk-clock evaluation applied",
     "description": "For the products that do exist in this search, we still applied our normal review-volume and rating comparison."
   }
 ];

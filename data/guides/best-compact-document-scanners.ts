@@ -56,49 +56,49 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "ScanSnap iX2500 Wireless or USB High"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Canon Canoscan Lide 300 Scanner"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $70",
           "Canon Canoscan Lide 300 Scanner"
         ],
         [
-          "",
+          "Up to $NaN",
           "ScanSnap iX2500 Wireless or USB High"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Scanning",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex scanning",
         "text": "Captures both sides of a page in one pass, worth it if you regularly handle double-sided documents. In this comparison: Brother DS, ScanSnap iX1300 Wireless or USB Double, ScanSnap iX1300 Wireless or USB Double, Canon imageFORMULA R10 Portable Document Scanner."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if your documents are mostly single-sided. In this comparison: Brother DS, Epson Workforce ES, Canon Canoscan Lide 300 Scanner, ScanSnap iX2500 Wireless or USB High."
       }
     ],
@@ -108,17 +108,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By OCR / Searchable PDF Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Searchable PDF with OCR",
+          "Epson Workforce ES"
         ],
         [
-          "",
-          ""
+          "Plain scans are enough",
+          "Brother DS"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tax or Financial Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated duty cycle matched to your real monthly volume, plus verified OCR accuracy on receipts and financial documents specifically."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Epson Workforce ES discloses OCR and searchable PDF support."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You process a real daily volume of double-sided documents, where ScanSnap iX2500 Wireless or USB High's higher duty cycle and speed give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only scan occasionally at low volume, where Canon Canoscan Lide 300 Scanner covers the same job at a lower price."
       }
     ]
@@ -157,11 +157,11 @@ export const howWeEvaluated = [
     "description": "Distinguished picks with a real multi-sheet ADF hopper from single-sheet-fed designs, since compact footprint marketing rarely discloses this capacity reduction directly."
   },
   {
-    "title": "",
+    "title": "Vertical vs. horizontal paper path clearance",
     "description": "Noted where a compact design's space savings comes from a vertical feed path requiring clearance above the unit, a placement factor distinct from pure desk-surface footprint."
   },
   {
-    "title": "",
+    "title": "Genuine footprint disclosure vs. vague 'space-saving' marketing",
     "description": "Prioritized listings with a specific disclosed footprint reduction (like the Brother DS-740D's 11-inch claim) over generic space-saving language."
   }
 ];

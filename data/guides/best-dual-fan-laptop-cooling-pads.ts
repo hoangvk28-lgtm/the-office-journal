@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest confirmed dual-fan option?",
-    "a": ""
+    "a": "The LIANGSTAR Laptop Cooling Pad at $16.99."
   }
 ];
 
@@ -57,38 +57,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/41HgpVRGRnL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
           "Tightest size match for your laptop",
-          ""
+          "Laptop Cooling Pad with 6 Quiet LED Fans for 15.6-17 Inch Laptops"
         ],
         [
           "Widest range, flexible for future upgrades",
-          ""
+          "Laptop Cooling Pad with 6 Quiet LED Fans for 15.6-17 Inch Laptops"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "LIANGSTAR Laptop Cooling Pad"
         ],
         [
-          "",
+          "Mid-range",
           "Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans for 12\"-17\" Laptop"
         ],
         [
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: Targus 17 Inch Dual Fan Lap Chill Mat."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. 6\"-17\" Laptop Cooler Cooling Pad."
       }
     ],
     "note": "6\"-17\" Laptop Cooler Cooling Pad's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -126,7 +126,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Simplest setup, fewer adjustments to fuss with",
-          ""
+          "LIANGSTAR Laptop Cooling Pad"
         ]
       ]
     }
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Targus 17 Inch Dual Fan Lap Chill Mat offers: Confirmed genuine dual-fan design from an established brand. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "LIANGSTAR Laptop Cooling Pad already covers the essentials: Confirmed dual-fan design at the lowest price here. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "We checked each product for confirmed dual-fan design and disclosed directly where a pick has more fans but is included for proven value or comparison."
   },
   {
-    "title": "",
+    "title": "Neoprene vs. rigid stand surface noted",
     "description": "We flagged where a pad uses a soft neoprene surface suited to lap use versus a rigid raised desk stand."
   },
   {

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51miP2b2tjL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $13",
+          "Magnetic LCD Writing Tablet 13 Inch ($12.99)"
         ],
         [
-          "",
-          ""
+          "$17-$18",
+          "Mini 6.5 Inch Adult ($16.99), ORSEN 12 Inch Kids ($16.99), or Fine Tip 6.5in ($17.99)"
         ]
       ]
     }
@@ -106,30 +106,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adult Precision Writing vs Kids' Drawing",
     "cards": [
       {
-        "label": "",
+        "label": "Adult Precision (Mini 6.5\" or Fine Tip 6.5\")",
         "text": "Fine stylus tips and palm-rejection technology built for legible, detailed notes, math work, and sketches, not casual coloring."
       },
       {
-        "label": "",
+        "label": "Kids' Drawing (ORSEN 12\")",
         "text": "Pressure-sensitive color lines and a larger, more forgiving screen built around a child's less precise hand and drawing needs."
       }
     ],
     "note": "If the tablet is mainly for an adult's daily notes, prioritize a fine-tip pick. If it's for a child's creative drawing, the larger color ORSEN screen serves that purpose better."
   },
   {
-    "subheading": "",
+    "subheading": "By Erase Method Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your preference",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Multiple erase options, including non-touch",
-          ""
+          "LCD Writing Tablet for Adult: Mini 6.5 Inch"
         ],
         [
-          "",
+          "Simple single push-button erase",
           "5in, or Magnetic 13 Inch"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Note-Taking During Meetings Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A fine-tip stylus with palm-rejection technology, so your handwriting stays legible and your resting hand doesn't create stray marks."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5in Fine Tip is specifically built for this, with palm-rejection and precision line rendering ideal for meeting notes."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5in pick's precision stylus is the strongest choice here."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Screen size and fridge mounting matter more than writing precision, where the Magnetic 13 Inch pick is both the cheapest and largest option in this comparison."
       }
     ]
@@ -165,19 +165,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Protective Case Quality",
     "description": "Compared leather covers, fold-into-stand designs, and basic plastic cases across the lineup for how well each protects the screen during transport."
   },
   {
-    "title": "",
+    "title": "Stylus Tip Precision",
     "description": "Checked which listings specifically describe fine-tip or precision writing versus thicker, casual doodle-style line rendering."
   },
   {
-    "title": "",
+    "title": "Erase Method Flexibility",
     "description": "Noted which tablets offer multiple erase methods, like non-touch clearing alongside a standard push-button, versus a single erase option."
   },
   {
-    "title": "",
+    "title": "Palm Rejection Technology",
     "description": "Checked for stated palm-rejection features that prevent accidental marks from a resting hand during natural writing."
   },
   {

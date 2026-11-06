@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/418owjFmKIL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "JOTO 4 Pack Cable Management Sleeve 19-20 Inches -Black"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Osprey ARGB PSU Cable Cover"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "Asiahorse Aurora Pro RGB Cable Cover with 108 Addressable LEDs"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,40 +95,40 @@ export const howToChoose: HowToChooseSection[] = [
           "JOTO 4 Pack Cable Management Sleeve 19-20 Inches -Black"
         ],
         [
-          "",
+          "Mid-range pick",
           "AsiaHorse 16AWG PSU Cable Extension Sleeved Custom Mod GPU PC Audio Video Power"
         ],
         [
-          "",
+          "Higher budget",
           "Asiahorse Aurora Pro RGB Cable Cover with 108 Addressable LEDs"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "JOTO 4 Pack Cable Management Sleeve 19-20 Inches -Black)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "Osprey ARGB PSU Cable Cover"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Osprey ARGB PSU Cable Cover is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Asiahorse Aurora Pro RGB Cable Cover with 108 Addressable LEDs justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where JOTO 4 Pack Cable Management Sleeve 19-20 Inches -Black already covers the job at the lowest price here."
       }
     ]

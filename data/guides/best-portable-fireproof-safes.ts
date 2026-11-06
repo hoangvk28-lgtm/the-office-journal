@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "Check actual interior dimensions against your documents and media, since portable safes tend to have less usable interior relative to exterior size than stationary models."
   },
   {
-    "criterion": "",
+    "criterion": "Understand the Mobility-vs-Theft Tradeoff",
     "explanation": "A safe designed to be carried is also a safe a thief can carry away; if it will stay in one place, check whether it includes a tether or anchor option despite its portable design."
   }
 ];
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check actual interior dimensions against your documents and media, since portable safes tend to have less usable interior relative to exterior size than stationary models."
   },
   {
-    "subheading": "",
+    "subheading": "Understand the Mobility-vs-Theft Tradeoff",
     "note": "A safe designed to be carried is also a safe a thief can carry away; if it will stay in one place, check whether it includes a tether or anchor option despite its portable design."
   }
 ];
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Recorded fire duration and test temperature separately for each model rather than accepting a vague 'fireproof' label, since a 30-minute rating and a 2-hour rating protect very differently in a real house fire."
   },
   {
-    "title": "",
+    "title": "Water Evidence Verified Independently",
     "description": "Checked water-resistance claims (submersion depth, duration) as a separate fact from the fire rating, since the two protections are tested and certified independently even on the same product."
   },
   {

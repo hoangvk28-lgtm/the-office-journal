@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HP DeskJet 4355 Wireless All"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HP DeskJet 4355 Wireless All"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $59",
           "Canon PIXMA TS3720 Wireless All"
         ],
         [
-          "",
-          ""
+          "Up to $139",
+          "Canon TS6420 All"
         ]
       ]
     }
@@ -106,22 +106,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Canon TS6420 All",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Canon PIXMA TS3720 Wireless All unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "HP DeskJet 4355 Wireless All"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HP DeskJet 4355 Wireless All is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Canon TS6420 All's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon PIXMA TS3720 Wireless All covers the same job at a lower price."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Setup simplicity",
     "description": "Considered wireless pairing steps, whether an account or app download is forced, and how clearly guided the initial setup process is for a first-time user."
   },
   {
-    "title": "",
+    "title": "Daily use friction",
     "description": "Weighed button layout clarity, display quality, and how many steps a routine print, scan, or copy job actually takes."
   },
   {
-    "title": "",
+    "title": "Maintenance simplicity",
     "description": "Compared cartridge swap time against ink-tank refill time and mess, since these differ meaningfully, 2-3 minutes for a cartridge versus 5-10 minutes for a tank refill."
   },
   {
-    "title": "",
+    "title": "Troubleshooting clarity",
     "description": "Checked whether each pick surfaces plain-language error messages on a display versus relying on blinking light codes that require a manual to decode."
   },
   {
-    "title": "",
+    "title": "Companion app quality",
     "description": "Factored in app store reception and whether setup and daily printing can reasonably be done through the app without excessive account creation friction."
   }
 ];

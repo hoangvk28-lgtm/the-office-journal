@@ -61,106 +61,106 @@ export const heroImage = "https://m.media-amazon.com/images/I/41kYaBB0wQL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Occasional light use",
+          "Ribbon Cutting Machine"
         ],
         [
           "Regular desk or office use",
-          ""
+          "Frifreego Automatic Tape Dispenser"
         ],
         [
-          "",
+          "High-volume packing",
           "BriSunshine Automatic Tape Dispenser Cutter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Ribbon Cutting Machine"
         ],
         [
-          "",
+          "Mid-range pick",
           "Frifreego Automatic Tape Dispenser Electric Tape Cutter"
         ],
         [
-          "",
+          "Higher budget",
           "BriSunshine Automatic Tape Dispenser Cutter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
-        "label": "",
+        "label": "Desktop (e.g. Ribbon Cutting Machine)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Standard clear or packing tape",
-          ""
+          "Frifreego Automatic Tape Dispenser"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "Frifreego Automatic Tape Dispenser Electric Tape Cutter"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Frifreego Automatic Tape Dispenser is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where BriSunshine Automatic Tape Dispenser Cutter justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Ribbon Cutting Machine already covers the job at the lowest price here."
       }
     ]

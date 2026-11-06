@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/11gQ185FZmL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tracking Surface Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Controlled, precise movement",
           "Razer Gigantus V2 Cloth Gaming Mouse Pad (XXL)"
         ],
         [
-          "",
+          "Fast, low-friction glide",
           "Razer Strider Chroma Hybrid Gaming Mouse Mat with Chroma RGB"
         ],
         [
-          "",
+          "Budget cloth surface",
           "Razer Gigantus V2 Cloth Gaming Mouse Pad (Medium)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Razer Gigantus V2 Cloth Gaming Mouse Pad (Medium)"
         ],
         [
-          "",
+          "Mid-range pick",
           "Razer Goliathus Extended Chroma Gaming Mousepad"
         ],
         [
-          "",
+          "Higher budget",
           "Razer Strider Chroma Hybrid Gaming Mouse Mat with Chroma RGB"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Hard Surface",
     "cards": [
       {
         "label": "Razer Gigantus V2 Cloth Gaming Mouse Pad (XXL))",
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Size vs Your Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "Razer Gigantus V2 Cloth Gaming Mouse Pad (Medium)"
         ],
         [
-          "",
+          "Standard desk",
           "Razer Gigantus V2 Cloth Gaming Mouse Pad (XXL)"
         ],
         [
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Razer Gigantus V2 Cloth Gaming Mouse Pad (XXL) is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where Razer Strider Chroma Hybrid Gaming Mouse Mat with Chroma RGB justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward cloth pad for everyday use, where Razer Gigantus V2 Cloth Gaming Mouse Pad (Medium) already covers the job at the lowest price here."
       }
     ]

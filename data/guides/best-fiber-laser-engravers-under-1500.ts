@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31-RtJl7USL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $1,300",
+          "GWEIKE G2 ($1,299.00) or Monport 20W ($1,299.99)"
         ],
         [
-          "",
-          ""
+          "Under $1,400",
+          "ComMarker B4 ($1,399.00)"
         ],
         [
-          "",
-          ""
+          "Under $1,500",
+          "GWEIKE G2 Plus ($1,499.00)"
         ]
       ]
     }
@@ -118,22 +118,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Offers more consistent, repeatable positioning for precision work, ideal for engraving flat items placed under the laser head."
       },
       {
-        "label": "",
+        "label": "2-in-1 desktop/handheld (ComMarker B4)",
         "text": "Adds the flexibility to mark large, curved, or awkwardly shaped items a fixed desktop unit can't reach, at the cost of more manual technique."
       }
     ],
     "note": "If you're mainly engraving small flat parts like jewelry or tags, a fixed desktop unit is simpler to use consistently. If you need to mark larger or oddly shaped items, the ComMarker's handheld mode is the only option here that can reach them."
   },
   {
-    "subheading": "",
+    "subheading": "By Working Area Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical item size",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small items, jewelry, tags",
           "GWEIKE G2 or Monport 20W at 110x110mm"
         ],
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Small Batch Jewelry and Tag Engraving Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Fast engraving speed and fine resolution control, since small, detailed items benefit more from precision than working area size."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The GWEIKE G2's 15000mm/s speed and selectable 2K/4K/8K resolution modes suit fine detail work on small items well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need a larger working area or handheld flexibility, where the GWEIKE G2 Plus or ComMarker B4 each add a real capability the base 20W units lack."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly engrave small, flat items at a fixed desktop station, where the GWEIKE G2 or Monport 20W deliver full engraving capability at the lowest price here."
       }
     ]
@@ -177,19 +177,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Engraving Speed",
     "description": "Compared stated maximum engraving speed in millimeters per second across the entry-level 20W lineup."
   },
   {
-    "title": "",
+    "title": "Working Area Size",
     "description": "Compared engraving surface dimensions, from 110x110mm compact units up to the 150x150mm expanded model."
   },
   {
-    "title": "",
+    "title": "Software Compatibility",
     "description": "Checked LightBurn compatibility and any bundled proprietary software across each pick."
   },
   {
-    "title": "",
+    "title": "Desktop vs Handheld Flexibility",
     "description": "Noted which picks offer handheld marking capability in addition to fixed desktop operation."
   },
   {

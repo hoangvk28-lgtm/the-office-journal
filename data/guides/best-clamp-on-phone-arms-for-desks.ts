@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "NEEWER Desk C Clamp with Anti"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "SAIJI Gooseneck Bed Phone Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $13",
           "SAIJI Gooseneck Bed Phone Holder"
         ],
         [
-          "",
+          "Up to $34",
           "NEEWER Desk C Clamp with Anti"
         ]
       ]
@@ -98,42 +98,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Gooseneck vs Articulating Multi-Joint Arm",
     "cards": [
       {
-        "label": "",
+        "label": "Gooseneck",
         "text": "Bends into one position and stays, simpler and usually cheaper. In this comparison: SAIJI Gooseneck Bed Phone Holder, MAGIPEA Gooseneck Phone Holder."
       },
       {
-        "label": "",
+        "label": "Articulating multi-joint",
         "text": "Repositions across a wider range of angles, worth it if you switch use cases throughout the day. In this comparison: LISEN Cell Phone Holder for Bed Desk, SMALLRIG Crab Clamp with Friction, NEEWER Desk C Clamp with Anti."
       }
     ],
     "note": "Default to a gooseneck unless you need to reposition the phone often for different tasks."
   },
   {
-    "subheading": "",
+    "subheading": "By Weight Capacity",
     "note": "Check each pick's listed weight capacity against your phone plus its actual case weight before buying, not just a bare-phone rating."
   },
   {
-    "subheading": "",
+    "subheading": "For Touch Interaction Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reinforced joints and a tension knob that resist wobble when tapping the screen, not just static holding power when the phone sits undisturbed."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SAIJI Gooseneck Bed Phone Holder is worth checking against its listed joint reinforcement before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need extended, stable positioning for filming or long video calls, where NEEWER Desk C Clamp with Anti's reinforcement gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need occasional, light positioning for a bare phone, where SAIJI Gooseneck Bed Phone Holder covers the same job at a lower price."
       }
     ]
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Desk edge thickness compatibility",
     "description": "We compared each clamp's opening range against common desk, bed frame, and standing-desk edge thicknesses."
   },
   {
@@ -150,11 +150,11 @@ export const howWeEvaluated = [
     "description": "We checked for silicone or EVA padding at the clamp contact points, since firm clamp torque can otherwise mark softer desk finishes."
   },
   {
-    "title": "",
+    "title": "Clamp locking mechanism",
     "description": "We compared simple spring-squeeze clamps against friction-knob-locked clamps for hold security under sustained or repeated use."
   },
   {
-    "title": "",
+    "title": "No-drilling verification",
     "description": "We confirmed every pick attaches without drilling or permanent modification, consistent with genuine clamp-on design."
   }
 ];

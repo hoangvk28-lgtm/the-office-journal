@@ -63,31 +63,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Hours Standing Per Day",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your day",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional standing",
           "Durable Corporation-442S Vinyl Heavy Duty Diamond-DEK Sponge Industrial"
         ],
         [
-          "",
+          "Several hours daily",
           "Ottomanson Heavy Duty Rubber Floor Mat, Non-Slip"
         ],
         [
-          "",
+          "Full-day standing desk use",
           "GOOFCXO 3 x 6 FT Anti Fatigue Mats Industrial 15/16 Inch Thick Soft Sponge"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Durable Corporation-442S Vinyl Heavy Duty Diamond-DEK Sponge Industrial"
         ],
         [
-          "",
+          "Mid-range pick",
           "Outside Rubber Floor Mats Anti Slip Commercial Resturant Drainage Mat"
         ],
         [
-          "",
+          "Higher budget",
           "GOOFCXO 3 x 6 FT Anti Fatigue Mats Industrial 15/16 Inch Thick Soft Sponge"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Foam vs Polyurethane",
     "cards": [
       {
         "label": "Durable Corporation-442S Vinyl Heavy Duty Diamond-DEK Sponge Industrial)",
@@ -120,19 +120,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how many hours a day the mat will actually see, not just initial comfort."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hard flooring",
           "Ottomanson Heavy Duty Rubber Floor Mat, Non-Slip"
         ],
         [
-          "",
+          "Carpet",
           "Check specifically for a mat rated for carpet use"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Barefoot or Sock Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A textured surface rather than smooth, which can feel slippery without shoes."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Ottomanson Heavy Duty Rubber Floor Mat, Non-Slip is worth checking against its specific surface texture before assuming any mat grips the same barefoot."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You stand for most of the workday and want long-term support, where GOOFCXO 3 x 6 FT Anti Fatigue Mats Industrial 15/16 Inch Thick Soft Sponge justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only stand occasionally and want basic cushioning, where Durable Corporation-442S Vinyl Heavy Duty Diamond-DEK Sponge Industrial already covers the job at the lowest price here."
       }
     ]

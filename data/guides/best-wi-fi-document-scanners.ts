@@ -56,49 +56,49 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Epson Workforce ES"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Brother DS"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $NaN",
           "ScanSnap iX2500 Wireless or USB High"
         ],
         [
-          "",
-          ""
+          "Up to $380",
+          "Epson Workforce ES"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Scanning",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex scanning",
         "text": "Captures both sides of a page in one pass, worth it if you regularly handle double-sided documents. In this comparison: ScanSnap iX1300 Wireless or USB Double, ScanSnap iX1300 Wireless or USB Double, Epson Workforce ES, Epson Workforce ES."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if your documents are mostly single-sided. In this comparison: ScanSnap iX2500 Wireless or USB High, ScanSnap iX2500 Wireless or USB High, Brother DS."
       }
     ],
@@ -108,16 +108,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By OCR / Searchable PDF Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Searchable PDF with OCR",
+          "Epson Workforce ES"
         ],
         [
-          "",
+          "Plain scans are enough",
           "ScanSnap iX2500 Wireless or USB High"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tax or Financial Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated duty cycle matched to your real monthly volume, plus verified OCR accuracy on receipts and financial documents specifically."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Epson Workforce ES discloses OCR and searchable PDF support."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You process a real daily volume of double-sided documents, where Epson Workforce ES's higher duty cycle and speed give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only scan occasionally at low volume, where ScanSnap iX2500 Wireless or USB High covers the same job at a lower price."
       }
     ]
@@ -153,15 +153,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Scan-to-folder host-PC requirement vs. standalone cloud operation",
     "description": "Distinguished picks that operate standalone for cloud destinations from the likely requirement that scan-to-folder needs a host PC to remain on and network-discoverable, a distinction Wi-Fi marketing rarely clarifies."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Dual-band vs. single-band Wi-Fi disclosure",
+    "description": "Noted where a pick supports dual-band (2.4GHz + 5GHz) Wi-Fi 6 for better interference resistance in crowded environments versus single-band 2.4GHz-only connectivity."
   },
   {
-    "title": "",
+    "title": "WPA2-Enterprise (802.1X) corporate network compatibility",
     "description": "Flagged that none of the picks in this guide explicitly confirm compatibility with enterprise authentication (certificate-based, not just a shared password), a real gap for corporate/university network buyers."
   }
 ];

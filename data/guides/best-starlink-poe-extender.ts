@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "Are these couplers actually waterproof for rooftop or long-term outdoor installation?",
-    "a": ""
+    "a": "The picks in this comparison carry IP67 or IP68 ratings, genuine waterproof certifications suited to rooftop and long-term outdoor use, though checking the specific rating and whether it matches your installation's actual weather exposure is worth doing."
   },
   {
     "q": "Do I need a lightning-protected coupler for a rooftop Starlink installation?",
@@ -64,8 +64,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Your Starlink Model and Cable Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your Starlink setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,28 +84,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $9",
+          "LYANSO Waterproof Ethernet Coupler ($8.99)"
         ],
         [
-          "",
-          ""
+          "Under $10",
+          "RVSPARK DC Female to Female Adapter ($9.99)"
         ],
         [
-          "",
-          ""
+          "Under $13",
+          "Starlink Ethernet Adapter Kit ($12.99)"
         ],
         [
-          "",
-          ""
+          "Under $16",
+          "STARGEAR DC Power Cord Extender ($15.99)"
         ]
       ]
     }
@@ -118,22 +118,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Explicitly supports Gen 3, Mini and Mini X, Standard 4/4X, V5, plus third-party PoE injectors, ideal if you're not certain of your exact dish generation or want flexibility for future equipment."
       },
       {
-        "label": "",
+        "label": "Exact gasket match (LYANSO)",
         "text": "Specifically engineered to match the Starlink cable's own rubber gasket for a seamless factory-like seal, at a lower price than the broader-compatibility pick."
       }
     ],
     "note": "If you want maximum flexibility across Starlink generations and future PoE equipment, the broader-compatibility pick is worth its slightly higher price. If you know your exact dish model and want the closest factory-matched seal, the LYANSO pick delivers that for less."
   },
   {
-    "subheading": "",
+    "subheading": "By Installation Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your installation location",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Rooftop, extreme temperature exposure",
           "Starlink Ethernet Adapter Kit (-40F to 185F rated)"
         ],
         [
@@ -141,8 +141,8 @@ export const howToChoose: HowToChooseSection[] = [
           "RVSPARK DC Adapter or STARGEAR DC Extender"
         ],
         [
-          "",
-          ""
+          "Standard outdoor residential mounting",
+          "LYANSO Waterproof Ethernet Coupler"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Mobile or RV Starlink Mini Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A DC barrel coupler specifically rated for vibration and shock resistance, since a mobile setup faces more physical stress than a fixed residential installation."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The RVSPARK pick specifically states a rugged PC housing built to withstand daily vibrations, shocks, and wear in vehicles and RVs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by that flexibility."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -182,18 +182,18 @@ export const howWeEvaluated = [
   },
   {
     "title": "Waterproof Rating and Gasket Fit",
-    "description": ""
+    "description": "Compared IP67/IP68 ratings and how precisely each coupler matches the original Starlink cable's gasket seal."
   },
   {
-    "title": "",
+    "title": "Speed and Signal Integrity",
     "description": "Compared documented data speed retention and shielding against interference for Ethernet couplers."
   },
   {
-    "title": "",
+    "title": "Compatibility Breadth",
     "description": "Compared stated compatibility across Starlink models and third-party PoE equipment."
   },
   {
-    "title": "",
+    "title": "Installation Confidence Features",
     "description": "Compared LED indicators and audible connection confirmation for peace of mind."
   }
 ];

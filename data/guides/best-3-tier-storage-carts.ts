@@ -64,31 +64,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Much You Need to Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, everyday items",
           "NEWBULIG 3-Tier Metal Rolling Storage Utility Cart with Lockable Wheels"
         ],
         [
-          "",
+          "Standard mixed storage",
           "SUNALLY 3 Tier Rolling Cart with Drawer"
         ],
         [
-          "",
+          "Heavier or bulkier items",
           "Amazon Basics 3-Tier Rolling Utility Cart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "NEWBULIG 3-Tier Metal Rolling Storage Utility Cart with Lockable Wheels"
         ],
         [
-          "",
+          "Mid-range pick",
           "YASONIC 3 Tier Metal Rolling Cart"
         ],
         [
-          "",
+          "Higher budget",
           "Amazon Basics 3-Tier Rolling Utility Cart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Drawers vs Open Bins",
     "cards": [
       {
         "label": "SUNALLY 3 Tier Rolling Cart with Drawer)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how often you need to see contents versus how much you want the cart to blend in."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hardwood or tile",
           "Check for polyurethane or rubber casters specifically"
         ],
         [
-          "",
+          "Carpet or concrete",
           "SUNALLY 3 Tier Rolling Cart with Drawer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Tight Spaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The actual width and depth measurement, not just a 'slim' or 'narrow' label, plus the extra inch the wheels add to the base footprint."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "NEWBULIG 3-Tier Metal Rolling Storage Utility Cart with Lockable Wheels is worth checking against its exact footprint before assuming it fits a tight gap like between a washer and dryer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier casters for daily heavy use, where Amazon Basics 3-Tier Rolling Utility Cart justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing lighter, everyday items, where NEWBULIG 3-Tier Metal Rolling Storage Utility Cart with Lockable Wheels already covers the job at the lowest price here."
       }
     ]

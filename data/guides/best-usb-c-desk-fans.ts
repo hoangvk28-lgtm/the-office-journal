@@ -61,20 +61,20 @@ export const heroImage = "https://m.media-amazon.com/images/I/51wb7z5JSLL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Desk Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Small or shared desk",
+          "Gaiatop USB Desk Fan"
         ],
         [
-          "",
-          ""
+          "Standard desk",
+          "Koonie USB Desk Fan"
         ],
         [
           "Large desk, need real airflow",
@@ -84,48 +84,48 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Gaiatop USB Desk Fan"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Gaiatop Desktop Fan"
         ],
         [
-          "",
+          "Higher budget",
           "Warmco D3 10000mAh Portable Travel Fan"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs AC-Plugged",
     "cards": [
       {
-        "label": "",
+        "label": "USB-powered (e.g. Gaiatop USB Desk Fan)",
         "text": "Convenient for a laptop-only setup, but capped at lower airflow than AC power."
       },
       {
-        "label": "",
+        "label": "AC-plugged",
         "text": "More consistent, stronger airflow, but ties the fan to one spot near an outlet."
       }
     ],
     "note": "Match this to whether portability or raw airflow matters more for your setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Noise Sensitivity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,8 +133,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Check the DB rating at your actual daily speed, not just the lowest setting"
         ],
         [
-          "",
-          ""
+          "Noise isn't a concern",
+          "Koonie USB Desk Fan"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk or Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wider oscillation range (90 to 120 degrees) to spread airflow across more of the surface."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Koonie USB Desk Fan is worth checking against its specific oscillation range before assuming any 'wide coverage' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want stronger airflow, lower noise, and extra features like a remote or timer, where Warmco D3 10000mAh Portable Travel Fan justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want a straightforward personal cooling boost, where Gaiatop USB Desk Fan already covers the job at the lowest price here."
       }
     ]

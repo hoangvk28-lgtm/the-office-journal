@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41q01n5PytL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,24 +84,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $25",
+          "TSJ OFFICE with Drawer ($24.69)"
         ],
         [
-          "",
-          ""
+          "$29-$34",
+          "Quartet Compact ($29.76) or AMUSIGHT 24x18 ($33.34)"
         ],
         [
-          "",
-          ""
+          "Just above $50",
+          "ZHIDIAN Adjustable Easel ($53.99)"
         ]
       ]
     }
@@ -110,26 +110,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Larger Fixed Glass vs Adjustable Easel Stand",
     "cards": [
       {
-        "label": "",
+        "label": "Larger Fixed Glass (AMUSIGHT)",
         "text": "Maximum writing space and structural durability, mounted or standing in one fixed position rather than adjusting on the fly."
       },
       {
-        "label": "",
+        "label": "Adjustable Easel Stand (ZHIDIAN)",
         "text": "A stable, tightening stand mechanism lets you dial in your exact preferred writing angle, at a smaller overall size."
       }
     ],
     "note": "If maximum writing space matters most, the AMUSIGHT pick delivers it. If a precisely adjustable angle matters more than raw size, the ZHIDIAN pick's stand mechanism is worth the smaller footprint."
   },
   {
-    "subheading": "",
+    "subheading": "By Warranty Coverage Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Longest stated warranty coverage",
           "ZHIDIAN Magnetic Glass Whiteboard Desktop Easel (15-year warranty)"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Air Quality Conscious Buyers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A specific, named third-party certification for low emissions rather than a generic \"eco-friendly\" marketing claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Quartet Glass Dry Erase White Board is the only pick specifically stating GREENGUARD Gold Certification."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the most stable adjustable stand and the longest warranty coverage, where the ZHIDIAN pick delivers both, just above this guide's ceiling."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Genuine glass quality with drawer storage covers your needs, where the TSJ OFFICE pick delivers this at meaningfully less than the pricier alternatives here."
       }
     ]
@@ -169,23 +169,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Glass Thickness and Reinforcement",
     "description": "Compared stated glass thickness (like the AMUSIGHT pick's 4mm rating) and reinforced backing across the lineup for real durability differences."
   },
   {
-    "title": "",
+    "title": "Adjustable Stand Stability",
     "description": "Checked which picks offer a stable, tightening adjustable stand versus a simpler fixed easel."
   },
   {
-    "title": "",
+    "title": "Warranty Length",
     "description": "Compared stated warranty coverage, with one pick offering a notably long 15-year warranty versus shorter or unstated terms elsewhere."
   },
   {
-    "title": "",
+    "title": "Material Certifications",
     "description": "Noted specific third-party low-emissions certifications disclosed in the listings, relevant for indoor air quality."
   },
   {
-    "title": "",
+    "title": "Price-to-Size Value",
     "description": "Assessed whether each pick's price reflects larger writing area or additional certified features rather than incremental branding."
   }
 ];

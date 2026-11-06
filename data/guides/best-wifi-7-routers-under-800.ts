@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31kQCWZJbnL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $400",
+          "TP-Link Deco 7 Pro 3-Pack ($399.98)"
         ],
         [
-          "",
-          ""
+          "$599-$685",
+          "NETGEAR Orbi 770 3-Pack ($599.99), ASUS ZenWiFi BQ16 Pro ($663.47), or ASUS ROG Rapture GT-BE98 Pro ($684.99)"
         ]
       ]
     }
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Quad-band architecture matters most in demanding, many-device households or larger multi-unit mesh setups where backhaul contention would otherwise be noticeable."
   },
   {
-    "subheading": "",
+    "subheading": "By Expansion Strategy",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your expansion approach",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Serious Gaming Households Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Dedicated multi-hop gaming traffic optimization technology, not just a fast combined speed figure, since gaming latency depends on more than raw bandwidth."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The ASUS ROG Rapture GT-BE98 Pro's Triple-Level Game Acceleration specifically optimizes traffic at every step from your PC to the game server."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need genuine quad-band architecture or the single fastest router available, where the ASUS ROG Rapture GT-BE98 Pro delivers the highest combined speed in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Strong tri-band mesh coverage and high device capacity are enough, where the TP-Link Deco 7 Pro 3-Pack saves $200-285 versus the pricier quad-band picks here."
       }
     ]
@@ -165,7 +165,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Quad-Band vs Tri-Band Architecture",
     "description": "Distinguished genuine quad-band routers, which dedicate a separate radio specifically to backhaul or device traffic, from tri-band systems sharing bands across both functions."
   },
   {
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "Compared stated combined Mbps figures across the lineup, since these represent some of the fastest currently available consumer WiFi 7 hardware."
   },
   {
-    "title": "",
+    "title": "Expansion Flexibility",
     "description": "Compared systems sold as fixed multi-unit packs against single-unit quad-band routers designed for gradual, unit-by-unit expansion."
   },
   {

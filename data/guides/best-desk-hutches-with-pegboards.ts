@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51y3uAmYlhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,36 +69,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Lefedrasticity Desktop Hutch Bookshelf with Pegboard 3 Tier Desk Organizer Shelf for Top of Desk Metal Open Shelf Bookcase Countertop Storage Organizer Rack for Dorm Office"
         ],
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "Snughome Desk Shelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $66",
+          "Snughome Desk Shelf"
         ],
         [
-          "",
+          "Up to $140",
           "Lefedrasticity Desktop Hutch Bookshelf with Pegboard 3 Tier Desk Organizer Shelf for Top of Desk Metal Open Shelf Bookcase Countertop Storage Organizer Rack for Dorm Office"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Snughome Desk Shelf",
         "text": "The lower-priced option in this comparison, worth checking its material and mounting method against your desk."
       },
       {
@@ -109,31 +109,31 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Snughome Desk Shelf unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Size",
     "note": "Check each pick's listed panel dimensions against your desk's available depth and width before buying."
   },
   {
     "subheading": "For a Loaded, Multi-Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine metal or thick MDF construction, confirmed standard hole spacing, and a wall-anchor mounting option for stability once loaded with monitor arms and accessories."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Snughome Desk Shelf is worth checking against its listed material and mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to load the board with monitor arms and multiple accessories, where Lefedrasticity Desktop Hutch Bookshelf with Pegboard 3 Tier Desk Organizer Shelf for Top of Desk Metal Open Shelf Bookcase Countertop Storage Organizer Rack for Dorm Office's material and mounting give real stability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a few lightweight decorative hooks, where Snughome Desk Shelf covers the same job at a lower price."
       }
     ]

@@ -56,65 +56,65 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Logitech MX Vertical Wireless Mouse Ergonomic Design"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Lekvey Ergonomic Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $NaN",
           "Logitech MX Vertical Wireless Mouse Ergonomic Design"
         ],
         [
-          "",
+          "Up to $104",
           "KINESIS DXT2 Ergonomic Vertical Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Rechargeable vs Disposable Battery",
     "cards": [
       {
-        "label": "",
+        "label": "Rechargeable battery",
         "text": "No recurring battery purchases, usually a USB-C charge cable does the job in downtime. In this comparison: Logitech MX Vertical Wireless Mouse Ergonomic Design, Lekvey Ergonomic Mouse, Razer Pro Click V2 Vertical Wireless Mouse, ProtoArc EM11 NL Wireless Ergonomic Vertical Mouse."
       },
       {
-        "label": "",
+        "label": "Disposable battery",
         "text": "Simple to swap anywhere without carrying a charge cable, at the cost of ongoing battery purchases. In this comparison: Evoluent, TECKNET Wired Mouse, KINESIS DXT2 Ergonomic Vertical Mouse, zelotes Wired Gaming Mouse with Joystick."
       }
     ],
     "note": "Default to rechargeable unless you specifically want to avoid ever plugging the mouse in to charge."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "Lekvey Ergonomic Mouse"
         ]
       ]
     }
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist or Forearm Strain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A pronounced vertical angle matched to your hand size, with reviews specifically mentioning strain relief after the adjustment period."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Lekvey Ergonomic Mouse is worth checking against its listed hand-size guidance before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You use a mouse for many hours daily and strain relief or sensor precision is the priority, where KINESIS DXT2 Ergonomic Vertical Mouse's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional use, where Logitech MX Vertical Wireless Mouse Ergonomic Design covers the same job at a lower price."
       }
     ]

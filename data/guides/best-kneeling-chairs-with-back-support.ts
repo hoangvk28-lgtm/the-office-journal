@@ -63,43 +63,43 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Long You'll Sit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your session length",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Short 20-30 minute stretches",
+          "Cross Legged Office Chair"
         ],
         [
           "Regular rotation through the day",
           "Kneeling Chair with Backrest Adjustable PU Leather Ergonomic Office Chair"
         ],
         [
-          "",
+          "Longer 2-4 hour stretches",
           "Sleekform East Austin Kneeling Chair with Back Support"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Cross Legged Office Chair"
         ],
         [
-          "",
+          "Mid-range pick",
           "Kneeling Chair with Backrest Ergonomic Adjustable Office Kneel Chair"
         ],
         [
-          "",
+          "Higher budget",
           "Sleekform East Austin Kneeling Chair with Back Support"
         ]
       ]
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fixed Tilt vs Rocking Design",
     "cards": [
       {
-        "label": "",
+        "label": "Fixed tilt (e.g. Cross Legged Office Chair)",
         "text": "Simpler and usually cheaper, works well if your proportions match the assumed range."
       },
       {
@@ -120,11 +120,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're notably tall or short, a rocking model gives you more real range of motion to compensate."
   },
   {
-    "subheading": "",
+    "subheading": "By Backrest Availability",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Back Pain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An adjustable shin pad and seat tilt, since a fixed, poorly-angled pad can concentrate pressure rather than relieve it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Kneeling Chair with Backrest Adjustable PU Leather Ergonomic Office Chair is worth checking against its specific tilt and cushioning spec before assuming it fits your back pain needs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to sit for longer stretches and want a genuine rocking mechanism and better cushioning, where Sleekform East Austin Kneeling Chair with Back Support justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're rotating in short sessions and just want the basic kneeling posture benefit, where Cross Legged Office Chair already covers the job at the lowest price here."
       }
     ]

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/3181Im0e4IL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "ANYOYO ($29.99)"
         ],
         [
-          "",
-          ""
+          "Under $46",
+          "Cable Matters ($45.11)"
         ],
         [
-          "",
-          ""
+          "Under $50",
+          "MOKiN ($49.99)"
         ],
         [
-          "",
-          ""
+          "Under $54",
+          "Rosewill ($53.99)"
         ]
       ]
     }
@@ -129,15 +129,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you regularly transfer very large files for extended periods, like video editing workflows, active cooling helps maintain consistent speeds. If your use is lighter or intermittent, passive cooling's silence is a worthwhile tradeoff."
   },
   {
-    "subheading": "",
+    "subheading": "By SSD Type Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your SSD type",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard single-sided SSD",
           "Any of the four picks"
         ],
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Video Editor Working With Large 4K/8K Files Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Active fan cooling with a stated sustained full-speed operation time, since large video file transfers can run long enough to trigger thermal throttling on passively cooled enclosures."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Rosewill pick's stated 4-hour full-speed operation figure with active fan cooling specifically supports extended video editing workflows without speed degradation."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a stated sustained-operation endurance figure with active cooling, where the Rosewill pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want reliable passive cooling at the lowest price, where the ANYOYO pick covers that for about $24 less."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Controller Chip and Speed",
     "description": "Compared controller chip models and tested real-world transfer speeds across the lineup."
   },
   {
-    "title": "",
+    "title": "Cooling Design",
     "description": "Distinguished active fan cooling from passive fin-based cooling across all four picks."
   },
   {
-    "title": "",
+    "title": "Cable and Accessory Inclusion",
     "description": "Compared included cable types and accessories in the box."
   },
   {
-    "title": "",
+    "title": "SSD Compatibility",
     "description": "Checked single-sided versus double-sided SSD support and size range compatibility."
   },
   {
-    "title": "",
+    "title": "Support and Warranty",
     "description": "Compared stated technical support duration across the tier."
   }
 ];

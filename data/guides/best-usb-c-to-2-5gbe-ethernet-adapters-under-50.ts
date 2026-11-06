@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31kE-WjRiRL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "Plugable ($17.99) or UGREEN ($25.99)"
         ],
         [
-          "",
-          ""
+          "$30 to $40",
+          "Plugable PD ($29.95) or Cable Matters 140W ($35.00)"
         ],
         [
-          "",
-          ""
+          "Up to $50",
+          "Satechi ($39.99) or Satechi 4-in-1 ($44.99)"
         ]
       ]
     }
@@ -113,26 +113,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "100W vs 140W Power Delivery",
     "cards": [
       {
-        "label": "",
+        "label": "100W passthrough (Plugable PD)",
         "text": "Covers most 13-14 inch laptops and standard MacBooks at full charging speed, at a lower price than the 140W option."
       },
       {
-        "label": "",
+        "label": "140W passthrough (Cable Matters)",
         "text": "Matches the charging needs of a 16 inch MacBook Pro or similar high-wattage laptop that a 100W adapter would charge more slowly."
       }
     ],
     "note": "Check your laptop's included charger's wattage rating before choosing: if it's rated under 100W, the cheaper Plugable PD pick covers you fully."
   },
   {
-    "subheading": "",
+    "subheading": "By Warranty Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Longest stated warranty term",
           "Satechi USB-C to Ethernet Adapter (2-year)"
         ],
         [
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Single-Port Laptop Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An adapter that adds extra USB-C ports alongside ethernet, not just a single-purpose ethernet dongle, if your laptop only has one USB-C port total."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Satechi 4-in-1 is the only pick here that adds three extra USB-C ports on top of the ethernet connection."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "00) is the only pick here that matches that charging need."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) uses the same core chipset as every pricier pick here."
       }
     ]
@@ -172,23 +172,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Charging wattage verification",
     "description": "For every PD-capable pick, we checked the stated wattage against common laptop charging needs (100W covers most ultrabooks, 140W covers larger MacBook Pros) rather than assuming any PD-rated port charges every laptop equally."
   },
   {
-    "title": "",
+    "title": "Documented warranty comparison",
     "description": "At this higher price tier, we specifically noted which listings state a multi-year warranty term versus relying on a standard return window, since that's a real value difference at nearly the same price point."
   },
   {
-    "title": "",
+    "title": "Device compatibility specificity",
     "description": "We favored listings naming exact device generations (specific MacBook or iPad models) over vague \"universal compatibility\" claims, since a named list is checkable against your own hardware."
   },
   {
-    "title": "",
+    "title": "Chipset and platform documentation",
     "description": "We confirmed the underlying chipset (Realtek RTL8156BG across most of this lineup) and noted any documented Linux or ChromeOS driver behavior rather than assuming parity across listings."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $50 on the date this guide was checked; adapters that only hit this tier during a temporary sale were excluded."
   }
 ];

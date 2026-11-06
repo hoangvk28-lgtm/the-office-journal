@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Synology DS223 Home & Office Backup Hub"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Synology DS223 Home & Office Backup Hub"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $200",
+          "UGREEN NAS DH2300"
         ],
         [
-          "",
-          ""
+          "Up to $620",
+          "UGREEN NAS DXP4800 Plus"
         ]
       ]
     }
@@ -102,27 +102,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Diskless Enclosure vs Drives Included",
     "cards": [
       {
-        "label": "",
+        "label": "Diskless enclosure",
         "text": "Lets you choose your own NAS-grade drives and capacity, but budget $80-200+ per bay separately. In this comparison: Synology DS223 Home & Office Backup Hub, UGREEN NAS DH2300, TERRAMASTER F2, UGREEN NAS DXP4800 Plus."
       },
       {
-        "label": "",
+        "label": "Drives included",
         "text": "Ready to use out of the box, simpler for a first NAS purchase. In this comparison: UGREEN NAS DXP2800, QNAP TS, Asustor Drivestor 2 Gen 2 AS1202T, QNAP TS."
       }
     ],
     "note": "Default to diskless if you want control over drive choice and capacity, drives-included for the simplest setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Drive Type Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "SSD/NVMe for fast random access",
-          ""
+          "QNAP TS"
         ],
         [
           "HDD for bulk storage is enough",
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Media Streaming or Plex Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A CPU capable of hardware transcoding and enough RAM to handle multiple simultaneous streams, not just total bay count."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Synology DS223 Home & Office Backup Hub is worth checking against its listed CPU and RAM before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real multi-user performance, media transcoding, or business-critical reliability, where UGREEN NAS DXP4800 Plus's CPU and RAM give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need simple backup storage for one or two users, where UGREEN NAS DH2300 covers the same job at a lower price."
       }
     ]
@@ -161,7 +161,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Backup software maturity",
     "description": "Compared each platform's scheduled backup tools, Synology Active Backup, QNAP Hybrid Backup Sync, UGREEN and Asustor's native apps, for versioning, deduplication, and cloud-destination support."
   },
   {
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "Weighed RAM against whether backup can run alongside other always-on services without slowing down or requiring the NAS's sole attention."
   },
   {
-    "title": "",
+    "title": "RAID and drive-bay flexibility",
     "description": "Scored 2-bay vs 4-bay configurations on redundancy options and how much usable capacity survives after RAID overhead."
   },
   {

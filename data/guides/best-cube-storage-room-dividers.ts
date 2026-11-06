@@ -64,45 +64,45 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "EXPERLAM 8 Cube Storage Organizer"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "C&AHOME Cube Storage Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "Mavivegue Book Shelf"
         ],
         [
-          "",
+          "Up to $100",
           "EXPERLAM 8 Cube Storage Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stability vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Mavivegue Book Shelf",
         "text": "The lower-priced option in this comparison, worth checking its base footprint and stability against your floor type."
       },
       {
@@ -113,31 +113,31 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Mavivegue Book Shelf unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Height",
     "note": "Check each pick's listed panel height against your room's ceiling and the actual privacy level you need before buying."
   },
   {
     "subheading": "For a Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "C&AHOME Cube Storage Organizer is worth checking against its listed mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening or a taller, more stable divider, where EXPERLAM 8 Cube Storage Organizer's material and construction give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual separation without noise or stability concerns, where Mavivegue Book Shelf covers the same job at a lower price."
       }
     ]

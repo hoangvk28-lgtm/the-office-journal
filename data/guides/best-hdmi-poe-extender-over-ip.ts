@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41TQFM679KL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $24",
+          "Steetek HDMI Extender ($23.99)"
         ],
         [
-          "",
-          ""
+          "Under $75",
+          "Either PWAY pick ($74.99)"
         ],
         [
-          "",
-          ""
+          "Under $99",
+          "OREI KVM 4K Extender ($98.95)"
         ]
       ]
     }
@@ -125,20 +125,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you already have a PoE switch deployed and want to draw power from it directly, the PWAY 400ft pick is the only one in this comparison that supports that. If you just want reduced cable clutter with one power adapter, any PoC-based pick accomplishes that equally well."
   },
   {
-    "subheading": "",
+    "subheading": "By Resolution Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your display resolution",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "4K@60Hz with HDR support",
           "OREI KVM 4K HDMI Over Ethernet Extender Balun"
         ],
         [
           "1080p for standard displays or projectors",
-          ""
+          "Steetek, either PWAY pick"
         ],
         [
           "1080p with remote PC control",
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Digital Signage or Classroom Deployment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "One-to-many broadcast capability over a standard network switch, letting a single HDMI source feed multiple displays without running separate HDMI cables to each screen."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both PWAY picks specifically support one-to-many distribution, making either a strong fit for signage, classroom, or conference room deployments."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "95 price is justified by that combination of features."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -181,19 +181,19 @@ export const howWeEvaluated = [
     "description": "Compared whether each listing draws power from a genuine PoE switch or uses PoC's proprietary single-cable power sharing."
   },
   {
-    "title": "",
+    "title": "Resolution and Video Quality",
     "description": "Compared 1080p versus 4K support and HDR format compatibility."
   },
   {
-    "title": "",
+    "title": "Range Over Ethernet Cable",
     "description": "Compared maximum documented distance over Cat5e/Cat6/Cat7 cabling."
   },
   {
-    "title": "",
+    "title": "Multi-Display Distribution",
     "description": "Compared point-to-point versus one-to-many broadcast capability."
   },
   {
-    "title": "",
+    "title": "Additional Features",
     "description": "Compared KVM control, loop-out ports, and EDID handling across the picks."
   }
 ];

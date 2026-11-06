@@ -56,17 +56,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Ethernet Speed You Actually Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your network/NAS",
+        "Best pick"
       ],
       "rows": [
         [
-          "",
+          "Standard home Gigabit router",
           "Uni USB-C to Ethernet Adapter 1Gbps"
         ],
         [
-          "",
-          ""
+          "2.5Gb-capable switch/NAS",
+          "UGREEN USB-C to Ethernet Adapter 2.5G"
         ],
         [
           "Just need it to work, budget-first",
@@ -76,7 +76,7 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Device",
     "cards": [
       {
         "label": "Nintendo Switch or Steam Deck",
@@ -87,7 +87,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "TP-Link's UE300C is driver-free on Linux (Ubuntu) specifically, a real advantage over adapters that only claim macOS/Windows support."
       },
       {
-        "label": "",
+        "label": "Budget-conscious buyers",
         "text": "The uni and TP-Link adapters both sit under $16 while still delivering full Gigabit speed with a CAT6 cable."
       }
     ]
@@ -96,23 +96,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Ethernet Speed & Chipset",
     "description": "5G/5G/10G) and, where published, the specific Realtek, Marvell, or other controller chip driving it, rather than assuming USB-C connector shape implies a speed tier."
   },
   {
-    "title": "",
+    "title": "Host & OS Compatibility",
     "description": "2 Gen 2 vs Thunderbolt/USB4) and confirmed OS support, since several products in this cluster have real exclusions (Android, Nintendo Switch, older Apple silicon)."
   },
   {
-    "title": "",
+    "title": "Real-World Documentation",
     "description": "Favored listings that publish honest real-world throughput or explicit host-speed caveats over ones that only quote the theoretical link rate."
   },
   {
-    "title": "",
+    "title": "Build Quality & Durability",
     "description": "Weighed braided cable construction, aluminum housing, and reinforced connectors, since these adapters see frequent plug/unplug cycles in daily use."
   },
   {
-    "title": "",
+    "title": "Genuine Feature Differentiators",
     "description": "Prioritized real differences like Wake-on-LAN, PXE boot, PD passthrough wattage, and multiport expansion over marketing language that repeats across nearly identical adapters."
   }
 ];

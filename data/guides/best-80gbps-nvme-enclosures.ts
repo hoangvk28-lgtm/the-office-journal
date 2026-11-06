@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "2 NVMe SSD in any enclosure in this list?",
-    "a": ""
+    "a": "No. Check the exact M.2 length (2230/2242/2260/2280) and keying (M-Key vs B+M Key) the enclosure supports against your specific SSD before buying, and confirm whether the enclosure supports NVMe only or also SATA M.2 drives."
   },
   {
     "q": "Why does my enclosure run slower than its advertised speed?",
@@ -49,23 +49,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/31C0c9qFaML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By M.2 Size You Need",
     "note": "Every pick in this specific comparison runs at 80Gbps, so speed isn't the differentiator here, drive size compatibility is. 2 lengths in this comparison, including the shorter 2230/2242/2260/2280 sizes, worth checking against your specific SSD's length before ordering."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $130",
+          "ANYOYO 80Gbps NVMe Enclosure"
         ],
         [
-          "",
+          "Mid-range",
           "ACASIS 80Gbps Thunderbolt 5 Enclosure"
         ]
       ]
@@ -75,27 +75,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "NVMe-Only vs NVMe+SATA Dual Protocol",
     "cards": [
       {
-        "label": "",
+        "label": "NVMe-Only",
         "text": "2 drive at all if that's what you own. In this comparison: UGREEN 80Gbps NVMe Enclosure, MOKiN 80Gbps NVMe Enclosure with LCD Display, ACASIS 80Gbps Thunderbolt 5 Enclosure."
       },
       {
-        "label": "",
+        "label": "NVMe+SATA Dual Protocol",
         "text": "2 drives in the same enclosure, more flexible if you're not certain which protocol your SSD uses. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
-    "note": ""
+    "note": "Every pick in this specific comparison is NVMe-only; check our broader enclosure roundup if you specifically need SATA M.2 support."
   },
   {
-    "subheading": "",
+    "subheading": "Passive vs Active Cooling",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your workload",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Occasional file transfers",
+          "UGREEN 80Gbps NVMe Enclosure"
         ],
         [
           "Sustained large transfers (video editing, backups)",
@@ -108,24 +108,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Sustained Large File Transfers Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Published tested read/write numbers using a named SSD and host, active cooling or substantial heatsink fins, and an explicit note about sustained (not just peak burst) performance."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "MOKiN 80Gbps NVMe Enclosure with LCD Display fits this specifically: Only enclosure in this cluster with an LCD status display, not just LEDs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what ACASIS 80Gbps Thunderbolt 5 Enclosure offers: Same proven JHL9480 chip and 6,000MB/s rating as ACASIS's other 80Gbps model. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "ANYOYO 80Gbps NVMe Enclosure already covers the essentials: Transparent warning about Thunderbolt 3 host limitations, rather than overselling compatibility. The main thing you'd be paying extra for elsewhere in this list is a faster interface tier or dual-protocol support you may not need."
       }
     ]
@@ -150,7 +150,7 @@ export const howWeEvaluated = [
     "description": "Weighed published tested throughput figures, fan trigger temperatures, and passive-versus-active cooling design over marketing language that repeats across nearly identical products."
   },
   {
-    "title": "",
+    "title": "Real Feature Differentiators",
     "description": "Prioritized genuine differentiators, RAID mode support, write-lock switches, health-monitoring displays, magnetic attachment systems, over generic \"fast and durable\" claims with nothing behind them."
   }
 ];

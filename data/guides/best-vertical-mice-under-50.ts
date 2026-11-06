@@ -61,16 +61,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Cl7R57svL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Triple-mode connectivity and programmable buttons",
-          ""
+          "AOC Ergonomic Mouse, 2.4GHz Wireless Bluetooth Vertical"
         ],
         [
           "A precise fit for large hands with horizontal scroll",
@@ -88,51 +88,51 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "J-Tech Digital ($29.95)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "AOC ($39.99)"
         ],
         [
-          "",
-          ""
+          "Under $53",
+          "ProtoArc EM11 Pro ($52.99)"
         ],
         [
-          "",
-          ""
+          "Under $65",
+          "Logitech Lift ($64.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Hand Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your hand size",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Small to medium",
+          "Logitech Lift or AOC"
         ],
         [
-          "",
-          ""
+          "Medium to large",
+          "J-Tech Digital"
         ],
         [
-          "",
-          ""
+          "Large (7.5-8.5 in)",
+          "ProtoArc EM11 Pro"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Buyers Who Need Documented Ergonomic Credentials Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit ergonomist testing and certification language, not just general ergonomic design claims."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Logitech Lift is the only pick explicitly stating it was designed, developed, tested, and approved by leading ergonomists."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want documented ergonomist certification and exceptionally long battery life, where the Logitech Lift leads this comparison on both fronts."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want solid dual-mode connectivity and a palm rest without needing full programmability, where the J-Tech Digital pick covers that at the lowest price here."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
-    "description": ""
+    "title": "Connectivity Mode Count",
+    "description": "Compared dual-mode versus triple-mode connectivity spanning Bluetooth, 2.4GHz, and wired USB."
   },
   {
-    "title": "",
+    "title": "Button Programmability",
     "description": "Checked which picks offer fully customizable buttons via app or web configuration versus fixed functions."
   },
   {
-    "title": "",
+    "title": "Hand-Size Fit Guidance",
     "description": "Compared specific hand-size recommendations, from small-medium to large hand sizing."
   },
   {
-    "title": "",
+    "title": "Battery Capacity and Life",
     "description": "Compared stated battery capacity and runtime, including any documented battery life claims."
   },
   {
-    "title": "",
+    "title": "Ergonomic Certification",
     "description": "Checked for documented ergonomist testing and certification versus general ergonomic marketing claims."
   }
 ];

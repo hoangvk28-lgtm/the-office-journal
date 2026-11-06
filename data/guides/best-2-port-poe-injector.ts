@@ -61,23 +61,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/31-jjMqOkOL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "What matters most",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest documented ESD protection",
+          "StarTech 2-Port PoE+ Injector"
         ],
         [
-          "",
+          "Best value Gigabit performance",
           "ICreatin 2-Port Gigabit PoE+ Injector"
         ],
         [
-          "",
+          "DC cabinet power source",
           "Centopto Hardened Gigabit 2-Port PoE+ Injector"
         ],
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "PLUSPOE 48 Volt PoE Injector ($19.99)"
         ],
         [
-          "",
-          ""
+          "Under $26",
+          "ICreatin 2-Port Gigabit PoE+ Injector ($25.99)"
         ],
         [
-          "",
-          ""
+          "Under $67",
+          "StarTech 2-Port PoE+ Injector ($66.99)"
         ],
         [
-          "",
-          ""
+          "Under $145",
+          "Centopto Hardened Gigabit 2-Port PoE+ Injector ($145.00)"
         ]
       ]
     }
@@ -118,26 +118,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Enterprise-Grade vs Standard Value 2-Port Injectors",
     "cards": [
       {
-        "label": "",
+        "label": "Enterprise-grade (StarTech)",
         "text": "Justified for business installations powering enterprise-grade Wi-Fi 6/6E/7 access points where documented ESD protection and jumbo frame support have real value."
       },
       {
-        "label": "",
+        "label": "Standard value (iCreatin)",
         "text": "Delivers comparable core Gigabit PoE+ performance for two standard devices at a fraction of the enterprise-grade price."
       }
     ],
     "note": "Most home and small business buyers should default to the standard value pick unless a specific enterprise access point or documented protection requirement justifies the premium."
   },
   {
-    "subheading": "",
+    "subheading": "By Power Source Available",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your available power",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard AC outlet",
           "StarTech, iCreatin, or PLUSPOE picks"
         ],
         [
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Two Devices Installed Near Each Other Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A design specifically built for two-device power delivery from one compact unit, rather than buying two separate single-port injectors that take up more installation space and cost more combined."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "All four picks are purpose-built 2-port units, letting you power two nearby devices from one unit rather than two separate single-port injectors."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're powering enterprise Wi-Fi access points and want documented ESD protection, or need DC cabinet power for an industrial installation, where the StarTech or Centopto picks justify their price."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You have two basic devices needing standard PoE power, where the iCreatin or PLUSPOE picks deliver reliable performance at a fraction of the cost."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Port Speed",
     "description": "Compared Gigabit versus 10/100Mbps speeds across the 2-port tier."
   },
   {
-    "title": "",
+    "title": "ESD and Surge Protection",
     "description": "Compared specific stated KV ratings for ESD and surge protection where listings provided them."
   },
   {
-    "title": "",
+    "title": "Power Source Type",
     "description": "Compared standard AC-powered units against DC-input units for cabinet or industrial power."
   },
   {
-    "title": "",
+    "title": "Per-Port Power Ceiling",
     "description": "Compared maximum wattage available per port across the different picks."
   },
   {
-    "title": "",
+    "title": "Installation Design",
     "description": "Compared multi-unit-friendly designs like parallel slide-in mounting against standalone form factors."
   }
 ];

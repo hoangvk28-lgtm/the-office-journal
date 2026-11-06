@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ebwPVvIjL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $10",
+          "KUNSI Wired ($9.99) or KUNSI Wireless ($9.99)"
         ],
         [
-          "",
-          ""
+          "Under $19",
+          "Perixx PERIMICE-513 ($18.99)"
         ],
         [
-          "",
-          ""
+          "Under $20",
+          "Anker 2.4G ($19.98)"
         ]
       ]
     }
@@ -114,22 +114,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Wired vs Wireless at This Price",
     "cards": [
       {
-        "label": "",
+        "label": "Wired (Perixx, KUNSI Wired)",
         "text": "No battery concerns and no wireless dropout risk, at the cost of desk cable management."
       },
       {
-        "label": "",
+        "label": "Wireless (Anker, KUNSI Wireless)",
         "text": "Frees up desk space from cables but requires AAA batteries and occasional battery swaps."
       }
     ],
     "note": "If cable clutter bothers you, a wireless pick like the Anker or KUNSI Wireless frees up desk space. If you'd rather avoid battery management entirely, a wired pick removes that concern."
   },
   {
-    "subheading": "",
+    "subheading": "By DPI Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your precision needs",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -137,7 +137,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Perixx PERIMICE-513 (up to 6400)"
         ],
         [
-          "",
+          "Standard office DPI range",
           "Anker, KUNSI Wired, or KUNSI Wireless (up to 1600)"
         ]
       ]
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Vertical Mouse User Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The lowest-risk price point to try the ergonomic shape before committing to a pricier model, since adjustment takes 1-2 weeks regardless of price."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Either KUNSI pick, wired or wireless, lets you try the vertical mouse format for under $10 before investing more."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want the widest DPI range or a longer warranty, where the Perixx or Anker picks each deliver a genuine upgrade over the $9.99 KUNSI options."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want to try the vertical mouse format at minimal cost, where either KUNSI pick covers that for under $10."
       }
     ]
@@ -173,11 +173,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "DPI Range and Adjustability",
     "description": "Compared stated DPI levels and adjustability across the budget lineup."
   },
   {
-    "title": "",
+    "title": "Connection Type",
     "description": "4GHz wireless designs and their respective tradeoffs."
   },
   {
@@ -185,11 +185,11 @@ export const howWeEvaluated = [
     "description": "Compared cable length for wired picks and working distance for wireless picks."
   },
   {
-    "title": "",
+    "title": "Button Count and Functionality",
     "description": "Compared total button count and next/previous browsing button inclusion."
   },
   {
-    "title": "",
+    "title": "Warranty Length",
     "description": "Compared stated warranty duration across the lineup where specified."
   }
 ];

@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Sensor-3dp-faq",
     "q": "What happens if filament runs out mid-print?",
     "a": "Without a filament run-out sensor, the print simply fails and wastes everything printed so far, this matters most for long unattended prints, check for this feature if you run extended jobs."
   },
   {
-    "id": "",
+    "id": "Leveling-faq",
     "q": "Is automatic bed leveling worth paying extra for?",
     "a": "It saves real recurring setup time if you print frequently, manual leveling requires adjusting corner screws and checking with a feeler gauge before nearly every session."
   },
   {
-    "id": "",
+    "id": "Nozzle-faq",
     "q": "Will any nozzle work with any filament?",
     "a": "No, abrasive filaments like carbon-fiber-infused or metal-infused wear down a standard brass nozzle quickly, a hardened steel or ruby-tipped nozzle holds up much longer with those materials."
   },
   {
-    "id": "",
+    "id": "Speed-faq",
     "q": "Should I print at the printer's maximum advertised speed?",
     "a": "Usually not for best quality, max speed often introduces visible ringing or dimensional drift, most users get better results dialing back somewhat from the advertised ceiling."
   },
   {
-    "id": "",
-    "q": "",
+    "id": "Noise-3dp-faq",
+    "q": "Are 3D printers loud?",
     "a": "It varies significantly by model, quieter stepper drivers and fan designs make a real difference, check specific noise-level reviews if the printer will run somewhere you spend time like a bedroom or office."
   },
   {
-    "id": "",
+    "id": "Volume-faq",
     "q": "How do I know what build volume I actually need?",
     "a": "Check it against your largest realistically planned print with margin, the stated volume is a hard maximum and real prints need edge clearance, don't buy sized exactly to your biggest project."
   }
@@ -67,34 +67,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/414SyCcr3BL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you print",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Functional parts and prototypes",
           "FLASHFORGE Adventurer 5M 3D Printer with Fully Auto Leveling"
         ],
         [
-          "",
+          "Fine-detail miniatures or jewelry",
           "ELEGOO Centauri Carbon 2 Combo 3D Printer"
         ],
         [
-          "",
-          ""
+          "Large-format projects",
+          "QIDI PLUS4 3D Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,36 +102,36 @@ export const howToChoose: HowToChooseSection[] = [
           "FLASHFORGE Adventurer 5M 3D Printer with Fully Auto Leveling"
         ],
         [
-          "",
+          "Mid-range pick",
           "FLASHFORGE AD5X Multi-Color 3D Printer"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "QIDI PLUS4 3D Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "FDM vs Resin",
     "cards": [
       {
         "label": "FLASHFORGE Adventurer 5M 3D Printer with Fully Auto Leveling)",
         "text": "Sturdier functional parts at lower cost, visible layer lines."
       },
       {
-        "label": "",
+        "label": "Resin",
         "text": "Far finer detail and smoother finish, messier post-processing with toxic uncured resin."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Filament Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your materials",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,7 +139,7 @@ export const howToChoose: HowToChooseSection[] = [
           "ELEGOO Centauri Carbon 2 Combo 3D Printer"
         ],
         [
-          "",
+          "Warping-prone ABS or nylon",
           "FLASHFORGE AD5X Multi-Color 3D Printer"
         ]
       ]
@@ -149,24 +149,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Unattended Prints Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine filament run-out sensor so a multi-hour print doesn't silently fail and waste material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ELEGOO Centauri Carbon 2 Combo 3D Printer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where QIDI PLUS4 3D Printer justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where FLASHFORGE Adventurer 5M 3D Printer with Fully Auto Leveling already covers the job at the lowest price here."
       }
     ]

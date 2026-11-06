@@ -61,64 +61,64 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Oak2z5XFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "What matters most",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Newest firmware, touchscreen control",
+          "GL.iNet GL-BE3600 Slate 7"
         ],
         [
-          "",
-          ""
+          "Highest VPN throughput",
+          "GL.iNet GL-MT3600BE Beryl 7"
         ],
         [
           "OpenWrt with lower price, Wi-Fi 6",
-          ""
+          "GL.iNet GL-MT3000 Beryl AX"
         ],
         [
-          "",
-          ""
+          "Smallest size, lowest price",
+          "GL.iNet GL-AR300M16 Mini"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $37",
+          "GL.iNet GL-AR300M16 Mini ($36.99)"
         ],
         [
-          "",
-          ""
+          "Under $99",
+          "GL.iNet GL-MT3000 Beryl AX ($98.99)"
         ],
         [
-          "",
-          ""
+          "Under $130",
+          "GL.iNet GL-MT3600BE Beryl 7 ($129.99)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "GL.iNet GL-BE3600 Slate 7 ($159.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "OpenWrt 23.05 vs OpenWrt 21.02",
     "cards": [
       {
-        "label": "",
+        "label": "OpenWrt 23.05 (Slate 7)",
         "text": "The newer firmware version generally receives more current security patches and supports a broader range of up-to-date plugins."
       },
       {
@@ -129,11 +129,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Firmware version matters most if you plan to install newer OpenWrt packages that specifically require a more recent kernel; for basic VPN and browsing use, either version works reliably."
   },
   {
-    "subheading": "",
+    "subheading": "By Wi-Fi Generation",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bandwidth need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,11 +142,11 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Wi-Fi 6 at a lower price",
-          ""
+          "GL.iNet Beryl AX"
         ],
         [
           "Basic connectivity, smallest size priority",
-          ""
+          "GL.iNet AR300M16 (2.4GHz-focused)"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Developer or Network Hobbyist Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The largest available RAM and flash storage, since installing multiple OpenWrt plugins simultaneously, like ad-blocking, VPN, and network monitoring tools together, requires more storage headroom than a minimal single-plugin setup."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Slate 7 and Beryl 7 both specifically state 512MB storage, the most headroom in this comparison for running several OpenWrt plugins at once."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the newest firmware with a touchscreen interface or the highest VPN throughput, where the Slate 7 or Beryl 7 near $130-160 deliver differentiated capability."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want reliable OpenWrt customization without Wi-Fi 7 speed, where the Beryl AX or AR300M16 deliver that at a meaningfully lower price."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "OpenWrt Firmware Version",
     "description": "Compared the specific OpenWrt version and kernel each listing ships with."
   },
   {
-    "title": "",
+    "title": "Available Plugin Storage",
     "description": "Compared RAM and flash storage capacity relevant to how many OpenWrt plugins can be installed."
   },
   {
-    "title": "",
+    "title": "VPN Throughput",
     "description": "Compared stated OpenVPN and WireGuard maximum speeds across listings."
   },
   {
-    "title": "",
+    "title": "Hardware Capability",
     "description": "Compared Wi-Fi generation, port speed, and unique hardware features like the touchscreen interface."
   },
   {
-    "title": "",
+    "title": "Price-to-Feature Value",
     "description": "Compared OpenWrt capability retained at each price tier from budget to flagship."
   }
 ];

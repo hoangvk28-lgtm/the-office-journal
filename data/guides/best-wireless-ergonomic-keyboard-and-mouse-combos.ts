@@ -53,23 +53,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/31JIdOdW-aL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "note": "Every pick in this specific comparison uses a similar layout approach; check the product names above for the exact curve, split, or angle."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $40",
           "Wireless Keyboard and Mouse Combo"
         ],
         [
-          "",
+          "Mid-range",
           "MEETION Ergonomic Keyboard and Mouse Combo"
         ],
         [
@@ -80,14 +80,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: check each listing's connection type directly."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech Wave Keys Keyboard and Lift Mouse Ergonomic Combo, ProtoArc EKM01 Plus Wireless Ergonomic Keyboard Mouse Combo, ProtoArc EKM02 Wave Keys Ergonomic Wireless Keyboard and Mouse."
       }
     ]
@@ -96,12 +96,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest cost, quiet typing",
           "Wireless Keyboard and Mouse Combo"
         ],
         [
@@ -115,24 +115,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Logitech Wave Keys Keyboard and Lift Mouse Ergonomic Combo fits this specifically: Matched keyboard and mouse from one product line."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Logitech Wave Keys Keyboard and Lift Mouse Ergonomic Combo offers: Identical wireless architecture to the Graphite version. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -141,7 +141,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Single-dongle vs. dual-dongle wireless architecture",
     "description": "Prioritized verifying whether each combo uses one shared receiver for both devices or ships with two separate dongles despite unified combo marketing."
   },
   {
@@ -153,7 +153,7 @@ export const howWeEvaluated = [
     "description": "Considered whether keyboard and mouse batteries drain on a staggered or synchronized schedule, a practical maintenance factor for daily reliance on both devices."
   },
   {
-    "title": "",
+    "title": "Matched ergonomic design consistency",
     "description": "Compared how well the keyboard and mouse in each combo share a consistent ergonomic design philosophy versus being paired as an afterthought."
   }
 ];

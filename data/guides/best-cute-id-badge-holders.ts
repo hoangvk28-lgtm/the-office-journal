@@ -32,7 +32,7 @@ export const faq = [
     "a": "Most fit the standard CR80 credit-card size, but some workplace or event badges use a larger or non-standard size, measure your actual badge before assuming universal fit."
   },
   {
-    "q": "",
+    "q": "Are badge holders waterproof?",
     "a": "Standard plastic handles light moisture fine, but genuine waterproofing needs a sealed edge or specific rating, check for this if you work outdoors or in a consistently wet environment."
   },
   {
@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41h7dVfs0qL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Daily Movement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Mostly desk-based",
           "Funny Turtle Nurse Badge Reel"
         ],
         [
-          "",
+          "Frequent movement or bending",
           "Beemorita Pink Work Retractable Card Badge Holder Reel Cute Aesthetic Reel Clip"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Funny Turtle Nurse Badge Reel"
         ],
         [
-          "",
+          "Mid-range pick",
           "Uniclife Floral Sliding Badge Holder White Flower Plastic Case with Retractable"
         ],
         [
-          "",
+          "Higher budget",
           "Retractable ID Badge Holder with Breakaway Lanyard, Heavy Duty Badge"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Retractable vs Fixed Lanyard",
     "cards": [
       {
         "label": "Funny Turtle Nurse Badge Reel)",
         "text": "Extends for scanning, retracts out of the way when not needed."
       },
       {
-        "label": "",
+        "label": "Fixed lanyard",
         "text": "Simpler, no reel mechanism to wear out over time."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Card Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your credentials",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single ID only",
           "Beemorita Pink Work Retractable Card Badge Holder Reel Cute Aesthetic Reel Clip"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Wet or Outdoor Workplace Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine waterproof rating, not just standard plastic construction."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Beemorita Pink Work Retractable Card Badge Holder Reel Cute Aesthetic Reel Clip is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Retractable ID Badge Holder with Breakaway Lanyard, Heavy Duty Badge justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Funny Turtle Nurse Badge Reel already covers the job at the lowest price here."
       }
     ]

@@ -61,79 +61,79 @@ export const heroImage = "https://m.media-amazon.com/images/I/41qVZQ4X0YL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Quick reference glances",
+          "3 Pack Acrylic Sign Holder 8.5 x 11 Inches"
         ],
         [
-          "",
+          "Continuous data entry",
           "5x11 Acrylic Sign Holder 3 Pack Vertical Double-Sided Display"
         ],
         [
           "Reading a thick document stack",
-          ""
+          "KTRIO Acrylic Brochure Holder 8.5 x 11"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "3 Pack Acrylic Sign Holder 8.5 x 11 Inches"
         ],
         [
-          "",
+          "Mid-range pick",
           "5x11 Inches 2 Pack T Shape Desktop Display Stand"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "KTRIO Acrylic Brochure Holder 8.5 x 11"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Side-Mounted",
     "cards": [
       {
-        "label": "",
+        "label": "In-line (e.g. 3 Pack Acrylic Sign Holder 8.5 x 11 Inches)",
         "text": "Keeps the page in your direct sightline, minimal neck movement."
       },
       {
-        "label": "",
+        "label": "Side-mounted",
         "text": "Sits off to one side, more placement flexibility but more head turning."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single sheets",
           "5x11 Acrylic Sign Holder 3 Pack Vertical Double-Sided Display"
         ],
         [
-          "",
+          "Thicker stacks or booklets",
           "5x11 Inches 2 Pack T Shape Desktop Display Stand"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Data-Entry Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sliding line guide and an adjustable viewing angle to reduce glare and neck strain."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5x11 Acrylic Sign Holder 3 Pack Vertical Double-Sided Display is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5 x 11 justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5 x 11 Inches already covers the job at the lowest price here."
       }
     ]

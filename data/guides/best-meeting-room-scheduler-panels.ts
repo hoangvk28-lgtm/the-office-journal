@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31B7CXFmTGL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "VidaMount White Enclosure and Fixed Permanent Glass Mount Compatible"
         ],
         [
-          "",
+          "Standard conference room",
           "1\" Touchscreen for Teams Rooms"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "VidaMount White Enclosure and Fixed Permanent Glass Mount Compatible"
         ],
         [
-          "",
+          "Mid-range pick",
           "7H-952000085 Meeting Room Touch Controller with PoE Connectivity"
         ],
         [
-          "",
+          "Higher budget",
           "VidaMount White Enclosure and Fixed Permanent Glass Mount Compatible"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "VidaMount White Enclosure and Fixed Permanent Glass Mount Compatible)",
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "1\" Touchscreen for Teams Rooms"
         ],
         [
-          "",
+          "Google Workspace / Calendar",
           "7H-952000085 Meeting Room Touch Controller with PoE Connectivity"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "1\" Touchscreen for Teams Rooms is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where VidaMount White Enclosure and Fixed Permanent Glass Mount Compatible justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward single-room display without advanced features, where VidaMount White Enclosure and Fixed Permanent Glass Mount Compatible already covers the job at the lowest price here."
       }
     ]

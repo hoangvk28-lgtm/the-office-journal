@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41adM3Ta56L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General screen time",
           "Gleyemor Blue Light Glasses for Men Women"
         ],
         [
-          "",
+          "Design/color-sensitive work",
           "Logclub 2 Pack Blue Light Glasses For Woman/Men"
         ],
         [
-          "",
+          "Long gaming sessions",
           "TIJN Blue Light Blocking Glasses Men Women, Vintage Round Frame Eyeglasses"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,44 +95,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Gleyemor Blue Light Glasses for Men Women"
         ],
         [
-          "",
+          "Mid-range pick",
           "Brigtlaiff Round Blue Light Blocking Glasses for Men Women John Lennon Style"
         ],
         [
-          "",
+          "Higher budget",
           "TIJN Blue Light Blocking Glasses Men Women, Vintage Round Frame Eyeglasses"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clear vs Yellow-Tinted Lenses",
     "cards": [
       {
         "label": "Gleyemor Blue Light Glasses for Men Women)",
         "text": "Filters less blue light but keeps on-screen colors accurate."
       },
       {
-        "label": "",
+        "label": "Yellow-tinted",
         "text": "Filters more blue light but visibly shifts color perception."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Vision Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No vision correction needed",
           "Logclub 2 Pack Blue Light Glasses For Woman/Men"
         ],
         [
-          "",
+          "Reading magnification needed",
           "Brigtlaiff Round Blue Light Blocking Glasses for Men Women John Lennon Style"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For All-Day Desk Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A frame width and nose bridge that actually fits your face, with a flexible, durable frame material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Logclub 2 Pack Blue Light Glasses For Woman/Men is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where TIJN Blue Light Blocking Glasses Men Women, Vintage Round Frame Eyeglasses justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Gleyemor Blue Light Glasses for Men Women already covers the job at the lowest price here."
       }
     ]

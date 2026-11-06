@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41VwpxK-43L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Placement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "On the desk surface",
           "Note Toad - Desk Organizer & Note Holder"
         ],
         [
-          "",
+          "Clipped to a monitor",
           "Dog Post it Note Dispenser for Desk Accessories"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Note Toad - Desk Organizer & Note Holder"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Post-it Note Dispenser"
         ],
         [
-          "",
+          "Higher budget",
           "HORTIX Highland Cow Pop-Up Sticky Note Dispenser for 3 x 3 in Notes"
         ]
       ]
@@ -114,27 +114,27 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "One-at-a-time dispensing, needs z-fold refill pads specifically."
       },
       {
-        "label": "",
+        "label": "Standard pad holder",
         "text": "Works with any standard pad, no special refill needed."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Note Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your notes",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 3x3 size",
           "Dog Post it Note Dispenser for Desk Accessories"
         ],
         [
           "A different or mini size",
-          ""
+          "Post-it Note Dispenser"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For One-Handed Desk Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weighted or non-slip base that stays put while you pull a note with one hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Dog Post it Note Dispenser for Desk Accessories is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where HORTIX Highland Cow Pop-Up Sticky Note Dispenser for 3 x 3 in Notes justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Note Toad - Desk Organizer & Note Holder already covers the job at the lowest price here."
       }
     ]

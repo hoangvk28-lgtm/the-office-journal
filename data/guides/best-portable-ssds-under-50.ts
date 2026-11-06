@@ -17,7 +17,7 @@ export const buyingCriteria = [
     "explanation": "Most budget external SSDs ship pre-formatted in exFAT specifically because it is the one common format both Windows and macOS can read and write to without reformatting, unlike NTFS (Windows-only for writing) or APFS and HFS+ (Mac-only). If a listing doesn't specify the out-of-box format, check the product description or Q&A section before assuming it works across both operating systems immediately. Reformatting a drive to a single-platform format defeats the point of buying a portable drive meant to move between devices."
   },
   {
-    "criterion": "",
+    "criterion": "Included Cables and Adapters",
     "explanation": "A drive's sticker price only tells part of the story if it ships with just one cable type and your devices use a different port. Check whether the box includes both a USB-C cable and a USB-A adapter (or cable), since needing to separately buy an adapter effectively adds several dollars to what looked like the cheapest option. This matters most for anyone splitting time between an older USB-A laptop and a newer USB-C one, or moving files to and from a USB-C phone."
   },
   {
@@ -65,76 +65,76 @@ export const heroImage = "https://m.media-amazon.com/images/I/31HmKx54o9L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "The fastest transfer speed available under $50",
-          ""
+          "SSK 128GB Portable SSD"
         ],
         [
           "The absolute lowest price for a real SSD",
-          ""
+          "LINTYLE 128GB External SSD"
         ],
         [
           "More storage without exceeding $50",
-          ""
+          "KEXIN 256GB External SSD"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "LINTYLE 128GB External SSD ($28.49)"
         ],
         [
-          "",
-          ""
+          "$35-$45",
+          "SSK 128GB Portable SSD ($38.99) or KEXIN 256GB External SSD ($43.69)"
         ],
         [
-          "",
-          ""
+          "$45-$50",
+          "Aiibe 256GB External SSD ($45.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "128GB vs 256GB",
     "cards": [
       {
-        "label": "",
+        "label": "128GB (SSK, LINTYLE)",
         "text": "Cheaper and plenty for documents, photos, and moderate video, but fills up fast with game installs or 4K footage. Best if you already have a primary storage drive and this is a quick-transfer or backup companion."
       },
       {
-        "label": "",
+        "label": "256GB (KEXIN, Aiibe)",
         "text": "A few dollars more for double the room, the better default for anyone unsure how much they'll actually store on it. Best if this drive is doing double duty as a small working archive, not just a transfer tool."
       }
     ],
     "note": "Most buyers should default to a 256GB pick like the KEXIN unless the lower price of a 128GB drive matters more than the extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Connector Compatibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Mostly USB-C devices (newer laptops, USB-C iPhone)",
-          ""
+          "LINTYLE 128GB External SSD"
         ],
         [
           "Mix of USB-An and USB-C devices",
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Photo and Video Transfer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rated speed of at least 500MB/s and a stated capacity that comfortably fits your typical shoot size, since 4K video and RAW photo batches consume space quickly."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The SSK 128GB Portable SSD rates highest at 550MB/s for pure speed, while the KEXIN 256GB External SSD better balances speed and room for a full shoot's worth of files."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "X drives at this price and generally require stepping up to a USB4 or Thunderbolt drive to get reliably."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly need a quick-transfer drive for documents and photos between two or three devices, where the LINTYLE 128GB External SSD or KEXIN 256GB External SSD already cover the need without paying for capability you won't use."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Real USB Bandwidth",
     "description": "2 Gen 2) rather than just its top speed figure, since the interface generation sets the real ceiling regardless of the marketing number."
   },
   {
-    "title": "",
+    "title": "Capacity-to-Price Math",
     "description": "Compared price per usable gigabyte at each drive's actual capacity, factoring in that a 128GB or 256GB drive reports several gigabytes less in the OS than its advertised size."
   },
   {
-    "title": "",
+    "title": "Cross-Platform Format",
     "description": "Verified whether each drive ships pre-formatted in exFAT, the format that actually enables read/write access on both Windows and macOS without reformatting."
   },
   {
-    "title": "",
+    "title": "Included Cables and Adapters",
     "description": "Checked what connectors ship in the box, since a drive that needs a separately purchased adapter effectively costs more than its sticker price."
   },
   {
-    "title": "",
+    "title": "Housing and Health Features",
     "description": "Monitoring, or TRIM support versus those that only describe housing material in vague terms."
   }
 ];

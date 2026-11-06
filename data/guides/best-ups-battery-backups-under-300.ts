@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31rIE-toOYL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,7 +74,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "The highest wattage rating and documented warranty",
-          ""
+          "CyberPower CP1500PFCLCD PFC Sinewave"
         ],
         [
           "Near-top capacity and data line protection at a lower price",
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $190",
+          "APC BX1500M ($189.99)"
         ],
         [
-          "",
-          ""
+          "Under $200",
+          "CyberPower CP1500AVRLCD3 ($199.95)"
         ],
         [
-          "",
-          ""
+          "Under $240",
+          "CyberPower CP1500PFCLCD ($239.95)"
         ],
         [
-          "",
-          ""
+          "Under $300",
+          "APC BR1500MS2 Pure Sine Wave ($299.99)"
         ]
       ]
     }
@@ -132,8 +132,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Data Line Protection Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your connection type",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "No wired data lines needing protection",
-          ""
+          "CyberPower CP1500PFCLCD or CP1500AVRLCD3"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Protecting High-End, Sensitive Home Office Equipment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine pure sine wave output, not just PFC-compatible or simulated sine wave, for the cleanest possible power delivery."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The APC BR1500MS2 is the only pick here explicitly delivering pure sine wave output."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want genuine pure sine wave output and built-in coax/Ethernet protection for sensitive modern electronics, where the APC BR1500MS2 leads this comparison on both fronts."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want near-top capacity and data line protection without pure sine wave output, where the APC BX1500M delivers that for about $110 less."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Sine Wave Output Quality",
     "description": "Distinguished genuine pure sine wave, PFC sinewave, and simulated sine wave output types across the lineup."
   },
   {
-    "title": "",
+    "title": "VA/Wattage Capacity",
     "description": "Compared stated VA and wattage ratings, with most picks reaching 1500VA at this tier."
   },
   {
-    "title": "",
+    "title": "Data Line Protection",
     "description": "Checked which picks include built-in coaxial and Ethernet surge protection alongside AC outlets."
   },
   {
-    "title": "",
+    "title": "Connected Equipment Warranty",
     "description": "Compared documented warranty and insurance coverage amounts across the lineup."
   },
   {
-    "title": "",
+    "title": "Energy Efficiency Certification",
     "description": "Checked for Energy Star certification and stated efficiency percentages."
   }
 ];

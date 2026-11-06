@@ -49,15 +49,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41eTFK7clfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Capacity",
     "table": {
       "headers": [
-        "",
+        "Your storage need",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Lightest everyday storage needs",
           "Samsung T7 Shield Portable SSD 1TB"
         ],
         [
@@ -68,19 +68,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $208",
           "Crucial X10 1TB Portable SSD"
         ],
         [
-          "",
+          "Mid-range",
           "Corsair EX400U Survivor 1TB USB4 External SSD"
         ],
         [
@@ -91,25 +91,25 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "TLC vs QLC NAND",
     "cards": [
       {
-        "label": "",
+        "label": "TLC NAND",
         "text": "Better sustained write speed and longer-term endurance, especially once any onboard cache is exhausted during a large transfer. In this comparison: check each listing's specs directly, NAND type isn't always disclosed."
       },
       {
-        "label": "",
+        "label": "QLC NAND",
         "text": "More capacity per dollar, at the cost of a bigger sustained-speed drop once the cache fills on long transfers. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ],
     "note": "NAND type isn't explicitly confirmed for every pick here, check each specific listing's technical details if sustained speed matters to your workflow."
   },
   {
-    "subheading": "",
+    "subheading": "Rugged/Waterproof vs Standard Build",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Samsung T7 Shield Portable SSD 1TB"
         ],
         [
-          "",
+          "Slimmest, lightest everyday carry",
           "Samsung T7 Portable SSD 1TB Titan Gray"
         ]
       ]
@@ -127,11 +127,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Large Sustained Transfers (Video Editing) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "TLC NAND specifically, a stated sustained write speed (not just the peak burst number), and a USB generation on both drive and host that actually supports the rated speed."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Corsair EX400U Survivor 1TB USB4 External SSD fits this specifically: USB4 bridge narrows the gap to native NVMe speed."
       }
     ]
@@ -140,16 +140,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Corsair EX400U Survivor 1TB USB4 External SSD"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Samsung T7 Portable SSD 1TB Titan Gray"
         ]
       ]
@@ -163,15 +163,15 @@ export const howWeEvaluated = [
     "description": "Weighted the actual USB or Thunderbolt bridge speed tier each drive is rated for, since that bridge, not the internal NVMe drive, usually sets the real-world speed ceiling."
   },
   {
-    "title": "",
+    "title": "Random-access and durability benefit",
     "description": "Credited NVMe drives for genuine random-access and durability advantages over SATA-based portable drives, independent of sequential speed claims."
   },
   {
-    "title": "",
+    "title": "Host compatibility requirements",
     "description": "2 Gen 2, USB4, or Thunderbolt, each drive actually needs to reach its rated speed."
   },
   {
-    "title": "",
+    "title": "Serviceability and TRIM support",
     "description": "Considered whether an enclosure supports TRIM pass-through, which affects long-term sustained performance on NVMe-based portable drives."
   }
 ];

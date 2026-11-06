@@ -28,16 +28,16 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "q": "",
+    "q": "Are these actually fireproof?",
     "a": "Several are marketed as fireproof, but we found no independently cited certification standard in the listings we reviewed, verify this directly before trusting a product with truly irreplaceable documents."
   },
   {
     "q": "Which has the most reviews among fireproof-marketed options?",
-    "a": ""
+    "a": "The EXLIFBAG File Organizer, with 1,865 reviews at 4.4 stars."
   },
   {
     "q": "What's the cheapest fireproof-marketed option with real reviews?",
-    "a": ""
+    "a": "The Fire Proof File Box with Handle at $20.99, with 405 reviews."
   },
   {
     "q": "Is there a dual-compartment locking option?",
@@ -60,36 +60,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest star rating",
+          "EXLIFBAG File Organizer"
         ],
         [
-          "",
-          ""
+          "Largest review base (more statistical confidence)",
+          "EXLIFBAG File Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $21",
           "Fire Proof File Box for Documents"
         ],
         [
-          "",
-          ""
+          "Mid-range",
+          "EXLIFBAG File Organizer"
         ],
         [
           "No firm budget ceiling, prioritizing security or durability",
@@ -99,14 +99,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: BALEINE Fireproof Document Box with Lock, File Organizer Storage Box."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: Vaultz File Organizer Storage Box, EXLIFBAG File Organizer, Fire Proof File Box for Documents."
       }
     ],
@@ -116,8 +116,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "EXLIFBAG File Organizer fits this specifically: Large review base for this specific category."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Vaultz File Organizer Storage Box offers: From a brand specifically known for reinforced storage construction. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Fire Proof File Box for Documents already covers the essentials: Cheapest fireproof-marketed option with real reviews. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -161,7 +161,7 @@ export const howWeEvaluated = [
     "description": "We flagged that fireproof claims should be verified against a specific certification standard cited in the current listing, rather than assumed from the product name alone."
   },
   {
-    "title": "",
+    "title": "Compared real construction features",
     "description": "We compared lock quality, handle design, and compartment structure as concrete, verifiable features rather than relying solely on marketing claims."
   },
   {
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
     "description": "We weighted review count and rating for the fireproof-marketed products, since that's the best available evidence of real-world satisfaction even where certification isn't independently confirmed."
   },
   {
-    "title": "",
+    "title": "Reinforced-brand construction noted separately",
     "description": "We distinguished Vaultz's brand-level reputation for reinforced construction from unverified fireproof marketing claims on other products."
   }
 ];

@@ -44,7 +44,7 @@ export const faq = [
     "a": "Only if you carry more than one credential daily, like a building access card or parking pass alongside your ID, count your actual cards before choosing single or multi-slot."
   },
   {
-    "q": "",
+    "q": "Are badge holders waterproof?",
     "a": "Standard plastic handles light moisture fine, but genuine waterproofing needs a sealed edge or specific rating, check for this if you work outdoors or in a consistently wet environment."
   },
   {
@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41liRGFZksL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Daily Movement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Mostly desk-based",
           "4pcs Sublimation id Badge Holder Blanks Bulk Heat Transfer Print Waterproof"
         ],
         [
-          "",
+          "Frequent movement or bending",
           "14pcs Sublimation id Badge Holder Blanks Bulk Heat Transfer Print Waterproof"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "4pcs Sublimation id Badge Holder Blanks Bulk Heat Transfer Print Waterproof"
         ],
         [
-          "",
+          "Mid-range pick",
           "30 Pack Sublimation Blanks Bulk Pu Leather ID Badge Holder Heat Transfer Print"
         ],
         [
-          "",
+          "Higher budget",
           "14pcs Sublimation ID Badge Holder Blanks"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Retractable vs Fixed Lanyard",
     "cards": [
       {
         "label": "4pcs Sublimation id Badge Holder Blanks Bulk Heat Transfer Print Waterproof)",
         "text": "Extends for scanning, retracts out of the way when not needed."
       },
       {
-        "label": "",
+        "label": "Fixed lanyard",
         "text": "Simpler, no reel mechanism to wear out over time."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Card Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your credentials",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single ID only",
           "14pcs Sublimation id Badge Holder Blanks Bulk Heat Transfer Print Waterproof"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Wet or Outdoor Workplace Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine waterproof rating, not just standard plastic construction."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "14pcs Sublimation id Badge Holder Blanks Bulk Heat Transfer Print Waterproof is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 14pcs Sublimation ID Badge Holder Blanks justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 4pcs Sublimation id Badge Holder Blanks Bulk Heat Transfer Print Waterproof already covers the job at the lowest price here."
       }
     ]

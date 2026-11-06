@@ -9,7 +9,7 @@ export const buyingCriteria = [
     "explanation": "Define specific maximum width and depth numbers for small office credenzas rather than judging 'small' by photos alone, since compact credenzas vary meaningfully in both dimensions."
   },
   {
-    "criterion": "",
+    "criterion": "Measure Uninterrupted Top Area",
     "explanation": "Check the usable top area after subtracting any hutch footprint or raised edge trim, since the nominal top dimensions can overstate real working space."
   },
   {
@@ -61,7 +61,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Define specific maximum width and depth numbers for small office credenzas rather than judging 'small' by photos alone, since compact credenzas vary meaningfully in both dimensions."
   },
   {
-    "subheading": "",
+    "subheading": "Measure Uninterrupted Top Area",
     "note": "Check the usable top area after subtracting any hutch footprint or raised edge trim, since the nominal top dimensions can overstate real working space."
   },
   {
@@ -80,7 +80,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Function Classified Before Comparison",
     "description": "Sorted each product into storage credenza, credenza desk, file credenza, or desk-system credenza before ranking, since 'office credenza' spans meaningfully different furniture types that don't compare fairly against each other."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Compared published interior drawer, shelf, and cabinet dimensions rather than exterior width or door count alone, since partitions and hardware can meaningfully shrink real usable space."
   },
   {
-    "title": "",
+    "title": "File Compatibility Verified Directly",
     "description": "Checked letter/legal compatibility, filing direction, and lock coverage against each product's own documentation rather than assuming a 'file drawer' label means full hanging-file support."
   },
   {

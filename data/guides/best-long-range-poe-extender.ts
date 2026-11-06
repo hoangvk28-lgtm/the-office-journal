@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41B08T6RJlL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $70",
+          "FASTCALBING Direct Burial Extender ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $79",
+          "PROCET Gigabit PoE Extender ($78.49)"
         ],
         [
-          "",
-          ""
+          "Under $90",
+          "LINOVISION Long Distance Extender ($89.99)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "Intellinet Outdoor PoE+ Extender Kit ($159.99)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Maximum Distance vs Maintained Speed",
     "cards": [
       {
-        "label": "",
+        "label": "Maximum distance (LINOVISION, Intellinet)",
         "text": "These picks reach the longest total distances in this comparison, up to 2600ft and 3280ft respectively, but both specifically disclose reduced bandwidth well before reaching that maximum range."
       },
       {
@@ -129,11 +129,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your device needs consistent bandwidth and your distance need is moderate, the FASTCALBING's maintained speed is the better fit. If you need to reach an extreme distance and your device doesn't need high bandwidth, the LINOVISION or Intellinet's greater reach is worth the speed tradeoff."
   },
   {
-    "subheading": "",
+    "subheading": "By Installation Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your installation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Lightning-Prone or Rural Installation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit surge protection with a stated voltage rating, since rural and elevated installations face higher exposure to electrical surges from nearby lightning strikes."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The PROCET pick specifically states 6KV surge protection, a concrete rating most competing extenders in this price range don't disclose."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by that level of disclosure."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -185,19 +185,19 @@ export const howWeEvaluated = [
     "description": "Compared documented bandwidth and wattage at several distances, not just the single maximum-range figure."
   },
   {
-    "title": "",
+    "title": "Installation Method",
     "description": "Compared above-ground, direct burial, and paired-unit installation approaches for different real-world scenarios."
   },
   {
-    "title": "",
+    "title": "Electrical Protection Features",
     "description": "Compared surge protection and overload safeguards disclosed on each listing."
   },
   {
-    "title": "",
+    "title": "Outdoor Durability Rating",
     "description": "Compared IP waterproof ratings and operating temperature ranges for outdoor deployment."
   },
   {
-    "title": "",
+    "title": "PoE Standard Compatibility",
     "description": "3af/at/bt support and any explicit compatibility exclusions."
   }
 ];

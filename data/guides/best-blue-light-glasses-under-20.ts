@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31BtULC3EGL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General screen time",
           "AHXLL Kids Blue Light Blocking Glasses 2 Pack"
         ],
         [
-          "",
+          "Design/color-sensitive work",
           "KUGUAOK Retro Oval Blue Light Blocking Glasses for Women 90s Small y2k Style"
         ],
         [
-          "",
+          "Long gaming sessions",
           "JM Aviator Blue Light Glasses Woman Men Clear Wire Frame Bluelight Glasses"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,44 +95,44 @@ export const howToChoose: HowToChooseSection[] = [
           "AHXLL Kids Blue Light Blocking Glasses 2 Pack"
         ],
         [
-          "",
+          "Mid-range pick",
           "ZOECENT Oversized Reading Glasses for Women Stylish Cat Eye Glasses Blue Light"
         ],
         [
-          "",
+          "Higher budget",
           "JM Aviator Blue Light Glasses Woman Men Clear Wire Frame Bluelight Glasses"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clear vs Yellow-Tinted Lenses",
     "cards": [
       {
         "label": "AHXLL Kids Blue Light Blocking Glasses 2 Pack)",
         "text": "Filters less blue light but keeps on-screen colors accurate."
       },
       {
-        "label": "",
+        "label": "Yellow-tinted",
         "text": "Filters more blue light but visibly shifts color perception."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Vision Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No vision correction needed",
           "KUGUAOK Retro Oval Blue Light Blocking Glasses for Women 90s Small y2k Style"
         ],
         [
-          "",
+          "Reading magnification needed",
           "ZOECENT Oversized Reading Glasses for Women Stylish Cat Eye Glasses Blue Light"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For All-Day Desk Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A frame width and nose bridge that actually fits your face, with a flexible, durable frame material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "KUGUAOK Retro Oval Blue Light Blocking Glasses for Women 90s Small y2k Style is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where JM Aviator Blue Light Glasses Woman Men Clear Wire Frame Bluelight Glasses justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where AHXLL Kids Blue Light Blocking Glasses 2 Pack already covers the job at the lowest price here."
       }
     ]

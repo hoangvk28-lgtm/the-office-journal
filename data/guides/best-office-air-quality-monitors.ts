@@ -61,56 +61,56 @@ export const heroImage = "https://m.media-amazon.com/images/I/41xFHYFhxLL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sensor Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your main concern",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Particulates (PM2.5/dust)",
+          "Air Quality Monitor"
         ],
         [
-          "",
+          "General everyday tracking",
           "16-in-1 Indoor Air Quality Monitor"
         ],
         [
-          "",
+          "Multiple pollutants at once",
           "Temtop M10+ 6-in-1 CO2 Meter & Indoor Air Quality Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Air Quality Monitor"
         ],
         [
-          "",
+          "Mid-range pick",
           "CO2 Monitor Air Quality Monitor Indoor Temperature Humidity Meter (White)"
         ],
         [
-          "",
+          "Higher budget",
           "Temtop M10+ 6-in-1 CO2 Meter & Indoor Air Quality Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "WiFi vs Zigbee/Hub-Based",
     "cards": [
       {
-        "label": "",
+        "label": "WiFi-only (e.g. Air Quality Monitor)",
         "text": "Connects directly to your router and app, no extra hardware needed."
       },
       {
@@ -121,19 +121,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have a compatible smart-home hub."
   },
   {
-    "subheading": "",
+    "subheading": "By Data Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Live readings only",
           "16-in-1 Indoor Air Quality Monitor"
         ],
         [
-          "",
+          "Long-term history and export",
           "CO2 Monitor Air Quality Monitor Indoor Temperature Humidity Meter (White)"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Specific Pollutant Concern Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated sensor for your specific concern (formaldehyde, CO2, or radon) rather than a general VOC or air-quality index alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "16-in-1 Indoor Air Quality Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact concern."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want longer-term sensor accuracy and multi-pollutant coverage, where Temtop M10+ 6-in-1 CO2 Meter & Indoor Air Quality Monitor justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want a trend indicator for everyday tracking, where Air Quality Monitor already covers the job at the lowest price here."
       }
     ]

@@ -64,16 +64,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Match Your Priority to a Specific Pick",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Most writing room within the small category",
-          ""
+          "Black Glass Whiteboard 9.5\"x6.7\""
         ],
         [
-          "",
+          "Small size plus storage",
           "TSJ OFFICE Glass Board with Drawer"
         ],
         [

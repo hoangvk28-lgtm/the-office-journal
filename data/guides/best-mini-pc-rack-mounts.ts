@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/31PMZH3SC3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Surface",
     "note": "Every pick in this specific comparison targets the same mounting surface; check the product names and descriptions above for exactly which install style fits your space."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $33",
           "Freejia Mini PC Rack Mount Compatible with Lenovo ThinkCentre"
         ],
         [
-          "",
+          "Mid-range",
           "JINGCHENGMEI 1U Hinged Mini Rack Mount for HP Mini PC"
         ],
         [
@@ -87,42 +87,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Fit vs Universal Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-Specific Fit",
         "text": "Matches one specific chassis shape exactly, generally a more secure fit for that exact model. In this comparison: 19in 1U Mini PC Rack Mount for 2 Units."
       },
       {
-        "label": "",
+        "label": "Universal / Multi-Brand",
         "text": "Works across several mini PC brands with adjustable hardware, more flexible if you might switch devices later. In this comparison: 19in 1U Mini PC Rack Mount for 2 Units."
       }
     ],
     "note": "Confirm your exact mini PC model against the listing's stated compatibility either way, since even a \"universal\" mount has real size limits."
   },
   {
-    "subheading": "",
+    "subheading": "By Post-Install Port Access",
     "note": "None of these picks specifically advertise preserved front-port access after mounting; check each listing's product photos for where the ports land once installed if that matters to you."
   },
   {
     "subheading": "For a Home Lab Rack Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of 10-inch (home-lab) versus 19-inch (commercial) rack compatibility, since these are different standards, plus whether it's full or half rack-unit width."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "19in 1U Mini PC Rack Mount for 2 Units fits this specifically: Highest rack density in this guide, two units in one 1U space."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what 19in 1U Mini PC Rack Mount for 2 Units offers: Highest rack density in this guide, two units in one 1U space. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Freejia Mini PC Rack Mount Compatible with Lenovo ThinkCentre already covers the essentials: Precise fit for named Lenovo ThinkCentre Tiny models. The main thing you'd be paying extra for elsewhere in this list is broader compatibility you may not need."
       }
     ]
@@ -131,7 +131,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine rack-format verification",
     "description": "We checked each candidate against actual 19-inch or 10-inch rack dimensions and rack unit (U) height, and removed two initially considered under-desk mounts that do not fit a rack cabinet at all rather than stretch the list with a mismatch."
   },
   {
@@ -139,7 +139,7 @@ export const howWeEvaluated = [
     "description": "We compared stated U height and cabinet width against standard 19-inch and 10-inch rack specs, since a mount that does not match those dimensions simply will not install."
   },
   {
-    "title": "",
+    "title": "Home-server workload fit",
     "description": "We compared whether each tray's ventilation and cabling design suits a continuous home-server workload with more persistent cabling than a desk PC typically carries."
   },
   {

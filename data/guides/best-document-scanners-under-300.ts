@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41d2vOL+ThL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $150",
+          "Epson ES-50 ($146.00)"
         ],
         [
-          "",
-          ""
+          "Under $185",
+          "Canon imageFORMULA R10 ($183.90)"
         ],
         [
-          "",
-          ""
+          "Under $280",
+          "Canon imageFORMULA R40II ($253.00) or ScanSnap iX1300 ($279.99)"
         ]
       ]
     }
@@ -118,31 +118,31 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Delivers 30-45ppm duplex speed with 60-sheet or wireless features, built for regular multi-page scanning sessions at a fixed location."
       },
       {
-        "label": "",
+        "label": "Portable duplex (Canon R10)",
         "text": "Scans both sides at a much more modest 12ppm with a 20-sheet feeder, but stays lightweight and USB-powered for travel."
       }
     ],
     "note": "If you scan in one location regularly, a desktop duplex model's speed and feeder capacity save real time. If you need duplex on the go, the R10 is the only portable option here that still captures both sides."
   },
   {
-    "subheading": "",
+    "subheading": "By Feeder Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack size",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Single pages, occasionally",
+          "Epson ES-50"
         ],
         [
           "Small stacks up to 20 sheets",
-          ""
+          "Canon imageFORMULA R10"
         ],
         [
           "Larger stacks up to 60 sheets",
-          ""
+          "Canon imageFORMULA R40II"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Home Office Without a Dedicated Scanning PC Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine Wi-Fi connectivity that lets multiple devices scan without a direct cable connection to one computer."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The ScanSnap iX1300 is the only pick with real wireless scanning, letting it work without being tethered to a single PC."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You regularly scan large stacks of two-sided documents, where the Canon R40II's 60-sheet, 45ppm duplex feeder saves real time over the portable options."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mostly scan single pages occasionally, where the Epson ES-50 covers that need at less than half the price of any duplex pick here."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Duplex Scan Speed",
     "description": "Compared real stated pages-per-minute figures for duplex, two-sided scanning across the desktop and portable picks."
   },
   {
-    "title": "",
+    "title": "Automatic Feeder Capacity",
     "description": "Compared sheet capacity of automatic document feeders, from 20-sheet portable designs to 60-sheet desktop units."
   },
   {
-    "title": "",
+    "title": "Wireless Connectivity",
     "description": "Checked which picks offer genuine Wi-Fi scanning versus USB-only connections."
   },
   {
-    "title": "",
+    "title": "Software and Driver Compatibility",
     "description": "Noted which scanners support only proprietary software versus broader TWAIN/ISIS driver compatibility."
   },
   {
-    "title": "",
+    "title": "Portability vs Desktop Throughput",
     "description": "Weighed genuine portability against raw scan speed and feeder capacity across the lineup."
   }
 ];

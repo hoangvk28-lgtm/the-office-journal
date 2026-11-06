@@ -63,80 +63,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Logitech G413 TKL SE Mechanical Gaming Keyboard"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Logitech G413 TKL SE Mechanical Gaming Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $29",
+          "RisoPhy Mechanical Gaming Keyboard"
         ],
         [
-          "",
-          ""
+          "Up to $120",
+          "Keychron V6 Max Wireless"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wireless vs Wired Connection",
     "cards": [
       {
-        "label": "",
+        "label": "Wireless",
         "text": "4GHz dongle option beyond just Bluetooth. In this comparison: AULA F75 Pro Wireless Mechanical Keyboard, Keychron V6 Max Wireless, Keychron V6 Max Wireless."
       },
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, the safer choice for competitive gaming. In this comparison: Logitech G413 TKL SE Mechanical Gaming Keyboard, RisoPhy Mechanical Gaming Keyboard, Redragon K668 RGB Gaming Keyboard, Keychron V6 Wired Custom Mechanical Keyboard, Keychron V6 Wired."
       }
     ],
     "note": "Default to wired if competitive gaming latency matters, wireless for general typing and office use."
   },
   {
-    "subheading": "",
+    "subheading": "By Keycap Material",
     "note": "Check each pick's listed keycap material (PBT vs ABS) against how long you plan to use it daily before buying, since PBT resists shine and wear better over years."
   },
   {
     "subheading": "For Shared Office or Video Call Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Linear or tactile switches rather than clicky ones, to avoid disruptive noise on calls or in a shared space."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Logitech G413 TKL SE Mechanical Gaming Keyboard is worth checking against its listed switch type before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want hot-swappable switches and premium PBT keycaps for years of daily use, where Keychron V6 Max Wireless's build quality gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want to try the mechanical feel without a big investment, where RisoPhy Mechanical Gaming Keyboard covers the same job at a lower price."
       }
     ]
@@ -149,7 +149,7 @@ export const howWeEvaluated = [
     "description": "Checked each product's actual key count and description, not the search term it appeared under, to confirm its true layout size, full-size, TKL/80%, or 75%."
   },
   {
-    "title": "",
+    "title": "Keycap and firmware compatibility",
     "description": "Noted whether a layout uses standard key positions compatible with common aftermarket keycap sets, and whether firmware is open-source QMK/VIA or brand-proprietary."
   },
   {
@@ -157,11 +157,11 @@ export const howWeEvaluated = [
     "description": "Weighed how far each layout's footprint pushes the mouse from center, since a full-size board with a numpad adds roughly 15 to 20cm of reach compared to a TKL layout."
   },
   {
-    "title": "",
+    "title": "Hot-swap and switch feel",
     "description": "Checked which picks offer hot-swappable sockets and what switch feel, linear or tactile, ships installed by default."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed layout, hot-swap capability, wireless connectivity, and firmware openness against price, from the budget full-size pick to the wireless V6 Max."
   }
 ];

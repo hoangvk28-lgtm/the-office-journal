@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Q8c6AMNrL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "AODK L Shaped Desk Gaming Desk with LED Light & Power Outlet"
         ],
         [
-          "",
+          "Standard home office",
           "VENNQD Corner Desk with Drawers Shelves"
         ],
         [
-          "",
+          "Larger dedicated office",
           "SEDETA 67\" Farmhouse L Shaped Desk with Hutch"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "AODK L Shaped Desk Gaming Desk with LED Light & Power Outlet"
         ],
         [
-          "",
+          "Mid-range pick",
           "DurayLoly 63\"Triangular Corner Desk with Hutch, Ample Storage for Small Room"
         ],
         [
-          "",
+          "Higher budget",
           "SEDETA 67\" Farmhouse L Shaped Desk with Hutch"
         ]
       ]
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor",
           "VENNQD Corner Desk with Drawers Shelves"
         ],
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "AODK L Shaped Desk Gaming Desk with LED Light & Power Outlet is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in storage, better cable management, and sturdier build quality, where SEDETA 67\" Farmhouse L Shaped Desk with Hutch justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where AODK L Shaped Desk Gaming Desk with LED Light & Power Outlet already covers the job at the lowest price here."
       }
     ]

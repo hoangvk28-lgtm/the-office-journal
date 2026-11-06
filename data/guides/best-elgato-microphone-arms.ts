@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31uBXDHIaUL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Your Microphone's Weight",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your microphone",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lightweight USB mic",
           "InnoGear Mic Arm Microphone Boom Arm Cable Management for Blue Yeti"
         ],
         [
-          "",
+          "Standard condenser mic",
           "Elgato Wave Mic Arm Low Profile Microphone Boom Arm"
         ],
         [
-          "",
+          "Heavier dynamic mic (e.g. SM7B)",
           "Elgato Wave Mic Arm Pro"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "InnoGear Mic Arm Microphone Boom Arm Cable Management for Blue Yeti"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Elgato Wave Mic Arm MK.2"
         ],
         [
-          "",
+          "Higher budget",
           "Elgato Wave Mic Arm Pro"
         ]
       ]
@@ -114,26 +114,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "No installation needed, best if you rent your space or might reposition the arm later."
       },
       {
-        "label": "",
+        "label": "Grommet mount option",
         "text": "More stable long-term but usually requires drilling, worth it for a permanent studio setup."
       }
     ],
     "note": "Match this to how permanent your setup actually is, not just which sounds more professional."
   },
   {
-    "subheading": "",
+    "subheading": "By Cable Routing Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "On-camera, polished look matters",
           "Check specifically for internal cable routing"
         ],
         [
-          "",
+          "Off-camera, budget matters more",
           "InnoGear Mic Arm Microphone Boom Arm Cable Management for Blue Yeti"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Streaming or Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Internal cable routing and a low-profile design that doesn't block your webcam frame or dual-monitor view."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Elgato Wave Mic Arm Low Profile Microphone Boom Arm is worth checking against its specific reach and cable routing before assuming it fits your camera framing."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're on camera regularly and want internal cable routing and a higher weight capacity, where Elgato Wave Mic Arm Pro justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your setup stays off-camera and you have a lightweight mic, where InnoGear Mic Arm Microphone Boom Arm Cable Management for Blue Yeti already covers the job at the lowest price here."
       }
     ]

@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/310OoVrsP4L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -72,7 +72,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Anker Nano 13-in-1 Laptop Docking Station"
         ],
         [
-          "",
+          "The widest port selection",
           "Anker Prime Docking Station, 14-Port"
         ],
         [
@@ -87,20 +87,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $170",
+          "Anker Nano ($119.99) or Anker Prime ($169.99)"
         ],
         [
-          "",
-          ""
+          "$185 to $260",
+          "Dell WD22TB4 130W ($184.70), 180W 1-year ($244.99), or 180W 3-year ($254.99)"
         ]
       ]
     }
@@ -113,27 +113,27 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Genuine Thunderbolt 4 certification and ties directly into Dell's own support and IT procurement channels, at a higher price than third-party alternatives."
       },
       {
-        "label": "",
+        "label": "Third-party Anker docks",
         "text": "Lower price and often broader port selection, explicitly marketed for Dell compatibility, but without Thunderbolt certification or a Dell-branded support path."
       }
     ],
     "note": "In an IT-managed fleet environment, a first-party Dell dock simplifies procurement and support; for a personal home office setup, either option works, with Anker offering more ports per dollar."
   },
   {
-    "subheading": "",
+    "subheading": "By Charging Wattage Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your Dell laptop is",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A standard ultrabook-class Dell laptop",
-          ""
+          "Dell WD22TB4, 130W ($184.70)"
         ],
         [
           "A higher-power Dell model (workstation-class)",
-          ""
+          "Dell WD22TB4, 180W ($244.99 or $254.99)"
         ]
       ]
     }
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Dell-Managed IT Fleets Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A first-party Dell dock with a clearly stated warranty term, since IT procurement and asset management is generally simpler when hardware and support come from the same vendor as the laptops themselves."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "All three Dell WD22TB4 listings here are genuine first-party Dell hardware with a stated warranty, making them the more straightforward choice for fleet procurement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) offers the strongest combination of charging power and coverage here."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) covers triple-display use for less than half the price of the Dell-branded picks."
       }
     ]
@@ -168,15 +168,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "First-party vs third-party sourcing",
     "description": "We distinguished genuine Dell-branded WD22TB4 docks from third-party docks explicitly marketed for Dell compatibility, since first-party sourcing affects warranty and support channels differently."
   },
   {
-    "title": "",
+    "title": "Warranty length comparison",
     "description": "For the Dell-branded picks specifically, we compared stated warranty terms directly, since we found two otherwise nearly identical listings differing mainly in warranty length at a small price gap."
   },
   {
-    "title": "",
+    "title": "Thunderbolt certification check",
     "description": "We noted which picks use genuine Thunderbolt 4 certification versus a standard USB-C connection, since Thunderbolt unlocks a higher guaranteed bandwidth ceiling for multi-display and peripheral use."
   },
   {
@@ -184,7 +184,7 @@ export const howWeEvaluated = [
     "description": "We compared each pick's charging wattage against typical Dell laptop charger ratings, since higher-power Dell models need more wattage to charge at full speed through a dock."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $260 on the date this guide was checked; docks that only hit this tier during a temporary sale were excluded."
   }
 ];

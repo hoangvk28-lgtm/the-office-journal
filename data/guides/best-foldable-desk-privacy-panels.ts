@@ -56,80 +56,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Poola Voidra Foldable Felt Desk Privacy Panel 16 x 48 Inches"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "2 Pack Desk Dividers for Students"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $13",
           "2 Pack Desk Dividers for Students"
         ],
         [
-          "",
+          "Up to $400",
           "KERRAM 3 Panel Foldable Office Partitions"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Foldable vs Fixed Panel",
     "cards": [
       {
-        "label": "",
+        "label": "Foldable",
         "text": "Can be collapsed or repositioned for a shared or multi-purpose desk. In this comparison: Poola Voidra Foldable Felt Desk Privacy Panel 16 x 48 Inches, Eorbow 6 Pack Acoustic Desk Privacy Panel, Dunzoom Large Desk Dividers for Students Acoustic Portable Fold Classroom Table Privacy Felt Boards for Workstation Office Home Furniture Partition Dividers, KERRAM 3 Panel Foldable Office Partitions."
       },
       {
-        "label": "",
+        "label": "Fixed panel",
         "text": "More stable and permanent, worth it if the panel stays up consistently. In this comparison: 2 Pack Desk Dividers for Students."
       }
     ],
     "note": "Default to a fixed panel unless you specifically need the flexibility to fold it away."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Dimensions",
     "note": "Check each pick's listed height and width against your seated eyeline and desk width before buying, not just the general size category."
   },
   {
     "subheading": "For a Shared Open Office Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A panel height that covers your seated eyeline and a genuine acoustic material if noise reduction matters, not just visual blocking."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "2 Pack Desk Dividers for Students is worth checking against its listed dimensions and material before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening and secure clamp mounting, where KERRAM 3 Panel Foldable Office Partitions's material and hardware give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual privacy without noise concerns, where 2 Pack Desk Dividers for Students covers the same job at a lower price."
       }
     ]
@@ -138,7 +138,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Rigidity vs. storage convenience tradeoff",
     "description": "Weighed how well each foldable design holds its shape under daily bumping against how easily it folds flat for storage, since these are competing priorities in a foldable design."
   },
   {
@@ -152,7 +152,7 @@ export const howWeEvaluated = [
 ];
 
 export const introParagraphs = [
-  "",
+  "Foldable privacy panels fold flat for easy storage or transport, a genuine advantage over a fixed clamp-on panel, but the tradeoff is generally less rigidity, a foldable panel can wobble or shift under daily bumping in a way a mechanically clamped panel won't.",
   "The number of fold panels and their hinge quality determines how well a foldable design holds its shape once set up, more panels generally means a more stable freestanding shape, but also more hinge points that can loosen over time."
 ];
 

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41cfUzgnSaL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,7 +74,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Documented health monitoring without the top price",
-          ""
+          "SSK Portable SSD 500GB"
         ],
         [
           "The absolute lowest price in this tier",
@@ -84,24 +84,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $75",
+          "Orlian 500GB External Portable SSD ($68.58) or Vansuny 500GB Portable External SSD ($70.99)"
         ],
         [
-          "",
-          ""
+          "$90-$95",
+          "SSK Portable SSD 500GB ($92.99)"
         ],
         [
-          "",
-          ""
+          "$140-$150",
+          "PNY RP60 1TB Portable SSD ($149.99)"
         ]
       ]
     }
@@ -121,19 +121,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers whose drive stays in normal indoor use don't need a tested IP rating, but it's worth the extra cost for anyone using the drive outdoors or on job sites."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Storage need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "500GB is enough",
           "SSK Portable SSD 500GB, Orlian 500GB, or Vansuny 500GB"
         ],
         [
-          "",
+          "Want a full 1TB",
           "PNY RP60 1TB Portable SSD"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Job Site or Outdoor Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A specific IP rating number (like IP65) and a stated drop-height figure, not just general \"rugged\" marketing language."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The PNY RP60 1TB Portable SSD is the only pick with both a tested IP65 rating and a specific 3m drop figure, making it the clear choice for exposed conditions."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the PNY RP60 1TB Portable SSD's tested durability rating and top-tier speed for demanding conditions or heavy 4K workflows."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your drive stays in normal indoor use, where the SSK Portable SSD 500GB or Orlian 500GB External Portable SSD cover typical file transfer and backup needs for a fraction of the PNY's price."
       }
     ]
@@ -169,23 +169,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Tested vs Claimed Durability",
     "description": "Distinguished listings citing a specific tested standard, like an IP65 rating or an exact drop-height figure, from those using only general durability language without a number attached."
   },
   {
-    "title": "",
+    "title": "Real USB Bandwidth",
     "description": "Checked the documented USB generation and rated speed for each drive, since this tier spans a wide range from 450MB/s to 2000MB/s despite a shared price ceiling."
   },
   {
-    "title": "",
+    "title": "Capacity Per Dollar",
     "description": "Compared price against actual capacity across the 500GB and 1TB options here, since this tier includes both at meaningfully different price points."
   },
   {
-    "title": "",
+    "title": "Health Monitoring Documentation",
     "description": "Support versus those that don't mention either feature."
   },
   {
-    "title": "",
+    "title": "Warranty Terms",
     "description": "Compared stated warranty length where available, since a longer warranty at a similar price point signals more manufacturer confidence in long-term reliability."
   }
 ];

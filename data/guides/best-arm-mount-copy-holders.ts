@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41CorzSuBXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "2025 New Adjustable Robotic Arm Document Holder for Typing"
         ],
         [
-          "",
+          "Continuous data entry",
           "QWORK 4 Pack Flexible Document Holder for Monitor"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "2025 New Adjustable Robotic Arm Document Holder for Typing"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "MaxGear Desktop Document Holder"
         ],
         [
-          "",
+          "Higher budget",
           "Vanki 1 pcs Paper Document Copy Folder Holder Stand Wedge for Typing"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Side-Mounted",
     "cards": [
       {
         "label": "2025 New Adjustable Robotic Arm Document Holder for Typing)",
         "text": "Keeps the page in your direct sightline, minimal neck movement."
       },
       {
-        "label": "",
+        "label": "Side-mounted",
         "text": "Sits off to one side, more placement flexibility but more head turning."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single sheets",
           "QWORK 4 Pack Flexible Document Holder for Monitor"
         ],
         [
-          "",
-          ""
+          "Thicker stacks or booklets",
+          "MaxGear Desktop Document Holder"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Data-Entry Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sliding line guide and an adjustable viewing angle to reduce glare and neck strain."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "QWORK 4 Pack Flexible Document Holder for Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Vanki 1 pcs Paper Document Copy Folder Holder Stand Wedge for Typing justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 2025 New Adjustable Robotic Arm Document Holder for Typing already covers the job at the lowest price here."
       }
     ]

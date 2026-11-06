@@ -5,7 +5,7 @@ export type { GuideProduct };
 
 export const buyingCriteria = [
   {
-    "criterion": "",
+    "criterion": "Require Official Pure-Sine-Wave Documentation",
     "explanation": "Confirm pure sine wave portable power stations documents genuine pure-sine-wave output in official specs, not just as a marketing phrase."
   },
   {
@@ -13,7 +13,7 @@ export const buyingCriteria = [
     "explanation": "Check AC voltage, frequency, and waveform quality across representative loads where test data is available."
   },
   {
-    "criterion": "",
+    "criterion": "Test Inductive Startup Behavior",
     "explanation": "Verify inductive or compressor startup behavior directly rather than relying only on a surge rating."
   },
   {
@@ -57,7 +57,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41kdaoQl9LL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Require Official Pure-Sine-Wave Documentation",
     "note": "Confirm pure sine wave portable power stations documents genuine pure-sine-wave output in official specs, not just as a marketing phrase."
   },
   {
@@ -65,7 +65,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Check AC voltage, frequency, and waveform quality across representative loads where test data is available."
   },
   {
-    "subheading": "",
+    "subheading": "Test Inductive Startup Behavior",
     "note": "Verify inductive or compressor startup behavior directly rather than relying only on a surge rating."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Looked for UL, UL2743, or other documented safety certification and battery chemistry evidence rather than trusting a safety claim alone."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included cables, solar panel bundling, warranty length, and app requirements as part of the real cost and usability of each pick."
   }
 ];

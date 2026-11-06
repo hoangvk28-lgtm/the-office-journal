@@ -41,7 +41,7 @@ export const faq = [
   },
   {
     "q": "How do I measure my desk to confirm the SANYOUNG pick's minimum width requirement is met?",
-    "a": ""
+    "a": "Measure the clear, usable width of your desk surface where the hutch will sit, excluding any monitor arm clamps or edge-mounted accessories, and confirm it exceeds 47.3 inches before ordering."
   },
   {
     "q": "Can the Aetheris or HOOBRO pick's light strip be turned off if I don't want it running all the time?",
@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51pStrUlb3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,7 +78,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Power and lighting at the lowest price",
-          ""
+          "HOOBRO Desktop Bookcase, 2-Tier"
         ],
         [
           "Maximum shelf storage without power features",
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around $56",
+          "Tangkula ($55.99) or HOOBRO ($56.99)"
         ],
         [
-          "",
-          ""
+          "Around $70",
+          "Aetheris ($69.99)"
         ],
         [
-          "",
-          ""
+          "Up to $100",
+          "SANYOUNG Desktop Bookshelf with Outlet ($99.99)"
         ]
       ]
     }
@@ -114,35 +114,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Powered Hutches vs the Non-Powered Tangkula Pick",
     "cards": [
       {
-        "label": "",
+        "label": "Powered (SANYOUNG, Aetheris, HOOBRO)",
         "text": "Adds outlets, USB or USB-C ports, and often a light strip, worth the added cost if you need to charge devices or light your desk area at shelf level."
       },
       {
-        "label": "",
+        "label": "Non-powered (Tangkula)",
         "text": "Delivers the most raw shelf storage for the price by skipping power features entirely, better if your desk's power needs are already solved elsewhere."
       }
     ],
     "note": "Most buyers who specifically want power access at shelf height should default to the HOOBRO or Aetheris pick depending on desk width, unless the SANYOUNG pick's higher weight capacity and adjustable height matter for a large monitor setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Width",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk width",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Narrow desks (under 30 inches of hutch space)",
-          ""
+          "HOOBRO (29.9in wide)"
         ],
         [
           "Medium desks (around 30-37 inches)",
           "Aetheris (30in) or Tangkula (37in)"
         ],
         [
-          "",
-          ""
+          "Wide desks (47.3 inches or more)",
+          "SANYOUNG (45.3in, requires 47.3in minimum desk width)"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Large Gaming Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Height-adjustable clearance and a high stated weight capacity, since large gaming monitors and their stands are heavier and need ergonomic eye-level positioning."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The SANYOUNG pick's 3-level height adjustment and 100 lb steel-frame capacity specifically support monitors up to 32 inches at ergonomic height."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the highest weight capacity, adjustable monitor height, and the most complete outlet setup, where the SANYOUNG pick covers all three at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want built-in power and lighting without needing height adjustment, where the HOOBRO pick delivers that for about $43 less."
       }
     ]
@@ -177,19 +177,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Power and Charging Capability",
     "description": "Compared outlet count, USB-A versus USB-C availability, and cable routing design across powered picks."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Checked stated total static load ratings and frame material, steel versus wood, across the lineup."
   },
   {
-    "title": "",
+    "title": "Height and Monitor Adjustability",
     "description": "Compared adjustable clearance ranges and maximum supported monitor sizes."
   },
   {
-    "title": "",
+    "title": "Storage Tier Count",
     "description": "Compared number of shelves or tiers relative to price and footprint width."
   },
   {

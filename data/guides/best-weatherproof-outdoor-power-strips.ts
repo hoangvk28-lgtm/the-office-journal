@@ -52,23 +52,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41by4E3zbML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Outlet Count",
     "note": "Outlet count isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $18",
           "Iwister Outdoor Power Strip Weatherproof"
         ],
         [
-          "",
+          "Mid-range",
           "Flemoon Large Outdoor Electrical Box Waterproof"
         ],
         [
@@ -82,21 +82,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C PD Charging vs Outlets Only",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C PD Charging",
         "text": "Charges laptops and higher-power devices faster directly from the strip, without a separate charging brick. In this comparison: check each listing's port types directly."
       },
       {
-        "label": "",
+        "label": "AC Outlets Only",
         "text": "Simpler design focused purely on outlet count, pair with your own chargers as needed. In this comparison: IPX6 Outdoor Power Strip Weatherproof, Iwister Outdoor Power Strip Weatherproof, Flemoon Large Outdoor Electrical Box Waterproof."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Surge Protection Level",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -110,24 +110,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Bulky Wall-Wart Adapters Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Wide or offset outlet spacing explicitly mentioned in the listing or shown in product photos, not just a high raw outlet count."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "IPX6 Outdoor Power Strip Weatherproof fits this specifically: Explicit IPX6 rating substantiates the weatherproof claim."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what IPX6 Outdoor Power Strip Weatherproof offers: Explicit IPX6 rating substantiates the weatherproof claim. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Iwister Outdoor Power Strip Weatherproof already covers the essentials: More affordable than the top pick. The main thing you'd be paying extra for elsewhere in this list is capacity or charging speed you may not need."
       }
     ]
@@ -144,7 +144,7 @@ export const howWeEvaluated = [
     "description": "Noted that a weatherproof strip's main body may be well-sealed while the cord grommet or entry seal is the actual weak point for water intrusion over time, a component-level concern most marketing claims don't address."
   },
   {
-    "title": "",
+    "title": "Splash resistance vs. submersion resistance explicitly distinguished",
     "description": "Clarified that IP ratings distinguish splash resistance (lower IPX4-5 range) from actual submersion resistance (IPX7+), avoiding the assumption that any weatherproof label implies full submersion protection."
   }
 ];

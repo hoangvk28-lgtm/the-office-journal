@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41dwyh3OFxL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $16",
+          "LoveRPi 3KV Isolated HAT ($15.01)"
         ],
         [
-          "",
-          ""
+          "Under $19",
+          "UCTRONICS PoE HAT ($18.99)"
         ],
         [
-          "",
-          ""
+          "Under $25",
+          "Waveshare PoE HAT ($24.99)"
         ],
         [
-          "",
-          ""
+          "Under $34",
+          "Waveshare PoE Ethernet USB HUB HAT ($33.99)"
         ]
       ]
     }
@@ -118,22 +118,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Single-Board Convenience vs Multi-Board Cluster Design",
     "cards": [
       {
-        "label": "",
+        "label": "Single-board convenience (waveshare, UCTRONICS)",
         "text": "Both are optimized for a single Raspberry Pi 4B or 3B+, with the waveshare adding accessory power output and UCTRONICS prioritizing a compact footprint."
       },
       {
-        "label": "",
+        "label": "Multi-board cluster design (LoveRPi)",
         "text": "Specifically built and marketed for powering five, ten, or twenty Pi boards from one PoE switch, with higher 3KV isolation for that demanding use case."
       }
     ],
     "note": "If you're running a single Raspberry Pi, the waveshare or UCTRONICS picks fit that need well. If you're building a Pi cluster with multiple boards on one PoE switch, the LoveRPi's cluster-specific design and higher isolation are worth prioritizing."
   },
   {
-    "subheading": "",
+    "subheading": "By Raspberry Pi Model",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your Raspberry Pi model",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -146,7 +146,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Multiple Pi 4B units in a cluster",
-          ""
+          "LoveRPi 3KV Isolated HAT"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Raspberry Pi Zero Project Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A HAT that adds genuine Ethernet connectivity, not just power, since the Pi Zero series has no native Ethernet port at all unlike the Pi 4B or 3B+."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Waveshare PoE Ethernet USB HUB HAT specifically adds an RJ45 Ethernet port and 3 USB ports to the Pi Zero, solving both the power and connectivity gap at once."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by solving both needs at once."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "01, the lowest price in this comparison."
       }
     ]
@@ -181,7 +181,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Isolation Rating",
     "description": "Compared standard isolated SMPS designs against higher galvanic isolation ratings like 3KV."
   },
   {
@@ -189,15 +189,15 @@ export const howWeEvaluated = [
     "description": "Compared total wattage and whether the HAT offers additional output ports beyond just powering the Pi."
   },
   {
-    "title": "",
+    "title": "Board Compatibility",
     "description": "Compared Pi 4B/3B+ compatibility against Pi Zero series support."
   },
   {
-    "title": "",
+    "title": "Thermal Management",
     "description": "Compared onboard active cooling fans against passive designs requiring external ventilation."
   },
   {
-    "title": "",
+    "title": "Cluster and Multi-Board Suitability",
     "description": "Compared features specifically relevant to deploying many Pi boards from one PoE switch."
   }
 ];

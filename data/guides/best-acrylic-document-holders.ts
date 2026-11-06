@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41qVZQ4X0YL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "5x11 Acrylic Sign Holder, T-Shape Double-Sided Menu Stand, 2 Pack"
         ],
         [
-          "",
+          "Continuous transcription/typing",
           "5x11 Acrylic Sign Holder 3 Pack Vertical Double-Sided Display"
         ],
         [
           "Reading a full book/bound document",
-          ""
+          "EHWINE Acrylic Sign Holder 8.5 x 11"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "5x11 Acrylic Sign Holder, T-Shape Double-Sided Menu Stand, 2 Pack"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "MaxGear Acrylic Sign Holder"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "EHWINE Acrylic Sign Holder 8.5 x 11"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Freestanding",
     "cards": [
       {
         "label": "5x11 Acrylic Sign Holder, T-Shape Double-Sided Menu Stand, 2 Pack)",
         "text": "Sits between monitor and keyboard, minimal head movement."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits beside the monitor at eye level, more placement flexibility."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Letter/A4 size",
           "5x11 Acrylic Sign Holder 3 Pack Vertical Double-Sided Display"
         ],
         [
-          "",
-          ""
+          "Legal size or larger",
+          "MaxGear Acrylic Sign Holder"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Transcription Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A line guide feature and independently adjustable angle and height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5x11 Acrylic Sign Holder 3 Pack Vertical Double-Sided Display is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5 x 11 justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5x11 Acrylic Sign Holder, T-Shape Double-Sided Menu Stand, 2 Pack already covers the job at the lowest price here."
       }
     ]

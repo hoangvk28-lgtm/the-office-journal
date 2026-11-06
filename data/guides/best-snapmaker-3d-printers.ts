@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Enclosure-faq",
     "q": "Do I need an enclosed 3D printer?",
     "a": "Only if you plan to print warping-prone materials like ABS or nylon, or your room is drafty, PLA in a stable room works fine on an open-frame printer."
   },
   {
-    "id": "",
+    "id": "Ams-faq",
     "q": "Is a multi-material system worth it?",
     "a": "Only if you regularly print multi-color or multi-material objects, each filament switch wastes purge material and adds print time, single-color prints get no benefit from the feature."
   },
   {
-    "id": "",
+    "id": "Leveling-faq",
     "q": "Is automatic bed leveling worth paying extra for?",
     "a": "It saves real recurring setup time if you print frequently, manual leveling requires adjusting corner screws and checking with a feeler gauge before nearly every session."
   },
   {
-    "id": "",
+    "id": "Fdm-resin-faq",
     "q": "Should I get an FDM or resin 3D printer?",
     "a": "FDM produces sturdier functional parts at lower cost with visible layer lines, resin produces far finer detail and smoother surfaces but requires ventilation and messier post-processing with isopropyl alcohol, match to what you're actually printing."
   },
   {
-    "id": "",
-    "q": "",
+    "id": "Noise-3dp-faq",
+    "q": "Are 3D printers loud?",
     "a": "It varies significantly by model, quieter stepper drivers and fan designs make a real difference, check specific noise-level reviews if the printer will run somewhere you spend time like a bedroom or office."
   },
   {
-    "id": "",
+    "id": "Volume-faq",
     "q": "How do I know what build volume I actually need?",
     "a": "Check it against your largest realistically planned print with margin, the stated volume is a hard maximum and real prints need edge clearance, don't buy sized exactly to your biggest project."
   }
@@ -67,34 +67,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Q3A3uAqML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you print",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Functional parts and prototypes",
           "Snapmaker U1 3D Printer User Guide: A Step-by-Step Guide to Multi-Color Printing"
         ],
         [
-          "",
+          "Fine-detail miniatures or jewelry",
           "Snapmaker Artisan 3D Printer, Dual Extrusion 3D Printing, 400x400x400mm Large"
         ],
         [
-          "",
+          "Large-format projects",
           "FLASHFORGE Adventurer 5M Pro 3D Printer with 1 Click Auto Printing System"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,36 +102,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Snapmaker U1 3D Printer User Guide: A Step-by-Step Guide to Multi-Color Printing"
         ],
         [
-          "",
+          "Mid-range pick",
           "FLASHFORGE Adventurer 5M 3D Printer with Fully Auto Leveling"
         ],
         [
-          "",
+          "Higher budget",
           "FLASHFORGE Adventurer 5M Pro 3D Printer with 1 Click Auto Printing System"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "FDM vs Resin",
     "cards": [
       {
         "label": "Snapmaker U1 3D Printer User Guide: A Step-by-Step Guide to Multi-Color Printing)",
         "text": "Sturdier functional parts at lower cost, visible layer lines."
       },
       {
-        "label": "",
+        "label": "Resin",
         "text": "Far finer detail and smoother finish, messier post-processing with toxic uncured resin."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Filament Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your materials",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,7 +139,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Snapmaker Artisan 3D Printer, Dual Extrusion 3D Printing, 400x400x400mm Large"
         ],
         [
-          "",
+          "Warping-prone ABS or nylon",
           "FLASHFORGE Adventurer 5M 3D Printer with Fully Auto Leveling"
         ]
       ]
@@ -149,24 +149,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Unattended Prints Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine filament run-out sensor so a multi-hour print doesn't silently fail and waste material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Snapmaker Artisan 3D Printer, Dual Extrusion 3D Printing, 400x400x400mm Large is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where FLASHFORGE Adventurer 5M Pro 3D Printer with 1 Click Auto Printing System justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Snapmaker U1 3D Printer User Guide: A Step-by-Step Guide to Multi-Color Printing already covers the job at the lowest price here."
       }
     ]

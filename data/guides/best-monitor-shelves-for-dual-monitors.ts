@@ -53,19 +53,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/51oe+oiyh9L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $26",
           "Gianotter Dual Monitor Stand Riser With Drawer and 2 Pen Holders"
         ],
         [
@@ -76,24 +76,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Freestanding vs Clamp/Clip-On",
     "cards": [
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits directly on the desk with zero installation, at the cost of using up some desk depth. In this comparison: WESTREE Dual Monitor Stand Riser, Fenge Dual Monitor Stand Riser, gianotter Dual Monitor Stand Riser With Drawer and 2 Pen Holders."
       },
       {
-        "label": "",
+        "label": "Clamp/Clip-On",
         "text": "Attaches to the desk's back edge, freeing up desk surface underneath, but needs a compatible edge thickness. In this comparison: none explicitly confirmed in this specific roundup, check the listing before assuming."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "With Storage vs Platform-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,7 +101,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Fenge Dual Monitor Stand Riser"
         ],
         [
-          "",
+          "Simplest platform-only design",
           "WESTREE Dual Monitor Stand Riser"
         ]
       ]
@@ -111,24 +111,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavy or Ultrawide Monitor Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated weight capacity with real margin above your monitor's actual weight, a rigid material like metal or thick wood, and a wide enough platform to support the monitor's full base without overhang."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Fenge Dual Monitor Stand Riser fits this specifically: Solid 4.7-star rating with 764 ratings."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is capacity or storage you may not need."
       }
     ]
@@ -145,11 +145,11 @@ export const howWeEvaluated = [
     "description": "Checked whether cable routing accommodates double the cable volume of a single-monitor stand."
   },
   {
-    "title": "",
+    "title": "Real combined footprint measured",
     "description": "Compared actual dimensions against generic 'fits dual monitors' claims rather than trusting the marketing label alone."
   },
   {
-    "title": "",
+    "title": "Center-span mounting stress noted",
     "description": "Considered how weight concentrated across the shelf's center span affects stability under a wide dual-monitor load."
   }
 ];

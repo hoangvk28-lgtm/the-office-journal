@@ -60,36 +60,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "SUNALLY No"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "RANTILA Single Large Panel Room Divider"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $29",
+          "Goovilla No"
         ],
         [
-          "",
-          ""
+          "Up to $220",
+          "IRONCK Triple Wide 6"
         ]
       ]
     }
@@ -98,31 +98,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "On Wheels vs Fixed Base",
     "cards": [
       {
-        "label": "",
+        "label": "On wheels",
         "text": "Repositionable between rooms or layouts, worth locking casters once positioned. In this comparison: SUNALLY 6FT Folding Privacy Screen with Lockable Wheels."
       },
       {
-        "label": "",
+        "label": "Fixed base",
         "text": "More stable for a divider that stays in one spot long-term. In this comparison: SUNALLY No, SUNALLY No, Goovilla No, Bonpally No, Svimi 4, RANTILA Single Large Panel Room Divider, IRONCK Triple Wide 6."
       }
     ],
     "note": "Default to a fixed base unless you need to reposition the divider often."
   },
   {
-    "subheading": "",
+    "subheading": "By Acoustic Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Genuine sound-dampening material",
+          "Svimi 4"
         ],
         [
-          "",
-          ""
+          "Visual separation is enough",
+          "SUNALLY No"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "RANTILA Single Large Panel Room Divider is worth checking against its listed mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening or a taller, more stable divider, where IRONCK Triple Wide 6's material and construction give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual separation without noise or stability concerns, where Goovilla No covers the same job at a lower price."
       }
     ]
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "Weighed stability and anchoring needs for the taller freestanding pieces in this pool, since a 90+ inch freestanding screen is inherently more top-heavy than a standard-height one."
   },
   {
-    "title": "",
+    "title": "Acoustic gap disclosure",
     "description": "Noted that even the tallest freestanding pick here provides visual privacy, not real sound blocking, and that any gap below a high ceiling further limits acoustic value."
   },
   {

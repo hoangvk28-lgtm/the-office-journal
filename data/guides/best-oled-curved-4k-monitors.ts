@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Response-faq",
     "q": "Can I trust the response time number on the box?",
     "a": "Not fully, it's usually a best-case lab number under aggressive overdrive settings, real-world motion clarity is often worse and can show ghosting, check independent motion-clarity reviews instead."
   },
   {
-    "id": "",
+    "id": "Hdr-faq",
     "q": "Does HDR on a 4K monitor actually look different?",
     "a": "It depends heavily on the certification tier, DisplayHDR 400 is a low bar with modest brightness gains, DisplayHDR 600 and above reflects capable HDR hardware, check the specific tier rather than trusting the word HDR alone."
   },
   {
-    "id": "",
+    "id": "Usbc-faq",
     "q": "Will a USB-C 4K monitor charge my laptop?",
     "a": "Only if its power delivery wattage matches or exceeds your laptop's charging requirement, check the monitor's specific PD wattage spec rather than assuming any USB-C monitor fully charges any laptop."
   },
   {
-    "id": "",
+    "id": "Stand-faq",
     "q": "Do all 4K monitors come with height-adjustable stands?",
     "a": "No, it ranges from tilt-only to full ergonomic adjustment, check the specific stand spec against your desk setup, a VESA-compatible arm is a simple add-on if the included stand falls short."
   },
   {
-    "id": "",
+    "id": "Gamut-faq",
     "q": "Do I need wide color gamut coverage?",
     "a": "Only for color-critical work like video editing or print design, general use and office work are well served by standard SRGB coverage, check which gamut standard actually matters for your workflow."
   },
   {
-    "id": "",
+    "id": "Hdmi-faq",
     "q": "Why isn't my 4K monitor hitting its advertised refresh rate?",
     "a": "0 caps out around 60Hz at full 4K regardless of what the panel itself is rated for."
   }
@@ -66,34 +66,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41sJZ0qzPiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General office and browsing",
           "LG 32GS60QC-B Ultragear 32-inch Curved Gaming Monitor QHD (2560x1440) 180Hz 1ms"
         ],
         [
-          "",
+          "Color-critical creative work",
           "Msi MPG 491CQPX QD-OLED 49-inch QD-OLED 5120 x 1440 (DQHD) Computer Monitor"
         ],
         [
-          "",
+          "Fast-paced gaming",
           "LG 45GX950A-B 45-inch Ultragear 5K2K WUHD (5120 x 2160) OLED Curved Gaming"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "LG 32GS60QC-B Ultragear 32-inch Curved Gaming Monitor QHD (2560x1440) 180Hz 1ms"
         ],
         [
-          "",
+          "Mid-range pick",
           "ASUS ROG PG32UCDM 32 Inch 4K 240Hz OLED Gaming Monitor QD-OLED"
         ],
         [
-          "",
+          "Higher budget",
           "LG 45GX950A-B 45-inch Ultragear 5K2K WUHD (5120 x 2160) OLED Curved Gaming"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "IPS vs OLED Panel",
     "cards": [
       {
         "label": "LG 32GS60QC-B Ultragear 32-inch Curved Gaming Monitor QHD (2560x1440) 180Hz 1ms)",
         "text": "Consistent accurate color from wide angles, weaker black levels."
       },
       {
-        "label": "",
+        "label": "OLED",
         "text": "Deeper contrast and faster response, real long-term burn-in risk on static content."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk depth",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard desk distance",
           "Msi MPG 491CQPX QD-OLED 49-inch QD-OLED 5120 x 1440 (DQHD) Computer Monitor"
         ],
         [
-          "",
+          "Larger or multi-monitor desk",
           "ASUS ROG PG32UCDM 32 Inch 4K 240Hz OLED Gaming Monitor QD-OLED"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed USB-C power delivery wattage that matches your laptop's actual charging requirement, not just a USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Msi MPG 491CQPX QD-OLED 49-inch QD-OLED 5120 x 1440 (DQHD) Computer Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where LG 45GX950A-B 45-inch Ultragear 5K2K WUHD (5120 x 2160) OLED Curved Gaming justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where LG 32GS60QC-B Ultragear 32-inch Curved Gaming Monitor QHD (2560x1440) 180Hz 1ms already covers the job at the lowest price here."
       }
     ]

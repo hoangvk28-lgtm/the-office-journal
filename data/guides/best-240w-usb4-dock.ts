@@ -60,16 +60,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/31fw9oB74EL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Transparent real PD wattage with a future upgrade path",
-          ""
+          "Dell Performance Dock WD19DCS"
         ],
         [
           "A complete cable bundle with dual USB-C flexibility",
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $90",
+          "Dell Precision TB18DC ($89.00)"
         ],
         [
-          "",
-          ""
+          "Under $110",
+          "Dell TB16 Thunderbolt 3 Dock ($109.99)"
         ],
         [
-          "",
-          ""
+          "Under $165",
+          "Dell WD19DC ($164.99)"
         ],
         [
-          "",
-          ""
+          "Under $180",
+          "Dell WD19DCS ($179.00)"
         ]
       ]
     }
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Modular Upgradeable Dock vs Fixed-Configuration Dock",
     "cards": [
       {
-        "label": "",
+        "label": "Modular, upgradeable (WD19DCS)",
         "text": "Lets you upgrade power and connectivity components over time as your needs change, at a modest price premium for that future flexibility."
       },
       {
-        "label": "",
+        "label": "Fixed-configuration (WD19DC, TB18DC, TB16)",
         "text": "Delivers a complete, ready-to-use dock at purchase with no upgrade path, typically at a similar or lower price point."
       }
     ],
@@ -131,8 +131,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Your Specific Dell Hardware",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your Dell system",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -145,7 +145,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Precision 7000 series or general Dell laptop",
-          ""
+          "Dell WD19DC or WD19DCS"
         ]
       ]
     }
@@ -154,25 +154,25 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Non-Dell Laptop Owners Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dock that specifically discloses its actual Power Delivery wattage to non-Dell systems, not just the adapter's total headline rating, since Dell-branded docks often reserve their highest PD figures for Dell-specific hardware."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Dell WD19DCS specifically states 90W PD to non-Dell systems versus 210W for Dell systems, a real and disclosed difference worth knowing before purchase."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want a transparent real PD wattage figure with future upgrade flexibility, where the WD19DCS's modular design justifies its $179.00 price."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "Save if",
+        "text": "You specifically own a compatible Precision 7530 or 7730 workstation, where the TB18DC delivers 240W charging with broad video connector support for $89.00."
       }
     ]
   }
@@ -184,19 +184,19 @@ export const howWeEvaluated = [
     "description": "Compared the disclosed real Power Delivery figure against the adapter's total headline wattage."
   },
   {
-    "title": "",
+    "title": "Non-Dell System Compatibility",
     "description": "Compared charging wattage available to non-Dell laptops versus Dell-specific systems."
   },
   {
-    "title": "",
+    "title": "Named Workstation Compatibility",
     "description": "Compared exact confirmed compatibility with specific Precision workstation models."
   },
   {
-    "title": "",
+    "title": "Cable and Adapter Completeness",
     "description": "Compared included cables and accessories across all four docks."
   },
   {
-    "title": "",
+    "title": "Upgrade Path",
     "description": "Compared modular, upgradeable designs against fixed-configuration docks."
   }
 ];

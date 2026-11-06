@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41xNNvPg78L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Casual desk use",
           "ASAWASA Candle Warmer for Large Jar"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "BEARWIND Coffee Mug Warmer for Desk"
         ],
         [
-          "",
+          "Gift or bundle use",
           "Coffee Mug Warmer for Desk with 1-12 Hours Timer Auto Shutoff & 3 Temp."
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "ASAWASA Candle Warmer for Large Jar"
         ],
         [
-          "",
+          "Mid-range pick",
           "Mug Warmer - Electric Coffee Mug Warmer for Desk with Temperature Display"
         ],
         [
-          "",
+          "Higher budget",
           "Coffee Mug Warmer for Desk with 1-12 Hours Timer Auto Shutoff & 3 Temp."
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB vs Wall-Powered",
     "cards": [
       {
         "label": "ASAWASA Candle Warmer for Large Jar)",
         "text": "Plugs into a laptop or power bank, weaker heating strength."
       },
       {
-        "label": "",
+        "label": "Wall-powered",
         "text": "Stronger, more consistent heating, needs a free outlet."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Control Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simple, no-fuss warming",
           "BEARWIND Coffee Mug Warmer for Desk"
         ],
         [
-          "",
+          "Adjustable temperature control",
           "Mug Warmer - Electric Coffee Mug Warmer for Desk with Temperature Display"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Large or Insulated Mug Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wide base plate matched to your mug's diameter, and a ceramic or non-insulated mug material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "BEARWIND Coffee Mug Warmer for Desk is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Coffee Mug Warmer for Desk with 1-12 Hours Timer Auto Shutoff & 3 Temp."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where ASAWASA Candle Warmer for Large Jar already covers the job at the lowest price here."
       }
     ]

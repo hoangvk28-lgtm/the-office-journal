@@ -55,68 +55,68 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Pixio PXC348C Neo 34 inch 180Hz Refresh Rate UWQHD 1440p Ultrawide Resolution 1000R Curve"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Pixio PXC348C Neo 34 inch 180Hz Refresh Rate UWQHD 1440p Ultrawide Resolution 1000R Curve"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $250",
           "Pixio PXC348C Neo 34 inch 180Hz Refresh Rate UWQHD 1440p Ultrawide Resolution 1000R Curve"
         ],
         [
-          "",
+          "Up to $450",
           "Deco Gear 49 Inch Curved Ultrawide Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "4K Resolution vs 1080p/1440p",
     "cards": [
       {
-        "label": "",
+        "label": "4K resolution",
         "text": "Sharper detail, best on a larger panel or closer viewing distance where the extra pixels are actually visible. In this comparison: Dell 27 Monitor S2725QC."
       },
       {
-        "label": "",
+        "label": "1080p/1440p",
         "text": "Usually cheaper and less demanding on your laptop's GPU, often the more practical choice at typical desk distances. In this comparison: Pixio PXC348C Neo 34 inch 180Hz Refresh Rate UWQHD 1440p Ultrawide Resolution 1000R Curve, Dell 34 Monitor S3425DW, SAMSUNG Viewfinity S65UA Series 34, Deco Gear 49 Inch Curved Ultrawide Monitor."
       }
     ],
     "note": "Default to 1080p/1440p unless your desk setup and viewing distance benefit from 4K's extra detail."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 49-inch panel",
           "Deco Gear 49 Inch Curved Ultrawide Monitor"
         ],
         [
-          "",
+          "Around 34-inch panel",
           "Pixio PXC348C Neo 34 inch 180Hz Refresh Rate UWQHD 1440p Ultrawide Resolution 1000R Curve"
         ]
       ]
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a MacBook or Mac Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed DisplayPort Alt Mode support and a power delivery wattage matched to your MacBook's charging brick wattage."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since PD wattage isn't consistently disclosed across every monitor in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want full single-cable charging, sharper resolution, or built-in hub ports, where Deco Gear 49 Inch Curved Ultrawide Monitor's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You already have a separate charger and just need a display, where Pixio PXC348C Neo 34 inch 180Hz Refresh Rate UWQHD 1440p Ultrawide Resolution 1000R Curve covers the same job at a lower price."
       }
     ]

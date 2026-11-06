@@ -32,11 +32,11 @@ export const faq = [
     "a": "5Gbps and faster NAS access."
   },
   {
-    "q": "",
+    "q": "Will my laptop actually see 2.5GbE speeds?",
     "a": "5GbE, many still ship with 1GbE-only adapters, verify before expecting the speed."
   },
   {
-    "q": "",
+    "q": "Should I get 2.5GbE or full 10GbE?",
     "a": "5GbE suits most home users' fiber plans and NAS use cases at a lower cost, 10GbE is worth it mainly for prosumer or creator workloads."
   },
   {
@@ -56,36 +56,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "TP"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "TP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $87",
+          "TP"
         ],
         [
-          "",
-          ""
+          "Up to $270",
+          "TP"
         ]
       ]
     }
@@ -94,27 +94,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Mesh System vs Single Router",
     "cards": [
       {
-        "label": "",
+        "label": "Mesh system",
         "text": "Spreads coverage more evenly across a larger home or multiple floors, worth it if a single router leaves dead zones. In this comparison: TP, TP."
       },
       {
-        "label": "",
+        "label": "Single router",
         "text": "Simpler and usually cheaper, fine for a smaller home or apartment. In this comparison: TP, TP."
       }
     ],
     "note": "Default to a single router unless your home's size or layout needs mesh coverage."
   },
   {
-    "subheading": "",
+    "subheading": "By Wired Port Speed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "10GbE port available",
+          "TP"
         ]
       ]
     }
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fiber Internet Plan Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A WAN port speed matched to or exceeding your actual fiber plan's rated speed, not just a fast LAN port for local devices."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "TP is worth checking against its listed WAN port speed before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a fast fiber plan, run a NAS, or need mesh coverage, where TP's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your internet plan tops out at standard gigabit, where TP covers the same job at a lower price."
       }
     ]
@@ -154,14 +154,14 @@ export const howWeEvaluated = [
   },
   {
     "title": "Client-device adapter compatibility checked realistically",
-    "description": ""
+    "description": "Noted that many laptops and desktops still ship with 1GbE-only adapters, limiting who actually benefits from a 2.5GbE port."
   },
   {
-    "title": "",
+    "title": "Realistic use cases matched to the 2.5GbE tier specifically",
     "description": "5Gbps range and faster local NAS access, its most realistic real-world use cases."
   },
   {
-    "title": "",
+    "title": "Multi-device 2.5GbE networking requirement disclosed",
     "description": "5GbE devices together requires a compatible switch beyond the router's own single port."
   }
 ];

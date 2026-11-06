@@ -63,12 +63,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Long You'll Sit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your session length",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Short 20-30 minute stretches",
           "VEVOR Garden Kneeler and Seat Heavy Duty"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "VEVOR Folding Garden Kneeler and Seat Heavy Duty"
         ],
         [
-          "",
-          ""
+          "Longer 2-4 hour stretches",
+          "VEVOR Ergonomic Kneeling Chair"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,12 +95,12 @@ export const howToChoose: HowToChooseSection[] = [
           "VEVOR Garden Kneeler and Seat Heavy Duty"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "VEVOR Ergonomic Kneeling Chair"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "VEVOR Ergonomic Kneeling Chair"
         ]
       ]
     }
@@ -113,18 +113,18 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Simpler and usually cheaper, works well if your proportions match the assumed range."
       },
       {
-        "label": "",
+        "label": "Rocking design (e.g. VEVOR Ergonomic Kneeling Chair)",
         "text": "Lets you shift angle in real time, better if your proportions fall outside a typical range."
       }
     ],
     "note": "If you're notably tall or short, a rocking model gives you more real range of motion to compensate."
   },
   {
-    "subheading": "",
+    "subheading": "By Backrest Availability",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Back Pain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An adjustable shin pad and seat tilt, since a fixed, poorly-angled pad can concentrate pressure rather than relieve it."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "VEVOR Folding Garden Kneeler and Seat Heavy Duty is worth checking against its specific tilt and cushioning spec before assuming it fits your back pain needs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to sit for longer stretches and want a genuine rocking mechanism and better cushioning, where VEVOR Ergonomic Kneeling Chair justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're rotating in short sessions and just want the basic kneeling posture benefit, where VEVOR Garden Kneeler and Seat Heavy Duty already covers the job at the lowest price here."
       }
     ]

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41VK2SMw2SL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $140",
+          "Smart Family Calendar with Touch Screen ($139.98)"
         ],
         [
-          "",
-          ""
+          "Under $150",
+          "Westsee ($149.99)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "Family Hub Planner ($159.99)"
         ],
         [
-          "",
-          ""
+          "Under $168",
+          "Wall Touch Screen with AI Photo Restoration ($167.99)"
         ]
       ]
     }
@@ -129,11 +129,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you want the fastest possible setup without any tools, the Family Hub Planner's tool-free design is worth prioritizing. If a slightly longer setup with standard hardware doesn't bother you, the other three picks offer similar core functionality."
   },
   {
-    "subheading": "",
+    "subheading": "By Household Composition",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your household situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Household Managing Youth Sports Schedules Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Direct sync support for TeamSnap or similar youth sports scheduling platforms, not just the standard personal calendar apps like Google or Outlook."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Family Hub Planner pick's specific TeamSnap sync support directly addresses households juggling multiple children's sports team schedules alongside personal calendars."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the longest warranty coverage with expandable photo storage, where the Wall Touch Screen pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6 inch experience with accessibility-focused design, where the Smart Family Calendar with Touch Screen pick covers that for about $28 less."
       }
     ]
@@ -185,19 +185,19 @@ export const howWeEvaluated = [
     "description": "6 inch resolution and glare-free coating across the lineup."
   },
   {
-    "title": "",
+    "title": "Mounting Mechanism",
     "description": "Distinguished tool-free mounting designs from traditional hardware-kit installation."
   },
   {
-    "title": "",
+    "title": "Voice and Accessibility Features",
     "description": "Checked for voice event creation and accessibility-focused design across all four picks."
   },
   {
-    "title": "",
+    "title": "Warranty and Support",
     "description": "Compared stated warranty length and customer support availability."
   },
   {
-    "title": "",
+    "title": "Storage and Expandability",
     "description": "Compared built-in storage capacity and whether expansion options exist."
   }
 ];

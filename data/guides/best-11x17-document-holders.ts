@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41nn-LFdpML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "Lion Design-R-Line Poly Oversized Project Envelope"
         ],
         [
-          "",
+          "Continuous transcription/typing",
           "AmazingSpark 2 Pcs 11 x 17 Inch Expandable Tabloid Size Document Folder"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Lion Design-R-Line Poly Oversized Project Envelope"
         ],
         [
-          "",
+          "Mid-range pick",
           "NIUBEE 11x17 Acrylic Sign Holder Wall Mount Clear Poster Frame 3 Pack"
         ],
         [
-          "",
+          "Higher budget",
           "30 Pack Magnetic Sign Holder 11 x 17 with Adhesive Back"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Freestanding",
     "cards": [
       {
         "label": "Lion Design-R-Line Poly Oversized Project Envelope)",
         "text": "Sits between monitor and keyboard, minimal head movement."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits beside the monitor at eye level, more placement flexibility."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Letter/A4 size",
           "AmazingSpark 2 Pcs 11 x 17 Inch Expandable Tabloid Size Document Folder"
         ],
         [
-          "",
+          "Legal size or larger",
           "NIUBEE 11x17 Acrylic Sign Holder Wall Mount Clear Poster Frame 3 Pack"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Transcription Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A line guide feature and independently adjustable angle and height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "AmazingSpark 2 Pcs 11 x 17 Inch Expandable Tabloid Size Document Folder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where 30 Pack Magnetic Sign Holder 11 x 17 with Adhesive Back justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Lion Design-R-Line Poly Oversized Project Envelope already covers the job at the lowest price here."
       }
     ]

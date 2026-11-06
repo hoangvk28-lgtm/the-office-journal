@@ -9,11 +9,11 @@ export const buyingCriteria = [
     "explanation": "Confirm enclosed desktop cnc machines's enclosure contains chips and dust rather than being a cosmetic cover, since an acrylic shell alone doesn't solve dust management."
   },
   {
-    "criterion": "",
+    "criterion": "Check Door Interlock Behavior",
     "explanation": "Verify the door or lid interlock actually pauses operation when opened, a real safety feature rather than a passive cover."
   },
   {
-    "criterion": "",
+    "criterion": "Confirm Extraction Compatibility",
     "explanation": "Check vacuum or extraction port compatibility and airflow, since an enclosure without extraction just traps dust inside."
   },
   {
@@ -61,11 +61,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Confirm enclosed desktop cnc machines's enclosure contains chips and dust rather than being a cosmetic cover, since an acrylic shell alone doesn't solve dust management."
   },
   {
-    "subheading": "",
+    "subheading": "Check Door Interlock Behavior",
     "note": "Verify the door or lid interlock actually pauses operation when opened, a real safety feature rather than a passive cover."
   },
   {
-    "subheading": "",
+    "subheading": "Confirm Extraction Compatibility",
     "note": "Check vacuum or extraction port compatibility and airflow, since an enclosure without extraction just traps dust inside."
   },
   {
@@ -80,7 +80,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified Before Comparison",
     "description": "Sorted each machine into router, mill, lathe, laser hybrid, or waterjet before ranking, since desktop CNC spans different cutting architectures that don't compare fairly on one scale."
   },
   {
@@ -88,11 +88,11 @@ export const howWeEvaluated = [
     "description": "Compared usable XYZ travel after vise, clamps, and tool stick-out rather than nominal axis travel alone, since fixtures and tooling eat into the advertised work envelope."
   },
   {
-    "title": "",
+    "title": "Spindle and Rigidity Evidence",
     "description": "Checked documented spindle speed, torque, and runout figures alongside frame and rail rigidity, since motor wattage alone doesn't predict real cut quality."
   },
   {
-    "title": "",
+    "title": "Software and Workholding Verified",
     "description": "Checked CAM/postprocessor support, probing, workholding, and dust or chip control as part of daily usability, not just the headline spec sheet."
   },
   {

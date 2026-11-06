@@ -60,80 +60,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Roundhill Furniture Oriental Shoji 4"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "FDW 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $35",
+          "RHF 4"
         ],
         [
-          "",
-          ""
+          "Up to $190",
+          "COTTON CRAFT Rajasthan 4"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Built-In Storage vs Panel-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in storage (bookcase/cube)",
         "text": "Doubles as shelving while dividing the room, useful in a smaller space. In this comparison: HOMCOM 4."
       },
       {
-        "label": "",
+        "label": "Panel-only",
         "text": "Simpler, focused purely on visual or acoustic separation. In this comparison: FDW 4, Roundhill Furniture Oriental Shoji 4, Roundhill Furniture Aurra 4, FDW 4, COTTON CRAFT Rajasthan 4, RHF 4, JOSTYLE 6."
       }
     ],
     "note": "Default to panel-only unless built-in storage solves a real space problem for you."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Height",
     "note": "Check each pick's listed panel height against your room's ceiling and the actual privacy level you need before buying."
   },
   {
     "subheading": "For a Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "FDW 4 is worth checking against its listed mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening or a taller, more stable divider, where COTTON CRAFT Rajasthan 4's material and construction give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual separation without noise or stability concerns, where RHF 4 covers the same job at a lower price."
       }
     ]
@@ -142,15 +142,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Wood type and opacity",
     "description": "Compared how fully each wood species and panel style, mesh, bamboo slat, shoji paper, or solid carved panel, actually blocks a sightline versus just implying a boundary."
   },
   {
-    "title": "",
+    "title": "Weight and portability",
     "description": "Weighed panel weight against how easily one person can fold, lift, and reposition each pick, since wood dividers range from a featherweight 15 lbs mesh screen up to a 50 lb hand-carved panel."
   },
   {
-    "title": "",
+    "title": "Construction and hinge durability",
     "description": "Checked hinge material, stainless steel versus standard metal, and frame construction, since a wood divider that gets folded and moved regularly needs hinges that won't loosen over time."
   },
   {
@@ -158,7 +158,7 @@ export const howWeEvaluated = [
     "description": "Noted which picks are finished identically on both faces versus designed to be viewed primarily from one side, a detail that matters more on wood dividers than on fabric screens."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed wood quality, width, and included features like shelves against price, this list spans a rattan weave up to a hand-carved reversible panel."
   }
 ];

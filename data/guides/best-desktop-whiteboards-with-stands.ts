@@ -61,19 +61,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "A freestanding easel-style stand extends the board's footprint beyond its own dimensions, unlike a board that leans flat against a wall or monitor. Factor in extra desk depth, not just the board's width and height, when planning placement."
   },
   {
-    "subheading": "",
+    "subheading": "Check for Tool-Free Assembly",
     "note": "Most listings in this category don't explicitly confirm tool-free assembly. If quick, no-tools setup matters, check the listing images or current reviews for assembly details before buying."
   },
   {
     "subheading": "Match Your Priority to a Specific Pick",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Distinctive reversible wood stand",
           "Black Glass Whiteboard with Reversible Stand"
         ],
         [
@@ -82,22 +82,22 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Same double-sided stand, alternate brand",
-          ""
+          "AMUSIGHT Double-Sided 16\"x12\""
         ],
         [
           "Stand that also elevates your keyboard",
           "TSJ OFFICE Glass Board with Drawer"
         ],
         [
-          "",
+          "Built-in calendar feature",
           "14\"x10\" Whiteboard with Magnetic Calendar"
         ],
         [
           "Lowest price with a stand",
-          ""
+          "MaxGear 16\"x12\" Double-Sided"
         ],
         [
-          "",
+          "Smallest possible stand footprint",
           "NC Magnetic Mini Double-Sided Board"
         ]
       ]

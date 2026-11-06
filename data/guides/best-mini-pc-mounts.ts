@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41d9ePK-7vL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Surface",
     "table": {
       "headers": [
-        "",
+        "Where it's going",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -73,26 +73,26 @@ export const howToChoose: HowToChooseSection[] = [
           "Adjustable Thin Client Mini PC Mount Bracket"
         ],
         [
-          "",
+          "Wall or under-desk",
           "Adjustable Thin Client Mini PC Mount Bracket"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $19",
           "Bylitco Under Desk Laptop/Mini PC Storage Mount"
         ],
         [
-          "",
+          "Mid-range",
           "Suptek Thin Client Mount Bracket Adjustable Mini PC Mount"
         ],
         [
@@ -106,42 +106,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Fit vs Universal Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-Specific Fit",
         "text": "Matches one specific chassis shape exactly, generally a more secure fit for that exact model. In this comparison: Adjustable Thin Client Mini PC Mount Bracket."
       },
       {
-        "label": "",
+        "label": "Universal / Multi-Brand",
         "text": "Works across several mini PC brands with adjustable hardware, more flexible if you might switch devices later. In this comparison: PUTORSEN Under Desk Mini PC Mount NAS Mount Bracket Holder."
       }
     ],
     "note": "Confirm your exact mini PC model against the listing's stated compatibility either way, since even a \"universal\" mount has real size limits."
   },
   {
-    "subheading": "",
+    "subheading": "By Post-Install Port Access",
     "note": "None of these picks specifically advertise preserved front-port access after mounting; check each listing's product photos for where the ports land once installed if that matters to you."
   },
   {
     "subheading": "For a Home Lab Rack Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of 10-inch (home-lab) versus 19-inch (commercial) rack compatibility, since these are different standards, plus whether it's full or half rack-unit width."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Adjustable Thin Client Mini PC Mount Bracket fits this specifically: covers three different mounting locations."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what PUTORSEN Under Desk Mini PC Mount NAS Mount Bracket Holder offers: 22 lb capacity is the highest in this guide. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Bylitco Under Desk Laptop/Mini PC Storage Mount already covers the essentials: Lowest price in this guide. The main thing you'd be paying extra for elsewhere in this list is broader compatibility you may not need."
       }
     ]
@@ -150,23 +150,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Mounting method scope",
     "description": "We compared whether each mount supports the mounting locations it claims (behind-monitor, under-desk, wall) rather than listing every location a generic bracket happens to bolt onto."
   },
   {
-    "title": "",
+    "title": "Load capacity realism",
     "description": "We compared each mount's stated weight rating against typical Mini PC weights, and flagged listings that publish a combined device-plus-monitor figure versus those that only rate the bare device."
   },
   {
-    "title": "",
+    "title": "Airflow clearance when mounted",
     "description": "We looked at whether the mount's design, open-frame versus solid backing, keeps a mounted Mini PC's intake and exhaust clear rather than trapping heat against a plate."
   },
   {
-    "title": "",
+    "title": "Port access after mounting",
     "description": "We compared whether ports stay reachable once the device is mounted, since a Mini PC tucked under a desk or behind a monitor is only convenient if you are not fighting cable access every time you plug something in."
   },
   {
-    "title": "",
+    "title": "Genuine location fit",
     "description": "We treated behind-monitor, under-desk, and wall mounting as three real, different use cases rather than interchangeable marketing bullet points, and scored each mount on how well it actually serves its stated location."
   }
 ];

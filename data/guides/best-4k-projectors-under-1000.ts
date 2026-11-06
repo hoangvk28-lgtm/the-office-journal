@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31wM3LKpVAL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $980",
+          "ViewSonic PX701-4K ($979.99)"
         ],
         [
-          "",
-          ""
+          "Under $1000",
+          "XGIMI Elfin Flip 4K ($999.00)"
         ],
         [
-          "",
-          ""
+          "Under $1190",
+          "ViewSonic PX749-4K ($1,188.47)"
         ],
         [
-          "",
-          ""
+          "Under $1200",
+          "BenQ TK700 ($1,199.00)"
         ]
       ]
     }
@@ -129,20 +129,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If maximum brightness and gaming refresh rate are your priorities, the DLP-based ViewSonic picks deliver that. If color accuracy and portability matter more, the XGIMI's laser light source and compact design are worth the tradeoff."
   },
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room size",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard living room",
           "ViewSonic PX701-4K or XGIMI Elfin Flip 4K"
         ],
         [
           "Large theater room, up to 300 inches",
-          ""
+          "ViewSonic PX749-4K"
         ],
         [
           "Limited depth or short-throw needed",
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Console Gamer Specifically Using Xbox Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A projector specifically stating native Xbox compatibility with 1440p at 120Hz support, not just a general high refresh rate claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The ViewSonic PX749-4K pick's specifically stated native Xbox 1440p at 120Hz compatibility directly addresses console-specific gaming optimization that the other picks don't explicitly target."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest brightness with native Xbox optimization for a large theater room, where the ViewSonic PX749-4K delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want genuine native 4K resolution with top gaming performance at the lowest price, where the ViewSonic PX701-4K covers that for about $200 less."
       }
     ]
@@ -181,7 +181,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Native Resolution Verification",
     "description": "Confirmed genuine 4K UHD physical pixel count versus decoded 1080P panels."
   },
   {
@@ -189,15 +189,15 @@ export const howWeEvaluated = [
     "description": "Compared stated refresh rates and input lag figures for gaming performance."
   },
   {
-    "title": "",
+    "title": "Light Source Technology",
     "description": "Compared DLP lamp-based and RGB triple laser light source technologies."
   },
   {
-    "title": "",
+    "title": "Brightness and Room Suitability",
     "description": "Compared ANSI lumens figures and maximum projection size across the lineup."
   },
   {
-    "title": "",
+    "title": "Throw Distance Flexibility",
     "description": "Checked standard versus short-throw options for different room layouts."
   }
 ];

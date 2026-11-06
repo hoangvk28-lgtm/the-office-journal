@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41VbzO+j8YL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -81,27 +81,27 @@ export const howToChoose: HowToChooseSection[] = [
           "Upgrade ANC & ENC Wireless Headset"
         ],
         [
-          "",
-          ""
+          "The longest wireless range",
+          "Wireless Headset with Mic, Bluetooth 5.3"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $60",
+          "EKSA H8 ($49.99) or One-Step Auto Connection ($59.98)"
         ],
         [
-          "",
-          ""
+          "$63 to $70",
+          "Upgrade ANC & ENC ($62.99) or Bluetooth 5.3 ($69.99)"
         ]
       ]
     }
@@ -110,7 +110,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Wired vs Wireless at This Price",
     "cards": [
       {
-        "label": "",
+        "label": "Wired (EKSA H8)",
         "text": "No battery to charge or connection to pair, with triple connectivity options, at the cost of a cable limiting movement range."
       },
       {
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your workplace restricts Bluetooth or your computer lacks it, prioritize a wireless pick with a USB dongle option, or stick with the wired EKSA for guaranteed compatibility."
   },
   {
-    "subheading": "",
+    "subheading": "By Noise Cancellation Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "You want to block",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Staying Connected to Two Devices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit dual-pairing or simultaneous dongle-plus-Bluetooth connectivity language, not just \"multipoint\" mentioned vaguely."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3 pick both explicitly support staying connected to two devices at once."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) is the only pick here offering both noise-cancellation types together."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) covers that at the lowest price here."
       }
     ]
@@ -169,7 +169,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Connection reliability method",
     "description": "We distinguished dedicated USB dongle connections (generally more stable and lower-latency) from standard Bluetooth, and noted which picks offer both as fallback options."
   },
   {
@@ -177,15 +177,15 @@ export const howWeEvaluated = [
     "description": "We clarified which picks offer ANC (blocking sound you hear), ENC (cleaning up your mic's outgoing audio), or both, since these are different technologies often blurred together in marketing."
   },
   {
-    "title": "",
+    "title": "Dual-device pairing capability",
     "description": "We checked which headsets support staying connected to two devices simultaneously (like a laptop and phone), a real convenience difference at this price tier."
   },
   {
-    "title": "",
+    "title": "Mute mechanism comparison",
     "description": "We noted physical mute mechanisms (flip-to-mute, toggle switches) versus software-only mute buttons, since physical mechanisms give more certain, tactile confirmation of mute status."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $70 on the date this guide was checked; headsets that only hit this tier during a temporary sale were excluded."
   }
 ];

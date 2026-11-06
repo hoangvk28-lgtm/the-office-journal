@@ -53,31 +53,31 @@ export const heroImage = "https://m.media-amazon.com/images/I/41tkHBPJiSL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Hand Fit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "This guide's featured mouse",
+          "Evoluent"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "$89.95",
+          "Evoluent"
         ]
       ]
     }
@@ -86,27 +86,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Evoluent vs a Standard Flat Mouse",
     "cards": [
       {
-        "label": "",
+        "label": "Evoluent",
         "text": "Uses a vertical grip angle to reduce forearm rotation strain, worth checking against your hand size and grip style."
       },
       {
-        "label": "",
+        "label": "A standard flat mouse",
         "text": "May feel more familiar initially but offers none of the ergonomic strain-reduction benefit."
       }
     ],
     "note": "Most buyers evaluating this guide's keyword should default to Evoluent unless a standard mouse meets your specific, limited need."
   },
   {
-    "subheading": "",
+    "subheading": "By Connectivity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Reliable connection for daily use",
-          ""
+          "Evoluent"
         ]
       ]
     }
@@ -115,24 +115,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist or Forearm Strain Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A pronounced vertical angle matched to your hand size, and a grip that lets your wrist rest naturally without rotation."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Evoluent is worth checking against its listed hand-size guidance before buying."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You use a mouse for many hours daily and strain relief is the priority, where Evoluent's ergonomic design gives real headroom over a basic mouse."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need occasional use and a basic vertical shape is enough."
       }
     ]

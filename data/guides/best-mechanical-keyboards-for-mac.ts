@@ -63,80 +63,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Logitech MX Mechanical Mini Mac Wireless Keyboard"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Logitech MX Mechanical Mini Mac Wireless Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $44",
           "Keychron C2 Full Size Wired Mechanical Keyboard"
         ],
         [
-          "",
+          "Up to $160",
           "Logitech MX Mechanical Mini Mac Wireless Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Hot-Swappable vs Fixed Switches",
     "cards": [
       {
-        "label": "",
+        "label": "Hot-swappable",
         "text": "Change switches later without soldering, worth it if you're unsure which switch feel you'll prefer. In this comparison: Keychron V6 Max Wireless Custom Mechanical Keyboard, Keychron K10 HE Hall Effect Keyboard Wireless."
       },
       {
-        "label": "",
+        "label": "Fixed switches",
         "text": "Simpler and usually cheaper, fine if you're confident in your switch choice. 1/Wired Mechanical Keyboard, Keychron K3 Version 2, Keychron C2 Full Size Wired Mechanical Keyboard, Keychron K2 HE Rapid Trigger Wireless Custom Keyboard."
       }
     ],
     "note": "Default to hot-swappable if you're not fully certain which switch type you'll prefer long-term."
   },
   {
-    "subheading": "",
+    "subheading": "By Keycap Material",
     "note": "Check each pick's listed keycap material (PBT vs ABS) against how long you plan to use it daily before buying, since PBT resists shine and wear better over years."
   },
   {
     "subheading": "For Shared Office or Video Call Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Linear or tactile switches rather than clicky ones, to avoid disruptive noise on calls or in a shared space."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Logitech MX Mechanical Mini Mac Wireless Keyboard is worth checking against its listed switch type before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want hot-swappable switches and premium PBT keycaps for years of daily use, where Logitech MX Mechanical Mini Mac Wireless Keyboard's build quality gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want to try the mechanical feel without a big investment, where Keychron C2 Full Size Wired Mechanical Keyboard covers the same job at a lower price."
       }
     ]
@@ -149,19 +149,19 @@ export const howWeEvaluated = [
     "description": "Checked whether each keyboard ships with genuine Mac keycaps and correct out-of-box shortcut behavior, versus standard Windows-legend keycaps that require manual remapping."
   },
   {
-    "title": "",
+    "title": "Confirmed Mac compatibility",
     "description": "Verified each listing explicitly states Mac compatibility rather than assuming a generic wireless keyboard will work correctly with macOS."
   },
   {
-    "title": "",
+    "title": "Switch technology",
     "description": "Compared traditional mechanical, low-profile mechanical, and Hall effect magnetic switch types, since each has different feel, durability, and customization implications."
   },
   {
-    "title": "",
+    "title": "Connectivity and Bluetooth version",
     "description": "4GHz receiver support, and wired fallback options, since older Macs can have compatibility limits with newer Bluetooth versions."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed build quality, switch type, and Mac-specific features against price, from the budget wired pick to the Mac-native compact board."
   }
 ];

@@ -17,7 +17,7 @@ export const buyingCriteria = [
     "explanation": "Confirm continuous inverter output is sufficient for the devices you actually plan to power at this capacity."
   },
   {
-    "criterion": "",
+    "criterion": "Compare Weight and Wh-Per-Pound",
     "explanation": "Compare weight, volume, and Wh-per-pound efficiency across finalists at the same target capacity."
   },
   {
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Confirm continuous inverter output is sufficient for the devices you actually plan to power at this capacity."
   },
   {
-    "subheading": "",
+    "subheading": "Compare Weight and Wh-Per-Pound",
     "note": "Compare weight, volume, and Wh-per-pound efficiency across finalists at the same target capacity."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Looked for UL, UL2743, or other documented safety certification and battery chemistry evidence rather than trusting a safety claim alone."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included cables, solar panel bundling, warranty length, and app requirements as part of the real cost and usability of each pick."
   }
 ];

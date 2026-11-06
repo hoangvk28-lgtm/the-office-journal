@@ -53,28 +53,28 @@ export const heroImage = "https://m.media-amazon.com/images/I/415bG0b3CeL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mounting Surface",
     "note": "Every pick in this specific comparison targets the same mounting surface; check the product names and descriptions above for exactly which install style fits your space."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $300",
           "KAMRUI AK1PLUS Mini PC Computer"
         ],
         [
-          "",
+          "Mid-range",
           "GMKtec Gaming Mini PC Ryzen 7640HS"
         ],
         [
           "No firm budget ceiling, prioritizing brand-specific fit",
-          ""
+          "GEEKOM A6 Mini PC"
         ]
       ]
     }
@@ -83,42 +83,42 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Brand-Specific Fit vs Universal Compatibility",
     "cards": [
       {
-        "label": "",
+        "label": "Brand-Specific Fit",
         "text": "Matches one specific chassis shape exactly, generally a more secure fit for that exact model. In this comparison: GEEKOM A6 Mini PC."
       },
       {
-        "label": "",
+        "label": "Universal / Multi-Brand",
         "text": "Works across several mini PC brands with adjustable hardware, more flexible if you might switch devices later. In this comparison: KAMRUI Pinova P2 AMD Ryzen 7330U(Beats R2544/3500U/10110U)Mini PC 16GB RAM 256GB SSD."
       }
     ],
     "note": "Confirm your exact mini PC model against the listing's stated compatibility either way, since even a \"universal\" mount has real size limits."
   },
   {
-    "subheading": "",
+    "subheading": "By Post-Install Port Access",
     "note": "None of these picks specifically advertise preserved front-port access after mounting; check each listing's product photos for where the ports land once installed if that matters to you."
   },
   {
     "subheading": "For a Home Lab Rack Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation of 10-inch (home-lab) versus 19-inch (commercial) rack compatibility, since these are different standards, plus whether it's full or half rack-unit width."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "GEEKOM A6 Mini PC fits this specifically: Large, well-established review base for confidence."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is broader compatibility you may not need."
       }
     ]

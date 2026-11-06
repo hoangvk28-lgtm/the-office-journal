@@ -47,7 +47,7 @@ export const faq = [
     "a": "Mesh breathes cooler over long sessions since it allows more airflow, while foam and leather trap more heat against the back of the neck. If you run warm or sit for many hours at a stretch, a mesh headrest like the one on the Marsail is the more comfortable long-term choice."
   },
   {
-    "q": "",
+    "q": "Does headrest width matter?",
     "a": "A narrower 4 to 6 inch headrest supports the back of the head only, while a wider 8 to 12 inch design adds lateral support for the sides of the neck. If you tend to lean or turn your head while reclined, a wider headrest gives more coverage."
   }
 ];
@@ -63,35 +63,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "GTPLAYER Big and Tall Gaming Chair 400lbs Heavy Duty Office Chair with Foot Rest and Ergonomic Pocket Spring Lumbar Support"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "GTPLAYER Big and Tall Gaming Chair 400lbs Heavy Duty Office Chair with Foot Rest and Ergonomic Pocket Spring Lumbar Support"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $39",
           "NEO CHAIR Office Computer Chair"
         ],
         [
-          "",
+          "Up to $180",
           "GTPLAYER Big and Tall Gaming Chair 400lbs Heavy Duty Office Chair with Foot Rest and Ergonomic Pocket Spring Lumbar Support"
         ]
       ]
@@ -112,15 +112,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to NEO CHAIR Office Computer Chair unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "GTPLAYER Big and Tall Gaming Chair 400lbs Heavy Duty Office Chair with Foot Rest and Ergonomic Pocket Spring Lumbar Support"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "GTPLAYER Big and Tall Gaming Chair 400lbs Heavy Duty Office Chair with Foot Rest and Ergonomic Pocket Spring Lumbar Support is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where GTPLAYER Big and Tall Gaming Chair 400lbs Heavy Duty Office Chair with Foot Rest and Ergonomic Pocket Spring Lumbar Support's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where NEO CHAIR Office Computer Chair covers the same job at a lower price."
       }
     ]
@@ -156,7 +156,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Headrest confirmation check",
     "description": "Checked each listing's exact wording to confirm whether it explicitly states a headrest, versus a high-back design that may offer some head support without a dedicated headrest panel, versus no head support mentioned at all."
   },
   {
@@ -164,16 +164,16 @@ export const howWeEvaluated = [
     "description": "Considered whether a chair's headrest or high-back shape is positioned to support an upright working posture, a reclined break posture, or both, since a fixed headrest often serves only one of these well."
   },
   {
-    "title": "",
+    "title": "Material and heat comparison",
     "description": "Compared mesh, foam, and leather headrest or upper-back materials, since mesh breathes cooler over long sessions while foam and leather trap more heat against the neck."
   },
   {
-    "title": "",
+    "title": "Aftermarket headrest viability",
     "description": "For chairs without a confirmed headrest, weighed whether the chair's overall value elsewhere, price, lumbar support, review volume, made it a reasonable candidate for an aftermarket clip-on headrest addition."
   },
   {
     "title": "Value for price at each tier",
-    "description": ""
+    "description": "Weighed confirmed headrest presence, materials, and review base against price across the range of price points in this comparison in this list, not price or rating alone."
   }
 ];
 

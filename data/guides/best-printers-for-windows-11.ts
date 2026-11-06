@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Brother DCP"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Brother DCP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $69",
+          "Canon PIXMA TR4720 All"
         ],
         [
-          "",
-          ""
+          "Up to $210",
+          "Brother DCP"
         ]
       ]
     }
@@ -102,27 +102,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Canon PIXMA TR4720 All vs Brother DCP",
     "cards": [
       {
-        "label": "",
+        "label": "Canon PIXMA TR4720 All",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Brother DCP",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Canon PIXMA TR4720 All unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Largest, most-established review base",
+          "Brother DCP"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Brother DCP is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Brother DCP's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Canon PIXMA TR4720 All covers the same job at a lower price."
       }
     ]
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "Weighed forum-reported connectivity complaints by brand, noting where issues trace back to Windows' Print Spooler service rather than the printer hardware itself."
   },
   {
-    "title": "",
+    "title": "Setup and reconnection ease",
     "description": "Compared how straightforward wireless setup and reconnection are after a router reboot or Windows update, which is a common source of avoidable printer troubleshooting."
   },
   {
@@ -173,14 +173,14 @@ export const howWeEvaluated = [
     "description": "Factored in duplex printing, document feeders, and Ethernet options relevant to steady Windows 11 desk and home office document workflows."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed driver completeness, connectivity reliability, and included features against price across the range of price points in this comparison in this list."
   }
 ];
 
 export const introParagraphs = [
   "Windows 11 can usually detect and install a basic driver for a new printer automatically, but that built-in driver often lacks scan tools, ink-level monitoring, and maintenance utilities that come with the full driver package from the manufacturer's own installer. Many connectivity complaints blamed on the printer are actually Windows-side Print Spooler service crashes, a background process that can hang or fail independently of the printer hardware, and knowing that distinction before buying a replacement printer can save an unnecessary purchase.",
-  ""
+  "Below are 7 wireless printers we compared for Windows 11 compatibility, covering driver completeness, setup reliability, and how well each avoids the offline and spooler errors that generate the most troubleshooting complaints, ranging from a compact $69 inkjet to a $209.99 monochrome laser."
 ];
 
 export const lastUpdated = "2026-07-25";

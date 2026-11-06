@@ -56,35 +56,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $25",
+          "Air Purifiers for Bedroom"
         ],
         [
-          "",
+          "Up to $230",
           "COWAY Air Purifier for Home Up to 1"
         ]
       ]
@@ -94,30 +94,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Quiet Operation vs Maximum Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Quiet operation",
         "text": "Better suited for a bedroom or a desk during calls. In this comparison: LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom."
       },
       {
-        "label": "",
+        "label": "Maximum airflow",
         "text": "Faster air turnover for a larger room, usually at a higher noise level on top speed. In this comparison: COWAY Air Purifier for Home Up to 1, Membrane Solutions MSA3 Air Purifier for Home, Air Purifiers for Bedroom, LEVOIT Air Purifier for Home Pets Bedroom Up to 1073Ft² Washable Pre."
       }
     ],
     "note": "Default to the quieter pick unless your room is large enough that airflow speed matters more than noise."
   },
   {
-    "subheading": "",
+    "subheading": "By Certified HEPA Filtration",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Certified True HEPA needed",
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ],
         [
-          "",
+          "Basic filtration is enough",
           "COWAY Air Purifier for Home Up to 1"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Allergies or Pet Dander Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Certified True HEPA filtration with an H13 or higher rating, sized for a room at least as large as where it'll actually run."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom discloses certified True HEPA filtration."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real odor, VOC, or large-room coverage, where COWAY Air Purifier for Home Up to 1's higher price buys real filtration or CADR headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're covering a small space with a basic dust or allergen concern, where Air Purifiers for Bedroom covers the same job at a lower price."
       }
     ]
@@ -153,7 +153,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Certified True HEPA vs. 'HEPA-type' verification per pick",
     "description": "3 microns) rather than assuming any HEPA-adjacent marketing language reflects the same certified performance."
   },
   {

@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41XUW+6POKL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Carrying your own cards",
           "MaxGear Business Card Holder Case"
         ],
         [
-          "",
+          "Displaying cards for visitors",
           "Padike Business Card Holder/ Case Professional PU Leather & Stainless Steel"
         ],
         [
-          "",
+          "Client-facing handoffs",
           "Wallet for Men, Mens Minimalist Wallet 9-13 Cards, Slim Compact RFID Wallet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "MaxGear Business Card Holder Case"
         ],
         [
-          "",
+          "Mid-range pick",
           "Ocadux Cofee Leather Business Card Holder Case for Men or Women Pocket Business"
         ],
         [
-          "",
+          "Higher budget",
           "Wallet for Men, Mens Minimalist Wallet 9-13 Cards, Slim Compact RFID Wallet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Top vs Snap-Closed",
     "cards": [
       {
         "label": "MaxGear Business Card Holder Case)",
         "text": "Faster one-hand access, less protection against spilling."
       },
       {
-        "label": "",
+        "label": "Snap/magnetic closed",
         "text": "Secures cards fully, takes an extra motion to open."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your card volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A small daily-carry stack",
           "Padike Business Card Holder/ Case Professional PU Leather & Stainless Steel"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Client-Facing Handoffs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A material (leather or solid metal) that reinforces a professional impression at the handoff moment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Padike Business Card Holder/ Case Professional PU Leather & Stainless Steel is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Wallet for Men, Mens Minimalist Wallet 9-13 Cards, Slim Compact RFID Wallet justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where MaxGear Business Card Holder Case already covers the job at the lowest price here."
       }
     ]

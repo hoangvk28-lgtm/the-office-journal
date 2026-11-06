@@ -60,12 +60,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Wood Cutting Depth Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Wood thickness to cut",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Up to 20mm (0.8in) thick panels",
           "LONGER Laser Engraver Ray5 10W, 60W"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget tier",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -114,7 +114,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "More cutting power and larger beds for the price, but wood smoke, sawdust, and stray sparks are fully the buyer's responsibility to contain and ventilate."
       },
       {
-        "label": "",
+        "label": "Fully enclosed (e.g. Woxcker, Twotrees TS1)",
         "text": "Contains wood smoke and sparks and, in Woxcker's case, adds a flame sensor specifically for wood's higher fire risk, at a smaller bed size or lower cutting power."
       }
     ],
@@ -124,12 +124,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Flat Panels vs Cylindrical Wood Pieces",
     "table": {
       "headers": [
-        "",
-        ""
+        "Wood project shape",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Flat signs, boards, coasters",
           "Creality Laser Engraver 10W Output, 72W"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Beginners Cutting Wood Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A specifically stated wood cutting depth (not just wattage), dual-fan cooling for longer runs, and app-based design so the first project doesn't also require learning LightBurn."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Carverall K15 Pro Laser Engraver 10W states a verified cutting depth of 12mm plywood and runs entirely from the free CutLabX phone app."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're cutting thick panels regularly (LONGER Ray5's 20mm rated depth) or need a rotary attachment for cylindrical wood pieces (Algolaser's included roller kit)."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Projects are small wood crafts like coasters and keychains, where Twotrees TS1 Mini Laser Engraver, Enclosed or the budget-tier Artilume T1 7W cover the job."
       }
     ]
@@ -169,11 +169,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Rated Wood Cutting Depth",
     "description": "Compared each listing's specifically stated wood cutting depth (in mm or inches at a given pass count) rather than assuming a higher wattage figure automatically translates to deeper cuts, since machines at the same claimed power quoted different real cutting depths."
   },
   {
-    "title": "",
+    "title": "Smoke and Fire Containment",
     "description": "Checked for enclosure design, flame sensors, and ventilation compatibility specifically for wood cutting, which produces more smoke, char, and fire risk than acrylic or leather engraving on the same machine."
   },
   {
@@ -181,11 +181,11 @@ export const howWeEvaluated = [
     "description": "Matched working area against common wood project dimensions (cutting boards, sign blanks, coasters, cylindrical pieces) rather than ranking bed size alone, since a rotary attachment matters more than flat bed size for cylindrical wood items."
   },
   {
-    "title": "",
+    "title": "Software and Offline Operation",
     "description": "Verified whether each machine supports offline SD/TF card operation or a phone app for batch wood-sign jobs, versus requiring a permanently connected computer running LightBurn."
   },
   {
-    "title": "",
+    "title": "Beginner Accessibility",
     "description": "Weighed verified (not inflated) power claims and assembly complexity for buyers new to wood cutting specifically, since a first wood project carries more trial-and-error risk than an experienced user's batch run."
   }
 ];

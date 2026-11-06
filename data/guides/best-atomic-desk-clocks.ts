@@ -49,7 +49,7 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Ato69SCVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "What Atomic Actually Means",
     "note": "A genuine atomic clock automatically receives a radio time signal, commonly WWVB in North America, and adjusts its displayed time to match a national reference standard without any manual setting. This is a specific, verifiable radio-sync feature, distinct from a standard quartz movement simply being reasonably accurate on its own."
   },
   {
@@ -60,11 +60,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "What to Search For Instead",
     "cards": [
       {
-        "label": "",
+        "label": "Search term to use",
         "text": "Search \"atomic clock\" or \"radio controlled clock\" combined with WWVB if you're in North America, and check the listing explicitly states automatic radio signal syncing."
       },
       {
-        "label": "",
+        "label": "Confirm the feature explicitly",
         "text": "Look for the listing to state radio-controlled, WWVB, or auto-sync to a time signal, not just accurate or precise, which many standard quartz clocks also claim."
       },
       {

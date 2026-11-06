@@ -60,75 +60,75 @@ export const heroImage = "https://m.media-amazon.com/images/I/410JGTNkjqL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "1-2 thin cables",
+          "Cable Management Under Desk"
         ],
         [
           "A mixed bundle of 3-5 cables",
           "JOTO 4 Pack Cable Management Sleeve 19-20 Inches -Black"
         ],
         [
-          "",
+          "A thick multi-cable run",
           "AGPTEK White Cable Management Sleeve"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Cable Management Under Desk"
         ],
         [
-          "",
+          "Mid-range pick",
           "Alex Tech 25ft - 1/2 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ],
         [
-          "",
+          "Higher budget",
           "AGPTEK White Cable Management Sleeve"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
-        "label": "",
+        "label": "Zipper (e.g. Cable Management Under Desk)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "JOTO 4 Pack Cable Management Sleeve 19-20 Inches -Black"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "JOTO 4 Pack Cable Management Sleeve 19-20 Inches -Black is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where AGPTEK White Cable Management Sleeve justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Cable Management Under Desk already covers the job at the lowest price here."
       }
     ]

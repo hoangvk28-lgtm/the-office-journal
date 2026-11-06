@@ -61,15 +61,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "[2 Pack] 20 Inch Computer Monitor Privacy Screen is currently the only pick in this specific comparison, built for a desktop monitor. If your device doesn't match that type, check our broader privacy screen roundup rather than assuming this filter fits."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around $25.99",
           "[2 Pack] 20 Inch Computer Monitor Privacy Screen"
         ]
       ]
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "[2 Pack] 20 Inch Computer Monitor Privacy Screen fits this specifically: The only confirmed genuine 20 inch filter we found."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99: The only confirmed genuine 20 inch filter we found. If that's what you're after, the tradeoffs in its cons list probably won't bother you either."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Here's the real tradeoff: Limited alternative options if this specific listing doesn't fit. If that matters to you, compare it against other filters in our broader roundup before committing."
       }
     ]
@@ -118,7 +118,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Verified this is a genuine 20 inch product with real review history",
-    "description": ""
+    "description": "Despite the narrow selection, the one confirmed pick has a meaningful review base of 938, giving reasonable confidence in its rating."
   },
   {
     "title": "Did not substitute a nearby size as an equivalent",

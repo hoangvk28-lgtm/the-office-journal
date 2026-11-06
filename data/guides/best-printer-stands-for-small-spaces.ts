@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "HUANUO Printer Stand with Cable Management and Storage Drawer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "HUANUO Printer Stand with Cable Management and Storage Drawer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "WALI Computer Monitor Stand with Underneath Storage"
         ],
         [
-          "",
+          "Up to $40",
           "YAOHUOO 22x15 Large Printer Stand with Drawer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Rolling vs Stationary",
     "cards": [
       {
-        "label": "",
+        "label": "Rolling (casters)",
         "text": "Easy to reposition for access or cleaning, worth it if the stand needs to move regularly. In this comparison: HUANUO Printer Stand with Cable Management and Storage Drawer, YAOHUOO 22x15 Large Printer Stand with Drawer, Liitrton Mobile CPU Stand, Simple Houseware 3, Pipishell 3 Tier Rolling Cart, Sywhitta 3."
       },
       {
-        "label": "",
+        "label": "Stationary",
         "text": "More stable under a heavy printer since there's no wheel mechanism to add wobble. In this comparison: HOOBRO 2, WALI Computer Monitor Stand with Underneath Storage."
       }
     ],
     "note": "Default to stationary unless you specifically need to reposition the stand often."
   },
   {
-    "subheading": "",
+    "subheading": "By Ventilation Clearance",
     "note": "Check each pick's design for open clearance around your printer's exhaust and paper output path before buying, not just its front-facing dimensions."
   },
   {
     "subheading": "For a Heavy All-in-One Printer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weight capacity with real margin above your printer's actual listed weight, and genuine vibration stability confirmed in reviews, not just static capacity."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since weight capacity isn't consistently disclosed across every stand in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your printer is heavy or used frequently throughout the day, where YAOHUOO 22x15 Large Printer Stand with Drawer's capacity and stability give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You have a light, compact printer used only occasionally, where WALI Computer Monitor Stand with Underneath Storage covers the same job at a lower price."
       }
     ]
@@ -150,7 +150,7 @@ export const howWeEvaluated = [
     "description": "Compared each pick's actual dimensions against small-space footprint tiers, rather than trusting the word small in a listing title without a number behind it."
   },
   {
-    "title": "",
+    "title": "Honest product category labeling",
     "description": "Confirmed whether each pick is a printer stand or actually a CPU tower stand, monitor riser, or general utility cart, and framed each one according to what it actually is rather than its search-optimized title."
   },
   {
@@ -162,7 +162,7 @@ export const howWeEvaluated = [
     "description": "Weighed taller, narrower designs against wider, lower ones, since going vertical is often the better small-space strategy when floor width is the limiting factor."
   },
   {
-    "title": "",
+    "title": "Mobility and repositioning ease",
     "description": "Scored caster quality and overall weight, since a small-space stand often needs to be wheeled out of the way rather than staying in one fixed spot permanently."
   }
 ];

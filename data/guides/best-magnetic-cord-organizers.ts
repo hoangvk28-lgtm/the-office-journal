@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41K7jjDw8mL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A few light cables",
           "9 Pack Cord Organizer Magnetic Cable Clips Adhesive Wire Management 1s Lock"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "JOYROOM 9 Pack Magnetic Cable Clips Cord Organizer Adhesive Wire Management"
         ],
         [
-          "",
+          "A large mixed bundle",
           "Fironst Reusable Silicone Magnetic Cable Ties"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "9 Pack Cord Organizer Magnetic Cable Clips Adhesive Wire Management 1s Lock"
         ],
         [
-          "",
+          "Mid-range pick",
           "JOYROOM 9 Pack Magnetic Cable Clips"
         ],
         [
-          "",
+          "Higher budget",
           "Fironst Reusable Silicone Magnetic Cable Ties"
         ]
       ]
@@ -113,26 +113,26 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Hides cables completely, needs ventilation for warm power bricks."
       },
       {
-        "label": "",
+        "label": "Sleeve/wrap",
         "text": "More flexible for adding cables, less visually contained."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under-desk hidden",
           "JOYROOM 9 Pack Magnetic Cable Clips Cord Organizer Adhesive Wire Management"
         ],
         [
-          "",
+          "Surface or freestanding",
           "JOYROOM 9 Pack Magnetic Cable Clips"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Frequently Changing Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Reusable fasteners and an open or slotted entry point rather than a fully sealed box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "JOYROOM 9 Pack Magnetic Cable Clips Cord Organizer Adhesive Wire Management is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Fironst Reusable Silicone Magnetic Cable Ties justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where 9 Pack Cord Organizer Magnetic Cable Clips Adhesive Wire Management 1s Lock already covers the job at the lowest price here."
       }
     ]

@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/31JwYvlwCJL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "MSDADA Desk Book Stand Metal Reading Rest Book Holder Adjustable Cookbook"
         ],
         [
-          "",
+          "Continuous transcription/typing",
           "Camelmother Metal Book Holder Adjustable Book Stand for Reading"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "MSDADA Desk Book Stand Metal Reading Rest Book Holder Adjustable Cookbook"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "MaxGear Desktop Document Holder"
         ],
         [
-          "",
+          "Higher budget",
           "Vu Ryte Memoscape Pro Adjustable in-Line Document Copy Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Freestanding",
     "cards": [
       {
         "label": "MSDADA Desk Book Stand Metal Reading Rest Book Holder Adjustable Cookbook)",
         "text": "Sits between monitor and keyboard, minimal head movement."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits beside the monitor at eye level, more placement flexibility."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Letter/A4 size",
           "Camelmother Metal Book Holder Adjustable Book Stand for Reading"
         ],
         [
-          "",
-          ""
+          "Legal size or larger",
+          "MaxGear Desktop Document Holder"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Transcription Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A line guide feature and independently adjustable angle and height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Camelmother Metal Book Holder Adjustable Book Stand for Reading is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Vu Ryte Memoscape Pro Adjustable in-Line Document Copy Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where MSDADA Desk Book Stand Metal Reading Rest Book Holder Adjustable Cookbook already covers the job at the lowest price here."
       }
     ]

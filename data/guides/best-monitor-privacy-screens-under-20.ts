@@ -59,8 +59,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $20",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,8 +78,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,7 +87,7 @@ export const howToChoose: HowToChooseSection[] = [
           "ZOEGAA 4-way 360° Laptop Privacy Screen 14 inch 16:10 Aspect Ratio"
         ],
         [
-          "",
+          "Best overall value",
           "6 Inch Privacy Screen Filter for 16:9 Monitor 1920 x 1080 Resolution"
         ]
       ]
@@ -108,11 +108,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "6 Inch Privacy Screen Filter for 16:9 Monitor 1920 x 1080 Resolution unless your specific use case points toward ZOEGAA 4-way 360° Laptop Privacy Screen 14 inch 16:10 Aspect Ratio's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "6 Inch Privacy Screen Filter for 16:9 Monitor 1920 x 1080 Resolution is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on ZOEGAA 4-way 360° Laptop Privacy Screen 14 inch 16:10 Aspect Ratio, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6 Inch Privacy Screen Filter for 16:9 Monitor 1920 x 1080 Resolution without needing the higher-tier features."
       }
     ]
@@ -156,23 +156,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every recommended product must be new, in stock and up to $20 on the article refresh date; stale sale prices are automatically disqualified."
   },
   {
-    "title": "",
+    "title": "Budget-ladder context",
     "description": "Explicitly show what changes between the next-lower tier, the ultra-budget generic tier, and the next-higher tier so this page is not a cloned generic ranking."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize price against exact fit/aspect ratio, privacy angle and the minimum usable setup cost rather than raw feature count."
   },
   {
-    "title": "",
+    "title": "Evidence split",
     "description": "We separated light transmittance/color shift and attachment/reversibility figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
-    "title": "",
+    "title": "Threshold-specific ownership verdict",
     "description": "Judge surface durability, warranty/support, replacement accessories and the chance that a buyer should save money or step up a tier instead of spending the full $20."
   }
 ];

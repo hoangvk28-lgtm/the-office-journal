@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
+        "What you're weighing",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "Decorative Portable File Box with Clear Accents"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "Storex Clear File Storage Box"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "Letter/Legal File Box with Latching Lid"
         ],
         [
-          "",
+          "Mid-range",
           "Storex Clear File Storage Box"
         ],
         [
@@ -99,14 +99,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: IRIS USA 35 Qt. Letter/Legal File Box with Latching Lid, Staples File Box Portable Storage Tote, Storex Clear File Storage Box."
       }
     ],
@@ -116,8 +116,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Staples File Box Portable Storage Tote offers: Clear for content visibility. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Letter/Legal File Box with Latching Lid already covers the essentials: Largest capacity in this comparison. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -165,7 +165,7 @@ export const howWeEvaluated = [
     "description": "We noted that scratches on a clear surface are more visually disruptive to the core see-through benefit than scratches on an opaque box."
   },
   {
-    "title": "",
+    "title": "Content-visibility benefit vs. document privacy tradeoff",
     "description": "We weighed the genuine practical benefit of quick content identification against the realistic downside of displaying potentially sensitive document contents visibly."
   },
   {

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41OGjjUOKXL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $40",
+          "Foldable MagSafe station ($38.99) or 320W 10-port station ($39.59)"
         ],
         [
-          "",
-          ""
+          "$48 to $50",
+          "Pezin & Hulin Black ($48.44) or Natural ($49.49)"
         ]
       ]
     }
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "At this price tier, most picks include what you need out of the box; the main difference is whether cables cover your specific device connector types."
   },
   {
-    "subheading": "",
+    "subheading": "By Device Type Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "You need to charge",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Family or Shared Desks Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "High port count and included cables covering multiple connector types (Lightning, USB-C, Micro-USB), since family members likely have different device brands."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The 320W 10-port station is specifically built and marketed for family multi-device charging with 8 varied cables included."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "49) delivers a ready-to-use system."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99) is the cheapest pick here."
       }
     ]
@@ -173,7 +173,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Included accessories audit",
     "description": "We specifically checked whether each station includes its own power adapter and cables versus requiring separate purchases, since this significantly affects real total value at this price tier."
   },
   {
@@ -181,15 +181,15 @@ export const howWeEvaluated = [
     "description": "We compared total port count and stated wattage per port, since these numbers directly determine how many devices (including laptops) a station can charge simultaneously and how fast."
   },
   {
-    "title": "",
+    "title": "Portability vs stationary design",
     "description": "We noted which stations fold flat for travel versus staying permanently desk-bound, a real functional difference for buyers who travel frequently."
   },
   {
-    "title": "",
+    "title": "Device capacity claims",
     "description": "We verified each listing's stated maximum simultaneous device count against its actual port or charging point configuration."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $50 on the date this guide was checked; stations that only hit this tier during a temporary sale were excluded."
   }
 ];

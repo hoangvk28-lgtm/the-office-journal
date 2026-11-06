@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EAoLV9pQL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $180",
+          "OWC Thunderbolt 5 Hub 5-Port ($179.99)"
         ],
         [
-          "",
-          ""
+          "Under $250",
+          "Cable Matters 11-in-1 ($227.99) or CalDigit E5 ($249.99)"
         ],
         [
-          "",
-          ""
+          "Under $320",
+          "HyperDrive Next Thunderbolt 5 Dock ($319.99)"
         ]
       ]
     }
@@ -124,11 +124,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you want to keep a fuller feature set while still saving desk space, the Cable Matters or HyperDrive picks deliver that. If minimizing physical footprint and cost is your top priority, the OWC hub is purpose-built for exactly that."
   },
   {
-    "subheading": "",
+    "subheading": "By Storage Expansion Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your storage situation",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Small Desk or Shared Workspace Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A small physical footprint with mounting or placement flexibility, and if the workspace is shared or unattended, a physical security lock slot to deter theft."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The HyperDrive Next specifically includes Nano and Standard security lock slots, while the OWC hub's compact 3x6x1 inch size fits the tightest desk spaces."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by its AI accelerator module support."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99, the lowest price in this comparison."
       }
     ]
@@ -184,15 +184,15 @@ export const howWeEvaluated = [
     "description": "Compared sustained charging wattage relative to the dock's smaller form factor."
   },
   {
-    "title": "",
+    "title": "Storage and Expansion Options",
     "description": "Compared built-in NVMe or PCIe expansion slots available within a compact chassis."
   },
   {
-    "title": "",
+    "title": "Cooling Approach",
     "description": "Compared fanless versus actively cooled designs for compact, space-constrained placement."
   },
   {
-    "title": "",
+    "title": "Real-World Desk Footprint",
     "description": "Compared stated physical dimensions and mounting flexibility for small desks."
   }
 ];

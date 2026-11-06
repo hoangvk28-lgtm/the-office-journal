@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "For displays, confirm color space support matches your specific production pipeline's requirements."
   },
   {
-    "criterion": "",
+    "criterion": "Check Long-Session Posture Support",
     "explanation": "Verify stand angle and hand-travel comfort across the active area for extended production sessions."
   }
 ];
@@ -73,18 +73,18 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "For displays, confirm color space support matches your specific production pipeline's requirements."
   },
   {
-    "subheading": "",
+    "subheading": "Check Long-Session Posture Support",
     "note": "Verify stand angle and hand-travel comfort across the active area for extended production sessions."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified First",
     "description": "Sorted each product into screenless pen tablet, computer-dependent pen display, or true standalone before comparing specs, since these solve different problems."
   },
   {
-    "title": "",
+    "title": "Pen Behavior Verified",
     "description": "Checked activation force, pressure-level count, tilt support, and parallax evidence directly from documentation rather than trusting a headline pressure number alone."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Verified current Windows/macOS/Linux/Android compatibility by exact model, since older tablets can lose driver support over time."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included pen, nibs, stand, and cables against what needs to be bought separately, plus warranty length and driver update history."
   }
 ];

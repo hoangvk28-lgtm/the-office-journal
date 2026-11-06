@@ -27,32 +27,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Hdmi-faq",
     "q": "Why isn't my 4K monitor hitting its advertised refresh rate?",
     "a": "0 caps out around 60Hz at full 4K regardless of what the panel itself is rated for."
   },
   {
-    "id": "",
+    "id": "Curved-faq",
     "q": "Is a curved 4K monitor better than flat?",
     "a": "It depends on your use, curved reduces eye travel and adds immersion for gaming or media but distorts straight lines in spreadsheet, CAD, or design work where geometric accuracy matters."
   },
   {
-    "id": "",
+    "id": "Panel-faq",
     "q": "Should I get an IPS, OLED, or VA 4K monitor?",
     "a": "IPS gives the most consistent accurate color, OLED gives the deepest contrast and fastest response with a real long-term burn-in risk on static content, VA splits the difference with strong contrast but slower response, match to your primary use."
   },
   {
-    "id": "",
+    "id": "Response-faq",
     "q": "Can I trust the response time number on the box?",
     "a": "Not fully, it's usually a best-case lab number under aggressive overdrive settings, real-world motion clarity is often worse and can show ghosting, check independent motion-clarity reviews instead."
   },
   {
-    "id": "",
+    "id": "Scaling-faq",
     "q": "Is a smaller 4K monitor harder to use than a larger one?",
     "a": "It needs OS-level scaling to keep text readable, which works well in most modern software but can render blurry in some older or niche applications, verify your specific software handles scaling before buying a smaller panel."
   },
   {
-    "id": "",
+    "id": "Gamut-faq",
     "q": "Do I need wide color gamut coverage?",
     "a": "Only for color-critical work like video editing or print design, general use and office work are well served by standard SRGB coverage, check which gamut standard actually matters for your workflow."
   }
@@ -66,34 +66,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41R98Oj6zvL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General office and browsing",
           "LG 27US500-W Ultrafine Monitor 27-Inch 4K UHD (3840x2160) HDR10 IPS Borderless"
         ],
         [
-          "",
+          "Color-critical creative work",
           "ASUS VY27UQ 27 Inch 4K UHD IPS Computer Monitor"
         ],
         [
-          "",
-          ""
+          "Fast-paced gaming",
+          "Dell 27 Monitor S2725QC"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -101,71 +101,71 @@ export const howToChoose: HowToChooseSection[] = [
           "LG 27US500-W Ultrafine Monitor 27-Inch 4K UHD (3840x2160) HDR10 IPS Borderless"
         ],
         [
-          "",
+          "Mid-range pick",
           "Gawfolk 4K Curved Monitor 32 Inch"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Dell 27 Monitor S2725QC"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "IPS vs OLED Panel",
     "cards": [
       {
         "label": "LG 27US500-W Ultrafine Monitor 27-Inch 4K UHD (3840x2160) HDR10 IPS Borderless)",
         "text": "Consistent accurate color from wide angles, weaker black levels."
       },
       {
-        "label": "",
+        "label": "OLED",
         "text": "Deeper contrast and faster response, real long-term burn-in risk on static content."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk depth",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard desk distance",
           "ASUS VY27UQ 27 Inch 4K UHD IPS Computer Monitor"
         ],
         [
-          "",
+          "Larger or multi-monitor desk",
           "Gawfolk 4K Curved Monitor 32 Inch"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Laptop Charging Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed USB-C power delivery wattage that matches your laptop's actual charging requirement, not just a USB-C port."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ASUS VY27UQ 27 Inch 4K UHD IPS Computer Monitor is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Dell 27 Monitor S2725QC justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where LG 27US500-W Ultrafine Monitor 27-Inch 4K UHD (3840x2160) HDR10 IPS Borderless already covers the job at the lowest price here."
       }
     ]

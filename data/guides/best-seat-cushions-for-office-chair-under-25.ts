@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41UNac+JBJL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,20 +87,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $19",
+          "CushZone base ($16.96) or TushGuard ($18.99)"
         ],
         [
-          "",
-          ""
+          "$20 to $25",
+          "CushZone Ergonomic ($19.95) or BlissTrends ($24.99)"
         ]
       ]
     }
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you sit in a warm room or tend to run hot, the mesh-covered CushZone base model is the better fit; otherwise the softer fabric covers on the other picks feel more comfortable to most people."
   },
   {
-    "subheading": "",
+    "subheading": "By Sitting Duration",
     "table": {
       "headers": [
-        "",
-        ""
+        "You typically sit for",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A few hours at a time",
-          ""
+          "CushZone base or TushGuard"
         ],
         [
           "8+ hours in extended stretches",
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Location Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A built-in carry handle and a listing that explicitly names compatibility across multiple seat types (office, car, travel), not just office chair use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TushGuard is the pick here specifically built with a carry handle and marketed across the widest range of seat types."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
-        "text": ""
+        "label": "Spend more if",
+        "text": "You want a specific, comparable thickness measurement and a premium cover feel: BlissTrends ($24.99) is the only pick here stating an exact 3.3\" thickness."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "96) covers that core need at the lowest price here."
       }
     ]
@@ -172,7 +172,7 @@ export const howWeEvaluated = [
     "description": "We favored listings that state a specific foam density or exact thickness measurement over vague \"premium\" or \"supportive\" language, since a stated number is directly comparable across competing products."
   },
   {
-    "title": "",
+    "title": "Cover material comparison",
     "description": "We distinguished breathable mesh covers from standard fabric or velvet covers, since this affects temperature comfort differently during long sitting sessions."
   },
   {
@@ -180,11 +180,11 @@ export const howWeEvaluated = [
     "description": "We noted which listings specifically target extended sitting sessions (8+ hours) versus general use, since a cushion built for that use case is a more deliberate purchase for heavy daily users."
   },
   {
-    "title": "",
+    "title": "Portability features",
     "description": "We checked for a built-in carry handle on picks marketed toward multiple seat types or locations, a genuine convenience feature not present on every cushion at this price."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $25 on the date this guide was checked; cushions that only hit this tier during a temporary sale were excluded."
   }
 ];

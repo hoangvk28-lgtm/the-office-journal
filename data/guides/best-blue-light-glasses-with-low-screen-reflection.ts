@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31O5Ad+FePL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General screen time",
           "Livho High Tech Blue Light Blocking Gaming Glasses"
         ],
         [
-          "",
+          "Design/color-sensitive work",
           "RBPilot Square Reading Glasses for Men Women"
         ],
         [
-          "",
+          "Long gaming sessions",
           "Miyya Blue Light Blocking Glasses for Women"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,44 +95,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Livho High Tech Blue Light Blocking Gaming Glasses"
         ],
         [
-          "",
+          "Mid-range pick",
           "Gaoye Round Blue Light Blocking Glasses"
         ],
         [
-          "",
+          "Higher budget",
           "Miyya Blue Light Blocking Glasses for Women"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clear vs Yellow-Tinted Lenses",
     "cards": [
       {
         "label": "Livho High Tech Blue Light Blocking Gaming Glasses)",
         "text": "Filters less blue light but keeps on-screen colors accurate."
       },
       {
-        "label": "",
+        "label": "Yellow-tinted",
         "text": "Filters more blue light but visibly shifts color perception."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Vision Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No vision correction needed",
           "RBPilot Square Reading Glasses for Men Women"
         ],
         [
-          "",
+          "Reading magnification needed",
           "Gaoye Round Blue Light Blocking Glasses"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For All-Day Desk Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A frame width and nose bridge that actually fits your face, with a flexible, durable frame material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "RBPilot Square Reading Glasses for Men Women is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where miyya Blue Light Blocking Glasses for Women justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where livho High Tech Blue Light Blocking Gaming Glasses already covers the job at the lowest price here."
       }
     ]

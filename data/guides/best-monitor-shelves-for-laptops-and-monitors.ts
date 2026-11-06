@@ -55,36 +55,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "BONTEC Dual Monitor Stand Riser"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "BONTEC Dual Monitor Stand Riser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $24",
+          "TAVR Monitor Stand Riser"
         ],
         [
-          "",
-          ""
+          "Up to $80",
+          "Fenge Monitor Stand"
         ]
       ]
     }
@@ -93,26 +93,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "TAVR Monitor Stand Riser vs Fenge Monitor Stand",
     "cards": [
       {
-        "label": "",
+        "label": "TAVR Monitor Stand Riser",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Fenge Monitor Stand",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to TAVR Monitor Stand Riser unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "BONTEC Dual Monitor Stand Riser"
         ]
       ]
@@ -122,24 +122,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "BONTEC Dual Monitor Stand Riser is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Fenge Monitor Stand's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where TAVR Monitor Stand Riser covers the same job at a lower price."
       }
     ]
@@ -156,7 +156,7 @@ export const howWeEvaluated = [
     "description": "Tested cable routing and viewing angle for a dual-laptop-plus-monitor setup where the laptop is used as a second screen while the monitor sits above."
   },
   {
-    "title": "",
+    "title": "Combined weight point-load verified",
     "description": "Verified combined weight of a laptop plus monitor on the same structural piece against the point-load concerns established throughout monitor shelf research."
   },
   {

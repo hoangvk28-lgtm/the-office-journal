@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/519qO5dOQrL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Cable Bundle Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your bundle",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "1-2 thin cables",
           "Alex Tech 10ft - 1/4 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ],
         [
@@ -76,18 +76,18 @@ export const howToChoose: HowToChooseSection[] = [
           "HydroMaxx® Flexible Polyethylene LDPE Non-Split Corrugated Wire Loom Tubing"
         ],
         [
-          "",
-          ""
+          "A thick multi-cable run",
+          "DMiotech 6.6ft Wire Loom Split Tubing 2 Inch(50.8 mm) ID Black"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,40 +95,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Alex Tech 10ft - 1/4 inch Cord Protector Wire Loom Tubing Cable Sleeve Split"
         ],
         [
-          "",
+          "Mid-range pick",
           "10 FT 1inch Split Wire Loom Tubing Wire Conduit, Flexible Wire Covers Cord"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "DMiotech 6.6ft Wire Loom Split Tubing 2 Inch(50.8 mm) ID Black"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Zipper vs Split Opening",
     "cards": [
       {
         "label": "Alex Tech 10ft - 1/4 inch Cord Protector Wire Loom Tubing Cable Sleeve Split)",
         "text": "Easier to add or remove cables later."
       },
       {
-        "label": "",
+        "label": "Split/slit",
         "text": "Looks marginally cleaner once closed, more fiddly to reopen."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Use Environment",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General desk use",
           "HydroMaxx® Flexible Polyethylene LDPE Non-Split Corrugated Wire Loom Tubing"
         ],
         [
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Existing PC Build Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sleeve specifically designed for retrofitting around already-connected cables."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "HydroMaxx® Flexible Polyethylene LDPE Non-Split Corrugated Wire Loom Tubing is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "8 mm) ID Black justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Alex Tech 10ft - 1/4 inch Cord Protector Wire Loom Tubing Cable Sleeve Split already covers the job at the lowest price here."
       }
     ]

@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41e8hp-yGpL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light decorative items",
           "AREAJD Black Projector Wall Shelf/Floating Under TV Game Double Shelf Stand"
         ],
         [
-          "",
+          "Books, standard decor",
           "2-Tier Floating TV Wall Shelf With Video Game Storage"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "Nidouillet 34 Inch Gaming Shelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "AREAJD Black Projector Wall Shelf/Floating Under TV Game Double Shelf Stand"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Suptek Glass Floating Shelves"
         ],
         [
-          "",
+          "Higher budget",
           "Nidouillet 34 Inch Gaming Shelf"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "Nidouillet 34 Inch Gaming Shelf)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Studs available where needed",
           "2-Tier Floating TV Wall Shelf With Video Game Storage"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Nidouillet 34 Inch Gaming Shelf is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where Nidouillet 34 Inch Gaming Shelf justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're displaying light decorative items only, where AREAJD Black Projector Wall Shelf/Floating Under TV Game Double Shelf Stand already covers the job at the lowest price here."
       }
     ]

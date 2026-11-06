@@ -36,7 +36,7 @@ export const faq = [
     "a": "Only if it's a WAN port and you have a matching multi-gig internet plan, a multi-gig LAN port is for internal transfers and doesn't affect internet speed at all."
   },
   {
-    "q": "",
+    "q": "Does a 2.5GbE port guarantee 2.5Gbps real-world speed?",
     "a": "Real achieved multi-gig throughput depends on router CPU capability, not just port presence, verify the router can actually sustain that speed under load."
   },
   {
@@ -53,38 +53,38 @@ export const heroImage = "https://m.media-amazon.com/images/I/415NxCTrJpL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Band Configuration",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Genuine tri-band with 6GHz radio",
-          ""
+          "GL.iNet GL"
         ],
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "TP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $115",
+          "TP"
         ],
         [
-          "",
+          "Up to $249",
           "NETGEAR Nighthawk WiFi 7 Router"
         ]
       ]
@@ -94,27 +94,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Mesh System vs Single Router",
     "cards": [
       {
-        "label": "",
+        "label": "Mesh system",
         "text": "Spreads coverage more evenly across a larger home or multiple floors, worth it if a single router leaves dead zones. In this comparison: TP, TP."
       },
       {
-        "label": "",
+        "label": "Single router",
         "text": "Simpler and usually cheaper, fine for a smaller home or apartment. INet GL, NETGEAR Nighthawk WiFi 7 Router."
       }
     ],
     "note": "Default to a single router unless your home's size or layout needs mesh coverage."
   },
   {
-    "subheading": "",
+    "subheading": "By Wired Port Speed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "10GbE port available",
+          "GL.iNet GL"
         ]
       ]
     }
@@ -123,24 +123,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fiber Internet Plan Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A WAN port speed matched to or exceeding your actual fiber plan's rated speed, not just a fast LAN port for local devices."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "TP is worth checking against its listed WAN port speed before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have a fast fiber plan, run a NAS, or need mesh coverage, where NETGEAR Nighthawk WiFi 7 Router's higher price buys real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your internet plan tops out at standard gigabit, where TP covers the same job at a lower price."
       }
     ]

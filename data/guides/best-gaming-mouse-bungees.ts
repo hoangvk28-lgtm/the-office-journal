@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31dEVyDs9dL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Mouse Weight",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your mouse",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard wired mouse",
           "AOBOR AOZCBOR Flexible Mouse Bungee Mouse Cord Management Fixer Holder (Black)"
         ],
         [
-          "",
+          "Ultra-light 8K mouse",
           "Hotline Games Mouse Bungee Mouse Cord Clip Cord Management System Fixer Holder"
         ],
         [
-          "",
-          ""
+          "Heavier gaming mouse",
+          "Sisyphy Gaming Mouse Bungee"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,45 +95,45 @@ export const howToChoose: HowToChooseSection[] = [
           "AOBOR AOZCBOR Flexible Mouse Bungee Mouse Cord Management Fixer Holder (Black)"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "SteelSeries Mouse Bungee"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Sisyphy Gaming Mouse Bungee"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Slot vs Closed-Loop Channel",
     "cards": [
       {
         "label": "AOBOR AOZCBOR Flexible Mouse Bungee Mouse Cord Management Fixer Holder (Black))",
         "text": "Faster to use, drop the cable in without unplugging."
       },
       {
-        "label": "",
+        "label": "Closed-loop",
         "text": "Holds the cable more securely once threaded through."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Extra Function",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Just cable management",
           "Hotline Games Mouse Bungee Mouse Cord Clip Cord Management System Fixer Holder"
         ],
         [
-          "",
-          ""
+          "Built-in USB hub passthrough",
+          "SteelSeries Mouse Bungee"
         ]
       ]
     }
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Aggressive Flick Shots Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A base weight of 200g or more, or a rubberized non-slip base."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Hotline Games Mouse Bungee Mouse Cord Clip Cord Management System Fixer Holder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Sisyphy Gaming Mouse Bungee justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where AOBOR AOZCBOR Flexible Mouse Bungee Mouse Cord Management Fixer Holder (Black) already covers the job at the lowest price here."
       }
     ]

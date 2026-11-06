@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/51zaIUmQhiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "Scotch 100-Year Anniversary Limited Edition Gold Tape Dispenser with 2 Magic"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Famassi Gold Desk Accessories, Office Supplies Set Acrylic Stapler Set Staple"
         ],
         [
-          "",
+          "High-volume packing",
           "Hiceeden Acrylic Gold Stapler and Tape Dispenser Set"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Scotch 100-Year Anniversary Limited Edition Gold Tape Dispenser with 2 Magic"
         ],
         [
-          "",
+          "Mid-range pick",
           "Scotch 100-Year Anniversary Limited Edition Gold Tape Dispenser with 2 Magic"
         ],
         [
-          "",
+          "Higher budget",
           "Hiceeden Acrylic Gold Stapler and Tape Dispenser Set"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "Scotch 100-Year Anniversary Limited Edition Gold Tape Dispenser with 2 Magic)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Famassi Gold Desk Accessories, Office Supplies Set Acrylic Stapler Set Staple"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "Scotch 100-Year Anniversary Limited Edition Gold Tape Dispenser with 2 Magic"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Famassi Gold Desk Accessories, Office Supplies Set Acrylic Stapler Set Staple is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Hiceeden Acrylic Gold Stapler and Tape Dispenser Set justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Scotch 100-Year Anniversary Limited Edition Gold Tape Dispenser with 2 Magic already covers the job at the lowest price here."
       }
     ]

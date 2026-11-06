@@ -64,35 +64,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Synology DS223 Home & Office Backup Hub"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Synology DS223 Home & Office Backup Hub"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $154",
+          "BUFFALO LinkStation 210 2TB"
         ],
         [
-          "",
+          "Up to $379",
           "Beelink Mini PC ME Pro"
         ]
       ]
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Diskless Enclosure vs Drives Included",
     "cards": [
       {
-        "label": "",
+        "label": "Diskless enclosure",
         "text": "Lets you choose your own NAS-grade drives and capacity, but budget $80-200+ per bay separately. In this comparison: Synology DS223 Home & Office Backup Hub, TERRAMASTER F2, UGREEN NAS DXP2800, Asustor Drivestor 2 Gen 2 AS1202T, UGREEN NAS DH2300, BUFFALO LinkStation 210 2TB, QNAP TR."
       },
       {
-        "label": "",
+        "label": "Drives included",
         "text": "Ready to use out of the box, simpler for a first NAS purchase. In this comparison: Beelink Mini PC ME Pro."
       }
     ],
     "note": "Default to diskless if you want control over drive choice and capacity, drives-included for the simplest setup."
   },
   {
-    "subheading": "",
+    "subheading": "By Drive Type Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Media Streaming or Plex Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A CPU capable of hardware transcoding and enough RAM to handle multiple simultaneous streams, not just total bay count."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Synology DS223 Home & Office Backup Hub is worth checking against its listed CPU and RAM before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real multi-user performance, media transcoding, or business-critical reliability, where Beelink Mini PC ME Pro's CPU and RAM give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need simple backup storage for one or two users, where BUFFALO LinkStation 210 2TB covers the same job at a lower price."
       }
     ]
@@ -161,11 +161,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Idle vs. load noise behavior",
     "description": "Weighed how each NAS's fan and drive activity change between idle and active workloads like backups or RAID rebuilds, since idle DB ratings alone understate real-world noise."
   },
   {
-    "title": "",
+    "title": "Drive noise contribution",
     "description": "Considered how much of the total noise budget comes from spinning HDDs versus the fan itself, since modern NAS fans are often quieter than the drives installed in them."
   },
   {
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "Checked whether each unit's cooling design lets it maintain a steady fan speed under sustained transfer or transcoding load rather than surging noisily."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed CPU capability, networking speed, and included drives against price, since a drives-included 1-bay unit and a diskless content-creator NAS sit at very different points on that curve."
   }
 ];

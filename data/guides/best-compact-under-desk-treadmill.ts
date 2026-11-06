@@ -36,7 +36,7 @@ export const faq = [
   },
   {
     "q": "Which compact treadmill has the longest warranty?",
-    "a": ""
+    "a": "The Vhorilix Walking Pad carries a 2-year warranty, the longest of the 4 picks in this guide, while still keeping a compact 4.33-inch profile."
   },
   {
     "q": "Is it worth paying more for a handlebar and incline on a compact treadmill?",
@@ -56,83 +56,83 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ZbsmaRmVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Feature Set",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Incline for higher calorie burn",
-          ""
+          "Viamotion Walking Pad"
         ],
         [
-          "",
-          ""
+          "Most-reviewed, strongest reliability signal",
+          "Viamotion Walking Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $80",
+          "Rythkore Walking Pad"
         ],
         [
-          "",
-          ""
+          "Up to $120",
+          "Viamotion Walking Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Incline vs Flat Walking",
     "cards": [
       {
-        "label": "",
+        "label": "Incline",
         "text": "Meaningfully increases calorie burn and leg engagement over flat walking. In this comparison: Viamotion Walking Pad."
       },
       {
-        "label": "",
+        "label": "Flat walking",
         "text": "Simpler and usually slimmer, fine for light movement rather than a fitness goal. In this comparison: Buztrio Walking Pad, Vhorilix Walking Pad, Rythkore Walking Pad."
       }
     ],
     "note": "Default to flat walking unless calorie burn intensity is a real goal beyond light movement."
   },
   {
-    "subheading": "",
+    "subheading": "By Motor Power",
     "note": "Check each pick's listed motor horsepower and max speed against your actual intended pace before buying, not just the general \"treadmill\" label."
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A quiet motor and belt confirmed in reviews specifically during video call use, not just a general decibel spec."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Viamotion Walking Pad is worth checking against its listed noise level before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want incline, remote control, and heavy daily-use durability, where Viamotion Walking Pad's features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want light, occasional movement during the workday, where Rythkore Walking Pad covers the same job at a lower price."
       }
     ]
@@ -141,15 +141,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Overall thickness",
     "description": "Compared stated height in inches across every pick, since this guide specifically targets the thinnest treadmills for the tightest desk clearances rather than general under-desk fit."
   },
   {
-    "title": "",
+    "title": "Weight and portability",
     "description": "Checked total unit weight and wheel design, since a compact treadmill should be easy for one person to slide out of the way or reposition without help."
   },
   {
-    "title": "",
+    "title": "Noise level",
     "description": "Weighed motor type and stated DB ratings against the reality of taking calls nearby, since quiet operation matters even more in a small home office where the treadmill sits close to a desk."
   },
   {

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Visb--KDL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Luqeeg 10400mAh Mini UPS Battery Backup"
         ],
         [
-          "",
+          "A stated hours-of-runtime figure",
           "Mini UPS Battery Backup, 6000mAh (5-hour rated)"
         ],
         [
@@ -88,20 +88,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $30",
+          "Luqeeg ($27.61) or Mini UPS 6000mAh ($29.99)"
         ],
         [
-          "",
-          ""
+          "Up to $40",
+          "VISLONE ($31.99) or Mini UPS 10400mAh dual-input ($35.13)"
         ]
       ]
     }
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If your router's power label lists its wattage, you can roughly estimate runtime yourself; if you'd rather not do that math, the 6000mAh pick's stated 5-hour figure is the more direct answer."
   },
   {
-    "subheading": "",
+    "subheading": "By Charging Flexibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Basic Home Router Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed 12V output matching your router's power brick label, since most consumer routers run on 12V rather than 9V or 5V."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "All four picks here output 12V, so the deciding factor for a basic home router comes down to capacity and price rather than voltage compatibility."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99) outlasts the cheaper Luqeeg pick by roughly 30 percent for a few dollars more."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "61) covers the same core voltages as pricier picks here."
       }
     ]
@@ -169,7 +169,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Output voltage match",
     "description": "We checked which of the three common router/modem voltages (5V, 9V, 12V) each unit outputs, since a mini UPS that doesn't match your router's exact voltage simply won't power it, regardless of battery size."
   },
   {
@@ -181,11 +181,11 @@ export const howWeEvaluated = [
     "description": "We favored listings that state an actual hours-of-runtime figure at a given load over ones that only list mAh, since a stated runtime is a checkable real-world claim rather than a number you'd need to estimate yourself."
   },
   {
-    "title": "",
+    "title": "Safety protection features",
     "description": "We confirmed each pick includes basic protections (short-circuit, overcharge, over-discharge) as standard, since these are inexpensive to include but protect connected networking equipment."
   },
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every pick had to be in stock and priced at or under $40 on the date this guide was checked; units that only hit this tier during a temporary sale were excluded."
   }
 ];

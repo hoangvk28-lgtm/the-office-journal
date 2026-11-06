@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/51UV3SKjwhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "Scotch Packaging Tape Hand Dispenser (DP300-RD)"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Scotch Heavy Duty Packing Tape"
         ],
         [
-          "",
+          "High-volume packing",
           "Heavy Duty 2-Inch Desktop Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "Scotch Packaging Tape Hand Dispenser (DP300-RD)"
         ],
         [
-          "",
+          "Mid-range pick",
           "GGR Supplies ET-12270 Blue/Grey Premium Steel Desk Top Dispenser: 2 in."
         ],
         [
-          "",
+          "Higher budget",
           "Heavy Duty 2-Inch Desktop Tape Dispenser"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "Scotch Packaging Tape Hand Dispenser (DP300-RD))",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Scotch Heavy Duty Packing Tape"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "GGR Supplies ET-12270 Blue/Grey Premium Steel Desk Top Dispenser: 2 in."
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Scotch Heavy Duty Packing Tape is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Heavy Duty 2-Inch Desktop Tape Dispenser justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Scotch Packaging Tape Hand Dispenser (DP300-RD) already covers the job at the lowest price here."
       }
     ]

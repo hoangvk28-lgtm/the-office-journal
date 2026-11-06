@@ -9,15 +9,15 @@ export const buyingCriteria = [
     "explanation": "Confirm portable power stations for laptop's USB-C PD ports, maximum wattage, and voltage profiles match your laptop's actual charging requirement."
   },
   {
-    "criterion": "",
+    "criterion": "Verify Full-Performance Charging",
     "explanation": "Check whether the target laptop can charge at full performance through USB-C without needing its original AC brick."
   },
   {
-    "criterion": "",
+    "criterion": "Measure Usable USB-C Energy",
     "explanation": "Verify usable USB-C energy and conversion efficiency rather than trusting the rated Wh figure alone."
   },
   {
-    "criterion": "",
+    "criterion": "Test Simultaneous Multi-Device Loads",
     "explanation": "Test simultaneous laptop charging plus phone or router loads to confirm the station handles real multitasking."
   },
   {
@@ -61,15 +61,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Confirm portable power stations for laptop's USB-C PD ports, maximum wattage, and voltage profiles match your laptop's actual charging requirement."
   },
   {
-    "subheading": "",
+    "subheading": "Verify Full-Performance Charging",
     "note": "Check whether the target laptop can charge at full performance through USB-C without needing its original AC brick."
   },
   {
-    "subheading": "",
+    "subheading": "Measure Usable USB-C Energy",
     "note": "Verify usable USB-C energy and conversion efficiency rather than trusting the rated Wh figure alone."
   },
   {
-    "subheading": "",
+    "subheading": "Test Simultaneous Multi-Device Loads",
     "note": "Test simultaneous laptop charging plus phone or router loads to confirm the station handles real multitasking."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Looked for UL, UL2743, or other documented safety certification and battery chemistry evidence rather than trusting a safety claim alone."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included cables, solar panel bundling, warranty length, and app requirements as part of the real cost and usability of each pick."
   }
 ];

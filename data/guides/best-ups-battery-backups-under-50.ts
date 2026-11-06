@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/317XD3klVpL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,46 +88,46 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $18",
+          "Fosa ($17.69) or DC 12V-2A ($17.99)"
         ],
         [
-          "",
-          ""
+          "Under $28",
+          "Mini UPS for Router, 6000mAh ($27.99)"
         ],
         [
-          "",
-          ""
+          "Under $32",
+          "VISLONE 13500mAh ($31.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Battery Capacity Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your runtime needs",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Maximum runtime for extended outages",
-          ""
+          "VISLONE (13500mAh)"
         ],
         [
           "Moderate runtime with multiple output ports",
           "Mini UPS for Router (6000mAh)"
         ],
         [
-          "",
+          "Basic short-outage coverage",
           "Fosa (2600mAh) or DC 12V-2A (6000mAh)"
         ]
       ]
@@ -141,7 +141,7 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Supports 5V, 9V, and 12V devices from one unit, useful if you have multiple different devices to back up."
       },
       {
-        "label": "",
+        "label": "Single-purpose 12V (DC 12V-2A)",
         "text": "Matches one specific device type, like outdoor cameras, with a purpose-built connector, but less flexible for other devices."
       }
     ],
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Security Camera System Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A mini UPS with a connector size matching your camera's specific power interface, not just a generic USB output."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "1mm interface is specifically sized for common outdoor camera connectors."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the longest possible runtime during an outage, where the VISLONE's 13500mAh capacity significantly exceeds the budget picks in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic short-outage coverage for one small device, where the fosa or DC 12V-2A picks cover that for under $18."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Battery Capacity",
     "description": "Compared stated mAh capacity across the mini UPS lineup, from 2600mAh to 13500mAh."
   },
   {
-    "title": "",
+    "title": "Output Port Versatility",
     "description": "Compared the number and voltage range of output ports for powering different devices simultaneously."
   },
   {
-    "title": "",
+    "title": "Device Compatibility",
     "description": "Checked which specific device types, routers, cameras, modems, each pick is designed to support."
   },
   {
-    "title": "",
+    "title": "Safety Protection Circuitry",
     "description": "Compared built-in protections against overcharge, over-discharge, short-circuit, and overheating."
   },
   {
-    "title": "",
+    "title": "Physical Size and Portability",
     "description": "Compared overall dimensions and weight for portable or space-constrained placement."
   }
 ];

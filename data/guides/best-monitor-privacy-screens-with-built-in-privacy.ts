@@ -60,36 +60,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Verponity 2 Pack 27 Inch Magnetic Privacy Screen"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "2 Pack 24 Inch Magnetic Computer Privacy Screen for Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $54",
           "3M Privacy Filters for 24 Inch Widescreen Monitor"
         ],
         [
-          "",
-          ""
+          "Up to $250",
+          "ViewSonic VG2448"
         ]
       ]
     }
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "ViewSonic VG2448",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to 3M Privacy Filters for 24 Inch Widescreen Monitor unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "2 Pack 24 Inch Magnetic Computer Privacy Screen for Monitor"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "2 Pack 24 Inch Magnetic Computer Privacy Screen for Monitor is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where ViewSonic VG2448's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where 3M Privacy Filters for 24 Inch Widescreen Monitor covers the same job at a lower price."
       }
     ]
@@ -154,7 +154,7 @@ export const howToChoose: HowToChooseSection[] = [
 export const howWeEvaluated = [
   {
     "title": "Confirmed the standalone-monitor built-in privacy product pool honestly",
-    "description": ""
+    "description": "We found exactly one genuine standalone monitor with a built-in privacy panel and disclosed this directly rather than relabeling attachable filters as \"built-in.\""
   },
   {
     "title": "Distinguished built-in electronic privacy from removable optical filters",

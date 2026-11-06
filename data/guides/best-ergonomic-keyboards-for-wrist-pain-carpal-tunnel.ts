@@ -60,10 +60,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EsewSK2nL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -72,26 +72,26 @@ export const howToChoose: HowToChooseSection[] = [
           "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest"
         ],
         [
-          "",
+          "Maximum forearm rotation relief",
           "Logitech Ergo K860 Wireless Ergonomic Keyboard with Wrist Rest and MX Vertical Wireless Mouse"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $55",
           "Perixx PERIBOARD-512B Wired Ergonomic Split Keyboard with Wrist Rest"
         ],
         [
-          "",
+          "Mid-range",
           "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest"
         ],
         [
@@ -102,14 +102,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: Perixx PERIBOARD-512B Wired Ergonomic Split Keyboard with Wrist Rest."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest, Logitech Wave Keys Wireless Ergonomic Keyboard, Logitech Ergo K860 Wireless Ergonomic Keyboard with Wrist Rest and MX Vertical Wireless Mouse."
       }
     ]
@@ -118,12 +118,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest cost, quiet typing",
           "Perixx PERIBOARD-512B Wired Ergonomic Split Keyboard with Wrist Rest"
         ],
         [
@@ -137,24 +137,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Logitech Ergo K860 Wireless Ergonomic Keyboard with Wrist Rest and MX Vertical Wireless Mouse fits this specifically: Addresses both keyboard and mouse wrist strain together."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Logitech Ergo K860 Wireless Ergonomic Keyboard with Wrist Rest and MX Vertical Wireless Mouse offers: Addresses both keyboard and mouse wrist strain together. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Perixx PERIBOARD-512B Wired Ergonomic Split Keyboard with Wrist Rest already covers the essentials: Lowest price of any true split keyboard here. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -167,7 +167,7 @@ export const howWeEvaluated = [
     "description": "Compared true separable splits against one-piece wave layouts, since a true split allows shoulder-width positioning while a wave layout only softens the flat typing angle."
   },
   {
-    "title": "",
+    "title": "Tenting and tilt angle",
     "description": "Checked whether each keyboard uses negative tilt, front higher than back, which keeps the wrist straighter, versus traditional positive tilt that forces the wrist to bend upward."
   },
   {
@@ -175,11 +175,11 @@ export const howWeEvaluated = [
     "description": "Evaluated whether a cushioned rest was integrated into the frame versus a separate accessory, and noted that a rest is meant for resting between typing bursts, not leaning on while actively typing."
   },
   {
-    "title": "",
+    "title": "Mouse ergonomics fit",
     "description": "For bundled picks, evaluated whether the included mouse actually reduces wrist deviation, since mouse grip is frequently as significant a contributor to wrist strain as keyboard choice."
   },
   {
-    "title": "",
+    "title": "Connection reliability and setup",
     "description": "4G receiver connections for consistency, since a dropped connection during typing can lead to compensatory hand movements that add strain."
   }
 ];

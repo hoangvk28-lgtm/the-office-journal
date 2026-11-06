@@ -52,71 +52,71 @@ export const heroImage = "https://m.media-amazon.com/images/I/31g5Q1uDYCL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Disclosed Joule Rating",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 3780 joules",
+          "Belkin 12"
         ],
         [
-          "",
-          ""
+          "Around 2700 joules",
+          "Power Strip"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $22",
+          "Power Strip"
         ],
         [
-          "",
+          "Up to $40",
           "Jgstkcity Desk Clamp Power Strip"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "USB-C Charging vs Outlets-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in USB-C charging",
         "text": "Saves an outlet slot per device charged directly, useful if you regularly charge phones or tablets at your desk. In this comparison: Jgstkcity Desk Clamp Power Strip USB C, Jgstkcity Desk Clamp Power Strip."
       },
       {
-        "label": "",
+        "label": "Outlets-only",
         "text": "No built-in charging ports, but often a lower price and simpler design for equipment that only needs AC power. In this comparison: Mifaso PD30W Desk Clamp Power Strip, Belkin 12."
       }
     ],
     "note": "Default to a USB-equipped strip unless you already have enough dedicated chargers and want to save on price."
   },
   {
-    "subheading": "",
+    "subheading": "By Plug Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Desk situation",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Tight space behind furniture, flat plug needed",
-          ""
+          "Belkin 12"
         ],
         [
-          "",
+          "Standard outlet clearance",
           "Jgstkcity Desk Clamp Power Strip USB C"
         ]
       ]
@@ -126,24 +126,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed joule rating of at least 1000-2000 with UL 1449 certification, plus enough spaced outlets for a monitor, dock, and peripherals."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Belkin 12 discloses the highest joule rating at 3780 joules."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Your equipment is expensive or sensitive, where Jgstkcity Desk Clamp Power Strip's higher price buys real protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're protecting lower-value, easily replaceable electronics, where Power Strip covers the same basic job at a lower price."
       }
     ]

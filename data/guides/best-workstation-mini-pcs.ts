@@ -53,10 +53,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/51U8oEw1c+L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
+        "What you're running",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -65,26 +65,26 @@ export const howToChoose: HowToChooseSection[] = [
           "ACEMAGIC M5 Mini PC Intel Core i9-14900HX Flagship HX-Class"
         ],
         [
-          "",
+          "Demanding, sustained workloads",
           "MINISFORUM MS-02 Ultra Mini Workstation PC"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $769",
           "ACEMAGIC M5 Mini PC Intel Core i9-14900HX Flagship HX-Class"
         ],
         [
-          "",
+          "Mid-range",
           "GEEKOM A8 MAX Gaming Mini PC AMD Ryzen 9 8945HS 32GB DDR5"
         ],
         [
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fanless (Passive) vs Actively Cooled",
     "cards": [
       {
-        "label": "",
+        "label": "Fanless, Passive Cooling",
         "text": "Completely silent with no moving parts, at the cost of throttling under sustained heavy load. In this comparison: check each listing's cooling design directly."
       },
       {
-        "label": "",
+        "label": "Actively Cooled (Fan)",
         "text": "Sustains heavier workloads longer without throttling, at the cost of some fan noise under load. In this comparison: MINISFORUM MS-02 Ultra Mini Workstation PC, GEEKOM IT13 MAX AI Mini PC, GEEKOM A8 MAX Gaming Mini PC AMD Ryzen 9 8945HS 32GB DDR5."
       }
     ],
@@ -112,12 +112,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By RAM and Storage Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lightest low-cost configuration",
           "ACEMAGIC M5 Mini PC Intel Core i9-14900HX Flagship HX-Class"
         ],
         [
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For GPU-Accelerated Work or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated GPU or a confirmed Oculink/Thunderbolt EGPU connection explicitly stated in the listing, not just a generic \"gaming capable\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms dedicated or external GPU support; check our EGPU-focused mini PC roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what MINISFORUM MS-02 Ultra Mini Workstation PC offers: Explicitly purpose-built workstation-class design, not a repurposed consumer chassis. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "ACEMAGIC M5 Mini PC Intel Core i9-14900HX Flagship HX-Class already covers the essentials: Genuine flagship-tier HX-class chip for the highest core count in this guide. The main thing you'd be paying extra for elsewhere in this list is headroom you may not need."
       }
     ]

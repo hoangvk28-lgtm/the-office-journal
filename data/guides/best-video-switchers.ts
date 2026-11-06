@@ -9,7 +9,7 @@ export const buyingCriteria = [
     "explanation": "Input count on a video switcher needs to cover every source in your actual production, cameras plus any laptop, graphics overlay, or playback device you'll switch to, not just camera count alone. Buying a switcher sized exactly to your current camera count often leaves no room for a title overlay or a second presentation source later."
   },
   {
-    "criterion": "",
+    "criterion": "HDMI vs SDI Connectivity",
     "explanation": "HDMI is simpler and cheaper for short cable runs typical of a home or small studio setup, while SDI supports much longer cable runs, up to 300 feet uncompressed, and locks more securely, which matters for a live event where a cable being bumped loose is a real risk. Match the connector type to your actual camera outputs and cable run distances before buying."
   },
   {
@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/416ojTtXYiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Input Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "2-3 cameras, minimal overlays",
           "Mixer Plus Compact Video Switcher 4 HDMI with 4''Built-in Screen"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Osee GoStream Deck HDMI Pro Live Streaming Multi Camera Video Mixer Switcher"
         ],
         [
-          "",
+          "Multiple cameras plus graphics",
           "Osee GoStream Duet 8 ISO Live Streaming Video Switcher"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Mixer Plus Compact Video Switcher 4 HDMI with 4''Built-in Screen"
         ],
         [
-          "",
+          "Mid-range pick",
           "Blackmagic Design ATEM Mini Pro HDMI Live Stream Switcher"
         ],
         [
-          "",
+          "Higher budget",
           "Osee GoStream Duet 8 ISO Live Streaming Video Switcher"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "HDMI vs SDI Connectivity",
     "cards": [
       {
         "label": "Mixer Plus Compact Video Switcher 4 HDMI with 4''Built-in Screen)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match connector type to your actual cameras and cable run distances."
   },
   {
-    "subheading": "",
+    "subheading": "By Network Routing Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard cabled setup",
           "Osee GoStream Deck HDMI Pro Live Streaming Multi Camera Video Mixer Switcher"
         ],
         [
-          "",
+          "NDI routing over network",
           "Check specifically for NDI support and plan real network bandwidth"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Post-Production Flexibility Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "ISO recording support, which captures each individual camera separately so you can re-edit footage after the fact."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Osee GoStream Deck HDMI Pro Live Streaming Multi Camera Video Mixer Switcher is worth checking against its specific ISO recording spec before assuming any switcher supports it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need more inputs, SDI connectivity, or ISO recording for a growing production, where Osee GoStream Duet 8 ISO Live Streaming Video Switcher justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're running a simple 2-3 camera setup, where Mixer Plus Compact Video Switcher 4 HDMI with 4''Built-in Screen already covers the job at the lowest price here."
       }
     ]
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "Input count on a video switcher needs to cover every source in your actual production, cameras plus any laptop, graphics overlay, or playback device you'll switch to, not just camera count alone."
   },
   {
-    "title": "",
+    "title": "HDMI vs SDI Connectivity",
     "description": "HDMI is simpler and cheaper for short cable runs typical of a home or small studio setup, while SDI supports much longer cable runs, up to 300 feet uncompressed, and locks more securely, which matters for a live event where a cable being bumped loose is a real risk."
   },
   {

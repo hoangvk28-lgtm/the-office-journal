@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41VrA3+g8uL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "6 YDs Heavy Duty Packing Tape with Dispenser"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Pen- Heavy Duty Packing Tape Dispenser Gun"
         ],
         [
-          "",
+          "High-volume packing",
           "Zuvo Heavy Duty Tape Gun and Dispenser with 6 Clear Packaging Tapes."
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "6 YDs Heavy Duty Packing Tape with Dispenser"
         ],
         [
-          "",
+          "Mid-range pick",
           "Scotch Heavy Duty Packing Tape"
         ],
         [
-          "",
+          "Higher budget",
           "Zuvo Heavy Duty Tape Gun and Dispenser with 6 Clear Packaging Tapes."
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "6 YDs Heavy Duty Packing Tape with Dispenser)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Pen- Heavy Duty Packing Tape Dispenser Gun"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "Scotch Heavy Duty Packing Tape"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Pen- Heavy Duty Packing Tape Dispenser Gun is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Zuvo Heavy Duty Tape Gun and Dispenser with 6 Clear Packaging Tapes. Clear justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "6 YDs Heavy Duty Packing Tape with Dispenser already covers the job at the lowest price here."
       }
     ]

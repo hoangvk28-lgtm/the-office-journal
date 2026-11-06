@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41dmF+OlxTL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Placement",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "On the desk surface",
+          "Post-it Note Dispenser"
         ],
         [
-          "",
+          "Clipped to a monitor",
           "Monitor Memo Board with Removable Wooden Base Acrylic Portable Sticky Note"
         ],
         [
@@ -84,23 +84,23 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Post-it Note Dispenser"
         ],
         [
-          "",
+          "Mid-range pick",
           "3x3 Inch Acrylic Sticky Note Holder"
         ],
         [
-          "",
+          "Higher budget",
           "SMART& COOL Magnetic Pop-Up Note Dispenser for 3 x 3 in Accordion-Style"
         ]
       ]
@@ -110,26 +110,26 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Pop-Up vs Standard Pad Holder",
     "cards": [
       {
-        "label": "",
+        "label": "Pop-up (e.g. Post-it Note Dispenser)",
         "text": "One-at-a-time dispensing, needs z-fold refill pads specifically."
       },
       {
-        "label": "",
+        "label": "Standard pad holder",
         "text": "Works with any standard pad, no special refill needed."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Note Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your notes",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 3x3 size",
           "Monitor Memo Board with Removable Wooden Base Acrylic Portable Sticky Note"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For One-Handed Desk Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A weighted or non-slip base that stays put while you pull a note with one hand."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Monitor Memo Board with Removable Wooden Base Acrylic Portable Sticky Note is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where SMART& COOL Magnetic Pop-Up Note Dispenser for 3 x 3 in Accordion-Style justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Post-it Note Dispenser already covers the job at the lowest price here."
       }
     ]

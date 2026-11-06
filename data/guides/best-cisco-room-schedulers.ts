@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51Hy+4SNM9L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "T4G Tech Screen Protector for Cisco Room Navigator (TCC5-15)"
         ],
         [
-          "",
+          "Standard conference room",
           "Samsung Business QMR-A 65-inch 4K UHD 3840x2160 24/7 Commercial Signage LED"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "T4G Tech Screen Protector for Cisco Room Navigator (TCC5-15)"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "CN-SM Surface Wall Mount"
         ],
         [
-          "",
+          "Higher budget",
           "Cisco Webex Room Bar (First Light Color) with Table-stand Room Navigator"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "T4G Tech Screen Protector for Cisco Room Navigator (TCC5-15))",
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Samsung Business QMR-A 65-inch 4K UHD 3840x2160 24/7 Commercial Signage LED"
         ],
         [
-          "",
-          ""
+          "Google Workspace / Calendar",
+          "CN-SM Surface Wall Mount"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Samsung Business QMR-A 65-inch 4K UHD 3840x2160 24/7 Commercial Signage LED is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where Cisco Webex Room Bar (First Light Color) with Table-stand Room Navigator justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward single-room display without advanced features, where T4G Tech Screen Protector for Cisco Room Navigator (TCC5-15) already covers the job at the lowest price here."
       }
     ]

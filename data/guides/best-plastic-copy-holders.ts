@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41-NrkpEsmL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "5x11 Acrylic Sign Holder, T-Shape Double-Sided Menu Stand, 2 Pack"
         ],
         [
-          "",
+          "Continuous data entry",
           "Fellowes Letter Sized Non-Magnetic Copyholder"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,45 +96,45 @@ export const howToChoose: HowToChooseSection[] = [
           "5x11 Acrylic Sign Holder, T-Shape Double-Sided Menu Stand, 2 Pack"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "3 Pack Acrylic Sign Holder 8.5 x 11 Inches"
         ],
         [
-          "",
+          "Higher budget",
           "5x11 Acrylic Sign Holder, T-Shape Double-Sided Menu Stand, 2 Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Side-Mounted",
     "cards": [
       {
         "label": "5x11 Acrylic Sign Holder, T-Shape Double-Sided Menu Stand, 2 Pack)",
         "text": "Keeps the page in your direct sightline, minimal neck movement."
       },
       {
-        "label": "",
+        "label": "Side-mounted",
         "text": "Sits off to one side, more placement flexibility but more head turning."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single sheets",
           "Fellowes Letter Sized Non-Magnetic Copyholder"
         ],
         [
-          "",
-          ""
+          "Thicker stacks or booklets",
+          "3 Pack Acrylic Sign Holder 8.5 x 11 Inches"
         ]
       ]
     }
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Data-Entry Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sliding line guide and an adjustable viewing angle to reduce glare and neck strain."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Fellowes Letter Sized Non-Magnetic Copyholder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "5x11 Acrylic Sign Holder, T-Shape Double-Sided Menu Stand, 2 Pack justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5x11 Acrylic Sign Holder, T-Shape Double-Sided Menu Stand, 2 Pack already covers the job at the lowest price here."
       }
     ]

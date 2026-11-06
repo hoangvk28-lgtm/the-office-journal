@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Lamicall 360° Rotation Cell Phone Stand for Desk"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Nulaxy Full Aluminum Dual Folding Cell Phone Stand for Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $7",
+          "COOPER 360° Stand"
         ],
         [
-          "",
+          "Up to $10",
           "VELENTI Gamer Chair Phone Stand"
         ]
       ]
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "COOPER 360° Stand vs VELENTI Gamer Chair Phone Stand",
     "cards": [
       {
-        "label": "",
+        "label": "COOPER 360° Stand",
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to COOPER 360° Stand unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Nulaxy Full Aluminum Dual Folding Cell Phone Stand for Desk"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Nulaxy Full Aluminum Dual Folding Cell Phone Stand for Desk is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where VELENTI Gamer Chair Phone Stand's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where COOPER 360° Stand covers the same job at a lower price."
       }
     ]
@@ -153,19 +153,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine gaming relevance vs. general-purpose fit",
     "description": "We disclosed which picks have genuine gaming-specific marketing or compatibility versus general phone stands that simply fit well on a gaming desk."
   },
   {
-    "title": "",
+    "title": "Desk footprint",
     "description": "We favored compact, low-profile stands that leave room for a keyboard, mouse, and mousepad on a typically smaller gaming desk."
   },
   {
-    "title": "",
+    "title": "Review volume and rating",
     "description": "We weighted picks with substantial verified review history alongside their star rating for reliability confidence."
   },
   {
-    "title": "",
+    "title": "Static vs. articulating design honesty",
     "description": "We were explicit that every pick here is a fixed stand, not a hands-free articulating arm, since that is a different product type."
   }
 ];

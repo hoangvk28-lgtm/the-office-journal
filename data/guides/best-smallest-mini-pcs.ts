@@ -40,7 +40,7 @@ export const faq = [
     "a": "It depends on the specific chip, entry-level Celeron chips suit only light tasks, genuine Ryzen tiers handle more demanding everyday use."
   },
   {
-    "q": "",
+    "q": "Should I worry about a small review base on a compact mini PC?",
     "a": "Not necessarily a red flag, but it does mean less data to rely on, weigh this appropriately when comparing picks."
   }
 ];
@@ -53,10 +53,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/31S9Kd+E2aL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Use Case",
     "table": {
       "headers": [
-        "",
+        "What you're running",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -65,31 +65,31 @@ export const howToChoose: HowToChooseSection[] = [
           "Bmax Mini PC B1 Plus"
         ],
         [
-          "",
-          ""
+          "Demanding, sustained workloads",
+          "BOSGAME E2 Mini PC"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $170",
           "Bmax Mini PC B1 Plus"
         ],
         [
-          "",
+          "Mid-range",
           "Getorli Mini PC AMD Ryzen 5 3500U"
         ],
         [
           "No firm budget ceiling, prioritizing CPU or RAM",
-          ""
+          "BOSGAME E2 Mini PC"
         ]
       ]
     }
@@ -98,11 +98,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Fanless (Passive) vs Actively Cooled",
     "cards": [
       {
-        "label": "",
+        "label": "Fanless, Passive Cooling",
         "text": "Completely silent with no moving parts, at the cost of throttling under sustained heavy load. In this comparison: check each listing's cooling design directly."
       },
       {
-        "label": "",
+        "label": "Actively Cooled (Fan)",
         "text": "Sustains heavier workloads longer without throttling, at the cost of some fan noise under load. In this comparison: Bmax Mini PC B1 Plus, origimagic C5 Mini PC, BOSGAME E4 Air Mini PC."
       }
     ],
@@ -112,17 +112,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By RAM and Storage Headroom",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lightest low-cost configuration",
           "Bmax Mini PC B1 Plus"
         ],
         [
           "Maximum RAM and storage headroom",
-          ""
+          "BOSGAME E2 Mini PC"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For GPU-Accelerated Work or Gaming Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated GPU or a confirmed Oculink/Thunderbolt EGPU connection explicitly stated in the listing, not just a generic \"gaming capable\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms dedicated or external GPU support; check our EGPU-focused mini PC roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what BOSGAME E2 Mini PC offers: Most generous RAM and storage combination among the compact picks. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Bmax Mini PC B1 Plus already covers the essentials: tiny chassis footprint among the smallest available. The main thing you'd be paying extra for elsewhere in this list is headroom you may not need."
       }
     ]
@@ -169,8 +169,8 @@ export const howWeEvaluated = [
     "description": "Weighted processor tier against realistic everyday performance needs, from the lightest tasks to more capable Ryzen-based use."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Review base size weighted appropriately for smaller, newer listings",
+    "description": "Weighted review base size appropriately, recognizing that smaller, newer listings may have less data despite genuine product quality."
   }
 ];
 

@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41yEZ7bQp4L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device Brand",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you own",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -78,71 +78,71 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Mac Mini, Xbox, or Intel NUC needing precise height",
-          ""
+          "5-Level Height Adjustable Bracket"
         ],
         [
           "Any small PC needing maximum flexibility",
-          ""
+          "Mount-It! Adjustable Thin Client Mount"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $23",
+          "5-Level Height Adjustable Bracket ($22.99)"
         ],
         [
-          "",
-          ""
+          "Under $24",
+          "Dell OptiPlex Mount ($23.99) or GMKtec Mount ($23.99)"
         ],
         [
-          "",
-          ""
+          "Under $28",
+          "Mount-It! Adjustable Thin Client Mount ($27.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Brand-Specific vs Universal Adjustable",
     "cards": [
       {
         "label": "Brand-specific (Dell OptiPlex Mount, GMKtec Mount)",
         "text": "Hardware matched exactly to a specific manufacturer's dimensions, offering a more confident, precise fit for that exact device."
       },
       {
-        "label": "",
+        "label": "Universal adjustable (5-Level Bracket, Mount-It!)",
         "text": "Sliding arms accommodate a wider range of devices, useful if you're unsure of long-term brand loyalty or own a less common model."
       }
     ],
     "note": "If your device matches a brand-specific mount's exact compatibility list, that precision is usually worth choosing over a generic universal bracket."
   },
   {
-    "subheading": "",
+    "subheading": "By Mounting Location Flexibility",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your mounting need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Pole-clamp mounting to a monitor arm",
-          ""
+          "Mount-It! Adjustable Thin Client Mount"
         ],
         [
           "Wall, VESA, or under desk with power adapter management",
-          ""
+          "Dell OptiPlex Mount"
         ],
         [
           "Under desk only, with precise height control",
-          ""
+          "5-Level Height Adjustable Bracket"
         ]
       ]
     }
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office Video Call Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Precise height adjustment to position a mini PC connected to a webcam or capture device at an optimal, accessible height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The 5-Level Height Adjustable Bracket's granular vertical control suits this kind of precision positioning need well."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the widest mounting flexibility backed by a lifetime warranty, where the Mount-It! Pick's pole-clamp option and long-term warranty justify the price over brand-specific alternatives."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your device matches a brand-specific mount's exact compatibility list, where the Dell OptiPlex or GMKtec picks deliver a precisely matched fit for about $4 less."
       }
     ]
@@ -177,11 +177,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Height and Width Adjustability",
     "description": "Compared the granularity of height adjustment levels and overall width range each bracket supports."
   },
   {
-    "title": "",
+    "title": "Brand-Specific vs Universal Fit",
     "description": "Distinguished mounts built for a specific manufacturer's exact models from universal adjustable designs."
   },
   {
@@ -189,11 +189,11 @@ export const howWeEvaluated = [
     "description": "Compared stated weight limits and construction quality claims like sag resistance or rust resistance."
   },
   {
-    "title": "",
+    "title": "Mounting Scenario Count",
     "description": "Compared how many distinct mounting locations each pick supports."
   },
   {
-    "title": "",
+    "title": "Warranty Length",
     "description": "Compared stated warranty duration and support commitments across the lineup."
   }
 ];

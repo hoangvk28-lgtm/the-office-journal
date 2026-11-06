@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ll9M3dnWL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -72,7 +72,7 @@ export const howToChoose: HowToChooseSection[] = [
           "0 HDMI KVM Switch S7232H"
         ],
         [
-          "",
+          "An established, travel-friendly brand",
           "IOGEAR 2-Port Full HD KVM Switch (GCS32HU)"
         ],
         [
@@ -83,20 +83,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $40",
+          "Hearvo S7232H ($34.99) or IOGEAR GCS32HU ($39.99)"
         ],
         [
-          "",
-          ""
+          "$45-$52",
+          "MT-VIKI Hybrid ($45.99) or Cable Matters Dual USB-C ($51.99)"
         ]
       ]
     }
@@ -105,7 +105,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Hybrid USB-C+HDMI vs Dual USB-C Only",
     "cards": [
       {
-        "label": "",
+        "label": "Hybrid (MT-VIKI)",
         "text": "Accepts one USB-C laptop and one HDMI desktop simultaneously, solving a common mixed-setup problem, with 65W charging included."
       },
       {
@@ -116,19 +116,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Choose based on your actual computer types: a mixed MacBook-and-desktop setup needs the hybrid design, while two modern USB-C laptops benefit more from the dual-display Cable Matters pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Resolution Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your resolution requirement",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Genuine 4K@60Hz support",
           "Hearvo S7232H, MT-VIKI Hybrid, or Cable Matters Dual USB-C"
         ],
         [
-          "",
+          "Standard 1080p/1920x1200 is sufficient",
           "IOGEAR 2-Port Full HD KVM Switch"
         ]
       ]
@@ -138,24 +138,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a MacBook and Desktop PC Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A hybrid switch accepting both USB-C and HDMI inputs simultaneously, since a MacBook and desktop typically use different connection types."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The MT-VIKI 4K Hybrid Type USB-C HDMI KVM Switch is specifically designed for exactly this MacBook-plus-desktop combination."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You have two modern USB-C laptops and want genuine dual extended 4K displays, where the Cable Matters pick delivers this specific capability."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A standard HDMI-only setup with broad USB compatibility covers your needs, where the Hearvo S7232H offers the most USB ports at the lowest price here."
       }
     ]
@@ -168,11 +168,11 @@ export const howWeEvaluated = [
     "description": "Distinguished switches that accept genuine USB-C laptop input from those requiring HDMI on both computer connections."
   },
   {
-    "title": "",
+    "title": "Power Delivery Charging Capability",
     "description": "Checked which USB-C-capable picks actually charge a connected laptop versus handling only video and data without power."
   },
   {
-    "title": "",
+    "title": "Brand Track Record",
     "description": "Noted established brands like IOGEAR with a longer KVM switch history versus newer generic-brand alternatives in this comparison."
   },
   {

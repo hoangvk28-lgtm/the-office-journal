@@ -63,36 +63,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "500lbs Big and Tall Office Chair Adjustable Lumbar Support for Back Pain"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "GTPLAYER Big and Tall Gaming Chair 400lbs Heavy Duty Office Chair with Foot Rest and Ergonomic Pocket Spring Lumbar Support"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $100",
           "LEMBERI Big and Tall Gaming Chair 400lb Capacity"
         ],
         [
-          "",
-          ""
+          "Up to $213",
+          "GABRYLLY Ergonomic Office Chair"
         ]
       ]
     }
@@ -105,22 +105,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "GABRYLLY Ergonomic Office Chair",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to LEMBERI Big and Tall Gaming Chair 400lb Capacity unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "GTPLAYER Big and Tall Gaming Chair 400lbs Heavy Duty Office Chair with Foot Rest and Ergonomic Pocket Spring Lumbar Support"
         ]
       ]
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "GTPLAYER Big and Tall Gaming Chair 400lbs Heavy Duty Office Chair with Foot Rest and Ergonomic Pocket Spring Lumbar Support is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where GABRYLLY Ergonomic Office Chair's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where LEMBERI Big and Tall Gaming Chair 400lb Capacity covers the same job at a lower price."
       }
     ]
@@ -164,15 +164,15 @@ export const howWeEvaluated = [
     "description": "Noted where a listing explicitly states a thickened or reinforced steel frame as a durability proxy, without inventing an exact steel gauge number the listings themselves don't provide."
   },
   {
-    "title": "",
+    "title": "Cushion and cushioning language",
     "description": "Distinguished between a listing's comfort claims, like thickened cushion or pocket spring, and an actual stated foam density figure, since none of these listings provide a specific density number."
   },
   {
-    "title": "",
+    "title": "Missing capacity disclosure",
     "description": "Flagged directly where a listing markets a chair as big and tall or heavy-duty without stating a specific numeric weight capacity, since marketing language alone isn't a substitute for a verified rating."
   },
   {
-    "title": "",
+    "title": "Value for capacity tier",
     "description": "Weighed price against stated capacity, review volume, and any explicitly stated frame or material reinforcement, not marketing language or price alone."
   }
 ];

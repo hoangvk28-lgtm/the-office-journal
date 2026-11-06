@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51c15qHRSnL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $31",
+          "Zapuno 4 USB Ports ($30.67)"
         ],
         [
-          "",
-          ""
+          "Under $34",
+          "SONGMICS Foldable ($33.99)"
         ],
         [
-          "",
-          ""
+          "Under $40",
+          "Cooling Fan pick ($39.99)"
         ],
         [
-          "",
-          ""
+          "Under $50",
+          "Potuopy X-Large ($49.99)"
         ]
       ]
     }
@@ -132,21 +132,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Storage and Charging Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your accessory needs",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A hidden drawer for pens and small items",
-          ""
+          "Potuopy X-Large"
         ],
         [
           "Built-in USB charging for your phone",
-          ""
+          "Zapuno 4 USB Ports"
         ],
         [
           "A cup holder and phone stand combined",
-          ""
+          "SONGMICS Foldable"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Laptop That Runs Notably Hot During Extended Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine active USB-powered cooling fan, not just a passive heat shield material claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Cooling Fan pick is the only one here with a genuine active fan connecting directly to your laptop's USB port."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a hidden storage drawer backed by a lifetime warranty, where the Potuopy pick delivers both at the top of this tier's price range."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want built-in USB charging ports without paying for the largest surface or a storage drawer, where the Zapuno pick covers that for about $19 less."
       }
     ]
@@ -181,15 +181,15 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Cooling Method",
     "description": "Distinguished genuine active USB-powered cooling fans from passive heat shield designs."
   },
   {
-    "title": "",
+    "title": "Storage Features",
     "description": "Compared hidden drawers, cup holders, and device slots included across the lineup."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated weight ratings where specified, from moderate to the highest capacity in this comparison."
   },
   {

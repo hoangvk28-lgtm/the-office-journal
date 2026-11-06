@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/312xwvFlDeL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "Staples File Folder Tote"
         ],
         [
-          "",
+          "Mid-range",
           "Storex Portable File Storage Box with Drawer Tray"
         ],
         [
@@ -84,14 +84,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: Storex Plastic Archive Storage Drawer with Lock."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: Storex Portable File Storage Box with Drawer Tray, IRIS USA File Box Organizer with Lid, Pendaflex Portable File Box with File Rails."
       }
     ],
@@ -101,8 +101,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -116,24 +116,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Storex Plastic Archive Storage Drawer with Lock offers: Substantial 18-inch drawer capacity. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Staples File Folder Tote already covers the essentials: Most affordable pick here. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -146,7 +146,7 @@ export const howWeEvaluated = [
     "description": "We verified the drawer compartment's own weight rating and slide mechanism independently from the main hanging-file compartment."
   },
   {
-    "title": "",
+    "title": "Genuine combo value vs. separate purchases",
     "description": "We considered whether the combined product represents real value over buying a separate file box and a small supply organizer individually."
   },
   {
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
     "description": "We noted that adding drawer compartments increases overall bulk and weight compared to a simple single-compartment file box."
   },
   {
-    "title": "",
+    "title": "Single-compartment comparison points",
     "description": "We included proven single-compartment alternatives directly in this comparison so buyers can honestly weigh whether the combined drawer feature is worth it."
   }
 ];

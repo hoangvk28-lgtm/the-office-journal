@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/419pjtp0ZDL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $17",
+          "Staples File Folder Tote"
         ],
         [
-          "",
+          "Mid-range",
           "Storex Portable Letter/Legal Filebox with Organizer Lid"
         ],
         [
@@ -84,14 +84,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: Storex Portable Letter/Legal Filebox with Organizer Lid, Staples File Folder Tote, IRIS USA 35 Qt. Letter/Legal File Box with Latching Lid."
       }
     ],
@@ -101,8 +101,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -116,24 +116,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Storex Portable File Box with XL Lid offers: Concrete disclosed dimensions. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Staples File Folder Tote already covers the essentials: Most affordable pick here. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -142,11 +142,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine organizer compartment verification",
     "description": "We confirmed organizer lid capacity for real small-item storage utility rather than assuming it's a token, minimally-useful feature."
   },
   {
-    "title": "",
+    "title": "Sealing-vs-organizer-function tradeoff",
     "description": "We verified whether the organizer lid function compromises the box's primary sealing and security role, a potential functional tradeoff between these combined features."
   },
   {
@@ -154,7 +154,7 @@ export const howWeEvaluated = [
     "description": "We included non-organizer alternatives directly in this comparison so buyers can honestly weigh whether the organizer premium is worth it."
   },
   {
-    "title": "",
+    "title": "Niche feature availability honesty",
     "description": "We noted that this is a niche hybrid feature, with fewer dedicated products available than for a standard closure-only lid design."
   }
 ];

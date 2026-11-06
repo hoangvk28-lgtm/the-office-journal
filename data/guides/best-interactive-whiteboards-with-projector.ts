@@ -60,18 +60,18 @@ export const heroImage = "https://m.media-amazon.com/images/I/31dOIZ7eXEL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Ambient Light Sensitivity",
     "note": "Projector-based interactive systems perform noticeably worse in bright, sunlit rooms than sealed flat-panel displays. If your room has large uncovered windows, factor in blackout curtains or blinds, or consider a flat panel instead."
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Product Architecture",
     "description": "Classified each product as a flat-panel display, projector-based interactive system, or portable conversion hardware, since these serve fundamentally different room setups and budgets."
   },
   {
-    "title": "",
+    "title": "Touch & Writing Behavior",
     "description": "Checked documented touch-point count, simultaneous-writer capacity, response latency, and touch technology (infrared, PCAP, or sensor-bar) rather than assuming higher touch-point numbers always mean a better writing experience."
   },
   {
@@ -79,11 +79,11 @@ export const howWeEvaluated = [
     "description": "Verified whether each board has genuine Google EDLA certification, which Android or Windows generation it runs, and whether an OPS slot requires a separately purchased module for full functionality."
   },
   {
-    "title": "",
+    "title": "Connectivity & Collaboration",
     "description": "Tested claims around wireless casting device limits, touch-back control, video conferencing platform compatibility (Zoom, Teams, Meet, Webex), and camera/microphone hardware quality where documented."
   },
   {
-    "title": "",
+    "title": "Build, Mounting & Support",
     "description": "Weighed panel weight, included wall mount versus separately sold stands, warranty length, and after-sales support commitments against the realistic deployment cost."
   }
 ];

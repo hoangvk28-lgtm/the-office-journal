@@ -40,7 +40,7 @@ export const faq = [
     "a": "Only with a stapler that has a deep throat, standard staplers only reach a shallow distance from the paper's edge, check the throat depth spec if you need to staple toward the center."
   },
   {
-    "q": "",
+    "q": "Are electric staplers loud?",
     "a": "They produce a distinct motor click or whir each time they fire, check reviews specifically for noise complaints if you'll use it near coworkers in a quiet shared office."
   },
   {
@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/519BkcwJsKL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Stack Thickness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical stack",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, a few sheets",
           "Max Stapler for Handy Type No."
         ],
         [
-          "",
+          "A regular office stack",
           "Black Desk Organizer and Accessories"
         ],
         [
-          "",
+          "Consistently thick stacks",
           "Zenith, 590 Black Stapler Clip 6/4-6/6, Assorted Color"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "Max Stapler for Handy Type No."
         ],
         [
-          "",
+          "Mid-range pick",
           "Acrylic Desktop Stapler with 1000 26/6 Staples"
         ],
         [
-          "",
+          "Higher budget",
           "Zenith, 590 Black Stapler Clip 6/4-6/6, Assorted Color"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Manual vs Electric",
     "cards": [
       {
         "label": "Max Stapler for Handy Type No.",
         "text": "No power dependency, reliable for any volume."
       },
       {
-        "label": "",
+        "label": "Electric",
         "text": "Reduces hand strain at high volume, depends on charge or power."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Staple Size Needed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 26/6 staples",
           "Black Desk Organizer and Accessories"
         ],
         [
-          "",
+          "A specific alternate size",
           "Acrylic Desktop Stapler with 1000 26/6 Staples"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Center-of-Document Stapling Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A deep throat depth spec, not just a standard corner-reach stapler."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Black Desk Organizer and Accessories is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Zenith, 590 Black Stapler Clip 6/4-6/6, Assorted Color justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Max Stapler for Handy Type No. 5 Pieces already covers the job at the lowest price here."
       }
     ]

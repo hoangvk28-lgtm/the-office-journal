@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Ams-faq",
     "q": "Is a multi-material system worth it?",
     "a": "Only if you regularly print multi-color or multi-material objects, each filament switch wastes purge material and adds print time, single-color prints get no benefit from the feature."
   },
   {
-    "id": "",
+    "id": "Nozzle-faq",
     "q": "Will any nozzle work with any filament?",
     "a": "No, abrasive filaments like carbon-fiber-infused or metal-infused wear down a standard brass nozzle quickly, a hardened steel or ruby-tipped nozzle holds up much longer with those materials."
   },
   {
-    "id": "",
+    "id": "Fdm-resin-faq",
     "q": "Should I get an FDM or resin 3D printer?",
     "a": "FDM produces sturdier functional parts at lower cost with visible layer lines, resin produces far finer detail and smoother surfaces but requires ventilation and messier post-processing with isopropyl alcohol, match to what you're actually printing."
   },
   {
-    "id": "",
+    "id": "Leveling-faq",
     "q": "Is automatic bed leveling worth paying extra for?",
     "a": "It saves real recurring setup time if you print frequently, manual leveling requires adjusting corner screws and checking with a feeler gauge before nearly every session."
   },
   {
-    "id": "",
+    "id": "Speed-faq",
     "q": "Should I print at the printer's maximum advertised speed?",
     "a": "Usually not for best quality, max speed often introduces visible ringing or dimensional drift, most users get better results dialing back somewhat from the advertised ceiling."
   },
   {
-    "id": "",
+    "id": "Sensor-3dp-faq",
     "q": "What happens if filament runs out mid-print?",
     "a": "Without a filament run-out sensor, the print simply fails and wastes everything printed so far, this matters most for long unattended prints, check for this feature if you run extended jobs."
   }
@@ -67,34 +67,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/4180LQZaf1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Print Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you print",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Functional parts and prototypes",
           "FLASHFORGE Adventurer 5M 3D Printer with Fully Auto Leveling"
         ],
         [
-          "",
+          "Fine-detail miniatures or jewelry",
           "ANYCUBIC Kobra X Fast 3D Printer"
         ],
         [
-          "",
+          "Large-format projects",
           "AOSEED AI 3D Printer for Kids"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,36 +102,36 @@ export const howToChoose: HowToChooseSection[] = [
           "FLASHFORGE Adventurer 5M 3D Printer with Fully Auto Leveling"
         ],
         [
-          "",
+          "Mid-range pick",
           "Geeetech M1S 3D Printer for Kids and Beginners"
         ],
         [
-          "",
+          "Higher budget",
           "AOSEED AI 3D Printer for Kids"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "FDM vs Resin",
     "cards": [
       {
         "label": "FLASHFORGE Adventurer 5M 3D Printer with Fully Auto Leveling)",
         "text": "Sturdier functional parts at lower cost, visible layer lines."
       },
       {
-        "label": "",
+        "label": "Resin",
         "text": "Far finer detail and smoother finish, messier post-processing with toxic uncured resin."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Filament Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your materials",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,7 +139,7 @@ export const howToChoose: HowToChooseSection[] = [
           "ANYCUBIC Kobra X Fast 3D Printer"
         ],
         [
-          "",
+          "Warping-prone ABS or nylon",
           "Geeetech M1S 3D Printer for Kids and Beginners"
         ]
       ]
@@ -149,24 +149,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Unattended Prints Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine filament run-out sensor so a multi-hour print doesn't silently fail and waste material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "ANYCUBIC Kobra X Fast 3D Printer is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where AOSEED AI 3D Printer for Kids justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where FLASHFORGE Adventurer 5M 3D Printer with Fully Auto Leveling already covers the job at the lowest price here."
       }
     ]

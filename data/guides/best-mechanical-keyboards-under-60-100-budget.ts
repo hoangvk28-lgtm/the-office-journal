@@ -63,80 +63,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "AULA F75 Pro Wireless Mechanical Keyboard"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "AULA F75 Pro Wireless Mechanical Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $57",
+          "Logitech G413 SE Full"
         ],
         [
-          "",
+          "Up to $67",
           "AULA F75 Pro Wireless Mechanical Keyboard"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wireless vs Wired Connection",
     "cards": [
       {
-        "label": "",
+        "label": "Wireless",
         "text": "4GHz dongle option beyond just Bluetooth. In this comparison: AULA F75 Pro Wireless Mechanical Keyboard."
       },
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, the safer choice for competitive gaming. In this comparison: Logitech G413 SE Full."
       }
     ],
     "note": "Default to wired if competitive gaming latency matters, wireless for general typing and office use."
   },
   {
-    "subheading": "",
+    "subheading": "By Keycap Material",
     "note": "Check each pick's listed keycap material (PBT vs ABS) against how long you plan to use it daily before buying, since PBT resists shine and wear better over years."
   },
   {
     "subheading": "For Shared Office or Video Call Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Linear or tactile switches rather than clicky ones, to avoid disruptive noise on calls or in a shared space."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "AULA F75 Pro Wireless Mechanical Keyboard is worth checking against its listed switch type before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want hot-swappable switches and premium PBT keycaps for years of daily use, where AULA F75 Pro Wireless Mechanical Keyboard's build quality gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want to try the mechanical feel without a big investment, where Logitech G413 SE Full covers the same job at a lower price."
       }
     ]
@@ -157,11 +157,11 @@ export const howWeEvaluated = [
     "description": "Confirmed each listed price sits at time of research, and separately flagged which pick also clears the stricter its price line."
   },
   {
-    "title": "",
+    "title": "Firmware and software longevity",
     "description": "Weighed established-brand software support against smaller-brand proprietary tools, which are more likely to be abandoned within a couple of years."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed connection flexibility, hot-swap capability, and layout against price across the two picks that survived the mechanical-vs-membrane filtering."
   }
 ];

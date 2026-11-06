@@ -64,8 +64,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Match Your Priority to a Specific Pick",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -74,7 +74,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Mini size but with a stand to prop it up",
-          ""
+          "Black Glass Whiteboard 9.5\"x6.7\" with Stand"
         ],
         [
           "Two small writing surfaces in a mini footprint",

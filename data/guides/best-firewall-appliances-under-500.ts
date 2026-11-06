@@ -60,17 +60,17 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $500",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "The best all-around option in this comparison",
-          ""
+          "TP-Link ER605 V2"
         ],
         [
           "A strong alternative with a different tradeoff",
-          ""
+          "Protectli Vault FW4B"
         ]
       ]
     }
@@ -79,8 +79,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,8 +88,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Protectli Vault FW2B (Secure your network with a)"
         ],
         [
-          "",
-          ""
+          "Best overall value",
+          "TP-Link ER605 V2"
         ]
       ]
     }
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "TP-Link ER605 V2 vs Protectli Vault FW2B",
     "cards": [
       {
-        "label": "",
+        "label": "TP-Link ER605 V2",
         "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
       },
       {
@@ -109,20 +109,20 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most buyers should default to TP-Link ER605 V2 unless your specific use case points toward Protectli Vault FW2B (Secure your network with a)'s particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Matches this guide's core use case most closely",
-          ""
+          "TP-Link ER605 V2"
         ],
         [
           "A close secondary option worth comparing",
-          ""
+          "Protectli Vault FW4B"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TP-Link ER605 V2 is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on Protectli Vault FW2B (Secure your network with a), where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Your requirements are covered by TP-Link ER605 V2 without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every recommended product must be new, in stock and up to $500 on the article refresh date; stale sale prices are automatically disqualified."
   },
   {
-    "title": "",
+    "title": "Budget-ladder context",
     "description": "Explicitly show what changes between the next-lower tier, the SMB turnkey tier, and the next-higher tier so this page is not a cloned generic ranking."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize price against NIC topology, firewall/VPN/IDS throughput and the minimum usable setup cost rather than raw feature count."
   },
   {
-    "title": "",
+    "title": "Evidence split",
     "description": "We separated CPU/RAM/storage and software/support model figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
-    "title": "",
+    "title": "Threshold-specific ownership verdict",
     "description": "Judge power/thermals, warranty/support, replacement accessories and the chance that a buyer should save money or step up a tier instead of spending the full $500."
   }
 ];

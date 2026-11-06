@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ParEk4GiL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -76,7 +76,7 @@ export const howToChoose: HowToChooseSection[] = [
           "BesWin Office Chair Mat for Low Pile Carpets, 46x72"
         ],
         [
-          "",
+          "Wide, centered carpet coverage",
           "BesWin Office Chair Mat for Carpet, 48x60"
         ],
         [
@@ -87,53 +87,53 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $60",
+          "WASJOYE ($59.99)"
         ],
         [
-          "",
-          ""
+          "Under $63",
+          "BesWin 48x60 ($62.99)"
         ],
         [
-          "",
-          ""
+          "Under $70",
+          "Marvelux ($69.99) or BesWin 46x72 ($69.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Polycarbonate vs PVC Construction",
     "cards": [
       {
-        "label": "",
+        "label": "Polycarbonate (Marvelux)",
         "text": "Offers higher impact strength, near-instant flattening, and long-term resistance to dipping or cupping, a genuine material upgrade for hard floors."
       },
       {
-        "label": "",
+        "label": "PVC (BesWin picks, WASJOYE)",
         "text": "Costs less while still offering solid durability for carpet use, though it flattens more slowly and can develop minor surface dents over time."
       }
     ],
     "note": "If your floor is hardwood or tile and durability is the priority, the Marvelux polycarbonate pick is worth the material upgrade. If you're on carpet, the PVC-based picks deliver proven grip at a lower cost."
   },
   {
-    "subheading": "",
+    "subheading": "By Coverage Shape",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk layout",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Long or L-shaped desk needing extra length",
-          ""
+          "BesWin 46x72"
         ],
         [
           "Standard centered desk needing width",
@@ -141,7 +141,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Hard floor desk of any standard layout",
-          ""
+          "Marvelux 48x60"
         ]
       ]
     }
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an L-Shaped Desk Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A mat with extended length rather than just width, since an L-shaped desk typically requires more front-to-back or side-spanning coverage as you roll between sections."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The BesWin 46x72 pick's extended 72 inch length specifically accommodates the wider rolling range an L-shaped desk setup requires."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're on a hard floor and want genuine polycarbonate durability with near-instant flattening, where the Marvelux pick delivers a real material upgrade over PVC."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're on carpet and just need maximum coverage at 48x60, where the WASJOYE pick matches the pricier BesWin pick's size for about $3 to $10 less."
       }
     ]
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Material Composition",
     "description": "Distinguished polycarbonate construction from standard PVC across the lineup and its durability implications."
   },
   {
-    "title": "",
+    "title": "Coverage Dimensions",
     "description": "Compared width versus length priorities across the largest mats in this price range."
   },
   {
-    "title": "",
+    "title": "Floor Type Compatibility",
     "description": "Checked carpet-only versus hard-floor-only compatibility for each pick."
   },
   {
-    "title": "",
+    "title": "Flattening and Setup",
     "description": "Compared how quickly each material returns to flat after shipping rolled."
   },
   {
-    "title": "",
+    "title": "Value at Maximum Size",
     "description": "Weighed price against coverage area to identify the best value at this tier's largest sizes."
   }
 ];

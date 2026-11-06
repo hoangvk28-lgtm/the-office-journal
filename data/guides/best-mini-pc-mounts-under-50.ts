@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31mlouH9-1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $35",
+          "VIVO ($34.99) or HumanCentric Dell OptiPlex ($34.99)"
         ],
         [
-          "",
-          ""
+          "Under $38",
+          "Suptek 2 Pack ($37.99)"
         ],
         [
-          "",
-          ""
+          "Under $46",
+          "Mount-It! 360 Swivel ($45.99)"
         ]
       ]
     }
@@ -114,22 +114,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "360-Degree Swivel vs 135-Degree Swivel",
     "cards": [
       {
-        "label": "",
+        "label": "360-degree swivel (Mount-It!)",
         "text": "Full rotation reaches any angle for rear port access, worth the price premium if you frequently swap cables or peripherals."
       },
       {
-        "label": "",
+        "label": "135-degree swivel (VIVO)",
         "text": "Still provides easy backside access for most cable and port needs, at a lower price than the full-rotation pick."
       }
     ],
     "note": "If you rarely need to reach rear ports after initial setup, the VIVO's 135-degree swivel and lower price make more sense than paying for full rotation you'll use infrequently."
   },
   {
-    "subheading": "",
+    "subheading": "By PC Case Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your device size",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -147,24 +147,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Frequently Reconfigured Workstation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Full swivel range so you can access rear ports and cables repeatedly without unmounting the device each time."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Pick's full 360-degree swivel suits a workstation where cables or peripherals change often."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need full 360-degree rotation and the widest device size range, where the Mount-It! Pick delivers both at the top of this tier's price range."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You have a compact OptiPlex Micro or just need two standard mounts, where the HumanCentric or suptek picks cover that need for about $11 less."
       }
     ]
@@ -173,23 +173,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Swivel Range",
     "description": "Compared rotation range, from no swivel through 135-degree and full 360-degree designs."
   },
   {
-    "title": "",
+    "title": "Adjustable Frame Size",
     "description": "Compared the width and height range each mount's adjustable frame can accommodate."
   },
   {
-    "title": "",
+    "title": "Weight Capacity",
     "description": "Compared stated maximum supported weight across the heavier-duty picks in this tier."
   },
   {
-    "title": "",
+    "title": "Multi-Pack Value",
     "description": "Compared per-unit cost for the listing offering two mounts in a single purchase."
   },
   {
-    "title": "",
+    "title": "Installation Requirements",
     "description": "Checked specific desk clearance or overhang requirements each mount depends on for proper installation."
   }
 ];

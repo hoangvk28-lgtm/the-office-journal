@@ -60,15 +60,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/412hKPIzS8L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Independently verified weight capacity",
           "GORILLA GRIP Office Chair Mat for Carpet Floors, 29x47"
         ],
         [
@@ -87,28 +87,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $37",
+          "AiBOB ($36.99)"
         ],
         [
-          "",
-          ""
+          "Under $46",
+          "Kuyal 46x60 ($45.95)"
         ],
         [
-          "",
-          ""
+          "Under $45",
+          "Low Pile Carpet with Lip ($44.99)"
         ],
         [
-          "",
-          ""
+          "Under $53",
+          "GORILLA GRIP ($52.99)"
         ]
       ]
     }
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Tested Weight Capacity vs No Stated Rating",
     "cards": [
       {
-        "label": "",
+        "label": "Tested rating (GORILLA GRIP)",
         "text": "Backs its 400 lb capacity claim with third-party testing, giving you a concrete number to compare against your own weight and chair combination."
       },
       {
@@ -128,16 +128,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you or your chair setup is on the heavier side, the GORILLA GRIP pick's tested rating gives you actual assurance rather than an assumption based on thickness alone."
   },
   {
-    "subheading": "",
+    "subheading": "By Coverage Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your space needs",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Compact, budget-conscious coverage",
+          "AiBOB (36in x 48in)"
         ],
         [
           "Standard coverage with tested capacity",
@@ -154,24 +154,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Heavier User or Larger Chair Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An explicit, independently tested weight capacity rather than general thickness or durability claims alone."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The GORILLA GRIP pick's third-party tested 400 lb rating specifically gives heavier users or larger chair setups a verified capacity figure to rely on."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want an independently tested weight rating and long-term divot resistance, where the GORILLA GRIP pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want a gaming-styled mat with basic carpet protection, where the AiBOB pick covers that for about $16 less."
       }
     ]
@@ -180,23 +180,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Weight Capacity Verification",
     "description": "Checked which picks state an independently tested weight rating versus no stated capacity at all."
   },
   {
-    "title": "",
+    "title": "Coverage Size",
     "description": "Compared stated dimensions across hardwood and carpet picks to determine rolling radius coverage."
   },
   {
-    "title": "",
+    "title": "Floor Type Compatibility",
     "description": "Distinguished carpet-specific studded backing from hardwood-specific anti-slide coating."
   },
   {
-    "title": "",
+    "title": "Durability and Warranty",
     "description": "Compared stated thickness, divot resistance, and any included replacement or warranty policies."
   },
   {
-    "title": "",
+    "title": "Design and Aesthetic",
     "description": "Compared plain clear designs against decorative gaming-oriented patterns across the lineup."
   }
 ];

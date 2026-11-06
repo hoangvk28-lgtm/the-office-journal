@@ -21,7 +21,7 @@ export const buyingCriteria = [
     "explanation": "Confirm AC and solar recharge curves, input limits, and simultaneous-input behavior."
   },
   {
-    "criterion": "",
+    "criterion": "Check Safety Certification Evidence",
     "explanation": "Look for safety certification evidence, thermal limits, fan behavior, and manual operating restrictions."
   }
 ];
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Confirm AC and solar recharge curves, input limits, and simultaneous-input behavior."
   },
   {
-    "subheading": "",
+    "subheading": "Check Safety Certification Evidence",
     "note": "Look for safety certification evidence, thermal limits, fan behavior, and manual operating restrictions."
   }
 ];
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Looked for UL, UL2743, or other documented safety certification and battery chemistry evidence rather than trusting a safety claim alone."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included cables, solar panel bundling, warranty length, and app requirements as part of the real cost and usability of each pick."
   }
 ];

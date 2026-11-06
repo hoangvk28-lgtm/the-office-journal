@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/3126VZYSuoL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "General screen time",
           "YMRFW Aviator Blue Light Blocking Glasses for Women Men Trendy Metal Frame"
         ],
         [
-          "",
+          "Design/color-sensitive work",
           "Dollger Oversized Blue Light Glasses for Men Women Gold Metal Aviator Frame"
         ],
         [
-          "",
+          "Long gaming sessions",
           "Orange Aviator Blue Light Blocking Glasses for Better Sleep"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,44 +95,44 @@ export const howToChoose: HowToChooseSection[] = [
           "YMRFW Aviator Blue Light Blocking Glasses for Women Men Trendy Metal Frame"
         ],
         [
-          "",
+          "Mid-range pick",
           "JM Aviator Blue Light Glasses Woman Men Clear Wire Frame Bluelight Glasses"
         ],
         [
-          "",
+          "Higher budget",
           "Orange Aviator Blue Light Blocking Glasses for Better Sleep"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clear vs Yellow-Tinted Lenses",
     "cards": [
       {
         "label": "YMRFW Aviator Blue Light Blocking Glasses for Women Men Trendy Metal Frame)",
         "text": "Filters less blue light but keeps on-screen colors accurate."
       },
       {
-        "label": "",
+        "label": "Yellow-tinted",
         "text": "Filters more blue light but visibly shifts color perception."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Vision Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No vision correction needed",
           "Dollger Oversized Blue Light Glasses for Men Women Gold Metal Aviator Frame"
         ],
         [
-          "",
+          "Reading magnification needed",
           "JM Aviator Blue Light Glasses Woman Men Clear Wire Frame Bluelight Glasses"
         ]
       ]
@@ -142,24 +142,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For All-Day Desk Wear Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A frame width and nose bridge that actually fits your face, with a flexible, durable frame material."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Dollger Oversized Blue Light Glasses for Men Women Gold Metal Aviator Frame is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Orange Aviator Blue Light Blocking Glasses for Better Sleep justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where YMRFW Aviator Blue Light Blocking Glasses for Women Men Trendy Metal Frame already covers the job at the lowest price here."
       }
     ]

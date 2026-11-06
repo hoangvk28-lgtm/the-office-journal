@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/51cdB-ugjML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,19 +76,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $20",
           "ICE COOREL Aluminum Laptop Cooling Pad"
         ],
         [
-          "",
+          "Mid-range",
           "Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans"
         ],
         [
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: Razer Laptop Cooling Pad Adaptive Smart."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: LIANGSTAR Laptop Cooling Pad with 6 Quiet Fans."
       }
     ],
     "note": "Most buyers should default to a slim pick like Razer Laptop Cooling Pad Adaptive Smart for everyday portability, and only step up to LIANGSTAR Laptop Cooling Pad with 6 Quiet Fans's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Razer Laptop Cooling Pad Adaptive Smart offers: Frame-swap system built for stability with heavy gaming laptops. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "ICE COOREL Aluminum Laptop Cooling Pad already covers the essentials: 7 height settings matching the widest range in this guide. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -161,11 +161,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine stand differentiation",
     "description": "We prioritized products with meaningfully more height or angle settings than the 2-setting norm on basic cooling pads, not products where a stand was merely incidental."
   },
   {
-    "title": "",
+    "title": "Stability under typing pressure",
     "description": "We noted slip-prevention features like baffles and stoppers, relevant since a stand needs to remain stable under real use, not just look adjustable."
   },
   {
@@ -173,7 +173,7 @@ export const howWeEvaluated = [
     "description": "We considered whether the stand mechanism is rated or reinforced for heavier gaming laptops, not just lightweight ultrabooks."
   },
   {
-    "title": "",
+    "title": "Range vs bulk tradeoff",
     "description": "We compared the widest-range stands against their weight and fan count, since more adjustment mechanisms can add bulk."
   }
 ];

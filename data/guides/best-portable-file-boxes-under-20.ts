@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41GQ8rqDXhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,24 +88,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $16",
+          "Lockable Lid Storage Bin ($15.75)"
         ],
         [
-          "",
-          ""
+          "Under $19",
+          "IRIS USA ($18.99) or Staples Snap Lid ($18.99)"
         ],
         [
-          "",
-          ""
+          "Under $20",
+          "Staples Portable Storage Tote ($19.99)"
         ]
       ]
     }
@@ -125,11 +125,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Both approaches require you to supply your own lock. The IRIS pick's dedicated spot is purpose-built for this, while the lockable-lid bin repurposes its latch for the same function at a lower price."
   },
   {
-    "subheading": "",
+    "subheading": "By Lid Attachment Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your preference",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -138,7 +138,7 @@ export const howToChoose: HowToChooseSection[] = [
         ],
         [
           "Lid snaps tight for moisture sealing",
-          ""
+          "Staples Snap Lid Clear"
         ],
         [
           "Lid latches with organizer compartments",
@@ -151,24 +151,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Financial or Legal Document Storage Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A dedicated lock spot or padlock-compatible latch, not just a snap-on lid, since sensitive documents warrant an actual securable closure."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The IRIS USA pick's dedicated lock spot is specifically marketed toward bankers and financial professionals handling sensitive paperwork."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a permanently attached hinged lid and built-in organizer tray, where the Staples Portable Storage Tote delivers both for about $4 more than the budget lockable-lid pick."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a padlock-ready latch without extra organizer features, where the Lockable Lid Storage Bin covers that for the lowest price in this comparison."
       }
     ]
@@ -177,23 +177,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Lid Security Mechanism",
     "description": "Compared latching, snap-tight, and hinged lid designs and how securely each keeps contents in place during transport."
   },
   {
-    "title": "",
+    "title": "Lock Compatibility",
     "description": "Checked which picks include a dedicated lock spot or latch specifically designed to accept a padlock."
   },
   {
-    "title": "",
+    "title": "Organizer Compartments",
     "description": "Compared built-in small-item storage in the lid or an integrated tray across the lineup."
   },
   {
-    "title": "",
+    "title": "Capacity and Dimensions",
     "description": "Compared interior dimensions against standard letter and legal hanging folder sizes."
   },
   {
-    "title": "",
+    "title": "Stackability",
     "description": "Checked whether each pick's cover design supports stacking multiple boxes for efficient storage."
   }
 ];

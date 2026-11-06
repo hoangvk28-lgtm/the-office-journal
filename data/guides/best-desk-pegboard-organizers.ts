@@ -53,11 +53,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41tGKIBolqL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -65,26 +65,26 @@ export const howToChoose: HowToChooseSection[] = [
           "Metal Clamp On Desk Shelf"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "PEGZONE Desk Side Storage Organizer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $25",
           "PEGZONE Desk Side Storage Organizer"
         ],
         [
-          "",
+          "Up to $38",
           "Metal Clamp On Desk Shelf"
         ]
       ]
@@ -94,22 +94,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Built-In Monitor Mount vs Board-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in monitor mount",
         "text": "Combines cable management and monitor positioning in one panel, saving a separate monitor arm purchase. In this comparison: VIVO Articulating Single Monitor Pegboard Mount."
       },
       {
-        "label": "",
+        "label": "Board-only",
         "text": "Simpler and usually cheaper, fine if you already have a separate monitor arm or stand. In this comparison: PEGZONE Desk Side Storage Organizer, PEGZONE Desk Side Storage Organizer, Metal Clamp On Desk Shelf."
       }
     ],
     "note": "Default to board-only unless you specifically need to consolidate a monitor mount into the same purchase."
   },
   {
-    "subheading": "",
+    "subheading": "By Built-In Shelving",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -117,7 +117,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Metal Clamp On Desk Shelf"
         ],
         [
-          "",
+          "Hooks alone are enough",
           "PEGZONE Desk Side Storage Organizer"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Loaded, Multi-Accessory Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine metal or thick MDF construction, confirmed standard hole spacing, and a wall-anchor mounting option for stability once loaded with monitor arms and accessories."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "PEGZONE Desk Side Storage Organizer is worth checking against its listed material and mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You plan to load the board with monitor arms and multiple accessories, where Metal Clamp On Desk Shelf's material and mounting give real stability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a few lightweight decorative hooks, where PEGZONE Desk Side Storage Organizer covers the same job at a lower price."
       }
     ]
@@ -153,7 +153,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Hole-spacing compatibility disclosed clearly",
     "description": "Checked whether each accessory depends on a specific host board's hole pattern versus being a self-contained system with no compatibility risk."
   },
   {

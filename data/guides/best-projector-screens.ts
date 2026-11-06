@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41zUPTz-pvL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Setup Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,18 +73,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Motorized Projector Screen, Indoor and Outdoor Movies Screen Electric"
         ],
         [
-          "",
+          "Budget backyard movie nights",
           "120 Inch Projector Screen with Stand, 16:9 4K HD Portable Movie Screen"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -92,11 +92,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Mdbebbron 120 inch Projector Screen 16:9 Foldable Anti-Crease"
         ],
         [
-          "",
+          "Mid-range, stand included",
           "ACSTAB Outdoor Projector Screen with Stand, 120 Inch Portable"
         ],
         [
-          "",
+          "Higher budget, motorized convenience",
           "Motorized Projector Screen, Indoor and Outdoor Movies Screen Electric"
         ]
       ]
@@ -120,8 +120,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Screen Gain and Viewing Angle",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Genuine Outdoor Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit UV-resistant and weatherproof material claims, not just 'outdoor' in the product name, since some listings use the word loosely to mean 'portable' rather than truly weather-rated fabric."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "JWSIT Projector Screen 120 inch, Outdoor Projector Screen with 3-Layers PVC is worth checking against its specific material claims before assuming it will hold up to repeated outdoor exposure."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a permanent, wrinkle-free setup with remote-controlled retraction, where Motorized Projector Screen, Indoor and Outdoor Movies Screen Electric justifies the higher price for a space you use often."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're setting up a screen occasionally for backyard movie nights, where Mdbebbron 120 inch Projector Screen 16:9 Foldable Anti-Crease covers the job at the lowest price in this lineup."
       }
     ]

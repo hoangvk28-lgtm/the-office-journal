@@ -57,19 +57,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ThgS0VZ-L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Brightness",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fully dark, dedicated room",
           "BenQ TH671ST 3000 Lumens 1080p Short Throw Home Entertainment Projector"
         ],
         [
-          "",
+          "Some ambient light",
           "BenQ TH575i 1080p Home Projector"
         ],
         [
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -92,11 +92,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Aurzen Roku TV D1R Smart Portable Outdoor Projector with WiFi and Bluetooth"
         ],
         [
-          "",
+          "Mid-range pick",
           "BenQ TH575i 1080p Home Projector"
         ],
         [
-          "",
+          "Higher budget",
           "BenQ TK710STi 3200 Lumens 4K HDR Short Throw Home Entertainment Projector"
         ]
       ]
@@ -117,11 +117,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Most casual, weekly-use buyers should default to a lamp-based pick unless they'll run it daily, where laser's near-zero maintenance pays for itself over a few years."
   },
   {
-    "subheading": "",
+    "subheading": "By Throw Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dedicated Dark-Room Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Native (on/off) contrast ratio, not a 'dynamic contrast' number, since dynamic figures are inflated and don't reflect real black-level detail."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "BenQ TH671ST 3000 Lumens 1080p Short Throw Home Entertainment Projector is worth checking against its documented native contrast figures before assuming any headline contrast number tells the real story."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want laser reliability and top-tier brightness, where BenQ TK710STi 3200 Lumens 4K HDR Short Throw Home Entertainment Projector justifies the jump."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You mainly want casual, occasional use, where Aurzen Roku TV D1R Smart Portable Outdoor Projector with WiFi and Bluetooth already covers the job at the lowest price here."
       }
     ]

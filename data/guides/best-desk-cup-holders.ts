@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Large Clamp On Cup Holder for Desk"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "GUNKING Luxury 2"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $10",
           "HzTinT Large Desk Cup Holder"
         ],
         [
-          "",
+          "Up to $25",
           "OOKUU 2 Pack Large Desk Cup Holder"
         ]
       ]
@@ -98,27 +98,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Metal Clamp vs Plastic Clamp",
     "cards": [
       {
-        "label": "",
+        "label": "Metal clamp",
         "text": "Holds its grip strength longer under repeated tightening, the better choice if you reposition the holder often. In this comparison: OOKUU Upgraded Large Desk Cup Holder Clamp, 360° Rotating Desk Cup Holder, OOKUU 2 Pack Large Desk Cup Holder, OOKUU Deeper Desk Cup Holder."
       },
       {
-        "label": "",
+        "label": "Plastic clamp",
         "text": "Usually lighter and cheaper, a reasonable choice if you clamp it once and leave it in place. In this comparison: Universal Large Desk Cup Holder Clamp."
       }
     ],
     "note": "Default to a metal clamp unless price is the deciding factor and you won't reposition the holder often."
   },
   {
-    "subheading": "",
+    "subheading": "By Feature Set",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Want a headphone hanger or hybrid design",
-          ""
+          "GUNKING Luxury 2"
         ],
         [
           "Just want a dedicated cup holder",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For an Oversized Tumbler Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed cavity diameter in inches, not just a vague \"large\" label, since oversized tumblers vary in exact width and a mismatched cavity won't grip securely."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "GUNKING Luxury 2 is worth checking against its listed diameter spec before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a metal clamp and deeper cavity, where OOKUU 2 Pack Large Desk Cup Holder's higher price buys real durability and tip resistance over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You use a standard-size mug and rarely bump your desk, where HzTinT Large Desk Cup Holder covers the same job at a lower price."
       }
     ]
@@ -157,7 +157,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Tip and spill resistance",
     "description": "We favored deep, form-fitting cavity designs over shallow flat-ring holders, since cavity depth is the main real-world defense against incidental bumps."
   },
   {
@@ -165,11 +165,11 @@ export const howWeEvaluated = [
     "description": "We considered clamp and cavity construction against holding a full drink, not an empty demonstration cup."
   },
   {
-    "title": "",
+    "title": "Desk edge clamp compatibility",
     "description": "We checked clamp opening range and material (metal vs. Plastic) for durability under repeated tightening across varied desk edges."
   },
   {
-    "title": "",
+    "title": "Hybrid feature verification",
     "description": "For 2-in-1 or multi-function picks, we verified the combined features are genuine and well-reviewed rather than a token add-on."
   }
 ];

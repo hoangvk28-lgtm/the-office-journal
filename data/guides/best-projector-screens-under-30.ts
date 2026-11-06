@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51Tix-q+A6S._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "Mdbebbron 120 inch Projector Screen, Foldable Anti-Crease"
         ],
         [
-          "",
+          "Machine-washable fabric",
           "AAJK 100inch Outdoor Projector Screen, Anti Crease Portable"
         ],
         [
@@ -88,34 +88,34 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $12",
+          "100 inch Foldable Portable ($11.99)"
         ],
         [
-          "",
-          ""
+          "Under $19",
+          "AAJK 80inch ($18.58)"
         ],
         [
-          "",
-          ""
+          "Under $22",
+          "AAJK 100inch ($21.28)"
         ],
         [
-          "",
-          ""
+          "Under $25",
+          "Mdbebbron 120inch ($24.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Machine-Washable vs Spot-Clean-Only Fabric",
     "cards": [
       {
         "label": "Machine-washable (AAJK 80in, AAJK 100in)",
@@ -129,23 +129,23 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you plan frequent outdoor use where the screen will get dusty or dirty, the AAJK picks' washable fabric is worth prioritizing. If your screen stays indoors in a clean space, any of the four picks work fine."
   },
   {
-    "subheading": "",
+    "subheading": "By Viewing Area Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room size",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Smaller room, casual use",
           "AAJK 80inch (75in x 44in)"
         ],
         [
-          "",
+          "Standard room",
           "AAJK 100inch (89in x 50in) or 100 inch Foldable"
         ],
         [
-          "",
+          "Larger room, maximum size",
           "Mdbebbron 120inch (104in x 58in)"
         ]
       ]
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Testing Projector Screen Setups Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A screen that transparently sets expectations about its casual-use positioning rather than overselling professional-grade quality at a budget price."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The 100 inch Foldable pick's listing specifically and honestly states it's designed for casual use, not a heavy-duty professional screen, helping first-time buyers set accurate expectations."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the largest viewing area with double-sided projection flexibility, where the Mdbebbron pick delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a basic screen for occasional casual use, where the 100 inch Foldable pick covers that for about $13 less."
       }
     ]
@@ -185,19 +185,19 @@ export const howWeEvaluated = [
     "description": "Compared material thickness and anti-crease claims across the lineup."
   },
   {
-    "title": "",
+    "title": "Viewing Area Size",
     "description": "Compared stated diagonal size and actual viewing area dimensions."
   },
   {
-    "title": "",
+    "title": "Washability and Maintenance",
     "description": "Checked which picks specifically support machine washing versus spot cleaning only."
   },
   {
-    "title": "",
+    "title": "Mounting Accessories",
     "description": "Compared included hooks, ropes, and tape for wall or frame mounting."
   },
   {
-    "title": "",
+    "title": "Honesty of Positioning",
     "description": "Checked whether listings transparently set expectations about casual versus professional use."
   }
 ];

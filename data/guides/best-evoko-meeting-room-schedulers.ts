@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31KXDzC4fSL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,22 +73,22 @@ export const howToChoose: HowToChooseSection[] = [
           "BoxWave Stylus Pouch Compatible with Evoko LISO"
         ],
         [
-          "",
+          "Standard conference room",
           "BoxWave Screen Protector Compatible With Evoko Liso"
         ],
         [
           "Large room or lobby signage",
-          ""
+          "Evoko Naso Room Manager"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "BoxWave Stylus Pouch Compatible with Evoko LISO"
         ],
         [
-          "",
+          "Mid-range pick",
           "Evoko ERM2001 LISO Space Booking System Digital Door Sign"
         ],
         [
-          "",
-          ""
+          "Higher budget",
+          "Evoko Naso Room Manager"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "BoxWave Stylus Pouch Compatible with Evoko LISO)",
         "text": "Long battery life and bright-light legibility, but slower refresh and simpler interaction."
       },
       {
-        "label": "",
+        "label": "LCD touchscreen (e.g. Evoko Naso Room Manager)",
         "text": "Instant refresh and full tap-to-book interaction, at the cost of higher power draw."
       }
     ],
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "BoxWave Screen Protector Compatible With Evoko Liso"
         ],
         [
-          "",
+          "Google Workspace / Calendar",
           "Evoko ERM2001 LISO Space Booking System Digital Door Sign"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "BoxWave Screen Protector Compatible With Evoko Liso is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where Evoko Naso Room Manager justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward single-room display without advanced features, where BoxWave Stylus Pouch Compatible with Evoko LISO already covers the job at the lowest price here."
       }
     ]

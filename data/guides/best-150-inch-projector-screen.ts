@@ -57,11 +57,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51tgyGfPVzL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Setup Style",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -69,34 +69,34 @@ export const howToChoose: HowToChooseSection[] = [
           "AAJK 150inch Outdoor Projector Screen Anti Crease Portable Movie Screen"
         ],
         [
-          "",
+          "Permanent install",
           "Silver Ticket Products STR Series 6 Piece Home Theater Fixed Frame 4K / 8K"
         ],
         [
-          "",
+          "Budget occasional use",
           "Mdbebbron 150 inch Projection Screen 16:9 Foldable Anti-Crease Portable"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Cheapest option",
           "Mdbebbron 150 inch Projection Screen 16:9 Foldable Anti-Crease Portable"
         ],
         [
-          "",
+          "Mid-range",
           "TOWOND Projector Screen and Stand"
         ],
         [
-          "",
+          "Higher budget",
           "Silver Ticket Products STR Series 6 Piece Home Theater Fixed Frame 4K / 8K"
         ]
       ]
@@ -120,8 +120,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Screen Gain and Viewing Angle",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Genuine Outdoor Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit UV-resistant and weatherproof material claims, not just 'outdoor' in the product name."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TOWOND Projector Screen and Stand is worth checking against its specific material claims before assuming it will hold up to repeated outdoor exposure."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a permanent, wrinkle-free setup, where Silver Ticket Products STR Series 6 Piece Home Theater Fixed Frame 4K / 8K justifies the higher price for a space you use often."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're setting up occasionally, where Mdbebbron 150 inch Projection Screen 16:9 Foldable Anti-Crease Portable covers the job at the lowest price in this lineup."
       }
     ]

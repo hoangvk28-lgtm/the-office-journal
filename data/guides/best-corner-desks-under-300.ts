@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41Hcrt5qu9L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "Furologee 66” L Shaped Desk with Power Outlet"
         ],
         [
-          "",
-          ""
+          "Standard home office",
+          "Huuger 63 Inch L Shaped Desk with Power Outlets & 0.95 Inch Thicker Desktop"
         ],
         [
-          "",
+          "Larger dedicated office",
           "SEDETA 65\"x59\" L Shaped Desk with Lockable Drawers Storage for Home Office"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Furologee 66” L Shaped Desk with Power Outlet"
         ],
         [
-          "",
+          "Mid-range pick",
           "AODK 66\" L Shaped Computer Desk"
         ],
         [
-          "",
+          "Higher budget",
           "SEDETA 65\"x59\" L Shaped Desk with Lockable Drawers Storage for Home Office"
         ]
       ]
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Single monitor",
+          "Huuger 63 Inch L Shaped Desk with Power Outlets & 0.95 Inch Thicker Desktop"
         ],
         [
           "Dual monitor or desktop tower",
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Furologee 66” L Shaped Desk with Power Outlet is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in storage, better cable management, and sturdier build quality, where SEDETA 65\"x59\" L Shaped Desk with Lockable Drawers Storage for Home Office justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where Furologee 66” L Shaped Desk with Power Outlet already covers the job at the lowest price here."
       }
     ]

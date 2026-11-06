@@ -57,23 +57,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/51WRR0ZSLKL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Material",
     "note": "Material isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $9",
+          "Sooez Accordion File Organizer"
         ],
         [
-          "",
+          "Mid-range",
           "ABC life 26 Pockets Accordion File Organizer"
         ],
         [
@@ -84,14 +84,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Lockable vs Basic Latch",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable",
         "text": "Provides genuine access restriction beyond just keeping the lid shut in transit. In this comparison: check each listing's closure type directly."
       },
       {
-        "label": "",
+        "label": "Basic Latch",
         "text": "Keeps the lid closed during transport and handling, without real security against intentional access. In this comparison: ABC life 26 Pockets Accordion File Organizer, Sooez Accordion File Organizer, Sooez Accordion File Organizer."
       }
     ],
@@ -101,8 +101,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Portability: Wheels vs Handle-Only",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -116,24 +116,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Irreplaceable or Sensitive Documents Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A stated independent fire rating with a named testing standard and duration (not just the word \"fireproof\"), plus a genuine lock rather than a basic latch."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "No pick in this specific comparison explicitly confirms an independent fire rating; check our dedicated fireproof file box roundup if that's a hard requirement."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what CNK Accordion File Folders with 24 Pockets Organizer for Document Paper Storage offers: Near-maximum pocket count for extensive category separation. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Sooez Accordion File Organizer already covers the essentials: Explicit letter/A4 dual compatibility. The main thing you'd be paying extra for elsewhere in this list is security or durability you may not need."
       }
     ]
@@ -142,7 +142,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Genuine accordion-style verification",
     "description": "We confirmed each pick is a soft, pocket-divided accordion file, not a rigid box with an expandable capacity mechanism, since these represent fundamentally different products."
   },
   {
@@ -150,11 +150,11 @@ export const howWeEvaluated = [
     "description": "We treated pocket count as this category's genuine differentiating spec, distinct from the hanging-rail compatibility relevant to rigid boxes."
   },
   {
-    "title": "",
+    "title": "Structural rigidity vs. rigid box tradeoff",
     "description": "We addressed this similarly to our soft-sided tote bag research, since accordion files share the soft-sided-versus-rigid-box protection tradeoff."
   },
   {
-    "title": "",
+    "title": "Letter vs. A4 compatibility disclosure",
     "description": "We noted which picks explicitly confirm A4 compatibility alongside standard letter sizing, a genuine international-buyer consideration."
   }
 ];

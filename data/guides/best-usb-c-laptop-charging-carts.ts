@@ -33,11 +33,11 @@ export const faq = [
   },
   {
     "q": "What's the best true mobile USB-C cart?",
-    "a": ""
+    "a": "The Plugsharge 32-Device Laptop Charging Cart, the highest-capacity true cart in this comparison, though its review base is thin at 3 reviews."
   },
   {
     "q": "What's the best fixed desktop USB-C station if I don't need mobility?",
-    "a": ""
+    "a": "The Anker Prime Charging Station, 200W 6-Port GaN Desktop Charger, with the largest confirmed review base of any USB-C product in this comparison."
   },
   {
     "q": "Which desktop station confirms genuine laptop-level charging speed per port?",
@@ -60,36 +60,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Plugsharge 32"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Anker Prime Charging Station"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $30",
           "380W USB C Charger Block with 4 USB Cables Dual 100W Charging Station"
         ],
         [
-          "",
-          ""
+          "Up to $399",
+          "Plugsharge 32"
         ]
       ]
     }
@@ -98,27 +98,27 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C Charging vs AC Outlet Charging",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C charging",
         "text": "Simplifies cable management for a uniform USB-C fleet, worth checking the actual per-port wattage. In this comparison: Anker Prime Charging Station, 750W Charging Station for Multiple Devices, 380W USB C Charger Block with 4 USB Cables Dual 100W Charging Station."
       },
       {
-        "label": "",
+        "label": "AC outlet charging",
         "text": "Works with any device's own charger, more flexible for a mixed fleet but means storing separate power bricks. In this comparison: Plugsharge 32, VEVOR 16 Device Charging Station with Lock & Key, 12 Ports Aluminum Alloy MEKIOJEO 380W Charging Station USB C Charger Block, 510W Fast Charging Station for Multiple Devices."
       }
     ],
     "note": "Default to USB-C charging for a uniform modern fleet, AC outlets for a mixed or older device fleet."
   },
   {
-    "subheading": "",
+    "subheading": "By Locking Security",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Genuine locking door for unattended storage",
-          ""
+          "Plugsharge 32"
         ]
       ]
     }
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a School or Classroom Fleet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed bay geometry for your actual laptop model, zoned or timed charging for larger fleets, and a genuine locking door for unattended storage."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Anker Prime Charging Station is worth checking against its listed capacity and charging architecture before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're managing a larger fleet needing safe zoned charging and genuine security, where Plugsharge 32's higher price buys real capacity and reliability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing a small number of devices with simple charging needs, where 380W USB C Charger Block with 4 USB Cables Dual 100W Charging Station covers the same job at a lower price."
       }
     ]

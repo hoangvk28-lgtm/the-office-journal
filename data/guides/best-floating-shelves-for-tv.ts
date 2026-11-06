@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31VPKCNdHxL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Displaying",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light decorative items",
           "WALI 2 Tier Floating TV Wall Shelf for Projector"
         ],
         [
-          "",
+          "Books, standard decor",
           "HOOBRO Floating TV Stand with LED Light Power Outlet for TVs up to 65”"
         ],
         [
-          "",
+          "Heavier items, electronics",
           "Snughome 55\" Floating TV Stand for TVs up to 65\""
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "WALI 2 Tier Floating TV Wall Shelf for Projector"
         ],
         [
-          "",
+          "Mid-range pick",
           "WALI 2 Tier Glass Floating TV Wall Shelf for Projector"
         ],
         [
-          "",
+          "Higher budget",
           "Snughome 55\" Floating TV Stand for TVs up to 65\""
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Stud Mount vs No-Drill",
     "cards": [
       {
         "label": "Snughome 55\" Floating TV Stand for TVs up to 65\")",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you can drill into your walls and how much weight you're actually displaying."
   },
   {
-    "subheading": "",
+    "subheading": "By Wall Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your wall",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Studs available where needed",
           "HOOBRO Floating TV Stand with LED Light Power Outlet for TVs up to 65”"
         ],
         [
-          "",
+          "Only drywall available",
           "Check the rated capacity for anchor-only mounting specifically"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Heavier Items Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "5 inches+) for a solid stud bite."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Snughome 55\" Floating TV Stand for TVs up to 65\" is worth checking against your actual stud spacing before assuming its full rated capacity applies."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier brackets for real storage, where Snughome 55\" Floating TV Stand for TVs up to 65\" justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're displaying light decorative items only, where WALI 2 Tier Floating TV Wall Shelf for Projector already covers the job at the lowest price here."
       }
     ]

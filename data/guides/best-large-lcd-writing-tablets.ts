@@ -29,7 +29,7 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "What counts as a 'large' LCD writing tablet?",
-    "a": ""
+    "a": "This guide defines large as 11.5 inches and up, since that's where a screen starts offering meaningfully more room than the standard 8.5-10 inch tier."
   },
   {
     "q": "What is the largest LCD writing tablet size available?",
@@ -53,52 +53,52 @@ export const heroImage = "https://m.media-amazon.com/images/I/41wEeIwx-TL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Screen Size",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Most compact and portable",
           "5 inch Full Screen Drawing Tablet Reusable Erasable Digital Notepad with Hall Switch and Tablet Case for Gift Birthday"
         ],
         [
-          "",
+          "Most writing room",
           "Large 16 Inch Screen LCD Writing Tablet with 2 Pens"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $18",
           "16 Inch LCD Writing Tablet 2 Pack"
         ],
         [
-          "",
+          "Mid-range",
           "5 inch Full Screen Drawing Tablet Reusable Erasable Digital Notepad with Hall Switch and Tablet Case for Gift Birthday"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Kids-Marketed vs Adult-Marketed",
     "cards": [
       {
-        "label": "",
+        "label": "Kids-Marketed",
         "text": "Bright colors and character branding, often the same core technology as adult versions at a similar or lower price. In this comparison: check each listing's marketing angle directly."
       },
       {
-        "label": "",
+        "label": "Adult-Marketed",
         "text": "Neutral styling suited to an office desk, sometimes at a price premium for the plainer look alone. 5 inch Full Screen Drawing Tablet Reusable Erasable Digital Notepad with Hall Switch and Tablet Case for Gift Birthday."
       }
     ],
@@ -108,39 +108,39 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "With Memory Lock vs Basic Erase",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Simplest single-button design",
           "16 Inch LCD Writing Tablet 2 Pack"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Gift-Giving Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear age-range marketing if buying for a specific child, genuine screen size (not just overall unit size), and a replaceable coin-cell battery for the longest useful life."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "16 Inch LCD Writing Tablet 2 Pack fits this specifically: the largest available screen size."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "16 Inch LCD Writing Tablet 2 Pack already covers the essentials: the largest available screen size. The main thing you'd be paying extra for elsewhere in this list is styling or accessories you may not need."
       }
     ]

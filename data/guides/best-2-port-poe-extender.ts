@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31vcauqYGhL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $21",
+          "REVODATA IP67 Waterproof 2 Port ($20.09)"
         ],
         [
-          "",
-          ""
+          "Under $22",
+          "NICGIGA 1 in 2 Out Gigabit ($21.99)"
         ],
         [
-          "",
-          ""
+          "Under $23",
+          "VIMIN 2-Port Outdoor Gigabit ($22.49)"
         ],
         [
-          "",
-          ""
+          "Under $33",
+          "LINOVISION Mini 2 Port ($32.99)"
         ]
       ]
     }
@@ -122,22 +122,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Both maintain 1000Mbps across their fixed 100m range, better suited to devices that need consistent high bandwidth like modern 4K cameras or fast access points."
       },
       {
-        "label": "",
+        "label": "Extended distance toggle (REVODATA)",
         "text": "A physical switch lets you choose 100m at 100Mbps or 250m at a reduced 10Mbps, useful when you need extra reach for a lower-bandwidth device like a basic surveillance camera."
       }
     ],
     "note": "If your devices need full bandwidth and your distance need is modest, the VIMIN or NICGIGA picks are the better fit. If you need extra reach for a device that doesn't require high bandwidth, the REVODATA's toggle gives you that flexibility."
   },
   {
-    "subheading": "",
+    "subheading": "By Distance Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your distance need",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Standard 100m (328ft) extension",
           "VIMIN, NICGIGA, or REVODATA in standard mode"
         ],
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Two-Camera Corner Installation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An extender with outdoor waterproofing and enough per-port wattage to support your specific camera models, since two cameras mounted near each other but far from the switch is a very common installation scenario."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The VIMIN pick's IP65 rating and full Gigabit speed make it a strong fit for a typical two-camera outdoor corner installation."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "99 price is justified by that combination."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want full Gigabit speed with outdoor waterproofing, where the VIMIN or NICGIGA picks deliver that around $22, among the lowest prices in this comparison."
       }
     ]
@@ -185,19 +185,19 @@ export const howWeEvaluated = [
     "description": "Compared documented speed at both standard and any extended-distance mode."
   },
   {
-    "title": "",
+    "title": "Per-Port Wattage Documentation",
     "description": "Compared how specifically each listing discloses individual port power limits."
   },
   {
-    "title": "",
+    "title": "Outdoor Waterproofing",
     "description": "Compared IP ratings and included weatherproofing accessories for outdoor 2-device installations."
   },
   {
-    "title": "",
+    "title": "Warranty and Support Commitment",
     "description": "Compared warranty length and stated ongoing technical support."
   },
   {
-    "title": "",
+    "title": "Cascade Distance Support",
     "description": "Compared documented multi-unit cascade configurations and total achievable distance."
   }
 ];

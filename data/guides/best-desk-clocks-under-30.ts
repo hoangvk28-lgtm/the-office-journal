@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/413aK8nsTNL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,20 +84,20 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $20",
+          "Srubambi Battery Operated ($18.99) or DreamSky Wooden ($19.99)"
         ],
         [
-          "",
-          ""
+          "$26-$32",
+          "Geevon Atomic Clock ($25.99) or Maxspace Wooden Table Clock ($31.99)"
         ]
       ]
     }
@@ -106,7 +106,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Analog Wood vs Digital Display",
     "cards": [
       {
-        "label": "",
+        "label": "Analog Wood (Maxspace)",
         "text": "Silent non-ticking movement and genuine wood construction, a classic look without digital features like USB charging or atomic sync."
       },
       {
@@ -120,8 +120,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Room Lighting and Outlet Access",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Monitoring Indoor Air Quality Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A clock displaying both temperature and humidity readings, since humidity specifically affects comfort and potential mold risk in ways temperature alone doesn't capture."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Geevon Digital Atomic Alarm Clock is the only pick here displaying both indoor temperature and humidity alongside timekeeping."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want genuine atomic time accuracy plus comprehensive climate monitoring, where the Geevon pick delivers both features at the top of this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "A wood-and-digital hybrid design covers your needs, where the DreamSky pick delivers this combination at the lowest price here."
       }
     ]
@@ -165,19 +165,19 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Atomic Time Sync Accuracy",
     "description": "Checked which pick offers genuine WWVB atomic time synchronization versus manually-set time that can drift over time."
   },
   {
-    "title": "",
+    "title": "Wood vs Plastic Construction",
     "description": "Distinguished genuine wood construction from wood-look plastic or painted finishes across the lineup."
   },
   {
-    "title": "",
+    "title": "Indoor Climate Monitoring",
     "description": "Compared which picks display indoor temperature and humidity alongside basic timekeeping."
   },
   {
-    "title": "",
+    "title": "Display Visibility Range",
     "description": "Compared stated readable distance and ambient light adjustment features for larger rooms or shared spaces."
   },
   {

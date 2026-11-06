@@ -28,7 +28,7 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "q": "",
+    "q": "Is a 17 inch desktop monitor filter the same as a 17.3 inch laptop filter?",
     "a": "These are different sizes and are not interchangeable. Confirm your exact device type before ordering."
   },
   {
@@ -36,8 +36,8 @@ export const faq = [
     "a": "The Privacy Screen Filter for 17 Inches Desktop Computer Monitor for budget, or the TomDetm 17 Inch Monitor Privacy Screen if you want bundled blue-light filtering."
   },
   {
-    "q": "",
-    "a": ""
+    "q": "What's the best option for a 17.3 inch laptop?",
+    "a": "The SightPro 17.3 Inch 16:9 Laptop Privacy Screen Filter, which also has by far the largest review base in this comparison."
   },
   {
     "q": "Why is the selection smaller than for 24 inch monitors?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "TomDetm 17 Inch Monitor Privacy Screen"
         ],
         [
-          "",
+          "Laptop screen",
           "Privacy Screen Filter for 17 Inches Desktop Computer Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $27",
           "3 Inch 16:9 Laptop Privacy Screen Filter"
         ],
         [
-          "",
+          "Mid-range",
           "Privacy Screen Filter for 17 Inches Desktop Computer Monitor"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: TomDetm 17 Inch Monitor Privacy Screen."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: none explicitly confirmed in this specific roundup, check the listing directly before assuming."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "TomDetm 17 Inch Monitor Privacy Screen"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "3 Inch 16:9 Laptop Privacy Screen Filter"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TomDetm 17 Inch Monitor Privacy Screen fits this specifically: Highest rating among confirmed 17 inch desktop filters."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what TomDetm 17 Inch Monitor Privacy Screen offers: Highest rating among confirmed 17 inch desktop filters. That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]
@@ -160,7 +160,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Flagged the 17 inch versus 17.3 inch mix-up directly",
     "description": "3 inch screens, and we made this distinction the central organizing point of this guide."
   },
   {

@@ -37,7 +37,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest genuine 3M option?",
-    "a": ""
+    "a": "The 3M Privacy Filters for 24 Inch Widescreen Monitor at $53.72, also the highest-rated 3M SKU in our research."
   },
   {
     "q": "Does 3M make a magnetic-attach filter?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "3M Privacy Filters for 24 Inch Widescreen Monitor"
         ],
         [
-          "",
+          "Laptop screen",
           "3M Privacy Filters for 24 Inch Widescreen Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $36",
           "SightPro 24 Inch 16:9 Computer Privacy Screen Filter for Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "3M Privacy Filters for 24 Inch Widescreen Monitor"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: check each listing's mounting method, it isn't always stated clearly."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: 3M Privacy Filter for 24in Full Screen Monitor with 3M Comply Magnetic Attach, 3M Privacy Filter for 27 Inch Widescreen Monitor."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "3M Privacy Filters for 24 Inch Widescreen Monitor"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "SightPro 24 Inch 16:9 Computer Privacy Screen Filter for Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "3M Privacy Filters for 24 Inch Widescreen Monitor fits this specifically: Highest rating among confirmed genuine 3M SKUs."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what 3M Privacy Filter for 27 Inch Widescreen Monitor offers: Roughly half the price of a single 3M 27 inch filter. That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "SightPro 24 Inch 16:9 Computer Privacy Screen Filter for Monitor already covers the essentials: Roughly a third cheaper than the equivalent 3M filter. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Treated small 3M review counts cautiously",
-    "description": ""
+    "description": "Several genuine 3M SKUs have very few reviews; we noted this explicitly rather than treating a high rating on 7 or 21 reviews with the same confidence as thousands."
   },
   {
     "title": "Distinguished 3M's magnetic Comply system from its standard filters",

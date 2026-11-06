@@ -29,11 +29,11 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which 40 inch converter has the most reviews?",
-    "a": ""
+    "a": "The VERSADESK PowerPro 40 Inch Electric Standing Desk Converter, with 497 reviews."
   },
   {
     "q": "What's the cheapest confirmed 40 inch option?",
-    "a": ""
+    "a": "The FLEXISPOT Standing Desk Converter 40 Inch Large Desk Riser at $139.99."
   },
   {
     "q": "Is there a manual 40 inch converter?",
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41jeNZ2uiSL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Platform Size",
     "table": {
       "headers": [
-        "",
+        "Your monitor setup",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -69,7 +69,7 @@ export const howToChoose: HowToChooseSection[] = [
           "FLEXISPOT Standing Desk Converter 40 Inch Large Desk Riser"
         ],
         [
-          "",
+          "Dual monitors",
           "VERSADESK PowerPro 40 Inch Electric Standing Desk Converter"
         ],
         [
@@ -80,19 +80,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $140",
           "FLEXISPOT Standing Desk Converter 40 Inch Large Desk Riser"
         ],
         [
-          "",
+          "Mid-range",
           "FLEXISPOT 40 Inch Electric Standing Desk Converter"
         ],
         [
@@ -106,11 +106,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Manual (Gas-Spring) vs Electric Lift",
     "cards": [
       {
-        "label": "",
+        "label": "Manual (Gas-Spring)",
         "text": "Adjusts with a push or pull handle rather than a motor, needs no power outlet, and typically costs less. In this comparison: VIVO Black 42 in Standing Desk Converter, FLEXISPOT Standing Desk Converter 40 Inch Large Desk Riser, Rocelco 45 inch Height Adjustable Standing Desk Converter."
       },
       {
-        "label": "",
+        "label": "Electric (Motorized)",
         "text": "Adjusts at the push of a button for smoother, more precise height changes, at a price premium and the need for a nearby outlet. In this comparison: VERSADESK PowerPro 40 Inch Electric Standing Desk Converter, FLEXISPOT 40 Inch Electric Standing Desk Converter."
       }
     ],
@@ -120,16 +120,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "VIVO Black 42 in Standing Desk Converter"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "VIVO Black 42 in Standing Desk Converter"
         ]
       ]
@@ -139,24 +139,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Dual-Monitor Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A platform of at least 32 inches with explicit dual-monitor language in the listing, plus a stated weight capacity that comfortably covers two monitors, a keyboard, and a mouse together."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "VERSADESK PowerPro 40 Inch Electric Standing Desk Converter fits this specifically: Largest review base of any confirmed 40 inch converter."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "FLEXISPOT Standing Desk Converter 40 Inch Large Desk Riser already covers the essentials: Lowest confirmed price at this exact size. The main thing you'd be paying extra for elsewhere in this list is a larger platform or an electric lift."
       }
     ]
@@ -173,12 +173,12 @@ export const howWeEvaluated = [
     "description": "We noted the real price gap between VERSADESK's and FlexiSpot's electric options and the cheaper manual alternatives."
   },
   {
-    "title": "",
+    "title": "Disclosed size discrepancies transparently",
     "description": "Where our confirmed data showed a nearby size rather than exactly 40 inches, we flagged this directly rather than rounding silently."
   },
   {
     "title": "Weighed review volume across the confirmed and nearby-size options",
-    "description": ""
+    "description": "We compared VERSADESK's substantial review base against smaller-reviewed FlexiSpot alternatives at similar and nearby sizes."
   }
 ];
 

@@ -61,16 +61,16 @@ export const heroImage = "https://m.media-amazon.com/images/I/41eovSFSdFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "A stylish design with documented per-drawer capacity",
-          ""
+          "VASAGLE File Cabinet, 2-Drawer"
         ],
         [
           "A wide printer stand with dual floor mounting",
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $55",
+          "Approgreent ($54.99)"
         ],
         [
-          "",
-          ""
+          "Under $65",
+          "BYNSOE ($64.99)"
         ],
         [
-          "",
-          ""
+          "Under $70",
+          "GYIIYUO ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $80",
+          "VASAGLE ($79.99)"
         ]
       ]
     }
@@ -118,11 +118,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Lockable Steel vs Stylish Unlocked Design",
     "cards": [
       {
-        "label": "",
+        "label": "Lockable steel (Approgreent, BYNSOE)",
         "text": "Prioritizes document security with genuine key locks, better suited to sensitive files or shared spaces."
       },
       {
-        "label": "",
+        "label": "Stylish unlocked (VASAGLE, GYIIYUO)",
         "text": "Prioritizes aesthetic design and printer-stand functionality over lock security, better for general organization."
       }
     ],
@@ -132,8 +132,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Printer or Equipment Support Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your equipment size",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -145,8 +145,8 @@ export const howToChoose: HowToChooseSection[] = [
           "VASAGLE (solid top, 110 lb total capacity)"
         ],
         [
-          "",
-          ""
+          "No equipment support needed",
+          "Approgreent or BYNSOE"
         ]
       ]
     }
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Home Office That Doubles as a Multi-Purpose Room Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A cabinet with dual-mode mounting that can roll for flexibility or lock in place for stability, plus a design that fits non-office decor."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The GYIIYUO pick's dual caster/leveling foot system and wood grain finish specifically suit a room serving multiple purposes."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need a wide printer stand surface with flexible floor mounting, where the GYIIYUO pick delivers a 24 inch top and dual caster system unmatched in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want maximum per-drawer file capacity with lock security, where the Approgreent pick delivers 200 files per drawer for the lowest price here."
       }
     ]
@@ -185,19 +185,19 @@ export const howWeEvaluated = [
     "description": "Compared top surface dimensions and weight capacity for functioning as a printer or equipment stand."
   },
   {
-    "title": "",
+    "title": "Caster and Mounting Flexibility",
     "description": "Checked for dual-mode caster and leveling foot systems versus fixed wheel or stationary designs."
   },
   {
-    "title": "",
+    "title": "Per-Drawer File Capacity",
     "description": "Compared stated file capacity per drawer where specified across the lineup."
   },
   {
-    "title": "",
+    "title": "Lock Mechanism",
     "description": "Compared single-lock, dual-key, and other lock security designs across the lineup."
   },
   {
-    "title": "",
+    "title": "Drawer Slide Quality",
     "description": "Compared noise level and smoothness claims for drawer slide mechanisms."
   }
 ];

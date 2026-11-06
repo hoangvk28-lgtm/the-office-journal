@@ -60,13 +60,13 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Priority Up to $100",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
           "The best all-around option in this comparison",
-          ""
+          "10400mAh Mini UPS Battery Backup USB 5V2A 5.5x2.5mm 9V1A 12V1A Portable"
         ],
         [
           "A strong alternative with a different tradeoff",
@@ -79,8 +79,8 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Budget Within This Tier",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,8 +88,8 @@ export const howToChoose: HowToChooseSection[] = [
           "Eujgoov 20800mAh Mini UPS Battery Backup Power Supply with DC Output"
         ],
         [
-          "",
-          ""
+          "Best overall value",
+          "10400mAh Mini UPS Battery Backup USB 5V2A 5.5x2.5mm 9V1A 12V1A Portable"
         ]
       ]
     }
@@ -98,7 +98,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "10400mAh Mini UPS vs Eujgoov 20800mAh Mini",
     "cards": [
       {
-        "label": "",
+        "label": "10400mAh Mini UPS Battery Backup USB 5V2A 5.5x2.5mm 9V1A 12V1A Portable",
         "text": "The top pick in this comparison based on its documented spec set relative to the rest of this lineup."
       },
       {
@@ -109,16 +109,16 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "5mm 9V1A 12V1A Portable unless your specific use case points toward Eujgoov 20800mAh Mini UPS Battery Backup Power Supply with DC Output's particular tradeoffs."
   },
   {
-    "subheading": "",
+    "subheading": "By Secondary Feature Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Matches this guide's core use case most closely",
-          ""
+          "10400mAh Mini UPS Battery Backup USB 5V2A 5.5x2.5mm 9V1A 12V1A Portable"
         ],
         [
           "A close secondary option worth comparing",
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For This Guide's Core Use Case Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The specific spec called out in this guide's title verified directly on the product listing, not assumed from the category average."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "5mm 9V1A 12V1A Portable is worth checking first against that specific requirement before comparing the rest of this lineup."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the fuller feature set found on Luqeeg 18000mAh Mini DC UPS, where the extra capability has a real, verifiable use case for you."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5mm 9V1A 12V1A Portable without needing the higher-tier features."
       }
     ]
@@ -157,23 +157,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Live price gate",
     "description": "Every recommended product must be new, in stock and up to $100 on the article refresh date; stale sale prices are automatically disqualified."
   },
   {
-    "title": "",
+    "title": "Budget-ladder context",
     "description": "Explicitly show what changes between the next-lower tier, the premium router-backup tier, and the next-higher tier so this page is not a cloned generic ranking."
   },
   {
-    "title": "",
+    "title": "Capability-per-dollar score",
     "description": "Normalize price against output voltage/current, battery Wh and the minimum usable setup cost rather than raw feature count."
   },
   {
-    "title": "",
+    "title": "Evidence split",
     "description": "We separated transfer/no-reboot behavior and connector/polarity figures confirmed in official documentation from manufacturer claims, and noted where details are unverified."
   },
   {
-    "title": "",
+    "title": "Threshold-specific ownership verdict",
     "description": "Judge chemistry/protection, warranty/support, replacement accessories and the chance that a buyer should save money or step up a tier instead of spending the full $100."
   }
 ];

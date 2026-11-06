@@ -61,75 +61,75 @@ export const heroImage = "https://m.media-amazon.com/images/I/31Q+sonLieL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Sorting Habit",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sorting",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Just 2-3 categories",
+          "Seagrass Letter Tray"
         ],
         [
-          "",
+          "Several distinct categories",
           "Welaxy 2pc Stackable Desk Tray Document File Paper Oatmeal Felt Storage Bin"
         ],
         [
-          "",
+          "High document volume",
           "Bigso Oskar Canvas Fiberboard Document Letter Box"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Lowest price in this lineup",
-          ""
+          "Seagrass Letter Tray"
         ],
         [
-          "",
+          "Mid-range pick",
           "Seagrass Letter Tray for A4 File Woven Desk Tray Organizer for Paper Folder"
         ],
         [
-          "",
+          "Higher budget",
           "Bigso Oskar Canvas Fiberboard Document Letter Box"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wire Mesh vs Plastic",
     "cards": [
       {
-        "label": "",
+        "label": "Wire mesh (e.g. Seagrass Letter Tray)",
         "text": "Resists bending and warping longer under daily loading."
       },
       {
-        "label": "",
+        "label": "Plastic",
         "text": "Lighter and often cheaper, can warp under sustained heavy use."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your desk",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Limited desk depth",
           "Welaxy 2pc Stackable Desk Tray Document File Paper Oatmeal Felt Storage Bin"
         ],
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Desk Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear label slots on each tier so the sorting system doesn't rely on memory."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Welaxy 2pc Stackable Desk Tray Document File Paper Oatmeal Felt Storage Bin is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Bigso Oskar Canvas Fiberboard Document Letter Box justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Seagrass Letter Tray already covers the job at the lowest price here."
       }
     ]

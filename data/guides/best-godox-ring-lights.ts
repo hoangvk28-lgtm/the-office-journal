@@ -12,7 +12,7 @@ export const buyingCriteria = [
     "explanation": "Many ring light listings advertise a lux rating that's inflated 2 to 3 times what the light actually outputs at a realistic distance, so a listed '3000 lux' figure might deliver closer to 1000 to 1500 lux once you're actually sitting at typical desk distance. 5m or 1m) rather than trusting a single headline number with no distance specified."
   },
   {
-    "criterion": "",
+    "criterion": "Diameter Doesn't Guarantee Brightness",
     "explanation": "Size and brightness are two separate specs that don't automatically scale together: a poorly built large ring light can underperform a smaller, better-engineered one at the exact same distance, since LED density and power delivery matter more than diameter alone. Compare actual lux output at a matched distance across products rather than assuming the largest ring in a lineup is also the brightest."
   },
   {
@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41hSHV-TFcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Shooting Distance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your distance",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Close-up, under 30cm",
           "Godox Ring 72 Macro LED Ring Light with 8 Lens Adapter Rings"
         ],
         [
-          "",
+          "Video-call distance, 45-60cm",
           "GODOX LR120 12 Inch LED Ring Light Photography Light Fill-in Light 3000K-6000K"
         ],
         [
-          "",
+          "Full-body, 80cm+",
           "GODOX MF-R76 Macro LED Ring Flash Speedlite 76Ws 660 Full-Power Flashes"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Godox Ring 72 Macro LED Ring Light with 8 Lens Adapter Rings"
         ],
         [
-          "",
+          "Mid-range pick",
           "Godox ML150II Macro Ring Flash for Canon/Sony/Nikon/Fujifilm/Olympus"
         ],
         [
-          "",
+          "Higher budget",
           "GODOX MF-R76 Macro LED Ring Flash Speedlite 76Ws 660 Full-Power Flashes"
         ]
       ]
@@ -113,53 +113,53 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Simple setup, but occupies permanent desk space."
       },
       {
-        "label": "",
+        "label": "Clamp mount",
         "text": "Frees up desk space, but needs enough clamp depth for your desk edge."
       }
     ],
     "note": "Match this to how much desk surface you're willing to give up permanently."
   },
   {
-    "subheading": "",
+    "subheading": "By Color Temperature Needs",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Matches varying room light",
           "Check for a wide, adjustable color temperature range"
         ],
         [
-          "",
+          "Fixed single-purpose setup",
           "GODOX LR120 12 Inch LED Ring Light Photography Light Fill-in Light 3000K-6000K"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A 10 to 12 inch diameter and a real (not inflated) lux rating at video-call distance."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "GODOX LR120 12 Inch LED Ring Light Photography Light Fill-in Light 3000K-6000K is worth checking against its specific lux rating before assuming any ring light performs the same at your desk distance."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want verified brightness, adjustable color temperature, and reliable build quality, where GODOX MF-R76 Macro LED Ring Flash Speedlite 76Ws 660 Full-Power Flashes justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic, even lighting for occasional video calls, where Godox Ring 72 Macro LED Ring Light with 8 Lens Adapter Rings already covers the job at the lowest price here."
       }
     ]
@@ -176,7 +176,7 @@ export const howWeEvaluated = [
     "description": "Many ring light listings advertise a lux rating that's inflated 2 to 3 times what the light actually outputs at a realistic distance, so a listed '3000 lux' figure might deliver closer to 1000 to 1500 lux once you're actually sitting at typical desk distance."
   },
   {
-    "title": "",
+    "title": "Diameter Doesn't Guarantee Brightness",
     "description": "Size and brightness are two separate specs that don't automatically scale together: a poorly built large ring light can underperform a smaller, better-engineered one at the exact same distance, since LED density and power delivery matter more than diameter alone."
   },
   {

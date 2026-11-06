@@ -52,23 +52,23 @@ export const heroImage = "https://m.media-amazon.com/images/I/41R2pqpQJxL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Outlet Count",
     "note": "Outlet count isn't consistently confirmed across every pick in this comparison; check each listing's product details directly."
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $25",
           "Kasa smart Plug Power Strip KP303"
         ],
         [
-          "",
+          "Mid-range",
           "TP-Link Tapo Smart Plug Outlet Extender"
         ],
         [
@@ -82,21 +82,21 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "USB-C PD Charging vs Outlets Only",
     "cards": [
       {
-        "label": "",
+        "label": "USB-C PD Charging",
         "text": "Charges laptops and higher-power devices faster directly from the strip, without a separate charging brick. In this comparison: Amazon Basics Smart Plug Power Strip with 6 Individually Controlled Outlets and 3 USB Ports, TP-Link Tapo Smart Plug Outlet Extender."
       },
       {
-        "label": "",
+        "label": "AC Outlets Only",
         "text": "Simpler design focused purely on outlet count, pair with your own chargers as needed. In this comparison: Tapo Smart Wi-Fi Power Strip, kasa smart Plug Power Strip KP303, POWSAV 6 Ft WiFi Surge Protector."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "By Surge Protection Level",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -110,24 +110,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Bulky Wall-Wart Adapters Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Wide or offset outlet spacing explicitly mentioned in the listing or shown in product photos, not just a high raw outlet count."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Tapo Smart Wi-Fi Power Strip fits this specifically: Explicit energy monitoring feature disclosed."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Tapo Smart Wi-Fi Power Strip offers: Explicit energy monitoring feature disclosed. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The main thing you'd be paying extra for elsewhere in this list is capacity or charging speed you may not need."
       }
     ]
@@ -136,7 +136,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Per-outlet vs. whole-strip aggregate monitoring distinguished",
     "description": "Checked whether each pick offers per-outlet energy insight, which identifies the specific device responsible for draw, versus whole-strip aggregate monitoring, which only reports total draw."
   },
   {

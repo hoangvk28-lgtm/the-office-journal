@@ -53,15 +53,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EsewSK2nL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Layout Type",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Minimal adjustment period",
           "Microsoft Surface Ergonomic Wireless Keyboard"
         ],
         [
@@ -72,19 +72,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $60",
           "MEETION Foldable Ergonomic Bluetooth Keyboard"
         ],
         [
-          "",
+          "Mid-range",
           "ProtoArc EK01 Plus Backlit Bluetooth Ergonomic Keyboard"
         ],
         [
@@ -95,14 +95,14 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "Wired vs Wireless",
     "cards": [
       {
-        "label": "",
+        "label": "Wired",
         "text": "Zero input latency and no battery to manage, including no backlight battery drain if illuminated. In this comparison: check each listing's connection type directly."
       },
       {
-        "label": "",
+        "label": "Wireless (Bluetooth/2.4GHz)",
         "text": "Cable-free desk setup, at the cost of battery management and, for Bluetooth, potentially more input latency. In this comparison: Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest, Logitech Wave Keys Wireless Ergonomic Keyboard, Logitech Wave Keys for Mac Wireless Ergonomic Keyboard."
       }
     ]
@@ -111,12 +111,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Switch Type and Typing Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Lowest cost, quiet typing",
           "MEETION Foldable Ergonomic Bluetooth Keyboard"
         ],
         [
@@ -130,24 +130,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Wrist Pain or Carpal Tunnel Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine split or vertical layout (not just a curved surface), a negative tilt option or naturally downward-sloping design, and an included wrist rest sized for your hand."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Logitech Ergo K860 Wireless Ergonomic Split Keyboard with Wrist Rest fits this specifically: Largest verified review base among Bluetooth picks."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Microsoft Surface Ergonomic Wireless Keyboard offers: Premium build and finish. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "MEETION Foldable Ergonomic Bluetooth Keyboard already covers the essentials: Lowest price in this guide. The main thing you'd be paying extra for elsewhere in this list is adjustability you may not need."
       }
     ]
@@ -157,10 +157,10 @@ export const howToChoose: HowToChooseSection[] = [
 export const howWeEvaluated = [
   {
     "title": "Multi-device pairing and switching reliability",
-    "description": ""
+    "description": "Weighed how consistently each keyboard's hotkey switching between paired devices actually worked, based on verified buyer feedback, as the primary reason to choose Bluetooth over 2.4G."
   },
   {
-    "title": "",
+    "title": "Extended-session connection stability",
     "description": "Prioritized dropout-free performance across hours of continuous use over initial pairing speed, since a stable long session matters more day to day."
   },
   {

@@ -9,7 +9,7 @@ export const buyingCriteria = [
     "explanation": "Verify bluetooth drawing tablets's pen latency and jitter specifically in wireless mode versus its wired USB mode."
   },
   {
-    "criterion": "",
+    "criterion": "Publish Real Battery Runtime",
     "explanation": "Confirm actual battery runtime and charging time rather than trusting a best-case marketing figure."
   },
   {
@@ -61,7 +61,7 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Verify bluetooth drawing tablets's pen latency and jitter specifically in wireless mode versus its wired USB mode."
   },
   {
-    "subheading": "",
+    "subheading": "Publish Real Battery Runtime",
     "note": "Confirm actual battery runtime and charging time rather than trusting a best-case marketing figure."
   },
   {
@@ -80,11 +80,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Architecture Classified First",
     "description": "Sorted each product into screenless pen tablet, computer-dependent pen display, or true standalone before comparing specs, since these solve different problems."
   },
   {
-    "title": "",
+    "title": "Pen Behavior Verified",
     "description": "Checked activation force, pressure-level count, tilt support, and parallax evidence directly from documentation rather than trusting a headline pressure number alone."
   },
   {
@@ -96,7 +96,7 @@ export const howWeEvaluated = [
     "description": "Verified current Windows/macOS/Linux/Android compatibility by exact model, since older tablets can lose driver support over time."
   },
   {
-    "title": "",
+    "title": "Real Ownership Costs Included",
     "description": "Weighed included pen, nibs, stand, and cables against what needs to be bought separately, plus warranty length and driver update history."
   }
 ];

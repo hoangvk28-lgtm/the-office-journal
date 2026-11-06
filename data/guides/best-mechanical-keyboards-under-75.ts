@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/414YSqywoKL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -87,24 +87,24 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $60",
+          "Logitech G413 TKL SE ($59.99)"
         ],
         [
-          "",
-          ""
+          "Under $70",
+          "AULA F75 Pro ($69.99)"
         ],
         [
-          "",
-          ""
+          "Under $75",
+          "Keychron V1 or V3 (both $74.99)"
         ]
       ]
     }
@@ -124,23 +124,23 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If competitive gaming latency is your top priority and your system meets the processor requirement, the Keychron V1 or V3's 8000Hz wired performance is worth the wired-only tradeoff. If you value wireless freedom across multiple devices, the AULA F75 Pro is the better fit."
   },
   {
-    "subheading": "",
+    "subheading": "By Switch Feel Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your switch preference",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Linear, smooth keystroke",
+          "Keychron V1 (brown switches)"
         ],
         [
-          "",
+          "Tactile, bump-feedback keystroke",
           "Keychron V3 (banana switches) or Logitech G413 TKL SE"
         ],
         [
-          "",
+          "Creamy sound, gasket-mounted feel",
           "AULA F75 Pro (reaper switches)"
         ]
       ]
@@ -150,24 +150,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Competitive Gaming Setup Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An 8000Hz polling rate paired with a stated minimum processor requirement, since this level of performance depends on your system actually being able to process the higher data transmission speed."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Keychron V1 and V3's 8000Hz polling rate specifically requires an Intel i7 9th gen or AMD Ryzen 7 2nd gen processor or above to be fully effective."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest polling rate with full QMK programmability, where the Keychron V1 or V3 delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a durable aluminum build without needing hot-swap or wireless features, where the Logitech G413 TKL SE covers that for about $15 less."
       }
     ]
@@ -176,23 +176,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Polling Rate and Latency",
     "description": "Compared stated polling rates, from standard to 8000Hz, and their minimum hardware requirements."
   },
   {
-    "title": "",
+    "title": "Programmability",
     "description": "Checked QMK support and web-based launcher tools versus proprietary driver software."
   },
   {
-    "title": "",
+    "title": "Connectivity Flexibility",
     "description": "Compared wired-only designs against tri-mode wireless connectivity options."
   },
   {
-    "title": "",
+    "title": "Hot-Swap and Build Material",
     "description": "Compared switch hot-swap support and case material, plastic versus aluminum, across the lineup."
   },
   {
-    "title": "",
+    "title": "Switch Feel Variety",
     "description": "Compared linear, tactile, and specialty switch types offered across the four picks."
   }
 ];

@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "What's the largest capacity fire-only option?",
-    "a": ""
+    "a": "The 1.3 Cub Small Fireproof Safe for Home, at 1.3 cubic feet."
   }
 ];
 
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Honeywell Safes & Door Locks"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "SentrySafe Fireproof Safe Box with Key Lock"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $68",
           "SentrySafe Black Fireproof and Waterproof Safe"
         ],
         [
-          "",
+          "Up to $100",
           "Honeywell Safes & Door Locks"
         ]
       ]
@@ -109,15 +109,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to SentrySafe Black Fireproof and Waterproof Safe unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "SentrySafe Fireproof Safe Box with Key Lock"
         ]
       ]
@@ -127,24 +127,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "SentrySafe Fireproof Safe Box with Key Lock is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Honeywell Safes & Door Locks's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where SentrySafe Black Fireproof and Waterproof Safe covers the same job at a lower price."
       }
     ]

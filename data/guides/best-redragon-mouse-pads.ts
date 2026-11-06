@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/51jr9vJUt9L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tracking Surface Feel",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Controlled, precise movement",
           "Redragon EISA P047L Anime Gaming Mouse Pad"
         ],
         [
-          "",
+          "Fast, low-friction glide",
           "Redragon PG1M Glass Mouse Pad"
         ],
         [
-          "",
+          "Budget cloth surface",
           "Redragon EISA P047S Anime Gaming Mouse Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,18 +95,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Redragon EISA P047S Anime Gaming Mouse Pad"
         ],
         [
-          "",
+          "Mid-range pick",
           "Redragon EISA P047S Anime Gaming Mouse Pad"
         ],
         [
-          "",
+          "Higher budget",
           "Redragon PG1M Glass Mouse Pad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Cloth vs Hard Surface",
     "cards": [
       {
         "label": "Redragon EISA P047L Anime Gaming Mouse Pad)",
@@ -123,16 +123,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Size vs Your Desk Space",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small or shared desk",
           "Redragon EISA P047S Anime Gaming Mouse Pad"
         ],
         [
-          "",
+          "Standard desk",
           "Redragon EISA P047L Anime Gaming Mouse Pad"
         ],
         [
@@ -146,24 +146,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Daily, Heavy Use Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A rubber (not synthetic) backing and, on cloth pads, a stitched or reinforced edge to resist fraying over months of use."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Redragon EISA P047L Anime Gaming Mouse Pad is worth checking against its specific backing material before assuming any 'non-slip' label performs the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a durable hard surface or premium materials that hold up to years of daily use, where Redragon PG1M Glass Mouse Pad justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want a straightforward cloth pad for everyday use, where Redragon EISA P047S Anime Gaming Mouse Pad already covers the job at the lowest price here."
       }
     ]

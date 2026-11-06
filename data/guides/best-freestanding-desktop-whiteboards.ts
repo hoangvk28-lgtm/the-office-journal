@@ -13,12 +13,12 @@ export const buyingCriteria = [
     "explanation": "Compact freestanding boards save desk space; larger ones give more room per writing session."
   },
   {
-    "criterion": "",
+    "criterion": "Check for double-sided design",
     "explanation": "Several picks here are double-sided, effectively doubling usable writing area within the same footprint."
   },
   {
     "criterion": "Use review volume as evidence of base stability",
-    "explanation": ""
+    "explanation": "An established review base is the best available evidence a stand doesn't wobble under normal writing pressure."
   },
   {
     "criterion": "Magnetic surface to your needs",
@@ -41,11 +41,11 @@ export const faq = [
   },
   {
     "q": "Which has the most reviews?",
-    "a": ""
+    "a": "The TSJ OFFICE Small Desktop Whiteboard (keyboard-stand version), with 2,500 reviews."
   },
   {
     "q": "What's the cheapest large freestanding option?",
-    "a": ""
+    "a": "The AMUSIGHT Double-Sided Magnetic White Board at $18.99."
   }
 ];
 
@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/41aTFk156tL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "Compact vs. Large Freestanding Boards",
     "cards": [
       {
-        "label": "",
+        "label": "Compact (8-inch glass boards)",
         "text": "Minimal desk footprint, ideal when space is tight."
       },
       {
@@ -81,7 +81,7 @@ export const howWeEvaluated = [
     "description": "We favored well-reviewed products where base movement under normal writing pressure isn't a common complaint in the review data."
   },
   {
-    "title": "",
+    "title": "Writing area against footprint",
     "description": "We compared compact and larger freestanding options separately, since both serve different desk-space needs."
   },
   {

@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41taEPxEqVL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom or office",
           "ResMed 37299 Humid Air Standard Tub for AirSense 10 and AirCurve 10"
         ],
         [
-          "",
+          "Standard bedroom",
           "Water Chamber and Pap HumidAir Water Tank for ResMed AirSense 11 Tube Hose"
         ],
         [
-          "",
+          "Larger living space",
           "Vicks Warm Mist Humidifier for Small to Medium Rooms"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,11 +96,11 @@ export const howToChoose: HowToChooseSection[] = [
           "ResMed 37299 Humid Air Standard Tub for AirSense 10 and AirCurve 10"
         ],
         [
-          "",
+          "Mid-range pick",
           "Replacement Water Chamber for ResMed AirSense 10"
         ],
         [
-          "",
+          "Higher budget",
           "Vicks Warm Mist Humidifier for Small to Medium Rooms"
         ]
       ]
@@ -114,53 +114,53 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Uses less electricity and covers larger rooms more effectively."
       },
       {
-        "label": "",
+        "label": "Warm mist",
         "text": "Kills bacteria in the water during boiling and runs near-silently, best for a small room."
       }
     ],
     "note": "Match this to your room size and how much you value quiet operation versus coverage."
   },
   {
-    "subheading": "",
+    "subheading": "By Maintenance Tolerance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Minimal daily upkeep",
           "Check tank capacity against how often you're willing to refill it"
         ],
         [
-          "",
+          "Don't mind frequent cleaning",
           "Water Chamber and Pap HumidAir Water Tank for ResMed AirSense 11 Tube Hose"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Hard Water Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An evaporative design (traps minerals in the wick) or plan to use distilled water with an ultrasonic model."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Water Chamber and Pap HumidAir Water Tank for ResMed AirSense 11 Tube Hose is worth checking against its specific mist type before assuming any humidifier handles hard water the same way."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger tank, quieter operation, and extra features like a hygrometer display, where Vicks Warm Mist Humidifier for Small to Medium Rooms justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You need basic humidity for a small room and don't mind more frequent refills, where ResMed 37299 Humid Air Standard Tub for AirSense 10 and AirCurve 10 already covers the job at the lowest price here."
       }
     ]

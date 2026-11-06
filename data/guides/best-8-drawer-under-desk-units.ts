@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41xJxW+-tGL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By What You're Storing",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your items",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light supplies, no drilling",
           "OLIXIS 5 Drawer File Cabinet with Wheels"
         ],
         [
-          "",
+          "Standard office supplies",
           "DUMOS 5 Drawer File Cabinet with Wheels"
         ],
         [
-          "",
+          "Heavier items, permanent install",
           "TOOL DORM MINI File Cabinet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,71 +96,71 @@ export const howToChoose: HowToChooseSection[] = [
           "OLIXIS 5 Drawer File Cabinet with Wheels"
         ],
         [
-          "",
+          "Mid-range pick",
           "Letaya 3 Drawer Mobile File Cabinet with Lock, Under Desk Metal Filing Cabinets"
         ],
         [
-          "",
+          "Higher budget",
           "TOOL DORM MINI File Cabinet"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Clamp-On vs Screw-Mounted",
     "cards": [
       {
         "label": "OLIXIS 5 Drawer File Cabinet with Wheels)",
         "text": "No drilling needed, fully removable, but capped around 13 lbs."
       },
       {
-        "label": "",
+        "label": "Screw-mounted",
         "text": "Higher weight capacity, but permanent and requires drilling into the desk."
       }
     ],
     "note": "Match this to whether you rent, share the desk, or need real capacity for heavier items."
   },
   {
-    "subheading": "",
+    "subheading": "By Legroom Clearance",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Tight knee clearance",
           "Measure your seated position before choosing any model"
         ],
         [
-          "",
+          "Standard desk depth",
           "DUMOS 5 Drawer File Cabinet with Wheels"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Standing Desks Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed clearance at your desk's lowest sitting height, including the motor housing and crossbar."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "DUMOS 5 Drawer File Cabinet with Wheels is worth checking against your desk's specific understructure before assuming any drawer clears it."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and smoother, longer-lasting slides for daily heavy use, where TOOL DORM MINI File Cabinet justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing light supplies and want a simple, removable option, where OLIXIS 5 Drawer File Cabinet with Wheels already covers the job at the lowest price here."
       }
     ]

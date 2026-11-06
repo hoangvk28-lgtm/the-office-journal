@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31pi3HM6EcL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Carrying your own cards",
           "Utopz Retro Stained Glass Business Card Holder"
         ],
         [
-          "",
+          "Displaying cards for visitors",
           "Feyarl Gold Glass Business Card Holder Desktop Name Card Display Office"
         ],
         [
-          "",
+          "Client-facing handoffs",
           "Utopz Retro Stained Glass Business Card Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,40 +96,40 @@ export const howToChoose: HowToChooseSection[] = [
           "Utopz Retro Stained Glass Business Card Holder"
         ],
         [
-          "",
+          "Mid-range pick",
           "J Devlin Stained Glass Business Card Holder"
         ],
         [
-          "",
+          "Higher budget",
           "Utopz Retro Stained Glass Business Card Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Open-Top vs Snap-Closed",
     "cards": [
       {
         "label": "Utopz Retro Stained Glass Business Card Holder)",
         "text": "Faster one-hand access, less protection against spilling."
       },
       {
-        "label": "",
+        "label": "Snap/magnetic closed",
         "text": "Secures cards fully, takes an extra motion to open."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Capacity Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your card volume",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "A small daily-carry stack",
           "Feyarl Gold Glass Business Card Holder Desktop Name Card Display Office"
         ],
         [
@@ -140,27 +140,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Client-Facing Handoffs Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A material (leather or solid metal) that reinforces a professional impression at the handoff moment."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Feyarl Gold Glass Business Card Holder Desktop Name Card Display Office is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Utopz Retro Stained Glass Business Card Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Utopz Retro Stained Glass Business Card Holder already covers the job at the lowest price here."
       }
     ]

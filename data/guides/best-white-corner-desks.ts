@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41A3q0YLcML._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "Pamray 40 Inch L Shaped Computer Desk with Reversible Side Storage Shelves"
         ],
         [
-          "",
+          "Standard home office",
           "Lufeiya White L Shaped Computer Desk with Drawers & Storage Shelves"
         ],
         [
-          "",
+          "Larger dedicated office",
           "Casaottima 63 Inch L Shaped Electric Standing Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Pamray 40 Inch L Shaped Computer Desk with Reversible Side Storage Shelves"
         ],
         [
-          "",
+          "Mid-range pick",
           "Pamray 47 Inch Reversible L Shaped Gaming Desk Corner Computer Desk"
         ],
         [
-          "",
+          "Higher budget",
           "Casaottima 63 Inch L Shaped Electric Standing Desk"
         ]
       ]
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor",
           "Lufeiya White L Shaped Computer Desk with Drawers & Storage Shelves"
         ],
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Pamray 40 Inch L Shaped Computer Desk with Reversible Side Storage Shelves is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want built-in storage, better cable management, and sturdier build quality, where Casaottima 63 Inch L Shaped Electric Standing Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where Pamray 40 Inch L Shaped Computer Desk with Reversible Side Storage Shelves already covers the job at the lowest price here."
       }
     ]

@@ -36,7 +36,7 @@ export const faq = [
     "a": "Yes, the POCHAR 30 Unit Device Charging Station is explicitly rated for mixed Chromebook, iPad, and 14-inch laptop fleets."
   },
   {
-    "q": "",
+    "q": "What's the cheapest option?",
     "a": "99, though it has no review history yet in our data."
   },
   {
@@ -57,52 +57,52 @@ export const heroImage = "https://m.media-amazon.com/images/I/31jrRbuMCfL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Device Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Around 42-device capacity",
+          "Tripp Lite 42"
         ],
         [
-          "",
+          "Around 30-device capacity",
           "Pearington 30 Device Mobile Charging/Storage Cart for iPads"
         ],
         [
-          "",
+          "Around 30-device capacity",
           "POCHAR 30 Unit Device Charging Station for Chromebook"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $1",
+          "Tripp Lite 42"
         ],
         [
-          "",
+          "Up to $460",
           "Pearington 30 Device Mobile Charging/Storage Cart for iPads"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
-        "label": "",
+        "label": "Tripp Lite 42",
         "text": "The lower-priced option in this comparison, worth checking its capacity and charging architecture against your fleet."
       },
       {
@@ -113,19 +113,19 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Default to Tripp Lite 42 unless your fleet size or security needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Ethernet Support",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
           "In-cabinet Ethernet for a router or hotspot",
-          ""
+          "Tripp Lite 42"
         ],
         [
-          "",
+          "Wi-Fi only is fine",
           "Pearington 30 Device Mobile Charging/Storage Cart for iPads"
         ]
       ]
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a School or Classroom Fleet Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Confirmed bay geometry for your actual laptop model, zoned or timed charging for larger fleets, and a genuine locking door for unattended storage."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Meteteel Fully Assembled 20 Device Laptop Charging Cart for School is worth checking against its listed capacity and charging architecture before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're managing a larger fleet needing safe zoned charging and genuine security, where Pearington 30 Device Mobile Charging/Storage Cart for iPads's higher price buys real capacity and reliability headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing a small number of devices with simple charging needs, where Tripp Lite 42 covers the same job at a lower price."
       }
     ]
@@ -165,12 +165,12 @@ export const howWeEvaluated = [
     "description": "We compared confirmed capacity claims and screen-size limits rather than assuming every 30-device cart handles the same laptop thickness."
   },
   {
-    "title": "",
+    "title": "Charging architecture disclosure",
     "description": "None of these listings had an independently verified per-device wattage breakdown in our data pull, so we flagged this gap rather than assuming AC pass-through and USB-C carts charge identically."
   },
   {
-    "title": "",
-    "description": ""
+    "title": "Review base weighted against price",
+    "description": "A enterprise cart with 1 review and a cart with 0 reviews both carry real evaluation risk that a simple star rating doesn't capture."
   },
   {
     "title": "Capacity-to-price ratio across the fleet-size range",

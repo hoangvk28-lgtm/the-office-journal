@@ -60,34 +60,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/31ZZIolzR8L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your room",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Small bedroom corner",
           "Suptek 17-inch Black Corner Mounting Bracket Extender for L-Shaped Desks, Fits"
         ],
         [
-          "",
+          "Standard home office",
           "VIVO Clamp-on 17 inch Corner Desk Connector Sleeve Plate"
         ],
         [
-          "",
+          "Larger dedicated office",
           "Com Clamp-On Steel Desk Corner Sleeve for L-Shaped/Corner Desk"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -95,11 +95,11 @@ export const howToChoose: HowToChooseSection[] = [
           "Suptek 17-inch Black Corner Mounting Bracket Extender for L-Shaped Desks, Fits"
         ],
         [
-          "",
+          "Mid-range pick",
           "VIVO White 17 in Corner Desk Connector Platform"
         ],
         [
-          "",
+          "Higher budget",
           "Com Clamp-On Steel Desk Corner Sleeve for L-Shaped/Corner Desk"
         ]
       ]
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether you already have separate storage nearby."
   },
   {
-    "subheading": "",
+    "subheading": "By Monitor Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single monitor",
           "VIVO Clamp-on 17 inch Corner Desk Connector Sleeve Plate"
         ],
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Small Bedrooms Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The desk's exact footprint plus 30 inches of chair clearance behind it, not just the room-size claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Suptek 17-inch Black Corner Mounting Bracket Extender for L-Shaped Desks, Fits is worth measuring against your specific corner before assuming any 'compact' label fits the same."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Com Clamp-On Steel Desk Corner Sleeve for L-Shaped/Corner Desk justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a simple, functional corner surface, where Suptek 17-inch Black Corner Mounting Bracket Extender for L-Shaped Desks, Fits already covers the job at the lowest price here."
       }
     ]

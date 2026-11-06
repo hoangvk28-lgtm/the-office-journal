@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Brother DCP"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Brother DCP"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $117",
           "Canon MAXIFY MB2720 Wireless Color Photo Printer"
         ],
         [
-          "",
+          "Up to $491",
           "Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Duplex vs Simplex Printing",
     "cards": [
       {
-        "label": "",
+        "label": "Duplex (auto two-sided)",
         "text": "Prints both sides automatically, saves paper and time for double-sided documents. In this comparison: Brother DCP, HP LaserJet M209d Laser Printer, Brother HL, Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer, HP OfficeJet Pro 9135 Wireless All, Brother INKvestment MCF, Epson Expression Premium XP."
       },
       {
-        "label": "",
+        "label": "Simplex only",
         "text": "Usually cheaper, fine if you rarely need double-sided printing. In this comparison: Canon MAXIFY MB2720 Wireless Color Photo Printer."
       }
     ],
     "note": "Default to duplex unless you're confident your printing is mostly single-sided."
   },
   {
-    "subheading": "",
+    "subheading": "By Scan Resolution",
     "note": "Check each pick's listed optical scan resolution in DPI against how you'll actually use scanning before buying, not just print specs."
   },
   {
     "subheading": "For Scanning Contracts or Receipts Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A disclosed optical scan resolution in DPI high enough to keep fine print legible, not just the printer's overall feature list."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Brother DCP is worth checking against its listed scan resolution before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You print regularly at moderate to high volume, where Canon Color imageCLASS MF753Cdw II Wireless Duplex Laser Printer's duty cycle and cost-per-page give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only print occasionally at low volume, where Canon MAXIFY MB2720 Wireless Color Photo Printer covers the same job at a lower price."
       }
     ]
@@ -150,7 +150,7 @@ export const howWeEvaluated = [
     "description": "Confirmed each pick's actual print engine from the product listing before including it, and clearly flagged the inkjet models that surface in monochrome laser searches rather than mislabeling them."
   },
   {
-    "title": "",
+    "title": "Starter toner real-world yield",
     "description": "Checked whether the included starter toner cartridge matches a full-yield replacement or falls well short of it, since that gap drives real first-year cost."
   },
   {
@@ -158,7 +158,7 @@ export const howWeEvaluated = [
     "description": "Noted whether the drum and toner are separate consumables or integrated into one replacement part, since that changes long-term maintenance cost."
   },
   {
-    "title": "",
+    "title": "Warm-up time",
     "description": "Compared cold-start versus sleep-mode wake times across the true laser picks, relevant for a home office that prints quick one-off pages throughout the day."
   },
   {

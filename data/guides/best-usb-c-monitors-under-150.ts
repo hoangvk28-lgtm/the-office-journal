@@ -60,11 +60,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41EJj-d9gZL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -76,40 +76,40 @@ export const howToChoose: HowToChooseSection[] = [
           "ViewSonic VX2416A 24 Inch 120Hz Gaming Monitor"
         ],
         [
-          "",
+          "Confirmed passthrough laptop charging",
           "ViewSonic VA2448-MHU 24 Inch 120Hz"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $90",
+          "Msi PRO MP242 E14C 24-inch 144Hz ($84.99)"
         ],
         [
-          "",
-          ""
+          "$95-$115",
+          "BenQ GW2490C 23.8\" 144Hz ($99.99) or ViewSonic VX2416A ($109.99)"
         ],
         [
-          "",
-          ""
+          "$125-$130",
+          "ViewSonic VA2448-MHU 24 Inch 120Hz ($129.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Gaming-Tuned vs Office-Tuned Panels",
     "cards": [
       {
-        "label": "",
+        "label": "Gaming-Tuned (ViewSonic VX2416A)",
         "text": "1ms response time and Variable Refresh Rate specifically target competitive gaming, where every millisecond of input lag matters."
       },
       {
@@ -120,15 +120,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you split time between gaming and work, the msi PRO MP242 or ViewSonic VX2416A both handle either reasonably well since both offer at least 120Hz."
   },
   {
-    "subheading": "",
+    "subheading": "By USB-C Charging Behavior",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Confirmed passthrough laptop charging",
           "ViewSonic VA2448-MHU 24 Inch 120Hz"
         ],
         [
@@ -139,27 +139,27 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Extended Workdays Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit flicker-free and low blue light certifications, ideally from a named third party like TUV Rheinland, rather than a generic \"eye comfort\" claim."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The msi PRO MP242 E14C states TUV Rheinland certification directly, while the BenQ GW2490C's Eye-Care suite is specifically framed around long office and study sessions."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You specifically need confirmed passthrough laptop charging through the monitor's own power adapter, where the ViewSonic VA2448-MHU is the clear choice in this guide."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just want the highest refresh rate for smoother everyday use, where the msi PRO MP242 E14C delivers 144Hz for under $85."
       }
     ]
@@ -172,19 +172,19 @@ export const howWeEvaluated = [
     "description": "Compared stated refresh rate (Hz) and response time (ms) figures across all four picks, since these vary meaningfully even among similarly priced 1080P panels."
   },
   {
-    "title": "",
+    "title": "USB-C Power Delivery Behavior",
     "description": "Checked which listings explicitly describe passthrough laptop charging versus those that only mention USB-C for video and data without a clear charging claim."
   },
   {
-    "title": "",
+    "title": "Eye-Care and Certification Claims",
     "description": "Verified stated flicker-free, low blue light, and third-party certifications like TUV Rheinland across the lineup."
   },
   {
-    "title": "",
+    "title": "Gaming vs Productivity Tuning",
     "description": "Distinguished panels marketed for competitive gaming performance, like Variable Refresh Rate and low response time, from those tuned for general office and productivity use."
   },
   {
-    "title": "",
+    "title": "Input Flexibility",
     "description": "Compared the range of video inputs included beyond USB-C, like HDMI, DisplayPort, and legacy VGA, since not every laptop or older device connects the same way."
   }
 ];

@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41p60Rh4mQL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "5 x 11 Wall Mount with Tape"
         ],
         [
-          "",
+          "Continuous transcription/typing",
           "Suwimut 3 Pack Acrylic Brochure Holder"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "5 x 11 Wall Mount with Tape"
         ],
         [
-          "",
+          "Mid-range pick",
           "B Wall File Organizer Office Hanging Magazine Holder Wall File"
         ],
         [
-          "",
+          "Higher budget",
           "Samstar 6 Pack Mesh Wall Mounted File Holder Metal Wall File Pocket Mail"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Freestanding",
     "cards": [
       {
         "label": "5 x 11 Wall Mount with Tape)",
         "text": "Sits between monitor and keyboard, minimal head movement."
       },
       {
-        "label": "",
+        "label": "Freestanding",
         "text": "Sits beside the monitor at eye level, more placement flexibility."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Size",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Letter/A4 size",
           "Suwimut 3 Pack Acrylic Brochure Holder"
         ],
         [
-          "",
+          "Legal size or larger",
           "B Wall File Organizer Office Hanging Magazine Holder Wall File"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Transcription Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A line guide feature and independently adjustable angle and height."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Suwimut 3 Pack Acrylic Brochure Holder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where samstar 6 Pack Mesh Wall Mounted File Holder Metal Wall File Pocket Mail justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5 x 11 Wall Mount with Tape already covers the job at the lowest price here."
       }
     ]

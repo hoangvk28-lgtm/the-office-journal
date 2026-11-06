@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41s2ZL+e00L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -77,7 +77,7 @@ export const howToChoose: HowToChooseSection[] = [
           "AIWFL 20 Device Laptop Charging Cart, 2 Tier"
         ],
         [
-          "",
+          "Built-in surge protection",
           "VEVOR 16 Device Mobile Open Charging Station"
         ],
         [
@@ -88,69 +88,69 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $150",
+          "Kraftgen ($149.99)"
         ],
         [
-          "",
-          ""
+          "Under $160",
+          "VEVOR ($159.90)"
         ],
         [
-          "",
-          ""
+          "Under $180",
+          "AIWFL ($179.99)"
         ],
         [
-          "",
-          ""
+          "Under $200",
+          "Meteteel ($199.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Single-Tier vs 2-Tier Layout",
     "cards": [
       {
-        "label": "",
+        "label": "Single-tier (Meteteel, VEVOR, Kraftgen)",
         "text": "Uses a wider single-level layout that's generally easier to access quickly, though it holds fewer devices in a given footprint."
       },
       {
-        "label": "",
+        "label": "2-tier (AIWFL)",
         "text": "Stacks devices across two levels to fit more units in a similar footprint, trading some ease of top-level access for higher capacity."
       }
     ],
     "note": "If your priority is fitting the most devices in the smallest space, the AIWFL's 2-tier design delivers that. If quick, uniform access to every device matters more, a single-tier pick is the simpler choice."
   },
   {
-    "subheading": "",
+    "subheading": "By Power Safety Features",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your power concern",
+        "Recommended pick"
       ],
       "rows": [
         [
           "Surge protection against power fluctuations",
-          ""
+          "VEVOR (built-in surge control)"
         ],
         [
-          "",
-          ""
+          "Certified UL safety listing",
+          "Kraftgen (UL-listed power strips)"
         ],
         [
           "Centralized single power strip for all devices",
-          ""
+          "Meteteel"
         ],
         [
           "Standard cord management without extra certification",
-          ""
+          "AIWFL"
         ]
       ]
     }
@@ -159,24 +159,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Classroom With Frequent Student Access Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An open-frame design with removable dividers, so students can quickly grab and return devices without navigating a locked or enclosed cabinet."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The AIWFL pick's open 2-tier design with removable dividers specifically supports quick, frequent student access during class transitions."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want durable steel construction with centralized power management, where the Meteteel pick delivers both at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic UL-certified charging without surge protection, where the Kraftgen pick covers that for about $50 less."
       }
     ]
@@ -185,23 +185,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Device Capacity",
     "description": "Compared stated device slot counts and layout design, single-tier versus 2-tier, across the lineup."
   },
   {
-    "title": "",
+    "title": "Power Management",
     "description": "Checked for centralized power strips, surge protection, and UL certification across all four picks."
   },
   {
-    "title": "",
+    "title": "Mobility and Stability",
     "description": "Compared caster count, locking wheel availability, and handle ergonomics for moving a loaded cart."
   },
   {
-    "title": "",
+    "title": "Cable Management",
     "description": "Compared built-in cable organizers, clips, and dividers for keeping charging cords tangle-free."
   },
   {
-    "title": "",
+    "title": "Build Quality and Safety",
     "description": "Checked for UL listing, ventilation design, and scratch-resistant construction across the lineup."
   }
 ];

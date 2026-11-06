@@ -64,36 +64,36 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $54",
           "Inkless Portable Bluetooth Thermal Printer"
         ],
         [
-          "",
-          ""
+          "Up to $200",
+          "Epson EcoTank ET"
         ]
       ]
     }
@@ -106,22 +106,22 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The lower-priced option in this comparison, worth checking its actual specs and review history against your specific need before assuming it's enough."
       },
       {
-        "label": "",
+        "label": "Epson EcoTank ET",
         "text": "The higher-priced option, worth it if it offers real, checkable headroom in build quality, capacity, or features over the cheaper pick."
       }
     ],
     "note": "Default to Inkless Portable Bluetooth Thermal Printer unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Canon PIXMA TS4320 Wireless Color Inkjet Printer"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Canon PIXMA TS4320 Wireless Color Inkjet Printer is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Epson EcoTank ET's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You only need this for light or occasional use, where Inkless Portable Bluetooth Thermal Printer covers the same job at a lower price."
       }
     ]
@@ -157,30 +157,30 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Footprint vs. small-desk width",
     "description": "Compared each printer's stated dimensions against common small-desk widths of 24-36 inches to flag which picks realistically leave room for a keyboard and monitor."
   },
   {
-    "title": "",
+    "title": "Paper tray capacity honesty",
     "description": "Checked tray capacity against a standard 500-sheet ream rather than assuming compact means adequate, since most compact printers hold well under a full ream."
   },
   {
-    "title": "",
+    "title": "Print technology fit",
     "description": "Weighed inkjet AIO, ink-tank, mono laser, and thermal designs against real footprint and cost-per-page differences rather than treating all compact printers as interchangeable."
   },
   {
-    "title": "",
+    "title": "Wireless setup difficulty",
     "description": "Considered how each printer pairs over wifi or Bluetooth, since app-based pairing (Canon PRINT, HP Smart) is not always frictionless for first-time users."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed upfront price against paper size support, duplex printing, and added hardware like an ADF or display screen to judge whether the extra cost buys real function."
   }
 ];
 
 export const introParagraphs = [
   "A compact printer for a small desk needs to solve a math problem most listings never show you: a printer footprint of roughly 17 inches wide can eat well over half of a 30-inch-wide desk before you even open the paper tray. Compact inkjets, all-in-ones, and mono laser printers all measure compact differently, and a printer marketed as small can still be the wrong fit once the tray extends forward or the scanner lid needs headroom.",
-  ""
+  "Below are 8 compact printers we compared on footprint against common small-desk widths, paper tray capacity, print technology, and how straightforward wireless setup actually is out of the box, ranging from a $53.97 inkless travel printer to a $199.99 ink-tank all-in-one."
 ];
 
 export const lastUpdated = "2026-07-23";

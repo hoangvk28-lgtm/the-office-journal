@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/31YXGcnIAFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $139",
+          "Poly Sync 20 ($138.29)"
         ],
         [
-          "",
-          ""
+          "Under $156",
+          "Yealink SP96 ($155.99)"
         ],
         [
-          "",
-          ""
+          "Under $161",
+          "Jabra Speak2 55 ($160.60)"
         ],
         [
-          "",
-          ""
+          "Under $170",
+          "EMEET M3 ($169.99)"
         ]
       ]
     }
@@ -129,23 +129,23 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "If you're outfitting a dedicated conference room that regularly hosts 8 or more people, the Yealink SP96 or EMEET M3 are built for that scale. If you're a frequent traveler needing one reliable unit that goes wherever you do, the Jabra or Poly picks are the better fit."
   },
   {
-    "subheading": "",
+    "subheading": "By Attendee Count",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your typical attendee count",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Up to 6 people",
           "Poly Sync 20 or Jabra Speak2 55"
         ],
         [
-          "",
-          ""
+          "8-12 people",
+          "Yealink SP96"
         ],
         [
-          "",
+          "Up to 20 people",
           "EMEET M3 with daisy chain"
         ]
       ]
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Shared Office With Water or Dust Exposure Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "An explicit ingress protection rating like IP64, indicating tested resistance to dust and water splashes, rather than assuming any speakerphone handles incidental spills."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The Poly Sync 20 pick's stated IP64 rating specifically confirms tested dust and water resistance that the other three picks don't claim."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You regularly host large 15-20 person meetings and want a Zoom-recognized unit with daisy chain scaling, where the EMEET M3 delivers that at the top of this tier."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want strong all-day battery life and durability without needing large-room scaling, where the Poly Sync 20 covers that for about $32 less."
       }
     ]
@@ -185,19 +185,19 @@ export const howWeEvaluated = [
     "description": "Compared stated pickup radius and recommended attendee counts across the lineup."
   },
   {
-    "title": "",
+    "title": "Daisy Chain Expansion",
     "description": "Checked which picks support linking multiple units and how much coverage that adds."
   },
   {
-    "title": "",
+    "title": "Battery Life",
     "description": "Compared stated battery capacity and continuous call time across all four picks."
   },
   {
-    "title": "",
+    "title": "Platform Certification",
     "description": "Checked for formal Teams, Zoom, or platform-recognized status versus general compatibility."
   },
   {
-    "title": "",
+    "title": "Durability and Portability",
     "description": "Compared ingress protection ratings and portable design features for travel use."
   }
 ];

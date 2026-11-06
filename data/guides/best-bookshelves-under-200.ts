@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/51dOsQcGbxL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Primary Use Case",
     "table": {
       "headers": [
-        "",
-        ""
+        "If you mainly need",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -84,48 +84,48 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $122",
+          "IRONCK Corner with Drawers ($121.99)"
         ],
         [
-          "",
-          ""
+          "Under $116",
+          "Loomie Glass Doors ($115.99)"
         ],
         [
-          "",
-          ""
+          "$180-$190",
+          "FINETONES Corner ($179.99) or Tribesigns 6-Tier ($189.99)"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Corner-Fitting vs Straight-Wall Design",
     "cards": [
       {
-        "label": "",
+        "label": "Corner-Fitting (FINETONES, IRONCK)",
         "text": "Turns an unused 90-degree corner into functional storage, ideal for rooms where straight wall space is limited or already occupied."
       },
       {
-        "label": "",
+        "label": "Straight-Wall (Tribesigns, Loomie)",
         "text": "Requires a standard flat wall section but generally offers more per-unit capacity or display area for the same footprint."
       }
     ],
     "note": "If your room has an awkward unused corner, a corner-fitting design turns dead space into storage. If you have open straight wall space, the straight-frame picks generally deliver more capacity per dollar."
   },
   {
-    "subheading": "",
+    "subheading": "By Storage Style Preference",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your storage style",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Room with an Unused Corner Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A bookshelf specifically designed with an L-shaped or 90-degree corner-fitting profile, rather than a standard straight-back unit pushed awkwardly into a corner."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Both the FINETONES and IRONCK picks are specifically engineered to fit a 90-degree corner, turning otherwise wasted space into real storage."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want the highest weight capacity for a substantial collection, where the Tribesigns pick delivers 350 lbs of total capacity, the most in this comparison."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Corner-fitting space efficiency with drawer storage covers your needs, where the IRONCK pick delivers this at meaningfully less than the pricier FINETONES corner unit."
       }
     ]
@@ -169,11 +169,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Real Total Weight Capacity",
     "description": "Compared stated total weight capacity figures, with the Tribesigns pick's 350 lb rating standing out as the highest in this comparison."
   },
   {
-    "title": "",
+    "title": "Corner-Fitting vs Straight-Wall Footprint",
     "description": "Distinguished picks specifically designed for a 90-degree corner from those requiring a straight wall section."
   },
   {
@@ -181,7 +181,7 @@ export const howWeEvaluated = [
     "description": "Compared enclosed drawer storage against glass-door display protection for different organizational needs."
   },
   {
-    "title": "",
+    "title": "Shipping and Assembly Complexity",
     "description": "Noted which picks ship in multiple packages due to their larger corner-fitting or taller construction."
   },
   {

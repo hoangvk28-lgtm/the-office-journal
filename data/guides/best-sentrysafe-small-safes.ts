@@ -45,7 +45,7 @@ export const faq = [
   },
   {
     "q": "Why include non-SentrySafe products in a SentrySafe guide?",
-    "a": ""
+    "a": "They surfaced in our original research pool and offer genuine advantages (larger capacity, USB-C backup power) worth disclosing honestly rather than omitting silently."
   }
 ];
 
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "SentrySafe Fireproof Safe Box with Key Lock"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Yuanshikj Small Steel Security Safe Box with Keypad"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $NaN",
           "SentrySafe Fireproof Safe Box with Key Lock"
         ],
         [
-          "",
+          "Up to $102",
           "SentrySafe Shelf Safe with Digital Keypad Lock"
         ]
       ]
@@ -98,31 +98,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Physical Key vs Electronic Access",
     "cards": [
       {
-        "label": "",
+        "label": "Physical key",
         "text": "No batteries to fail, but a lost key means a lockout with no backup. In this comparison: SentrySafe Black Fireproof and Waterproof Safe, SentrySafe Fireproof Safe with Key Lock."
       },
       {
-        "label": "",
+        "label": "Electronic access",
         "text": "More convenient day to day, worth checking for a backup access method in case the battery dies. In this comparison: SentrySafe Fireproof Safe Box with Key Lock, SentrySafe Shelf Safe with Digital Keypad Lock, SentrySafe Small Safe, Bonsaii Safe Box with Electronic Keypad for Home Office, Yuanshikj Small Steel Security Safe Box with Keypad, Bonsaii Small Safe Box with Electronic Keypad for Valuables."
       }
     ],
     "note": "Most buyers should default to electronic access with a confirmed backup method unless simplicity is the top priority."
   },
   {
-    "subheading": "",
+    "subheading": "By Fire Protection",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Fire resistance claimed",
           "SentrySafe Fireproof Safe Box with Key Lock"
         ],
         [
           "Theft deterrence only, no fire claim",
-          ""
+          "SentrySafe Small Safe"
         ]
       ]
     }
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Storing Documents or Cash Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A confirmed interior dimension roomy enough for the actual items, plus a backup access method beyond just a keypad."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Yuanshikj Small Steel Security Safe Box with Keypad is worth checking against its listed interior dimensions before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're storing valuable or irreplaceable items, where SentrySafe Shelf Safe with Digital Keypad Lock's higher price buys real security or fire-protection headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need basic theft deterrence for low-value items, where SentrySafe Fireproof Safe Box with Key Lock covers the same job at a lower price."
       }
     ]
@@ -166,7 +166,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Compared the non-SentrySafe alternatives on their own merits",
-    "description": ""
+    "description": "Where we included non-SentrySafe picks for comparison, we noted their genuine advantages (larger capacity, USB-C backup) honestly rather than implying brand equivalence."
   },
   {
     "title": "Verified fire, water, and gun-safe certifications specifically for each genuine SentrySafe model",

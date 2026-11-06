@@ -28,32 +28,32 @@ export const buyingCriteria = [
 
 export const faq = [
   {
-    "id": "",
+    "id": "Comfort-vr-faq",
     "q": "Which VR headset is most comfortable for long sessions?",
     "a": "Check reviews for weight distribution, not just total weight, a design with rear-mounted weight like a battery pack balances the load better than a front-heavy design that concentrates weight on the face."
   },
   {
-    "id": "",
+    "id": "Resolution-vr-faq",
     "q": "What resolution should I look for in a VR headset?",
     "a": "Check the true per-eye resolution, not a combined total across both eyes, a low per-eye resolution can produce a visible screen door effect that's especially distracting when reading in-game text."
   },
   {
-    "id": "",
+    "id": "Tracking-faq",
     "q": "Does VR tracking work in any room?",
     "a": "Inside-out tracking can struggle in poorly lit rooms, near reflective surfaces, or unusually shaped spaces, check specific tracking reliability reviews if your play space has any of these challenges."
   },
   {
-    "id": "",
+    "id": "Fov-faq",
     "q": "Does field of view really matter in VR?",
     "a": "Yes, more than most buyers expect, a narrow field of view can feel like looking through a mask, a wider field of view meaningfully increases immersion, especially for exploration-focused content."
   },
   {
-    "id": "",
+    "id": "Storage-vr-faq",
     "q": "How much storage do I need on a standalone VR headset?",
     "a": "More than the base tier usually offers, VR game file sizes have grown significantly, a smaller storage tier fills up faster than expected and forces regular uninstall-and-redownload cycles."
   },
   {
-    "id": "",
+    "id": "Ipd-faq",
     "q": "What if a VR headset doesn't fit my eyes clearly?",
     "a": "Check the IPD adjustment range, a headset with only a few fixed steps may leave users outside the average range with a persistently blurry image, a continuous adjustment range accommodates more people."
   }
@@ -67,15 +67,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/319PFtNQZkL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Setup",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "No gaming PC available",
           "TECKNET VR Headset for Phone"
         ],
         [
@@ -83,18 +83,18 @@ export const howToChoose: HowToChooseSection[] = [
           "TECKNET VR Headset for Phone with Bluetooth Controller"
         ],
         [
-          "",
+          "Want maximum visual fidelity",
           "Vision 8K Plus Compatible for Pimax Vision 8K+ VR Headset 8K Plus VR Headset"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -102,36 +102,36 @@ export const howToChoose: HowToChooseSection[] = [
           "TECKNET VR Headset for Phone"
         ],
         [
-          "",
+          "Mid-range pick",
           "Pimax Crystal Light VR Headset for PC"
         ],
         [
-          "",
+          "Higher budget",
           "Vision 8K Plus Compatible for Pimax Vision 8K+ VR Headset 8K Plus VR Headset"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Standalone vs PC-Tethered",
     "cards": [
       {
         "label": "TECKNET VR Headset for Phone)",
         "text": "No cables or computer needed, capped at mobile-chip-level graphics."
       },
       {
-        "label": "",
+        "label": "PC-tethered",
         "text": "Far more demanding visuals possible, needs a gaming PC and a cable or wireless streaming setup."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Motion Sensitivity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your sensitivity",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -139,7 +139,7 @@ export const howToChoose: HowToChooseSection[] = [
           "TECKNET VR Headset for Phone with Bluetooth Controller"
         ],
         [
-          "",
+          "Sensitive to VR discomfort",
           "Pimax Crystal Light VR Headset for PC"
         ]
       ]
@@ -149,24 +149,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Fast-Paced or Full-Body Games Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Controller tracking that holds up specifically when controllers move outside the headset's camera view."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "TECKNET VR Headset for Phone with Bluetooth Controller is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Vision 8K Plus Compatible for Pimax Vision 8K+ VR Headset 8K Plus VR Headset justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where TECKNET VR Headset for Phone already covers the job at the lowest price here."
       }
     ]

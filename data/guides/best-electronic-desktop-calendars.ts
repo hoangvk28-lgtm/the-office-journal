@@ -52,35 +52,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "Skylight Calendar, 15\" Touchscreen Digital Calendar & Chore Chart"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "Skylight Calendar, 15\" Touchscreen Digital Calendar & Chore Chart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $24",
           "5inch Writing Board for Office Business Home Decor"
         ],
         [
-          "",
+          "Up to $300",
           "Skylight Calendar 2, 15\" Touchscreen Digital Calendar"
         ]
       ]
@@ -101,15 +101,15 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "5inch Writing Board for Office Business Home Decor unless your specific need calls for the pricier pick's extra headroom."
   },
   {
-    "subheading": "",
+    "subheading": "By Review Base Confidence",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Largest, most-established review base",
           "Skylight Calendar, 15\" Touchscreen Digital Calendar & Chore Chart"
         ]
       ]
@@ -119,24 +119,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a First-Time Buyer Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Clear, specific dimensions or capacity and a real, established review history, not just marketing language."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Skylight Calendar, 15\" Touchscreen Digital Calendar & Chore Chart is worth checking against its listed specs before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real durability and feature depth for regular use, where Skylight Calendar 2, 15\" Touchscreen Digital Calendar's build gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "5inch Writing Board for Office Business Home Decor covers the same job at a lower price."
       }
     ]

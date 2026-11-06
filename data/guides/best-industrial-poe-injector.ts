@@ -64,12 +64,12 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Device Count and Power Need",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your requirement",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single high-draw device (95W)",
           "Xoxnikior Industrial Gigabit 95W PoE++ Injector"
         ],
         [
@@ -88,28 +88,28 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $50",
+          "TRENDnet Industrial 30W Gigabit PoE+ Injector ($49.99)"
         ],
         [
-          "",
-          ""
+          "Under $80",
+          "Industrial 2ch PoE+ Injector 30W ($79.70)"
         ],
         [
-          "",
-          ""
+          "Under $93",
+          "Industrial 2ch PoE++ Injector 90W ($92.70)"
         ],
         [
-          "",
-          ""
+          "Under $100",
+          "Xoxnikior Industrial Gigabit 95W PoE++ Injector ($99.99)"
         ]
       ]
     }
@@ -118,7 +118,7 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Single-Port vs 2-Port DIN-Rail Injectors",
     "cards": [
       {
-        "label": "",
+        "label": "Single-port (xoxnikior, TRENDnet)",
         "text": "Simplest choice when you only need to power one device from a given cabinet location, with the xoxnikior pick offering the highest per-device power ceiling."
       },
       {
@@ -133,7 +133,7 @@ export const howToChoose: HowToChooseSection[] = [
     "table": {
       "headers": [
         "What's already in your cabinet",
-        ""
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -155,24 +155,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Roadside Enclosure or Pump House Installation Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A wide operating temperature range and fanless design specifically built for an unmanned outdoor cabinet, where extreme heat, cold, and dust are ongoing concerns without regular maintenance access."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "The xoxnikior pick specifically names roadside enclosures and pump houses as intended use cases, backed by its -40F to 176F fanless operation."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You're powering a high-draw device like a heated PTZ camera or need two independent high-power ports, where the xoxnikior or 90W 2-port picks near $90-100 justify their price with real capability."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "99 price delivers that specific requirement at roughly half the cost of the higher-wattage picks."
       }
     ]
@@ -181,23 +181,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "DC/AC Input Flexibility",
     "description": "Compared each listing's stated input voltage range and whether it accepts AC in addition to DC."
   },
   {
-    "title": "",
+    "title": "Power Output Ceiling",
     "description": "Compared maximum wattage output relative to the input voltage actually available in a typical cabinet."
   },
   {
-    "title": "",
+    "title": "Port Count",
     "description": "Compared single-port units against 2-port units for powering multiple devices from one location."
   },
   {
-    "title": "",
+    "title": "Industrial Certifications",
     "description": "Compared NDAA compliance and documented EMS/surge certifications across listings."
   },
   {
-    "title": "",
+    "title": "DIN-Rail Mount Compatibility",
     "description": "Confirmed each listing includes standard 35mm DIN-rail mounting hardware."
   }
 ];

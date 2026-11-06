@@ -32,7 +32,7 @@ export const faq = [
     "a": "No, blower or reverse-airflow mode is a bonus feature on some models, not universal; check the specific listing rather than assuming any '2-in-1' or '3-in-1' branding includes it."
   },
   {
-    "q": "",
+    "q": "Are mini vacuums loud?",
     "a": "Cordless models typically run around 55 to 62 DB, noticeable in a quiet shared office; check buyer reviews for real-world noise impressions if discretion matters."
   },
   {
@@ -61,34 +61,34 @@ export const heroImage = "https://m.media-amazon.com/images/I/41ES4+OEA1L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Main Use",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use case",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Keyboard crumbs",
           "Car Vacuum Portable Cordless, 18000Pa 4in1 Portable Handheld Cleaner Vacuum"
         ],
         [
-          "",
+          "Whole-desk cleaning",
           "Vishui Mini Desk Vacuum Cleaner"
         ],
         [
-          "",
+          "Car interior",
           "Shark Cyclone PET Handheld Vacuum"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Car Vacuum Portable Cordless, 18000Pa 4in1 Portable Handheld Cleaner Vacuum"
         ],
         [
-          "",
+          "Mid-range pick",
           "AHNR 20000PA Handheld Car Vacuum Portable Cordless with Brushless Motor"
         ],
         [
-          "",
+          "Higher budget",
           "Shark Cyclone PET Handheld Vacuum"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Corded vs Cordless",
     "cards": [
       {
         "label": "Car Vacuum Portable Cordless, 18000Pa 4in1 Portable Handheld Cleaner Vacuum)",
         "text": "Consistent suction, no battery to manage, lower price."
       },
       {
-        "label": "",
+        "label": "Cordless",
         "text": "Portable and quiet, but suction fades as the battery drains."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Suction Priority",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Everyday light cleaning",
           "Vishui Mini Desk Vacuum Cleaner"
         ],
         [
-          "",
+          "Maximum suction power",
           "AHNR 20000PA Handheld Car Vacuum Portable Cordless with Brushless Motor"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Tight Keyboard Crevices Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A narrow brush or crevice nozzle attachment included in the box."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Vishui Mini Desk Vacuum Cleaner is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Shark Cyclone PET Handheld Vacuum justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Car Vacuum Portable Cordless, 18000Pa 4in1 Portable Handheld Cleaner Vacuum already covers the job at the lowest price here."
       }
     ]

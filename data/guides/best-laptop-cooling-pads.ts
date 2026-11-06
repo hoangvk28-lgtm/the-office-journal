@@ -57,10 +57,10 @@ export const heroImage = "https://m.media-amazon.com/images/I/51QkELL-KFL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Laptop Size Fit",
     "table": {
       "headers": [
-        "",
+        "Your priority",
         "Recommended pick in this comparison"
       ],
       "rows": [
@@ -76,19 +76,19 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $25",
           "Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans for 12\"-17\" Laptop"
         ],
         [
-          "",
+          "Mid-range",
           "6\"-17\" Laptop Cooler Cooling Pad"
         ],
         [
@@ -102,22 +102,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Slim/Fewer Fans vs Multi-Fan High Airflow",
     "cards": [
       {
-        "label": "",
+        "label": "Slim, Fewer Fans",
         "text": "Lighter and more portable with less total noise, at the cost of a smaller cooled surface area. In this comparison: llano V12 Gaming Laptop Cooling Pad Laptop Cooler Laptop Cooling Fan Stand."
       },
       {
-        "label": "",
+        "label": "Multi-Fan, High Airflow",
         "text": "More total cooling surface and airflow, at the cost of extra bulk and more potential noise at full speed. In this comparison: Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans for 12\"-17\" Laptop."
       }
     ],
     "note": "Most buyers should default to a slim pick like llano V12 Gaming Laptop Cooling Pad Laptop Cooler Laptop Cooling Fan Stand for everyday portability, and only step up to Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans for 12\"-17\" Laptop's fan count if you're running demanding workloads that generate real sustained heat."
   },
   {
-    "subheading": "",
+    "subheading": "By Height Adjustment Range",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -135,24 +135,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For a Fanless or Sealed-Chassis Laptop (Like MacBook) Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Explicit confirmation that your specific laptop model has bottom-panel intake vents, since a cooling pad provides little benefit on a fully sealed, fanless unibody design regardless of physical fit."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Every pick here is designed around a vented-bottom laptop; if you're on a fanless MacBook specifically, check our dedicated MacBook Air cooling pad guide for that honesty caveat before buying any pad in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what Razer Laptop Cooling Pad Adaptive Smart offers: Automatic speed adjustment removes the guesswork on noise versus cooling. That's a real functional upgrade over the budget picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "Kootek Laptop Cooling Pad Cooler Stand with 5 Quiet Fans for 12\"-17\" Laptop already covers the essentials: Staged fan control matches airflow to actual need. The main thing you'd be paying extra for elsewhere in this list is fan count or height range you may not need."
       }
     ]
@@ -161,11 +161,11 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Sustained-load thermal evidence",
     "description": "We gave more weight to listings with a specific, documented before/after temperature figure under sustained load than to generic 'keeps your laptop cool' claims with no numbers."
   },
   {
-    "title": "",
+    "title": "Fan-to-vent alignment",
     "description": "We compared each pad's fan placement and airflow direction against typical bottom-vented and side-vented laptop layouts, since screen size alone does not determine whether a pad's airflow actually reaches the intake."
   },
   {
@@ -177,7 +177,7 @@ export const howWeEvaluated = [
     "description": "We compared documented or stated noise levels against fan speed and airflow claims rather than assuming louder automatically means better cooling."
   },
   {
-    "title": "",
+    "title": "Elevation and ergonomics",
     "description": "We weighed how many height settings each pad offers and whether a steep airflow-optimized angle comes at the cost of comfortable extended typing."
   }
 ];

@@ -64,80 +64,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "Create"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "Create"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $197",
           "Queen Size Murphy Bed Hardware Kit"
         ],
         [
-          "",
+          "Up to $700",
           "Hlivelood Queen Size Murphy Bed with 2 LED Lights"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Built-In Storage vs Desk-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in storage",
         "text": "Adds shelving or cabinet space beyond just the desk, useful in a smaller room. In this comparison: Yoobure Queen Murphy Bed with Charging Station, LUXOAK Queen Murphy Cabinet Bed with Storage and Charging Station, AMERLIFE Queen Murphy Bed with Storage and Charging Station."
       },
       {
-        "label": "",
+        "label": "Desk-only",
         "text": "Simpler, focuses cabinet space on the fold-down desk itself. In this comparison: Create, Queen Size Murphy Bed Hardware Kit, LIVAUVEAD Farmhouse Queen Size Murphy Bed with Charging Station, Hlivelood Queen Size Murphy Bed with 2 LED Lights, Hlivelood Queen Size Murphy Bed with 2 LED Lights."
       }
     ],
     "note": "Default to desk-only unless extra built-in storage solves a real space problem for you."
   },
   {
-    "subheading": "",
+    "subheading": "By Room Clearance Requirements",
     "note": "Check each pick's listed minimum ceiling height and wall clearance against your room's actual measured dimensions before buying, not just the general size category."
   },
   {
     "subheading": "For a Studio Apartment Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Verified real desk integration with a stated weight limit, plus confirmed ceiling height and wall clearance for your specific room."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "Create is worth checking against its listed clearance requirements before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You'll fold the unit daily as part of an active desk-bed routine, where Hlivelood Queen Size Murphy Bed with 2 LED Lights's build quality and mechanism give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "The bed stays in one position most of the time, where Queen Size Murphy Bed Hardware Kit covers the same job at a lower price."
       }
     ]
@@ -146,7 +146,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "HVAC vent placement compatibility",
     "description": "Considered whether each cabinet's floor footprint is a size that commonly conflicts with a studio's floor HVAC vent placement, since blocked vents are a frequent post-installation complaint in single-room apartments."
   },
   {
@@ -162,7 +162,7 @@ export const howWeEvaluated = [
     "description": "Checked each listing for an actual desk surface, and found that none of these 8 studio-focused picks confirm one, so all are treated honestly as bed-only cabinets in a room that will need a separate desk."
   },
   {
-    "title": "",
+    "title": "Lease approval requirement disclosure",
     "description": "Factored in that wall mounting hardware, and in some cases floor anchoring, is a lease-sensitive modification, and that written landlord approval should be treated as a required first step before any installation, not an afterthought."
   }
 ];

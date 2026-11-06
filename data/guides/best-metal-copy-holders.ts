@@ -61,19 +61,19 @@ export const heroImage = "https://m.media-amazon.com/images/I/41-NrkpEsmL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Work Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your work",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Quick reference glances",
           "Rodarola Desktop Document Holder for Typing Clipboard"
         ],
         [
-          "",
+          "Continuous data entry",
           "Fellowes Letter Sized Non-Magnetic Copyholder"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,44 +96,44 @@ export const howToChoose: HowToChooseSection[] = [
           "Rodarola Desktop Document Holder for Typing Clipboard"
         ],
         [
-          "",
+          "Mid-range pick",
           "Abankey KLOUD CityBlack Metal Desktop Document Book Holder"
         ],
         [
-          "",
+          "Higher budget",
           "Aidata CH012A Metal Arm Copy Holder"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "In-Line vs Side-Mounted",
     "cards": [
       {
         "label": "Rodarola Desktop Document Holder for Typing Clipboard)",
         "text": "Keeps the page in your direct sightline, minimal neck movement."
       },
       {
-        "label": "",
+        "label": "Side-mounted",
         "text": "Sits off to one side, more placement flexibility but more head turning."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Document Load",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your documents",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Single sheets",
           "Fellowes Letter Sized Non-Magnetic Copyholder"
         ],
         [
-          "",
+          "Thicker stacks or booklets",
           "Abankey KLOUD CityBlack Metal Desktop Document Book Holder"
         ]
       ]
@@ -143,24 +143,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Long Data-Entry Sessions Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A sliding line guide and an adjustable viewing angle to reduce glare and neck strain."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Fellowes Letter Sized Non-Magnetic Copyholder is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where Aidata CH012A Metal Arm Copy Holder justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where Rodarola Desktop Document Holder for Typing Clipboard already covers the job at the lowest price here."
       }
     ]

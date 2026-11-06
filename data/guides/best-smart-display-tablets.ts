@@ -33,7 +33,7 @@ export const faq = [
   },
   {
     "q": "What's the cheapest smart display tablet?",
-    "a": ""
+    "a": "The Cotoala 10.1 inch Smart Digital Calendar at $59.99, also confirmed subscription-free."
   },
   {
     "q": "Which brand has the most tablet hardware experience?",
@@ -60,80 +60,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest average rating",
           "1 inch Digital Calendar Chore Chart"
         ],
         [
-          "",
+          "Largest review base, strongest reliability signal",
           "1 inch Digital Calendar Chore Chart"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $60",
           "1 inch Smart Digital Calendar"
         ],
         [
-          "",
-          ""
+          "Up to $249",
+          "Skylight Calendar"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Review Base vs Price",
     "cards": [
       {
         "label": "1 inch Smart Digital Calendar",
         "text": "The lower-priced option in this comparison, worth checking its screen size and camera presence against your needs."
       },
       {
-        "label": "",
+        "label": "Skylight Calendar",
         "text": "The higher-priced option, worth it if it offers real screen size or feature headroom above the cheaper pick."
       }
     ],
     "note": "1 inch Smart Digital Calendar unless your specific needs call for the pricier pick."
   },
   {
-    "subheading": "",
+    "subheading": "By Voice Assistant Ecosystem",
     "note": "Check each pick's voice assistant ecosystem against your existing smart home devices and calendar service before buying, not just screen specs."
   },
   {
-    "subheading": "",
+    "subheading": "For Video Calls Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine front-facing camera with decent resolution, and motorized tracking if you move around during calls."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Check each pick's listing directly, since camera presence isn't consistent across every display in this comparison."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want a larger screen, motorized tracking, or better audio, where Skylight Calendar's features give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "1 inch Smart Digital Calendar covers the same job at a lower price."
       }
     ]

@@ -64,31 +64,31 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By How Much You Need to Store",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your load",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Light, everyday items",
           "Miyawell 3-Tier Rolling Pantry Cart with Wheels"
         ],
         [
-          "",
+          "Standard mixed storage",
           "2-Tier Expandable Rolling Pantry Cart with Wheels"
         ],
         [
-          "",
+          "Heavier or bulkier items",
           "Cinati 4-Tier Snack Cart with Wheels"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Miyawell 3-Tier Rolling Pantry Cart with Wheels"
         ],
         [
-          "",
+          "Mid-range pick",
           "OKZEST 3-Tier Rolling Pantry Floor Organizers and Storage Cart with Wheels"
         ],
         [
-          "",
+          "Higher budget",
           "Cinati 4-Tier Snack Cart with Wheels"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Drawers vs Open Bins",
     "cards": [
       {
         "label": "2-Tier Expandable Rolling Pantry Cart with Wheels)",
@@ -121,46 +121,46 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to how often you need to see contents versus how much you want the cart to blend in."
   },
   {
-    "subheading": "",
+    "subheading": "By Floor Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your floor",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Hardwood or tile",
           "Check for polyurethane or rubber casters specifically"
         ],
         [
-          "",
+          "Carpet or concrete",
           "2-Tier Expandable Rolling Pantry Cart with Wheels"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Tight Spaces Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The actual width and depth measurement, not just a 'slim' or 'narrow' label, plus the extra inch the wheels add to the base footprint."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Miyawell 3-Tier Rolling Pantry Cart with Wheels is worth checking against its exact footprint before assuming it fits a tight gap like between a washer and dryer."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need higher weight capacity and sturdier casters for daily heavy use, where Cinati 4-Tier Snack Cart with Wheels justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're storing lighter, everyday items, where Miyawell 3-Tier Rolling Pantry Cart with Wheels already covers the job at the lowest price here."
       }
     ]

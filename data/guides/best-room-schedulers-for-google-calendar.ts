@@ -61,11 +61,11 @@ export const heroImage = "https://m.media-amazon.com/images/I/41IP8t5+vmL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Room Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your setup",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@ export const howToChoose: HowToChooseSection[] = [
           "1'' WiFi Smart Family Calendar, Sync with Google"
         ],
         [
-          "",
+          "Standard conference room",
           "Black Box 7\" On-Wall in-Session Room Scheduler"
         ],
         [
@@ -84,11 +84,11 @@ export const howToChoose: HowToChooseSection[] = [
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,18 +96,18 @@ export const howToChoose: HowToChooseSection[] = [
           "1'' WiFi Smart Family Calendar, Sync with Google"
         ],
         [
-          "",
-          ""
+          "Mid-range pick",
+          "Airzeen 15.6\" Digital Calendar"
         ],
         [
-          "",
+          "Higher budget",
           "Digital Calendar 24 Inch Touch Screen"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "E-Ink vs LCD Touchscreen",
     "cards": [
       {
         "label": "1'' WiFi Smart Family Calendar, Sync with Google)",
@@ -121,11 +121,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Match this to whether the panel needs simple status signage or real interactive booking."
   },
   {
-    "subheading": "",
+    "subheading": "By Calendar Platform",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your platform",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Black Box 7\" On-Wall in-Session Room Scheduler"
         ],
         [
-          "",
-          ""
+          "Google Workspace / Calendar",
+          "Airzeen 15.6\" Digital Calendar"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For Multi-Room Deployments Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Genuine fleet management: bulk configuration, remote updates, and a central online/offline dashboard."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Black Box 7\" On-Wall in-Session Room Scheduler is worth checking against its specific spec sheet before standardizing across every room in your office."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need deeper calendar integration, check-in/auto-release, and multi-room fleet management, where Digital Calendar 24 Inch Touch Screen justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "1'' WiFi Smart Family Calendar, Sync with Google already covers the job at the lowest price here."
       }
     ]

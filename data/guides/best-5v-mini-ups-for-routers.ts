@@ -41,42 +41,42 @@ export const heroImage = "https://m.media-amazon.com/images/I/31v-kzYIP3L._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Watt-Hour Capacity",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Around 74Wh capacity",
           "Mini UPS Battery Backup 20000mAh 74Wh"
         ],
         [
-          "",
+          "Around 38Wh capacity",
           "Yuuki Power Mini UPS 10400mAh"
         ],
         [
-          "",
+          "Around 37Wh capacity",
           "Mini UPS Battery Backup for Router"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $30",
           "Mini UPS Battery Backup 6000mAh"
         ],
         [
-          "",
+          "Up to $85",
           "Mini UPS Battery Backup 20000mAh 74Wh"
         ]
       ]
@@ -86,22 +86,22 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "PoE Output vs DC-Only Rails",
     "cards": [
       {
-        "label": "",
+        "label": "PoE output",
         "text": "Can back up a router and a PoE camera off one unit over a single Ethernet run, worth checking passive vs active PoE compatibility. In this comparison: CHINTE Mini UPS 16000mAh with Passive PoE, Yuuki Power Mini UPS 10400mAh."
       },
       {
-        "label": "",
+        "label": "DC rails only",
         "text": "Simpler and covers standard router power needs without PoE complexity. In this comparison: Mini UPS Battery Backup for Router, Mini UPS Battery Backup 20000mAh 74Wh, Mini UPS Battery Backup 6000mAh, VISLONE Mini UPS Battery Backup 13500mAh."
       }
     ],
     "note": "Default to DC-only unless you specifically need to back up a PoE device from the same unit."
   },
   {
-    "subheading": "",
+    "subheading": "By Battery Chemistry",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -109,7 +109,7 @@ export const howToChoose: HowToChooseSection[] = [
           "CHINTE Mini UPS 16000mAh with Passive PoE"
         ],
         [
-          "",
+          "Standard lithium-ion is fine",
           "Mini UPS Battery Backup for Router"
         ]
       ]
@@ -119,24 +119,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Router Plus Modem Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Two independent output rails at different voltages, or a confirmed combined wattage ceiling that covers both devices' actual draw without a Y-splitter."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Mini UPS Battery Backup 20000mAh 74Wh is worth checking against its listed dual-rail output before buying."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "Outages regularly exceed an hour or you're backing up multiple devices, where Mini UPS Battery Backup 20000mAh 74Wh's higher capacity gives real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need a short bridge through brief flickers for a single router, where Mini UPS Battery Backup 6000mAh covers the same job at a lower price."
       }
     ]
@@ -153,15 +153,15 @@ export const howWeEvaluated = [
     "description": "Normalized battery capacity to watt-hours wherever the listing or official spec sheet provided pack voltage, since mAh alone is not comparable across products with different cell configurations."
   },
   {
-    "title": "",
+    "title": "Combined Output Ceiling",
     "description": "Looked for an explicit maximum continuous wattage figure, since routers and secondary devices (modems, cameras) sharing one UPS need headroom under that ceiling, not just individually rated ports."
   },
   {
-    "title": "",
+    "title": "Connector & Protection Documentation",
     "description": "Favored listings that specify exact connector size, polarity, and safety protections (short-circuit, overcharge, over-discharge, temperature) over listings that only market broad 'wide compatibility' claims."
   },
   {
-    "title": "",
+    "title": "Real Feature Differentiators",
     "description": "Weighed genuine differentiators, PoE output, LCD status displays, dual charging inputs, LiFePO4 battery chemistry, over marketing language that repeats across nearly identical products."
   }
 ];

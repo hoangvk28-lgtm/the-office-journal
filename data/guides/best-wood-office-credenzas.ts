@@ -13,11 +13,11 @@ export const buyingCriteria = [
     "explanation": "Look for documented top or case thickness, since thicker panels generally resist sagging and warping better under sustained equipment weight."
   },
   {
-    "criterion": "",
+    "criterion": "Inspect Exposed Edges",
     "explanation": "Check edge and corner photos for chip risk, a common weak point on engineered-wood pieces finished to look like solid wood."
   },
   {
-    "criterion": "",
+    "criterion": "Compare Finish Repair Options",
     "explanation": "Check what touch-up or refinishing options exist for scratches, since this varies significantly between laminate, veneer, and solid wood construction."
   },
   {
@@ -65,11 +65,11 @@ export const howToChoose: HowToChooseSection[] = [
     "note": "Look for documented top or case thickness, since thicker panels generally resist sagging and warping better under sustained equipment weight."
   },
   {
-    "subheading": "",
+    "subheading": "Inspect Exposed Edges",
     "note": "Check edge and corner photos for chip risk, a common weak point on engineered-wood pieces finished to look like solid wood."
   },
   {
-    "subheading": "",
+    "subheading": "Compare Finish Repair Options",
     "note": "Check what touch-up or refinishing options exist for scratches, since this varies significantly between laminate, veneer, and solid wood construction."
   },
   {
@@ -80,7 +80,7 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Function Classified Before Comparison",
     "description": "Sorted each product into storage credenza, credenza desk, file credenza, or desk-system credenza before ranking, since 'office credenza' spans meaningfully different furniture types that don't compare fairly against each other."
   },
   {
@@ -88,7 +88,7 @@ export const howWeEvaluated = [
     "description": "Compared published interior drawer, shelf, and cabinet dimensions rather than exterior width or door count alone, since partitions and hardware can meaningfully shrink real usable space."
   },
   {
-    "title": "",
+    "title": "File Compatibility Verified Directly",
     "description": "Checked letter/legal compatibility, filing direction, and lock coverage against each product's own documentation rather than assuming a 'file drawer' label means full hanging-file support."
   },
   {

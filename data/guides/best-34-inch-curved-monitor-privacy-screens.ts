@@ -29,11 +29,11 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Which curved 34 inch privacy screen has the most reviews?",
-    "a": ""
+    "a": "The [2 Pack] 34 Inch Privacy Screen for Curved Monitor, with 6,437 reviews at a 4.2 rating."
   },
   {
     "q": "What's the cheapest curved 34 inch option?",
-    "a": ""
+    "a": "The SightPro 34 Inch 21:9 Computer Privacy Screen Filter at $49.99, though it has only 2 reviews."
   },
   {
     "q": "Will a flat 34 inch filter work on my curved monitor?",
@@ -60,35 +60,35 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Identify Your Exact Device Type First",
     "table": {
       "headers": [
-        "",
+        "Your device",
         "Recommended pick in this comparison"
       ],
       "rows": [
         [
-          "",
+          "Desktop monitor",
           "[2 Pack] 34 Inch Privacy Screen for Curved Monitor"
         ],
         [
-          "",
+          "Laptop screen",
           "[2 Pack] 34 Inch Privacy Screen for Curved Monitor"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Price range",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $50",
           "SightPro 34 Inch 21:9 Computer Privacy Screen Filter for Monitor"
         ],
         [
-          "",
+          "Mid-range",
           "Mamol 34 Inch Curved Computer Privacy Screen Filter for 21:9 Aspect Ratio"
         ],
         [
@@ -102,11 +102,11 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Adhesive Tabs vs Slide-On Mount",
     "cards": [
       {
-        "label": "",
+        "label": "Adhesive Tabs",
         "text": "Sticks to the bezel with small adhesive tabs or hooks, generally cheaper and widely available, though it can leave light residue if removed often. In this comparison: check each listing's mounting method, it isn't always stated clearly."
       },
       {
-        "label": "",
+        "label": "Slide-On or Frame Mount",
         "text": "Clips or slides over the top and sides with no adhesive at all, easier to remove and reposition, at the cost of slightly less secure edge contact. In this comparison: none explicitly confirmed in this specific roundup, check the listing directly before assuming."
       }
     ]
@@ -115,16 +115,16 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "What you're weighing",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Highest star rating",
           "SightPro 34 Inch 21:9 Computer Privacy Screen Filter for Monitor"
         ],
         [
-          "",
+          "Largest review base (more statistical confidence)",
           "[2 Pack] 34 Inch Privacy Screen for Curved Monitor"
         ]
       ]
@@ -134,24 +134,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Matching Your Exact Aspect Ratio Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "The filter's stated active area width and height in inches, not just the diagonal size, checked directly against your screen's own specification sheet."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "[2 Pack] 34 Inch Privacy Screen for Curved Monitor fits this specifically: Largest review base of any curved 34 inch filter in our research."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You want what [2 Pack] 34 Inch Privacy Screen for Curved Monitor offers: Similar bundled features to the Mamol pick at a comparable price. That's a real functional upgrade over the basic picks here, not just a brand markup."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "SightPro 34 Inch 21:9 Computer Privacy Screen Filter for Monitor already covers the essentials: Cheapest option in this comparison. The main thing you'd be paying extra for elsewhere in this list is bundled coatings, not the core privacy function."
       }
     ]
@@ -169,7 +169,7 @@ export const howWeEvaluated = [
   },
   {
     "title": "Flagged very small review counts appropriately",
-    "description": ""
+    "description": "One pick here has only 2 reviews; we noted this directly rather than treating a perfect rating on so few reviews as statistically meaningful."
   },
   {
     "title": "Noted bundled anti-glare, blue-light, and anti-scratch features",

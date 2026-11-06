@@ -60,80 +60,80 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "By Rating Confidence: Highest Rated vs Most Reviewed",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Highest average rating",
+          "SUNALLY No"
         ],
         [
-          "",
-          ""
+          "Largest review base, strongest reliability signal",
+          "HORSE SECRET No"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
-          ""
+          "Under $29",
+          "Goovilla No"
         ],
         [
-          "",
+          "Up to $90",
           "JOSTYLE Boho Openwork Wood 6"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Built-In Storage vs Panel-Only",
     "cards": [
       {
-        "label": "",
+        "label": "Built-in storage (bookcase/cube)",
         "text": "Doubles as shelving while dividing the room, useful in a smaller space. In this comparison: Goovilla No, SUNALLY No, Furologee 6."
       },
       {
-        "label": "",
+        "label": "Panel-only",
         "text": "Simpler, focused purely on visual or acoustic separation. In this comparison: SUNALLY No, HORSE SECRET No, JOSTYLE Bamboo 4, Roundhill Furniture Oriental Shoji 4, JOSTYLE Boho Openwork Wood 6."
       }
     ],
     "note": "Default to panel-only unless built-in storage solves a real space problem for you."
   },
   {
-    "subheading": "",
+    "subheading": "By Panel Height",
     "note": "Check each pick's listed panel height against your room's ceiling and the actual privacy level you need before buying."
   },
   {
     "subheading": "For a Rented Space Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine freestanding or no-drill design that requires zero wall modification, not a divider that turns out to need wall anchors."
       },
       {
-        "label": "",
-        "text": ""
+        "label": "In this comparison",
+        "text": "HORSE SECRET No is worth checking against its listed mounting method before buying, given its strong review base."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real acoustic dampening or a taller, more stable divider, where JOSTYLE Boho Openwork Wood 6's material and construction give real headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You just need light visual separation without noise or stability concerns, where Goovilla No covers the same job at a lower price."
       }
     ]
@@ -142,23 +142,23 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "",
+    "title": "Renter-friendliness",
     "description": "Scored on whether the divider requires drilling, leaves marks, or can be fully removed at move-out without a trace, the top concern for most studio-apartment renters."
   },
   {
-    "title": "",
+    "title": "Light and airflow",
     "description": "Compared how much daylight and air each design lets through, from fully opaque fabric panels to translucent shoji and openwork carved wood."
   },
   {
-    "title": "",
+    "title": "Setup and portability",
     "description": "Weighed assembly time, weight, and how easily one person can reposition or take down the divider without help."
   },
   {
-    "title": "",
+    "title": "Space efficiency",
     "description": "Assessed footprint versus function, whether a pick only divides space or also adds storage, a meaningful distinction in a studio where every square foot matters."
   },
   {
-    "title": "",
+    "title": "Value for price",
     "description": "Weighed coverage, material quality, and included features against price, the tension rods and the Furologee 2-in-1 pick score highest here."
   }
 ];

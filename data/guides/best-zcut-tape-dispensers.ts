@@ -61,15 +61,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/41jknc-1CJL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Tape Volume",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your use",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Occasional light use",
           "NSA Blade Box/Blade Unit/Tape Cutter of Electric Automaitc Tape Dispenser Fits"
         ],
         [
@@ -77,18 +77,18 @@ export const howToChoose: HowToChooseSection[] = [
           "Solid Electric Tape Dispenser Zcut-2 Automatic Tape Cutting Machine"
         ],
         [
-          "",
+          "High-volume packing",
           "ZCUT-9GR Automatic Tape Dispenser Free to Set Up 6 Different Tape Length"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -96,36 +96,36 @@ export const howToChoose: HowToChooseSection[] = [
           "NSA Blade Box/Blade Unit/Tape Cutter of Electric Automaitc Tape Dispenser Fits"
         ],
         [
-          "",
+          "Mid-range pick",
           "Yueidung Automatic Tape Dispenser Rotary Disc Tape Cutting Machine"
         ],
         [
-          "",
+          "Higher budget",
           "ZCUT-9GR Automatic Tape Dispenser Free to Set Up 6 Different Tape Length"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "Desktop vs Handheld",
     "cards": [
       {
         "label": "NSA Blade Box/Blade Unit/Tape Cutter of Electric Automaitc Tape Dispenser Fits)",
         "text": "Anchored weight for a consistent one-motion cut."
       },
       {
-        "label": "",
+        "label": "Handheld",
         "text": "Portable, but your grip does the stabilizing work."
       }
     ],
     "note": "Match this to your actual setup and priorities."
   },
   {
-    "subheading": "",
+    "subheading": "By Tape Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your tape",
+        "Recommended pick"
       ],
       "rows": [
         [
@@ -133,34 +133,34 @@ export const howToChoose: HowToChooseSection[] = [
           "Solid Electric Tape Dispenser Zcut-2 Automatic Tape Cutting Machine"
         ],
         [
-          "",
+          "Masking or specialty tape",
           "Yueidung Automatic Tape Dispenser Rotary Disc Tape Cutting Machine"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "For High-Volume Packing Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "A genuine automatic or electric mechanism rather than a manual dispenser stretched past its comfortable use case."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "Solid Electric Tape Dispenser Zcut-2 Automatic Tape Cutting Machine is worth checking against its specific spec sheet before assuming any pick here covers your exact need."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need the strongest real-world performance and sturdiest build, where ZCUT-9GR Automatic Tape Dispenser Free to Set Up 6 Different Tape Length justifies the extra cost."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You want straightforward everyday use without paying for headroom you won't need, where NSA Blade Box/Blade Unit/Tape Cutter of Electric Automaitc Tape Dispenser Fits already covers the job at the lowest price here."
       }
     ]

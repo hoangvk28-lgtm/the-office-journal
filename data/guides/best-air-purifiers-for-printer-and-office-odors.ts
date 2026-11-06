@@ -53,15 +53,15 @@ export const heroImage = "https://m.media-amazon.com/images/I/419pAe7T0EL._SL500
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "",
+    "subheading": "By Filtration Type",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Certified True HEPA",
           "WINIX 5520 Air Purifier with PlasmaWave Technology"
         ],
         [
@@ -69,26 +69,26 @@ export const howToChoose: HowToChooseSection[] = [
           "WINIX 5520 Air Purifier with PlasmaWave Technology"
         ],
         [
-          "",
+          "Most-reviewed, strongest reliability signal",
           "LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom"
         ]
       ]
     }
   },
   {
-    "subheading": "",
+    "subheading": "By Budget",
     "table": {
       "headers": [
-        "",
-        ""
+        "Budget",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Under $81",
           "Germ Guardian True HEPA Filter Air Purifier for Home"
         ],
         [
-          "",
+          "Up to $230",
           "COWAY Air Purifier for Home Up to 1"
         ]
       ]
@@ -98,30 +98,30 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "Smart App-Connected vs Basic Manual Controls",
     "cards": [
       {
-        "label": "",
+        "label": "Smart, app-connected",
         "text": "Lets you monitor air quality and adjust fan speed remotely, useful if you want automation or scheduling. In this comparison: LEVOIT Smart Air Purifier for Home Large Room up to 1875 ft Vital 200S."
       },
       {
-        "label": "",
+        "label": "Basic manual controls",
         "text": "Simpler and usually cheaper, with nothing to set up or connect. In this comparison: COWAY Air Purifier for Home Up to 1, WINIX 5520 Air Purifier with PlasmaWave Technology, LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom, Germ Guardian True HEPA Filter Air Purifier for Home."
       }
     ],
     "note": "Default to basic manual controls unless you specifically want app-based monitoring or automation."
   },
   {
-    "subheading": "",
+    "subheading": "By Certified HEPA Filtration",
     "table": {
       "headers": [
-        "",
-        ""
+        "Your priority",
+        "Recommended pick"
       ],
       "rows": [
         [
-          "",
+          "Certified True HEPA needed",
           "WINIX 5520 Air Purifier with PlasmaWave Technology"
         ],
         [
-          "",
+          "Basic filtration is enough",
           "COWAY Air Purifier for Home Up to 1"
         ]
       ]
@@ -131,24 +131,24 @@ export const howToChoose: HowToChooseSection[] = [
     "subheading": "For Allergies or Pet Dander Specifically",
     "cards": [
       {
-        "label": "",
+        "label": "Look for",
         "text": "Certified True HEPA filtration with an H13 or higher rating, sized for a room at least as large as where it'll actually run."
       },
       {
-        "label": "",
+        "label": "In this comparison",
         "text": "WINIX 5520 Air Purifier with PlasmaWave Technology discloses certified True HEPA filtration."
       }
     ]
   },
   {
-    "subheading": "",
+    "subheading": "When to Spend More",
     "cards": [
       {
-        "label": "",
+        "label": "Spend more if",
         "text": "You need real odor, VOC, or large-room coverage, where COWAY Air Purifier for Home Up to 1's higher price buys real filtration or CADR headroom over the cheaper picks."
       },
       {
-        "label": "",
+        "label": "Save if",
         "text": "You're covering a small space with a basic dust or allergen concern, where Germ Guardian True HEPA Filter Air Purifier for Home covers the same job at a lower price."
       }
     ]
